@@ -40,6 +40,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [Remove SavePreMergeHeaderStep and test class](https://github.com/besu-eth/besu/pull/11210) - 2026-09-01
 * [Commit] [remove SavePreMergeHeaderStep (#11210)](https://github.com/besu-eth/besu/commit/143d44573a6925937ce03f3f373f5495b591f077) - 2026-09-01
 * [Review] [Review on: fix(snap): track global inflight gauge without cap](https://github.com/besu-eth/besu/pull/11123#pullrequestreview-5108551267) - 2026-09-04
+* [Pull Request] [Fix/sync signal reporting bugs](https://github.com/besu-eth/besu/pull/11262) - 2026-09-09
+* [Review] [Review on: Fix/sync signal reporting bugs](https://github.com/besu-eth/besu/pull/11262#pullrequestreview-5151496193) - 2026-09-09
+* [Issue] [Sync status reported incorrectly in three places (eth_syncing, ethstats, backward sync)](https://github.com/besu-eth/besu/issues/11260) - 2026-09-09
 ## Q2 2026
 
 

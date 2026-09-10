@@ -518,6 +518,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: do not abort validator monitor epoch summaries on unknown block roots (#10026)](https://github.com/ChainSafe/lodestar/commit/b4a608e68fee95cd2c9d66708925fdb051a27be8) - 2026-09-08
 * [Commit] [fix: check the parent envelope block root in chain segment assertion (#10033)](https://github.com/ChainSafe/lodestar/commit/b71ab45af3ff80a338533e82e628c7a8cf4145c3) - 2026-09-08
 * [Commit] [test: enable payload attestation spec tests (#10015)](https://github.com/ChainSafe/lodestar/commit/e25eb75f31210433e914ab09d98a6710c1565e44) - 2026-09-08
+* [Review] [Review on: refactor: simplify supported block proposal fields](https://github.com/ChainSafe/lodestar/pull/9993#pullrequestreview-5153964769) - 2026-09-09
+* [Pull Request] [feat: add NewPayloadRequest ssz types](https://github.com/ChainSafe/lodestar/pull/10051) - 2026-09-09
+* [Review] [Review on: test(builder): add builder sidecar kurtosis config and run script](https://github.com/ChainSafe/lodestar/pull/10010#pullrequestreview-5153914691) - 2026-09-09
+* [Review] [Review on: docs: document why BuilderPendingPayment.weight is safe as UintNum64](https://github.com/ChainSafe/lodestar/pull/10050#pullrequestreview-5159351906) - 2026-09-09
+* [Review] [Review on: fix: emit finalized_checkpoint event from fork choice finalized callback](https://github.com/ChainSafe/lodestar/pull/10035#pullrequestreview-5152287413) - 2026-09-09
+* [Review] [Review on: test(builder): cover Builder lifecycle regressions](https://github.com/ChainSafe/lodestar/pull/9932#pullrequestreview-5153861620) - 2026-09-09
+* [Review] [Review on: fix: emit head event when fork choice head changes on clock tick](https://github.com/ChainSafe/lodestar/pull/10036#pullrequestreview-5152775748) - 2026-09-09
+* [Review] [Review on: fix: reject attestation source epochs below the min-span lookback](https://github.com/ChainSafe/lodestar/pull/9999#pullrequestreview-5152650355) - 2026-09-09
+* [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-5152844585) - 2026-09-09
+* [Review] [Review on: chore: track awaiting queues of NetworkProcessor on Grafana](https://github.com/ChainSafe/lodestar/pull/10047#pullrequestreview-5152717846) - 2026-09-09
+* [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5152210965) - 2026-09-09
+* [Commit] [feat: add NewPayloadRequest ssz types (#10051)](https://github.com/ChainSafe/lodestar/commit/5f5feafbc406fec3cbd9f312727c0873968097df) - 2026-09-09
+* [Commit] [chore: rank and identify builder bid candidates in log (#9966)](https://github.com/ChainSafe/lodestar/commit/df6a2aa4292972613a8a915a59b604c53fba3904) - 2026-09-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -578,6 +591,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Bound the bid's gas limit against the parent execution payload](https://github.com/ethereum/consensus-specs/pull/5598#pullrequestreview-5130210461) - 2026-09-07
 * [Commit] [Clarify when to broadcast payload attestation messages (#5612)](https://github.com/ethereum/consensus-specs/commit/ad0058fd0d34c5dcf504fa51ea2f4f11077b9996) - 2026-09-08
 * [Commit] [Only serve canonical payload envelopes by range (#5608)](https://github.com/ethereum/consensus-specs/commit/aadfa06646c1e9c4ac9a7982507f40d1532fe9f6) - 2026-09-08
+* [Review] [Review on: Convert `NewPayloadRequest` from dataclass to container](https://github.com/ethereum/consensus-specs/pull/5619#pullrequestreview-5160048868) - 2026-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

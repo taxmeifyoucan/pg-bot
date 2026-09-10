@@ -479,6 +479,19 @@ Team: Erigon
 * [Review] [Review on: [r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23859#pullrequestreview-5137496713) - 2026-09-08
 * [Commit] [cl/antiquary: remove overlapping caplin state segments after each dump (#23471)](https://github.com/erigontech/erigon/commit/7923e7f117efd47c898312c6b7222c52195e2c6d) - 2026-09-08
 * [Commit] [execution/vm: rules-keyed precompile providers (#22217)](https://github.com/erigontech/erigon/commit/ebe3c028474d30ea3c6cc79f684869d47f7de085) - 2026-09-08
+* [Pull Request] [execution/commitment: keep the storage load flag with the storage identity when folding a storage row](https://github.com/erigontech/erigon/pull/23897) - 2026-09-10
+* [Pull Request] [execution/commitment: count the mount fold, drop commitment_unfolds_total](https://github.com/erigontech/erigon/pull/23892) - 2026-09-09
+* [Review] [Review on: execution/commitment: count the mount fold, drop commitment_unfolds_total](https://github.com/erigontech/erigon/pull/23892#pullrequestreview-5161997502) - 2026-09-10
+* [Review] [Review on: tracing: put the wire types on the JSON tracer's own step, drop gencodec](https://github.com/erigontech/erigon/pull/23881#pullrequestreview-5154402990) - 2026-09-09
+* [Review] [Review on: types: put the wire types on Withdrawal, drop gencodec](https://github.com/erigontech/erigon/pull/23879#pullrequestreview-5154402509) - 2026-09-09
+* [Review] [Review on: execution/engineapi, rpc/requests: wait for a poke to be pending before building](https://github.com/erigontech/erigon/pull/23818#pullrequestreview-5154403469) - 2026-09-09
+* [Review] [Review on: lint: enable `shadow` linter for `./db` pkgs (step 3)](https://github.com/erigontech/erigon/pull/23816#pullrequestreview-5154400780) - 2026-09-09
+* [Review] [Review on: mcp: move to `urfave/cli`](https://github.com/erigontech/erigon/pull/23819#pullrequestreview-5154401203) - 2026-09-09
+* [Review] [Review on: cl/network: make the slow-probe rotation test deterministic with synctest](https://github.com/erigontech/erigon/pull/23857#pullrequestreview-5154401647) - 2026-09-09
+* [Pull Request] [execution/commitment: drop duplicate hot-path metric counters](https://github.com/erigontech/erigon/pull/23882) - 2026-09-09
+* [Review] [Review on: engine_types, rpctest, protocol: drop gencodec tags that have no generator](https://github.com/erigontech/erigon/pull/23878#pullrequestreview-5154402054) - 2026-09-09
+* [Review] [Review on: lru: in jump-grow copy loop use `peek` instead `get`](https://github.com/erigontech/erigon/pull/23545#pullrequestreview-5154400386) - 2026-09-09
+* [Commit] [execution/commitment: drop duplicate hot-path metric counters (#23882)](https://github.com/erigontech/erigon/commit/ab8e9fde7ae523276c4f0efaf9794345d26c621c) - 2026-09-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

@@ -43,6 +43,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync lock while downloading (#4728)](https://github.com/status-im/nimbus-eth1/commit/a22c4e908ca75ad180e4b56327d230c8e0d7b3b0) - 2026-09-02
 * [Pull Request] [Snap2 sync provide coredb importer](https://github.com/status-im/nimbus-eth1/pull/4747) - 2026-09-04
 * [Commit] [Snap2 sync provide coredb importer (#4747)](https://github.com/status-im/nimbus-eth1/commit/bf5b488b49507c3d95d74ef52ca27d21ce0c3be8) - 2026-09-04
+* [Pull Request] [Snap2 beacon sync error handling and maint update](https://github.com/status-im/nimbus-eth1/pull/4770) - 2026-09-09
+* [Commit] [Snap2 beacon sync error handling and maint update (#4770)](https://github.com/status-im/nimbus-eth1/commit/351257840ea0d643d8e31ced2822f2e5139fcb62) - 2026-09-09
 ## Q2 2026
 
 

@@ -308,6 +308,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Dispose the pooled lists that trie path recovery abandons](https://github.com/NethermindEth/nethermind/pull/13266#pullrequestreview-5140890492) - 2026-09-08
 * [Commit] [Use independent version line for Bootnode releases (#13103)](https://github.com/NethermindEth/nethermind/commit/611da0941c0dd182840460a2953d77ab3016436f) - 2026-09-08
 * [Commit] [Reduce Bootnode memory and Nethermind discovery traffic (#13122)](https://github.com/NethermindEth/nethermind/commit/e47cf8b905dd9b7706b86f982325545d5702deb6) - 2026-09-08
+* [Pull Request] [Add a LiteRlpReader for explicit cursor decoding](https://github.com/NethermindEth/nethermind/pull/13303) - 2026-09-09
+* [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/NethermindEth/nethermind/pull/13313#pullrequestreview-5158067055) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

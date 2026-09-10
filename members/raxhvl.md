@@ -17,6 +17,9 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Pull Request] [Update EIP-8141: Remove a redundant check for frame's state gas limit](https://github.com/ethereum/EIPs/pull/12276) - 2026-09-01
 * [Commit] [Update EIP-8141: Remove a redundant check for frame's state gas limit](https://github.com/ethereum/EIPs/commit/b75cbe61150f09a44c38843be916417283d5b7bf) - 2026-09-01
 * [Review] [Review on: Update EIP-5920: Add `isEmitLog` flag](https://github.com/ethereum/EIPs/pull/12197#pullrequestreview-5124493795) - 2026-09-06
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(tests,forks): tests BAL early validation; refactor system contracts](https://github.com/ethereum/execution-specs/pull/3484#pullrequestreview-5149869835) - 2026-09-09
 ## Q2 2026
 
 

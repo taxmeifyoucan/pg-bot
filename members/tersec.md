@@ -152,6 +152,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use consensus specs execution payload envelope gossip tests](https://github.com/status-im/nimbus-eth2/pull/9001) - 2026-09-07
 * [Pull Request] [update to Nim 2.2.12](https://github.com/status-im/nimbus-eth2/pull/9015) - 2026-09-08
 * [Review] [Review on: use payload_attestation_deadline for blob data availaibility](https://github.com/status-im/nimbus-eth2/pull/9010#pullrequestreview-5136861896) - 2026-09-08
+* [Pull Request] [rm missing envelope request slot filters](https://github.com/status-im/nimbus-eth2/pull/9024) - 2026-09-10
+* [Review] [Review on: nix: disable stripping debug symbols](https://github.com/status-im/nimbus-eth2/pull/9022#pullrequestreview-5154159884) - 2026-09-09
+* [Review] [Review on: add focil fork choice](https://github.com/status-im/nimbus-eth2/pull/9021#pullrequestreview-5153182518) - 2026-09-09
+* [Pull Request] [use proposer preferences gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9017) - 2026-09-09
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -213,6 +217,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5077479090) - 2026-09-01
 * [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5127997070) - 2026-09-07
 * [Pull Request] [update to Nim 2.2.12](https://github.com/status-im/nimbus-eth1/pull/4761) - 2026-09-09
+* [Pull Request] [treat InvalidCmpOp and UnreachableElse warnings as errors](https://github.com/status-im/nimbus-eth1/pull/4763) - 2026-09-09
+* [Commit] [update to Nim 2.2.12 (#4761)](https://github.com/status-im/nimbus-eth1/commit/8712cf47188909c57968019c0a1aec6466cc335b) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

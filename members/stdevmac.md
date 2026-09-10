@@ -83,6 +83,15 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [test(jsonrpc): make Nethermind.JsonRpc.Test safe to run twice at once (#13204, #13249) (#13256)](https://github.com/NethermindEth/nethermind/commit/33a4c2ea3e4effcc3ac7e7a982db96c054112905) - 2026-09-08
 * [Commit] [feat(sync): make a stalled snap sync visible at default log level (#13248) (#13257)](https://github.com/NethermindEth/nethermind/commit/f1090ca5983e442f8741633d7b64de4a1e440322) - 2026-09-08
 * [Commit] [fix(rpc): stop unauthenticated input causing unhandled exceptions, empty 500s, leaked traces and WARN floods (#13194, #13195, #13197, #13198, #13156) (#13251)](https://github.com/NethermindEth/nethermind/commit/954e9dda04dbe1b17151ecb55860e14e4dfcb43b) - 2026-09-08
+* [Pull Request] [fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199)](https://github.com/NethermindEth/nethermind/pull/13308) - 2026-09-09
+* [Pull Request] [fix(snap): recover a stalled large-storage account and rate-limit the forced pivot (#13155, #13200)](https://github.com/NethermindEth/nethermind/pull/13310) - 2026-09-09
+* [Review] [Review on: fix(snap): recover a stalled large-storage account and rate-limit the forced pivot (#13155, #13200)](https://github.com/NethermindEth/nethermind/pull/13310#pullrequestreview-5160068562) - 2026-09-09
+* [Pull Request] [fix(sync): drain in-flight sync dispatch before database teardown (#13154)](https://github.com/NethermindEth/nethermind/pull/13309) - 2026-09-09
+* [Review] [Review on: fix(sync): drain in-flight sync dispatch before database teardown (#13154)](https://github.com/NethermindEth/nethermind/pull/13309#pullrequestreview-5160061767) - 2026-09-09
+* [Issue] [BlockDownloaderTests: 17 fixtures fail under the flat state backend](https://github.com/NethermindEth/nethermind/issues/13325) - 2026-09-09
+* [Commit] [fix(snap): recover a stalled large-storage account and rate-limit the forced pivot (#13155, #13200) (#13310)](https://github.com/NethermindEth/nethermind/commit/8e69b503a619b8f2052462f743ffb5208ef1040f) - 2026-09-09
+* [Commit] [fix(sync): drain in-flight sync dispatch before database teardown (#13154) (#13309)](https://github.com/NethermindEth/nethermind/commit/4d80e367a57ee077478866d21adf9b15becefaa5) - 2026-09-09
+* [Commit] [fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199) (#13308)](https://github.com/NethermindEth/nethermind/commit/53cb8bb3615730aef6b470e74f14fbe39154712e) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

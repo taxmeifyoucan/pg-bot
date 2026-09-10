@@ -36,6 +36,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(tests): drop stale EIP-8037 fork split in BAL insufficient-funds test](https://github.com/ethereum/execution-specs/pull/3545#pullrequestreview-5144254344) - 2026-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
+* [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09
 ## Q2 2026
 
 

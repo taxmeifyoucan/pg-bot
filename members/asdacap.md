@@ -200,6 +200,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Select flat Account index search automatically](https://github.com/NethermindEth/nethermind/pull/13260#pullrequestreview-5139624413) - 2026-09-08
 * [Commit] [chore(db): demote RocksDbMem log from info to debug (#13219)](https://github.com/NethermindEth/nethermind/commit/9396ea90bfd010999fff78dee7746c06fd6a8ccf) - 2026-09-08
 * [Commit] [Dispose sync peer allocations with using (#13094)](https://github.com/NethermindEth/nethermind/commit/232e6afa64c39d985bedbaf8f2e5a099c181f78f) - 2026-09-08
+* [Review] [Review on: test: fix flaky WaitForImprovedBlock_with_minTransactions payload retrieval](https://github.com/NethermindEth/nethermind/pull/13326#pullrequestreview-5161623540) - 2026-09-10
+* [Pull Request] [Exercise block downloader tests with flat and trie state backends](https://github.com/NethermindEth/nethermind/pull/13328) - 2026-09-09
+* [Review] [Review on: test: fix flaky prune_on_disk_multiple_times wait budget](https://github.com/NethermindEth/nethermind/pull/13327#pullrequestreview-5161621999) - 2026-09-10
+* [Review] [Review on: fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199)](https://github.com/NethermindEth/nethermind/pull/13308#pullrequestreview-5161010825) - 2026-09-09
 ## Q2 2026
 
 

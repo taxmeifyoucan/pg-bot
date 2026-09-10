@@ -141,6 +141,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns](https://github.com/Consensys-Incorporated/teku/pull/11250) - 2026-09-08
 * [Pull Request] [Avoid duplicate metric events in FCR](https://github.com/Consensys-Incorporated/teku/pull/11198) - 2026-09-08
 * [Commit] [Avoid duplicate metric events in FCR (#11198)](https://github.com/Consensys-Incorporated/teku/commit/c48f0225cc34203a39ed7c3c13dbcdc9a511902f) - 2026-09-08
+* [Pull Request] [fix specrefs for 1.7.0-beta0](https://github.com/Consensys-Incorporated/teku/pull/11255) - 2026-09-09
+* [Review] [Review on: Fix: OOM didn't force Teku to quit](https://github.com/Consensys-Incorporated/teku/pull/11241#pullrequestreview-5154813893) - 2026-09-09
+* [Review] [Review on: Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns](https://github.com/Consensys-Incorporated/teku/pull/11250#pullrequestreview-5154221850) - 2026-09-09
+* [Pull Request] [Update agents rules](https://github.com/Consensys-Incorporated/teku/pull/11252) - 2026-09-09
+* [Review] [Review on: Refactor `AbstractBlockPublisher`](https://github.com/Consensys-Incorporated/teku/pull/11253#pullrequestreview-5155286742) - 2026-09-09
+* [Commit] [fix specrefs for 1.7.0-beta0 (#11255)](https://github.com/Consensys-Incorporated/teku/commit/505f4f1dad1c9147b2435f516186c082b07946ec) - 2026-09-09
+* [Commit] [update agents rules: (#11252)](https://github.com/Consensys-Incorporated/teku/commit/488a89357e4823f4a93112fffbe2d7d113636769) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

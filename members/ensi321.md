@@ -97,6 +97,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5136948921) - 2026-09-08
 * [Review] [Review on: test: enable payload attestation spec tests](https://github.com/ChainSafe/lodestar/pull/10015#pullrequestreview-5137313589) - 2026-09-08
 * [Issue] [Attestation data can use a stale cached head on empty slots](https://github.com/ChainSafe/lodestar/issues/10038) - 2026-09-08
+* [Review] [Review on: fix: emit head event when fork choice head changes on clock tick](https://github.com/ChainSafe/lodestar/pull/10036#pullrequestreview-5150763979) - 2026-09-09
+* [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5149836094) - 2026-09-09
+* [Commit] [fix: emit head event when fork choice head changes on clock tick (#10036)](https://github.com/ChainSafe/lodestar/commit/58bd2c7c96d66fe0917b0bce3a8cd5b7b64b400e) - 2026-09-09
+* [Commit] [fix: emit finalized_checkpoint event from fork choice finalized callback (#10035)](https://github.com/ChainSafe/lodestar/commit/30d2b0bf521ce2b6e96f33f6b945b137cf579a2d) - 2026-09-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

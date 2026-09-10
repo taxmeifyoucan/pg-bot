@@ -77,6 +77,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Empty block metrics](https://github.com/besu-eth/besu/pull/11163#pullrequestreview-5098005221) - 2026-09-03
 * [Review] [Review on: snap/2 - reorg handling acceptance test](https://github.com/besu-eth/besu/pull/10957#pullrequestreview-5127419422) - 2026-09-07
 * [Review] [Review on: fix(bft): serialize BftMiningCoordinator lifecycle transitions](https://github.com/besu-eth/besu/pull/10887#pullrequestreview-5137739083) - 2026-09-08
+* [Pull Request] [snap/2 - integration tests for reorg](https://github.com/besu-eth/besu/pull/11261) - 2026-09-09
+* [Review] [Review on: snap/2 - integration tests for reorg](https://github.com/besu-eth/besu/pull/11261#pullrequestreview-5149946113) - 2026-09-09
 ## Q2 2026
 
 

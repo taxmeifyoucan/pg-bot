@@ -78,6 +78,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Cast `payload_attestion` vote earlier](https://github.com/Consensys-Incorporated/teku/issues/11249) - 2026-09-07
 * [Commit] [Consider builder bids during block production (#11209)](https://github.com/Consensys-Incorporated/teku/commit/e96cdac46e0fa79d42c7aa7bd5f5a58f8782f4e9) - 2026-09-07
 * [Commit] [Clean-up empty overrides (ValidatorTimingChannel) (#11230)](https://github.com/Consensys-Incorporated/teku/commit/ed63e99fc0bc29eb6b4efe3c52f8107a2bce6ccd) - 2026-09-07
+* [Pull Request] [Refactor `AbstractBlockPublisher`](https://github.com/Consensys-Incorporated/teku/pull/11253) - 2026-09-09
+* [Review] [Review on: Revert "update for the runners"](https://github.com/Consensys-Incorporated/teku/pull/11251#pullrequestreview-5153590332) - 2026-09-09
 ## Q2 2026
 
 

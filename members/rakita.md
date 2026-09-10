@@ -71,6 +71,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix: reconcile sibling state gas refills (#3893)](https://github.com/bluealloy/revm/commit/d23bb3a4b0c384b17adf060917016c3c9db1abe8) - 2026-09-07
 * [Pull Request] [chore: release v118](https://github.com/bluealloy/revm/pull/3901) - 2026-09-08
 * [Commit] [chore: release v118 (#3901)](https://github.com/bluealloy/revm/commit/30e94e471766ace1ed1c7457bf243e282aa51104) - 2026-09-08
+* [Pull Request] [chore: release v119](https://github.com/bluealloy/revm/pull/3904) - 2026-09-09
+* [Pull Request] [Revert "fix(eip8037): place the system call state-gas margin (#3892)"](https://github.com/bluealloy/revm/pull/3903) - 2026-09-09
+* [Commit] [chore: release v119 (#3904)](https://github.com/bluealloy/revm/commit/4535a5786fb90b25eebe2d5bb49d3954f1e6d546) - 2026-09-09
+* [Commit] [Revert "fix(eip8037): place the system call state-gas margin in the reservoir (#3892)" (#3903)](https://github.com/bluealloy/revm/commit/fa7c58b2f5adf80ddbbaa9f1f46fe966237f498f) - 2026-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -106,6 +110,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore(deps): bump revm to 43.0.1](https://github.com/paradigmxyz/reth/pull/27096) - 2026-09-08
 * [Pull Request] [test(evm): bump EEST fixtures to Glamsterdam v8.1.4](https://github.com/paradigmxyz/reth/pull/27099) - 2026-09-08
 * [Commit] [chore(deps): bump revm to 43.0.1 (#27096)](https://github.com/paradigmxyz/reth/commit/db702b511a9dfe5a80ef76685dd93652ffe37cc5) - 2026-09-08
+* [Pull Request] [chore(deps): bump revm to 43.0.2](https://github.com/paradigmxyz/reth/pull/27115) - 2026-09-09
+* [Commit] [chore(deps): bump revm to 43.0.2 (#27115)](https://github.com/paradigmxyz/reth/commit/8e55cc50c95cfd1675149aab7281fd87d751b3c8) - 2026-09-09
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 * [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23

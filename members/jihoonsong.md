@@ -118,6 +118,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Extend existing tests to cover Heze](https://github.com/ethereum/consensus-specs/pull/5615) - 2026-09-08
 * [Pull Request] [Use block's slot to validate max blobs in gossip](https://github.com/ethereum/consensus-specs/pull/5614) - 2026-09-08
 * [Commit] [Use block's slot to validate max blobs in gossip (#5614)](https://github.com/ethereum/consensus-specs/commit/636d2c9f3dc00e1bc1048f9374195b9e60175e29) - 2026-09-08
+* [Review] [Review on: Extend existing tests to cover Heze](https://github.com/ethereum/consensus-specs/pull/5615#pullrequestreview-5153133335) - 2026-09-09
+* [Review] [Review on: Compute max `DataColumnSidecar` size based on blob schedule](https://github.com/ethereum/consensus-specs/pull/5613#pullrequestreview-5155782789) - 2026-09-09
+* [Review] [Review on: Preserve packaged tests for release upload retries](https://github.com/ethereum/consensus-specs/pull/5616#pullrequestreview-5155572509) - 2026-09-09
+* [Commit] [Extend existing tests to cover Heze (#5615)](https://github.com/ethereum/consensus-specs/commit/11f44343a8a282e7a9c2dee46590e273a8a0348a) - 2026-09-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

@@ -183,6 +183,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Select flat Account index search automatically](https://github.com/NethermindEth/nethermind/pull/13260) - 2026-09-08
 * [Pull Request] [fix(trie): record inlined nodes as ambiguous when tracking past keys](https://github.com/NethermindEth/nethermind/pull/13274) - 2026-09-08
 * [Commit] [Fix BAL fetcher after peer allocation disposal migration (#13264)](https://github.com/NethermindEth/nethermind/commit/d66cfd50e0b6f492d8bc5d6b99be22e1821a55e4) - 2026-09-08
+* [Pull Request] [ci(rpc-bench): serve per-client snapshot sets on the arm64 runner](https://github.com/NethermindEth/nethermind/pull/13300) - 2026-09-09
+* [Review] [Review on: ci(rpc-bench): serve per-client snapshot sets on the arm64 runner](https://github.com/NethermindEth/nethermind/pull/13300#pullrequestreview-5155669248) - 2026-09-09
+* [Commit] [fix(trie): record inlined nodes as ambiguous when tracking past keys (#13274)](https://github.com/NethermindEth/nethermind/commit/c9199f96afd38079a834ab297f07daf9dff1bd38) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

@@ -226,6 +226,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Implement fast confirmation rule  (#17122)](https://github.com/OffchainLabs/prysm/commit/e038e27ca823917b52f19f0aece3140abc21a8cf) - 2026-09-07
 * [Review] [Review on: add progressive state schema](https://github.com/OffchainLabs/prysm/pull/17358#pullrequestreview-5142891513) - 2026-09-08
 * [Review] [Review on: Use `go-version-file` instead of pinned go version in Github Actions](https://github.com/OffchainLabs/prysm/pull/17466#pullrequestreview-5137257031) - 2026-09-08
+* [Review] [Review on: Read Gloas fork-choice spectest `head.payload_status` from the head object](https://github.com/OffchainLabs/prysm/pull/17473#pullrequestreview-5155795865) - 2026-09-09
+* [Review] [Review on: FCR spectest for `v1.7.0-beta.0`](https://github.com/OffchainLabs/prysm/pull/17467#pullrequestreview-5155831139) - 2026-09-09
+* [Review] [Review on: Reject bids with equal blockhash and parent blockhash](https://github.com/OffchainLabs/prysm/pull/17443#pullrequestreview-5155153495) - 2026-09-09
+* [Commit] [Bump consensus spec to v1.7.0-beta.0 (#17382)](https://github.com/OffchainLabs/prysm/commit/b8f58c5d5af7c385381d13f1662f25f2e17ce5b0) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

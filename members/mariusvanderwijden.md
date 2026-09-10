@@ -89,6 +89,9 @@ Team: Geth
 * [Review] [Review on: core: fix gas tracer and gas measurement](https://github.com/ethereum/go-ethereum/pull/35646#pullrequestreview-5130344938) - 2026-09-07
 * [Review] [Review on: core, eth: optimize chain segment insertion](https://github.com/ethereum/go-ethereum/pull/35652#pullrequestreview-5130468454) - 2026-09-07
 * [Review] [Review on: beacon, eth: fix hive failure](https://github.com/ethereum/go-ethereum/pull/35664#pullrequestreview-5130234442) - 2026-09-07
+* [Review] [Review on: internal/ethapi, core: align eth_simulateV1 blocks with the Amsterdam spec](https://github.com/ethereum/go-ethereum/pull/35668#pullrequestreview-5153011029) - 2026-09-09
+* [Review] [Review on: core, eth: add metrics for chain segment downloading](https://github.com/ethereum/go-ethereum/pull/35678#pullrequestreview-5152826149) - 2026-09-09
+* [Review] [Review on: internal/ethapi: avoid duplicate transfer logs in eth_simulateV1 post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/35617#pullrequestreview-5152386767) - 2026-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

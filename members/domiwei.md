@@ -119,6 +119,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.5] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23852#pullrequestreview-5134894342) - 2026-09-07
 * [Review] [Review on: cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23868#pullrequestreview-5147355679) - 2026-09-08
 * [Review] [Review on: [r3.5] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23852#pullrequestreview-5140655755) - 2026-09-08
+* [Pull Request] [cl: support Gloas-at-genesis state shape](https://github.com/erigontech/erigon/pull/23889) - 2026-09-09
+* [Commit] [cl: implement Gloas devnet 8 (#23548)](https://github.com/erigontech/erigon/commit/aab0c0b536c3c5e16b035b2f1bb2a8d45a4be8de) - 2026-09-10
 ## Q2 2026
 
 

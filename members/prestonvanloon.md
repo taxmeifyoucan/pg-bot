@@ -77,6 +77,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [hdiff: Use computed serialized size for slice capacity](https://github.com/OffchainLabs/prysm/pull/17427) - 2026-08-28
 * [Review] [Review on: hdiff: Use computed serialized size for slice capacity](https://github.com/OffchainLabs/prysm/pull/17427#pullrequestreview-5052362151) - 2026-08-28
 * [Commit] [hdiff: Use computed serialized size for slice capacity (#17427)](https://github.com/OffchainLabs/prysm/commit/163586bc23bcea575faad1c686df983789f400b9) - 2026-08-31
+* [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5158159664) - 2026-09-09
+* [Review] [Review on: Add missing Gloas case to saveStatesEfficientInternal](https://github.com/OffchainLabs/prysm/pull/17472#pullrequestreview-5156020465) - 2026-09-09
+* [Review] [Review on: Make fuzzer happy & Harden hdiff decoding](https://github.com/OffchainLabs/prysm/pull/17470#pullrequestreview-5156067766) - 2026-09-09
 ## Q2 2026
 
 

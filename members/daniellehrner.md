@@ -99,6 +99,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [fix(eth): break the transactionOfEncodedSize deadlock](https://github.com/besu-eth/besu/pull/11259) - 2026-09-08
 * [Commit] [Reject an empty EIP-7702 authorization list in validation, not in decoding (#11193)](https://github.com/besu-eth/besu/commit/53b95cd43964dadb85d44eaa2efaa233abc473cf) - 2026-09-08
 * [Commit] [engine: name executionRequests in the unsupported-request-type error (#11192)](https://github.com/besu-eth/besu/commit/5b86d0ba5271baeffa851e0f91fc93af1d7d6199) - 2026-09-08
+* [Pull Request] [Add missing INVALID_BLOCK_ACCESS_LIST engine error mapping](https://github.com/besu-eth/besu/pull/11264) - 2026-09-09
+* [Commit] [add missing error mapping (#11264)](https://github.com/besu-eth/besu/commit/b330564a94018e967eca22ad31cf2659f1a804bc) - 2026-09-09
+* [Commit] [fix(eth): break the transactionOfEncodedSize deadlock (#11259)](https://github.com/besu-eth/besu/commit/99918668353791ec55f56d05dbcda0b6bf358b82) - 2026-09-09
+* [Commit] [engine API: check an execution request's length before its type byte (#11194)](https://github.com/besu-eth/besu/commit/716c0c6d3d739d7b8a707182e76f620fb48dcf45) - 2026-09-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

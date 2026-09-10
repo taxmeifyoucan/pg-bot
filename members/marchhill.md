@@ -334,6 +334,26 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(cl): credit deposits committed by a successful frame](https://github.com/NethermindEth/nethermind/pull/13278) - 2026-09-08
 * [Review] [Review on: fix(cl): credit deposits committed by a successful frame](https://github.com/NethermindEth/nethermind/pull/13278#pullrequestreview-5144340104) - 2026-09-08
 * [Pull Request] [refactor(rlp): share the EIP-8141 frame receipt codec](https://github.com/NethermindEth/nethermind/pull/13287) - 2026-09-08
+* [Pull Request] [Bound frame transaction decoding and simulation on untrusted input](https://github.com/NethermindEth/nethermind/pull/13320) - 2026-09-09
+* [Review] [Review on: Bound frame transaction decoding and simulation on untrusted input](https://github.com/NethermindEth/nethermind/pull/13320#pullrequestreview-5160069972) - 2026-09-09
+* [Pull Request] [fix(eip8141): stop the receipt codec writing frame receipts it cannot read](https://github.com/NethermindEth/nethermind/pull/13321) - 2026-09-09
+* [Review] [Review on: fix(eip8141): stop the receipt codec writing frame receipts it cannot read](https://github.com/NethermindEth/nethermind/pull/13321#pullrequestreview-5160048735) - 2026-09-09
+* [Pull Request] [Pin the BAL no-op nonce probe and the zero-blob type-3 shape](https://github.com/NethermindEth/nethermind/pull/13319) - 2026-09-09
+* [Review] [Review on: Pin the BAL no-op nonce probe and the zero-blob type-3 shape](https://github.com/NethermindEth/nethermind/pull/13319#pullrequestreview-5159973972) - 2026-09-09
+* [Pull Request] [fix(txpool): count a leading SENDER frame's value and pin the gas filter's spec](https://github.com/NethermindEth/nethermind/pull/13317) - 2026-09-09
+* [Review] [Review on: fix(txpool): count a leading SENDER frame's value and pin the gas filter's spec](https://github.com/NethermindEth/nethermind/pull/13317#pullrequestreview-5160018415) - 2026-09-09
+* [Pull Request] [Keep the keyed nonce domain out of two account-nonce sites in the pool](https://github.com/NethermindEth/nethermind/pull/13318) - 2026-09-09
+* [Review] [Review on: Keep the keyed nonce domain out of two account-nonce sites in the pool](https://github.com/NethermindEth/nethermind/pull/13318#pullrequestreview-5160020036) - 2026-09-09
+* [Pull Request] [Charge a fresh keyed nonce as state gas](https://github.com/NethermindEth/nethermind/pull/13307) - 2026-09-09
+* [Review] [Review on: Charge a fresh keyed nonce as state gas](https://github.com/NethermindEth/nethermind/pull/13307#pullrequestreview-5155201116) - 2026-09-09
+* [Pull Request] [EIP-8250: read keyed sequences as their own nonce domain in the pool](https://github.com/NethermindEth/nethermind/pull/13305) - 2026-09-09
+* [Review] [Review on: EIP-8250: read keyed sequences as their own nonce domain in the pool](https://github.com/NethermindEth/nethermind/pull/13305#pullrequestreview-5155069854) - 2026-09-09
+* [Pull Request] [test(eip8141): tighten the frame transaction test fixtures](https://github.com/NethermindEth/nethermind/pull/13304) - 2026-09-09
+* [Review] [Review on: test(eip8141): tighten the frame transaction test fixtures](https://github.com/NethermindEth/nethermind/pull/13304#pullrequestreview-5155170363) - 2026-09-09
+* [Pull Request] [EIP-8141: revalidate the fork-gated frame checks when the head specification changes](https://github.com/NethermindEth/nethermind/pull/13306) - 2026-09-09
+* [Review] [Review on: EIP-8141: revalidate the fork-gated frame checks when the head specification changes](https://github.com/NethermindEth/nethermind/pull/13306#pullrequestreview-5155247878) - 2026-09-09
+* [Pull Request] [docs(eip8141): correct the frame-mode caller and document the public frame API](https://github.com/NethermindEth/nethermind/pull/13301) - 2026-09-09
+* [Review] [Review on: docs(eip8141): correct the frame-mode caller and document the public frame API](https://github.com/NethermindEth/nethermind/pull/13301#pullrequestreview-5155008474) - 2026-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

@@ -330,6 +330,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): cover a cross-frame state gas refund after a delegation spill (#3499)](https://github.com/ethereum/execution-specs/commit/814b31327b2f1f139fe5ffd7fd1c2e91e8f9e7e4) - 2026-09-02
 * [Pull Request] [refactor(tests): separate the gas window and receipt tests](https://github.com/ethereum/execution-specs/pull/3512) - 2026-09-03
 * [Commit] [refactor(tests): separate the gas window and receipt tests (#3512)](https://github.com/ethereum/execution-specs/commit/b462ba26e94f743511ec749754352d374838769b) - 2026-09-03
+* [Pull Request] [fix(tests): EIP-8037 - drop double-counted hash gas in code deposit guard](https://github.com/ethereum/execution-specs/pull/3554) - 2026-09-09
+* [Pull Request] [feat(tests): EIP-8037 - code deposit regular gas with a covering reservoir](https://github.com/ethereum/execution-specs/pull/3553) - 2026-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -369,6 +371,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: ci: update eest devnet fixtures to v8.1.4](https://github.com/erigontech/erigon/pull/23796#pullrequestreview-5112344637) - 2026-09-04
 * [Commit] [execution/vm: return state-gas to gas_left when a child merges (#23718)](https://github.com/erigontech/erigon/commit/ecb849c4415f51505148fc901cbff7b447edb03e) - 2026-09-04
 * [Pull Request] [build: give C++ deps the same cgo flags as C](https://github.com/erigontech/erigon/pull/23874) - 2026-09-08
+* [Pull Request] [build: compile the cgo deps with clang-22](https://github.com/erigontech/erigon/pull/23893) - 2026-09-09
+* [Review] [Review on: build, ci: require x86-64-v2 on amd64, drop the v1 release artifact](https://github.com/erigontech/erigon/pull/23877#pullrequestreview-5151117149) - 2026-09-09
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 

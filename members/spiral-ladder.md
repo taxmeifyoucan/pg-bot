@@ -223,6 +223,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: perf(ssz): hash dirty basic field roots directly](https://github.com/ChainSafe/lodestar-z/pull/615#pullrequestreview-5137048340) - 2026-09-08
 * [Review] [Review on: fix(shuffle): reject out-of-range numbers instead of coercing](https://github.com/ChainSafe/lodestar-z/pull/580#pullrequestreview-5136955611) - 2026-09-08
 * [Issue] [state transition metrics](https://github.com/ChainSafe/lodestar-z/issues/663) - 2026-09-08
+* [Review] [Review on: feat(metrics): record exported but unset state transition gauges](https://github.com/ChainSafe/lodestar-z/pull/662#pullrequestreview-5151145665) - 2026-09-09
+* [Review] [Review on: docs: add PR title and description guidelines](https://github.com/ChainSafe/lodestar-z/pull/640#pullrequestreview-5156110721) - 2026-09-09
+* [Review] [Review on: refactor(stf): remove unused epoch transition cache options](https://github.com/ChainSafe/lodestar-z/pull/667#pullrequestreview-5149688027) - 2026-09-09
+* [Review] [Review on: fix(ssz): reject noncanonical booleans in list and vector trees](https://github.com/ChainSafe/lodestar-z/pull/645#pullrequestreview-5152016100) - 2026-09-09
+* [Review] [Review on: perf(ssz): size progressive fixed lists without materializing values](https://github.com/ChainSafe/lodestar-z/pull/641#pullrequestreview-5152024413) - 2026-09-09
+* [Commit] [refactor(metrics): drop SSZ node-cache metrics (#666)](https://github.com/ChainSafe/lodestar-z/commit/5d35494f154087d092f2eee2a37f0c47ee89fa46) - 2026-09-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

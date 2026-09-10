@@ -188,6 +188,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [ Add EIP-8198 quick slots scaffolding as new SpecMilestone after Heze](https://github.com/Consensys-Incorporated/teku/pull/11245) - 2026-09-07
 * [Pull Request] [Add EIP-8359 reporting field to Heze BeaconBlockBody (POC)](https://github.com/Consensys-Incorporated/teku/pull/11244) - 2026-09-07
 * [Review] [Review on: Improve observability for sync committee subnets](https://github.com/Consensys-Incorporated/teku/pull/11201#pullrequestreview-5148445152) - 2026-09-09
+* [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/Consensys-Incorporated/teku/pull/11254#pullrequestreview-5160866964) - 2026-09-09
+* [Review] [Review on: Fix remaining CI runners](https://github.com/Consensys-Incorporated/teku/pull/11256#pullrequestreview-5160993000) - 2026-09-09
+* [Review] [Review on: fix specrefs for 1.7.0-beta0](https://github.com/Consensys-Incorporated/teku/pull/11255#pullrequestreview-5159147531) - 2026-09-09
+* [Pull Request] [Revert "update for the runners"](https://github.com/Consensys-Incorporated/teku/pull/11251) - 2026-09-09
+* [Commit] [Revert "update for the runners (#11217)" (#11251)](https://github.com/Consensys-Incorporated/teku/commit/9fc6b8cb54bed02fe0e8800d1e892510cab3cd85) - 2026-09-09
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

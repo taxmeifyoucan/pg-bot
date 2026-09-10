@@ -108,6 +108,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update nim-rocksdb to v11.8.1.0 (#4724)](https://github.com/status-im/nimbus-eth1/commit/a76e9688628f6080bc9314c4fd7d56db2f50aa27) - 2026-09-02
 * [Pull Request] [Avoid redundant seq copies when fetching KVT values](https://github.com/status-im/nimbus-eth1/pull/4759) - 2026-09-07
 * [Commit] [Avoid redundant seq copies when fetching KVT values (#4759)](https://github.com/status-im/nimbus-eth1/commit/74bf6dd8dcc31af22df25148d4e60e2490db9208) - 2026-09-08
+* [Pull Request] [Speed up jumpdest computation](https://github.com/status-im/nimbus-eth1/pull/4766) - 2026-09-09
+* [Pull Request] [Codebytes optimizations](https://github.com/status-im/nimbus-eth1/pull/4762) - 2026-09-09
+* [Commit] [Speed up jumpdest (#4766)](https://github.com/status-im/nimbus-eth1/commit/5de8f6bb453c2a1d3616faecccc04457172730db) - 2026-09-10
+* [Commit] [Codebytes optimizations (#4762)](https://github.com/status-im/nimbus-eth1/commit/8b63aacb7ae2fe023b6d7cb0cf34b7f59f24f5f1) - 2026-09-09
 ## Q2 2026
 
 

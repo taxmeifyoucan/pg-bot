@@ -251,6 +251,56 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(binary-dft): fuse long-stride stages through a staging tile (#2052)](https://github.com/Plonky3/Plonky3/commit/77ebf1f608f12dba3a874042f990dd764ba4ce87) - 2026-09-08
 * [Commit] [perf(binary-pcs): fold the codeword packed in the polynomial basis (#2053)](https://github.com/Plonky3/Plonky3/commit/e3e9e9b26a6280287dbc1576fe1720672ea9408b) - 2026-09-08
 * [Commit] [perf(field): route the self-algebra mixed dot product to the type's own dot product (#2050)](https://github.com/Plonky3/Plonky3/commit/92e7079d99c0500e799dbab06b7ff7be18bbec19) - 2026-09-08
+* [Pull Request] [fix(transcript): address the review follow-ups from the typed-transcript stack](https://github.com/Plonky3/Plonky3/pull/2117) - 2026-09-09
+* [Review] [Review on: fix(transcript): address the review follow-ups from the typed-transcript stack](https://github.com/Plonky3/Plonky3/pull/2117#pullrequestreview-5159014912) - 2026-09-09
+* [Review] [Review on: perf(ci): speed up slow test-suite tests](https://github.com/Plonky3/Plonky3/pull/2118#pullrequestreview-5158750296) - 2026-09-09
+* [Review] [Review on: feat(pcs)!: add batching grinding to STIR and Circle](https://github.com/Plonky3/Plonky3/pull/2112#pullrequestreview-5157071949) - 2026-09-09
+* [Review] [Review on: fix(binary-pcs)!: enforce composed opening security budgets](https://github.com/Plonky3/Plonky3/pull/2114#pullrequestreview-5156633104) - 2026-09-09
+* [Review] [Review on: perf(dft,matrix): optimize inverse DFT and matrix hot paths](https://github.com/Plonky3/Plonky3/pull/2113#pullrequestreview-5152985855) - 2026-09-09
+* [Review] [Review on: perf(sumcheck)!: fuse bind and measure across single-round calls and under suffix order](https://github.com/Plonky3/Plonky3/pull/2055#pullrequestreview-5151576513) - 2026-09-09
+* [Review] [Review on: Optimize Goldilocks and wasm-simd128 primitives](https://github.com/Plonky3/Plonky3/pull/2116#pullrequestreview-5156688765) - 2026-09-09
+* [Pull Request] [feat(security): check recorded grinding difficulties against the security model](https://github.com/Plonky3/Plonky3/pull/2109) - 2026-09-09
+* [Review] [Review on: feat(security): check recorded grinding difficulties against the security model](https://github.com/Plonky3/Plonky3/pull/2109#pullrequestreview-5154342544) - 2026-09-09
+* [Pull Request] [test(challenger): assert no two protocols share a transcript seed](https://github.com/Plonky3/Plonky3/pull/2108) - 2026-09-09
+* [Review] [Review on: test(challenger): assert no two protocols share a transcript seed](https://github.com/Plonky3/Plonky3/pull/2108#pullrequestreview-5154332653) - 2026-09-09
+* [Pull Request] [test(fri): pin every shape field to the transcript seed](https://github.com/Plonky3/Plonky3/pull/2107) - 2026-09-09
+* [Review] [Review on: test(fri): pin every shape field to the transcript seed](https://github.com/Plonky3/Plonky3/pull/2107#pullrequestreview-5154395843) - 2026-09-09
+* [Pull Request] [fix(security): reject non-canonical grinding witnesses at zero difficulty](https://github.com/Plonky3/Plonky3/pull/2106) - 2026-09-09
+* [Review] [Review on: fix(security): reject non-canonical grinding witnesses at zero difficulty](https://github.com/Plonky3/Plonky3/pull/2106#pullrequestreview-5153275584) - 2026-09-09
+* [Pull Request] [fix(binary-pcs): reject a non-canonical grinding witness at zero difficulty](https://github.com/Plonky3/Plonky3/pull/2105) - 2026-09-09
+* [Review] [Review on: fix(binary-pcs): reject a non-canonical grinding witness at zero difficulty](https://github.com/Plonky3/Plonky3/pull/2105#pullrequestreview-5154537910) - 2026-09-09
+* [Pull Request] [feat(whir)!: drive the plain WHIR transcript through the pattern player](https://github.com/Plonky3/Plonky3/pull/2104) - 2026-09-09
+* [Review] [Review on: feat(whir)!: drive the plain WHIR transcript through the pattern player](https://github.com/Plonky3/Plonky3/pull/2104#pullrequestreview-5154322761) - 2026-09-09
+* [Pull Request] [feat(sumcheck)!: drive the hiding sumcheck transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2103) - 2026-09-09
+* [Review] [Review on: feat(sumcheck)!: drive the hiding sumcheck transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2103#pullrequestreview-5153199048) - 2026-09-09
+* [Pull Request] [feat(multi-stark)!: type the statement-level transcript](https://github.com/Plonky3/Plonky3/pull/2102) - 2026-09-09
+* [Review] [Review on: feat(multi-stark)!: type the statement-level transcript](https://github.com/Plonky3/Plonky3/pull/2102#pullrequestreview-5153143401) - 2026-09-09
+* [Review] [Review on: feat(sumcheck)!: drive the quadratic sumcheck transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2081#pullrequestreview-5151483025) - 2026-09-09
+* [Review] [Review on: docs(merkle-tree): state the real bound on the staged row buffer](https://github.com/Plonky3/Plonky3/pull/2069#pullrequestreview-5151368846) - 2026-09-09
+* [Review] [Review on: ci: trim the build matrix and scope the Rust cache to main](https://github.com/Plonky3/Plonky3/pull/2115#pullrequestreview-5153618709) - 2026-09-09
+* [Pull Request] [test(binary-field): pin the packed lane backend to the scalar model](https://github.com/Plonky3/Plonky3/pull/2101) - 2026-09-09
+* [Review] [Review on: test(binary-field): pin the packed lane backend to the scalar model](https://github.com/Plonky3/Plonky3/pull/2101#pullrequestreview-5151874609) - 2026-09-09
+* [Review] [Review on: fix(security)!: enforce PCS budgets and compose multi-STARK soundness](https://github.com/Plonky3/Plonky3/pull/2100#pullrequestreview-5151399778) - 2026-09-09
+* [Review] [Review on: perf(binary-pcs): batch folds between Merkle commitments](https://github.com/Plonky3/Plonky3/pull/2097#pullrequestreview-5151617472) - 2026-09-09
+* [Review] [Review on: perf(binary-pcs): add opt-in grouped Merkle leaves](https://github.com/Plonky3/Plonky3/pull/2095#pullrequestreview-5151553583) - 2026-09-09
+* [Review] [Review on: perf(goldilocks): optimize scalar and packed arithmetic across backends](https://github.com/Plonky3/Plonky3/pull/2098#pullrequestreview-5151530961) - 2026-09-09
+* [Review] [Review on: feat(security): integrate legacy conjectured regime](https://github.com/Plonky3/Plonky3/pull/2064#pullrequestreview-5151312426) - 2026-09-09
+* [Review] [Review on: ci: reduce exhaustive test runtime](https://github.com/Plonky3/Plonky3/pull/2099#pullrequestreview-5150484100) - 2026-09-09
+* [Commit] [fix(transcript): address the review follow-ups from the typed-transcript stack (#2117)](https://github.com/Plonky3/Plonky3/commit/65056a6e6618e0c50e832a7987fb8c58fd27e3fc) - 2026-09-09
+* [Commit] [feat(security): check recorded grinding difficulties against the security model (#2109)](https://github.com/Plonky3/Plonky3/commit/017177a323a57562aa6c7a4b608e30020d3c972f) - 2026-09-09
+* [Commit] [test(challenger): assert no two protocols share a transcript seed (#2108)](https://github.com/Plonky3/Plonky3/commit/b2c35ee302ac2a2c3cd6fafd856c6df29109e5a5) - 2026-09-09
+* [Commit] [test(fri): pin every shape field to the transcript seed (#2107)](https://github.com/Plonky3/Plonky3/commit/dd8dc5a2c1e1788af3511fc5e46f84acca603975) - 2026-09-09
+* [Commit] [fix(security): reject non-canonical grinding witnesses at zero difficulty (#2106)](https://github.com/Plonky3/Plonky3/commit/07c4c99d5435de43a6146e6297eca4c5a6373ca3) - 2026-09-09
+* [Commit] [fix(binary-pcs): reject a non-canonical grinding witness at zero difficulty (#2105)](https://github.com/Plonky3/Plonky3/commit/a97e963c40f1adf56d5df352e4c888655306028b) - 2026-09-09
+* [Commit] [feat(whir)!: drive the plain WHIR transcript through the pattern player (#2104)](https://github.com/Plonky3/Plonky3/commit/8d764ed4d62a2921b4490f5862d3ac3454e39bce) - 2026-09-09
+* [Commit] [feat(sumcheck)!: drive the hiding sumcheck transcript through the typed Fiat-Shamir layer (#2103)](https://github.com/Plonky3/Plonky3/commit/5ccb14bd9fd78a682120ef3e4be8b40c738efa08) - 2026-09-09
+* [Commit] [feat(multi-stark)!: type the statement-level transcript (#2102)](https://github.com/Plonky3/Plonky3/commit/e77297ece1f70cf25a984b7104de7eb8cf26bbcc) - 2026-09-09
+* [Commit] [feat(sumcheck)!: drive the quadratic sumcheck transcript through the typed Fiat-Shamir layer (#2081)](https://github.com/Plonky3/Plonky3/commit/6351f47347a139a305ba9637dd4c2603ea6adffa) - 2026-09-09
+* [Commit] [docs(merkle-tree): state the real bound on the staged row buffer (#2069)](https://github.com/Plonky3/Plonky3/commit/a5b134f4ed90deea8937db2319393d91fe7601b2) - 2026-09-09
+* [Commit] [test(binary-field): pin the packed lane backend to the scalar model (#2101)](https://github.com/Plonky3/Plonky3/commit/d79e21aa3a52c3e38eba963c497701bf7dbb0477) - 2026-09-09
+* [Commit] [perf(binary-field): vectorize the polynomial-basis butterflies with a split twiddle (#2054)](https://github.com/Plonky3/Plonky3/commit/f4e958d30de763326e1f754eb6a82e3ac22be76f) - 2026-09-09
+* [Commit] [feat(multi-stark)!: drive the multi-STARK transcript through the typed Fiat-Shamir layer (#2093)](https://github.com/Plonky3/Plonky3/commit/4ad8732008f4810a745256e782a411571e13cd13) - 2026-09-09
+* [Commit] [feat(batch-stark)!: drive the batch-STARK transcript through the typed Fiat-Shamir layer (#2091)](https://github.com/Plonky3/Plonky3/commit/04f742e1d4f4d6028c5d82f62f91b41291c8bd29) - 2026-09-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

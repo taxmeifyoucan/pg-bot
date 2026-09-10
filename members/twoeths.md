@@ -224,6 +224,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5148927994) - 2026-09-09
 * [Pull Request] [fix: dos protection for NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10039) - 2026-09-08
 * [Review] [Review on: fix: dos protection for NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10039#pullrequestreview-5141911328) - 2026-09-08
+* [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5149359933) - 2026-09-09
+* [Review] [Review on: feat: track stateTransition steps in metrics](https://github.com/ChainSafe/lodestar/pull/10016#pullrequestreview-5150765070) - 2026-09-09
+* [Review] [Review on: fix: emit head event when fork choice head changes on clock tick](https://github.com/ChainSafe/lodestar/pull/10036#pullrequestreview-5149272199) - 2026-09-09
+* [Review] [Review on: fix: reject attestation source epochs below the min-span lookback](https://github.com/ChainSafe/lodestar/pull/9999#pullrequestreview-5152125597) - 2026-09-09
+* [Review] [Review on: fix: prune rejected payload envelopes from the seen cache in range sync](https://github.com/ChainSafe/lodestar/pull/10025#pullrequestreview-5150926565) - 2026-09-09
+* [Pull Request] [chore: track awaiting queues of NetworkProcessor on Grafana](https://github.com/ChainSafe/lodestar/pull/10047) - 2026-09-09
+* [Review] [Review on: chore: track awaiting queues of NetworkProcessor on Grafana](https://github.com/ChainSafe/lodestar/pull/10047#pullrequestreview-5150596370) - 2026-09-09
+* [Review] [Review on: fix: dos protection for NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10039#pullrequestreview-5150660556) - 2026-09-09
+* [Review] [Review on: fix(archive): prune by block and payload level data](https://github.com/ChainSafe/lodestar/pull/10022#pullrequestreview-5151197159) - 2026-09-09
+* [Commit] [chore: track awaiting queues of NetworkProcessor on Grafana (#10047)](https://github.com/ChainSafe/lodestar/commit/858e7b16e9ea23ea1852921b5bef56136f077b59) - 2026-09-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

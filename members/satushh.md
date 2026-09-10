@@ -66,6 +66,10 @@ Github: [@satushh](https://github.com/satushh)
 
 * [Review] [Review on: `POST graffiti`: Respond with `202` instead of `200` as per spec](https://github.com/OffchainLabs/prysm/pull/17449#pullrequestreview-5131143048) - 2026-09-07
 * [Commit] [Fix activation and exit queue ordering in GetValidatorQueue (#17442)](https://github.com/OffchainLabs/prysm/commit/fc4e5dfed7f24b7b62050c86d38bcae696022f0e) - 2026-09-07
+* [Pull Request] [Add missing Gloas case to saveStatesEfficientInternal](https://github.com/OffchainLabs/prysm/pull/17472) - 2026-09-09
+* [Review] [Review on: Read Gloas fork-choice spectest `head.payload_status` from the head object](https://github.com/OffchainLabs/prysm/pull/17473#pullrequestreview-5156342909) - 2026-09-09
+* [Commit] [Add missing Gloas case to saveStatesEfficientInternal (#17472)](https://github.com/OffchainLabs/prysm/commit/d0bf5464accd498bfb5a73164f7c0df147a8bcf1) - 2026-09-09
+* [Commit] [Add WithRPCClientDialer option to inject the execution node RPC client (#17334)](https://github.com/OffchainLabs/prysm/commit/6aea5918db9b62e40b2710b16610b0a8f76db09a) - 2026-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

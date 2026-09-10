@@ -374,6 +374,27 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): install the hash seed from the payload root (#13166)](https://github.com/NethermindEth/nethermind/commit/b2461eccc5c8949cd8c87b73abd93eb8a850a38a) - 2026-09-08
 * [Commit] [perf: cut the zkVM guest jumpdest scan to four instructions per byte (#13216)](https://github.com/NethermindEth/nethermind/commit/4ff834691058a5c2e0b1529d468a69d2e6c485ce) - 2026-09-08
 * [Commit] [perf: inline the small RlpReader members and drop dead hash compares (#13215)](https://github.com/NethermindEth/nethermind/commit/df289112a36a9174de329fc9aff785d7d9099d40) - 2026-09-08
+* [Review] [Review on: perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries](https://github.com/NethermindEth/nethermind/pull/13323#pullrequestreview-5160281691) - 2026-09-09
+* [Pull Request] [test: fix flaky WaitForImprovedBlock_with_minTransactions payload retrieval](https://github.com/NethermindEth/nethermind/pull/13326) - 2026-09-09
+* [Pull Request] [test: fix flaky prune_on_disk_multiple_times wait budget](https://github.com/NethermindEth/nethermind/pull/13327) - 2026-09-09
+* [Review] [Review on: fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199)](https://github.com/NethermindEth/nethermind/pull/13308#pullrequestreview-5159239480) - 2026-09-09
+* [Pull Request] [fix(network): stop the connect workers dialling past MaxActivePeers](https://github.com/NethermindEth/nethermind/pull/13302) - 2026-09-09
+* [Review] [Review on: fix(network): stop the connect workers dialling past MaxActivePeers](https://github.com/NethermindEth/nethermind/pull/13302#pullrequestreview-5156989536) - 2026-09-09
+* [Review] [Review on: Add a LiteRlpReader for explicit cursor decoding](https://github.com/NethermindEth/nethermind/pull/13303#pullrequestreview-5156374953) - 2026-09-09
+* [Pull Request] [perf: memoize keccak on the zkVM guest and route the bloom through it](https://github.com/NethermindEth/nethermind/pull/13217) - 2026-09-09
+* [Review] [Review on: fix(snap): recover a stalled large-storage account and rate-limit the forced pivot (#13155, #13200)](https://github.com/NethermindEth/nethermind/pull/13310#pullrequestreview-5159239931) - 2026-09-09
+* [Review] [Review on: fix(sync): drain in-flight sync dispatch before database teardown (#13154)](https://github.com/NethermindEth/nethermind/pull/13309#pullrequestreview-5159239711) - 2026-09-09
+* [Pull Request] [perf(zkevm): drop the software clz and the witness covariance checks](https://github.com/NethermindEth/nethermind/pull/13295) - 2026-09-09
+* [Commit] [perf: thread the RLP cursor through decode chains in registers (#13173)](https://github.com/NethermindEth/nethermind/commit/b65aa56af5c590f88f6251f6513fad9519ec6f16) - 2026-09-09
+* [Commit] [refactor(rpc): decompose JsonRpcProcessor into decoder, batch source and diagnostics (#13290)](https://github.com/NethermindEth/nethermind/commit/a9fa46372726564a4f7b4d2f02018229ad3b5368) - 2026-09-09
+* [Commit] [perf: memoize keccak on the zkVM guest and route the bloom through it (#13217)](https://github.com/NethermindEth/nethermind/commit/51bfc6a3956dc795a3fca2bee256d8c072e644ef) - 2026-09-09
+* [Commit] [perf(zkevm): drop the software clz and the witness covariance checks (#13295)](https://github.com/NethermindEth/nethermind/commit/3a98e081859bbcdd57aa0315698159b37d9a38b5) - 2026-09-09
+* [Commit] [fix: dispose the improvement context that replaces a retrieved payload (#13206)](https://github.com/NethermindEth/nethermind/commit/df655aef1fa773f991c46362ef0f9da15ceb39a7) - 2026-09-09
+* [Commit] [perf(zkevm): swap 64 bits at a time with masks the preinitialiser cannot fold (#13291)](https://github.com/NethermindEth/nethermind/commit/57f8985428aa75bc7c90cc584d4442462162422b) - 2026-09-09
+* [Commit] [perf(zkevm): drop the transaction-hash lock in the guest (#13297)](https://github.com/NethermindEth/nethermind/commit/8ceb7305839f9c496a460227187eafa90c8d6a54) - 2026-09-09
+* [Commit] [perf(zkevm): mix hash keys 32 bits at a time (#13293)](https://github.com/NethermindEth/nethermind/commit/3db8a12c83b62503be53d47892f7d76bdc49b62b) - 2026-09-09
+* [Commit] [perf(zkevm): keep resolved children resolved in the guest (#13294)](https://github.com/NethermindEth/nethermind/commit/fea3c5d036ad38b9751de065b37123f00f0a7bdc) - 2026-09-09
+* [Commit] [Add recovery of missing code (#9417)](https://github.com/NethermindEth/nethermind/commit/26153e79aa37854b2a7e313f4f8054514912db70) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

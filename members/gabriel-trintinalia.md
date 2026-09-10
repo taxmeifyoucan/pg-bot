@@ -46,6 +46,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224) - 2026-09-02
 * [Review] [Review on: feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224#pullrequestreview-5101727685) - 2026-09-03
 * [Commit] [feat: debug_executionWitness - Simplified EIP-8025 execution witness (#11224)](https://github.com/besu-eth/besu/commit/efa817c5abc989ef8bb82de14920518ce2a41173) - 2026-09-04
+* [Review] [Review on: Add missing INVALID_BLOCK_ACCESS_LIST engine error mapping](https://github.com/besu-eth/besu/pull/11264#pullrequestreview-5153067194) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

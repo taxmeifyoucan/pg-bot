@@ -149,6 +149,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Gloas spec beta 0](https://github.com/sigp/lighthouse/pull/10014) - 2026-09-08
 * [Review] [Review on: Gloas spec beta 0](https://github.com/sigp/lighthouse/pull/10014#pullrequestreview-5148756906) - 2026-09-09
 * [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5144826283) - 2026-09-08
+* [Pull Request] [Attestation slashing protection proofs](https://github.com/sigp/lighthouse/pull/10031) - 2026-09-09
+* [Pull Request] [Slashing protection pure check](https://github.com/sigp/lighthouse/pull/10028) - 2026-09-09
+* [Pull Request] [Attestation slashing protection exhaustive tests](https://github.com/sigp/lighthouse/pull/10027) - 2026-09-09
+* [Pull Request] [Add exhaustive tests for attestation slashing protection checks](https://github.com/sigp/lighthouse/pull/10026) - 2026-09-09
+* [Review] [Review on: Gloas spec beta 0](https://github.com/sigp/lighthouse/pull/10014#pullrequestreview-5149561717) - 2026-09-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

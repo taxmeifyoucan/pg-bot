@@ -142,6 +142,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Update security contact email to teku-security@consensys.com (#11222)](https://github.com/Consensys-Incorporated/teku/commit/49029e26746796ebc63340b4ef18b90185d19efc) - 2026-09-03
 * [Pull Request] [Compare gossip payload size against the compressed bound](https://github.com/Consensys-Incorporated/teku/pull/11223) - 2026-09-03
 * [Commit] [Compare gossip payload size against the compressed bound (#11223)](https://github.com/Consensys-Incorporated/teku/commit/20846ead95c8ab080cd9803c28d9d24d52be35bd) - 2026-09-03
+* [Pull Request] [Fix remaining CI runners](https://github.com/Consensys-Incorporated/teku/pull/11256) - 2026-09-09
+* [Commit] [Fix remaining CI runners (#11256)](https://github.com/Consensys-Incorporated/teku/commit/d407b6f863f9b656496239b788f5315e2f451a44) - 2026-09-10
 ## Q2 2026
 
 

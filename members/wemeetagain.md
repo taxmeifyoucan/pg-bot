@@ -170,6 +170,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(reqresp): floor rate-limiter request cost to at least 1 token](https://github.com/ChainSafe/lodestar/pull/10034#pullrequestreview-5147078334) - 2026-09-08
 * [Review] [Review on: fix: do not abort validator monitor epoch summaries on unknown block roots](https://github.com/ChainSafe/lodestar/pull/10026#pullrequestreview-5147095327) - 2026-09-08
 * [Review] [Review on: fix: check the parent envelope block root in chain segment assertion](https://github.com/ChainSafe/lodestar/pull/10033#pullrequestreview-5147027870) - 2026-09-08
+* [Review] [Review on: refactor: simplify supported block proposal fields](https://github.com/ChainSafe/lodestar/pull/9993#pullrequestreview-5159825785) - 2026-09-09
+* [Review] [Review on: feat: add NewPayloadRequest ssz types](https://github.com/ChainSafe/lodestar/pull/10051#pullrequestreview-5159909628) - 2026-09-09
+* [Review] [Review on: docs: document why BuilderPendingPayment.weight is safe as UintNum64](https://github.com/ChainSafe/lodestar/pull/10050#pullrequestreview-5158548323) - 2026-09-09
+* [Review] [Review on: chore: replace EF bootnodes with NodeOps fleet](https://github.com/ChainSafe/lodestar/pull/10049#pullrequestreview-5158799957) - 2026-09-09
+* [Review] [Review on: chore: rank and identify builder bid candidates in log](https://github.com/ChainSafe/lodestar/pull/9966#pullrequestreview-5158604314) - 2026-09-09
+* [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5155590931) - 2026-09-09
+* [Commit] [fix: reject attestation source epochs below the min-span lookback (#9999)](https://github.com/ChainSafe/lodestar/commit/72d1886ee4a74b32c0e4962339f6f687b81de5f7) - 2026-09-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -322,6 +329,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(metrics): record exported but unset state transition gauges](https://github.com/ChainSafe/lodestar-z/pull/662#pullrequestreview-5143276781) - 2026-09-08
 * [Review] [Review on: perf: use branchless swaps in shuffle](https://github.com/ChainSafe/lodestar-z/pull/661#pullrequestreview-5143130639) - 2026-09-08
 * [Review] [Review on: perf: fill reusable participation buffers directly](https://github.com/ChainSafe/lodestar-z/pull/660#pullrequestreview-5142927404) - 2026-09-08
+* [Pull Request] [perf(ssz): stream list tree reads into output values](https://github.com/ChainSafe/lodestar-z/pull/671) - 2026-09-09
+* [Pull Request] [refactor(ssz): share byte-list hashing with generic uint8 lists](https://github.com/ChainSafe/lodestar-z/pull/673) - 2026-09-09
+* [Pull Request] [perf(ssz): bound list hashing scratch with batched accumulation](https://github.com/ChainSafe/lodestar-z/pull/672) - 2026-09-09
+* [Review] [Review on: feat: partial validator monitor](https://github.com/ChainSafe/lodestar-z/pull/475#pullrequestreview-5157836700) - 2026-09-09
+* [Pull Request] [test: colocate memory safety tests with their modules](https://github.com/ChainSafe/lodestar-z/pull/670) - 2026-09-09
+* [Review] [Review on: refactor: remove unused state-transition surface](https://github.com/ChainSafe/lodestar-z/pull/668#pullrequestreview-5155374545) - 2026-09-09
+* [Review] [Review on: fix(state-transition): count validator filling withdrawal payload](https://github.com/ChainSafe/lodestar-z/pull/656#pullrequestreview-5155195856) - 2026-09-09
+* [Review] [Review on: fix: hash block body when converting to header](https://github.com/ChainSafe/lodestar-z/pull/657#pullrequestreview-5154839842) - 2026-09-09
+* [Review] [Review on: refactor(metrics): drop SSZ node-cache metrics](https://github.com/ChainSafe/lodestar-z/pull/666#pullrequestreview-5154802838) - 2026-09-09
+* [Review] [Review on: refactor(stf): remove unused epoch transition cache options](https://github.com/ChainSafe/lodestar-z/pull/667#pullrequestreview-5154792492) - 2026-09-09
+* [Commit] [docs: add PR title and description guidelines (#640)](https://github.com/ChainSafe/lodestar-z/commit/33a3f2fbebd14ecb083f57290721f4992d3fcadd) - 2026-09-09
+* [Commit] [test: colocate memory safety tests with their modules (#670)](https://github.com/ChainSafe/lodestar-z/commit/6846eea443a5abbb2e9f99b58fa863984dbb18a8) - 2026-09-09
+* [Commit] [fix(ssz): preserve container view state after failed child reads (#646)](https://github.com/ChainSafe/lodestar-z/commit/966bdc8ddc34305ff2989a6393156256a21f6de7) - 2026-09-09
+* [Commit] [fix: preserve participation view ownership on rotation failure (#643)](https://github.com/ChainSafe/lodestar-z/commit/660434cfd9953485ce31e1a008bd5a0937cc0791) - 2026-09-09
+* [Commit] [perf(ssz): avoid scratch allocation in chunked list serialization (#642)](https://github.com/ChainSafe/lodestar-z/commit/f16981bd97898380897853f6f114de0f205df187) - 2026-09-09
+* [Commit] [fix(ssz): reject noncanonical booleans in list and vector trees (#645)](https://github.com/ChainSafe/lodestar-z/commit/2e5aba3b5680ab7b58d5de3353e9f95afa38c015) - 2026-09-09
+* [Commit] [perf(ssz): size progressive fixed lists without materializing values (#641)](https://github.com/ChainSafe/lodestar-z/commit/f3dc6ff88d1b1f48d2021758eda2d6ab2f4a21a7) - 2026-09-09
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -169,6 +169,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(ci): test `execute`, `consume` and `check_eip_versions` via collect-only (#3451)](https://github.com/ethereum/execution-specs/commit/2b14816ba80796c1835b1aee3b7437467d6e5e84) - 2026-09-06
 * [Pull Request] [feat(tests): complete EIP-7981 coverage and testing checklist](https://github.com/ethereum/execution-specs/pull/3537) - 2026-09-07
 * [Pull Request] [refactor(spec-specs): clarify the EIP-7981 data surcharge](https://github.com/ethereum/execution-specs/pull/3536) - 2026-09-07
+* [Pull Request] [feat(ci): validate filled blockchain fixtures with EELS](https://github.com/ethereum/execution-specs/pull/3552) - 2026-09-09
+* [Pull Request] [fix(test-consume): group test cases by fixture file and bound the per-worker fixture cache](https://github.com/ethereum/execution-specs/pull/3555) - 2026-09-09
+* [Review] [Review on: feat(tooling): measure full block-validation coverage](https://github.com/ethereum/execution-specs/pull/3526#pullrequestreview-5152771915) - 2026-09-09
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -191,6 +194,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients/go-ethereum: update git dockerfile to golang 1.25 (#1605)](https://github.com/ethereum/hive/commit/b3534fdd9d4ba904ef3f1c688ac27f985e6136eb) - 2026-08-30
 * [Review] [Review on: clients: wire HIVE_TARGET_GAS_LIMIT for besu, erigon, reth, ethrex](https://github.com/ethereum/hive/pull/1603#pullrequestreview-5064571517) - 2026-08-31
 * [Pull Request] [internal/libhive,simulators/ethereum/eels: support optional authenticated GitHub clones, redact token from recorded commands](https://github.com/ethereum/hive/pull/1606) - 2026-09-03
+* [Pull Request] [internal/libhive: support simulator build configurations with --sim.file](https://github.com/ethereum/hive/pull/1607) - 2026-09-09
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

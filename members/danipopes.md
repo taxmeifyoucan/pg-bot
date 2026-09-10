@@ -63,6 +63,11 @@ Team: Reth
 * [Review] [Review on: perf(txpool): process insertion updates with one iterator](https://github.com/paradigmxyz/reth/pull/27064#pullrequestreview-5132797067) - 2026-09-07
 * [Review] [Review on: perf(engine): skip unused pool cleanup on BAL path](https://github.com/paradigmxyz/reth/pull/27074#pullrequestreview-5140780804) - 2026-09-08
 * [Review] [Review on: perf(engine): reserve canonical BAL account capacity](https://github.com/paradigmxyz/reth/pull/27079#pullrequestreview-5141015532) - 2026-09-08
+* [Review] [Review on: refactor: delegate fee calculations to Alloy](https://github.com/paradigmxyz/reth/pull/27123#pullrequestreview-5155301568) - 2026-09-09
+* [Review] [Review on: refactor(primitives): use Alloy receipt root calculation](https://github.com/paradigmxyz/reth/pull/27119#pullrequestreview-5154507658) - 2026-09-09
+* [Review] [Review on: refactor(rpc): use Alloy BlockId display](https://github.com/paradigmxyz/reth/pull/27120#pullrequestreview-5154519223) - 2026-09-09
+* [Review] [Review on: chore: prune unused zepter features](https://github.com/paradigmxyz/reth/pull/27118#pullrequestreview-5154263577) - 2026-09-09
+* [Review] [Review on: chore: remove mdbook leftovers](https://github.com/paradigmxyz/reth/pull/27117#pullrequestreview-5154257646) - 2026-09-09
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

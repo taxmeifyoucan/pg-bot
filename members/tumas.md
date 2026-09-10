@@ -28,6 +28,8 @@ Team: Grandine
 * [Review] [Review on: Check dependent roots of attestation targets for pool inclusion without performing slot processing](https://github.com/grandinetech/grandine/pull/891#pullrequestreview-5064054498) - 2026-08-31
 * [Review] [Review on: Gloas fork boundary envelope sync fix](https://github.com/grandinetech/grandine/pull/903#pullrequestreview-5102557144) - 2026-09-03
 * [Review] [Review on: Batched attestation handlers for performance reasons](https://github.com/grandinetech/grandine/pull/908#pullrequestreview-5112965859) - 2026-09-04
+* [Review] [Review on: Add missing ClientCode enum values](https://github.com/grandinetech/grandine/pull/915#pullrequestreview-5154298829) - 2026-09-09
+* [Review] [Review on: Update builder deposit cache so it handles some edge cases](https://github.com/grandinetech/grandine/pull/913#pullrequestreview-5152334761) - 2026-09-09
 ## Q2 2026
 
 

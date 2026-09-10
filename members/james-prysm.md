@@ -216,6 +216,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [add grace period to REST ptc endpoint (#17457)](https://github.com/OffchainLabs/prysm/commit/eec5e793ef4e3d7caad010fb4798eafd680e72c3) - 2026-09-04
 * [Commit] [removing TODO, and have wait for activation depend on health tracker (#17369)](https://github.com/OffchainLabs/prysm/commit/902b650cfeed1de72519c8e1081ba37e38305c39) - 2026-09-04
 * [Commit] [remote signer gloas (#16852)](https://github.com/OffchainLabs/prysm/commit/6c7106c668091b55a81d66417adc8dc79c3be187) - 2026-09-04
+* [Review] [Review on: gloas checkpoint sync withheld payload fix](https://github.com/OffchainLabs/prysm/pull/17458#pullrequestreview-5157027724) - 2026-09-09
+* [Pull Request] [Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475) - 2026-09-09
+* [Review] [Review on: Warn when a proposer settings file replaces per-key settings saved in the DB](https://github.com/OffchainLabs/prysm/pull/17455#pullrequestreview-5155368595) - 2026-09-09
+* [Commit] [slashing protection up to date for keys added mid run (#17411)](https://github.com/OffchainLabs/prysm/commit/8512330b352ad2e4964e894a2c11dda2bc042ade) - 2026-09-09
 ## Q2 2026
 
 

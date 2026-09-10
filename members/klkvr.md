@@ -76,6 +76,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22
+* [Review] [Review on: Revert "fix(eip8037): place the system call state-gas margin (#3892)"](https://github.com/bluealloy/revm/pull/3903#pullrequestreview-5153047289) - 2026-09-09
 ## Q2 2026
 
 

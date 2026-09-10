@@ -288,6 +288,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [only run AT timing task on merge to main, not PRs](https://github.com/besu-eth/besu/pull/11255) - 2026-09-08
 * [Pull Request] [fix(simulate): inherit parent block gasLimit in eth_simulateV1](https://github.com/besu-eth/besu/pull/11254) - 2026-09-08
 * [Review] [Review on: fix(simulate): inherit parent block gasLimit in eth_simulateV1](https://github.com/besu-eth/besu/pull/11254#pullrequestreview-5137154825) - 2026-09-08
+* [Pull Request] [fix(rocksdb): guard column-family handle lifecycle with ReadWriteLock](https://github.com/besu-eth/besu/pull/11269) - 2026-09-09
+* [Pull Request] [fix: guard RocksDB column-family handle lifecycle with ReadWriteLock](https://github.com/besu-eth/besu/pull/11268) - 2026-09-09
+* [Review] [Review on: Further improve the acceptance tests split mechanism](https://github.com/besu-eth/besu/pull/11265#pullrequestreview-5159844867) - 2026-09-09
+* [Issue] [RocksDBColumnarKeyValueStorage: column-family handle use-after-free during clear](https://github.com/besu-eth/besu/issues/11267) - 2026-09-09
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

@@ -199,6 +199,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [db/kv/membatchwithdb: fix Range merge and honor overlay deletions](https://github.com/erigontech/erigon/pull/23872) - 2026-09-08
 * [Pull Request] [rpc/jsonrpc: test the receipt cache against physically retired history](https://github.com/erigontech/erigon/pull/23871) - 2026-09-08
 * [Commit] [rpc/jsonrpc: acquire the overlay atomically in the block, tx, receipt, uncle and txpool getters (#23824)](https://github.com/erigontech/erigon/commit/d480c612a7d8f6b04eda7888f6bbd9b1b9685324) - 2026-09-08
+* [Review] [Review on: rpc/jsonrpc: test the receipt cache against physically retired history](https://github.com/erigontech/erigon/pull/23871#pullrequestreview-5159204530) - 2026-09-09
+* [Review] [Review on: tracing: number callTracer logs over the whole block](https://github.com/erigontech/erigon/pull/23797#pullrequestreview-5159160881) - 2026-09-09
+* [Commit] [rpc/jsonrpc: test the receipt cache against physically retired history (#23871)](https://github.com/erigontech/erigon/commit/1722aaefad61225d215be62fea0248bd17e64599) - 2026-09-09
+* [Commit] [tracing: number callTracer logs over the whole block (#23797)](https://github.com/erigontech/erigon/commit/dbdd5319008e0be19983be1268e56c7c665b85f0) - 2026-09-09
+* [Commit] [QA: update execution apis ref 6570b55 (#23873)](https://github.com/erigontech/erigon/commit/d65410505028949803b198efe2e7a97d5f635064) - 2026-09-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

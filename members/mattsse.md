@@ -693,6 +693,25 @@ Team: Reth
 * [Commit] [perf(trie): avoid staging drained storage addresses (#27080)](https://github.com/paradigmxyz/reth/commit/fb659d7c5ed3d3bb11f2be74cc74f176bb9532e1) - 2026-09-08
 * [Commit] [perf(trie): evaluate should_retain once per committed proof child (#26973)](https://github.com/paradigmxyz/reth/commit/a01f93dee0c9e984a144fb28e10e8022164268c4) - 2026-09-08
 * [Commit] [chore(deps): bump alloy to 2.4.2 (#27073)](https://github.com/paradigmxyz/reth/commit/3d62abaa172092552adf04720dfa701968429b2c) - 2026-09-08
+* [Pull Request] [chore(trie): trace CPU work and worker waits during root calculation](https://github.com/paradigmxyz/reth/pull/27134) - 2026-09-09
+* [Review] [Review on: refactor(rpc): use Alloy message signing helper](https://github.com/paradigmxyz/reth/pull/27132#pullrequestreview-5160130587) - 2026-09-09
+* [Pull Request] [perf(trie): skip subtrie scans for cached roots](https://github.com/paradigmxyz/reth/pull/27128) - 2026-09-09
+* [Pull Request] [perf: reuse computed storage roots during promotion](https://github.com/paradigmxyz/reth/pull/27124) - 2026-09-09
+* [Pull Request] [perf(trie): group leaf updates behind blinded children](https://github.com/paradigmxyz/reth/pull/27126) - 2026-09-09
+* [Review] [Review on: fix(rpc): hold blocking IO permits for call tasks](https://github.com/paradigmxyz/reth/pull/27106#pullrequestreview-5157934460) - 2026-09-09
+* [Review] [Review on: fix(rpc): hold tracing permits for proof tasks](https://github.com/paradigmxyz/reth/pull/27107#pullrequestreview-5156291672) - 2026-09-09
+* [Review] [Review on: fix(provider): preserve refreshed static file cache entries](https://github.com/paradigmxyz/reth/pull/27131#pullrequestreview-5156597871) - 2026-09-09
+* [Review] [Review on: chore(peers): replace EF bootnodes with NodeOps fleet](https://github.com/paradigmxyz/reth/pull/27130#pullrequestreview-5156347131) - 2026-09-09
+* [Pull Request] [perf(trie): borrow proof slices for subtrie reveal](https://github.com/paradigmxyz/reth/pull/27127) - 2026-09-09
+* [Review] [Review on: refactor: delegate fee calculations to Alloy](https://github.com/paradigmxyz/reth/pull/27123#pullrequestreview-5155659464) - 2026-09-09
+* [Pull Request] [perf(engine): reuse computed storage roots during promotion](https://github.com/paradigmxyz/reth/pull/27125) - 2026-09-09
+* [Review] [Review on: refactor(primitives): use Alloy receipt root calculation](https://github.com/paradigmxyz/reth/pull/27119#pullrequestreview-5154655966) - 2026-09-09
+* [Pull Request] [fix(net): release requests before flushing session disconnect](https://github.com/paradigmxyz/reth/pull/27121) - 2026-09-09
+* [Review] [Review on: refactor(rpc): use Alloy BlockId display](https://github.com/paradigmxyz/reth/pull/27120#pullrequestreview-5154700151) - 2026-09-09
+* [Review] [Review on: feat(snap-sync): track download attempts and prevent premature completion](https://github.com/paradigmxyz/reth/pull/27108#pullrequestreview-5153560926) - 2026-09-09
+* [Review] [Review on: chore(deps): bump revm to 43.0.2](https://github.com/paradigmxyz/reth/pull/27115#pullrequestreview-5153657009) - 2026-09-09
+* [Commit] [perf(engine): start trie proofs with an early update batch (#27093)](https://github.com/paradigmxyz/reth/commit/1da73cf352aab75e36df320b88b8099fb0245065) - 2026-09-09
+* [Commit] [fix(rpc): suppress synthetic transfer logs when EIP-7708 is active (#27110)](https://github.com/paradigmxyz/reth/commit/a70cde4c76d8ed4c1c904e00d52533ed5a157559) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

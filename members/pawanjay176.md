@@ -84,6 +84,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: `engine_getBlobsV4`](https://github.com/sigp/lighthouse/pull/9438#pullrequestreview-5145291609) - 2026-09-08
 * [Review] [Review on: Enable partials by default on custom networks](https://github.com/sigp/lighthouse/pull/9773#pullrequestreview-5145146535) - 2026-09-08
 * [Review] [Review on: Delete unused `engine_getPayloadBodiesByRange` client code](https://github.com/sigp/lighthouse/pull/10007#pullrequestreview-5145075889) - 2026-09-08
+* [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5149367708) - 2026-09-09
+* [Review] [Review on: `engine_getBlobsV4`](https://github.com/sigp/lighthouse/pull/9438#pullrequestreview-5158796551) - 2026-09-09
 ## Q2 2026
 
 

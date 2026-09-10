@@ -327,6 +327,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(flat): prevent warmer misses escaping through shared trie children](https://github.com/NethermindEth/nethermind/pull/13272#pullrequestreview-5142046772) - 2026-09-08
 * [Commit] [fix(flat): prevent warmer misses escaping through shared trie children (#13272)](https://github.com/NethermindEth/nethermind/commit/221c144bffbde4d68ef3e52fc3fb0b3a48879fe6) - 2026-09-08
 * [Commit] [perf(evm): name opcode handlers for profiler attribution (#13253)](https://github.com/NethermindEth/nethermind/commit/de52a92e43b217ca12ff361f933d51a39b055611) - 2026-09-08
+* [Review] [Review on: perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries](https://github.com/NethermindEth/nethermind/pull/13323#pullrequestreview-5160543088) - 2026-09-09
+* [Review] [Review on: fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199)](https://github.com/NethermindEth/nethermind/pull/13308#pullrequestreview-5158462491) - 2026-09-09
+* [Review] [Review on: fix(network): stop the connect workers dialling past MaxActivePeers](https://github.com/NethermindEth/nethermind/pull/13302#pullrequestreview-5155427070) - 2026-09-09
+* [Review] [Review on: fix(snap): recover a stalled large-storage account and rate-limit the forced pivot (#13155, #13200)](https://github.com/NethermindEth/nethermind/pull/13310#pullrequestreview-5158566143) - 2026-09-09
+* [Review] [Review on: fix(sync): drain in-flight sync dispatch before database teardown (#13154)](https://github.com/NethermindEth/nethermind/pull/13309#pullrequestreview-5158507027) - 2026-09-09
+* [Review] [Review on: chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/13322#pullrequestreview-5160213190) - 2026-09-09
+* [Pull Request] [Cache large BAL storage read sets by dense ordinal](https://github.com/NethermindEth/nethermind/pull/13316) - 2026-09-09
+* [Review] [Review on: Cache large BAL storage read sets by dense ordinal](https://github.com/NethermindEth/nethermind/pull/13316#pullrequestreview-5158908959) - 2026-09-09
+* [Review] [Review on: perf(zkevm): drop the software clz and the witness covariance checks](https://github.com/NethermindEth/nethermind/pull/13295#pullrequestreview-5155288218) - 2026-09-09
+* [Pull Request] [perf(bal): validate declared reads with worker-owned bitmaps](https://github.com/NethermindEth/nethermind/pull/13315) - 2026-09-09
+* [Pull Request] [perf(bal): bypass journaling for immutable parent reads](https://github.com/NethermindEth/nethermind/pull/13312) - 2026-09-09
+* [Pull Request] [perf(bal): cache the current account context](https://github.com/NethermindEth/nethermind/pull/13311) - 2026-09-09
+* [Review] [Review on: ci(rpc-bench): serve per-client snapshot sets on the arm64 runner](https://github.com/NethermindEth/nethermind/pull/13300#pullrequestreview-5154257514) - 2026-09-09
+* [Commit] [fix(flatdb): prune finalized forks from persisted snapshots (#13230)](https://github.com/NethermindEth/nethermind/commit/f96e3f71081a9cbc8978f3b58322a9758945e9c1) - 2026-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
