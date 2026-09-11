@@ -37,6 +37,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [EIP-8037: Settle child frame reservoir refills on parent's gas spilled (#11243)](https://github.com/besu-eth/besu/commit/7c97708c1abdb80f59c0f50b04282c0f1499de08) - 2026-09-07
 * [Review] [Review on: Make size primitive and initialized at build time](https://github.com/besu-eth/besu/pull/11258#pullrequestreview-5143034442) - 2026-09-08
 * [Review] [Review on: ci(dco): replace tim-actions/dco with actions/github-script](https://github.com/besu-eth/besu/pull/11257#pullrequestreview-5142949930) - 2026-09-08
+* [Review] [Review on: codeowners for evm](https://github.com/besu-eth/besu/pull/11159#pullrequestreview-5165862045) - 2026-09-10
+* [Review] [Review on: Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962#pullrequestreview-5167974669) - 2026-09-10
+* [Review] [Review on: fix broken JMH benchmarks](https://github.com/besu-eth/besu/pull/11245#pullrequestreview-5165666343) - 2026-09-10
 ## Q2 2026
 
 

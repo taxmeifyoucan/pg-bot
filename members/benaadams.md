@@ -341,6 +341,28 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(bal): cache the current account context](https://github.com/NethermindEth/nethermind/pull/13311) - 2026-09-09
 * [Review] [Review on: ci(rpc-bench): serve per-client snapshot sets on the arm64 runner](https://github.com/NethermindEth/nethermind/pull/13300#pullrequestreview-5154257514) - 2026-09-09
 * [Commit] [fix(flatdb): prune finalized forks from persisted snapshots (#13230)](https://github.com/NethermindEth/nethermind/commit/f96e3f71081a9cbc8978f3b58322a9758945e9c1) - 2026-09-09
+* [Pull Request] [perf: skip unobserved EVM logs based on tracer requirements](https://github.com/NethermindEth/nethermind/pull/13372) - 2026-09-10
+* [Review] [Review on: perf: skip unobserved EVM logs based on tracer requirements](https://github.com/NethermindEth/nethermind/pull/13372#pullrequestreview-5172744228) - 2026-09-10
+* [Review] [Review on: Add a LiteRlpReader for explicit cursor decoding](https://github.com/NethermindEth/nethermind/pull/13303#pullrequestreview-5166015080) - 2026-09-10
+* [Review] [Review on: perf(bal): bypass journaling for immutable parent reads](https://github.com/NethermindEth/nethermind/pull/13312#pullrequestreview-5172218666) - 2026-09-10
+* [Review] [Review on: fix(ethstats): stop a malformed ping timestamp from terminating the node](https://github.com/NethermindEth/nethermind/pull/13353#pullrequestreview-5172252684) - 2026-09-10
+* [Review] [Review on: perf(zk): analyze jump destinations incrementally](https://github.com/NethermindEth/nethermind/pull/13338#pullrequestreview-5165066968) - 2026-09-10
+* [Review] [Review on: fix(build): stop the RPC JSON context target from deadlocking solution builds](https://github.com/NethermindEth/nethermind/pull/13341#pullrequestreview-5164961129) - 2026-09-10
+* [Review] [Review on: perf: stream transaction roots through the indexed trie calculator](https://github.com/NethermindEth/nethermind/pull/13354#pullrequestreview-5171704088) - 2026-09-10
+* [Review] [Review on: perf(bal): validate declared reads with worker-owned bitmaps](https://github.com/NethermindEth/nethermind/pull/13315#pullrequestreview-5171888003) - 2026-09-10
+* [Review] [Review on: Guard rejected and abandoned task disposal failures](https://github.com/NethermindEth/nethermind/pull/13356#pullrequestreview-5172034590) - 2026-09-10
+* [Review] [Review on: perf(zk): index witness nodes in bounded hash buckets](https://github.com/NethermindEth/nethermind/pull/13337#pullrequestreview-5165103941) - 2026-09-10
+* [Review] [Review on: perf: drop redundant SSZ merkleization scratch clears](https://github.com/NethermindEth/nethermind/pull/13352#pullrequestreview-5166048943) - 2026-09-10
+* [Review] [Review on: perf(flatdb): read-path caching, bundle retention and a byte-capped snapshot window](https://github.com/NethermindEth/nethermind/pull/12400#pullrequestreview-5171952798) - 2026-09-10
+* [Review] [Review on: perf: stream withdrawal roots with the indexed trie calculator](https://github.com/NethermindEth/nethermind/pull/13355#pullrequestreview-5171707092) - 2026-09-10
+* [Review] [Review on: test(sync): preserve staged BAL timeout diagnostics](https://github.com/NethermindEth/nethermind/pull/13342#pullrequestreview-5165461721) - 2026-09-10
+* [Review] [Review on: Fix execution request recovery in stateless RPC inputs](https://github.com/NethermindEth/nethermind/pull/13346#pullrequestreview-5165581323) - 2026-09-10
+* [Review] [Review on: perf(core): specialize 64-byte Keccak cache hits](https://github.com/NethermindEth/nethermind/pull/13368#pullrequestreview-5171466390) - 2026-09-10
+* [Review] [Review on: perf: compute receipt roots without retaining a mutable trie](https://github.com/NethermindEth/nethermind/pull/13351#pullrequestreview-5165936175) - 2026-09-10
+* [Review] [Review on: Commit storage directly from surviving journal heads](https://github.com/NethermindEth/nethermind/pull/13340#pullrequestreview-5165025776) - 2026-09-10
+* [Review] [Review on: perf(trie): seek and patch full branches at fixed offsets](https://github.com/NethermindEth/nethermind/pull/13336#pullrequestreview-5165140038) - 2026-09-10
+* [Review] [Review on: perf(evm): trim initialized memory checks](https://github.com/NethermindEth/nethermind/pull/13358#pullrequestreview-5167959480) - 2026-09-10
+* [Commit] [Fix PoSSwitcher genesis nullability build error (#13367)](https://github.com/NethermindEth/nethermind/commit/fe1bc0408b1254e15b3ad2da48196e1e0de2250f) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

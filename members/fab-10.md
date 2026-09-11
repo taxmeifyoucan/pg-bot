@@ -212,6 +212,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: fix(eth): break the transactionOfEncodedSize deadlock](https://github.com/besu-eth/besu/pull/11259#pullrequestreview-5152864290) - 2026-09-09
 * [Pull Request] [Fix and improve the acceptance tests split mechanism](https://github.com/besu-eth/besu/pull/11263) - 2026-09-09
 * [Commit] [Fix and improve the acceptance tests split mechanism (#11263)](https://github.com/besu-eth/besu/commit/83d79591676a5a8086fbae6f3ed586a328e989d1) - 2026-09-09
+* [Pull Request] [Fix eth_estimateGas internal error related to value transfer tx](https://github.com/besu-eth/besu/pull/11272) - 2026-09-10
+* [Review] [Review on: newPayload SYNCING response when parent worldstate is not present](https://github.com/besu-eth/besu/pull/11242#pullrequestreview-5167611898) - 2026-09-10
+* [Review] [Review on: Further improve the acceptance tests split mechanism](https://github.com/besu-eth/besu/pull/11265#pullrequestreview-5164383205) - 2026-09-10
+* [Review] [Review on: ci(dco): replace tim-actions/dco with actions/github-script](https://github.com/besu-eth/besu/pull/11257#pullrequestreview-5164572476) - 2026-09-10
+* [Commit] [Further improve the acceptance tests split mechanism (#11265)](https://github.com/besu-eth/besu/commit/67e80df1bb72e32682f8a24108a1204a05fb33a8) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

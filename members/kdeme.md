@@ -126,6 +126,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [history exporter: write ere and era1 files via a tmp file (#4769)](https://github.com/status-im/nimbus-eth1/commit/107b9dd8e2a6cef0a20586c10dee8baac4f98197) - 2026-09-09
 * [Commit] [history exporter: support Electra/Fulu proofs + fix hoodi verify (#4768)](https://github.com/status-im/nimbus-eth1/commit/07ab035b2dc902d88f8a01cfafd4644541661ad6) - 2026-09-09
 * [Commit] [history exporter: log network mismatch when scanning for era files (#4765)](https://github.com/status-im/nimbus-eth1/commit/e3161fd9e6a1a8b5ca0a824e7734e4f5a9497a37) - 2026-09-09
+* [Pull Request] [Verify the genesis block of PoS only networks against the genesis data](https://github.com/status-im/nimbus-eth1/pull/4777) - 2026-09-10
+* [Pull Request] [Add block proof for Gloas and later](https://github.com/status-im/nimbus-eth1/pull/4776) - 2026-09-10
+* [Commit] [Verify the genesis block of PoS only networks against the genesis data (#4777)](https://github.com/status-im/nimbus-eth1/commit/6f59b7bc4658c0b9474ef520042f2166428d8b93) - 2026-09-10
+* [Commit] [Add block proof for Gloas and later (#4776)](https://github.com/status-im/nimbus-eth1/commit/c80069e6771a388a80d66012a927e91d0fe4cad7) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
@@ -141,6 +145,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix(tests): undecodable BAL is an invalid payload](https://github.com/ethereum/execution-specs/pull/3463#pullrequestreview-5049246361) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: specify activation-block deployment and BAL recording](https://github.com/ethereum/EIPs/pull/11991#pullrequestreview-4756542429) - 2026-07-22
+
+[ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
+* [Pull Request] [Add block proof for Gloas and later](https://github.com/ethereum/portal-network-specs/pull/416) - 2026-09-10
 ## Q2 2026
 
 

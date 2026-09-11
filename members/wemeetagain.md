@@ -177,6 +177,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: rank and identify builder bid candidates in log](https://github.com/ChainSafe/lodestar/pull/9966#pullrequestreview-5158604314) - 2026-09-09
 * [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5155590931) - 2026-09-09
 * [Commit] [fix: reject attestation source epochs below the min-span lookback (#9999)](https://github.com/ChainSafe/lodestar/commit/72d1886ee4a74b32c0e4962339f6f687b81de5f7) - 2026-09-09
+* [Review] [Review on: fix: batch verify payload attestation signatures in blocks](https://github.com/ChainSafe/lodestar/pull/10055#pullrequestreview-5168113611) - 2026-09-10
+* [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5168141787) - 2026-09-10
+* [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5168249216) - 2026-09-10
+* [Commit] [feat: enforce progressive list limits on deserialization (#10042)](https://github.com/ChainSafe/lodestar/commit/fd70e5fc15d4b0da5e49383c3d298e2b6245abf5) - 2026-09-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -346,6 +350,29 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [perf(ssz): avoid scratch allocation in chunked list serialization (#642)](https://github.com/ChainSafe/lodestar-z/commit/f16981bd97898380897853f6f114de0f205df187) - 2026-09-09
 * [Commit] [fix(ssz): reject noncanonical booleans in list and vector trees (#645)](https://github.com/ChainSafe/lodestar-z/commit/2e5aba3b5680ab7b58d5de3353e9f95afa38c015) - 2026-09-09
 * [Commit] [perf(ssz): size progressive fixed lists without materializing values (#641)](https://github.com/ChainSafe/lodestar-z/commit/f3dc6ff88d1b1f48d2021758eda2d6ab2f4a21a7) - 2026-09-09
+* [Review] [Review on: feat(metrics): report proposer rewards per type](https://github.com/ChainSafe/lodestar-z/pull/689#pullrequestreview-5171866264) - 2026-09-10
+* [Pull Request] [refactor(ssz): centralize chunked-leaf mutation bookkeeping](https://github.com/ChainSafe/lodestar-z/pull/690) - 2026-09-10
+* [Review] [Review on: feat: partial validator monitor](https://github.com/ChainSafe/lodestar-z/pull/475#pullrequestreview-5166856850) - 2026-09-10
+* [Pull Request] [fix: release benchmark hasher scratch](https://github.com/ChainSafe/lodestar-z/pull/688) - 2026-09-10
+* [Pull Request] [perf: stream compact proof generation](https://github.com/ChainSafe/lodestar-z/pull/683) - 2026-09-10
+* [Pull Request] [perf: stream progressive tree serialization](https://github.com/ChainSafe/lodestar-z/pull/686) - 2026-09-10
+* [Pull Request] [perf: bound progressive builder scratch](https://github.com/ChainSafe/lodestar-z/pull/687) - 2026-09-10
+* [Pull Request] [perf: bound progressive merkleization workspace](https://github.com/ChainSafe/lodestar-z/pull/685) - 2026-09-10
+* [Pull Request] [refactor: iterate compact proof reconstruction](https://github.com/ChainSafe/lodestar-z/pull/684) - 2026-09-10
+* [Pull Request] [refactor: bound variable vector hashing](https://github.com/ChainSafe/lodestar-z/pull/682) - 2026-09-10
+* [Pull Request] [refactor: bound fixed vector hashing](https://github.com/ChainSafe/lodestar-z/pull/681) - 2026-09-10
+* [Pull Request] [refactor: share bytelist tree conversion](https://github.com/ChainSafe/lodestar-z/pull/680) - 2026-09-10
+* [Pull Request] [perf: stream bitlist tree reads](https://github.com/ChainSafe/lodestar-z/pull/679) - 2026-09-10
+* [Pull Request] [fix: release bitlist json scratch](https://github.com/ChainSafe/lodestar-z/pull/677) - 2026-09-10
+* [Pull Request] [perf: bound bitlist hashing workspace](https://github.com/ChainSafe/lodestar-z/pull/678) - 2026-09-10
+* [Review] [Review on: fix: prevent duplicate Altair sync cache cleanup](https://github.com/ChainSafe/lodestar-z/pull/651#pullrequestreview-5166828177) - 2026-09-10
+* [Review] [Review on: refactor: remove redundant epoch benchmark reward synchronization](https://github.com/ChainSafe/lodestar-z/pull/668#pullrequestreview-5166807114) - 2026-09-10
+* [Review] [Review on: perf(state-transition): optimize slashing penalties](https://github.com/ChainSafe/lodestar-z/pull/676#pullrequestreview-5166786521) - 2026-09-10
+* [Commit] [refactor(pmt): compute proof descriptors with integer paths (#644)](https://github.com/ChainSafe/lodestar-z/commit/d4cc6b9e9b75c82315432b0b6d3794382051a7c3) - 2026-09-10
+* [Commit] [refactor(pmt): bound lazy hashing and compact proof depth (#647)](https://github.com/ChainSafe/lodestar-z/commit/52f5113c5b3b7d78e5bfca5f424f0a8eacd9fdf2) - 2026-09-10
+* [Commit] [perf(ssz): stream list tree reads into output values (#671)](https://github.com/ChainSafe/lodestar-z/commit/1ac2e518eb67bdb192a31373d28ab5274c195ddc) - 2026-09-10
+* [Commit] [perf(ssz): bound list hashing scratch with batched accumulation (#672)](https://github.com/ChainSafe/lodestar-z/commit/ef82b724021cddc63749fe4d1f8717ab1e2375ed) - 2026-09-10
+* [Commit] [refactor(ssz): share byte-list hashing with generic uint8 lists (#673)](https://github.com/ChainSafe/lodestar-z/commit/34cdddd7c8b7ed5bb7b65dab0e4781e2baa81437) - 2026-09-10
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

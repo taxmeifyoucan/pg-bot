@@ -172,6 +172,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(ci): validate filled blockchain fixtures with EELS](https://github.com/ethereum/execution-specs/pull/3552) - 2026-09-09
 * [Pull Request] [fix(test-consume): group test cases by fixture file and bound the per-worker fixture cache](https://github.com/ethereum/execution-specs/pull/3555) - 2026-09-09
 * [Review] [Review on: feat(tooling): measure full block-validation coverage](https://github.com/ethereum/execution-specs/pull/3526#pullrequestreview-5152771915) - 2026-09-09
+* [Review] [Review on: feat(ci): validate filled blockchain fixtures with EELS](https://github.com/ethereum/execution-specs/pull/3552#pullrequestreview-5167130665) - 2026-09-10
+* [Commit] [feat(ci): validate filled blockchain fixtures with EELS (#3552)](https://github.com/ethereum/execution-specs/commit/ffc7e0415d17de801c437504c707bce14628927b) - 2026-09-10
+* [Commit] [fix(test-consume): group test cases by fixture file and bound the per-worker fixture cache (#3555)](https://github.com/ethereum/execution-specs/commit/c998b45fe8645700f27cbd35a2b7a3a052884a5f) - 2026-09-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -195,6 +198,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: clients: wire HIVE_TARGET_GAS_LIMIT for besu, erigon, reth, ethrex](https://github.com/ethereum/hive/pull/1603#pullrequestreview-5064571517) - 2026-08-31
 * [Pull Request] [internal/libhive,simulators/ethereum/eels: support optional authenticated GitHub clones, redact token from recorded commands](https://github.com/ethereum/hive/pull/1606) - 2026-09-03
 * [Pull Request] [internal/libhive: support simulator build configurations with --sim.file](https://github.com/ethereum/hive/pull/1607) - 2026-09-09
+* [Pull Request] [simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609) - 2026-09-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

@@ -79,6 +79,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(test-specs,tests): exercise the EIP-8141 expiry verifier install at the fork transition](https://github.com/ethereum/execution-specs/pull/3539#pullrequestreview-5138619609) - 2026-09-08
 * [Review] [Review on: feat(spec-specs): expose state-independent transaction validation](https://github.com/ethereum/execution-specs/pull/3492#pullrequestreview-5139974412) - 2026-09-08
 * [Review] [Review on: feat(test-specs,tests): exercise the EIP-8141 expiry verifier install at the fork transition](https://github.com/ethereum/execution-specs/pull/3539#pullrequestreview-5151762742) - 2026-09-09
+* [Review] [Review on: feat(tests,forks): tests BAL early validation; refactor system contracts](https://github.com/ethereum/execution-specs/pull/3484#pullrequestreview-5165788633) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4980567794) - 2026-08-20
 * [Pull Request] [Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/pull/12212) - 2026-08-20

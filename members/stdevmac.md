@@ -92,6 +92,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(snap): recover a stalled large-storage account and rate-limit the forced pivot (#13155, #13200) (#13310)](https://github.com/NethermindEth/nethermind/commit/8e69b503a619b8f2052462f743ffb5208ef1040f) - 2026-09-09
 * [Commit] [fix(sync): drain in-flight sync dispatch before database teardown (#13154) (#13309)](https://github.com/NethermindEth/nethermind/commit/4d80e367a57ee077478866d21adf9b15becefaa5) - 2026-09-09
 * [Commit] [fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199) (#13308)](https://github.com/NethermindEth/nethermind/commit/53cb8bb3615730aef6b470e74f14fbe39154712e) - 2026-09-09
+* [Review] [Review on: ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014#pullrequestreview-5173513927) - 2026-09-11
+* [Review] [Review on: ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot](https://github.com/NethermindEth/nethermind/pull/13362#pullrequestreview-5169697014) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

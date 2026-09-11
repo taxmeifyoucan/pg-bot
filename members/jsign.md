@@ -36,6 +36,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): use annotated ssz to avoid type duplication](https://github.com/ethereum/execution-specs/pull/3455) - 2026-08-26
 * [Review] [Review on: feat(zkevm): use annotated ssz to avoid type duplication](https://github.com/ethereum/execution-specs/pull/3455#pullrequestreview-5032894554) - 2026-08-26
 * [Pull Request] [feat(zkevm): Reject noncanonical SSZ and catch guest validation errors](https://github.com/ethereum/execution-specs/pull/3531) - 2026-09-04
+* [Pull Request] [fix(filler): reset opcode count before generating fill results](https://github.com/ethereum/execution-specs/pull/3563) - 2026-09-11
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
@@ -68,6 +69,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat: update ere and ere-guests to v0.14.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/308#pullrequestreview-4820718953) - 2026-07-30
 * [Commit] [feat: remove zesu fork check since valid fixtures test byte-invalid inputs (#309)](https://github.com/eth-act/zkevm-benchmark-workload/commit/228a9228b1424c2216c78352763558ce1a7a268c) - 2026-07-30
 * [Pull Request] [Update to tests-zkevm@v0.8.2](https://github.com/eth-act/zkevm-benchmark-workload/pull/310) - 2026-08-26
+* [Pull Request] [Warn on mismatched EEST opcode count metadata](https://github.com/eth-act/zkevm-benchmark-workload/pull/311) - 2026-09-10
+* [Commit] [Warn on mismatched EEST opcode count metadata (#311)](https://github.com/eth-act/zkevm-benchmark-workload/commit/94c2684763d07578983d3f688afe087d4728d7f2) - 2026-09-10
+* [Commit] [Update to tests-zkevm@v0.8.2 (#310)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c0ccbcc992fc80faf0c1b8c9e35936a10afe842a) - 2026-09-10
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 

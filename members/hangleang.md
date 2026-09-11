@@ -84,6 +84,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Feature/consensus specs v1.7.0 beta.0](https://github.com/grandinetech/grandine/pull/914) - 2026-09-08
 * [Commit] [Add gas limit schedule config](https://github.com/grandinetech/grandine/commit/a31369259a0a5e2daa4777a12767015edeb577ca) - 2026-09-08
 * [Commit] [Resolve commitments through Gloas block](https://github.com/grandinetech/grandine/commit/1b5f706cdf461e8d4a7f9ad28ba51f8ab7f7edac) - 2026-09-08
+* [Pull Request] [Add builder blacklisting](https://github.com/grandinetech/grandine/pull/917) - 2026-09-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

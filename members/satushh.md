@@ -70,6 +70,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Read Gloas fork-choice spectest `head.payload_status` from the head object](https://github.com/OffchainLabs/prysm/pull/17473#pullrequestreview-5156342909) - 2026-09-09
 * [Commit] [Add missing Gloas case to saveStatesEfficientInternal (#17472)](https://github.com/OffchainLabs/prysm/commit/d0bf5464accd498bfb5a73164f7c0df147a8bcf1) - 2026-09-09
 * [Commit] [Add WithRPCClientDialer option to inject the execution node RPC client (#17334)](https://github.com/OffchainLabs/prysm/commit/6aea5918db9b62e40b2710b16610b0a8f76db09a) - 2026-09-09
+* [Review] [Review on: Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235#pullrequestreview-5170382351) - 2026-09-10
+* [Pull Request] [Add bulk `All` iterator to multi-value slice and use it for full validator reads](https://github.com/OffchainLabs/prysm/pull/17480) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

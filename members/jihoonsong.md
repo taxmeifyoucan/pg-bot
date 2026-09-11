@@ -122,6 +122,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Compute max `DataColumnSidecar` size based on blob schedule](https://github.com/ethereum/consensus-specs/pull/5613#pullrequestreview-5155782789) - 2026-09-09
 * [Review] [Review on: Preserve packaged tests for release upload retries](https://github.com/ethereum/consensus-specs/pull/5616#pullrequestreview-5155572509) - 2026-09-09
 * [Commit] [Extend existing tests to cover Heze (#5615)](https://github.com/ethereum/consensus-specs/commit/11f44343a8a282e7a9c2dee46590e273a8a0348a) - 2026-09-09
+* [Review] [Review on: Resolve outstanding Gloas test TODOs](https://github.com/ethereum/consensus-specs/pull/5617#pullrequestreview-5166277948) - 2026-09-10
+* [Review] [Review on: Convert `NewPayloadRequest` from dataclass to container](https://github.com/ethereum/consensus-specs/pull/5619#pullrequestreview-5166191655) - 2026-09-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

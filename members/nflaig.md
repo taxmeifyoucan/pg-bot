@@ -531,6 +531,26 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5152210965) - 2026-09-09
 * [Commit] [feat: add NewPayloadRequest ssz types (#10051)](https://github.com/ChainSafe/lodestar/commit/5f5feafbc406fec3cbd9f312727c0873968097df) - 2026-09-09
 * [Commit] [chore: rank and identify builder bid candidates in log (#9966)](https://github.com/ChainSafe/lodestar/commit/df6a2aa4292972613a8a915a59b604c53fba3904) - 2026-09-09
+* [Review] [Review on: feat: track stateTransition steps in metrics](https://github.com/ChainSafe/lodestar/pull/10016#pullrequestreview-5163368054) - 2026-09-10
+* [Review] [Review on: feat(builder): track proposer preferences](https://github.com/ChainSafe/lodestar/pull/9976#pullrequestreview-5163770151) - 2026-09-10
+* [Review] [Review on: feat(builder): observe beacon node blocks](https://github.com/ChainSafe/lodestar/pull/9931#pullrequestreview-5169440725) - 2026-09-10
+* [Review] [Review on: feat(builder): add bid ledger](https://github.com/ChainSafe/lodestar/pull/9975#pullrequestreview-5169905834) - 2026-09-10
+* [Review] [Review on: feat(builder): payload store](https://github.com/ChainSafe/lodestar/pull/9970#pullrequestreview-5169328641) - 2026-09-10
+* [Review] [Review on: feat(builder): bid policy](https://github.com/ChainSafe/lodestar/pull/9974#pullrequestreview-5169970794) - 2026-09-10
+* [Review] [Review on: test: verify imported block in unknown-block sync simulation](https://github.com/ChainSafe/lodestar/pull/10054#pullrequestreview-5169851264) - 2026-09-10
+* [Review] [Review on: feat: add produceBlockV4WithBid endpoint](https://github.com/ChainSafe/lodestar/pull/10057#pullrequestreview-5169639164) - 2026-09-10
+* [Pull Request] [refactor: derive gloas p2p max sizes from ssz types](https://github.com/ChainSafe/lodestar/pull/10053) - 2026-09-10
+* [Review] [Review on: refactor: derive gloas p2p max sizes from ssz types](https://github.com/ChainSafe/lodestar/pull/10053#pullrequestreview-5169149856) - 2026-09-10
+* [Review] [Review on: refactor(builder): builder identity polling](https://github.com/ChainSafe/lodestar/pull/10045#pullrequestreview-5163294444) - 2026-09-10
+* [Pull Request] [refactor: compute payload attributes once in `prepareForNextSlot`](https://github.com/ChainSafe/lodestar/pull/10056) - 2026-09-10
+* [Pull Request] [fix: batch verify payload attestation signatures in blocks](https://github.com/ChainSafe/lodestar/pull/10055) - 2026-09-10
+* [Review] [Review on: test: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5165313310) - 2026-09-10
+* [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5164055260) - 2026-09-10
+* [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5164969068) - 2026-09-10
+* [Review] [Review on: perf(state-transition): use native PTC sampling](https://github.com/ChainSafe/lodestar/pull/9903#pullrequestreview-5163841875) - 2026-09-10
+* [Review] [Review on: chore(deps): bump js-yaml from 4.3.1 to 4.3.2](https://github.com/ChainSafe/lodestar/pull/10052#pullrequestreview-5164061299) - 2026-09-10
+* [Review] [Review on: fix: fall back to finalized safe block](https://github.com/ChainSafe/lodestar/pull/10027#pullrequestreview-5163339606) - 2026-09-10
+* [Commit] [fix: batch verify payload attestation signatures in blocks (#10055)](https://github.com/ChainSafe/lodestar/commit/566a28844f9edf23027c7dfd6a423688cbb26984) - 2026-09-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -592,6 +612,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Clarify when to broadcast payload attestation messages (#5612)](https://github.com/ethereum/consensus-specs/commit/ad0058fd0d34c5dcf504fa51ea2f4f11077b9996) - 2026-09-08
 * [Commit] [Only serve canonical payload envelopes by range (#5608)](https://github.com/ethereum/consensus-specs/commit/aadfa06646c1e9c4ac9a7982507f40d1532fe9f6) - 2026-09-08
 * [Review] [Review on: Convert `NewPayloadRequest` from dataclass to container](https://github.com/ethereum/consensus-specs/pull/5619#pullrequestreview-5160048868) - 2026-09-09
+* [Review] [Review on: Add simple `CONTRIBUTING.md` file](https://github.com/ethereum/consensus-specs/pull/5621#pullrequestreview-5170711171) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

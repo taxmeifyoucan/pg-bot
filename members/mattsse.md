@@ -712,6 +712,41 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump revm to 43.0.2](https://github.com/paradigmxyz/reth/pull/27115#pullrequestreview-5153657009) - 2026-09-09
 * [Commit] [perf(engine): start trie proofs with an early update batch (#27093)](https://github.com/paradigmxyz/reth/commit/1da73cf352aab75e36df320b88b8099fb0245065) - 2026-09-09
 * [Commit] [fix(rpc): suppress synthetic transfer logs when EIP-7708 is active (#27110)](https://github.com/paradigmxyz/reth/commit/a70cde4c76d8ed4c1c904e00d52533ed5a157559) - 2026-09-09
+* [Pull Request] [perf(trie): scoped trie updates on top of storage trie jobs](https://github.com/paradigmxyz/reth/pull/27171) - 2026-09-10
+* [Pull Request] [feat(engine): make sparse trie cache retention configurable](https://github.com/paradigmxyz/reth/pull/27169) - 2026-09-10
+* [Pull Request] [perf(trie): fused hashing walk on top of storage trie jobs](https://github.com/paradigmxyz/reth/pull/27170) - 2026-09-10
+* [Pull Request] [perf(engine): run account subtrie updates inside checked-out jobs](https://github.com/paradigmxyz/reth/pull/27166) - 2026-09-10
+* [Pull Request] [perf(engine): run storage trie updates inside checked-out jobs](https://github.com/paradigmxyz/reth/pull/27156) - 2026-09-10
+* [Pull Request] [perf(engine): assemble BAL account values from revealed leaves](https://github.com/paradigmxyz/reth/pull/27167) - 2026-09-10
+* [Review] [Review on: refactor(trie): share bal post-state extraction](https://github.com/paradigmxyz/reth/pull/26600#pullrequestreview-5171917836) - 2026-09-10
+* [Pull Request] [perf(engine): compute storage roots off the sparse trie task](https://github.com/paradigmxyz/reth/pull/27151) - 2026-09-10
+* [Pull Request] [perf(trie): retry only unblocked leaf updates](https://github.com/paradigmxyz/reth/pull/27144) - 2026-09-10
+* [Pull Request] [perf(trie): seek sparse trie cursor on packed keys](https://github.com/paradigmxyz/reth/pull/27155) - 2026-09-10
+* [Pull Request] [perf(engine): assemble BAL account values from revealed leaves](https://github.com/paradigmxyz/reth/pull/27163) - 2026-09-10
+* [Pull Request] [perf(engine): size multiproof chunks of large target batches by worker count](https://github.com/paradigmxyz/reth/pull/27165) - 2026-09-10
+* [Pull Request] [perf(engine): run storage trie work on a dedicated shard pool](https://github.com/paradigmxyz/reth/pull/27162) - 2026-09-10
+* [Pull Request] [perf(engine): seed the sparse trie from the block access list](https://github.com/paradigmxyz/reth/pull/27161) - 2026-09-10
+* [Pull Request] [perf(trie): sparse trie coordinator integration](https://github.com/paradigmxyz/reth/pull/27159) - 2026-09-10
+* [Pull Request] [perf(engine): prove and hash storage tries on the proof workers](https://github.com/paradigmxyz/reth/pull/27160) - 2026-09-10
+* [Pull Request] [perf(trie): compact arena node layout](https://github.com/paradigmxyz/reth/pull/27157) - 2026-09-10
+* [Pull Request] [perf(trie): report touched leaf values to the sparse trie task](https://github.com/paradigmxyz/reth/pull/27158) - 2026-09-10
+* [Pull Request] [perf(trie): parallelize storage leaf application across accounts](https://github.com/paradigmxyz/reth/pull/27143) - 2026-09-10
+* [Pull Request] [perf(trie): collect updates from storage mutation candidates](https://github.com/paradigmxyz/reth/pull/27152) - 2026-09-10
+* [Pull Request] [perf(trie): retain persistence updates with owning subtries](https://github.com/paradigmxyz/reth/pull/27147) - 2026-09-10
+* [Pull Request] [perf(engine): retry storage leaves after relevant progress](https://github.com/paradigmxyz/reth/pull/27149) - 2026-09-10
+* [Pull Request] [perf(trie): sort compact leaf entries before nibble expansion](https://github.com/paradigmxyz/reth/pull/27150) - 2026-09-10
+* [Pull Request] [perf(trie): target storage proof revelation by batch address](https://github.com/paradigmxyz/reth/pull/27148) - 2026-09-10
+* [Pull Request] [perf(trie): gather hashing child results in one traversal](https://github.com/paradigmxyz/reth/pull/27142) - 2026-09-10
+* [Pull Request] [DNM: feat:  add EIP-8141 frame transaction support (#27153)](https://github.com/paradigmxyz/reth/pull/27154) - 2026-09-10
+* [Pull Request] [perf(trie): collect sparse trie updates only from touched tries](https://github.com/paradigmxyz/reth/pull/27146) - 2026-09-10
+* [Pull Request] [perf(trie): hash sparse branches in a single child pass](https://github.com/paradigmxyz/reth/pull/27145) - 2026-09-10
+* [Pull Request] [perf(trie): hash lower subtries in their arena slots](https://github.com/paradigmxyz/reth/pull/27140) - 2026-09-10
+* [Pull Request] [bench(trie): add arena sparse trie benchmarks](https://github.com/paradigmxyz/reth/pull/27141) - 2026-09-10
+* [Pull Request] [perf(trie): experiment with larger nested storage hashing jobs](https://github.com/paradigmxyz/reth/pull/27139) - 2026-09-10
+* [Pull Request] [perf(trie): experiment with outer-only storage root hashing](https://github.com/paradigmxyz/reth/pull/27138) - 2026-09-10
+* [Review] [Review on: fix(download): restore custom static files directory handling](https://github.com/paradigmxyz/reth/pull/27065#pullrequestreview-5168023302) - 2026-09-10
+* [Review] [Review on: docs: point layout.md at reth-core for moved crates](https://github.com/paradigmxyz/reth/pull/27135#pullrequestreview-5167678724) - 2026-09-10
+* [Commit] [chore(rpc): increase default transaction hash cache to 100k (#27137)](https://github.com/paradigmxyz/reth/commit/51faa4581408bd5fde806652269f6abaf235827c) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

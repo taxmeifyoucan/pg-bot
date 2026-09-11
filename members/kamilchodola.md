@@ -186,6 +186,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci(rpc-bench): serve per-client snapshot sets on the arm64 runner](https://github.com/NethermindEth/nethermind/pull/13300) - 2026-09-09
 * [Review] [Review on: ci(rpc-bench): serve per-client snapshot sets on the arm64 runner](https://github.com/NethermindEth/nethermind/pull/13300#pullrequestreview-5155669248) - 2026-09-09
 * [Commit] [fix(trie): record inlined nodes as ambiguous when tracking past keys (#13274)](https://github.com/NethermindEth/nethermind/commit/c9199f96afd38079a834ab297f07daf9dff1bd38) - 2026-09-09
+* [Review] [Review on: perf: skip unobserved EVM logs based on tracer requirements](https://github.com/NethermindEth/nethermind/pull/13372#pullrequestreview-5172663698) - 2026-09-10
+* [Review] [Review on: ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot](https://github.com/NethermindEth/nethermind/pull/13362#pullrequestreview-5169194963) - 2026-09-10
+* [Commit] [Don't treat configured FinalTotalDifficulty as TTD reached (#12555)](https://github.com/NethermindEth/nethermind/commit/4ac700584e82aaf649be24641c1bdba13c1f188e) - 2026-09-10
+* [Commit] [chore(deps): bump Nethermind.Numerics.Int256 to 1.8.0 (#13345)](https://github.com/NethermindEth/nethermind/commit/7a3f63edb1700875f717c7d4f2796acb0f81d2b6) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

@@ -36,6 +36,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5102220869) - 2026-09-03
 * [Review] [Review on: add PTC duty tracking to VC](https://github.com/status-im/nimbus-eth2/pull/8924#pullrequestreview-5132957479) - 2026-09-07
 * [Pull Request] [Fix IndexError crash in unstable (syncv3) related.](https://github.com/status-im/nimbus-eth2/pull/9016) - 2026-09-08
+* [Pull Request] [Rm missing sidecars request slot filters.](https://github.com/status-im/nimbus-eth2/pull/9027) - 2026-09-10
 ## Q2 2026
 
 

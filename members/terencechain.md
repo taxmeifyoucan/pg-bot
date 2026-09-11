@@ -230,6 +230,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: FCR spectest for `v1.7.0-beta.0`](https://github.com/OffchainLabs/prysm/pull/17467#pullrequestreview-5155831139) - 2026-09-09
 * [Review] [Review on: Reject bids with equal blockhash and parent blockhash](https://github.com/OffchainLabs/prysm/pull/17443#pullrequestreview-5155153495) - 2026-09-09
 * [Commit] [Bump consensus spec to v1.7.0-beta.0 (#17382)](https://github.com/OffchainLabs/prysm/commit/b8f58c5d5af7c385381d13f1662f25f2e17ce5b0) - 2026-09-09
+* [Pull Request] [Add the dependent root check to proposer preferences gossip](https://github.com/OffchainLabs/prysm/pull/17485) - 2026-09-10
+* [Pull Request] [Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484) - 2026-09-10
+* [Pull Request] [Ignore proposer preferences for pre-Gloas proposal slots](https://github.com/OffchainLabs/prysm/pull/17483) - 2026-09-10
+* [Pull Request] [Ignore bids from builders exited by the parent's payload](https://github.com/OffchainLabs/prysm/pull/17482) - 2026-09-10
+* [Review] [Review on: Remove `skipBlockSignaturesForTesting` bypass](https://github.com/OffchainLabs/prysm/pull/17461#pullrequestreview-5171684419) - 2026-09-10
+* [Review] [Review on: Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235#pullrequestreview-5171484473) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

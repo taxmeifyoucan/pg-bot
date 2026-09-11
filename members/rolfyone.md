@@ -193,6 +193,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: fix specrefs for 1.7.0-beta0](https://github.com/Consensys-Incorporated/teku/pull/11255#pullrequestreview-5159147531) - 2026-09-09
 * [Pull Request] [Revert "update for the runners"](https://github.com/Consensys-Incorporated/teku/pull/11251) - 2026-09-09
 * [Commit] [Revert "update for the runners (#11217)" (#11251)](https://github.com/Consensys-Incorporated/teku/commit/9fc6b8cb54bed02fe0e8800d1e892510cab3cd85) - 2026-09-09
+* [Review] [Review on: FCR Optimization part1: Speed up fast confirmation with memoization and one-pass chain scoring](https://github.com/Consensys-Incorporated/teku/pull/11212#pullrequestreview-5171860320) - 2026-09-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

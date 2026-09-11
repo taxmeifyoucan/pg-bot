@@ -70,6 +70,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix(lightclient): serve bootstrap for the checkpoint-sync anchor block](https://github.com/ChainSafe/lodestar/pull/9991) - 2026-09-03
 * [Commit] [feat: gloas lc support (#9687)](https://github.com/ChainSafe/lodestar/commit/0dbea0de1b39ab8d2064660dd074900ad04b3334) - 2026-09-03
 * [Pull Request] [fix(archive): prune by block and payload level data](https://github.com/ChainSafe/lodestar/pull/10022) - 2026-09-07
+* [Review] [Review on: fix: set finite gossipsub decode limits for control messages](https://github.com/ChainSafe/lodestar/pull/9117#pullrequestreview-5166089161) - 2026-09-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -229,6 +230,14 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(ssz): reject noncanonical booleans in list and vector trees](https://github.com/ChainSafe/lodestar-z/pull/645#pullrequestreview-5152016100) - 2026-09-09
 * [Review] [Review on: perf(ssz): size progressive fixed lists without materializing values](https://github.com/ChainSafe/lodestar-z/pull/641#pullrequestreview-5152024413) - 2026-09-09
 * [Commit] [refactor(metrics): drop SSZ node-cache metrics (#666)](https://github.com/ChainSafe/lodestar-z/commit/5d35494f154087d092f2eee2a37f0c47ee89fa46) - 2026-09-09
+* [Pull Request] [feat(metrics): report proposer rewards per type](https://github.com/ChainSafe/lodestar-z/pull/689) - 2026-09-10
+* [Review] [Review on: feat: partial validator monitor](https://github.com/ChainSafe/lodestar-z/pull/475#pullrequestreview-5163140733) - 2026-09-10
+* [Review] [Review on: refactor(ssz): share byte-list hashing with generic uint8 lists](https://github.com/ChainSafe/lodestar-z/pull/673#pullrequestreview-5163259460) - 2026-09-10
+* [Pull Request] [perf(state-transition): optimize slashing penalties](https://github.com/ChainSafe/lodestar-z/pull/676) - 2026-09-10
+* [Issue] [process slashings regression](https://github.com/ChainSafe/lodestar-z/issues/675) - 2026-09-10
+* [Commit] [feat(metrics): report proposer rewards per type (#689)](https://github.com/ChainSafe/lodestar-z/commit/d2eaabe75d21a816705acb62923a941d237d378f) - 2026-09-10
+* [Commit] [perf(state-transition): optimize slashing penalties (#676)](https://github.com/ChainSafe/lodestar-z/commit/b01424a11f647eeb3b6087850d47b9c36f6d251d) - 2026-09-10
+* [Commit] [feat(metrics): record exported but unset state transition gauges (#662)](https://github.com/ChainSafe/lodestar-z/commit/d57e89a4e05290615fbceeebd14b83a7f903ae98) - 2026-09-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

@@ -148,6 +148,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Refactor `AbstractBlockPublisher`](https://github.com/Consensys-Incorporated/teku/pull/11253#pullrequestreview-5155286742) - 2026-09-09
 * [Commit] [fix specrefs for 1.7.0-beta0 (#11255)](https://github.com/Consensys-Incorporated/teku/commit/505f4f1dad1c9147b2435f516186c082b07946ec) - 2026-09-09
 * [Commit] [update agents rules: (#11252)](https://github.com/Consensys-Incorporated/teku/commit/488a89357e4823f4a93112fffbe2d7d113636769) - 2026-09-09
+* [Review] [Review on: ignore bid from excited builders](https://github.com/Consensys-Incorporated/teku/pull/11239#pullrequestreview-5171026796) - 2026-09-10
+* [Review] [Review on: Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219#pullrequestreview-5169129488) - 2026-09-10
+* [Review] [Review on: Refactor `AbstractBlockPublisher`](https://github.com/Consensys-Incorporated/teku/pull/11253#pullrequestreview-5165804710) - 2026-09-10
+* [Review] [Review on: Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns](https://github.com/Consensys-Incorporated/teku/pull/11250#pullrequestreview-5166077265) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

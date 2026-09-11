@@ -123,6 +123,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Update cargo, nim and makefile version to 0.2.5 (#68)](https://github.com/OffchainLabs/hashtree/commit/30497cff98a06362eadde897202634f91d504fd8) - 2026-07-08
 * [Commit] [ci: open a PR for regenerated syso files instead of pushing to main (#66)](https://github.com/OffchainLabs/hashtree/commit/7a855641a40c266b4241e8bdbccdb4e4ec5336be) - 2026-07-08
 
+* [Review] [Review on: Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71#pullrequestreview-5170763302) - 2026-09-10
+* [Review] [Review on: Update syso files](https://github.com/OffchainLabs/hashtree/pull/70#pullrequestreview-5170747187) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873#pullrequestreview-4811214262) - 2026-07-29
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5118433697) - 2026-09-04

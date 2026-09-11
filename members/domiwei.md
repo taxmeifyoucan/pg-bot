@@ -121,6 +121,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.5] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23852#pullrequestreview-5140655755) - 2026-09-08
 * [Pull Request] [cl: support Gloas-at-genesis state shape](https://github.com/erigontech/erigon/pull/23889) - 2026-09-09
 * [Commit] [cl: implement Gloas devnet 8 (#23548)](https://github.com/erigontech/erigon/commit/aab0c0b536c3c5e16b035b2f1bb2a8d45a4be8de) - 2026-09-10
+* [Review] [Review on: cl/validator/devvalidator: count the envelope post before queueing its body](https://github.com/erigontech/erigon/pull/23910#pullrequestreview-5166019311) - 2026-09-10
+* [Review] [Review on: cl/phase1/network: read the blob count under the canonical root](https://github.com/erigontech/erigon/pull/23895#pullrequestreview-5164177355) - 2026-09-10
+* [Review] [Review on: cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23868#pullrequestreview-5164857325) - 2026-09-10
+* [Review] [Review on: [r3.6] cl/network: fix blob history backfill boundary and sparse-peer startup](https://github.com/erigontech/erigon/pull/23732#pullrequestreview-5166676002) - 2026-09-10
+* [Issue] [cl/snapshots: verify and repair blob snapshots before publication](https://github.com/erigontech/erigon/issues/23911) - 2026-09-10
+* [Issue] [snapshots: verify local blob sidecars and repair from official snapshots](https://github.com/erigontech/erigon/issues/23912) - 2026-09-10
 ## Q2 2026
 
 

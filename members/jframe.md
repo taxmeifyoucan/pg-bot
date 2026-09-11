@@ -79,6 +79,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix(bft): serialize BftMiningCoordinator lifecycle transitions](https://github.com/besu-eth/besu/pull/10887#pullrequestreview-5137739083) - 2026-09-08
 * [Pull Request] [snap/2 - integration tests for reorg](https://github.com/besu-eth/besu/pull/11261) - 2026-09-09
 * [Review] [Review on: snap/2 - integration tests for reorg](https://github.com/besu-eth/besu/pull/11261#pullrequestreview-5149946113) - 2026-09-09
+* [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-5163354768) - 2026-09-10
 ## Q2 2026
 
 

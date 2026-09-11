@@ -220,6 +220,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475) - 2026-09-09
 * [Review] [Review on: Warn when a proposer settings file replaces per-key settings saved in the DB](https://github.com/OffchainLabs/prysm/pull/17455#pullrequestreview-5155368595) - 2026-09-09
 * [Commit] [slashing protection up to date for keys added mid run (#17411)](https://github.com/OffchainLabs/prysm/commit/8512330b352ad2e4964e894a2c11dda2bc042ade) - 2026-09-09
+* [Review] [Review on: Use SSZ list framing for data column sidecars SSZ response](https://github.com/OffchainLabs/prysm/pull/17320#pullrequestreview-5168692533) - 2026-09-10
 ## Q2 2026
 
 

@@ -395,6 +395,51 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): mix hash keys 32 bits at a time (#13293)](https://github.com/NethermindEth/nethermind/commit/3db8a12c83b62503be53d47892f7d76bdc49b62b) - 2026-09-09
 * [Commit] [perf(zkevm): keep resolved children resolved in the guest (#13294)](https://github.com/NethermindEth/nethermind/commit/fea3c5d036ad38b9751de065b37123f00f0a7bdc) - 2026-09-09
 * [Commit] [Add recovery of missing code (#9417)](https://github.com/NethermindEth/nethermind/commit/26153e79aa37854b2a7e313f4f8054514912db70) - 2026-09-09
+* [Review] [Review on: perf: skip unobserved EVM logs based on tracer requirements](https://github.com/NethermindEth/nethermind/pull/13372#pullrequestreview-5172639284) - 2026-09-10
+* [Review] [Review on: Add a LiteRlpReader for explicit cursor decoding](https://github.com/NethermindEth/nethermind/pull/13303#pullrequestreview-5172274635) - 2026-09-10
+* [Review] [Review on: perf(bal): bypass journaling for immutable parent reads](https://github.com/NethermindEth/nethermind/pull/13312#pullrequestreview-5172094644) - 2026-09-10
+* [Review] [Review on: fix(ethstats): stop a malformed ping timestamp from terminating the node](https://github.com/NethermindEth/nethermind/pull/13353#pullrequestreview-5166713362) - 2026-09-10
+* [Pull Request] [perf(zk): analyze jump destinations incrementally](https://github.com/NethermindEth/nethermind/pull/13338) - 2026-09-10
+* [Pull Request] [fix(build): stop the RPC JSON context target from deadlocking solution builds](https://github.com/NethermindEth/nethermind/pull/13341) - 2026-09-10
+* [Pull Request] [perf: stream transaction roots through the indexed trie calculator](https://github.com/NethermindEth/nethermind/pull/13354) - 2026-09-10
+* [Review] [Review on: perf(bal): cache the current account context](https://github.com/NethermindEth/nethermind/pull/13311#pullrequestreview-5172098675) - 2026-09-10
+* [Review] [Review on: perf(bal): validate declared reads with worker-owned bitmaps](https://github.com/NethermindEth/nethermind/pull/13315#pullrequestreview-5172080561) - 2026-09-10
+* [Review] [Review on: Cache large BAL storage read sets by dense ordinal](https://github.com/NethermindEth/nethermind/pull/13316#pullrequestreview-5172071727) - 2026-09-10
+* [Review] [Review on: ci: disable Ethereum fixture coverage and remove legacy VM sharding](https://github.com/NethermindEth/nethermind/pull/13254#pullrequestreview-5172103300) - 2026-09-10
+* [Pull Request] [Guard rejected and abandoned task disposal failures](https://github.com/NethermindEth/nethermind/pull/13356) - 2026-09-10
+* [Pull Request] [perf(zk): index witness nodes in bounded hash buckets](https://github.com/NethermindEth/nethermind/pull/13337) - 2026-09-10
+* [Pull Request] [perf: drop redundant SSZ merkleization scratch clears](https://github.com/NethermindEth/nethermind/pull/13352) - 2026-09-10
+* [Pull Request] [perf: stream withdrawal roots with the indexed trie calculator](https://github.com/NethermindEth/nethermind/pull/13355) - 2026-09-10
+* [Pull Request] [Await context disposal in the non-empty getPayload test](https://github.com/NethermindEth/nethermind/pull/13357) - 2026-09-10
+* [Pull Request] [test(sync): preserve staged BAL timeout diagnostics](https://github.com/NethermindEth/nethermind/pull/13342) - 2026-09-10
+* [Pull Request] [Fix execution request recovery in stateless RPC inputs](https://github.com/NethermindEth/nethermind/pull/13346) - 2026-09-10
+* [Review] [Review on: perf(core): specialize 64-byte Keccak cache hits](https://github.com/NethermindEth/nethermind/pull/13368#pullrequestreview-5171413700) - 2026-09-10
+* [Pull Request] [perf: compute receipt roots without retaining a mutable trie](https://github.com/NethermindEth/nethermind/pull/13351) - 2026-09-10
+* [Pull Request] [Commit storage directly from surviving journal heads](https://github.com/NethermindEth/nethermind/pull/13340) - 2026-09-10
+* [Pull Request] [perf(trie): seek and patch full branches at fixed offsets](https://github.com/NethermindEth/nethermind/pull/13336) - 2026-09-10
+* [Review] [Review on: perf(evm): trim initialized memory checks](https://github.com/NethermindEth/nethermind/pull/13358#pullrequestreview-5168114627) - 2026-09-10
+* [Commit] [fix(build): stop the RPC JSON context target from deadlocking solution builds (#13341)](https://github.com/NethermindEth/nethermind/commit/67cf9ba410313faebbe97a87ea03744415984ff0) - 2026-09-10
+* [Commit] [perf(zk): analyze jump destinations incrementally (#13338)](https://github.com/NethermindEth/nethermind/commit/dfd4f6e5cad84115a3d609aabfab1f1d487a8833) - 2026-09-10
+* [Commit] [perf: stream transaction roots through the indexed trie calculator (#13354)](https://github.com/NethermindEth/nethermind/commit/d2120a53bcdd7eb4d2778900e9aa69dfd76c5143) - 2026-09-10
+* [Commit] [Guard rejected and abandoned task disposal failures (#13356)](https://github.com/NethermindEth/nethermind/commit/46231ac69efcdb92545070f61ad7ebf1d1f0bd7f) - 2026-09-10
+* [Commit] [perf(zk): index witness nodes in bounded hash buckets (#13337)](https://github.com/NethermindEth/nethermind/commit/9ab390d443d7899e0bcd5b0de6eecf9202a0d209) - 2026-09-10
+* [Commit] [perf: drop redundant SSZ merkleization scratch clears (#13352)](https://github.com/NethermindEth/nethermind/commit/d195ae7f0ba4ca62b48c4ad51e30939d18357461) - 2026-09-10
+* [Commit] [Await context disposal in the non-empty getPayload test (#13357)](https://github.com/NethermindEth/nethermind/commit/2f61baea77711799aec28f84aacd04b592fbcbb6) - 2026-09-10
+* [Commit] [test(sync): preserve staged BAL timeout diagnostics (#13342)](https://github.com/NethermindEth/nethermind/commit/b0dd13c45e441f6e2ff15a35d79ac2cdd1f98198) - 2026-09-10
+* [Commit] [Fix execution request recovery in stateless RPC inputs (#13346)](https://github.com/NethermindEth/nethermind/commit/5e26e8c469b7e608b4680c65ccbe107bf890befc) - 2026-09-10
+* [Commit] [perf: compute receipt roots without retaining a mutable trie (#13351)](https://github.com/NethermindEth/nethermind/commit/132492a2c9f6731c4a08bc45e01e4e832cfa98a1) - 2026-09-10
+* [Commit] [Commit storage directly from surviving journal heads (#13340)](https://github.com/NethermindEth/nethermind/commit/09ccfd5b0f9a0afd330f8d73c9c7fef7ef4db72c) - 2026-09-10
+* [Commit] [perf(trie): seek and patch full branches at fixed offsets (#13336)](https://github.com/NethermindEth/nethermind/commit/793261ca0d0bb75c8e6dd0b0a9c3b80955cd0b27) - 2026-09-10
+* [Commit] [test(sync): fit the BAL sync budget inside the CI hang dump timeout (#13344)](https://github.com/NethermindEth/nethermind/commit/31772fa713332f35a1dfb223cda13eaad8ed8ea1) - 2026-09-10
+* [Commit] [perf: skip unobserved logs during transaction prewarming (#13349)](https://github.com/NethermindEth/nethermind/commit/784ddd4af70d43105678af1a9de0a2c56c169e7a) - 2026-09-10
+* [Commit] [test: let the cancelled improvement disposal land after getPayload (#13343)](https://github.com/NethermindEth/nethermind/commit/4f50c9ba7226d6f2318c09ad938248f15dbb4a0f) - 2026-09-10
+* [Commit] [fix(network): stop the connect workers dialling past MaxActivePeers (#13302)](https://github.com/NethermindEth/nethermind/commit/268ed1dbc74e572071e589e9ca6bf31984ddf697) - 2026-09-10
+* [Commit] [perf(state): skip clearing discarded contract storage maps (#13335)](https://github.com/NethermindEth/nethermind/commit/0d93bb437889d4cc245dd2b0d451cf904f547d54) - 2026-09-10
+* [Commit] [perf: avoid scratch allocations in SSZ merkleization (#13331)](https://github.com/NethermindEth/nethermind/commit/84317ada539f3f6fcc2f08034a5d343d0c8190f7) - 2026-09-10
+* [Commit] [perf: reuse witness block tree during stateless execution (#13333)](https://github.com/NethermindEth/nethermind/commit/dcffb097292b21443b55428b22b008e8b614a3bd) - 2026-09-10
+* [Commit] [perf: remove unused code override hash (#13332)](https://github.com/NethermindEth/nethermind/commit/52d2b8f51efd208f86197fde10f72a0fc4ce8292) - 2026-09-10
+* [Commit] [test: fix flaky prune_on_disk_multiple_times wait budget (#13327)](https://github.com/NethermindEth/nethermind/commit/9fe98e14959382d76340d32833c66b26f7b98ae7) - 2026-09-10
+* [Commit] [test: fix flaky WaitForImprovedBlock_with_minTransactions payload retrieval (#13326)](https://github.com/NethermindEth/nethermind/commit/0a1ce9c73bef3dd064c1cc134a389bb6979826f9) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

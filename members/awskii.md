@@ -492,6 +492,27 @@ Team: Erigon
 * [Review] [Review on: engine_types, rpctest, protocol: drop gencodec tags that have no generator](https://github.com/erigontech/erigon/pull/23878#pullrequestreview-5154402054) - 2026-09-09
 * [Review] [Review on: lru: in jump-grow copy loop use `peek` instead `get`](https://github.com/erigontech/erigon/pull/23545#pullrequestreview-5154400386) - 2026-09-09
 * [Commit] [execution/commitment: drop duplicate hot-path metric counters (#23882)](https://github.com/erigontech/erigon/commit/ab8e9fde7ae523276c4f0efaf9794345d26c621c) - 2026-09-09
+* [Pull Request] [execution/blockmetrics: drop the copied consumer regex from the envelope test](https://github.com/erigontech/erigon/pull/23913) - 2026-09-10
+* [Review] [Review on: [r3.5] cl/phase1/network: read the blob count under the canonical root](https://github.com/erigontech/erigon/pull/23915#pullrequestreview-5170352603) - 2026-09-10
+* [Review] [Review on: mcp: move to `urfave/cli`](https://github.com/erigontech/erigon/pull/23819#pullrequestreview-5162884951) - 2026-09-10
+* [Review] [Review on: cl/validator/devvalidator: count the envelope post before queueing its body](https://github.com/erigontech/erigon/pull/23910#pullrequestreview-5165417545) - 2026-09-10
+* [Pull Request] [execution/commitment: hash the slot alone when deriving a root leaf's storage navigation path](https://github.com/erigontech/erigon/pull/23900) - 2026-09-10
+* [Pull Request] [execution/commitment: keep the storage extension as the navigation path when unfolding an account leaf at depth 64](https://github.com/erigontech/erigon/pull/23905) - 2026-09-10
+* [Review] [Review on: rlp, types: size decoded slices from an item count](https://github.com/erigontech/erigon/pull/23898#pullrequestreview-5165418987) - 2026-09-10
+* [Review] [Review on: ci: make the large-file check actually run, and test it](https://github.com/erigontech/erigon/pull/23902#pullrequestreview-5165420106) - 2026-09-10
+* [Review] [Review on: cl/phase1/network: read the blob count under the canonical root](https://github.com/erigontech/erigon/pull/23895#pullrequestreview-5164126732) - 2026-09-10
+* [Review] [Review on: [r3.5] cl/antiquary: back off retirement steps that keep failing](https://github.com/erigontech/erigon/pull/23914#pullrequestreview-5166957839) - 2026-09-10
+* [Review] [Review on: cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23868#pullrequestreview-5164126457) - 2026-09-10
+* [Review] [Review on: [r3.6] cl/network: fix blob history backfill boundary and sparse-peer startup](https://github.com/erigontech/erigon/pull/23732#pullrequestreview-5164127105) - 2026-09-10
+* [Review] [Review on: execution/cache: bound the code cache by bytes, not an assumed average](https://github.com/erigontech/erigon/pull/23790#pullrequestreview-5162198813) - 2026-09-10
+* [Pull Request] [execution/vm: stateful precompiles with their own gas and EVM re-entry](https://github.com/erigontech/erigon/pull/23903) - 2026-09-10
+* [Review] [Review on: execution/vm: stateful precompiles with their own gas and EVM re-entry](https://github.com/erigontech/erigon/pull/23903#pullrequestreview-5164694895) - 2026-09-10
+* [Pull Request] [execution/vm: chain-keyed precompile provider registry](https://github.com/erigontech/erigon/pull/23908) - 2026-09-10
+* [Review] [Review on: execution/engineapi, rpc/requests: wait for a poke to be pending before building](https://github.com/erigontech/erigon/pull/23818#pullrequestreview-5162879204) - 2026-09-10
+* [Pull Request] [execution/commitment: V3 commitment scheme](https://github.com/erigontech/erigon/pull/23904) - 2026-09-10
+* [Review] [Review on: execution/commitment: V3 commitment scheme](https://github.com/erigontech/erigon/pull/23904#pullrequestreview-5164975678) - 2026-09-10
+* [Review] [Review on: execution/types, rpc: filter eth_getLogs receipt logs straight into the result](https://github.com/erigontech/erigon/pull/23891#pullrequestreview-5162144938) - 2026-09-10
+* [Commit] [execution/blockmetrics: emit per-block execution metrics in the cross-client JSON format (#23764)](https://github.com/erigontech/erigon/commit/e0f10c2fe3e1e0961b3c927cbb95e99942a83ab6) - 2026-09-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

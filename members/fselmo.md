@@ -34,6 +34,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [feat(tests): EIP-8246 checklist, focus on #3217 items (#3533)](https://github.com/ethereum/execution-specs/commit/e5dc2e0ba79e5b62bce00379b1e0d56a392a8f0d) - 2026-09-07
 * [Review] [Review on: feat(tests): EIP-7928 - reject BALs that omit system-phase accesses](https://github.com/ethereum/execution-specs/pull/3551#pullrequestreview-5146047836) - 2026-09-08
 * [Review] [Review on: chore(tests): drop stale EIP-8037 fork split in BAL insufficient-funds test](https://github.com/ethereum/execution-specs/pull/3545#pullrequestreview-5144254344) - 2026-09-08
+* [Pull Request] [chore(skill): refresh skills](https://github.com/ethereum/execution-specs/pull/3562) - 2026-09-10
+* [Review] [Review on: feat(tests,forks): tests BAL early validation; refactor system contracts](https://github.com/ethereum/execution-specs/pull/3484#pullrequestreview-5169004752) - 2026-09-10
+* [Commit] [feat(tests,forks): tests BAL early validation; refactor system contracts (#3484)](https://github.com/ethereum/execution-specs/commit/622620d84a70efe1337abdafaecd7bdfeb254b92) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

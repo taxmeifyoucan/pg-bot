@@ -284,6 +284,19 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [Define which EIPs may add tests](https://github.com/ethereum/consensus-specs/issues/5618) - 2026-09-09
 * [Commit] [Compute max `DataColumnSidecar` size based on blob schedule (#5613)](https://github.com/ethereum/consensus-specs/commit/4546169e06513035b45dc2e18ea7c909325bdd87) - 2026-09-09
 * [Commit] [Preserve packaged tests for release upload retries (#5616)](https://github.com/ethereum/consensus-specs/commit/f2f88361a83a147076582e545a47b2bd10a579bd) - 2026-09-09
+* [Pull Request] [Clean up Makefile](https://github.com/ethereum/consensus-specs/pull/5628) - 2026-09-11
+* [Review] [Review on: Refine EIP-8025 `ProofData` type and gossip validation logic](https://github.com/ethereum/consensus-specs/pull/5593#pullrequestreview-5168344017) - 2026-09-10
+* [Pull Request] [Add simple `CONTRIBUTING.md` file](https://github.com/ethereum/consensus-specs/pull/5621) - 2026-09-10
+* [Review] [Review on: Add simple `CONTRIBUTING.md` file](https://github.com/ethereum/consensus-specs/pull/5621#pullrequestreview-5170764324) - 2026-09-10
+* [Pull Request] [Bump version to v1.7.0-beta.1](https://github.com/ethereum/consensus-specs/pull/5626) - 2026-09-10
+* [Pull Request] [Remove tests for EIP-8321](https://github.com/ethereum/consensus-specs/pull/5625) - 2026-09-10
+* [Pull Request] [Remove tests for EIP-8205](https://github.com/ethereum/consensus-specs/pull/5624) - 2026-09-10
+* [Pull Request] [Remove tests for EIP-8148](https://github.com/ethereum/consensus-specs/pull/5623) - 2026-09-10
+* [Pull Request] [Remove tests for EIP-8025](https://github.com/ethereum/consensus-specs/pull/5622) - 2026-09-10
+* [Pull Request] [Add `saturating_sub` helper function](https://github.com/ethereum/consensus-specs/pull/5620) - 2026-09-10
+* [Commit] [Bump version to v1.7.0-beta.1 (#5626)](https://github.com/ethereum/consensus-specs/commit/530cf56a3920dc048900b4b7a408b3acd71331fa) - 2026-09-10
+* [Commit] [Resolve outstanding Gloas test TODOs (#5617)](https://github.com/ethereum/consensus-specs/commit/676d79b33147f3e36d436695e95d97babcfc576b) - 2026-09-10
+* [Commit] [Convert `NewPayloadRequest` from dataclass to container (#5619)](https://github.com/ethereum/consensus-specs/commit/81e15d3f896736771fa43f7bcfec6d1cf9823ff1) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

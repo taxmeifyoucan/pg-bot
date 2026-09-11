@@ -356,6 +356,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-8037: remove the duplicated calldata floor note](https://github.com/ethereum/EIPs/commit/58596a9911b945fc855caa80a904c5b3f4c4f254) - 2026-09-04
 * [Commit] [Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/commit/65d177d431638639d35897d6e869301a5ea8a02c) - 2026-09-04
 * [Pull Request] [Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/pull/12303) - 2026-09-07
+* [Pull Request] [Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/pull/12311) - 2026-09-10
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16

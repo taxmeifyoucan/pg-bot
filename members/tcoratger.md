@@ -301,6 +301,16 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(binary-field): vectorize the polynomial-basis butterflies with a split twiddle (#2054)](https://github.com/Plonky3/Plonky3/commit/f4e958d30de763326e1f754eb6a82e3ac22be76f) - 2026-09-09
 * [Commit] [feat(multi-stark)!: drive the multi-STARK transcript through the typed Fiat-Shamir layer (#2093)](https://github.com/Plonky3/Plonky3/commit/4ad8732008f4810a745256e782a411571e13cd13) - 2026-09-09
 * [Commit] [feat(batch-stark)!: drive the batch-STARK transcript through the typed Fiat-Shamir layer (#2091)](https://github.com/Plonky3/Plonky3/commit/04f742e1d4f4d6028c5d82f62f91b41291c8bd29) - 2026-09-09
+* [Pull Request] [feat(whir)!: drive the hiding WHIR transcript through the pattern player](https://github.com/Plonky3/Plonky3/pull/2126) - 2026-09-10
+* [Pull Request] [refactor(fri)!: derive the commit-round shape from configuration rather than the proof](https://github.com/Plonky3/Plonky3/pull/2125) - 2026-09-10
+* [Pull Request] [feat(sumcheck)!: drive the layout sumcheck transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2124) - 2026-09-10
+* [Pull Request] [feat(sumcheck)!: drive the ring-switching transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2122) - 2026-09-10
+* [Review] [Review on: feat(sumcheck)!: drive the ring-switching transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2122#pullrequestreview-5171080745) - 2026-09-10
+* [Pull Request] [fix(stir)!: seed the batching phase at every difficulty](https://github.com/Plonky3/Plonky3/pull/2121) - 2026-09-10
+* [Review] [Review on: fix(stir)!: seed the batching phase at every difficulty](https://github.com/Plonky3/Plonky3/pull/2121#pullrequestreview-5170742614) - 2026-09-10
+* [Pull Request] [feat(stir)!: drive the STIR PCS transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2123) - 2026-09-10
+* [Commit] [fix(stir)!: seed the batching phase at every difficulty (#2121)](https://github.com/Plonky3/Plonky3/commit/1a63876cf96e5fba766892c385d1eb11f4cadfce) - 2026-09-10
+* [Commit] [perf(sumcheck)!: fuse bind and measure across single-round calls and under suffix order (#2055)](https://github.com/Plonky3/Plonky3/commit/a9d8db30a0ea4dd77c6bada0723dc77f6a95bf69) - 2026-09-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

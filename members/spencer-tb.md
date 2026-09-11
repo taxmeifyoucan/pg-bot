@@ -305,6 +305,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): improve EIP-2780 coverage, checklist, and ref-spec pin (#3515)](https://github.com/ethereum/execution-specs/commit/086963a6ac04e6002b917fa4b419877aeefb8d9e) - 2026-09-07
 * [Commit] [feat(tests): cover EIP-8037 static-call reservoirs and block activation (#3525)](https://github.com/ethereum/execution-specs/commit/645df047e16663e90076d411b0980b5bc637b489) - 2026-09-07
 * [Commit] [refactor(tests): size gas-boundary cases with fork calculators (#3530)](https://github.com/ethereum/execution-specs/commit/80edd401acd32611d9c98a77a999c42d4952476f) - 2026-09-07
+* [Pull Request] [feat(test-evm-tools): derive fork-block activation from the transition schedule](https://github.com/ethereum/execution-specs/pull/3557) - 2026-09-10
+* [Review] [Review on: feat(ci): validate filled blockchain fixtures with EELS](https://github.com/ethereum/execution-specs/pull/3552#pullrequestreview-5166466038) - 2026-09-10
+* [Review] [Review on: chore(tests): remove stale EIP-2935 history-window TODOs](https://github.com/ethereum/execution-specs/pull/3549#pullrequestreview-5166580107) - 2026-09-10
+* [Review] [Review on: fix(test-consume): group test cases by fixture file and bound the per-worker fixture cache](https://github.com/ethereum/execution-specs/pull/3555#pullrequestreview-5166326304) - 2026-09-10
+* [Commit] [feat(tests): cover EIP-8037 system gas and code-deposit boundaries (#3524)](https://github.com/ethereum/execution-specs/commit/bb95255f8316e0bf25c4cab39514382c5b1d4d88) - 2026-09-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

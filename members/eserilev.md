@@ -160,6 +160,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4924780218) - 2026-08-13
 * [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4970559891) - 2026-08-19
 * [Review] [Review on: Explicitly set bid fields when upgrading to Gloas](https://github.com/ethereum/consensus-specs/pull/5553#pullrequestreview-4970546333) - 2026-08-19
+* [Pull Request] [Fix attestation step order in FCR test vectors](https://github.com/ethereum/consensus-specs/pull/5627) - 2026-09-10
 ## Q2 2026
 
 

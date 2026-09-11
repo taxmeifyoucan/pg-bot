@@ -354,6 +354,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: EIP-8141: revalidate the fork-gated frame checks when the head specification changes](https://github.com/NethermindEth/nethermind/pull/13306#pullrequestreview-5155247878) - 2026-09-09
 * [Pull Request] [docs(eip8141): correct the frame-mode caller and document the public frame API](https://github.com/NethermindEth/nethermind/pull/13301) - 2026-09-09
 * [Review] [Review on: docs(eip8141): correct the frame-mode caller and document the public frame API](https://github.com/NethermindEth/nethermind/pull/13301#pullrequestreview-5155008474) - 2026-09-09
+* [Pull Request] [EIP-8141: make the pool's admission verdict agree with execution](https://github.com/NethermindEth/nethermind/pull/13361) - 2026-09-10
+* [Review] [Review on: EIP-8141: make the pool's admission verdict agree with execution](https://github.com/NethermindEth/nethermind/pull/13361#pullrequestreview-5169081517) - 2026-09-10
+* [Review] [Review on: Add a LiteRlpReader for explicit cursor decoding](https://github.com/NethermindEth/nethermind/pull/13303#pullrequestreview-5166431557) - 2026-09-10
+* [Pull Request] [test(eip8141): make the atomic-batch unroll test exercise a rollback](https://github.com/NethermindEth/nethermind/pull/13360) - 2026-09-10
+* [Review] [Review on: test(eip8141): make the atomic-batch unroll test exercise a rollback](https://github.com/NethermindEth/nethermind/pull/13360#pullrequestreview-5169042879) - 2026-09-10
+* [Review] [Review on: perf: drop redundant SSZ merkleization scratch clears](https://github.com/NethermindEth/nethermind/pull/13352#pullrequestreview-5166485464) - 2026-09-10
+* [Review] [Review on: perf: stream withdrawal roots with the indexed trie calculator](https://github.com/NethermindEth/nethermind/pull/13355#pullrequestreview-5166552195) - 2026-09-10
+* [Commit] [fix(rlp): derive the receipt log limit from the block gas ceiling (#13288)](https://github.com/NethermindEth/nethermind/commit/e319c2e74c8229fcf1721b50903519402cc07df2) - 2026-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

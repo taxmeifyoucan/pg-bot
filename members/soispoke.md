@@ -61,6 +61,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Commit] [Update EIP-8272: verify recent roots with a canonical frame](https://github.com/ethereum/EIPs/commit/20fb52b9b2c370b6964c59e4f998f63a14803122) - 2026-09-04
 * [Pull Request] [Update EIP-8272: count recent root verification gas](https://github.com/ethereum/EIPs/pull/12302) - 2026-09-07
 * [Commit] [Update EIP-8272: count recent root verification gas](https://github.com/ethereum/EIPs/commit/824cbc0b0e459ea6b105d8b96420a5d46abf0806) - 2026-09-07
+* [Pull Request] [Update EIP-8272: clarify public mempool scope](https://github.com/ethereum/EIPs/pull/12310) - 2026-09-10
 ## Q2 2026
 
 

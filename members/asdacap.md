@@ -204,6 +204,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Exercise block downloader tests with flat and trie state backends](https://github.com/NethermindEth/nethermind/pull/13328) - 2026-09-09
 * [Review] [Review on: test: fix flaky prune_on_disk_multiple_times wait budget](https://github.com/NethermindEth/nethermind/pull/13327#pullrequestreview-5161621999) - 2026-09-10
 * [Review] [Review on: fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199)](https://github.com/NethermindEth/nethermind/pull/13308#pullrequestreview-5161010825) - 2026-09-09
+* [Commit] [Enable flat DB by default; flip CI backend coverage (#11931)](https://github.com/NethermindEth/nethermind/commit/29f1364f2872f37bc55c316c3e76177d6673b99a) - 2026-09-10
+* [Commit] [Exercise block downloader tests with flat and trie state backends (#13328)](https://github.com/NethermindEth/nethermind/commit/ad832ee3a72b8e25f23e420d8485f897d94ee5fb) - 2026-09-10
 ## Q2 2026
 
 

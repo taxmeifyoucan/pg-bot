@@ -30,6 +30,7 @@ Team: Grandine
 * [Review] [Review on: Batched attestation handlers for performance reasons](https://github.com/grandinetech/grandine/pull/908#pullrequestreview-5112965859) - 2026-09-04
 * [Review] [Review on: Add missing ClientCode enum values](https://github.com/grandinetech/grandine/pull/915#pullrequestreview-5154298829) - 2026-09-09
 * [Review] [Review on: Update builder deposit cache so it handles some edge cases](https://github.com/grandinetech/grandine/pull/913#pullrequestreview-5152334761) - 2026-09-09
+* [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/grandinetech/grandine/pull/916#pullrequestreview-5167277371) - 2026-09-10
 ## Q2 2026
 
 

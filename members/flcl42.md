@@ -310,6 +310,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Reduce Bootnode memory and Nethermind discovery traffic (#13122)](https://github.com/NethermindEth/nethermind/commit/e47cf8b905dd9b7706b86f982325545d5702deb6) - 2026-09-08
 * [Pull Request] [Add a LiteRlpReader for explicit cursor decoding](https://github.com/NethermindEth/nethermind/pull/13303) - 2026-09-09
 * [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/NethermindEth/nethermind/pull/13313#pullrequestreview-5158067055) - 2026-09-09
+* [Review] [Review on: Add a LiteRlpReader for explicit cursor decoding](https://github.com/NethermindEth/nethermind/pull/13303#pullrequestreview-5166965760) - 2026-09-10
+* [Review] [Review on: fix(build): stop the RPC JSON context target from deadlocking solution builds](https://github.com/NethermindEth/nethermind/pull/13341#pullrequestreview-5169524088) - 2026-09-10
+* [Commit] [Enable dual-stack RLPx and discv4/discv5 listeners (#12982)](https://github.com/NethermindEth/nethermind/commit/2b27a28a2e09a8eea4498843b82c8ad19d3123ad) - 2026-09-10
+* [Commit] [Reject undersized ECIES ciphertexts with controlled exceptions (#13135)](https://github.com/NethermindEth/nethermind/commit/80c361d46540f72bba63554e6caddf73b9e02bc9) - 2026-09-10
+* [Commit] [Correct EIP-3155 state-test traces (#12981)](https://github.com/NethermindEth/nethermind/commit/61dbcd7eeafac1675392391d8c93f7a8b7126f46) - 2026-09-10
+* [Commit] [Remove obsolete gRPC and trie benchmark projects (#13330)](https://github.com/NethermindEth/nethermind/commit/c49db69407abe1bddf34e927dd01954a3d7c2c4f) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

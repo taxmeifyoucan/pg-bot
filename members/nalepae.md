@@ -115,6 +115,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 * [Review] [Review on: Set sweep threshold when switching to 0x02 and cap effective balance](https://github.com/ethereum/consensus-specs/pull/5557#pullrequestreview-4995637335) - 2026-08-21
 * [Commit] [Allow setting the sweep threshold at deposit time (#5537)](https://github.com/ethereum/consensus-specs/commit/2037c871527535b1b698d805352417cbef7ba38d) - 2026-08-24
+* [Review] [Review on: Refine EIP-8025 `ProofData` type and gossip validation logic](https://github.com/ethereum/consensus-specs/pull/5593#pullrequestreview-5165400035) - 2026-09-10
+* [Review] [Review on: Convert `NewPayloadRequest` from dataclass to container](https://github.com/ethereum/consensus-specs/pull/5619#pullrequestreview-5164084049) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8148: Allow setting the sweep threshold at deposit time.](https://github.com/ethereum/EIPs/pull/12146) - 2026-08-12
 * [Review] [Review on: Update EIP-8148: Allow setting the sweep threshold at deposit time and reduce `MIN_SWEEP_THRESHOLD` to 32 ETH](https://github.com/ethereum/EIPs/pull/12193#pullrequestreview-4979287865) - 2026-08-20

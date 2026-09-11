@@ -118,6 +118,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Avoid duplicate metric events in FCR](https://github.com/Consensys-Incorporated/teku/pull/11198#pullrequestreview-5139909107) - 2026-09-08
 * [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5144631235) - 2026-09-08
 * [Review] [Review on: Update agents rules](https://github.com/Consensys-Incorporated/teku/pull/11252#pullrequestreview-5155351239) - 2026-09-09
+* [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5166957340) - 2026-09-10
 ## Q2 2026
 
 

@@ -40,6 +40,9 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Commit] [ci: give each sync network its own create/sync/teardown lifecycle (#12936)](https://github.com/NethermindEth/nethermind/commit/6672375219051cf785b474c78301f172a6fa29dd) - 2026-08-28
 * [Commit] [ci: migrate sync-test runners from Linode to GCP Spot (#12789)](https://github.com/NethermindEth/nethermind/commit/b90f785a02acb98f2d54a7a5e907c4e73d24fa0b) - 2026-08-28
 * [Pull Request] [ci: point the sync-validation Slack alert at the webhook secret that exists](https://github.com/NethermindEth/nethermind/pull/13314) - 2026-09-09
+* [Pull Request] [ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot](https://github.com/NethermindEth/nethermind/pull/13362) - 2026-09-10
+* [Review] [Review on: ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot](https://github.com/NethermindEth/nethermind/pull/13362#pullrequestreview-5168297525) - 2026-09-10
+* [Commit] [ci: send GCP machine types to the smoke-test dispatches (#13014)](https://github.com/NethermindEth/nethermind/commit/09c0c8e9fc696946de287fd15560a112b2ae0d0a) - 2026-09-11
 ## Q2 2026
 
 

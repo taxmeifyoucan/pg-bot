@@ -234,6 +234,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: dos protection for NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10039#pullrequestreview-5150660556) - 2026-09-09
 * [Review] [Review on: fix(archive): prune by block and payload level data](https://github.com/ChainSafe/lodestar/pull/10022#pullrequestreview-5151197159) - 2026-09-09
 * [Commit] [chore: track awaiting queues of NetworkProcessor on Grafana (#10047)](https://github.com/ChainSafe/lodestar/commit/858e7b16e9ea23ea1852921b5bef56136f077b59) - 2026-09-09
+* [Review] [Review on: feat: track stateTransition steps in metrics](https://github.com/ChainSafe/lodestar/pull/10016#pullrequestreview-5164202154) - 2026-09-10
+* [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5163741785) - 2026-09-10
+* [Review] [Review on: perf(state-transition): use native PTC sampling](https://github.com/ChainSafe/lodestar/pull/9903#pullrequestreview-5163971929) - 2026-09-10
+* [Review] [Review on: fix: fall back to finalized safe block](https://github.com/ChainSafe/lodestar/pull/10027#pullrequestreview-5163459754) - 2026-09-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -93,6 +93,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Select flat Account index search automatically](https://github.com/NethermindEth/nethermind/pull/13260#pullrequestreview-5145929114) - 2026-09-08
 * [Pull Request] [chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/13322) - 2026-09-09
 * [Commit] [chore(deps): update Nethermind.Crypto.SecP256k1 package (#13289)](https://github.com/NethermindEth/nethermind/commit/e2301892f31f9e8ac600e5d5ff88df4d782553fc) - 2026-09-09
+* [Commit] [chore(deps): update .NET packages (#13322)](https://github.com/NethermindEth/nethermind/commit/2d9f97138b3c78dae9609bb41b96ba558d255728) - 2026-09-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

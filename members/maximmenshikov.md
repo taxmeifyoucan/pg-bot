@@ -25,6 +25,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Review] [Review on: perf(zkevm): stop copying witness elements into the guest databases](https://github.com/NethermindEth/nethermind/pull/13076#pullrequestreview-5079899091) - 2026-09-01
 * [Pull Request] [perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries](https://github.com/NethermindEth/nethermind/pull/13323) - 2026-09-09
 * [Review] [Review on: perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries](https://github.com/NethermindEth/nethermind/pull/13323#pullrequestreview-5160362635) - 2026-09-09
+* [Commit] [perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries (#13323)](https://github.com/NethermindEth/nethermind/commit/437a6111cdf1d9cfb598f64e5bd1213e2d4f9018) - 2026-09-10
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02

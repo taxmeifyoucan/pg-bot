@@ -92,6 +92,7 @@ Team: Geth
 * [Review] [Review on: internal/ethapi, core: align eth_simulateV1 blocks with the Amsterdam spec](https://github.com/ethereum/go-ethereum/pull/35668#pullrequestreview-5153011029) - 2026-09-09
 * [Review] [Review on: core, eth: add metrics for chain segment downloading](https://github.com/ethereum/go-ethereum/pull/35678#pullrequestreview-5152826149) - 2026-09-09
 * [Review] [Review on: internal/ethapi: avoid duplicate transfer logs in eth_simulateV1 post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/35617#pullrequestreview-5152386767) - 2026-09-09
+* [Review] [Review on: eth: add progress metrics](https://github.com/ethereum/go-ethereum/pull/35689#pullrequestreview-5165320983) - 2026-09-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

@@ -105,6 +105,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas spec beta 0](https://github.com/sigp/lighthouse/pull/10014#pullrequestreview-5150177609) - 2026-09-09
 * [Review] [Review on: Fix flaky unknown block test](https://github.com/sigp/lighthouse/pull/10001#pullrequestreview-5149522626) - 2026-09-09
 * [Review] [Review on: Don't return Pending node when fork choice reverts to justified block](https://github.com/sigp/lighthouse/pull/9962#pullrequestreview-5149307009) - 2026-09-09
+* [Review] [Review on: Enable FCR test cases](https://github.com/sigp/lighthouse/pull/9964#pullrequestreview-5163345263) - 2026-09-10
+* [Review] [Review on: Standardise FCR metrics](https://github.com/sigp/lighthouse/pull/9987#pullrequestreview-5163263933) - 2026-09-10
+* [Review] [Review on: Add 0x02 support to validator creation](https://github.com/sigp/lighthouse/pull/9702#pullrequestreview-5162990025) - 2026-09-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31
