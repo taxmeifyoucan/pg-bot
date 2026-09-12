@@ -551,6 +551,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(deps): bump js-yaml from 4.3.1 to 4.3.2](https://github.com/ChainSafe/lodestar/pull/10052#pullrequestreview-5164061299) - 2026-09-10
 * [Review] [Review on: fix: fall back to finalized safe block](https://github.com/ChainSafe/lodestar/pull/10027#pullrequestreview-5163339606) - 2026-09-10
 * [Commit] [fix: batch verify payload attestation signatures in blocks (#10055)](https://github.com/ChainSafe/lodestar/commit/566a28844f9edf23027c7dfd6a423688cbb26984) - 2026-09-10
+* [Pull Request] [perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062) - 2026-09-11
+* [Pull Request] [deps: bump libp2p-quic to v2.1.4](https://github.com/ChainSafe/lodestar/pull/10066) - 2026-09-12
+* [Pull Request] [chore: bump lodestar-z to v1.1.0](https://github.com/ChainSafe/lodestar/pull/10061) - 2026-09-11
+* [Review] [Review on: perf(state-transition): use native PTC sampling](https://github.com/ChainSafe/lodestar/pull/9903#pullrequestreview-5177857795) - 2026-09-11
+* [Review] [Review on: chore: improve log on REJECTED blocks, columns, payloads](https://github.com/ChainSafe/lodestar/pull/10058#pullrequestreview-5180047881) - 2026-09-11
+* [Review] [Review on: chore: persist invalid signed block with block root file name](https://github.com/ChainSafe/lodestar/pull/10060#pullrequestreview-5177942708) - 2026-09-11
+* [Commit] [deps: bump libp2p-quic to v2.1.4 (#10066)](https://github.com/ChainSafe/lodestar/commit/02b355c4db11cf5661a777573d0ebbb29b435ff2) - 2026-09-12
+* [Commit] [chore: bump lodestar-z to v1.1.0 (#10061)](https://github.com/ChainSafe/lodestar/commit/e9c9b8835dc0b797ff1f5bc567b82103c19931df) - 2026-09-12
+* [Commit] [refactor: derive gloas p2p max sizes from ssz types (#10053)](https://github.com/ChainSafe/lodestar/commit/b0ddac0ac2489fa25c7be2660444b103e1f2de4b) - 2026-09-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -654,6 +663,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5005836566) - 2026-08-24
 * [Review] [Review on: fix: reject withdrawal count mismatches](https://github.com/ChainSafe/lodestar-z/pull/619#pullrequestreview-5075712838) - 2026-09-01
 * [Review] [Review on: feat(napi): expose forkSeq on BeaconStateView binding](https://github.com/ChainSafe/lodestar-z/pull/635#pullrequestreview-5101605757) - 2026-09-03
+* [Review] [Review on: chore: release 1.1.0](https://github.com/ChainSafe/lodestar-z/pull/583#pullrequestreview-5180752856) - 2026-09-11
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18

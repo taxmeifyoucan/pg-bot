@@ -205,6 +205,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [tracing: number callTracer logs over the whole block (#23797)](https://github.com/erigontech/erigon/commit/dbdd5319008e0be19983be1268e56c7c665b85f0) - 2026-09-09
 * [Commit] [QA: update execution apis ref 6570b55 (#23873)](https://github.com/erigontech/erigon/commit/d65410505028949803b198efe2e7a97d5f635064) - 2026-09-09
 * [Review] [Review on: execution/protocol, execution/types: validate access list and blob rules in preCheck](https://github.com/erigontech/erigon/pull/23700#pullrequestreview-5171111279) - 2026-09-10
+* [Pull Request] [rpc/jsonrpc, db/snapshotsync: serve blocks from the oldest one the datadir holds](https://github.com/erigontech/erigon/pull/23939) - 2026-09-11
+* [Pull Request] [rpc/jsonrpc: erigon_getLogsByHash reports blockTimestamp](https://github.com/erigontech/erigon/pull/23935) - 2026-09-11
+* [Pull Request] [[r3.6] QA: fix test race in case latest tests](https://github.com/erigontech/erigon/pull/23919) - 2026-09-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -233,6 +236,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add callTracer withLog tests for debug_trace* APIs (#597)](https://github.com/erigontech/rpc-tests/commit/2375b7fe3e881586470588dfc596e25dfc32d7c9) - 2026-09-06
 * [Pull Request] [Backport to release/3.6: #585 (Go only), #586, #595](https://github.com/erigontech/rpc-tests/pull/600) - 2026-09-10
 * [Review] [Review on: eth_createAccessList: expect rejection instead of a computed result before Berlin](https://github.com/erigontech/rpc-tests/pull/599#pullrequestreview-5170985714) - 2026-09-10
+* [Pull Request] [integration_test: add blockTimestampo to erigon_getLogsByHash](https://github.com/erigontech/rpc-tests/pull/602) - 2026-09-11
+* [Pull Request] [add Go unit tests across all packages and fix three defects they surfaced](https://github.com/erigontech/rpc-tests/pull/601) - 2026-09-11
 ## Q2 2026
 
 

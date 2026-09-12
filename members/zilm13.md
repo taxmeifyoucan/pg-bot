@@ -152,6 +152,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219#pullrequestreview-5169129488) - 2026-09-10
 * [Review] [Review on: Refactor `AbstractBlockPublisher`](https://github.com/Consensys-Incorporated/teku/pull/11253#pullrequestreview-5165804710) - 2026-09-10
 * [Review] [Review on: Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns](https://github.com/Consensys-Incorporated/teku/pull/11250#pullrequestreview-5166077265) - 2026-09-10
+* [Review] [Review on: Enforce progressive-list soft limits at network decode time](https://github.com/Consensys-Incorporated/teku/pull/11263#pullrequestreview-5180618312) - 2026-09-11
+* [Review] [Review on: Remove shuffling stable from fulu onwards](https://github.com/Consensys-Incorporated/teku/pull/11203#pullrequestreview-5180410522) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

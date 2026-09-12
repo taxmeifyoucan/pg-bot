@@ -127,6 +127,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.6] cl/network: fix blob history backfill boundary and sparse-peer startup](https://github.com/erigontech/erigon/pull/23732#pullrequestreview-5166676002) - 2026-09-10
 * [Issue] [cl/snapshots: verify and repair blob snapshots before publication](https://github.com/erigontech/erigon/issues/23911) - 2026-09-10
 * [Issue] [snapshots: verify local blob sidecars and repair from official snapshots](https://github.com/erigontech/erigon/issues/23912) - 2026-09-10
+* [Review] [Review on: [r3.6] cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23923#pullrequestreview-5177986843) - 2026-09-11
+* [Review] [Review on: [r3.6] cl/phase1/network: read the blob count under the canonical root](https://github.com/erigontech/erigon/pull/23922#pullrequestreview-5177428391) - 2026-09-11
+* [Review] [Review on: cmd/capcli: read the store check's block root from the canonical index](https://github.com/erigontech/erigon/pull/23918#pullrequestreview-5175450431) - 2026-09-11
+* [Pull Request] [db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/23927) - 2026-09-11
+* [Review] [Review on: [r3.5] cl/sentinel: honour the peer ban on inbound connections](https://github.com/erigontech/erigon/pull/23925#pullrequestreview-5177980077) - 2026-09-11
+* [Review] [Review on: cl/phase1/forkchoice: don't hold the fork-choice lock across blocking EL calls in OnBlock](https://github.com/erigontech/erigon/pull/23691#pullrequestreview-5175530592) - 2026-09-11
 ## Q2 2026
 
 

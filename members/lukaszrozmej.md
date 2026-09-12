@@ -440,6 +440,29 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf: remove unused code override hash (#13332)](https://github.com/NethermindEth/nethermind/commit/52d2b8f51efd208f86197fde10f72a0fc4ce8292) - 2026-09-10
 * [Commit] [test: fix flaky prune_on_disk_multiple_times wait budget (#13327)](https://github.com/NethermindEth/nethermind/commit/9fe98e14959382d76340d32833c66b26f7b98ae7) - 2026-09-10
 * [Commit] [test: fix flaky WaitForImprovedBlock_with_minTransactions payload retrieval (#13326)](https://github.com/NethermindEth/nethermind/commit/0a1ce9c73bef3dd064c1cc134a389bb6979826f9) - 2026-09-10
+* [Review] [Review on: chore(deps): bump Nethermind.Numerics.Int256 to 1.9.0](https://github.com/NethermindEth/nethermind/pull/13389#pullrequestreview-5181226523) - 2026-09-11
+* [Pull Request] [perf: stop allocating a word per transient storage write](https://github.com/NethermindEth/nethermind/pull/13413) - 2026-09-11
+* [Pull Request] [perf: stop allocating a copy of the input for the ID precompile](https://github.com/NethermindEth/nethermind/pull/13395) - 2026-09-11
+* [Review] [Review on: perf: stop allocating a copy of the input for the ID precompile](https://github.com/NethermindEth/nethermind/pull/13395#pullrequestreview-5183620166) - 2026-09-11
+* [Review] [Review on: return null from the proof methods for a transaction they cannot serve](https://github.com/NethermindEth/nethermind/pull/13366#pullrequestreview-5179325773) - 2026-09-11
+* [Pull Request] [perf(rpc): bound EVM-executing JSON-RPC concurrency with an aged, cost-ordered admission gate](https://github.com/NethermindEth/nethermind/pull/13398) - 2026-09-11
+* [Review] [Review on: perf(rpc): bound EVM-executing JSON-RPC concurrency with an aged, cost-ordered admission gate](https://github.com/NethermindEth/nethermind/pull/13398#pullrequestreview-5183980464) - 2026-09-11
+* [Pull Request] [perf: stop BLOCKHASH reading state and allocating on every call](https://github.com/NethermindEth/nethermind/pull/13397) - 2026-09-11
+* [Pull Request] [perf: resolve a BAL storage access in one probe and memoize the account](https://github.com/NethermindEth/nethermind/pull/13408) - 2026-09-11
+* [Review] [Review on: Retain FlatDB state for Hive Engine-X reorgs](https://github.com/NethermindEth/nethermind/pull/13402#pullrequestreview-5183307327) - 2026-09-11
+* [Pull Request] [perf: skip the write-journal probe for contracts that have not written](https://github.com/NethermindEth/nethermind/pull/13405) - 2026-09-11
+* [Review] [Review on: Fix malformed JSON-RPC batch items without aborting subsequent requests](https://github.com/NethermindEth/nethermind/pull/12537#pullrequestreview-5179342006) - 2026-09-11
+* [Pull Request] [test: keep the filter-expiry fixture from dropping other tests' filters](https://github.com/NethermindEth/nethermind/pull/13407) - 2026-09-11
+* [Review] [Review on: perf(bal): bypass journaling for immutable parent reads](https://github.com/NethermindEth/nethermind/pull/13312#pullrequestreview-5179325182) - 2026-09-11
+* [Pull Request] [test: bound the event-loop shutdown wait in the discovery tests](https://github.com/NethermindEth/nethermind/pull/13404) - 2026-09-11
+* [Pull Request] [test: wait for the tx-carrying improvement in the V6 BAL test](https://github.com/NethermindEth/nethermind/pull/13403) - 2026-09-11
+* [Review] [Review on: fix(rpc): dispose the block traces debug_traceTransactionInBlockByIndex discards](https://github.com/NethermindEth/nethermind/pull/13324#pullrequestreview-5179326189) - 2026-09-11
+* [Review] [Review on: fix(sync): serialise SyncServer range-broadcast CTS swap](https://github.com/NethermindEth/nethermind/pull/12728#pullrequestreview-5178542643) - 2026-09-11
+* [Pull Request] [perf: reduce the MODEXP base before exponentiating](https://github.com/NethermindEth/nethermind/pull/13396) - 2026-09-11
+* [Review] [Review on: perf(evm): trim cached jump validation](https://github.com/NethermindEth/nethermind/pull/13369#pullrequestreview-5181234303) - 2026-09-11
+* [Review] [Review on: perf: remove fixed block prewarming and trie concurrency caps](https://github.com/NethermindEth/nethermind/pull/13388#pullrequestreview-5181209435) - 2026-09-11
+* [Commit] [test: wait for the tx-carrying improvement in the V6 BAL test (#13403)](https://github.com/NethermindEth/nethermind/commit/964afba2406dc4b560da7db8cbf54f84df37ec2e) - 2026-09-11
+* [Commit] [perf: reduce the MODEXP base before exponentiating (#13396)](https://github.com/NethermindEth/nethermind/commit/7b453f31b3dca25ac9b92a26beb1a34533649f7e) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

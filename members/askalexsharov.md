@@ -1448,6 +1448,12 @@ Team: Erigon
 * [Commit] [lint: enable `shadow` linter for `./db` pkgs (step 3) (#23816)](https://github.com/erigontech/erigon/commit/9b4a0c667495da9fbbbe3ab947720cd136cb293d) - 2026-09-10
 * [Commit] [cl/network: make the slow-probe rotation test deterministic with synctest (#23857)](https://github.com/erigontech/erigon/commit/c38af06475a69f9a7dc1bdae6251ef4b65a13bdd) - 2026-09-10
 * [Commit] [rpc: `eth_getLogs` results conversion in Append-style (#23890)](https://github.com/erigontech/erigon/commit/cdeafabf3334d3ba941f21485c91a71a235e66c9) - 2026-09-10
+* [Review] [Review on: [r3.6] execution/commitment: keep the storage load flag with the storage identity when folding a storage row](https://github.com/erigontech/erigon/pull/23928#pullrequestreview-5184758335) - 2026-09-12
+* [Review] [Review on: [r3.6] cmd/capcli: read the store check's block root from the canonical index](https://github.com/erigontech/erigon/pull/23936#pullrequestreview-5184744745) - 2026-09-12
+* [Review] [Review on: [r3.5] cmd/capcli: read the store check's block root from the canonical index](https://github.com/erigontech/erigon/pull/23937#pullrequestreview-5184739360) - 2026-09-12
+* [Commit] [ci: make the large-file check actually run, and test it (#23902)](https://github.com/erigontech/erigon/commit/fb7c9898b96a9be43e99638582fc17c725816f9b) - 2026-09-11
+* [Commit] [rlp, types: size decoded slices from an item count (#23898)](https://github.com/erigontech/erigon/commit/284ab470f0321db74055e5a8d81e141352974c8b) - 2026-09-11
+* [Commit] [cl/validator/devvalidator: count the envelope post before queueing its body (#23910)](https://github.com/erigontech/erigon/commit/5d2b24f59c5631812fd38850740906ff44d7503b) - 2026-09-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

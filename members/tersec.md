@@ -159,6 +159,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix: return ok() from routePayloadAttestationMessage on success](https://github.com/status-im/nimbus-eth2/pull/9028#pullrequestreview-5168714417) - 2026-09-10
 * [Pull Request] [try removing envelope parent filter](https://github.com/status-im/nimbus-eth2/pull/9029) - 2026-09-11
 * [Review] [Review on: add focil fork choice](https://github.com/status-im/nimbus-eth2/pull/9021#pullrequestreview-5167019722) - 2026-09-10
+* [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5179161438) - 2026-09-11
+* [Review] [Review on: add getBlobsV4 support into service](https://github.com/status-im/nimbus-eth2/pull/9034#pullrequestreview-5178619616) - 2026-09-11
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

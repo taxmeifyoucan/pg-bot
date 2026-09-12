@@ -58,6 +58,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 
 * [Issue] [Encrypt The Mempool #8, August 5, 2026](https://github.com/ethereum/pm/issues/2182) - 2026-08-03
+* [Issue] [Encrypt The Mempool #10, September 16, 2026](https://github.com/ethereum/pm/issues/2219) - 2026-09-11
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4738978540) - 2026-07-20
 * [Review] [Review on: Static libs and jar artifact for secp256k1](https://github.com/besu-eth/besu-native/pull/297#pullrequestreview-4738619746) - 2026-07-20

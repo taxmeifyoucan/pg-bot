@@ -29,6 +29,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Delta database implementation](https://github.com/grandinetech/grandine/pull/906) - 2026-09-03
 * [Pull Request] [Fix pubkey recovery for unfinalized states](https://github.com/grandinetech/grandine/pull/907) - 2026-09-04
 * [Commit] [Fix pubkey recovery for unfinalized states](https://github.com/grandinetech/grandine/commit/d6281c3d4bb1f87c251ba299d1e120c648889012) - 2026-09-04
+* [Issue] [Unlimited progressive containers may cause node crash](https://github.com/grandinetech/grandine/issues/918) - 2026-09-11
 ## Q2 2026
 
 

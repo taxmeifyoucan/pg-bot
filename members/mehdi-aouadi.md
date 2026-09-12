@@ -119,6 +119,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5144631235) - 2026-09-08
 * [Review] [Review on: Update agents rules](https://github.com/Consensys-Incorporated/teku/pull/11252#pullrequestreview-5155351239) - 2026-09-09
 * [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5166957340) - 2026-09-10
+* [Issue] [Update gossip rules](https://github.com/Consensys-Incorporated/teku/issues/11261) - 2026-09-11
 ## Q2 2026
 
 

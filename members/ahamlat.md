@@ -53,6 +53,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: reuse sar0 and shl0 for UInt256 byte shifts](https://github.com/besu-eth/besu/pull/11137#pullrequestreview-5103194584) - 2026-09-03
 * [Pull Request] [Make size primitive and initialized at build time](https://github.com/besu-eth/besu/pull/11258) - 2026-09-08
 * [Commit] [Make size primitive and initialized at build time (#11258)](https://github.com/besu-eth/besu/commit/b91e98678f4511fd226358a98d0f0d9ff464626a) - 2026-09-09
+* [Review] [Review on: Fix eth_estimateGas internal error related to value transfer tx](https://github.com/besu-eth/besu/pull/11272#pullrequestreview-5179648897) - 2026-09-11
 ## Q2 2026
 
 

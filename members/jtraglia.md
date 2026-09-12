@@ -297,6 +297,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump version to v1.7.0-beta.1 (#5626)](https://github.com/ethereum/consensus-specs/commit/530cf56a3920dc048900b4b7a408b3acd71331fa) - 2026-09-10
 * [Commit] [Resolve outstanding Gloas test TODOs (#5617)](https://github.com/ethereum/consensus-specs/commit/676d79b33147f3e36d436695e95d97babcfc576b) - 2026-09-10
 * [Commit] [Convert `NewPayloadRequest` from dataclass to container (#5619)](https://github.com/ethereum/consensus-specs/commit/81e15d3f896736771fa43f7bcfec6d1cf9823ff1) - 2026-09-10
+* [Pull Request] [Perform EIP-7688 limit gossip checks first](https://github.com/ethereum/consensus-specs/pull/5630) - 2026-09-11
+* [Pull Request] [Add weak subjectivity period table for gloas](https://github.com/ethereum/consensus-specs/pull/5629) - 2026-09-11
+* [Commit] [Clean up Makefile (#5628)](https://github.com/ethereum/consensus-specs/commit/c37e369dcaed827bd378b7bab623b6beedc0bed5) - 2026-09-11
+* [Commit] [Add weak subjectivity period table for gloas (#5629)](https://github.com/ethereum/consensus-specs/commit/fe2ee16756cd67295f3b659c77d8d12103cc39b2) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

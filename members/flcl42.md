@@ -316,6 +316,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Reject undersized ECIES ciphertexts with controlled exceptions (#13135)](https://github.com/NethermindEth/nethermind/commit/80c361d46540f72bba63554e6caddf73b9e02bc9) - 2026-09-10
 * [Commit] [Correct EIP-3155 state-test traces (#12981)](https://github.com/NethermindEth/nethermind/commit/61dbcd7eeafac1675392391d8c93f7a8b7126f46) - 2026-09-10
 * [Commit] [Remove obsolete gRPC and trie benchmark projects (#13330)](https://github.com/NethermindEth/nethermind/commit/c49db69407abe1bddf34e927dd01954a3d7c2c4f) - 2026-09-10
+* [Pull Request] [Retain FlatDB state for Hive Engine-X reorgs](https://github.com/NethermindEth/nethermind/pull/13402) - 2026-09-11
+* [Commit] [Add a LiteRlpReader for explicit cursor decoding (#13303)](https://github.com/NethermindEth/nethermind/commit/aa5b2aab2303b52c2da02a3629dfcc3dbb2a8919) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -352,6 +354,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [clients/nethermind: only mark post-merge genesis when TTD is set (#1595)](https://github.com/ethereum/hive/commit/3e3aeecc98c094357659cc5913c778aa063e1702) - 2026-08-12
 * [Pull Request] [simulators/devp2p: add dual-stack discovery orchestration](https://github.com/ethereum/hive/pull/1598) - 2026-08-13
 * [Commit] [Support Prague consensus fixtures and RPC gas target (#1585)](https://github.com/ethereum/hive/commit/6eb5d742079ecd5a64538d43d1ab742861583ffb) - 2026-08-25
+* [Pull Request] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610) - 2026-09-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22
@@ -367,6 +370,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/devp2p: add discovery endpoint tests](https://github.com/ethereum/go-ethereum/pull/35534) - 2026-08-13
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/pull/12317) - 2026-09-11
 ## Q2 2026
 
 

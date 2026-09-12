@@ -85,6 +85,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Add gas limit schedule config](https://github.com/grandinetech/grandine/commit/a31369259a0a5e2daa4777a12767015edeb577ca) - 2026-09-08
 * [Commit] [Resolve commitments through Gloas block](https://github.com/grandinetech/grandine/commit/1b5f706cdf461e8d4a7f9ad28ba51f8ab7f7edac) - 2026-09-08
 * [Pull Request] [Add builder blacklisting](https://github.com/grandinetech/grandine/pull/917) - 2026-09-10
+* [Commit] [Use slot from header instead of bid](https://github.com/grandinetech/grandine/commit/a04b8091cf0e1d6c27ad01de54f8eefdce367bfd) - 2026-09-11
+* [Commit] [Reject bids from exiting builders in gossip validation and filter at proposing](https://github.com/grandinetech/grandine/commit/998a78869f8489852d73ef586a4aa6d209dd6aa8) - 2026-09-11
+* [Commit] [Reject bids with block_hash equal to parent_block_hash](https://github.com/grandinetech/grandine/commit/82f6677792cc30cf8effcf2ecfb4b8a980937b8a) - 2026-09-11
+* [Commit] [Ignore proposer preferences for pre-Gloas slots](https://github.com/grandinetech/grandine/commit/4d0de6b299618bac47fef8c1e88763e3bbc83444) - 2026-09-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

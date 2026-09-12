@@ -22,6 +22,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-7516: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12105) - 2026-08-05
 * [Pull Request] [Update EIP-4844: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12102) - 2026-08-05
 * [Pull Request] [Update EIP-1153: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12100) - 2026-08-05
+* [Pull Request] [Update EIP-8250: Preserve nested fees in transaction payload](https://github.com/ethereum/EIPs/pull/12316) - 2026-09-11
+* [Commit] [Update EIP-8250: Preserve nested fees in transaction payload](https://github.com/ethereum/EIPs/commit/f3079a09e8c606afcb0e5e1a309ff228b88dc067) - 2026-09-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): verify EIP-7997 factory nonce persists across fork-transition](https://github.com/ethereum/execution-specs/pull/3077#pullrequestreview-4607737216) - 2026-07-01
 * [Review] [Review on: feat(clients): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063#pullrequestreview-4607436288) - 2026-07-01
@@ -175,6 +177,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(ci): validate filled blockchain fixtures with EELS](https://github.com/ethereum/execution-specs/pull/3552#pullrequestreview-5167130665) - 2026-09-10
 * [Commit] [feat(ci): validate filled blockchain fixtures with EELS (#3552)](https://github.com/ethereum/execution-specs/commit/ffc7e0415d17de801c437504c707bce14628927b) - 2026-09-10
 * [Commit] [fix(test-consume): group test cases by fixture file and bound the per-worker fixture cache (#3555)](https://github.com/ethereum/execution-specs/commit/c998b45fe8645700f27cbd35a2b7a3a052884a5f) - 2026-09-10
+* [Pull Request] [feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators](https://github.com/ethereum/execution-specs/pull/3572) - 2026-09-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

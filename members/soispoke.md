@@ -62,6 +62,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Pull Request] [Update EIP-8272: count recent root verification gas](https://github.com/ethereum/EIPs/pull/12302) - 2026-09-07
 * [Commit] [Update EIP-8272: count recent root verification gas](https://github.com/ethereum/EIPs/commit/824cbc0b0e459ea6b105d8b96420a5d46abf0806) - 2026-09-07
 * [Pull Request] [Update EIP-8272: clarify public mempool scope](https://github.com/ethereum/EIPs/pull/12310) - 2026-09-10
+* [Review] [Review on: Update EIP-8250: Preserve nested fees in transaction payload](https://github.com/ethereum/EIPs/pull/12316#pullrequestreview-5177250830) - 2026-09-11
 ## Q2 2026
 
 

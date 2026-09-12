@@ -238,6 +238,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5163741785) - 2026-09-10
 * [Review] [Review on: perf(state-transition): use native PTC sampling](https://github.com/ChainSafe/lodestar/pull/9903#pullrequestreview-5163971929) - 2026-09-10
 * [Review] [Review on: fix: fall back to finalized safe block](https://github.com/ChainSafe/lodestar/pull/10027#pullrequestreview-5163459754) - 2026-09-10
+* [Review] [Review on: perf(state-transition): use native PTC sampling](https://github.com/ChainSafe/lodestar/pull/9903#pullrequestreview-5174652882) - 2026-09-11
+* [Pull Request] [chore: improve log on REJECTED blocks, columns, payloads](https://github.com/ChainSafe/lodestar/pull/10058) - 2026-09-11
+* [Pull Request] [chore: persist invalid signed block with block root file name](https://github.com/ChainSafe/lodestar/pull/10060) - 2026-09-11
+* [Review] [Review on: chore: persist invalid signed block with block root file name](https://github.com/ChainSafe/lodestar/pull/10060#pullrequestreview-5176881935) - 2026-09-11
+* [Pull Request] [feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059) - 2026-09-11
+* [Review] [Review on: feat: track stateTransition steps in metrics](https://github.com/ChainSafe/lodestar/pull/10016#pullrequestreview-5174605343) - 2026-09-11
+* [Commit] [chore: improve log on REJECTED blocks, columns, payloads (#10058)](https://github.com/ChainSafe/lodestar/commit/a427d3dbb511233c9523affe7a44dfa9d7bdff56) - 2026-09-11
+* [Commit] [chore: persist invalid signed block with block root file name (#10060)](https://github.com/ChainSafe/lodestar/commit/68ce7b06a0da96cd0d2819861d46ae8991702874) - 2026-09-11
+* [Commit] [fix: dos protection for NetworkProcessor (#10039)](https://github.com/ChainSafe/lodestar/commit/60b5607f3ad48212a500b78357a69b349840a890) - 2026-09-11
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
@@ -250,6 +259,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4912352995) - 2026-08-12
 * [Review] [Review on: [do not merge] feat(bindings): asyncAggregateWithRandomness by indices](https://github.com/ChainSafe/lodestar-z/pull/561#pullrequestreview-4925106997) - 2026-08-13
 * [Review] [Review on: fix(bindings): expose explicit state view disposal](https://github.com/ChainSafe/lodestar-z/pull/649#pullrequestreview-5129502168) - 2026-09-07
+* [Review] [Review on: fix: release bitlist json scratch](https://github.com/ChainSafe/lodestar-z/pull/677#pullrequestreview-5174897584) - 2026-09-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4710081193) - 2026-07-16
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4794777777) - 2026-07-28

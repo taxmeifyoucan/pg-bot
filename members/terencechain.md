@@ -236,6 +236,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Ignore bids from builders exited by the parent's payload](https://github.com/OffchainLabs/prysm/pull/17482) - 2026-09-10
 * [Review] [Review on: Remove `skipBlockSignaturesForTesting` bypass](https://github.com/OffchainLabs/prysm/pull/17461#pullrequestreview-5171684419) - 2026-09-10
 * [Review] [Review on: Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235#pullrequestreview-5171484473) - 2026-09-10
+* [Commit] [Ignore proposer preferences for pre-Gloas proposal slots (#17483)](https://github.com/OffchainLabs/prysm/commit/0f2c8089e6d7ddc935b40833e01e8ce93648be94) - 2026-09-11
+* [Commit] [Regenerate attestation pre-states one at a time (#17456)](https://github.com/OffchainLabs/prysm/commit/25a34e655f7125efc28bb322895ca23d95d534e4) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

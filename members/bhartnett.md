@@ -112,6 +112,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Codebytes optimizations](https://github.com/status-im/nimbus-eth1/pull/4762) - 2026-09-09
 * [Commit] [Speed up jumpdest (#4766)](https://github.com/status-im/nimbus-eth1/commit/5de8f6bb453c2a1d3616faecccc04457172730db) - 2026-09-10
 * [Commit] [Codebytes optimizations (#4762)](https://github.com/status-im/nimbus-eth1/commit/8b63aacb7ae2fe023b6d7cb0cf34b7f59f24f5f1) - 2026-09-09
+* [Review] [Review on: `create` opcode use code cache](https://github.com/status-im/nimbus-eth1/pull/4779#pullrequestreview-5178595068) - 2026-09-11
 ## Q2 2026
 
 

@@ -363,6 +363,30 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(trie): seek and patch full branches at fixed offsets](https://github.com/NethermindEth/nethermind/pull/13336#pullrequestreview-5165140038) - 2026-09-10
 * [Review] [Review on: perf(evm): trim initialized memory checks](https://github.com/NethermindEth/nethermind/pull/13358#pullrequestreview-5167959480) - 2026-09-10
 * [Commit] [Fix PoSSwitcher genesis nullability build error (#13367)](https://github.com/NethermindEth/nethermind/commit/fe1bc0408b1254e15b3ad2da48196e1e0de2250f) - 2026-09-10
+* [Review] [Review on: chore(deps): bump Nethermind.Numerics.Int256 to 1.9.0](https://github.com/NethermindEth/nethermind/pull/13389#pullrequestreview-5181840943) - 2026-09-11
+* [Review] [Review on: perf: stop allocating a copy of the input for the ID precompile](https://github.com/NethermindEth/nethermind/pull/13395#pullrequestreview-5182199171) - 2026-09-11
+* [Review] [Review on: Reduce native callTracer execution overhead](https://github.com/NethermindEth/nethermind/pull/13406#pullrequestreview-5183794311) - 2026-09-11
+* [Review] [Review on: perf(rpc): bound EVM-executing JSON-RPC concurrency with an aged, cost-ordered admission gate](https://github.com/NethermindEth/nethermind/pull/13398#pullrequestreview-5183554150) - 2026-09-11
+* [Review] [Review on: perf: stop BLOCKHASH reading state and allocating on every call](https://github.com/NethermindEth/nethermind/pull/13397#pullrequestreview-5181922134) - 2026-09-11
+* [Review] [Review on: perf: resolve a BAL storage access in one probe and memoize the account](https://github.com/NethermindEth/nethermind/pull/13408#pullrequestreview-5183889544) - 2026-09-11
+* [Review] [Review on: perf(bal): cache account context and simplify composite reads](https://github.com/NethermindEth/nethermind/pull/13311#pullrequestreview-5178845484) - 2026-09-11
+* [Review] [Review on: perf: skip the write-journal probe for contracts that have not written](https://github.com/NethermindEth/nethermind/pull/13405#pullrequestreview-5183107367) - 2026-09-11
+* [Review] [Review on: Fix malformed JSON-RPC batch items without aborting subsequent requests](https://github.com/NethermindEth/nethermind/pull/12537#pullrequestreview-5183263730) - 2026-09-11
+* [Review] [Review on: perf(bal): bypass journaling for immutable parent reads](https://github.com/NethermindEth/nethermind/pull/13312#pullrequestreview-5181673055) - 2026-09-11
+* [Review] [Review on: Cache large BAL storage read sets by dense ordinal](https://github.com/NethermindEth/nethermind/pull/13316#pullrequestreview-5182681057) - 2026-09-11
+* [Review] [Review on: test: wait for the tx-carrying improvement in the V6 BAL test](https://github.com/NethermindEth/nethermind/pull/13403#pullrequestreview-5182504941) - 2026-09-11
+* [Review] [Review on: perf: reduce the MODEXP base before exponentiating](https://github.com/NethermindEth/nethermind/pull/13396#pullrequestreview-5181680747) - 2026-09-11
+* [Pull Request] [ci: disable Ethereum fixture coverage and remove legacy VM sharding](https://github.com/NethermindEth/nethermind/pull/13254) - 2026-09-11
+* [Review] [Review on: Reduce allocations in parallel BAL read validation](https://github.com/NethermindEth/nethermind/pull/13315#pullrequestreview-5179099426) - 2026-09-11
+* [Review] [Review on: perf(evm): trim cached jump validation](https://github.com/NethermindEth/nethermind/pull/13369#pullrequestreview-5181216231) - 2026-09-11
+* [Pull Request] [perf: remove fixed block prewarming and trie concurrency caps](https://github.com/NethermindEth/nethermind/pull/13388) - 2026-09-11
+* [Review] [Review on: perf: remove fixed block prewarming and trie concurrency caps](https://github.com/NethermindEth/nethermind/pull/13388#pullrequestreview-5180955178) - 2026-09-11
+* [Commit] [perf(bal): cache account context and simplify composite reads (#13311)](https://github.com/NethermindEth/nethermind/commit/f5f457cb7d513d1c012b882ce7c7748aa586013e) - 2026-09-11
+* [Commit] [perf(bal): bypass journaling for immutable parent reads (#13312)](https://github.com/NethermindEth/nethermind/commit/24161e7b8c6e279fa97b1269b5c944043002b19e) - 2026-09-11
+* [Commit] [ci: disable Ethereum fixture coverage and remove legacy VM sharding (#13254)](https://github.com/NethermindEth/nethermind/commit/3a304281d18bfdb447249266756a8f3a3f61c14f) - 2026-09-11
+* [Commit] [Reduce allocations in parallel BAL read validation (#13315)](https://github.com/NethermindEth/nethermind/commit/49775093832e934de88f1bec3a3808f5e3c728d9) - 2026-09-11
+* [Commit] [perf: remove fixed block prewarming and trie concurrency caps (#13388)](https://github.com/NethermindEth/nethermind/commit/a66d9cae24402c4796f86ee3dc5af551d9b93f3a) - 2026-09-11
+* [Commit] [perf: skip unobserved EVM logs based on tracer requirements (#13372)](https://github.com/NethermindEth/nethermind/commit/238ab20bb6b837731ec16bc41cf8d095f268b614) - 2026-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

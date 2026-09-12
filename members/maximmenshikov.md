@@ -110,6 +110,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Zisk 1.1.0 alpha support](https://github.com/NethermindEth/bflat-riscv64/pull/39) - 2026-08-20
 * [Commit] [zkvm_zisk: place PROGBITS sections ahead of the TLS template](https://github.com/NethermindEth/bflat-riscv64/commit/acee0ec11a2bb2199e941380ae0336caa429cdea) - 2026-08-20
 * [Commit] [BuildCommand: fix ZisK memcmp idiom comment operands](https://github.com/NethermindEth/bflat-riscv64/commit/66064fcf3e25e013592689628d4174e141dd0b5f) - 2026-08-20
+* [Pull Request] [Support for new zkVMs](https://github.com/NethermindEth/bflat-riscv64/pull/42) - 2026-09-11
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 * [Commit] [tools/clang: match Runtime.*.dir objects as client code](https://github.com/NethermindEth/dotnet-riscv/commit/511edf6e28ee1172c5968632bcf454e5a7bc2ebf) - 2026-08-11

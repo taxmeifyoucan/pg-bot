@@ -53,6 +53,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Avoid copying unchanged justified balances](https://github.com/sigp/lighthouse/pull/10023) - 2026-09-09
 * [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5150044691) - 2026-09-09
 * [Review] [Review on: Fix flaky unknown block test](https://github.com/sigp/lighthouse/pull/10001#pullrequestreview-5149710001) - 2026-09-09
+* [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5175047557) - 2026-09-11
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
 * [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20

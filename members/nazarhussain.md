@@ -59,6 +59,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: remove redundant epoch benchmark reward synchronization](https://github.com/ChainSafe/lodestar-z/pull/668#pullrequestreview-5165755251) - 2026-09-10
 * [Review] [Review on: perf: use saturating arithmetic in balance updates for SIMD vectorization](https://github.com/ChainSafe/lodestar-z/pull/282#pullrequestreview-5166188357) - 2026-09-10
 * [Review] [Review on: fix(stf): cleanup sync committee indices on init OOM path](https://github.com/ChainSafe/lodestar-z/pull/631#pullrequestreview-5165770500) - 2026-09-10
+* [Review] [Review on: perf: use saturating arithmetic in balance updates for SIMD vectorization](https://github.com/ChainSafe/lodestar-z/pull/282#pullrequestreview-5177560522) - 2026-09-11
+* [Review] [Review on: fix(ssz): ignore BitVector padding bits](https://github.com/ChainSafe/lodestar-z/pull/329#pullrequestreview-5177496096) - 2026-09-11
+* [Review] [Review on: test: verify allocation failure coverage with standard checks](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5177429374) - 2026-09-11
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -101,6 +104,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-5152824487) - 2026-09-09
 * [Review] [Review on: refactor: derive gloas p2p max sizes from ssz types](https://github.com/ChainSafe/lodestar/pull/10053#pullrequestreview-5165883120) - 2026-09-10
 * [Commit] [fix: fall back to finalized safe block (#10027)](https://github.com/ChainSafe/lodestar/commit/2948e4a2aff267d6060228f6ed56f52d76003394) - 2026-09-10
+* [Review] [Review on: test: verify imported block in unknown-block sync simulation](https://github.com/ChainSafe/lodestar/pull/10054#pullrequestreview-5178021410) - 2026-09-11
+* [Review] [Review on: refactor: derive gloas p2p max sizes from ssz types](https://github.com/ChainSafe/lodestar/pull/10053#pullrequestreview-5177572274) - 2026-09-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

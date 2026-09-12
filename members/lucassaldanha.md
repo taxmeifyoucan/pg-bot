@@ -37,6 +37,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Merge pull request #525 from lucassaldanha/wortree/consolidate-per-type-counters](https://github.com/libp2p/jvm-libp2p/commit/1871b08e7f127fa706c9d3277b4e183ec837fce7) - 2026-09-07
 * [Commit] [test(gossip): cover IWANT response amplification](https://github.com/libp2p/jvm-libp2p/commit/574f1b4d8a731cee0d6cf98bf95b2f1321695b74) - 2026-09-07
 * [Commit] [fix(gossip): open a single outbound stream per peer (#528)](https://github.com/libp2p/jvm-libp2p/commit/2f6fa5f1e67873841f241f93df6c9abb9f6176f8) - 2026-09-11
+* [Issue] [Smart-dialing feature (address ranking + staggered dials)](https://github.com/libp2p/jvm-libp2p/issues/529) - 2026-09-11
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28

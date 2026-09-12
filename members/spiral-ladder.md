@@ -238,6 +238,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat(metrics): report proposer rewards per type (#689)](https://github.com/ChainSafe/lodestar-z/commit/d2eaabe75d21a816705acb62923a941d237d378f) - 2026-09-10
 * [Commit] [perf(state-transition): optimize slashing penalties (#676)](https://github.com/ChainSafe/lodestar-z/commit/b01424a11f647eeb3b6087850d47b9c36f6d251d) - 2026-09-10
 * [Commit] [feat(metrics): record exported but unset state transition gauges (#662)](https://github.com/ChainSafe/lodestar-z/commit/d57e89a4e05290615fbceeebd14b83a7f903ae98) - 2026-09-10
+* [Pull Request] [fix(bindings): return sync committee index maps](https://github.com/ChainSafe/lodestar-z/pull/691) - 2026-09-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

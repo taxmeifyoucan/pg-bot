@@ -24,6 +24,9 @@ Team: Erigon
 * [Review] [Review on: integration-test: eth_estimateGas update expected test 17/28 for state Override](https://github.com/erigontech/rpc-tests/pull/593#pullrequestreview-5057237492) - 2026-08-29
 * [Review] [Review on: integration_test: fix compare json](https://github.com/erigontech/rpc-tests/pull/595#pullrequestreview-5110092094) - 2026-09-04
 * [Review] [Review on: add callTracer withLog tests for debug_trace* APIs](https://github.com/erigontech/rpc-tests/pull/597#pullrequestreview-5124567729) - 2026-09-06
+* [Review] [Review on: integration_test: add blockTimestampo to erigon_getLogsByHash](https://github.com/erigontech/rpc-tests/pull/602#pullrequestreview-5180599535) - 2026-09-11
+* [Review] [Review on: integration: ignore the tracer error field on debug_traceBlockByNumber latest tests](https://github.com/erigontech/rpc-tests/pull/598#pullrequestreview-5177470965) - 2026-09-11
+* [Review] [Review on: add Go unit tests across all packages and fix three defects they surfaced](https://github.com/erigontech/rpc-tests/pull/601#pullrequestreview-5177468665) - 2026-09-11
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06

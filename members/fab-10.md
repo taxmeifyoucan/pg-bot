@@ -217,6 +217,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Further improve the acceptance tests split mechanism](https://github.com/besu-eth/besu/pull/11265#pullrequestreview-5164383205) - 2026-09-10
 * [Review] [Review on: ci(dco): replace tim-actions/dco with actions/github-script](https://github.com/besu-eth/besu/pull/11257#pullrequestreview-5164572476) - 2026-09-10
 * [Commit] [Further improve the acceptance tests split mechanism (#11265)](https://github.com/besu-eth/besu/commit/67e80df1bb72e32682f8a24108a1204a05fb33a8) - 2026-09-10
+* [Review] [Review on: Fix eth_estimateGas internal error related to value transfer tx](https://github.com/besu-eth/besu/pull/11272#pullrequestreview-5179285004) - 2026-09-11
+* [Review] [Review on: feat(rpc): native 4byteTracer implementation via OperationTracer hooks](https://github.com/besu-eth/besu/pull/11271#pullrequestreview-5176689843) - 2026-09-11
+* [Pull Request] [Pass PendingTransaction to txpool added/dropped listeners](https://github.com/besu-eth/besu/pull/11279) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

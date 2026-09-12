@@ -119,6 +119,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: TCREATE Opcode](https://github.com/ethereum/EIPs/pull/12073#pullrequestreview-5125255457) - 2026-09-06
 * [Review] [Review on: Update EIP-8288: Update eip-8288.md](https://github.com/ethereum/EIPs/pull/12308#pullrequestreview-5155489591) - 2026-09-09
 * [Pull Request] [Update EIP-7923: get rid of transaction-wide memory cap](https://github.com/ethereum/EIPs/pull/12314) - 2026-09-10
+* [Pull Request] [Update EIP-5920: make Glamsterdam-ready](https://github.com/ethereum/EIPs/pull/12315) - 2026-09-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -172,6 +173,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [fix(fill): warn and discard a partial opcode trace instead of reporting it](https://github.com/ethereum/execution-specs/pull/3505) - 2026-09-02
 * [Pull Request] [fix(execute): derive the EOA start key instead of randomising it](https://github.com/ethereum/execution-specs/pull/3504) - 2026-09-02
 * [Pull Request] [feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535) - 2026-09-06
+* [Review] [Review on: feat(test-evm-tools): derive fork-block activation from the transition schedule](https://github.com/ethereum/execution-specs/pull/3557#pullrequestreview-5175041949) - 2026-09-11
+* [Pull Request] [feat(spec-tests, spec-tools): run fork-transition fixtures through EELS](https://github.com/ethereum/execution-specs/pull/3564) - 2026-09-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

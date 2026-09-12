@@ -80,6 +80,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5158159664) - 2026-09-09
 * [Review] [Review on: Add missing Gloas case to saveStatesEfficientInternal](https://github.com/OffchainLabs/prysm/pull/17472#pullrequestreview-5156020465) - 2026-09-09
 * [Review] [Review on: Make fuzzer happy & Harden hdiff decoding](https://github.com/OffchainLabs/prysm/pull/17470#pullrequestreview-5156067766) - 2026-09-09
+* [Review] [Review on: Replace EF bootstrap nodes with NodeOps fleet](https://github.com/OffchainLabs/prysm/pull/17474#pullrequestreview-5182526550) - 2026-09-11
 ## Q2 2026
 
 

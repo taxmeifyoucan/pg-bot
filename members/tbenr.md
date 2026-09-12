@@ -110,6 +110,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Include compRefTests](https://github.com/Consensys-Incorporated/teku/pull/11134#pullrequestreview-5171011349) - 2026-09-10
 * [Review] [Review on: key proposer preferences by slot and dependent root](https://github.com/Consensys-Incorporated/teku/pull/11242#pullrequestreview-5167909158) - 2026-09-10
 * [Issue] [Optimize retry Bid in heavy-forked scenarios](https://github.com/Consensys-Incorporated/teku/issues/11259) - 2026-09-10
+* [Pull Request] [Enforce progressive-list soft limits at network decode time](https://github.com/Consensys-Incorporated/teku/pull/11263) - 2026-09-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

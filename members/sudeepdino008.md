@@ -181,6 +181,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db: make ResetNextSalt actually reset](https://github.com/erigontech/erigon/pull/23853#pullrequestreview-5141445275) - 2026-09-08
 * [Review] [Review on: [r3.6] db/recsplit: make ResetNextSalt actually reset](https://github.com/erigontech/erigon/pull/23858#pullrequestreview-5141266725) - 2026-09-08
 * [Review] [Review on: db/seg: stop ReadFrom decoding into the file mapping](https://github.com/erigontech/erigon/pull/23810#pullrequestreview-5141368851) - 2026-09-08
+* [Pull Request] [bsc: Parlia execution — system transactions + fee model (behind ERIGON_BSC_EXECUTE)](https://github.com/erigontech/erigon/pull/23929) - 2026-09-11
 ## Q2 2026
 
 

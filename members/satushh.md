@@ -72,6 +72,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Add WithRPCClientDialer option to inject the execution node RPC client (#17334)](https://github.com/OffchainLabs/prysm/commit/6aea5918db9b62e40b2710b16610b0a8f76db09a) - 2026-09-09
 * [Review] [Review on: Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235#pullrequestreview-5170382351) - 2026-09-10
 * [Pull Request] [Add bulk `All` iterator to multi-value slice and use it for full validator reads](https://github.com/OffchainLabs/prysm/pull/17480) - 2026-09-10
+* [Pull Request] [Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491) - 2026-09-11
+* [Pull Request] [Derive SaveOrigin checkpoint epoch from the origin state slot](https://github.com/OffchainLabs/prysm/pull/17492) - 2026-09-11
+* [Pull Request] [Eip 8333 ](https://github.com/OffchainLabs/prysm/pull/17489) - 2026-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

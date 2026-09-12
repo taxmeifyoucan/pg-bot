@@ -37,6 +37,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(skill): refresh skills](https://github.com/ethereum/execution-specs/pull/3562) - 2026-09-10
 * [Review] [Review on: feat(tests,forks): tests BAL early validation; refactor system contracts](https://github.com/ethereum/execution-specs/pull/3484#pullrequestreview-5169004752) - 2026-09-10
 * [Commit] [feat(tests,forks): tests BAL early validation; refactor system contracts (#3484)](https://github.com/ethereum/execution-specs/commit/622620d84a70efe1337abdafaecd7bdfeb254b92) - 2026-09-10
+* [Pull Request] [feat(tests,specs): eip7928 extended coverage](https://github.com/ethereum/execution-specs/pull/3566) - 2026-09-11
+* [Pull Request] [feat(tests): eip8282 checklist review](https://github.com/ethereum/execution-specs/pull/3565) - 2026-09-11
+* [Review] [Review on: feat(tests): probe EIP-161 emptiness after same-tx precompile touches](https://github.com/ethereum/execution-specs/pull/3477#pullrequestreview-5175722522) - 2026-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

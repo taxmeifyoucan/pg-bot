@@ -310,6 +310,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(tests): remove stale EIP-2935 history-window TODOs](https://github.com/ethereum/execution-specs/pull/3549#pullrequestreview-5166580107) - 2026-09-10
 * [Review] [Review on: fix(test-consume): group test cases by fixture file and bound the per-worker fixture cache](https://github.com/ethereum/execution-specs/pull/3555#pullrequestreview-5166326304) - 2026-09-10
 * [Commit] [feat(tests): cover EIP-8037 system gas and code-deposit boundaries (#3524)](https://github.com/ethereum/execution-specs/commit/bb95255f8316e0bf25c4cab39514382c5b1d4d88) - 2026-09-10
+* [Review] [Review on: fix(test-fill): reset opcode count before generating fill results](https://github.com/ethereum/execution-specs/pull/3563#pullrequestreview-5179251994) - 2026-09-11
+* [Commit] [feat(tests): probe EIP-161 emptiness after same-tx precompile touches (#3477)](https://github.com/ethereum/execution-specs/commit/4887bcaa2b92c27f0d12891b3518dffe5bbd1749) - 2026-09-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -348,6 +350,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients: add bogota time to execution layer client mappers (#1601)](https://github.com/ethereum/hive/commit/3330f39b2165134865abdaba5f43b3f85f66779e) - 2026-08-20
 * [Review] [Review on: simulators/ethereum/engine: apply withdrawals CL mock config](https://github.com/ethereum/hive/pull/1604#pullrequestreview-5066866136) - 2026-08-31
 * [Review] [Review on: internal/libhive,simulators/ethereum/eels: support optional authenticated GitHub clones, redact token from recorded commands](https://github.com/ethereum/hive/pull/1606#pullrequestreview-5104086408) - 2026-09-03
+* [Review] [Review on: internal/libhive: support simulator build configurations with --sim.file](https://github.com/ethereum/hive/pull/1607#pullrequestreview-5179953130) - 2026-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

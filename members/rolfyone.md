@@ -201,6 +201,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-27
 * [Commit] [Added code for Nimbus EL identification (#848)](https://github.com/ethereum/execution-apis/commit/e5d1bb60e6c064e4b15080da07b4370d0baadf92) - 2026-07-27
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Perform EIP-7688 limit gossip checks first](https://github.com/ethereum/consensus-specs/pull/5630#pullrequestreview-5182881249) - 2026-09-11
 ## Q2 2026
 
 

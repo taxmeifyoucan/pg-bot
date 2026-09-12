@@ -362,6 +362,38 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf: drop redundant SSZ merkleization scratch clears](https://github.com/NethermindEth/nethermind/pull/13352#pullrequestreview-5166485464) - 2026-09-10
 * [Review] [Review on: perf: stream withdrawal roots with the indexed trie calculator](https://github.com/NethermindEth/nethermind/pull/13355#pullrequestreview-5166552195) - 2026-09-10
 * [Commit] [fix(rlp): derive the receipt log limit from the block gas ceiling (#13288)](https://github.com/NethermindEth/nethermind/commit/e319c2e74c8229fcf1721b50903519402cc07df2) - 2026-09-11
+* [Pull Request] [perf(il): skip the keyed nonce scan when drawing an inclusion list](https://github.com/NethermindEth/nethermind/pull/13384) - 2026-09-11
+* [Review] [Review on: perf(il): skip the keyed nonce scan when drawing an inclusion list](https://github.com/NethermindEth/nethermind/pull/13384#pullrequestreview-5181639209) - 2026-09-11
+* [Pull Request] [fix(eip7805): anchor the inclusion-list run at the account nonce](https://github.com/NethermindEth/nethermind/pull/13381) - 2026-09-11
+* [Review] [Review on: fix(eip7805): anchor the inclusion-list run at the account nonce](https://github.com/NethermindEth/nethermind/pull/13381#pullrequestreview-5181517723) - 2026-09-11
+* [Pull Request] [test(focil): assert inclusionListSatisfied on the forkchoice response](https://github.com/NethermindEth/nethermind/pull/13411) - 2026-09-11
+* [Pull Request] [test(eip8141): make three frame-tx regressions hold what they name](https://github.com/NethermindEth/nethermind/pull/13410) - 2026-09-11
+* [Pull Request] [test(focil): pin the sender reservoir's headroom over the inclusion-list byte cap](https://github.com/NethermindEth/nethermind/pull/13392) - 2026-09-11
+* [Review] [Review on: test(focil): pin the sender reservoir's headroom over the inclusion-list byte cap](https://github.com/NethermindEth/nethermind/pull/13392#pullrequestreview-5181835455) - 2026-09-11
+* [Pull Request] [fix: end an inclusion-list sender run at a tx skipped for size](https://github.com/NethermindEth/nethermind/pull/13382) - 2026-09-11
+* [Review] [Review on: fix: end an inclusion-list sender run at a tx skipped for size](https://github.com/NethermindEth/nethermind/pull/13382#pullrequestreview-5181824661) - 2026-09-11
+* [Pull Request] [feat(focil): allow reserving part of the inclusion-list draw for the oldest senders](https://github.com/NethermindEth/nethermind/pull/13394) - 2026-09-11
+* [Review] [Review on: feat(focil): allow reserving part of the inclusion-list draw for the oldest senders](https://github.com/NethermindEth/nethermind/pull/13394#pullrequestreview-5181591778) - 2026-09-11
+* [Pull Request] [fix(focil): report inclusionListSatisfied for a head newPayloadV6 left unanswered](https://github.com/NethermindEth/nethermind/pull/13385) - 2026-09-11
+* [Review] [Review on: fix(focil): report inclusionListSatisfied for a head newPayloadV6 left unanswered](https://github.com/NethermindEth/nethermind/pull/13385#pullrequestreview-5181472082) - 2026-09-11
+* [Review] [Review on: perf: reduce the MODEXP base before exponentiating](https://github.com/NethermindEth/nethermind/pull/13396#pullrequestreview-5182067625) - 2026-09-11
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13401) - 2026-09-11
+* [Pull Request] [test(eip8141): say what the frame-tx pool fixtures measure, and share the pool helper](https://github.com/NethermindEth/nethermind/pull/13400) - 2026-09-11
+* [Review] [Review on: test(eip8141): say what the frame-tx pool fixtures measure, and share the pool helper](https://github.com/NethermindEth/nethermind/pull/13400#pullrequestreview-5182051805) - 2026-09-11
+* [Pull Request] [EIP-8141: keep every executed frame in callTracer output](https://github.com/NethermindEth/nethermind/pull/13399) - 2026-09-11
+* [Pull Request] [fix(evm): make the pooled-object leak detectors able to fire](https://github.com/NethermindEth/nethermind/pull/13393) - 2026-09-11
+* [Review] [Review on: fix(evm): make the pooled-object leak detectors able to fire](https://github.com/NethermindEth/nethermind/pull/13393#pullrequestreview-5181636748) - 2026-09-11
+* [Pull Request] [fix(focil): end a sender's inclusion-list run at the first priced-out nonce](https://github.com/NethermindEth/nethermind/pull/13383) - 2026-09-11
+* [Review] [Review on: fix(focil): end a sender's inclusion-list run at the first priced-out nonce](https://github.com/NethermindEth/nethermind/pull/13383#pullrequestreview-5181784961) - 2026-09-11
+* [Review] [Review on: Reduce allocations in parallel BAL read validation](https://github.com/NethermindEth/nethermind/pull/13315#pullrequestreview-5179346151) - 2026-09-11
+* [Pull Request] [Document why the FOCIL inclusion list is not revalidation-gated](https://github.com/NethermindEth/nethermind/pull/13380) - 2026-09-11
+* [Review] [Review on: Document why the FOCIL inclusion list is not revalidation-gated](https://github.com/NethermindEth/nethermind/pull/13380#pullrequestreview-5181761014) - 2026-09-11
+* [Pull Request] [test(il): measure EIP-7805 inclusion-list transaction count (K)](https://github.com/NethermindEth/nethermind/pull/13391) - 2026-09-11
+* [Review] [Review on: test(il): measure EIP-7805 inclusion-list transaction count (K)](https://github.com/NethermindEth/nethermind/pull/13391#pullrequestreview-5181742160) - 2026-09-11
+* [Pull Request] [fix: skip blob transactions in the inclusion list satisfaction check](https://github.com/NethermindEth/nethermind/pull/13390) - 2026-09-11
+* [Review] [Review on: fix: skip blob transactions in the inclusion list satisfaction check](https://github.com/NethermindEth/nethermind/pull/13390#pullrequestreview-5181453823) - 2026-09-11
+* [Pull Request] [EIP-8141: address the P3 review threads on the frame-tx stack](https://github.com/NethermindEth/nethermind/pull/13378) - 2026-09-11
+* [Review] [Review on: EIP-8141: address the P3 review threads on the frame-tx stack](https://github.com/NethermindEth/nethermind/pull/13378#pullrequestreview-5179302912) - 2026-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -393,6 +425,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/commit/7d1f8857ad2483886827e01a7864684dbc34885f) - 2026-08-20
 * [Pull Request] [Update EIP-8141: bound chain_id to 2**64](https://github.com/ethereum/EIPs/pull/12223) - 2026-08-21
 * [Pull Request] [Update EIP-7805: skip IL transactions needing data the IL cannot carry](https://github.com/ethereum/EIPs/pull/12224) - 2026-08-21
+* [Pull Request] [Update EIP-7805: skip blob transactions in the inclusion list check](https://github.com/ethereum/EIPs/pull/12319) - 2026-09-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30
@@ -405,6 +438,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(tests): stop test_tx_gas_limit opting into an inclusion-list variant](https://github.com/ethereum/execution-specs/pull/3503) - 2026-09-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: specify behaviour for an oversized aggregated inclusion list](https://github.com/ethereum/execution-apis/pull/864) - 2026-08-20
+* [Pull Request] [engine: add optional parentBlockHash to engine_getInclusionListV1](https://github.com/ethereum/execution-apis/pull/886) - 2026-09-11
 ## Q2 2026
 
 

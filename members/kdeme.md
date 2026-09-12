@@ -130,6 +130,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add block proof for Gloas and later](https://github.com/status-im/nimbus-eth1/pull/4776) - 2026-09-10
 * [Commit] [Verify the genesis block of PoS only networks against the genesis data (#4777)](https://github.com/status-im/nimbus-eth1/commit/6f59b7bc4658c0b9474ef520042f2166428d8b93) - 2026-09-10
 * [Commit] [Add block proof for Gloas and later (#4776)](https://github.com/status-im/nimbus-eth1/commit/c80069e6771a388a80d66012a927e91d0fe4cad7) - 2026-09-10
+* [Pull Request] [Fix merge era check for TotalDifficulty and AccumulatorRoot](https://github.com/status-im/nimbus-eth1/pull/4784) - 2026-09-11
+* [Pull Request] [history export: verify ere files in era order and report gaps](https://github.com/status-im/nimbus-eth1/pull/4780) - 2026-09-11
+* [Commit] [stateless: build the guest into a ZisK ELF, with zkVM accelerators (#4760)](https://github.com/status-im/nimbus-eth1/commit/8747db8f69da44e66e29dd469f541eae36b0411d) - 2026-09-11
+* [Commit] [Fix merge era check for TotalDifficulty and AccumulatorRoot (#4784)](https://github.com/status-im/nimbus-eth1/commit/e7a96650d57aaaffb48f1a9028fd5e25af21fe05) - 2026-09-11
+* [Commit] [Add engine_newPayloadWithWitnessV4 and V5 (#4591)](https://github.com/status-im/nimbus-eth1/commit/0bd8518e870b20079fe9e8d63047f8267bc81a9c) - 2026-09-11
+* [Commit] [history export: verify ere files in era order and report gaps (#4780)](https://github.com/status-im/nimbus-eth1/commit/4202be00518bb60fe0e175cf6cae5c4c79d32c4e) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

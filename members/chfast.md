@@ -262,6 +262,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Make a fixture file the only kind of test (#1699)](https://github.com/ipsilon/evmone/commit/20c5b225e45f28560a2f8bab6d7e2e14b82a0086) - 2026-09-07
 * [Commit] [test: Collect test files as plain paths (#1701)](https://github.com/ipsilon/evmone/commit/ab3d68edd375cef04609f69dea90d3f71c3bf187) - 2026-09-07
 * [Commit] [test: Add the evmone test command (#1685)](https://github.com/ipsilon/evmone/commit/f52b1c1222da9ccc362960beb146f5ed0d757973) - 2026-09-08
+* [Pull Request] [test: Register EEST fixtures as ctest tests per directory](https://github.com/ipsilon/evmone/pull/1705) - 2026-09-11
+* [Pull Request] [evm: Don't check call depth limit in Osaka](https://github.com/ipsilon/evmone/pull/1704) - 2026-09-11
+* [Commit] [evm: Don't check call depth limit in Osaka (#1704)](https://github.com/ipsilon/evmone/commit/42a296cd78438dc4dae54e2b73a8a0f5f4b12bb6) - 2026-09-11
+* [Commit] [crypto: Reduce the exponent for the power-of-two modulus part (#1662)](https://github.com/ipsilon/evmone/commit/bf8303f66cb1f87d502aa2f497e0e92d39f8ad00) - 2026-09-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -332,6 +336,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [refactor(tests): separate the gas window and receipt tests (#3512)](https://github.com/ethereum/execution-specs/commit/b462ba26e94f743511ec749754352d374838769b) - 2026-09-03
 * [Pull Request] [fix(tests): EIP-8037 - drop double-counted hash gas in code deposit guard](https://github.com/ethereum/execution-specs/pull/3554) - 2026-09-09
 * [Pull Request] [feat(tests): EIP-8037 - code deposit regular gas with a covering reservoir](https://github.com/ethereum/execution-specs/pull/3553) - 2026-09-09
+* [Pull Request] [refactor(tests): fold the simple ported ECRECOVER cases into test_precompiles](https://github.com/ethereum/execution-specs/pull/3574) - 2026-09-11
+* [Pull Request] [feat(tests): in-range signature that recovers no public key](https://github.com/ethereum/execution-specs/pull/3573) - 2026-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -380,6 +386,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Amsterdam: failing value-bearing CALLCODE to a precompile is charged no gas](https://github.com/besu-eth/besu/issues/11124) - 2026-08-22
 
+* [Issue] [An invalid transaction signature can be reported as an internal error](https://github.com/besu-eth/besu/issues/11278) - 2026-09-11
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [Amsterdam: spilled EIP-8037 state gas is credited back to the parent reservoir on halt](https://github.com/NethermindEth/nethermind/issues/12964) - 2026-08-23
 

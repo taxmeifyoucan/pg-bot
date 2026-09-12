@@ -124,6 +124,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Extend existing tests to cover Heze (#5615)](https://github.com/ethereum/consensus-specs/commit/11f44343a8a282e7a9c2dee46590e273a8a0348a) - 2026-09-09
 * [Review] [Review on: Resolve outstanding Gloas test TODOs](https://github.com/ethereum/consensus-specs/pull/5617#pullrequestreview-5166277948) - 2026-09-10
 * [Review] [Review on: Convert `NewPayloadRequest` from dataclass to container](https://github.com/ethereum/consensus-specs/pull/5619#pullrequestreview-5166191655) - 2026-09-10
+* [Review] [Review on: Add weak subjectivity period table for gloas](https://github.com/ethereum/consensus-specs/pull/5629#pullrequestreview-5181179213) - 2026-09-11
+* [Review] [Review on: Define recursive EIP-8025 execution proof guest](https://github.com/ethereum/consensus-specs/pull/5534#pullrequestreview-5181264162) - 2026-09-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -145,6 +147,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 * [Pull Request] [Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/pull/12172) - 2026-08-14
 * [Commit] [Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/commit/3b82eabe076be68b6425f3973b1dc9a176cacd1c) - 2026-08-14
+* [Review] [Review on: Update EIP-4444: Move to Draft](https://github.com/ethereum/EIPs/pull/12257#pullrequestreview-5178497676) - 2026-09-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #39, August 4, 2026](https://github.com/ethereum/pm/issues/2179) - 2026-08-03
 * [Issue] [FOCIL Breakout #39, August 18, 2026](https://github.com/ethereum/pm/issues/2194) - 2026-08-17

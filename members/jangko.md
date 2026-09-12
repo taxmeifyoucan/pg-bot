@@ -129,6 +129,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Bubble up estimateGas error message](https://github.com/status-im/nimbus-eth1/pull/4764) - 2026-09-09
 * [Pull Request] [engine_api: getBlobsV4 should check against Amsterdam fork, not Osaka](https://github.com/status-im/nimbus-eth1/pull/4778) - 2026-09-11
 * [Commit] [Bubble up estimateGas error message (#4764)](https://github.com/status-im/nimbus-eth1/commit/71f2a085eedaa846584f254ee8d0114b7af9f179) - 2026-09-10
+* [Commit] [engine_api: getBlobsV4 should check against Amsterdam fork, not Osaka (#4778)](https://github.com/status-im/nimbus-eth1/commit/7f13c2e20e257ab20bdbcef32265e81093ff2a1e) - 2026-09-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

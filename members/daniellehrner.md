@@ -104,6 +104,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [fix(eth): break the transactionOfEncodedSize deadlock (#11259)](https://github.com/besu-eth/besu/commit/99918668353791ec55f56d05dbcda0b6bf358b82) - 2026-09-09
 * [Commit] [engine API: check an execution request's length before its type byte (#11194)](https://github.com/besu-eth/besu/commit/716c0c6d3d739d7b8a707182e76f620fb48dcf45) - 2026-09-09
 * [Pull Request] [ci: disable test report generation](https://github.com/besu-eth/besu/pull/11276) - 2026-09-10
+* [Pull Request] [Rename regular gas to execution gas](https://github.com/besu-eth/besu/pull/11281) - 2026-09-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

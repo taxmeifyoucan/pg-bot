@@ -513,6 +513,22 @@ Team: Erigon
 * [Review] [Review on: execution/commitment: V3 commitment scheme](https://github.com/erigontech/erigon/pull/23904#pullrequestreview-5164975678) - 2026-09-10
 * [Review] [Review on: execution/types, rpc: filter eth_getLogs receipt logs straight into the result](https://github.com/erigontech/erigon/pull/23891#pullrequestreview-5162144938) - 2026-09-10
 * [Commit] [execution/blockmetrics: emit per-block execution metrics in the cross-client JSON format (#23764)](https://github.com/erigontech/erigon/commit/e0f10c2fe3e1e0961b3c927cbb95e99942a83ab6) - 2026-09-10
+* [Pull Request] [[r3.6] execution/commitment: keep the storage load flag with the storage identity when folding a storage row](https://github.com/erigontech/erigon/pull/23928) - 2026-09-11
+* [Pull Request] [execution, cmd/utils/app: drop CSV metrics tracing from the commitment trie](https://github.com/erigontech/erigon/pull/23924) - 2026-09-11
+* [Pull Request] [[r3.6] execution/execmodule: deflake TestAssembleBlockWithFreshlyAddedTxns](https://github.com/erigontech/erigon/pull/23931) - 2026-09-11
+* [Review] [Review on: [r3.5] cl/phase1/network: require file availability before skipping an archive slot](https://github.com/erigontech/erigon/pull/23932#pullrequestreview-5179840665) - 2026-09-11
+* [Review] [Review on: cl/phase1/network: require file availability before skipping an archive slot](https://github.com/erigontech/erigon/pull/23930#pullrequestreview-5179761721) - 2026-09-11
+* [Review] [Review on: [r3.6] cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23923#pullrequestreview-5178088449) - 2026-09-11
+* [Review] [Review on: cl/persistence/blob_storage: validate the stored inclusion proof shape](https://github.com/erigontech/erigon/pull/23934#pullrequestreview-5179836961) - 2026-09-11
+* [Review] [Review on: [r3.6] cl/phase1/network: read the blob count under the canonical root](https://github.com/erigontech/erigon/pull/23922#pullrequestreview-5178087998) - 2026-09-11
+* [Review] [Review on: cmd/capcli: read the store check's block root from the canonical index](https://github.com/erigontech/erigon/pull/23918#pullrequestreview-5178087705) - 2026-09-11
+* [Review] [Review on: db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/23927#pullrequestreview-5180038317) - 2026-09-11
+* [Review] [Review on: cl: support Gloas-at-genesis state shape](https://github.com/erigontech/erigon/pull/23889#pullrequestreview-5179881848) - 2026-09-11
+* [Review] [Review on: ci: make the large-file check actually run, and test it](https://github.com/erigontech/erigon/pull/23902#pullrequestreview-5178360747) - 2026-09-11
+* [Pull Request] [db, execution, rpc: dual hex+bin commitment for binary-trie migration](https://github.com/erigontech/erigon/pull/23926) - 2026-09-11
+* [Review] [Review on: db, execution, rpc: dual hex+bin commitment for binary-trie migration](https://github.com/erigontech/erigon/pull/23926#pullrequestreview-5178607169) - 2026-09-11
+* [Review] [Review on: [r3.5] cl/sentinel: honour the peer ban on inbound connections](https://github.com/erigontech/erigon/pull/23925#pullrequestreview-5178087421) - 2026-09-11
+* [Commit] [execution/commitment: keep the storage load flag with the storage identity when folding a storage row (#23897)](https://github.com/erigontech/erigon/commit/42d4efe15b5e8bb97afebcf6bcc9464fd3a98091) - 2026-09-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

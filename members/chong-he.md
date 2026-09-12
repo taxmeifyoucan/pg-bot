@@ -68,6 +68,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: update: chiado bootnodes enrs](https://github.com/sigp/lighthouse/pull/9923#pullrequestreview-5161169274) - 2026-09-10
 * [Pull Request] [Avoid iterating all validators for `/beacon/states/{state_id}/validator*` endpoints](https://github.com/sigp/lighthouse/pull/10037) - 2026-09-11
 * [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-5173958000) - 2026-09-11
+* [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5175463295) - 2026-09-11
 ## Q2 2026
 
 

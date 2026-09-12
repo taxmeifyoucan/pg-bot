@@ -37,6 +37,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): use annotated ssz to avoid type duplication](https://github.com/ethereum/execution-specs/pull/3455#pullrequestreview-5032894554) - 2026-08-26
 * [Pull Request] [feat(zkevm): Reject noncanonical SSZ and catch guest validation errors](https://github.com/ethereum/execution-specs/pull/3531) - 2026-09-04
 * [Pull Request] [fix(filler): reset opcode count before generating fill results](https://github.com/ethereum/execution-specs/pull/3563) - 2026-09-11
+* [Commit] [fix(test-fill): reset opcode count before generating fill results (#3563)](https://github.com/ethereum/execution-specs/commit/6cb09294bb78dbb9a43b8d518aabbd18a91b514b) - 2026-09-11
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
@@ -93,6 +94,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-4792119037) - 2026-07-27
 
 * [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-5019572076) - 2026-08-25
+* [Pull Request] [engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885) - 2026-09-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #07, August 12, 2026](https://github.com/ethereum/pm/issues/2184) - 2026-08-09
 * [Issue] [L1-zkEVM breakout #08, September 09, 2026](https://github.com/ethereum/pm/issues/2215) - 2026-09-07

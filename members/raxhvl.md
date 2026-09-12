@@ -20,6 +20,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests,forks): tests BAL early validation; refactor system contracts](https://github.com/ethereum/execution-specs/pull/3484#pullrequestreview-5149869835) - 2026-09-09
+* [Review] [Review on: chore(skill): refresh skills](https://github.com/ethereum/execution-specs/pull/3562#pullrequestreview-5175436841) - 2026-09-11
 ## Q2 2026
 
 

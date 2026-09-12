@@ -45,6 +45,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync provide coredb importer (#4747)](https://github.com/status-im/nimbus-eth1/commit/bf5b488b49507c3d95d74ef52ca27d21ce0c3be8) - 2026-09-04
 * [Pull Request] [Snap2 beacon sync error handling and maint update](https://github.com/status-im/nimbus-eth1/pull/4770) - 2026-09-09
 * [Commit] [Snap2 beacon sync error handling and maint update (#4770)](https://github.com/status-im/nimbus-eth1/commit/351257840ea0d643d8e31ced2822f2e5139fcb62) - 2026-09-09
+* [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4785) - 2026-09-11
+* [Commit] [Snap2 sync maint update (#4785)](https://github.com/status-im/nimbus-eth1/commit/15f9bf04adf158cf03e242b609efa52daa15b85b) - 2026-09-11
 ## Q2 2026
 
 

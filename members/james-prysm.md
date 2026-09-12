@@ -221,6 +221,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Warn when a proposer settings file replaces per-key settings saved in the DB](https://github.com/OffchainLabs/prysm/pull/17455#pullrequestreview-5155368595) - 2026-09-09
 * [Commit] [slashing protection up to date for keys added mid run (#17411)](https://github.com/OffchainLabs/prysm/commit/8512330b352ad2e4964e894a2c11dda2bc042ade) - 2026-09-09
 * [Review] [Review on: Use SSZ list framing for data column sidecars SSZ response](https://github.com/OffchainLabs/prysm/pull/17320#pullrequestreview-5168692533) - 2026-09-10
+* [Pull Request] [request payload and datacolumns in parallel](https://github.com/OffchainLabs/prysm/pull/17486) - 2026-09-11
+* [Review] [Review on: Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491#pullrequestreview-5182433282) - 2026-09-11
+* [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5180458072) - 2026-09-11
 ## Q2 2026
 
 

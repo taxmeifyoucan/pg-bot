@@ -190,6 +190,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot](https://github.com/NethermindEth/nethermind/pull/13362#pullrequestreview-5169194963) - 2026-09-10
 * [Commit] [Don't treat configured FinalTotalDifficulty as TTD reached (#12555)](https://github.com/NethermindEth/nethermind/commit/4ac700584e82aaf649be24641c1bdba13c1f188e) - 2026-09-10
 * [Commit] [chore(deps): bump Nethermind.Numerics.Int256 to 1.8.0 (#13345)](https://github.com/NethermindEth/nethermind/commit/7a3f63edb1700875f717c7d4f2796acb0f81d2b6) - 2026-09-10
+* [Pull Request] [chore(deps): bump Nethermind.Numerics.Int256 to 1.9.0](https://github.com/NethermindEth/nethermind/pull/13389) - 2026-09-11
+* [Pull Request] [perf: prototype Linux processing-thread priority in EXPB](https://github.com/NethermindEth/nethermind/pull/13412) - 2026-09-11
+* [Pull Request] [Prototype: require FlatDB and remove legacy state schemas](https://github.com/NethermindEth/nethermind/pull/13409) - 2026-09-11
+* [Pull Request] [Prototype: remove Hash and HalfPath state backends](https://github.com/NethermindEth/nethermind/pull/13386) - 2026-09-11
+* [Review] [Review on: perf: remove fixed block prewarming and trie concurrency caps](https://github.com/NethermindEth/nethermind/pull/13388#pullrequestreview-5180897444) - 2026-09-11
+* [Commit] [chore(deps): bump Nethermind.Numerics.Int256 to 1.9.0 (#13389)](https://github.com/NethermindEth/nethermind/commit/bb533c6db209d37d691f358c288a47aad270159d) - 2026-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

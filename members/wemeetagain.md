@@ -181,6 +181,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: always check progressive balances](https://github.com/ChainSafe/lodestar/pull/10046#pullrequestreview-5168141787) - 2026-09-10
 * [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5168249216) - 2026-09-10
 * [Commit] [feat: enforce progressive list limits on deserialization (#10042)](https://github.com/ChainSafe/lodestar/commit/fd70e5fc15d4b0da5e49383c3d298e2b6245abf5) - 2026-09-10
+* [Review] [Review on: perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062#pullrequestreview-5182269574) - 2026-09-11
+* [Review] [Review on: deps: bump libp2p-quic to v2.1.4](https://github.com/ChainSafe/lodestar/pull/10066#pullrequestreview-5184820287) - 2026-09-12
+* [Review] [Review on: chore: bump lodestar-z to v1.1.0](https://github.com/ChainSafe/lodestar/pull/10061#pullrequestreview-5184473277) - 2026-09-12
+* [Pull Request] [feat: add flat file storage for data columns](https://github.com/ChainSafe/lodestar/pull/8899) - 2026-09-11
+* [Commit] [feat: add flat file storage for data columns (#8899)](https://github.com/ChainSafe/lodestar/commit/acdde443d29e59fdbb28f1762b7e2ae6e91faec0) - 2026-09-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -373,6 +378,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [perf(ssz): stream list tree reads into output values (#671)](https://github.com/ChainSafe/lodestar-z/commit/1ac2e518eb67bdb192a31373d28ab5274c195ddc) - 2026-09-10
 * [Commit] [perf(ssz): bound list hashing scratch with batched accumulation (#672)](https://github.com/ChainSafe/lodestar-z/commit/ef82b724021cddc63749fe4d1f8717ab1e2375ed) - 2026-09-10
 * [Commit] [refactor(ssz): share byte-list hashing with generic uint8 lists (#673)](https://github.com/ChainSafe/lodestar-z/commit/34cdddd7c8b7ed5bb7b65dab0e4781e2baa81437) - 2026-09-10
+* [Review] [Review on: chore: release 1.1.0](https://github.com/ChainSafe/lodestar-z/pull/583#pullrequestreview-5180779482) - 2026-09-11
+* [Commit] [refactor: share bytelist tree conversion (#680)](https://github.com/ChainSafe/lodestar-z/commit/cfc90f4a86baf4167d7b776c961e22dd82e29665) - 2026-09-11
+* [Commit] [fix: release bitlist json scratch (#677)](https://github.com/ChainSafe/lodestar-z/commit/acef3e7e059fed813d66ff8c50b826f95f6efa51) - 2026-09-11
+* [Commit] [fix: release benchmark hasher scratch (#688)](https://github.com/ChainSafe/lodestar-z/commit/8628415b9ce745035a0a1a0861852821cadffb36) - 2026-09-11
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026
