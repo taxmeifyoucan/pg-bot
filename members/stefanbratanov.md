@@ -84,6 +84,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Get execution payload bid request](https://github.com/Consensys-Incorporated/teku/pull/11257#pullrequestreview-5168749031) - 2026-09-10
 * [Review] [Review on: Refactor `AbstractBlockPublisher`](https://github.com/Consensys-Incorporated/teku/pull/11253#pullrequestreview-5164075167) - 2026-09-10
 * [Commit] [Refactor `AbstractBlockPublisher` (#11253)](https://github.com/Consensys-Incorporated/teku/commit/5fe7cd31e8418bb14e2c70125f1707ed7967c29a) - 2026-09-10
+* [Review] [Review on: Add `Eth-Builder-Url` header and pass it during block production](https://github.com/Consensys-Incorporated/teku/pull/11248#pullrequestreview-5186458952) - 2026-09-12
 ## Q2 2026
 
 

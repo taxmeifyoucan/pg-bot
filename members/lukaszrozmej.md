@@ -463,6 +463,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf: remove fixed block prewarming and trie concurrency caps](https://github.com/NethermindEth/nethermind/pull/13388#pullrequestreview-5181209435) - 2026-09-11
 * [Commit] [test: wait for the tx-carrying improvement in the V6 BAL test (#13403)](https://github.com/NethermindEth/nethermind/commit/964afba2406dc4b560da7db8cbf54f84df37ec2e) - 2026-09-11
 * [Commit] [perf: reduce the MODEXP base before exponentiating (#13396)](https://github.com/NethermindEth/nethermind/commit/7b453f31b3dca25ac9b92a26beb1a34533649f7e) - 2026-09-11
+* [Review] [Review on: perf: skip the write-journal probe for contracts that have not written](https://github.com/NethermindEth/nethermind/pull/13405#pullrequestreview-5187776189) - 2026-09-12
+* [Review] [Review on: perf: stop BLOCKHASH reading state and allocating on every call](https://github.com/NethermindEth/nethermind/pull/13397#pullrequestreview-5188713847) - 2026-09-13
+* [Pull Request] [test: add storage-, call- and create-shaped block scenarios to BlockProcessingBenchmark](https://github.com/NethermindEth/nethermind/pull/13421) - 2026-09-12
+* [Review] [Review on: test: add storage-, call- and create-shaped block scenarios to BlockProcessingBenchmark](https://github.com/NethermindEth/nethermind/pull/13421#pullrequestreview-5188215745) - 2026-09-12
+* [Review] [Review on: perf: stop allocating a word per transient storage write](https://github.com/NethermindEth/nethermind/pull/13413#pullrequestreview-5187813110) - 2026-09-12
+* [Pull Request] [perf: memoize the warm-access check, settle EXTCODEHASH with one account read](https://github.com/NethermindEth/nethermind/pull/13414) - 2026-09-12
+* [Pull Request] [perf: memoize the per-contract read and the SSTORE originals probe](https://github.com/NethermindEth/nethermind/pull/13422) - 2026-09-12
+* [Review] [Review on: perf: memoize the per-contract read and the SSTORE originals probe](https://github.com/NethermindEth/nethermind/pull/13422#pullrequestreview-5188136450) - 2026-09-12
+* [Pull Request] [perf(evm): fuse the scratch-space hash behind mapping slot access](https://github.com/NethermindEth/nethermind/pull/13417) - 2026-09-12
+* [Pull Request] [perf(evm): skip recognized bytecode templates at frame entry](https://github.com/NethermindEth/nethermind/pull/13415) - 2026-09-12
+* [Commit] [test: bound the event-loop shutdown wait in the discovery tests (#13404)](https://github.com/NethermindEth/nethermind/commit/c59baaa3037cc775dc79fd51c719942b67fe2a64) - 2026-09-12
+* [Commit] [test: keep the filter-expiry fixture from dropping other tests' filters (#13407)](https://github.com/NethermindEth/nethermind/commit/4b494d9ee4c06f3339582f283d21442b79966422) - 2026-09-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

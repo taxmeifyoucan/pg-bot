@@ -394,6 +394,16 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix: skip blob transactions in the inclusion list satisfaction check](https://github.com/NethermindEth/nethermind/pull/13390#pullrequestreview-5181453823) - 2026-09-11
 * [Pull Request] [EIP-8141: address the P3 review threads on the frame-tx stack](https://github.com/NethermindEth/nethermind/pull/13378) - 2026-09-11
 * [Review] [Review on: EIP-8141: address the P3 review threads on the frame-tx stack](https://github.com/NethermindEth/nethermind/pull/13378#pullrequestreview-5179302912) - 2026-09-11
+* [Pull Request] [EIP-8141: keep a pooled frame tx's reservations when its storage write throws](https://github.com/NethermindEth/nethermind/pull/13423) - 2026-09-12
+* [Pull Request] [EIP-8141: return every call frame the callTracer still owns](https://github.com/NethermindEth/nethermind/pull/13418) - 2026-09-12
+* [Review] [Review on: EIP-8141: return every call frame the callTracer still owns](https://github.com/NethermindEth/nethermind/pull/13418#pullrequestreview-5188435402) - 2026-09-12
+* [Review] [Review on: test(focil): assert inclusionListSatisfied on the forkchoice response](https://github.com/NethermindEth/nethermind/pull/13411#pullrequestreview-5186134226) - 2026-09-12
+* [Review] [Review on: fix(focil): end a sender's inclusion-list run at the first priced-out nonce](https://github.com/NethermindEth/nethermind/pull/13383#pullrequestreview-5188432822) - 2026-09-12
+* [Review] [Review on: fix(focil): report inclusionListSatisfied for a head newPayloadV6 left unanswered](https://github.com/NethermindEth/nethermind/pull/13385#pullrequestreview-5188432700) - 2026-09-12
+* [Review] [Review on: fix(eip7805): anchor the inclusion-list run at the account nonce](https://github.com/NethermindEth/nethermind/pull/13381#pullrequestreview-5187590712) - 2026-09-12
+* [Review] [Review on: test(eip8141): say what the frame-tx pool fixtures measure, and share the pool helper](https://github.com/NethermindEth/nethermind/pull/13400#pullrequestreview-5186173174) - 2026-09-12
+* [Review] [Review on: test(eip8141): make three frame-tx regressions hold what they name](https://github.com/NethermindEth/nethermind/pull/13410#pullrequestreview-5186159589) - 2026-09-12
+* [Review] [Review on: EIP-8141: keep every executed frame in callTracer output](https://github.com/NethermindEth/nethermind/pull/13399#pullrequestreview-5186133968) - 2026-09-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

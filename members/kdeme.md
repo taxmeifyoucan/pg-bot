@@ -136,6 +136,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix merge era check for TotalDifficulty and AccumulatorRoot (#4784)](https://github.com/status-im/nimbus-eth1/commit/e7a96650d57aaaffb48f1a9028fd5e25af21fe05) - 2026-09-11
 * [Commit] [Add engine_newPayloadWithWitnessV4 and V5 (#4591)](https://github.com/status-im/nimbus-eth1/commit/0bd8518e870b20079fe9e8d63047f8267bc81a9c) - 2026-09-11
 * [Commit] [history export: verify ere files in era order and report gaps (#4780)](https://github.com/status-im/nimbus-eth1/commit/4202be00518bb60fe0e175cf6cae5c4c79d32c4e) - 2026-09-11
+* [Pull Request] [stateless: build the ZisK guest against ziskos v1.1.0-alpha](https://github.com/status-im/nimbus-eth1/pull/4786) - 2026-09-12
+* [Commit] [stateless: build the ZisK guest against ziskos v1.1.0-alpha (#4786)](https://github.com/status-im/nimbus-eth1/commit/d100e90ee3b99479b42272a37267097496c2cede) - 2026-09-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

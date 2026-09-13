@@ -752,6 +752,9 @@ Team: Reth
 * [Pull Request] [perf(trie): queue storage sub-proofs when the account job is dispatched](https://github.com/paradigmxyz/reth/pull/27198) - 2026-09-11
 * [Pull Request] [chore(trie): record one activity guard per proof worker chunk](https://github.com/paradigmxyz/reth/pull/27194) - 2026-09-11
 * [Commit] [fix(net): preserve cell masks when coalescing ETH/72 announcements (#27090)](https://github.com/paradigmxyz/reth/commit/a3eea4364185db4df75f9ea0c1661e18cc8f8a01) - 2026-09-11
+* [Review] [Review on: feat(txpool): make replacement policy extensible](https://github.com/paradigmxyz/reth/pull/27201#pullrequestreview-5185884665) - 2026-09-12
+* [Review] [Review on: feat(txpool): add nonce bound check hook](https://github.com/paradigmxyz/reth/pull/27185#pullrequestreview-5185848423) - 2026-09-12
+* [Review] [Review on: fix nix build process](https://github.com/paradigmxyz/reth/pull/27202#pullrequestreview-5185840152) - 2026-09-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

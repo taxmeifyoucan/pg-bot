@@ -387,6 +387,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce allocations in parallel BAL read validation (#13315)](https://github.com/NethermindEth/nethermind/commit/49775093832e934de88f1bec3a3808f5e3c728d9) - 2026-09-11
 * [Commit] [perf: remove fixed block prewarming and trie concurrency caps (#13388)](https://github.com/NethermindEth/nethermind/commit/a66d9cae24402c4796f86ee3dc5af551d9b93f3a) - 2026-09-11
 * [Commit] [perf: skip unobserved EVM logs based on tracer requirements (#13372)](https://github.com/NethermindEth/nethermind/commit/238ab20bb6b837731ec16bc41cf8d095f268b614) - 2026-09-11
+* [Review] [Review on: perf: stop allocating a word per transient storage write](https://github.com/NethermindEth/nethermind/pull/13413#pullrequestreview-5186429091) - 2026-09-12
+* [Review] [Review on: perf: resolve a BAL storage access in one probe](https://github.com/NethermindEth/nethermind/pull/13408#pullrequestreview-5186505222) - 2026-09-12
+* [Review] [Review on: perf: memoize the warm-access check, settle EXTCODEHASH with one account read](https://github.com/NethermindEth/nethermind/pull/13414#pullrequestreview-5186555413) - 2026-09-12
+* [Pull Request] [perf(state): hold storage values as UInt256, encode only at persistence boundaries](https://github.com/NethermindEth/nethermind/pull/13420) - 2026-09-12
+* [Review] [Review on: perf(state): hold storage values as UInt256, encode only at persistence boundaries](https://github.com/NethermindEth/nethermind/pull/13420#pullrequestreview-5187879741) - 2026-09-12
+* [Review] [Review on: Avoid replaying later transactions for single-transaction traces](https://github.com/NethermindEth/nethermind/pull/13426#pullrequestreview-5188685226) - 2026-09-13
+* [Review] [Review on: Add opt-in historical debug trace prewarming](https://github.com/NethermindEth/nethermind/pull/13387#pullrequestreview-5188777601) - 2026-09-13
+* [Pull Request] [Avoid unused gas-price rejection messages during transaction selection](https://github.com/NethermindEth/nethermind/pull/13425) - 2026-09-12
+* [Review] [Review on: Avoid unused gas-price rejection messages during transaction selection](https://github.com/NethermindEth/nethermind/pull/13425#pullrequestreview-5188539149) - 2026-09-12
+* [Commit] [Avoid unused gas-price rejection messages during transaction selection (#13425)](https://github.com/NethermindEth/nethermind/commit/966ccf6f318565fc2d764630bec5e90207ad17a2) - 2026-09-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

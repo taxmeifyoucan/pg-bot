@@ -186,6 +186,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: bump lodestar-z to v1.1.0](https://github.com/ChainSafe/lodestar/pull/10061#pullrequestreview-5184473277) - 2026-09-12
 * [Pull Request] [feat: add flat file storage for data columns](https://github.com/ChainSafe/lodestar/pull/8899) - 2026-09-11
 * [Commit] [feat: add flat file storage for data columns (#8899)](https://github.com/ChainSafe/lodestar/commit/acdde443d29e59fdbb28f1762b7e2ae6e91faec0) - 2026-09-11
+* [Review] [Review on: perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062#pullrequestreview-5184908764) - 2026-09-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

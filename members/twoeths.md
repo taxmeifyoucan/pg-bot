@@ -247,6 +247,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: improve log on REJECTED blocks, columns, payloads (#10058)](https://github.com/ChainSafe/lodestar/commit/a427d3dbb511233c9523affe7a44dfa9d7bdff56) - 2026-09-11
 * [Commit] [chore: persist invalid signed block with block root file name (#10060)](https://github.com/ChainSafe/lodestar/commit/68ce7b06a0da96cd0d2819861d46ae8991702874) - 2026-09-11
 * [Commit] [fix: dos protection for NetworkProcessor (#10039)](https://github.com/ChainSafe/lodestar/commit/60b5607f3ad48212a500b78357a69b349840a890) - 2026-09-11
+* [Review] [Review on: perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062#pullrequestreview-5185097204) - 2026-09-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

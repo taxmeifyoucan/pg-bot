@@ -318,6 +318,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Remove obsolete gRPC and trie benchmark projects (#13330)](https://github.com/NethermindEth/nethermind/commit/c49db69407abe1bddf34e927dd01954a3d7c2c4f) - 2026-09-10
 * [Pull Request] [Retain FlatDB state for Hive Engine-X reorgs](https://github.com/NethermindEth/nethermind/pull/13402) - 2026-09-11
 * [Commit] [Add a LiteRlpReader for explicit cursor decoding (#13303)](https://github.com/NethermindEth/nethermind/commit/aa5b2aab2303b52c2da02a3629dfcc3dbb2a8919) - 2026-09-11
+* [Commit] [Retain FlatDB state for Hive Engine-X reorgs (#13402)](https://github.com/NethermindEth/nethermind/commit/a85e011160be7ab19e1ac3395961208c681acd40) - 2026-09-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

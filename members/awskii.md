@@ -529,6 +529,11 @@ Team: Erigon
 * [Review] [Review on: db, execution, rpc: dual hex+bin commitment for binary-trie migration](https://github.com/erigontech/erigon/pull/23926#pullrequestreview-5178607169) - 2026-09-11
 * [Review] [Review on: [r3.5] cl/sentinel: honour the peer ban on inbound connections](https://github.com/erigontech/erigon/pull/23925#pullrequestreview-5178087421) - 2026-09-11
 * [Commit] [execution/commitment: keep the storage load flag with the storage identity when folding a storage row (#23897)](https://github.com/erigontech/erigon/commit/42d4efe15b5e8bb97afebcf6bcc9464fd3a98091) - 2026-09-11
+* [Review] [Review on: [r3.6] cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23923#pullrequestreview-5185080045) - 2026-09-12
+* [Review] [Review on: cl/persistence/blob_storage: validate sidecar structure before dereferencing it](https://github.com/erigontech/erigon/pull/23938#pullrequestreview-5185083360) - 2026-09-12
+* [Commit] [execution/commitment: count the mount fold, drop commitment_unfolds_total (#23892)](https://github.com/erigontech/erigon/commit/a92ce49b18146134cc63efc85858aaed55fbc50c) - 2026-09-12
+* [Commit] [execution/commitment: hash the slot alone when deriving a root leaf's storage navigation path (#23900)](https://github.com/erigontech/erigon/commit/b4562b4ac6635c120838d71e0bf0df2529e92447) - 2026-09-12
+* [Commit] [execution/blockmetrics: drop the copied consumer regex from the envelope test (#23913)](https://github.com/erigontech/erigon/commit/c31dcaa880f754286a35b54dc602f671700f5751) - 2026-09-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

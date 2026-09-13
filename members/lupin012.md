@@ -208,6 +208,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc/jsonrpc, db/snapshotsync: serve blocks from the oldest one the datadir holds](https://github.com/erigontech/erigon/pull/23939) - 2026-09-11
 * [Pull Request] [rpc/jsonrpc: erigon_getLogsByHash reports blockTimestamp](https://github.com/erigontech/erigon/pull/23935) - 2026-09-11
 * [Pull Request] [[r3.6] QA: fix test race in case latest tests](https://github.com/erigontech/erigon/pull/23919) - 2026-09-11
+* [Review] [Review on: db/kv/membatchwithdb: fix Range merge and honor overlay deletions](https://github.com/erigontech/erigon/pull/23872#pullrequestreview-5188091467) - 2026-09-12
+* [Pull Request] [rpc: charge blob fees the way geth does in eth_call and eth_estimateGas](https://github.com/erigontech/erigon/pull/23949) - 2026-09-12
+* [Pull Request] [[r3.6] rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/23920) - 2026-09-12
+* [Commit] [db/kv/membatchwithdb: fix Range merge and honor overlay deletions (#23872)](https://github.com/erigontech/erigon/commit/08c9631452ec2cfe4bcda210072279371ac0f8e1) - 2026-09-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -238,6 +242,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: eth_createAccessList: expect rejection instead of a computed result before Berlin](https://github.com/erigontech/rpc-tests/pull/599#pullrequestreview-5170985714) - 2026-09-10
 * [Pull Request] [integration_test: add blockTimestampo to erigon_getLogsByHash](https://github.com/erigontech/rpc-tests/pull/602) - 2026-09-11
 * [Pull Request] [add Go unit tests across all packages and fix three defects they surfaced](https://github.com/erigontech/rpc-tests/pull/601) - 2026-09-11
+* [Commit] [add blockTimestampo to erigon_getLogsByHash (#602)](https://github.com/erigontech/rpc-tests/commit/162d39d8122b180123bea7fa8b83f2a68ef3e173) - 2026-09-12
+* [Commit] [integration: ignore the tracer error field on debug_traceBlockByNumber latest tests (#598)](https://github.com/erigontech/rpc-tests/commit/4a4a87fdb5f4c15a5958f6cc4a6664ea701fa437) - 2026-09-12
+* [Commit] [add Go unit tests across all packages and fix three defects they surfaced (#601)](https://github.com/erigontech/rpc-tests/commit/7198bff2f7b05078e129c5cef8cffd124c34db15) - 2026-09-12
 ## Q2 2026
 
 

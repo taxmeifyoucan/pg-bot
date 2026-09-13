@@ -1454,6 +1454,26 @@ Team: Erigon
 * [Commit] [ci: make the large-file check actually run, and test it (#23902)](https://github.com/erigontech/erigon/commit/fb7c9898b96a9be43e99638582fc17c725816f9b) - 2026-09-11
 * [Commit] [rlp, types: size decoded slices from an item count (#23898)](https://github.com/erigontech/erigon/commit/284ab470f0321db74055e5a8d81e141352974c8b) - 2026-09-11
 * [Commit] [cl/validator/devvalidator: count the envelope post before queueing its body (#23910)](https://github.com/erigontech/erigon/commit/5d2b24f59c5631812fd38850740906ff44d7503b) - 2026-09-11
+* [Review] [Review on: db/kv/membatchwithdb: fix Range merge and honor overlay deletions](https://github.com/erigontech/erigon/pull/23872#pullrequestreview-5184978107) - 2026-09-12
+* [Pull Request] [rpc: marshal responses into a caller-supplied buffer under go1.27](https://github.com/erigontech/erigon/pull/23947) - 2026-09-12
+* [Review] [Review on: rpc: marshal responses into a caller-supplied buffer under go1.27](https://github.com/erigontech/erigon/pull/23947#pullrequestreview-5188801648) - 2026-09-13
+* [Review] [Review on: rpc/jsonrpc, db/snapshotsync: serve blocks from the oldest one the datadir holds](https://github.com/erigontech/erigon/pull/23939#pullrequestreview-5188745702) - 2026-09-13
+* [Review] [Review on: rpc/jsonrpc: erigon_getLogsByHash reports blockTimestamp](https://github.com/erigontech/erigon/pull/23935#pullrequestreview-5188730695) - 2026-09-13
+* [Review] [Review on: docs: drop the `make -j<n>` build advice](https://github.com/erigontech/erigon/pull/23940#pullrequestreview-5184963981) - 2026-09-12
+* [Pull Request] [db/state, db/kv/temporal: close state files after the read-tx drain](https://github.com/erigontech/erigon/pull/23945) - 2026-09-12
+* [Review] [Review on: db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek](https://github.com/erigontech/erigon/pull/23841#pullrequestreview-5185631223) - 2026-09-12
+* [Pull Request] [cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock](https://github.com/erigontech/erigon/pull/23944) - 2026-09-12
+* [Review] [Review on: rpcdaemon: add eth_getHeaderByHash and eth_getHeaderByNumber](https://github.com/erigontech/erigon/pull/23717#pullrequestreview-5185080505) - 2026-09-12
+* [Pull Request] [rpc: return typed structs from the block and header methods](https://github.com/erigontech/erigon/pull/23943) - 2026-09-12
+* [Review] [Review on: rpc: return typed structs from the block and header methods](https://github.com/erigontech/erigon/pull/23943#pullrequestreview-5185297191) - 2026-09-12
+* [Review] [Review on: docs: drop the `make -j<n>` build advice](https://github.com/erigontech/erigon/pull/23941#pullrequestreview-5184963838) - 2026-09-12
+* [Review] [Review on: [r3.6] rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/23920#pullrequestreview-5184970620) - 2026-09-12
+* [Review] [Review on: txnprovider/txpool: don't hold the stream broadcaster lock across gRPC Send](https://github.com/erigontech/erigon/pull/23730#pullrequestreview-5185065774) - 2026-09-12
+* [Review] [Review on: execution/commitment: hash the slot alone when deriving a root leaf's storage navigation path](https://github.com/erigontech/erigon/pull/23900#pullrequestreview-5184956919) - 2026-09-12
+* [Review] [Review on: execution/commitment: count the mount fold, drop commitment_unfolds_total](https://github.com/erigontech/erigon/pull/23892#pullrequestreview-5184957941) - 2026-09-12
+* [Review] [Review on: execution/blockmetrics: drop the copied consumer regex from the envelope test](https://github.com/erigontech/erigon/pull/23913#pullrequestreview-5184956286) - 2026-09-12
+* [Review] [Review on: [r3.6] execution/execmodule: deflake TestAssembleBlockWithFreshlyAddedTxns](https://github.com/erigontech/erigon/pull/23931#pullrequestreview-5184955027) - 2026-09-12
+* [Review] [Review on: ci(docs): automate the docs release-series cutover](https://github.com/erigontech/erigon/pull/23933#pullrequestreview-5184967256) - 2026-09-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

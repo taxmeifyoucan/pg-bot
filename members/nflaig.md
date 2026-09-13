@@ -560,6 +560,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [deps: bump libp2p-quic to v2.1.4 (#10066)](https://github.com/ChainSafe/lodestar/commit/02b355c4db11cf5661a777573d0ebbb29b435ff2) - 2026-09-12
 * [Commit] [chore: bump lodestar-z to v1.1.0 (#10061)](https://github.com/ChainSafe/lodestar/commit/e9c9b8835dc0b797ff1f5bc567b82103c19931df) - 2026-09-12
 * [Commit] [refactor: derive gloas p2p max sizes from ssz types (#10053)](https://github.com/ChainSafe/lodestar/commit/b0ddac0ac2489fa25c7be2660444b103e1f2de4b) - 2026-09-11
+* [Review] [Review on: fix(api): respect cancellation during event stream setup](https://github.com/ChainSafe/lodestar/pull/10065#pullrequestreview-5187326073) - 2026-09-12
+* [Review] [Review on: feat(builder): add Engine payload source](https://github.com/ChainSafe/lodestar/pull/9958#pullrequestreview-5187375487) - 2026-09-12
+* [Pull Request] [feat: add `produceBlockV4WithBid` endpoint](https://github.com/ChainSafe/lodestar/pull/10072) - 2026-09-12
+* [Pull Request] [refactor: extract `produceBlockV4` handler into reusable function](https://github.com/ChainSafe/lodestar/pull/10073) - 2026-09-12
+* [Review] [Review on: refactor(builder): name the payload store explicitly](https://github.com/ChainSafe/lodestar/pull/10063#pullrequestreview-5187289669) - 2026-09-12
+* [Pull Request] [fix: align gloas external signer requests with remote signing api](https://github.com/ChainSafe/lodestar/pull/10071) - 2026-09-12
+* [Pull Request] [test: tighten snappy decoder assertions](https://github.com/ChainSafe/lodestar/pull/10068) - 2026-09-12
+* [Pull Request] [fix: preserve gossip arrival time of repeat proposals for PTC timeliness](https://github.com/ChainSafe/lodestar/pull/10070) - 2026-09-12
+* [Review] [Review on: fix: preserve gossip arrival time of repeat proposals for PTC timeliness](https://github.com/ChainSafe/lodestar/pull/10070#pullrequestreview-5186759179) - 2026-09-12
+* [Pull Request] [perf: reduce native snappy buffer retention](https://github.com/ChainSafe/lodestar/pull/10069) - 2026-09-12
+* [Review] [Review on: perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062#pullrequestreview-5186000124) - 2026-09-12
+* [Pull Request] [chore: v1.48.0 release](https://github.com/ChainSafe/lodestar/pull/10067) - 2026-09-12
+* [Commit] [perf: replace snappyjs with snappy-wasm (#10062)](https://github.com/ChainSafe/lodestar/commit/a0619b279aa57140768859767be392ff5a20f656) - 2026-09-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

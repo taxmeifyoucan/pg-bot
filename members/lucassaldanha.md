@@ -146,6 +146,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Compare gossip payload size against the compressed bound (#11223)](https://github.com/Consensys-Incorporated/teku/commit/20846ead95c8ab080cd9803c28d9d24d52be35bd) - 2026-09-03
 * [Pull Request] [Fix remaining CI runners](https://github.com/Consensys-Incorporated/teku/pull/11256) - 2026-09-09
 * [Commit] [Fix remaining CI runners (#11256)](https://github.com/Consensys-Incorporated/teku/commit/d407b6f863f9b656496239b788f5315e2f451a44) - 2026-09-10
+* [Pull Request] [Update contribution guidelines for pull requests](https://github.com/Consensys-Incorporated/teku/pull/11188) - 2026-09-12
+* [Commit] [Update contribution guidelines for pull requests (#11188)](https://github.com/Consensys-Incorporated/teku/commit/93a10df92d319734eb5571378451a30bb56fcbbe) - 2026-09-12
 ## Q2 2026
 
 

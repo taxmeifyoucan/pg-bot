@@ -311,6 +311,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(stir)!: drive the STIR PCS transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2123) - 2026-09-10
 * [Commit] [fix(stir)!: seed the batching phase at every difficulty (#2121)](https://github.com/Plonky3/Plonky3/commit/1a63876cf96e5fba766892c385d1eb11f4cadfce) - 2026-09-10
 * [Commit] [perf(sumcheck)!: fuse bind and measure across single-round calls and under suffix order (#2055)](https://github.com/Plonky3/Plonky3/commit/a9d8db30a0ea4dd77c6bada0723dc77f6a95bf69) - 2026-09-10
+* [Pull Request] [fix: address the minor follow-ups from the #2120 review](https://github.com/Plonky3/Plonky3/pull/2127) - 2026-09-12
+* [Review] [Review on: review: couple tweaks here and there](https://github.com/Plonky3/Plonky3/pull/2120#pullrequestreview-5187911761) - 2026-09-12
+* [Commit] [fix: address the minor follow-ups from the #2120 review (#2127)](https://github.com/Plonky3/Plonky3/commit/612127b39e9360e72f9e822ad3c7be7597f684af) - 2026-09-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10
