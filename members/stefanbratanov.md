@@ -85,6 +85,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Refactor `AbstractBlockPublisher`](https://github.com/Consensys-Incorporated/teku/pull/11253#pullrequestreview-5164075167) - 2026-09-10
 * [Commit] [Refactor `AbstractBlockPublisher` (#11253)](https://github.com/Consensys-Incorporated/teku/commit/5fe7cd31e8418bb14e2c70125f1707ed7967c29a) - 2026-09-10
 * [Review] [Review on: Add `Eth-Builder-Url` header and pass it during block production](https://github.com/Consensys-Incorporated/teku/pull/11248#pullrequestreview-5186458952) - 2026-09-12
+* [Pull Request] [Implement builder preferences Beacon API](https://github.com/Consensys-Incorporated/teku/pull/11264) - 2026-09-13
+* [Review] [Review on: Implement builder preferences Beacon API](https://github.com/Consensys-Incorporated/teku/pull/11264#pullrequestreview-5190577540) - 2026-09-13
 ## Q2 2026
 
 

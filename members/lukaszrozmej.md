@@ -475,6 +475,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [perf(evm): skip recognized bytecode templates at frame entry](https://github.com/NethermindEth/nethermind/pull/13415) - 2026-09-12
 * [Commit] [test: bound the event-loop shutdown wait in the discovery tests (#13404)](https://github.com/NethermindEth/nethermind/commit/c59baaa3037cc775dc79fd51c719942b67fe2a64) - 2026-09-12
 * [Commit] [test: keep the filter-expiry fixture from dropping other tests' filters (#13407)](https://github.com/NethermindEth/nethermind/commit/4b494d9ee4c06f3339582f283d21442b79966422) - 2026-09-12
+* [Review] [Review on: Reduce Keccak tail work and guest mixer instructions](https://github.com/NethermindEth/nethermind/pull/13438#pullrequestreview-5192054035) - 2026-09-13
+* [Pull Request] [Roll back the code-write counters with the reverted code](https://github.com/NethermindEth/nethermind/pull/13433) - 2026-09-13
+* [Review] [Review on: Roll back the code-write counters with the reverted code](https://github.com/NethermindEth/nethermind/pull/13433#pullrequestreview-5190389746) - 2026-09-13
+* [Review] [Review on: Stabilize log finder and filter cleanup tests](https://github.com/NethermindEth/nethermind/pull/13437#pullrequestreview-5192067421) - 2026-09-13
+* [Pull Request] [Journal and count a staged code insert exactly once](https://github.com/NethermindEth/nethermind/pull/13432) - 2026-09-13
+* [Review] [Review on: Journal and count a staged code insert exactly once](https://github.com/NethermindEth/nethermind/pull/13432#pullrequestreview-5190584462) - 2026-09-13
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/13427#pullrequestreview-5190215268) - 2026-09-13
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/13429#pullrequestreview-5190214354) - 2026-09-13
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/13430#pullrequestreview-5190213075) - 2026-09-13
+* [Commit] [perf: stop allocating a copy of the input for the ID precompile (#13395)](https://github.com/NethermindEth/nethermind/commit/d52a908af99d4e9098590a93a326da448411dbae) - 2026-09-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

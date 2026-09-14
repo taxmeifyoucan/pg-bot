@@ -573,6 +573,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062#pullrequestreview-5186000124) - 2026-09-12
 * [Pull Request] [chore: v1.48.0 release](https://github.com/ChainSafe/lodestar/pull/10067) - 2026-09-12
 * [Commit] [perf: replace snappyjs with snappy-wasm (#10062)](https://github.com/ChainSafe/lodestar/commit/a0619b279aa57140768859767be392ff5a20f656) - 2026-09-12
+* [Commit] [refactor: compute payload attributes once in `prepareForNextSlot` (#10056)](https://github.com/ChainSafe/lodestar/commit/06bef6954cd04854449ba5ff8531559d3ea0e898) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

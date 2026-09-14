@@ -301,6 +301,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add weak subjectivity period table for gloas](https://github.com/ethereum/consensus-specs/pull/5629) - 2026-09-11
 * [Commit] [Clean up Makefile (#5628)](https://github.com/ethereum/consensus-specs/commit/c37e369dcaed827bd378b7bab623b6beedc0bed5) - 2026-09-11
 * [Commit] [Add weak subjectivity period table for gloas (#5629)](https://github.com/ethereum/consensus-specs/commit/fe2ee16756cd67295f3b659c77d8d12103cc39b2) - 2026-09-11
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5633#pullrequestreview-5193462767) - 2026-09-14
+* [Pull Request] [Use `make build` in the combine-coverages action](https://github.com/ethereum/consensus-specs/pull/5632) - 2026-09-13
+* [Pull Request] [Cache `compute_balance_weighted_selection`](https://github.com/ethereum/consensus-specs/pull/5631) - 2026-09-13
+* [Commit] [Use `make build` in the combine-coverages action (#5632)](https://github.com/ethereum/consensus-specs/commit/9401672d9aa9a54cb7455769ed9a78877a18f9dd) - 2026-09-13
+* [Commit] [Cache `compute_balance_weighted_selection` (#5631)](https://github.com/ethereum/consensus-specs/commit/02abf5c173f550acdbe67225a6b682addea110e4) - 2026-09-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

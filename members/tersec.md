@@ -161,6 +161,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add focil fork choice](https://github.com/status-im/nimbus-eth2/pull/9021#pullrequestreview-5167019722) - 2026-09-10
 * [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5179161438) - 2026-09-11
 * [Review] [Review on: add getBlobsV4 support into service](https://github.com/status-im/nimbus-eth2/pull/9034#pullrequestreview-5178619616) - 2026-09-11
+* [Pull Request] [clean up pre-Pectra BeaconBlock gossip validation](https://github.com/status-im/nimbus-eth2/pull/9042) - 2026-09-14
+* [Pull Request] [use datacolumn gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9041) - 2026-09-13
+* [Pull Request] [use (aggregated) attestation gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9040) - 2026-09-13
+* [Pull Request] [avoid hang on missing block on epoch boundary](https://github.com/status-im/nimbus-eth2/pull/9038) - 2026-09-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -224,6 +228,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [update to Nim 2.2.12](https://github.com/status-im/nimbus-eth1/pull/4761) - 2026-09-09
 * [Pull Request] [treat InvalidCmpOp and UnreachableElse warnings as errors](https://github.com/status-im/nimbus-eth1/pull/4763) - 2026-09-09
 * [Commit] [update to Nim 2.2.12 (#4761)](https://github.com/status-im/nimbus-eth1/commit/8712cf47188909c57968019c0a1aec6466cc335b) - 2026-09-09
+* [Commit] [version v0.4.1](https://github.com/status-im/nimbus-eth1/commit/ec214533952068900d4a515948768ae249a61ae7) - 2026-09-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

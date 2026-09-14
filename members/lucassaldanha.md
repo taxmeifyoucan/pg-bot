@@ -148,6 +148,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Fix remaining CI runners (#11256)](https://github.com/Consensys-Incorporated/teku/commit/d407b6f863f9b656496239b788f5315e2f451a44) - 2026-09-10
 * [Pull Request] [Update contribution guidelines for pull requests](https://github.com/Consensys-Incorporated/teku/pull/11188) - 2026-09-12
 * [Commit] [Update contribution guidelines for pull requests (#11188)](https://github.com/Consensys-Incorporated/teku/commit/93a10df92d319734eb5571378451a30bb56fcbbe) - 2026-09-12
+* [Pull Request] [Fix dead REST API and libp2p documentation links](https://github.com/Consensys-Incorporated/teku/pull/11268) - 2026-09-14
+* [Pull Request] [Updated jvm-libp2p to 1.3.7](https://github.com/Consensys-Incorporated/teku/pull/11265) - 2026-09-14
+* [Issue] [Fix REST API url after github changes](https://github.com/Consensys-Incorporated/teku/issues/11267) - 2026-09-14
+* [Commit] [Updated jvm-libp2p to 1.3.7 (#11265)](https://github.com/Consensys-Incorporated/teku/commit/438acb7040d932e1ce6d0b836f1bd5d7b299189a) - 2026-09-14
 ## Q2 2026
 
 

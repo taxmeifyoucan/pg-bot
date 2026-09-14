@@ -314,6 +314,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [fix: address the minor follow-ups from the #2120 review](https://github.com/Plonky3/Plonky3/pull/2127) - 2026-09-12
 * [Review] [Review on: review: couple tweaks here and there](https://github.com/Plonky3/Plonky3/pull/2120#pullrequestreview-5187911761) - 2026-09-12
 * [Commit] [fix: address the minor follow-ups from the #2120 review (#2127)](https://github.com/Plonky3/Plonky3/commit/612127b39e9360e72f9e822ad3c7be7597f684af) - 2026-09-12
+* [Pull Request] [feat(pcs)!: bind commitments and hiding claims through the typed layer](https://github.com/Plonky3/Plonky3/pull/2129) - 2026-09-13
+* [Review] [Review on: perf: optimize Circle and Mersenne-31 hot paths](https://github.com/Plonky3/Plonky3/pull/2128#pullrequestreview-5192410536) - 2026-09-13
+* [Review] [Review on: refactor(fri)!: derive the commit-round shape from configuration rather than the proof](https://github.com/Plonky3/Plonky3/pull/2125#pullrequestreview-5191470272) - 2026-09-13
+* [Review] [Review on: feat(sumcheck)!: drive the ring-switching transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2122#pullrequestreview-5191470415) - 2026-09-13
+* [Review] [Review on: feat(whir)!: drive the hiding WHIR transcript through the pattern player](https://github.com/Plonky3/Plonky3/pull/2126#pullrequestreview-5191470171) - 2026-09-13
+* [Review] [Review on: feat(sumcheck)!: drive the layout sumcheck transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2124#pullrequestreview-5191470056) - 2026-09-13
+* [Commit] [refactor(fri)!: derive the commit-round shape from configuration rather than the proof (#2125)](https://github.com/Plonky3/Plonky3/commit/f3ddc2aa4497e1456f6bebaeb61fda523dbadc68) - 2026-09-13
+* [Commit] [feat(sumcheck)!: drive the ring-switching transcript through the typed Fiat-Shamir layer (#2122)](https://github.com/Plonky3/Plonky3/commit/152c77e387bb74c85d2adfc69d1b50fd6fefcb2f) - 2026-09-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

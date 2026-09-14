@@ -135,6 +135,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/phase1/forkchoice: don't hold the fork-choice lock across blocking EL calls in OnBlock](https://github.com/erigontech/erigon/pull/23691#pullrequestreview-5175530592) - 2026-09-11
 * [Review] [Review on: [r3.6] cl/phase1/network: read the blob count under the canonical root](https://github.com/erigontech/erigon/pull/23922#pullrequestreview-5185736492) - 2026-09-12
 * [Review] [Review on: [r3.6] cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23923#pullrequestreview-5185737628) - 2026-09-12
+* [Commit] [cl: support Gloas-at-genesis state shape (#23889)](https://github.com/erigontech/erigon/commit/e4440001c2dba05c0b42eaa4e1d3fb67458178b8) - 2026-09-14
 ## Q2 2026
 
 

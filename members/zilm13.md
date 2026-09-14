@@ -154,6 +154,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns](https://github.com/Consensys-Incorporated/teku/pull/11250#pullrequestreview-5166077265) - 2026-09-10
 * [Review] [Review on: Enforce progressive-list soft limits at network decode time](https://github.com/Consensys-Incorporated/teku/pull/11263#pullrequestreview-5180618312) - 2026-09-11
 * [Review] [Review on: Remove shuffling stable from fulu onwards](https://github.com/Consensys-Incorporated/teku/pull/11203#pullrequestreview-5180410522) - 2026-09-11
+* [Commit] [FCR Optimization part1: Speed up fast confirmation with memoization and one-pass chain scoring (#11212)](https://github.com/Consensys-Incorporated/teku/commit/88da67a41e279efb4e25b24cc43015f60e941cb9) - 2026-09-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

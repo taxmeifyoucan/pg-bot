@@ -196,6 +196,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Prototype: remove Hash and HalfPath state backends](https://github.com/NethermindEth/nethermind/pull/13386) - 2026-09-11
 * [Review] [Review on: perf: remove fixed block prewarming and trie concurrency caps](https://github.com/NethermindEth/nethermind/pull/13388#pullrequestreview-5180897444) - 2026-09-11
 * [Commit] [chore(deps): bump Nethermind.Numerics.Int256 to 1.9.0 (#13389)](https://github.com/NethermindEth/nethermind/commit/bb533c6db209d37d691f358c288a47aad270159d) - 2026-09-11
+* [Pull Request] [Support reth and geth in Fusaka EXPB benchmarks](https://github.com/NethermindEth/nethermind/pull/13436) - 2026-09-13
+* [Pull Request] [Make EXPB regression campaigns faster and preserve complete run evidence](https://github.com/NethermindEth/nethermind/pull/13434) - 2026-09-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

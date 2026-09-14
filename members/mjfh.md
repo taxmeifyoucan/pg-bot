@@ -47,6 +47,8 @@ Team: Nimbus
 * [Commit] [Snap2 beacon sync error handling and maint update (#4770)](https://github.com/status-im/nimbus-eth1/commit/351257840ea0d643d8e31ced2822f2e5139fcb62) - 2026-09-09
 * [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4785) - 2026-09-11
 * [Commit] [Snap2 sync maint update (#4785)](https://github.com/status-im/nimbus-eth1/commit/15f9bf04adf158cf03e242b609efa52daa15b85b) - 2026-09-11
+* [Pull Request] [Snap2 sync fix acceptance window design](https://github.com/status-im/nimbus-eth1/pull/4787) - 2026-09-13
+* [Commit] [Snap2 sync fix acceptance window design (#4787)](https://github.com/status-im/nimbus-eth1/commit/eb2a8dcd76266bc2cfcf1102fff67e3de3f18849) - 2026-09-13
 ## Q2 2026
 
 

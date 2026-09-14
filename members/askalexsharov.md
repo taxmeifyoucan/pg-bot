@@ -1474,6 +1474,21 @@ Team: Erigon
 * [Review] [Review on: execution/blockmetrics: drop the copied consumer regex from the envelope test](https://github.com/erigontech/erigon/pull/23913#pullrequestreview-5184956286) - 2026-09-12
 * [Review] [Review on: [r3.6] execution/execmodule: deflake TestAssembleBlockWithFreshlyAddedTxns](https://github.com/erigontech/erigon/pull/23931#pullrequestreview-5184955027) - 2026-09-12
 * [Review] [Review on: ci(docs): automate the docs release-series cutover](https://github.com/erigontech/erigon/pull/23933#pullrequestreview-5184967256) - 2026-09-12
+* [Pull Request] [rpc: encode result straight into the response stream](https://github.com/erigontech/erigon/pull/23955) - 2026-09-14
+* [Review] [Review on: rpc: encode result straight into the response stream](https://github.com/erigontech/erigon/pull/23955#pullrequestreview-5193357898) - 2026-09-14
+* [Pull Request] [db: auto-compact bloated mdbx dbs at startup](https://github.com/erigontech/erigon/pull/23956) - 2026-09-14
+* [Review] [Review on: db: auto-compact bloated mdbx dbs at startup](https://github.com/erigontech/erigon/pull/23956#pullrequestreview-5193452288) - 2026-09-14
+* [Review] [Review on: fix(rpc): include MCOPY memory writes in vmTrace](https://github.com/erigontech/erigon/pull/23952#pullrequestreview-5193032364) - 2026-09-14
+* [Pull Request] [rpc: marshal responses through a writer, json/v2 MarshalWrite under go1.27](https://github.com/erigontech/erigon/pull/23953) - 2026-09-14
+* [Pull Request] [[wip] cmd/erigon, cmd/integration: retire state at startup when chaindata holds more than 3 steps](https://github.com/erigontech/erigon/pull/23958) - 2026-09-14
+* [Pull Request] [[wip] db/kv/mdbx, execution/execmodule: online defrag of chaindata after initial-cycle prune](https://github.com/erigontech/erigon/pull/23959) - 2026-09-14
+* [Pull Request] [[wip] db/kv/mdbx, execution/execmodule: compact chaindata after initial-cycle prune](https://github.com/erigontech/erigon/pull/23957) - 2026-09-14
+* [Review] [Review on: p2p/nat: parse NAT specifications with strings.Cut](https://github.com/erigontech/erigon/pull/23921#pullrequestreview-5193039202) - 2026-09-14
+* [Review] [Review on: rpc: charge blob fees the way geth does in eth_call and eth_estimateGas](https://github.com/erigontech/erigon/pull/23949#pullrequestreview-5190498103) - 2026-09-13
+* [Review] [Review on: cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock](https://github.com/erigontech/erigon/pull/23944#pullrequestreview-5189859085) - 2026-09-13
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.88.2 to 0.88.7](https://github.com/erigontech/erigon/pull/23946#pullrequestreview-5189813317) - 2026-09-13
+* [Issue] [db: auto-compact mdbx databases at startup](https://github.com/erigontech/erigon/issues/23954) - 2026-09-14
+* [Commit] [cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock (#23944)](https://github.com/erigontech/erigon/commit/984a44258e768860264c6958264f5e34ab8443b5) - 2026-09-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

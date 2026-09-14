@@ -94,6 +94,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Rename test-suite caller job keys to avoid colliding with check names](https://github.com/Consensys-Incorporated/teku/pull/11208#pullrequestreview-5073853789) - 2026-09-01
 * [Pull Request] [Get execution payload bid request](https://github.com/Consensys-Incorporated/teku/pull/11257) - 2026-09-10
 * [Commit] [update ephemery references to the "standardized format" (#11216)](https://github.com/Consensys-Incorporated/teku/commit/69825279f82203028a6a6f19be63af406952f4a7) - 2026-09-10
+* [Pull Request] [Remove shuffling stable from fulu onwards](https://github.com/Consensys-Incorporated/teku/pull/11203) - 2026-09-14
+* [Commit] [Remove shuffling stable from fulu onwards (#11203)](https://github.com/Consensys-Incorporated/teku/commit/0a19f620fbf0b740e1960a26bb44773a19256220) - 2026-09-14
 ## Q2 2026
 
 

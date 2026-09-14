@@ -266,6 +266,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [evm: Don't check call depth limit in Osaka](https://github.com/ipsilon/evmone/pull/1704) - 2026-09-11
 * [Commit] [evm: Don't check call depth limit in Osaka (#1704)](https://github.com/ipsilon/evmone/commit/42a296cd78438dc4dae54e2b73a8a0f5f4b12bb6) - 2026-09-11
 * [Commit] [crypto: Reduce the exponent for the power-of-two modulus part (#1662)](https://github.com/ipsilon/evmone/commit/bf8303f66cb1f87d502aa2f497e0e92d39f8ad00) - 2026-09-11
+* [Pull Request] [crypto: Assert the Montgomery multiplication invariants](https://github.com/ipsilon/evmone/pull/1707) - 2026-09-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

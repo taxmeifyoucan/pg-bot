@@ -534,6 +534,9 @@ Team: Erigon
 * [Commit] [execution/commitment: count the mount fold, drop commitment_unfolds_total (#23892)](https://github.com/erigontech/erigon/commit/a92ce49b18146134cc63efc85858aaed55fbc50c) - 2026-09-12
 * [Commit] [execution/commitment: hash the slot alone when deriving a root leaf's storage navigation path (#23900)](https://github.com/erigontech/erigon/commit/b4562b4ac6635c120838d71e0bf0df2529e92447) - 2026-09-12
 * [Commit] [execution/blockmetrics: drop the copied consumer regex from the envelope test (#23913)](https://github.com/erigontech/erigon/commit/c31dcaa880f754286a35b54dc602f671700f5751) - 2026-09-12
+* [Review] [Review on: rpc: encode result straight into the response stream](https://github.com/erigontech/erigon/pull/23955#pullrequestreview-5193527593) - 2026-09-14
+* [Review] [Review on: rpc: return typed structs from the block and header methods](https://github.com/erigontech/erigon/pull/23943#pullrequestreview-5189553738) - 2026-09-13
+* [Review] [Review on: cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock](https://github.com/erigontech/erigon/pull/23944#pullrequestreview-5189536169) - 2026-09-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

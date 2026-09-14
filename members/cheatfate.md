@@ -37,6 +37,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add PTC duty tracking to VC](https://github.com/status-im/nimbus-eth2/pull/8924#pullrequestreview-5132957479) - 2026-09-07
 * [Pull Request] [Fix IndexError crash in unstable (syncv3) related.](https://github.com/status-im/nimbus-eth2/pull/9016) - 2026-09-08
 * [Pull Request] [Rm missing sidecars request slot filters.](https://github.com/status-im/nimbus-eth2/pull/9027) - 2026-09-10
+* [Pull Request] [VC: Fix `is_aggregator` field was not populated under certain conditions.](https://github.com/status-im/nimbus-eth2/pull/9039) - 2026-09-13
 ## Q2 2026
 
 

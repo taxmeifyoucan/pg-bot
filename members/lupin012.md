@@ -212,6 +212,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: charge blob fees the way geth does in eth_call and eth_estimateGas](https://github.com/erigontech/erigon/pull/23949) - 2026-09-12
 * [Pull Request] [[r3.6] rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/23920) - 2026-09-12
 * [Commit] [db/kv/membatchwithdb: fix Range merge and honor overlay deletions (#23872)](https://github.com/erigontech/erigon/commit/08c9631452ec2cfe4bcda210072279371ac0f8e1) - 2026-09-13
+* [Pull Request] [rpc/jsonrpc: keep trace_callMany bundles on the parent state boundary](https://github.com/erigontech/erigon/pull/23951) - 2026-09-13
+* [Pull Request] [tracing: honor the reverted flag in callTracer](https://github.com/erigontech/erigon/pull/23950) - 2026-09-13
+* [Review] [Review on: rpc: charge blob fees the way geth does in eth_call and eth_estimateGas](https://github.com/erigontech/erigon/pull/23949#pullrequestreview-5190365176) - 2026-09-13
+* [Review] [Review on: rpc/jsonrpc, db/snapshotsync: serve blocks from the oldest one the datadir holds](https://github.com/erigontech/erigon/pull/23939#pullrequestreview-5190331859) - 2026-09-13
+* [Commit] [rpc: charge blob fees the way geth does in eth_call and eth_estimateGas (#23949)](https://github.com/erigontech/erigon/commit/b12585ee1c09cfe5753dc1ddb89d6a966de930ec) - 2026-09-13
+* [Commit] [rpc/jsonrpc, db/snapshotsync: serve blocks from the oldest one the datadir holds (#23939)](https://github.com/erigontech/erigon/commit/fab5543e5b7ea730d186e86ec5997d0a4b39fbd7) - 2026-09-13
+* [Commit] [rpc/jsonrpc: erigon_getLogsByHash reports blockTimestamp (#23935)](https://github.com/erigontech/erigon/commit/e7228934035e972ded38c7fe46119f87511fd0ee) - 2026-09-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

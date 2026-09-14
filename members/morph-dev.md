@@ -13,6 +13,9 @@ Team: Portal Network (EF)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Spec cleanup and clarifications](https://github.com/ethereum/EIPs/commit/b6dde8df84e92d24a788ad8ea5e2c7f5efbab98c) - 2026-07-07
+
+[ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
+* [Review] [Review on: Add block proof for Gloas and later](https://github.com/ethereum/portal-network-specs/pull/416#pullrequestreview-5190765786) - 2026-09-13
 ## Q2 2026
 
 

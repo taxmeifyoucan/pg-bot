@@ -26,6 +26,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries](https://github.com/NethermindEth/nethermind/pull/13323) - 2026-09-09
 * [Review] [Review on: perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries](https://github.com/NethermindEth/nethermind/pull/13323#pullrequestreview-5160362635) - 2026-09-09
 * [Commit] [perf(evm): hold stack words in UInt256 limb layout, reverse only at the byte boundaries (#13323)](https://github.com/NethermindEth/nethermind/commit/437a6111cdf1d9cfb598f64e5bd1213e2d4f9018) - 2026-09-10
+* [Pull Request] [Support SP1 and OpenVM](https://github.com/NethermindEth/nethermind/pull/13435) - 2026-09-13
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02

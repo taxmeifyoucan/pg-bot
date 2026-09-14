@@ -109,6 +109,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Standardise FCR metrics](https://github.com/sigp/lighthouse/pull/9987#pullrequestreview-5163263933) - 2026-09-10
 * [Review] [Review on: Add 0x02 support to validator creation](https://github.com/sigp/lighthouse/pull/9702#pullrequestreview-5162990025) - 2026-09-10
 * [Issue] [De-bounce full reprocess queue error](https://github.com/sigp/lighthouse/issues/10040) - 2026-09-11
+* [Pull Request] [Revert "Move `SlotAssignment` cache to `CanonicalHead` (#9661)"](https://github.com/sigp/lighthouse/pull/10047) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

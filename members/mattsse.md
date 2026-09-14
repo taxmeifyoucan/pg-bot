@@ -755,6 +755,18 @@ Team: Reth
 * [Review] [Review on: feat(txpool): make replacement policy extensible](https://github.com/paradigmxyz/reth/pull/27201#pullrequestreview-5185884665) - 2026-09-12
 * [Review] [Review on: feat(txpool): add nonce bound check hook](https://github.com/paradigmxyz/reth/pull/27185#pullrequestreview-5185848423) - 2026-09-12
 * [Review] [Review on: fix nix build process](https://github.com/paradigmxyz/reth/pull/27202#pullrequestreview-5185840152) - 2026-09-12
+* [Pull Request] [feat(ci): add RPC replay mode to derek bench](https://github.com/paradigmxyz/reth/pull/27207) - 2026-09-13
+* [Pull Request] [perf(storage): point-lookup fast path for the last history shard](https://github.com/paradigmxyz/reth/pull/27214) - 2026-09-14
+* [Pull Request] [perf(storage): reuse rocksdb iterator across history lookups](https://github.com/paradigmxyz/reth/pull/27210) - 2026-09-13
+* [Pull Request] [perf(engine): drop the execution state cache off the payload thread](https://github.com/paradigmxyz/reth/pull/27205) - 2026-09-13
+* [Pull Request] [chore(db): skip unread RocksDB timer histograms](https://github.com/paradigmxyz/reth/pull/27212) - 2026-09-13
+* [Pull Request] [fix(db): apply --db.rocksdb-block-cache-size on node startup](https://github.com/paradigmxyz/reth/pull/27211) - 2026-09-13
+* [Pull Request] [perf(rpc): avoid redundant copies of IPC responses](https://github.com/paradigmxyz/reth/pull/27209) - 2026-09-13
+* [Pull Request] [chore: bench revm-inspectors main (throwaway)](https://github.com/paradigmxyz/reth/pull/27208) - 2026-09-13
+* [Pull Request] [refactor(engine): use upstream BalAccountInfo](https://github.com/paradigmxyz/reth/pull/27204) - 2026-09-13
+* [Review] [Review on: refactor(engine): use upstream BalAccountInfo](https://github.com/paradigmxyz/reth/pull/27204#pullrequestreview-5190499726) - 2026-09-13
+* [Review] [Review on: fix(rpc): validate V6 BAL gas budget before KZG](https://github.com/paradigmxyz/reth/pull/27086#pullrequestreview-5190259247) - 2026-09-13
+* [Issue] [BAL path hashes deployed contract code three times per block](https://github.com/paradigmxyz/reth/issues/27206) - 2026-09-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

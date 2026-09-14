@@ -141,6 +141,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878) - 2026-09-01
 * [Review] [Review on: Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878#pullrequestreview-5088044127) - 2026-09-02
 * [Commit] [Add non-zero requirements to getInclusionListV1's response (#878)](https://github.com/ethereum/execution-apis/commit/2ab543851a206ec2836cb387b3aa9cb33c646938) - 2026-09-04
+* [Commit] [Update Amsterdam ToC (#837)](https://github.com/ethereum/execution-apis/commit/465d1b98d43e94ff3d57e904fd7d4bea7f6b804c) - 2026-09-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
 * [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29

@@ -106,6 +106,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [transition to seq[NodeId] from hashtable (#4753)](https://github.com/status-im/nimbus-eth1/commit/f81b344dafe4a69a73819c54c41e7ef20948ad4d) - 2026-09-07
 * [Commit] [Nimbus light flavour (#4357)](https://github.com/status-im/nimbus-eth1/commit/b8611dcd6d2be0bc0ea930651980daeecd19f4de) - 2026-09-07
 * [Pull Request] [`create` opcode use code cache](https://github.com/status-im/nimbus-eth1/pull/4779) - 2026-09-11
+* [Pull Request] [remove txRecords and instead use the KVT txFrame](https://github.com/status-im/nimbus-eth1/pull/4789) - 2026-09-13
+* [Commit] [`create` opcode use code cache (#4779)](https://github.com/status-im/nimbus-eth1/commit/8cf573b199424f75fa4a8dd2401df248789de915) - 2026-09-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

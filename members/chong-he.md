@@ -69,6 +69,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Avoid iterating all validators for `/beacon/states/{state_id}/validator*` endpoints](https://github.com/sigp/lighthouse/pull/10037) - 2026-09-11
 * [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-5173958000) - 2026-09-11
 * [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5175463295) - 2026-09-11
+* [Review] [Review on: Gate churn-limit helpers by fork](https://github.com/sigp/lighthouse/pull/9880#pullrequestreview-5193231344) - 2026-09-14
+* [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5193133408) - 2026-09-14
 ## Q2 2026
 
 
