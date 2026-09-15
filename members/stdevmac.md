@@ -96,6 +96,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot](https://github.com/NethermindEth/nethermind/pull/13362#pullrequestreview-5169697014) - 2026-09-10
 * [Issue] [FlatDb: --FlatDb.Enabled=false on an existing flat DB silently discards state and full-resyncs (detection asymmetry vs patricia)](https://github.com/NethermindEth/nethermind/issues/13428) - 2026-09-13
 * [Pull Request] [fix(rpc): keep streamed JSON-RPC responses well-formed when the stream fails](https://github.com/NethermindEth/nethermind/pull/13439) - 2026-09-13
+* [Pull Request] [fix(ci): repair RPC benchmark checkout and ARM storage checks](https://github.com/NethermindEth/nethermind/pull/13475) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

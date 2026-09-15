@@ -241,6 +241,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Report received and expected status in builder client status mismatch errors](https://github.com/OffchainLabs/prysm/pull/17495) - 2026-09-14
 * [Pull Request] [Log when a Gloas builder returns no bid](https://github.com/OffchainLabs/prysm/pull/17494) - 2026-09-14
 * [Pull Request] [Keep Gloas builder connections warm between proposals](https://github.com/OffchainLabs/prysm/pull/17493) - 2026-09-14
+* [Commit] [Ignore bids from builders exited by the parent's payload (#17482)](https://github.com/OffchainLabs/prysm/commit/01a8f6d282083887c258aaa084cd0caf3c7de8c3) - 2026-09-14
+* [Commit] [Keep Gloas builder connections warm between proposals (#17493)](https://github.com/OffchainLabs/prysm/commit/7d61c544c66caf167870633338e7af86b641e18c) - 2026-09-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

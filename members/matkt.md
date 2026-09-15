@@ -111,6 +111,12 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: fix(bal): decode block access list uint256 fields as minimal scalars](https://github.com/besu-eth/besu/pull/11234#pullrequestreview-5102090552) - 2026-09-03
 * [Review] [Review on: feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224#pullrequestreview-5102128622) - 2026-09-03
 * [Pull Request] [Fix/chain pruning fresh sync](https://github.com/besu-eth/besu/pull/11250) - 2026-09-07
+* [Pull Request] [fix engine new payload response](https://github.com/besu-eth/besu/pull/11290) - 2026-09-14
+* [Review] [Review on: fix engine new payload response](https://github.com/besu-eth/besu/pull/11290#pullrequestreview-5198720540) - 2026-09-14
+* [Pull Request] [move pathbased common types into bonsai packages](https://github.com/besu-eth/besu/pull/11292) - 2026-09-14
+* [Review] [Review on: Fix/chain pruning fresh sync](https://github.com/besu-eth/besu/pull/11250#pullrequestreview-5196637116) - 2026-09-14
+* [Review] [Review on: Reject a transaction that cannot fit the block before the access list check](https://github.com/besu-eth/besu/pull/11195#pullrequestreview-5195695610) - 2026-09-14
+* [Commit] [fix engine new payload response (#11290)](https://github.com/besu-eth/besu/commit/827c61bc16cd390526d8aa0caa1b63542680c973) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

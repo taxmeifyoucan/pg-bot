@@ -120,6 +120,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Update agents rules](https://github.com/Consensys-Incorporated/teku/pull/11252#pullrequestreview-5155351239) - 2026-09-09
 * [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5166957340) - 2026-09-10
 * [Issue] [Update gossip rules](https://github.com/Consensys-Incorporated/teku/issues/11261) - 2026-09-11
+* [Pull Request] [11261 update gossip rules](https://github.com/Consensys-Incorporated/teku/pull/11270) - 2026-09-14
+* [Commit] [key proposer preferences by slot and dependent root (#11242)](https://github.com/Consensys-Incorporated/teku/commit/5ecd1290ebeaff9847ee9a64e91735d4ef43a720) - 2026-09-14
+* [Commit] [ignore bid from excited builders (#11239)](https://github.com/Consensys-Incorporated/teku/commit/05a0dee539403062bdd1e0fbf37a56a1ce0d955e) - 2026-09-14
 ## Q2 2026
 
 

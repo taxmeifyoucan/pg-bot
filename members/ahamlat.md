@@ -54,6 +54,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Make size primitive and initialized at build time](https://github.com/besu-eth/besu/pull/11258) - 2026-09-08
 * [Commit] [Make size primitive and initialized at build time (#11258)](https://github.com/besu-eth/besu/commit/b91e98678f4511fd226358a98d0f0d9ff464626a) - 2026-09-09
 * [Review] [Review on: Fix eth_estimateGas internal error related to value transfer tx](https://github.com/besu-eth/besu/pull/11272#pullrequestreview-5179648897) - 2026-09-11
+* [Review] [Review on: Rename regular gas to execution gas](https://github.com/besu-eth/besu/pull/11281#pullrequestreview-5197674881) - 2026-09-14
 ## Q2 2026
 
 

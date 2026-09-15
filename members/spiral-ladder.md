@@ -71,6 +71,13 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat: gloas lc support (#9687)](https://github.com/ChainSafe/lodestar/commit/0dbea0de1b39ab8d2064660dd074900ad04b3334) - 2026-09-03
 * [Pull Request] [fix(archive): prune by block and payload level data](https://github.com/ChainSafe/lodestar/pull/10022) - 2026-09-07
 * [Review] [Review on: fix: set finite gossipsub decode limits for control messages](https://github.com/ChainSafe/lodestar/pull/9117#pullrequestreview-5166089161) - 2026-09-10
+* [Pull Request] [fix(network): actually dial QUIC before TCP when a peer advertises both](https://github.com/ChainSafe/lodestar/pull/10077) - 2026-09-14
+* [Review] [Review on: fix(network): actually dial QUIC before TCP when a peer advertises both](https://github.com/ChainSafe/lodestar/pull/10077#pullrequestreview-5194754538) - 2026-09-14
+* [Pull Request] [chore: publish discv5 and QUIC UDP ports in docker-compose](https://github.com/ChainSafe/lodestar/pull/10078) - 2026-09-14
+* [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5194151411) - 2026-09-14
+* [Review] [Review on: test: tighten snappy decoder assertions](https://github.com/ChainSafe/lodestar/pull/10068#pullrequestreview-5193792732) - 2026-09-14
+* [Commit] [fix(network): actually dial QUIC before TCP when a peer advertises both (#10077)](https://github.com/ChainSafe/lodestar/commit/89d0f4da2d4b0beb275874fe0481221e4625ee62) - 2026-09-14
+* [Commit] [chore: publish discv5 and QUIC UDP ports in docker-compose (#10078)](https://github.com/ChainSafe/lodestar/commit/042c96183ce84c5d362b3550ea3b176155f3696f) - 2026-09-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -239,6 +246,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [perf(state-transition): optimize slashing penalties (#676)](https://github.com/ChainSafe/lodestar-z/commit/b01424a11f647eeb3b6087850d47b9c36f6d251d) - 2026-09-10
 * [Commit] [feat(metrics): record exported but unset state transition gauges (#662)](https://github.com/ChainSafe/lodestar-z/commit/d57e89a4e05290615fbceeebd14b83a7f903ae98) - 2026-09-10
 * [Pull Request] [fix(bindings): return sync committee index maps](https://github.com/ChainSafe/lodestar-z/pull/691) - 2026-09-11
+* [Commit] [feat: partial validator monitor (#475)](https://github.com/ChainSafe/lodestar-z/commit/2c595d330101b6b32ab811de179f315c85443003) - 2026-09-14
+* [Commit] [fix(bindings): return sync committee index maps (#691)](https://github.com/ChainSafe/lodestar-z/commit/2f1a177a10171c1a9f5cead09f7ebb2d3b9aa7db) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

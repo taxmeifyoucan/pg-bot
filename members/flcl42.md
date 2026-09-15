@@ -374,6 +374,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/pull/12317) - 2026-09-11
+* [Commit] [Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/commit/286a88e75f7bb301ba58e534e3484aae86001ed2) - 2026-09-14
 ## Q2 2026
 
 

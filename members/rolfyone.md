@@ -197,6 +197,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fix dead REST API and libp2p documentation links](https://github.com/Consensys-Incorporated/teku/pull/11268#pullrequestreview-5193532231) - 2026-09-14
 * [Review] [Review on: Implement `/eth/v1/beacon/light_client/finality_update`](https://github.com/Consensys-Incorporated/teku/pull/11243#pullrequestreview-5192791069) - 2026-09-13
 * [Review] [Review on: Updated jvm-libp2p to 1.3.7](https://github.com/Consensys-Incorporated/teku/pull/11265#pullrequestreview-5193001918) - 2026-09-14
+* [Review] [Review on: Implement `/eth/v1/beacon/light_client/finality_update`](https://github.com/Consensys-Incorporated/teku/pull/11243#pullrequestreview-5204590855) - 2026-09-15
+* [Review] [Review on: Don't cancel in-progress publish jobs on master pushes](https://github.com/Consensys-Incorporated/teku/pull/11271#pullrequestreview-5204646843) - 2026-09-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

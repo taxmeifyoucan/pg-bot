@@ -267,6 +267,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evm: Don't check call depth limit in Osaka (#1704)](https://github.com/ipsilon/evmone/commit/42a296cd78438dc4dae54e2b73a8a0f5f4b12bb6) - 2026-09-11
 * [Commit] [crypto: Reduce the exponent for the power-of-two modulus part (#1662)](https://github.com/ipsilon/evmone/commit/bf8303f66cb1f87d502aa2f497e0e92d39f8ad00) - 2026-09-11
 * [Pull Request] [crypto: Assert the Montgomery multiplication invariants](https://github.com/ipsilon/evmone/pull/1707) - 2026-09-13
+* [Pull Request] [state: Replace State::find() with the nonexistent account flag](https://github.com/ipsilon/evmone/pull/1712) - 2026-09-14
+* [Pull Request] [t8n: Recover transaction senders from their signatures](https://github.com/ipsilon/evmone/pull/1711) - 2026-09-14
+* [Pull Request] [state: Restore account nonexistence when a cold access is reverted](https://github.com/ipsilon/evmone/pull/1709) - 2026-09-14
+* [Pull Request] [crypto: Fold the Montgomery carries into a single addition](https://github.com/ipsilon/evmone/pull/1708) - 2026-09-14
+* [Commit] [crypto: Fold the Montgomery carries into a single addition (#1708)](https://github.com/ipsilon/evmone/commit/f40021b483ae88f1094241c483c7ee2701988b5c) - 2026-09-14
+* [Commit] [crypto: Assert the Montgomery multiplication invariants (#1707)](https://github.com/ipsilon/evmone/commit/f3523c200a8dc1c8c1666937f3b5d866f2f8905f) - 2026-09-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -339,6 +345,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): EIP-8037 - code deposit regular gas with a covering reservoir](https://github.com/ethereum/execution-specs/pull/3553) - 2026-09-09
 * [Pull Request] [refactor(tests): fold the simple ported ECRECOVER cases into test_precompiles](https://github.com/ethereum/execution-specs/pull/3574) - 2026-09-11
 * [Pull Request] [feat(tests): in-range signature that recovers no public key](https://github.com/ethereum/execution-specs/pull/3573) - 2026-09-11
+* [Commit] [feat(tests): EIP-8037 - code deposit regular gas with a covering reservoir (#3553)](https://github.com/ethereum/execution-specs/commit/0f282c517f47a4ee55d8654de233b93bbb508ce7) - 2026-09-14
+* [Commit] [fix(tests): EIP-8037 - drop double-counted hash gas in code deposit guard (#3554)](https://github.com/ethereum/execution-specs/commit/7281bf17dd1efb9a41b3f9f49e11eb23a8188b0e) - 2026-09-14
+* [Commit] [feat(tests): in-range signature that recovers no public key (#3573)](https://github.com/ethereum/execution-specs/commit/e35787f5c67dd55c3a6874755b4b6a54bd6f255f) - 2026-09-14
+* [Commit] [refactor(tests): fold the simple ported ECRECOVER cases into test_precompiles (#3574)](https://github.com/ethereum/execution-specs/commit/21a0b37088131836c9060197d046792d35d95c79) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -364,6 +374,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/commit/65d177d431638639d35897d6e869301a5ea8a02c) - 2026-09-04
 * [Pull Request] [Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/pull/12303) - 2026-09-07
 * [Pull Request] [Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/pull/12311) - 2026-09-10
+* [Commit] [Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/commit/d7087803ca236498c73f64665df0ddac7d621950) - 2026-09-14
+* [Commit] [Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/commit/9dcd72754f3fe4b48a4dbeffee669dc4c60f7ec5) - 2026-09-14
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16

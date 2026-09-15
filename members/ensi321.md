@@ -103,6 +103,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: emit finalized_checkpoint event from fork choice finalized callback (#10035)](https://github.com/ChainSafe/lodestar/commit/30d2b0bf521ce2b6e96f33f6b945b137cf579a2d) - 2026-09-09
 * [Commit] [fix: emit payload_attributes before EL payload preparation (#10037)](https://github.com/ChainSafe/lodestar/commit/a4083281b73da65261689036317eaeec4373af40) - 2026-09-10
 * [Commit] [test: add compliance test for gloas (#9761)](https://github.com/ChainSafe/lodestar/commit/57c1e5614b13ab4919bd5caeb927812b3842151c) - 2026-09-10
+* [Pull Request] [fix: bound inbound gossipsub RPC frames by max_message_size](https://github.com/ChainSafe/lodestar/pull/10079) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

@@ -28,6 +28,8 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Issue] [Frame Transaction Breakout #3, Sep 1, 2026](https://github.com/ethereum/pm/issues/2206) - 2026-08-29
 * [Commit] [acdbot: aa cadence tweak](https://github.com/ethereum/pm/commit/4256d261de3a8dd76d10ea36118a837ff992b0a3) - 2026-08-29
 * [Issue] [Frame Transaction Breakout #4, Sep 8, 2026](https://github.com/ethereum/pm/issues/2212) - 2026-09-03
+* [Issue] [Frame Transaction Breakout #5, Sep 22, 2026](https://github.com/ethereum/pm/issues/2221) - 2026-09-14
+* [Commit] [acdbot: aa cadence tweak](https://github.com/ethereum/pm/commit/7c36d36453dc0fe9e423ba073d38396c5f042fc5) - 2026-09-14
 ## Q2 2026
 
 

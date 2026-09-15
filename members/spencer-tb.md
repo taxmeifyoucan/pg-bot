@@ -312,6 +312,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): cover EIP-8037 system gas and code-deposit boundaries (#3524)](https://github.com/ethereum/execution-specs/commit/bb95255f8316e0bf25c4cab39514382c5b1d4d88) - 2026-09-10
 * [Review] [Review on: fix(test-fill): reset opcode count before generating fill results](https://github.com/ethereum/execution-specs/pull/3563#pullrequestreview-5179251994) - 2026-09-11
 * [Commit] [feat(tests): probe EIP-161 emptiness after same-tx precompile touches (#3477)](https://github.com/ethereum/execution-specs/commit/4887bcaa2b92c27f0d12891b3518dffe5bbd1749) - 2026-09-11
+* [Pull Request] [feat(spec-specs,forks,tests): EIP-8037 - cap tx.gas at TX_MAX_TOTAL_GAS_LIMIT (2^32-1)](https://github.com/ethereum/execution-specs/pull/3582) - 2026-09-14
+* [Review] [Review on: refactor(tests): use `GasConsumer` for the remaining manual gas sinks](https://github.com/ethereum/execution-specs/pull/3541#pullrequestreview-5199588792) - 2026-09-14
+* [Review] [Review on: refactor(spec-specs): move `REFUND_AUTH` and `TX_MAX_GAS_LIMIT` into GasCosts](https://github.com/ethereum/execution-specs/pull/3534#pullrequestreview-5199517058) - 2026-09-14
+* [Review] [Review on: feat(tests): EIP-8037 - code deposit regular gas with a covering reservoir](https://github.com/ethereum/execution-specs/pull/3553#pullrequestreview-5199300687) - 2026-09-14
+* [Review] [Review on: feat(tests): run the EIP-7702 pointer gas-diff tests past EIP-8037](https://github.com/ethereum/execution-specs/pull/3570#pullrequestreview-5198935672) - 2026-09-14
+* [Review] [Review on: fix(tests): EIP-8037 - drop double-counted hash gas in code deposit guard](https://github.com/ethereum/execution-specs/pull/3554#pullrequestreview-5198752431) - 2026-09-14
+* [Review] [Review on: chore(tests): drop stale EIP-8037 TODO on the 7702 precompile intrinsic gas test](https://github.com/ethereum/execution-specs/pull/3561#pullrequestreview-5198575578) - 2026-09-14
+* [Review] [Review on: fix(tests): unskip BAL 7702 delegated CREATE under EIP-8037 gas](https://github.com/ethereum/execution-specs/pull/3558#pullrequestreview-5198648720) - 2026-09-14
+* [Review] [Review on: refactor(tests): use GasConsumer for cross-frame refund execution tail](https://github.com/ethereum/execution-specs/pull/3559#pullrequestreview-5198656767) - 2026-09-14
+* [Pull Request] [chore(tests): drop stale EIP-8037 TODO on the 7702 precompile intrinsic gas test](https://github.com/ethereum/execution-specs/pull/3581) - 2026-09-14
+* [Review] [Review on: feat(tests): cover self-sponsored sender in EIP-7702 ext*code tests](https://github.com/ethereum/execution-specs/pull/3560#pullrequestreview-5198527776) - 2026-09-14
+* [Review] [Review on: fix(tests): unskip EIP-7702 pointer loop under EIP-8037](https://github.com/ethereum/execution-specs/pull/3567#pullrequestreview-5198227074) - 2026-09-14
+* [Review] [Review on: feat(tests): extend EIP-7702 pointer reentry context checks](https://github.com/ethereum/execution-specs/pull/3568#pullrequestreview-5197992925) - 2026-09-14
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -351,6 +364,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/ethereum/engine: apply withdrawals CL mock config](https://github.com/ethereum/hive/pull/1604#pullrequestreview-5066866136) - 2026-08-31
 * [Review] [Review on: internal/libhive,simulators/ethereum/eels: support optional authenticated GitHub clones, redact token from recorded commands](https://github.com/ethereum/hive/pull/1606#pullrequestreview-5104086408) - 2026-09-03
 * [Review] [Review on: internal/libhive: support simulator build configurations with --sim.file](https://github.com/ethereum/hive/pull/1607#pullrequestreview-5179953130) - 2026-09-11
+* [Review] [Review on: internal/libhive: support simulator build configurations via --config](https://github.com/ethereum/hive/pull/1607#pullrequestreview-5199725849) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

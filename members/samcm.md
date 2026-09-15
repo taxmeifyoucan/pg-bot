@@ -29,6 +29,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add typed ClickHouse read package (pkg/proto/clickhouse)](https://github.com/ethpandaops/xatu/pull/886) - 2026-08-20
 * [Commit] [feat: add typed ClickHouse read package (pkg/proto/clickhouse) (#886)](https://github.com/ethpandaops/xatu/commit/619c572d19c3f49c9f456988051f8d35d526c61e) - 2026-08-24
 * [Review] [Review on: fix(sinks): rate-limit per-event sink failure logs](https://github.com/ethpandaops/xatu/pull/887#pullrequestreview-5085668468) - 2026-09-02
+* [Pull Request] [feat(cannon): exit when the beacon node keeps failing the sync check](https://github.com/ethpandaops/xatu/pull/888) - 2026-09-15
+* [Review] [Review on: fix(cannon): resolve EL ceiling via finality checkpoint instead of cached "finalized" alias](https://github.com/ethpandaops/xatu/pull/885#pullrequestreview-5194794647) - 2026-09-14
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06

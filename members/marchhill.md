@@ -404,6 +404,24 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: test(eip8141): say what the frame-tx pool fixtures measure, and share the pool helper](https://github.com/NethermindEth/nethermind/pull/13400#pullrequestreview-5186173174) - 2026-09-12
 * [Review] [Review on: test(eip8141): make three frame-tx regressions hold what they name](https://github.com/NethermindEth/nethermind/pull/13410#pullrequestreview-5186159589) - 2026-09-12
 * [Review] [Review on: EIP-8141: keep every executed frame in callTracer output](https://github.com/NethermindEth/nethermind/pull/13399#pullrequestreview-5186133968) - 2026-09-12
+* [Pull Request] [EIP-8141: revalidate blob-carrying frame transactions against the head](https://github.com/NethermindEth/nethermind/pull/13473) - 2026-09-15
+* [Pull Request] [Seed every head-derived fact at construction](https://github.com/NethermindEth/nethermind/pull/13472) - 2026-09-15
+* [Pull Request] [docs(txpool): say why ITxPool.EvictTransaction carries no default body](https://github.com/NethermindEth/nethermind/pull/13469) - 2026-09-14
+* [Pull Request] [fix(eip8141): restore the snapshot on every frame-tx pre-flight rejection](https://github.com/NethermindEth/nethermind/pull/13459) - 2026-09-14
+* [Review] [Review on: fix(eip8141): restore the snapshot on every frame-tx pre-flight rejection](https://github.com/NethermindEth/nethermind/pull/13459#pullrequestreview-5200473560) - 2026-09-14
+* [Pull Request] [perf(txpool): take the readiness scan and the deferral backlog off the locks](https://github.com/NethermindEth/nethermind/pull/13462) - 2026-09-14
+* [Review] [Review on: perf(txpool): take the readiness scan and the deferral backlog off the locks](https://github.com/NethermindEth/nethermind/pull/13462#pullrequestreview-5201080078) - 2026-09-14
+* [Pull Request] [fix(txpool): seed ChainHeadInfoProvider.HeadNumber from the processed head](https://github.com/NethermindEth/nethermind/pull/13467) - 2026-09-14
+* [Pull Request] [fix(rpc): keep the block gas breakdown out of the standard receipt shape](https://github.com/NethermindEth/nethermind/pull/13458) - 2026-09-14
+* [Review] [Review on: fix(rpc): keep the block gas breakdown out of the standard receipt shape](https://github.com/NethermindEth/nethermind/pull/13458#pullrequestreview-5201075649) - 2026-09-14
+* [Pull Request] [fix(txpool): keyed-nonce count and revalidation eviction instance](https://github.com/NethermindEth/nethermind/pull/13460) - 2026-09-14
+* [Review] [Review on: fix(txpool): keyed-nonce count and revalidation eviction instance](https://github.com/NethermindEth/nethermind/pull/13460#pullrequestreview-5200448841) - 2026-09-14
+* [Pull Request] [fix(txpool): seed the head timestamp at construction](https://github.com/NethermindEth/nethermind/pull/13461) - 2026-09-14
+* [Review] [Review on: fix(txpool): seed the head timestamp at construction](https://github.com/NethermindEth/nethermind/pull/13461#pullrequestreview-5200330701) - 2026-09-14
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13463) - 2026-09-14
+* [Pull Request] [perf(hive): cut per-container startup cost](https://github.com/NethermindEth/nethermind/pull/13445) - 2026-09-14
+* [Review] [Review on: perf(hive): cut per-container startup cost](https://github.com/NethermindEth/nethermind/pull/13445#pullrequestreview-5197785028) - 2026-09-14
+* [Commit] [perf(hive): cut per-container startup cost (#13445)](https://github.com/NethermindEth/nethermind/commit/9cfa9cf5261b5e20c874a989651dac807e48f60a) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

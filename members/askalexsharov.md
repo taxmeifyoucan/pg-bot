@@ -1489,6 +1489,39 @@ Team: Erigon
 * [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.88.2 to 0.88.7](https://github.com/erigontech/erigon/pull/23946#pullrequestreview-5189813317) - 2026-09-13
 * [Issue] [db: auto-compact mdbx databases at startup](https://github.com/erigontech/erigon/issues/23954) - 2026-09-14
 * [Commit] [cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock (#23944)](https://github.com/erigontech/erigon/commit/984a44258e768860264c6958264f5e34ab8443b5) - 2026-09-13
+* [Pull Request] [rpc/jsonrpc: serve cached chain config without opening a read transaction](https://github.com/erigontech/erigon/pull/24002) - 2026-09-15
+* [Pull Request] [rpc: bound BaseAPI caches by bytes and remove mutex-contention](https://github.com/erigontech/erigon/pull/23997) - 2026-09-15
+* [Pull Request] [rpc/gasprice: serve cached `eth_feeHistory` blocks without forking read txs](https://github.com/erigontech/erigon/pull/23999) - 2026-09-15
+* [Review] [Review on: rpc/gasprice: serve cached `eth_feeHistory` blocks without forking read txs](https://github.com/erigontech/erigon/pull/23999#pullrequestreview-5204807581) - 2026-09-15
+* [Pull Request] [cl/beacon/handler, execution/execmodule: stop two more tests racing the Windows clock](https://github.com/erigontech/erigon/pull/24000) - 2026-09-15
+* [Pull Request] [rpc: decode a `BlockNumberOrHash` string without trying it as an object first](https://github.com/erigontech/erigon/pull/24001) - 2026-09-15
+* [Pull Request] [rpc: hash txns without decoding them in eth_getLogs](https://github.com/erigontech/erigon/pull/23965) - 2026-09-14
+* [Review] [Review on: rpc: hash txns without decoding them in eth_getLogs](https://github.com/erigontech/erigon/pull/23965#pullrequestreview-5195410996) - 2026-09-14
+* [Pull Request] [rpc: return a typed struct from the receipt methods](https://github.com/erigontech/erigon/pull/23969) - 2026-09-14
+* [Review] [Review on: rpc: return a typed struct from the receipt methods](https://github.com/erigontech/erigon/pull/23969#pullrequestreview-5199269050) - 2026-09-14
+* [Pull Request] [rpc: encode eth_getLogs results and log subscriptions without reflection](https://github.com/erigontech/erigon/pull/23975) - 2026-09-14
+* [Review] [Review on: rpc: encode eth_getLogs results and log subscriptions without reflection](https://github.com/erigontech/erigon/pull/23975#pullrequestreview-5196843026) - 2026-09-14
+* [Review] [Review on: rpc/jsonrpc: keep trace_callMany bundles on the parent state boundary](https://github.com/erigontech/erigon/pull/23951#pullrequestreview-5204777041) - 2026-09-15
+* [Review] [Review on: rpc/jsonrpc: apply trace_call state overrides to the stateDiff baseline](https://github.com/erigontech/erigon/pull/23995#pullrequestreview-5204773518) - 2026-09-15
+* [Review] [Review on: tracing: remove leftover pre-hooks tracer methods](https://github.com/erigontech/erigon/pull/23994#pullrequestreview-5204419032) - 2026-09-15
+* [Pull Request] [rpc: bound `receipt cache` by bytes and remove mutex-contention](https://github.com/erigontech/erigon/pull/23987) - 2026-09-14
+* [Review] [Review on: rpc: bound `receipt cache` by bytes and remove mutex-contention](https://github.com/erigontech/erigon/pull/23987#pullrequestreview-5198534231) - 2026-09-14
+* [Pull Request] [rpc: derive a missing receipt bloom once ](https://github.com/erigontech/erigon/pull/23989) - 2026-09-14
+* [Review] [Review on: rpc: derive a missing receipt bloom once ](https://github.com/erigontech/erigon/pull/23989#pullrequestreview-5199075057) - 2026-09-14
+* [Pull Request] [rpc/jsonrpc/receipts: serve persisted receipts without deriving the logs bloom](https://github.com/erigontech/erigon/pull/23963) - 2026-09-14
+* [Review] [Review on: rpc/jsonrpc/receipts: serve persisted receipts without deriving the logs bloom](https://github.com/erigontech/erigon/pull/23963#pullrequestreview-5195280046) - 2026-09-14
+* [Pull Request] [rpc: stream batch answers instead of joining them into one buffer](https://github.com/erigontech/erigon/pull/23960) - 2026-09-14
+* [Review] [Review on: rpc: stream batch answers instead of joining them into one buffer](https://github.com/erigontech/erigon/pull/23960#pullrequestreview-5198030998) - 2026-09-14
+* [Review] [Review on: execution/state: avoid retries for zero-balance self-destructs](https://github.com/erigontech/erigon/pull/23984#pullrequestreview-5198742748) - 2026-09-14
+* [Issue] [rpc: graphql and otterscan clean-ups from the #23969 review](https://github.com/erigontech/erigon/issues/23991) - 2026-09-14
+* [Issue] [rpc: eth_subscribe("transactionReceipts") is not compatible with geth](https://github.com/erigontech/erigon/issues/23986) - 2026-09-14
+* [Issue] [rpc: eth_sendRawTransactionSync fast path never returns an already available receipt](https://github.com/erigontech/erigon/issues/23990) - 2026-09-14
+* [Issue] [rpc: eth_getLogs processes the rest of a block with a stale or nil header](https://github.com/erigontech/erigon/issues/23988) - 2026-09-14
+* [Commit] [rpc: encode eth_getLogs results and log subscriptions without reflection (#23975)](https://github.com/erigontech/erigon/commit/babc94e63f1e9a6934ecf847397aaea5b338b139) - 2026-09-15
+* [Commit] [rpc/jsonrpc/receipts: serve persisted receipts without deriving the logs bloom (#23963)](https://github.com/erigontech/erigon/commit/c5a056d255d1e4ab7e663f7ba6c94b91b1257274) - 2026-09-14
+* [Commit] [rpc: stream batch answers instead of joining them into one buffer (#23960)](https://github.com/erigontech/erigon/commit/62249b60ac80e94f351c462d7601e74683d53d70) - 2026-09-14
+* [Commit] [rpc: return typed structs from the block and header methods (#23943)](https://github.com/erigontech/erigon/commit/15daa9b80791947fde7b417988baf26438ff9e6c) - 2026-09-14
+* [Commit] [rpc: reduce amount encoded results copies (#23955)](https://github.com/erigontech/erigon/commit/d52ab442132bebcbd47d7c1c3eb4619657aa3677) - 2026-09-14
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

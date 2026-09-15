@@ -65,6 +65,10 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: correct the general state-gas charge timing](https://github.com/ethereum/EIPs/pull/12284#pullrequestreview-5112305021) - 2026-09-04
 * [Review] [Review on: Update EIP-8037: remove the duplicated calldata floor note](https://github.com/ethereum/EIPs/pull/12283#pullrequestreview-5112290834) - 2026-09-04
 * [Review] [Review on: Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/pull/12256#pullrequestreview-5112241137) - 2026-09-04
+* [Review] [Review on: Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/pull/12317#pullrequestreview-5199219448) - 2026-09-14
+* [Review] [Review on: Update EIP-5920: make Glamsterdam-ready](https://github.com/ethereum/EIPs/pull/12315#pullrequestreview-5198047205) - 2026-09-14
+* [Review] [Review on: Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/pull/12311#pullrequestreview-5197998074) - 2026-09-14
+* [Review] [Review on: Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/pull/12303#pullrequestreview-5197982876) - 2026-09-14
 ## Q2 2026
 
 

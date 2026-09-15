@@ -187,6 +187,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add flat file storage for data columns](https://github.com/ChainSafe/lodestar/pull/8899) - 2026-09-11
 * [Commit] [feat: add flat file storage for data columns (#8899)](https://github.com/ChainSafe/lodestar/commit/acdde443d29e59fdbb28f1762b7e2ae6e91faec0) - 2026-09-11
 * [Review] [Review on: perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062#pullrequestreview-5184908764) - 2026-09-12
+* [Review] [Review on: fix: verify the proposer signature before retaining unknown parent gossip blocks](https://github.com/ChainSafe/lodestar/pull/10087#pullrequestreview-5202970780) - 2026-09-14
+* [Pull Request] [feat: deduplicate finalized Gloas payload bodies](https://github.com/ChainSafe/lodestar/pull/10088) - 2026-09-14
+* [Review] [Review on: fix(network): declare @libp2p/utils as a runtime dependency of beacon-node](https://github.com/ChainSafe/lodestar/pull/10086#pullrequestreview-5201775344) - 2026-09-14
+* [Review] [Review on: fix: reject gloas blocks with legacy deposits on deserialization](https://github.com/ChainSafe/lodestar/pull/10080#pullrequestreview-5200752269) - 2026-09-14
+* [Review] [Review on: fix(network): actually dial QUIC before TCP when a peer advertises both](https://github.com/ChainSafe/lodestar/pull/10077#pullrequestreview-5200163729) - 2026-09-14
+* [Review] [Review on: test: stop gating CI on high-variance data-availability benchmarks](https://github.com/ChainSafe/lodestar/pull/10074#pullrequestreview-5199310244) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -383,6 +389,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: share bytelist tree conversion (#680)](https://github.com/ChainSafe/lodestar-z/commit/cfc90f4a86baf4167d7b776c961e22dd82e29665) - 2026-09-11
 * [Commit] [fix: release bitlist json scratch (#677)](https://github.com/ChainSafe/lodestar-z/commit/acef3e7e059fed813d66ff8c50b826f95f6efa51) - 2026-09-11
 * [Commit] [fix: release benchmark hasher scratch (#688)](https://github.com/ChainSafe/lodestar-z/commit/8628415b9ce745035a0a1a0861852821cadffb36) - 2026-09-11
+* [Review] [Review on: feat: partial validator monitor](https://github.com/ChainSafe/lodestar-z/pull/475#pullrequestreview-5198700714) - 2026-09-14
+* [Pull Request] [refactor: extract bit array module](https://github.com/ChainSafe/lodestar-z/pull/693) - 2026-09-14
+* [Review] [Review on: perf: bound bitlist hashing workspace](https://github.com/ChainSafe/lodestar-z/pull/678#pullrequestreview-5199643460) - 2026-09-14
+* [Commit] [perf: bound progressive builder scratch (#687)](https://github.com/ChainSafe/lodestar-z/commit/52a97361212e64f1a0ebb58fc645ed74b50ada07) - 2026-09-14
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

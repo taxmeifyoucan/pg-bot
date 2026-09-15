@@ -152,6 +152,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Updated jvm-libp2p to 1.3.7](https://github.com/Consensys-Incorporated/teku/pull/11265) - 2026-09-14
 * [Issue] [Fix REST API url after github changes](https://github.com/Consensys-Incorporated/teku/issues/11267) - 2026-09-14
 * [Commit] [Updated jvm-libp2p to 1.3.7 (#11265)](https://github.com/Consensys-Incorporated/teku/commit/438acb7040d932e1ce6d0b836f1bd5d7b299189a) - 2026-09-14
+* [Pull Request] [Don't cancel in-progress publish jobs on master pushes](https://github.com/Consensys-Incorporated/teku/pull/11271) - 2026-09-15
+* [Review] [Review on: 11261 update gossip rules](https://github.com/Consensys-Incorporated/teku/pull/11270#pullrequestreview-5203771690) - 2026-09-14
+* [Commit] [fix: don't cancel in-progress publish jobs on master pushes (#11271)](https://github.com/Consensys-Incorporated/teku/commit/01662d5fe7dae207e417bcd3183064521e569454) - 2026-09-15
+* [Commit] [Update dead documentation links (#11268)](https://github.com/Consensys-Incorporated/teku/commit/2f84943ffbcd5bfd95852f7e5cf026932f38b348) - 2026-09-14
 ## Q2 2026
 
 

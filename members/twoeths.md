@@ -249,6 +249,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: dos protection for NetworkProcessor (#10039)](https://github.com/ChainSafe/lodestar/commit/60b5607f3ad48212a500b78357a69b349840a890) - 2026-09-11
 * [Review] [Review on: perf: replace snappyjs with snappy-wasm](https://github.com/ChainSafe/lodestar/pull/10062#pullrequestreview-5185097204) - 2026-09-12
 * [Review] [Review on: refactor: compute payload attributes once in `prepareForNextSlot`](https://github.com/ChainSafe/lodestar/pull/10056#pullrequestreview-5193508552) - 2026-09-14
+* [Review] [Review on: fix: verify the proposer signature before retaining unknown parent gossip blocks](https://github.com/ChainSafe/lodestar/pull/10087#pullrequestreview-5204924823) - 2026-09-15
+* [Pull Request] [fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076) - 2026-09-14
+* [Review] [Review on: fix: align gloas external signer requests with remote signing api](https://github.com/ChainSafe/lodestar/pull/10071#pullrequestreview-5194856745) - 2026-09-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
@@ -262,6 +265,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: [do not merge] feat(bindings): asyncAggregateWithRandomness by indices](https://github.com/ChainSafe/lodestar-z/pull/561#pullrequestreview-4925106997) - 2026-08-13
 * [Review] [Review on: fix(bindings): expose explicit state view disposal](https://github.com/ChainSafe/lodestar-z/pull/649#pullrequestreview-5129502168) - 2026-09-07
 * [Review] [Review on: fix: release bitlist json scratch](https://github.com/ChainSafe/lodestar-z/pull/677#pullrequestreview-5174897584) - 2026-09-11
+* [Review] [Review on: perf: bound bitlist hashing workspace](https://github.com/ChainSafe/lodestar-z/pull/678#pullrequestreview-5195491743) - 2026-09-14
+* [Review] [Review on: perf: stream bitlist tree reads](https://github.com/ChainSafe/lodestar-z/pull/679#pullrequestreview-5195737197) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4710081193) - 2026-07-16
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4794777777) - 2026-07-28

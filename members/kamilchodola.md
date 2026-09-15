@@ -198,6 +198,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(deps): bump Nethermind.Numerics.Int256 to 1.9.0 (#13389)](https://github.com/NethermindEth/nethermind/commit/bb533c6db209d37d691f358c288a47aad270159d) - 2026-09-11
 * [Pull Request] [Support reth and geth in Fusaka EXPB benchmarks](https://github.com/NethermindEth/nethermind/pull/13436) - 2026-09-13
 * [Pull Request] [Make EXPB regression campaigns faster and preserve complete run evidence](https://github.com/NethermindEth/nethermind/pull/13434) - 2026-09-13
+* [Pull Request] [ci(rpc-bench): replay the private eth_call corpus as debug_traceCall or trace_call](https://github.com/NethermindEth/nethermind/pull/13457) - 2026-09-14
+* [Review] [Review on: ci(rpc-bench): replay the private eth_call corpus as debug_traceCall or trace_call](https://github.com/NethermindEth/nethermind/pull/13457#pullrequestreview-5200505593) - 2026-09-14
+* [Review] [Review on: perf: add opt-in Linux processing priority boost](https://github.com/NethermindEth/nethermind/pull/13412#pullrequestreview-5199785937) - 2026-09-14
+* [Commit] [Fix simulation cache reset after the real chain advances (#13444)](https://github.com/NethermindEth/nethermind/commit/47d0f01eb20540dcd013a8eebe226fdd887be7c5) - 2026-09-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

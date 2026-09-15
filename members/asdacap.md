@@ -206,6 +206,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(pruning): measure the full-pruning snapshot trigger from the pruning boundary (#13199)](https://github.com/NethermindEth/nethermind/pull/13308#pullrequestreview-5161010825) - 2026-09-09
 * [Commit] [Enable flat DB by default; flip CI backend coverage (#11931)](https://github.com/NethermindEth/nethermind/commit/29f1364f2872f37bc55c316c3e76177d6673b99a) - 2026-09-10
 * [Commit] [Exercise block downloader tests with flat and trie state backends (#13328)](https://github.com/NethermindEth/nethermind/commit/ad832ee3a72b8e25f23e420d8485f897d94ee5fb) - 2026-09-10
+* [Review] [Review on: fix(logging): stop Init.LogRules bypassing Seq.MinLevel](https://github.com/NethermindEth/nethermind/pull/13419#pullrequestreview-5204149921) - 2026-09-15
+* [Pull Request] [Slim down OneTimeChainProcessor](https://github.com/NethermindEth/nethermind/pull/13441) - 2026-09-14
+* [Review] [Review on: Slim down OneTimeChainProcessor](https://github.com/NethermindEth/nethermind/pull/13441#pullrequestreview-5195146166) - 2026-09-14
+* [Commit] [refactor(witness): run witness-generating execution on the layout-native world state (#13453)](https://github.com/NethermindEth/nethermind/commit/620051be6bf8735b8ae3f3c881bfdb3ec6034a50) - 2026-09-14
+* [Commit] [fix: build BlockProcessingBenchmark against UInt256 storage values (#13446)](https://github.com/NethermindEth/nethermind/commit/05c37542a12e81b8ffcf85a48a4ca177e42b982f) - 2026-09-14
+* [Commit] [Remove ProcessingOptions.ForceSameBlock (#13440)](https://github.com/NethermindEth/nethermind/commit/94349c9e272d090d723bb9ed3848a761d75bd665) - 2026-09-14
 ## Q2 2026
 
 

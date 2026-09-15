@@ -574,6 +574,24 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: v1.48.0 release](https://github.com/ChainSafe/lodestar/pull/10067) - 2026-09-12
 * [Commit] [perf: replace snappyjs with snappy-wasm (#10062)](https://github.com/ChainSafe/lodestar/commit/a0619b279aa57140768859767be392ff5a20f656) - 2026-09-12
 * [Commit] [refactor: compute payload attributes once in `prepareForNextSlot` (#10056)](https://github.com/ChainSafe/lodestar/commit/06bef6954cd04854449ba5ff8531559d3ea0e898) - 2026-09-14
+* [Pull Request] [fix: verify the proposer signature before retaining unknown parent gossip blocks](https://github.com/ChainSafe/lodestar/pull/10087) - 2026-09-14
+* [Review] [Review on: fix: verify the proposer signature before retaining unknown parent gossip blocks](https://github.com/ChainSafe/lodestar/pull/10087#pullrequestreview-5202941918) - 2026-09-14
+* [Review] [Review on: test: verify imported block in unknown-block sync simulation](https://github.com/ChainSafe/lodestar/pull/10054#pullrequestreview-5196806566) - 2026-09-14
+* [Review] [Review on: fix(network): declare @libp2p/utils as a runtime dependency of beacon-node](https://github.com/ChainSafe/lodestar/pull/10086#pullrequestreview-5201800086) - 2026-09-14
+* [Pull Request] [test: forward progressive list limits in spec type replacement](https://github.com/ChainSafe/lodestar/pull/10081) - 2026-09-14
+* [Pull Request] [fix: reject gloas blocks with legacy deposits on deserialization](https://github.com/ChainSafe/lodestar/pull/10080) - 2026-09-14
+* [Review] [Review on: fix: reject gloas blocks with legacy deposits on deserialization](https://github.com/ChainSafe/lodestar/pull/10080#pullrequestreview-5200259544) - 2026-09-14
+* [Review] [Review on: fix(network): actually dial QUIC before TCP when a peer advertises both](https://github.com/ChainSafe/lodestar/pull/10077#pullrequestreview-5196742760) - 2026-09-14
+* [Review] [Review on: chore(deps): bump the actions group with 4 updates](https://github.com/ChainSafe/lodestar/pull/10084#pullrequestreview-5199435611) - 2026-09-14
+* [Pull Request] [feat: count signed repeat proposals as proposer equivocations](https://github.com/ChainSafe/lodestar/pull/10082) - 2026-09-14
+* [Review] [Review on: test: stop gating CI on high-variance data-availability benchmarks](https://github.com/ChainSafe/lodestar/pull/10074#pullrequestreview-5197441566) - 2026-09-14
+* [Pull Request] [fix: prune cache entries of repeat proposals that are not imported](https://github.com/ChainSafe/lodestar/pull/10083) - 2026-09-14
+* [Review] [Review on: chore: publish discv5 and QUIC UDP ports in docker-compose](https://github.com/ChainSafe/lodestar/pull/10078#pullrequestreview-5196765308) - 2026-09-14
+* [Review] [Review on: fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076#pullrequestreview-5196824869) - 2026-09-14
+* [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5196677789) - 2026-09-14
+* [Commit] [fix: reject gloas blocks with legacy deposits on deserialization (#10080)](https://github.com/ChainSafe/lodestar/commit/ff9749be2cfe0631be425aebcb63cc90c078cb5a) - 2026-09-14
+* [Commit] [fix: align gloas external signer requests with remote signing api (#10071)](https://github.com/ChainSafe/lodestar/commit/1dc17ce9521a981ad8d481d8b865baf0bbe8849d) - 2026-09-14
+* [Commit] [test: tighten snappy decoder assertions (#10068)](https://github.com/ChainSafe/lodestar/commit/9e31f255e395c5d8536c305b40fd4e0a72b6018c) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -636,6 +654,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Only serve canonical payload envelopes by range (#5608)](https://github.com/ethereum/consensus-specs/commit/aadfa06646c1e9c4ac9a7982507f40d1532fe9f6) - 2026-09-08
 * [Review] [Review on: Convert `NewPayloadRequest` from dataclass to container](https://github.com/ethereum/consensus-specs/pull/5619#pullrequestreview-5160048868) - 2026-09-09
 * [Review] [Review on: Add simple `CONTRIBUTING.md` file](https://github.com/ethereum/consensus-specs/pull/5621#pullrequestreview-5170711171) - 2026-09-10
+* [Pull Request] [Do not emit ssz-static deposits post-Fulu](https://github.com/ethereum/consensus-specs/pull/5640) - 2026-09-14
+* [Commit] [Do not emit ssz-static deposits post-Fulu (#5640)](https://github.com/ethereum/consensus-specs/commit/05355a5a7d10ddccd802b8ebb9d615f06c1f47ba) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

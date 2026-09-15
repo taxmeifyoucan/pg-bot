@@ -40,6 +40,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests,specs): eip7928 extended coverage](https://github.com/ethereum/execution-specs/pull/3566) - 2026-09-11
 * [Pull Request] [feat(tests): eip8282 checklist review](https://github.com/ethereum/execution-specs/pull/3565) - 2026-09-11
 * [Review] [Review on: feat(tests): probe EIP-161 emptiness after same-tx precompile touches](https://github.com/ethereum/execution-specs/pull/3477#pullrequestreview-5175722522) - 2026-09-11
+* [Issue] [feat(test-specs): filter system contracts by call phase in the framework, not in tests](https://github.com/ethereum/execution-specs/issues/3584) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

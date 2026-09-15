@@ -30,6 +30,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Merge pull request #2200 from ethereum/nixorokish-patch-7](https://github.com/ethereum/pm/commit/6e10d03e699d147f1c04277c83fd8e91eb654be1) - 2026-08-24
 * [Commit] [add glamsterdam mainnet incident doc](https://github.com/ethereum/pm/commit/8ab15505f81f18a32c85acdf02c89c39e572a981) - 2026-08-24
 * [Issue] [All Core Devs - Execution (ACDE) #245, September 10, 2026](https://github.com/ethereum/pm/issues/2211) - 2026-09-01
+* [Issue] [All Core Devs - Consensus (ACDC) #187, September 17 2026](https://github.com/ethereum/pm/issues/2222) - 2026-09-14
+* [Issue] [All Core Devs - Execution (ACDE) #246, September 24, 2026](https://github.com/ethereum/pm/issues/2223) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16
@@ -81,6 +83,12 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Update EIP-8081: SFI EIP-8141](https://github.com/ethereum/EIPs/commit/e400af2874d6728bfd369f1851c24f250c8825f7) - 2026-08-27
 * [Pull Request] [Update EIP-8081: Add new EIPs to the list in eip-8081.md](https://github.com/ethereum/EIPs/pull/12278) - 2026-09-02
 * [Commit] [Update EIP-8081: Add new EIPs to the list in eip-8081.md](https://github.com/ethereum/EIPs/commit/84cc044fe46b063d4efcbd81d229e03312f726cc) - 2026-09-02
+* [Pull Request] [Update EIP-8081: DFI 8219](https://github.com/ethereum/EIPs/pull/12337) - 2026-09-14
+* [Pull Request] [Update EIP-8081: Add 8379](https://github.com/ethereum/EIPs/pull/12336) - 2026-09-14
+* [Pull Request] [Update EIP-8081: DFI decisions from ACDE245](https://github.com/ethereum/EIPs/pull/12335) - 2026-09-14
+* [Commit] [Update EIP-8081: DFI 8219](https://github.com/ethereum/EIPs/commit/7c073a9d83c6e39f4ee14a71acbb513e2b987c12) - 2026-09-14
+* [Commit] [Update EIP-8081: Add 8379](https://github.com/ethereum/EIPs/commit/9d98cc796ddb1f895ef638d4d64c5f52092f75f9) - 2026-09-14
+* [Commit] [Update EIP-8081: DFI decisions from ACDE245](https://github.com/ethereum/EIPs/commit/aad37d71f92291e4bec2966057a6b8e0287d9e2b) - 2026-09-14
 ## Q2 2026
 
 

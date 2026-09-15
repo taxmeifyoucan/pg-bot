@@ -73,6 +73,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Warn on mismatched EEST opcode count metadata](https://github.com/eth-act/zkevm-benchmark-workload/pull/311) - 2026-09-10
 * [Commit] [Warn on mismatched EEST opcode count metadata (#311)](https://github.com/eth-act/zkevm-benchmark-workload/commit/94c2684763d07578983d3f688afe087d4728d7f2) - 2026-09-10
 * [Commit] [Update to tests-zkevm@v0.8.2 (#310)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c0ccbcc992fc80faf0c1b8c9e35936a10afe842a) - 2026-09-10
+* [Review] [Review on: feat: witgen cli auth/zstd/continuous](https://github.com/eth-act/zkevm-benchmark-workload/pull/312#pullrequestreview-5197559161) - 2026-09-14
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 

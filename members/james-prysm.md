@@ -224,6 +224,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [request payload and datacolumns in parallel](https://github.com/OffchainLabs/prysm/pull/17486) - 2026-09-11
 * [Review] [Review on: Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491#pullrequestreview-5182433282) - 2026-09-11
 * [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5180458072) - 2026-09-11
+* [Pull Request] [Gloas late head payloads](https://github.com/OffchainLabs/prysm/pull/17497) - 2026-09-15
+* [Review] [Review on: Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491#pullrequestreview-5201238142) - 2026-09-14
 ## Q2 2026
 
 

@@ -44,6 +44,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot](https://github.com/NethermindEth/nethermind/pull/13362#pullrequestreview-5168297525) - 2026-09-10
 * [Commit] [ci: send GCP machine types to the smoke-test dispatches (#13014)](https://github.com/NethermindEth/nethermind/commit/09c0c8e9fc696946de287fd15560a112b2ae0d0a) - 2026-09-11
 * [Commit] [ci: point the sync-validation Slack alert at the webhook secret that exists (#13314)](https://github.com/NethermindEth/nethermind/commit/870e5a9c44e16f77a5412211f81490676fc9c102) - 2026-09-12
+* [Pull Request] [ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468) - 2026-09-14
+* [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5202777849) - 2026-09-14
 ## Q2 2026
 
 

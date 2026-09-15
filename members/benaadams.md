@@ -405,6 +405,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): bypass jump-analysis event waits when the bitmap is ready](https://github.com/NethermindEth/nethermind/pull/13431#pullrequestreview-5189487878) - 2026-09-13
 * [Commit] [perf(state): hold storage values as UInt256, encode only at persistence boundaries (#13420)](https://github.com/NethermindEth/nethermind/commit/309ff93a6e55517159563a63afaf53c506a77ec6) - 2026-09-14
 * [Commit] [perf(evm): bypass jump-analysis event waits when the bitmap is ready (#13431)](https://github.com/NethermindEth/nethermind/commit/084da7e9469da574851568d32d8405d6bd747e6b) - 2026-09-13
+* [Pull Request] [perf(engine): keep GC work off the newPayload request path and pool BAL slices per block](https://github.com/NethermindEth/nethermind/pull/13470) - 2026-09-14
+* [Review] [Review on: perf(engine): keep GC work off the newPayload request path and pool BAL slices per block](https://github.com/NethermindEth/nethermind/pull/13470#pullrequestreview-5203459424) - 2026-09-14
+* [Review] [Review on: fix(flashbots): validate the processed block by default in flashbots_validateBuilderSubmissionV3](https://github.com/NethermindEth/nethermind/pull/13452#pullrequestreview-5202798833) - 2026-09-14
+* [Review] [Review on: Make EXPB regression campaigns faster and preserve complete run evidence](https://github.com/NethermindEth/nethermind/pull/13434#pullrequestreview-5198405389) - 2026-09-14
+* [Review] [Review on: Roll back the code-write counters with the reverted code](https://github.com/NethermindEth/nethermind/pull/13433#pullrequestreview-5198229705) - 2026-09-14
+* [Commit] [Reduce Keccak tail work and guest mixer instructions (#13438)](https://github.com/NethermindEth/nethermind/commit/b32ef76216077f82ea3e3d3aecd84b5819df48c3) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

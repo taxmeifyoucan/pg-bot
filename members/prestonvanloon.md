@@ -81,6 +81,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Add missing Gloas case to saveStatesEfficientInternal](https://github.com/OffchainLabs/prysm/pull/17472#pullrequestreview-5156020465) - 2026-09-09
 * [Review] [Review on: Make fuzzer happy & Harden hdiff decoding](https://github.com/OffchainLabs/prysm/pull/17470#pullrequestreview-5156067766) - 2026-09-09
 * [Review] [Review on: Replace EF bootstrap nodes with NodeOps fleet](https://github.com/OffchainLabs/prysm/pull/17474#pullrequestreview-5182526550) - 2026-09-11
+* [Review] [Review on: Decode Electra attester slashings and give the spectest chain service its operation pools](https://github.com/OffchainLabs/prysm/pull/17487#pullrequestreview-5200954694) - 2026-09-14
+* [Review] [Review on: progressive merkle proof generation ](https://github.com/OffchainLabs/prysm/pull/17444#pullrequestreview-5203283286) - 2026-09-14
+* [Review] [Review on: Cancel sidecar parent-block fetches on sync service shutdown](https://github.com/OffchainLabs/prysm/pull/17462#pullrequestreview-5203268642) - 2026-09-14
+* [Review] [Review on: Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491#pullrequestreview-5201314309) - 2026-09-14
+* [Review] [Review on: Make initial-sync retry and peer polling waits cancellable](https://github.com/OffchainLabs/prysm/pull/17460#pullrequestreview-5202074913) - 2026-09-14
+* [Review] [Review on: FCR: Prewarm the next OJC checkpoint balances at the last slot of the epoch](https://github.com/OffchainLabs/prysm/pull/17463#pullrequestreview-5201737251) - 2026-09-14
+* [Review] [Review on: Skip slashed validators when weighting a new Gloas full node](https://github.com/OffchainLabs/prysm/pull/17479#pullrequestreview-5201724139) - 2026-09-14
+* [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5201709537) - 2026-09-14
+* [Review] [Review on: Drop Gloas payload-present votes for unknown payloads in fork choice](https://github.com/OffchainLabs/prysm/pull/17481#pullrequestreview-5201666050) - 2026-09-14
+* [Review] [Review on: Add the dependent root check to proposer preferences gossip](https://github.com/OffchainLabs/prysm/pull/17485#pullrequestreview-5201520652) - 2026-09-14
+* [Review] [Review on: Derive SaveOrigin checkpoint epoch from the origin state slot](https://github.com/OffchainLabs/prysm/pull/17492#pullrequestreview-5201209627) - 2026-09-14
+* [Review] [Review on: Fix backfill nil panic in columnsNeeded when a batch needs no columns](https://github.com/OffchainLabs/prysm/pull/17496#pullrequestreview-5200848808) - 2026-09-14
 ## Q2 2026
 
 

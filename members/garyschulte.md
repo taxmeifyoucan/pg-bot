@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Pull Request] [newPayload SYNCING response when parent worldstate is not present](https://github.com/besu-eth/besu/pull/11242) - 2026-09-04
 * [Review] [Review on: engine API: check an execution request's length before its type byte](https://github.com/besu-eth/besu/pull/11194#pullrequestreview-5144890918) - 2026-09-08
 * [Commit] [handle via SYNCING response and newPayload request with a parent worldstate besu does not have (for whatever reason) (#11242)](https://github.com/besu-eth/besu/commit/b03eee5770d2ae0675beebffebddb63aff38043e) - 2026-09-10
+* [Review] [Review on: fix engine new payload response](https://github.com/besu-eth/besu/pull/11290#pullrequestreview-5203423458) - 2026-09-14
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4664315207) - 2026-07-09
 * [Pull Request] [Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298) - 2026-07-20

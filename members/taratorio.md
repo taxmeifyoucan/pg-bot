@@ -360,6 +360,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: remove EIP-7610 (#23706)](https://github.com/erigontech/erigon/commit/63c85db33d457e5c28d276c5cf20d883259be23f) - 2026-09-07
 * [Pull Request] [db: madvisewillneed prefetch for large values (5X boost for 64KB code)](https://github.com/erigontech/erigon/pull/23867) - 2026-09-08
 * [Issue] [execution/cache: 64 KiB code workload exceeds cache budget by 5.3x and OOMs devnet nodes](https://github.com/erigontech/erigon/issues/23875) - 2026-09-08
+* [Review] [Review on: Parallel execution: Block-STM executor + versioned state + parallel commitment](https://github.com/erigontech/erigon/pull/23967#pullrequestreview-5200315833) - 2026-09-14
+* [Pull Request] [[DO-NOT-MERGE] execution: add support for EIP-8253](https://github.com/erigontech/erigon/pull/23992) - 2026-09-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

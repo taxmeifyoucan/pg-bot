@@ -636,6 +636,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: docs(site): raise the installation prerequisite to Go 1.26](https://github.com/erigontech/erigon/pull/23791#pullrequestreview-5111873173) - 2026-09-04
 * [Review] [Review on: db/state/changeset, execution/rlp: grow buffers with slices.Grow](https://github.com/erigontech/erigon/pull/23794#pullrequestreview-5112447377) - 2026-09-04
 * [Commit] [cl/clparams: honor MIN_EPOCHS_FOR_BLOCK_REQUESTS (#23761)](https://github.com/erigontech/erigon/commit/fcdcc190e6442efabdfab37ffc7bfadf89627642) - 2026-09-04
+* [Review] [Review on: rpc: hash txns without decoding them in eth_getLogs](https://github.com/erigontech/erigon/pull/23965#pullrequestreview-5198433613) - 2026-09-14
+* [Review] [Review on: rpc: return a typed struct from the receipt methods](https://github.com/erigontech/erigon/pull/23969#pullrequestreview-5199112050) - 2026-09-14
+* [Review] [Review on: rpc: encode eth_getLogs results and log subscriptions without reflection](https://github.com/erigontech/erigon/pull/23975#pullrequestreview-5196943474) - 2026-09-14
+* [Pull Request] [execution: test crash recovery across unwind commits](https://github.com/erigontech/erigon/pull/23983) - 2026-09-14
+* [Review] [Review on: rpc: bound `receipt cache` by bytes and remove mutex-contention](https://github.com/erigontech/erigon/pull/23987#pullrequestreview-5198554337) - 2026-09-14
+* [Review] [Review on: tracing: honor the reverted flag in callTracer](https://github.com/erigontech/erigon/pull/23950#pullrequestreview-5196506026) - 2026-09-14
+* [Review] [Review on: rpc/jsonrpc/receipts: serve persisted receipts without deriving the logs bloom](https://github.com/erigontech/erigon/pull/23963#pullrequestreview-5196608968) - 2026-09-14
+* [Pull Request] [execution/types: reject missing BAL fields during RLP decoding](https://github.com/erigontech/erigon/pull/23993) - 2026-09-14
+* [Pull Request] [execution/state: record reads of deleted accounts](https://github.com/erigontech/erigon/pull/23982) - 2026-09-14
+* [Pull Request] [execution/state: avoid retries for zero-balance self-destructs](https://github.com/erigontech/erigon/pull/23984) - 2026-09-14
+* [Commit] [execution/p2p: limit BlockBodies decoding to requested count (#23712)](https://github.com/erigontech/erigon/commit/5a8915d242307ab5c2c70686bf012c6e8edb143c) - 2026-09-15
+* [Commit] [cl/services: harden shared pending-job queue (#23644)](https://github.com/erigontech/erigon/commit/25ac06305d90f69c41199c024e90284e22d5f074) - 2026-09-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

@@ -125,6 +125,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 * [Review] [Review on: Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71#pullrequestreview-5170763302) - 2026-09-10
 * [Review] [Review on: Update syso files](https://github.com/OffchainLabs/hashtree/pull/70#pullrequestreview-5170747187) - 2026-09-10
+* [Pull Request] [RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73) - 2026-09-14
+* [Review] [Review on: Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71#pullrequestreview-5201036863) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873#pullrequestreview-4811214262) - 2026-07-29
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5118433697) - 2026-09-04

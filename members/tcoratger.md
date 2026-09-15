@@ -322,6 +322,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(sumcheck)!: drive the layout sumcheck transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2124#pullrequestreview-5191470056) - 2026-09-13
 * [Commit] [refactor(fri)!: derive the commit-round shape from configuration rather than the proof (#2125)](https://github.com/Plonky3/Plonky3/commit/f3ddc2aa4497e1456f6bebaeb61fda523dbadc68) - 2026-09-13
 * [Commit] [feat(sumcheck)!: drive the ring-switching transcript through the typed Fiat-Shamir layer (#2122)](https://github.com/Plonky3/Plonky3/commit/152c77e387bb74c85d2adfc69d1b50fd6fefcb2f) - 2026-09-13
+* [Pull Request] [feat(sumcheck): add a univariate-skip round for binary zerochecks](https://github.com/Plonky3/Plonky3/pull/2134) - 2026-09-14
+* [Review] [Review on: fix(security): charge the budget's DEEP batching round over the LDE domain](https://github.com/Plonky3/Plonky3/pull/2131#pullrequestreview-5203024952) - 2026-09-14
+* [Pull Request] [feat(multi-stark): add the logUp* indexed-lookup reduction](https://github.com/Plonky3/Plonky3/pull/2133) - 2026-09-14
+* [Pull Request] [fix(multi-stark): draw fractional-GKR round polynomials at the field's own nodes](https://github.com/Plonky3/Plonky3/pull/2132) - 2026-09-14
+* [Commit] [feat(air,multi-stark)!: public inputs bound by trace position (#1947)](https://github.com/Plonky3/Plonky3/commit/1d66a6f89a02467a3bd9e9605b343967d0acff3b) - 2026-09-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

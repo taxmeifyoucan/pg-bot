@@ -164,6 +164,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update #s](https://github.com/protocolguild/protocol-guild-site/commit/98227b013c851c54661b1b50f46a09b897b4cb1f) - 2026-08-25
 * [Commit] [Update numbers](https://github.com/protocolguild/protocol-guild-site/commit/ab90809713047e696d3fcfa6e524b0cd27f7e450) - 2026-08-25
 * [Commit] [Update member scroll](https://github.com/protocolguild/protocol-guild-site/commit/1e022ae3cc02bc0d9a70ba75ab11399626e5ee5d) - 2026-08-25
+* [Commit] [Remove Megapot banner](https://github.com/protocolguild/protocol-guild-site/commit/600881356f589757b05950e4c2e0d822df6f1621) - 2026-09-14
 ## Q2 2026
 
 

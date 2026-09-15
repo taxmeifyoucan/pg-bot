@@ -767,6 +767,37 @@ Team: Reth
 * [Review] [Review on: refactor(engine): use upstream BalAccountInfo](https://github.com/paradigmxyz/reth/pull/27204#pullrequestreview-5190499726) - 2026-09-13
 * [Review] [Review on: fix(rpc): validate V6 BAL gas budget before KZG](https://github.com/paradigmxyz/reth/pull/27086#pullrequestreview-5190259247) - 2026-09-13
 * [Issue] [BAL path hashes deployed contract code three times per block](https://github.com/paradigmxyz/reth/issues/27206) - 2026-09-13
+* [Pull Request] [chore(deps): patch inspectors for struct logger benchmarks](https://github.com/paradigmxyz/reth/pull/27225) - 2026-09-14
+* [Pull Request] [perf(net): batch seen-cache updates and consume the requested set on responses](https://github.com/paradigmxyz/reth/pull/27235) - 2026-09-14
+* [Review] [Review on: fix(prune): handle empty ranges in receipt log filtering](https://github.com/paradigmxyz/reth/pull/27232#pullrequestreview-5203054784) - 2026-09-14
+* [Pull Request] [refactor(db): keep optional block cache size in builder chain](https://github.com/paradigmxyz/reth/pull/27237) - 2026-09-14
+* [Review] [Review on: fix(engine): consume saved cache during handoff](https://github.com/paradigmxyz/reth/pull/27234#pullrequestreview-5201748260) - 2026-09-14
+* [Review] [Review on: feat(snap-sync): download and persist account ranges under the attempt record](https://github.com/paradigmxyz/reth/pull/27111#pullrequestreview-5197799283) - 2026-09-14
+* [Review] [Review on: feat(snap-sync): build downloaded state updates from verified BALs](https://github.com/paradigmxyz/reth/pull/27175#pullrequestreview-5199217365) - 2026-09-14
+* [Review] [Review on: chore: update rustls to 0.23.45](https://github.com/paradigmxyz/reth/pull/27233#pullrequestreview-5201207648) - 2026-09-14
+* [Pull Request] [test: wait for mined block finality in dev node test](https://github.com/paradigmxyz/reth/pull/27227) - 2026-09-14
+* [Review] [Review on: perf(storage): reuse rocksdb iterator across history lookups](https://github.com/paradigmxyz/reth/pull/27210#pullrequestreview-5199209571) - 2026-09-14
+* [Review] [Review on: perf(engine): precompute execution overlay after persistence](https://github.com/paradigmxyz/reth/pull/27219#pullrequestreview-5198059312) - 2026-09-14
+* [Review] [Review on: fix(rpc): correct Otterscan block and transaction responses](https://github.com/paradigmxyz/reth/pull/27217#pullrequestreview-5197089266) - 2026-09-14
+* [Review] [Review on: feat(ci): add RPC replay mode to derek bench](https://github.com/paradigmxyz/reth/pull/27207#pullrequestreview-5196083226) - 2026-09-14
+* [Review] [Review on: refactor(engine): use upstream BalAccountInfo](https://github.com/paradigmxyz/reth/pull/27204#pullrequestreview-5197593431) - 2026-09-14
+* [Review] [Review on: fix(engine): avoid panic on payload stream termination](https://github.com/paradigmxyz/reth/pull/27218#pullrequestreview-5197018094) - 2026-09-14
+* [Review] [Review on: chore(deps): bump the cargo-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/27216#pullrequestreview-5197101076) - 2026-09-14
+* [Review] [Review on: chore(deps): bump the ci-weekly group across 1 directory with 5 updates](https://github.com/paradigmxyz/reth/pull/27215#pullrequestreview-5197100662) - 2026-09-14
+* [Review] [Review on: fix(rpc): populate VM bytecode in block replay traces](https://github.com/paradigmxyz/reth/pull/27213#pullrequestreview-5197175709) - 2026-09-14
+* [Review] [Review on: fix(txpool): reject transactions below tracked nonce](https://github.com/paradigmxyz/reth/pull/26981#pullrequestreview-5196672104) - 2026-09-14
+* [Commit] [fix(txpool): park pending blob txs when the blob fee rises and the base fee falls (#26962)](https://github.com/paradigmxyz/reth/commit/32a801ff86510faed96a574965be5b8f1e9393b4) - 2026-09-15
+* [Commit] [refactor(db): keep optional block cache size in builder chain (#27237)](https://github.com/paradigmxyz/reth/commit/8194fcedefcfa1cbfe11d57f30cae45a21fe136f) - 2026-09-14
+* [Commit] [refactor(net): simplify transaction announcement handling (#27021)](https://github.com/paradigmxyz/reth/commit/f9efb88530c54f1191f9a4d34b143bb7de97aaf6) - 2026-09-14
+* [Commit] [test: wait for mined block finality in dev node test (#27227)](https://github.com/paradigmxyz/reth/commit/ef7014f6b46500c9f99cc4d71d242a0144248c47) - 2026-09-14
+* [Commit] [perf(storage): reuse rocksdb iterator across history lookups (#27210)](https://github.com/paradigmxyz/reth/commit/df1157bf083b6f1a969c461ff8a1122257c56005) - 2026-09-14
+* [Commit] [feat(ci): add RPC replay mode to derek bench (#27207)](https://github.com/paradigmxyz/reth/commit/6fe745484b5d5b0bdf98de94ab0ea7bfb15f386c) - 2026-09-14
+* [Commit] [fix(download): restore custom static files directory handling (#27065)](https://github.com/paradigmxyz/reth/commit/4b01c866c8743cb1a26d0786ea858a196a8d15f2) - 2026-09-14
+* [Commit] [refactor(engine): use upstream BalAccountInfo (#27204)](https://github.com/paradigmxyz/reth/commit/4d6ccfbd5cb8929e2d631f98501e587728e692e0) - 2026-09-14
+* [Commit] [chore(db): skip unread RocksDB timer histograms (#27212)](https://github.com/paradigmxyz/reth/commit/64eb623128deef31659a52e009654a4e83856fe3) - 2026-09-14
+* [Commit] [perf(rpc): avoid redundant copies of IPC responses (#27209)](https://github.com/paradigmxyz/reth/commit/0c8340d66b7fff434ee038600f3cace591b6ca66) - 2026-09-14
+* [Commit] [fix(db): apply --db.rocksdb-block-cache-size on node startup (#27211)](https://github.com/paradigmxyz/reth/commit/a3e1beb2fc2da1a5ecda8740c785f1d35c7d30ba) - 2026-09-14
+* [Commit] [refactor(net): rewrite transaction fetcher (#26924)](https://github.com/paradigmxyz/reth/commit/b2d7bd7f3fb04077f89f3368c6df9affdc8af095) - 2026-09-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -791,6 +822,7 @@ Team: Reth
 * [Pull Request] [perf(state): size BAL storage vectors by partition](https://github.com/bluealloy/revm/pull/3898) - 2026-09-08
 * [Pull Request] [feat(database): add apply and try_apply to StateBuilder](https://github.com/bluealloy/revm/pull/3900) - 2026-09-08
 * [Pull Request] [feat(database): add BAL builder capacity configuration](https://github.com/bluealloy/revm/pull/3899) - 2026-09-08
+* [Review] [Review on: chore(deps): bump the github-actions group with 3 updates](https://github.com/bluealloy/revm/pull/3902#pullrequestreview-5197090527) - 2026-09-14
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26

@@ -105,6 +105,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [engine API: check an execution request's length before its type byte (#11194)](https://github.com/besu-eth/besu/commit/716c0c6d3d739d7b8a707182e76f620fb48dcf45) - 2026-09-09
 * [Pull Request] [ci: disable test report generation](https://github.com/besu-eth/besu/pull/11276) - 2026-09-10
 * [Pull Request] [Rename regular gas to execution gas](https://github.com/besu-eth/besu/pull/11281) - 2026-09-11
+* [Pull Request] [Perf/evm v2 poc](https://github.com/besu-eth/besu/pull/11291) - 2026-09-14
+* [Review] [Review on: Remove EIP-7610, update reference tests to tests@v20.0.2 and fix reference test harness](https://github.com/besu-eth/besu/pull/11191#pullrequestreview-5195833664) - 2026-09-14
+* [Review] [Review on: Enable NullAway for ethereum/mock-p2p](https://github.com/besu-eth/besu/pull/11284#pullrequestreview-5195351176) - 2026-09-14
+* [Commit] [Reject a transaction that cannot fit the block before the access list check (#11195)](https://github.com/besu-eth/besu/commit/8ed1c2529a90ed9cf681b19c66a3ba2fcb2efaf9) - 2026-09-14
+* [Commit] [Remove EIP-7610, update reference tests to tests@v20.0.2 and fix reference test harness (#11191)](https://github.com/besu-eth/besu/commit/1f3b5a178df3ac929d3f52cb1e389d3178bb532c) - 2026-09-14
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

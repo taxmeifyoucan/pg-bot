@@ -485,6 +485,21 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/13429#pullrequestreview-5190214354) - 2026-09-13
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/13430#pullrequestreview-5190213075) - 2026-09-13
 * [Commit] [perf: stop allocating a copy of the input for the ID precompile (#13395)](https://github.com/NethermindEth/nethermind/commit/d52a908af99d4e9098590a93a326da448411dbae) - 2026-09-13
+* [Pull Request] [fix(sync): stop a fast-sync body being lost to the block cache](https://github.com/NethermindEth/nethermind/pull/13474) - 2026-09-15
+* [Review] [Review on: fix(logging): stop Init.LogRules bypassing Seq.MinLevel](https://github.com/NethermindEth/nethermind/pull/13419#pullrequestreview-5203875444) - 2026-09-14
+* [Review] [Review on: fix(core): stop ElapsedMicroseconds overflowing on long-running stopwatches](https://github.com/NethermindEth/nethermind/pull/13416#pullrequestreview-5203835272) - 2026-09-14
+* [Review] [Review on: fix(nethtest): report a state-test fixture that fails to load](https://github.com/NethermindEth/nethermind/pull/13275#pullrequestreview-5203823109) - 2026-09-14
+* [Review] [Review on: Return null from eth_getHeaderByNumber for the pending tag](https://github.com/NethermindEth/nethermind/pull/13082#pullrequestreview-5198155089) - 2026-09-14
+* [Review] [Review on: fix(pruning): skip the disk space probe when the availability check is disabled](https://github.com/NethermindEth/nethermind/pull/13456#pullrequestreview-5203604863) - 2026-09-14
+* [Commit] [perf: skip the write-journal probe for contracts that have not written (#13405)](https://github.com/NethermindEth/nethermind/commit/111ec585191b4a088f9af5b3535b99d72ed7ba3a) - 2026-09-14
+* [Commit] [Roll back the code-write counters with the reverted code (#13433)](https://github.com/NethermindEth/nethermind/commit/208ae0ac44a3693935e7a2eb22b3b2521ef2489f) - 2026-09-14
+* [Commit] [perf: memoize the warm-access check, settle EXTCODEHASH with one account read (#13414)](https://github.com/NethermindEth/nethermind/commit/1bd4dd8f566e35438b7f148e9ee9a629e97f649d) - 2026-09-14
+* [Commit] [perf: memoize the per-contract read and the SSTORE originals probe (#13422)](https://github.com/NethermindEth/nethermind/commit/959c4501479ba0a4451c5c2bb3c3ac4ccb39b07d) - 2026-09-14
+* [Commit] [perf: stop BLOCKHASH reading state and allocating on every call (#13397)](https://github.com/NethermindEth/nethermind/commit/f3077d88f4c68bf7a099c04810cd76a7321d98e7) - 2026-09-14
+* [Commit] [perf: resolve a BAL storage access in one probe (#13408)](https://github.com/NethermindEth/nethermind/commit/e466166aa8a289e808e2eba40d6f8496dc75a2b6) - 2026-09-14
+* [Commit] [Journal and count a staged code insert exactly once (#13432)](https://github.com/NethermindEth/nethermind/commit/83e35101db6ec579fd0c3e22b864695ff1122492) - 2026-09-14
+* [Commit] [perf: stop allocating a word per transient storage write (#13413)](https://github.com/NethermindEth/nethermind/commit/93100d7c6fd8bb312623252825247dd9fc0cd043) - 2026-09-14
+* [Commit] [test: add storage-, call- and create-shaped block scenarios to BlockProcessingBenchmark (#13421)](https://github.com/NethermindEth/nethermind/commit/854808894621cdae19b1fcb5bd0c25cb0fe34ac1) - 2026-09-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

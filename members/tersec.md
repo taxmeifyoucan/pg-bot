@@ -165,6 +165,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use datacolumn gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9041) - 2026-09-13
 * [Pull Request] [use (aggregated) attestation gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9040) - 2026-09-13
 * [Pull Request] [avoid hang on missing block on epoch boundary](https://github.com/status-im/nimbus-eth2/pull/9038) - 2026-09-13
+* [Pull Request] [use execution payload bid gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9046) - 2026-09-14
+* [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5203590429) - 2026-09-14
+* [Pull Request] [use beacon block gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9045) - 2026-09-14
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

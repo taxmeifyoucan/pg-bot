@@ -74,6 +74,7 @@ Team: Reth
 * [Pull Request] [test: run native reth node under hermit](https://github.com/paradigmxyz/reth/pull/27059) - 2026-09-07
 * [Pull Request] [test: run native reth node under hermit](https://github.com/paradigmxyz/reth/pull/27058) - 2026-09-07
 * [Review] [Review on: fix(trie): revert changeset avoidance for read-only overlays](https://github.com/paradigmxyz/reth/pull/27114#pullrequestreview-5153618467) - 2026-09-09
+* [Review] [Review on: perf(rpc): avoid redundant copies of IPC responses](https://github.com/paradigmxyz/reth/pull/27209#pullrequestreview-5196493270) - 2026-09-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

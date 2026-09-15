@@ -537,6 +537,24 @@ Team: Erigon
 * [Review] [Review on: rpc: encode result straight into the response stream](https://github.com/erigontech/erigon/pull/23955#pullrequestreview-5193527593) - 2026-09-14
 * [Review] [Review on: rpc: return typed structs from the block and header methods](https://github.com/erigontech/erigon/pull/23943#pullrequestreview-5189553738) - 2026-09-13
 * [Review] [Review on: cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock](https://github.com/erigontech/erigon/pull/23944#pullrequestreview-5189536169) - 2026-09-13
+* [Pull Request] [execution/commitment: feed parallel warmup from the prefix trie](https://github.com/erigontech/erigon/pull/23980) - 2026-09-14
+* [Pull Request] [execution/commitment: fork the parallel trie walk at any depth](https://github.com/erigontech/erigon/pull/23977) - 2026-09-14
+* [Review] [Review on: execution/commitment: fork the parallel trie walk at any depth](https://github.com/erigontech/erigon/pull/23977#pullrequestreview-5197958262) - 2026-09-14
+* [Pull Request] [execution/commitment: keep caller-owned branch updates deferred](https://github.com/erigontech/erigon/pull/23972) - 2026-09-14
+* [Pull Request] [execution/stagedsync: validate roots before flushing isolated branches](https://github.com/erigontech/erigon/pull/23970) - 2026-09-14
+* [Review] [Review on: execution/stagedsync: validate roots before flushing isolated branches](https://github.com/erigontech/erigon/pull/23970#pullrequestreview-5197729323) - 2026-09-14
+* [Pull Request] [execution/commitment: reuse unfolded branch records when folding](https://github.com/erigontech/erigon/pull/23976) - 2026-09-14
+* [Review] [Review on: execution/commitment: reuse unfolded branch records when folding](https://github.com/erigontech/erigon/pull/23976#pullrequestreview-5197732336) - 2026-09-14
+* [Pull Request] [execution/commitment: enforce post-order folds for deferred writes](https://github.com/erigontech/erigon/pull/23974) - 2026-09-14
+* [Review] [Review on: execution/commitment: enforce post-order folds for deferred writes](https://github.com/erigontech/erigon/pull/23974#pullrequestreview-5197731095) - 2026-09-14
+* [Pull Request] [execution/commitment: shard deferred branch writes across workers](https://github.com/erigontech/erigon/pull/23979) - 2026-09-14
+* [Pull Request] [execution/commitment: drop unused APIs and honor deferred config](https://github.com/erigontech/erigon/pull/23971) - 2026-09-14
+* [Review] [Review on: execution/commitment: drop unused APIs and honor deferred config](https://github.com/erigontech/erigon/pull/23971#pullrequestreview-5197730431) - 2026-09-14
+* [Pull Request] [cl/transition: restore parallel rewards and inactivity epoch loops](https://github.com/erigontech/erigon/pull/23966) - 2026-09-14
+* [Pull Request] [cl/beacon/synced_data: swap head state instead of copying it](https://github.com/erigontech/erigon/pull/23962) - 2026-09-14
+* [Review] [Review on: cl/beacon/synced_data: swap head state instead of copying it](https://github.com/erigontech/erigon/pull/23962#pullrequestreview-5195009367) - 2026-09-14
+* [Review] [Review on: rpc: stream batch answers instead of joining them into one buffer](https://github.com/erigontech/erigon/pull/23960#pullrequestreview-5193686064) - 2026-09-14
+* [Pull Request] [cl/phase1/forkchoice: build the next justified checkpoint state early](https://github.com/erigontech/erigon/pull/23981) - 2026-09-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

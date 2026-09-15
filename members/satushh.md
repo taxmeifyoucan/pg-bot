@@ -75,6 +75,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491) - 2026-09-11
 * [Pull Request] [Derive SaveOrigin checkpoint epoch from the origin state slot](https://github.com/OffchainLabs/prysm/pull/17492) - 2026-09-11
 * [Pull Request] [Eip 8333 ](https://github.com/OffchainLabs/prysm/pull/17489) - 2026-09-11
+* [Review] [Review on: Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491#pullrequestreview-5200006107) - 2026-09-14
+* [Pull Request] [Fix backfill nil panic in columnsNeeded when a batch needs no columns](https://github.com/OffchainLabs/prysm/pull/17496) - 2026-09-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

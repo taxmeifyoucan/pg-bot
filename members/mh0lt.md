@@ -70,6 +70,7 @@ Team: Erigon
 * [Review] [Review on: ci: update eest devnet fixtures to v8.1.2](https://github.com/erigontech/erigon/pull/23681#pullrequestreview-5066598229) - 2026-08-31
 * [Review] [Review on: ci: set hive eest devnet v8.1.3 max failures to 0](https://github.com/erigontech/erigon/pull/23750#pullrequestreview-5090434789) - 2026-09-02
 * [Review] [Review on: ci: pin Geth used by Hive DevP2P](https://github.com/erigontech/erigon/pull/23756#pullrequestreview-5091697087) - 2026-09-02
+* [Pull Request] [Parallel execution: Block-STM executor + versioned state + parallel commitment](https://github.com/erigontech/erigon/pull/23967) - 2026-09-14
 ## Q2 2026
 
 
