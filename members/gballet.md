@@ -24,6 +24,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 * [Pull Request] [accounts: remove dead code parseURL, UnmarshalJSON and Wallet](https://github.com/ethereum/go-ethereum/pull/35626) - 2026-09-01
 * [Pull Request] [core/vm, params: make EIP-170 activation explicit](https://github.com/ethereum/go-ethereum/pull/35675) - 2026-09-08
+* [Commit] [build, .gitea: build rpm packages (#35557)](https://github.com/ethereum/go-ethereum/commit/83e67ae63f0c84e3f10368aa684d6459c09036e3) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change Guillaume Ballet's weight to half-time](https://github.com/protocolguild/documentation/pull/550) - 2026-08-31
 ## Q2 2026

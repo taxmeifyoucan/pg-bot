@@ -798,6 +798,31 @@ Team: Reth
 * [Commit] [perf(rpc): avoid redundant copies of IPC responses (#27209)](https://github.com/paradigmxyz/reth/commit/0c8340d66b7fff434ee038600f3cace591b6ca66) - 2026-09-14
 * [Commit] [fix(db): apply --db.rocksdb-block-cache-size on node startup (#27211)](https://github.com/paradigmxyz/reth/commit/a3e1beb2fc2da1a5ecda8740c785f1d35c7d30ba) - 2026-09-14
 * [Commit] [refactor(net): rewrite transaction fetcher (#26924)](https://github.com/paradigmxyz/reth/commit/b2d7bd7f3fb04077f89f3368c6df9affdc8af095) - 2026-09-14
+* [Review] [Review on: fix(txpool): notify promotions from parked insertions](https://github.com/paradigmxyz/reth/pull/27259#pullrequestreview-5217348065) - 2026-09-16
+* [Review] [Review on: fix(examples): read hashed storage in full-contract-state example](https://github.com/paradigmxyz/reth/pull/27261#pullrequestreview-5217033606) - 2026-09-15
+* [Review] [Review on: perf(net): batch seen-cache updates and consume the requested set on responses](https://github.com/paradigmxyz/reth/pull/27235#pullrequestreview-5217056091) - 2026-09-15
+* [Review] [Review on: feat(rpc): add debug_getTrieNodeByHash for path-directed trie node lookup](https://github.com/paradigmxyz/reth/pull/27262#pullrequestreview-5217033741) - 2026-09-15
+* [Review] [Review on: perf(engine): size proof worker pools by block gas](https://github.com/paradigmxyz/reth/pull/27196#pullrequestreview-5210586483) - 2026-09-15
+* [Review] [Review on: fix(prune): include transaction zero in lookup pruning](https://github.com/paradigmxyz/reth/pull/27231#pullrequestreview-5215847853) - 2026-09-15
+* [Pull Request] [perf(engine): queue ready storage trie work](https://github.com/paradigmxyz/reth/pull/27254) - 2026-09-15
+* [Pull Request] [perf(engine): reuse incoming storage proof buffers](https://github.com/paradigmxyz/reth/pull/27253) - 2026-09-15
+* [Review] [Review on: perf(trie): seek sparse trie cursor on packed keys](https://github.com/paradigmxyz/reth/pull/27155#pullrequestreview-5208275514) - 2026-09-15
+* [Pull Request] [refactor(rpc): expose shared eth api settings](https://github.com/paradigmxyz/reth/pull/27251) - 2026-09-15
+* [Review] [Review on: perf(engine): run storage trie updates inside checked-out jobs](https://github.com/paradigmxyz/reth/pull/27156#pullrequestreview-5210510205) - 2026-09-15
+* [Review] [Review on: fix(engine): reject Amsterdam payload fields in newPayloadV3/V4](https://github.com/paradigmxyz/reth/pull/27248#pullrequestreview-5209598052) - 2026-09-15
+* [Review] [Review on: refactor(snap-sync): share download context and progress records](https://github.com/paradigmxyz/reth/pull/27238#pullrequestreview-5210454680) - 2026-09-15
+* [Review] [Review on: feat: backfill missing block access lists on chain heads](https://github.com/paradigmxyz/reth/pull/26825#pullrequestreview-5209860296) - 2026-09-15
+* [Pull Request] [test(engine): cover forkchoice updates without finality](https://github.com/paradigmxyz/reth/pull/27249) - 2026-09-15
+* [Pull Request] [chore(engine): revert cache handoff fixes for benchmarking](https://github.com/paradigmxyz/reth/pull/27246) - 2026-09-15
+* [Pull Request] [fix(engine): validate forkchoice state before applying updates](https://github.com/paradigmxyz/reth/pull/27247) - 2026-09-15
+* [Pull Request] [test(engine): cover unrecoverable payload signatures](https://github.com/paradigmxyz/reth/pull/27243) - 2026-09-15
+* [Review] [Review on: perf(cli): raise persistence and state masking defaults](https://github.com/paradigmxyz/reth/pull/27220#pullrequestreview-5207916221) - 2026-09-15
+* [Review] [Review on: fix(provider): serialize static file cache publication](https://github.com/paradigmxyz/reth/pull/27223#pullrequestreview-5208196685) - 2026-09-15
+* [Review] [Review on: feat(snap-sync): download and persist contract storage incrementally](https://github.com/paradigmxyz/reth/pull/27236#pullrequestreview-5208042962) - 2026-09-15
+* [Review] [Review on: fix(engine): avoid cache handoff misses and locked drops](https://github.com/paradigmxyz/reth/pull/27230#pullrequestreview-5207969007) - 2026-09-15
+* [Commit] [fix(engine): adjudicate speculative BAL worker failures in transaction order (#26721)](https://github.com/paradigmxyz/reth/commit/30e596d42d14ef067d320579029f237718f27908) - 2026-09-15
+* [Commit] [perf(engine): run storage trie updates inside checked-out jobs (#27156)](https://github.com/paradigmxyz/reth/commit/5d0ea55c5246b883fcefda2ebe9ba03a240d4d03) - 2026-09-15
+* [Commit] [test(engine): cover unrecoverable payload signatures (#27243)](https://github.com/paradigmxyz/reth/commit/03e374b05caaade4521ea82f50b5d953cdf99ae3) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

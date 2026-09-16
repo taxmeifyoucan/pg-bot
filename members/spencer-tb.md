@@ -325,6 +325,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): cover self-sponsored sender in EIP-7702 ext*code tests](https://github.com/ethereum/execution-specs/pull/3560#pullrequestreview-5198527776) - 2026-09-14
 * [Review] [Review on: fix(tests): unskip EIP-7702 pointer loop under EIP-8037](https://github.com/ethereum/execution-specs/pull/3567#pullrequestreview-5198227074) - 2026-09-14
 * [Review] [Review on: feat(tests): extend EIP-7702 pointer reentry context checks](https://github.com/ethereum/execution-specs/pull/3568#pullrequestreview-5197992925) - 2026-09-14
+* [Review] [Review on: chore(skill): refresh skills](https://github.com/ethereum/execution-specs/pull/3562#pullrequestreview-5209436168) - 2026-09-15
+* [Review] [Review on: feat(spec-tests, spec-tools): run fork-transition fixtures through EELS](https://github.com/ethereum/execution-specs/pull/3564#pullrequestreview-5208436366) - 2026-09-15
+* [Pull Request] [feat(tests): pin the BAL for contract creation over a storage-only account](https://github.com/ethereum/execution-specs/pull/3588) - 2026-09-15
+* [Review] [Review on: fix(test-client-clis): fix lazy allocation cleanup unit test flake on PyPy](https://github.com/ethereum/execution-specs/pull/3587#pullrequestreview-5208395304) - 2026-09-15
+* [Review] [Review on: fix(test-cli): render coverage on repeated checklist rows](https://github.com/ethereum/execution-specs/pull/3586#pullrequestreview-5208091518) - 2026-09-15
+* [Review] [Review on: fix(test-benchmark): clamp nested frame depth to budget and assert receipt status](https://github.com/ethereum/execution-specs/pull/3585#pullrequestreview-5208192818) - 2026-09-15
+* [Review] [Review on: feat(tests): eip8282 checklist review](https://github.com/ethereum/execution-specs/pull/3565#pullrequestreview-5208035274) - 2026-09-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -386,6 +393,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(chainspec): honor genesis slotNumber instead of hardcoding 0 (EIP-7843)](https://github.com/paradigmxyz/reth/pull/26680) - 2026-08-13
 * [Commit] [fix(chainspec): honor genesis slotNumber instead of hardcoding 0 (EIP-7843) (#26680)](https://github.com/paradigmxyz/reth/commit/3641f10830f44f71c2469fdf7e818ccd4a4b0e76) - 2026-08-13
 * [Commit] [fix(engine): reject undecodable block access list bytes as invalid params (#26694)](https://github.com/paradigmxyz/reth/commit/94cf8fdaf37edb94c72c27b920f28b65dba9e940) - 2026-08-14
+* [Pull Request] [fix(engine): reject Amsterdam payload fields in newPayloadV3/V4](https://github.com/paradigmxyz/reth/pull/27248) - 2026-09-15
 ## Q2 2026
 
 

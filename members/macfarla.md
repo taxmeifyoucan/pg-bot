@@ -294,6 +294,18 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [RocksDBColumnarKeyValueStorage: column-family handle use-after-free during clear](https://github.com/besu-eth/besu/issues/11267) - 2026-09-09
 * [Pull Request] [codeowners for evm](https://github.com/besu-eth/besu/pull/11159) - 2026-09-10
 * [Commit] [codeowners for evm (#11159)](https://github.com/besu-eth/besu/commit/9a62923728254cea7ba49cfb8450521fc4fe93d8) - 2026-09-10
+* [Pull Request] [README: update link to teku discord](https://github.com/besu-eth/besu/pull/11307) - 2026-09-15
+* [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/besu-eth/besu/pull/11266#pullrequestreview-5216886410) - 2026-09-15
+* [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-5205525326) - 2026-09-15
+* [Pull Request] [fix(ipc-test): keep NetClient reference ](https://github.com/besu-eth/besu/pull/11295) - 2026-09-15
+* [Review] [Review on: fix(ipc-test): keep NetClient reference ](https://github.com/besu-eth/besu/pull/11295#pullrequestreview-5206030068) - 2026-09-15
+* [Review] [Review on: remove totalDifficulty from all block results](https://github.com/besu-eth/besu/pull/11179#pullrequestreview-5206260143) - 2026-09-15
+* [Issue] [flaky test: JsonRpcIpcServiceTest](https://github.com/besu-eth/besu/issues/11294) - 2026-09-15
+* [Commit] [fix(simulate): inherit parent block gasLimit in eth_simulateV1 (#11254)](https://github.com/besu-eth/besu/commit/e11a5a1f64ee1097aad4f4ee9e969d09adc8c343) - 2026-09-16
+* [Commit] [README: update link to teku discord (#11307)](https://github.com/besu-eth/besu/commit/9d1e799bd01d0ebcfef944be85b61b112e36988a) - 2026-09-16
+* [Commit] [fix: eth_getProof returns storageProof entries for non-existent accounts (#11082)](https://github.com/besu-eth/besu/commit/3ea8c02c729bef95066aa3e1c337375f4d3db0cb) - 2026-09-15
+* [Commit] [remove totalDifficulty from all block results (#11179)](https://github.com/besu-eth/besu/commit/776ca022970a3b9ba3d562d69ba943a48f7920d5) - 2026-09-15
+* [Commit] [fix(ipc-test): keep NetClient reference (#11295)](https://github.com/besu-eth/besu/commit/3535ff193cecafd8317bad67b1d4d704e955c9da) - 2026-09-15
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

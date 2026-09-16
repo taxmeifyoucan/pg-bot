@@ -38,6 +38,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [test(gossip): cover IWANT response amplification](https://github.com/libp2p/jvm-libp2p/commit/574f1b4d8a731cee0d6cf98bf95b2f1321695b74) - 2026-09-07
 * [Commit] [fix(gossip): open a single outbound stream per peer (#528)](https://github.com/libp2p/jvm-libp2p/commit/2f6fa5f1e67873841f241f93df6c9abb9f6176f8) - 2026-09-11
 * [Issue] [Smart-dialing feature (address ranking + staggered dials)](https://github.com/libp2p/jvm-libp2p/issues/529) - 2026-09-11
+* [Pull Request] [feat(gossip): bound inbound RPC protobuf field count](https://github.com/libp2p/jvm-libp2p/pull/531) - 2026-09-16
+* [Review] [Review on: feat(gossip): bound inbound RPC protobuf field count](https://github.com/libp2p/jvm-libp2p/pull/531#pullrequestreview-5217952757) - 2026-09-16
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -156,6 +158,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: 11261 update gossip rules](https://github.com/Consensys-Incorporated/teku/pull/11270#pullrequestreview-5203771690) - 2026-09-14
 * [Commit] [fix: don't cancel in-progress publish jobs on master pushes (#11271)](https://github.com/Consensys-Incorporated/teku/commit/01662d5fe7dae207e417bcd3183064521e569454) - 2026-09-15
 * [Commit] [Update dead documentation links (#11268)](https://github.com/Consensys-Incorporated/teku/commit/2f84943ffbcd5bfd95852f7e5cf026932f38b348) - 2026-09-14
+* [Review] [Review on: fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272#pullrequestreview-5217593194) - 2026-09-16
 ## Q2 2026
 
 

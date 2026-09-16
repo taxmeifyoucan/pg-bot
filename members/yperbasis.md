@@ -648,6 +648,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/state: avoid retries for zero-balance self-destructs](https://github.com/erigontech/erigon/pull/23984) - 2026-09-14
 * [Commit] [execution/p2p: limit BlockBodies decoding to requested count (#23712)](https://github.com/erigontech/erigon/commit/5a8915d242307ab5c2c70686bf012c6e8edb143c) - 2026-09-15
 * [Commit] [cl/services: harden shared pending-job queue (#23644)](https://github.com/erigontech/erigon/commit/25ac06305d90f69c41199c024e90284e22d5f074) - 2026-09-14
+* [Review] [Review on: rpc: remove the eth_createAccessList authorization-count guard](https://github.com/erigontech/erigon/pull/23985#pullrequestreview-5207414813) - 2026-09-15
+* [Pull Request] [execution: test crash recovery during catch-up reorgs](https://github.com/erigontech/erigon/pull/24032) - 2026-09-15
+* [Pull Request] [execution/state: validate empty code-hash reads against account liveness](https://github.com/erigontech/erigon/pull/24030) - 2026-09-15
+* [Pull Request] [[r3.6] execution/state: record reads of deleted accounts](https://github.com/erigontech/erigon/pull/24023) - 2026-09-15
+* [Review] [Review on: execution: test crash recovery across unwind commits](https://github.com/erigontech/erigon/pull/23983#pullrequestreview-5207406460) - 2026-09-15
+* [Commit] [execution: separate parallel-exec verdicts, failures, and exhaustion (#23212)](https://github.com/erigontech/erigon/commit/84d5b18fc19f0a92cdf388ce51d2f711ded0f236) - 2026-09-15
+* [Commit] [execution/state: avoid retries for zero-balance self-destructs (#23984)](https://github.com/erigontech/erigon/commit/7a031bd8e8fb7e343877f35917c5d8bdf28e94a7) - 2026-09-15
+* [Commit] [execution: test crash recovery across unwind commits (#23983)](https://github.com/erigontech/erigon/commit/d1ea27c792406e3568e412e5df1471457a803f9e) - 2026-09-15
+* [Commit] [execution/state: record reads of deleted accounts (#23982)](https://github.com/erigontech/erigon/commit/a58c9775e5ab8d3cb8905e32f5f17ebb7a0b9758) - 2026-09-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

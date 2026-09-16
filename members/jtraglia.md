@@ -308,6 +308,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Cache `compute_balance_weighted_selection` (#5631)](https://github.com/ethereum/consensus-specs/commit/02abf5c173f550acdbe67225a6b682addea110e4) - 2026-09-13
 * [Pull Request] [Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642) - 2026-09-14
 * [Review] [Review on: Do not emit ssz-static deposits post-Fulu](https://github.com/ethereum/consensus-specs/pull/5640#pullrequestreview-5200989673) - 2026-09-14
+* [Review] [Review on: Make `VersionedHashes` a progressive list](https://github.com/ethereum/consensus-specs/pull/5643#pullrequestreview-5212754357) - 2026-09-15
+* [Commit] [Add `saturating_sub` helper function (#5620)](https://github.com/ethereum/consensus-specs/commit/a8475719ce77cb269191e327e1f4175c295851ee) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -343,6 +345,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Migrate to NuGet trusted publishing](https://github.com/ethereum/c-kzg-4844/pull/657#pullrequestreview-4907648088) - 2026-08-11
 * [Pull Request] [Add function to recover cells (and not proofs) to bindings](https://github.com/ethereum/c-kzg-4844/pull/660) - 2026-08-17
 * [Review] [Review on: Bump the actions group with 3 updates](https://github.com/ethereum/c-kzg-4844/pull/664#pullrequestreview-5083335442) - 2026-09-01
+* [Review] [Review on: Add Windows ARM64 support](https://github.com/ethereum/c-kzg-4844/pull/666#pullrequestreview-5212588693) - 2026-09-15
+* [Pull Request] [Skip yaml submodules in Nim CI](https://github.com/ethereum/c-kzg-4844/pull/667) - 2026-09-15
+* [Commit] [Skip yaml submodules in Nim CI (#667)](https://github.com/ethereum/c-kzg-4844/commit/f8d91691b52880810e057536544dde8c9b493025) - 2026-09-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27

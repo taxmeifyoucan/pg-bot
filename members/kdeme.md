@@ -140,6 +140,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: build the ZisK guest against ziskos v1.1.0-alpha (#4786)](https://github.com/status-im/nimbus-eth1/commit/d100e90ee3b99479b42272a37267097496c2cede) - 2026-09-12
 * [Pull Request] [stateless: use the transaction public keys from the input](https://github.com/status-im/nimbus-eth1/pull/4791) - 2026-09-14
 * [Commit] [stateless: use the transaction public keys from the input (#4791)](https://github.com/status-im/nimbus-eth1/commit/0f35be0f30b062abd2e832f397ffd46be35f5e46) - 2026-09-14
+* [Pull Request] [stateless: hash with the zkVM keccak and SHA-256 accelerators](https://github.com/status-im/nimbus-eth1/pull/4796) - 2026-09-15
+* [Commit] [stateless: hash with the zkVM keccak and SHA-256 accelerators (#4796)](https://github.com/status-im/nimbus-eth1/commit/71b433a90336fb21a78c2cd8f8452693f7ca4ffe) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
@@ -149,6 +151,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update --discovery to --discv5 flag for EL in el nodes script](https://github.com/status-im/nimbus-eth2/pull/8763) - 2026-07-14
 * [Pull Request] [Support compiling buildinfo on/for bare metal](https://github.com/status-im/nimbus-eth2/pull/8792) - 2026-07-21
 * [Pull Request] [Bump nim-eth vendor module](https://github.com/status-im/nimbus-eth2/pull/8983) - 2026-09-02
+* [Review] [Review on: engine SSZ REST api](https://github.com/status-im/nimbus-eth2/pull/9048#pullrequestreview-5207188429) - 2026-09-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672183323) - 2026-07-10
 

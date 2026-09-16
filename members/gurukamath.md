@@ -87,6 +87,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Update EIP-8141: charge the resolved target's access at frame entry](https://github.com/ethereum/EIPs/pull/12211) - 2026-08-20
 * [Commit] [Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/commit/b6b6f1cea0085e357bc80fb553d41896ac2a7fd0) - 2026-08-20
 * [Commit] [Update EIP-8141: charge the resolved target's access at frame entry](https://github.com/ethereum/EIPs/commit/b3e8cad3790cfe6e2e4c8120020582345e7520a9) - 2026-08-20
+* [Pull Request] [Update EIP-8038: clarify charge attribution and component definitions](https://github.com/ethereum/EIPs/pull/12343) - 2026-09-15
+* [Review] [Review on: Update EIP-8038: clarify charge attribution and component definitions](https://github.com/ethereum/EIPs/pull/12343#pullrequestreview-5211080449) - 2026-09-15
+* [Commit] [Update EIP-8038: clarify charge attribution and component definitions](https://github.com/ethereum/EIPs/commit/1bbccfb3b9dd06d3b5668792eb8185d309b6e407) - 2026-09-15
 ## Q2 2026
 
 

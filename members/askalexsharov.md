@@ -1522,6 +1522,42 @@ Team: Erigon
 * [Commit] [rpc: stream batch answers instead of joining them into one buffer (#23960)](https://github.com/erigontech/erigon/commit/62249b60ac80e94f351c462d7601e74683d53d70) - 2026-09-14
 * [Commit] [rpc: return typed structs from the block and header methods (#23943)](https://github.com/erigontech/erigon/commit/15daa9b80791947fde7b417988baf26438ff9e6c) - 2026-09-14
 * [Commit] [rpc: reduce amount encoded results copies (#23955)](https://github.com/erigontech/erigon/commit/d52ab442132bebcbd47d7c1c3eb4619657aa3677) - 2026-09-14
+* [Pull Request] [rpc/jsonrpc: reject eth_getProof storage keys longer than 32 bytes](https://github.com/erigontech/erigon/pull/24042) - 2026-09-16
+* [Pull Request] [rpc: add eth_getProof and eth_getWitness test coverage](https://github.com/erigontech/erigon/pull/24040) - 2026-09-16
+* [Pull Request] [execution/commitment: fold eth_getProof's witness read-only](https://github.com/erigontech/erigon/pull/24035) - 2026-09-15
+* [Pull Request] [db/state: cache decompressed history pages](https://github.com/erigontech/erigon/pull/24036) - 2026-09-15
+* [Pull Request] [db/kv/mdbx: renew reset read transactions instead of binding a reader slot per `BeginRo`](https://github.com/erigontech/erigon/pull/24014) - 2026-09-15
+* [Review] [Review on: db/kv/mdbx: renew reset read transactions instead of binding a reader slot per `BeginRo`](https://github.com/erigontech/erigon/pull/24014#pullrequestreview-5206393080) - 2026-09-15
+* [Pull Request] [rpc/jsonrpc, execution/commitment: serve eth_getProof by walking the witness nodes by hash](https://github.com/erigontech/erigon/pull/24034) - 2026-09-15
+* [Pull Request] [rpc: run a single HTTP request's call on the serving goroutine](https://github.com/erigontech/erigon/pull/24007) - 2026-09-15
+* [Review] [Review on: execution/commitment: fork the parallel trie walk at any depth](https://github.com/erigontech/erigon/pull/23972#pullrequestreview-5205061524) - 2026-09-15
+* [Pull Request] [rpc/jsonrpc: build one `eth_getProof` witness for the account and its storage keys](https://github.com/erigontech/erigon/pull/24004) - 2026-09-15
+* [Review] [Review on: rpc/jsonrpc: build one `eth_getProof` witness for the account and its storage keys](https://github.com/erigontech/erigon/pull/24004#pullrequestreview-5205911393) - 2026-09-15
+* [Review] [Review on: rpc/jsonrpc: bound the blocks cache by bytes, without a global lock](https://github.com/erigontech/erigon/pull/23997#pullrequestreview-5205232102) - 2026-09-15
+* [Pull Request] [rpc/gasprice: cache `eth_feeHistory` per block, serve any percentiles from one entry](https://github.com/erigontech/erigon/pull/24013) - 2026-09-15
+* [Review] [Review on: rpc/gasprice: cache `eth_feeHistory` per block, serve any percentiles from one entry](https://github.com/erigontech/erigon/pull/24013#pullrequestreview-5206026823) - 2026-09-15
+* [Pull Request] [execution/engineapi: switch `baseFeePerGas` and `blockValue` to `hexutil.U256`](https://github.com/erigontech/erigon/pull/24016) - 2026-09-15
+* [Review] [Review on: execution/engineapi: switch `baseFeePerGas` and `blockValue` to `hexutil.U256`](https://github.com/erigontech/erigon/pull/24016#pullrequestreview-5206865609) - 2026-09-15
+* [Review] [Review on: db: auto-compact bloated mdbx dbs at startup](https://github.com/erigontech/erigon/pull/23956#pullrequestreview-5205247922) - 2026-09-15
+* [Review] [Review on: build, cl/spectest: compile and test with GOEXPERIMENT=jsonv2](https://github.com/erigontech/erigon/pull/24017#pullrequestreview-5206936243) - 2026-09-15
+* [Pull Request] [rpc, execution/tracing: carry quantities as `hexutil.U256`](https://github.com/erigontech/erigon/pull/24018) - 2026-09-15
+* [Pull Request] [execution/types: encode header quantities as `hexutil.U256`](https://github.com/erigontech/erigon/pull/24006) - 2026-09-15
+* [Review] [Review on: execution/types: encode header quantities as `hexutil.U256`](https://github.com/erigontech/erigon/pull/24006#pullrequestreview-5205482770) - 2026-09-15
+* [Commit] [rpc/jsonrpc: bound the blocks cache by bytes, without a global lock (#23997)](https://github.com/erigontech/erigon/commit/6943e5d4ea0be1fe72440e2e6976c7fbfbdebf85) - 2026-09-15
+* [Commit] [rpc/gasprice: cache `eth_feeHistory` per block, serve any percentiles from one entry (#24013)](https://github.com/erigontech/erigon/commit/4c6a63e359b360c81b9026edfba3f154c7db8a7d) - 2026-09-15
+* [Commit] [execution/engineapi: switch `baseFeePerGas` and `blockValue` to `hexutil.U256` (#24016)](https://github.com/erigontech/erigon/commit/cbdc085d947f05b287f0af96cffdcacb234c4a9e) - 2026-09-15
+* [Commit] [db: auto-compact bloated mdbx dbs at startup (#23956)](https://github.com/erigontech/erigon/commit/d6735e93aa8243f0f7618c70e8e14d3993137ef6) - 2026-09-15
+* [Commit] [rpc/jsonrpc: serve the cached chain config without opening a read transaction (#24002)](https://github.com/erigontech/erigon/commit/10162778d2241e2abbff82a33463ccf8b40b2c0b) - 2026-09-15
+* [Commit] [rpc: hash txns without decoding them in eth_getLogs (#23965)](https://github.com/erigontech/erigon/commit/30f14d764e66d7d43318b677af2aa60500906e64) - 2026-09-15
+* [Commit] [rpc: keep `eth_feeHistory` rewards and fees as uint256 (#24005)](https://github.com/erigontech/erigon/commit/396468d8ba710c1c00faab0078d7577a6266b0c9) - 2026-09-15
+* [Commit] [execution/types: encode header quantities as `hexutil.U256` (#24006)](https://github.com/erigontech/erigon/commit/4a4b29936083b536b6412a2ec5bf85bf94be836f) - 2026-09-15
+* [Commit] [rpc/jsonrpc: encode parity trace quantities as `hexutil.U256` (#24008)](https://github.com/erigontech/erigon/commit/51ab04b72e4f73322546031b54bcedad0589a01f) - 2026-09-15
+* [Commit] [rpc: decode a `BlockNumberOrHash` string without trying it as an object first (#24001)](https://github.com/erigontech/erigon/commit/c5f2fb08b4e7e68ab888e3ff36f59df9cf63b830) - 2026-09-15
+* [Commit] [rpc/gasprice: serve cached `eth_feeHistory` blocks without forking read txs (#23999)](https://github.com/erigontech/erigon/commit/1d06e099a01b65b651540b91f713419371fc3cc9) - 2026-09-15
+* [Commit] [rpc: return a typed struct from the receipt methods (#23969)](https://github.com/erigontech/erigon/commit/5732038623970a387d645fdb72ba92f534d2b802) - 2026-09-15
+* [Commit] [execution/commitment: decode the trie state without `encoding/binary` reflection (#24003)](https://github.com/erigontech/erigon/commit/6ad8419fc7a52126885859c48fb0dcd00e8d20e3) - 2026-09-15
+* [Commit] [rpc: derive a missing receipt bloom once  (#23989)](https://github.com/erigontech/erigon/commit/6a42ebd65163b7f109e2d0955f1d736714da2b06) - 2026-09-15
+* [Commit] [cl: stop two more tests racing the Windows clock (#24000)](https://github.com/erigontech/erigon/commit/3e8e854f0babc94119955ef31598527082bdd9bc) - 2026-09-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
@@ -1535,6 +1571,7 @@ Team: Erigon
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71) - 2026-08-24
 * [Review] [Review on: Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71#pullrequestreview-5174248641) - 2026-09-11
+* [Commit] [Bound how many chunks one HashtreeHash call takes (#71)](https://github.com/OffchainLabs/hashtree/commit/fc9afb29e405a3020ba860311aa5662e2a54e061) - 2026-09-15
 ## Q2 2026
 
 

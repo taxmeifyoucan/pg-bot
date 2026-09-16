@@ -64,6 +64,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: verify allocation failure coverage with standard checks](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5177429374) - 2026-09-11
 * [Review] [Review on: fix(bindings): return sync committee index maps](https://github.com/ChainSafe/lodestar-z/pull/691#pullrequestreview-5197564734) - 2026-09-14
 * [Review] [Review on: perf: bound progressive builder scratch](https://github.com/ChainSafe/lodestar-z/pull/687#pullrequestreview-5196908693) - 2026-09-14
+* [Review] [Review on: perf: stream compact proof generation](https://github.com/ChainSafe/lodestar-z/pull/683#pullrequestreview-5209500943) - 2026-09-15
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

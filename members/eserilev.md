@@ -158,6 +158,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Cache slashed justified balances](https://github.com/sigp/lighthouse/pull/9830#pullrequestreview-5204154175) - 2026-09-15
 * [Review] [Review on: fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9710#pullrequestreview-5203764331) - 2026-09-14
 * [Review] [Review on: Revert "Move `SlotAssignment` cache to `CanonicalHead` (#9661)"](https://github.com/sigp/lighthouse/pull/10047#pullrequestreview-5203403895) - 2026-09-14
+* [Review] [Review on: Wire the inclusion list store into BeaconChain](https://github.com/sigp/lighthouse/pull/9960#pullrequestreview-5214658848) - 2026-09-15
+* [Review] [Review on: Wire the inclusion_list gossip topic](https://github.com/sigp/lighthouse/pull/9846#pullrequestreview-5215204001) - 2026-09-15
+* [Review] [Review on:  Add support for engine_forkchoiceUpdatedV5](https://github.com/sigp/lighthouse/pull/9935#pullrequestreview-5214833184) - 2026-09-15
+* [Review] [Review on: Add inclusion_list_bits to ExecutionPayloadBid](https://github.com/sigp/lighthouse/pull/9729#pullrequestreview-5205693169) - 2026-09-15
+* [Review] [Review on: Add IL committee duties polling to the VC](https://github.com/sigp/lighthouse/pull/9799#pullrequestreview-5206284045) - 2026-09-15
+* [Review] [Review on: Add base support for Heze block production](https://github.com/sigp/lighthouse/pull/9714#pullrequestreview-5206114004) - 2026-09-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

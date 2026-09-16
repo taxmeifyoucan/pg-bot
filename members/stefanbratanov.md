@@ -88,6 +88,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Implement builder preferences Beacon API](https://github.com/Consensys-Incorporated/teku/pull/11264) - 2026-09-13
 * [Review] [Review on: Implement builder preferences Beacon API](https://github.com/Consensys-Incorporated/teku/pull/11264#pullrequestreview-5190577540) - 2026-09-13
 * [Pull Request] [Use the configured `min_bid` and `builder_boost_factor` per builder](https://github.com/Consensys-Incorporated/teku/pull/11269) - 2026-09-14
+* [Review] [Review on: Use the configured `min_bid` and `builder_boost_factor` per builder](https://github.com/Consensys-Incorporated/teku/pull/11269#pullrequestreview-5211574112) - 2026-09-15
+* [Issue] [Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/issues/11278) - 2026-09-15
+* [Commit] [Add `Eth-Builder-Url` header and pass it during block production (#11248)](https://github.com/Consensys-Incorporated/teku/commit/231788622d61963ecab1ca446d85e626b832e5bf) - 2026-09-15
+* [Commit] [Use the configured `min_bid` and `builder_boost_factor` per builder (#11269)](https://github.com/Consensys-Incorporated/teku/commit/9eacea8c9810199cf3cd56fb0dd52614ed76318c) - 2026-09-15
 ## Q2 2026
 
 

@@ -248,6 +248,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix(bindings): return sync committee index maps](https://github.com/ChainSafe/lodestar-z/pull/691) - 2026-09-11
 * [Commit] [feat: partial validator monitor (#475)](https://github.com/ChainSafe/lodestar-z/commit/2c595d330101b6b32ab811de179f315c85443003) - 2026-09-14
 * [Commit] [fix(bindings): return sync committee index maps (#691)](https://github.com/ChainSafe/lodestar-z/commit/2f1a177a10171c1a9f5cead09f7ebb2d3b9aa7db) - 2026-09-14
+* [Review] [Review on: perf: stream progressive tree serialization](https://github.com/ChainSafe/lodestar-z/pull/686#pullrequestreview-5206806669) - 2026-09-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

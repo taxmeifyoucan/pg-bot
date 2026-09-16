@@ -32,6 +32,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Execution (ACDE) #245, September 10, 2026](https://github.com/ethereum/pm/issues/2211) - 2026-09-01
 * [Issue] [All Core Devs - Consensus (ACDC) #187, September 17 2026](https://github.com/ethereum/pm/issues/2222) - 2026-09-14
 * [Issue] [All Core Devs - Execution (ACDE) #246, September 24, 2026](https://github.com/ethereum/pm/issues/2223) - 2026-09-14
+* [Commit] [Merge pull request #2205 from ethereum/glamsterdam-testnet-timings](https://github.com/ethereum/pm/commit/161e412af396ad4b3443d4150e45a900714fe0e6) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16
@@ -89,6 +90,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Update EIP-8081: DFI 8219](https://github.com/ethereum/EIPs/commit/7c073a9d83c6e39f4ee14a71acbb513e2b987c12) - 2026-09-14
 * [Commit] [Update EIP-8081: Add 8379](https://github.com/ethereum/EIPs/commit/9d98cc796ddb1f895ef638d4d64c5f52092f75f9) - 2026-09-14
 * [Commit] [Update EIP-8081: DFI decisions from ACDE245](https://github.com/ethereum/EIPs/commit/aad37d71f92291e4bec2966057a6b8e0287d9e2b) - 2026-09-14
+* [Review] [Review on: Update EIP-7773: Align listed EIP titles](https://github.com/ethereum/EIPs/pull/12342#pullrequestreview-5211720785) - 2026-09-15
 ## Q2 2026
 
 

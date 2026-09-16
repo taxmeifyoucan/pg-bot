@@ -97,6 +97,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [FlatDb: --FlatDb.Enabled=false on an existing flat DB silently discards state and full-resyncs (detection asymmetry vs patricia)](https://github.com/NethermindEth/nethermind/issues/13428) - 2026-09-13
 * [Pull Request] [fix(rpc): keep streamed JSON-RPC responses well-formed when the stream fails](https://github.com/NethermindEth/nethermind/pull/13439) - 2026-09-13
 * [Pull Request] [fix(ci): repair RPC benchmark checkout and ARM storage checks](https://github.com/NethermindEth/nethermind/pull/13475) - 2026-09-15
+* [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5210898849) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

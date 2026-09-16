@@ -555,6 +555,32 @@ Team: Erigon
 * [Review] [Review on: cl/beacon/synced_data: swap head state instead of copying it](https://github.com/erigontech/erigon/pull/23962#pullrequestreview-5195009367) - 2026-09-14
 * [Review] [Review on: rpc: stream batch answers instead of joining them into one buffer](https://github.com/erigontech/erigon/pull/23960#pullrequestreview-5193686064) - 2026-09-14
 * [Pull Request] [cl/phase1/forkchoice: build the next justified checkpoint state early](https://github.com/erigontech/erigon/pull/23981) - 2026-09-14
+* [Review] [Review on: cl/phase1/forkchoice: don't hold the fork-choice lock across blocking EL calls in OnBlock](https://github.com/erigontech/erigon/pull/23691#pullrequestreview-5210566416) - 2026-09-15
+* [Pull Request] [execution: fix lost tip and stale balance read in fee writes](https://github.com/erigontech/erigon/pull/24041) - 2026-09-16
+* [Review] [Review on: rpc/jsonrpc: build one `eth_getProof` witness for the account and its storage keys](https://github.com/erigontech/erigon/pull/24004#pullrequestreview-5205813169) - 2026-09-15
+* [Pull Request] [execution/execmodule: retain up to four validated candidate states](https://github.com/erigontech/erigon/pull/24026) - 2026-09-15
+* [Pull Request] [execmodule: validate fork-choice hashes before early acknowledgement](https://github.com/erigontech/erigon/pull/24020) - 2026-09-15
+* [Pull Request] [cl/phase1/forkchoice: deflake TestExecutionPayloadIndexWriteHasSingleNotificationOwner](https://github.com/erigontech/erigon/pull/24019) - 2026-09-15
+* [Review] [Review on: execution/state: avoid retries for zero-balance self-destructs](https://github.com/erigontech/erigon/pull/23984#pullrequestreview-5205185244) - 2026-09-15
+* [Review] [Review on: db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/23927#pullrequestreview-5205338546) - 2026-09-15
+* [Pull Request] [execution: recover senders while newPayload decodes the payload](https://github.com/erigontech/erigon/pull/24033) - 2026-09-15
+* [Review] [Review on: rpc/jsonrpc: bound the blocks cache by bytes, without a global lock](https://github.com/erigontech/erigon/pull/23997#pullrequestreview-5205175036) - 2026-09-15
+* [Pull Request] [execution, rpc: decode block access list addresses without interning](https://github.com/erigontech/erigon/pull/24024) - 2026-09-15
+* [Review] [Review on: docs, build, ci: fix amd64 x86-64-v2 docs gaps from #23877 review](https://github.com/erigontech/erigon/pull/24012#pullrequestreview-5207281006) - 2026-09-15
+* [Review] [Review on: rpc/gasprice: cache `eth_feeHistory` per block, serve any percentiles from one entry](https://github.com/erigontech/erigon/pull/24013#pullrequestreview-5207148537) - 2026-09-15
+* [Review] [Review on: execution/engineapi: switch `baseFeePerGas` and `blockValue` to `hexutil.U256`](https://github.com/erigontech/erigon/pull/24016#pullrequestreview-5207083960) - 2026-09-15
+* [Review] [Review on: execution: test crash recovery across unwind commits](https://github.com/erigontech/erigon/pull/23983#pullrequestreview-5205239943) - 2026-09-15
+* [Review] [Review on: db: auto-compact bloated mdbx dbs at startup](https://github.com/erigontech/erigon/pull/23956#pullrequestreview-5205167905) - 2026-09-15
+* [Pull Request] [build, cl/spectest: compile and test with GOEXPERIMENT=jsonv2](https://github.com/erigontech/erigon/pull/24017) - 2026-09-15
+* [Review] [Review on: execution/types: encode header quantities as `hexutil.U256`](https://github.com/erigontech/erigon/pull/24006#pullrequestreview-5205772839) - 2026-09-15
+* [Commit] [build, cl/spectest: compile and test with GOEXPERIMENT=jsonv2 (#24017)](https://github.com/erigontech/erigon/commit/2ffd6d88c49c82481b0dd915f93b56787443e2b9) - 2026-09-15
+* [Commit] [execution/commitment: encode the trie state without `encoding/binary` reflection (#24009)](https://github.com/erigontech/erigon/commit/7792e94e65543a4aed7cb06fbe89fbb67a487858) - 2026-09-15
+* [Commit] [execution/commitment: expand bytes to nibbles four bytes per step (#24010)](https://github.com/erigontech/erigon/commit/72e6c40ee333dd5f1021dbc5a40631d3981d2884) - 2026-09-15
+* [Commit] [execution/commitment: pack nibbles into bytes eight nibbles per step (#24011)](https://github.com/erigontech/erigon/commit/23c38717aa09fcdfc1b6129967d53c1a49898c9f) - 2026-09-15
+* [Commit] [cl/transition: restore parallel rewards and inactivity epoch loops (#23966)](https://github.com/erigontech/erigon/commit/a8faedd310ab2b8cd153068033fc4844413a06db) - 2026-09-15
+* [Commit] [db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek (#23841)](https://github.com/erigontech/erigon/commit/e86ab424350971cb69119c834871ad31048c62e7) - 2026-09-15
+* [Commit] [execution/commitment: drop unused APIs and honor deferred config (#23971)](https://github.com/erigontech/erigon/commit/acc3b92a8caa7957ececb86ed8551c155256c89c) - 2026-09-15
+* [Commit] [execution/stagedsync: validate roots before flushing isolated branches (#23970)](https://github.com/erigontech/erigon/commit/d145c6a69bce63579379dc5dd5015628712cce9e) - 2026-09-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

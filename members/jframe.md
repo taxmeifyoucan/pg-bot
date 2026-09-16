@@ -81,6 +81,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: snap/2 - integration tests for reorg](https://github.com/besu-eth/besu/pull/11261#pullrequestreview-5149946113) - 2026-09-09
 * [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-5163354768) - 2026-09-10
 * [Review] [Review on: remove totalDifficulty from all block results](https://github.com/besu-eth/besu/pull/11179#pullrequestreview-5193647790) - 2026-09-14
+* [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-5216224916) - 2026-09-15
+* [Review] [Review on: fix(ipc-test): keep NetClient reference ](https://github.com/besu-eth/besu/pull/11295#pullrequestreview-5205999791) - 2026-09-15
+* [Pull Request] [Snap2 forest support](https://github.com/besu-eth/besu/pull/11293) - 2026-09-15
 ## Q2 2026
 
 

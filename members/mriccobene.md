@@ -59,6 +59,7 @@ Team: Erigon
 * [Pull Request] [qa-tests: add exec from zero test](https://github.com/erigontech/erigon/pull/23687) - 2026-08-31
 * [Review] [Review on: qa-tests: add exec from zero test](https://github.com/erigontech/erigon/pull/23687#pullrequestreview-5067623168) - 2026-08-31
 * [Commit] [qa-tests: add exec from zero test (#23687)](https://github.com/erigontech/erigon/commit/20424659be77b51122a3c1543c34ba19d2e4c38d) - 2026-09-01
+* [Pull Request] [qa-tests: improve the report of the exec-from-zero test](https://github.com/erigontech/erigon/pull/24031) - 2026-09-15
 ## Q2 2026
 
 

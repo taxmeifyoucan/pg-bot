@@ -592,6 +592,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: reject gloas blocks with legacy deposits on deserialization (#10080)](https://github.com/ChainSafe/lodestar/commit/ff9749be2cfe0631be425aebcb63cc90c078cb5a) - 2026-09-14
 * [Commit] [fix: align gloas external signer requests with remote signing api (#10071)](https://github.com/ChainSafe/lodestar/commit/1dc17ce9521a981ad8d481d8b865baf0bbe8849d) - 2026-09-14
 * [Commit] [test: tighten snappy decoder assertions (#10068)](https://github.com/ChainSafe/lodestar/commit/9e31f255e395c5d8536c305b40fd4e0a72b6018c) - 2026-09-14
+* [Review] [Review on: test: fix finalized sync e2e cleanup](https://github.com/ChainSafe/lodestar/pull/10098#pullrequestreview-5215849180) - 2026-09-15
+* [Review] [Review on: fix: specify optimistic search in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10093#pullrequestreview-5215431589) - 2026-09-15
+* [Review] [Review on: test: cover finalized checkpoint store callback](https://github.com/ChainSafe/lodestar/pull/10097#pullrequestreview-5213930174) - 2026-09-15
+* [Review] [Review on: chore: sign release tags](https://github.com/ChainSafe/lodestar/pull/10096#pullrequestreview-5213912900) - 2026-09-15
+* [Review] [Review on: chore: merge v1.48.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/10095#pullrequestreview-5213413389) - 2026-09-15
+* [Commit] [chore: merge v1.48.0 back to unstable (#10095)](https://github.com/ChainSafe/lodestar/commit/9d1b583d24242bdf01d28ff0cfb029c58ab4c92f) - 2026-09-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -698,6 +704,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject withdrawal count mismatches](https://github.com/ChainSafe/lodestar-z/pull/619#pullrequestreview-5075712838) - 2026-09-01
 * [Review] [Review on: feat(napi): expose forkSeq on BeaconStateView binding](https://github.com/ChainSafe/lodestar-z/pull/635#pullrequestreview-5101605757) - 2026-09-03
 * [Review] [Review on: chore: release 1.1.0](https://github.com/ChainSafe/lodestar-z/pull/583#pullrequestreview-5180752856) - 2026-09-11
+* [Review] [Review on: docs: retire security implementation map](https://github.com/ChainSafe/lodestar-z/pull/696#pullrequestreview-5214130779) - 2026-09-15
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18

@@ -97,6 +97,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440#pullrequestreview-5081940635) - 2026-09-01
 * [Pull Request] [Reject bids with equal blockhash and parent blockhash](https://github.com/OffchainLabs/prysm/pull/17443) - 2026-09-02
 * [Pull Request] [Retry payload attestation data at the PTC deadline](https://github.com/OffchainLabs/prysm/pull/17468) - 2026-09-07
+* [Review] [Review on: Retry payload attestation data at the PTC deadline](https://github.com/OffchainLabs/prysm/pull/17468#pullrequestreview-5213781409) - 2026-09-15
+* [Review] [Review on: Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416#pullrequestreview-5209672933) - 2026-09-15
+* [Commit] [Retry payload attestation data at the PTC deadline (#17468)](https://github.com/OffchainLabs/prysm/commit/7730c643fea7437f2956fa93e5b99bceeee0d531) - 2026-09-15
+* [Commit] [Pack Electra attestations by marginal proposer reward (#17416)](https://github.com/OffchainLabs/prysm/commit/e231db78dc2462aad91cfba0b7574aeb99ffc1bc) - 2026-09-15
+* [Commit] [Pre-warm pending deposit signatures before the Gloas fork (#17440)](https://github.com/OffchainLabs/prysm/commit/b5f9009abe5025e1e072bf6126a4ea1aa09dc5ed) - 2026-09-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -113,6 +118,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4943718562) - 2026-08-15
 * [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4954028479) - 2026-08-17
 * [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5093046179) - 2026-09-02
+* [Pull Request] [Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644) - 2026-09-15
+* [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5211144275) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 
@@ -127,6 +134,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Update syso files](https://github.com/OffchainLabs/hashtree/pull/70#pullrequestreview-5170747187) - 2026-09-10
 * [Pull Request] [RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73) - 2026-09-14
 * [Review] [Review on: Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71#pullrequestreview-5201036863) - 2026-09-14
+* [Commit] [RISC-V: don't use s11 as Go bindings break (#73)](https://github.com/OffchainLabs/hashtree/commit/92357f9ecdf5efdd569d9830c6ab3b17851201de) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873#pullrequestreview-4811214262) - 2026-07-29
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5118433697) - 2026-09-04

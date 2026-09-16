@@ -500,6 +500,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Journal and count a staged code insert exactly once (#13432)](https://github.com/NethermindEth/nethermind/commit/83e35101db6ec579fd0c3e22b864695ff1122492) - 2026-09-14
 * [Commit] [perf: stop allocating a word per transient storage write (#13413)](https://github.com/NethermindEth/nethermind/commit/93100d7c6fd8bb312623252825247dd9fc0cd043) - 2026-09-14
 * [Commit] [test: add storage-, call- and create-shaped block scenarios to BlockProcessingBenchmark (#13421)](https://github.com/NethermindEth/nethermind/commit/854808894621cdae19b1fcb5bd0c25cb0fe34ac1) - 2026-09-14
+* [Review] [Review on: feat(network): reject oversized transactions before decoding](https://github.com/NethermindEth/nethermind/pull/13506#pullrequestreview-5211671242) - 2026-09-15
+* [Pull Request] [Skip re-hashing headers whose hash the caller already verified](https://github.com/NethermindEth/nethermind/pull/13501) - 2026-09-15
+* [Pull Request] [test: isolate discovery E2E from peer connections](https://github.com/NethermindEth/nethermind/pull/13514) - 2026-09-15
+* [Review] [Review on: fix(sync): stop a fast-sync body being lost to the block cache](https://github.com/NethermindEth/nethermind/pull/13474#pullrequestreview-5207055034) - 2026-09-15
+* [Pull Request] [test: deflake nonce manager account isolation](https://github.com/NethermindEth/nethermind/pull/13512) - 2026-09-15
+* [Review] [Review on: Report previous transient value in TSTORE traces](https://github.com/NethermindEth/nethermind/pull/13504#pullrequestreview-5210197473) - 2026-09-15
+* [Pull Request] [Hint the request-queue contracts to the prewarmer](https://github.com/NethermindEth/nethermind/pull/13502) - 2026-09-15
+* [Review] [Review on: docs: allow LINQ in tests and benchmark setup](https://github.com/NethermindEth/nethermind/pull/13503#pullrequestreview-5210157244) - 2026-09-15
+* [Commit] [Parallelize the receipts root at a receipt-specific item count (#13479)](https://github.com/NethermindEth/nethermind/commit/6d8ca1a32b8fd8ff3c68c0d88944b2c878fd07f3) - 2026-09-15
+* [Commit] [Cut per-block setup cost of the EIP-4788 system call (#13480)](https://github.com/NethermindEth/nethermind/commit/191df4b1ad3a16e3acda37618a78688636296a78) - 2026-09-15
+* [Commit] [test: measure the transient-write allocation over several windows (#13482)](https://github.com/NethermindEth/nethermind/commit/16acfcc22341ba53b79d429744338bde1facf6cf) - 2026-09-15
+* [Commit] [Right-size the processing-branch list rental (#13481)](https://github.com/NethermindEth/nethermind/commit/0ca59f5d26fe596c2816406a7359c54eaaa76e96) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

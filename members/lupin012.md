@@ -224,6 +224,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [tracing: remove leftover pre-hooks tracer methods](https://github.com/erigontech/erigon/pull/23994) - 2026-09-14
 * [Pull Request] [rpc/jsonrpc: gate the call and witness endpoints on the history they read](https://github.com/erigontech/erigon/pull/23996) - 2026-09-14
 * [Commit] [tracing: remove leftover pre-hooks tracer methods (#23994)](https://github.com/erigontech/erigon/commit/9e3a73c575965cf463cede1d64021f6d7968a792) - 2026-09-15
+* [Pull Request] [rpc/jsonrpc: keep the caller's blob fee cap in debug_traceCall](https://github.com/erigontech/erigon/pull/24038) - 2026-09-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

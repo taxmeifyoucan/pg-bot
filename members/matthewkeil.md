@@ -58,6 +58,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: merge v1.47.0 back to unstable (#9971)](https://github.com/ChainSafe/lodestar/commit/67344272c007f00ab8b69417aa7fb06209c02ab4) - 2026-09-02
 * [Commit] [chore: v1.47.0 release (#9934)](https://github.com/ChainSafe/lodestar/commit/450996b13ab305b860acd131c87f799fdbfbabf0) - 2026-09-02
 * [Review] [Review on: refactor: read parent slot from header for v1.7.0-beta.0](https://github.com/ChainSafe/lodestar/pull/9955#pullrequestreview-5117545391) - 2026-09-04
+* [Review] [Review on: chore: sign release tags](https://github.com/ChainSafe/lodestar/pull/10096#pullrequestreview-5214487536) - 2026-09-15
+* [Pull Request] [chore: merge v1.48.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/10095) - 2026-09-15
+* [Review] [Review on: chore: v1.48.0 release](https://github.com/ChainSafe/lodestar/pull/10067#pullrequestreview-5213342982) - 2026-09-15
+* [Commit] [chore: v1.48.0 release (#10067)](https://github.com/ChainSafe/lodestar/commit/c7dc2b0b3b715635fb9b616bf178137ad64f7bba) - 2026-09-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

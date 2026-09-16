@@ -38,6 +38,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Fix IndexError crash in unstable (syncv3) related.](https://github.com/status-im/nimbus-eth2/pull/9016) - 2026-09-08
 * [Pull Request] [Rm missing sidecars request slot filters.](https://github.com/status-im/nimbus-eth2/pull/9027) - 2026-09-10
 * [Pull Request] [VC: Fix `is_aggregator` field was not populated under certain conditions.](https://github.com/status-im/nimbus-eth2/pull/9039) - 2026-09-13
+* [Pull Request] [Sync: Fix syncing stuck when sidecars queue is ahead of blocks queue.](https://github.com/status-im/nimbus-eth2/pull/9057) - 2026-09-15
 ## Q2 2026
 
 

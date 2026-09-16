@@ -123,6 +123,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [11261 update gossip rules](https://github.com/Consensys-Incorporated/teku/pull/11270) - 2026-09-14
 * [Commit] [key proposer preferences by slot and dependent root (#11242)](https://github.com/Consensys-Incorporated/teku/commit/5ecd1290ebeaff9847ee9a64e91735d4ef43a720) - 2026-09-14
 * [Commit] [ignore bid from excited builders (#11239)](https://github.com/Consensys-Incorporated/teku/commit/05a0dee539403062bdd1e0fbf37a56a1ce0d955e) - 2026-09-14
+* [Commit] [11261 update gossip rules (#11270)](https://github.com/Consensys-Incorporated/teku/commit/b94bc783fb9ecb1e8245b61f36ed452d63e18185) - 2026-09-15
 ## Q2 2026
 
 

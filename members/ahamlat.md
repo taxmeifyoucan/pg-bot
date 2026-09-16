@@ -55,6 +55,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Make size primitive and initialized at build time (#11258)](https://github.com/besu-eth/besu/commit/b91e98678f4511fd226358a98d0f0d9ff464626a) - 2026-09-09
 * [Review] [Review on: Fix eth_estimateGas internal error related to value transfer tx](https://github.com/besu-eth/besu/pull/11272#pullrequestreview-5179648897) - 2026-09-11
 * [Review] [Review on: Rename regular gas to execution gas](https://github.com/besu-eth/besu/pull/11281#pullrequestreview-5197674881) - 2026-09-14
+* [Review] [Review on: Exit on OutOfMemoryError by default](https://github.com/besu-eth/besu/pull/11300#pullrequestreview-5211477852) - 2026-09-15
+* [Review] [Review on: Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962#pullrequestreview-5206299400) - 2026-09-15
 ## Q2 2026
 
 

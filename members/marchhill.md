@@ -422,6 +422,18 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [perf(hive): cut per-container startup cost](https://github.com/NethermindEth/nethermind/pull/13445) - 2026-09-14
 * [Review] [Review on: perf(hive): cut per-container startup cost](https://github.com/NethermindEth/nethermind/pull/13445#pullrequestreview-5197785028) - 2026-09-14
 * [Commit] [perf(hive): cut per-container startup cost (#13445)](https://github.com/NethermindEth/nethermind/commit/9cfa9cf5261b5e20c874a989651dac807e48f60a) - 2026-09-14
+* [Review] [Review on: Skip re-hashing headers whose hash the caller already verified](https://github.com/NethermindEth/nethermind/pull/13501#pullrequestreview-5214100888) - 2026-09-15
+* [Pull Request] [EIP-8141: record what the type-6 serve path's second read costs](https://github.com/NethermindEth/nethermind/pull/13513) - 2026-09-15
+* [Pull Request] [fix(ci): close two races in the stall watchdog test](https://github.com/NethermindEth/nethermind/pull/13511) - 2026-09-15
+* [Pull Request] [EIP-8141: give the revalidation deferral counters one meaning each](https://github.com/NethermindEth/nethermind/pull/13508) - 2026-09-15
+* [Review] [Review on: EIP-8141: give the revalidation deferral counters one meaning each](https://github.com/NethermindEth/nethermind/pull/13508#pullrequestreview-5212830017) - 2026-09-15
+* [Pull Request] [EIP-8141: carry a blob-carrying frame tx's sidecar through the eth/72 response path](https://github.com/NethermindEth/nethermind/pull/13510) - 2026-09-15
+* [Review] [Review on: EIP-8141: carry a blob-carrying frame tx's sidecar through the eth/72 response path](https://github.com/NethermindEth/nethermind/pull/13510#pullrequestreview-5213572337) - 2026-09-15
+* [Review] [Review on: EIP-8141: revalidate blob-carrying frame transactions against the head](https://github.com/NethermindEth/nethermind/pull/13473#pullrequestreview-5208725200) - 2026-09-15
+* [Review] [Review on: Use system calls for EIP-8037 beacon roots](https://github.com/NethermindEth/nethermind/pull/13483#pullrequestreview-5211964811) - 2026-09-15
+* [Pull Request] [fix(eip8141): discard a frame's transient storage after it runs, not before the next](https://github.com/NethermindEth/nethermind/pull/13500) - 2026-09-15
+* [Review] [Review on: fix(eip8141): discard a frame's transient storage after it runs, not before the next](https://github.com/NethermindEth/nethermind/pull/13500#pullrequestreview-5209655883) - 2026-09-15
+* [Pull Request] [Make the frame-transaction fixtures fail when the invariant does](https://github.com/NethermindEth/nethermind/pull/13505) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

@@ -41,6 +41,16 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): eip8282 checklist review](https://github.com/ethereum/execution-specs/pull/3565) - 2026-09-11
 * [Review] [Review on: feat(tests): probe EIP-161 emptiness after same-tx precompile touches](https://github.com/ethereum/execution-specs/pull/3477#pullrequestreview-5175722522) - 2026-09-11
 * [Issue] [feat(test-specs): filter system contracts by call phase in the framework, not in tests](https://github.com/ethereum/execution-specs/issues/3584) - 2026-09-14
+* [Pull Request] [chore(ci,test-consume,test-specs,tests): backport devnets/focil/0 fixes to eip-7805](https://github.com/ethereum/execution-specs/pull/3595) - 2026-09-15
+* [Pull Request] [chore(test-cli): check EIP reference versions up to Amsterdam](https://github.com/ethereum/execution-specs/pull/3592) - 2026-09-15
+* [Pull Request] [fix(ci,test): fix issues with PR CI runs in focil branch](https://github.com/ethereum/execution-specs/pull/3594) - 2026-09-15
+* [Review] [Review on: feat(tests): fold the ECRECOVER v and curve-order cases into test_precompiles](https://github.com/ethereum/execution-specs/pull/3589#pullrequestreview-5215214748) - 2026-09-15
+* [Review] [Review on: fix(tests,test-specs): fix invalid inclusion-list engine fixture generation](https://github.com/ethereum/execution-specs/pull/3471#pullrequestreview-5214917543) - 2026-09-15
+* [Review] [Review on: fix(consume): require null inclusionListSatisfied on non-VALID payloads](https://github.com/ethereum/execution-specs/pull/3470#pullrequestreview-5214806874) - 2026-09-15
+* [Review] [Review on: fix(evm-tools): catch InvalidBlock state root failures in build_result](https://github.com/ethereum/execution-specs/pull/3593#pullrequestreview-5213676259) - 2026-09-15
+* [Review] [Review on: chore(skill): apply follow-up review suggestions to write-test and lint](https://github.com/ethereum/execution-specs/pull/3591#pullrequestreview-5212571451) - 2026-09-15
+* [Commit] [chore(skill): refresh skills (#3562)](https://github.com/ethereum/execution-specs/commit/ea8cd979051738734e9780326bdd20ce5a624037) - 2026-09-15
+* [Commit] [feat(tests): eip8282 checklist review (#3565)](https://github.com/ethereum/execution-specs/commit/1cf1c08e4060d7af407bc65557e2372447e9c05f) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

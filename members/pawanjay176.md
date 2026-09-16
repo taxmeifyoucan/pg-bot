@@ -87,6 +87,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5149367708) - 2026-09-09
 * [Review] [Review on: `engine_getBlobsV4`](https://github.com/sigp/lighthouse/pull/9438#pullrequestreview-5158796551) - 2026-09-09
 * [Review] [Review on: Bump `rustls` to fix cargo audit failure](https://github.com/sigp/lighthouse/pull/10052#pullrequestreview-5202167367) - 2026-09-14
+* [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5216892020) - 2026-09-15
 ## Q2 2026
 
 

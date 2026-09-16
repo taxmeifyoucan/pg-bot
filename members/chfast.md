@@ -273,6 +273,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Fold the Montgomery carries into a single addition](https://github.com/ipsilon/evmone/pull/1708) - 2026-09-14
 * [Commit] [crypto: Fold the Montgomery carries into a single addition (#1708)](https://github.com/ipsilon/evmone/commit/f40021b483ae88f1094241c483c7ee2701988b5c) - 2026-09-14
 * [Commit] [crypto: Assert the Montgomery multiplication invariants (#1707)](https://github.com/ipsilon/evmone/commit/f3523c200a8dc1c8c1666937f3b5d866f2f8905f) - 2026-09-14
+* [Pull Request] [test: Move the state diff revert test to state_transition](https://github.com/ipsilon/evmone/pull/1717) - 2026-09-15
+* [Issue] [state: build_diff() reports deletions for accounts that never existed](https://github.com/ipsilon/evmone/issues/1718) - 2026-09-15
+* [Commit] [test: Move the state diff revert test to state_transition (#1717)](https://github.com/ipsilon/evmone/commit/e0ba5d04e09a96a23092d96111b4209c42fd87ab) - 2026-09-15
+* [Commit] [state: Restore account nonexistence when a cold access is reverted (#1709)](https://github.com/ipsilon/evmone/commit/8350f81bfda0472b23da91ffad474f20fb07f0c3) - 2026-09-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -349,6 +353,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [fix(tests): EIP-8037 - drop double-counted hash gas in code deposit guard (#3554)](https://github.com/ethereum/execution-specs/commit/7281bf17dd1efb9a41b3f9f49e11eb23a8188b0e) - 2026-09-14
 * [Commit] [feat(tests): in-range signature that recovers no public key (#3573)](https://github.com/ethereum/execution-specs/commit/e35787f5c67dd55c3a6874755b4b6a54bd6f255f) - 2026-09-14
 * [Commit] [refactor(tests): fold the simple ported ECRECOVER cases into test_precompiles (#3574)](https://github.com/ethereum/execution-specs/commit/21a0b37088131836c9060197d046792d35d95c79) - 2026-09-14
+* [Pull Request] [feat(tests): fold the ECRECOVER v and curve-order cases into test_precompiles](https://github.com/ethereum/execution-specs/pull/3589) - 2026-09-15
+* [Pull Request] [feat(tests): port the repeated ECRECOVER call fillers](https://github.com/ethereum/execution-specs/pull/3590) - 2026-09-15
+* [Commit] [feat(tests): fold the ECRECOVER v and curve-order cases into test_precompiles (#3589)](https://github.com/ethereum/execution-specs/commit/f7847b76bac6113cce6a94e8d62c734609b7ec32) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -376,6 +383,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/pull/12311) - 2026-09-10
 * [Commit] [Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/commit/d7087803ca236498c73f64665df0ddac7d621950) - 2026-09-14
 * [Commit] [Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/commit/9dcd72754f3fe4b48a4dbeffee669dc4c60f7ec5) - 2026-09-14
+* [Commit] [Update EIP-8246: Move to Last Call](https://github.com/ethereum/EIPs/commit/2db02af3e4e8c3553b6419a0b6159fcef599ce48) - 2026-09-15
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16
@@ -406,6 +414,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594#pullrequestreview-5091016403) - 2026-09-02
 * [Review] [Review on: eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594#pullrequestreview-5099586793) - 2026-09-03
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [engine_newPayload returns internal error (-32603) for an in-range but unrecoverable transaction signature](https://github.com/paradigmxyz/reth/issues/27241) - 2026-09-15
 ## Q2 2026
 
 

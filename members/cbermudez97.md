@@ -46,6 +46,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Commit] [ci: point the sync-validation Slack alert at the webhook secret that exists (#13314)](https://github.com/NethermindEth/nethermind/commit/870e5a9c44e16f77a5412211f81490676fc9c102) - 2026-09-12
 * [Pull Request] [ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468) - 2026-09-14
 * [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5202777849) - 2026-09-14
+* [Commit] [ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot (#13362)](https://github.com/NethermindEth/nethermind/commit/e8babde2c48c9ae72cc4281cbb6d00ebd59ad2f5) - 2026-09-15
+* [Commit] [ci(rpc-bench): survive a sparse-checkout left behind on the shared runner (#13468)](https://github.com/NethermindEth/nethermind/commit/3778c5918bb548207559bc9a3493333ba68a68ab) - 2026-09-15
 ## Q2 2026
 
 

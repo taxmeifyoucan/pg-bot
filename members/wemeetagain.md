@@ -193,6 +193,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject gloas blocks with legacy deposits on deserialization](https://github.com/ChainSafe/lodestar/pull/10080#pullrequestreview-5200752269) - 2026-09-14
 * [Review] [Review on: fix(network): actually dial QUIC before TCP when a peer advertises both](https://github.com/ChainSafe/lodestar/pull/10077#pullrequestreview-5200163729) - 2026-09-14
 * [Review] [Review on: test: stop gating CI on high-variance data-availability benchmarks](https://github.com/ChainSafe/lodestar/pull/10074#pullrequestreview-5199310244) - 2026-09-14
+* [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5215607520) - 2026-09-15
+* [Review] [Review on: chore: sign release tags](https://github.com/ChainSafe/lodestar/pull/10096#pullrequestreview-5214359720) - 2026-09-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -393,6 +395,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: extract bit array module](https://github.com/ChainSafe/lodestar-z/pull/693) - 2026-09-14
 * [Review] [Review on: perf: bound bitlist hashing workspace](https://github.com/ChainSafe/lodestar-z/pull/678#pullrequestreview-5199643460) - 2026-09-14
 * [Commit] [perf: bound progressive builder scratch (#687)](https://github.com/ChainSafe/lodestar-z/commit/52a97361212e64f1a0ebb58fc645ed74b50ada07) - 2026-09-14
+* [Review] [Review on: refactor: extract bit array module](https://github.com/ChainSafe/lodestar-z/pull/693#pullrequestreview-5214892843) - 2026-09-15
+* [Review] [Review on: feat: add typed stf diagnostics](https://github.com/ChainSafe/lodestar-z/pull/694#pullrequestreview-5214835710) - 2026-09-15
+* [Review] [Review on: fix(types): correct Electra blinded attester slashing limit](https://github.com/ChainSafe/lodestar-z/pull/698#pullrequestreview-5214798377) - 2026-09-15
+* [Review] [Review on: fix(stf): clean up failed Altair participation translation](https://github.com/ChainSafe/lodestar-z/pull/695#pullrequestreview-5214790667) - 2026-09-15
+* [Pull Request] [docs: retire security implementation map](https://github.com/ChainSafe/lodestar-z/pull/696) - 2026-09-15
+* [Review] [Review on: docs: retire security implementation map](https://github.com/ChainSafe/lodestar-z/pull/696#pullrequestreview-5211327554) - 2026-09-15
+* [Commit] [docs: retire security implementation map (#696)](https://github.com/ChainSafe/lodestar-z/commit/f3e8ad13264af6dfc047fe4a46d1cbfcf12eac8f) - 2026-09-15
+* [Commit] [perf: stream bitlist tree reads (#679)](https://github.com/ChainSafe/lodestar-z/commit/02d61c2b9c9ca7361ea852b8f5458854f8522197) - 2026-09-15
+* [Commit] [perf: stream compact proof generation (#683)](https://github.com/ChainSafe/lodestar-z/commit/57022b4bdd6a2c054d3eed2343b16e1e05596272) - 2026-09-15
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

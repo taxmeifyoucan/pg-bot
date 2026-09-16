@@ -137,6 +137,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.6] cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23923#pullrequestreview-5185737628) - 2026-09-12
 * [Commit] [cl: support Gloas-at-genesis state shape (#23889)](https://github.com/erigontech/erigon/commit/e4440001c2dba05c0b42eaa4e1d3fb67458178b8) - 2026-09-14
 * [Review] [Review on: [r3.6] cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23923#pullrequestreview-5199561026) - 2026-09-14
+* [Review] [Review on: cl/phase1/forkchoice: don't hold the fork-choice lock across blocking EL calls in OnBlock](https://github.com/erigontech/erigon/pull/23691#pullrequestreview-5210578259) - 2026-09-15
+* [Review] [Review on: cl/phase1/forkchoice: build the next justified checkpoint state early](https://github.com/erigontech/erigon/pull/23981#pullrequestreview-5205522777) - 2026-09-15
+* [Pull Request] [cl: harden execution payload envelope admission](https://github.com/erigontech/erigon/pull/24039) - 2026-09-15
+* [Review] [Review on: db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/23927#pullrequestreview-5213910551) - 2026-09-15
 ## Q2 2026
 
 

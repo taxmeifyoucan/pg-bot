@@ -327,6 +327,32 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(multi-stark): add the logUp* indexed-lookup reduction](https://github.com/Plonky3/Plonky3/pull/2133) - 2026-09-14
 * [Pull Request] [fix(multi-stark): draw fractional-GKR round polynomials at the field's own nodes](https://github.com/Plonky3/Plonky3/pull/2132) - 2026-09-14
 * [Commit] [feat(air,multi-stark)!: public inputs bound by trace position (#1947)](https://github.com/Plonky3/Plonky3/commit/1d66a6f89a02467a3bd9e9605b343967d0acff3b) - 2026-09-14
+* [Pull Request] [feat(multi-stark): run the indexed reduction inside the proof](https://github.com/Plonky3/Plonky3/pull/2150) - 2026-09-15
+* [Pull Request] [feat(security,multi-stark): charge and make room for the indexed reduction](https://github.com/Plonky3/Plonky3/pull/2149) - 2026-09-15
+* [Pull Request] [feat(lookup,multi-stark): declare and plan indexed lookups](https://github.com/Plonky3/Plonky3/pull/2146) - 2026-09-15
+* [Pull Request] [fix(multi-stark): build opening points and batches from one description](https://github.com/Plonky3/Plonky3/pull/2144) - 2026-09-15
+* [Pull Request] [feat(multi-stark)!: add the logUp* indexed-lookup reduction](https://github.com/Plonky3/Plonky3/pull/2145) - 2026-09-15
+* [Pull Request] [feat(sumcheck): close the binary zerocheck against a real commitment](https://github.com/Plonky3/Plonky3/pull/2141) - 2026-09-15
+* [Review] [Review on: feat(sumcheck): close the binary zerocheck against a real commitment](https://github.com/Plonky3/Plonky3/pull/2141#pullrequestreview-5210119606) - 2026-09-15
+* [Pull Request] [feat(sumcheck): own the binary zerocheck from witness to opening point](https://github.com/Plonky3/Plonky3/pull/2139) - 2026-09-15
+* [Pull Request] [feat(sumcheck): generalise the skip constraint and stream the prover path](https://github.com/Plonky3/Plonky3/pull/2137) - 2026-09-15
+* [Review] [Review on: feat(sumcheck): generalise the skip constraint and stream the prover path](https://github.com/Plonky3/Plonky3/pull/2137#pullrequestreview-5209872856) - 2026-09-15
+* [Pull Request] [feat(security): charge a univariate-skip round in the multilinear budget](https://github.com/Plonky3/Plonky3/pull/2136) - 2026-09-15
+* [Review] [Review on: feat(security): charge a univariate-skip round in the multilinear budget](https://github.com/Plonky3/Plonky3/pull/2136#pullrequestreview-5209862416) - 2026-09-15
+* [Pull Request] [feat(sumcheck): reduce a skip round's opening to an evaluation point](https://github.com/Plonky3/Plonky3/pull/2135) - 2026-09-15
+* [Review] [Review on: feat(sumcheck): reduce a skip round's opening to an evaluation point](https://github.com/Plonky3/Plonky3/pull/2135#pullrequestreview-5209851095) - 2026-09-15
+* [Review] [Review on: feat(multi-stark)!: add the logUp* indexed-lookup reduction](https://github.com/Plonky3/Plonky3/pull/2133#pullrequestreview-5208314706) - 2026-09-15
+* [Pull Request] [test(transcript): tie each unpriced grinding site to the config it is credited from](https://github.com/Plonky3/Plonky3/pull/2143) - 2026-09-15
+* [Pull Request] [feat(sumcheck): build the ring-switch algebra at a bit alphabet](https://github.com/Plonky3/Plonky3/pull/2142) - 2026-09-15
+* [Pull Request] [feat(binary-pcs)!: drive the binary-tower PCS through the typed transcript](https://github.com/Plonky3/Plonky3/pull/2140) - 2026-09-15
+* [Review] [Review on: feat(binary-pcs)!: drive the binary-tower PCS through the typed transcript](https://github.com/Plonky3/Plonky3/pull/2140#pullrequestreview-5209625347) - 2026-09-15
+* [Review] [Review on: fix(multi-stark): draw fractional-GKR round polynomials at the field's own nodes](https://github.com/Plonky3/Plonky3/pull/2132#pullrequestreview-5208000278) - 2026-09-15
+* [Review] [Review on: feat(sumcheck): add a univariate-skip round for binary zerochecks](https://github.com/Plonky3/Plonky3/pull/2134#pullrequestreview-5208025635) - 2026-09-15
+* [Review] [Review on: feat(pcs)!: bind commitments and hiding claims through the typed layer](https://github.com/Plonky3/Plonky3/pull/2129#pullrequestreview-5207989097) - 2026-09-15
+* [Commit] [feat(binary-pcs)!: drive the binary-tower PCS through the typed transcript (#2140)](https://github.com/Plonky3/Plonky3/commit/463b44c3b52e6cecb4b27e06abb37dd3b6c35c83) - 2026-09-15
+* [Commit] [fix(multi-stark): draw fractional-GKR round polynomials at the field's own nodes (#2132)](https://github.com/Plonky3/Plonky3/commit/bdde4edb63e825fd2019f1ee456f78e5afda5d93) - 2026-09-15
+* [Commit] [feat(sumcheck): add a univariate-skip round for binary zerochecks (#2134)](https://github.com/Plonky3/Plonky3/commit/379e65288054e84113de552498f0f15df3879f7c) - 2026-09-15
+* [Commit] [feat(pcs)!: bind commitments and hiding claims through the typed layer (#2129)](https://github.com/Plonky3/Plonky3/commit/2998a2fa31f1dfc5e92238f30393e38c0aad8ac4) - 2026-09-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

@@ -222,6 +222,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Pass PendingTransaction to txpool added/dropped listeners](https://github.com/besu-eth/besu/pull/11279) - 2026-09-11
 * [Review] [Review on: feat(rpc): implement native flatCallTracer matching geth output](https://github.com/besu-eth/besu/pull/11273#pullrequestreview-5197739611) - 2026-09-14
 * [Review] [Review on: fix engine new payload response](https://github.com/besu-eth/besu/pull/11290#pullrequestreview-5197193156) - 2026-09-14
+* [Commit] [Fix eth_estimateGas internal error related to value transfer tx (#11272)](https://github.com/besu-eth/besu/commit/24e41153c13fad5fd480108cc863a49cf8285982) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

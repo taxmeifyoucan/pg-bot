@@ -226,6 +226,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5180458072) - 2026-09-11
 * [Pull Request] [Gloas late head payloads](https://github.com/OffchainLabs/prysm/pull/17497) - 2026-09-15
 * [Review] [Review on: Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491#pullrequestreview-5201238142) - 2026-09-14
+* [Pull Request] [Serve available historical Gloas payload envelopes by root](https://github.com/OffchainLabs/prysm/pull/17499) - 2026-09-15
+* [Review] [Review on: Retry payload attestation data at the PTC deadline](https://github.com/OffchainLabs/prysm/pull/17468#pullrequestreview-5211646809) - 2026-09-15
 ## Q2 2026
 
 

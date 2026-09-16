@@ -24,6 +24,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-1153: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12100) - 2026-08-05
 * [Pull Request] [Update EIP-8250: Preserve nested fees in transaction payload](https://github.com/ethereum/EIPs/pull/12316) - 2026-09-11
 * [Commit] [Update EIP-8250: Preserve nested fees in transaction payload](https://github.com/ethereum/EIPs/commit/f3079a09e8c606afcb0e5e1a309ff228b88dc067) - 2026-09-11
+* [Pull Request] [Update EIP-7773: Align listed EIP titles](https://github.com/ethereum/EIPs/pull/12342) - 2026-09-15
+* [Commit] [Update EIP-7773: Align listed EIP titles](https://github.com/ethereum/EIPs/commit/37294ec724511f5cc9d607f703dc189662fc47c0) - 2026-09-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): verify EIP-7997 factory nonce persists across fork-transition](https://github.com/ethereum/execution-specs/pull/3077#pullrequestreview-4607737216) - 2026-07-01
 * [Review] [Review on: feat(clients): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063#pullrequestreview-4607436288) - 2026-07-01
@@ -178,6 +180,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(ci): validate filled blockchain fixtures with EELS (#3552)](https://github.com/ethereum/execution-specs/commit/ffc7e0415d17de801c437504c707bce14628927b) - 2026-09-10
 * [Commit] [fix(test-consume): group test cases by fixture file and bound the per-worker fixture cache (#3555)](https://github.com/ethereum/execution-specs/commit/c998b45fe8645700f27cbd35a2b7a3a052884a5f) - 2026-09-10
 * [Pull Request] [feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators](https://github.com/ethereum/execution-specs/pull/3572) - 2026-09-11
+* [Review] [Review on: chore(test-cli): check EIP reference versions up to Amsterdam](https://github.com/ethereum/execution-specs/pull/3592#pullrequestreview-5215050200) - 2026-09-15
+* [Pull Request] [chore(skill): apply follow-up review suggestions to write-test and lint](https://github.com/ethereum/execution-specs/pull/3591) - 2026-09-15
+* [Review] [Review on: chore(skill): refresh skills](https://github.com/ethereum/execution-specs/pull/3562#pullrequestreview-5209556586) - 2026-09-15
+* [Review] [Review on: feat(spec-tests, spec-tools): run fork-transition fixtures through EELS](https://github.com/ethereum/execution-specs/pull/3564#pullrequestreview-5209292648) - 2026-09-15
+* [Pull Request] [fix(test-client-clis): fix lazy allocation cleanup unit test flake on PyPy](https://github.com/ethereum/execution-specs/pull/3587) - 2026-09-15
+* [Pull Request] [fix(test-cli): render coverage on repeated checklist rows](https://github.com/ethereum/execution-specs/pull/3586) - 2026-09-15
+* [Review] [Review on: refactor(spec-specs): clarify the EIP-7981 data surcharge](https://github.com/ethereum/execution-specs/pull/3536#pullrequestreview-5208255358) - 2026-09-15
+* [Commit] [chore(skill): apply follow-up review suggestions to write-test and lint (#3591)](https://github.com/ethereum/execution-specs/commit/6ba36d4907a746a5f08dc3a4577cb32221944fb1) - 2026-09-15
+* [Commit] [bug(test-client-clis): fix lazy allocation cleanup flake on PyPy (#3587)](https://github.com/ethereum/execution-specs/commit/52161d992821f3e65adbd2fc966e458eda32b395) - 2026-09-15
+* [Commit] [fix(test-cli): render coverage on repeated checklist rows (#3586)](https://github.com/ethereum/execution-specs/commit/9eb528c097047b139e7a5166c9da7d8932c23fe6) - 2026-09-15
+* [Commit] [refactor(spec-specs): clarify the EIP-7981 data surcharge (#3536)](https://github.com/ethereum/execution-specs/commit/75edf063c27db22603746f263cc557d9d0b1b00d) - 2026-09-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -216,6 +229,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #95, September 7th, 2026](https://github.com/ethereum/pm/issues/2209) - 2026-08-31
+* [Issue] [All Core Devs - Testing (ACDT) #97, Sept 21, 2026](https://github.com/ethereum/pm/issues/2225) - 2026-09-15
 ## Q2 2026
 
 

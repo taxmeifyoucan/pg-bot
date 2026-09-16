@@ -68,6 +68,7 @@ Team: Reth
 * [Review] [Review on: refactor(rpc): use Alloy BlockId display](https://github.com/paradigmxyz/reth/pull/27120#pullrequestreview-5154519223) - 2026-09-09
 * [Review] [Review on: chore: prune unused zepter features](https://github.com/paradigmxyz/reth/pull/27118#pullrequestreview-5154263577) - 2026-09-09
 * [Review] [Review on: chore: remove mdbook leftovers](https://github.com/paradigmxyz/reth/pull/27117#pullrequestreview-5154257646) - 2026-09-09
+* [Pull Request] [perf(bal): share received code hashes across conversion and trie streaming](https://github.com/paradigmxyz/reth/pull/27260) - 2026-09-15
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13
@@ -81,6 +82,7 @@ Team: Reth
 * [Commit] [fix: preserve changelog history during releases (#412)](https://github.com/paradigmxyz/revmc/commit/72fa5bd5981bcb5829364cdcb2d122c819f772ce) - 2026-09-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
+* [Pull Request] [perf(bal): reuse cached alloy code hashes](https://github.com/bluealloy/revm/pull/3913) - 2026-09-15
 ## Q2 2026
 
 

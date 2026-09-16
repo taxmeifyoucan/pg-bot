@@ -202,6 +202,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(rpc-bench): replay the private eth_call corpus as debug_traceCall or trace_call](https://github.com/NethermindEth/nethermind/pull/13457#pullrequestreview-5200505593) - 2026-09-14
 * [Review] [Review on: perf: add opt-in Linux processing priority boost](https://github.com/NethermindEth/nethermind/pull/13412#pullrequestreview-5199785937) - 2026-09-14
 * [Commit] [Fix simulation cache reset after the real chain advances (#13444)](https://github.com/NethermindEth/nethermind/commit/47d0f01eb20540dcd013a8eebe226fdd887be7c5) - 2026-09-14
+* [Pull Request] [fix(monitoring): let fork-choice subscribers skip a failed preparation](https://github.com/NethermindEth/nethermind/pull/13518) - 2026-09-15
+* [Review] [Review on: fix(monitoring): let fork-choice subscribers skip a failed preparation](https://github.com/NethermindEth/nethermind/pull/13518#pullrequestreview-5216548003) - 2026-09-15
+* [Pull Request] [perf: cut the large-object churn that stalls newPayload behind background GCs](https://github.com/NethermindEth/nethermind/pull/13334) - 2026-09-15
+* [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5210749419) - 2026-09-15
+* [Review] [Review on: docs: allow LINQ in tests and benchmark setup](https://github.com/NethermindEth/nethermind/pull/13503#pullrequestreview-5210471599) - 2026-09-15
+* [Commit] [perf: cut the large-object churn that stalls newPayload behind background GCs (#13334)](https://github.com/NethermindEth/nethermind/commit/5e23e5525314b35485c3c57383ef933326093c32) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

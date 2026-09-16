@@ -72,6 +72,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Gate churn-limit helpers by fork](https://github.com/sigp/lighthouse/pull/9880#pullrequestreview-5193231344) - 2026-09-14
 * [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5193133408) - 2026-09-14
 * [Pull Request] [Add license/cla check in mergify](https://github.com/sigp/lighthouse/pull/10049) - 2026-09-14
+* [Review] [Review on: De-bounce full reprocess queue error log](https://github.com/sigp/lighthouse/pull/10043#pullrequestreview-5206503178) - 2026-09-15
 ## Q2 2026
 
 

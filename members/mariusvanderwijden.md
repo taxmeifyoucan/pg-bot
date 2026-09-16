@@ -93,6 +93,14 @@ Team: Geth
 * [Review] [Review on: core, eth: add metrics for chain segment downloading](https://github.com/ethereum/go-ethereum/pull/35678#pullrequestreview-5152826149) - 2026-09-09
 * [Review] [Review on: internal/ethapi: avoid duplicate transfer logs in eth_simulateV1 post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/35617#pullrequestreview-5152386767) - 2026-09-09
 * [Review] [Review on: eth: add progress metrics](https://github.com/ethereum/go-ethereum/pull/35689#pullrequestreview-5165320983) - 2026-09-10
+* [Review] [Review on: metrics: initialize runtime histogram max on first bucket](https://github.com/ethereum/go-ethereum/pull/35642#pullrequestreview-5207197700) - 2026-09-15
+* [Review] [Review on: internal/ethapi: treat post-merge difficulty override as no-op](https://github.com/ethereum/go-ethereum/pull/35672#pullrequestreview-5207040416) - 2026-09-15
+* [Review] [Review on: internal/ethapi: use Amsterdam per-authorization gas in eth_createAccessList guard](https://github.com/ethereum/go-ethereum/pull/35698#pullrequestreview-5206883990) - 2026-09-15
+* [Review] [Review on: internal/ethapi: reject blob and setcode call args without "to"](https://github.com/ethereum/go-ethereum/pull/35695#pullrequestreview-5206901406) - 2026-09-15
+* [Review] [Review on: crypto/bn256/cloudflare: sync upstream and fix G2.Neg not setting e.z to a.z](https://github.com/ethereum/go-ethereum/pull/35686#pullrequestreview-5206960031) - 2026-09-15
+* [Review] [Review on: core/txpool/blobpool: count cells-first only when tx is absent](https://github.com/ethereum/go-ethereum/pull/35699#pullrequestreview-5206860247) - 2026-09-15
+* [Review] [Review on: core/filtermaps: reject inverted head snapshot range](https://github.com/ethereum/go-ethereum/pull/35702#pullrequestreview-5206800306) - 2026-09-15
+* [Review] [Review on: docs: fix README evm --code example and abigen Solidity claim](https://github.com/ethereum/go-ethereum/pull/35711#pullrequestreview-5206688129) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

@@ -93,6 +93,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Add the dependent root check to proposer preferences gossip](https://github.com/OffchainLabs/prysm/pull/17485#pullrequestreview-5201520652) - 2026-09-14
 * [Review] [Review on: Derive SaveOrigin checkpoint epoch from the origin state slot](https://github.com/OffchainLabs/prysm/pull/17492#pullrequestreview-5201209627) - 2026-09-14
 * [Review] [Review on: Fix backfill nil panic in columnsNeeded when a batch needs no columns](https://github.com/OffchainLabs/prysm/pull/17496#pullrequestreview-5200848808) - 2026-09-14
+
+* [Review] [Review on: progressive merkle proof generation ](https://github.com/OffchainLabs/prysm/pull/17444#pullrequestreview-5212971530) - 2026-09-15
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 ## Q2 2026
 
 

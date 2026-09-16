@@ -182,6 +182,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.6] db/recsplit: make ResetNextSalt actually reset](https://github.com/erigontech/erigon/pull/23858#pullrequestreview-5141266725) - 2026-09-08
 * [Review] [Review on: db/seg: stop ReadFrom decoding into the file mapping](https://github.com/erigontech/erigon/pull/23810#pullrequestreview-5141368851) - 2026-09-08
 * [Pull Request] [bsc: Parlia execution — system transactions + fee model (behind ERIGON_BSC_EXECUTE)](https://github.com/erigontech/erigon/pull/23929) - 2026-09-11
+* [Pull Request] [bsc: defer Parlia tip to SystemAddress in parallel exec](https://github.com/erigontech/erigon/pull/24025) - 2026-09-15
+* [Pull Request] [bsc: apply Parlia system-contract upgrades at fork boundaries](https://github.com/erigontech/erigon/pull/24029) - 2026-09-15
+* [Pull Request] [bsc: cross-chain light-client precompiles (0x64/0x65)](https://github.com/erigontech/erigon/pull/24015) - 2026-09-15
 ## Q2 2026
 
 

@@ -411,6 +411,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Make EXPB regression campaigns faster and preserve complete run evidence](https://github.com/NethermindEth/nethermind/pull/13434#pullrequestreview-5198405389) - 2026-09-14
 * [Review] [Review on: Roll back the code-write counters with the reverted code](https://github.com/NethermindEth/nethermind/pull/13433#pullrequestreview-5198229705) - 2026-09-14
 * [Commit] [Reduce Keccak tail work and guest mixer instructions (#13438)](https://github.com/NethermindEth/nethermind/commit/b32ef76216077f82ea3e3d3aecd84b5819df48c3) - 2026-09-14
+* [Pull Request] [Reduce newPayload latency from GC coordination](https://github.com/NethermindEth/nethermind/pull/13476) - 2026-09-15
+* [Review] [Review on: Reduce newPayload latency from GC coordination](https://github.com/NethermindEth/nethermind/pull/13476#pullrequestreview-5205140597) - 2026-09-15
+* [Review] [Review on: fix(nethtest): report a state-test fixture that fails to load](https://github.com/NethermindEth/nethermind/pull/13275#pullrequestreview-5209783707) - 2026-09-15
+* [Pull Request] [docs: allow LINQ in tests and benchmark setup](https://github.com/NethermindEth/nethermind/pull/13503) - 2026-09-15
+* [Commit] [Reduce newPayload latency from GC coordination (#13476)](https://github.com/NethermindEth/nethermind/commit/14bbe99f59c78ed97e141d208cdd54b958594c98) - 2026-09-15
+* [Commit] [docs: allow LINQ in tests and benchmark setup (#13503)](https://github.com/NethermindEth/nethermind/commit/f3f7e3587fbd42a45b6b5b53543513dd33c66e95) - 2026-09-15
+* [Commit] [ci(expb): report newPayload request time and block processing side by side (#13477)](https://github.com/NethermindEth/nethermind/commit/d412d67d7361191a72de9d5f071bce31cbd0cd48) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
@@ -424,6 +431,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: return INVALID for undecodable blockAccessList](https://github.com/ethereum/execution-apis/pull/869#pullrequestreview-5043226331) - 2026-08-27
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [bug(test-benchmark): give every stateful benchmark the same startup blocks](https://github.com/ethereum/execution-specs/pull/3596) - 2026-09-16
 ## Q2 2026
 
 

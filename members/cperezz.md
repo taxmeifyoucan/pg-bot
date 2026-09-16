@@ -59,11 +59,25 @@ Github: [@cperezz](https://github.com/cperezz)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 
+* [Issue] [engine_forkchoiceUpdated applies the reorg before returning -38002 (forkchoice state not updated atomically)](https://github.com/ethereum/go-ethereum/issues/35713) - 2026-09-15
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order](https://github.com/erigontech/erigon/pull/23473#pullrequestreview-4994264550) - 2026-08-21
 
+* [Issue] [forkchoiceUpdated that does not move the head discards safeBlockHash and finalizedBlockHash](https://github.com/erigontech/erigon/issues/24028) - 2026-09-15
+* [Issue] [engine_newPayload returns -32000 instead of a payload status for a side chain rooted at genesis](https://github.com/erigontech/erigon/issues/24027) - 2026-09-15
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/ethereum/eels: add consume-reorg simulator (blockchain_test_engine_reorg fixtures)](https://github.com/ethereum/hive/pull/1608) - 2026-09-10
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Issue] [ForkchoiceStateV1: is a zero safeBlockHash legal after finality, and does a zero value overwrite the stored marker?](https://github.com/ethereum/execution-apis/issues/892) - 2026-09-15
+* [Issue] [engine_forkchoiceUpdated: evaluation order of the no-reorg shortcut vs -38002 / -38006 is unspecified](https://github.com/ethereum/execution-apis/issues/891) - 2026-09-15
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [latestValidHash becomes 0x00..0 when the same invalid block is mentioned again](https://github.com/besu-eth/besu/issues/11299) - 2026-09-15
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [forkchoiceUpdated: the no-reorg shortcut is applied even when no finalized block is known](https://github.com/paradigmxyz/reth/issues/27244) - 2026-09-15
+* [Issue] [engine_forkchoiceUpdated commits the chain update before returning -38002 (forkchoice state not updated atomically)](https://github.com/paradigmxyz/reth/issues/27242) - 2026-09-15
 ## Q2 2026
 
 

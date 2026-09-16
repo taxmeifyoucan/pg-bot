@@ -117,6 +117,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Fix/chain pruning fresh sync](https://github.com/besu-eth/besu/pull/11250#pullrequestreview-5196637116) - 2026-09-14
 * [Review] [Review on: Reject a transaction that cannot fit the block before the access list check](https://github.com/besu-eth/besu/pull/11195#pullrequestreview-5195695610) - 2026-09-14
 * [Commit] [fix engine new payload response (#11290)](https://github.com/besu-eth/besu/commit/827c61bc16cd390526d8aa0caa1b63542680c973) - 2026-09-14
+* [Pull Request] [fix: store latestValidHash when first rejecting an invalid payload](https://github.com/besu-eth/besu/pull/11304) - 2026-09-15
+* [Review] [Review on: move pathbased common types into bonsai packages](https://github.com/besu-eth/besu/pull/11292#pullrequestreview-5208490992) - 2026-09-15
+* [Commit] [Fix/chain pruning fresh sync (#11250)](https://github.com/besu-eth/besu/commit/18c4d62e446cea67050756b001d92fdbc97d01cc) - 2026-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

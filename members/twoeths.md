@@ -252,6 +252,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: verify the proposer signature before retaining unknown parent gossip blocks](https://github.com/ChainSafe/lodestar/pull/10087#pullrequestreview-5204924823) - 2026-09-15
 * [Pull Request] [fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076) - 2026-09-14
 * [Review] [Review on: fix: align gloas external signer requests with remote signing api](https://github.com/ChainSafe/lodestar/pull/10071#pullrequestreview-5194856745) - 2026-09-14
+* [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5217818052) - 2026-09-16
+* [Pull Request] [fix: specify optimistic search in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10093) - 2026-09-15
+* [Issue] [Fix removeAndDownScoreAllDescendants](https://github.com/ChainSafe/lodestar/issues/10091) - 2026-09-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -110,6 +110,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Enable NullAway for ethereum/mock-p2p](https://github.com/besu-eth/besu/pull/11284#pullrequestreview-5195351176) - 2026-09-14
 * [Commit] [Reject a transaction that cannot fit the block before the access list check (#11195)](https://github.com/besu-eth/besu/commit/8ed1c2529a90ed9cf681b19c66a3ba2fcb2efaf9) - 2026-09-14
 * [Commit] [Remove EIP-7610, update reference tests to tests@v20.0.2 and fix reference test harness (#11191)](https://github.com/besu-eth/besu/commit/1f3b5a178df3ac929d3f52cb1e389d3178bb532c) - 2026-09-14
+* [Review] [Review on: feat(rpc): native prestateTracer implementation via OperationTracer hooks](https://github.com/besu-eth/besu/pull/11289#pullrequestreview-5208250069) - 2026-09-15
+* [Pull Request] [Exit on OutOfMemoryError by default](https://github.com/besu-eth/besu/pull/11300) - 2026-09-15
+* [Pull Request] [Stop backward sync when a block cannot be saved](https://github.com/besu-eth/besu/pull/11303) - 2026-09-15
+* [Pull Request] [Keep block import state in step with the database after errors](https://github.com/besu-eth/besu/pull/11301) - 2026-09-15
+* [Pull Request] [Store the newPayload trie log in the same transaction as the block](https://github.com/besu-eth/besu/pull/11302) - 2026-09-15
+* [Review] [Review on: Backport CALLCODE state gas refund fix to glamsterdam-devnet-8](https://github.com/besu-eth/besu/pull/11298#pullrequestreview-5208578489) - 2026-09-15
+* [Pull Request] [Add --devnet cli flag to join EF devnets easier](https://github.com/besu-eth/besu/pull/11297) - 2026-09-15
+* [Commit] [rename regular gas to execution gas (#11281)](https://github.com/besu-eth/besu/commit/d92467a67e015e0eab761193fe5cb604d6e6c90c) - 2026-09-15
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

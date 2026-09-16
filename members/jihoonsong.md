@@ -126,6 +126,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Convert `NewPayloadRequest` from dataclass to container](https://github.com/ethereum/consensus-specs/pull/5619#pullrequestreview-5166191655) - 2026-09-10
 * [Review] [Review on: Add weak subjectivity period table for gloas](https://github.com/ethereum/consensus-specs/pull/5629#pullrequestreview-5181179213) - 2026-09-11
 * [Review] [Review on: Define recursive EIP-8025 execution proof guest](https://github.com/ethereum/consensus-specs/pull/5534#pullrequestreview-5181264162) - 2026-09-11
+* [Review] [Review on: Add `saturating_sub` helper function](https://github.com/ethereum/consensus-specs/pull/5620#pullrequestreview-5212420532) - 2026-09-15
+* [Review] [Review on: Fix fork comment for removed `process_historical_roots_update`](https://github.com/ethereum/consensus-specs/pull/5636#pullrequestreview-5207184632) - 2026-09-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

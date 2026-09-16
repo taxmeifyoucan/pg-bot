@@ -49,6 +49,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync maint update (#4785)](https://github.com/status-im/nimbus-eth1/commit/15f9bf04adf158cf03e242b609efa52daa15b85b) - 2026-09-11
 * [Pull Request] [Snap2 sync fix acceptance window design](https://github.com/status-im/nimbus-eth1/pull/4787) - 2026-09-13
 * [Commit] [Snap2 sync fix acceptance window design (#4787)](https://github.com/status-im/nimbus-eth1/commit/eb2a8dcd76266bc2cfcf1102fff67e3de3f18849) - 2026-09-13
+* [Pull Request] [Snap2 sync fix partial sto mpt range accounting](https://github.com/status-im/nimbus-eth1/pull/4795) - 2026-09-15
+* [Commit] [Snap2 sync fix partial sto mpt range accounting (#4795)](https://github.com/status-im/nimbus-eth1/commit/0d06e05a07e9334c5c15603f18c52da051c1ccef) - 2026-09-15
 ## Q2 2026
 
 

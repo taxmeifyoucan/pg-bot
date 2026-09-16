@@ -212,6 +212,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [refactor(witness): run witness-generating execution on the layout-native world state (#13453)](https://github.com/NethermindEth/nethermind/commit/620051be6bf8735b8ae3f3c881bfdb3ec6034a50) - 2026-09-14
 * [Commit] [fix: build BlockProcessingBenchmark against UInt256 storage values (#13446)](https://github.com/NethermindEth/nethermind/commit/05c37542a12e81b8ffcf85a48a4ca177e42b982f) - 2026-09-14
 * [Commit] [Remove ProcessingOptions.ForceSameBlock (#13440)](https://github.com/NethermindEth/nethermind/commit/94349c9e272d090d723bb9ed3848a761d75bd665) - 2026-09-14
+* [Pull Request] [Close the HasState/BeginScope gap and add target-aware world-state scopes](https://github.com/NethermindEth/nethermind/pull/13522) - 2026-09-16
+* [Review] [Review on: Forbid zero-nibble extension nodes](https://github.com/NethermindEth/nethermind/pull/13519#pullrequestreview-5218044214) - 2026-09-16
+* [Pull Request] [fix(flat): VerifyWithTrie false positive when deleting an account the trie still holds](https://github.com/NethermindEth/nethermind/pull/13521) - 2026-09-15
 ## Q2 2026
 
 

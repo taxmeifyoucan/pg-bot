@@ -319,6 +319,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Retain FlatDB state for Hive Engine-X reorgs](https://github.com/NethermindEth/nethermind/pull/13402) - 2026-09-11
 * [Commit] [Add a LiteRlpReader for explicit cursor decoding (#13303)](https://github.com/NethermindEth/nethermind/commit/aa5b2aab2303b52c2da02a3629dfcc3dbb2a8919) - 2026-09-11
 * [Commit] [Retain FlatDB state for Hive Engine-X reorgs (#13402)](https://github.com/NethermindEth/nethermind/commit/a85e011160be7ab19e1ac3395961208c681acd40) - 2026-09-12
+* [Pull Request] [Report previous transient value in TSTORE traces](https://github.com/NethermindEth/nethermind/pull/13504) - 2026-09-15
+* [Pull Request] [Correct EIP-7928 receipt event metadata](https://github.com/NethermindEth/nethermind/pull/13509) - 2026-09-15
+* [Pull Request] [Use system calls for EIP-8037 beacon roots](https://github.com/NethermindEth/nethermind/pull/13483) - 2026-09-15
+* [Pull Request] [Report vmTrace pushes for word operations](https://github.com/NethermindEth/nethermind/pull/13487) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -375,6 +379,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/pull/12317) - 2026-09-11
 * [Commit] [Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/commit/286a88e75f7bb301ba58e534e3484aae86001ed2) - 2026-09-14
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Review] [Review on: Add Windows ARM64 support](https://github.com/ethereum/c-kzg-4844/pull/666#pullrequestreview-5207885476) - 2026-09-15
 ## Q2 2026
 
 
