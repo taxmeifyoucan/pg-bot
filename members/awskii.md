@@ -581,6 +581,10 @@ Team: Erigon
 * [Commit] [db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek (#23841)](https://github.com/erigontech/erigon/commit/e86ab424350971cb69119c834871ad31048c62e7) - 2026-09-15
 * [Commit] [execution/commitment: drop unused APIs and honor deferred config (#23971)](https://github.com/erigontech/erigon/commit/acc3b92a8caa7957ececb86ed8551c155256c89c) - 2026-09-15
 * [Commit] [execution/stagedsync: validate roots before flushing isolated branches (#23970)](https://github.com/erigontech/erigon/commit/d145c6a69bce63579379dc5dd5015628712cce9e) - 2026-09-15
+* [Review] [Review on: cl: request blobs under the canonical root, and put the block signature on ColumnSyncableSignedBlock](https://github.com/erigontech/erigon/pull/24053#pullrequestreview-5220189849) - 2026-09-16
+* [Pull Request] [execution/commitment: cover a budget-deferred db-hit resolving after the overlay rotates](https://github.com/erigontech/erigon/pull/24066) - 2026-09-16
+* [Commit] [execution/commitment: fork the parallel trie walk at any depth (#23972)](https://github.com/erigontech/erigon/commit/184d76c9c67890e3ba83a3e6c292a128a8066f2e) - 2026-09-16
+* [Commit] [execmodule: validate fork-choice hashes before early acknowledgement (#24020)](https://github.com/erigontech/erigon/commit/e83da168c2aa08b21b4eac5e097027b19a56489d) - 2026-09-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

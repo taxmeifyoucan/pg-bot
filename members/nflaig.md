@@ -598,6 +598,25 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: sign release tags](https://github.com/ChainSafe/lodestar/pull/10096#pullrequestreview-5213912900) - 2026-09-15
 * [Review] [Review on: chore: merge v1.48.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/10095#pullrequestreview-5213413389) - 2026-09-15
 * [Commit] [chore: merge v1.48.0 back to unstable (#10095)](https://github.com/ChainSafe/lodestar/commit/9d1b583d24242bdf01d28ff0cfb029c58ab4c92f) - 2026-09-15
+* [Review] [Review on: fix: prune cache entries of repeat proposals that are not imported](https://github.com/ChainSafe/lodestar/pull/10083#pullrequestreview-5222981088) - 2026-09-16
+* [Pull Request] [fix: derive default builder auth data from the url hostname](https://github.com/ChainSafe/lodestar/pull/10107) - 2026-09-16
+* [Review] [Review on: test: raise regression threshold for high-variance noise sendData benchmarks](https://github.com/ChainSafe/lodestar/pull/10111#pullrequestreview-5229254011) - 2026-09-16
+* [Pull Request] [fix: delete archive index entries when pruning history](https://github.com/ChainSafe/lodestar/pull/10110) - 2026-09-16
+* [Review] [Review on: fix: delete archive index entries when pruning history](https://github.com/ChainSafe/lodestar/pull/10110#pullrequestreview-5229227616) - 2026-09-16
+* [Review] [Review on: feat(api): carry forkchoice hashes on post-gloas payload_attributes events](https://github.com/ChainSafe/lodestar/pull/10109#pullrequestreview-5229026871) - 2026-09-16
+* [Pull Request] [fix: prune archived states before the finalized epoch with `chain.pruneHistory`](https://github.com/ChainSafe/lodestar/pull/10106) - 2026-09-16
+* [Pull Request] [chore: log block and bid values in ETH](https://github.com/ChainSafe/lodestar/pull/10108) - 2026-09-16
+* [Review] [Review on: fix: bind IPv6 by default only if the host has a global IPv6 address](https://github.com/ChainSafe/lodestar/pull/10104#pullrequestreview-5228079150) - 2026-09-16
+* [Review] [Review on: fix: bound inbound gossipsub RPC frames by max_message_size](https://github.com/ChainSafe/lodestar/pull/10079#pullrequestreview-5223999594) - 2026-09-16
+* [Pull Request] [fix: prune execution payload envelopes with `chain.pruneHistory`](https://github.com/ChainSafe/lodestar/pull/10105) - 2026-09-16
+* [Review] [Review on: chore: exclude all spec-tests directories from docker build context](https://github.com/ChainSafe/lodestar/pull/10102#pullrequestreview-5224294415) - 2026-09-16
+* [Review] [Review on: fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076#pullrequestreview-5218263483) - 2026-09-16
+* [Review] [Review on: feat: add metrics for downloadPayload() of unknown sync](https://github.com/ChainSafe/lodestar/pull/10101#pullrequestreview-5223791150) - 2026-09-16
+* [Pull Request] [fix: separate data column request and response size limits](https://github.com/ChainSafe/lodestar/pull/10100) - 2026-09-16
+* [Review] [Review on: fix: reject invalid characters in fromHex on nodejs build](https://github.com/ChainSafe/lodestar/pull/9943#pullrequestreview-5222064344) - 2026-09-16
+* [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5221406079) - 2026-09-16
+* [Commit] [fix: prune cache entries of repeat proposals that are not imported (#10083)](https://github.com/ChainSafe/lodestar/commit/8d21f7a861b38d15d6c001a0fa2626ade1a1a947) - 2026-09-17
+* [Commit] [fix: prune execution payload envelopes with `chain.pruneHistory` (#10105)](https://github.com/ChainSafe/lodestar/commit/09a1892a856873dc7651fb1309551f5f3a88710e) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -678,6 +697,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/pull/12142) - 2026-08-11
 * [Commit] [Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/commit/f6b4668ef37612feba85aef151303f4100b79360) - 2026-08-11
 * [Review] [Review on: Update EIP-8282: Sync specification with sys-asm@83f9801](https://github.com/ethereum/EIPs/pull/12120#pullrequestreview-4982920171) - 2026-08-20
+* [Pull Request] [Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347) - 2026-09-16
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 

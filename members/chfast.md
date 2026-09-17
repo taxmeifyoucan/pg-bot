@@ -277,6 +277,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [state: build_diff() reports deletions for accounts that never existed](https://github.com/ipsilon/evmone/issues/1718) - 2026-09-15
 * [Commit] [test: Move the state diff revert test to state_transition (#1717)](https://github.com/ipsilon/evmone/commit/e0ba5d04e09a96a23092d96111b4209c42fd87ab) - 2026-09-15
 * [Commit] [state: Restore account nonexistence when a cold access is reverted (#1709)](https://github.com/ipsilon/evmone/commit/8350f81bfda0472b23da91ffad474f20fb07f0c3) - 2026-09-15
+* [Pull Request] [evm: Improve style of TransactionReceipt{} construction](https://github.com/ipsilon/evmone/pull/1721) - 2026-09-16
+* [Pull Request] [precompiles: Improve style of Result{} construction](https://github.com/ipsilon/evmone/pull/1720) - 2026-09-16
+* [Issue] [Compute gas with uint32](https://github.com/ipsilon/evmone/issues/1719) - 2026-09-16
+* [Commit] [evm: Improve style of TransactionReceipt{} construction (#1721)](https://github.com/ipsilon/evmone/commit/ee0bf39479025e923e67737d04aaef7e235f4413) - 2026-09-16
+* [Commit] [precompiles: Improve style of Result{} construction (#1720)](https://github.com/ipsilon/evmone/commit/5ca6ee4fe16bb299c4ed3e42ad0b051aa981bef2) - 2026-09-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

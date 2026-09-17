@@ -191,6 +191,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [bug(test-client-clis): fix lazy allocation cleanup flake on PyPy (#3587)](https://github.com/ethereum/execution-specs/commit/52161d992821f3e65adbd2fc966e458eda32b395) - 2026-09-15
 * [Commit] [fix(test-cli): render coverage on repeated checklist rows (#3586)](https://github.com/ethereum/execution-specs/commit/9eb528c097047b139e7a5166c9da7d8932c23fe6) - 2026-09-15
 * [Commit] [refactor(spec-specs): clarify the EIP-7981 data surcharge (#3536)](https://github.com/ethereum/execution-specs/commit/75edf063c27db22603746f263cc557d9d0b1b00d) - 2026-09-15
+* [Pull Request] [fix(tests): raise the block gas limit in test_tx_gas_limit for EIP-7928](https://github.com/ethereum/execution-specs/pull/3607) - 2026-09-16
+* [Pull Request] [chore(test-forks): add descriptive Amsterdam BPO test scenarios](https://github.com/ethereum/execution-specs/pull/3597) - 2026-09-16
+* [Pull Request] [fix(test-specs): give invalid-transaction blocks a nonzero header gas used](https://github.com/ethereum/execution-specs/pull/3599) - 2026-09-16
+* [Review] [Review on: chore(test-cli): check EIP reference versions up to Amsterdam](https://github.com/ethereum/execution-specs/pull/3592#pullrequestreview-5222761473) - 2026-09-16
+* [Review] [Review on: feat(ci): cut devnet fixture releases from any branch](https://github.com/ethereum/execution-specs/pull/3601#pullrequestreview-5223814731) - 2026-09-16
+* [Pull Request] [fix(test-client-clis): match besu's new insufficient funds messages](https://github.com/ethereum/execution-specs/pull/3598) - 2026-09-16
+* [Issue] [Enable exception mapping for nimbus-el](https://github.com/ethereum/execution-specs/issues/3603) - 2026-09-16
+* [Commit] [fix(test-client-clis): match besu's new insufficient funds messages (#3598)](https://github.com/ethereum/execution-specs/commit/980a6740d4c2722a4a6bb1221c17f53589fa43dc) - 2026-09-16
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -215,6 +223,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [internal/libhive,simulators/ethereum/eels: support optional authenticated GitHub clones, redact token from recorded commands](https://github.com/ethereum/hive/pull/1606) - 2026-09-03
 * [Pull Request] [internal/libhive: support simulator build configurations with --sim.file](https://github.com/ethereum/hive/pull/1607) - 2026-09-09
 * [Pull Request] [simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609) - 2026-09-10
+* [Pull Request] [clients: support descriptive BPO increase and decrease aliases](https://github.com/ethereum/hive/pull/1611) - 2026-09-16
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

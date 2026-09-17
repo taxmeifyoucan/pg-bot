@@ -75,6 +75,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [Revert "fix(eip8037): place the system call state-gas margin (#3892)"](https://github.com/bluealloy/revm/pull/3903) - 2026-09-09
 * [Commit] [chore: release v119 (#3904)](https://github.com/bluealloy/revm/commit/4535a5786fb90b25eebe2d5bb49d3954f1e6d546) - 2026-09-09
 * [Commit] [Revert "fix(eip8037): place the system call state-gas margin in the reservoir (#3892)" (#3903)](https://github.com/bluealloy/revm/commit/fa7c58b2f5adf80ddbbaa9f1f46fe966237f498f) - 2026-09-09
+* [Review] [Review on: chore(ci): protect host package installs with Aegis](https://github.com/bluealloy/revm/pull/3915#pullrequestreview-5222188532) - 2026-09-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

@@ -1558,6 +1558,45 @@ Team: Erigon
 * [Commit] [execution/commitment: decode the trie state without `encoding/binary` reflection (#24003)](https://github.com/erigontech/erigon/commit/6ad8419fc7a52126885859c48fb0dcd00e8d20e3) - 2026-09-15
 * [Commit] [rpc: derive a missing receipt bloom once  (#23989)](https://github.com/erigontech/erigon/commit/6a42ebd65163b7f109e2d0955f1d736714da2b06) - 2026-09-15
 * [Commit] [cl: stop two more tests racing the Windows clock (#24000)](https://github.com/erigontech/erigon/commit/3e8e854f0babc94119955ef31598527082bdd9bc) - 2026-09-15
+* [Pull Request] [rpc: encode fast JSON results straight into the response stream](https://github.com/erigontech/erigon/pull/24061) - 2026-09-16
+* [Review] [Review on: rpc: encode fast JSON results straight into the response stream](https://github.com/erigontech/erigon/pull/24061#pullrequestreview-5223187047) - 2026-09-16
+* [Pull Request] [execution/commitment: copy captured witness nodes into shared chunks](https://github.com/erigontech/erigon/pull/24083) - 2026-09-17
+* [Review] [Review on: db/seg: speedup EXTCODESIZE using PeekSize instead of Skip](https://github.com/erigontech/erigon/pull/24082#pullrequestreview-5230260431) - 2026-09-17
+* [Pull Request] [execution/commitment: fold debug_executionWitness read-only](https://github.com/erigontech/erigon/pull/24072) - 2026-09-16
+* [Review] [Review on: execution/commitment: fold debug_executionWitness read-only](https://github.com/erigontech/erigon/pull/24072#pullrequestreview-5229723397) - 2026-09-17
+* [Pull Request] [execution/commitment: eth_getProof's read-only fold keeps stored branch hashes below the top branch](https://github.com/erigontech/erigon/pull/24081) - 2026-09-17
+* [Pull Request] [db/state: share the latest-from-files cache between txs](https://github.com/erigontech/erigon/pull/24080) - 2026-09-17
+* [Review] [Review on: db/state: share the latest-from-files cache between txs](https://github.com/erigontech/erigon/pull/24080#pullrequestreview-5229980539) - 2026-09-17
+* [Pull Request] [execution/commitment, rpc/jsonrpc: hash each witness node and code once](https://github.com/erigontech/erigon/pull/24068) - 2026-09-16
+* [Review] [Review on: execution/commitment: fold eth_getProof's witness read-only](https://github.com/erigontech/erigon/pull/24035#pullrequestreview-5220267484) - 2026-09-16
+* [Review] [Review on: rpc: serve eth_getProof by walking the witness nodes by hash](https://github.com/erigontech/erigon/pull/24034#pullrequestreview-5220240997) - 2026-09-16
+* [Pull Request] [execution/commitment: reject a value in a storage absence proof](https://github.com/erigontech/erigon/pull/24055) - 2026-09-16
+* [Pull Request] [rpc/jsonrpc: verify witnesses statelessly only under ERIGON_ASSERT](https://github.com/erigontech/erigon/pull/24078) - 2026-09-17
+* [Review] [Review on: rpc/jsonrpc: verify witnesses statelessly only under ERIGON_ASSERT](https://github.com/erigontech/erigon/pull/24078#pullrequestreview-5229712836) - 2026-09-17
+* [Pull Request] [rpc/jsonrpc: encode the `eth_feeHistory` result without reflection](https://github.com/erigontech/erigon/pull/24059) - 2026-09-16
+* [Review] [Review on: rpc/jsonrpc: encode the `eth_feeHistory` result without reflection](https://github.com/erigontech/erigon/pull/24059#pullrequestreview-5224822114) - 2026-09-16
+* [Pull Request] [db/state: lazy-ETL collectors](https://github.com/erigontech/erigon/pull/24079) - 2026-09-17
+* [Pull Request] [rpc: reduce write syscalls amount](https://github.com/erigontech/erigon/pull/24043) - 2026-09-16
+* [Review] [Review on: rpc: reduce write syscalls amount](https://github.com/erigontech/erigon/pull/24043#pullrequestreview-5220877218) - 2026-09-16
+* [Pull Request] [rpc: send Content-Length when the response is still whole in the buffer](https://github.com/erigontech/erigon/pull/24052) - 2026-09-16
+* [Review] [Review on: rpc: send Content-Length when the response is still whole in the buffer](https://github.com/erigontech/erigon/pull/24052#pullrequestreview-5229899976) - 2026-09-17
+* [Review] [Review on: [r3.5] cl/phase1/network: request blobs under the canonical root, not the block's own hash](https://github.com/erigontech/erigon/pull/24070#pullrequestreview-5229615971) - 2026-09-17
+* [Review] [Review on: db/state: cache decompressed history pages](https://github.com/erigontech/erigon/pull/24036#pullrequestreview-5229857732) - 2026-09-17
+* [Review] [Review on: build(deps): backport grpc/otel/x-crypto CVE fixes to release/3.5](https://github.com/erigontech/erigon/pull/24074#pullrequestreview-5229611741) - 2026-09-17
+* [Pull Request] [rpc/jsonrpc: stop eth_getWitness printing every witness operator to stdout](https://github.com/erigontech/erigon/pull/24073) - 2026-09-16
+* [Review] [Review on: [r3.5] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24065#pullrequestreview-5222889679) - 2026-09-16
+* [Review] [Review on: rpc/jsonrpc: gate the call and witness endpoints on the history they read](https://github.com/erigontech/erigon/pull/23996#pullrequestreview-5219707629) - 2026-09-16
+* [Pull Request] [db/state: read history values through PagedReader](https://github.com/erigontech/erigon/pull/24045) - 2026-09-16
+* [Review] [Review on: db/state: read history values through PagedReader](https://github.com/erigontech/erigon/pull/24045#pullrequestreview-5219863859) - 2026-09-16
+* [Review] [Review on: rpc: make notification storm test deterministic](https://github.com/erigontech/erigon/pull/24058#pullrequestreview-5221595543) - 2026-09-16
+* [Review] [Review on: [r3.6] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24064#pullrequestreview-5222885487) - 2026-09-16
+* [Review] [Review on: execution/commitment: cover a budget-deferred db-hit resolving after the overlay rotates](https://github.com/erigontech/erigon/pull/24066#pullrequestreview-5222901811) - 2026-09-16
+* [Commit] [db/state: read history values through PagedReader (#24045)](https://github.com/erigontech/erigon/commit/01fba5972b6f161028776bd3d7efe7a0ef7dedb4) - 2026-09-16
+* [Commit] [db/kv/mdbx: `tx_renew` instead `tx_begin` for ro-txs (#24014)](https://github.com/erigontech/erigon/commit/ece9168604f003752b92d3dea09fcc98a5946bb9) - 2026-09-16
+* [Commit] [up x deps for release/3.7 (#24054)](https://github.com/erigontech/erigon/commit/f531c6f832eca59c97e34082457a3df44b15a43e) - 2026-09-16
+* [Commit] [db/seg: load the page Reset seeks to (#24046)](https://github.com/erigontech/erigon/commit/75d234181471b3c729675dcdf8f7bc8b18323aa8) - 2026-09-16
+* [Commit] [rpc, execution/tracing: carry quantities as `hexutil.U256` (#24018)](https://github.com/erigontech/erigon/commit/def7c4931ca70ac174aea598fb0184f617b90466) - 2026-09-16
+* [Commit] [rpc: add eth_getProof and eth_getWitness test coverage (#24040)](https://github.com/erigontech/erigon/commit/bd2b9a3a9cb470c37f448b2f830b4c13b27e1d6a) - 2026-09-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

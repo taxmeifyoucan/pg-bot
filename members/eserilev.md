@@ -164,6 +164,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add inclusion_list_bits to ExecutionPayloadBid](https://github.com/sigp/lighthouse/pull/9729#pullrequestreview-5205693169) - 2026-09-15
 * [Review] [Review on: Add IL committee duties polling to the VC](https://github.com/sigp/lighthouse/pull/9799#pullrequestreview-5206284045) - 2026-09-15
 * [Review] [Review on: Add base support for Heze block production](https://github.com/sigp/lighthouse/pull/9714#pullrequestreview-5206114004) - 2026-09-15
+* [Review] [Review on: Add support for engine_newPayloadV6](https://github.com/sigp/lighthouse/pull/10017#pullrequestreview-5227869851) - 2026-09-16
+* [Review] [Review on: Wire the inclusion list store into BeaconChain](https://github.com/sigp/lighthouse/pull/9960#pullrequestreview-5228841023) - 2026-09-16
+* [Review] [Review on: Add stateless Gloas block production to the VC](https://github.com/sigp/lighthouse/pull/10036#pullrequestreview-5227428379) - 2026-09-16
+* [Review] [Review on: Fix Gloas nodes failing to resume sync after restart](https://github.com/sigp/lighthouse/pull/9940#pullrequestreview-5227105090) - 2026-09-16
+* [Review] [Review on:  Add support for engine_forkchoiceUpdatedV5](https://github.com/sigp/lighthouse/pull/9935#pullrequestreview-5225965812) - 2026-09-16
+* [Review] [Review on: Include slashed balances in fork choice committee fraction](https://github.com/sigp/lighthouse/pull/10062#pullrequestreview-5226546259) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12
@@ -171,6 +177,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4970559891) - 2026-08-19
 * [Review] [Review on: Explicitly set bid fields when upgrading to Gloas](https://github.com/ethereum/consensus-specs/pull/5553#pullrequestreview-4970546333) - 2026-08-19
 * [Pull Request] [Fix attestation step order in FCR test vectors](https://github.com/ethereum/consensus-specs/pull/5627) - 2026-09-10
+* [Commit] [Fix attestation step order in FCR test vectors (#5627)](https://github.com/ethereum/consensus-specs/commit/818bbed729b9e3a7c29d9ac9c91130862eac54d5) - 2026-09-16
 ## Q2 2026
 
 

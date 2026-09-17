@@ -55,6 +55,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [cmd/devp2p: skip eth72 test (#35647)](https://github.com/ethereum/go-ethereum/commit/d799b1a3f20fe9d983bfff6cc53fb246bcab1298) - 2026-09-04
 * [Commit] [cmd/devp2p/internal/ethtest: fix concurrent reads in readAnyFrom (#35648)](https://github.com/ethereum/go-ethereum/commit/5818afe9bbaf83e3e792349c1db5ac178eefd5cc) - 2026-09-07
 * [Review] [Review on: cmd/devp2p: restore osaka fork environment](https://github.com/ethereum/go-ethereum/pull/35687#pullrequestreview-5213113740) - 2026-09-15
+* [Review] [Review on: cmd/devp2p: exercise BAL tests with Amsterdam chain](https://github.com/ethereum/go-ethereum/pull/35637#pullrequestreview-5224560402) - 2026-09-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 * [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12

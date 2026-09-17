@@ -353,6 +353,39 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(multi-stark): draw fractional-GKR round polynomials at the field's own nodes (#2132)](https://github.com/Plonky3/Plonky3/commit/bdde4edb63e825fd2019f1ee456f78e5afda5d93) - 2026-09-15
 * [Commit] [feat(sumcheck): add a univariate-skip round for binary zerochecks (#2134)](https://github.com/Plonky3/Plonky3/commit/379e65288054e84113de552498f0f15df3879f7c) - 2026-09-15
 * [Commit] [feat(pcs)!: bind commitments and hiding claims through the typed layer (#2129)](https://github.com/Plonky3/Plonky3/commit/2998a2fa31f1dfc5e92238f30393e38c0aad8ac4) - 2026-09-15
+* [Pull Request] [perf(binary-dft): scale by the twiddle's own subfield](https://github.com/Plonky3/Plonky3/pull/2160) - 2026-09-16
+* [Pull Request] [feat(binary-field): add bit-sliced GF(2) packings and the square bit transpose](https://github.com/Plonky3/Plonky3/pull/2161) - 2026-09-16
+* [Pull Request] [perf(sumcheck): fold pinned zerocheck blocks without multiplying](https://github.com/Plonky3/Plonky3/pull/2159) - 2026-09-16
+* [Review] [Review on: perf(binary-pcs): change the fold's basis a block at a time](https://github.com/Plonky3/Plonky3/pull/2158#pullrequestreview-5226658316) - 2026-09-16
+* [Pull Request] [perf(binary-dft): give the generic additive transform a tiled schedule](https://github.com/Plonky3/Plonky3/pull/2156) - 2026-09-16
+* [Review] [Review on: perf(binary-dft): give the generic additive transform a tiled schedule](https://github.com/Plonky3/Plonky3/pull/2156#pullrequestreview-5225534379) - 2026-09-16
+* [Review] [Review on: test(transcript): tie each unpriced grinding site to the config it is credited from](https://github.com/Plonky3/Plonky3/pull/2143#pullrequestreview-5226164495) - 2026-09-16
+* [Pull Request] [perf(binary-field): convert whole blocks of GF(2^128) through GFNI](https://github.com/Plonky3/Plonky3/pull/2153) - 2026-09-16
+* [Review] [Review on: perf(binary-field): convert whole blocks of GF(2^128) through GFNI](https://github.com/Plonky3/Plonky3/pull/2153#pullrequestreview-5224980725) - 2026-09-16
+* [Review] [Review on: feat(security,multi-stark)!: charge and make room for the indexed reduction](https://github.com/Plonky3/Plonky3/pull/2149#pullrequestreview-5224768009) - 2026-09-16
+* [Review] [Review on: feat(lookup,multi-stark)!: declare and plan indexed lookups](https://github.com/Plonky3/Plonky3/pull/2146#pullrequestreview-5224766938) - 2026-09-16
+* [Review] [Review on: fix(multi-stark): build opening points and batches from one description](https://github.com/Plonky3/Plonky3/pull/2144#pullrequestreview-5224765405) - 2026-09-16
+* [Review] [Review on: feat(multi-stark)!: add the logUp* indexed-lookup reduction](https://github.com/Plonky3/Plonky3/pull/2145#pullrequestreview-5224763372) - 2026-09-16
+* [Review] [Review on: feat(sumcheck): close the binary zerocheck against a real commitment](https://github.com/Plonky3/Plonky3/pull/2141#pullrequestreview-5224729776) - 2026-09-16
+* [Review] [Review on: feat(sumcheck): own the binary zerocheck from witness to opening point](https://github.com/Plonky3/Plonky3/pull/2139#pullrequestreview-5224719206) - 2026-09-16
+* [Pull Request] [perf(blake3): hash a batch of messages through one SIMD compression](https://github.com/Plonky3/Plonky3/pull/2151) - 2026-09-16
+* [Review] [Review on: perf(blake3): hash a batch of messages through one SIMD compression](https://github.com/Plonky3/Plonky3/pull/2151#pullrequestreview-5224676032) - 2026-09-16
+* [Pull Request] [perf(monty-31): fuse x86 dot products of length 5 to 8 into one reduction](https://github.com/Plonky3/Plonky3/pull/2157) - 2026-09-16
+* [Pull Request] [perf(sha256): hash four messages at once with x86-64 SHA-NI](https://github.com/Plonky3/Plonky3/pull/2152) - 2026-09-16
+* [Review] [Review on: perf(sha256): hash four messages at once with x86-64 SHA-NI](https://github.com/Plonky3/Plonky3/pull/2152#pullrequestreview-5224683089) - 2026-09-16
+* [Pull Request] [perf(binary-dft): gather runs of adjacent rows into the staging tile](https://github.com/Plonky3/Plonky3/pull/2155) - 2026-09-16
+* [Review] [Review on: perf(binary-dft): gather runs of adjacent rows into the staging tile](https://github.com/Plonky3/Plonky3/pull/2155#pullrequestreview-5224952787) - 2026-09-16
+* [Review] [Review on: feat(multi-stark): run the indexed reduction inside the proof](https://github.com/Plonky3/Plonky3/pull/2150#pullrequestreview-5224771695) - 2026-09-16
+* [Commit] [perf(binary-dft): give the generic additive transform a tiled schedule (#2156)](https://github.com/Plonky3/Plonky3/commit/dba1e28e20a61804461f1a8dc23c6fe7e5400c54) - 2026-09-16
+* [Commit] [perf(binary-field): convert whole blocks of GF(2^128) through GFNI (#2153)](https://github.com/Plonky3/Plonky3/commit/53f773281d6176e3e7305b85bd8cf942a445c627) - 2026-09-16
+* [Commit] [feat(multi-stark)!: add the logUp* indexed-lookup reduction (#2145)](https://github.com/Plonky3/Plonky3/commit/80d9ffc46cafc34458b678432e6b203fdef4e2c4) - 2026-09-16
+* [Commit] [feat(sumcheck): close the binary zerocheck against a real commitment (#2141)](https://github.com/Plonky3/Plonky3/commit/e7948065003075a6000cd9db7d4fc4517029327c) - 2026-09-16
+* [Commit] [feat(sumcheck): own the binary zerocheck from witness to opening point (#2139)](https://github.com/Plonky3/Plonky3/commit/cc78bd8078bc6e30e69bcba3cda92843c4da58be) - 2026-09-16
+* [Commit] [feat(sumcheck): generalise the skip constraint and stream the prover path (#2137)](https://github.com/Plonky3/Plonky3/commit/0639a58015f794e5d0c728ec23832b5ccdf95f49) - 2026-09-16
+* [Commit] [feat(security): charge a univariate-skip round in the multilinear budget (#2136)](https://github.com/Plonky3/Plonky3/commit/5b478da2bf5084b74ddedc19df17a212ec58de45) - 2026-09-16
+* [Commit] [feat(sumcheck): reduce a skip round's opening to an evaluation point (#2135)](https://github.com/Plonky3/Plonky3/commit/08facabb3bc3457452e42aa8c651b96b9aea9c9a) - 2026-09-16
+* [Commit] [perf(blake3): hash a batch of messages through one SIMD compression (#2151)](https://github.com/Plonky3/Plonky3/commit/cdd7a3881815f262f25c7991542c6dbff8636f17) - 2026-09-16
+* [Commit] [perf(sha256): hash four messages at once with x86-64 SHA-NI (#2152)](https://github.com/Plonky3/Plonky3/commit/98664b80151855294a064e1c8f2691d784f38e02) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

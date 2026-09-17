@@ -93,6 +93,7 @@ Team: Grandine
 * [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5130659830) - 2026-09-07
 * [Issue] [[Glamsterdam] Investigate slow serving of payloads](https://github.com/grandinetech/grandine/issues/909) - 2026-09-07
 * [Commit] [Correctly handle invalid blocks and blocks without data availability in test helpers](https://github.com/grandinetech/grandine/commit/34da987dc6e1eec7be6afb6fb3c6edf317f1c32c) - 2026-09-11
+* [Pull Request] [compliance test fixes](https://github.com/grandinetech/grandine/pull/919) - 2026-09-16
 ## Q2 2026
 
 

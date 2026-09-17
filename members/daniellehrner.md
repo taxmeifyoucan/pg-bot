@@ -118,11 +118,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Backport CALLCODE state gas refund fix to glamsterdam-devnet-8](https://github.com/besu-eth/besu/pull/11298#pullrequestreview-5208578489) - 2026-09-15
 * [Pull Request] [Add --devnet cli flag to join EF devnets easier](https://github.com/besu-eth/besu/pull/11297) - 2026-09-15
 * [Commit] [rename regular gas to execution gas (#11281)](https://github.com/besu-eth/besu/commit/d92467a67e015e0eab761193fe5cb604d6e6c90c) - 2026-09-15
+* [Review] [Review on: feat(rpc): native prestateTracer implementation via OperationTracer hooks](https://github.com/besu-eth/besu/pull/11289#pullrequestreview-5218680777) - 2026-09-16
+* [Pull Request] [Fix flaky BackwardSyncAlgSpecTest stubbing race](https://github.com/besu-eth/besu/pull/11311) - 2026-09-16
+* [Pull Request] [Add consumeEngineTestsGlamsterdam and consumeRlpTestsGlamsterdam to the CI](https://github.com/besu-eth/besu/pull/11310) - 2026-09-16
+* [Review] [Review on: Exit on OutOfMemoryError by default](https://github.com/besu-eth/besu/pull/11300#pullrequestreview-5218655246) - 2026-09-16
+* [Commit] [Exit on OutOfMemoryError by default (#11300)](https://github.com/besu-eth/besu/commit/95406fcb4e602ee8eaff38fa6d970b905a2b5216) - 2026-09-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4895974831) - 2026-08-10
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: fix(test-client-clis): match besu's new insufficient funds messages](https://github.com/ethereum/execution-specs/pull/3598#pullrequestreview-5220843680) - 2026-09-16
 ## Q2 2026
 
 

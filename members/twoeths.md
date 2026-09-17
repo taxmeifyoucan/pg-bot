@@ -255,6 +255,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5217818052) - 2026-09-16
 * [Pull Request] [fix: specify optimistic search in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10093) - 2026-09-15
 * [Issue] [Fix removeAndDownScoreAllDescendants](https://github.com/ChainSafe/lodestar/issues/10091) - 2026-09-15
+* [Review] [Review on: chore: make gossip max size type explicit](https://github.com/ChainSafe/lodestar/pull/10103#pullrequestreview-5230245412) - 2026-09-17
+* [Review] [Review on: fix: prune cache entries of repeat proposals that are not imported](https://github.com/ChainSafe/lodestar/pull/10083#pullrequestreview-5230086166) - 2026-09-17
+* [Review] [Review on: fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076#pullrequestreview-5219306825) - 2026-09-16
+* [Pull Request] [feat: add metrics for downloadPayload() of unknown sync](https://github.com/ChainSafe/lodestar/pull/10101) - 2026-09-16
+* [Review] [Review on: feat: add metrics for downloadPayload() of unknown sync](https://github.com/ChainSafe/lodestar/pull/10101#pullrequestreview-5223135906) - 2026-09-16
+* [Review] [Review on: fix: separate data column request and response size limits](https://github.com/ChainSafe/lodestar/pull/10100#pullrequestreview-5222420734) - 2026-09-16
+* [Review] [Review on: fix: specify optimistic search in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10093#pullrequestreview-5221874890) - 2026-09-16
+* [Commit] [fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE (#10076)](https://github.com/ChainSafe/lodestar/commit/ae6cc426f1d010178c627ed38b9152f35d981fbd) - 2026-09-16
+* [Commit] [feat: add metrics for downloadPayload() of unknown sync (#10101)](https://github.com/ChainSafe/lodestar/commit/a261342520114b1401873dbd0553bc11a711c9c0) - 2026-09-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

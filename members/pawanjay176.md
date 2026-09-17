@@ -88,6 +88,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: `engine_getBlobsV4`](https://github.com/sigp/lighthouse/pull/9438#pullrequestreview-5158796551) - 2026-09-09
 * [Review] [Review on: Bump `rustls` to fix cargo audit failure](https://github.com/sigp/lighthouse/pull/10052#pullrequestreview-5202167367) - 2026-09-14
 * [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5216892020) - 2026-09-15
+* [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5227546899) - 2026-09-16
 ## Q2 2026
 
 

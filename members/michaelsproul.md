@@ -115,6 +115,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Cache slashed justified balances](https://github.com/sigp/lighthouse/pull/9830#pullrequestreview-5217705190) - 2026-09-16
 * [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5216999348) - 2026-09-15
 * [Issue] [Fork choice should include slashed balances when calculating proposer score](https://github.com/sigp/lighthouse/issues/10057) - 2026-09-16
+* [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5230370725) - 2026-09-17
+* [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5218846741) - 2026-09-16
+* [Issue] [Basic simulator is flaky](https://github.com/sigp/lighthouse/issues/10059) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

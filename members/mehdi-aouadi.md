@@ -124,6 +124,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [key proposer preferences by slot and dependent root (#11242)](https://github.com/Consensys-Incorporated/teku/commit/5ecd1290ebeaff9847ee9a64e91735d4ef43a720) - 2026-09-14
 * [Commit] [ignore bid from excited builders (#11239)](https://github.com/Consensys-Incorporated/teku/commit/05a0dee539403062bdd1e0fbf37a56a1ce0d955e) - 2026-09-14
 * [Commit] [11261 update gossip rules (#11270)](https://github.com/Consensys-Incorporated/teku/commit/b94bc783fb9ecb1e8245b61f36ed452d63e18185) - 2026-09-15
+* [Pull Request] [rename PTC to Payload Timeliness Committee](https://github.com/Consensys-Incorporated/teku/pull/11281) - 2026-09-16
+* [Pull Request] [enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11288) - 2026-09-16
+* [Pull Request] [fix gossip comments](https://github.com/Consensys-Incorporated/teku/pull/11284) - 2026-09-16
+* [Review] [Review on: Implement 5613 - data column sidecar size calculation](https://github.com/Consensys-Incorporated/teku/pull/11283#pullrequestreview-5221421449) - 2026-09-16
+* [Pull Request] [enable gossip reference tests](https://github.com/Consensys-Incorporated/teku/pull/11282) - 2026-09-16
+* [Commit] [fix gossip comments (#11284)](https://github.com/Consensys-Incorporated/teku/commit/876a515c65792d4ea9ebdc49e69f5743b645bde6) - 2026-09-16
 ## Q2 2026
 
 

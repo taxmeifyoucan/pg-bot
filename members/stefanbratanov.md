@@ -92,6 +92,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/issues/11278) - 2026-09-15
 * [Commit] [Add `Eth-Builder-Url` header and pass it during block production (#11248)](https://github.com/Consensys-Incorporated/teku/commit/231788622d61963ecab1ca446d85e626b832e5bf) - 2026-09-15
 * [Commit] [Use the configured `min_bid` and `builder_boost_factor` per builder (#11269)](https://github.com/Consensys-Incorporated/teku/commit/9eacea8c9810199cf3cd56fb0dd52614ed76318c) - 2026-09-15
+* [Pull Request] [Use `Eth-Builder-Url` to send block to builders](https://github.com/Consensys-Incorporated/teku/pull/11280) - 2026-09-16
+* [Review] [Review on: Use `Eth-Builder-Url` to send block to builders](https://github.com/Consensys-Incorporated/teku/pull/11280#pullrequestreview-5222598450) - 2026-09-16
+* [Pull Request] [Use slot from header instead of bid](https://github.com/Consensys-Incorporated/teku/pull/11143) - 2026-09-16
+* [Commit] [Use `Eth-Builder-Url` to send block to builders (#11280)](https://github.com/Consensys-Incorporated/teku/commit/fc9ad51dc7d66ff11b226fdbbb519c1a28c190cf) - 2026-09-16
+* [Commit] [Use slot from header instead of bid (#11143)](https://github.com/Consensys-Incorporated/teku/commit/0d20ec847da217ac2d431d02a14f05508574de2c) - 2026-09-16
 ## Q2 2026
 
 

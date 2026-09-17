@@ -57,6 +57,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Rename regular gas to execution gas](https://github.com/besu-eth/besu/pull/11281#pullrequestreview-5197674881) - 2026-09-14
 * [Review] [Review on: Exit on OutOfMemoryError by default](https://github.com/besu-eth/besu/pull/11300#pullrequestreview-5211477852) - 2026-09-15
 * [Review] [Review on: Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962#pullrequestreview-5206299400) - 2026-09-15
+* [Review] [Review on: Exit on OutOfMemoryError by default](https://github.com/besu-eth/besu/pull/11300#pullrequestreview-5219005066) - 2026-09-16
 ## Q2 2026
 
 

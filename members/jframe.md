@@ -84,6 +84,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-5216224916) - 2026-09-15
 * [Review] [Review on: fix(ipc-test): keep NetClient reference ](https://github.com/besu-eth/besu/pull/11295#pullrequestreview-5205999791) - 2026-09-15
 * [Pull Request] [Snap2 forest support](https://github.com/besu-eth/besu/pull/11293) - 2026-09-15
+* [Review] [Review on: perf: eliminate O(N²) isClosed overhead in LayeredKeyValueStorage.get()](https://github.com/besu-eth/besu/pull/11071#pullrequestreview-5230138415) - 2026-09-17
+* [Pull Request] [newPayload to return syncing when parent world state unavailable](https://github.com/besu-eth/besu/pull/11309) - 2026-09-16
+* [Review] [Review on: newPayload to return syncing when parent world state unavailable](https://github.com/besu-eth/besu/pull/11309#pullrequestreview-5219084897) - 2026-09-16
 ## Q2 2026
 
 

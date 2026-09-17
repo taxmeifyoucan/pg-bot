@@ -141,6 +141,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/phase1/forkchoice: build the next justified checkpoint state early](https://github.com/erigontech/erigon/pull/23981#pullrequestreview-5205522777) - 2026-09-15
 * [Pull Request] [cl: harden execution payload envelope admission](https://github.com/erigontech/erigon/pull/24039) - 2026-09-15
 * [Review] [Review on: db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/23927#pullrequestreview-5213910551) - 2026-09-15
+* [Pull Request] [[r3.5] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24065) - 2026-09-16
+* [Pull Request] [[r3.6] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24064) - 2026-09-16
+* [Commit] [cl: harden execution payload envelope admission (#24039)](https://github.com/erigontech/erigon/commit/ed3184f5ff39519ef4602c2e5d402896c8b4411d) - 2026-09-16
+* [Commit] [db/integrity: validate frozen blob sidecar snapshots (#23927)](https://github.com/erigontech/erigon/commit/b921bd3c9efa6e06f34d53661fcaf18539a07ae7) - 2026-09-16
 ## Q2 2026
 
 

@@ -657,6 +657,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/state: avoid retries for zero-balance self-destructs (#23984)](https://github.com/erigontech/erigon/commit/7a031bd8e8fb7e343877f35917c5d8bdf28e94a7) - 2026-09-15
 * [Commit] [execution: test crash recovery across unwind commits (#23983)](https://github.com/erigontech/erigon/commit/d1ea27c792406e3568e412e5df1471457a803f9e) - 2026-09-15
 * [Commit] [execution/state: record reads of deleted accounts (#23982)](https://github.com/erigontech/erigon/commit/a58c9775e5ab8d3cb8905e32f5f17ebb7a0b9758) - 2026-09-15
+* [Pull Request] [rpc: make notification storm test deterministic](https://github.com/erigontech/erigon/pull/24058) - 2026-09-16
+* [Review] [Review on: cl: request blobs under the canonical root, and put the block signature on ColumnSyncableSignedBlock](https://github.com/erigontech/erigon/pull/24053#pullrequestreview-5222653539) - 2026-09-16
+* [Commit] [rpc: make notification storm test deterministic (#24058)](https://github.com/erigontech/erigon/commit/98f8c607c90aa8ee9246df8387458444209de39f) - 2026-09-16
+* [Commit] [execution/state: validate empty code-hash reads against account liveness (#24030)](https://github.com/erigontech/erigon/commit/556504c29a4126ae0af26d3ba1aeff095a372fa5) - 2026-09-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

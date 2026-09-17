@@ -823,6 +823,24 @@ Team: Reth
 * [Commit] [fix(engine): adjudicate speculative BAL worker failures in transaction order (#26721)](https://github.com/paradigmxyz/reth/commit/30e596d42d14ef067d320579029f237718f27908) - 2026-09-15
 * [Commit] [perf(engine): run storage trie updates inside checked-out jobs (#27156)](https://github.com/paradigmxyz/reth/commit/5d0ea55c5246b883fcefda2ebe9ba03a240d4d03) - 2026-09-15
 * [Commit] [test(engine): cover unrecoverable payload signatures (#27243)](https://github.com/paradigmxyz/reth/commit/03e374b05caaade4521ea82f50b5d953cdf99ae3) - 2026-09-15
+* [Pull Request] [perf(db): use compile-time table IDs for cached handles](https://github.com/paradigmxyz/reth/pull/27285) - 2026-09-17
+* [Pull Request] [perf(txpool): reuse insertion timestamp across a batch](https://github.com/paradigmxyz/reth/pull/27284) - 2026-09-17
+* [Pull Request] [chore(trie): profile coordinator phases and message delivery](https://github.com/paradigmxyz/reth/pull/27281) - 2026-09-17
+* [Pull Request] [perf(txpool): reserve insertion metadata before locking](https://github.com/paradigmxyz/reth/pull/27283) - 2026-09-17
+* [Pull Request] [chore(metrics): profile payload validation after storage jobs](https://github.com/paradigmxyz/reth/pull/27274) - 2026-09-16
+* [Pull Request] [perf(txpool): share bounded transaction ingress across rpc and p2p](https://github.com/paradigmxyz/reth/pull/27280) - 2026-09-16
+* [Pull Request] [chore(engine): investigate payload latency after storage jobs](https://github.com/paradigmxyz/reth/pull/27273) - 2026-09-16
+* [Pull Request] [perf(engine): defer BAL bytecode prefetch until state reads finish](https://github.com/paradigmxyz/reth/pull/27278) - 2026-09-16
+* [Review] [Review on: fix(rpc): return null when sender nonce has no transaction](https://github.com/paradigmxyz/reth/pull/27275#pullrequestreview-5227268345) - 2026-09-16
+* [Review] [Review on: fix(rpc): simulate mev_simBundle in the block after parentBlock](https://github.com/paradigmxyz/reth/pull/27266#pullrequestreview-5223142013) - 2026-09-16
+* [Review] [Review on: fix(rpc): derive the next block base fee in eth_callBundle](https://github.com/paradigmxyz/reth/pull/27265#pullrequestreview-5225106620) - 2026-09-16
+* [Review] [Review on: fix(engine): backpressure on state trie frontier](https://github.com/paradigmxyz/reth/pull/27269#pullrequestreview-5222004860) - 2026-09-16
+* [Review] [Review on: feat(rpc): prewarm BAL cache from local replay](https://github.com/paradigmxyz/reth/pull/24097#pullrequestreview-5220425718) - 2026-09-16
+* [Pull Request] [refactor(rpc): pass eth api settings directly to constructor](https://github.com/paradigmxyz/reth/pull/27268) - 2026-09-16
+* [Review] [Review on: feat(snap-sync): download and persist missing contract code](https://github.com/paradigmxyz/reth/pull/27258#pullrequestreview-5220258011) - 2026-09-16
+* [Review] [Review on: chore: clean up cargo manifest warnings](https://github.com/paradigmxyz/reth/pull/27263#pullrequestreview-5220219800) - 2026-09-16
+* [Commit] [refactor(rpc): pass eth api settings directly to constructor (#27268)](https://github.com/paradigmxyz/reth/commit/ff28bad67ec87f5fd6d03db4aacc252413e8b242) - 2026-09-16
+* [Commit] [refactor(rpc): expose shared eth api settings (#27251)](https://github.com/paradigmxyz/reth/commit/f18dde3a699f6f9267b20c3d4b4751a12ffe7290) - 2026-09-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -848,6 +866,10 @@ Team: Reth
 * [Pull Request] [feat(database): add apply and try_apply to StateBuilder](https://github.com/bluealloy/revm/pull/3900) - 2026-09-08
 * [Pull Request] [feat(database): add BAL builder capacity configuration](https://github.com/bluealloy/revm/pull/3899) - 2026-09-08
 * [Review] [Review on: chore(deps): bump the github-actions group with 3 updates](https://github.com/bluealloy/revm/pull/3902#pullrequestreview-5197090527) - 2026-09-14
+* [Pull Request] [refactor(state): use CodeChange accessors](https://github.com/bluealloy/revm/pull/3916) - 2026-09-16
+* [Pull Request] [fix(deps): update rustls to resolve RUSTSEC-2026-0285](https://github.com/bluealloy/revm/pull/3917) - 2026-09-16
+* [Commit] [refactor(state): use CodeChange accessors (#3916)](https://github.com/bluealloy/revm/commit/32b2c31d8abc6c6180f95fb5e09124537f8dcf7f) - 2026-09-16
+* [Commit] [fix(deps): update rustls to resolve RUSTSEC-2026-0285 (#3917)](https://github.com/bluealloy/revm/commit/1937b2e3571d3cc8bc3b3081492bd9be8fd9dc73) - 2026-09-16
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26

@@ -512,6 +512,25 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Cut per-block setup cost of the EIP-4788 system call (#13480)](https://github.com/NethermindEth/nethermind/commit/191df4b1ad3a16e3acda37618a78688636296a78) - 2026-09-15
 * [Commit] [test: measure the transient-write allocation over several windows (#13482)](https://github.com/NethermindEth/nethermind/commit/16acfcc22341ba53b79d429744338bde1facf6cf) - 2026-09-15
 * [Commit] [Right-size the processing-branch list rental (#13481)](https://github.com/NethermindEth/nethermind/commit/0ca59f5d26fe596c2816406a7359c54eaaa76e96) - 2026-09-15
+* [Review] [Review on: fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown](https://github.com/NethermindEth/nethermind/pull/13523#pullrequestreview-5220124719) - 2026-09-16
+* [Pull Request] [Prepare flat storage trie updates in the background during execution](https://github.com/NethermindEth/nethermind/pull/13546) - 2026-09-16
+* [Review] [Review on: Report vmTrace pushes for word operations](https://github.com/NethermindEth/nethermind/pull/13487#pullrequestreview-5220739153) - 2026-09-16
+* [Pull Request] [Avoid recomputing reconstructed body roots in stateless execution](https://github.com/NethermindEth/nethermind/pull/13534) - 2026-09-16
+* [Review] [Review on: EIP-161 violations fix](https://github.com/NethermindEth/nethermind/pull/13520#pullrequestreview-5220170748) - 2026-09-16
+* [Pull Request] [Remove scratch allocations from generated SSZ container hashing](https://github.com/NethermindEth/nethermind/pull/13533) - 2026-09-16
+* [Pull Request] [Avoid copying execution payload transaction buffers during decoding](https://github.com/NethermindEth/nethermind/pull/13532) - 2026-09-16
+* [Review] [Review on: Avoid copying execution payload transaction buffers during decoding](https://github.com/NethermindEth/nethermind/pull/13532#pullrequestreview-5221559702) - 2026-09-16
+* [Pull Request] [Skip unrelated storage scans when clearing untouched accounts](https://github.com/NethermindEth/nethermind/pull/13531) - 2026-09-16
+* [Review] [Review on: fix(tracing): reject an unknown tracer name before creating a JavaScript engine](https://github.com/NethermindEth/nethermind/pull/13529#pullrequestreview-5220783983) - 2026-09-16
+* [Commit] [Fix Kademlia simulation's expected nearest-neighbour set (#13536)](https://github.com/NethermindEth/nethermind/commit/1f151a0adb1430ae35b079c87737e7abf28ccd11) - 2026-09-16
+* [Commit] [test: increase Merge.Plugin wait timeout (#13526)](https://github.com/NethermindEth/nethermind/commit/e8cb747fe82c30ba22de5c160c849b28a37bf69c) - 2026-09-16
+* [Commit] [test: allow more time for BAL sync (#13527)](https://github.com/NethermindEth/nethermind/commit/342e31e5506f789d1696383e8940bc31535f8be8) - 2026-09-16
+* [Commit] [test: allow more time for snap sync (#13525)](https://github.com/NethermindEth/nethermind/commit/ee02de216029aa3d4ed2f7b1abb9ad54b409d85b) - 2026-09-16
+* [Commit] [fix(sync): stop a fast-sync body being lost to the block cache (#13474)](https://github.com/NethermindEth/nethermind/commit/789b827eb955f1342d2c63869e6cf24c52b828e4) - 2026-09-16
+* [Commit] [Skip re-hashing headers whose hash the caller already verified (#13501)](https://github.com/NethermindEth/nethermind/commit/02fdc1a82e39d66c52185c7dd60c3d1f8502229a) - 2026-09-16
+* [Commit] [test: isolate discovery E2E from peer connections (#13514)](https://github.com/NethermindEth/nethermind/commit/174be99affc2d530c5c18859ee508754fee52c89) - 2026-09-16
+* [Commit] [test: deflake nonce manager account isolation (#13512)](https://github.com/NethermindEth/nethermind/commit/cf339c3e13043e30842e9690759c9e0d7db35202) - 2026-09-16
+* [Commit] [Hint the request-queue contracts to the prewarmer (#13502)](https://github.com/NethermindEth/nethermind/commit/4d1cac7ed80720c550dd67fe9aa44ff06d92addf) - 2026-09-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

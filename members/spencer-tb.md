@@ -332,6 +332,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-cli): render coverage on repeated checklist rows](https://github.com/ethereum/execution-specs/pull/3586#pullrequestreview-5208091518) - 2026-09-15
 * [Review] [Review on: fix(test-benchmark): clamp nested frame depth to budget and assert receipt status](https://github.com/ethereum/execution-specs/pull/3585#pullrequestreview-5208192818) - 2026-09-15
 * [Review] [Review on: feat(tests): eip8282 checklist review](https://github.com/ethereum/execution-specs/pull/3565#pullrequestreview-5208035274) - 2026-09-15
+* [Pull Request] [feat(ci): cut devnet fixture releases from any branch](https://github.com/ethereum/execution-specs/pull/3601) - 2026-09-16
+* [Review] [Review on: chore(ci,test-consume,test-specs,tests): backport devnets/focil/0 fixes to eip-7805](https://github.com/ethereum/execution-specs/pull/3595#pullrequestreview-5222470625) - 2026-09-16
+* [Review] [Review on: fix(test-client-clis): match besu's new insufficient funds messages](https://github.com/ethereum/execution-specs/pull/3598#pullrequestreview-5222321523) - 2026-09-16
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

@@ -142,6 +142,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: use the transaction public keys from the input (#4791)](https://github.com/status-im/nimbus-eth1/commit/0f35be0f30b062abd2e832f397ffd46be35f5e46) - 2026-09-14
 * [Pull Request] [stateless: hash with the zkVM keccak and SHA-256 accelerators](https://github.com/status-im/nimbus-eth1/pull/4796) - 2026-09-15
 * [Commit] [stateless: hash with the zkVM keccak and SHA-256 accelerators (#4796)](https://github.com/status-im/nimbus-eth1/commit/71b433a90336fb21a78c2cd8f8452693f7ca4ffe) - 2026-09-15
+* [Pull Request] [stateless: BLAKE2f compression with the zkVM accelerator](https://github.com/status-im/nimbus-eth1/pull/4804) - 2026-09-16
+* [Pull Request] [stateless: KZG point evaluation with the zkVM accelerator](https://github.com/status-im/nimbus-eth1/pull/4803) - 2026-09-16
+* [Pull Request] [stateless: bn254 precompiles with the zkVM accelerator](https://github.com/status-im/nimbus-eth1/pull/4802) - 2026-09-16
+* [Pull Request] [stateless: secp256k1 ecrecover with the zkVM accelerator](https://github.com/status-im/nimbus-eth1/pull/4798) - 2026-09-16
+* [Commit] [stateless: BLAKE2f compression with the zkVM accelerator (#4804)](https://github.com/status-im/nimbus-eth1/commit/0cc613ee0652a821420040dc29c8c317b7e333b7) - 2026-09-16
+* [Commit] [stateless: KZG point evaluation with the zkVM accelerator (#4803)](https://github.com/status-im/nimbus-eth1/commit/e63f573ca1324072f096674cdd421da893832c25) - 2026-09-16
+* [Commit] [stateless: bn254 precompiles with the zkVM accelerator (#4802)](https://github.com/status-im/nimbus-eth1/commit/c73930badbf1ee2dbe89af5fd74fd5ac40458082) - 2026-09-16
+* [Commit] [stateless: secp256k1 ecrecover with the zkVM accelerator (#4798)](https://github.com/status-im/nimbus-eth1/commit/157433bfa08e59247cc8c1c57d3dc9d85c03fa66) - 2026-09-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

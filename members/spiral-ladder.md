@@ -78,6 +78,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: test: tighten snappy decoder assertions](https://github.com/ChainSafe/lodestar/pull/10068#pullrequestreview-5193792732) - 2026-09-14
 * [Commit] [fix(network): actually dial QUIC before TCP when a peer advertises both (#10077)](https://github.com/ChainSafe/lodestar/commit/89d0f4da2d4b0beb275874fe0481221e4625ee62) - 2026-09-14
 * [Commit] [chore: publish discv5 and QUIC UDP ports in docker-compose (#10078)](https://github.com/ChainSafe/lodestar/commit/042c96183ce84c5d362b3550ea3b176155f3696f) - 2026-09-14
+* [Pull Request] [refactor(state-transition): move testFileCache out of the published test utils](https://github.com/ChainSafe/lodestar/pull/10099) - 2026-09-16
+* [Review] [Review on: refactor(state-transition): move testFileCache out of the published test utils](https://github.com/ChainSafe/lodestar/pull/10099#pullrequestreview-5221663514) - 2026-09-16
+* [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5218835496) - 2026-09-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -249,6 +252,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat: partial validator monitor (#475)](https://github.com/ChainSafe/lodestar-z/commit/2c595d330101b6b32ab811de179f315c85443003) - 2026-09-14
 * [Commit] [fix(bindings): return sync committee index maps (#691)](https://github.com/ChainSafe/lodestar-z/commit/2f1a177a10171c1a9f5cead09f7ebb2d3b9aa7db) - 2026-09-14
 * [Review] [Review on: perf: stream progressive tree serialization](https://github.com/ChainSafe/lodestar-z/pull/686#pullrequestreview-5206806669) - 2026-09-15
+* [Review] [Review on: test: fix bitlist setter call](https://github.com/ChainSafe/lodestar-z/pull/700#pullrequestreview-5218843369) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

@@ -96,6 +96,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [update ephemery references to the "standardized format" (#11216)](https://github.com/Consensys-Incorporated/teku/commit/69825279f82203028a6a6f19be63af406952f4a7) - 2026-09-10
 * [Pull Request] [Remove shuffling stable from fulu onwards](https://github.com/Consensys-Incorporated/teku/pull/11203) - 2026-09-14
 * [Commit] [Remove shuffling stable from fulu onwards (#11203)](https://github.com/Consensys-Incorporated/teku/commit/0a19f620fbf0b740e1960a26bb44773a19256220) - 2026-09-14
+* [Review] [Review on: Post-release 26.9.0](https://github.com/Consensys-Incorporated/teku/pull/11290#pullrequestreview-5230411135) - 2026-09-17
+* [Pull Request] [Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279) - 2026-09-16
 ## Q2 2026
 
 

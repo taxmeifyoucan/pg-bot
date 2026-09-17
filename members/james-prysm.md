@@ -228,6 +228,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add `getStateBuilders` beacon API endpoint ](https://github.com/OffchainLabs/prysm/pull/17491#pullrequestreview-5201238142) - 2026-09-14
 * [Pull Request] [Serve available historical Gloas payload envelopes by root](https://github.com/OffchainLabs/prysm/pull/17499) - 2026-09-15
 * [Review] [Review on: Retry payload attestation data at the PTC deadline](https://github.com/OffchainLabs/prysm/pull/17468#pullrequestreview-5211646809) - 2026-09-15
+
+* [Review] [Review on: Enforce proposer settings schema from file/URL loading](https://github.com/OffchainLabs/prysm/pull/17498#pullrequestreview-5224835437) - 2026-09-16
+* [Pull Request] [grpc use execution_payload_available event](https://github.com/OffchainLabs/prysm/pull/17500) - 2026-09-16
+* [Review] [Review on: grpc use execution_payload_available event](https://github.com/OffchainLabs/prysm/pull/17500#pullrequestreview-5228110732) - 2026-09-16
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026
 
 

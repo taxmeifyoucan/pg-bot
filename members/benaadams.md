@@ -418,6 +418,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce newPayload latency from GC coordination (#13476)](https://github.com/NethermindEth/nethermind/commit/14bbe99f59c78ed97e141d208cdd54b958594c98) - 2026-09-15
 * [Commit] [docs: allow LINQ in tests and benchmark setup (#13503)](https://github.com/NethermindEth/nethermind/commit/f3f7e3587fbd42a45b6b5b53543513dd33c66e95) - 2026-09-15
 * [Commit] [ci(expb): report newPayload request time and block processing side by side (#13477)](https://github.com/NethermindEth/nethermind/commit/d412d67d7361191a72de9d5f071bce31cbd0cd48) - 2026-09-15
+* [Pull Request] [Reduce trie and storage-key hashing overhead](https://github.com/NethermindEth/nethermind/pull/13549) - 2026-09-16
+* [Review] [Review on: Reduce trie and storage-key hashing overhead](https://github.com/NethermindEth/nethermind/pull/13549#pullrequestreview-5229677730) - 2026-09-17
+* [Review] [Review on: feat(flat): prune snapshots unreachable from the head on debug_resetHead](https://github.com/NethermindEth/nethermind/pull/13524#pullrequestreview-5218591725) - 2026-09-16
+* [Review] [Review on: fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown](https://github.com/NethermindEth/nethermind/pull/13523#pullrequestreview-5218590187) - 2026-09-16
+* [Review] [Review on: Avoid recomputing reconstructed body roots in stateless execution](https://github.com/NethermindEth/nethermind/pull/13534#pullrequestreview-5225104476) - 2026-09-16
+* [Review] [Review on: EIP-161 violations fix](https://github.com/NethermindEth/nethermind/pull/13520#pullrequestreview-5218814008) - 2026-09-16
+* [Review] [Review on: Remove scratch allocations from generated SSZ container hashing](https://github.com/NethermindEth/nethermind/pull/13533#pullrequestreview-5224683345) - 2026-09-16
+* [Review] [Review on: Skip unrelated storage scans when clearing untouched accounts](https://github.com/NethermindEth/nethermind/pull/13531#pullrequestreview-5222248868) - 2026-09-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

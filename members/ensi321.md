@@ -104,6 +104,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: emit payload_attributes before EL payload preparation (#10037)](https://github.com/ChainSafe/lodestar/commit/a4083281b73da65261689036317eaeec4373af40) - 2026-09-10
 * [Commit] [test: add compliance test for gloas (#9761)](https://github.com/ChainSafe/lodestar/commit/57c1e5614b13ab4919bd5caeb927812b3842151c) - 2026-09-10
 * [Pull Request] [fix: bound inbound gossipsub RPC frames by max_message_size](https://github.com/ChainSafe/lodestar/pull/10079) - 2026-09-14
+* [Pull Request] [chore: exclude all spec-tests directories from docker build context](https://github.com/ChainSafe/lodestar/pull/10102) - 2026-09-16
+* [Commit] [fix: bound inbound gossipsub RPC frames by max_message_size (#10079)](https://github.com/ChainSafe/lodestar/commit/33d8e7d3cd7ef35a790f1e98af45d5ad0cc5ceeb) - 2026-09-16
+* [Commit] [chore: exclude all spec-tests directories from docker build context (#10102)](https://github.com/ChainSafe/lodestar/commit/71549aaa7545a58306d8c58cbb10f369df1a7285) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

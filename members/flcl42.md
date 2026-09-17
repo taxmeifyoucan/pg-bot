@@ -323,6 +323,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Correct EIP-7928 receipt event metadata](https://github.com/NethermindEth/nethermind/pull/13509) - 2026-09-15
 * [Pull Request] [Use system calls for EIP-8037 beacon roots](https://github.com/NethermindEth/nethermind/pull/13483) - 2026-09-15
 * [Pull Request] [Report vmTrace pushes for word operations](https://github.com/NethermindEth/nethermind/pull/13487) - 2026-09-15
+* [Review] [Review on: Report vmTrace pushes for word operations](https://github.com/NethermindEth/nethermind/pull/13487#pullrequestreview-5221570679) - 2026-09-16
+* [Review] [Review on: EIP-161 violations fix](https://github.com/NethermindEth/nethermind/pull/13520#pullrequestreview-5220622545) - 2026-09-16
+* [Commit] [Report vmTrace pushes for word operations (#13487)](https://github.com/NethermindEth/nethermind/commit/89486449191e06eff1641449aaff613fa9e0acd1) - 2026-09-16
+* [Commit] [Schedule Sepolia Amsterdam fork (#13455)](https://github.com/NethermindEth/nethermind/commit/473822d87a831d2f65a7cc7961862fae213b4a51) - 2026-09-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

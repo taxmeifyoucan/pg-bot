@@ -123,6 +123,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-7784: Move to Review](https://github.com/ethereum/EIPs/pull/9992#pullrequestreview-5212913168) - 2026-09-15
 * [Review] [Review on: Update EIP-8246: Move to Last Call](https://github.com/ethereum/EIPs/pull/12297#pullrequestreview-5212888177) - 2026-09-15
 * [Review] [Review on: Update EIP-7716: Move to Draft](https://github.com/ethereum/EIPs/pull/11962#pullrequestreview-5212578354) - 2026-09-15
+* [Review] [Review on: Update EIP-5069: add concept of associate editors](https://github.com/ethereum/EIPs/pull/11035#pullrequestreview-5227036388) - 2026-09-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

@@ -119,6 +119,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Make VersionedHashes a progressive list](https://github.com/Consensys-Incorporated/teku/issues/11277) - 2026-09-15
 * [Issue] [spec 1.7.0-beta.1 (unreleased yet)](https://github.com/Consensys-Incorporated/teku/issues/11274) - 2026-09-15
 * [Issue] [Compute max DataColumnSidecar size based on blob schedule](https://github.com/Consensys-Incorporated/teku/issues/11275) - 2026-09-15
+* [Review] [Review on: rename PTC to Payload Timeliness Committee](https://github.com/Consensys-Incorporated/teku/pull/11281#pullrequestreview-5223756699) - 2026-09-16
+* [Pull Request] [ref test tar gz load optimization](https://github.com/Consensys-Incorporated/teku/pull/11287) - 2026-09-16
+* [Review] [Review on: fix gossip comments](https://github.com/Consensys-Incorporated/teku/pull/11284#pullrequestreview-5224715782) - 2026-09-16
+* [Review] [Review on: Use `Eth-Builder-Url` to send block to builders](https://github.com/Consensys-Incorporated/teku/pull/11280#pullrequestreview-5222470468) - 2026-09-16
+* [Review] [Review on: Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219#pullrequestreview-5222857247) - 2026-09-16
+* [Review] [Review on: Use slot from header instead of bid](https://github.com/Consensys-Incorporated/teku/pull/11143#pullrequestreview-5222709826) - 2026-09-16
+* [Pull Request] [Implement 5613 - data column sidecar size calculation](https://github.com/Consensys-Incorporated/teku/pull/11283) - 2026-09-16
+* [Issue] [cleanup after beta.1 release](https://github.com/Consensys-Incorporated/teku/issues/11285) - 2026-09-16
+* [Commit] [implement 5613 (#11283)](https://github.com/Consensys-Incorporated/teku/commit/28ce68b22b581428baba1f1cdba6c0ade8d45ac5) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
@@ -141,6 +150,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [exception on QUIC](https://github.com/libp2p/jvm-libp2p/issues/516) - 2026-08-07
 * [Commit] [introduce a quic connection exception handler (#517)](https://github.com/libp2p/jvm-libp2p/commit/7c7e0a231268a8e32148a23fb4dfed74fd75fd79) - 2026-08-07
 * [Review] [Review on: fix(quic): run delegated TLS tasks inline, not on shared workerGroup](https://github.com/libp2p/jvm-libp2p/pull/524#pullrequestreview-5065265776) - 2026-08-31
+* [Review] [Review on: feat(gossip): bound inbound RPC protobuf field count](https://github.com/libp2p/jvm-libp2p/pull/531#pullrequestreview-5220788580) - 2026-09-16
 ## Q2 2026
 
 

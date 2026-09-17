@@ -185,6 +185,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [bsc: defer Parlia tip to SystemAddress in parallel exec](https://github.com/erigontech/erigon/pull/24025) - 2026-09-15
 * [Pull Request] [bsc: apply Parlia system-contract upgrades at fork boundaries](https://github.com/erigontech/erigon/pull/24029) - 2026-09-15
 * [Pull Request] [bsc: cross-chain light-client precompiles (0x64/0x65)](https://github.com/erigontech/erigon/pull/24015) - 2026-09-15
+* [Review] [Review on: db/state: read history values through PagedReader](https://github.com/erigontech/erigon/pull/24045#pullrequestreview-5220785602) - 2026-09-16
 ## Q2 2026
 
 

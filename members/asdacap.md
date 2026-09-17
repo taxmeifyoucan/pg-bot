@@ -215,6 +215,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Close the HasState/BeginScope gap and add target-aware world-state scopes](https://github.com/NethermindEth/nethermind/pull/13522) - 2026-09-16
 * [Review] [Review on: Forbid zero-nibble extension nodes](https://github.com/NethermindEth/nethermind/pull/13519#pullrequestreview-5218044214) - 2026-09-16
 * [Pull Request] [fix(flat): VerifyWithTrie false positive when deleting an account the trie still holds](https://github.com/NethermindEth/nethermind/pull/13521) - 2026-09-15
+* [Pull Request] [feat(flat): prune snapshots unreachable from the head on debug_resetHead](https://github.com/NethermindEth/nethermind/pull/13524) - 2026-09-16
+* [Review] [Review on: feat(flat): prune snapshots unreachable from the head on debug_resetHead](https://github.com/NethermindEth/nethermind/pull/13524#pullrequestreview-5219115997) - 2026-09-16
+* [Pull Request] [fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown](https://github.com/NethermindEth/nethermind/pull/13523) - 2026-09-16
+* [Review] [Review on: Report vmTrace pushes for word operations](https://github.com/NethermindEth/nethermind/pull/13487#pullrequestreview-5218103960) - 2026-09-16
+* [Review] [Review on: fix(xdc): run the patricia state backend so node data can be served](https://github.com/NethermindEth/nethermind/pull/13478#pullrequestreview-5218121703) - 2026-09-16
+* [Review] [Review on: Report previous transient value in TSTORE traces](https://github.com/NethermindEth/nethermind/pull/13504#pullrequestreview-5218083408) - 2026-09-16
 ## Q2 2026
 
 

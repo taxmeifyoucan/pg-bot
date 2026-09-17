@@ -74,6 +74,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(txpool): only visit changed senders when the fees did not move](https://github.com/paradigmxyz/reth/pull/26956#pullrequestreview-5132149552) - 2026-09-07
 * [Review] [Review on: fix(engine): stop transaction recovery on channel disconnection](https://github.com/paradigmxyz/reth/pull/27092#pullrequestreview-5143300259) - 2026-09-08
 * [Review] [Review on: refactor(net): simplify transaction announcement handling](https://github.com/paradigmxyz/reth/pull/27021#pullrequestreview-5200821533) - 2026-09-14
+* [Pull Request] [feat(evm2): restore execution witness helper](https://github.com/paradigmxyz/reth/pull/27277) - 2026-09-16
+* [Pull Request] [chore(evm): bump evm2](https://github.com/paradigmxyz/reth/pull/27272) - 2026-09-16
+* [Review] [Review on: refactor(rpc): expose shared eth api settings](https://github.com/paradigmxyz/reth/pull/27251#pullrequestreview-5220524476) - 2026-09-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

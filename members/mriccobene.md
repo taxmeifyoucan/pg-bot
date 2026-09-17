@@ -60,6 +60,9 @@ Team: Erigon
 * [Review] [Review on: qa-tests: add exec from zero test](https://github.com/erigontech/erigon/pull/23687#pullrequestreview-5067623168) - 2026-08-31
 * [Commit] [qa-tests: add exec from zero test (#23687)](https://github.com/erigontech/erigon/commit/20424659be77b51122a3c1543c34ba19d2e4c38d) - 2026-09-01
 * [Pull Request] [qa-tests: improve the report of the exec-from-zero test](https://github.com/erigontech/erigon/pull/24031) - 2026-09-15
+* [Pull Request] [execution/stagedsync: index block-end system call logs in the parallel executor](https://github.com/erigontech/erigon/pull/24067) - 2026-09-16
+* [Pull Request] [qa-tests: try to mach published snapshot granularity on the exec-from-zero test](https://github.com/erigontech/erigon/pull/24071) - 2026-09-16
+* [Commit] [qa-tests: improve the report of the exec-from-zero test (#24031)](https://github.com/erigontech/erigon/commit/3f25d8aa82c4f0ca377eb832e600396a5ab9665b) - 2026-09-16
 ## Q2 2026
 
 

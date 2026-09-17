@@ -195,6 +195,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: stop gating CI on high-variance data-availability benchmarks](https://github.com/ChainSafe/lodestar/pull/10074#pullrequestreview-5199310244) - 2026-09-14
 * [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5215607520) - 2026-09-15
 * [Review] [Review on: chore: sign release tags](https://github.com/ChainSafe/lodestar/pull/10096#pullrequestreview-5214359720) - 2026-09-15
+* [Review] [Review on: fix: prune cache entries of repeat proposals that are not imported](https://github.com/ChainSafe/lodestar/pull/10083#pullrequestreview-5226324056) - 2026-09-16
+* [Review] [Review on: fix: prune archived states before the finalized epoch with `chain.pruneHistory`](https://github.com/ChainSafe/lodestar/pull/10106#pullrequestreview-5227541703) - 2026-09-16
+* [Review] [Review on: fix: prune execution payload envelopes with `chain.pruneHistory`](https://github.com/ChainSafe/lodestar/pull/10105#pullrequestreview-5227410009) - 2026-09-16
+* [Review] [Review on: fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076#pullrequestreview-5223941246) - 2026-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -404,6 +408,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: retire security implementation map (#696)](https://github.com/ChainSafe/lodestar-z/commit/f3e8ad13264af6dfc047fe4a46d1cbfcf12eac8f) - 2026-09-15
 * [Commit] [perf: stream bitlist tree reads (#679)](https://github.com/ChainSafe/lodestar-z/commit/02d61c2b9c9ca7361ea852b8f5458854f8522197) - 2026-09-15
 * [Commit] [perf: stream compact proof generation (#683)](https://github.com/ChainSafe/lodestar-z/commit/57022b4bdd6a2c054d3eed2343b16e1e05596272) - 2026-09-15
+* [Review] [Review on: fix: isolate binding benchmark suites in separate processes](https://github.com/ChainSafe/lodestar-z/pull/708#pullrequestreview-5224542173) - 2026-09-16
+* [Review] [Review on: fix(bindings): declare sync-committee index map values as Uint32Array](https://github.com/ChainSafe/lodestar-z/pull/706#pullrequestreview-5226421320) - 2026-09-16
+* [Review] [Review on: feat(bindings): implement computeBlockRewards](https://github.com/ChainSafe/lodestar-z/pull/709#pullrequestreview-5226385178) - 2026-09-16
+* [Review] [Review on: refactor(stf): retire the no-op post-state metrics hook](https://github.com/ChainSafe/lodestar-z/pull/707#pullrequestreview-5226334068) - 2026-09-16
+* [Review] [Review on: test: repair minimal preset state transition baseline](https://github.com/ChainSafe/lodestar-z/pull/704#pullrequestreview-5224469766) - 2026-09-16
+* [Review] [Review on: fix: clean up inactivity scores](https://github.com/ChainSafe/lodestar-z/pull/702#pullrequestreview-5224450254) - 2026-09-16
+* [Review] [Review on: fix: accept bigint proof indices](https://github.com/ChainSafe/lodestar-z/pull/699#pullrequestreview-5224411297) - 2026-09-16
+* [Commit] [perf: bound progressive merkleization workspace (#685)](https://github.com/ChainSafe/lodestar-z/commit/c243df8df330dd52d1b4dac016eefa1f6e3127f4) - 2026-09-16
+* [Commit] [perf: stream progressive tree serialization (#686)](https://github.com/ChainSafe/lodestar-z/commit/0f6352928bdf776384a03acd42afc0eb3cb23eff) - 2026-09-16
+* [Commit] [refactor(ssz): centralize chunked-leaf mutation bookkeeping (#690)](https://github.com/ChainSafe/lodestar-z/commit/9c478c7ce5a63691fe1d90b73e128cf5d9d1318e) - 2026-09-16
+* [Commit] [refactor: extract bit array module (#693)](https://github.com/ChainSafe/lodestar-z/commit/f81415c9f1e53c1e9861b31263c756fdbf947139) - 2026-09-16
+* [Commit] [refactor: bound variable vector hashing (#682)](https://github.com/ChainSafe/lodestar-z/commit/3da79f3ef34a8a229092ccf284eff03bc7baf9bf) - 2026-09-16
+* [Commit] [perf: bound bitlist hashing workspace (#678)](https://github.com/ChainSafe/lodestar-z/commit/0ece14665dcae47082092e55989e77891d3bdc96) - 2026-09-16
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

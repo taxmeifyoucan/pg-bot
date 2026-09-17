@@ -434,6 +434,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(eip8141): discard a frame's transient storage after it runs, not before the next](https://github.com/NethermindEth/nethermind/pull/13500) - 2026-09-15
 * [Review] [Review on: fix(eip8141): discard a frame's transient storage after it runs, not before the next](https://github.com/NethermindEth/nethermind/pull/13500#pullrequestreview-5209655883) - 2026-09-15
 * [Pull Request] [Make the frame-transaction fixtures fail when the invariant does](https://github.com/NethermindEth/nethermind/pull/13505) - 2026-09-15
+* [Pull Request] [perf(eip8141): avoid redundant stack zeroing in the frame-transaction paths](https://github.com/NethermindEth/nethermind/pull/13543) - 2026-09-16
+* [Review] [Review on: perf(eip8141): avoid redundant stack zeroing in the frame-transaction paths](https://github.com/NethermindEth/nethermind/pull/13543#pullrequestreview-5224997570) - 2026-09-16
+* [Pull Request] [refactor(eip8141): give TxFrame's mode and flags their own enums](https://github.com/NethermindEth/nethermind/pull/13544) - 2026-09-16
+* [Review] [Review on: refactor(eip8141): give TxFrame's mode and flags their own enums](https://github.com/NethermindEth/nethermind/pull/13544#pullrequestreview-5225034230) - 2026-09-16
+* [Pull Request] [refactor(evm): collapse the frame-loop checkpoints and extract settlement](https://github.com/NethermindEth/nethermind/pull/13542) - 2026-09-16
+* [Review] [Review on: refactor(evm): collapse the frame-loop checkpoints and extract settlement](https://github.com/NethermindEth/nethermind/pull/13542#pullrequestreview-5224850171) - 2026-09-16
+* [Review] [Review on: Avoid copying execution payload transaction buffers during decoding](https://github.com/NethermindEth/nethermind/pull/13532#pullrequestreview-5222481889) - 2026-09-16
+* [Pull Request] [refactor(consensus): rename ExceptFrameTxValidator to NonFrameTxValidator](https://github.com/NethermindEth/nethermind/pull/13539) - 2026-09-16
+* [Pull Request] [docs(eip8037): say when block gas reservations cannot be computed](https://github.com/NethermindEth/nethermind/pull/13538) - 2026-09-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

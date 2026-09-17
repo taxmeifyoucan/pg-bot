@@ -208,6 +208,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5210749419) - 2026-09-15
 * [Review] [Review on: docs: allow LINQ in tests and benchmark setup](https://github.com/NethermindEth/nethermind/pull/13503#pullrequestreview-5210471599) - 2026-09-15
 * [Commit] [perf: cut the large-object churn that stalls newPayload behind background GCs (#13334)](https://github.com/NethermindEth/nethermind/commit/5e23e5525314b35485c3c57383ef933326093c32) - 2026-09-15
+* [Pull Request] [ci(expb): per-dispatch CPU quota and cpuset overrides with host-cgroup readout](https://github.com/NethermindEth/nethermind/pull/13547) - 2026-09-16
+* [Pull Request] [perf(tracing): give every JavaScript block trace its own V8 runtime](https://github.com/NethermindEth/nethermind/pull/13541) - 2026-09-16
+* [Pull Request] [fix(tracing): reject an unknown tracer name before creating a JavaScript engine](https://github.com/NethermindEth/nethermind/pull/13529) - 2026-09-16
+* [Pull Request] [Stop an unmapped peer client type aborting header sync](https://github.com/NethermindEth/nethermind/pull/13540) - 2026-09-16
+* [Commit] [Support other clients in Fusaka EXPB benchmarks (#13436)](https://github.com/NethermindEth/nethermind/commit/26e23a869ec1af11aadc1a65e89f104cb7c57757) - 2026-09-16
+* [Commit] [ci(rpc-bench): replay the private eth_call corpus as debug_traceCall or trace_call (#13457)](https://github.com/NethermindEth/nethermind/commit/f5af38528c85ea72a7a1431ed4e788376ce43d3a) - 2026-09-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 
@@ -220,6 +226,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat: allow pinning the state-actor builder image (isolate :main regressions)](https://github.com/NethermindEth/gas-benchmarks/commit/fe60db473a2aec5680bd10ec18017d2217416c73) - 2026-08-05
 * [Commit] [fix: wait for async zfs destroy before capacity check](https://github.com/NethermindEth/gas-benchmarks/commit/a094accf7526d67cff3e547e6e6a1ee60a7a5fdb) - 2026-08-05
 * [Commit] [ci: register state-actor Nethermind benchmark workflow (dispatch-only)](https://github.com/NethermindEth/gas-benchmarks/commit/96e06e47e683d092aa5e514cc2a19cf6ba43d77f) - 2026-08-05
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: bug(test-benchmark): give every stateful benchmark the same startup blocks](https://github.com/ethereum/execution-specs/pull/3596#pullrequestreview-5220098126) - 2026-09-16
 ## Q2 2026
 
 

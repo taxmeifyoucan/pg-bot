@@ -159,6 +159,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [fix: don't cancel in-progress publish jobs on master pushes (#11271)](https://github.com/Consensys-Incorporated/teku/commit/01662d5fe7dae207e417bcd3183064521e569454) - 2026-09-15
 * [Commit] [Update dead documentation links (#11268)](https://github.com/Consensys-Incorporated/teku/commit/2f84943ffbcd5bfd95852f7e5cf026932f38b348) - 2026-09-14
 * [Review] [Review on: fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272#pullrequestreview-5217593194) - 2026-09-16
+* [Pull Request] [Post-release 26.9.0](https://github.com/Consensys-Incorporated/teku/pull/11290) - 2026-09-17
+* [Commit] [Post-release 26.9.0 (#11290)](https://github.com/Consensys-Incorporated/teku/commit/5082cb6c7c5308943478b2247e027dd418b4423f) - 2026-09-17
 ## Q2 2026
 
 
