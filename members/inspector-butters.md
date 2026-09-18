@@ -83,6 +83,11 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: slashing protection up to date for keys added mid run](https://github.com/OffchainLabs/prysm/pull/17411#pullrequestreview-5144551846) - 2026-09-08
 * [Commit] [add progressive state schema (#17358)](https://github.com/OffchainLabs/prysm/commit/e8eadd9b90d123e0f909ba1162bbcdd061257b7a) - 2026-09-08
 * [Review] [Review on: Remove `should_override_forkchoice_update` check in forkchoice spectest](https://github.com/OffchainLabs/prysm/pull/17477#pullrequestreview-5166204138) - 2026-09-10
+* [Pull Request] [hdiff optimization: Sparse ApplyValidatorsDiff](https://github.com/OffchainLabs/prysm/pull/17507) - 2026-09-17
+* [Pull Request] [ExecutionBlockHashProof for lightclient](https://github.com/OffchainLabs/prysm/pull/17506) - 2026-09-17
+* [Review] [Review on: Archive mode: backfill to a past state and regenerate history into the hdiff tree](https://github.com/OffchainLabs/prysm/pull/17292#pullrequestreview-5235076891) - 2026-09-17
+* [Pull Request] [archive node: fix startup panic for non initialized statediffcache in saveGenesisData](https://github.com/OffchainLabs/prysm/pull/17505) - 2026-09-17
+* [Commit] [progressive merkle proof generation  (#17444)](https://github.com/OffchainLabs/prysm/commit/143a3fe2d356debc7c15a23650cf76974ee99784) - 2026-09-17
 ## Q2 2026
 
 

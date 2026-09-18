@@ -110,6 +110,7 @@ Team: Geth
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [engine: add Rest-SSZ spec (#793)](https://github.com/ethereum/execution-apis/commit/22e87b3c689f4fd1696baf40328d3c94c02275dd) - 2026-09-02
 * [Review] [Review on: schemas: treat unresolvable safe and finalized tags as unknown blocks](https://github.com/ethereum/execution-apis/pull/879#pullrequestreview-5133599329) - 2026-09-07
+* [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5233561005) - 2026-09-17
 ## Q2 2026
 
 

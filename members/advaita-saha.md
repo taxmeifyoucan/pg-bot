@@ -108,6 +108,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [`create` opcode use code cache](https://github.com/status-im/nimbus-eth1/pull/4779) - 2026-09-11
 * [Pull Request] [remove txRecords and instead use the KVT txFrame](https://github.com/status-im/nimbus-eth1/pull/4789) - 2026-09-13
 * [Commit] [`create` opcode use code cache (#4779)](https://github.com/status-im/nimbus-eth1/commit/8cf573b199424f75fa4a8dd2401df248789de915) - 2026-09-13
+* [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5234066966) - 2026-09-17
+* [Pull Request] [move `tx-broadcast` logs to TRACE level](https://github.com/status-im/nimbus-eth1/pull/4810) - 2026-09-17
+* [Commit] [move tx-broadcast to TRACE level (#4810)](https://github.com/status-im/nimbus-eth1/commit/5d6a7158032ec7f81f85be0300354ee86468716c) - 2026-09-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

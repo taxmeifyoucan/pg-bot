@@ -57,6 +57,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-5035686073) - 2026-08-26
 * [Review] [Review on: Update security contact email to teku-security@consensys.com](https://github.com/Consensys-Incorporated/teku/pull/11222#pullrequestreview-5096553806) - 2026-09-03
 * [Review] [Review on: Fix remaining CI runners](https://github.com/Consensys-Incorporated/teku/pull/11256#pullrequestreview-5160990083) - 2026-09-09
+* [Pull Request] [Integrate forkchoice compliance tests ignoring failures](https://github.com/Consensys-Incorporated/teku/pull/11291) - 2026-09-17
 ## Q2 2026
 
 

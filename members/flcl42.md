@@ -327,6 +327,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: EIP-161 violations fix](https://github.com/NethermindEth/nethermind/pull/13520#pullrequestreview-5220622545) - 2026-09-16
 * [Commit] [Report vmTrace pushes for word operations (#13487)](https://github.com/NethermindEth/nethermind/commit/89486449191e06eff1641449aaff613fa9e0acd1) - 2026-09-16
 * [Commit] [Schedule Sepolia Amsterdam fork (#13455)](https://github.com/NethermindEth/nethermind/commit/473822d87a831d2f65a7cc7961862fae213b4a51) - 2026-09-16
+* [Pull Request] [Use post-refund receipt gas for feeHistory reward percentiles](https://github.com/NethermindEth/nethermind/pull/13563) - 2026-09-17
+* [Pull Request] [Enforce EIP-8037 TX_MAX_TOTAL_GAS_LIMIT on transaction gas](https://github.com/NethermindEth/nethermind/pull/13560) - 2026-09-17
+* [Pull Request] [Load pyspec fixtures lazily to cut NUnit discovery memory](https://github.com/NethermindEth/nethermind/pull/13557) - 2026-09-17
+* [Review] [Review on: Fix stateless rejection terminating DEBUG-enabled hosts](https://github.com/NethermindEth/nethermind/pull/13535#pullrequestreview-5237542453) - 2026-09-17
+* [Pull Request] [Isolate VM test fork activation between tests](https://github.com/NethermindEth/nethermind/pull/13555) - 2026-09-17
+* [Review] [Review on: perf(tracing): give every JavaScript block trace its own V8 runtime](https://github.com/NethermindEth/nethermind/pull/13541#pullrequestreview-5236003516) - 2026-09-17
+* [Commit] [Report previous transient value in TSTORE traces (#13504)](https://github.com/NethermindEth/nethermind/commit/121a77f2cb99b2da8ab5e8cb191e0277d7be9fa2) - 2026-09-17
+* [Commit] [Use system calls for EIP-8037 beacon roots (#13483)](https://github.com/NethermindEth/nethermind/commit/aece1590e714c6b66ec1bd77f563a476fb28b773) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

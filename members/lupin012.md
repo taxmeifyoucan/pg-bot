@@ -229,6 +229,17 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/jsonrpc: gate the call and witness endpoints on the history they read](https://github.com/erigontech/erigon/pull/23996#pullrequestreview-5227037552) - 2026-09-16
 * [Pull Request] [db/rawdb: default genesis difficulty before storing the spec](https://github.com/erigontech/erigon/pull/24076) - 2026-09-16
 * [Commit] [rpc/jsonrpc: gate the call and witness endpoints on the history they read (#23996)](https://github.com/erigontech/erigon/commit/db202b7f3358dadb0f32a11ca0d32960efc68c6f) - 2026-09-16
+* [Pull Request] [rpc/ethapi: report the fee cap as gasPrice for pending dynamic-fee txs](https://github.com/erigontech/erigon/pull/24099) - 2026-09-17
+* [Review] [Review on: rpc/ethapi: report the fee cap as gasPrice for pending dynamic-fee txs](https://github.com/erigontech/erigon/pull/24099#pullrequestreview-5236810112) - 2026-09-17
+* [Pull Request] [rpc/jsonrpc: fail eth_getLogs on a block with no header](https://github.com/erigontech/erigon/pull/24101) - 2026-09-17
+* [Pull Request] [QA: add  tests for eth_getHeaderByNumber() eth_getHeaderByHash()](https://github.com/erigontech/erigon/pull/24094) - 2026-09-17
+* [Pull Request] [execution/types/ethutils, node/privateapi: recover the receipt sender from the chain config](https://github.com/erigontech/erigon/pull/24103) - 2026-09-17
+* [Review] [Review on: rpc/jsonrpc: read account state at the end of the requested block](https://github.com/erigontech/erigon/pull/24056#pullrequestreview-5239969491) - 2026-09-17
+* [Review] [Review on: node, rpc: report the sync session starting block in eth_syncing](https://github.com/erigontech/erigon/pull/24077#pullrequestreview-5237116173) - 2026-09-17
+* [Review] [Review on: rpc/jsonstream, execution/tracing: add Stream.WriteHex](https://github.com/erigontech/erigon/pull/24085#pullrequestreview-5231997206) - 2026-09-17
+* [Issue] [rpc: ots_hasCode reads the state before the selected block](https://github.com/erigontech/erigon/issues/24102) - 2026-09-17
+* [Commit] [db/rawdb: default genesis difficulty before storing the spec (#24076)](https://github.com/erigontech/erigon/commit/87da27ae6448fd1d77c4c406bdbbb75849f2e7cf) - 2026-09-17
+* [Commit] [rpc/jsonrpc: keep the caller's blob fee cap in debug_traceCall (#24038)](https://github.com/erigontech/erigon/commit/b60bbe44151be00a596ae256ca4546e1bd8cd2e0) - 2026-09-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -262,6 +273,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add blockTimestampo to erigon_getLogsByHash (#602)](https://github.com/erigontech/rpc-tests/commit/162d39d8122b180123bea7fa8b83f2a68ef3e173) - 2026-09-12
 * [Commit] [integration: ignore the tracer error field on debug_traceBlockByNumber latest tests (#598)](https://github.com/erigontech/rpc-tests/commit/4a4a87fdb5f4c15a5958f6cc4a6664ea701fa437) - 2026-09-12
 * [Commit] [add Go unit tests across all packages and fix three defects they surfaced (#601)](https://github.com/erigontech/rpc-tests/commit/7198bff2f7b05078e129c5cef8cffd124c34db15) - 2026-09-12
+* [Pull Request] [add eth_getHeaderByNumber and eth_getHeaderByHash tests](https://github.com/erigontech/rpc-tests/pull/603) - 2026-09-17
+* [Commit] [add eth_getHeaderByNumber and eth_getHeaderByHash tests (#603)](https://github.com/erigontech/rpc-tests/commit/21034d4d5893533219c053311abcb2bca31ef085) - 2026-09-17
 ## Q2 2026
 
 

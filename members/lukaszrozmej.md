@@ -531,6 +531,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test: isolate discovery E2E from peer connections (#13514)](https://github.com/NethermindEth/nethermind/commit/174be99affc2d530c5c18859ee508754fee52c89) - 2026-09-16
 * [Commit] [test: deflake nonce manager account isolation (#13512)](https://github.com/NethermindEth/nethermind/commit/cf339c3e13043e30842e9690759c9e0d7db35202) - 2026-09-16
 * [Commit] [Hint the request-queue contracts to the prewarmer (#13502)](https://github.com/NethermindEth/nethermind/commit/4d1cac7ed80720c550dd67fe9aa44ff06d92addf) - 2026-09-16
+* [Review] [Review on: Reduce trie and storage-key hashing overhead](https://github.com/NethermindEth/nethermind/pull/13552#pullrequestreview-5236597162) - 2026-09-17
+* [Review] [Review on: Use system calls for EIP-8037 beacon roots](https://github.com/NethermindEth/nethermind/pull/13483#pullrequestreview-5238410701) - 2026-09-17
+* [Pull Request] [Fix stateless rejection terminating DEBUG-enabled hosts](https://github.com/NethermindEth/nethermind/pull/13535) - 2026-09-17
+* [Review] [Review on: fix(flatdb): keep MinReorgDepth reachable after folding to the finalized boundary](https://github.com/NethermindEth/nethermind/pull/13550#pullrequestreview-5237325019) - 2026-09-17
+* [Review] [Review on: Keep the unknown-original storage flag across repeated writes](https://github.com/NethermindEth/nethermind/pull/13554#pullrequestreview-5236684577) - 2026-09-17
+* [Review] [Review on: chore(deps): update MCL package](https://github.com/NethermindEth/nethermind/pull/13548#pullrequestreview-5232610935) - 2026-09-17
+* [Review] [Review on: Reduce trie and storage-key hashing overhead](https://github.com/NethermindEth/nethermind/pull/13549#pullrequestreview-5232785026) - 2026-09-17
+* [Commit] [Fix stateless rejection terminating DEBUG-enabled hosts (#13535)](https://github.com/NethermindEth/nethermind/commit/323b8d8d90bd656a979b286351ac04cff79ccddb) - 2026-09-17
+* [Commit] [Remove scratch allocations from generated SSZ container hashing (#13533)](https://github.com/NethermindEth/nethermind/commit/6e11b48af85b4baf34aaa5c4d3529919292bda0d) - 2026-09-17
+* [Commit] [Avoid copying execution payload transaction buffers during decoding (#13532)](https://github.com/NethermindEth/nethermind/commit/24e6908e44984d3745e893c598d467956fc4e45c) - 2026-09-17
+* [Commit] [Skip unrelated storage scans when clearing untouched accounts (#13531)](https://github.com/NethermindEth/nethermind/commit/84509e91939602d969cbf9755c8903fda6e9bf23) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

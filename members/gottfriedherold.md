@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8250: Have first byte of the nonce key indicate nonce type](https://github.com/ethereum/EIPs/pull/12352) - 2026-09-17
 ## Q2 2026
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

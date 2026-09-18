@@ -172,6 +172,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unused sync_overseer.nim](https://github.com/status-im/nimbus-eth2/pull/9052) - 2026-09-15
 * [Review] [Review on: engine SSZ REST api](https://github.com/status-im/nimbus-eth2/pull/9048#pullrequestreview-5219084367) - 2026-09-16
 * [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5218865128) - 2026-09-16
+* [Review] [Review on: add getBlobsV4 support into service](https://github.com/status-im/nimbus-eth2/pull/9034#pullrequestreview-5231488466) - 2026-09-17
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

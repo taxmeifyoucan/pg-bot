@@ -363,6 +363,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: Parallel execution: Block-STM executor + versioned state + parallel commitment](https://github.com/erigontech/erigon/pull/23967#pullrequestreview-5200315833) - 2026-09-14
 * [Pull Request] [[DO-NOT-MERGE] execution: add support for EIP-8253](https://github.com/erigontech/erigon/pull/23992) - 2026-09-14
 * [Pull Request] [db/seg: speedup EXTCODESIZE using PeekSize instead of Skip](https://github.com/erigontech/erigon/pull/24082) - 2026-09-17
+* [Review] [Review on: rpc, common/hexutil: introduce MarshalFastJSONTo and use it for eth_getCode](https://github.com/erigontech/erigon/pull/24086#pullrequestreview-5243357710) - 2026-09-18
+* [Review] [Review on: db/state: lazy-ETL collectors](https://github.com/erigontech/erigon/pull/24079#pullrequestreview-5243319265) - 2026-09-18
+* [Review] [Review on: execution/execmodule: retain up to four validated candidate states](https://github.com/erigontech/erigon/pull/24026#pullrequestreview-5238936793) - 2026-09-17
+* [Pull Request] [execution: add engine_getBlobsV4](https://github.com/erigontech/erigon/pull/24088) - 2026-09-17
+* [Commit] [execution: add engine_getBlobsV4 (#24088)](https://github.com/erigontech/erigon/commit/d03460b07e613b2510ec7d0a4fcdf8d71d1870ea) - 2026-09-17
+* [Commit] [db/seg: speedup EXTCODESIZE using PeekSize instead of Skip (#24082)](https://github.com/erigontech/erigon/commit/19693985383b0c6799a6ff107b27fe5aacc5d1d6) - 2026-09-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

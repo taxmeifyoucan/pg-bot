@@ -124,6 +124,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: move pathbased common types into bonsai packages](https://github.com/besu-eth/besu/pull/11292#pullrequestreview-5223470709) - 2026-09-16
 * [Commit] [move pathbased common types into bonsai packages (#11292)](https://github.com/besu-eth/besu/commit/3b459c5162bfd332a6391ef3c22f5a336560834a) - 2026-09-16
 * [Commit] [fix: store latestValidHash when first rejecting an invalid payload (#11304)](https://github.com/besu-eth/besu/commit/5eb8804f8d3c480ac77b8ea617a9c68b9b59d932) - 2026-09-16
+* [Pull Request] [Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11318) - 2026-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

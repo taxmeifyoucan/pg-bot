@@ -96,6 +96,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 * [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-5019572076) - 2026-08-25
 * [Pull Request] [engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885) - 2026-09-11
+* [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5235698296) - 2026-09-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #07, August 12, 2026](https://github.com/ethereum/pm/issues/2184) - 2026-08-09
 * [Issue] [L1-zkEVM breakout #08, September 09, 2026](https://github.com/ethereum/pm/issues/2215) - 2026-09-07

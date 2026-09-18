@@ -161,6 +161,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272#pullrequestreview-5217593194) - 2026-09-16
 * [Pull Request] [Post-release 26.9.0](https://github.com/Consensys-Incorporated/teku/pull/11290) - 2026-09-17
 * [Commit] [Post-release 26.9.0 (#11290)](https://github.com/Consensys-Incorporated/teku/commit/5082cb6c7c5308943478b2247e027dd418b4423f) - 2026-09-17
+* [Pull Request] [Add step retry for integration/acceptance test shards](https://github.com/Consensys-Incorporated/teku/pull/11293) - 2026-09-17
 ## Q2 2026
 
 

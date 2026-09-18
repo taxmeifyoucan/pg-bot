@@ -186,6 +186,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [bsc: apply Parlia system-contract upgrades at fork boundaries](https://github.com/erigontech/erigon/pull/24029) - 2026-09-15
 * [Pull Request] [bsc: cross-chain light-client precompiles (0x64/0x65)](https://github.com/erigontech/erigon/pull/24015) - 2026-09-15
 * [Review] [Review on: db/state: read history values through PagedReader](https://github.com/erigontech/erigon/pull/24045#pullrequestreview-5220785602) - 2026-09-16
+* [Pull Request] [nano HF support for bsc](https://github.com/erigontech/erigon/pull/24095) - 2026-09-17
+* [Review] [Review on: add flag for range downloader block batch size](https://github.com/erigontech/erigon/pull/24050#pullrequestreview-5233004939) - 2026-09-17
 ## Q2 2026
 
 

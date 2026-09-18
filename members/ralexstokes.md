@@ -8,6 +8,12 @@ Team: Applied Research Group (ARG)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7773: Set Sepolia activation time](https://github.com/ethereum/EIPs/pull/12355) - 2026-09-17
+* [Commit] [Update EIP-7773: Set Sepolia activation time](https://github.com/ethereum/EIPs/commit/644b84799ba6873edcb13c0e21fdd319b4efbc08) - 2026-09-17
 ## Q2 2026
 
 

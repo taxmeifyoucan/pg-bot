@@ -386,6 +386,41 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(sumcheck): reduce a skip round's opening to an evaluation point (#2135)](https://github.com/Plonky3/Plonky3/commit/08facabb3bc3457452e42aa8c651b96b9aea9c9a) - 2026-09-16
 * [Commit] [perf(blake3): hash a batch of messages through one SIMD compression (#2151)](https://github.com/Plonky3/Plonky3/commit/cdd7a3881815f262f25c7991542c6dbff8636f17) - 2026-09-16
 * [Commit] [perf(sha256): hash four messages at once with x86-64 SHA-NI (#2152)](https://github.com/Plonky3/Plonky3/commit/98664b80151855294a064e1c8f2691d784f38e02) - 2026-09-16
+* [Pull Request] [feat(binary-pcs)!: build the small-field commitment path](https://github.com/Plonky3/Plonky3/pull/2166) - 2026-09-17
+* [Review] [Review on: perf(sumcheck,binary-pcs): build the residual weights in the representation field](https://github.com/Plonky3/Plonky3/pull/2177#pullrequestreview-5241570984) - 2026-09-17
+* [Review] [Review on: perf(sumcheck,binary-pcs): run binary PCS sumcheck rounds in Ghash128 and bind long suffix rounds in place](https://github.com/Plonky3/Plonky3/pull/2174#pullrequestreview-5238996641) - 2026-09-17
+* [Review] [Review on: feat(examples): choose the Merkle arity of the binary examples](https://github.com/Plonky3/Plonky3/pull/2182#pullrequestreview-5241521338) - 2026-09-17
+* [Review] [Review on: perf(keccak): absorb every state word across all lanes with one store in hash_many](https://github.com/Plonky3/Plonky3/pull/2176#pullrequestreview-5241469365) - 2026-09-17
+* [Review] [Review on: perf(examples): allocate through jemalloc with transparent huge pages on Linux](https://github.com/Plonky3/Plonky3/pull/2180#pullrequestreview-5241450856) - 2026-09-17
+* [Review] [Review on: fix(binary-field): run the GHASH inversion chain before deciding on zero](https://github.com/Plonky3/Plonky3/pull/2179#pullrequestreview-5241439797) - 2026-09-17
+* [Review] [Review on: perf(binary-field): allocate zero vectors of the polynomial-basis fields lazily](https://github.com/Plonky3/Plonky3/pull/2181#pullrequestreview-5241431650) - 2026-09-17
+* [Review] [Review on: perf(sumcheck,multi-stark,binary-field): faster binary PCS openings, zerocheck kernels and tower serialization](https://github.com/Plonky3/Plonky3/pull/2165#pullrequestreview-5236045218) - 2026-09-17
+* [Review] [Review on: feat(examples): prove Keccak-f and BLAKE3 over GF(2^128) with the binary PCS](https://github.com/Plonky3/Plonky3/pull/2164#pullrequestreview-5236044270) - 2026-09-17
+* [Pull Request] [perf(binary-dft): exploit subfield structure in the additive transform and the encoder](https://github.com/Plonky3/Plonky3/pull/2173) - 2026-09-17
+* [Pull Request] [feat(binary-field)!: add the AES field, GF(2^64) and the Frobenius engine](https://github.com/Plonky3/Plonky3/pull/2162) - 2026-09-17
+* [Review] [Review on: feat(binary-field)!: add the AES field, GF(2^64) and the Frobenius engine](https://github.com/Plonky3/Plonky3/pull/2162#pullrequestreview-5236362793) - 2026-09-17
+* [Review] [Review on: feat(multi-stark): run the indexed reduction inside the proof](https://github.com/Plonky3/Plonky3/pull/2150#pullrequestreview-5233040627) - 2026-09-17
+* [Review] [Review on: feat(lookup,multi-stark)!: declare and plan indexed lookups](https://github.com/Plonky3/Plonky3/pull/2146#pullrequestreview-5233038507) - 2026-09-17
+* [Review] [Review on: fix(multi-stark): build opening points and batches from one description](https://github.com/Plonky3/Plonky3/pull/2144#pullrequestreview-5233038133) - 2026-09-17
+* [Review] [Review on: feat(binary-field): add bit-sliced GF(2) packings and the square bit transpose](https://github.com/Plonky3/Plonky3/pull/2161#pullrequestreview-5232961679) - 2026-09-17
+* [Review] [Review on: perf(binary-dft)!: scale by the twiddle's own subfield](https://github.com/Plonky3/Plonky3/pull/2160#pullrequestreview-5232849226) - 2026-09-17
+* [Review] [Review on: perf(sumcheck): fold pinned zerocheck blocks without multiplying](https://github.com/Plonky3/Plonky3/pull/2159#pullrequestreview-5232848108) - 2026-09-17
+* [Issue] [fix(binary-field): remove the zero branch from GHASH inversion](https://github.com/Plonky3/Plonky3/issues/2172) - 2026-09-17
+* [Issue] [perf(binary-field): packed GHASH on AArch64 via PMULL and EOR3](https://github.com/Plonky3/Plonky3/issues/2163) - 2026-09-17
+* [Issue] [perf(binary-field): AES-field product and linear-map engine on AArch64](https://github.com/Plonky3/Plonky3/issues/2171) - 2026-09-17
+* [Issue] [perf(binary-field): whole-block change of basis on AArch64](https://github.com/Plonky3/Plonky3/issues/2170) - 2026-09-17
+* [Issue] [perf(binary-dft): subfield-twiddle butterfly on AArch64](https://github.com/Plonky3/Plonky3/issues/2169) - 2026-09-17
+* [Issue] [perf(sha256): hash several messages at once with the ARMv8 SHA-2 extension](https://github.com/Plonky3/Plonky3/issues/2168) - 2026-09-17
+* [Issue] [fix(multi-stark): packed prefix compression panics under target-cpu=native](https://github.com/Plonky3/Plonky3/issues/2167) - 2026-09-17
+* [Commit] [feat(binary-field)!: add the AES field, GF(2^64) and the Frobenius engine (#2162)](https://github.com/Plonky3/Plonky3/commit/19ea7904720c59d89c19702444401ecc6e2a16b2) - 2026-09-17
+* [Commit] [feat(multi-stark): run the indexed reduction inside the proof (#2150)](https://github.com/Plonky3/Plonky3/commit/2a240a4bdbf5073441b89393c34fc7a71853707d) - 2026-09-17
+* [Commit] [feat(security,multi-stark)!: charge and make room for the indexed reduction (#2149)](https://github.com/Plonky3/Plonky3/commit/ce322afe00c7afa92a83652891604f363d5fd8e8) - 2026-09-17
+* [Commit] [feat(lookup,multi-stark)!: declare and plan indexed lookups (#2146)](https://github.com/Plonky3/Plonky3/commit/c00b0c42ca5df8011fe09b96bb0301b4b81ead8d) - 2026-09-17
+* [Commit] [fix(multi-stark): build opening points and batches from one description (#2144)](https://github.com/Plonky3/Plonky3/commit/e55872a2c1023d383a606a47082944bfde8ff0b9) - 2026-09-17
+* [Commit] [feat(binary-field): add bit-sliced GF(2) packings and the square bit transpose (#2161)](https://github.com/Plonky3/Plonky3/commit/7d12cd5128bcaed686bb546295faa03907af5fe7) - 2026-09-17
+* [Commit] [perf(binary-dft)!: scale by the twiddle's own subfield (#2160)](https://github.com/Plonky3/Plonky3/commit/16addd4d607ac8a2f9cd72e69e5332eaa48af4c9) - 2026-09-17
+* [Commit] [perf(sumcheck): fold pinned zerocheck blocks without multiplying (#2159)](https://github.com/Plonky3/Plonky3/commit/5efe2bb24fbf4dfb612950344e9529c93c5d6ad0) - 2026-09-17
+* [Commit] [test(transcript): tie each unpriced grinding site to the config it is credited from (#2143)](https://github.com/Plonky3/Plonky3/commit/1e111955fad4f9d6a523468de83fe4717ecf6ab1) - 2026-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

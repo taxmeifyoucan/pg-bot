@@ -69,6 +69,7 @@ Team: Reth
 * [Review] [Review on: chore: prune unused zepter features](https://github.com/paradigmxyz/reth/pull/27118#pullrequestreview-5154263577) - 2026-09-09
 * [Review] [Review on: chore: remove mdbook leftovers](https://github.com/paradigmxyz/reth/pull/27117#pullrequestreview-5154257646) - 2026-09-09
 * [Pull Request] [perf(bal): share received code hashes across conversion and trie streaming](https://github.com/paradigmxyz/reth/pull/27260) - 2026-09-15
+* [Review] [Review on: fix(engine): set transaction index for rebuilt BAL](https://github.com/paradigmxyz/reth/pull/27296#pullrequestreview-5238467208) - 2026-09-17
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

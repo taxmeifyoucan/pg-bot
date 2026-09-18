@@ -112,6 +112,47 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [zkvm_zisk: place PROGBITS sections ahead of the TLS template](https://github.com/NethermindEth/bflat-riscv64/commit/acee0ec11a2bb2199e941380ae0336caa429cdea) - 2026-08-20
 * [Commit] [BuildCommand: fix ZisK memcmp idiom comment operands](https://github.com/NethermindEth/bflat-riscv64/commit/66064fcf3e25e013592689628d4174e141dd0b5f) - 2026-08-20
 * [Pull Request] [Support for new zkVMs](https://github.com/NethermindEth/bflat-riscv64/pull/42) - 2026-09-11
+* [Commit] [tests: cover noos, the Console wrappers and the non-crypto RNG](https://github.com/NethermindEth/bflat-riscv64/commit/c50b5b5a1d8254cc728b8dbb0f81dbecb6951c18) - 2026-09-17
+* [Commit] [Build: move every leg onto the softfloat3 releases](https://github.com/NethermindEth/bflat-riscv64/commit/70cebee398c6c1438d04b8d59ebae81a603f644c) - 2026-09-17
+* [Commit] [patch_elf: treat c.nop padding as padding](https://github.com/NethermindEth/bflat-riscv64/commit/27b27634eb8b5cf1e0aacf369d055692d24763da) - 2026-09-17
+* [Commit] [Build: .NET 10 perf on the release that widens a float before converting](https://github.com/NethermindEth/bflat-riscv64/commit/ffebf90d99cfbd66d0c2a3b88956f5164bfe02f0) - 2026-09-17
+* [Commit] [Build: .NET 10 perf on the release that lowers multiply and divide](https://github.com/NethermindEth/bflat-riscv64/commit/1f1e6ba38cc0f30cd8677ab48b602ef44d326a53) - 2026-09-17
+* [Commit] [Build: .NET 11 perf on the release with a complete musl rootfs](https://github.com/NethermindEth/bflat-riscv64/commit/4ded532b4cc25684521b3f95bd1038981a8abcd8) - 2026-09-17
+* [Commit] [Build: .NET 11 perf on the release that lowers multiply and divide](https://github.com/NethermindEth/bflat-riscv64/commit/6a021ba73a93a0cf1436df33b8e9e89849dd5ab0) - 2026-09-17
+* [Commit] [nofp: let the % operator through to musl's fmod](https://github.com/NethermindEth/bflat-riscv64/commit/c84d5af8fd4a7538c530e063ee2e0b57b88f2c19) - 2026-09-17
+* [Commit] [zkVM: link libgcc.a for the soft-float builtins](https://github.com/NethermindEth/bflat-riscv64/commit/af0120d274fad1ef156caa470bb5e5d53444e629) - 2026-09-17
+* [Commit] [nofp tests: the list now says what must not be trapped](https://github.com/NethermindEth/bflat-riscv64/commit/402c79b00ded255e8ba5f21976507312f740ead2) - 2026-09-17
+* [Commit] [nofp: stop trapping the soft-float builtins](https://github.com/NethermindEth/bflat-riscv64/commit/8b8940d30fe0eac86a45740651a272febcbdcde1) - 2026-09-17
+* [Commit] [rhp: repair the FStat contract mangled by escape expansion](https://github.com/NethermindEth/bflat-riscv64/commit/8b484f9bf45531e08077d19d6ffcd8d88d8584c3) - 2026-09-17
+* [Commit] [rhp, noos: let a guest use System.Console on the zkVM targets](https://github.com/NethermindEth/bflat-riscv64/commit/fa2a3c68f9c2640cd6dbab370cbde964a0bee694) - 2026-09-17
+* [Commit] [Build: .NET 11 perf on the release that carries the ZisK memcmp fix](https://github.com/NethermindEth/bflat-riscv64/commit/f86f2cf38e2cf41f667347258689c3f783746f20) - 2026-09-17
+* [Commit] [Build: .NET 10 perf on r318, which drops the deprecated ZisK memcmp pattern](https://github.com/NethermindEth/bflat-riscv64/commit/fc00604c17b3d2ec1501a28234503dc7a4da6a4d) - 2026-09-17
+* [Commit] [zkvm_sp1: make the reference to sp1-zkvm's __start weak](https://github.com/NethermindEth/bflat-riscv64/commit/be20a19abe745c55f57e4cbe3cd54595215f22cb) - 2026-09-17
+* [Commit] [IsaVerifier: satisfy CA1866 on the augmentation-string check](https://github.com/NethermindEth/bflat-riscv64/commit/71b37a923e88762aa1e3a409e10fb4fd30f13971) - 2026-09-17
+* [Commit] [Build: move all four legs onto the current runtime releases](https://github.com/NethermindEth/bflat-riscv64/commit/c20b4113adbcdfb7c0ecd06264bc138f929c830c) - 2026-09-17
+* [Commit] [build: bump pinned runtime release tags](https://github.com/NethermindEth/bflat-riscv64/commit/45c8fbe08e5d95ddcfca9fd7c09da6fa38da9638) - 2026-09-17
+* [Commit] [docs: bring the SP1/OpenVM pages up to the shipped design](https://github.com/NethermindEth/bflat-riscv64/commit/1ecc40a3d99839eb6eac981dbb76bd8d62aa018c) - 2026-09-17
+* [Commit] [modules: real sigaddset, safer patch_elf, entry tests for sp1/openvm](https://github.com/NethermindEth/bflat-riscv64/commit/aec0fbc83d816d7e9254c0d51f762e1c59d21abb) - 2026-09-17
+* [Commit] [CI: derive riscv64 build matrices from a selector job](https://github.com/NethermindEth/bflat-riscv64/commit/90e9fe4cde32237bd356d70dc068bd0e395f4070) - 2026-09-17
+* [Commit] [zkvm_sp1: move guest image base below 2^31](https://github.com/NethermindEth/bflat-riscv64/commit/9d0c1b3c8472d6aabe3aba4865a7e49edcbaebb7) - 2026-09-17
+* [Commit] [uBootstrap: match PalGetModuleHandleFromPointer to .NET 11](https://github.com/NethermindEth/bflat-riscv64/commit/cb9e54ea7d5415ebef28de689f4a0d068fe74b1b) - 2026-09-17
+* [Commit] [patch_elf: add --nop-fences and --nop-zero-words rewrites](https://github.com/NethermindEth/bflat-riscv64/commit/8b2ac86deeca99fab7b5a0ce7f4b9936dc44d03c) - 2026-09-17
+* [Commit] [zkVM: replace musl startup and OS surface with noos module](https://github.com/NethermindEth/bflat-riscv64/commit/04e5e18c0793c90531de2145cb81d0832e8911fc) - 2026-09-17
+* [Commit] [IsaVerifier: clip function symbols to their unwind range](https://github.com/NethermindEth/bflat-riscv64/commit/33e5aab6b4ebeffc87c7613ca1cac61ef0fc3265) - 2026-09-17
+* [Commit] [BuildCommand: build zkVM guests as rv64im soft-float](https://github.com/NethermindEth/bflat-riscv64/commit/cc563938fbe8e2e7f828107637f164f6d6a0008a) - 2026-09-17
+* [Commit] [Build: key runtime blobs by dotnet-riscv release tag](https://github.com/NethermindEth/bflat-riscv64/commit/d8d9245308aff289da2ef343d719ad5a4a59ee71) - 2026-09-17
+* [Commit] [zkvm_openvm: keep .modules' load address in ram](https://github.com/NethermindEth/bflat-riscv64/commit/152fbf4a5d18f75eb74b12541ed8c2fbb0be301f) - 2026-09-17
+* [Commit] [zkvm_openvm: page-align the read-only segment](https://github.com/NethermindEth/bflat-riscv64/commit/923e1e6d75095992ae2d956eacd882acfa31d8cd) - 2026-09-17
+* [Commit] [nothread: displace the stdio paths that lock inline](https://github.com/NethermindEth/bflat-riscv64/commit/b95f192e911a3f94bb91e12647895d88b4d31643) - 2026-09-17
+* [Commit] [nothread: leave three symbols to the musl members that own them](https://github.com/NethermindEth/bflat-riscv64/commit/ad33f3668975b05589a43bb74add99121b57646e) - 2026-09-17
+* [Commit] [zkvm: put nothread.o ahead of libc.a on the link line](https://github.com/NethermindEth/bflat-riscv64/commit/d80d43f33c06ef611e229b001c87d7a722598bef) - 2026-09-17
+* [Commit] [zkvm: replace musl's locking primitives on sp1 and openvm](https://github.com/NethermindEth/bflat-riscv64/commit/a6b44c186dba2234e69f9d3d471594e20ba56bf1) - 2026-09-17
+* [Commit] [pal: let libzkevm commit SP1's public-values digest](https://github.com/NethermindEth/bflat-riscv64/commit/96e77029d3eaf86185f203972001b784d891a1fa) - 2026-09-17
+* [Commit] [BuildCommand: spell the zkVM define as an if-chain](https://github.com/NethermindEth/bflat-riscv64/commit/db5e4f0b79375443740aa3defea02fe2b041ce30) - 2026-09-17
+* [Commit] [fix the analyzer and fuzz-link fallout of the zkVM target rework](https://github.com/NethermindEth/bflat-riscv64/commit/1adcc4e47464aace530c96888c06db5ceef64630) - 2026-09-17
+* [Commit] [perf variant: move to the v10.0.0.p4 runtime](https://github.com/NethermindEth/bflat-riscv64/commit/8828e6471413288f23fc9b3eabdececb9d452811) - 2026-09-17
+* [Commit] [docs: cover the sp1 and openvm targets](https://github.com/NethermindEth/bflat-riscv64/commit/88fa770f9acbf736e1e6b73292609eec75109748) - 2026-09-17
+* [Commit] [zkvm: add the sp1 and openvm targets](https://github.com/NethermindEth/bflat-riscv64/commit/77eef722b7cb41615ab6a78d63f779e83b4c45e0) - 2026-09-17
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 * [Commit] [tools/clang: match Runtime.*.dir objects as client code](https://github.com/NethermindEth/dotnet-riscv/commit/511edf6e28ee1172c5968632bcf454e5a7bc2ebf) - 2026-08-11

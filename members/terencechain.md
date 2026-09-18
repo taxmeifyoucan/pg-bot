@@ -246,6 +246,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Limit V3 codec coverage to pre-Gloas forks](https://github.com/OffchainLabs/prysm/pull/17502#pullrequestreview-5230522686) - 2026-09-17
 * [Review] [Review on: Report received and expected status in builder client status mismatch errors](https://github.com/OffchainLabs/prysm/pull/17495#pullrequestreview-5230364504) - 2026-09-17
 * [Review] [Review on: Partial data column containers for Gloas ](https://github.com/OffchainLabs/prysm/pull/17348#pullrequestreview-5224035247) - 2026-09-16
+* [Pull Request] [Keep last known good peer chain state on status validation failure](https://github.com/OffchainLabs/prysm/pull/17509) - 2026-09-17
+* [Review] [Review on: Enforce ProgressiveList limits defined on STF during unmarshal](https://github.com/OffchainLabs/prysm/pull/17412#pullrequestreview-5230584934) - 2026-09-17
+* [Commit] [Report received and expected status in builder client status mismatch errors (#17495)](https://github.com/OffchainLabs/prysm/commit/011d0135a5ae94b79b3028faeedbd71a8dcaee60) - 2026-09-17
+* [Commit] [Log when a Gloas builder returns no bid (#17494)](https://github.com/OffchainLabs/prysm/commit/9deeea904fc2b938b752cdd2685942b3f4ff4c8a) - 2026-09-17
+* [Commit] [Add the dependent root check to proposer preferences gossip (#17485)](https://github.com/OffchainLabs/prysm/commit/2d8ad8a617f8c418fcedbbaccdf203dcd8a8fb9d) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

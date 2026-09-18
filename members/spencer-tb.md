@@ -335,6 +335,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(ci): cut devnet fixture releases from any branch](https://github.com/ethereum/execution-specs/pull/3601) - 2026-09-16
 * [Review] [Review on: chore(ci,test-consume,test-specs,tests): backport devnets/focil/0 fixes to eip-7805](https://github.com/ethereum/execution-specs/pull/3595#pullrequestreview-5222470625) - 2026-09-16
 * [Review] [Review on: fix(test-client-clis): match besu's new insufficient funds messages](https://github.com/ethereum/execution-specs/pull/3598#pullrequestreview-5222321523) - 2026-09-16
+* [Pull Request] [chore(tests): complete EIP-7778 checklist and add access-list arm to the calldata floor test](https://github.com/ethereum/execution-specs/pull/3616) - 2026-09-17
+* [Pull Request] [chore(tests): expand and harden EIP-7997 factory coverage](https://github.com/ethereum/execution-specs/pull/3614) - 2026-09-17
+* [Pull Request] [feat(tests): cover same-block system contract deployment](https://github.com/ethereum/execution-specs/pull/3615) - 2026-09-17
+* [Review] [Review on: feat(tests,specs): eip7928 extended coverage](https://github.com/ethereum/execution-specs/pull/3566#pullrequestreview-5236139295) - 2026-09-17
+* [Review] [Review on: refactor(test-benchmark): migrate benchmark suite to devnet-8](https://github.com/ethereum/execution-specs/pull/3411#pullrequestreview-5235255541) - 2026-09-17
+* [Review] [Review on: fix(ci,test): fix issues with PR CI runs in focil branch](https://github.com/ethereum/execution-specs/pull/3594#pullrequestreview-5235005925) - 2026-09-17
+* [Commit] [feat(ci): cut devnet fixture releases from any branch (#3601)](https://github.com/ethereum/execution-specs/commit/1c8b05b2c75fb38350d01c01cb5a74d936e60a61) - 2026-09-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -385,6 +392,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-8037: note that gas_left can increase within a frame](https://github.com/ethereum/EIPs/pull/12285) - 2026-09-02
 * [Pull Request] [Update EIP-8037: remove stale EIP-7610 collision rules](https://github.com/ethereum/EIPs/pull/12296) - 2026-09-04
 * [Commit] [Update EIP-2780: align runtime charging and reference cases](https://github.com/ethereum/EIPs/commit/7243c92ba812437c64bae9fc6524ee269b29daa9) - 2026-09-04
+* [Pull Request] [Update EIP-7843: align Engine API method names with execution-apis](https://github.com/ethereum/EIPs/pull/12354) - 2026-09-17
+* [Pull Request] [Update EIP-8038: use execution-gas wording, fix the CALLCODE creation cell and a stale benchmark test name](https://github.com/ethereum/EIPs/pull/12353) - 2026-09-17
+* [Commit] [Update EIP-7843: align Engine API method names with execution-apis](https://github.com/ethereum/EIPs/commit/e44e1960a9328282af8dd884837c2302f6a45c3d) - 2026-09-17
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix genesis slotNumber parsing and require the header field from Amsterdam](https://github.com/besu-eth/besu/pull/11038) - 2026-08-13
 

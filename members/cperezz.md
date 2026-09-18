@@ -39,6 +39,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [fix(consume): skip Besu evmtool's non-JSON summary line in state-test output](https://github.com/ethereum/execution-specs/pull/3610) - 2026-09-16
 * [Issue] [consume direct: block-test failures against Nethermind nethtest are never detected](https://github.com/ethereum/execution-specs/issues/3609) - 2026-09-16
 * [Issue] [fill: plain pytest test in a fixture directory crashes collection with INTERNALERROR](https://github.com/ethereum/execution-specs/issues/3608) - 2026-09-16
+* [Commit] [fix(test-consume): skip Besu evmtool's non-JSON summary line in state-test output (#3610)](https://github.com/ethereum/execution-specs/commit/2645291933b12217b56e8736207677e84e1744df) - 2026-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 
@@ -79,6 +80,7 @@ Github: [@cperezz](https://github.com/cperezz)
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [latestValidHash becomes 0x00..0 when the same invalid block is mentioned again](https://github.com/besu-eth/besu/issues/11299) - 2026-09-15
 
+* [Issue] [engine_newPayload returns INVALID when the parent world state is unavailable](https://github.com/besu-eth/besu/issues/11314) - 2026-09-17
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [forkchoiceUpdated: the no-reorg shortcut is applied even when no finalized block is known](https://github.com/paradigmxyz/reth/issues/27244) - 2026-09-15
 * [Issue] [engine_forkchoiceUpdated commits the chain update before returning -38002 (forkchoice state not updated atomically)](https://github.com/paradigmxyz/reth/issues/27242) - 2026-09-15

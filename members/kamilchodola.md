@@ -214,6 +214,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Stop an unmapped peer client type aborting header sync](https://github.com/NethermindEth/nethermind/pull/13540) - 2026-09-16
 * [Commit] [Support other clients in Fusaka EXPB benchmarks (#13436)](https://github.com/NethermindEth/nethermind/commit/26e23a869ec1af11aadc1a65e89f104cb7c57757) - 2026-09-16
 * [Commit] [ci(rpc-bench): replay the private eth_call corpus as debug_traceCall or trace_call (#13457)](https://github.com/NethermindEth/nethermind/commit/f5af38528c85ea72a7a1431ed4e788376ce43d3a) - 2026-09-16
+* [Review] [Review on: Default all sync test networks to Spot](https://github.com/NethermindEth/nethermind/pull/13556#pullrequestreview-5236867893) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

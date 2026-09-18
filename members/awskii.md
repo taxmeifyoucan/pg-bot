@@ -585,6 +585,20 @@ Team: Erigon
 * [Pull Request] [execution/commitment: cover a budget-deferred db-hit resolving after the overlay rotates](https://github.com/erigontech/erigon/pull/24066) - 2026-09-16
 * [Commit] [execution/commitment: fork the parallel trie walk at any depth (#23972)](https://github.com/erigontech/erigon/commit/184d76c9c67890e3ba83a3e6c292a128a8066f2e) - 2026-09-16
 * [Commit] [execmodule: validate fork-choice hashes before early acknowledgement (#24020)](https://github.com/erigontech/erigon/commit/e83da168c2aa08b21b4eac5e097027b19a56489d) - 2026-09-16
+* [Review] [Review on: db/state: lazy-ETL collectors](https://github.com/erigontech/erigon/pull/24079#pullrequestreview-5231050773) - 2026-09-17
+* [Pull Request] [execution/commitment: release demoted contract trunks and bound the pin hint](https://github.com/erigontech/erigon/pull/24087) - 2026-09-17
+* [Review] [Review on: cl: make lru.CacheWithTTL closable](https://github.com/erigontech/erigon/pull/24022#pullrequestreview-5231050443) - 2026-09-17
+* [Review] [Review on: rpc/jsonrpc: read account state at the end of the requested block](https://github.com/erigontech/erigon/pull/24056#pullrequestreview-5230957573) - 2026-09-17
+* [Review] [Review on: execution/commitment: hash a leaf key without writing it into the cell path](https://github.com/erigontech/erigon/pull/24057#pullrequestreview-5230958123) - 2026-09-17
+* [Review] [Review on: cache: fix mem-leak ByteLRU](https://github.com/erigontech/erigon/pull/24093#pullrequestreview-5232633548) - 2026-09-17
+* [Review] [Review on: db/state: share the latest-from-files cache between txs](https://github.com/erigontech/erigon/pull/24080#pullrequestreview-5231079928) - 2026-09-17
+* [Review] [Review on: rpc/jsonrpc: verify witnesses statelessly only under ERIGON_ASSERT](https://github.com/erigontech/erigon/pull/24078#pullrequestreview-5231051320) - 2026-09-17
+* [Review] [Review on: rpc: serve eth_getProof by walking the witness nodes by hash](https://github.com/erigontech/erigon/pull/24034#pullrequestreview-5231051658) - 2026-09-17
+* [Review] [Review on: rpc/jsonrpc: build one `eth_getProof` witness for the account and its storage keys](https://github.com/erigontech/erigon/pull/24004#pullrequestreview-5230953639) - 2026-09-17
+* [Review] [Review on: [r3.5] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24065#pullrequestreview-5231231551) - 2026-09-17
+* [Commit] [cl/phase1/forkchoice: deflake TestExecutionPayloadIndexWriteHasSingleNotificationOwner (#24019)](https://github.com/erigontech/erigon/commit/11f3aa3b5aad60d345f6a028abfe3a519cf07d62) - 2026-09-17
+* [Commit] [execution/commitment: cover a budget-deferred db-hit resolving after the overlay rotates (#24066)](https://github.com/erigontech/erigon/commit/96b10af2f298fab0222c10845dfa9fc616c7d3e4) - 2026-09-17
+* [Commit] [execution, rpc: decode block access list addresses without interning (#24024)](https://github.com/erigontech/erigon/commit/2769842e79d160f870dfe2962af1aa8556073e52) - 2026-09-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

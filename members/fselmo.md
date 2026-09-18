@@ -53,6 +53,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [feat(tests): eip8282 checklist review (#3565)](https://github.com/ethereum/execution-specs/commit/1cf1c08e4060d7af407bc65557e2372447e9c05f) - 2026-09-15
 * [Pull Request] [feat(tests): EIP-8037 credits from a sibling frame after a child's spill](https://github.com/ethereum/execution-specs/pull/3611) - 2026-09-16
 * [Commit] [chore(test-cli): check EIP reference versions up to Amsterdam (#3592)](https://github.com/ethereum/execution-specs/commit/7942da065578d29099447cbe658a8fde32881d13) - 2026-09-16
+* [Commit] [feat(tests,specs): eip7928 extended coverage (#3566)](https://github.com/ethereum/execution-specs/commit/a9792ab73b8195d5a8dc24b2ef6cca7687cd6b2b) - 2026-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

@@ -41,6 +41,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962#pullrequestreview-5167974669) - 2026-09-10
 * [Review] [Review on: fix broken JMH benchmarks](https://github.com/besu-eth/besu/pull/11245#pullrequestreview-5165666343) - 2026-09-10
 * [Review] [Review on: Remove EIP-7610, update reference tests to tests@v20.0.2 and fix reference test harness](https://github.com/besu-eth/besu/pull/11191#pullrequestreview-5181237181) - 2026-09-11
+* [Pull Request] [Revert TreeSet/TreeBasedTable usage in warm address/storage and transient storage](https://github.com/besu-eth/besu/pull/11319) - 2026-09-18
 ## Q2 2026
 
 

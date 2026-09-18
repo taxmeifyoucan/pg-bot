@@ -89,6 +89,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Reject bids from exiting builders in gossip validation and filter at proposing](https://github.com/grandinetech/grandine/commit/998a78869f8489852d73ef586a4aa6d209dd6aa8) - 2026-09-11
 * [Commit] [Reject bids with block_hash equal to parent_block_hash](https://github.com/grandinetech/grandine/commit/82f6677792cc30cf8effcf2ecfb4b8a980937b8a) - 2026-09-11
 * [Commit] [Ignore proposer preferences for pre-Gloas slots](https://github.com/grandinetech/grandine/commit/4d0de6b299618bac47fef8c1e88763e3bbc83444) - 2026-09-11
+* [Pull Request] [Only serve canonical payload envelopes by range](https://github.com/grandinetech/grandine/pull/924) - 2026-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

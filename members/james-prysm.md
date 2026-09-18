@@ -232,6 +232,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Enforce proposer settings schema from file/URL loading](https://github.com/OffchainLabs/prysm/pull/17498#pullrequestreview-5224835437) - 2026-09-16
 * [Pull Request] [grpc use execution_payload_available event](https://github.com/OffchainLabs/prysm/pull/17500) - 2026-09-16
 * [Review] [Review on: grpc use execution_payload_available event](https://github.com/OffchainLabs/prysm/pull/17500#pullrequestreview-5228110732) - 2026-09-16
+* [Review] [Review on: Add the dependent root check to proposer preferences gossip](https://github.com/OffchainLabs/prysm/pull/17485#pullrequestreview-5230560051) - 2026-09-17
+* [Pull Request] [fixing 204 handling for rest ptc attestation](https://github.com/OffchainLabs/prysm/pull/17510) - 2026-09-17
+* [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5230559183) - 2026-09-17
+* [Review] [Review on: Add last Payload at forkchoice setup](https://github.com/OffchainLabs/prysm/pull/17508#pullrequestreview-5241254450) - 2026-09-17
+* [Review] [Review on: gloas checkpoint sync withheld payload fix](https://github.com/OffchainLabs/prysm/pull/17458#pullrequestreview-5237818212) - 2026-09-17
+* [Review] [Review on: Serve available historical Gloas payload envelopes by root](https://github.com/OffchainLabs/prysm/pull/17499#pullrequestreview-5236704442) - 2026-09-17
+* [Review] [Review on: Enforce proposer settings schema from file/URL loading](https://github.com/OffchainLabs/prysm/pull/17498#pullrequestreview-5237000344) - 2026-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

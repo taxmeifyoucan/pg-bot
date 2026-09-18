@@ -841,6 +841,19 @@ Team: Reth
 * [Review] [Review on: chore: clean up cargo manifest warnings](https://github.com/paradigmxyz/reth/pull/27263#pullrequestreview-5220219800) - 2026-09-16
 * [Commit] [refactor(rpc): pass eth api settings directly to constructor (#27268)](https://github.com/paradigmxyz/reth/commit/ff28bad67ec87f5fd6d03db4aacc252413e8b242) - 2026-09-16
 * [Commit] [refactor(rpc): expose shared eth api settings (#27251)](https://github.com/paradigmxyz/reth/commit/f18dde3a699f6f9267b20c3d4b4751a12ffe7290) - 2026-09-16
+* [Pull Request] [perf(rpc): reuse cached BAL post-state for calls](https://github.com/paradigmxyz/reth/pull/27298) - 2026-09-17
+* [Review] [Review on: chore(provider): share insert_headers test helper](https://github.com/paradigmxyz/reth/pull/27289#pullrequestreview-5234186717) - 2026-09-17
+* [Review] [Review on: perf(evm): encode built BAL once in block builder](https://github.com/paradigmxyz/reth/pull/27288#pullrequestreview-5234113845) - 2026-09-17
+* [Review] [Review on: feat(snap-sync): catch up downloaded state with block access lists](https://github.com/paradigmxyz/reth/pull/27264#pullrequestreview-5239226247) - 2026-09-17
+* [Pull Request] [feat: carry the prepared BAL on ExecutedBlock and Chain](https://github.com/paradigmxyz/reth/pull/27297) - 2026-09-17
+* [Review] [Review on: chore(deps): update imbl and remove bitmaps exception](https://github.com/paradigmxyz/reth/pull/27286#pullrequestreview-5238867965) - 2026-09-17
+* [Review] [Review on: fix(engine): set transaction index for rebuilt BAL](https://github.com/paradigmxyz/reth/pull/27296#pullrequestreview-5238400954) - 2026-09-17
+* [Review] [Review on: fix(engine): lower minimum backpressure threshold](https://github.com/paradigmxyz/reth/pull/27295#pullrequestreview-5237141376) - 2026-09-17
+* [Review] [Review on: perf(trie): skip historical trie changesets with complete overlays](https://github.com/paradigmxyz/reth/pull/27129#pullrequestreview-5235890513) - 2026-09-17
+* [Review] [Review on: chore: re-add wait in the sparse blob fetcher](https://github.com/paradigmxyz/reth/pull/27292#pullrequestreview-5235520057) - 2026-09-17
+* [Review] [Review on: chore(mdbx): disable Linux mincore residency probes](https://github.com/paradigmxyz/reth/pull/27271#pullrequestreview-5233797622) - 2026-09-17
+* [Review] [Review on: fix: sparse blobpool fixes](https://github.com/paradigmxyz/reth/pull/27287#pullrequestreview-5233839844) - 2026-09-17
+* [Commit] [perf(txpool): reserve insertion metadata before locking (#27283)](https://github.com/paradigmxyz/reth/commit/74c4d52181c11731a5dc162394dec8e97dd4bd2d) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

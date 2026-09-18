@@ -199,6 +199,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-client-clis): match besu's new insufficient funds messages](https://github.com/ethereum/execution-specs/pull/3598) - 2026-09-16
 * [Issue] [Enable exception mapping for nimbus-el](https://github.com/ethereum/execution-specs/issues/3603) - 2026-09-16
 * [Commit] [fix(test-client-clis): match besu's new insufficient funds messages (#3598)](https://github.com/ethereum/execution-specs/commit/980a6740d4c2722a4a6bb1221c17f53589fa43dc) - 2026-09-16
+* [Review] [Review on: fix(test-consume): skip Besu evmtool's non-JSON summary line in state-test output](https://github.com/ethereum/execution-specs/pull/3610#pullrequestreview-5234570824) - 2026-09-17
+* [Pull Request] [feat(tooling): add consume-hive skill](https://github.com/ethereum/execution-specs/pull/3612) - 2026-09-17
+* [Review] [Review on: feat(ci): cut devnet fixture releases from any branch](https://github.com/ethereum/execution-specs/pull/3601#pullrequestreview-5233792507) - 2026-09-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

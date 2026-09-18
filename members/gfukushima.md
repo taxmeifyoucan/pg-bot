@@ -98,6 +98,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Remove shuffling stable from fulu onwards (#11203)](https://github.com/Consensys-Incorporated/teku/commit/0a19f620fbf0b740e1960a26bb44773a19256220) - 2026-09-14
 * [Review] [Review on: Post-release 26.9.0](https://github.com/Consensys-Incorporated/teku/pull/11290#pullrequestreview-5230411135) - 2026-09-17
 * [Pull Request] [Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279) - 2026-09-16
+* [Review] [Review on: Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279#pullrequestreview-5242431574) - 2026-09-17
+* [Issue] [Builder bids are not checked against builder exits in the parent execution payload](https://github.com/Consensys-Incorporated/teku/issues/11294) - 2026-09-18
 ## Q2 2026
 
 

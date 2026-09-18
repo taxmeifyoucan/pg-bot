@@ -159,6 +159,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Teku OOM catch rework](https://github.com/Consensys-Incorporated/teku/pull/11289) - 2026-09-16
 * [Review] [Review on: Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219#pullrequestreview-5222842922) - 2026-09-16
 * [Commit] [Fix dropping from SYNCING to IN_SYNC while far behind the head (#11219)](https://github.com/Consensys-Incorporated/teku/commit/a772d43b383edd35ecc2719d04b675e6b76214cf) - 2026-09-16
+* [Review] [Review on: Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279#pullrequestreview-5239632733) - 2026-09-17
+* [Review] [Review on: Add step retry for integration/acceptance test shards](https://github.com/Consensys-Incorporated/teku/pull/11293#pullrequestreview-5238376179) - 2026-09-17
+* [Review] [Review on: enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11288#pullrequestreview-5238112167) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

@@ -123,6 +123,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Add consumeEngineTestsGlamsterdam and consumeRlpTestsGlamsterdam to the CI](https://github.com/besu-eth/besu/pull/11310) - 2026-09-16
 * [Review] [Review on: Exit on OutOfMemoryError by default](https://github.com/besu-eth/besu/pull/11300#pullrequestreview-5218655246) - 2026-09-16
 * [Commit] [Exit on OutOfMemoryError by default (#11300)](https://github.com/besu-eth/besu/commit/95406fcb4e602ee8eaff38fa6d970b905a2b5216) - 2026-09-16
+* [Pull Request] [Reject payloads descending from a bad block instead of backward syncing](https://github.com/besu-eth/besu/pull/11313) - 2026-09-17
+* [Pull Request] [Back transient storage with a seeded HashMap instead of a TreeBasedTable](https://github.com/besu-eth/besu/pull/11315) - 2026-09-17
+* [Pull Request] [Return an internal error when forkchoiceUpdated cannot set a valid head](https://github.com/besu-eth/besu/pull/11317) - 2026-09-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

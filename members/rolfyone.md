@@ -205,6 +205,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219#pullrequestreview-5218443926) - 2026-09-16
 * [Review] [Review on: Implement `/eth/v1/beacon/light_client/finality_update`](https://github.com/Consensys-Incorporated/teku/pull/11243#pullrequestreview-5218571477) - 2026-09-16
 * [Review] [Review on: fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272#pullrequestreview-5218231948) - 2026-09-16
+* [Review] [Review on: FCR optimization part2:  Reuse cached checkpoint states and parallelize fast confirmation scoring](https://github.com/Consensys-Incorporated/teku/pull/11214#pullrequestreview-5242740285) - 2026-09-18
+* [Review] [Review on: Fix duplicated log messages with CONSOLE and FILE log destinations](https://github.com/Consensys-Incorporated/teku/pull/11292#pullrequestreview-5232655832) - 2026-09-17
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

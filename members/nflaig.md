@@ -617,6 +617,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5221406079) - 2026-09-16
 * [Commit] [fix: prune cache entries of repeat proposals that are not imported (#10083)](https://github.com/ChainSafe/lodestar/commit/8d21f7a861b38d15d6c001a0fa2626ade1a1a947) - 2026-09-17
 * [Commit] [fix: prune execution payload envelopes with `chain.pruneHistory` (#10105)](https://github.com/ChainSafe/lodestar/commit/09a1892a856873dc7651fb1309551f5f3a88710e) - 2026-09-16
+* [Review] [Review on: feat: unknownEnvelopeBlockRootSlot event](https://github.com/ChainSafe/lodestar/pull/10112#pullrequestreview-5240567153) - 2026-09-17
+* [Pull Request] [refactor: align gloas progressive list limits with the spec](https://github.com/ChainSafe/lodestar/pull/10121) - 2026-09-17
+* [Pull Request] [feat: reduce `MIN_EPOCHS_FOR_BLOCK_REQUESTS` for gloas](https://github.com/ChainSafe/lodestar/pull/10120) - 2026-09-17
+* [Review] [Review on: feat: schedule Gloas fork on Sepolia](https://github.com/ChainSafe/lodestar/pull/10119#pullrequestreview-5238225797) - 2026-09-17
+* [Review] [Review on: fix: delete block archive index entries when pruning history](https://github.com/ChainSafe/lodestar/pull/10110#pullrequestreview-5233613971) - 2026-09-17
+* [Review] [Review on: refactor(state-transition): re-organize test helpers](https://github.com/ChainSafe/lodestar/pull/10099#pullrequestreview-5234169446) - 2026-09-17
+* [Review] [Review on: fix: bind IPv6 by default only if the host has a global IPv6 address](https://github.com/ChainSafe/lodestar/pull/10104#pullrequestreview-5240252185) - 2026-09-17
+* [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5233685001) - 2026-09-17
+* [Review] [Review on: chore: make gossip max size type explicit](https://github.com/ChainSafe/lodestar/pull/10103#pullrequestreview-5233050127) - 2026-09-17
+* [Pull Request] [fix: index archived states by root again](https://github.com/ChainSafe/lodestar/pull/10118) - 2026-09-17
+* [Review] [Review on: feat: de-duplicate execution payload from archived Gloas envelopes](https://github.com/ChainSafe/lodestar/pull/10089#pullrequestreview-5235388110) - 2026-09-17
+* [Review] [Review on: docs: import AGENTS.md into CLAUDE.md](https://github.com/ChainSafe/lodestar/pull/10117#pullrequestreview-5233995840) - 2026-09-17
+* [Review] [Review on: test: apply FCR attestation steps before the slot tick](https://github.com/ChainSafe/lodestar/pull/10116#pullrequestreview-5233864674) - 2026-09-17
+* [Review] [Review on: chore: track gloas newPayload metrics](https://github.com/ChainSafe/lodestar/pull/10113#pullrequestreview-5233375159) - 2026-09-17
+* [Commit] [fix: prune archived states before the finalized epoch with `chain.pruneHistory` (#10106)](https://github.com/ChainSafe/lodestar/commit/9cec787d9420f91344af1efcacf6a5853036a6db) - 2026-09-17
+* [Commit] [chore: log block and bid values in ETH (#10108)](https://github.com/ChainSafe/lodestar/commit/72d74345fba1e0dfeb765d2d73a15b6f95ac9551) - 2026-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -725,6 +741,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(napi): expose forkSeq on BeaconStateView binding](https://github.com/ChainSafe/lodestar-z/pull/635#pullrequestreview-5101605757) - 2026-09-03
 * [Review] [Review on: chore: release 1.1.0](https://github.com/ChainSafe/lodestar-z/pull/583#pullrequestreview-5180752856) - 2026-09-11
 * [Review] [Review on: docs: retire security implementation map](https://github.com/ChainSafe/lodestar-z/pull/696#pullrequestreview-5214130779) - 2026-09-15
+* [Review] [Review on: fix(state-transition): use getReadonly for read-only validator access](https://github.com/ChainSafe/lodestar-z/pull/712#pullrequestreview-5233912454) - 2026-09-17
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18
@@ -743,6 +760,21 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [fix: use distinct PTC validators as the slot waves denominator](https://github.com/ethpandaops/dora/pull/866) - 2026-09-07
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [Block access list retention should follow the history expiry window](https://github.com/erigontech/erigon/issues/24100) - 2026-09-17
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Block access list retention should follow the history expiry window](https://github.com/besu-eth/besu/issues/11316) - 2026-09-17
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [Block access list retention should follow the history expiry window](https://github.com/NethermindEth/nethermind/issues/13553) - 2026-09-17
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Block access list retention should follow the history expiry window](https://github.com/paradigmxyz/reth/issues/27293) - 2026-09-17
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Issue] [Block access list retention should follow the history expiry window](https://github.com/status-im/nimbus-eth1/issues/4809) - 2026-09-17
 ## Q2 2026
 
 

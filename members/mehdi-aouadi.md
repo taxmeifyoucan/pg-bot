@@ -130,6 +130,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Implement 5613 - data column sidecar size calculation](https://github.com/Consensys-Incorporated/teku/pull/11283#pullrequestreview-5221421449) - 2026-09-16
 * [Pull Request] [enable gossip reference tests](https://github.com/Consensys-Incorporated/teku/pull/11282) - 2026-09-16
 * [Commit] [fix gossip comments (#11284)](https://github.com/Consensys-Incorporated/teku/commit/876a515c65792d4ea9ebdc49e69f5743b645bde6) - 2026-09-16
+* [Review] [Review on: enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11288#pullrequestreview-5237230683) - 2026-09-17
+* [Commit] [rename PTC to Payload Timeliness Committee (#11281)](https://github.com/Consensys-Incorporated/teku/commit/9fb1c6c88004accaca09ec5f4000007238a7a871) - 2026-09-17
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646) - 2026-09-17
 ## Q2 2026
 
 

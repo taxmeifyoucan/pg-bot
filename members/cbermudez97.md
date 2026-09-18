@@ -48,6 +48,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5202777849) - 2026-09-14
 * [Commit] [ci: bound and spread the GCP sync-runner fleet, and put master validation back on Spot (#13362)](https://github.com/NethermindEth/nethermind/commit/e8babde2c48c9ae72cc4281cbb6d00ebd59ad2f5) - 2026-09-15
 * [Commit] [ci(rpc-bench): survive a sparse-checkout left behind on the shared runner (#13468)](https://github.com/NethermindEth/nethermind/commit/3778c5918bb548207559bc9a3493333ba68a68ab) - 2026-09-15
+* [Pull Request] [Default all sync test networks to Spot](https://github.com/NethermindEth/nethermind/pull/13556) - 2026-09-17
+* [Commit] [ci: default all sync test networks to Spot provisioning (#13556)](https://github.com/NethermindEth/nethermind/commit/c1de81265a14f58be81a5d2ca20e8565a37b3706) - 2026-09-17
 ## Q2 2026
 
 

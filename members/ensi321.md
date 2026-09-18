@@ -140,6 +140,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/pull/12097) - 2026-08-05
 * [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-4924253397) - 2026-08-13
 * [Review] [Review on: Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/pull/12097#pullrequestreview-4924277417) - 2026-08-13
+* [Commit] [Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/commit/2c2da76671d77e7d2f5060b23f8a92cb5d62897e) - 2026-09-17
 ## Q2 2026
 
 

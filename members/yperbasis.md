@@ -661,6 +661,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: request blobs under the canonical root, and put the block signature on ColumnSyncableSignedBlock](https://github.com/erigontech/erigon/pull/24053#pullrequestreview-5222653539) - 2026-09-16
 * [Commit] [rpc: make notification storm test deterministic (#24058)](https://github.com/erigontech/erigon/commit/98f8c607c90aa8ee9246df8387458444209de39f) - 2026-09-16
 * [Commit] [execution/state: validate empty code-hash reads against account liveness (#24030)](https://github.com/erigontech/erigon/commit/556504c29a4126ae0af26d3ba1aeff095a372fa5) - 2026-09-16
+* [Review] [Review on: cl: make lru.CacheWithTTL closable](https://github.com/erigontech/erigon/pull/24022#pullrequestreview-5235289178) - 2026-09-17
+* [Review] [Review on: execution: add engine_getBlobsV4](https://github.com/erigontech/erigon/pull/24088#pullrequestreview-5234675271) - 2026-09-17
+* [Pull Request] [execution: isolate block-end log indexing and strengthen tests](https://github.com/erigontech/erigon/pull/24098) - 2026-09-17
+* [Review] [Review on: execution/stagedsync: index block-end system call logs in the parallel executor](https://github.com/erigontech/erigon/pull/24067#pullrequestreview-5233529936) - 2026-09-17
+* [Pull Request] [execution/state: preserve EIP-8246 balance reads after selfdestruct](https://github.com/erigontech/erigon/pull/24096) - 2026-09-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06
@@ -668,6 +673,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration_test: remove result from pending trace error](https://github.com/erigontech/rpc-tests/pull/590) - 2026-08-19
 * [Commit] [integration_test: remove result from pending trace error (#590)](https://github.com/erigontech/rpc-tests/commit/b0075b93357b17a2c557a82c1ec62cc294cb0418) - 2026-08-19
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [simulators/ethereum/engine: synchronize embedded Geth transaction promotion](https://github.com/ethereum/hive/pull/1612) - 2026-09-17
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Refresh PTC duties after validator index discovery](https://github.com/sigp/lighthouse/pull/10069) - 2026-09-17
 ## Q2 2026
 
 

@@ -167,6 +167,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(tests): close out eip-7954 checklist](https://github.com/ethereum/execution-specs/pull/3546) - 2026-09-08
 * [Issue] [`test_memory_*` benchmark refactor](https://github.com/ethereum/execution-specs/issues/3547) - 2026-09-08
 * [Commit] [feat(test-benchmark): more worst case scenario (#3349)](https://github.com/ethereum/execution-specs/commit/4d9544d8b11f4f04ed6a3fb8ab8c4e084354198c) - 2026-09-08
+* [Review] [Review on: feat(tests): complete EIP-7981 coverage and testing checklist](https://github.com/ethereum/execution-specs/pull/3537#pullrequestreview-5231086633) - 2026-09-17
+* [Review] [Review on: feat(tests): EIP-8037 credits from a sibling frame after a child's spill](https://github.com/ethereum/execution-specs/pull/3611#pullrequestreview-5233407356) - 2026-09-17
+* [Review] [Review on: fix(tests): fold CALL execution_cost + stale TODO cleanups](https://github.com/ethereum/execution-specs/pull/3606#pullrequestreview-5233965110) - 2026-09-17
+* [Commit] [refactor(test-benchmark): migrate benchmark suite to devnet-8 (#3411)](https://github.com/ethereum/execution-specs/commit/2251e3c4d257c6d7243d0a29735352425048ceb3) - 2026-09-17
 ## Q2 2026
 
 

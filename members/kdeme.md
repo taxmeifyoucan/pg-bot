@@ -150,6 +150,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: KZG point evaluation with the zkVM accelerator (#4803)](https://github.com/status-im/nimbus-eth1/commit/e63f573ca1324072f096674cdd421da893832c25) - 2026-09-16
 * [Commit] [stateless: bn254 precompiles with the zkVM accelerator (#4802)](https://github.com/status-im/nimbus-eth1/commit/c73930badbf1ee2dbe89af5fd74fd5ac40458082) - 2026-09-16
 * [Commit] [stateless: secp256k1 ecrecover with the zkVM accelerator (#4798)](https://github.com/status-im/nimbus-eth1/commit/157433bfa08e59247cc8c1c57d3dc9d85c03fa66) - 2026-09-16
+* [Pull Request] [history_exporter: Increase open file limit](https://github.com/status-im/nimbus-eth1/pull/4811) - 2026-09-17
+* [Review] [Review on: move `tx-broadcast` logs to TRACE level](https://github.com/status-im/nimbus-eth1/pull/4810#pullrequestreview-5237027676) - 2026-09-17
+* [Pull Request] [Update fork id validation tests and fix block only configs](https://github.com/status-im/nimbus-eth1/pull/4808) - 2026-09-17
+* [Pull Request] [Fix Sepolia fork id by using the correct mergeNetsplitBlock](https://github.com/status-im/nimbus-eth1/pull/4807) - 2026-09-17
+* [Commit] [history_exporter: Increase open file limit (#4811)](https://github.com/status-im/nimbus-eth1/commit/479bfcee2ad9adacbcaa0332d9e01cfdd485ce97) - 2026-09-17
+* [Commit] [Update fork id validation tests and fix block only configs (#4808)](https://github.com/status-im/nimbus-eth1/commit/d5a0b527baedad5f773319f6146a703e4e5d0f1d) - 2026-09-17
+* [Commit] [Fix Sepolia fork id by using the correct mergeNetsplitBlock (#4807)](https://github.com/status-im/nimbus-eth1/commit/61d79b62519cbd6a783e4c5d793825d7161249dd) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

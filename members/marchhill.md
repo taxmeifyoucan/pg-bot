@@ -443,6 +443,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Avoid copying execution payload transaction buffers during decoding](https://github.com/NethermindEth/nethermind/pull/13532#pullrequestreview-5222481889) - 2026-09-16
 * [Pull Request] [refactor(consensus): rename ExceptFrameTxValidator to NonFrameTxValidator](https://github.com/NethermindEth/nethermind/pull/13539) - 2026-09-16
 * [Pull Request] [docs(eip8037): say when block gas reservations cannot be computed](https://github.com/NethermindEth/nethermind/pull/13538) - 2026-09-16
+* [Pull Request] [test(txpool): pin the blob announcement predicate to CarriesBlobs](https://github.com/NethermindEth/nethermind/pull/13561) - 2026-09-17
+* [Review] [Review on: test(txpool): pin the blob announcement predicate to CarriesBlobs](https://github.com/NethermindEth/nethermind/pull/13561#pullrequestreview-5242077714) - 2026-09-17
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13559) - 2026-09-17
+* [Review] [Review on: Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13559#pullrequestreview-5239703070) - 2026-09-17
+* [Review] [Review on: ci(frame-verify-gas): drop the gh CLI dependency from fetch-artifacts.sh](https://github.com/NethermindEth/nethermind/pull/13545#pullrequestreview-5235304358) - 2026-09-17
+* [Review] [Review on: Skip unrelated storage scans when clearing untouched accounts](https://github.com/NethermindEth/nethermind/pull/13531#pullrequestreview-5237583905) - 2026-09-17
+* [Review] [Review on: chore(deps): update MCL package](https://github.com/NethermindEth/nethermind/pull/13548#pullrequestreview-5234094297) - 2026-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -475,6 +482,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8141: bound chain_id to 2**64](https://github.com/ethereum/EIPs/pull/12223) - 2026-08-21
 * [Pull Request] [Update EIP-7805: skip IL transactions needing data the IL cannot carry](https://github.com/ethereum/EIPs/pull/12224) - 2026-08-21
 * [Pull Request] [Update EIP-7805: skip blob transactions in the inclusion list check](https://github.com/ethereum/EIPs/pull/12319) - 2026-09-11
+* [Review] [Review on: Update EIP-7843: align Engine API method names with execution-apis](https://github.com/ethereum/EIPs/pull/12354#pullrequestreview-5241295718) - 2026-09-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

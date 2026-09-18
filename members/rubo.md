@@ -95,6 +95,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(deps): update Nethermind.Crypto.SecP256k1 package (#13289)](https://github.com/NethermindEth/nethermind/commit/e2301892f31f9e8ac600e5d5ff88df4d782553fc) - 2026-09-09
 * [Commit] [chore(deps): update .NET packages (#13322)](https://github.com/NethermindEth/nethermind/commit/2d9f97138b3c78dae9609bb41b96ba558d255728) - 2026-09-10
 * [Pull Request] [chore(deps): update MCL package](https://github.com/NethermindEth/nethermind/pull/13548) - 2026-09-16
+* [Review] [Review on: Avoid recomputing reconstructed body roots in stateless execution](https://github.com/NethermindEth/nethermind/pull/13534#pullrequestreview-5237430234) - 2026-09-17
+* [Pull Request] [chore(deps): update GMP package](https://github.com/NethermindEth/nethermind/pull/13562) - 2026-09-17
+* [Review] [Review on: Fix stateless rejection terminating DEBUG-enabled hosts](https://github.com/NethermindEth/nethermind/pull/13535#pullrequestreview-5237201715) - 2026-09-17
+* [Review] [Review on: Remove scratch allocations from generated SSZ container hashing](https://github.com/NethermindEth/nethermind/pull/13533#pullrequestreview-5237438442) - 2026-09-17
+* [Review] [Review on: Skip unrelated storage scans when clearing untouched accounts](https://github.com/NethermindEth/nethermind/pull/13531#pullrequestreview-5237457329) - 2026-09-17
+* [Commit] [chore(deps): update MCL package (#13548)](https://github.com/NethermindEth/nethermind/commit/053e2366729eeea6fceea872b8e8d574baa7089f) - 2026-09-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

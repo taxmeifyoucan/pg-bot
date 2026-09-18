@@ -102,6 +102,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Retry payload attestation data at the PTC deadline (#17468)](https://github.com/OffchainLabs/prysm/commit/7730c643fea7437f2956fa93e5b99bceeee0d531) - 2026-09-15
 * [Commit] [Pack Electra attestations by marginal proposer reward (#17416)](https://github.com/OffchainLabs/prysm/commit/e231db78dc2462aad91cfba0b7574aeb99ffc1bc) - 2026-09-15
 * [Commit] [Pre-warm pending deposit signatures before the Gloas fork (#17440)](https://github.com/OffchainLabs/prysm/commit/b5f9009abe5025e1e072bf6126a4ea1aa09dc5ed) - 2026-09-15
+* [Pull Request] [Add last Payload at forkchoice setup](https://github.com/OffchainLabs/prysm/pull/17508) - 2026-09-17
+* [Review] [Review on: Gloas late head payloads](https://github.com/OffchainLabs/prysm/pull/17497#pullrequestreview-5238615870) - 2026-09-17
+* [Review] [Review on: hdiff optimization: Sparse ApplyValidatorsDiff](https://github.com/OffchainLabs/prysm/pull/17507#pullrequestreview-5239165499) - 2026-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

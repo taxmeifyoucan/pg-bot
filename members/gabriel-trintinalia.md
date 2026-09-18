@@ -50,6 +50,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: test(rpc): add geth-captured onlyTopCall spec coverage for callTracer](https://github.com/besu-eth/besu/pull/11270#pullrequestreview-5173624030) - 2026-09-11
 * [Review] [Review on: fix(simulate): inherit parent block gasLimit in eth_simulateV1](https://github.com/besu-eth/besu/pull/11254#pullrequestreview-5217290751) - 2026-09-16
 * [Pull Request] [refactor: simplify BlockProcessor 5 signatures with BlockExecutionContext](https://github.com/besu-eth/besu/pull/11308) - 2026-09-16
+* [Review] [Review on: add testing_commitBlockV1 RPC method](https://github.com/besu-eth/besu/pull/11152#pullrequestreview-5231017944) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

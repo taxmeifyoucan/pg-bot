@@ -94,6 +94,9 @@ Team: Grandine
 * [Issue] [[Glamsterdam] Investigate slow serving of payloads](https://github.com/grandinetech/grandine/issues/909) - 2026-09-07
 * [Commit] [Correctly handle invalid blocks and blocks without data availability in test helpers](https://github.com/grandinetech/grandine/commit/34da987dc6e1eec7be6afb6fb3c6edf317f1c32c) - 2026-09-11
 * [Pull Request] [compliance test fixes](https://github.com/grandinetech/grandine/pull/919) - 2026-09-16
+* [Issue] [Cap execution payload envelope delayed queue](https://github.com/grandinetech/grandine/issues/923) - 2026-09-17
+* [Issue] [Prune invalid payload envelopes from cache and storage](https://github.com/grandinetech/grandine/issues/922) - 2026-09-17
+* [Issue] [Fix compliance tests](https://github.com/grandinetech/grandine/issues/921) - 2026-09-17
 ## Q2 2026
 
 

@@ -80,6 +80,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Derive SaveOrigin checkpoint epoch from the origin state slot (#17492)](https://github.com/OffchainLabs/prysm/commit/ff950a6f7526091e974a293efb32c330d8287e76) - 2026-09-15
 * [Commit] [Add `getStateBuilders` beacon API endpoint  (#17491)](https://github.com/OffchainLabs/prysm/commit/0c7fb0288e2dbff84008ce459d2d5b5f66f6c825) - 2026-09-15
 * [Commit] [Fix backfill nil panic in columnsNeeded when a batch needs no columns (#17496)](https://github.com/OffchainLabs/prysm/commit/4a8c3b9d2b2e9e93864bacb41aef6949c432ff60) - 2026-09-15
+* [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5233794906) - 2026-09-17
+* [Review] [Review on: Serve available historical Gloas payload envelopes by root](https://github.com/OffchainLabs/prysm/pull/17499#pullrequestreview-5234964035) - 2026-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

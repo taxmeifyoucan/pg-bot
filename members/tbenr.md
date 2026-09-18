@@ -128,6 +128,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Implement 5613 - data column sidecar size calculation](https://github.com/Consensys-Incorporated/teku/pull/11283) - 2026-09-16
 * [Issue] [cleanup after beta.1 release](https://github.com/Consensys-Incorporated/teku/issues/11285) - 2026-09-16
 * [Commit] [implement 5613 (#11283)](https://github.com/Consensys-Incorporated/teku/commit/28ce68b22b581428baba1f1cdba6c0ade8d45ac5) - 2026-09-16
+* [Pull Request] [Fix duplicated log messages with CONSOLE and FILE log destinations](https://github.com/Consensys-Incorporated/teku/pull/11292) - 2026-09-17
+* [Commit] [Fix duplicated log messages with CONSOLE and FILE log destinations (#11292)](https://github.com/Consensys-Incorporated/teku/commit/b3cb932d6021ee84f4150038ac2147257cd79316) - 2026-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

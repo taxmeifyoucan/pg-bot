@@ -221,6 +221,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Report vmTrace pushes for word operations](https://github.com/NethermindEth/nethermind/pull/13487#pullrequestreview-5218103960) - 2026-09-16
 * [Review] [Review on: fix(xdc): run the patricia state backend so node data can be served](https://github.com/NethermindEth/nethermind/pull/13478#pullrequestreview-5218121703) - 2026-09-16
 * [Review] [Review on: Report previous transient value in TSTORE traces](https://github.com/NethermindEth/nethermind/pull/13504#pullrequestreview-5218083408) - 2026-09-16
+* [Review] [Review on: ci: add automatic AI code review through LiteLLM](https://github.com/NethermindEth/nethermind/pull/13564#pullrequestreview-5243336292) - 2026-09-18
+* [Review] [Review on: Complete guarded debug_setHead and debug_resetHead rewinds](https://github.com/NethermindEth/nethermind/pull/13558#pullrequestreview-5242524590) - 2026-09-17
+* [Review] [Review on: fix(flatdb): keep MinReorgDepth reachable after folding to the finalized boundary](https://github.com/NethermindEth/nethermind/pull/13550#pullrequestreview-5236867894) - 2026-09-17
+* [Pull Request] [Keep the unknown-original storage flag across repeated writes](https://github.com/NethermindEth/nethermind/pull/13554) - 2026-09-17
+* [Review] [Review on: Prepare flat storage trie updates in the background during execution](https://github.com/NethermindEth/nethermind/pull/13546#pullrequestreview-5236346236) - 2026-09-17
+* [Commit] [feat(flat): prune snapshots unreachable from the head on debug_resetHead (#13524)](https://github.com/NethermindEth/nethermind/commit/d89a8dacc08bd50723260f2b7dd5c90fd9315b46) - 2026-09-17
+* [Commit] [fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown (#13523)](https://github.com/NethermindEth/nethermind/commit/702cb35ded50bd715736205b49a9bf153b260e58) - 2026-09-17
+* [Commit] [Slim down OneTimeChainProcessor (#13441)](https://github.com/NethermindEth/nethermind/commit/1ef7986b816d7234b367f384b1d12d1f982e8086) - 2026-09-17
 ## Q2 2026
 
 

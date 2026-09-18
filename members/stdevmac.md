@@ -98,6 +98,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix(rpc): keep streamed JSON-RPC responses well-formed when the stream fails](https://github.com/NethermindEth/nethermind/pull/13439) - 2026-09-13
 * [Pull Request] [fix(ci): repair RPC benchmark checkout and ARM storage checks](https://github.com/NethermindEth/nethermind/pull/13475) - 2026-09-15
 * [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5210898849) - 2026-09-15
+* [Pull Request] [ci: add automatic AI code review through LiteLLM](https://github.com/NethermindEth/nethermind/pull/13564) - 2026-09-18
+* [Review] [Review on: Default all sync test networks to Spot](https://github.com/NethermindEth/nethermind/pull/13556#pullrequestreview-5237222653) - 2026-09-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

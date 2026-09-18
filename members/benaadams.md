@@ -426,6 +426,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: EIP-161 violations fix](https://github.com/NethermindEth/nethermind/pull/13520#pullrequestreview-5218814008) - 2026-09-16
 * [Review] [Review on: Remove scratch allocations from generated SSZ container hashing](https://github.com/NethermindEth/nethermind/pull/13533#pullrequestreview-5224683345) - 2026-09-16
 * [Review] [Review on: Skip unrelated storage scans when clearing untouched accounts](https://github.com/NethermindEth/nethermind/pull/13531#pullrequestreview-5222248868) - 2026-09-16
+* [Review] [Review on: Make BlockchainProcessor main-only and split OneTimeChainProcessor](https://github.com/NethermindEth/nethermind/pull/13449#pullrequestreview-5243025680) - 2026-09-18
+* [Pull Request] [Reduce trie and storage-key hashing overhead](https://github.com/NethermindEth/nethermind/pull/13552) - 2026-09-17
+* [Review] [Review on: Reduce trie and storage-key hashing overhead](https://github.com/NethermindEth/nethermind/pull/13552#pullrequestreview-5235601921) - 2026-09-17
+* [Pull Request] [Complete guarded debug_setHead and debug_resetHead rewinds](https://github.com/NethermindEth/nethermind/pull/13558) - 2026-09-17
+* [Review] [Review on: Avoid recomputing reconstructed body roots in stateless execution](https://github.com/NethermindEth/nethermind/pull/13534#pullrequestreview-5238647617) - 2026-09-17
+* [Review] [Review on: chore(deps): update GMP package](https://github.com/NethermindEth/nethermind/pull/13562#pullrequestreview-5241567561) - 2026-09-17
+* [Review] [Review on: ci(frame-verify-gas): drop the gh CLI dependency from fetch-artifacts.sh](https://github.com/NethermindEth/nethermind/pull/13545#pullrequestreview-5238609070) - 2026-09-17
+* [Review] [Review on: Avoid copying execution payload transaction buffers during decoding](https://github.com/NethermindEth/nethermind/pull/13532#pullrequestreview-5237429346) - 2026-09-17
+* [Review] [Review on: chore(deps): update MCL package](https://github.com/NethermindEth/nethermind/pull/13548#pullrequestreview-5230803277) - 2026-09-17
+* [Review] [Review on: fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown](https://github.com/NethermindEth/nethermind/pull/13523#pullrequestreview-5235499574) - 2026-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

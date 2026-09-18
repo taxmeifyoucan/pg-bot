@@ -1597,6 +1597,31 @@ Team: Erigon
 * [Commit] [db/seg: load the page Reset seeks to (#24046)](https://github.com/erigontech/erigon/commit/75d234181471b3c729675dcdf8f7bc8b18323aa8) - 2026-09-16
 * [Commit] [rpc, execution/tracing: carry quantities as `hexutil.U256` (#24018)](https://github.com/erigontech/erigon/commit/def7c4931ca70ac174aea598fb0184f617b90466) - 2026-09-16
 * [Commit] [rpc: add eth_getProof and eth_getWitness test coverage (#24040)](https://github.com/erigontech/erigon/commit/bd2b9a3a9cb470c37f448b2f830b4c13b27e1d6a) - 2026-09-16
+* [Pull Request] [rpc/jsonstream: write field names without the escape scan](https://github.com/erigontech/erigon/pull/24104) - 2026-09-18
+* [Review] [Review on: rpc/jsonstream: write field names without the escape scan](https://github.com/erigontech/erigon/pull/24104#pullrequestreview-5243308974) - 2026-09-18
+* [Review] [Review on: rpc/jsonrpc: fail eth_getLogs on a block with no header](https://github.com/erigontech/erigon/pull/24101#pullrequestreview-5243699368) - 2026-09-18
+* [Review] [Review on: QA: add  tests for eth_getHeaderByNumber() eth_getHeaderByHash()](https://github.com/erigontech/erigon/pull/24094#pullrequestreview-5243696868) - 2026-09-18
+* [Pull Request] [rpc, common/hexutil: introduce MarshalFastJSONTo and use it for eth_getCode](https://github.com/erigontech/erigon/pull/24086) - 2026-09-17
+* [Review] [Review on: rpc, common/hexutil: introduce MarshalFastJSONTo and use it for eth_getCode](https://github.com/erigontech/erigon/pull/24086#pullrequestreview-5231106343) - 2026-09-17
+* [Pull Request] [rpc: RPCLogs type support MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24092) - 2026-09-17
+* [Review] [Review on: execution/commitment: release demoted contract trunks and bound the pin hint](https://github.com/erigontech/erigon/pull/24087#pullrequestreview-5243295806) - 2026-09-18
+* [Review] [Review on: db/state/execctx: bound validation cache reads instead of evicting shared caches](https://github.com/erigontech/erigon/pull/24048#pullrequestreview-5243293534) - 2026-09-18
+* [Review] [Review on: execution: add engine_getBlobsV4](https://github.com/erigontech/erigon/pull/24088#pullrequestreview-5233541543) - 2026-09-17
+* [Pull Request] [execution/commitment: hash a leaf key without writing it into the cell path](https://github.com/erigontech/erigon/pull/24057) - 2026-09-17
+* [Pull Request] [cache: fix mem-leak ByteLRU](https://github.com/erigontech/erigon/pull/24093) - 2026-09-17
+* [Pull Request] [rpc, execution/types/accounts: encode eth_getProof results with MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24089) - 2026-09-17
+* [Review] [Review on: rpc, execution/types/accounts: encode eth_getProof results with MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24089#pullrequestreview-5234144247) - 2026-09-17
+* [Review] [Review on: cl/phase1/forkchoice: deflake TestExecutionPayloadIndexWriteHasSingleNotificationOwner](https://github.com/erigontech/erigon/pull/24019#pullrequestreview-5233670070) - 2026-09-17
+* [Pull Request] [rpc/jsonstream, execution/tracing: add Stream.WriteHex](https://github.com/erigontech/erigon/pull/24085) - 2026-09-17
+* [Review] [Review on: nano HF support for bsc](https://github.com/erigontech/erigon/pull/24095#pullrequestreview-5233701865) - 2026-09-17
+* [Pull Request] [common/hexutil: format Uint64 as hex with a nibble loop](https://github.com/erigontech/erigon/pull/24097) - 2026-09-17
+* [Commit] [execution/commitment: hash a leaf key without writing it into the cell path (#24057)](https://github.com/erigontech/erigon/commit/9fb0e93fa0c04913756bd4572892ae2b51f8620a) - 2026-09-17
+* [Commit] [cache: fix mem-leak ByteLRU (#24093)](https://github.com/erigontech/erigon/commit/f70df90754a5fb5ec0d66d397285ded9674e3af9) - 2026-09-17
+* [Commit] [rpc/jsonstream, execution/tracing: add Stream.WriteHex (#24085)](https://github.com/erigontech/erigon/commit/5da5c3b88e69ff079584c6c2345e2d89c03e6f42) - 2026-09-17
+* [Commit] [rpc: send Content-Length when the response is still whole in the buffer (#24052)](https://github.com/erigontech/erigon/commit/f3a7fc82e848e211ab84cb017e85125d47038859) - 2026-09-17
+* [Commit] [rpc/gasprice: resolve warm `eth_feeHistory` cache keys from cached parents (#24063)](https://github.com/erigontech/erigon/commit/b3123f3cf13f56dc603200faf6a37be0309de944) - 2026-09-17
+* [Commit] [rpc/jsonrpc: encode the `eth_feeHistory` result without reflection (#24059)](https://github.com/erigontech/erigon/commit/9853ea40143e695a0ec2522e67c182aed6ccaa3a) - 2026-09-17
+* [Commit] [rpc/jsonrpc: stop eth_getWitness printing every witness operator to stdout (#24073)](https://github.com/erigontech/erigon/commit/2ba1a590e48777905e4f87341adcb584bcf232f0) - 2026-09-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

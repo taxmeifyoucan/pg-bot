@@ -74,6 +74,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix(bindings): declare sync-committee index map values as Uint32Array (#706)](https://github.com/ChainSafe/lodestar-z/commit/175c080834ecab77a0005077b0812ddb21185832) - 2026-09-16
 * [Commit] [refactor(stf): retire the no-op post-state metrics hook (#707)](https://github.com/ChainSafe/lodestar-z/commit/0300a138480fcd21f4cd56ea9b3bb5bc293b36e3) - 2026-09-16
 * [Commit] [test: repair minimal preset state transition baseline (#704)](https://github.com/ChainSafe/lodestar-z/commit/03f7341d2582decb4610ae80a5fb9efa9bce6aa3) - 2026-09-16
+* [Commit] [feat(bindings): implement computeBlockRewards (#709)](https://github.com/ChainSafe/lodestar-z/commit/1ec864e52ee6c33c67d146c6a75e897c2009cd9a) - 2026-09-17
+* [Commit] [fix(stf): floor the sync-aggregate proposer penalty and guard phase0 lookups (#705)](https://github.com/ChainSafe/lodestar-z/commit/407c60d39f7146d3cfa352736b2d10e7840693b1) - 2026-09-17
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -123,6 +125,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: stop gating CI on high-variance data-availability benchmarks](https://github.com/ChainSafe/lodestar/pull/10074#pullrequestreview-5196896705) - 2026-09-14
 * [Review] [Review on: fix: reject invalid characters in fromHex on nodejs build](https://github.com/ChainSafe/lodestar/pull/9943#pullrequestreview-5220125566) - 2026-09-16
 * [Review] [Review on: feat(ci): opt-in mirror of lodestar image to Swarm registry (Uncloud Registry)](https://github.com/ChainSafe/lodestar/pull/9997#pullrequestreview-5220321363) - 2026-09-16
+* [Review] [Review on: refactor(state-transition): re-organize test helpers](https://github.com/ChainSafe/lodestar/pull/10099#pullrequestreview-5234893069) - 2026-09-17
+* [Pull Request] [docs: import AGENTS.md into CLAUDE.md](https://github.com/ChainSafe/lodestar/pull/10117) - 2026-09-17
+* [Review] [Review on: docs: import AGENTS.md into CLAUDE.md](https://github.com/ChainSafe/lodestar/pull/10117#pullrequestreview-5234235492) - 2026-09-17
+* [Pull Request] [test: apply FCR attestation steps before the slot tick](https://github.com/ChainSafe/lodestar/pull/10116) - 2026-09-17
+* [Commit] [docs: import AGENTS.md into CLAUDE.md (#10117)](https://github.com/ChainSafe/lodestar/commit/213b795b98df5c2241310580e981e2e290d98f06) - 2026-09-17
+* [Commit] [test: apply FCR attestation steps before the slot tick (#10116)](https://github.com/ChainSafe/lodestar/commit/04dd7ca9f21dc37e8f52eff663f6962c1a2e204b) - 2026-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

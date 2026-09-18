@@ -27,6 +27,7 @@ Team: Erigon
 * [Review] [Review on: integration_test: add blockTimestampo to erigon_getLogsByHash](https://github.com/erigontech/rpc-tests/pull/602#pullrequestreview-5180599535) - 2026-09-11
 * [Review] [Review on: integration: ignore the tracer error field on debug_traceBlockByNumber latest tests](https://github.com/erigontech/rpc-tests/pull/598#pullrequestreview-5177470965) - 2026-09-11
 * [Review] [Review on: add Go unit tests across all packages and fix three defects they surfaced](https://github.com/erigontech/rpc-tests/pull/601#pullrequestreview-5177468665) - 2026-09-11
+* [Review] [Review on: add eth_getHeaderByNumber and eth_getHeaderByHash tests](https://github.com/erigontech/rpc-tests/pull/603#pullrequestreview-5233631444) - 2026-09-17
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06
@@ -63,6 +64,7 @@ Team: Erigon
 * [Pull Request] [execution/stagedsync: index block-end system call logs in the parallel executor](https://github.com/erigontech/erigon/pull/24067) - 2026-09-16
 * [Pull Request] [qa-tests: try to mach published snapshot granularity on the exec-from-zero test](https://github.com/erigontech/erigon/pull/24071) - 2026-09-16
 * [Commit] [qa-tests: improve the report of the exec-from-zero test (#24031)](https://github.com/erigontech/erigon/commit/3f25d8aa82c4f0ca377eb832e600396a5ab9665b) - 2026-09-16
+* [Commit] [execution/stagedsync: index block-end system call logs in the parallel executor (#24067)](https://github.com/erigontech/erigon/commit/9c82a9bded1ef45008056a707d40eeb9c141a473) - 2026-09-17
 ## Q2 2026
 
 
