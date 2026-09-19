@@ -202,6 +202,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-consume): skip Besu evmtool's non-JSON summary line in state-test output](https://github.com/ethereum/execution-specs/pull/3610#pullrequestreview-5234570824) - 2026-09-17
 * [Pull Request] [feat(tooling): add consume-hive skill](https://github.com/ethereum/execution-specs/pull/3612) - 2026-09-17
 * [Review] [Review on: feat(ci): cut devnet fixture releases from any branch](https://github.com/ethereum/execution-specs/pull/3601#pullrequestreview-5233792507) - 2026-09-17
+* [Review] [Review on: feat(testing): add blockchain_test_engine_reorg format and consume reorg simulator](https://github.com/ethereum/execution-specs/pull/3556#pullrequestreview-5247123516) - 2026-09-18
+* [Issue] [refactor(json-loader): use existing Pydantic fixture models](https://github.com/ethereum/execution-specs/issues/3617) - 2026-09-18
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

@@ -171,6 +171,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): EIP-8037 credits from a sibling frame after a child's spill](https://github.com/ethereum/execution-specs/pull/3611#pullrequestreview-5233407356) - 2026-09-17
 * [Review] [Review on: fix(tests): fold CALL execution_cost + stale TODO cleanups](https://github.com/ethereum/execution-specs/pull/3606#pullrequestreview-5233965110) - 2026-09-17
 * [Commit] [refactor(test-benchmark): migrate benchmark suite to devnet-8 (#3411)](https://github.com/ethereum/execution-specs/commit/2251e3c4d257c6d7243d0a29735352425048ceb3) - 2026-09-17
+* [Review] [Review on: feat(tests): cover same-block system contract deployment](https://github.com/ethereum/execution-specs/pull/3615#pullrequestreview-5244639750) - 2026-09-18
+* [Review] [Review on: chore(tests): expand and harden EIP-7997 factory coverage](https://github.com/ethereum/execution-specs/pull/3614#pullrequestreview-5245261191) - 2026-09-18
+* [Review] [Review on: feat(test-benchmark): strengthen and consolidate TSTORE benchmark](https://github.com/ethereum/execution-specs/pull/3441#pullrequestreview-5245703997) - 2026-09-18
+* [Review] [Review on: refactor(tests): fold CALL execution_cost + stale TODO cleanups](https://github.com/ethereum/execution-specs/pull/3606#pullrequestreview-5244454176) - 2026-09-18
+* [Review] [Review on: chore(tests): complete EIP-7778 checklist and add access-list arm to the calldata floor test](https://github.com/ethereum/execution-specs/pull/3616#pullrequestreview-5244429340) - 2026-09-18
 ## Q2 2026
 
 

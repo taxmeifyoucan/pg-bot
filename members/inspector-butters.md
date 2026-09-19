@@ -88,6 +88,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Archive mode: backfill to a past state and regenerate history into the hdiff tree](https://github.com/OffchainLabs/prysm/pull/17292#pullrequestreview-5235076891) - 2026-09-17
 * [Pull Request] [archive node: fix startup panic for non initialized statediffcache in saveGenesisData](https://github.com/OffchainLabs/prysm/pull/17505) - 2026-09-17
 * [Commit] [progressive merkle proof generation  (#17444)](https://github.com/OffchainLabs/prysm/commit/143a3fe2d356debc7c15a23650cf76974ee99784) - 2026-09-17
+* [Review] [Review on: Remove `--disable-progressive-ssz` feature flag](https://github.com/OffchainLabs/prysm/pull/17517#pullrequestreview-5249883537) - 2026-09-18
 ## Q2 2026
 
 

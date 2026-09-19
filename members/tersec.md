@@ -173,6 +173,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: engine SSZ REST api](https://github.com/status-im/nimbus-eth2/pull/9048#pullrequestreview-5219084367) - 2026-09-16
 * [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5218865128) - 2026-09-16
 * [Review] [Review on: add getBlobsV4 support into service](https://github.com/status-im/nimbus-eth2/pull/9034#pullrequestreview-5231488466) - 2026-09-17
+* [Pull Request] [rm unused database-initialization code](https://github.com/status-im/nimbus-eth2/pull/9071) - 2026-09-19
+* [Pull Request] [rm electra proposals](https://github.com/status-im/nimbus-eth2/pull/9070) - 2026-09-19
+* [Pull Request] [enforce minimum Nim version](https://github.com/status-im/nimbus-eth2/pull/9065) - 2026-09-18
+* [Review] [Review on: enforce minimum Nim version](https://github.com/status-im/nimbus-eth2/pull/9065#pullrequestreview-5244805971) - 2026-09-18
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

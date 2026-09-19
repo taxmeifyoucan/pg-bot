@@ -74,6 +74,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Add license/cla check in mergify](https://github.com/sigp/lighthouse/pull/10049) - 2026-09-14
 * [Review] [Review on: De-bounce full reprocess queue error log](https://github.com/sigp/lighthouse/pull/10043#pullrequestreview-5206503178) - 2026-09-15
 * [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5242782334) - 2026-09-18
+* [Pull Request] [Performance benchmarking using CPU instructions](https://github.com/sigp/lighthouse/pull/10075) - 2026-09-18
 ## Q2 2026
 
 

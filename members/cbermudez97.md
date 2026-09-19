@@ -50,6 +50,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Commit] [ci(rpc-bench): survive a sparse-checkout left behind on the shared runner (#13468)](https://github.com/NethermindEth/nethermind/commit/3778c5918bb548207559bc9a3493333ba68a68ab) - 2026-09-15
 * [Pull Request] [Default all sync test networks to Spot](https://github.com/NethermindEth/nethermind/pull/13556) - 2026-09-17
 * [Commit] [ci: default all sync test networks to Spot provisioning (#13556)](https://github.com/NethermindEth/nethermind/commit/c1de81265a14f58be81a5d2ca20e8565a37b3706) - 2026-09-17
+* [Review] [Review on: ci: allow collaborators to request OCR reviews in PR comments](https://github.com/NethermindEth/nethermind/pull/13580#pullrequestreview-5248935412) - 2026-09-18
+* [Review] [Review on: fix: keep AI review configuration out of public reports](https://github.com/NethermindEth/nethermind/pull/13579#pullrequestreview-5248610385) - 2026-09-18
 ## Q2 2026
 
 

@@ -131,6 +131,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [test: apply FCR attestation steps before the slot tick](https://github.com/ChainSafe/lodestar/pull/10116) - 2026-09-17
 * [Commit] [docs: import AGENTS.md into CLAUDE.md (#10117)](https://github.com/ChainSafe/lodestar/commit/213b795b98df5c2241310580e981e2e290d98f06) - 2026-09-17
 * [Commit] [test: apply FCR attestation steps before the slot tick (#10116)](https://github.com/ChainSafe/lodestar/commit/04dd7ca9f21dc37e8f52eff663f6962c1a2e204b) - 2026-09-17
+* [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5246909204) - 2026-09-18
+* [Review] [Review on: chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124#pullrequestreview-5246946738) - 2026-09-18
+* [Review] [Review on: feat(builder): assemble stateless payload envelopes](https://github.com/ChainSafe/lodestar/pull/9981#pullrequestreview-5247143127) - 2026-09-18
+* [Review] [Review on: fix(fork-choice): recompute head in updateTime when queued attestations are processed](https://github.com/ChainSafe/lodestar/pull/10075#pullrequestreview-5247061990) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

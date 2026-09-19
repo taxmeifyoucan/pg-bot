@@ -342,6 +342,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-benchmark): migrate benchmark suite to devnet-8](https://github.com/ethereum/execution-specs/pull/3411#pullrequestreview-5235255541) - 2026-09-17
 * [Review] [Review on: fix(ci,test): fix issues with PR CI runs in focil branch](https://github.com/ethereum/execution-specs/pull/3594#pullrequestreview-5235005925) - 2026-09-17
 * [Commit] [feat(ci): cut devnet fixture releases from any branch (#3601)](https://github.com/ethereum/execution-specs/commit/1c8b05b2c75fb38350d01c01cb5a74d936e60a61) - 2026-09-17
+* [Review] [Review on: chore(tests): improve EIP-8038 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3613#pullrequestreview-5247153575) - 2026-09-18
+* [Pull Request] [feat(tests): cover a null EIP-8070 custodyColumns and repin to the current EIP blob](https://github.com/ethereum/execution-specs/pull/3622) - 2026-09-18
+* [Pull Request] [chore(tests): record measured EIP-7928 coverage in the checklist evidence](https://github.com/ethereum/execution-specs/pull/3620) - 2026-09-18
+* [Pull Request] [chore(tests): record measured EIP-8282 coverage and rename the inhibitor sentinel](https://github.com/ethereum/execution-specs/pull/3619) - 2026-09-18
+* [Pull Request] [refactor(spec-specs): keep JUMPDEST analysis unchanged under EIP-8024](https://github.com/ethereum/execution-specs/pull/3618) - 2026-09-18
+* [Issue] [chore(test-fill): finish pre-alloc grouping safety and retire Engine X drift checks](https://github.com/ethereum/execution-specs/issues/3621) - 2026-09-18
+* [Commit] [chore(tests): expand and harden EIP-7997 factory coverage (#3614)](https://github.com/ethereum/execution-specs/commit/d4c28bfe7aa35e91ee0cd50febd316eb90d92a37) - 2026-09-18
+* [Commit] [chore(tests): complete EIP-7778 checklist and add access-list arm to the calldata floor test (#3616)](https://github.com/ethereum/execution-specs/commit/b9212183060c297312c04c9d2efb9ce6c1650363) - 2026-09-18
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -395,6 +403,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-7843: align Engine API method names with execution-apis](https://github.com/ethereum/EIPs/pull/12354) - 2026-09-17
 * [Pull Request] [Update EIP-8038: use execution-gas wording, fix the CALLCODE creation cell and a stale benchmark test name](https://github.com/ethereum/EIPs/pull/12353) - 2026-09-17
 * [Commit] [Update EIP-7843: align Engine API method names with execution-apis](https://github.com/ethereum/EIPs/commit/e44e1960a9328282af8dd884837c2302f6a45c3d) - 2026-09-17
+* [Commit] [Update EIP-8037: remove stale EIP-7610 collision rules](https://github.com/ethereum/EIPs/commit/dbc6d457cbf90d5f9d55552f3fd91d58b88cc898) - 2026-09-18
+* [Commit] [Update EIP-8038: use execution-gas wording, fix the CALLCODE creation cell and a stale benchmark test name](https://github.com/ethereum/EIPs/commit/4c7e2487e4da3131bcadc7399f8b153f5344c0b7) - 2026-09-18
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix genesis slotNumber parsing and require the header field from Amsterdam](https://github.com/besu-eth/besu/pull/11038) - 2026-08-13
 

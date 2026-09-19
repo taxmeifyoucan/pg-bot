@@ -162,6 +162,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279#pullrequestreview-5239632733) - 2026-09-17
 * [Review] [Review on: Add step retry for integration/acceptance test shards](https://github.com/Consensys-Incorporated/teku/pull/11293#pullrequestreview-5238376179) - 2026-09-17
 * [Review] [Review on: enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11288#pullrequestreview-5238112167) - 2026-09-17
+* [Review] [Review on: Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279#pullrequestreview-5251415487) - 2026-09-18
+* [Review] [Review on: Use hostname for auth data and default max_execution_payment to 0](https://github.com/Consensys-Incorporated/teku/pull/11303#pullrequestreview-5249478989) - 2026-09-18
+* [Review] [Review on: use proposal epoch fork for proposer preference signatures](https://github.com/Consensys-Incorporated/teku/pull/11302#pullrequestreview-5248703282) - 2026-09-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

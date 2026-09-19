@@ -71,6 +71,8 @@ Team: Erigon
 * [Review] [Review on: ci: set hive eest devnet v8.1.3 max failures to 0](https://github.com/erigontech/erigon/pull/23750#pullrequestreview-5090434789) - 2026-09-02
 * [Review] [Review on: ci: pin Geth used by Hive DevP2P](https://github.com/erigontech/erigon/pull/23756#pullrequestreview-5091697087) - 2026-09-02
 * [Pull Request] [Parallel execution: Block-STM executor + versioned state + parallel commitment](https://github.com/erigontech/erigon/pull/23967) - 2026-09-14
+* [Pull Request] [execution/state: state-layer upgrade (1/3, split of #23967)](https://github.com/erigontech/erigon/pull/24132) - 2026-09-18
+* [Pull Request] [execution: parallel executor + normalize removal (2/3, split of #23967)](https://github.com/erigontech/erigon/pull/24133) - 2026-09-18
 ## Q2 2026
 
 

@@ -126,6 +126,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Reject payloads descending from a bad block instead of backward syncing](https://github.com/besu-eth/besu/pull/11313) - 2026-09-17
 * [Pull Request] [Back transient storage with a seeded HashMap instead of a TreeBasedTable](https://github.com/besu-eth/besu/pull/11315) - 2026-09-17
 * [Pull Request] [Return an internal error when forkchoiceUpdated cannot set a valid head](https://github.com/besu-eth/besu/pull/11317) - 2026-09-17
+* [Pull Request] [Store the jump destination analysis next to the code](https://github.com/besu-eth/besu/pull/11325) - 2026-09-18
+* [Pull Request] [Put a format byte in front of every stored contract code](https://github.com/besu-eth/besu/pull/11327) - 2026-09-18
+* [Pull Request] [Mark bitmap entries without PUSH word-wise in jump destination analysis](https://github.com/besu-eth/besu/pull/11322) - 2026-09-18
+* [Pull Request] [Leave accounts a block only read out of the state commit](https://github.com/besu-eth/besu/pull/11324) - 2026-09-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

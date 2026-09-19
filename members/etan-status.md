@@ -58,6 +58,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5087755509) - 2026-09-02
 * [Review] [Review on: Use EL and CL identifiers in default graffiti](https://github.com/status-im/nimbus-eth2/pull/8620#pullrequestreview-5100537973) - 2026-09-03
 * [Pull Request] [Support import of pre-Capella state after post-Capella init](https://github.com/status-im/nimbus-eth2/pull/8998) - 2026-09-06
+* [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5247858452) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06
@@ -78,6 +79,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update EIP-8081: Propose EIP-8115 for inclusion](https://github.com/ethereum/EIPs/commit/0a941beaafff425f59c902f2eb27b49bf4eb3de1) - 2026-07-30
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [[wip] Experimental branch for Chronos sync continuations](https://github.com/status-im/nimbus-eth1/pull/4451) - 2026-07-09
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Implement light-client sync verification with EF sync tests](https://github.com/sigp/lighthouse/pull/10024#pullrequestreview-5244026141) - 2026-09-18
 ## Q2 2026
 
 

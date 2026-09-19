@@ -369,6 +369,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: add engine_getBlobsV4](https://github.com/erigontech/erigon/pull/24088) - 2026-09-17
 * [Commit] [execution: add engine_getBlobsV4 (#24088)](https://github.com/erigontech/erigon/commit/d03460b07e613b2510ec7d0a4fcdf8d71d1870ea) - 2026-09-17
 * [Commit] [db/seg: speedup EXTCODESIZE using PeekSize instead of Skip (#24082)](https://github.com/erigontech/erigon/commit/19693985383b0c6799a6ff107b27fe5aacc5d1d6) - 2026-09-17
+* [Pull Request] [execution/tracing: support for EIP-8037 state gas tracing (part 1)](https://github.com/erigontech/erigon/pull/24126) - 2026-09-18
+* [Review] [Review on: execution/tracing: support for EIP-8037 state gas tracing (part 1)](https://github.com/erigontech/erigon/pull/24126#pullrequestreview-5254043614) - 2026-09-19
+* [Issue] [[Hegota][EIP-7805]: implement FOCIL in the EL](https://github.com/erigontech/erigon/issues/24106) - 2026-09-18
+* [Issue] [Hegota](https://github.com/erigontech/erigon/issues/24107) - 2026-09-18
+* [Issue] [[Hegota][EIP-8141]: implement Frame Transaction](https://github.com/erigontech/erigon/issues/24108) - 2026-09-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

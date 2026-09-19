@@ -61,6 +61,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/commit/2f0a8bed002f527f6cec450edecb89887896ac87) - 2026-08-06
 * [Pull Request] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/pull/12215) - 2026-08-20
 * [Commit] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/commit/a08f51fec5b2b5da457adb05b8cffb487fb4f7de) - 2026-08-20
+* [Pull Request] [Update EIP-8298: allow SETCODEFROM in initcode and require an existing source](https://github.com/ethereum/EIPs/pull/12356) - 2026-09-18
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 
@@ -84,6 +85,8 @@ Github: [@cperezz](https://github.com/cperezz)
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [forkchoiceUpdated: the no-reorg shortcut is applied even when no finalized block is known](https://github.com/paradigmxyz/reth/issues/27244) - 2026-09-15
 * [Issue] [engine_forkchoiceUpdated commits the chain update before returning -38002 (forkchoice state not updated atomically)](https://github.com/paradigmxyz/reth/issues/27242) - 2026-09-15
+* [Pull Request] [test(ef-tests): persist trie updates between blocks](https://github.com/paradigmxyz/reth/pull/27307) - 2026-09-18
+* [Issue] [ef-tests: computed trie updates are discarded, so multi-block cases never read stored trie nodes](https://github.com/paradigmxyz/reth/issues/27306) - 2026-09-18
 ## Q2 2026
 
 

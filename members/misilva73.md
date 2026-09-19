@@ -70,6 +70,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/pull/12311#pullrequestreview-5197998074) - 2026-09-14
 * [Review] [Review on: Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/pull/12303#pullrequestreview-5197982876) - 2026-09-14
 * [Review] [Review on: Update EIP-8038: clarify charge attribution and component definitions](https://github.com/ethereum/EIPs/pull/12343#pullrequestreview-5210802123) - 2026-09-15
+* [Review] [Review on: Update EIP-8037: remove stale EIP-7610 collision rules](https://github.com/ethereum/EIPs/pull/12296#pullrequestreview-5246893634) - 2026-09-18
+* [Review] [Review on: Update EIP-8038: use execution-gas wording, fix the CALLCODE creation cell and a stale benchmark test name](https://github.com/ethereum/EIPs/pull/12353#pullrequestreview-5245176606) - 2026-09-18
 ## Q2 2026
 
 

@@ -666,6 +666,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: isolate block-end log indexing and strengthen tests](https://github.com/erigontech/erigon/pull/24098) - 2026-09-17
 * [Review] [Review on: execution/stagedsync: index block-end system call logs in the parallel executor](https://github.com/erigontech/erigon/pull/24067#pullrequestreview-5233529936) - 2026-09-17
 * [Pull Request] [execution/state: preserve EIP-8246 balance reads after selfdestruct](https://github.com/erigontech/erigon/pull/24096) - 2026-09-17
+* [Review] [Review on: rpc: blockCache limit increase](https://github.com/erigontech/erigon/pull/24120#pullrequestreview-5247549247) - 2026-09-18
+* [Pull Request] [ci: check QA references before creating release branches](https://github.com/erigontech/erigon/pull/24122) - 2026-09-18
+* [Pull Request] [db/version: bump to 3.8.0-dev](https://github.com/erigontech/erigon/pull/24121) - 2026-09-18
+* [Pull Request] [ci: verify Pectra consolidation, withdrawal and exit effects](https://github.com/erigontech/erigon/pull/24118) - 2026-09-18
+* [Issue] [cl: bound payload preparation work and recover post-PTC retries](https://github.com/erigontech/erigon/issues/24119) - 2026-09-18
+* [Issue] [cl/beacon: deduplicate PTC duties for repeated committee seats](https://github.com/erigontech/erigon/issues/24115) - 2026-09-18
+* [Issue] [cl/beacon: use the shuffling-dependent root for PTC duties](https://github.com/erigontech/erigon/issues/24116) - 2026-09-18
+* [Commit] [cl: harden local payload preparation and Gloas fallbacks (#23436)](https://github.com/erigontech/erigon/commit/4ebaaa26f6a4ea158eb2372bac25d48d244f7dc1) - 2026-09-18
+* [Commit] [execution/types: reject missing BAL fields during RLP decoding (#23993)](https://github.com/erigontech/erigon/commit/d02515c4d68878f36fad27e48d8fea3d72e8bbe8) - 2026-09-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

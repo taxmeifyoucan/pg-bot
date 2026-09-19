@@ -117,6 +117,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: Storage trie static vids](https://github.com/status-im/nimbus-eth1/pull/4797#pullrequestreview-5224614966) - 2026-09-16
 * [Pull Request] [Fix crash in optimistic state prefetch](https://github.com/status-im/nimbus-eth1/pull/4812) - 2026-09-17
 * [Commit] [Fix crash in optimistic state prefetch (#4812)](https://github.com/status-im/nimbus-eth1/commit/84f3d308912173cff8a155c40194be381d70579e) - 2026-09-18
+* [Pull Request] [Use nim-ssz-serialization digest in sha256 precompile](https://github.com/status-im/nimbus-eth1/pull/4817) - 2026-09-18
+* [Pull Request] [Add parallel flag to enable/disable parallel features](https://github.com/status-im/nimbus-eth1/pull/4816) - 2026-09-18
+* [Pull Request] [Increase BAL retention window](https://github.com/status-im/nimbus-eth1/pull/4815) - 2026-09-18
+* [Commit] [Use nim-ssz-serialization digest in sha256 precompile (#4817)](https://github.com/status-im/nimbus-eth1/commit/925bcc20cf47e46b98aaabca219088ff21e3794a) - 2026-09-18
+* [Commit] [Add parallel flag to enable/disable parallel features (#4816)](https://github.com/status-im/nimbus-eth1/commit/bd2bf36183b019602c5805fc747e00afbdb9bc94) - 2026-09-18
 ## Q2 2026
 
 

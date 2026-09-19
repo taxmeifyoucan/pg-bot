@@ -240,6 +240,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [rpc: ots_hasCode reads the state before the selected block](https://github.com/erigontech/erigon/issues/24102) - 2026-09-17
 * [Commit] [db/rawdb: default genesis difficulty before storing the spec (#24076)](https://github.com/erigontech/erigon/commit/87da27ae6448fd1d77c4c406bdbbb75849f2e7cf) - 2026-09-17
 * [Commit] [rpc/jsonrpc: keep the caller's blob fee cap in debug_traceCall (#24038)](https://github.com/erigontech/erigon/commit/b60bbe44151be00a596ae256ca4546e1bd8cd2e0) - 2026-09-17
+* [Review] [Review on: rpc: remove tx hash calc before put block in cache](https://github.com/erigontech/erigon/pull/24123#pullrequestreview-5251750318) - 2026-09-18
+* [Pull Request] [rpc/jsonrpc: fix eth_sendRawTransactionSync fast path for a mined transaction](https://github.com/erigontech/erigon/pull/24134) - 2026-09-18
+* [Review] [Review on: execution/types/ethutils, node/privateapi: recover the receipt sender from the chain config](https://github.com/erigontech/erigon/pull/24103#pullrequestreview-5246284384) - 2026-09-18
+* [Review] [Review on: rpc, execution/engineapi: migrate `rpc/requests` quantities to uint256](https://github.com/erigontech/erigon/pull/24109#pullrequestreview-5246531516) - 2026-09-18
+* [Review] [Review on: node, rpc: report the sync session starting block in eth_syncing](https://github.com/erigontech/erigon/pull/24077#pullrequestreview-5245645358) - 2026-09-18
+* [Review] [Review on: rpc: single HTTP request to not create 2nd goroutine](https://github.com/erigontech/erigon/pull/24007#pullrequestreview-5244891333) - 2026-09-18
+* [Commit] [rpc/jsonrpc: fail eth_getLogs on a block with no header (#24101)](https://github.com/erigontech/erigon/commit/24effdf5390f7c1ca4e397bc0ac2d96a3140ed1f) - 2026-09-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

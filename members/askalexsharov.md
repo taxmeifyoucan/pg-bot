@@ -1622,6 +1622,45 @@ Team: Erigon
 * [Commit] [rpc/gasprice: resolve warm `eth_feeHistory` cache keys from cached parents (#24063)](https://github.com/erigontech/erigon/commit/b3123f3cf13f56dc603200faf6a37be0309de944) - 2026-09-17
 * [Commit] [rpc/jsonrpc: encode the `eth_feeHistory` result without reflection (#24059)](https://github.com/erigontech/erigon/commit/9853ea40143e695a0ec2522e67c182aed6ccaa3a) - 2026-09-17
 * [Commit] [rpc/jsonrpc: stop eth_getWitness printing every witness operator to stdout (#24073)](https://github.com/erigontech/erigon/commit/2ba1a590e48777905e4f87341adcb584bcf232f0) - 2026-09-17
+* [Pull Request] [rpc/transactions: memoise state reads across estimateGas probes](https://github.com/erigontech/erigon/pull/24138) - 2026-09-19
+* [Pull Request] [rpc/jsonstream: let a field supersede its comma in one stack write](https://github.com/erigontech/erigon/pull/24139) - 2026-09-19
+* [Pull Request] [rpc: `estimateGas` to reuse `ibs`](https://github.com/erigontech/erigon/pull/24137) - 2026-09-18
+* [Review] [Review on: rpc: `estimateGas` to reuse `ibs`](https://github.com/erigontech/erigon/pull/24137#pullrequestreview-5253827513) - 2026-09-19
+* [Pull Request] [tracing: let a tracer name the opcodes it wants](https://github.com/erigontech/erigon/pull/24136) - 2026-09-18
+* [Review] [Review on: tracing: let a tracer name the opcodes it wants](https://github.com/erigontech/erigon/pull/24136#pullrequestreview-5253827342) - 2026-09-19
+* [Pull Request] [rpc: RPCBlock strict typing instead of `any`](https://github.com/erigontech/erigon/pull/24127) - 2026-09-18
+* [Review] [Review on: rpc: RPCBlock strict typing instead of `any`](https://github.com/erigontech/erigon/pull/24127#pullrequestreview-5253827049) - 2026-09-19
+* [Pull Request] [rpc: remove tx hash calc before put block in cache](https://github.com/erigontech/erigon/pull/24123) - 2026-09-18
+* [Pull Request] [rpc: switch to stdlib http server ](https://github.com/erigontech/erigon/pull/24111) - 2026-09-18
+* [Review] [Review on: rpc: switch to stdlib http server ](https://github.com/erigontech/erigon/pull/24111#pullrequestreview-5245658934) - 2026-09-18
+* [Review] [Review on: execution/types/ethutils, node/privateapi: recover the receipt sender from the chain config](https://github.com/erigontech/erigon/pull/24103#pullrequestreview-5244205444) - 2026-09-18
+* [Pull Request] [rpc: eth_getProof support MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24105) - 2026-09-18
+* [Review] [Review on: rpc: eth_getProof support MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24105#pullrequestreview-5244200937) - 2026-09-18
+* [Pull Request] [execution/commitment: fill hashRow's cell data in place](https://github.com/erigontech/erigon/pull/24114) - 2026-09-18
+* [Pull Request] [rpc: blockCache limit increase](https://github.com/erigontech/erigon/pull/24120) - 2026-09-18
+* [Review] [Review on: rpc: blockCache limit increase](https://github.com/erigontech/erigon/pull/24120#pullrequestreview-5247574735) - 2026-09-18
+* [Pull Request] [rpc, execution/engineapi: migrate `rpc/requests` quantities to uint256](https://github.com/erigontech/erigon/pull/24109) - 2026-09-18
+* [Review] [Review on: cl/p2p: add QUIC transport support](https://github.com/erigontech/erigon/pull/24117#pullrequestreview-5246965589) - 2026-09-18
+* [Review] [Review on: rpc: single HTTP request to not create 2nd goroutine](https://github.com/erigontech/erigon/pull/24007#pullrequestreview-5244706096) - 2026-09-18
+* [Review] [Review on: rpc: RPCLogs type support MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24092#pullrequestreview-5244201159) - 2026-09-18
+* [Review] [Review on: db/state: cache decompressed history pages](https://github.com/erigontech/erigon/pull/24036#pullrequestreview-5247609771) - 2026-09-18
+* [Review] [Review on: ci: verify Pectra consolidation, withdrawal and exit effects](https://github.com/erigontech/erigon/pull/24118#pullrequestreview-5247036085) - 2026-09-18
+* [Review] [Review on: execution/state: preserve EIP-8246 balance reads after selfdestruct](https://github.com/erigontech/erigon/pull/24096#pullrequestreview-5247004927) - 2026-09-18
+* [Review] [Review on: execution: isolate block-end log indexing and strengthen tests](https://github.com/erigontech/erigon/pull/24098#pullrequestreview-5247004713) - 2026-09-18
+* [Commit] [execution/commitment: fold eth_getProof's witness read-only (#24035)](https://github.com/erigontech/erigon/commit/e7af01569812bd76c2a68c47f8a655cb0c81e70a) - 2026-09-18
+* [Commit] [rpc: remove tx hash calc before put block in cache (#24123)](https://github.com/erigontech/erigon/commit/7335d151a22ce9c75065531f835b41147ca7ba65) - 2026-09-18
+* [Commit] [rpc: switch to stdlib http server  (#24111)](https://github.com/erigontech/erigon/commit/40ff6ac53d1d61a016bab4fc330ed21936779ecc) - 2026-09-18
+* [Commit] [execution/commitment: fill hashRow's cell data in place (#24114)](https://github.com/erigontech/erigon/commit/ae4e8e4e12252a1da1e6e025fe172fc897dd0851) - 2026-09-18
+* [Commit] [rpc, execution/engineapi: migrate `rpc/requests` quantities to uint256 (#24109)](https://github.com/erigontech/erigon/commit/b16b6db40cb886ac83cc56ecbab089e8f9ea5bbc) - 2026-09-18
+* [Commit] [rpc: blockCache limit increase (#24120)](https://github.com/erigontech/erigon/commit/70f8573e5d6a6c874c85fb0a5c4b0832537d5a4d) - 2026-09-18
+* [Commit] [rpc: serve eth_getProof by walking the witness nodes by hash (#24034)](https://github.com/erigontech/erigon/commit/f5ff383a5eb3ad6d9c2485a66d01fd801785e517) - 2026-09-18
+* [Commit] [rpc: single HTTP request to not create 2nd goroutine (#24007)](https://github.com/erigontech/erigon/commit/4fb3d531489f3983411daebea1e227797fb9a77b) - 2026-09-18
+* [Commit] [cl/phase1/network/services: fix racy TestBlockServiceQueuesClockBoundaryBlockForRetry (#24091)](https://github.com/erigontech/erigon/commit/04d27fb558b909d24ab42113ae76b6e3fbcc4119) - 2026-09-18
+* [Commit] [rpc/jsonrpc: read account state at the end of the requested block (#24056)](https://github.com/erigontech/erigon/commit/66571d043907723f190fbe1f882008c27008fa29) - 2026-09-18
+* [Commit] [execution/commitment: reject a value in a storage absence proof (#24055)](https://github.com/erigontech/erigon/commit/2141fd0a8c96218a53d6a15c3c33003478c6f0ea) - 2026-09-18
+* [Commit] [execution/commitment: copy witness nodes into arenas (#24083)](https://github.com/erigontech/erigon/commit/bcc6ecf76c237960380f5827d84d80122296bcec) - 2026-09-18
+* [Commit] [rpc: eth_getCode support MarshalFastJSONTo (#24086)](https://github.com/erigontech/erigon/commit/ea019b94f231f8bff9c56bded5b6a95f0365bf18) - 2026-09-18
+* [Commit] [rpc/jsonrpc: build one `eth_getProof` witness for the account and its storage keys (#24004)](https://github.com/erigontech/erigon/commit/1f9e1d70c19aec2e8885d79fbf7a9f6b20540113) - 2026-09-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

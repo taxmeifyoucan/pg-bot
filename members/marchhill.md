@@ -450,6 +450,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: ci(frame-verify-gas): drop the gh CLI dependency from fetch-artifacts.sh](https://github.com/NethermindEth/nethermind/pull/13545#pullrequestreview-5235304358) - 2026-09-17
 * [Review] [Review on: Skip unrelated storage scans when clearing untouched accounts](https://github.com/NethermindEth/nethermind/pull/13531#pullrequestreview-5237583905) - 2026-09-17
 * [Review] [Review on: chore(deps): update MCL package](https://github.com/NethermindEth/nethermind/pull/13548#pullrequestreview-5234094297) - 2026-09-17
+* [Pull Request] [EIP-8369: judge frame-transaction omission by Profile 2 candidacy](https://github.com/NethermindEth/nethermind/pull/13590) - 2026-09-18
+* [Pull Request] [test(focil): pin the frame-transaction skip as a per-entry rule](https://github.com/NethermindEth/nethermind/pull/13588) - 2026-09-18
+* [Pull Request] [perf(eip7906): build the transaction diff view without intermediate collections](https://github.com/NethermindEth/nethermind/pull/13569) - 2026-09-18
+* [Review] [Review on: perf(eip7906): build the transaction diff view without intermediate collections](https://github.com/NethermindEth/nethermind/pull/13569#pullrequestreview-5246549471) - 2026-09-18
+* [Pull Request] [perf(frames): saturating gas helpers, cached cold-access cost, inclusion-list allocations](https://github.com/NethermindEth/nethermind/pull/13570) - 2026-09-18
+* [Review] [Review on: perf(frames): saturating gas helpers, cached cold-access cost, inclusion-list allocations](https://github.com/NethermindEth/nethermind/pull/13570#pullrequestreview-5246814382) - 2026-09-18
+* [Pull Request] [perf(rpc): drop the per-frame and per-transaction allocations from the frames RPC surface](https://github.com/NethermindEth/nethermind/pull/13571) - 2026-09-18
+* [Review] [Review on: perf(rpc): drop the per-frame and per-transaction allocations from the frames RPC surface](https://github.com/NethermindEth/nethermind/pull/13571#pullrequestreview-5246812158) - 2026-09-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

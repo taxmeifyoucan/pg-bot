@@ -599,6 +599,10 @@ Team: Erigon
 * [Commit] [cl/phase1/forkchoice: deflake TestExecutionPayloadIndexWriteHasSingleNotificationOwner (#24019)](https://github.com/erigontech/erigon/commit/11f3aa3b5aad60d345f6a028abfe3a519cf07d62) - 2026-09-17
 * [Commit] [execution/commitment: cover a budget-deferred db-hit resolving after the overlay rotates (#24066)](https://github.com/erigontech/erigon/commit/96b10af2f298fab0222c10845dfa9fc616c7d3e4) - 2026-09-17
 * [Commit] [execution, rpc: decode block access list addresses without interning (#24024)](https://github.com/erigontech/erigon/commit/2769842e79d160f870dfe2962af1aa8556073e52) - 2026-09-17
+* [Review] [Review on: rpc: switch to stdlib http server ](https://github.com/erigontech/erigon/pull/24111#pullrequestreview-5249420662) - 2026-09-18
+* [Review] [Review on: execution/commitment: fill hashRow's cell data in place](https://github.com/erigontech/erigon/pull/24114#pullrequestreview-5249379060) - 2026-09-18
+* [Review] [Review on: witness: fold read-only](https://github.com/erigontech/erigon/pull/24072#pullrequestreview-5249470277) - 2026-09-18
+* [Review] [Review on: rpc: single HTTP request to not create 2nd goroutine](https://github.com/erigontech/erigon/pull/24007#pullrequestreview-5244821238) - 2026-09-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

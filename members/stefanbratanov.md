@@ -97,6 +97,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Use slot from header instead of bid](https://github.com/Consensys-Incorporated/teku/pull/11143) - 2026-09-16
 * [Commit] [Use `Eth-Builder-Url` to send block to builders (#11280)](https://github.com/Consensys-Incorporated/teku/commit/fc9ad51dc7d66ff11b226fdbbb519c1a28c190cf) - 2026-09-16
 * [Commit] [Use slot from header instead of bid (#11143)](https://github.com/Consensys-Incorporated/teku/commit/0d20ec847da217ac2d431d02a14f05508574de2c) - 2026-09-16
+* [Pull Request] [Use hostname for auth data and default max_execution_payment to 0](https://github.com/Consensys-Incorporated/teku/pull/11303) - 2026-09-18
+* [Review] [Review on: Use hostname for auth data and default max_execution_payment to 0](https://github.com/Consensys-Incorporated/teku/pull/11303#pullrequestreview-5248811939) - 2026-09-18
+* [Pull Request] [Fix `ValidatorTimingChannel` inconsistent routing](https://github.com/Consensys-Incorporated/teku/pull/11301) - 2026-09-18
+* [Review] [Review on: Fix `ValidatorTimingChannel` inconsistent routing](https://github.com/Consensys-Incorporated/teku/pull/11301#pullrequestreview-5248719810) - 2026-09-18
+* [Pull Request] [Make Builder API okhttp calls async](https://github.com/Consensys-Incorporated/teku/pull/11300) - 2026-09-18
+* [Issue] [Migrate to OkHttp 5](https://github.com/Consensys-Incorporated/teku/issues/11298) - 2026-09-18
+* [Commit] [Fix `ValidatorTimingChannel` inconsistent routing (#11301)](https://github.com/Consensys-Incorporated/teku/commit/9f13de3736bc6f2a4579dc014205c00d303e849b) - 2026-09-18
+* [Commit] [Make Builder API okhttp calls async (#11300)](https://github.com/Consensys-Incorporated/teku/commit/0d3a20bcf52073fa26e41e8914e72dafa506a1a9) - 2026-09-18
+* [Commit] [Implement builder preferences Beacon API (#11264)](https://github.com/Consensys-Incorporated/teku/commit/72a9e722c7589ce9d1a1bb1ada58d3a5a48711fb) - 2026-09-18
 ## Q2 2026
 
 

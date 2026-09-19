@@ -34,6 +34,8 @@ Team: EthereumJS
 * [Review] [Review on: fix(util): align BAL validation with numeric storage slot ordering](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4368#pullrequestreview-4944765506) - 2026-08-15
 * [Pull Request] [deps: resolve open Dependabot security alerts](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4373) - 2026-08-19
 * [Commit] [deps: resolve open Dependabot security alerts (#4373)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/272509a9cdcef143c79e6788e67bf48df8abbaff) - 2026-08-22
+* [Pull Request] [deps: resolve Dependabot security alerts (non-breaking set)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4380) - 2026-09-18
+* [Commit] [deps: resolve Dependabot security alerts (non-breaking set) (#4380)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/a2ee933bfdfa1e0378f149ae964c9c0c30857eed) - 2026-09-18
 ## Q2 2026
 
 

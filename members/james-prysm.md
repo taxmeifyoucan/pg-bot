@@ -239,6 +239,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: gloas checkpoint sync withheld payload fix](https://github.com/OffchainLabs/prysm/pull/17458#pullrequestreview-5237818212) - 2026-09-17
 * [Review] [Review on: Serve available historical Gloas payload envelopes by root](https://github.com/OffchainLabs/prysm/pull/17499#pullrequestreview-5236704442) - 2026-09-17
 * [Review] [Review on: Enforce proposer settings schema from file/URL loading](https://github.com/OffchainLabs/prysm/pull/17498#pullrequestreview-5237000344) - 2026-09-17
+* [Pull Request] [adding builder settings flags for proposer settings](https://github.com/OffchainLabs/prysm/pull/17519) - 2026-09-18
+* [Review] [Review on: Derive the default builder `auth_data` from the URL hostname](https://github.com/OffchainLabs/prysm/pull/17511#pullrequestreview-5252107296) - 2026-09-18
+* [Review] [Review on: fixing 204 handling for rest ptc attestation](https://github.com/OffchainLabs/prysm/pull/17510#pullrequestreview-5251237339) - 2026-09-18
+* [Commit] [Serve available historical Gloas payload envelopes by root (#17499)](https://github.com/OffchainLabs/prysm/commit/e302e7b5e5558b92a4ee485a40e6cf3e5ab994aa) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

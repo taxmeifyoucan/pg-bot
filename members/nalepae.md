@@ -108,6 +108,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: fix sync committee duty bug for exited vals - pre gloas](https://github.com/OffchainLabs/prysm/pull/17395#pullrequestreview-5018298705) - 2026-08-25
 * [Commit] [Compute correctly the `finalized` field value in a bunch of beacon API endpoints. (#17401)](https://github.com/OffchainLabs/prysm/commit/153166621aa3ca08adfac8444a390a85f12fe4a7) - 2026-08-25
 * [Pull Request] [[EIP-8025] Implement optional execution proofs](https://github.com/OffchainLabs/prysm/pull/17490) - 2026-09-11
+* [Issue] [When importing a Slashing Protection Interchange Format (EIP-3076) or when converting a minimal anti-slashing DB to a complete one. Be sure not to treat any missing signing root as `0x0000....`](https://github.com/OffchainLabs/prysm/issues/17516) - 2026-09-18
+* [Issue] [Support the `validator slashing-protection-history export` command when using the `--enable-minimal-slashing-protection`](https://github.com/OffchainLabs/prysm/issues/17514) - 2026-09-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

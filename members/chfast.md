@@ -282,6 +282,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [Compute gas with uint32](https://github.com/ipsilon/evmone/issues/1719) - 2026-09-16
 * [Commit] [evm: Improve style of TransactionReceipt{} construction (#1721)](https://github.com/ipsilon/evmone/commit/ee0bf39479025e923e67737d04aaef7e235f4413) - 2026-09-16
 * [Commit] [precompiles: Improve style of Result{} construction (#1720)](https://github.com/ipsilon/evmone/commit/5ca6ee4fe16bb299c4ed3e42ad0b051aa981bef2) - 2026-09-16
+* [Review] [Review on: test: Add dumping post state for state test running.](https://github.com/ipsilon/evmone/pull/1722#pullrequestreview-5247272807) - 2026-09-18
+* [Review] [Review on: test: Report log hash in state test run](https://github.com/ipsilon/evmone/pull/1723#pullrequestreview-5247379198) - 2026-09-18
+* [Pull Request] [state: Return block gas used directly](https://github.com/ipsilon/evmone/pull/1725) - 2026-09-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -361,6 +364,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): fold the ECRECOVER v and curve-order cases into test_precompiles](https://github.com/ethereum/execution-specs/pull/3589) - 2026-09-15
 * [Pull Request] [feat(tests): port the repeated ECRECOVER call fillers](https://github.com/ethereum/execution-specs/pull/3590) - 2026-09-15
 * [Commit] [feat(tests): fold the ECRECOVER v and curve-order cases into test_precompiles (#3589)](https://github.com/ethereum/execution-specs/commit/f7847b76bac6113cce6a94e8d62c734609b7ec32) - 2026-09-15
+* [Commit] [feat(test-benchmark): strengthen and consolidate TSTORE benchmark (#3441)](https://github.com/ethereum/execution-specs/commit/71a7b18466a3293e32ab04e6fce074ad8986da74) - 2026-09-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

@@ -82,6 +82,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Fix backfill nil panic in columnsNeeded when a batch needs no columns (#17496)](https://github.com/OffchainLabs/prysm/commit/4a8c3b9d2b2e9e93864bacb41aef6949c432ff60) - 2026-09-15
 * [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5233794906) - 2026-09-17
 * [Review] [Review on: Serve available historical Gloas payload envelopes by root](https://github.com/OffchainLabs/prysm/pull/17499#pullrequestreview-5234964035) - 2026-09-17
+* [Review] [Review on: Serve available historical Gloas payload envelopes by root](https://github.com/OffchainLabs/prysm/pull/17499#pullrequestreview-5246715169) - 2026-09-18
+* [Review] [Review on: Keep last known good peer chain state on status validation failure](https://github.com/OffchainLabs/prysm/pull/17509#pullrequestreview-5247088466) - 2026-09-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

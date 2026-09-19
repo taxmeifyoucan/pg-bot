@@ -105,6 +105,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Add last Payload at forkchoice setup](https://github.com/OffchainLabs/prysm/pull/17508) - 2026-09-17
 * [Review] [Review on: Gloas late head payloads](https://github.com/OffchainLabs/prysm/pull/17497#pullrequestreview-5238615870) - 2026-09-17
 * [Review] [Review on: hdiff optimization: Sparse ApplyValidatorsDiff](https://github.com/OffchainLabs/prysm/pull/17507#pullrequestreview-5239165499) - 2026-09-17
+* [Commit] [Add last Payload at forkchoice setup (#17508)](https://github.com/OffchainLabs/prysm/commit/9d8c04a96fd31b073a56f86684bdb06966549c35) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

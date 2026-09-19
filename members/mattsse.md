@@ -854,6 +854,22 @@ Team: Reth
 * [Review] [Review on: chore(mdbx): disable Linux mincore residency probes](https://github.com/paradigmxyz/reth/pull/27271#pullrequestreview-5233797622) - 2026-09-17
 * [Review] [Review on: fix: sparse blobpool fixes](https://github.com/paradigmxyz/reth/pull/27287#pullrequestreview-5233839844) - 2026-09-17
 * [Commit] [perf(txpool): reserve insertion metadata before locking (#27283)](https://github.com/paradigmxyz/reth/commit/74c4d52181c11731a5dc162394dec8e97dd4bd2d) - 2026-09-17
+* [Review] [Review on: fix(ci): repin deny workflow for paradigmxyz STS support](https://github.com/paradigmxyz/reth/pull/27312#pullrequestreview-5254177174) - 2026-09-19
+* [Pull Request] [refactor(txpool): expose sender-id transaction lookups](https://github.com/paradigmxyz/reth/pull/27316) - 2026-09-19
+* [Pull Request] [perf(rpc): reuse the shared sender recovery cache in builder validation](https://github.com/paradigmxyz/reth/pull/27308) - 2026-09-18
+* [Review] [Review on: perf(rpc): reuse the shared sender recovery cache in builder validation](https://github.com/paradigmxyz/reth/pull/27308#pullrequestreview-5249685967) - 2026-09-18
+* [Review] [Review on: test(ef-tests): persist trie updates between blocks](https://github.com/paradigmxyz/reth/pull/27307#pullrequestreview-5253476733) - 2026-09-18
+* [Review] [Review on: fix(tasks): shut down the owned runtime even when clones are still alive](https://github.com/paradigmxyz/reth/pull/27313#pullrequestreview-5253268153) - 2026-09-18
+* [Review] [Review on: fix(net): encode snap account bodies as nested RLP lists](https://github.com/paradigmxyz/reth/pull/27311#pullrequestreview-5251060128) - 2026-09-18
+* [Review] [Review on: feat(snap-sync): advance the pivot while state downloads remain unfinished](https://github.com/paradigmxyz/reth/pull/27299#pullrequestreview-5253266353) - 2026-09-18
+* [Review] [Review on: fix(rpc): use the pending block timestamp for its blob params](https://github.com/paradigmxyz/reth/pull/27305#pullrequestreview-5250711888) - 2026-09-18
+* [Review] [Review on: fix(ci): migrate deny check to gh-actions](https://github.com/paradigmxyz/reth/pull/27309#pullrequestreview-5248843220) - 2026-09-18
+* [Review] [Review on: fix(net): ignore additional list elements when decoding RLPx Hello](https://github.com/paradigmxyz/reth/pull/27302#pullrequestreview-5246426945) - 2026-09-18
+* [Review] [Review on: fix(rpc): keep unreverted blocks buffered for finalized chain notifications on reorg](https://github.com/paradigmxyz/reth/pull/27301#pullrequestreview-5247317425) - 2026-09-18
+* [Review] [Review on: feat: carry the prepared BAL on ExecutedBlock and Chain](https://github.com/paradigmxyz/reth/pull/27297#pullrequestreview-5246567053) - 2026-09-18
+* [Commit] [refactor(txpool): expose sender-id transaction lookups (#27316)](https://github.com/paradigmxyz/reth/commit/334a4067aad15dac42e2bfa3594bfb665e2a9c43) - 2026-09-19
+* [Commit] [perf(txpool): reuse insertion timestamp across a batch (#27284)](https://github.com/paradigmxyz/reth/commit/0032bec310b1531dc24d6b5bfeffa690eb35531a) - 2026-09-18
+* [Commit] [feat: carry the prepared BAL on ExecutedBlock and Chain (#27297)](https://github.com/paradigmxyz/reth/commit/9415efd4beae124c66ce8c3e0788d7ce261bb87f) - 2026-09-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

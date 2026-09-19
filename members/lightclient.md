@@ -104,6 +104,7 @@ Team: Geth
 
 * [Review] [Review on: spec: allow EIP-1898 block objects in BlockNumberOrTagOrHash](https://github.com/ethereum/execution-apis/pull/859#pullrequestreview-4898248554) - 2026-08-10
 * [Review] [Review on: testgen: fix duplicate test names and regenerate fixtures](https://github.com/ethereum/execution-apis/pull/858#pullrequestreview-4910081875) - 2026-08-11
+* [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5249468609) - 2026-09-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix(rpc-compat): support large fixture messages](https://github.com/ethereum/hive/pull/1583) - 2026-07-22
 * [Commit] [fix(rpc-compat): support large fixture messages (#1583)](https://github.com/ethereum/hive/commit/ce2a6785d5f7dbf45f24d2b9e7a2620c4716922a) - 2026-07-22

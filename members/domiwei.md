@@ -145,6 +145,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.6] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24064) - 2026-09-16
 * [Commit] [cl: harden execution payload envelope admission (#24039)](https://github.com/erigontech/erigon/commit/ed3184f5ff39519ef4602c2e5d402896c8b4411d) - 2026-09-16
 * [Commit] [db/integrity: validate frozen blob sidecar snapshots (#23927)](https://github.com/erigontech/erigon/commit/b921bd3c9efa6e06f34d53661fcaf18539a07ae7) - 2026-09-16
+* [Pull Request] [cl/p2p: add QUIC transport support](https://github.com/erigontech/erigon/pull/24117) - 2026-09-18
+* [Review] [Review on: cl: make lru.CacheWithTTL closable](https://github.com/erigontech/erigon/pull/24022#pullrequestreview-5245076762) - 2026-09-18
 ## Q2 2026
 
 

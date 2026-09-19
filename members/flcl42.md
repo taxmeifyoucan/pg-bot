@@ -335,6 +335,17 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(tracing): give every JavaScript block trace its own V8 runtime](https://github.com/NethermindEth/nethermind/pull/13541#pullrequestreview-5236003516) - 2026-09-17
 * [Commit] [Report previous transient value in TSTORE traces (#13504)](https://github.com/NethermindEth/nethermind/commit/121a77f2cb99b2da8ab5e8cb191e0277d7be9fa2) - 2026-09-17
 * [Commit] [Use system calls for EIP-8037 beacon roots (#13483)](https://github.com/NethermindEth/nethermind/commit/aece1590e714c6b66ec1bd77f563a476fb28b773) - 2026-09-17
+* [Pull Request] [Remove EL slot ordering enforcement from engine_forkchoiceUpdatedV4](https://github.com/NethermindEth/nethermind/pull/13583) - 2026-09-18
+* [Pull Request] [Inherit parent slot number in simulated child headers](https://github.com/NethermindEth/nethermind/pull/13584) - 2026-09-18
+* [Pull Request] [Pass parent slot number through simulated payload attributes](https://github.com/NethermindEth/nethermind/pull/13585) - 2026-09-18
+* [Pull Request] [Validate slot number on orphaned headers](https://github.com/NethermindEth/nethermind/pull/13586) - 2026-09-18
+* [Pull Request] [Carry slot number through XDC header copies](https://github.com/NethermindEth/nethermind/pull/13587) - 2026-09-18
+* [Review] [Review on: ci: add automatic AI code review through LiteLLM](https://github.com/NethermindEth/nethermind/pull/13564#pullrequestreview-5245203150) - 2026-09-18
+* [Pull Request] [Preserve account creation results in traced world state](https://github.com/NethermindEth/nethermind/pull/13574) - 2026-09-18
+* [Pull Request] [Report EIP-7708 finalization logs to tracers](https://github.com/NethermindEth/nethermind/pull/13567) - 2026-09-18
+* [Pull Request] [Sort inline EIP-7708 finalization logs lexicographically](https://github.com/NethermindEth/nethermind/pull/13568) - 2026-09-18
+* [Pull Request] [Pin EIP-7708 receipt ordering, bloom, and rollback behavior with tests](https://github.com/NethermindEth/nethermind/pull/13573) - 2026-09-18
+* [Commit] [Burn restored spill on top-level halt (#13484)](https://github.com/NethermindEth/nethermind/commit/676361d9890c2fbdf1537ff61e80d172905cbb8d) - 2026-09-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

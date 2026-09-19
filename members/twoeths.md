@@ -276,6 +276,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Review ChainEvent.incompletePayloadEnvelope](https://github.com/ChainSafe/lodestar/issues/10114) - 2026-09-17
 * [Commit] [feat: unknownEnvelopeBlockRootSlot event (#10112)](https://github.com/ChainSafe/lodestar/commit/2b55a3acab0d890fe68746037503e463baf5d522) - 2026-09-18
 * [Commit] [feat: penalize peers for forwarding REJECTED gossip messages (#10059)](https://github.com/ChainSafe/lodestar/commit/b27f498c2c337362c1f51dc50c0f15fe029a7828) - 2026-09-17
+* [Pull Request] [feat: search payload at deadline](https://github.com/ChainSafe/lodestar/pull/10134) - 2026-09-19
+* [Pull Request] [fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123) - 2026-09-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

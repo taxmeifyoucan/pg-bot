@@ -100,6 +100,16 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci(rpc-bench): survive a sparse-checkout left behind on the shared runner](https://github.com/NethermindEth/nethermind/pull/13468#pullrequestreview-5210898849) - 2026-09-15
 * [Pull Request] [ci: add automatic AI code review through LiteLLM](https://github.com/NethermindEth/nethermind/pull/13564) - 2026-09-18
 * [Review] [Review on: Default all sync test networks to Spot](https://github.com/NethermindEth/nethermind/pull/13556#pullrequestreview-5237222653) - 2026-09-17
+* [Pull Request] [ci: add PR context and independent validation to OCR reviews](https://github.com/NethermindEth/nethermind/pull/13581) - 2026-09-18
+* [Pull Request] [ci: allow collaborators to request OCR reviews in PR comments](https://github.com/NethermindEth/nethermind/pull/13580) - 2026-09-18
+* [Pull Request] [fix: keep AI review configuration out of public reports](https://github.com/NethermindEth/nethermind/pull/13579) - 2026-09-18
+* [Pull Request] [fix(xdc): run the patricia state backend so node data can be served (#13478) — cherry-pick to feat/2.0.0](https://github.com/NethermindEth/nethermind/pull/13578) - 2026-09-18
+* [Issue] [FlatDb: RocksDB auto-repair of a corrupted flat DB silently drops leaves; node resumes as "already have state" and diverges from consensus](https://github.com/NethermindEth/nethermind/issues/13577) - 2026-09-18
+* [Issue] [Legacy state sync (StateNodes/TreeSync) on the path-keyed Flat backend leaves stale storage subtrees across pivot changes → wrong state, deterministic HeaderGasUsedMismatch after sync](https://github.com/NethermindEth/nethermind/issues/13576) - 2026-09-18
+* [Issue] [FlatDb + legacy state sync (Sync.SnapSync=false): restart during state sync leaves permanent account/storage holes (trie complete, flat leaf missing) → deterministic HeaderGasUsedMismatch after sync](https://github.com/NethermindEth/nethermind/issues/13575) - 2026-09-18
+* [Commit] [ci: allow collaborators to request OCR reviews in PR comments (#13580)](https://github.com/NethermindEth/nethermind/commit/364eaaf0315525b1217d062fdd7ef8d615ea3e5a) - 2026-09-18
+* [Commit] [fix: keep AI review configuration out of public reports (#13579)](https://github.com/NethermindEth/nethermind/commit/d2fa3ead89c1fb238fc977f610858e352fe6bbc5) - 2026-09-18
+* [Commit] [ci: add automatic AI code review through LiteLLM (#13564)](https://github.com/NethermindEth/nethermind/commit/6f113a82aa1277f01eb6d24fc62ea55ca7c5fe3f) - 2026-09-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

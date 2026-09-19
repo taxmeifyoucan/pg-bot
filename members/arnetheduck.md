@@ -38,6 +38,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use cross-thread `callSoon` to simplify task completion logic](https://github.com/status-im/nimbus-eth2/pull/8853) - 2026-08-06
 * [Pull Request] [remove force build](https://github.com/status-im/nimbus-eth2/pull/8883) - 2026-08-14
 * [Pull Request] [n-b-s: rm pcre/rocksdb support](https://github.com/status-im/nimbus-eth2/pull/8902) - 2026-08-18
+* [Review] [Review on: enforce minimum Nim version](https://github.com/status-im/nimbus-eth2/pull/9065#pullrequestreview-5244755306) - 2026-09-18
 ## Q2 2026
 
 

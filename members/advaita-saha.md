@@ -111,6 +111,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5234066966) - 2026-09-17
 * [Pull Request] [move `tx-broadcast` logs to TRACE level](https://github.com/status-im/nimbus-eth1/pull/4810) - 2026-09-17
 * [Commit] [move tx-broadcast to TRACE level (#4810)](https://github.com/status-im/nimbus-eth1/commit/5d6a7158032ec7f81f85be0300354ee86468716c) - 2026-09-17
+* [Pull Request] [use the sharedNAT config for the lc](https://github.com/status-im/nimbus-eth1/pull/4823) - 2026-09-18
+* [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5248034691) - 2026-09-18
+* [Commit] [fix: peer overload in mainnet (#4748)](https://github.com/status-im/nimbus-eth1/commit/5dfdf626b88baefd4754580ca5a5e058efa3172b) - 2026-09-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

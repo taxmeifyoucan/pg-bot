@@ -133,8 +133,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11288#pullrequestreview-5237230683) - 2026-09-17
 * [Commit] [rename PTC to Payload Timeliness Committee (#11281)](https://github.com/Consensys-Incorporated/teku/commit/9fb1c6c88004accaca09ec5f4000007238a7a871) - 2026-09-17
 
+* [Review] [Review on: Expose gloas constants via rest API](https://github.com/Consensys-Incorporated/teku/pull/11304#pullrequestreview-5249857941) - 2026-09-18
+* [Pull Request] [use proposal epoch fork for proposer preference signatures](https://github.com/Consensys-Incorporated/teku/pull/11302) - 2026-09-18
+* [Review] [Review on: Add optional max length to progressive SSZ list schemas](https://github.com/Consensys-Incorporated/teku/pull/11299#pullrequestreview-5248937468) - 2026-09-18
+* [Commit] [use proposal epoch fork for proposer preference signatures (#11302)](https://github.com/Consensys-Incorporated/teku/commit/cefdee4d783bc4645f9dc7d31d2e860566bab082) - 2026-09-18
+* [Commit] [enable gossip reference tests (#11282)](https://github.com/Consensys-Incorporated/teku/commit/ed9584e4a13991bd1546ef8170afa9de03384bb8) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646) - 2026-09-17
+* [Pull Request] [Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647) - 2026-09-18
 ## Q2 2026
 
 

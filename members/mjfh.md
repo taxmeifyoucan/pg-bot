@@ -53,6 +53,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync fix partial sto mpt range accounting (#4795)](https://github.com/status-im/nimbus-eth1/commit/0d06e05a07e9334c5c15603f18c52da051c1ccef) - 2026-09-15
 * [Pull Request] [Snap2 sync fix deleting accounts](https://github.com/status-im/nimbus-eth1/pull/4801) - 2026-09-16
 * [Commit] [Snap2 sync fix deleting accounts (#4801)](https://github.com/status-im/nimbus-eth1/commit/c0b9bc64e08e2fd2ce631e02d2c9a0436d4275bb) - 2026-09-16
+* [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4821) - 2026-09-18
+* [Commit] [Snap2 sync maint update (#4821)](https://github.com/status-im/nimbus-eth1/commit/2e2b76b365e60eb03d6164abfd19e768f45e9c59) - 2026-09-18
 ## Q2 2026
 
 

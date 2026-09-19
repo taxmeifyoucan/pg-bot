@@ -421,6 +421,54 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(binary-dft)!: scale by the twiddle's own subfield (#2160)](https://github.com/Plonky3/Plonky3/commit/16addd4d607ac8a2f9cd72e69e5332eaa48af4c9) - 2026-09-17
 * [Commit] [perf(sumcheck): fold pinned zerocheck blocks without multiplying (#2159)](https://github.com/Plonky3/Plonky3/commit/5efe2bb24fbf4dfb612950344e9529c93c5d6ad0) - 2026-09-17
 * [Commit] [test(transcript): tie each unpriced grinding site to the config it is credited from (#2143)](https://github.com/Plonky3/Plonky3/commit/1e111955fad4f9d6a523468de83fe4717ecf6ab1) - 2026-09-17
+* [Pull Request] [feat(word): add packed backend layout](https://github.com/Plonky3/Plonky3/pull/2210) - 2026-09-18
+* [Review] [Review on: feat(word): add packed backend layout](https://github.com/Plonky3/Plonky3/pull/2210#pullrequestreview-5252786055) - 2026-09-18
+* [Pull Request] [feat(word): add checked word relation IR](https://github.com/Plonky3/Plonky3/pull/2217) - 2026-09-18
+* [Review] [Review on: feat(word): add checked word relation IR](https://github.com/Plonky3/Plonky3/pull/2217#pullrequestreview-5252786041) - 2026-09-18
+* [Pull Request] [feat(security): account for binary bus soundness](https://github.com/Plonky3/Plonky3/pull/2214) - 2026-09-18
+* [Review] [Review on: feat(security): account for binary bus soundness](https://github.com/Plonky3/Plonky3/pull/2214#pullrequestreview-5252826411) - 2026-09-18
+* [Pull Request] [feat(bus): derive mixed-height bus layouts](https://github.com/Plonky3/Plonky3/pull/2212) - 2026-09-18
+* [Review] [Review on: feat(bus): derive mixed-height bus layouts](https://github.com/Plonky3/Plonky3/pull/2212#pullrequestreview-5252826417) - 2026-09-18
+* [Pull Request] [feat(bus): preserve direction in AIR declarations](https://github.com/Plonky3/Plonky3/pull/2211) - 2026-09-18
+* [Review] [Review on: feat(bus): preserve direction in AIR declarations](https://github.com/Plonky3/Plonky3/pull/2211#pullrequestreview-5252826422) - 2026-09-18
+* [Pull Request] [feat(bus): add direction-aware product GKR core](https://github.com/Plonky3/Plonky3/pull/2216) - 2026-09-18
+* [Review] [Review on: feat(bus): add direction-aware product GKR core](https://github.com/Plonky3/Plonky3/pull/2216#pullrequestreview-5252826385) - 2026-09-18
+* [Pull Request] [feat(sumcheck): fill suffix witnesses in place](https://github.com/Plonky3/Plonky3/pull/2213) - 2026-09-18
+* [Review] [Review on: feat(sumcheck): fill suffix witnesses in place](https://github.com/Plonky3/Plonky3/pull/2213#pullrequestreview-5252780346) - 2026-09-18
+* [Pull Request] [perf(multi-stark)!: cache AIR profiles at setup](https://github.com/Plonky3/Plonky3/pull/2215) - 2026-09-18
+* [Review] [Review on: perf(multi-stark)!: cache AIR profiles at setup](https://github.com/Plonky3/Plonky3/pull/2215#pullrequestreview-5252780338) - 2026-09-18
+* [Review] [Review on: perf(multi-stark)!: run the binary zerocheck's first rounds sixty-four rows at a time](https://github.com/Plonky3/Plonky3/pull/2203#pullrequestreview-5249341059) - 2026-09-18
+* [Review] [Review on: fix(sumcheck): hand off a prefix residual narrower than one packed element unpacked](https://github.com/Plonky3/Plonky3/pull/2193#pullrequestreview-5248452047) - 2026-09-18
+* [Pull Request] [feat(word): add checked word relation IR](https://github.com/Plonky3/Plonky3/pull/2209) - 2026-09-18
+* [Pull Request] [feat(bus): add direction-aware product GKR core](https://github.com/Plonky3/Plonky3/pull/2208) - 2026-09-18
+* [Pull Request] [perf(multi-stark): cache AIR profiles at setup](https://github.com/Plonky3/Plonky3/pull/2206) - 2026-09-18
+* [Review] [Review on: perf(matrix): resolve each lane's inner row once in RowIndexMappedView::vertically_packed_row](https://github.com/Plonky3/Plonky3/pull/2205#pullrequestreview-5249503757) - 2026-09-18
+* [Review] [Review on: perf(challenger)!: batch the byte-hash proof-of-work search](https://github.com/Plonky3/Plonky3/pull/2200#pullrequestreview-5249018841) - 2026-09-18
+* [Review] [Review on: perf(challenger)!: squeeze the transcript before a proof-of-work search](https://github.com/Plonky3/Plonky3/pull/2199#pullrequestreview-5248772295) - 2026-09-18
+* [Review] [Review on: perf(fri): pack the multi-round fold and drop a multiplication from the opening quotient](https://github.com/Plonky3/Plonky3/pull/2204#pullrequestreview-5249453805) - 2026-09-18
+* [Pull Request] [feat(errors)!: make diagnostics actionable](https://github.com/Plonky3/Plonky3/pull/2202) - 2026-09-18
+* [Review] [Review on: perf(uni-stark,batch-stark): pack only the repeating period of periodic columns](https://github.com/Plonky3/Plonky3/pull/2197#pullrequestreview-5248607717) - 2026-09-18
+* [Pull Request] [feat: add WHIR over binary additive domains](https://github.com/Plonky3/Plonky3/pull/2198) - 2026-09-18
+* [Review] [Review on: perf(field): interleave independent multiplication chains in Powers::collect_n](https://github.com/Plonky3/Plonky3/pull/2196#pullrequestreview-5248605726) - 2026-09-18
+* [Review] [Review on: perf(sumcheck,multilinear-util): fold suffix tables in place without the parallel feature](https://github.com/Plonky3/Plonky3/pull/2195#pullrequestreview-5248605477) - 2026-09-18
+* [Review] [Review on: perf(field): scale packed extension coefficients in place when multiplying by a packed base](https://github.com/Plonky3/Plonky3/pull/2192#pullrequestreview-5248203190) - 2026-09-18
+* [Review] [Review on: perf(symmetric): keep lane-group batching for rows past the scratch budget](https://github.com/Plonky3/Plonky3/pull/2194#pullrequestreview-5248465435) - 2026-09-18
+* [Review] [Review on: feat(binary-pcs)!: build the small-field commitment path](https://github.com/Plonky3/Plonky3/pull/2166#pullrequestreview-5246894356) - 2026-09-18
+* [Review] [Review on: perf(fri): shrink the extrapolation fallback's inverse transform to the polynomial's native height](https://github.com/Plonky3/Plonky3/pull/2191#pullrequestreview-5247909145) - 2026-09-18
+* [Review] [Review on: perf(fri): drop the no-op twiddle rewrite in the multi-round fold](https://github.com/Plonky3/Plonky3/pull/2190#pullrequestreview-5247897571) - 2026-09-18
+* [Review] [Review on: perf(fri): only compute the adjusted-weight prefix interpolation reads](https://github.com/Plonky3/Plonky3/pull/2189#pullrequestreview-5247892876) - 2026-09-18
+* [Review] [Review on: perf(sumcheck)!: bind the stacked rows over one aggregated column](https://github.com/Plonky3/Plonky3/pull/2188#pullrequestreview-5247877371) - 2026-09-18
+* [Review] [Review on: ci: split Heavy CI into per-job workflows so path filters actually scope per job](https://github.com/Plonky3/Plonky3/pull/2187#pullrequestreview-5247337881) - 2026-09-18
+* [Review] [Review on: examples: merge binary-hash examples, expose NTT/representation choice](https://github.com/Plonky3/Plonky3/pull/2185#pullrequestreview-5247144515) - 2026-09-18
+* [Review] [Review on: perf(binary-dft): exploit subfield structure in the additive transform and the encoder](https://github.com/Plonky3/Plonky3/pull/2173#pullrequestreview-5246393820) - 2026-09-18
+* [Review] [Review on: fix(multi-stark): keep the residual-row AIR evaluation out of Rayon's recursive split](https://github.com/Plonky3/Plonky3/pull/2183#pullrequestreview-5246557182) - 2026-09-18
+* [Review] [Review on: perf(monty-31): fuse x86 dot products of length 5 to 8 into one reduction](https://github.com/Plonky3/Plonky3/pull/2157#pullrequestreview-5246210446) - 2026-09-18
+* [Commit] [feat(word): add checked word relation IR (#2217)](https://github.com/Plonky3/Plonky3/commit/87e823b6ce97e787418aae4ea0abef8738ce2355) - 2026-09-18
+* [Commit] [perf(multi-stark)!: cache AIR profiles at setup (#2215)](https://github.com/Plonky3/Plonky3/commit/d9575c7f5ac2ce351d5d47aab0b8cf1909ecb68f) - 2026-09-18
+* [Commit] [feat(binary-pcs)!: build the small-field commitment path (#2166)](https://github.com/Plonky3/Plonky3/commit/e45e11ea105f76b3d1c1950eb73d8a5907009746) - 2026-09-18
+* [Commit] [perf(binary-dft): exploit subfield structure in the additive transform and the encoder (#2173)](https://github.com/Plonky3/Plonky3/commit/050da26edb515538a9bb0c7a65855bfcf3fef049) - 2026-09-18
+* [Commit] [perf(binary-dft): gather runs of adjacent rows into the staging tile (#2155)](https://github.com/Plonky3/Plonky3/commit/ac8253a079643834fba02bcdc1238f043780b1dd) - 2026-09-18
+* [Commit] [perf(monty-31): fuse x86 dot products of length 5 to 8 into one reduction (#2157)](https://github.com/Plonky3/Plonky3/commit/40c929558cbf3b9191e26f8f4cc5c5c76be92d12) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

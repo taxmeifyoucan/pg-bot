@@ -201,6 +201,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076#pullrequestreview-5223941246) - 2026-09-16
 * [Review] [Review on: fix: bind IPv6 by default only if the host has a global IPv6 address](https://github.com/ChainSafe/lodestar/pull/10104#pullrequestreview-5239816845) - 2026-09-17
 * [Review] [Review on: fix: derive default builder auth data from the url hostname](https://github.com/ChainSafe/lodestar/pull/10107#pullrequestreview-5239823470) - 2026-09-17
+* [Review] [Review on: fix: suggest the ASCII form when rejecting a builder url](https://github.com/ChainSafe/lodestar/pull/10127#pullrequestreview-5249305864) - 2026-09-18
+* [Review] [Review on: chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124#pullrequestreview-5248655974) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -426,6 +428,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: isolate binding benchmark suites in separate processes](https://github.com/ChainSafe/lodestar-z/pull/708#pullrequestreview-5241655079) - 2026-09-17
 * [Review] [Review on: feat(bindings): implement computeBlockRewards](https://github.com/ChainSafe/lodestar-z/pull/709#pullrequestreview-5239710652) - 2026-09-17
 * [Review] [Review on: fix(state-transition): use getReadonly for read-only validator access](https://github.com/ChainSafe/lodestar-z/pull/712#pullrequestreview-5239159000) - 2026-09-17
+* [Review] [Review on: fix(bindings): return sync committee positions as arrays](https://github.com/ChainSafe/lodestar-z/pull/714#pullrequestreview-5248607699) - 2026-09-18
+* [Review] [Review on: chore: remove benchmark CI](https://github.com/ChainSafe/lodestar-z/pull/715#pullrequestreview-5247846003) - 2026-09-18
+* [Review] [Review on: fix: isolate binding benchmark suites in separate processes](https://github.com/ChainSafe/lodestar-z/pull/708#pullrequestreview-5248008097) - 2026-09-18
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

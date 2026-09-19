@@ -90,6 +90,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5216892020) - 2026-09-15
 * [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5227546899) - 2026-09-16
 * [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5242327886) - 2026-09-17
+* [Review] [Review on: engine_forkchoiceUpdatedV4: provide custody columns to the EL](https://github.com/sigp/lighthouse/pull/9547#pullrequestreview-5254010065) - 2026-09-19
+* [Review] [Review on: enable mplex by default](https://github.com/sigp/lighthouse/pull/10070#pullrequestreview-5251152181) - 2026-09-18
+* [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5250979516) - 2026-09-18
+* [Review] [Review on: Add license/cla check in mergify](https://github.com/sigp/lighthouse/pull/10049#pullrequestreview-5251057277) - 2026-09-18
 ## Q2 2026
 
 

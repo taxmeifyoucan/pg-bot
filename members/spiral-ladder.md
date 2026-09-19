@@ -83,6 +83,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5218835496) - 2026-09-16
 * [Review] [Review on: refactor(state-transition): re-organize test helpers](https://github.com/ChainSafe/lodestar/pull/10099#pullrequestreview-5240355356) - 2026-09-17
 * [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5232869751) - 2026-09-17
+* [Review] [Review on: refactor(state-transition): re-organize test helpers](https://github.com/ChainSafe/lodestar/pull/10099#pullrequestreview-5244071794) - 2026-09-18
+* [Pull Request] [chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124) - 2026-09-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -259,6 +261,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Issue] [regression: before_process_epoch increasing avg time trend](https://github.com/ChainSafe/lodestar-z/issues/710) - 2026-09-17
 * [Issue] [investigate spikes in state transition](https://github.com/ChainSafe/lodestar-z/issues/711) - 2026-09-17
 * [Commit] [fix(state-transition): use getReadonly for read-only validator access (#712)](https://github.com/ChainSafe/lodestar-z/commit/daebcf1beff537a0c9f39819362a31be57dccf6d) - 2026-09-17
+* [Pull Request] [fix(bindings): return sync committee positions as arrays](https://github.com/ChainSafe/lodestar-z/pull/714) - 2026-09-18
+* [Pull Request] [chore: remove benchmark CI](https://github.com/ChainSafe/lodestar-z/pull/715) - 2026-09-18
+* [Issue] [metrics: block state transition](https://github.com/ChainSafe/lodestar-z/issues/713) - 2026-09-18
+* [Commit] [fix(bindings): return sync committee positions as arrays (#714)](https://github.com/ChainSafe/lodestar-z/commit/1696068087567885e33c977de534721abe589506) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

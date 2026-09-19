@@ -436,6 +436,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Avoid copying execution payload transaction buffers during decoding](https://github.com/NethermindEth/nethermind/pull/13532#pullrequestreview-5237429346) - 2026-09-17
 * [Review] [Review on: chore(deps): update MCL package](https://github.com/NethermindEth/nethermind/pull/13548#pullrequestreview-5230803277) - 2026-09-17
 * [Review] [Review on: fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown](https://github.com/NethermindEth/nethermind/pull/13523#pullrequestreview-5235499574) - 2026-09-17
+* [Pull Request] [Disable EXPB CPU quota while preserving affinity](https://github.com/NethermindEth/nethermind/pull/13593) - 2026-09-18
+* [Pull Request] [Reduce transaction selection and blob lookup allocations](https://github.com/NethermindEth/nethermind/pull/13592) - 2026-09-18
+* [Pull Request] [Document zkVM guest execution and GPU proving prerequisites](https://github.com/NethermindEth/nethermind/pull/13589) - 2026-09-18
+* [Review] [Review on: Remove EL slot ordering enforcement from engine_forkchoiceUpdatedV4](https://github.com/NethermindEth/nethermind/pull/13583#pullrequestreview-5253605972) - 2026-09-19
+* [Review] [Review on: fix: keep AI review configuration out of public reports](https://github.com/NethermindEth/nethermind/pull/13579#pullrequestreview-5248309226) - 2026-09-18
+* [Review] [Review on: Log index: carry the sync direction instead of reading it back from the block numbers](https://github.com/NethermindEth/nethermind/pull/13565#pullrequestreview-5247552176) - 2026-09-18
+* [Review] [Review on: Version master as 2.0.0](https://github.com/NethermindEth/nethermind/pull/13566#pullrequestreview-5247573214) - 2026-09-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

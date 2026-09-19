@@ -97,6 +97,7 @@ Team: Grandine
 * [Issue] [Cap execution payload envelope delayed queue](https://github.com/grandinetech/grandine/issues/923) - 2026-09-17
 * [Issue] [Prune invalid payload envelopes from cache and storage](https://github.com/grandinetech/grandine/issues/922) - 2026-09-17
 * [Issue] [Fix compliance tests](https://github.com/grandinetech/grandine/issues/921) - 2026-09-17
+* [Issue] [Schedule Sepolia Glamsterdam activation](https://github.com/grandinetech/grandine/issues/927) - 2026-09-18
 ## Q2 2026
 
 

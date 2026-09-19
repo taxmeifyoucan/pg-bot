@@ -633,6 +633,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: track gloas newPayload metrics](https://github.com/ChainSafe/lodestar/pull/10113#pullrequestreview-5233375159) - 2026-09-17
 * [Commit] [fix: prune archived states before the finalized epoch with `chain.pruneHistory` (#10106)](https://github.com/ChainSafe/lodestar/commit/9cec787d9420f91344af1efcacf6a5853036a6db) - 2026-09-17
 * [Commit] [chore: log block and bid values in ETH (#10108)](https://github.com/ChainSafe/lodestar/commit/72d74345fba1e0dfeb765d2d73a15b6f95ac9551) - 2026-09-17
+* [Pull Request] [fix: keep idle event streams alive](https://github.com/ChainSafe/lodestar/pull/10133) - 2026-09-19
+* [Pull Request] [fix: import attestations of all blocks into fork choice](https://github.com/ChainSafe/lodestar/pull/10132) - 2026-09-18
+* [Pull Request] [fix: match payload status variants of the same root in `isDescendant()`](https://github.com/ChainSafe/lodestar/pull/10131) - 2026-09-18
+* [Pull Request] [fix: count block payload attestations for all PTC positions of the attester](https://github.com/ChainSafe/lodestar/pull/10129) - 2026-09-18
+* [Pull Request] [fix: use the builder balance from state in the builders sweep](https://github.com/ChainSafe/lodestar/pull/10130) - 2026-09-18
+* [Pull Request] [fix: replace latest messages by slot from gloas](https://github.com/ChainSafe/lodestar/pull/10128) - 2026-09-18
+* [Pull Request] [fix: suggest the ASCII form when rejecting a builder url](https://github.com/ChainSafe/lodestar/pull/10127) - 2026-09-18
+* [Pull Request] [chore: update ethspecify mappings](https://github.com/ChainSafe/lodestar/pull/10126) - 2026-09-18
+* [Review] [Review on: chore: update ethspecify mappings](https://github.com/ChainSafe/lodestar/pull/10126#pullrequestreview-5248548541) - 2026-09-18
+* [Review] [Review on: chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124#pullrequestreview-5246870253) - 2026-09-18
+* [Review] [Review on: chore: v1.48.1 release](https://github.com/ChainSafe/lodestar/pull/10125#pullrequestreview-5247995359) - 2026-09-18
+* [Commit] [fix: suggest the ASCII form when rejecting a builder url (#10127)](https://github.com/ChainSafe/lodestar/commit/3f33d73d550fa9464c5288490a87836c8c19001e) - 2026-09-18
+* [Commit] [fix: derive default builder auth data from the url hostname (#10107)](https://github.com/ChainSafe/lodestar/commit/161265afaf0567bc7d021aa549998676ec64dc52) - 2026-09-18
+* [Commit] [fix: delete block archive index entries when pruning history (#10110)](https://github.com/ChainSafe/lodestar/commit/9b1ea963bfacd22a5456ac4de84dfc290c80dc04) - 2026-09-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

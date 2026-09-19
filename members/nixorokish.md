@@ -33,6 +33,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Consensus (ACDC) #187, September 17 2026](https://github.com/ethereum/pm/issues/2222) - 2026-09-14
 * [Issue] [All Core Devs - Execution (ACDE) #246, September 24, 2026](https://github.com/ethereum/pm/issues/2223) - 2026-09-14
 * [Commit] [Merge pull request #2205 from ethereum/glamsterdam-testnet-timings](https://github.com/ethereum/pm/commit/161e412af396ad4b3443d4150e45a900714fe0e6) - 2026-09-15
+* [Commit] [Merge pull request #2226 from nixoassistant/auto-create-acd-issues](https://github.com/ethereum/pm/commit/0e07b947fdd13d865bb7d5cb6bebfad1bf981b43) - 2026-09-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16

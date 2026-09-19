@@ -16,6 +16,8 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 * [Review] [Review on: fix(rpc): stop unauthenticated input causing unhandled exceptions, empty 500s, leaked traces and WARN floods (#13194, #13195, #13197, #13198, #13156)](https://github.com/NethermindEth/nethermind/pull/13251#pullrequestreview-5139384433) - 2026-09-08
 * [Review] [Review on: Reserve one receipt slot per parallel worker tracer](https://github.com/NethermindEth/nethermind/pull/13267#pullrequestreview-5141022229) - 2026-09-08
+* [Pull Request] [Add FlatDb.DropPruningTrieState to reclaim the patricia trie after conversion](https://github.com/NethermindEth/nethermind/pull/13572) - 2026-09-18
+* [Review] [Review on: ci: allow collaborators to request OCR reviews in PR comments](https://github.com/NethermindEth/nethermind/pull/13580#pullrequestreview-5249052186) - 2026-09-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652992370) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652988229) - 2026-07-08

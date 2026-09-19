@@ -542,6 +542,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Remove scratch allocations from generated SSZ container hashing (#13533)](https://github.com/NethermindEth/nethermind/commit/6e11b48af85b4baf34aaa5c4d3529919292bda0d) - 2026-09-17
 * [Commit] [Avoid copying execution payload transaction buffers during decoding (#13532)](https://github.com/NethermindEth/nethermind/commit/24e6908e44984d3745e893c598d467956fc4e45c) - 2026-09-17
 * [Commit] [Skip unrelated storage scans when clearing untouched accounts (#13531)](https://github.com/NethermindEth/nethermind/commit/84509e91939602d969cbf9755c8903fda6e9bf23) - 2026-09-17
+* [Review] [Review on: Document zkVM guest execution and GPU proving prerequisites](https://github.com/NethermindEth/nethermind/pull/13589#pullrequestreview-5253272815) - 2026-09-18
+* [Review] [Review on: Remove EL slot ordering enforcement from engine_forkchoiceUpdatedV4](https://github.com/NethermindEth/nethermind/pull/13583#pullrequestreview-5253308305) - 2026-09-18
+* [Review] [Review on: Keep flat persistence going when the committed state is off this chain](https://github.com/NethermindEth/nethermind/pull/13591#pullrequestreview-5253340796) - 2026-09-18
+* [Review] [Review on: Inherit parent slot number in simulated child headers](https://github.com/NethermindEth/nethermind/pull/13584#pullrequestreview-5253302402) - 2026-09-18
+* [Review] [Review on: Pass parent slot number through simulated payload attributes](https://github.com/NethermindEth/nethermind/pull/13585#pullrequestreview-5253300007) - 2026-09-18
+* [Review] [Review on: Validate slot number on orphaned headers](https://github.com/NethermindEth/nethermind/pull/13586#pullrequestreview-5253298223) - 2026-09-18
+* [Review] [Review on: Carry slot number through XDC header copies](https://github.com/NethermindEth/nethermind/pull/13587#pullrequestreview-5253287643) - 2026-09-18
+* [Review] [Review on: ci: add automatic AI code review through LiteLLM](https://github.com/NethermindEth/nethermind/pull/13564#pullrequestreview-5245014219) - 2026-09-18
+* [Review] [Review on: Log index: carry the sync direction instead of reading it back from the block numbers](https://github.com/NethermindEth/nethermind/pull/13565#pullrequestreview-5244981148) - 2026-09-18
+* [Review] [Review on: Version master as 2.0.0](https://github.com/NethermindEth/nethermind/pull/13566#pullrequestreview-5244985555) - 2026-09-18
+* [Review] [Review on: chore(deps): update GMP package](https://github.com/NethermindEth/nethermind/pull/13562#pullrequestreview-5245017152) - 2026-09-18
+* [Commit] [Avoid recomputing reconstructed body roots in stateless execution (#13534)](https://github.com/NethermindEth/nethermind/commit/7b77bd16d83383b486cec0e8dfa0a85f202e246f) - 2026-09-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08
