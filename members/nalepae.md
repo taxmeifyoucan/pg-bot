@@ -110,6 +110,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [[EIP-8025] Implement optional execution proofs](https://github.com/OffchainLabs/prysm/pull/17490) - 2026-09-11
 * [Issue] [When importing a Slashing Protection Interchange Format (EIP-3076) or when converting a minimal anti-slashing DB to a complete one. Be sure not to treat any missing signing root as `0x0000....`](https://github.com/OffchainLabs/prysm/issues/17516) - 2026-09-18
 * [Issue] [Support the `validator slashing-protection-history export` command when using the `--enable-minimal-slashing-protection`](https://github.com/OffchainLabs/prysm/issues/17514) - 2026-09-18
+* [Review] [Review on: Keep missing signing roots unknown when converting the validator data…](https://github.com/OffchainLabs/prysm/pull/17522#pullrequestreview-5257581017) - 2026-09-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

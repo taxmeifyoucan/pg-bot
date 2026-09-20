@@ -469,6 +469,39 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(binary-dft): exploit subfield structure in the additive transform and the encoder (#2173)](https://github.com/Plonky3/Plonky3/commit/050da26edb515538a9bb0c7a65855bfcf3fef049) - 2026-09-18
 * [Commit] [perf(binary-dft): gather runs of adjacent rows into the staging tile (#2155)](https://github.com/Plonky3/Plonky3/commit/ac8253a079643834fba02bcdc1238f043780b1dd) - 2026-09-18
 * [Commit] [perf(monty-31): fuse x86 dot products of length 5 to 8 into one reduction (#2157)](https://github.com/Plonky3/Plonky3/commit/40c929558cbf3b9191e26f8f4cc5c5c76be92d12) - 2026-09-18
+* [Pull Request] [feat(word): reduce shifted operands to one Boolean opening](https://github.com/Plonky3/Plonky3/pull/2226) - 2026-09-19
+* [Review] [Review on: feat!: add WHIR over binary additive domains](https://github.com/Plonky3/Plonky3/pull/2198#pullrequestreview-5256362053) - 2026-09-19
+* [Pull Request] [feat(sumcheck): add the basic jagged reduction](https://github.com/Plonky3/Plonky3/pull/2225) - 2026-09-19
+* [Pull Request] [feat(bus): add offline read-only memory checking](https://github.com/Plonky3/Plonky3/pull/2224) - 2026-09-19
+* [Pull Request] [feat(bus): report unmatched tuples with source rows](https://github.com/Plonky3/Plonky3/pull/2223) - 2026-09-19
+* [Review] [Review on: perf(binary): speed up the Boolean-committed prover](https://github.com/Plonky3/Plonky3/pull/2245#pullrequestreview-5257864215) - 2026-09-19
+* [Pull Request] [feat!(multi-stark): authenticate binary bus claims](https://github.com/Plonky3/Plonky3/pull/2244) - 2026-09-19
+* [Review] [Review on: perf: prove Keccak-f through the Boolean commitment with successor openings](https://github.com/Plonky3/Plonky3/pull/2228#pullrequestreview-5257659827) - 2026-09-19
+* [Review] [Review on: perf: batch Boolean trace openings and keep Blake3 traces packed](https://github.com/Plonky3/Plonky3/pull/2227#pullrequestreview-5257650428) - 2026-09-19
+* [Pull Request] [docs: map remaining binary backend work](https://github.com/Plonky3/Plonky3/pull/2230) - 2026-09-19
+* [Review] [Review on: perf(fri): pack the multi-round fold and drop a multiplication from the opening quotient](https://github.com/Plonky3/Plonky3/pull/2204#pullrequestreview-5256307886) - 2026-09-19
+* [Pull Request] [ci: test only affected workspace packages](https://github.com/Plonky3/Plonky3/pull/2221) - 2026-09-19
+* [Issue] [Close the remaining AArch64 binary-performance gaps](https://github.com/Plonky3/Plonky3/issues/2243) - 2026-09-19
+* [Issue] [Add differential verification and binary-backend release gates](https://github.com/Plonky3/Plonky3/issues/2242) - 2026-09-19
+* [Issue] [Add segment claims, cost reports, and a tiny integration machine](https://github.com/Plonky3/Plonky3/issues/2241) - 2026-09-19
+* [Issue] [Publish the machine-facing backend contract and proof envelope](https://github.com/Plonky3/Plonky3/issues/2240) - 2026-09-19
+* [Issue] [Complete jagged commitments and zero-copy trace ingestion](https://github.com/Plonky3/Plonky3/issues/2239) - 2026-09-19
+* [Issue] [Add backend chip composition for repeated word gadgets](https://github.com/Plonky3/Plonky3/issues/2238) - 2026-09-19
+* [Issue] [Complete the word-level proof protocol](https://github.com/Plonky3/Plonky3/issues/2237) - 2026-09-19
+* [Issue] [Finish binary bus ergonomics and diagnostics](https://github.com/Plonky3/Plonky3/issues/2236) - 2026-09-19
+* [Issue] [Add an authenticated mutable read-write memory argument](https://github.com/Plonky3/Plonky3/issues/2235) - 2026-09-19
+* [Issue] [Authenticate binary bus products and unify mixed-height table proving](https://github.com/Plonky3/Plonky3/issues/2234) - 2026-09-19
+* [Issue] [Publish reproducible binary-backend scoreboards](https://github.com/Plonky3/Plonky3/issues/2233) - 2026-09-19
+* [Issue] [Integrate binary WHIR with Boolean and small-field traces](https://github.com/Plonky3/Plonky3/issues/2232) - 2026-09-19
+* [Issue] [Tracking: complete the non-recursive binary proving backend](https://github.com/Plonky3/Plonky3/issues/2231) - 2026-09-19
+* [Commit] [ci: test only affected workspace packages (#2221)](https://github.com/Plonky3/Plonky3/commit/840779a03335d7d00a3b1aaed34787c9f2b853bd) - 2026-09-19
+* [Commit] [feat(security): account for binary bus soundness (#2214)](https://github.com/Plonky3/Plonky3/commit/419490b197010be2f4a44f2b43bd373db96d9d38) - 2026-09-19
+* [Commit] [feat(sumcheck): fill suffix witnesses in place (#2213)](https://github.com/Plonky3/Plonky3/commit/5403d04c0acbb1925bb63713b6121e394e30e4f0) - 2026-09-19
+* [Commit] [feat(bus): derive mixed-height bus layouts (#2212)](https://github.com/Plonky3/Plonky3/commit/85b2c17c01f3bfcebc165b975599670259baaa92) - 2026-09-19
+* [Commit] [feat(bus): preserve direction in AIR declarations (#2211)](https://github.com/Plonky3/Plonky3/commit/87a4777fbaca5994d670f89313a841730866fb69) - 2026-09-19
+* [Commit] [feat(errors)!: make diagnostics actionable (#2202)](https://github.com/Plonky3/Plonky3/commit/28295bb20fffd8ff004c67797fb8a510c8980174) - 2026-09-19
+* [Commit] [feat(bus): add direction-aware product GKR core (#2216)](https://github.com/Plonky3/Plonky3/commit/40d897bbc564c61e6793c7d6c63546b0c77778af) - 2026-09-19
+* [Commit] [feat(word): add packed backend layout (#2210)](https://github.com/Plonky3/Plonky3/commit/1d41235ab64f1be8e98d51c879460f9cf4d872b8) - 2026-09-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

@@ -443,6 +443,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: keep AI review configuration out of public reports](https://github.com/NethermindEth/nethermind/pull/13579#pullrequestreview-5248309226) - 2026-09-18
 * [Review] [Review on: Log index: carry the sync direction instead of reading it back from the block numbers](https://github.com/NethermindEth/nethermind/pull/13565#pullrequestreview-5247552176) - 2026-09-18
 * [Review] [Review on: Version master as 2.0.0](https://github.com/NethermindEth/nethermind/pull/13566#pullrequestreview-5247573214) - 2026-09-18
+* [Review] [Review on: Complete guarded debug_setHead and debug_resetHead rewinds](https://github.com/NethermindEth/nethermind/pull/13558#pullrequestreview-5255768184) - 2026-09-19
+* [Pull Request] [Fix missing stateless dependencies in the Visual Studio solution](https://github.com/NethermindEth/nethermind/pull/13594) - 2026-09-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

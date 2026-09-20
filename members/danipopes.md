@@ -81,6 +81,7 @@ Team: Reth
 * [Pull Request] [fix: preserve changelog history during releases](https://github.com/paradigmxyz/revmc/pull/412) - 2026-09-06
 * [Commit] [fix: filter changelog commits by crate (#413)](https://github.com/paradigmxyz/revmc/commit/3559a9dd8583598e76aaa8d942a908bfaa564535) - 2026-09-06
 * [Commit] [fix: preserve changelog history during releases (#412)](https://github.com/paradigmxyz/revmc/commit/72fa5bd5981bcb5829364cdcb2d122c819f772ce) - 2026-09-06
+* [Review] [Review on: ci: add aarch64 Linux to test and state-test matrices](https://github.com/paradigmxyz/revmc/pull/414#pullrequestreview-5256077199) - 2026-09-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
 * [Pull Request] [perf(bal): reuse cached alloy code hashes](https://github.com/bluealloy/revm/pull/3913) - 2026-09-15

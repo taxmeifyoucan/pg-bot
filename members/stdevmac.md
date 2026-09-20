@@ -110,6 +110,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [ci: allow collaborators to request OCR reviews in PR comments (#13580)](https://github.com/NethermindEth/nethermind/commit/364eaaf0315525b1217d062fdd7ef8d615ea3e5a) - 2026-09-18
 * [Commit] [fix: keep AI review configuration out of public reports (#13579)](https://github.com/NethermindEth/nethermind/commit/d2fa3ead89c1fb238fc977f610858e352fe6bbc5) - 2026-09-18
 * [Commit] [ci: add automatic AI code review through LiteLLM (#13564)](https://github.com/NethermindEth/nethermind/commit/6f113a82aa1277f01eb6d24fc62ea55ca7c5fe3f) - 2026-09-18
+* [Issue] ["No state for block" is answered as -32603, -32000, or -32002 depending on the method](https://github.com/NethermindEth/nethermind/issues/13603) - 2026-09-19
+* [Issue] [Guard-rail RPC rejections (-32002/-32005/4444) still log one WARN per request after #13156](https://github.com/NethermindEth/nethermind/issues/13602) - 2026-09-19
+* [Issue] [FlatDb + snap: EnsureInitialize wipes all columns on every run so a restart mid-sync cannot resume](https://github.com/NethermindEth/nethermind/issues/13601) - 2026-09-19
+* [Issue] [FlatDb: copy-style full pruning is silently absent (config accepted, admin_prune=disabled, no log)](https://github.com/NethermindEth/nethermind/issues/13600) - 2026-09-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

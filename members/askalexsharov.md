@@ -1661,6 +1661,12 @@ Team: Erigon
 * [Commit] [execution/commitment: copy witness nodes into arenas (#24083)](https://github.com/erigontech/erigon/commit/bcc6ecf76c237960380f5827d84d80122296bcec) - 2026-09-18
 * [Commit] [rpc: eth_getCode support MarshalFastJSONTo (#24086)](https://github.com/erigontech/erigon/commit/ea019b94f231f8bff9c56bded5b6a95f0365bf18) - 2026-09-18
 * [Commit] [rpc/jsonrpc: build one `eth_getProof` witness for the account and its storage keys (#24004)](https://github.com/erigontech/erigon/commit/1f9e1d70c19aec2e8885d79fbf7a9f6b20540113) - 2026-09-18
+* [Review] [Review on: rpc/ethapi: RPCHeader/Block/Withdrawal add `MarshalFastJSONTo`](https://github.com/erigontech/erigon/pull/24140#pullrequestreview-5254443074) - 2026-09-19
+* [Pull Request] [execution/types/accounts: use the shared jsonw field, array and quoted writers](https://github.com/erigontech/erigon/pull/24141) - 2026-09-19
+* [Review] [Review on: rpc/ethapi: report the fee cap as gasPrice for pending dynamic-fee txs](https://github.com/erigontech/erigon/pull/24099#pullrequestreview-5254300388) - 2026-09-19
+* [Review] [Review on: rpc/transactions: memoise state reads across estimateGas probes](https://github.com/erigontech/erigon/pull/24138#pullrequestreview-5254442847) - 2026-09-19
+* [Review] [Review on: execution/tracing: support for EIP-8037 state gas tracing (part 1)](https://github.com/erigontech/erigon/pull/24126#pullrequestreview-5254306048) - 2026-09-19
+* [Commit] [rpc: eth_getProof support MarshalFastJSONTo (#24105)](https://github.com/erigontech/erigon/commit/6d0a97c2fe5dbb23cfccef9b84024e546fb3bb0e) - 2026-09-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

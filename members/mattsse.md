@@ -870,6 +870,14 @@ Team: Reth
 * [Commit] [refactor(txpool): expose sender-id transaction lookups (#27316)](https://github.com/paradigmxyz/reth/commit/334a4067aad15dac42e2bfa3594bfb665e2a9c43) - 2026-09-19
 * [Commit] [perf(txpool): reuse insertion timestamp across a batch (#27284)](https://github.com/paradigmxyz/reth/commit/0032bec310b1531dc24d6b5bfeffa690eb35531a) - 2026-09-18
 * [Commit] [feat: carry the prepared BAL on ExecutedBlock and Chain (#27297)](https://github.com/paradigmxyz/reth/commit/9415efd4beae124c66ce8c3e0788d7ce261bb87f) - 2026-09-18
+* [Pull Request] [refactor(chain-state): own every executed in-memory block in one place](https://github.com/paradigmxyz/reth/pull/27320) - 2026-09-19
+* [Review] [Review on: fix(chain-state): preserve account reverts after empty test blocks](https://github.com/paradigmxyz/reth/pull/27317#pullrequestreview-5254921569) - 2026-09-19
+* [Pull Request] [fix(chain-state): track signer account existence for test block reverts](https://github.com/paradigmxyz/reth/pull/27322) - 2026-09-19
+* [Pull Request] [feat(txpool): track common validation rejection reasons](https://github.com/paradigmxyz/reth/pull/27321) - 2026-09-19
+* [Review] [Review on: feat(txpool): track common validation rejection reasons](https://github.com/paradigmxyz/reth/pull/27321#pullrequestreview-5256032514) - 2026-09-19
+* [Review] [Review on: perf(txpool): stage bounded recovery and transaction imports](https://github.com/paradigmxyz/reth/pull/27280#pullrequestreview-5255623258) - 2026-09-19
+* [Pull Request] [perf(storage): reuse canonical BlockState chain when building overlay providers](https://github.com/paradigmxyz/reth/pull/27319) - 2026-09-19
+* [Review] [Review on: feat(snap-sync): verify downloaded state against the pivot's state root](https://github.com/paradigmxyz/reth/pull/27318#pullrequestreview-5255089506) - 2026-09-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

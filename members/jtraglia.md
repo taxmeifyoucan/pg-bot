@@ -322,6 +322,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 * [Review] [Review on: fix: reject proposer preferences with dependent root at/after lookahead epoch](https://github.com/ChainSafe/lodestar/pull/9630#pullrequestreview-4671796423) - 2026-07-10
 * [Review] [Review on: fix: ignore proposer preferences for pre-gloas proposal slots](https://github.com/ChainSafe/lodestar/pull/9869#pullrequestreview-4987280069) - 2026-08-20
+* [Review] [Review on: chore: update ethspecify mappings](https://github.com/ChainSafe/lodestar/pull/10126#pullrequestreview-5255852688) - 2026-09-19
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Bump version to v2.1.8](https://github.com/ethereum/c-kzg-4844/pull/652) - 2026-07-09
 * [Pull Request] [Update C# dependencies](https://github.com/ethereum/c-kzg-4844/pull/651) - 2026-07-09

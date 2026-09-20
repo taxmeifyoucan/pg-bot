@@ -647,6 +647,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: suggest the ASCII form when rejecting a builder url (#10127)](https://github.com/ChainSafe/lodestar/commit/3f33d73d550fa9464c5288490a87836c8c19001e) - 2026-09-18
 * [Commit] [fix: derive default builder auth data from the url hostname (#10107)](https://github.com/ChainSafe/lodestar/commit/161265afaf0567bc7d021aa549998676ec64dc52) - 2026-09-18
 * [Commit] [fix: delete block archive index entries when pruning history (#10110)](https://github.com/ChainSafe/lodestar/commit/9b1ea963bfacd22a5456ac4de84dfc290c80dc04) - 2026-09-18
+* [Review] [Review on: chore: update ethspecify mappings](https://github.com/ChainSafe/lodestar/pull/10126#pullrequestreview-5256536937) - 2026-09-19
+* [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5256732364) - 2026-09-19
+* [Review] [Review on: fix: bind IPv6 by default only if the host has a global IPv6 address](https://github.com/ChainSafe/lodestar/pull/10104#pullrequestreview-5255548176) - 2026-09-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

@@ -147,6 +147,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/integrity: validate frozen blob sidecar snapshots (#23927)](https://github.com/erigontech/erigon/commit/b921bd3c9efa6e06f34d53661fcaf18539a07ae7) - 2026-09-16
 * [Pull Request] [cl/p2p: add QUIC transport support](https://github.com/erigontech/erigon/pull/24117) - 2026-09-18
 * [Review] [Review on: cl: make lru.CacheWithTTL closable](https://github.com/erigontech/erigon/pull/24022#pullrequestreview-5245076762) - 2026-09-18
+* [Pull Request] [cl: align blob pruning with configured serve range](https://github.com/erigontech/erigon/pull/24044) - 2026-09-19
+* [Commit] [cl: align blob pruning with configured serve range (#24044)](https://github.com/erigontech/erigon/commit/0a323eeac871ba8fcbdb0e10843a912f967a15c1) - 2026-09-19
 ## Q2 2026
 
 

@@ -603,6 +603,14 @@ Team: Erigon
 * [Review] [Review on: execution/commitment: fill hashRow's cell data in place](https://github.com/erigontech/erigon/pull/24114#pullrequestreview-5249379060) - 2026-09-18
 * [Review] [Review on: witness: fold read-only](https://github.com/erigontech/erigon/pull/24072#pullrequestreview-5249470277) - 2026-09-18
 * [Review] [Review on: rpc: single HTTP request to not create 2nd goroutine](https://github.com/erigontech/erigon/pull/24007#pullrequestreview-5244821238) - 2026-09-18
+* [Review] [Review on: rpc/jsonrpc: verify witnesses statelessly only under ERIGON_ASSERT](https://github.com/erigontech/erigon/pull/24078#pullrequestreview-5254886026) - 2026-09-19
+* [Review] [Review on: execution/commitment: eth_getProof's read-only fold keeps stored branch hashes below the top branch](https://github.com/erigontech/erigon/pull/24081#pullrequestreview-5254885967) - 2026-09-19
+* [Review] [Review on: rpc: `estimateGas` to reuse `ibs`](https://github.com/erigontech/erigon/pull/24137#pullrequestreview-5254885922) - 2026-09-19
+* [Review] [Review on: tracing: let a tracer name the opcodes it wants](https://github.com/erigontech/erigon/pull/24136#pullrequestreview-5254885883) - 2026-09-19
+* [Review] [Review on: rpc: RPCBlock strict typing instead of `any`](https://github.com/erigontech/erigon/pull/24127#pullrequestreview-5254885852) - 2026-09-19
+* [Pull Request] [db/state/execctx: bound validation cache reads instead of evicting shared caches](https://github.com/erigontech/erigon/pull/24048) - 2026-09-19
+* [Commit] [execution/commitment: release demoted contract trunks and bound the pin hint (#24087)](https://github.com/erigontech/erigon/commit/11816870dc2e87c2ce2b6be6a703a46237dde603) - 2026-09-19
+* [Commit] [db/state/execctx: bound validation cache reads instead of evicting shared caches (#24048)](https://github.com/erigontech/erigon/commit/e69cb086fe243407df2679b98c7bb42d13699f98) - 2026-09-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

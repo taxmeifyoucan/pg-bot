@@ -106,6 +106,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Fix `ValidatorTimingChannel` inconsistent routing (#11301)](https://github.com/Consensys-Incorporated/teku/commit/9f13de3736bc6f2a4579dc014205c00d303e849b) - 2026-09-18
 * [Commit] [Make Builder API okhttp calls async (#11300)](https://github.com/Consensys-Incorporated/teku/commit/0d3a20bcf52073fa26e41e8914e72dafa506a1a9) - 2026-09-18
 * [Commit] [Implement builder preferences Beacon API (#11264)](https://github.com/Consensys-Incorporated/teku/commit/72a9e722c7589ce9d1a1bb1ada58d3a5a48711fb) - 2026-09-18
+* [Commit] [Use hostname for auth data and default max_execution_payment to 0 (#11303)](https://github.com/Consensys-Incorporated/teku/commit/0ed1bfae4d8c947b09196f8909416da08b60b47d) - 2026-09-19
 ## Q2 2026
 
 

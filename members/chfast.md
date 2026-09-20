@@ -285,6 +285,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: test: Add dumping post state for state test running.](https://github.com/ipsilon/evmone/pull/1722#pullrequestreview-5247272807) - 2026-09-18
 * [Review] [Review on: test: Report log hash in state test run](https://github.com/ipsilon/evmone/pull/1723#pullrequestreview-5247379198) - 2026-09-18
 * [Pull Request] [state: Return block gas used directly](https://github.com/ipsilon/evmone/pull/1725) - 2026-09-18
+* [Commit] [state: Return block gas used directly (#1725)](https://github.com/ipsilon/evmone/commit/981aae7a8be95750390c24c586a461f7d329ea96) - 2026-09-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

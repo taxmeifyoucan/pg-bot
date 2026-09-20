@@ -82,11 +82,16 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [latestValidHash becomes 0x00..0 when the same invalid block is mentioned again](https://github.com/besu-eth/besu/issues/11299) - 2026-09-15
 
 * [Issue] [engine_newPayload returns INVALID when the parent world state is unavailable](https://github.com/besu-eth/besu/issues/11314) - 2026-09-17
+* [Issue] [evmtool block-test: a block whose RLP cannot be decoded is omitted from --json-array output instead of reported as failed](https://github.com/besu-eth/besu/issues/11328) - 2026-09-19
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [forkchoiceUpdated: the no-reorg shortcut is applied even when no finalized block is known](https://github.com/paradigmxyz/reth/issues/27244) - 2026-09-15
 * [Issue] [engine_forkchoiceUpdated commits the chain update before returning -38002 (forkchoice state not updated atomically)](https://github.com/paradigmxyz/reth/issues/27242) - 2026-09-15
 * [Pull Request] [test(ef-tests): persist trie updates between blocks](https://github.com/paradigmxyz/reth/pull/27307) - 2026-09-18
 * [Issue] [ef-tests: computed trie updates are discarded, so multi-block cases never read stored trie nodes](https://github.com/paradigmxyz/reth/issues/27306) - 2026-09-18
+
+* [Commit] [test(ef-tests): persist trie updates between blocks (#27307)](https://github.com/paradigmxyz/reth/commit/2f46c5e2f91df484f03e770b3177049f7d83e8d9) - 2026-09-19
+[ethereum/evmone](https://github.com/ethereum/evmone)
+* [Issue] [blockchaintest: blocks are executed from the decoded JSON fields, so the block RLP body is never validated against its header](https://github.com/ipsilon/evmone/issues/1726) - 2026-09-19
 ## Q2 2026
 
 

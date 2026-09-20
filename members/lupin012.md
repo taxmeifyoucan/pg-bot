@@ -247,6 +247,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: node, rpc: report the sync session starting block in eth_syncing](https://github.com/erigontech/erigon/pull/24077#pullrequestreview-5245645358) - 2026-09-18
 * [Review] [Review on: rpc: single HTTP request to not create 2nd goroutine](https://github.com/erigontech/erigon/pull/24007#pullrequestreview-5244891333) - 2026-09-18
 * [Commit] [rpc/jsonrpc: fail eth_getLogs on a block with no header (#24101)](https://github.com/erigontech/erigon/commit/24effdf5390f7c1ca4e397bc0ac2d96a3140ed1f) - 2026-09-18
+* [Commit] [rpc/ethapi: report the fee cap as gasPrice for pending dynamic-fee txs (#24099)](https://github.com/erigontech/erigon/commit/a4886eec470cd68a7bb50e7966f13e1dbb66c1dd) - 2026-09-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

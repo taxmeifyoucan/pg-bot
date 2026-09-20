@@ -157,6 +157,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [history_exporter: Increase open file limit (#4811)](https://github.com/status-im/nimbus-eth1/commit/479bfcee2ad9adacbcaa0332d9e01cfdd485ce97) - 2026-09-17
 * [Commit] [Update fork id validation tests and fix block only configs (#4808)](https://github.com/status-im/nimbus-eth1/commit/d5a0b527baedad5f773319f6146a703e4e5d0f1d) - 2026-09-17
 * [Commit] [Fix Sepolia fork id by using the correct mergeNetsplitBlock (#4807)](https://github.com/status-im/nimbus-eth1/commit/61d79b62519cbd6a783e4c5d793825d7161249dd) - 2026-09-17
+* [Pull Request] [stateless: BLS12-381 precompiles with the zkVM accelerator](https://github.com/status-im/nimbus-eth1/pull/4826) - 2026-09-19
+* [Commit] [stateless: BLS12-381 precompiles with the zkVM accelerator (#4826)](https://github.com/status-im/nimbus-eth1/commit/3829d3f1caab5536edacf40d87555e01864c4b42) - 2026-09-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

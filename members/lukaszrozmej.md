@@ -554,6 +554,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Version master as 2.0.0](https://github.com/NethermindEth/nethermind/pull/13566#pullrequestreview-5244985555) - 2026-09-18
 * [Review] [Review on: chore(deps): update GMP package](https://github.com/NethermindEth/nethermind/pull/13562#pullrequestreview-5245017152) - 2026-09-18
 * [Commit] [Avoid recomputing reconstructed body roots in stateless execution (#13534)](https://github.com/NethermindEth/nethermind/commit/7b77bd16d83383b486cec0e8dfa0a85f202e246f) - 2026-09-18
+* [Review] [Review on: Keep flat persistence going when the committed state is off this chain](https://github.com/NethermindEth/nethermind/pull/13591#pullrequestreview-5255082362) - 2026-09-19
+* [Pull Request] [fix(eth): cap outgoing receipts under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/13595) - 2026-09-19
+* [Review] [Review on: fix(eth): cap outgoing receipts under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/13595#pullrequestreview-5256558420) - 2026-09-19
+* [Pull Request] [fix: bound the lookups a trie-node or receipts request performs](https://github.com/NethermindEth/nethermind/pull/13596) - 2026-09-19
+* [Review] [Review on: fix: bound the lookups a trie-node or receipts request performs](https://github.com/NethermindEth/nethermind/pull/13596#pullrequestreview-5257190534) - 2026-09-19
+* [Pull Request] [refactor: store a snapshot's changed slots in address-owned dictionaries](https://github.com/NethermindEth/nethermind/pull/13598) - 2026-09-19
+* [Pull Request] [perf: warm withdrawal recipients with the address warmer](https://github.com/NethermindEth/nethermind/pull/13599) - 2026-09-19
+* [Pull Request] [perf: process blocks while sender recovery finishes](https://github.com/NethermindEth/nethermind/pull/13597) - 2026-09-19
+* [Review] [Review on: perf: process blocks while sender recovery finishes](https://github.com/NethermindEth/nethermind/pull/13597#pullrequestreview-5257216659) - 2026-09-19
+* [Review] [Review on: chore(zkevm): refactor guests organization](https://github.com/NethermindEth/nethermind/pull/13582#pullrequestreview-5256461623) - 2026-09-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

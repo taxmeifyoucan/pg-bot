@@ -229,6 +229,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(flat): prune snapshots unreachable from the head on debug_resetHead (#13524)](https://github.com/NethermindEth/nethermind/commit/d89a8dacc08bd50723260f2b7dd5c90fd9315b46) - 2026-09-17
 * [Commit] [fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown (#13523)](https://github.com/NethermindEth/nethermind/commit/702cb35ded50bd715736205b49a9bf153b260e58) - 2026-09-17
 * [Commit] [Slim down OneTimeChainProcessor (#13441)](https://github.com/NethermindEth/nethermind/commit/1ef7986b816d7234b367f384b1d12d1f982e8086) - 2026-09-17
+* [Review] [Review on: Keep flat persistence going when the committed state is off this chain](https://github.com/NethermindEth/nethermind/pull/13591#pullrequestreview-5254341105) - 2026-09-19
+* [Review] [Review on: fix: bound the lookups a trie-node or receipts request performs](https://github.com/NethermindEth/nethermind/pull/13596#pullrequestreview-5258401351) - 2026-09-19
+* [Pull Request] [docs(agents): require AI agents to declare harness and model on GitHub](https://github.com/NethermindEth/nethermind/pull/13605) - 2026-09-19
+* [Review] [Review on: docs(agents): require AI agents to declare harness and model on GitHub](https://github.com/NethermindEth/nethermind/pull/13605#pullrequestreview-5258362106) - 2026-09-19
 ## Q2 2026
 
 
