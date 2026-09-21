@@ -878,6 +878,20 @@ Team: Reth
 * [Review] [Review on: perf(txpool): stage bounded recovery and transaction imports](https://github.com/paradigmxyz/reth/pull/27280#pullrequestreview-5255623258) - 2026-09-19
 * [Pull Request] [perf(storage): reuse canonical BlockState chain when building overlay providers](https://github.com/paradigmxyz/reth/pull/27319) - 2026-09-19
 * [Review] [Review on: feat(snap-sync): verify downloaded state against the pivot's state root](https://github.com/paradigmxyz/reth/pull/27318#pullrequestreview-5255089506) - 2026-09-19
+* [Review] [Review on: refactor(rpc): centralize state cache miss scheduling](https://github.com/paradigmxyz/reth/pull/27324#pullrequestreview-5259764270) - 2026-09-20
+* [Pull Request] [fix(txpool): don't announce transactions discarded on insert](https://github.com/paradigmxyz/reth/pull/27343) - 2026-09-20
+* [Review] [Review on: docs(rpc): document the remaining reth_ and debug_ methods](https://github.com/paradigmxyz/reth/pull/27340#pullrequestreview-5260105817) - 2026-09-20
+* [Review] [Review on: fix(provider): reject expired history in the block range readers](https://github.com/paradigmxyz/reth/pull/27337#pullrequestreview-5260059013) - 2026-09-20
+* [Review] [Review on: fix(rpc): reject zero-valued concurrency limits](https://github.com/paradigmxyz/reth/pull/26846#pullrequestreview-5259772467) - 2026-09-20
+* [Review] [Review on: fix(rpc): derive the chain config from the chain spec hardforks](https://github.com/paradigmxyz/reth/pull/27304#pullrequestreview-5259819650) - 2026-09-20
+* [Pull Request] [feat(engine): make the backfill threshold configurable](https://github.com/paradigmxyz/reth/pull/27329) - 2026-09-20
+* [Review] [Review on: perf(net): avoid boxed FetchClient request futures](https://github.com/paradigmxyz/reth/pull/27323#pullrequestreview-5259751073) - 2026-09-20
+* [Pull Request] [chore(ci): use shared Cyclops audit comment action](https://github.com/paradigmxyz/reth/pull/27326) - 2026-09-20
+* [Pull Request] [fix(ci): restore pull-requests write for Cyclops audit comments](https://github.com/paradigmxyz/reth/pull/27327) - 2026-09-20
+* [Pull Request] [feat(ci): support Cyclops super-fast audits](https://github.com/paradigmxyz/reth/pull/27325) - 2026-09-20
+* [Commit] [fix(ci): restore pull-requests write for Cyclops audit comments (#27327)](https://github.com/paradigmxyz/reth/commit/4175485c7c65a6041e2eb2cbe746442d1232f60c) - 2026-09-20
+* [Commit] [chore(ci): use shared Cyclops audit comment action (#27326)](https://github.com/paradigmxyz/reth/commit/13074957e00cb5e65c984de1853e80305d4eaa7e) - 2026-09-20
+* [Commit] [feat(txpool): track common validation rejection reasons (#27321)](https://github.com/paradigmxyz/reth/commit/0d672728e1fe10df4530ec927ef65778d806b75f) - 2026-09-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

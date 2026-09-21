@@ -675,6 +675,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [cl/beacon: use the shuffling-dependent root for PTC duties](https://github.com/erigontech/erigon/issues/24116) - 2026-09-18
 * [Commit] [cl: harden local payload preparation and Gloas fallbacks (#23436)](https://github.com/erigontech/erigon/commit/4ebaaa26f6a4ea158eb2372bac25d48d244f7dc1) - 2026-09-18
 * [Commit] [execution/types: reject missing BAL fields during RLP decoding (#23993)](https://github.com/erigontech/erigon/commit/d02515c4d68878f36fad27e48d8fea3d72e8bbe8) - 2026-09-18
+* [Commit] [db/version: bump to 3.8.0-dev (#24121)](https://github.com/erigontech/erigon/commit/daa13984763d2cbddcae24f84e769d1c0f936cd3) - 2026-09-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

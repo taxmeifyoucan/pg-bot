@@ -233,6 +233,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: bound the lookups a trie-node or receipts request performs](https://github.com/NethermindEth/nethermind/pull/13596#pullrequestreview-5258401351) - 2026-09-19
 * [Pull Request] [docs(agents): require AI agents to declare harness and model on GitHub](https://github.com/NethermindEth/nethermind/pull/13605) - 2026-09-19
 * [Review] [Review on: docs(agents): require AI agents to declare harness and model on GitHub](https://github.com/NethermindEth/nethermind/pull/13605#pullrequestreview-5258362106) - 2026-09-19
+* [Review] [Review on: Remove NeedToWaitForHeader from the XDC configs](https://github.com/NethermindEth/nethermind/pull/13609#pullrequestreview-5262189129) - 2026-09-20
+* [Commit] [fix(flat): VerifyWithTrie false positive when deleting an account the trie still holds (#13521)](https://github.com/NethermindEth/nethermind/commit/033c0d067274866917d7f8ab8e7728cb021d4f86) - 2026-09-20
+* [Commit] [Keep the unknown-original storage flag across repeated writes (#13554)](https://github.com/NethermindEth/nethermind/commit/b537eaf863826967e04c3312ef53065a0e63bcc1) - 2026-09-20
 ## Q2 2026
 
 

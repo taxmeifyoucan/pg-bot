@@ -248,6 +248,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: single HTTP request to not create 2nd goroutine](https://github.com/erigontech/erigon/pull/24007#pullrequestreview-5244891333) - 2026-09-18
 * [Commit] [rpc/jsonrpc: fail eth_getLogs on a block with no header (#24101)](https://github.com/erigontech/erigon/commit/24effdf5390f7c1ca4e397bc0ac2d96a3140ed1f) - 2026-09-18
 * [Commit] [rpc/ethapi: report the fee cap as gasPrice for pending dynamic-fee txs (#24099)](https://github.com/erigontech/erigon/commit/a4886eec470cd68a7bb50e7966f13e1dbb66c1dd) - 2026-09-19
+* [Review] [Review on: rpc: eth_getStorageAt answers with a hash, not a string](https://github.com/erigontech/erigon/pull/24158#pullrequestreview-5261315017) - 2026-09-20
+* [Review] [Review on: rpc, execution/receipts: cancel the EVM with AfterFunc, not a goroutine](https://github.com/erigontech/erigon/pull/24162#pullrequestreview-5261689279) - 2026-09-20
+* [Review] [Review on: rpc: typed return maps](https://github.com/erigontech/erigon/pull/24161#pullrequestreview-5261277880) - 2026-09-20
+* [Pull Request] [execution/vm, rpc: drop the unpriced base fee at the call sites](https://github.com/erigontech/erigon/pull/24166) - 2026-09-20
+* [Pull Request] [rpc, execution/engineapi: serve only the declared interface on the engine namespace](https://github.com/erigontech/erigon/pull/24163) - 2026-09-20
+* [Pull Request] [rpc/jsonrpc: validate eth_callMany and debug_traceCallMany state contexts](https://github.com/erigontech/erigon/pull/24167) - 2026-09-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

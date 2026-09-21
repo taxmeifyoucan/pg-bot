@@ -650,6 +650,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: update ethspecify mappings](https://github.com/ChainSafe/lodestar/pull/10126#pullrequestreview-5256536937) - 2026-09-19
 * [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5256732364) - 2026-09-19
 * [Review] [Review on: fix: bind IPv6 by default only if the host has a global IPv6 address](https://github.com/ChainSafe/lodestar/pull/10104#pullrequestreview-5255548176) - 2026-09-19
+* [Pull Request] [chore: add builder url to failed preferences submission errors](https://github.com/ChainSafe/lodestar/pull/10136) - 2026-09-20
+* [Pull Request] [chore: log the value and execution payment of each bid candidate](https://github.com/ChainSafe/lodestar/pull/10135) - 2026-09-20
+* [Commit] [chore: add builder url to failed preferences submission errors (#10136)](https://github.com/ChainSafe/lodestar/commit/1fb3469ab7306c0e77138c803423c72071ace9cb) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -714,6 +717,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add simple `CONTRIBUTING.md` file](https://github.com/ethereum/consensus-specs/pull/5621#pullrequestreview-5170711171) - 2026-09-10
 * [Pull Request] [Do not emit ssz-static deposits post-Fulu](https://github.com/ethereum/consensus-specs/pull/5640) - 2026-09-14
 * [Commit] [Do not emit ssz-static deposits post-Fulu (#5640)](https://github.com/ethereum/consensus-specs/commit/05355a5a7d10ddccd802b8ebb9d615f06c1f47ba) - 2026-09-14
+* [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5260221631) - 2026-09-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

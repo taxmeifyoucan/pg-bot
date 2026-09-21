@@ -114,6 +114,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [Guard-rail RPC rejections (-32002/-32005/4444) still log one WARN per request after #13156](https://github.com/NethermindEth/nethermind/issues/13602) - 2026-09-19
 * [Issue] [FlatDb + snap: EnsureInitialize wipes all columns on every run so a restart mid-sync cannot resume](https://github.com/NethermindEth/nethermind/issues/13601) - 2026-09-19
 * [Issue] [FlatDb: copy-style full pruning is silently absent (config accepted, admin_prune=disabled, no log)](https://github.com/NethermindEth/nethermind/issues/13600) - 2026-09-19
+* [Pull Request] [fix(rlp): bound blob wrapper cell-mask peek to transaction](https://github.com/NethermindEth/nethermind/pull/13614) - 2026-09-21
+* [Issue] [Blob storage decode fails after upgrading pre-#11094 databases to 2.0.0](https://github.com/NethermindEth/nethermind/issues/13612) - 2026-09-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

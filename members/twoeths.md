@@ -278,6 +278,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: penalize peers for forwarding REJECTED gossip messages (#10059)](https://github.com/ChainSafe/lodestar/commit/b27f498c2c337362c1f51dc50c0f15fe029a7828) - 2026-09-17
 * [Pull Request] [feat: search payload at deadline](https://github.com/ChainSafe/lodestar/pull/10134) - 2026-09-19
 * [Pull Request] [fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123) - 2026-09-18
+* [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5262548461) - 2026-09-21
+* [Review] [Review on: chore: add builder url to failed preferences submission errors](https://github.com/ChainSafe/lodestar/pull/10136#pullrequestreview-5262617568) - 2026-09-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -374,6 +374,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [[Hegota][EIP-7805]: implement FOCIL in the EL](https://github.com/erigontech/erigon/issues/24106) - 2026-09-18
 * [Issue] [Hegota](https://github.com/erigontech/erigon/issues/24107) - 2026-09-18
 * [Issue] [[Hegota][EIP-8141]: implement Frame Transaction](https://github.com/erigontech/erigon/issues/24108) - 2026-09-18
+* [Commit] [execution/tracing: support for EIP-8037 state gas tracing (part 1) (#24126)](https://github.com/erigontech/erigon/commit/82d4c0770c8101db692c5afa9861a8778fc7057e) - 2026-09-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

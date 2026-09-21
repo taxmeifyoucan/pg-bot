@@ -149,6 +149,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: make lru.CacheWithTTL closable](https://github.com/erigontech/erigon/pull/24022#pullrequestreview-5245076762) - 2026-09-18
 * [Pull Request] [cl: align blob pruning with configured serve range](https://github.com/erigontech/erigon/pull/24044) - 2026-09-19
 * [Commit] [cl: align blob pruning with configured serve range (#24044)](https://github.com/erigontech/erigon/commit/0a323eeac871ba8fcbdb0e10843a912f967a15c1) - 2026-09-19
+* [Review] [Review on: cl/cltypes: reject hashing an incomplete execution payload envelope](https://github.com/erigontech/erigon/pull/24152#pullrequestreview-5261950320) - 2026-09-20
+* [Review] [Review on: cl/beacon/synced_data: swap head state under lock instead of copying under it](https://github.com/erigontech/erigon/pull/24165#pullrequestreview-5261957635) - 2026-09-20
+* [Review] [Review on: docs: record the blob snapshot invariants agents keep getting wrong](https://github.com/erigontech/erigon/pull/24145#pullrequestreview-5261954860) - 2026-09-20
 ## Q2 2026
 
 

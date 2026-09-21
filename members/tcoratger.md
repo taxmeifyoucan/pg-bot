@@ -502,6 +502,41 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(errors)!: make diagnostics actionable (#2202)](https://github.com/Plonky3/Plonky3/commit/28295bb20fffd8ff004c67797fb8a510c8980174) - 2026-09-19
 * [Commit] [feat(bus): add direction-aware product GKR core (#2216)](https://github.com/Plonky3/Plonky3/commit/40d897bbc564c61e6793c7d6c63546b0c77778af) - 2026-09-19
 * [Commit] [feat(word): add packed backend layout (#2210)](https://github.com/Plonky3/Plonky3/commit/1d41235ab64f1be8e98d51c879460f9cf4d872b8) - 2026-09-19
+* [Review] [Review on: bench(whir): make ZK overhead comparisons grind-free](https://github.com/Plonky3/Plonky3/pull/1955#pullrequestreview-5261201661) - 2026-09-20
+* [Review] [Review on: feat(sumcheck): add the basic jagged reduction](https://github.com/Plonky3/Plonky3/pull/2225#pullrequestreview-5260778859) - 2026-09-20
+* [Review] [Review on: feat(bus): report unmatched tuples with source rows](https://github.com/Plonky3/Plonky3/pull/2223#pullrequestreview-5260789374) - 2026-09-20
+* [Pull Request] [feat(binary-pcs): open Boolean and small-field traces through additive-domain WHIR](https://github.com/Plonky3/Plonky3/pull/2273) - 2026-09-20
+* [Pull Request] [feat(word): prove the zero and bitwise relations through the Boolean PCS](https://github.com/Plonky3/Plonky3/pull/2275) - 2026-09-20
+* [Review] [Review on: perf(sumcheck): commit the suffix layout straight from the source tables](https://github.com/Plonky3/Plonky3/pull/2268#pullrequestreview-5261234229) - 2026-09-20
+* [Review] [Review on: perf(multi-stark): weight a batch of AIR constraints with one dot product](https://github.com/Plonky3/Plonky3/pull/2267#pullrequestreview-5261231639) - 2026-09-20
+* [Review] [Review on: perf(multi-stark): share one zeroed successor buffer across a stage's workers](https://github.com/Plonky3/Plonky3/pull/2266#pullrequestreview-5261228319) - 2026-09-20
+* [Review] [Review on: perf(multi-stark): read a later zerocheck round's lane group in one load](https://github.com/Plonky3/Plonky3/pull/2255#pullrequestreview-5261144947) - 2026-09-20
+* [Review] [Review on: feat(examples): let the binary harness choose its commitment hash and leaf geometry](https://github.com/Plonky3/Plonky3/pull/2250#pullrequestreview-5261144560) - 2026-09-20
+* [Review] [Review on: perf: run the bit ring-switch reduction in the polynomial basis](https://github.com/Plonky3/Plonky3/pull/2253#pullrequestreview-5261144897) - 2026-09-20
+* [Review] [Review on: perf(sumcheck): factor the ring-switch equality weights into scaled blocks](https://github.com/Plonky3/Plonky3/pull/2251#pullrequestreview-5261144694) - 2026-09-20
+* [Review] [Review on: perf(binary-dft): deepen the polynomial-basis tiles past the shared cache](https://github.com/Plonky3/Plonky3/pull/2252#pullrequestreview-5261144837) - 2026-09-20
+* [Review] [Review on: perf(multi-stark): read the boundary zerocheck round and fold off the planes](https://github.com/Plonky3/Plonky3/pull/2249#pullrequestreview-5261144514) - 2026-09-20
+* [Review] [Review on: perf(binary): reuse the reduction's evaluation, and make the sliced-round count a choice](https://github.com/Plonky3/Plonky3/pull/2246#pullrequestreview-5261144462) - 2026-09-20
+* [Pull Request] [feat(multi-stark): publish the machine-facing backend contract and proof envelope](https://github.com/Plonky3/Plonky3/pull/2272) - 2026-09-20
+* [Pull Request] [feat: add differential verification and binary-backend release gates](https://github.com/Plonky3/Plonky3/pull/2274) - 2026-09-20
+* [Review] [Review on: test(poseidon2-air): check the constraints against the reference permutation and under corruption](https://github.com/Plonky3/Plonky3/pull/2269#pullrequestreview-5261692585) - 2026-09-20
+* [Review] [Review on: fix(uni-stark,circle): reject degree_bits below the PCS minimum trace height](https://github.com/Plonky3/Plonky3/pull/2257#pullrequestreview-5261173885) - 2026-09-20
+* [Review] [Review on: feat!(multi-stark): authenticate binary bus claims](https://github.com/Plonky3/Plonky3/pull/2244#pullrequestreview-5261239131) - 2026-09-20
+* [Review] [Review on: feat(bus): add offline read-only memory checking](https://github.com/Plonky3/Plonky3/pull/2224#pullrequestreview-5260783716) - 2026-09-20
+* [Review] [Review on: fix(multilinear-util): state and check the real precondition of fix_prefix_var_to_packed](https://github.com/Plonky3/Plonky3/pull/2264#pullrequestreview-5261174562) - 2026-09-20
+* [Review] [Review on: fix(goldilocks): reduce round constants in the NEON asm Poseidon2 layers](https://github.com/Plonky3/Plonky3/pull/2262#pullrequestreview-5261169381) - 2026-09-20
+* [Review] [Review on: fix(sumcheck): require a cryptographic RNG for HVZK mask sampling](https://github.com/Plonky3/Plonky3/pull/2260#pullrequestreview-5261172285) - 2026-09-20
+* [Review] [Review on: fix(matrix): evaluate coset interpolation at zero instead of inverting it](https://github.com/Plonky3/Plonky3/pull/2263#pullrequestreview-5261171363) - 2026-09-20
+* [Review] [Review on: perf(binary-dft): one-byte subfield butterfly on NEON](https://github.com/Plonky3/Plonky3/pull/2222#pullrequestreview-5261184647) - 2026-09-20
+* [Review] [Review on: fix(stir): use the rigorous field size on the standalone config path](https://github.com/Plonky3/Plonky3/pull/2259#pullrequestreview-5261175577) - 2026-09-20
+* [Review] [Review on: fix(mersenne-31): print the canonical value in Display and Debug](https://github.com/Plonky3/Plonky3/pull/2258#pullrequestreview-5261175016) - 2026-09-20
+* [Review] [Review on: fix(uni-stark,batch-stark): reject a present-but-empty preprocessed_next opening](https://github.com/Plonky3/Plonky3/pull/2256#pullrequestreview-5261171141) - 2026-09-20
+* [Review] [Review on: Lean extraction of p3-baby-bear and some minimal proofs](https://github.com/Plonky3/Plonky3/pull/2154#pullrequestreview-5261178356) - 2026-09-20
+* [Review] [Review on: feat(word): reduce shifted operands to one Boolean opening](https://github.com/Plonky3/Plonky3/pull/2226#pullrequestreview-5260789941) - 2026-09-20
+* [Issue] [Make caller soundness obligations enforceable, not documented](https://github.com/Plonky3/Plonky3/issues/2271) - 2026-09-20
+* [Issue] [Make the multilinear prover kernels fast](https://github.com/Plonky3/Plonky3/issues/2270) - 2026-09-20
+* [Commit] [feat(word): reduce shifted operands to one Boolean opening (#2226)](https://github.com/Plonky3/Plonky3/commit/f787802a1e01ddf5bc3a552918c353cb8cd2ab59) - 2026-09-20
+* [Commit] [feat!: add WHIR over binary additive domains (#2198)](https://github.com/Plonky3/Plonky3/commit/17b296872e0bf748d0fb196baaa1712c9451d61c) - 2026-09-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

@@ -1667,6 +1667,39 @@ Team: Erigon
 * [Review] [Review on: rpc/transactions: memoise state reads across estimateGas probes](https://github.com/erigontech/erigon/pull/24138#pullrequestreview-5254442847) - 2026-09-19
 * [Review] [Review on: execution/tracing: support for EIP-8037 state gas tracing (part 1)](https://github.com/erigontech/erigon/pull/24126#pullrequestreview-5254306048) - 2026-09-19
 * [Commit] [rpc: eth_getProof support MarshalFastJSONTo (#24105)](https://github.com/erigontech/erigon/commit/6d0a97c2fe5dbb23cfccef9b84024e546fb3bb0e) - 2026-09-19
+* [Pull Request] [rpc: RPCReceipt.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24169) - 2026-09-21
+* [Review] [Review on: rpc: RPCReceipt.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24169#pullrequestreview-5262551243) - 2026-09-21
+* [Pull Request] [rpc: eth_getStorageAt answers with a hash, not a string](https://github.com/erigontech/erigon/pull/24158) - 2026-09-20
+* [Pull Request] [db/state/execctx: RPC state reads use the state cache when no overlay is published](https://github.com/erigontech/erigon/pull/24170) - 2026-09-21
+* [Review] [Review on: db/state/execctx: RPC state reads use the state cache when no overlay is published](https://github.com/erigontech/erigon/pull/24170#pullrequestreview-5262551643) - 2026-09-21
+* [Pull Request] [rpc, execution/receipts: cancel the EVM with AfterFunc, not a goroutine](https://github.com/erigontech/erigon/pull/24162) - 2026-09-20
+* [Pull Request] [cl/cltypes: reject hashing an incomplete execution payload envelope](https://github.com/erigontech/erigon/pull/24152) - 2026-09-20
+* [Review] [Review on: cl/cltypes: reject hashing an incomplete execution payload envelope](https://github.com/erigontech/erigon/pull/24152#pullrequestreview-5259737883) - 2026-09-20
+* [Pull Request] [execution/state: readers answer existence without decoding the account](https://github.com/erigontech/erigon/pull/24160) - 2026-09-20
+* [Pull Request] [rpc: typed return maps](https://github.com/erigontech/erigon/pull/24161) - 2026-09-20
+* [Pull Request] [execution/state: the cached reader's storage key stops allocating](https://github.com/erigontech/erigon/pull/24159) - 2026-09-20
+* [Review] [Review on: execution/state: the cached reader's storage key stops allocating](https://github.com/erigontech/erigon/pull/24159#pullrequestreview-5262626627) - 2026-09-21
+* [Pull Request] [execution/types: RPCLogs.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24150) - 2026-09-20
+* [Review] [Review on: execution/types: RPCLogs.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24150#pullrequestreview-5259740982) - 2026-09-20
+* [Pull Request] [rpc: fast-JSON marshallers take the stream itself, not a writer interface](https://github.com/erigontech/erigon/pull/24156) - 2026-09-20
+* [Pull Request] [jsonstream: auto-comma](https://github.com/erigontech/erigon/pull/24149) - 2026-09-20
+* [Review] [Review on: jsonstream: auto-comma](https://github.com/erigontech/erigon/pull/24149#pullrequestreview-5259742867) - 2026-09-20
+* [Pull Request] [rpc/ethapi: RPCTransaction.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24151) - 2026-09-20
+* [Review] [Review on: rpc/ethapi: RPCTransaction.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24151#pullrequestreview-5260112774) - 2026-09-20
+* [Pull Request] [execution/vm: the intern tables live in pools, not in one EVM](https://github.com/erigontech/erigon/pull/24168) - 2026-09-20
+* [Review] [Review on: db/version: bump to 3.8.0-dev](https://github.com/erigontech/erigon/pull/24121#pullrequestreview-5260274836) - 2026-09-20
+* [Review] [Review on: build(deps): bump docker/setup-qemu-action from 4.3.0 to 4.4.0](https://github.com/erigontech/erigon/pull/24144#pullrequestreview-5260268613) - 2026-09-20
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.88.7 to 0.89.14](https://github.com/erigontech/erigon/pull/24143#pullrequestreview-5260268701) - 2026-09-20
+* [Review] [Review on: rpc: memoise state reads across estimateGas probes](https://github.com/erigontech/erigon/pull/24138#pullrequestreview-5259410954) - 2026-09-20
+* [Pull Request] [build: bump the default builder image to golang:1.27-trixie](https://github.com/erigontech/erigon/pull/24157) - 2026-09-20
+* [Commit] [rpc: eth_getStorageAt answers with a hash, not a string (#24158)](https://github.com/erigontech/erigon/commit/7d625635fe53eb1ac6a5d9ce0ef71def672dd35d) - 2026-09-21
+* [Commit] [rpc, execution/receipts: cancel the EVM with AfterFunc, not a goroutine (#24162)](https://github.com/erigontech/erigon/commit/22df1e137205876f6d8a39cbbe7fe6f872493bce) - 2026-09-21
+* [Commit] [cl/cltypes: reject hashing an incomplete execution payload envelope (#24152)](https://github.com/erigontech/erigon/commit/40f651040b81bfc0656c54b1c74453fb442e8ce9) - 2026-09-21
+* [Commit] [tracing: let a tracer name the opcodes it wants (#24136)](https://github.com/erigontech/erigon/commit/5d0ad4b3c4e9f4105db0c457a9bcc5e78dde5e23) - 2026-09-20
+* [Commit] [rpc: eth_getProof's read-only fold keeps stored branch hashes below the top branch (#24081)](https://github.com/erigontech/erigon/commit/8f7f0e9080f24eae088bd7f90a4cd660d4c44e19) - 2026-09-20
+* [Commit] [rpc/jsonrpc: verify witnesses statelessly only under ERIGON_ASSERT (#24078)](https://github.com/erigontech/erigon/commit/5a88eb4ad3213613eb4a9eccaac0a1a6f63d68f7) - 2026-09-20
+* [Commit] [rpc: `estimateGas` to reuse `ibs` (#24137)](https://github.com/erigontech/erigon/commit/e1e34d37eda7a856314cc8506267ce03ca2a0667) - 2026-09-20
+* [Commit] [rpc: RPCBlock strict typing instead of `any` (#24127)](https://github.com/erigontech/erigon/commit/970d657e5c72b9bd24844d5e9af1031b0a4f9bd3) - 2026-09-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

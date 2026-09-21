@@ -445,6 +445,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Version master as 2.0.0](https://github.com/NethermindEth/nethermind/pull/13566#pullrequestreview-5247573214) - 2026-09-18
 * [Review] [Review on: Complete guarded debug_setHead and debug_resetHead rewinds](https://github.com/NethermindEth/nethermind/pull/13558#pullrequestreview-5255768184) - 2026-09-19
 * [Pull Request] [Fix missing stateless dependencies in the Visual Studio solution](https://github.com/NethermindEth/nethermind/pull/13594) - 2026-09-19
+* [Review] [Review on: Reduce txpool and networking allocations](https://github.com/NethermindEth/nethermind/pull/13592#pullrequestreview-5261150092) - 2026-09-20
+* [Pull Request] [Non-attesting consensus-layer plugin](https://github.com/NethermindEth/nethermind/pull/13611) - 2026-09-20
+* [Review] [Review on: Non-attesting consensus-layer plugin](https://github.com/NethermindEth/nethermind/pull/13611#pullrequestreview-5262001455) - 2026-09-20
+* [Commit] [Reduce txpool and networking allocations (#13592)](https://github.com/NethermindEth/nethermind/commit/95ede6d1d6a90fafa634bfc8814525d21f919c93) - 2026-09-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

@@ -130,6 +130,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Decouple Stake from Validator Registration](https://github.com/ethereum/EIPs/pull/12306#pullrequestreview-5257472409) - 2026-09-19
 * [Review] [Review on: Add EIP: eth/73 - Indexed Cell Requests](https://github.com/ethereum/EIPs/pull/12287#pullrequestreview-5257462542) - 2026-09-19
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5257418848) - 2026-09-19
+* [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5260141400) - 2026-09-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

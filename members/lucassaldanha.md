@@ -162,6 +162,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Post-release 26.9.0](https://github.com/Consensys-Incorporated/teku/pull/11290) - 2026-09-17
 * [Commit] [Post-release 26.9.0 (#11290)](https://github.com/Consensys-Incorporated/teku/commit/5082cb6c7c5308943478b2247e027dd418b4423f) - 2026-09-17
 * [Pull Request] [Add step retry for integration/acceptance test shards](https://github.com/Consensys-Incorporated/teku/pull/11293) - 2026-09-17
+* [Pull Request] [Bump aircompressor to 3.8 and drop snappy-java](https://github.com/Consensys-Incorporated/teku/pull/11309) - 2026-09-21
+* [Pull Request] [Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307) - 2026-09-21
+* [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5262576938) - 2026-09-21
+* [Commit] [Add step retry for integration/acceptance test shards (#11293)](https://github.com/Consensys-Incorporated/teku/commit/8ca8f7168f171853d9c0ebdb26ed2f703e453313) - 2026-09-21
 ## Q2 2026
 
 

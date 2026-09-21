@@ -100,6 +100,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279) - 2026-09-16
 * [Review] [Review on: Bid validation builder](https://github.com/Consensys-Incorporated/teku/pull/11279#pullrequestreview-5242431574) - 2026-09-17
 * [Issue] [Builder bids are not checked against builder exits in the parent execution payload](https://github.com/Consensys-Incorporated/teku/issues/11294) - 2026-09-18
+* [Commit] [Bid validation builder (#11279)](https://github.com/Consensys-Incorporated/teku/commit/540fb34ffc6dc4dd5f659d1fa8ba3769d90d6d4d) - 2026-09-21
 ## Q2 2026
 
 
