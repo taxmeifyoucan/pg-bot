@@ -73,6 +73,7 @@ Team: Erigon
 * [Pull Request] [Parallel execution: Block-STM executor + versioned state + parallel commitment](https://github.com/erigontech/erigon/pull/23967) - 2026-09-14
 * [Pull Request] [execution/state: state-layer upgrade (1/3, split of #23967)](https://github.com/erigontech/erigon/pull/24132) - 2026-09-18
 * [Pull Request] [execution: parallel executor + normalize removal (2/3, split of #23967)](https://github.com/erigontech/erigon/pull/24133) - 2026-09-18
+* [Review] [Review on: execution: Block-STM parallel execution + write-side finalization (2/2, split of #23967)](https://github.com/erigontech/erigon/pull/24133#pullrequestreview-5271780039) - 2026-09-21
 ## Q2 2026
 
 

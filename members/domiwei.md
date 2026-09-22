@@ -152,6 +152,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/cltypes: reject hashing an incomplete execution payload envelope](https://github.com/erigontech/erigon/pull/24152#pullrequestreview-5261950320) - 2026-09-20
 * [Review] [Review on: cl/beacon/synced_data: swap head state under lock instead of copying under it](https://github.com/erigontech/erigon/pull/24165#pullrequestreview-5261957635) - 2026-09-20
 * [Review] [Review on: docs: record the blob snapshot invariants agents keep getting wrong](https://github.com/erigontech/erigon/pull/24145#pullrequestreview-5261954860) - 2026-09-20
+* [Review] [Review on: [r3.7] cl: align blob pruning with configured serve range](https://github.com/erigontech/erigon/pull/24191#pullrequestreview-5265392839) - 2026-09-21
+* [Review] [Review on: cl/p2p: add QUIC transport support](https://github.com/erigontech/erigon/pull/24117#pullrequestreview-5263721634) - 2026-09-21
+* [Review] [Review on: .github, caplin: harden Gloas genesis verification](https://github.com/erigontech/erigon/pull/23968#pullrequestreview-5265954351) - 2026-09-21
+* [Review] [Review on: db, execution, diagnostics, cl: adopt gofumpt formatting](https://github.com/erigontech/erigon/pull/24182#pullrequestreview-5265402884) - 2026-09-21
 ## Q2 2026
 
 

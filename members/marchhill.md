@@ -459,6 +459,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [perf(rpc): drop the per-frame and per-transaction allocations from the frames RPC surface](https://github.com/NethermindEth/nethermind/pull/13571) - 2026-09-18
 * [Review] [Review on: perf(rpc): drop the per-frame and per-transaction allocations from the frames RPC surface](https://github.com/NethermindEth/nethermind/pull/13571#pullrequestreview-5246812158) - 2026-09-18
 * [Review] [Review on: EIP-8369: judge frame-transaction omission by Profile 2 candidacy](https://github.com/NethermindEth/nethermind/pull/13590#pullrequestreview-5255196115) - 2026-09-19
+* [Review] [Review on: fix(rlp): bound blob wrapper cell-mask peek to transaction](https://github.com/NethermindEth/nethermind/pull/13614#pullrequestreview-5266080955) - 2026-09-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

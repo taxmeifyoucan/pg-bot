@@ -243,6 +243,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Derive the default builder `auth_data` from the URL hostname](https://github.com/OffchainLabs/prysm/pull/17511#pullrequestreview-5252107296) - 2026-09-18
 * [Review] [Review on: fixing 204 handling for rest ptc attestation](https://github.com/OffchainLabs/prysm/pull/17510#pullrequestreview-5251237339) - 2026-09-18
 * [Commit] [Serve available historical Gloas payload envelopes by root (#17499)](https://github.com/OffchainLabs/prysm/commit/e302e7b5e5558b92a4ee485a40e6cf3e5ab994aa) - 2026-09-18
+* [Pull Request] [recover missing dependent root during startup](https://github.com/OffchainLabs/prysm/pull/17529) - 2026-09-21
+* [Review] [Review on: grpc use execution_payload_available event](https://github.com/OffchainLabs/prysm/pull/17500#pullrequestreview-5269219023) - 2026-09-21
+* [Review] [Review on: Skip execution blocks the EL no longer has when reconstructing Gloas envelopes by root](https://github.com/OffchainLabs/prysm/pull/17526#pullrequestreview-5269066905) - 2026-09-21
+* [Review] [Review on: Return nil for null execution blocks in batch fetch instead of a parentHash decode error](https://github.com/OffchainLabs/prysm/pull/17525#pullrequestreview-5268821873) - 2026-09-21
+* [Pull Request] [fixing unmarshal issue for not found block](https://github.com/OffchainLabs/prysm/pull/17524) - 2026-09-21
+* [Commit] [fixing 204 handling for rest ptc attestation (#17510)](https://github.com/OffchainLabs/prysm/commit/53a09fa2c43f31c918c1bafb424759054922e620) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

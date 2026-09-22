@@ -611,6 +611,26 @@ Team: Erigon
 * [Pull Request] [db/state/execctx: bound validation cache reads instead of evicting shared caches](https://github.com/erigontech/erigon/pull/24048) - 2026-09-19
 * [Commit] [execution/commitment: release demoted contract trunks and bound the pin hint (#24087)](https://github.com/erigontech/erigon/commit/11816870dc2e87c2ce2b6be6a703a46237dde603) - 2026-09-19
 * [Commit] [db/state/execctx: bound validation cache reads instead of evicting shared caches (#24048)](https://github.com/erigontech/erigon/commit/e69cb086fe243407df2679b98c7bb42d13699f98) - 2026-09-19
+* [Review] [Review on: rpc: a server connection runs its handler directly; reverse calls are removed](https://github.com/erigontech/erigon/pull/24193#pullrequestreview-5268836926) - 2026-09-21
+* [Review] [Review on: rpc: a large websocket response is streamed in frames](https://github.com/erigontech/erigon/pull/24201#pullrequestreview-5268821910) - 2026-09-21
+* [Review] [Review on: rpc: ws/ipc support allow_list and limits](https://github.com/erigontech/erigon/pull/24190#pullrequestreview-5268871530) - 2026-09-21
+* [Review] [Review on: txnprovider/txpool: a txn is announced once, the first time it becomes pending](https://github.com/erigontech/erigon/pull/24196#pullrequestreview-5268830189) - 2026-09-21
+* [Review] [Review on: rpc: a websocket write builds one timeout context, not two](https://github.com/erigontech/erigon/pull/24187#pullrequestreview-5268628427) - 2026-09-21
+* [Review] [Review on: rpc: a server connection reads on the goroutine that serves it](https://github.com/erigontech/erigon/pull/24186#pullrequestreview-5268631348) - 2026-09-21
+* [Review] [Review on: rpc: a notification is assembled in a pooled buffer](https://github.com/erigontech/erigon/pull/24200#pullrequestreview-5268680817) - 2026-09-21
+* [Review] [Review on: rpc: a websocket write bounds the socket, not the context](https://github.com/erigontech/erigon/pull/24198#pullrequestreview-5268770626) - 2026-09-21
+* [Review] [Review on: execution/state: readers answer existence without decoding the account](https://github.com/erigontech/erigon/pull/24160#pullrequestreview-5268921615) - 2026-09-21
+* [Review] [Review on: rpc: notification did double-scanning same data](https://github.com/erigontech/erigon/pull/24180#pullrequestreview-5268630891) - 2026-09-21
+* [Review] [Review on: db/state: share the latest-from-files cache between txs](https://github.com/erigontech/erigon/pull/24080#pullrequestreview-5269081747) - 2026-09-21
+* [Review] [Review on: rpc: memoise state reads across estimateGas probes](https://github.com/erigontech/erigon/pull/24138#pullrequestreview-5268982101) - 2026-09-21
+* [Review] [Review on: build: bump the default builder image to golang:1.27-trixie](https://github.com/erigontech/erigon/pull/24157#pullrequestreview-5268630531) - 2026-09-21
+* [Review] [Review on: execution/commitment: shard deferred branch writes across workers](https://github.com/erigontech/erigon/pull/23979#pullrequestreview-5266005989) - 2026-09-21
+* [Review] [Review on: rpc: transactionReceipts sends full logs and takes the filter as optional](https://github.com/erigontech/erigon/pull/24176#pullrequestreview-5263321327) - 2026-09-21
+* [Review] [Review on: execution/types: RPCLogs.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24150#pullrequestreview-5262926606) - 2026-09-21
+* [Review] [Review on: rpc/ethapi: RPCTransaction.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24151#pullrequestreview-5262926733) - 2026-09-21
+* [Pull Request] [[r3.7] execution/commitment: release demoted contract trunks and bound the pin hint](https://github.com/erigontech/erigon/pull/24177) - 2026-09-21
+* [Review] [Review on: rpc: transactionReceipts sends one notification per block](https://github.com/erigontech/erigon/pull/24179#pullrequestreview-5263321471) - 2026-09-21
+* [Commit] [execution/commitment: shard deferred branch writes across workers (#23979)](https://github.com/erigontech/erigon/commit/9abf44170a6d3fa71d5368ad2cb9555945d3fd7d) - 2026-09-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

@@ -121,12 +121,15 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Preserve vote epoch ordering in V28/V29 fork choice migration](https://github.com/sigp/lighthouse/pull/10095#pullrequestreview-5262302761) - 2026-09-21
 * [Review] [Review on: Fix attester/PTC duty cache labeling on probe and bulk refresh](https://github.com/sigp/lighthouse/pull/10094#pullrequestreview-5260018653) - 2026-09-20
 * [Issue] [Fix bad time rounding in proposer reorg checks (Gnosis)](https://github.com/sigp/lighthouse/issues/10096) - 2026-09-21
+* [Pull Request] [Move progressive list checks into `BeaconBlock::from_ssz_bytes`](https://github.com/sigp/lighthouse/pull/10098) - 2026-09-21
+* [Review] [Review on: Move progressive list checks into `BeaconBlock::from_ssz_bytes`](https://github.com/sigp/lighthouse/pull/10098#pullrequestreview-5263775207) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31
 * [Issue] [Tests for Gloas optimistic sync](https://github.com/ethereum/consensus-specs/issues/5635) - 2026-09-14
 * [Issue] [Fork choice test coverage for revert to justified block](https://github.com/ethereum/consensus-specs/issues/5634) - 2026-09-14
 * [Issue] [Validator 0 can make valid payload attestations for the epoch prior to the Gloas fork](https://github.com/ethereum/consensus-specs/issues/5650) - 2026-09-21
+* [Review] [Review on: Reject pre-Gloas slots in `get_ptc`](https://github.com/ethereum/consensus-specs/pull/5652#pullrequestreview-5272682760) - 2026-09-21
 ## Q2 2026
 
 

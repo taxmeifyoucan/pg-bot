@@ -537,6 +537,20 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Issue] [Make the multilinear prover kernels fast](https://github.com/Plonky3/Plonky3/issues/2270) - 2026-09-20
 * [Commit] [feat(word): reduce shifted operands to one Boolean opening (#2226)](https://github.com/Plonky3/Plonky3/commit/f787802a1e01ddf5bc3a552918c353cb8cd2ab59) - 2026-09-20
 * [Commit] [feat!: add WHIR over binary additive domains (#2198)](https://github.com/Plonky3/Plonky3/commit/17b296872e0bf748d0fb196baaa1712c9451d61c) - 2026-09-20
+* [Review] [Review on: feat(binary-pcs): open Boolean and small-field traces through additive-domain WHIR](https://github.com/Plonky3/Plonky3/pull/2273#pullrequestreview-5272346010) - 2026-09-21
+* [Pull Request] [feat(sumcheck): authenticate jagged claims and ingest live traces](https://github.com/Plonky3/Plonky3/pull/2285) - 2026-09-21
+* [Review] [Review on: feat(word): prove the zero and bitwise relations through the Boolean PCS](https://github.com/Plonky3/Plonky3/pull/2275#pullrequestreview-5272330701) - 2026-09-21
+* [Review] [Review on: feat(security): use the DKT26 Johnson MCA bound](https://github.com/Plonky3/Plonky3/pull/2282#pullrequestreview-5272479375) - 2026-09-21
+* [Review] [Review on: feat(multi-stark): publish the machine-facing backend contract and proof envelope](https://github.com/Plonky3/Plonky3/pull/2272#pullrequestreview-5272206884) - 2026-09-21
+* [Pull Request] [perf(maybe-rayon): close the review comments on the cost model, and apply it to three more loops](https://github.com/Plonky3/Plonky3/pull/2283) - 2026-09-21
+* [Review] [Review on: refactor!(uni-stark,batch-stark,commit): group the preprocessed openings and name the trace-height bounds as a pair](https://github.com/Plonky3/Plonky3/pull/2281#pullrequestreview-5270086380) - 2026-09-21
+* [Review] [Review on: refactor(commit): own the periodic column shape rule where every consumer can reach it](https://github.com/Plonky3/Plonky3/pull/2276#pullrequestreview-5266855445) - 2026-09-21
+* [Review] [Review on: fix(symmetric): reject a non-power-of-two root count when deserializing a MerkleCap](https://github.com/Plonky3/Plonky3/pull/2277#pullrequestreview-5266887741) - 2026-09-21
+* [Review] [Review on: fix(multi-stark): state the lane-group bound on the sparse packed fold](https://github.com/Plonky3/Plonky3/pull/2279#pullrequestreview-5266845679) - 2026-09-21
+* [Review] [Review on: test(multi-stark): cover a proof and an AIR set that disagree on an optional section](https://github.com/Plonky3/Plonky3/pull/2278#pullrequestreview-5266873909) - 2026-09-21
+* [Issue] [Let an AIR declare only bus interactions](https://github.com/Plonky3/Plonky3/issues/2284) - 2026-09-21
+* [Commit] [feat(sumcheck): add the basic jagged reduction (#2225)](https://github.com/Plonky3/Plonky3/commit/f676a57c4715efe7754e48001afc2c4670395ad8) - 2026-09-21
+* [Commit] [perf(maybe-rayon): size parallel tasks from a cost model (#2039)](https://github.com/Plonky3/Plonky3/commit/e472dab25d188ffbd097e2f373b6bc648d38b95f) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

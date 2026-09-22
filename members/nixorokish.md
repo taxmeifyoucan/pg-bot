@@ -93,6 +93,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Update EIP-8081: DFI decisions from ACDE245](https://github.com/ethereum/EIPs/commit/aad37d71f92291e4bec2966057a6b8e0287d9e2b) - 2026-09-14
 * [Review] [Review on: Update EIP-7773: Align listed EIP titles](https://github.com/ethereum/EIPs/pull/12342#pullrequestreview-5211720785) - 2026-09-15
 * [Review] [Review on: Update EIP-7773: Set Sepolia activation time](https://github.com/ethereum/EIPs/pull/12355#pullrequestreview-5241150094) - 2026-09-17
+* [Pull Request] [Update EIP-8081: Decisions from ACDC187](https://github.com/ethereum/EIPs/pull/12364) - 2026-09-21
+* [Commit] [Update EIP-8081: Decisions from ACDC187](https://github.com/ethereum/EIPs/commit/24c0edb17b82cb65f26d29f03e084637ec2ae2d4) - 2026-09-21
 ## Q2 2026
 
 

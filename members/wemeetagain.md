@@ -203,6 +203,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: derive default builder auth data from the url hostname](https://github.com/ChainSafe/lodestar/pull/10107#pullrequestreview-5239823470) - 2026-09-17
 * [Review] [Review on: fix: suggest the ASCII form when rejecting a builder url](https://github.com/ChainSafe/lodestar/pull/10127#pullrequestreview-5249305864) - 2026-09-18
 * [Review] [Review on: chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124#pullrequestreview-5248655974) - 2026-09-18
+* [Review] [Review on: fix: reject pre-Gloas payload attestations on gossip](https://github.com/ChainSafe/lodestar/pull/10141#pullrequestreview-5272317096) - 2026-09-21
+* [Review] [Review on: test: fail gossip spec tests on unexpected errors](https://github.com/ChainSafe/lodestar/pull/10140#pullrequestreview-5270396065) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

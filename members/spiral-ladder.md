@@ -265,6 +265,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [chore: remove benchmark CI](https://github.com/ChainSafe/lodestar-z/pull/715) - 2026-09-18
 * [Issue] [metrics: block state transition](https://github.com/ChainSafe/lodestar-z/issues/713) - 2026-09-18
 * [Commit] [fix(bindings): return sync committee positions as arrays (#714)](https://github.com/ChainSafe/lodestar-z/commit/1696068087567885e33c977de534721abe589506) - 2026-09-18
+* [Pull Request] [perf(epoch-cache): grow effective balance increments in place with 1 owner](https://github.com/ChainSafe/lodestar-z/pull/721) - 2026-09-21
+* [Pull Request] [docs: call a source file a file, not a module](https://github.com/ChainSafe/lodestar-z/pull/719) - 2026-09-21
+* [Review] [Review on: perf: avoid proposer lookahead allocation](https://github.com/ChainSafe/lodestar-z/pull/716#pullrequestreview-5262811300) - 2026-09-21
+* [Issue] [investigate process pending deposits](https://github.com/ChainSafe/lodestar-z/issues/720) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

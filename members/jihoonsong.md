@@ -128,6 +128,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Define recursive EIP-8025 execution proof guest](https://github.com/ethereum/consensus-specs/pull/5534#pullrequestreview-5181264162) - 2026-09-11
 * [Review] [Review on: Add `saturating_sub` helper function](https://github.com/ethereum/consensus-specs/pull/5620#pullrequestreview-5212420532) - 2026-09-15
 * [Review] [Review on: Fix fork comment for removed `process_historical_roots_update`](https://github.com/ethereum/consensus-specs/pull/5636#pullrequestreview-5207184632) - 2026-09-15
+* [Review] [Review on: Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647#pullrequestreview-5265480629) - 2026-09-21
+* [Review] [Review on: Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646#pullrequestreview-5265512040) - 2026-09-21
+* [Commit] [Add executable gossip validation functions for heze (#5605)](https://github.com/ethereum/consensus-specs/commit/477321355d48d527e7e1e4d572f6a40a0b41072a) - 2026-09-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -151,6 +154,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/pull/12172) - 2026-08-14
 * [Commit] [Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/commit/3b82eabe076be68b6425f3973b1dc9a176cacd1c) - 2026-08-14
 * [Review] [Review on: Update EIP-4444: Move to Draft](https://github.com/ethereum/EIPs/pull/12257#pullrequestreview-5178497676) - 2026-09-11
+* [Pull Request] [Update EIP-8015: Remove duplicate `get_eth1_vote` deprecation](https://github.com/ethereum/EIPs/pull/12361) - 2026-09-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #39, August 4, 2026](https://github.com/ethereum/pm/issues/2179) - 2026-08-03
 * [Issue] [FOCIL Breakout #39, August 18, 2026](https://github.com/ethereum/pm/issues/2194) - 2026-08-17

@@ -56,6 +56,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5175047557) - 2026-09-11
 * [Pull Request] [Fix gossip bid rejection at epoch boundaries and on the head's parent](https://github.com/sigp/lighthouse/pull/10061) - 2026-09-16
 * [Issue] [Use the builder hostname for default request auth](https://github.com/sigp/lighthouse/issues/10076) - 2026-09-18
+* [Issue] [Investigate blob-column retrieval for HTTP-published Gloas blocks](https://github.com/sigp/lighthouse/issues/10104) - 2026-09-22
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
 * [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20
@@ -66,6 +67,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Test payload attributes after an empty Gloas parent (#5570)](https://github.com/ethereum/consensus-specs/commit/a1bd81a40c0935eb533b00e67ecc99a6df3f892c) - 2026-08-26
 * [Commit] [Add Gloas bid gas limit test after an empty parent (#5567)](https://github.com/ethereum/consensus-specs/commit/939afbc7abc6b1e971a54c5699eabbf4c14e6a79) - 2026-08-28
 * [Pull Request] [Test gossip bids on the head's parent](https://github.com/ethereum/consensus-specs/pull/5645) - 2026-09-16
+* [Commit] [Test RANDAO checks for execution payload bids on the head's parent (#5645)](https://github.com/ethereum/consensus-specs/commit/b23fecc52029dd357fc20181195c02e7762dd788) - 2026-09-21
 ## Q2 2026
 
 

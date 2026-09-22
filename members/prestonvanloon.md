@@ -97,6 +97,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: progressive merkle proof generation ](https://github.com/OffchainLabs/prysm/pull/17444#pullrequestreview-5212971530) - 2026-09-15
 * [Pull Request] [Limit V3 codec coverage to pre-Gloas forks](https://github.com/OffchainLabs/prysm/pull/17502) - 2026-09-17
 * [Commit] [Limit V3 codec coverage to pre-Gloas forks (#17502)](https://github.com/OffchainLabs/prysm/commit/cbfa5a043ca9562bedade7fcd1fc385045b93955) - 2026-09-17
+* [Pull Request] [Update go-libp2p to v0.50.0](https://github.com/OffchainLabs/prysm/pull/17528) - 2026-09-21
+* [Review] [Review on: Remove `--disable-progressive-ssz` feature flag](https://github.com/OffchainLabs/prysm/pull/17517#pullrequestreview-5267823752) - 2026-09-21
+* [Review] [Review on: Remove dead pre-genesis path](https://github.com/OffchainLabs/prysm/pull/17523#pullrequestreview-5270626716) - 2026-09-21
+* [Commit] [Update go-libp2p to v0.50.0 (#17528)](https://github.com/OffchainLabs/prysm/commit/f738f5164717a2605d6cac009f913b6ef4716ae0) - 2026-09-21
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 ## Q2 2026

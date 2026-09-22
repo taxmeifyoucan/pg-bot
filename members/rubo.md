@@ -103,6 +103,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(deps): update MCL package (#13548)](https://github.com/NethermindEth/nethermind/commit/053e2366729eeea6fceea872b8e8d574baa7089f) - 2026-09-17
 * [Pull Request] [chore(zkevm): refactor guests organization](https://github.com/NethermindEth/nethermind/pull/13582) - 2026-09-18
 * [Commit] [chore(deps): update GMP package (#13562)](https://github.com/NethermindEth/nethermind/commit/4e36ba0ff359cf494a8396476b272ee1d28f64dd) - 2026-09-18
+* [Pull Request] [chore(agents): trim AGENTS.md and move benchmark guidance to skills](https://github.com/NethermindEth/nethermind/pull/13646) - 2026-09-21
+* [Commit] [chore(zkevm): refactor guests organization (#13582)](https://github.com/NethermindEth/nethermind/commit/18591d924500d42ade714360843aea2d55211da9) - 2026-09-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

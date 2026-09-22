@@ -75,6 +75,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: De-bounce full reprocess queue error log](https://github.com/sigp/lighthouse/pull/10043#pullrequestreview-5206503178) - 2026-09-15
 * [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5242782334) - 2026-09-18
 * [Pull Request] [Performance benchmarking using CPU instructions](https://github.com/sigp/lighthouse/pull/10075) - 2026-09-18
+* [Review] [Review on: Add stateless Gloas block production to the VC](https://github.com/sigp/lighthouse/pull/10036#pullrequestreview-5264800397) - 2026-09-21
+* [Review] [Review on: Fix validator is not aggregator when VC is in DVT mode involving middleware](https://github.com/sigp/lighthouse/pull/9947#pullrequestreview-5265275588) - 2026-09-21
 ## Q2 2026
 
 

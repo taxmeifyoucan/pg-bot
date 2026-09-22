@@ -350,6 +350,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [chore(test-fill): finish pre-alloc grouping safety and retire Engine X drift checks](https://github.com/ethereum/execution-specs/issues/3621) - 2026-09-18
 * [Commit] [chore(tests): expand and harden EIP-7997 factory coverage (#3614)](https://github.com/ethereum/execution-specs/commit/d4c28bfe7aa35e91ee0cd50febd316eb90d92a37) - 2026-09-18
 * [Commit] [chore(tests): complete EIP-7778 checklist and add access-list arm to the calldata floor test (#3616)](https://github.com/ethereum/execution-specs/commit/b9212183060c297312c04c9d2efb9ce6c1650363) - 2026-09-18
+* [Pull Request] [feat(tests): more amsterdam coverage gaps](https://github.com/ethereum/execution-specs/pull/3627) - 2026-09-21
+* [Commit] [feat(spec-specs,forks,tests): EIP-8037 - cap tx.gas at TX_MAX_TOTAL_GAS_LIMIT (2^32-1) (#3582)](https://github.com/ethereum/execution-specs/commit/c335bc4e9e99f7b91024d9033bdc89ce54394848) - 2026-09-21
+* [Commit] [refactor(spec-specs): keep JUMPDEST analysis unchanged under EIP-8024 (#3618)](https://github.com/ethereum/execution-specs/commit/ad202d76b52c074ffa9395bd69a72f2a12ad1784) - 2026-09-21
+* [Commit] [feat(tests): cover same-block system contract deployment (#3615)](https://github.com/ethereum/execution-specs/commit/fe92ff76ae9687729955b2b5f9cc56c7bcc54bcf) - 2026-09-21
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

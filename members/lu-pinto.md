@@ -42,6 +42,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: fix broken JMH benchmarks](https://github.com/besu-eth/besu/pull/11245#pullrequestreview-5165666343) - 2026-09-10
 * [Review] [Review on: Remove EIP-7610, update reference tests to tests@v20.0.2 and fix reference test harness](https://github.com/besu-eth/besu/pull/11191#pullrequestreview-5181237181) - 2026-09-11
 * [Pull Request] [Revert TreeSet/TreeBasedTable usage in warm address/storage and transient storage](https://github.com/besu-eth/besu/pull/11319) - 2026-09-18
+* [Pull Request] [Fix gradlew jmhJar](https://github.com/besu-eth/besu/pull/11341) - 2026-09-21
+* [Pull Request] [Simplify implementation for eip-2929 warmed storage](https://github.com/besu-eth/besu/pull/11340) - 2026-09-21
+* [Review] [Review on: Revert TreeSet/TreeBasedTable usage in warm addresses and transient storage](https://github.com/besu-eth/besu/pull/11319#pullrequestreview-5267558189) - 2026-09-21
+* [Review] [Review on: check log level before slow trace/debug logs](https://github.com/besu-eth/besu/pull/11326#pullrequestreview-5265558837) - 2026-09-21
+* [Commit] [Fix gradlew jmhJar (#11341)](https://github.com/besu-eth/besu/commit/efddc0f59c534fc0269f4548afe68f1937f5ed39) - 2026-09-21
+* [Commit] [Revert TreeSet/TreeBasedTable usage in warm addresses and transient storage (#11319)](https://github.com/besu-eth/besu/commit/d997aad7b3be6333464c0687d3761c568ee63524) - 2026-09-21
 ## Q2 2026
 
 

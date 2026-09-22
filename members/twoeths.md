@@ -280,6 +280,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123) - 2026-09-18
 * [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5262548461) - 2026-09-21
 * [Review] [Review on: chore: add builder url to failed preferences submission errors](https://github.com/ChainSafe/lodestar/pull/10136#pullrequestreview-5262617568) - 2026-09-21
+* [Review] [Review on: test: assert progressive balance drift metric](https://github.com/ChainSafe/lodestar/pull/10143#pullrequestreview-5273760259) - 2026-09-22
+* [Review] [Review on: fix: harden validator block signing](https://github.com/ChainSafe/lodestar/pull/10142#pullrequestreview-5273598283) - 2026-09-22
+* [Pull Request] [refactor: change onClockSlot to startPayloadPollAtSlot()](https://github.com/ChainSafe/lodestar/pull/10144) - 2026-09-22
+* [Review] [Review on: feat: search payload at deadline](https://github.com/ChainSafe/lodestar/pull/10134#pullrequestreview-5264009597) - 2026-09-21
+* [Pull Request] [fix: do not remove pending block on failed download](https://github.com/ChainSafe/lodestar/pull/10137) - 2026-09-21
+* [Review] [Review on: fix: do not remove pending block on failed download](https://github.com/ChainSafe/lodestar/pull/10137#pullrequestreview-5265518054) - 2026-09-21
+* [Review] [Review on: feat: use zig backed lodestar-z shuffle](https://github.com/ChainSafe/lodestar/pull/9829#pullrequestreview-5265665360) - 2026-09-21
+* [Review] [Review on: fix: keep idle event streams alive](https://github.com/ChainSafe/lodestar/pull/10133#pullrequestreview-5262789375) - 2026-09-21
+* [Review] [Review on: chore: log the value and execution payment of each bid candidate](https://github.com/ChainSafe/lodestar/pull/10135#pullrequestreview-5262757080) - 2026-09-21
+* [Commit] [feat: search payload at deadline (#10134)](https://github.com/ChainSafe/lodestar/commit/57ffc39074bb3888e43ec436a72460f94aa34343) - 2026-09-22
+* [Commit] [fix: specify optimistic search for payload in NetworkProcessor (#10123)](https://github.com/ChainSafe/lodestar/commit/fbb58f72800e4e444a768de009ddc8c3ed73f867) - 2026-09-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

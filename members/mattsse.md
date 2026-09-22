@@ -892,6 +892,16 @@ Team: Reth
 * [Commit] [fix(ci): restore pull-requests write for Cyclops audit comments (#27327)](https://github.com/paradigmxyz/reth/commit/4175485c7c65a6041e2eb2cbe746442d1232f60c) - 2026-09-20
 * [Commit] [chore(ci): use shared Cyclops audit comment action (#27326)](https://github.com/paradigmxyz/reth/commit/13074957e00cb5e65c984de1853e80305d4eaa7e) - 2026-09-20
 * [Commit] [feat(txpool): track common validation rejection reasons (#27321)](https://github.com/paradigmxyz/reth/commit/0d672728e1fe10df4530ec927ef65778d806b75f) - 2026-09-20
+* [Review] [Review on: fix(rpc): fill missing fee fields in eth_sendTransaction](https://github.com/paradigmxyz/reth/pull/27341#pullrequestreview-5270324927) - 2026-09-21
+* [Pull Request] [perf(cli): wake download progress display on completion](https://github.com/paradigmxyz/reth/pull/27357) - 2026-09-21
+* [Review] [Review on: feat(snap-sync): run snap sync as one resumable session](https://github.com/paradigmxyz/reth/pull/27345#pullrequestreview-5268548690) - 2026-09-21
+* [Review] [Review on: fix(rpc): lower default block and receipt cache limits](https://github.com/paradigmxyz/reth/pull/27310#pullrequestreview-5268275790) - 2026-09-21
+* [Pull Request] [fix(test): stabilize hash builder and chain import tests](https://github.com/paradigmxyz/reth/pull/27354) - 2026-09-21
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 8 updates](https://github.com/paradigmxyz/reth/pull/27349#pullrequestreview-5265896744) - 2026-09-21
+* [Pull Request] [feat: schedule Sepolia Amsterdam activation](https://github.com/paradigmxyz/reth/pull/27350) - 2026-09-21
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 4 updates](https://github.com/paradigmxyz/reth/pull/27347#pullrequestreview-5265017346) - 2026-09-21
+* [Commit] [fix(test): stabilize hash builder and chain import tests (#27354)](https://github.com/paradigmxyz/reth/commit/3fa8556452cb814287e345f1b8166f89d8862f94) - 2026-09-21
+* [Commit] [feat: schedule Sepolia Amsterdam activation (#27350)](https://github.com/paradigmxyz/reth/commit/609cba205b2c143c71c4bde035ba64eebbec8f5a) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -899,6 +909,7 @@ Team: Reth
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309) - 2026-07-30
 
+* [Commit] [fix: resend active WHOAREYOU challenge (#309)](https://github.com/sigp/discv5/commit/2177af4e7e854c7e0d1d89ee2b4891b2bfee5e57) - 2026-09-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8070: clarify RLP empty-list encoding](https://github.com/ethereum/EIPs/pull/12079) - 2026-08-04
 

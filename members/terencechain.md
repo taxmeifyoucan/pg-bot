@@ -253,6 +253,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add the dependent root check to proposer preferences gossip (#17485)](https://github.com/OffchainLabs/prysm/commit/2d8ad8a617f8c418fcedbbaccdf203dcd8a8fb9d) - 2026-09-17
 * [Commit] [Keep last known good peer chain state on status validation failure (#17509)](https://github.com/OffchainLabs/prysm/commit/ce8c57442dc28df51973f84126c06dd3f5f0bb3f) - 2026-09-18
 * [Pull Request] [Broadcast published envelopes without block checks at gossip validation level](https://github.com/OffchainLabs/prysm/pull/17520) - 2026-09-19
+* [Pull Request] [Remove data column sidecar size presets dropped by the spec](https://github.com/OffchainLabs/prysm/pull/17532) - 2026-09-21
+* [Pull Request] [Reject PTC lookups for pre-Gloas slots at the fork epoch](https://github.com/OffchainLabs/prysm/pull/17531) - 2026-09-21
+* [Review] [Review on: Update go-libp2p to v0.50.0](https://github.com/OffchainLabs/prysm/pull/17528#pullrequestreview-5270677894) - 2026-09-21
+* [Review] [Review on: Cap self-built payload envelopes at one per valid proposer per slot](https://github.com/OffchainLabs/prysm/pull/17433#pullrequestreview-5271703206) - 2026-09-21
+* [Pull Request] [Skip execution blocks the EL no longer has when reconstructing Gloas envelopes by root](https://github.com/OffchainLabs/prysm/pull/17526) - 2026-09-21
+* [Pull Request] [Return nil for null execution blocks in batch fetch instead of a parentHash decode error](https://github.com/OffchainLabs/prysm/pull/17525) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

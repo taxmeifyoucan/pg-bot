@@ -170,6 +170,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fix Gloas nodes failing to resume sync after restart](https://github.com/sigp/lighthouse/pull/9940#pullrequestreview-5227105090) - 2026-09-16
 * [Review] [Review on:  Add support for engine_forkchoiceUpdatedV5](https://github.com/sigp/lighthouse/pull/9935#pullrequestreview-5225965812) - 2026-09-16
 * [Review] [Review on: Include slashed balances in fork choice committee fraction](https://github.com/sigp/lighthouse/pull/10062#pullrequestreview-5226546259) - 2026-09-16
+* [Review] [Review on: Fix custody backfill N× DataColumnsByRange amplification](https://github.com/sigp/lighthouse/pull/10048#pullrequestreview-5269077157) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

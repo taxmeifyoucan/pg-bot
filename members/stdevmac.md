@@ -116,6 +116,15 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [FlatDb: copy-style full pruning is silently absent (config accepted, admin_prune=disabled, no log)](https://github.com/NethermindEth/nethermind/issues/13600) - 2026-09-19
 * [Pull Request] [fix(rlp): bound blob wrapper cell-mask peek to transaction](https://github.com/NethermindEth/nethermind/pull/13614) - 2026-09-21
 * [Issue] [Blob storage decode fails after upgrading pre-#11094 databases to 2.0.0](https://github.com/NethermindEth/nethermind/issues/13612) - 2026-09-20
+* [Pull Request] [fix(flat): refuse unsafe Flat activations and warn when full prune is ignored](https://github.com/NethermindEth/nethermind/pull/13644) - 2026-09-21
+* [Review] [Review on: fix(flat): refuse unsafe Flat activations and warn when full prune is ignored](https://github.com/NethermindEth/nethermind/pull/13644#pullrequestreview-5272188539) - 2026-09-21
+* [Pull Request] [ci: replace OpenCodeReview with shared PR-Agent](https://github.com/NethermindEth/nethermind/pull/13652) - 2026-09-22
+* [Review] [Review on: ci: replace OpenCodeReview with shared PR-Agent](https://github.com/NethermindEth/nethermind/pull/13652#pullrequestreview-5273387543) - 2026-09-22
+* [Pull Request] [fix(flat): resync after RocksDB auto-repair](https://github.com/NethermindEth/nethermind/pull/13645) - 2026-09-21
+* [Review] [Review on: fix(flat): resync after RocksDB auto-repair](https://github.com/NethermindEth/nethermind/pull/13645#pullrequestreview-5272192687) - 2026-09-21
+* [Pull Request] [fix(rpc): demote guard-rail WARNs and map no-state to -32002](https://github.com/NethermindEth/nethermind/pull/13643) - 2026-09-21
+* [Review] [Review on: fix(rpc): demote guard-rail WARNs and map no-state to -32002](https://github.com/NethermindEth/nethermind/pull/13643#pullrequestreview-5272187886) - 2026-09-21
+* [Review] [Review on: fix(rlp): bound blob wrapper cell-mask peek to transaction](https://github.com/NethermindEth/nethermind/pull/13614#pullrequestreview-5262917091) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

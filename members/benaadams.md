@@ -449,6 +449,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Non-attesting consensus-layer plugin](https://github.com/NethermindEth/nethermind/pull/13611) - 2026-09-20
 * [Review] [Review on: Non-attesting consensus-layer plugin](https://github.com/NethermindEth/nethermind/pull/13611#pullrequestreview-5262001455) - 2026-09-20
 * [Commit] [Reduce txpool and networking allocations (#13592)](https://github.com/NethermindEth/nethermind/commit/95ede6d1d6a90fafa634bfc8814525d21f919c93) - 2026-09-21
+* [Commit] [Fix transaction index replay after main-only processor split (#13629)](https://github.com/NethermindEth/nethermind/commit/c30d1790877bec15ed1513957e6294726aa3fca1) - 2026-09-21
+* [Commit] [Fix flaky test caused by shared transaction pool interference (#13616)](https://github.com/NethermindEth/nethermind/commit/0a0acbd5f837df7d3ec2e84eaf109ff8d6ec1e13) - 2026-09-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
@@ -456,6 +458,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/11882#pullrequestreview-4713489321) - 2026-07-16
 * [Pull Request] [Add EIP: ePBS Mandatory Burn of Execution Rewards](https://github.com/ethereum/EIPs/pull/12130) - 2026-08-07
 * [Review] [Review on: Add EIP: ePBS Mandatory Burn of Execution Rewards](https://github.com/ethereum/EIPs/pull/12130#pullrequestreview-4904092988) - 2026-08-11
+* [Review] [Review on: Update EIP-8298: allow SETCODEFROM in initcode and require an existing source](https://github.com/ethereum/EIPs/pull/12356#pullrequestreview-5268669161) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653198356) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653197195) - 2026-07-08

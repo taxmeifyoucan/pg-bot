@@ -186,6 +186,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535) - 2026-09-06
 * [Review] [Review on: feat(test-evm-tools): derive fork-block activation from the transition schedule](https://github.com/ethereum/execution-specs/pull/3557#pullrequestreview-5175041949) - 2026-09-11
 * [Pull Request] [feat(spec-tests, spec-tools): run fork-transition fixtures through EELS](https://github.com/ethereum/execution-specs/pull/3564) - 2026-09-11
+* [Commit] [feat(spec-tests, spec-tools): run fork-transition fixtures through EELS (#3564)](https://github.com/ethereum/execution-specs/commit/6f426b367292ed189eeabea18b07e7f6f332a61b) - 2026-09-21
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

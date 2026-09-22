@@ -1700,6 +1700,63 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc: verify witnesses statelessly only under ERIGON_ASSERT (#24078)](https://github.com/erigontech/erigon/commit/5a88eb4ad3213613eb4a9eccaac0a1a6f63d68f7) - 2026-09-20
 * [Commit] [rpc: `estimateGas` to reuse `ibs` (#24137)](https://github.com/erigontech/erigon/commit/e1e34d37eda7a856314cc8506267ce03ca2a0667) - 2026-09-20
 * [Commit] [rpc: RPCBlock strict typing instead of `any` (#24127)](https://github.com/erigontech/erigon/commit/970d657e5c72b9bd24844d5e9af1031b0a4f9bd3) - 2026-09-20
+* [Pull Request] [engine_types: blob responses stream through MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24208) - 2026-09-22
+* [Pull Request] [rpc: a server connection runs its handler directly; reverse calls are removed](https://github.com/erigontech/erigon/pull/24193) - 2026-09-21
+* [Review] [Review on: rpc: a server connection runs its handler directly; reverse calls are removed](https://github.com/erigontech/erigon/pull/24193#pullrequestreview-5264999805) - 2026-09-21
+* [Pull Request] [rpc: a subscriber's queued notifications Send in one socket write](https://github.com/erigontech/erigon/pull/24205) - 2026-09-22
+* [Review] [Review on: rpc: a subscriber's queued notifications Send in one socket write](https://github.com/erigontech/erigon/pull/24205#pullrequestreview-5273448158) - 2026-09-22
+* [Pull Request] [execution/chain: Config is immutable, the blob schedule is looked up on each call](https://github.com/erigontech/erigon/pull/24207) - 2026-09-22
+* [Review] [Review on: execution/chain: Config is immutable, the blob schedule is looked up on each call](https://github.com/erigontech/erigon/pull/24207#pullrequestreview-5273444389) - 2026-09-22
+* [Pull Request] [rpc: a large websocket response is streamed in frames](https://github.com/erigontech/erigon/pull/24201) - 2026-09-21
+* [Review] [Review on: rpc: a large websocket response is streamed in frames](https://github.com/erigontech/erigon/pull/24201#pullrequestreview-5267579498) - 2026-09-21
+* [Pull Request] [execution, rpc, cmd: copy shared chain configs with Config.Copy](https://github.com/erigontech/erigon/pull/24206) - 2026-09-22
+* [Review] [Review on: execution, rpc, cmd: copy shared chain configs with Config.Copy](https://github.com/erigontech/erigon/pull/24206#pullrequestreview-5273157101) - 2026-09-22
+* [Pull Request] [rpc: ws/ipc support allow_list and limits](https://github.com/erigontech/erigon/pull/24190) - 2026-09-21
+* [Review] [Review on: rpc: ws/ipc support allow_list and limits](https://github.com/erigontech/erigon/pull/24190#pullrequestreview-5264632053) - 2026-09-21
+* [Pull Request] [txnprovider/txpool: a txn is announced once, the first time it becomes pending](https://github.com/erigontech/erigon/pull/24196) - 2026-09-21
+* [Review] [Review on: txnprovider/txpool: a txn is announced once, the first time it becomes pending](https://github.com/erigontech/erigon/pull/24196#pullrequestreview-5272876015) - 2026-09-21
+* [Pull Request] [rpc: a websocket write builds one timeout context, not two](https://github.com/erigontech/erigon/pull/24187) - 2026-09-21
+* [Review] [Review on: rpc: a websocket write builds one timeout context, not two](https://github.com/erigontech/erigon/pull/24187#pullrequestreview-5264017050) - 2026-09-21
+* [Pull Request] [rpc: a server connection reads on the goroutine that serves it](https://github.com/erigontech/erigon/pull/24186) - 2026-09-21
+* [Pull Request] [rpc: a notification is assembled in a pooled buffer](https://github.com/erigontech/erigon/pull/24200) - 2026-09-21
+* [Review] [Review on: rpc: a notification is assembled in a pooled buffer](https://github.com/erigontech/erigon/pull/24200#pullrequestreview-5267587840) - 2026-09-21
+* [Pull Request] [rpc: a websocket write bounds the socket, not the context](https://github.com/erigontech/erigon/pull/24198) - 2026-09-21
+* [Review] [Review on: rpc: a websocket write bounds the socket, not the context](https://github.com/erigontech/erigon/pull/24198#pullrequestreview-5265796645) - 2026-09-21
+* [Review] [Review on: rpc: recover the receipt sender from the chain config](https://github.com/erigontech/erigon/pull/24103#pullrequestreview-5264280851) - 2026-09-21
+* [Review] [Review on: rpc, execution/engineapi: serve only the declared interface on the engine namespace](https://github.com/erigontech/erigon/pull/24163#pullrequestreview-5263488408) - 2026-09-21
+* [Pull Request] [rpc: notification did double-scanning same data](https://github.com/erigontech/erigon/pull/24180) - 2026-09-21
+* [Review] [Review on: rpc: notification did double-scanning same data](https://github.com/erigontech/erigon/pull/24180#pullrequestreview-5263380818) - 2026-09-21
+* [Review] [Review on: rpc: RPCReceipt.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24169#pullrequestreview-5264603850) - 2026-09-21
+* [Review] [Review on: [r3.7] cl: align blob pruning with configured serve range](https://github.com/erigontech/erigon/pull/24191#pullrequestreview-5264962791) - 2026-09-21
+* [Review] [Review on: execution/commitment: shard deferred branch writes across workers](https://github.com/erigontech/erigon/pull/23979#pullrequestreview-5263910667) - 2026-09-21
+* [Review] [Review on: db/snapshotsync: stop RemoveOverlaps deleting another component's .tmp](https://github.com/erigontech/erigon/pull/24146#pullrequestreview-5264182249) - 2026-09-21
+* [Pull Request] [rpc: transactionReceipts sends full logs and takes the filter as optional](https://github.com/erigontech/erigon/pull/24176) - 2026-09-21
+* [Review] [Review on: rpc: transactionReceipts sends full logs and takes the filter as optional](https://github.com/erigontech/erigon/pull/24176#pullrequestreview-5263061545) - 2026-09-21
+* [Pull Request] [rpc: websocket ping is a timer, not a goroutine per connection](https://github.com/erigontech/erigon/pull/24184) - 2026-09-21
+* [Review] [Review on: rpc: websocket ping is a timer, not a goroutine per connection](https://github.com/erigontech/erigon/pull/24184#pullrequestreview-5263859688) - 2026-09-21
+* [Pull Request] [txnprovider/txpool: announce a txn once, when it becomes pending](https://github.com/erigontech/erigon/pull/24185) - 2026-09-21
+* [Review] [Review on: [r3.7] execution/commitment: release demoted contract trunks and bound the pin hint](https://github.com/erigontech/erigon/pull/24177#pullrequestreview-5263110300) - 2026-09-21
+* [Pull Request] [rpc: transactionReceipts sends one notification per block](https://github.com/erigontech/erigon/pull/24179) - 2026-09-21
+* [Review] [Review on: rpc: transactionReceipts sends one notification per block](https://github.com/erigontech/erigon/pull/24179#pullrequestreview-5263276696) - 2026-09-21
+* [Issue] [txpool: a txn is announced again on every baseFee → pending move](https://github.com/erigontech/erigon/issues/24192) - 2026-09-21
+* [Issue] [rpc: a websocket peer that stops answering pongs is dropped only by TCP timeouts](https://github.com/erigontech/erigon/issues/24194) - 2026-09-21
+* [Commit] [txnprovider/txpool: a txn is announced once, the first time it becomes pending (#24196)](https://github.com/erigontech/erigon/commit/934563009c8550fe7882955ce15d6b06a02543bb) - 2026-09-22
+* [Commit] [rpc: a server connection reads on the goroutine that serves it (#24186)](https://github.com/erigontech/erigon/commit/123292d75ddd0a9c6b925ed58ec44d604e854a4b) - 2026-09-21
+* [Commit] [execution/state: readers answer existence without decoding the account (#24160)](https://github.com/erigontech/erigon/commit/c78ad6fb1114bd533e3563ffa490e3d94342b4a9) - 2026-09-21
+* [Commit] [rpc: notification did double-scanning same data (#24180)](https://github.com/erigontech/erigon/commit/c25b8e47dc1a77ecdbd15d38ba3beae1d29530ec) - 2026-09-21
+* [Commit] [rpc: RPCReceipt.MarshalFastJSONTo (#24169)](https://github.com/erigontech/erigon/commit/075ec363094a8c6d73b8eb66661610af806f87a9) - 2026-09-21
+* [Commit] [execution/types: RPCLogs.MarshalFastJSONTo (#24150)](https://github.com/erigontech/erigon/commit/99106079892c5568c70bde7991214e873e306195) - 2026-09-21
+* [Commit] [rpc: typed return maps (#24161)](https://github.com/erigontech/erigon/commit/e891fd44bbb58a05a624846017b53ff2b02e6a38) - 2026-09-21
+* [Commit] [rpc: websocket ping is a timer, not a goroutine per connection (#24184)](https://github.com/erigontech/erigon/commit/e51279613177a6eb9e7bbc913bf2917ea0249988) - 2026-09-21
+* [Commit] [execution/state: storage keys stop allocating in the cached reader, Writer and WriteSet.Apply (#24159)](https://github.com/erigontech/erigon/commit/f6278211dc7b845eccd140883931bf5b3251e810) - 2026-09-21
+* [Commit] [rpc/ethapi: RPCTransaction.MarshalFastJSONTo (#24151)](https://github.com/erigontech/erigon/commit/9eee42c39f00cd1333fff1af8bad6b66609265e2) - 2026-09-21
+* [Commit] [txnprovider/txpool: announce a txn once, when it becomes pending (#24185)](https://github.com/erigontech/erigon/commit/ce6eef50a601dd1f224c558df634ceaa2160d47d) - 2026-09-21
+* [Commit] [rpc: transactionReceipts sends one notification per block (#24179)](https://github.com/erigontech/erigon/commit/780f7757b561c6770f72cbaf46f487cc0701e6a3) - 2026-09-21
+* [Commit] [rpc: fast-JSON marshallers take the stream itself, not a writer interface (#24156)](https://github.com/erigontech/erigon/commit/e2814de0759d593d3757b356021f76e913e54870) - 2026-09-21
+* [Commit] [jsonstream: auto-comma (#24149)](https://github.com/erigontech/erigon/commit/dfe69a7a30e712edabfb46d1bf18fc9e851127e4) - 2026-09-21
+* [Commit] [rpc: encode each newHeads and transactionReceipts event once for all subscribers (#24175)](https://github.com/erigontech/erigon/commit/b25bf3fe298195b527129c0868489a3c72b180b5) - 2026-09-21
+* [Commit] [rpc: hash each witness node and code once (#24068)](https://github.com/erigontech/erigon/commit/e6be10a50fd3ac61356ca144e0b17c01b0ab0ebe) - 2026-09-21
+* [Commit] [rpc: RPCHeader/Block/Withdrawal add `MarshalFastJSONTo` (#24140)](https://github.com/erigontech/erigon/commit/3d283d2df6314882c49fd97ac1ea148fe343a426) - 2026-09-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

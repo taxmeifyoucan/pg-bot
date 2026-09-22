@@ -141,6 +141,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Validate element schemas in optimized SSZ collection construction [Validate if we really want to do that]](https://github.com/Consensys-Incorporated/teku/issues/11305) - 2026-09-18
 * [Commit] [update config exposed via API (#11304)](https://github.com/Consensys-Incorporated/teku/commit/2f17a6431ed26381e50e4cd8dd3102750d4b9809) - 2026-09-18
 * [Commit] [Add optional max length to progressive SSZ list schemas (#11299)](https://github.com/Consensys-Incorporated/teku/commit/3bc8c05fab1da2b54be13e3da6197bfb6d7a9933) - 2026-09-18
+* [Review] [Review on: Submit builder preferences to each builder](https://github.com/Consensys-Incorporated/teku/pull/11311#pullrequestreview-5270321347) - 2026-09-21
+* [Pull Request] [Fix gloas transition](https://github.com/Consensys-Incorporated/teku/pull/11315) - 2026-09-21
+* [Review] [Review on: Remove `createUnsignedBid`, fix remote handler TODO and nits](https://github.com/Consensys-Incorporated/teku/pull/11313#pullrequestreview-5270602221) - 2026-09-21
+* [Review] [Review on: Teku OOM catch rework](https://github.com/Consensys-Incorporated/teku/pull/11289#pullrequestreview-5269298959) - 2026-09-21
+* [Review] [Review on: Enforce progressive list limits in ssz](https://github.com/Consensys-Incorporated/teku/pull/11297#pullrequestreview-5267290465) - 2026-09-21
+* [Issue] [Reject pre-Gloas slots in get_ptc](https://github.com/Consensys-Incorporated/teku/issues/11314) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

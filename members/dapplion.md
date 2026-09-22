@@ -62,6 +62,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Stop promoting completed pending payload entries to most-recently-used](https://github.com/sigp/lighthouse/pull/9988) - 2026-09-07
 * [Pull Request] [Standardise FCR metrics](https://github.com/sigp/lighthouse/pull/9987) - 2026-09-07
 * [Issue] [Reserved - 10k](https://github.com/sigp/lighthouse/issues/10000) - 2026-09-08
+* [Pull Request] [Route fork-choice execution status through fork choice nodes](https://github.com/sigp/lighthouse/pull/10100) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 

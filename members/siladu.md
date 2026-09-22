@@ -56,6 +56,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: wire remaining opcode gas benchmarks](https://github.com/besu-eth/besu/pull/11211#pullrequestreview-5097741797) - 2026-09-03
 * [Review] [Review on: Fix eth_estimateGas internal error related to value transfer tx](https://github.com/besu-eth/besu/pull/11272#pullrequestreview-5179942217) - 2026-09-11
 * [Pull Request] [Implement EIP-8141 frame transactions behind a new Bogota milestone](https://github.com/besu-eth/besu/pull/11305) - 2026-09-15
+* [Review] [Review on: Do not probe discovery-only bootnodes on RLPx from DiscV4](https://github.com/besu-eth/besu/pull/11343#pullrequestreview-5273500511) - 2026-09-22
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Review] [Review on: 2.8.0 release version pr](https://github.com/Consensys/tuweni/pull/66#pullrequestreview-4908208335) - 2026-08-11
 

@@ -29,6 +29,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add focil fork choice](https://github.com/status-im/nimbus-eth2/pull/9021) - 2026-09-09
 * [Pull Request] [wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035) - 2026-09-11
 * [Pull Request] [add getBlobsV4 support into service](https://github.com/status-im/nimbus-eth2/pull/9034) - 2026-09-11
+* [Pull Request] [adapt inclusion list specs + add inclusion list gossip val test vecs](https://github.com/status-im/nimbus-eth2/pull/9083) - 2026-09-21
+* [Pull Request] [convert partial column quarantine to accept ref](https://github.com/status-im/nimbus-eth2/pull/9081) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629505540) - 2026-07-04
 ## Q2 2026

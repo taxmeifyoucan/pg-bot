@@ -55,6 +55,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync fix deleting accounts (#4801)](https://github.com/status-im/nimbus-eth1/commit/c0b9bc64e08e2fd2ce631e02d2c9a0436d4275bb) - 2026-09-16
 * [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4821) - 2026-09-18
 * [Commit] [Snap2 sync maint update (#4821)](https://github.com/status-im/nimbus-eth1/commit/2e2b76b365e60eb03d6164abfd19e768f45e9c59) - 2026-09-18
+* [Pull Request] [Snap2 sync update cordb assembly](https://github.com/status-im/nimbus-eth1/pull/4833) - 2026-09-21
+* [Commit] [Snap2 sync update cordb assembly (#4833)](https://github.com/status-im/nimbus-eth1/commit/8370dde1febdf96e87f15bbc0816f738e81045f1) - 2026-09-21
 ## Q2 2026
 
 

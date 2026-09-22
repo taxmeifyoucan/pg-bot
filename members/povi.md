@@ -98,6 +98,9 @@ Team: Grandine
 * [Issue] [Prune invalid payload envelopes from cache and storage](https://github.com/grandinetech/grandine/issues/922) - 2026-09-17
 * [Issue] [Fix compliance tests](https://github.com/grandinetech/grandine/issues/921) - 2026-09-17
 * [Issue] [Schedule Sepolia Glamsterdam activation](https://github.com/grandinetech/grandine/issues/927) - 2026-09-18
+* [Review] [Review on: Make generated Gloas genesis usable](https://github.com/grandinetech/grandine/pull/930#pullrequestreview-5267398323) - 2026-09-21
+* [Review] [Review on: Only serve canonical payload envelopes by range](https://github.com/grandinetech/grandine/pull/924#pullrequestreview-5265833710) - 2026-09-21
+* [Review] [Review on: zkvm: cache downloads only after decoding succeeds](https://github.com/grandinetech/grandine/pull/929#pullrequestreview-5264977630) - 2026-09-21
 ## Q2 2026
 
 

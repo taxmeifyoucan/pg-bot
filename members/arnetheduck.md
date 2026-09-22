@@ -39,6 +39,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [remove force build](https://github.com/status-im/nimbus-eth2/pull/8883) - 2026-08-14
 * [Pull Request] [n-b-s: rm pcre/rocksdb support](https://github.com/status-im/nimbus-eth2/pull/8902) - 2026-08-18
 * [Review] [Review on: enforce minimum Nim version](https://github.com/status-im/nimbus-eth2/pull/9065#pullrequestreview-5244755306) - 2026-09-18
+
+* [Review] [Review on: add gloas transition tests](https://github.com/status-im/nimbus-eth2/pull/7542#pullrequestreview-5266614634) - 2026-09-21
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Pull Request] [nim: avoid allocation for global context](https://github.com/ethereum/c-kzg-4844/pull/668) - 2026-09-21
+* [Review] [Review on: nim: avoid allocation for global context](https://github.com/ethereum/c-kzg-4844/pull/668#pullrequestreview-5269033351) - 2026-09-21
 ## Q2 2026
 
 

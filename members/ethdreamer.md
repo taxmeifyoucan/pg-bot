@@ -40,6 +40,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Pull Request] [Gloas builder API review follow-ups: direct-bid hash check and no-redirect block forwarding](https://github.com/sigp/lighthouse/pull/10012) - 2026-09-08
 * [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5145129708) - 2026-09-08
 * [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5240625150) - 2026-09-17
+* [Review] [Review on: Add stateless Gloas block production to the VC](https://github.com/sigp/lighthouse/pull/10036#pullrequestreview-5271317981) - 2026-09-21
 ## Q2 2026
 
 

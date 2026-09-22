@@ -375,6 +375,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Hegota](https://github.com/erigontech/erigon/issues/24107) - 2026-09-18
 * [Issue] [[Hegota][EIP-8141]: implement Frame Transaction](https://github.com/erigontech/erigon/issues/24108) - 2026-09-18
 * [Commit] [execution/tracing: support for EIP-8037 state gas tracing (part 1) (#24126)](https://github.com/erigontech/erigon/commit/82d4c0770c8101db692c5afa9861a8778fc7057e) - 2026-09-20
+* [Pull Request] [execution/tracing: support for EIP-8037 state gas tracing (part 2)](https://github.com/erigontech/erigon/pull/24203) - 2026-09-21
+* [Review] [Review on: execution, rpc, cmd: copy shared chain configs with Config.Copy](https://github.com/erigontech/erigon/pull/24206#pullrequestreview-5273387319) - 2026-09-22
+* [Review] [Review on: execution/types: RPCLogs.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24150#pullrequestreview-5262907308) - 2026-09-21
+* [Review] [Review on: execution: test crash recovery during catch-up reorgs](https://github.com/erigontech/erigon/pull/24032#pullrequestreview-5265160213) - 2026-09-21
+* [Commit] [execution: remove unused code store (#24181)](https://github.com/erigontech/erigon/commit/f6867e871be19225af1eee01f91b94048e3a9841) - 2026-09-21
+* [Commit] [agents: add guidance to use ponytail (#24178)](https://github.com/erigontech/erigon/commit/6297ad912387d908cba3547351a93a13e9d1ab73) - 2026-09-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -166,6 +166,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Use hostname for auth data and default max_execution_payment to 0](https://github.com/Consensys-Incorporated/teku/pull/11303#pullrequestreview-5249478989) - 2026-09-18
 * [Review] [Review on: use proposal epoch fork for proposer preference signatures](https://github.com/Consensys-Incorporated/teku/pull/11302#pullrequestreview-5248703282) - 2026-09-18
 * [Review] [Review on: Use hostname for auth data and default max_execution_payment to 0](https://github.com/Consensys-Incorporated/teku/pull/11303#pullrequestreview-5255817652) - 2026-09-19
+* [Review] [Review on: Enforce progressive list limits in ssz](https://github.com/Consensys-Incorporated/teku/pull/11297#pullrequestreview-5266748091) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

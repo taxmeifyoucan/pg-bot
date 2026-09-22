@@ -125,6 +125,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [move pathbased common types into bonsai packages (#11292)](https://github.com/besu-eth/besu/commit/3b459c5162bfd332a6391ef3c22f5a336560834a) - 2026-09-16
 * [Commit] [fix: store latestValidHash when first rejecting an invalid payload (#11304)](https://github.com/besu-eth/besu/commit/5eb8804f8d3c480ac77b8ea617a9c68b9b59d932) - 2026-09-16
 * [Pull Request] [Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11318) - 2026-09-17
+* [Pull Request] [Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11331) - 2026-09-21
+* [Review] [Review on: Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11331#pullrequestreview-5263661902) - 2026-09-21
+* [Review] [Review on: Reduce sender recovery duplication and prefetch sort cost](https://github.com/besu-eth/besu/pull/11339#pullrequestreview-5266770417) - 2026-09-21
+* [Pull Request] [use only path for trie node access](https://github.com/besu-eth/besu/pull/11338) - 2026-09-21
+* [Review] [Review on: perf: eliminate O(N²) isClosed overhead in LayeredKeyValueStorage.get()](https://github.com/besu-eth/besu/pull/11071#pullrequestreview-5265983737) - 2026-09-21
+* [Pull Request] [Prevent worldstate heal cascade when TrieLogPruner runs during shutdown](https://github.com/besu-eth/besu/pull/11330) - 2026-09-21
+* [Pull Request] [Fetch block access lists during backward sync](https://github.com/besu-eth/besu/pull/11334) - 2026-09-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

@@ -225,6 +225,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Fix eth_estimateGas internal error related to value transfer tx (#11272)](https://github.com/besu-eth/besu/commit/24e41153c13fad5fd480108cc863a49cf8285982) - 2026-09-15
 * [Review] [Review on: move pathbased common types into bonsai packages](https://github.com/besu-eth/besu/pull/11292#pullrequestreview-5220588600) - 2026-09-16
 * [Review] [Review on: Reject Engine API blocks descending from a bad block instead of backward syncing](https://github.com/besu-eth/besu/pull/11313#pullrequestreview-5246774794) - 2026-09-18
+* [Review] [Review on: Dissolve BesuEvents into the per-feature services](https://github.com/besu-eth/besu/pull/11283#pullrequestreview-5265283529) - 2026-09-21
+* [Pull Request] [Tune layered txpool for upcoming Amsterdam 200M gas limit](https://github.com/besu-eth/besu/pull/11335) - 2026-09-21
+* [Review] [Review on: Tune layered txpool for upcoming Amsterdam 200M gas limit](https://github.com/besu-eth/besu/pull/11335#pullrequestreview-5265484820) - 2026-09-21
+* [Commit] [Tune layered txpool for upcoming Amsterdam 200M gas limit (#11335)](https://github.com/besu-eth/besu/commit/0efbda26fef38705db0ee589b0201c540b751a06) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

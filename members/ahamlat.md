@@ -60,6 +60,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Exit on OutOfMemoryError by default](https://github.com/besu-eth/besu/pull/11300#pullrequestreview-5219005066) - 2026-09-16
 * [Review] [Review on: Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11318#pullrequestreview-5238041288) - 2026-09-17
 * [Pull Request] [check log level before slow trace/debug logs](https://github.com/besu-eth/besu/pull/11326) - 2026-09-18
+* [Pull Request] [Reduce sender recovery duplication and prefetch sort cost](https://github.com/besu-eth/besu/pull/11339) - 2026-09-21
+* [Review] [Review on: Revert TreeSet/TreeBasedTable usage in warm addresses and transient storage](https://github.com/besu-eth/besu/pull/11319#pullrequestreview-5265401986) - 2026-09-21
 ## Q2 2026
 
 

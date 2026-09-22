@@ -576,6 +576,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix: bound the lookups a trie-node or receipts request performs (#13596)](https://github.com/NethermindEth/nethermind/commit/87d22b3a7f9b080fbf7d234ab23b2b8a7518b3cb) - 2026-09-21
 * [Commit] [perf: warm withdrawal recipients with the address warmer (#13599)](https://github.com/NethermindEth/nethermind/commit/9b4716d93f38e94ff3fd60ccac7ca87915c09571) - 2026-09-20
 * [Commit] [fix(eth): cap outgoing receipts under the devp2p message size limit (#13595)](https://github.com/NethermindEth/nethermind/commit/35d1ddcecb313c71da6a05ba2d96dc51398370fd) - 2026-09-20
+* [Review] [Review on: chore(agents): trim AGENTS.md and move benchmark guidance to skills](https://github.com/NethermindEth/nethermind/pull/13646#pullrequestreview-5272666511) - 2026-09-21
+* [Review] [Review on: Warm the system-contract slots between blocks for the predicted block](https://github.com/NethermindEth/nethermind/pull/13608#pullrequestreview-5263983533) - 2026-09-21
+* [Commit] [Warm the system-contract slots between blocks for the predicted block (#13608)](https://github.com/NethermindEth/nethermind/commit/964bf134950b1b5fbc4349579f43f882aa100e8a) - 2026-09-21
+* [Commit] [perf: process blocks while sender recovery finishes (#13597)](https://github.com/NethermindEth/nethermind/commit/ab30325a698ba4f006c9c3dc47b8c346383a9136) - 2026-09-21
+* [Commit] [fix: bound the discovery event loop shutdown (#13617)](https://github.com/NethermindEth/nethermind/commit/2bf95a3fb9ab7eaa5e36d94cf02d6cd8bc2c3b1d) - 2026-09-21
+* [Commit] [ci: align MTP test extension versions and dump a test host that dies mid-run (#13613)](https://github.com/NethermindEth/nethermind/commit/d4e31bea8412e82257c2c2037fa4c7d820ae1ce3) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

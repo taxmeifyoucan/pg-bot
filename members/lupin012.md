@@ -254,6 +254,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [execution/vm, rpc: drop the unpriced base fee at the call sites](https://github.com/erigontech/erigon/pull/24166) - 2026-09-20
 * [Pull Request] [rpc, execution/engineapi: serve only the declared interface on the engine namespace](https://github.com/erigontech/erigon/pull/24163) - 2026-09-20
 * [Pull Request] [rpc/jsonrpc: validate eth_callMany and debug_traceCallMany state contexts](https://github.com/erigontech/erigon/pull/24167) - 2026-09-20
+* [Review] [Review on: rpc, execution/engineapi: serve only the declared interface on the engine namespace](https://github.com/erigontech/erigon/pull/24163#pullrequestreview-5271089006) - 2026-09-21
+* [Commit] [rpc: recover the receipt sender from the chain config (#24103)](https://github.com/erigontech/erigon/commit/3b7e49671438d4d03f6c1d82ede1f339999eda69) - 2026-09-21
+* [Commit] [rpc/jsonrpc: validate eth_callMany and debug_traceCallMany state contexts (#24167)](https://github.com/erigontech/erigon/commit/394038b303c3ccd4073f71fb521f881e6fb2b408) - 2026-09-21
+* [Commit] [node, rpc: report the sync session starting block in eth_syncing (#24077)](https://github.com/erigontech/erigon/commit/9814775e13f0c74819c93adbcfb39f758f20087a) - 2026-09-21
+* [Commit] [execution/vm, rpc: drop the unpriced base fee at the call sites (#24166)](https://github.com/erigontech/erigon/commit/d839a529766602f8924a8750ec6fc6a3bf127600) - 2026-09-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

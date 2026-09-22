@@ -176,6 +176,18 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): strengthen and consolidate TSTORE benchmark](https://github.com/ethereum/execution-specs/pull/3441#pullrequestreview-5245703997) - 2026-09-18
 * [Review] [Review on: refactor(tests): fold CALL execution_cost + stale TODO cleanups](https://github.com/ethereum/execution-specs/pull/3606#pullrequestreview-5244454176) - 2026-09-18
 * [Review] [Review on: chore(tests): complete EIP-7778 checklist and add access-list arm to the calldata floor test](https://github.com/ethereum/execution-specs/pull/3616#pullrequestreview-5244429340) - 2026-09-18
+* [Pull Request] [refactor(test-fixtures): stream fixture writes and merges through part files](https://github.com/ethereum/execution-specs/pull/3628) - 2026-09-21
+* [Review] [Review on: feat: add `--formats` flag to explicitly specify output fixture formats](https://github.com/ethereum/execution-specs/pull/3623#pullrequestreview-5263075056) - 2026-09-21
+* [Review] [Review on: feat(spec-specs,forks,tests): cap total transaction gas at 2^32 - 1 (EIP-8037)](https://github.com/ethereum/execution-specs/pull/3582#pullrequestreview-5266782555) - 2026-09-21
+* [Review] [Review on: refactor(tests): fold CALL execution_cost + stale TODO cleanups](https://github.com/ethereum/execution-specs/pull/3606#pullrequestreview-5264351005) - 2026-09-21
+* [Pull Request] [feat(test-benchmark): add the minimal `TSTORE` loop observed in devnet-8](https://github.com/ethereum/execution-specs/pull/3626) - 2026-09-21
+* [Review] [Review on: feat(tests): port the repeated ECRECOVER call fillers](https://github.com/ethereum/execution-specs/pull/3590#pullrequestreview-5264397781) - 2026-09-21
+* [Review] [Review on: fix(test-benchmark): clamp nested frame depth to budget and assert receipt status](https://github.com/ethereum/execution-specs/pull/3585#pullrequestreview-5264283984) - 2026-09-21
+* [Pull Request] [refactor(test-vm, tests): add `create_op` helper and drop `CREATE`/`CREATE2` branches](https://github.com/ethereum/execution-specs/pull/3625) - 2026-09-21
+* [Review] [Review on: feat(tests): complete EIP-7981 coverage and testing checklist](https://github.com/ethereum/execution-specs/pull/3537#pullrequestreview-5263495482) - 2026-09-21
+* [Review] [Review on: refactor(spec-specs): keep JUMPDEST analysis unchanged under EIP-8024](https://github.com/ethereum/execution-specs/pull/3618#pullrequestreview-5263163663) - 2026-09-21
+* [Review] [Review on: feat(tests): cover same-block system contract deployment](https://github.com/ethereum/execution-specs/pull/3615#pullrequestreview-5263154806) - 2026-09-21
+* [Review] [Review on: chore(tests): record measured EIP-8282 coverage and rename the inhibitor sentinel](https://github.com/ethereum/execution-specs/pull/3619#pullrequestreview-5263098336) - 2026-09-21
 ## Q2 2026
 
 

@@ -209,6 +209,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fix duplicated log messages with CONSOLE and FILE log destinations](https://github.com/Consensys-Incorporated/teku/pull/11292#pullrequestreview-5232655832) - 2026-09-17
 * [Pull Request] [Schedule Sepolia Glamsterdam (Gloas) activation](https://github.com/Consensys-Incorporated/teku/pull/11308) - 2026-09-21
 * [Issue] [sepolia network fork scheduling](https://github.com/Consensys-Incorporated/teku/issues/11306) - 2026-09-21
+* [Review] [Review on: Fix stale links and some other cleanups](https://github.com/Consensys-Incorporated/teku/pull/11317#pullrequestreview-5273056979) - 2026-09-22
+* [Review] [Review on: Enhance security reporting guidelines in SECURITY.md](https://github.com/Consensys-Incorporated/teku/pull/11316#pullrequestreview-5272822027) - 2026-09-21
+* [Review] [Review on: ref test tar gz load optimization](https://github.com/Consensys-Incorporated/teku/pull/11287#pullrequestreview-5272713188) - 2026-09-21
+* [Review] [Review on: Implement GET `/eth/v1/beacon/light_client/optimistic_update`](https://github.com/Consensys-Incorporated/teku/pull/11286#pullrequestreview-5272495589) - 2026-09-21
+* [Review] [Review on: Submit builder preferences to each builder](https://github.com/Consensys-Incorporated/teku/pull/11311#pullrequestreview-5272178626) - 2026-09-21
+* [Review] [Review on: Fix gloas transition](https://github.com/Consensys-Incorporated/teku/pull/11315#pullrequestreview-5272073363) - 2026-09-21
+* [Review] [Review on: Bump aircompressor to 3.8 and drop snappy-java](https://github.com/Consensys-Incorporated/teku/pull/11309#pullrequestreview-5262818037) - 2026-09-21
+* [Review] [Review on: Resync spec references and stop gating check-specrefs on file paths](https://github.com/Consensys-Incorporated/teku/pull/11310#pullrequestreview-5262822212) - 2026-09-21
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11258#pullrequestreview-5262852960) - 2026-09-21
+* [Commit] [Schedule Sepolia Glamsterdam (Gloas) activation (#11308)](https://github.com/Consensys-Incorporated/teku/commit/1809e885baf960c5f72b91cc107028eb5d2a4ea2) - 2026-09-21
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

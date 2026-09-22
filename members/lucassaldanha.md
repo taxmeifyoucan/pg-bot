@@ -166,6 +166,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307) - 2026-09-21
 * [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5262576938) - 2026-09-21
 * [Commit] [Add step retry for integration/acceptance test shards (#11293)](https://github.com/Consensys-Incorporated/teku/commit/8ca8f7168f171853d9c0ebdb26ed2f703e453313) - 2026-09-21
+* [Pull Request] [Reject UInt64.MAX_VALUE attestation epochs from the beacon node](https://github.com/Consensys-Incorporated/teku/pull/11318) - 2026-09-22
+* [Pull Request] [Fix stale links and some other cleanups](https://github.com/Consensys-Incorporated/teku/pull/11317) - 2026-09-22
+* [Pull Request] [Enhance security reporting guidelines in SECURITY.md](https://github.com/Consensys-Incorporated/teku/pull/11316) - 2026-09-21
+* [Review] [Review on: Schedule Sepolia Glamsterdam (Gloas) activation](https://github.com/Consensys-Incorporated/teku/pull/11308#pullrequestreview-5264106984) - 2026-09-21
+* [Review] [Review on: Bump aircompressor to 3.8 and drop snappy-java](https://github.com/Consensys-Incorporated/teku/pull/11309#pullrequestreview-5264208349) - 2026-09-21
+* [Pull Request] [Resync spec references and stop gating check-specrefs on file paths](https://github.com/Consensys-Incorporated/teku/pull/11310) - 2026-09-21
+* [Commit] [Fix stale links and some other cleanups (#11317)](https://github.com/Consensys-Incorporated/teku/commit/11594f4e5e21b63225b73e489c940af26d96207d) - 2026-09-22
+* [Commit] [Enhance security reporting guidelines in SECURITY.md (#11316)](https://github.com/Consensys-Incorporated/teku/commit/4f28c7bcb73136e337f3d6ec21927f316366de93) - 2026-09-21
+* [Commit] [Bump aircompressor to 3.8 and drop snappy-java (#11309)](https://github.com/Consensys-Incorporated/teku/commit/9bde2fbb33eb31e91586089ad3c9c0ce7a299776) - 2026-09-21
+* [Commit] [Resync spec references and stop gating check-specrefs on paths (#11310)](https://github.com/Consensys-Incorporated/teku/commit/bd43c9c4cc71a4413e6bfa4e44cc5506b5ebec56) - 2026-09-21
 ## Q2 2026
 
 

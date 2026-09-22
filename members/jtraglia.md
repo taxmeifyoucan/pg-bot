@@ -310,6 +310,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Do not emit ssz-static deposits post-Fulu](https://github.com/ethereum/consensus-specs/pull/5640#pullrequestreview-5200989673) - 2026-09-14
 * [Review] [Review on: Make `VersionedHashes` a progressive list](https://github.com/ethereum/consensus-specs/pull/5643#pullrequestreview-5212754357) - 2026-09-15
 * [Commit] [Add `saturating_sub` helper function (#5620)](https://github.com/ethereum/consensus-specs/commit/a8475719ce77cb269191e327e1f4175c295851ee) - 2026-09-15
+* [Pull Request] [Reject pre-Gloas slots in `get_ptc`](https://github.com/ethereum/consensus-specs/pull/5652) - 2026-09-21
+* [Review] [Review on: Reject pre-Gloas slots in `get_ptc`](https://github.com/ethereum/consensus-specs/pull/5652#pullrequestreview-5270064167) - 2026-09-21
+* [Review] [Review on: Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647#pullrequestreview-5270435934) - 2026-09-21
+* [Pull Request] [Remove complicated/broken BTEC tests](https://github.com/ethereum/consensus-specs/pull/5654) - 2026-09-21
+* [Review] [Review on: Test RANDAO checks for execution payload bids on the head's parent](https://github.com/ethereum/consensus-specs/pull/5645#pullrequestreview-5272206379) - 2026-09-21
+* [Pull Request] [Initialize pre-fork PTC with `UNSET_VALIDATOR_INDEX`](https://github.com/ethereum/consensus-specs/pull/5651) - 2026-09-21
+* [Review] [Review on: Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646#pullrequestreview-5266878867) - 2026-09-21
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5649#pullrequestreview-5262768030) - 2026-09-21
+* [Commit] [Reject pre-Gloas slots in `get_ptc` (#5652)](https://github.com/ethereum/consensus-specs/commit/bb8186c5f72698ac2d9d624c91da72f7d7f36f36) - 2026-09-21
+* [Commit] [Remove complicated/broken BTEC tests (#5654)](https://github.com/ethereum/consensus-specs/commit/7d2a829f2d0307088cd109d6360d8cff51b2c3e9) - 2026-09-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

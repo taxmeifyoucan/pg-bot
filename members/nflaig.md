@@ -653,6 +653,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: add builder url to failed preferences submission errors](https://github.com/ChainSafe/lodestar/pull/10136) - 2026-09-20
 * [Pull Request] [chore: log the value and execution payment of each bid candidate](https://github.com/ChainSafe/lodestar/pull/10135) - 2026-09-20
 * [Commit] [chore: add builder url to failed preferences submission errors (#10136)](https://github.com/ChainSafe/lodestar/commit/1fb3469ab7306c0e77138c803423c72071ace9cb) - 2026-09-21
+* [Pull Request] [fix: harden validator block signing](https://github.com/ChainSafe/lodestar/pull/10142) - 2026-09-21
+* [Review] [Review on: fix: harden validator block signing](https://github.com/ChainSafe/lodestar/pull/10142#pullrequestreview-5271854236) - 2026-09-21
+* [Review] [Review on: feat: search payload at deadline](https://github.com/ChainSafe/lodestar/pull/10134#pullrequestreview-5264879838) - 2026-09-21
+* [Pull Request] [fix: reject pre-Gloas payload attestations on gossip](https://github.com/ChainSafe/lodestar/pull/10141) - 2026-09-21
+* [Pull Request] [test: fail gossip spec tests on unexpected errors](https://github.com/ChainSafe/lodestar/pull/10140) - 2026-09-21
+* [Review] [Review on: chore(deps): bump the actions group with 5 updates](https://github.com/ChainSafe/lodestar/pull/10139#pullrequestreview-5270915640) - 2026-09-21
+* [Pull Request] [refactor: make slot timing fork-aware to prepare for slot duration changes](https://github.com/ChainSafe/lodestar/pull/10138) - 2026-09-21
+* [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5264773392) - 2026-09-21
+* [Commit] [fix: reject pre-Gloas payload attestations on gossip (#10141)](https://github.com/ChainSafe/lodestar/commit/ee7c2aa8ee71d6869ecd2a5556d6b07b2a2440cb) - 2026-09-21
+* [Commit] [test: fail gossip spec tests on unexpected errors (#10140)](https://github.com/ChainSafe/lodestar/commit/cd9f3245c9b6361e633be5f98951544ffd56f6d0) - 2026-09-21
+* [Commit] [chore: update ethspecify mappings (#10126)](https://github.com/ChainSafe/lodestar/commit/a97d1081eb9493778e74d9ff3a1b6b21c98e3185) - 2026-09-21
+* [Commit] [fix: keep idle event streams alive (#10133)](https://github.com/ChainSafe/lodestar/commit/73ea27a093c45bdbdd1c4ab8d3196730a0a460b9) - 2026-09-21
+* [Commit] [chore: log the value and execution payment of each bid candidate (#10135)](https://github.com/ChainSafe/lodestar/commit/a1f8bb3877af82aa0a8b2db8fb506c0f8ac4ec41) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -718,6 +731,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Do not emit ssz-static deposits post-Fulu](https://github.com/ethereum/consensus-specs/pull/5640) - 2026-09-14
 * [Commit] [Do not emit ssz-static deposits post-Fulu (#5640)](https://github.com/ethereum/consensus-specs/commit/05355a5a7d10ddccd802b8ebb9d615f06c1f47ba) - 2026-09-14
 * [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5260221631) - 2026-09-20
+* [Review] [Review on: Reject pre-Gloas slots in `get_ptc`](https://github.com/ethereum/consensus-specs/pull/5652#pullrequestreview-5269874910) - 2026-09-21
+* [Review] [Review on: Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646#pullrequestreview-5265575001) - 2026-09-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -735,11 +750,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/commit/f6b4668ef37612feba85aef151303f4100b79360) - 2026-08-11
 * [Review] [Review on: Update EIP-8282: Sync specification with sys-asm@83f9801](https://github.com/ethereum/EIPs/pull/12120#pullrequestreview-4982920171) - 2026-08-20
 * [Pull Request] [Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347) - 2026-09-16
+* [Review] [Review on: Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347#pullrequestreview-5268765902) - 2026-09-21
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 
 * [Issue] [gRPC VC never receives execution_payload_available, PTC votes always wait for the deadline](https://github.com/OffchainLabs/prysm/issues/17465) - 2026-09-07
 * [Issue] [VC skips the PTC vote entirely when the envelope arrives between PAYLOAD_DUE and PAYLOAD_ATTESTATION_DUE](https://github.com/OffchainLabs/prysm/issues/17464) - 2026-09-07
+* [Pull Request] [Respect finality when pruning beacon blocks](https://github.com/OffchainLabs/prysm/pull/17527) - 2026-09-21
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848#pullrequestreview-4659808095) - 2026-07-09
 

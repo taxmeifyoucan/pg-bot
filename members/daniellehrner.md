@@ -130,6 +130,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Put a format byte in front of every stored contract code](https://github.com/besu-eth/besu/pull/11327) - 2026-09-18
 * [Pull Request] [Mark bitmap entries without PUSH word-wise in jump destination analysis](https://github.com/besu-eth/besu/pull/11322) - 2026-09-18
 * [Pull Request] [Leave accounts a block only read out of the state commit](https://github.com/besu-eth/besu/pull/11324) - 2026-09-18
+* [Review] [Review on: Fix gradlew jmhJar](https://github.com/besu-eth/besu/pull/11341#pullrequestreview-5267963251) - 2026-09-21
+* [Pull Request] [Report backward sync progress against the peer-estimated chain height](https://github.com/besu-eth/besu/pull/11337) - 2026-09-21
+* [Pull Request] [Schedule Amsterdam on Sepolia](https://github.com/besu-eth/besu/pull/11333) - 2026-09-21
+* [Review] [Review on: Tune layered txpool for upcoming Amsterdam 200M gas limit](https://github.com/besu-eth/besu/pull/11335#pullrequestreview-5265294757) - 2026-09-21
+* [Commit] [Reject Engine API blocks descending from a bad block instead of backward syncing (#11313)](https://github.com/besu-eth/besu/commit/92847106855cf240297ebab9a675c53db77129d8) - 2026-09-21
+* [Commit] [Return an internal error when forkchoiceUpdated cannot set a valid head (#11317)](https://github.com/besu-eth/besu/commit/6241304be87bb06dcd5d6305b92f6ad26dbde843) - 2026-09-21
+* [Commit] [Schedule Amsterdam on Sepolia (#11333)](https://github.com/besu-eth/besu/commit/c227bcc64c5c74a970b2e40545084dfd7ee84d65) - 2026-09-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

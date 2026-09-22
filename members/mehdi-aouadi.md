@@ -138,9 +138,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Add optional max length to progressive SSZ list schemas](https://github.com/Consensys-Incorporated/teku/pull/11299#pullrequestreview-5248937468) - 2026-09-18
 * [Commit] [use proposal epoch fork for proposer preference signatures (#11302)](https://github.com/Consensys-Incorporated/teku/commit/cefdee4d783bc4645f9dc7d31d2e860566bab082) - 2026-09-18
 * [Commit] [enable gossip reference tests (#11282)](https://github.com/Consensys-Incorporated/teku/commit/ed9584e4a13991bd1546ef8170afa9de03384bb8) - 2026-09-18
+* [Issue] [enable bls to execution change ref test](https://github.com/Consensys-Incorporated/teku/issues/11312) - 2026-09-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646) - 2026-09-17
 * [Pull Request] [Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647) - 2026-09-18
+* [Review] [Review on: Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647#pullrequestreview-5268002128) - 2026-09-21
+* [Commit] [Fix fork epochs in proposer preferences tests (#5646)](https://github.com/ethereum/consensus-specs/commit/91312a90e17424a4d59bca949f1589e59b3eb5f0) - 2026-09-21
 ## Q2 2026
 
 

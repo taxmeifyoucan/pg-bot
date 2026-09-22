@@ -676,6 +676,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: harden local payload preparation and Gloas fallbacks (#23436)](https://github.com/erigontech/erigon/commit/4ebaaa26f6a4ea158eb2372bac25d48d244f7dc1) - 2026-09-18
 * [Commit] [execution/types: reject missing BAL fields during RLP decoding (#23993)](https://github.com/erigontech/erigon/commit/d02515c4d68878f36fad27e48d8fea3d72e8bbe8) - 2026-09-18
 * [Commit] [db/version: bump to 3.8.0-dev (#24121)](https://github.com/erigontech/erigon/commit/daa13984763d2cbddcae24f84e769d1c0f936cd3) - 2026-09-20
+* [Pull Request] [cl: remove test workarounds for the ttl cache's old goroutine](https://github.com/erigontech/erigon/pull/24204) - 2026-09-21
+* [Review] [Review on: rpc: RPCReceipt.MarshalFastJSONTo](https://github.com/erigontech/erigon/pull/24169#pullrequestreview-5264420513) - 2026-09-21
+* [Pull Request] [[r3.7] cl: align blob pruning with configured serve range](https://github.com/erigontech/erigon/pull/24191) - 2026-09-21
+* [Review] [Review on: [r3.7] cl/beacon/synced_data: swap head state under lock instead of copying under it](https://github.com/erigontech/erigon/pull/24199#pullrequestreview-5267011588) - 2026-09-21
+* [Pull Request] [cl/beacon/synced_data: make root-lock regression test deterministic](https://github.com/erigontech/erigon/pull/24202) - 2026-09-21
+* [Review] [Review on: rpc: websocket ping is a timer, not a goroutine per connection](https://github.com/erigontech/erigon/pull/24184#pullrequestreview-5264943194) - 2026-09-21
+* [Review] [Review on: execution/state: storage keys stop allocating in the cached reader, Writer and WriteSet.Apply](https://github.com/erigontech/erigon/pull/24159#pullrequestreview-5264791221) - 2026-09-21
+* [Review] [Review on: txnprovider/txpool: announce a txn once, when it becomes pending](https://github.com/erigontech/erigon/pull/24185#pullrequestreview-5264811913) - 2026-09-21
+* [Review] [Review on: execution: test crash recovery during catch-up reorgs](https://github.com/erigontech/erigon/pull/24032#pullrequestreview-5264320481) - 2026-09-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06
