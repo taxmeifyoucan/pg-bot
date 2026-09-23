@@ -62,6 +62,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [check log level before slow trace/debug logs](https://github.com/besu-eth/besu/pull/11326) - 2026-09-18
 * [Pull Request] [Reduce sender recovery duplication and prefetch sort cost](https://github.com/besu-eth/besu/pull/11339) - 2026-09-21
 * [Review] [Review on: Revert TreeSet/TreeBasedTable usage in warm addresses and transient storage](https://github.com/besu-eth/besu/pull/11319#pullrequestreview-5265401986) - 2026-09-21
+* [Review] [Review on: Do not use UInt256 in TLoad/TStore](https://github.com/besu-eth/besu/pull/11348#pullrequestreview-5282130055) - 2026-09-22
+* [Review] [Review on: Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11331#pullrequestreview-5275765337) - 2026-09-22
+* [Commit] [check log level before slow trace/debug logs (#11326)](https://github.com/besu-eth/besu/commit/caab45ca02a3edf38d85a1d11842c8cc77e0d2b1) - 2026-09-22
 ## Q2 2026
 
 

@@ -101,6 +101,12 @@ Team: Grandine
 * [Review] [Review on: Make generated Gloas genesis usable](https://github.com/grandinetech/grandine/pull/930#pullrequestreview-5267398323) - 2026-09-21
 * [Review] [Review on: Only serve canonical payload envelopes by range](https://github.com/grandinetech/grandine/pull/924#pullrequestreview-5265833710) - 2026-09-21
 * [Review] [Review on: zkvm: cache downloads only after decoding succeeds](https://github.com/grandinetech/grandine/pull/929#pullrequestreview-5264977630) - 2026-09-21
+* [Review] [Review on: Cap execution payload envelope delayed queue](https://github.com/grandinetech/grandine/pull/931#pullrequestreview-5277661503) - 2026-09-22
+* [Review] [Review on: Update builder deposit cache so it handles some edge cases](https://github.com/grandinetech/grandine/pull/913#pullrequestreview-5278969679) - 2026-09-22
+* [Commit] [Run fork choice compliance tests for the all phases](https://github.com/grandinetech/grandine/commit/c626c6bea668a3d9649ef425bcbd71a1b2555fc4) - 2026-09-22
+* [Commit] [Correctness fixes for proposer boost application](https://github.com/grandinetech/grandine/commit/d4986345f8b08ac045358fa1b4ad1aefba4b25ad) - 2026-09-22
+* [Commit] [Fix for negative balances issue and add another check to filter out non-head segments](https://github.com/grandinetech/grandine/commit/026715ebc76320801081c7a0c1bd8cede71de608) - 2026-09-22
+* [Commit] [Don't delay attestations from test blocks. Tests are written in mind that these attestations are dropped](https://github.com/grandinetech/grandine/commit/0d7aba5cd4c375c15a8336f475834810472aa1ed) - 2026-09-22
 ## Q2 2026
 
 

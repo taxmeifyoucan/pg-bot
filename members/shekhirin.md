@@ -75,6 +75,11 @@ Team: Reth
 * [Pull Request] [test: run native reth node under hermit](https://github.com/paradigmxyz/reth/pull/27058) - 2026-09-07
 * [Review] [Review on: fix(trie): revert changeset avoidance for read-only overlays](https://github.com/paradigmxyz/reth/pull/27114#pullrequestreview-5153618467) - 2026-09-09
 * [Review] [Review on: perf(rpc): avoid redundant copies of IPC responses](https://github.com/paradigmxyz/reth/pull/27209#pullrequestreview-5196493270) - 2026-09-14
+* [Review] [Review on: fix(rpc): select trace_get results by tree path](https://github.com/paradigmxyz/reth/pull/27366#pullrequestreview-5278850176) - 2026-09-22
+* [Review] [Review on: fix(tasks): avoid starving the OpenTelemetry span exporter](https://github.com/paradigmxyz/reth/pull/27370#pullrequestreview-5279808927) - 2026-09-22
+* [Review] [Review on: fix(rpc): return null for missing transaction replays](https://github.com/paradigmxyz/reth/pull/27364#pullrequestreview-5278832337) - 2026-09-22
+* [Review] [Review on: fix(rpc): classify pruned changeset errors as unavailable history](https://github.com/paradigmxyz/reth/pull/27367#pullrequestreview-5278836335) - 2026-09-22
+* [Review] [Review on: fix(rpc): include transaction hash in individual replays](https://github.com/paradigmxyz/reth/pull/27365#pullrequestreview-5278830667) - 2026-09-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

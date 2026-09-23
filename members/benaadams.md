@@ -451,6 +451,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce txpool and networking allocations (#13592)](https://github.com/NethermindEth/nethermind/commit/95ede6d1d6a90fafa634bfc8814525d21f919c93) - 2026-09-21
 * [Commit] [Fix transaction index replay after main-only processor split (#13629)](https://github.com/NethermindEth/nethermind/commit/c30d1790877bec15ed1513957e6294726aa3fca1) - 2026-09-21
 * [Commit] [Fix flaky test caused by shared transaction pool interference (#13616)](https://github.com/NethermindEth/nethermind/commit/0a0acbd5f837df7d3ec2e84eaf109ff8d6ec1e13) - 2026-09-21
+* [Pull Request] [Fix a race in the late-sender wave prewarm test](https://github.com/NethermindEth/nethermind/pull/13679) - 2026-09-22
+* [Review] [Review on: Fix a race in the late-sender wave prewarm test](https://github.com/NethermindEth/nethermind/pull/13679#pullrequestreview-5279044741) - 2026-09-22
+* [Review] [Review on: chore: move nethtest to the scripts dir](https://github.com/NethermindEth/nethermind/pull/13692#pullrequestreview-5281714586) - 2026-09-22
+* [Commit] [Reduce trie and storage-key hashing overhead (#13552)](https://github.com/NethermindEth/nethermind/commit/3ab95801aea8b0652942d01d2876b1bb3b255d0b) - 2026-09-22
+* [Commit] [Fix a race in the late-sender wave prewarm test (#13679)](https://github.com/NethermindEth/nethermind/commit/a41c31da2e21645cd80b899316026560a719ae2c) - 2026-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

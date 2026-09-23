@@ -106,6 +106,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Gloas late head payloads](https://github.com/OffchainLabs/prysm/pull/17497#pullrequestreview-5238615870) - 2026-09-17
 * [Review] [Review on: hdiff optimization: Sparse ApplyValidatorsDiff](https://github.com/OffchainLabs/prysm/pull/17507#pullrequestreview-5239165499) - 2026-09-17
 * [Commit] [Add last Payload at forkchoice setup (#17508)](https://github.com/OffchainLabs/prysm/commit/9d8c04a96fd31b073a56f86684bdb06966549c35) - 2026-09-18
+* [Review] [Review on: Update hashtree to v0.2.6](https://github.com/OffchainLabs/prysm/pull/17542#pullrequestreview-5282493067) - 2026-09-22
+* [Review] [Review on: intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536#pullrequestreview-5281187598) - 2026-09-22
+* [Pull Request] [Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540) - 2026-09-22
+* [Commit] [Cap self-built payload envelopes at one per valid proposer per slot (#17433)](https://github.com/OffchainLabs/prysm/commit/e8fef12f79ba39215b39f43b60dfa96fe5aecf03) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -139,6 +143,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73) - 2026-09-14
 * [Review] [Review on: Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71#pullrequestreview-5201036863) - 2026-09-14
 * [Commit] [RISC-V: don't use s11 as Go bindings break (#73)](https://github.com/OffchainLabs/hashtree/commit/92357f9ecdf5efdd569d9830c6ab3b17851201de) - 2026-09-15
+* [Pull Request] [Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75) - 2026-09-22
+* [Review] [Review on: Update syso files](https://github.com/OffchainLabs/hashtree/pull/74#pullrequestreview-5281644434) - 2026-09-22
+* [Commit] [Update cargo, nim and makefile version to 0.2.6 (#75)](https://github.com/OffchainLabs/hashtree/commit/76c54d6dcf3596c03788ea5bc0ef030e9f1b43f4) - 2026-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873#pullrequestreview-4811214262) - 2026-07-29
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5118433697) - 2026-09-04

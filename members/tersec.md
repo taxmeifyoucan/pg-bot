@@ -189,6 +189,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [attempt to fix Git LFS issues](https://github.com/status-im/nimbus-eth2/pull/9085) - 2026-09-21
 * [Review] [Review on: add execution payload envelope REST calls](https://github.com/status-im/nimbus-eth2/pull/9075#pullrequestreview-5265843965) - 2026-09-21
 * [Pull Request] [refactor column quarantine; resolve some debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/9076) - 2026-09-21
+* [Review] [Review on: complete produceBlockV4 roundtrip](https://github.com/status-im/nimbus-eth2/pull/9084#pullrequestreview-5276304308) - 2026-09-22
+* [Pull Request] [schedule Sepolia Glamsterdam activation](https://github.com/status-im/nimbus-eth2/pull/9100) - 2026-09-23
+* [Review] [Review on: convert partial column quarantine to accept ref](https://github.com/status-im/nimbus-eth2/pull/9081#pullrequestreview-5276236494) - 2026-09-22
+* [Pull Request] [update to nim-libp2p 2.3.4](https://github.com/status-im/nimbus-eth2/pull/9093) - 2026-09-22
+* [Pull Request] [use v1.7.0-beta.1 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9087) - 2026-09-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

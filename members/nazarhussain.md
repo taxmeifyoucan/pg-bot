@@ -78,6 +78,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix(stf): floor the sync-aggregate proposer penalty and guard phase0 lookups (#705)](https://github.com/ChainSafe/lodestar-z/commit/407c60d39f7146d3cfa352736b2d10e7840693b1) - 2026-09-17
 * [Review] [Review on: perf(epoch-cache): grow effective balance increments in place with 1 owner](https://github.com/ChainSafe/lodestar-z/pull/721#pullrequestreview-5265637887) - 2026-09-21
 * [Review] [Review on: docs: call a source file a file, not a module](https://github.com/ChainSafe/lodestar-z/pull/719#pullrequestreview-5265385644) - 2026-09-21
+* [Review] [Review on: docs: call a source file a file, not a module](https://github.com/ChainSafe/lodestar-z/pull/719#pullrequestreview-5276283467) - 2026-09-22
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -140,6 +141,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: update ethspecify mappings](https://github.com/ChainSafe/lodestar/pull/10126#pullrequestreview-5265686651) - 2026-09-21
 * [Review] [Review on: fix(fork-choice): recompute head in updateTime when queued attestations are processed](https://github.com/ChainSafe/lodestar/pull/10075#pullrequestreview-5265240721) - 2026-09-21
 * [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5265221776) - 2026-09-21
+* [Review] [Review on: refactor: change onClockSlot to startPayloadPollAtSlot()](https://github.com/ChainSafe/lodestar/pull/10144#pullrequestreview-5276398045) - 2026-09-22
+* [Review] [Review on: fix: do not remove pending block on failed download](https://github.com/ChainSafe/lodestar/pull/10137#pullrequestreview-5276503480) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

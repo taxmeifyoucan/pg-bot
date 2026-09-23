@@ -70,6 +70,14 @@ Team: Reth
 * [Review] [Review on: chore: remove mdbook leftovers](https://github.com/paradigmxyz/reth/pull/27117#pullrequestreview-5154257646) - 2026-09-09
 * [Pull Request] [perf(bal): share received code hashes across conversion and trie streaming](https://github.com/paradigmxyz/reth/pull/27260) - 2026-09-15
 * [Review] [Review on: fix(engine): set transaction index for rebuilt BAL](https://github.com/paradigmxyz/reth/pull/27296#pullrequestreview-5238467208) - 2026-09-17
+* [Review] [Review on: fix(ci): reuse shared deny and refresh runner pins](https://github.com/paradigmxyz/reth/pull/27382#pullrequestreview-5283923823) - 2026-09-22
+* [Pull Request] [docs: streamline agent guidance](https://github.com/paradigmxyz/reth/pull/27381) - 2026-09-22
+* [Review] [Review on: fix(rpc): select trace_get results by tree path](https://github.com/paradigmxyz/reth/pull/27366#pullrequestreview-5278961818) - 2026-09-22
+* [Review] [Review on: fix(tasks): avoid starving the OpenTelemetry span exporter](https://github.com/paradigmxyz/reth/pull/27370#pullrequestreview-5279814010) - 2026-09-22
+* [Review] [Review on: fix(rpc): return null for missing transaction replays](https://github.com/paradigmxyz/reth/pull/27364#pullrequestreview-5279280758) - 2026-09-22
+* [Review] [Review on: fix(rpc): classify pruned changeset errors as unavailable history](https://github.com/paradigmxyz/reth/pull/27367#pullrequestreview-5278955417) - 2026-09-22
+* [Review] [Review on: fix(rpc): include transaction hash in individual replays](https://github.com/paradigmxyz/reth/pull/27365#pullrequestreview-5278964553) - 2026-09-22
+* [Commit] [docs: streamline agent guidance (#27381)](https://github.com/paradigmxyz/reth/commit/7719d7df22ec3eef46b2da0347bbfa49be4cd1fb) - 2026-09-22
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

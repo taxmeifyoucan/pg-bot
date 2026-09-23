@@ -631,6 +631,18 @@ Team: Erigon
 * [Pull Request] [[r3.7] execution/commitment: release demoted contract trunks and bound the pin hint](https://github.com/erigontech/erigon/pull/24177) - 2026-09-21
 * [Review] [Review on: rpc: transactionReceipts sends one notification per block](https://github.com/erigontech/erigon/pull/24179#pullrequestreview-5263321471) - 2026-09-21
 * [Commit] [execution/commitment: shard deferred branch writes across workers (#23979)](https://github.com/erigontech/erigon/commit/9abf44170a6d3fa71d5368ad2cb9555945d3fd7d) - 2026-09-21
+* [Review] [Review on: rpc/jsonrpc: the witness cache holds results, not their JSON](https://github.com/erigontech/erigon/pull/24235#pullrequestreview-5278651903) - 2026-09-22
+* [Pull Request] [execution/commitment: rebuild a pin trunk that has drained](https://github.com/erigontech/erigon/pull/24215) - 2026-09-22
+* [Review] [Review on: execution/engineapi: payload bodies serve stored tx bytes and stream their JSON](https://github.com/erigontech/erigon/pull/24220#pullrequestreview-5279791140) - 2026-09-22
+* [Review] [Review on: rpc: witness, getPayload and feeHistory stream their fields](https://github.com/erigontech/erigon/pull/24234#pullrequestreview-5279287649) - 2026-09-22
+* [Review] [Review on: rpc: RPCBlock.Calls and TransactionCount are typed](https://github.com/erigontech/erigon/pull/24230#pullrequestreview-5278650310) - 2026-09-22
+* [Review] [Review on: rpc: pass ctx and stream to reflect.Call as interface-typed values](https://github.com/erigontech/erigon/pull/24226#pullrequestreview-5280015431) - 2026-09-22
+* [Review] [Review on: rpc: a plain ASCII method or version string skips json.Unmarshal](https://github.com/erigontech/erigon/pull/24233#pullrequestreview-5278651400) - 2026-09-22
+* [Review] [Review on: rpc/jsonstream: Field, Int and Uint replace WriteObjectField and the ten integer writers](https://github.com/erigontech/erigon/pull/24212#pullrequestreview-5278650907) - 2026-09-22
+* [Review] [Review on: db/rawdb: a header read by its hash keeps that hash](https://github.com/erigontech/erigon/pull/24222#pullrequestreview-5278652218) - 2026-09-22
+* [Review] [Review on: db/state: a read tx fills its files view field by field](https://github.com/erigontech/erigon/pull/24228#pullrequestreview-5279287174) - 2026-09-22
+* [Review] [Review on: db: read only BaseTxnID and TxCount where a body is decoded for them](https://github.com/erigontech/erigon/pull/24227#pullrequestreview-5279286651) - 2026-09-22
+* [Issue] [rpc: an eth_sendRawTransactionSync batch serializes the receipt waits, not just the submissions](https://github.com/erigontech/erigon/issues/24242) - 2026-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

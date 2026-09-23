@@ -551,6 +551,44 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Issue] [Let an AIR declare only bus interactions](https://github.com/Plonky3/Plonky3/issues/2284) - 2026-09-21
 * [Commit] [feat(sumcheck): add the basic jagged reduction (#2225)](https://github.com/Plonky3/Plonky3/commit/f676a57c4715efe7754e48001afc2c4670395ad8) - 2026-09-21
 * [Commit] [perf(maybe-rayon): size parallel tasks from a cost model (#2039)](https://github.com/Plonky3/Plonky3/commit/e472dab25d188ffbd097e2f373b6bc648d38b95f) - 2026-09-21
+* [Pull Request] [perf(multi-stark): share corner folds across the prefixes of a sliced round](https://github.com/Plonky3/Plonky3/pull/2306) - 2026-09-22
+* [Pull Request] [perf(multilinear-util,bus,multi-stark,word-backend)!: borrowed points and one packed equality-table kernel](https://github.com/Plonky3/Plonky3/pull/2305) - 2026-09-22
+* [Pull Request] [feat(word-backend,security)!: prove full-width unsigned multiplication through an exponent lift](https://github.com/Plonky3/Plonky3/pull/2304) - 2026-09-22
+* [Pull Request] [feat(sumcheck,binary-pcs,security)!: batch bit ring-switch claims at several points into one sumcheck](https://github.com/Plonky3/Plonky3/pull/2303) - 2026-09-22
+* [Pull Request] [feat(multi-stark)!: prove binary-bus shares inside the zerocheck sumcheck](https://github.com/Plonky3/Plonky3/pull/2302) - 2026-09-22
+* [Pull Request] [feat(multi-stark): segment claims, cost reports, and a tiny chained machine](https://github.com/Plonky3/Plonky3/pull/2301) - 2026-09-22
+* [Review] [Review on: feat(examples): expose Boolean WHIR PCS for binary hash proofs](https://github.com/Plonky3/Plonky3/pull/2299#pullrequestreview-5281486233) - 2026-09-22
+* [Review] [Review on: refactor!: give sumcheck, STIR, WHIR and binary PCS planning, transcript steps and configuration a single owner](https://github.com/Plonky3/Plonky3/pull/2297#pullrequestreview-5281380403) - 2026-09-22
+* [Pull Request] [feat(bus): enforce mutable read-write memory with a sorted access trace](https://github.com/Plonky3/Plonky3/pull/2295) - 2026-09-22
+* [Review] [Review on: feat(bus): enforce mutable read-write memory with a sorted access trace](https://github.com/Plonky3/Plonky3/pull/2295#pullrequestreview-5278876705) - 2026-09-22
+* [Pull Request] [feat(sumcheck,binary-pcs,lookup,multilinear-util)!: enforce caller soundness obligations instead of documenting them](https://github.com/Plonky3/Plonky3/pull/2293) - 2026-09-22
+* [Review] [Review on: feat(sumcheck,binary-pcs,lookup,multilinear-util)!: enforce caller soundness obligations instead of documenting them](https://github.com/Plonky3/Plonky3/pull/2293#pullrequestreview-5278818455) - 2026-09-22
+* [Pull Request] [refactor(security,sumcheck,multi-stark): keep one implementation of the candidate-set charge](https://github.com/Plonky3/Plonky3/pull/2291) - 2026-09-22
+* [Review] [Review on: refactor(security,sumcheck,multi-stark): keep one implementation of the candidate-set charge](https://github.com/Plonky3/Plonky3/pull/2291#pullrequestreview-5278722624) - 2026-09-22
+* [Pull Request] [feat(word,word-backend): prove repeated gadgets as instances of one compiled component](https://github.com/Plonky3/Plonky3/pull/2292) - 2026-09-22
+* [Review] [Review on: feat(word,word-backend): prove repeated gadgets as instances of one compiled component](https://github.com/Plonky3/Plonky3/pull/2292#pullrequestreview-5278792945) - 2026-09-22
+* [Review] [Review on: feat(sumcheck): authenticate jagged claims and ingest live traces](https://github.com/Plonky3/Plonky3/pull/2285#pullrequestreview-5278801444) - 2026-09-22
+* [Pull Request] [fix(multi-stark): encode the end a boundary flush names](https://github.com/Plonky3/Plonky3/pull/2298) - 2026-09-22
+* [Pull Request] [feat(bus)!: type the channel name and make boundary flushes first class](https://github.com/Plonky3/Plonky3/pull/2294) - 2026-09-22
+* [Review] [Review on: feat(bus)!: type the channel name and make boundary flushes first class](https://github.com/Plonky3/Plonky3/pull/2294#pullrequestreview-5278687149) - 2026-09-22
+* [Review] [Review on: perf: defer eligible AIR residual materialization by one round](https://github.com/Plonky3/Plonky3/pull/2290#pullrequestreview-5276960190) - 2026-09-22
+* [Review] [Review on: perf(binary): reduce early-round work and representation passes](https://github.com/Plonky3/Plonky3/pull/2286#pullrequestreview-5275865923) - 2026-09-22
+* [Review] [Review on: perf(maybe-rayon): close the review comments on the cost model, and apply it to three more loops](https://github.com/Plonky3/Plonky3/pull/2283#pullrequestreview-5278778172) - 2026-09-22
+* [Review] [Review on: perf(binary)!: leave Keccak-f booleanity to the Boolean commitment in `prove_hash_binary`](https://github.com/Plonky3/Plonky3/pull/2287#pullrequestreview-5275724010) - 2026-09-22
+* [Issue] [A WHIR schedule derivation differs between Linux and macOS](https://github.com/Plonky3/Plonky3/issues/2289) - 2026-09-22
+* [Issue] [Keep one implementation of the candidate-set charge](https://github.com/Plonky3/Plonky3/issues/2288) - 2026-09-22
+* [Commit] [feat(bus): enforce mutable read-write memory with a sorted access trace (#2295)](https://github.com/Plonky3/Plonky3/commit/4dbeecd24bbed690c00c32413336699c221a25bc) - 2026-09-22
+* [Commit] [feat(sumcheck,binary-pcs,lookup,multilinear-util)!: enforce caller soundness obligations instead of documenting them (#2293)](https://github.com/Plonky3/Plonky3/commit/669fcae5a200e1878226ac9b8032df140e8bba39) - 2026-09-22
+* [Commit] [feat(word,word-backend): prove repeated gadgets as instances of one compiled component (#2292)](https://github.com/Plonky3/Plonky3/commit/cb691115eec1d6347f163811366443232bc0a56d) - 2026-09-22
+* [Commit] [fix(multi-stark): encode the end a boundary flush names (#2298)](https://github.com/Plonky3/Plonky3/commit/65f9152871d5f7bbf624a1b4f44fd0d66bc20d05) - 2026-09-22
+* [Commit] [feat(bus)!: type the channel name and make boundary flushes first class (#2294)](https://github.com/Plonky3/Plonky3/commit/fb60dcf1f2237564a60695095d16681acb31c5a2) - 2026-09-22
+* [Commit] [feat(multi-stark): publish the machine-facing backend contract and proof envelope (#2272)](https://github.com/Plonky3/Plonky3/commit/0765d328e1eeb234f7b392015c2f522ee813ab91) - 2026-09-22
+* [Commit] [perf(maybe-rayon): close the review comments on the cost model, and apply it to three more loops (#2283)](https://github.com/Plonky3/Plonky3/commit/2d5016bac24889ef2704dbf801f8553159083ddb) - 2026-09-22
+* [Commit] [feat(binary-pcs): open Boolean and small-field traces through additive-domain WHIR (#2273)](https://github.com/Plonky3/Plonky3/commit/c4f62a2b7689b7d0a54ba4d54aa7828752cfdc23) - 2026-09-22
+* [Commit] [feat!(multi-stark): authenticate binary bus claims (#2244)](https://github.com/Plonky3/Plonky3/commit/f4c66882b52657d629dbb7681612e0647ed13427) - 2026-09-22
+* [Commit] [feat(word): prove the zero and bitwise relations through the Boolean PCS (#2275)](https://github.com/Plonky3/Plonky3/commit/db04614b68b5aa10eb5d56bf768ce1307c6b5311) - 2026-09-22
+* [Commit] [feat(bus): add offline read-only memory checking (#2224)](https://github.com/Plonky3/Plonky3/commit/5a199b0dbf606321142daba379d64f9b5fedd5b5) - 2026-09-22
+* [Commit] [feat(bus): report unmatched tuples with source rows (#2223)](https://github.com/Plonky3/Plonky3/commit/e1283310a2f7bd59def83b362967275d91e19432) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

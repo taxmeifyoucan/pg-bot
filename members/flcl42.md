@@ -349,6 +349,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(rlp): bound blob wrapper cell-mask peek to transaction](https://github.com/NethermindEth/nethermind/pull/13614#pullrequestreview-5266596249) - 2026-09-21
 * [Issue] [Glamsterdam issue tracker](https://github.com/NethermindEth/nethermind/issues/13632) - 2026-09-21
 * [Commit] [Remove EL slot ordering enforcement from engine_forkchoiceUpdatedV4 (#13583)](https://github.com/NethermindEth/nethermind/commit/0cb94ce4c87ec92249331858f810d762a7e7aa50) - 2026-09-21
+* [Review] [Review on: chore: move nethtest to the scripts dir](https://github.com/NethermindEth/nethermind/pull/13692#pullrequestreview-5280959982) - 2026-09-22
+* [Review] [Review on: fix(ci): use --prerelease when publishing the bootnode release](https://github.com/NethermindEth/nethermind/pull/13695#pullrequestreview-5281920957) - 2026-09-22
+* [Commit] [Inherit parent slot number in simulated child headers (#13584)](https://github.com/NethermindEth/nethermind/commit/92733c6e905cf4c8fd9e1165fd24eb2effc1c597) - 2026-09-22
+* [Commit] [Pass parent slot number through simulated payload attributes (#13585)](https://github.com/NethermindEth/nethermind/commit/73528fd0bd09a45931d90cedafd7c8b41b9ac183) - 2026-09-22
+* [Commit] [Isolate VM test fork activation between tests (#13555)](https://github.com/NethermindEth/nethermind/commit/22b6e86fe083b9d623dbcc98639c488f90b832c6) - 2026-09-22
+* [Commit] [Use post-refund receipt gas for feeHistory reward percentiles (#13563)](https://github.com/NethermindEth/nethermind/commit/1083bc66f554a03b1a4f135f03c22eb9f31d6410) - 2026-09-22
+* [Commit] [Validate slot number on orphaned headers (#13586)](https://github.com/NethermindEth/nethermind/commit/2bd4220d9456aa029f1bf8b9f08b87ce85d87a11) - 2026-09-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

@@ -902,6 +902,25 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 4 updates](https://github.com/paradigmxyz/reth/pull/27347#pullrequestreview-5265017346) - 2026-09-21
 * [Commit] [fix(test): stabilize hash builder and chain import tests (#27354)](https://github.com/paradigmxyz/reth/commit/3fa8556452cb814287e345f1b8166f89d8862f94) - 2026-09-21
 * [Commit] [feat: schedule Sepolia Amsterdam activation (#27350)](https://github.com/paradigmxyz/reth/commit/609cba205b2c143c71c4bde035ba64eebbec8f5a) - 2026-09-21
+* [Review] [Review on: refactor(metrics): simplify memory-bounded budget reservation](https://github.com/paradigmxyz/reth/pull/27379#pullrequestreview-5283913961) - 2026-09-22
+* [Review] [Review on: fix(rpc): reject eth_subscribe requests with invalid params](https://github.com/paradigmxyz/reth/pull/27339#pullrequestreview-5284370614) - 2026-09-22
+* [Review] [Review on: fix(rpc): fill missing fee fields in eth_sendTransaction](https://github.com/paradigmxyz/reth/pull/27341#pullrequestreview-5283978637) - 2026-09-22
+* [Review] [Review on: docs: streamline agent guidance](https://github.com/paradigmxyz/reth/pull/27381#pullrequestreview-5283316430) - 2026-09-22
+* [Review] [Review on: fix(storage): evict ready sibling overlays](https://github.com/paradigmxyz/reth/pull/27380#pullrequestreview-5282736129) - 2026-09-22
+* [Review] [Review on: fix(rpc): skip the payment check for a zero-value builder submission](https://github.com/paradigmxyz/reth/pull/27371#pullrequestreview-5280521782) - 2026-09-22
+* [Pull Request] [fix(rpc): select trace_get results by tree path](https://github.com/paradigmxyz/reth/pull/27366) - 2026-09-22
+* [Pull Request] [perf(rpc): recover consensus transactions directly](https://github.com/paradigmxyz/reth/pull/27372) - 2026-09-22
+* [Pull Request] [perf(rpc): reuse shared sender recovery cache](https://github.com/paradigmxyz/reth/pull/27368) - 2026-09-22
+* [Review] [Review on: perf(rpc): reuse shared sender recovery cache](https://github.com/paradigmxyz/reth/pull/27368#pullrequestreview-5279339026) - 2026-09-22
+* [Pull Request] [fix(rpc): return null for missing transaction replays](https://github.com/paradigmxyz/reth/pull/27364) - 2026-09-22
+* [Pull Request] [fix(rpc): classify pruned changeset errors as unavailable history](https://github.com/paradigmxyz/reth/pull/27367) - 2026-09-22
+* [Pull Request] [fix(rpc): include transaction hash in individual replays](https://github.com/paradigmxyz/reth/pull/27365) - 2026-09-22
+* [Review] [Review on: chore(engine): replace `build_engine_orchestrator` args with a builder struct](https://github.com/paradigmxyz/reth/pull/27359#pullrequestreview-5276489343) - 2026-09-22
+* [Pull Request] [fix(net): offload blocking NAT resolver work](https://github.com/paradigmxyz/reth/pull/27360) - 2026-09-22
+* [Commit] [fix(rpc): select trace_get results by tree path (#27366)](https://github.com/paradigmxyz/reth/commit/8760eb0008f8f99d345d62039552622ebc057dda) - 2026-09-22
+* [Commit] [fix(rpc): return null for missing transaction replays (#27364)](https://github.com/paradigmxyz/reth/commit/e3d7f0952dc298ff94fc31ece9a59eb25ebcf340) - 2026-09-22
+* [Commit] [fix(rpc): classify pruned changeset errors as unavailable history (#27367)](https://github.com/paradigmxyz/reth/commit/534c60db9d4be32d349e5b31456416ecb4b4dbee) - 2026-09-22
+* [Commit] [fix(rpc): include transaction hash in individual replays (#27365)](https://github.com/paradigmxyz/reth/commit/3dd806a43352cdcf975f26e3399aa21f09e6c784) - 2026-09-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

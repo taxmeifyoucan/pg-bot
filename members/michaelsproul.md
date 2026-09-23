@@ -123,6 +123,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Fix bad time rounding in proposer reorg checks (Gnosis)](https://github.com/sigp/lighthouse/issues/10096) - 2026-09-21
 * [Pull Request] [Move progressive list checks into `BeaconBlock::from_ssz_bytes`](https://github.com/sigp/lighthouse/pull/10098) - 2026-09-21
 * [Review] [Review on: Move progressive list checks into `BeaconBlock::from_ssz_bytes`](https://github.com/sigp/lighthouse/pull/10098#pullrequestreview-5263775207) - 2026-09-21
+* [Review] [Review on: Route fork-choice execution status through fork choice nodes](https://github.com/sigp/lighthouse/pull/10100#pullrequestreview-5286142388) - 2026-09-23
+* [Pull Request] [Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106) - 2026-09-22
+* [Review] [Review on: Update tests to be spec agnostic](https://github.com/sigp/lighthouse/pull/10051#pullrequestreview-5275025244) - 2026-09-22
+* [Review] [Review on: Document won't-fix vote slot reset in V28 to V29 migration](https://github.com/sigp/lighthouse/pull/10108#pullrequestreview-5278098894) - 2026-09-22
+* [Review] [Review on: Do not advance state under fc lock](https://github.com/sigp/lighthouse/pull/9895#pullrequestreview-5277291687) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31
@@ -130,6 +135,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Fork choice test coverage for revert to justified block](https://github.com/ethereum/consensus-specs/issues/5634) - 2026-09-14
 * [Issue] [Validator 0 can make valid payload attestations for the epoch prior to the Gloas fork](https://github.com/ethereum/consensus-specs/issues/5650) - 2026-09-21
 * [Review] [Review on: Reject pre-Gloas slots in `get_ptc`](https://github.com/ethereum/consensus-specs/pull/5652#pullrequestreview-5272682760) - 2026-09-21
+* [Review] [Review on: Reject pre-Gloas slots using `GLOAS_FORK_EPOCH`](https://github.com/ethereum/consensus-specs/pull/5663#pullrequestreview-5284842599) - 2026-09-22
+* [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5274519893) - 2026-09-22
+
+[sigp/enr](https://github.com/sigp/enr)
+* [Review] [Review on: Release v0.14](https://github.com/sigp/enr/pull/92#pullrequestreview-5285172924) - 2026-09-22
 ## Q2 2026
 
 

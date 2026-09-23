@@ -62,6 +62,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/pull/12215) - 2026-08-20
 * [Commit] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/commit/a08f51fec5b2b5da457adb05b8cffb487fb4f7de) - 2026-08-20
 * [Pull Request] [Update EIP-8298: allow SETCODEFROM in initcode and require an existing source](https://github.com/ethereum/EIPs/pull/12356) - 2026-09-18
+* [Pull Request] [Update EIP-8347: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/pull/12366) - 2026-09-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 
@@ -74,6 +75,7 @@ Github: [@cperezz](https://github.com/cperezz)
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/ethereum/eels: add consume-reorg simulator (blockchain_test_engine_reorg fixtures)](https://github.com/ethereum/hive/pull/1608) - 2026-09-10
 
+* [Pull Request] [Add pbt-artifacts simulator for EIP-8347 conformance](https://github.com/ethereum/hive/pull/1614) - 2026-09-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [ForkchoiceStateV1: is a zero safeBlockHash legal after finality, and does a zero value overwrite the stored marker?](https://github.com/ethereum/execution-apis/issues/892) - 2026-09-15
 * [Issue] [engine_forkchoiceUpdated: evaluation order of the no-reorg shortcut vs -38002 / -38006 is unspecified](https://github.com/ethereum/execution-apis/issues/891) - 2026-09-15
@@ -92,6 +94,9 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [test(ef-tests): persist trie updates between blocks (#27307)](https://github.com/paradigmxyz/reth/commit/2f46c5e2f91df484f03e770b3177049f7d83e8d9) - 2026-09-19
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Issue] [blockchaintest: blocks are executed from the decoded JSON fields, so the block RLP body is never validated against its header](https://github.com/ipsilon/evmone/issues/1726) - 2026-09-19
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [PBT migration: truncated artifact crashes the node instead of being rejected](https://github.com/NethermindEth/nethermind/issues/13669) - 2026-09-22
 ## Q2 2026
 
 

@@ -205,6 +205,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124#pullrequestreview-5248655974) - 2026-09-18
 * [Review] [Review on: fix: reject pre-Gloas payload attestations on gossip](https://github.com/ChainSafe/lodestar/pull/10141#pullrequestreview-5272317096) - 2026-09-21
 * [Review] [Review on: test: fail gossip spec tests on unexpected errors](https://github.com/ChainSafe/lodestar/pull/10140#pullrequestreview-5270396065) - 2026-09-21
+* [Review] [Review on: feat(bindings): zig state transition](https://github.com/ChainSafe/lodestar/pull/9632#pullrequestreview-5283264374) - 2026-09-22
+* [Pull Request] [feat: persist pubkey cache across restarts](https://github.com/ChainSafe/lodestar/pull/10152) - 2026-09-23
+* [Review] [Review on: chore: track gloas newPayload metrics](https://github.com/ChainSafe/lodestar/pull/10113#pullrequestreview-5284430554) - 2026-09-22
+* [Review] [Review on: refactor: remove legacy backfill sync](https://github.com/ChainSafe/lodestar/pull/10147#pullrequestreview-5283984208) - 2026-09-22
+* [Review] [Review on: test: fix Capella epoch benchmark fork](https://github.com/ChainSafe/lodestar/pull/10145#pullrequestreview-5283989716) - 2026-09-22
+* [Review] [Review on: fix: expose single attestations and filter committees in pool API](https://github.com/ChainSafe/lodestar/pull/10149#pullrequestreview-5283174326) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -433,6 +439,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bindings): return sync committee positions as arrays](https://github.com/ChainSafe/lodestar-z/pull/714#pullrequestreview-5248607699) - 2026-09-18
 * [Review] [Review on: chore: remove benchmark CI](https://github.com/ChainSafe/lodestar-z/pull/715#pullrequestreview-5247846003) - 2026-09-18
 * [Review] [Review on: fix: isolate binding benchmark suites in separate processes](https://github.com/ChainSafe/lodestar-z/pull/708#pullrequestreview-5248008097) - 2026-09-18
+* [Review] [Review on: fix(ssz): make progressive scratch mutable](https://github.com/ChainSafe/lodestar-z/pull/725#pullrequestreview-5282336697) - 2026-09-22
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

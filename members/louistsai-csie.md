@@ -188,6 +188,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(spec-specs): keep JUMPDEST analysis unchanged under EIP-8024](https://github.com/ethereum/execution-specs/pull/3618#pullrequestreview-5263163663) - 2026-09-21
 * [Review] [Review on: feat(tests): cover same-block system contract deployment](https://github.com/ethereum/execution-specs/pull/3615#pullrequestreview-5263154806) - 2026-09-21
 * [Review] [Review on: chore(tests): record measured EIP-8282 coverage and rename the inhibitor sentinel](https://github.com/ethereum/execution-specs/pull/3619#pullrequestreview-5263098336) - 2026-09-21
+* [Review] [Review on: feat(tests): cover block state budget after authorization preparation rollback](https://github.com/ethereum/execution-specs/pull/3540#pullrequestreview-5276599425) - 2026-09-22
+* [Review] [Review on: feat(tests): cover a null EIP-8070 custodyColumns and repin to the current EIP blob](https://github.com/ethereum/execution-specs/pull/3622#pullrequestreview-5275602115) - 2026-09-22
+* [Review] [Review on: feat(tests): EIP-8037 - no refill for failed creates onto alive accounts](https://github.com/ethereum/execution-specs/pull/3529#pullrequestreview-5276344323) - 2026-09-22
+* [Review] [Review on: feat(tests): more amsterdam coverage gaps](https://github.com/ethereum/execution-specs/pull/3627#pullrequestreview-5275849958) - 2026-09-22
+* [Commit] [feat(tests): close out eip-7954 checklist (#3546)](https://github.com/ethereum/execution-specs/commit/f9bbb765c953bf5c5425085cbcc35172304348ef) - 2026-09-22
 ## Q2 2026
 
 

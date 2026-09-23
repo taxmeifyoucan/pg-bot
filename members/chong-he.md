@@ -77,6 +77,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Performance benchmarking using CPU instructions](https://github.com/sigp/lighthouse/pull/10075) - 2026-09-18
 * [Review] [Review on: Add stateless Gloas block production to the VC](https://github.com/sigp/lighthouse/pull/10036#pullrequestreview-5264800397) - 2026-09-21
 * [Review] [Review on: Fix validator is not aggregator when VC is in DVT mode involving middleware](https://github.com/sigp/lighthouse/pull/9947#pullrequestreview-5265275588) - 2026-09-21
+* [Review] [Review on: Refresh PTC duties after validator index discovery](https://github.com/sigp/lighthouse/pull/10069#pullrequestreview-5273801378) - 2026-09-22
 ## Q2 2026
 
 

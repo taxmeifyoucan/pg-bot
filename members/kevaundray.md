@@ -58,6 +58,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [Add EIP: Decouple Stake from Validator Registration](https://github.com/ethereum/EIPs/pull/12306) - 2026-09-09
 * [Review] [Review on: Update EIP-4444: Move to Draft](https://github.com/ethereum/EIPs/pull/12257#pullrequestreview-5180598726) - 2026-09-11
 * [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5261356910) - 2026-09-20
+* [Review] [Review on: Update EIP-8347: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/pull/12366#pullrequestreview-5278495047) - 2026-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14

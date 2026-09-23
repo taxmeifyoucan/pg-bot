@@ -259,6 +259,18 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: validate eth_callMany and debug_traceCallMany state contexts (#24167)](https://github.com/erigontech/erigon/commit/394038b303c3ccd4073f71fb521f881e6fb2b408) - 2026-09-21
 * [Commit] [node, rpc: report the sync session starting block in eth_syncing (#24077)](https://github.com/erigontech/erigon/commit/9814775e13f0c74819c93adbcfb39f758f20087a) - 2026-09-21
 * [Commit] [execution/vm, rpc: drop the unpriced base fee at the call sites (#24166)](https://github.com/erigontech/erigon/commit/d839a529766602f8924a8750ec6fc6a3bf127600) - 2026-09-21
+* [Pull Request] [db/kv, db/state: fall back to the backing tx when in-mem history is disabled](https://github.com/erigontech/erigon/pull/24243) - 2026-09-22
+* [Pull Request] [execution/types/ethutils, node/privateapi: send the subscribed receipt fees from the backend](https://github.com/erigontech/erigon/pull/24229) - 2026-09-22
+* [Pull Request] [rpc/jsonrpc: hold an undecided pre-merge probe for a short TTL](https://github.com/erigontech/erigon/pull/24218) - 2026-09-22
+* [Review] [Review on: rpc/jsonrpc: hold an undecided pre-merge probe for a short TTL](https://github.com/erigontech/erigon/pull/24218#pullrequestreview-5276480516) - 2026-09-22
+* [Review] [Review on: rpc: a batch with a state-changing call runs in order](https://github.com/erigontech/erigon/pull/24217#pullrequestreview-5276117511) - 2026-09-22
+* [Pull Request] [rpc/jsonrpc: pin the eth_simulateV1 frozen-blocks sentinel with a test](https://github.com/erigontech/erigon/pull/24216) - 2026-09-22
+* [Commit] [db/kv, db/state: fall back to the backing tx when in-mem history is disabled (#24243)](https://github.com/erigontech/erigon/commit/c655ac88234f3735ad80f4dff7d01b54585fc06d) - 2026-09-23
+* [Commit] [rpc/jsonrpc: hold an undecided pre-merge probe for a short TTL (#24218)](https://github.com/erigontech/erigon/commit/321591e3bb089190cfb65b1d1aafea07d7c43727) - 2026-09-22
+* [Commit] [rpc, execution/engineapi: serve only the declared interface on the engine namespace (#24163)](https://github.com/erigontech/erigon/commit/399b49b0635e61098fa11719a5aa4c8e2af6f660) - 2026-09-22
+* [Commit] [rpc/jsonrpc: pin the eth_simulateV1 frozen-blocks sentinel with a test (#24216)](https://github.com/erigontech/erigon/commit/deffbaf5b11e012f99b80ed7a11c218dd5257b9c) - 2026-09-22
+* [Commit] [cmd/rpcdaemon/graphql, rpc/jsonrpc: graphql and otterscan clean-ups (#24155)](https://github.com/erigontech/erigon/commit/23a600fe7af311f04cb7485e123cf13dfd3bf590) - 2026-09-22
+* [Commit] [rpc/jsonrpc: fix eth_sendRawTransactionSync fast path for a mined transaction (#24134)](https://github.com/erigontech/erigon/commit/38dcd210b54b7d793445aede71bce2f3fa77b4e4) - 2026-09-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

@@ -111,6 +111,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Submit builder preferences to each builder](https://github.com/Consensys-Incorporated/teku/pull/11311#pullrequestreview-5271250251) - 2026-09-21
 * [Pull Request] [Remove `createUnsignedBid`, fix remote handler TODO and nits](https://github.com/Consensys-Incorporated/teku/pull/11313) - 2026-09-21
 * [Commit] [Remove `createUnsignedBid`, fix remote handler TODO and nits (#11313)](https://github.com/Consensys-Incorporated/teku/commit/cee3a46192cde9b0743ea15efe2527be978e0f1f) - 2026-09-21
+* [Pull Request] [Set `Date-Milliseconds` header more precisely](https://github.com/Consensys-Incorporated/teku/pull/11323) - 2026-09-22
+* [Review] [Review on: Fix gloas transition](https://github.com/Consensys-Incorporated/teku/pull/11315#pullrequestreview-5275408143) - 2026-09-22
+* [Pull Request] [`BlockProductionPerformance` for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11319) - 2026-09-22
+* [Review] [Review on: `BlockProductionPerformance` for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11319#pullrequestreview-5279426358) - 2026-09-22
+* [Commit] [Set `Date-Milliseconds` header more precisely (#11323)](https://github.com/Consensys-Incorporated/teku/commit/8c1759778e855b8d13945c341724bf3be7725e2f) - 2026-09-23
+* [Commit] [`BlockProductionPerformance` for Gloas (#11319)](https://github.com/Consensys-Incorporated/teku/commit/381d2ef383db2ec7d9defaff00531b26d96dbc1f) - 2026-09-22
 ## Q2 2026
 
 

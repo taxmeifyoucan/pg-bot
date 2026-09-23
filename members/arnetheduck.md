@@ -27,6 +27,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [n-b-s: rm pcre/rocksdb support (#4657)](https://github.com/status-im/nimbus-eth1/commit/0c23c5f41fceea76dfd2a225f2599edef2d0fce6) - 2026-08-18
 * [Commit] [Use split compile/link build (#4643)](https://github.com/status-im/nimbus-eth1/commit/b743724648ed98c8cc40dbfaa4ee3492fd766695) - 2026-08-20
 * [Review] [Review on: KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671#pullrequestreview-4997859677) - 2026-08-21
+* [Issue] [QUIC port missing from `nimbus` help](https://github.com/status-im/nimbus-eth1/issues/4835) - 2026-09-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08
@@ -41,6 +42,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: enforce minimum Nim version](https://github.com/status-im/nimbus-eth2/pull/9065#pullrequestreview-5244755306) - 2026-09-18
 
 * [Review] [Review on: add gloas transition tests](https://github.com/status-im/nimbus-eth2/pull/7542#pullrequestreview-5266614634) - 2026-09-21
+* [Pull Request] [ncli/libnimbus_lc: allow compiling without threads](https://github.com/status-im/nimbus-eth2/pull/9092) - 2026-09-22
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [nim: avoid allocation for global context](https://github.com/ethereum/c-kzg-4844/pull/668) - 2026-09-21
 * [Review] [Review on: nim: avoid allocation for global context](https://github.com/ethereum/c-kzg-4844/pull/668#pullrequestreview-5269033351) - 2026-09-21

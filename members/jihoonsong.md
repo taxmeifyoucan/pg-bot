@@ -131,6 +131,15 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647#pullrequestreview-5265480629) - 2026-09-21
 * [Review] [Review on: Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646#pullrequestreview-5265512040) - 2026-09-21
 * [Commit] [Add executable gossip validation functions for heze (#5605)](https://github.com/ethereum/consensus-specs/commit/477321355d48d527e7e1e4d572f6a40a0b41072a) - 2026-09-21
+* [Pull Request] [Remove unnecessary variable in `get_forkchoice_store()`](https://github.com/ethereum/consensus-specs/pull/5659) - 2026-09-22
+* [Pull Request] [Update `compute_weak_subjectivity_period` to return `Epoch`](https://github.com/ethereum/consensus-specs/pull/5660) - 2026-09-22
+* [Pull Request] [Convert `Store` to use milliseconds](https://github.com/ethereum/consensus-specs/pull/5658) - 2026-09-22
+* [Review] [Review on: Convert `Store` to use milliseconds](https://github.com/ethereum/consensus-specs/pull/5658#pullrequestreview-5280435912) - 2026-09-22
+* [Pull Request] [Add EIP-8015 to Heze](https://github.com/ethereum/consensus-specs/pull/5655) - 2026-09-22
+* [Review] [Review on: Add EIP-8015 to Heze](https://github.com/ethereum/consensus-specs/pull/5655#pullrequestreview-5280861345) - 2026-09-22
+* [Pull Request] [Update indices](https://github.com/ethereum/consensus-specs/pull/5657) - 2026-09-22
+* [Commit] [Remove unnecessary variable in `get_forkchoice_store()` (#5659)](https://github.com/ethereum/consensus-specs/commit/6e2b2357c9ffb06b99490facf49faf92404d87de) - 2026-09-23
+* [Commit] [Update `compute_weak_subjectivity_period` to return `Epoch` (#5660)](https://github.com/ethereum/consensus-specs/commit/6b9bd532cca16555e2f3282d757622ebff29743e) - 2026-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

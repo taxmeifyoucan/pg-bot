@@ -147,6 +147,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Teku OOM catch rework](https://github.com/Consensys-Incorporated/teku/pull/11289#pullrequestreview-5269298959) - 2026-09-21
 * [Review] [Review on: Enforce progressive list limits in ssz](https://github.com/Consensys-Incorporated/teku/pull/11297#pullrequestreview-5267290465) - 2026-09-21
 * [Issue] [Reject pre-Gloas slots in get_ptc](https://github.com/Consensys-Incorporated/teku/issues/11314) - 2026-09-21
+* [Review] [Review on: FCR optimization part2:  Reuse cached checkpoint states and parallelize fast confirmation scoring](https://github.com/Consensys-Incorporated/teku/pull/11214#pullrequestreview-5281404721) - 2026-09-22
+* [Pull Request] [Upgrade to spec test 1.7.0.beta.1](https://github.com/Consensys-Incorporated/teku/pull/11322) - 2026-09-22
+* [Review] [Review on: Fix gloas transition](https://github.com/Consensys-Incorporated/teku/pull/11315#pullrequestreview-5275084630) - 2026-09-22
+* [Review] [Review on: `BlockProductionPerformance` for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11319#pullrequestreview-5278356884) - 2026-09-22
+* [Review] [Review on: Enforce progressive list limits in ssz](https://github.com/Consensys-Incorporated/teku/pull/11297#pullrequestreview-5278672351) - 2026-09-22
+* [Commit] [Fix gloas transition (#11315)](https://github.com/Consensys-Incorporated/teku/commit/49da5e9d87fe4503504943662e274637c13cc1d3) - 2026-09-22
+* [Commit] [Enforce progressive list limits in ssz (#11297)](https://github.com/Consensys-Incorporated/teku/commit/60be4dd5d7e54dea072b16efc2dfbab3c8d93ceb) - 2026-09-22
+* [Commit] [ref test tar gz load optimization (#11287)](https://github.com/Consensys-Incorporated/teku/commit/ce17c9629efbcf8e18f18bed8f26008ef495a3b8) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
@@ -157,6 +165,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Test parent payload availability before attestation rewards (#5514)](https://github.com/ethereum/consensus-specs/commit/46d3d35132209b5a0af531eabba8a73db328d14b) - 2026-08-04
 * [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5092347730) - 2026-09-02
 * [Review] [Review on: Only serve canonical payload envelopes by range](https://github.com/ethereum/consensus-specs/pull/5608#pullrequestreview-5134073982) - 2026-09-07
+* [Pull Request] [Add realistic test for pre fork payload attestation](https://github.com/ethereum/consensus-specs/pull/5662) - 2026-09-22
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [QUIC memory leak fix](https://github.com/libp2p/jvm-libp2p/pull/504) - 2026-07-15
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4767982333) - 2026-07-23

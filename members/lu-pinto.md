@@ -48,6 +48,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: check log level before slow trace/debug logs](https://github.com/besu-eth/besu/pull/11326#pullrequestreview-5265558837) - 2026-09-21
 * [Commit] [Fix gradlew jmhJar (#11341)](https://github.com/besu-eth/besu/commit/efddc0f59c534fc0269f4548afe68f1937f5ed39) - 2026-09-21
 * [Commit] [Revert TreeSet/TreeBasedTable usage in warm addresses and transient storage (#11319)](https://github.com/besu-eth/besu/commit/d997aad7b3be6333464c0687d3761c568ee63524) - 2026-09-21
+* [Pull Request] [Do not use UInt256 in TLoad/TStore](https://github.com/besu-eth/besu/pull/11348) - 2026-09-22
+* [Commit] [Do not use UInt256 in TLoad/TStore (#11348)](https://github.com/besu-eth/besu/commit/028f9d7391b1a85885a87d6c6f931bad7610da8c) - 2026-09-22
 ## Q2 2026
 
 

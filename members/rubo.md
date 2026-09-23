@@ -105,6 +105,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(deps): update GMP package (#13562)](https://github.com/NethermindEth/nethermind/commit/4e36ba0ff359cf494a8396476b272ee1d28f64dd) - 2026-09-18
 * [Pull Request] [chore(agents): trim AGENTS.md and move benchmark guidance to skills](https://github.com/NethermindEth/nethermind/pull/13646) - 2026-09-21
 * [Commit] [chore(zkevm): refactor guests organization (#13582)](https://github.com/NethermindEth/nethermind/commit/18591d924500d42ade714360843aea2d55211da9) - 2026-09-21
+* [Pull Request] [chore(deps): update DotNetty package](https://github.com/NethermindEth/nethermind/pull/13687) - 2026-09-22
+* [Review] [Review on: chore(deps): update DotNetty package](https://github.com/NethermindEth/nethermind/pull/13687#pullrequestreview-5279842226) - 2026-09-22
+* [Pull Request] [chore: move nethtest to the scripts dir](https://github.com/NethermindEth/nethermind/pull/13692) - 2026-09-22
+* [Pull Request] [chore: remove funding.json](https://github.com/NethermindEth/nethermind/pull/13696) - 2026-09-22
+* [Commit] [chore: remove funding.json (#13696)](https://github.com/NethermindEth/nethermind/commit/0e2f564a410a9204e621e66bb5fa07328d76ba13) - 2026-09-22
+* [Commit] [chore: move nethtest to the scripts dir (#13692)](https://github.com/NethermindEth/nethermind/commit/6e6b5c396489977d79662977757e2b67311e552b) - 2026-09-22
+* [Commit] [chore(agents): trim AGENTS.md and move benchmark guidance to skills (#13646)](https://github.com/NethermindEth/nethermind/commit/527c99c4a1f0d8ed0d74eb514f14d74617acb5c9) - 2026-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

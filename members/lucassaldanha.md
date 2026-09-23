@@ -176,6 +176,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Enhance security reporting guidelines in SECURITY.md (#11316)](https://github.com/Consensys-Incorporated/teku/commit/4f28c7bcb73136e337f3d6ec21927f316366de93) - 2026-09-21
 * [Commit] [Bump aircompressor to 3.8 and drop snappy-java (#11309)](https://github.com/Consensys-Incorporated/teku/commit/9bde2fbb33eb31e91586089ad3c9c0ce7a299776) - 2026-09-21
 * [Commit] [Resync spec references and stop gating check-specrefs on paths (#11310)](https://github.com/Consensys-Incorporated/teku/commit/bd43c9c4cc71a4413e6bfa4e44cc5506b5ebec56) - 2026-09-21
+* [Review] [Review on: Set `Date-Milliseconds` header more precisely](https://github.com/Consensys-Incorporated/teku/pull/11323#pullrequestreview-5286100744) - 2026-09-23
+* [Review] [Review on: fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272#pullrequestreview-5286104359) - 2026-09-23
+* [Review] [Review on: Integrate forkchoice compliance tests ignoring failures](https://github.com/Consensys-Incorporated/teku/pull/11291#pullrequestreview-5285473632) - 2026-09-23
+* [Review] [Review on: Update security reporting email](https://github.com/Consensys-Incorporated/teku/pull/11321#pullrequestreview-5284613404) - 2026-09-22
+* [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5276877808) - 2026-09-22
+* [Commit] [Reject UInt64.MAX_VALUE attestation epochs from the beacon node (#11318)](https://github.com/Consensys-Incorporated/teku/commit/7244bcc3bb26d5916481b49405a634c79b1de481) - 2026-09-22
 ## Q2 2026
 
 

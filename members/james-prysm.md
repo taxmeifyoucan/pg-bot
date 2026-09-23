@@ -249,6 +249,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Return nil for null execution blocks in batch fetch instead of a parentHash decode error](https://github.com/OffchainLabs/prysm/pull/17525#pullrequestreview-5268821873) - 2026-09-21
 * [Pull Request] [fixing unmarshal issue for not found block](https://github.com/OffchainLabs/prysm/pull/17524) - 2026-09-21
 * [Commit] [fixing 204 handling for rest ptc attestation (#17510)](https://github.com/OffchainLabs/prysm/commit/53a09fa2c43f31c918c1bafb424759054922e620) - 2026-09-21
+* [Review] [Review on: Derive the default builder `auth_data` from the URL hostname](https://github.com/OffchainLabs/prysm/pull/17511#pullrequestreview-5281103691) - 2026-09-22
+* [Pull Request] [intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536) - 2026-09-22
+* [Review] [Review on: intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536#pullrequestreview-5281449856) - 2026-09-22
+* [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5282600471) - 2026-09-22
+* [Pull Request] [refactor to parent envelope helper](https://github.com/OffchainLabs/prysm/pull/17541) - 2026-09-22
+* [Commit] [grpc use execution_payload_available event (#17500)](https://github.com/OffchainLabs/prysm/commit/47ea4789d6c61dfde34fd259f86a5a45093622f5) - 2026-09-22
+* [Commit] [gloas checkpoint sync withheld payload fix (#17458)](https://github.com/OffchainLabs/prysm/commit/0701be2738ad131ff3ee9050073018da8e1190be) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

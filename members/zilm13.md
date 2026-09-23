@@ -167,6 +167,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: use proposal epoch fork for proposer preference signatures](https://github.com/Consensys-Incorporated/teku/pull/11302#pullrequestreview-5248703282) - 2026-09-18
 * [Review] [Review on: Use hostname for auth data and default max_execution_payment to 0](https://github.com/Consensys-Incorporated/teku/pull/11303#pullrequestreview-5255817652) - 2026-09-19
 * [Review] [Review on: Enforce progressive list limits in ssz](https://github.com/Consensys-Incorporated/teku/pull/11297#pullrequestreview-5266748091) - 2026-09-21
+* [Review] [Review on: Set `Date-Milliseconds` header more precisely](https://github.com/Consensys-Incorporated/teku/pull/11323#pullrequestreview-5283326852) - 2026-09-22
+* [Review] [Review on: Implement head v2 events for validator clients](https://github.com/Consensys-Incorporated/teku/pull/11130#pullrequestreview-5281309075) - 2026-09-22
+* [Review] [Review on: Reject UInt64.MAX_VALUE attestation epochs from the beacon node](https://github.com/Consensys-Incorporated/teku/pull/11318#pullrequestreview-5283513643) - 2026-09-22
+* [Review] [Review on: Enforce progressive list limits in ssz](https://github.com/Consensys-Incorporated/teku/pull/11297#pullrequestreview-5278573363) - 2026-09-22
+* [Commit] [FCR optimization part2:  Reuse cached checkpoint states and parallelize fast confirmation scoring (#11214)](https://github.com/Consensys-Incorporated/teku/commit/ecf3ed202a722f6c8c5f6151b89797a692f4e357) - 2026-09-22
+* [Commit] [Shutdown ungracefully on OOM with VM flag (#11289)](https://github.com/Consensys-Incorporated/teku/commit/5eb31d468ccb24e207a5cddbc898e2258dd1cd0c) - 2026-09-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

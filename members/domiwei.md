@@ -156,6 +156,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/p2p: add QUIC transport support](https://github.com/erigontech/erigon/pull/24117#pullrequestreview-5263721634) - 2026-09-21
 * [Review] [Review on: .github, caplin: harden Gloas genesis verification](https://github.com/erigontech/erigon/pull/23968#pullrequestreview-5265954351) - 2026-09-21
 * [Review] [Review on: db, execution, diagnostics, cl: adopt gofumpt formatting](https://github.com/erigontech/erigon/pull/24182#pullrequestreview-5265402884) - 2026-09-21
+* [Review] [Review on: execution/engineapi: payload bodies serve stored tx bytes and stream their JSON](https://github.com/erigontech/erigon/pull/24220#pullrequestreview-5278391916) - 2026-09-22
+* [Review] [Review on: cl: remove test workarounds for the ttl cache's old goroutine](https://github.com/erigontech/erigon/pull/24204#pullrequestreview-5278330722) - 2026-09-22
+* [Review] [Review on: db, execution, diagnostics, cl: adopt gofumpt formatting](https://github.com/erigontech/erigon/pull/24182#pullrequestreview-5275066437) - 2026-09-22
+* [Commit] [cl/p2p: add QUIC transport support (#24117)](https://github.com/erigontech/erigon/commit/e0e09348633cb93ad7b27878388525499a8a9b8b) - 2026-09-22
 ## Q2 2026
 
 

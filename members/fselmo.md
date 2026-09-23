@@ -54,6 +54,11 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): EIP-8037 credits from a sibling frame after a child's spill](https://github.com/ethereum/execution-specs/pull/3611) - 2026-09-16
 * [Commit] [chore(test-cli): check EIP reference versions up to Amsterdam (#3592)](https://github.com/ethereum/execution-specs/commit/7942da065578d29099447cbe658a8fde32881d13) - 2026-09-16
 * [Commit] [feat(tests,specs): eip7928 extended coverage (#3566)](https://github.com/ethereum/execution-specs/commit/a9792ab73b8195d5a8dc24b2ef6cca7687cd6b2b) - 2026-09-17
+* [Review] [Review on: fix(spec-specs): wipe pre-existing storage on contract creation from Cancun onward](https://github.com/ethereum/execution-specs/pull/3508#pullrequestreview-5284757871) - 2026-09-22
+* [Review] [Review on: refactor(test-fixtures): stream fixture writes and merges through part files](https://github.com/ethereum/execution-specs/pull/3628#pullrequestreview-5281470408) - 2026-09-22
+* [Review] [Review on: fix(tests): un-skip remaining Amsterdam ported static tests and drop the skip list (Pt. 2d)](https://github.com/ethereum/execution-specs/pull/3322#pullrequestreview-5281298061) - 2026-09-22
+* [Review] [Review on: refactor(test-vm, tests): add `create_op` helper and drop `CREATE`/`CREATE2` branches](https://github.com/ethereum/execution-specs/pull/3625#pullrequestreview-5280792591) - 2026-09-22
+* [Review] [Review on: chore(tests): record measured EIP-7928 coverage in the checklist evidence](https://github.com/ethereum/execution-specs/pull/3620#pullrequestreview-5280457487) - 2026-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

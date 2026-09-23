@@ -1757,6 +1757,60 @@ Team: Erigon
 * [Commit] [rpc: encode each newHeads and transactionReceipts event once for all subscribers (#24175)](https://github.com/erigontech/erigon/commit/b25bf3fe298195b527129c0868489a3c72b180b5) - 2026-09-21
 * [Commit] [rpc: hash each witness node and code once (#24068)](https://github.com/erigontech/erigon/commit/e6be10a50fd3ac61356ca144e0b17c01b0ab0ebe) - 2026-09-21
 * [Commit] [rpc: RPCHeader/Block/Withdrawal add `MarshalFastJSONTo` (#24140)](https://github.com/erigontech/erigon/commit/3d283d2df6314882c49fd97ac1ea148fe343a426) - 2026-09-21
+* [Pull Request] [rpc/jsonrpc: the witness cache holds results, not their JSON](https://github.com/erigontech/erigon/pull/24235) - 2026-09-22
+* [Pull Request] [execution/execmodule: drop the extra forced-fsync commit per fork choice](https://github.com/erigontech/erigon/pull/24248) - 2026-09-23
+* [Review] [Review on: execution/tracing: support for EIP-8037 state gas tracing (part 3)](https://github.com/erigontech/erigon/pull/24231#pullrequestreview-5286134264) - 2026-09-23
+* [Review] [Review on: execution/tracing: move internal tracers to V2 hooks for EIP-8037 state gas tracing (part 4)](https://github.com/erigontech/erigon/pull/24240#pullrequestreview-5286133059) - 2026-09-23
+* [Review] [Review on: db/kv, db/state: fall back to the backing tx when in-mem history is disabled](https://github.com/erigontech/erigon/pull/24243#pullrequestreview-5285686774) - 2026-09-23
+* [Pull Request] [execution/engineapi: payload bodies serve stored tx bytes and stream their JSON](https://github.com/erigontech/erigon/pull/24220) - 2026-09-22
+* [Review] [Review on: execution/engineapi: payload bodies serve stored tx bytes and stream their JSON](https://github.com/erigontech/erigon/pull/24220#pullrequestreview-5275213685) - 2026-09-22
+* [Pull Request] [rpc: witness, getPayload and feeHistory stream their fields](https://github.com/erigontech/erigon/pull/24234) - 2026-09-22
+* [Pull Request] [rpc: _subscribe newHeads - add json fastpath ](https://github.com/erigontech/erigon/pull/24247) - 2026-09-23
+* [Pull Request] [rpc/jsonrpc: trace_block and trace_transaction stream their parity traces](https://github.com/erigontech/erigon/pull/24236) - 2026-09-22
+* [Pull Request] [cmd/rpctest: hexutil.Big fields and arguments are hexutil.U256](https://github.com/erigontech/erigon/pull/24232) - 2026-09-22
+* [Review] [Review on: execution/types/ethutils, node/privateapi: send the subscribed receipt fees from the backend](https://github.com/erigontech/erigon/pull/24229#pullrequestreview-5285687584) - 2026-09-23
+* [Pull Request] [rpc/jsonrpc: trace_filter writes each trace into the stream](https://github.com/erigontech/erigon/pull/24239) - 2026-09-22
+* [Review] [Review on: rpc/jsonrpc: trace_filter writes each trace into the stream](https://github.com/erigontech/erigon/pull/24239#pullrequestreview-5285539712) - 2026-09-23
+* [Pull Request] [rpc: RPCBlock.Calls and TransactionCount are typed](https://github.com/erigontech/erigon/pull/24230) - 2026-09-22
+* [Review] [Review on: rpc: RPCBlock.Calls and TransactionCount are typed](https://github.com/erigontech/erigon/pull/24230#pullrequestreview-5278753760) - 2026-09-22
+* [Pull Request] [rpc: pass ctx and stream to reflect.Call as interface-typed values](https://github.com/erigontech/erigon/pull/24226) - 2026-09-22
+* [Review] [Review on: rpc: pass ctx and stream to reflect.Call as interface-typed values](https://github.com/erigontech/erigon/pull/24226#pullrequestreview-5280074567) - 2026-09-22
+* [Pull Request] [rpc: a plain ASCII method or version string skips json.Unmarshal](https://github.com/erigontech/erigon/pull/24233) - 2026-09-22
+* [Review] [Review on: rpc: a plain ASCII method or version string skips json.Unmarshal](https://github.com/erigontech/erigon/pull/24233#pullrequestreview-5278740394) - 2026-09-22
+* [Pull Request] [rpc/jsonstream: Field, Int and Uint replace WriteObjectField and the ten integer writers](https://github.com/erigontech/erigon/pull/24212) - 2026-09-22
+* [Review] [Review on: rpc/jsonstream: Field, Int and Uint replace WriteObjectField and the ten integer writers](https://github.com/erigontech/erigon/pull/24212#pullrequestreview-5274482798) - 2026-09-22
+* [Pull Request] [db/rawdb: a header read by its hash keeps that hash](https://github.com/erigontech/erigon/pull/24222) - 2026-09-22
+* [Review] [Review on: db/rawdb: a header read by its hash keeps that hash](https://github.com/erigontech/erigon/pull/24222#pullrequestreview-5278760833) - 2026-09-22
+* [Pull Request] [db/state: a read tx fills its files view field by field](https://github.com/erigontech/erigon/pull/24228) - 2026-09-22
+* [Pull Request] [db: read only BaseTxnID and TxCount where a body is decoded for them](https://github.com/erigontech/erigon/pull/24227) - 2026-09-22
+* [Review] [Review on: db/snapshotsync: stop RemoveOverlaps deleting another component's .tmp](https://github.com/erigontech/erigon/pull/24146#pullrequestreview-5273977475) - 2026-09-22
+* [Review] [Review on: rpc: ots_hasCode reads the state at the end of the selected block](https://github.com/erigontech/erigon/pull/24223#pullrequestreview-5275998614) - 2026-09-22
+* [Review] [Review on: rpc/jsonrpc: hold an undecided pre-merge probe for a short TTL](https://github.com/erigontech/erigon/pull/24218#pullrequestreview-5275770874) - 2026-09-22
+* [Pull Request] [rpc: a batch with a state-changing call runs in order](https://github.com/erigontech/erigon/pull/24217) - 2026-09-22
+* [Review] [Review on: rpc: a batch with a state-changing call runs in order](https://github.com/erigontech/erigon/pull/24217#pullrequestreview-5274880437) - 2026-09-22
+* [Review] [Review on: rpc, execution/engineapi: serve only the declared interface on the engine namespace](https://github.com/erigontech/erigon/pull/24163#pullrequestreview-5273973033) - 2026-09-22
+* [Pull Request] [rpc: eth_blockNumber reads through a plain tx](https://github.com/erigontech/erigon/pull/24224) - 2026-09-22
+* [Pull Request] [rpc/jsonstream: large hex values and arrays write in chunks](https://github.com/erigontech/erigon/pull/24213) - 2026-09-22
+* [Review] [Review on: rpc/jsonstream: large hex values and arrays write in chunks](https://github.com/erigontech/erigon/pull/24213#pullrequestreview-5274629112) - 2026-09-22
+* [Review] [Review on: rpc/jsonrpc: pin the eth_simulateV1 frozen-blocks sentinel with a test](https://github.com/erigontech/erigon/pull/24216#pullrequestreview-5274992758) - 2026-09-22
+* [Commit] [rpc: witness, getPayload and feeHistory stream their fields (#24234)](https://github.com/erigontech/erigon/commit/32a8fec5e65d878162bd5104442b221968f4f434) - 2026-09-23
+* [Commit] [rpc: RPCBlock.Calls and TransactionCount are typed (#24230)](https://github.com/erigontech/erigon/commit/80604500279e55bcba8911f614715a0b1f9ff590) - 2026-09-22
+* [Commit] [rpc: pass ctx and stream to reflect.Call as interface-typed values (#24226)](https://github.com/erigontech/erigon/commit/51947f3d24cb7200de3a0b40c6bef01b82e19457) - 2026-09-22
+* [Commit] [rpc: a plain ASCII method or version string skips json.Unmarshal (#24233)](https://github.com/erigontech/erigon/commit/f3045c1179b2513094cb18fd2341be4857aebfea) - 2026-09-22
+* [Commit] [db/rawdb: a header read by its hash keeps that hash (#24222)](https://github.com/erigontech/erigon/commit/c466505a62b073cd8ab722252e8cc5aab9f527c6) - 2026-09-22
+* [Commit] [rpc/jsonstream: Field, Int and Uint replace WriteObjectField and the ten integer writers (#24212)](https://github.com/erigontech/erigon/commit/46a986b4d954e2db78d3e1401879940f3e36e48c) - 2026-09-22
+* [Commit] [db/state: a read tx fills its files view field by field (#24228)](https://github.com/erigontech/erigon/commit/6f59b721403c3aeb57cb8e7b1c34df11bb5501e4) - 2026-09-22
+* [Commit] [db: read only BaseTxnID and TxCount where a body is decoded for them (#24227)](https://github.com/erigontech/erigon/commit/898e3f88086f97a6cb500c8d669321301a9a30f4) - 2026-09-22
+* [Commit] [rpc: a batch with a state-changing call runs in order (#24217)](https://github.com/erigontech/erigon/commit/9b2a5a527b30a7b9bf3f3eefa59dacff06a0477c) - 2026-09-22
+* [Commit] [rpc: a subscriber's queued notifications Send in one socket write (#24205)](https://github.com/erigontech/erigon/commit/1195ce965110e81c22a047dffe04a5569b8dfcb5) - 2026-09-22
+* [Commit] [rpc: notifications stream into one pooled buffer; Stream.WriteMore is removed (#24210)](https://github.com/erigontech/erigon/commit/44517961d0965510a579393ac234c955099bbebb) - 2026-09-22
+* [Commit] [engine_types: blob responses stream through MarshalFastJSONTo (#24208)](https://github.com/erigontech/erigon/commit/b5bc0c1231cc1ae494a642ae65f90fc1a4fdfa13) - 2026-09-22
+* [Commit] [execution/chain: Config is immutable, the blob schedule is looked up on each call (#24207)](https://github.com/erigontech/erigon/commit/2124d1764c1a0080e2fa11aeb92957f7ce7f900f) - 2026-09-22
+* [Commit] [db/snapshotsync: a txn read from the DB carries its stored sender (#24211)](https://github.com/erigontech/erigon/commit/d9ae3ebbd17e2e917259305f1e43a9007797b96d) - 2026-09-22
+* [Commit] [rpc: a websocket write bounds the socket, not the context (#24198)](https://github.com/erigontech/erigon/commit/8bf1188e883aac06794a904422f67fc1932d91a9) - 2026-09-22
+* [Commit] [rpc: a server connection runs its handler directly; reverse calls are removed (#24193)](https://github.com/erigontech/erigon/commit/879cf9ff8d905e1cb5d5d2aefa12e3fde9ae4902) - 2026-09-22
+* [Commit] [rpc/jsonrpc: the witness and feeHistory results write through MarshalFastJSONTo (#24209)](https://github.com/erigontech/erigon/commit/c7b1230b94b90e9dc64b2fd8d4b3a1255d44e1eb) - 2026-09-22
+* [Commit] [rpc: a websocket write builds one timeout context, not two (#24187)](https://github.com/erigontech/erigon/commit/19d1986aba710526ac5d7cd8f0ea6be6f15014c0) - 2026-09-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

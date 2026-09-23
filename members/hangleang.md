@@ -94,6 +94,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Make generated Gloas genesis usable](https://github.com/grandinetech/grandine/pull/930) - 2026-09-21
 * [Commit] [Make generated Gloas genesis usable](https://github.com/grandinetech/grandine/commit/c5b25e8e3edd624009be0c3c54f5250c41a1244e) - 2026-09-22
 * [Commit] [Only serve canonical payload envelopes by range](https://github.com/grandinetech/grandine/commit/57f22c086e8f37cc04a1dc23e1c296a23561237c) - 2026-09-21
+* [Pull Request] [Cap execution payload envelope delayed queue](https://github.com/grandinetech/grandine/pull/931) - 2026-09-22
+* [Review] [Review on: compliance test fixes](https://github.com/grandinetech/grandine/pull/919#pullrequestreview-5277352758) - 2026-09-22
+* [Issue] [Update consensus-specs to v1.7.0-beta.1](https://github.com/grandinetech/grandine/issues/932) - 2026-09-22
+* [Commit] [Cap execution payload envelope delayed queue](https://github.com/grandinetech/grandine/commit/29750218c4a4117699bc189368e29e1b31532645) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

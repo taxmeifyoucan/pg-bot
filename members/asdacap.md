@@ -237,6 +237,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(flat): VerifyWithTrie false positive when deleting an account the trie still holds (#13521)](https://github.com/NethermindEth/nethermind/commit/033c0d067274866917d7f8ab8e7728cb021d4f86) - 2026-09-20
 * [Commit] [Keep the unknown-original storage flag across repeated writes (#13554)](https://github.com/NethermindEth/nethermind/commit/b537eaf863826967e04c3312ef53065a0e63bcc1) - 2026-09-20
 * [Commit] [Make BlockchainProcessor main-only and split OneTimeChainProcessor (#13449)](https://github.com/NethermindEth/nethermind/commit/37d3872ea3fa5ca674c535b758dbda7748c1f468) - 2026-09-21
+* [Pull Request] [Remove the flat DB preimage recording feature](https://github.com/NethermindEth/nethermind/pull/13690) - 2026-09-22
 ## Q2 2026
 
 

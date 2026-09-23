@@ -85,6 +85,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5232869751) - 2026-09-17
 * [Review] [Review on: refactor(state-transition): re-organize test helpers](https://github.com/ChainSafe/lodestar/pull/10099#pullrequestreview-5244071794) - 2026-09-18
 * [Pull Request] [chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124) - 2026-09-18
+* [Review] [Review on: test: fix Capella epoch benchmark fork](https://github.com/ChainSafe/lodestar/pull/10145#pullrequestreview-5274315174) - 2026-09-22
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -269,6 +270,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [docs: call a source file a file, not a module](https://github.com/ChainSafe/lodestar-z/pull/719) - 2026-09-21
 * [Review] [Review on: perf: avoid proposer lookahead allocation](https://github.com/ChainSafe/lodestar-z/pull/716#pullrequestreview-5262811300) - 2026-09-21
 * [Issue] [investigate process pending deposits](https://github.com/ChainSafe/lodestar-z/issues/720) - 2026-09-21
+* [Review] [Review on: perf: avoid proposer lookahead allocation](https://github.com/ChainSafe/lodestar-z/pull/716#pullrequestreview-5280053945) - 2026-09-22
+* [Review] [Review on: refactor(epoch-cache): make effectiveBalanceIncrementsSet append instead](https://github.com/ChainSafe/lodestar-z/pull/721#pullrequestreview-5273879759) - 2026-09-22
+* [Review] [Review on: refactor: transfer shuffling indices on success](https://github.com/ChainSafe/lodestar-z/pull/723#pullrequestreview-5274675719) - 2026-09-22
+* [Commit] [docs: call a source file a file, not a module (#719)](https://github.com/ChainSafe/lodestar-z/commit/31f49753e501e6e871ee0c70ebb56382b08c435c) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

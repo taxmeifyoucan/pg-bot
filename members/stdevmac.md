@@ -125,6 +125,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix(rpc): demote guard-rail WARNs and map no-state to -32002](https://github.com/NethermindEth/nethermind/pull/13643) - 2026-09-21
 * [Review] [Review on: fix(rpc): demote guard-rail WARNs and map no-state to -32002](https://github.com/NethermindEth/nethermind/pull/13643#pullrequestreview-5272187886) - 2026-09-21
 * [Review] [Review on: fix(rlp): bound blob wrapper cell-mask peek to transaction](https://github.com/NethermindEth/nethermind/pull/13614#pullrequestreview-5262917091) - 2026-09-21
+* [Pull Request] [Label the published Docker images with Nethermind's OCI metadata](https://github.com/NethermindEth/nethermind/pull/13694) - 2026-09-22
+* [Pull Request] [fix(ci): use --prerelease when publishing the bootnode release](https://github.com/NethermindEth/nethermind/pull/13695) - 2026-09-22
+* [Commit] [fix(rlp): bound blob wrapper cell-mask peek to transaction (#13614)](https://github.com/NethermindEth/nethermind/commit/790cf4c9adedbe46129808b885ef6707f430d427) - 2026-09-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

@@ -460,6 +460,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(rpc): drop the per-frame and per-transaction allocations from the frames RPC surface](https://github.com/NethermindEth/nethermind/pull/13571#pullrequestreview-5246812158) - 2026-09-18
 * [Review] [Review on: EIP-8369: judge frame-transaction omission by Profile 2 candidacy](https://github.com/NethermindEth/nethermind/pull/13590#pullrequestreview-5255196115) - 2026-09-19
 * [Review] [Review on: fix(rlp): bound blob wrapper cell-mask peek to transaction](https://github.com/NethermindEth/nethermind/pull/13614#pullrequestreview-5266080955) - 2026-09-21
+* [Review] [Review on: Correct EIP-7928 receipt event metadata](https://github.com/NethermindEth/nethermind/pull/13509#pullrequestreview-5276706356) - 2026-09-22
+* [Review] [Review on: Inherit parent slot number in simulated child headers](https://github.com/NethermindEth/nethermind/pull/13584#pullrequestreview-5276965921) - 2026-09-22
+* [Review] [Review on: Pass parent slot number through simulated payload attributes](https://github.com/NethermindEth/nethermind/pull/13585#pullrequestreview-5276963979) - 2026-09-22
+* [Review] [Review on: Enforce the EIP-8037 TX_MAX_TOTAL_GAS_LIMIT transaction cap](https://github.com/NethermindEth/nethermind/pull/13627#pullrequestreview-5277006054) - 2026-09-22
+* [Issue] [eth_simulateV1: SLOTNUM faults with invalid instruction because simulated blocks have no slot number](https://github.com/NethermindEth/nethermind/issues/13683) - 2026-09-22
+* [Issue] [Orphaned header validation skips the EIP-4844 blob-gas presence checks](https://github.com/NethermindEth/nethermind/issues/13682) - 2026-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

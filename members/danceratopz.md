@@ -206,6 +206,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [refactor(json-loader): use existing Pydantic fixture models](https://github.com/ethereum/execution-specs/issues/3617) - 2026-09-18
 * [Review] [Review on: feat(spec-tests, spec-tools): run fork-transition fixtures through EELS](https://github.com/ethereum/execution-specs/pull/3564#pullrequestreview-5263091266) - 2026-09-21
 * [Commit] [feat(tests): complete EIP-7981 coverage and testing checklist (#3537)](https://github.com/ethereum/execution-specs/commit/127be12aa488fc6ac7101ff9f2daeaa7f9dc11c8) - 2026-09-21
+* [Review] [Review on: feat(tests): improve EIP-8038 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3613#pullrequestreview-5280547877) - 2026-09-22
+* [Pull Request] [chore(ci,releases): fill `tests@` releases through Amsterdam](https://github.com/ethereum/execution-specs/pull/3632) - 2026-09-22
+* [Pull Request] [fix(spec-tests): use the testing fork's blob schedule for BPO fixtures](https://github.com/ethereum/execution-specs/pull/3633) - 2026-09-22
+* [Review] [Review on: feat(testing): add blockchain_test_engine_reorg format and consume reorg simulator](https://github.com/ethereum/execution-specs/pull/3556#pullrequestreview-5274976516) - 2026-09-22
+* [Commit] [chore(ci,releases): fill `tests@` releases through Amsterdam (#3632)](https://github.com/ethereum/execution-specs/commit/756dc47153fadb9292983600365e98e817f479f4) - 2026-09-22
+* [Commit] [fix(spec-tests): validate BPO fixtures with the framework's blob schedule (#3633)](https://github.com/ethereum/execution-specs/commit/4b43084b416e70fd451daab3889123855c3a324c) - 2026-09-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -246,6 +252,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #95, September 7th, 2026](https://github.com/ethereum/pm/issues/2209) - 2026-08-31
 * [Issue] [All Core Devs - Testing (ACDT) #97, Sept 21, 2026](https://github.com/ethereum/pm/issues/2225) - 2026-09-15
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [Flat DB: SYNCING for the child of a resubmitted known block after finality pruning under Hive consume-enginex](https://github.com/NethermindEth/nethermind/issues/13678) - 2026-09-22
 ## Q2 2026
 
 

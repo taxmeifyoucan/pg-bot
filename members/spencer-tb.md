@@ -354,6 +354,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(spec-specs,forks,tests): EIP-8037 - cap tx.gas at TX_MAX_TOTAL_GAS_LIMIT (2^32-1) (#3582)](https://github.com/ethereum/execution-specs/commit/c335bc4e9e99f7b91024d9033bdc89ce54394848) - 2026-09-21
 * [Commit] [refactor(spec-specs): keep JUMPDEST analysis unchanged under EIP-8024 (#3618)](https://github.com/ethereum/execution-specs/commit/ad202d76b52c074ffa9395bd69a72f2a12ad1784) - 2026-09-21
 * [Commit] [feat(tests): cover same-block system contract deployment (#3615)](https://github.com/ethereum/execution-specs/commit/fe92ff76ae9687729955b2b5f9cc56c7bcc54bcf) - 2026-09-21
+* [Review] [Review on: chore(ci,releases): fill `tests@` releases through Amsterdam](https://github.com/ethereum/execution-specs/pull/3632#pullrequestreview-5280322972) - 2026-09-22
+* [Review] [Review on: fix(spec-tests): use the testing fork's blob schedule for BPO fixtures](https://github.com/ethereum/execution-specs/pull/3633#pullrequestreview-5280000145) - 2026-09-22
+* [Review] [Review on: feat(tests): close out eip-7954 checklist](https://github.com/ethereum/execution-specs/pull/3546#pullrequestreview-5275967100) - 2026-09-22
+* [Commit] [feat(tests): cover block state budget after authorization preparation rollback (#3540)](https://github.com/ethereum/execution-specs/commit/0a53ad834bb2d85d94e17f0c6246f0ff4bf5a4de) - 2026-09-22
+* [Commit] [feat(tests): EIP-8037 - no refill for failed creates onto alive accounts (#3529)](https://github.com/ethereum/execution-specs/commit/80354f6e7e9e4814a4c05b3f8a20c504f6bfd774) - 2026-09-22
+* [Commit] [feat(tests): more amsterdam coverage gaps (#3627)](https://github.com/ethereum/execution-specs/commit/37615c92a4b1c53358c45c3ccd9cde3b1a4252b2) - 2026-09-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

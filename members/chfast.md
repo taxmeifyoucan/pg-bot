@@ -290,6 +290,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Benchmark the execution spec tests on CodSpeed](https://github.com/ipsilon/evmone/pull/1730) - 2026-09-21
 * [Commit] [Implement EIP-8037: "State Creation Gas Cost Increase" (#1672)](https://github.com/ipsilon/evmone/commit/e2290c6b72c991ff5636e87c11bc5d81efbce267) - 2026-09-21
 * [Commit] [test: Report the state test summary to a given stream (#1729)](https://github.com/ipsilon/evmone/commit/2839b5a5361a8f3c073d96b9c56e937d36ede3eb) - 2026-09-21
+* [Pull Request] [Implement EIP-2780: "Resource-based intrinsic transaction gas"](https://github.com/ipsilon/evmone/pull/1733) - 2026-09-22
+* [Pull Request] [Implement EIP-8038: "State-access gas cost update"](https://github.com/ipsilon/evmone/pull/1731) - 2026-09-22
+* [Review] [Review on: Implement EIP-8038: "State-access gas cost update"](https://github.com/ipsilon/evmone/pull/1731#pullrequestreview-5278882791) - 2026-09-22
+* [Pull Request] [evm: Refactor the state-access cost constants](https://github.com/ipsilon/evmone/pull/1732) - 2026-09-22
+* [Commit] [Implement EIP-8038: "State-access gas cost update" (#1731)](https://github.com/ipsilon/evmone/commit/6d6b91222ed7a7a667957bc23c9df3c36ef87d12) - 2026-09-22
+* [Commit] [evm: Refactor the state-access cost constants (#1732)](https://github.com/ipsilon/evmone/commit/4029845327a39f0e6d110120f20c5636b503dbb4) - 2026-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -370,6 +376,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): port the repeated ECRECOVER call fillers](https://github.com/ethereum/execution-specs/pull/3590) - 2026-09-15
 * [Commit] [feat(tests): fold the ECRECOVER v and curve-order cases into test_precompiles (#3589)](https://github.com/ethereum/execution-specs/commit/f7847b76bac6113cce6a94e8d62c734609b7ec32) - 2026-09-15
 * [Commit] [feat(test-benchmark): strengthen and consolidate TSTORE benchmark (#3441)](https://github.com/ethereum/execution-specs/commit/71a7b18466a3293e32ab04e6fce074ad8986da74) - 2026-09-18
+* [Pull Request] [feat(test-benchmark): pre-fund CREATE targets and add randomized jumpdest analysis](https://github.com/ethereum/execution-specs/pull/3631) - 2026-09-22
+* [Commit] [feat(tests): port the repeated ECRECOVER call fillers (#3590)](https://github.com/ethereum/execution-specs/commit/24124a6e41519cd1acef6fbf276a093631b1c53f) - 2026-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

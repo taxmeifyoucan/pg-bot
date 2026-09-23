@@ -259,6 +259,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Cap self-built payload envelopes at one per valid proposer per slot](https://github.com/OffchainLabs/prysm/pull/17433#pullrequestreview-5271703206) - 2026-09-21
 * [Pull Request] [Skip execution blocks the EL no longer has when reconstructing Gloas envelopes by root](https://github.com/OffchainLabs/prysm/pull/17526) - 2026-09-21
 * [Pull Request] [Return nil for null execution blocks in batch fetch instead of a parentHash decode error](https://github.com/OffchainLabs/prysm/pull/17525) - 2026-09-21
+* [Pull Request] [Use PROPOSER_REORG_CUTOFF_BPS in GetProposerHead](https://github.com/OffchainLabs/prysm/pull/17538) - 2026-09-22
+* [Pull Request] [Check LMD/FFG consistency for block and pool attestations](https://github.com/OffchainLabs/prysm/pull/17539) - 2026-09-22
+* [Pull Request] [Proposer: respect PTC blob data unavailable majority](https://github.com/OffchainLabs/prysm/pull/17537) - 2026-09-22
+* [Review] [Review on: Don't fire `chain_reorg` when only the Gloas payload status flips](https://github.com/OffchainLabs/prysm/pull/17534#pullrequestreview-5279986887) - 2026-09-22
+* [Commit] [Return nil for null execution blocks in batch fetch instead of a parentHash decode error (#17525)](https://github.com/OffchainLabs/prysm/commit/964f0ba0491d91f00594ab04fc7dc7087c7dc11b) - 2026-09-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

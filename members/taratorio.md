@@ -381,6 +381,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: test crash recovery during catch-up reorgs](https://github.com/erigontech/erigon/pull/24032#pullrequestreview-5265160213) - 2026-09-21
 * [Commit] [execution: remove unused code store (#24181)](https://github.com/erigontech/erigon/commit/f6867e871be19225af1eee01f91b94048e3a9841) - 2026-09-21
 * [Commit] [agents: add guidance to use ponytail (#24178)](https://github.com/erigontech/erigon/commit/6297ad912387d908cba3547351a93a13e9d1ab73) - 2026-09-21
+* [Pull Request] [execution/tracing: support for EIP-8037 state gas tracing (part 3)](https://github.com/erigontech/erigon/pull/24231) - 2026-09-22
+* [Pull Request] [execution/tracing: move internal tracers to V2 hooks for EIP-8037 state gas tracing (part 4)](https://github.com/erigontech/erigon/pull/24240) - 2026-09-22
+* [Review] [Review on: execution/state: versioned-state foundation (1/2, split of #23967)](https://github.com/erigontech/erigon/pull/24132#pullrequestreview-5273819935) - 2026-09-22
+* [Review] [Review on: chainspec, clparams: schedule Glamsterdam on Sepolia](https://github.com/erigontech/erigon/pull/24225#pullrequestreview-5276242265) - 2026-09-22
+* [Commit] [execution/tracing: support for EIP-8037 state gas tracing (part 2) (#24203)](https://github.com/erigontech/erigon/commit/be0f2d081af0cf7c42a98cd86fffc531304d8add) - 2026-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

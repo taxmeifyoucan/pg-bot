@@ -582,6 +582,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf: process blocks while sender recovery finishes (#13597)](https://github.com/NethermindEth/nethermind/commit/ab30325a698ba4f006c9c3dc47b8c346383a9136) - 2026-09-21
 * [Commit] [fix: bound the discovery event loop shutdown (#13617)](https://github.com/NethermindEth/nethermind/commit/2bf95a3fb9ab7eaa5e36d94cf02d6cd8bc2c3b1d) - 2026-09-21
 * [Commit] [ci: align MTP test extension versions and dump a test host that dies mid-run (#13613)](https://github.com/NethermindEth/nethermind/commit/d4e31bea8412e82257c2c2037fa4c7d820ae1ce3) - 2026-09-21
+* [Review] [Review on: Fix a race in the late-sender wave prewarm test](https://github.com/NethermindEth/nethermind/pull/13679#pullrequestreview-5279234078) - 2026-09-22
+* [Review] [Review on: chore(deps): update DotNetty package](https://github.com/NethermindEth/nethermind/pull/13687#pullrequestreview-5279968688) - 2026-09-22
+* [Review] [Review on: chore: remove funding.json](https://github.com/NethermindEth/nethermind/pull/13696#pullrequestreview-5282319755) - 2026-09-22
+* [Pull Request] [perf: prototype two-nibble trie root hashing](https://github.com/NethermindEth/nethermind/pull/13673) - 2026-09-22
+* [Pull Request] [perf(engine): defer suggested PoS header persistence](https://github.com/NethermindEth/nethermind/pull/13684) - 2026-09-22
+* [Review] [Review on: Inherit parent slot number in simulated child headers](https://github.com/NethermindEth/nethermind/pull/13584#pullrequestreview-5283937418) - 2026-09-22
+* [Review] [Review on: Pass parent slot number through simulated payload attributes](https://github.com/NethermindEth/nethermind/pull/13585#pullrequestreview-5283933534) - 2026-09-22
+* [Pull Request] [perf(engine): prototype remaining newPayload pipeline overlap](https://github.com/NethermindEth/nethermind/pull/13691) - 2026-09-22
+* [Commit] [ci: fail the expb run if the yq download does not produce yq (#13631)](https://github.com/NethermindEth/nethermind/commit/b10b75c87a4e6972b64745d48731c91c7fe78d1d) - 2026-09-22
+* [Commit] [ci: report MGas/s for the request and the overhead window, not just processing (#13637)](https://github.com/NethermindEth/nethermind/commit/ac02224f25fd4901116ebf2643d522ec4a0e60a1) - 2026-09-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

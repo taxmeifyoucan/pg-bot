@@ -139,6 +139,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [use proposal epoch fork for proposer preference signatures (#11302)](https://github.com/Consensys-Incorporated/teku/commit/cefdee4d783bc4645f9dc7d31d2e860566bab082) - 2026-09-18
 * [Commit] [enable gossip reference tests (#11282)](https://github.com/Consensys-Incorporated/teku/commit/ed9584e4a13991bd1546ef8170afa9de03384bb8) - 2026-09-18
 * [Issue] [enable bls to execution change ref test](https://github.com/Consensys-Incorporated/teku/issues/11312) - 2026-09-21
+* [Pull Request] [enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11320) - 2026-09-22
+* [Review] [Review on: Fix gloas transition](https://github.com/Consensys-Incorporated/teku/pull/11315#pullrequestreview-5280523047) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646) - 2026-09-17
 * [Pull Request] [Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647) - 2026-09-18

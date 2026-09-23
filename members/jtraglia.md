@@ -320,6 +320,18 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5649#pullrequestreview-5262768030) - 2026-09-21
 * [Commit] [Reject pre-Gloas slots in `get_ptc` (#5652)](https://github.com/ethereum/consensus-specs/commit/bb8186c5f72698ac2d9d624c91da72f7d7f36f36) - 2026-09-21
 * [Commit] [Remove complicated/broken BTEC tests (#5654)](https://github.com/ethereum/consensus-specs/commit/7d2a829f2d0307088cd109d6360d8cff51b2c3e9) - 2026-09-21
+* [Pull Request] [Reject pre-Gloas slots using `GLOAS_FORK_EPOCH`](https://github.com/ethereum/consensus-specs/pull/5663) - 2026-09-22
+* [Review] [Review on: Reject pre-Gloas slots using `GLOAS_FORK_EPOCH`](https://github.com/ethereum/consensus-specs/pull/5663#pullrequestreview-5283556600) - 2026-09-22
+* [Pull Request] [Bump version to v1.7.0-beta.2](https://github.com/ethereum/consensus-specs/pull/5664) - 2026-09-23
+* [Pull Request] [Add test for missing head flag edge case at the fork](https://github.com/ethereum/consensus-specs/pull/5661) - 2026-09-22
+* [Review] [Review on: Remove unnecessary variable in `get_forkchoice_store()`](https://github.com/ethereum/consensus-specs/pull/5659#pullrequestreview-5285394203) - 2026-09-23
+* [Review] [Review on: Update `compute_weak_subjectivity_period` to return `Epoch`](https://github.com/ethereum/consensus-specs/pull/5660#pullrequestreview-5282910314) - 2026-09-22
+* [Review] [Review on: Convert `Store` to use milliseconds](https://github.com/ethereum/consensus-specs/pull/5658#pullrequestreview-5280896379) - 2026-09-22
+* [Review] [Review on: Add EIP-8015 to Heze](https://github.com/ethereum/consensus-specs/pull/5655#pullrequestreview-5279836963) - 2026-09-22
+* [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5279296335) - 2026-09-22
+* [Commit] [Bump version to v1.7.0-beta.2 (#5664)](https://github.com/ethereum/consensus-specs/commit/5afdff62889b1a13a5be804c8be8763abf1c8654) - 2026-09-23
+* [Commit] [Add test for missing head flag edge case at the fork (#5661)](https://github.com/ethereum/consensus-specs/commit/dff05c7aebb7735d16333758b199a2f7da8d119f) - 2026-09-23
+* [Commit] [Reject pre-Gloas slots using `GLOAS_FORK_EPOCH` (#5663)](https://github.com/ethereum/consensus-specs/commit/64dd71b0c891dc20224f0ffe9f415e8a00c988af) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -365,6 +377,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [All Core Devs - Testing (ACDT) #94, August 31, 2026](https://github.com/ethereum/pm/issues/2204) - 2026-08-26
 
 * [Issue] [All Core Devs - Testing (ACDT) #96, September 14, 2026](https://github.com/ethereum/pm/issues/2217) - 2026-09-07
+* [Issue] [All Core Devs - Testing (ACDT) #98, September 28, 2026](https://github.com/ethereum/pm/issues/2230) - 2026-09-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: bound engine_getInclusionListV1 result by the consensus-layer transaction byte measure](https://github.com/ethereum/execution-apis/pull/870#pullrequestreview-5067286014) - 2026-08-31
 ## Q2 2026

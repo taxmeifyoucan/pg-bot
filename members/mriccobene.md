@@ -65,6 +65,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: try to mach published snapshot granularity on the exec-from-zero test](https://github.com/erigontech/erigon/pull/24071) - 2026-09-16
 * [Commit] [qa-tests: improve the report of the exec-from-zero test (#24031)](https://github.com/erigontech/erigon/commit/3f25d8aa82c4f0ca377eb832e600396a5ab9665b) - 2026-09-16
 * [Commit] [execution/stagedsync: index block-end system call logs in the parallel executor (#24067)](https://github.com/erigontech/erigon/commit/9c82a9bded1ef45008056a707d40eeb9c141a473) - 2026-09-17
+* [Review] [Review on: qa-tests: try to mach published snapshot granularity on the exec-from-zero test](https://github.com/erigontech/erigon/pull/24071#pullrequestreview-5279143054) - 2026-09-22
+* [Commit] [qa-tests: try to mach published snapshot granularity on the exec-from-zero test (#24071)](https://github.com/erigontech/erigon/commit/c0578eece97526b323ded83f3a62345fc29ca288) - 2026-09-22
 ## Q2 2026
 
 

@@ -291,6 +291,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: log the value and execution payment of each bid candidate](https://github.com/ChainSafe/lodestar/pull/10135#pullrequestreview-5262757080) - 2026-09-21
 * [Commit] [feat: search payload at deadline (#10134)](https://github.com/ChainSafe/lodestar/commit/57ffc39074bb3888e43ec436a72460f94aa34343) - 2026-09-22
 * [Commit] [fix: specify optimistic search for payload in NetworkProcessor (#10123)](https://github.com/ChainSafe/lodestar/commit/fbb58f72800e4e444a768de009ddc8c3ed73f867) - 2026-09-21
+* [Review] [Review on: feat(bindings): zig state transition](https://github.com/ChainSafe/lodestar/pull/9632#pullrequestreview-5285970135) - 2026-09-23
+* [Review] [Review on: test: assert progressive balance drift metric](https://github.com/ChainSafe/lodestar/pull/10143#pullrequestreview-5273769563) - 2026-09-22
+* [Commit] [refactor: change onClockSlot to startPayloadPollAtSlot() (#10144)](https://github.com/ChainSafe/lodestar/commit/c9d60c80802892c7c78e0ac478dba67f27a25d58) - 2026-09-22
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -63,6 +63,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Standardise FCR metrics](https://github.com/sigp/lighthouse/pull/9987) - 2026-09-07
 * [Issue] [Reserved - 10k](https://github.com/sigp/lighthouse/issues/10000) - 2026-09-08
 * [Pull Request] [Route fork-choice execution status through fork choice nodes](https://github.com/sigp/lighthouse/pull/10100) - 2026-09-21
+* [Review] [Review on: Fix block-carried payload votes discarded on late envelopes](https://github.com/sigp/lighthouse/pull/10101#pullrequestreview-5277570679) - 2026-09-22
+* [Pull Request] [Document won't-fix vote slot reset in V28 to V29 migration](https://github.com/sigp/lighthouse/pull/10108) - 2026-09-22
+* [Review] [Review on: Gloas progressive merkle proofs](https://github.com/sigp/lighthouse/pull/9790#pullrequestreview-5277655600) - 2026-09-22
+* [Review] [Review on: Do not advance state under fc lock](https://github.com/sigp/lighthouse/pull/9895#pullrequestreview-5276970682) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 

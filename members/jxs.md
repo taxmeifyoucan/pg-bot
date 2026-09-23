@@ -22,8 +22,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309#pullrequestreview-4895370122) - 2026-08-10
 
 * [Review] [Review on: fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309#pullrequestreview-5265816141) - 2026-09-21
+* [Pull Request] [update dependencies](https://github.com/sigp/discv5/pull/311) - 2026-09-22
+* [Review] [Review on: update dependencies](https://github.com/sigp/discv5/pull/311#pullrequestreview-5276682650) - 2026-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Allow readers to ignore trailing bytes after declared SSZ bytes](https://github.com/ethereum/consensus-specs/pull/5511#pullrequestreview-4976938275) - 2026-08-19
+
+[sigp/enr](https://github.com/sigp/enr)
+* [Review] [Review on: Move to Edition 2024](https://github.com/sigp/enr/pull/91#pullrequestreview-5280088450) - 2026-09-22
+* [Review] [Review on: Update dependencies](https://github.com/sigp/enr/pull/89#pullrequestreview-5278933354) - 2026-09-22
 ## Q2 2026
 
 

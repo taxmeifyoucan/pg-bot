@@ -101,8 +101,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Remove `--disable-progressive-ssz` feature flag](https://github.com/OffchainLabs/prysm/pull/17517#pullrequestreview-5267823752) - 2026-09-21
 * [Review] [Review on: Remove dead pre-genesis path](https://github.com/OffchainLabs/prysm/pull/17523#pullrequestreview-5270626716) - 2026-09-21
 * [Commit] [Update go-libp2p to v0.50.0 (#17528)](https://github.com/OffchainLabs/prysm/commit/f738f5164717a2605d6cac009f913b6ef4716ae0) - 2026-09-21
+* [Pull Request] [Update hashtree to v0.2.6](https://github.com/OffchainLabs/prysm/pull/17542) - 2026-09-22
+* [Review] [Review on: Schedule the Gloas fork on Sepolia](https://github.com/OffchainLabs/prysm/pull/17512#pullrequestreview-5281569540) - 2026-09-22
+* [Review] [Review on: Marshal states directly behind their DB version key when saving](https://github.com/OffchainLabs/prysm/pull/17518#pullrequestreview-5282321386) - 2026-09-22
+* [Commit] [Update hashtree to v0.2.6 (#17542)](https://github.com/OffchainLabs/prysm/commit/03f3712a184c1c7cc9fd38d3b1abc5328934cdef) - 2026-09-22
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
+* [Review] [Review on: Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75#pullrequestreview-5282164914) - 2026-09-22
 ## Q2 2026
 
 
