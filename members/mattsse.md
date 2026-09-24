@@ -921,6 +921,19 @@ Team: Reth
 * [Commit] [fix(rpc): return null for missing transaction replays (#27364)](https://github.com/paradigmxyz/reth/commit/e3d7f0952dc298ff94fc31ece9a59eb25ebcf340) - 2026-09-22
 * [Commit] [fix(rpc): classify pruned changeset errors as unavailable history (#27367)](https://github.com/paradigmxyz/reth/commit/534c60db9d4be32d349e5b31456416ecb4b4dbee) - 2026-09-22
 * [Commit] [fix(rpc): include transaction hash in individual replays (#27365)](https://github.com/paradigmxyz/reth/commit/3dd806a43352cdcf975f26e3399aa21f09e6c784) - 2026-09-22
+* [Pull Request] [fix(rpc): require explicit testing API](https://github.com/paradigmxyz/reth/pull/27398) - 2026-09-24
+* [Review] [Review on: feat(engine): make the backfill threshold configurable](https://github.com/paradigmxyz/reth/pull/27329#pullrequestreview-5297749499) - 2026-09-23
+* [Review] [Review on: refactor: remove cached state root/proof methods](https://github.com/paradigmxyz/reth/pull/27109#pullrequestreview-5293057295) - 2026-09-23
+* [Review] [Review on: feat(rpc): add cache byte limits and idle eviction](https://github.com/paradigmxyz/reth/pull/27351#pullrequestreview-5292370891) - 2026-09-23
+* [Review] [Review on: fix(rpc): apply --rpc.gascap to eth_estimateGas](https://github.com/paradigmxyz/reth/pull/27384#pullrequestreview-5290238338) - 2026-09-23
+* [Review] [Review on: chore(ci): protect dependency installs with Aegis](https://github.com/paradigmxyz/reth/pull/27358#pullrequestreview-5291086620) - 2026-09-23
+* [Review] [Review on: refactor(provider): remove memory overlay provider](https://github.com/paradigmxyz/reth/pull/26923#pullrequestreview-5289437880) - 2026-09-23
+* [Pull Request] [chore(deps): bump alloy to 2.5.0](https://github.com/paradigmxyz/reth/pull/27387) - 2026-09-23
+* [Review] [Review on: fix(txpool): remove validation producer mutex](https://github.com/paradigmxyz/reth/pull/27361#pullrequestreview-5289069338) - 2026-09-23
+* [Review] [Review on: feat(engine): run snap/2 sync as an engine backfill](https://github.com/paradigmxyz/reth/pull/27346#pullrequestreview-5288959053) - 2026-09-23
+* [Review] [Review on: fix(txpool): scale validation channel capacity with worker count](https://github.com/paradigmxyz/reth/pull/27362#pullrequestreview-5288417783) - 2026-09-23
+* [Commit] [perf(storage): reuse canonical BlockState chain when building overlay providers (#27319)](https://github.com/paradigmxyz/reth/commit/8ae06eca59c85d35c58ba10aff111b0e7e11f177) - 2026-09-23
+* [Commit] [chore(deps): bump alloy to 2.5.0 (#27387)](https://github.com/paradigmxyz/reth/commit/458d609fb61d47eabc0ec1c027f1514ec405813c) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -954,6 +967,7 @@ Team: Reth
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26
+* [Review] [Review on: chore(ci): protect dependency installs with Aegis](https://github.com/paradigmxyz/revmc/pull/415#pullrequestreview-5291088699) - 2026-09-23
 ## Q2 2026
 
 

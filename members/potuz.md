@@ -110,6 +110,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536#pullrequestreview-5281187598) - 2026-09-22
 * [Pull Request] [Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540) - 2026-09-22
 * [Commit] [Cap self-built payload envelopes at one per valid proposer per slot (#17433)](https://github.com/OffchainLabs/prysm/commit/e8fef12f79ba39215b39f43b60dfa96fe5aecf03) - 2026-09-22
+* [Review] [Review on: intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536#pullrequestreview-5296503617) - 2026-09-23
+* [Pull Request] [Raise the Gloas builder bid wait to 600ms and make it configurable](https://github.com/OffchainLabs/prysm/pull/17551) - 2026-09-23
+* [Commit] [Raise the Gloas builder bid wait to 600ms and make it configurable (#17551)](https://github.com/OffchainLabs/prysm/commit/78835ab6dcbabef1aa44a5463910cbb6dd317cf2) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

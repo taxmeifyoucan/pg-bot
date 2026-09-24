@@ -47,6 +47,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [spectest alpha 12 compliance (spec pin bump and assorted fix commits) (#17310)](https://github.com/OffchainLabs/prysm/commit/7b039cee1a3790635a28eb5a82f5242fb5c57a4f) - 2026-08-27
 * [Review] [Review on: Regenerate attestation pre-states one at a time](https://github.com/OffchainLabs/prysm/pull/17456#pullrequestreview-5117543312) - 2026-09-04
 * [Review] [Review on: Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235#pullrequestreview-5169713345) - 2026-09-10
+* [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5294467358) - 2026-09-23
 ## Q2 2026
 
 

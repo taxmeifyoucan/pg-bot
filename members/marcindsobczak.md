@@ -18,6 +18,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: Reserve one receipt slot per parallel worker tracer](https://github.com/NethermindEth/nethermind/pull/13267#pullrequestreview-5141022229) - 2026-09-08
 * [Pull Request] [Add FlatDb.DropPruningTrieState to reclaim the patricia trie after conversion](https://github.com/NethermindEth/nethermind/pull/13572) - 2026-09-18
 * [Review] [Review on: ci: allow collaborators to request OCR reviews in PR comments](https://github.com/NethermindEth/nethermind/pull/13580#pullrequestreview-5249052186) - 2026-09-18
+* [Pull Request] [fix(rpc): wake eth_sendRawTransactionSync after the tx index is published](https://github.com/NethermindEth/nethermind/pull/13736) - 2026-09-23
+* [Pull Request] [fix(rpc): isolate synchronous transaction concurrency](https://github.com/NethermindEth/nethermind/pull/13735) - 2026-09-23
+* [Review] [Review on: fix(rpc): isolate synchronous transaction concurrency](https://github.com/NethermindEth/nethermind/pull/13735#pullrequestreview-5295600164) - 2026-09-23
+* [Review] [Review on: Add FlatDb.DropPruningTrieState to reclaim the patricia trie after conversion](https://github.com/NethermindEth/nethermind/pull/13572#pullrequestreview-5291271149) - 2026-09-23
+* [Commit] [fix(rpc): wake eth_sendRawTransactionSync after the tx index is published (#13736)](https://github.com/NethermindEth/nethermind/commit/54a768b21371b298e59d84d6d886bec0439e532f) - 2026-09-23
+* [Commit] [Add FlatDb.DropPruningTrieState to reclaim the patricia trie after conversion (#13572)](https://github.com/NethermindEth/nethermind/commit/0f088e7585368ec266b167ead90119887d33d39c) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652992370) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652988229) - 2026-07-08

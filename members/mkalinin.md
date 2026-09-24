@@ -33,6 +33,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4957377550) - 2026-08-18
 * [Review] [Review on: Define FCR behavior on node restarts](https://github.com/ethereum/consensus-specs/pull/5610#pullrequestreview-5151480465) - 2026-09-09
 * [Review] [Review on: Fix attestation step order in FCR test vectors](https://github.com/ethereum/consensus-specs/pull/5627#pullrequestreview-5219822139) - 2026-09-16
+* [Pull Request] [Add a mechanism for providing a restart-resilient confirmed root](https://github.com/ethereum/consensus-specs/pull/5673) - 2026-09-23
+* [Pull Request] [Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670) - 2026-09-23
+* [Pull Request] [Fix empty slot support discount for Gloas](https://github.com/ethereum/consensus-specs/pull/5672) - 2026-09-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

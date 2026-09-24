@@ -59,6 +59,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: fix(tests): un-skip remaining Amsterdam ported static tests and drop the skip list (Pt. 2d)](https://github.com/ethereum/execution-specs/pull/3322#pullrequestreview-5281298061) - 2026-09-22
 * [Review] [Review on: refactor(test-vm, tests): add `create_op` helper and drop `CREATE`/`CREATE2` branches](https://github.com/ethereum/execution-specs/pull/3625#pullrequestreview-5280792591) - 2026-09-22
 * [Review] [Review on: chore(tests): record measured EIP-7928 coverage in the checklist evidence](https://github.com/ethereum/execution-specs/pull/3620#pullrequestreview-5280457487) - 2026-09-22
+* [Pull Request] [fix(tests): isolate the BAL factory create-chain collision pre-alloc group](https://github.com/ethereum/execution-specs/pull/3640) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

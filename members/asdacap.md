@@ -238,6 +238,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Keep the unknown-original storage flag across repeated writes (#13554)](https://github.com/NethermindEth/nethermind/commit/b537eaf863826967e04c3312ef53065a0e63bcc1) - 2026-09-20
 * [Commit] [Make BlockchainProcessor main-only and split OneTimeChainProcessor (#13449)](https://github.com/NethermindEth/nethermind/commit/37d3872ea3fa5ca674c535b758dbda7748c1f468) - 2026-09-21
 * [Pull Request] [Remove the flat DB preimage recording feature](https://github.com/NethermindEth/nethermind/pull/13690) - 2026-09-22
+* [Pull Request] [feat(flat): add FlatDb.EnableCarryForwardCache](https://github.com/NethermindEth/nethermind/pull/13752) - 2026-09-23
+* [Review] [Review on: perf: add dedicated processing thread and Windows worker affinity](https://github.com/NethermindEth/nethermind/pull/13751#pullrequestreview-5298572015) - 2026-09-24
+* [Pull Request] [feat(init): run a single step as a standalone command](https://github.com/NethermindEth/nethermind/pull/13715) - 2026-09-23
+* [Commit] [feat(flat): add FlatDb.EnableCarryForwardCache (#13752)](https://github.com/NethermindEth/nethermind/commit/361cce87e5ce4fc4a97387e50a244430b588ccc7) - 2026-09-24
+* [Commit] [docs(agents): require AI agents to declare harness and model on GitHub (#13605)](https://github.com/NethermindEth/nethermind/commit/96fbff65a723f0430398db03ed96ac0a4d97c048) - 2026-09-23
+* [Commit] [Remove the flat DB preimage recording feature (#13690)](https://github.com/NethermindEth/nethermind/commit/9268462cf1b42a982ab011d330b2a4d9a5e9e29b) - 2026-09-23
 ## Q2 2026
 
 

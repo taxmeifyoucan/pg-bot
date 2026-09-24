@@ -122,6 +122,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Increase BAL retention window](https://github.com/status-im/nimbus-eth1/pull/4815) - 2026-09-18
 * [Commit] [Use nim-ssz-serialization digest in sha256 precompile (#4817)](https://github.com/status-im/nimbus-eth1/commit/925bcc20cf47e46b98aaabca219088ff21e3794a) - 2026-09-18
 * [Commit] [Add parallel flag to enable/disable parallel features (#4816)](https://github.com/status-im/nimbus-eth1/commit/bd2bf36183b019602c5805fc747e00afbdb9bc94) - 2026-09-18
+* [Commit] [Storage trie static vids (#4797)](https://github.com/status-im/nimbus-eth1/commit/2f0ae87cd112616a4ca6b168bdaed4b95a112630) - 2026-09-23
 ## Q2 2026
 
 

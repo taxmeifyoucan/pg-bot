@@ -65,6 +65,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #846 from ethpandaops/feat/xatu-block-arrival](https://github.com/ethpandaops/dora/commit/84bf52d96362ce0d9f59b1fa5b34093e29a8fbd9) - 2026-08-26
 * [Commit] [Add block/payload sort toggles to the timeline column](https://github.com/ethpandaops/dora/commit/f36f295200158b8c62ba590fdca01b7bc8182596) - 2026-08-26
 * [Review] [Review on: Support EIP-8141 frame transactions](https://github.com/ethpandaops/dora/pull/855#pullrequestreview-5129280133) - 2026-09-07
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Pull Request] [Probe rolloor.<network> as a service URL](https://github.com/ethpandaops/cartographoor/pull/109) - 2026-09-23
 ## Q2 2026
 
 

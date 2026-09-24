@@ -72,6 +72,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8038: clarify charge attribution and component definitions](https://github.com/ethereum/EIPs/pull/12343#pullrequestreview-5210802123) - 2026-09-15
 * [Review] [Review on: Update EIP-8037: remove stale EIP-7610 collision rules](https://github.com/ethereum/EIPs/pull/12296#pullrequestreview-5246893634) - 2026-09-18
 * [Review] [Review on: Update EIP-8038: use execution-gas wording, fix the CALLCODE creation cell and a stale benchmark test name](https://github.com/ethereum/EIPs/pull/12353#pullrequestreview-5245176606) - 2026-09-18
+* [Review] [Review on: Update EIP-8347: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/pull/12366#pullrequestreview-5290101245) - 2026-09-23
 ## Q2 2026
 
 

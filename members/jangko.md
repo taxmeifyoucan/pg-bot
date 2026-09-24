@@ -132,6 +132,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [engine_api: getBlobsV4 should check against Amsterdam fork, not Osaka (#4778)](https://github.com/status-im/nimbus-eth1/commit/7f13c2e20e257ab20bdbcef32265e81093ff2a1e) - 2026-09-11
 * [Pull Request] [Fix evmstate parseTx bug](https://github.com/status-im/nimbus-eth1/pull/4790) - 2026-09-14
 * [Commit] [Fix evmstate parseTx bug (#4790)](https://github.com/status-im/nimbus-eth1/commit/fb1869edfb63b071c81d299fca8012fbcff9c2af) - 2026-09-14
+* [Pull Request] [schedule Sepolia Glamsterdam activation](https://github.com/status-im/nimbus-eth1/pull/4836) - 2026-09-23
+* [Commit] [schedule Sepolia Glamsterdam activation (#4836)](https://github.com/status-im/nimbus-eth1/commit/c383ada50e5dd0bfe74344ad716c1e05163bc528) - 2026-09-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

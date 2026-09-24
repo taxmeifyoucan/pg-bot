@@ -128,6 +128,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Update tests to be spec agnostic](https://github.com/sigp/lighthouse/pull/10051#pullrequestreview-5275025244) - 2026-09-22
 * [Review] [Review on: Document won't-fix vote slot reset in V28 to V29 migration](https://github.com/sigp/lighthouse/pull/10108#pullrequestreview-5278098894) - 2026-09-22
 * [Review] [Review on: Do not advance state under fc lock](https://github.com/sigp/lighthouse/pull/9895#pullrequestreview-5277291687) - 2026-09-22
+* [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5298980654) - 2026-09-24
+* [Pull Request] [Gloas spec v1.7.0-beta.2](https://github.com/sigp/lighthouse/pull/10114) - 2026-09-23
+* [Review] [Review on: Gloas spec v1.7.0-beta.2](https://github.com/sigp/lighthouse/pull/10114#pullrequestreview-5287916952) - 2026-09-23
+* [Review] [Review on: Route fork-choice execution status through fork choice nodes](https://github.com/sigp/lighthouse/pull/10100#pullrequestreview-5286456432) - 2026-09-23
+* [Review] [Review on: Fix gossip bid rejection at epoch boundaries and on the head's parent](https://github.com/sigp/lighthouse/pull/10061#pullrequestreview-5287470983) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

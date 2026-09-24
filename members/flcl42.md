@@ -356,6 +356,20 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Isolate VM test fork activation between tests (#13555)](https://github.com/NethermindEth/nethermind/commit/22b6e86fe083b9d623dbcc98639c488f90b832c6) - 2026-09-22
 * [Commit] [Use post-refund receipt gas for feeHistory reward percentiles (#13563)](https://github.com/NethermindEth/nethermind/commit/1083bc66f554a03b1a4f135f03c22eb9f31d6410) - 2026-09-22
 * [Commit] [Validate slot number on orphaned headers (#13586)](https://github.com/NethermindEth/nethermind/commit/2bd4220d9456aa029f1bf8b9f08b87ce85d87a11) - 2026-09-22
+* [Issue] [engine_getPayloadV5 still served at/after Amsterdam (drops slotNumber/blockAccessList)](https://github.com/NethermindEth/nethermind/issues/13713) - 2026-09-23
+* [Issue] [engine_newPayloadV3+ report INVALID instead of -32602 for null withdrawals/blobGasUsed/excessBlobGas](https://github.com/NethermindEth/nethermind/issues/13714) - 2026-09-23
+* [Issue] [CalculateHashFromFlatEncodedRequests silently drops request entries with length <= 1](https://github.com/NethermindEth/nethermind/issues/13723) - 2026-09-23
+* [Issue] [engine_newPayloadV3/V4 accept payloads outside their fork windows](https://github.com/NethermindEth/nethermind/issues/13712) - 2026-09-23
+* [Issue] [engine_newPayload strict-fields rule (null = not provided) unenforced for transactions and remaining payload fields](https://github.com/NethermindEth/nethermind/issues/13720) - 2026-09-23
+* [Issue] [engine_exchangeTransitionConfigurationV1 supported but hidden from engine_exchangeCapabilities post-Cancun](https://github.com/NethermindEth/nethermind/issues/13722) - 2026-09-23
+* [Issue] [Fork-window markers diverge across paired Engine gates (RequestsEnabled vs IsEip7623Enabled)](https://github.com/NethermindEth/nethermind/issues/13721) - 2026-09-23
+* [Issue] [engine_forkchoiceUpdatedV5 can report stale inclusionListSatisfied (bool-only cache, no inclusion-list retention)](https://github.com/NethermindEth/nethermind/issues/13719) - 2026-09-23
+* [Issue] [EIP-7732 ePBS EL surface missing (Gloas): expectedWithdrawals, envelope requests, Empty-slot heads, self-build](https://github.com/NethermindEth/nethermind/issues/13718) - 2026-09-23
+* [Commit] [Complete dual-stack peer connectivity (#12983)](https://github.com/NethermindEth/nethermind/commit/ca919f646960e63cc204a14441d860233ca6000d) - 2026-09-23
+* [Commit] [Enforce the EIP-8037 TX_MAX_TOTAL_GAS_LIMIT transaction cap (#13627)](https://github.com/NethermindEth/nethermind/commit/622ac632243ca75a71ea789d0b7db82f27950d00) - 2026-09-23
+* [Commit] [Pin EIP-7708 receipt ordering, bloom, and rollback behavior with tests (#13573)](https://github.com/NethermindEth/nethermind/commit/1a93184688a41e20740c3a4dfe2bafa48b234aa9) - 2026-09-23
+* [Commit] [Carry slot number through XDC header copies (#13587)](https://github.com/NethermindEth/nethermind/commit/1b781581f87478d37e0b06c3c75fe005082f4650) - 2026-09-23
+* [Commit] [Correct EIP-7928 receipt event metadata (#13509)](https://github.com/NethermindEth/nethermind/commit/4e146015b3fd0d4c210cedd7fbba6c9af7ad53ae) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

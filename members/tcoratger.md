@@ -589,6 +589,33 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(word): prove the zero and bitwise relations through the Boolean PCS (#2275)](https://github.com/Plonky3/Plonky3/commit/db04614b68b5aa10eb5d56bf768ce1307c6b5311) - 2026-09-22
 * [Commit] [feat(bus): add offline read-only memory checking (#2224)](https://github.com/Plonky3/Plonky3/commit/5a199b0dbf606321142daba379d64f9b5fedd5b5) - 2026-09-22
 * [Commit] [feat(bus): report unmatched tuples with source rows (#2223)](https://github.com/Plonky3/Plonky3/commit/e1283310a2f7bd59def83b362967275d91e19432) - 2026-09-22
+* [Pull Request] [test(multi-stark): prove a small 64-bit integer machine end to end over the binary backend](https://github.com/Plonky3/Plonky3/pull/2320) - 2026-09-23
+* [Pull Request] [feat(sumcheck,binary-pcs,examples)!: prove with GF(2^64) values and GF(2^192) challenges at 128 bits](https://github.com/Plonky3/Plonky3/pull/2319) - 2026-09-23
+* [Pull Request] [feat(air,bus,multi-stark)!: seed timestamped memory from a public image or a private region](https://github.com/Plonky3/Plonky3/pull/2317) - 2026-09-23
+* [Pull Request] [feat(air,binary-pcs,multi-stark)!: support tables with both bit and field-element columns](https://github.com/Plonky3/Plonky3/pull/2316) - 2026-09-23
+* [Pull Request] [feat(bus): add a timestamped read-write memory for unordered rows](https://github.com/Plonky3/Plonky3/pull/2314) - 2026-09-23
+* [Review] [Review on: chore: release v0.8.0](https://github.com/Plonky3/Plonky3/pull/2315#pullrequestreview-5294130193) - 2026-09-23
+* [Review] [Review on: feat(multi-stark): segment claims, cost reports, and a tiny chained machine](https://github.com/Plonky3/Plonky3/pull/2301#pullrequestreview-5290900105) - 2026-09-23
+* [Review] [Review on: feat(word-backend,security)!: prove full-width unsigned multiplication through an exponent lift](https://github.com/Plonky3/Plonky3/pull/2304#pullrequestreview-5290778173) - 2026-09-23
+* [Review] [Review on: feat(sumcheck,binary-pcs,security)!: batch bit ring-switch claims at several points into one sumcheck](https://github.com/Plonky3/Plonky3/pull/2303#pullrequestreview-5290744830) - 2026-09-23
+* [Review] [Review on: feat(examples): measure witness, serialization and threads in the binary report](https://github.com/Plonky3/Plonky3/pull/2280#pullrequestreview-5292539167) - 2026-09-23
+* [Review] [Review on: Lean extraction of p3-baby-bear and some minimal proofs](https://github.com/Plonky3/Plonky3/pull/2154#pullrequestreview-5291176108) - 2026-09-23
+* [Review] [Review on: feat(multi-stark)!: prove binary-bus shares inside the zerocheck sumcheck](https://github.com/Plonky3/Plonky3/pull/2302#pullrequestreview-5290767455) - 2026-09-23
+* [Review] [Review on: perf(multi-stark): share corner folds across the prefixes of a sliced round](https://github.com/Plonky3/Plonky3/pull/2306#pullrequestreview-5290750978) - 2026-09-23
+* [Review] [Review on: perf(multilinear-util,bus,multi-stark,word-backend,sumcheck)!: borrowed points and one packed equality-table kernel](https://github.com/Plonky3/Plonky3/pull/2305#pullrequestreview-5290758303) - 2026-09-23
+* [Review] [Review on: perf(binary)!: speed up the sliced zerocheck, ring switch, PCS commit and opening, and BLAKE3 witness](https://github.com/Plonky3/Plonky3/pull/2307#pullrequestreview-5290874195) - 2026-09-23
+* [Issue] [Add a small integer machine as an end-to-end binary backend test](https://github.com/Plonky3/Plonky3/issues/2313) - 2026-09-23
+* [Issue] [Let memory start from a public image or a private committed one](https://github.com/Plonky3/Plonky3/issues/2312) - 2026-09-23
+* [Issue] [Reach 128-bit security with GF(2^64) values and GF(2^192) challenges](https://github.com/Plonky3/Plonky3/issues/2311) - 2026-09-23
+* [Issue] [Add a timestamped read-write memory for unordered rows](https://github.com/Plonky3/Plonky3/issues/2310) - 2026-09-23
+* [Issue] [Support tables with both bit and field-element columns](https://github.com/Plonky3/Plonky3/issues/2309) - 2026-09-23
+* [Commit] [feat(multi-stark): segment claims, cost reports, and a tiny chained machine (#2301)](https://github.com/Plonky3/Plonky3/commit/0b926a5d6460c52bdc907402aab8f66a0e78ad96) - 2026-09-23
+* [Commit] [refactor(security,sumcheck,multi-stark): keep one implementation of the candidate-set charge (#2291)](https://github.com/Plonky3/Plonky3/commit/df13e9c8d1cd48ae0ffa43e9adec0720844df401) - 2026-09-23
+* [Commit] [feat(word-backend,security)!: prove full-width unsigned multiplication through an exponent lift (#2304)](https://github.com/Plonky3/Plonky3/commit/d2ee262c4c3604105e5a0d9a2a6cd77e86ecfd7a) - 2026-09-23
+* [Commit] [feat(sumcheck,binary-pcs,security)!: batch bit ring-switch claims at several points into one sumcheck (#2303)](https://github.com/Plonky3/Plonky3/commit/6bb5b68154e4a509b511cdfc8beb59e0d3f3f7d3) - 2026-09-23
+* [Commit] [feat(multi-stark)!: prove binary-bus shares inside the zerocheck sumcheck (#2302)](https://github.com/Plonky3/Plonky3/commit/6d673ed12b1c12f5a14d0067c386c40b17e7513c) - 2026-09-23
+* [Commit] [perf(multilinear-util,bus,multi-stark,word-backend,sumcheck)!: borrowed points and one packed equality-table kernel (#2305)](https://github.com/Plonky3/Plonky3/commit/cdb48a06c1a8fe0b5622ccadebceffc7bba2a1c6) - 2026-09-23
+* [Commit] [feat(sumcheck): authenticate jagged claims and ingest live traces (#2285)](https://github.com/Plonky3/Plonky3/commit/dbca717763d72f1b138b3c24fc6459d6ce757377) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

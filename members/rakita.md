@@ -78,6 +78,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: chore(ci): protect host package installs with Aegis](https://github.com/bluealloy/revm/pull/3915#pullrequestreview-5222188532) - 2026-09-16
 * [Pull Request] [fix(ci): update blocked cmake dependency](https://github.com/bluealloy/revm/pull/3930) - 2026-09-22
 * [Commit] [fix(ci): update cmake lockfile dependency (#3930)](https://github.com/bluealloy/revm/commit/193bfb17e885b700e9c51899503eb1a29345f2fb) - 2026-09-22
+* [Pull Request] [fix(interpreter): report DUPN stack underflow correctly](https://github.com/bluealloy/revm/pull/3940) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

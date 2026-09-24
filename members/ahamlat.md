@@ -65,6 +65,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Do not use UInt256 in TLoad/TStore](https://github.com/besu-eth/besu/pull/11348#pullrequestreview-5282130055) - 2026-09-22
 * [Review] [Review on: Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11331#pullrequestreview-5275765337) - 2026-09-22
 * [Commit] [check log level before slow trace/debug logs (#11326)](https://github.com/besu-eth/besu/commit/caab45ca02a3edf38d85a1d11842c8cc77e0d2b1) - 2026-09-22
+* [Pull Request] [Add a RocksDB table cache warmup](https://github.com/besu-eth/besu/pull/11355) - 2026-09-23
+* [Commit] [Add a RocksDB table cache warmup (#11355)](https://github.com/besu-eth/besu/commit/9f4cd8c7d08b7bb7b734f52b51c809d8e4c83593) - 2026-09-23
 ## Q2 2026
 
 

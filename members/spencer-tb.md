@@ -360,6 +360,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): cover block state budget after authorization preparation rollback (#3540)](https://github.com/ethereum/execution-specs/commit/0a53ad834bb2d85d94e17f0c6246f0ff4bf5a4de) - 2026-09-22
 * [Commit] [feat(tests): EIP-8037 - no refill for failed creates onto alive accounts (#3529)](https://github.com/ethereum/execution-specs/commit/80354f6e7e9e4814a4c05b3f8a20c504f6bfd774) - 2026-09-22
 * [Commit] [feat(tests): more amsterdam coverage gaps (#3627)](https://github.com/ethereum/execution-specs/commit/37615c92a4b1c53358c45c3ccd9cde3b1a4252b2) - 2026-09-22
+* [Issue] [Unskip or drop the storage-only account tests once EIP-8253 ships in Hegota](https://github.com/ethereum/execution-specs/issues/3635) - 2026-09-23
+* [Commit] [fix(spec-specs): wipe pre-existing storage on contract creation from Cancun onward (#3508)](https://github.com/ethereum/execution-specs/commit/faf66377663259411f7c150f5490cbac683d3cc9) - 2026-09-23
+* [Commit] [fix(tests): un-skip remaining Amsterdam ported static tests and drop the skip list (Pt. 2d) (#3322)](https://github.com/ethereum/execution-specs/commit/f085d2cb3448c51a9c2aa24feb2f277b6bff94bb) - 2026-09-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

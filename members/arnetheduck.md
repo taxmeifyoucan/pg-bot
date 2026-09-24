@@ -28,6 +28,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Use split compile/link build (#4643)](https://github.com/status-im/nimbus-eth1/commit/b743724648ed98c8cc40dbfaa4ee3492fd766695) - 2026-08-20
 * [Review] [Review on: KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671#pullrequestreview-4997859677) - 2026-08-21
 * [Issue] [QUIC port missing from `nimbus` help](https://github.com/status-im/nimbus-eth1/issues/4835) - 2026-09-22
+* [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/4838) - 2026-09-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08

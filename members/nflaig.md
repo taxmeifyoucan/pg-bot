@@ -673,6 +673,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: change onClockSlot to startPayloadPollAtSlot()](https://github.com/ChainSafe/lodestar/pull/10144#pullrequestreview-5277371144) - 2026-09-22
 * [Commit] [refactor: remove legacy backfill sync (#10147)](https://github.com/ChainSafe/lodestar/commit/52a50304a414f5e7c2f633657c9310940e7415cc) - 2026-09-22
 * [Commit] [fix: expose single attestations and filter committees in pool API (#10149)](https://github.com/ChainSafe/lodestar/commit/90c86b652961b7dfaa9bc5ecabec0b9cce817357) - 2026-09-22
+* [Review] [Review on: test: assert progressive balance drift metric](https://github.com/ChainSafe/lodestar/pull/10143#pullrequestreview-5296207099) - 2026-09-23
+* [Review] [Review on: fix: derive ephemery config from published iteration, not process start time](https://github.com/ChainSafe/lodestar/pull/10161#pullrequestreview-5296287302) - 2026-09-23
+* [Pull Request] [fix(fork-choice): correct checkpoint-sync initialization](https://github.com/ChainSafe/lodestar/pull/10159) - 2026-09-23
+* [Review] [Review on: fix: update gossipsub to v17.1.2](https://github.com/ChainSafe/lodestar/pull/10157#pullrequestreview-5294121005) - 2026-09-23
+* [Pull Request] [test: require exact Gloas viable heads in spec runner](https://github.com/ChainSafe/lodestar/pull/10156) - 2026-09-23
+* [Pull Request] [chore: update consensus specs to v1.7.0-beta.2](https://github.com/ChainSafe/lodestar/pull/10154) - 2026-09-23
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.2](https://github.com/ChainSafe/lodestar/pull/10154#pullrequestreview-5289230229) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -742,6 +749,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646#pullrequestreview-5265575001) - 2026-09-21
 * [Review] [Review on: Reject pre-Gloas slots using `GLOAS_FORK_EPOCH`](https://github.com/ethereum/consensus-specs/pull/5663#pullrequestreview-5283540805) - 2026-09-22
 * [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5279464923) - 2026-09-22
+* [Review] [Review on: Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665#pullrequestreview-5287982292) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

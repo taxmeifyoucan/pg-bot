@@ -107,6 +107,11 @@ Team: Grandine
 * [Commit] [Correctness fixes for proposer boost application](https://github.com/grandinetech/grandine/commit/d4986345f8b08ac045358fa1b4ad1aefba4b25ad) - 2026-09-22
 * [Commit] [Fix for negative balances issue and add another check to filter out non-head segments](https://github.com/grandinetech/grandine/commit/026715ebc76320801081c7a0c1bd8cede71de608) - 2026-09-22
 * [Commit] [Don't delay attestations from test blocks. Tests are written in mind that these attestations are dropped](https://github.com/grandinetech/grandine/commit/0d7aba5cd4c375c15a8336f475834810472aa1ed) - 2026-09-22
+* [Pull Request] [Don't invalidate empty blocks when EL invalidates payload](https://github.com/grandinetech/grandine/pull/937) - 2026-09-23
+* [Review] [Review on: Feature/consensus specs v1.7.0 beta.1](https://github.com/grandinetech/grandine/pull/933#pullrequestreview-5292288796) - 2026-09-23
+* [Review] [Review on: Adapt plugin to Nethermind 2.0](https://github.com/grandinetech/grandine/pull/936#pullrequestreview-5291739336) - 2026-09-23
+* [Pull Request] [Remove non-gossip artifacts too from received collections when delayed queues are full](https://github.com/grandinetech/grandine/pull/935) - 2026-09-23
+* [Commit] [Remove non-gossip artifacts too from received collections when delayed queues are full](https://github.com/grandinetech/grandine/commit/22f4e8972c61dfe0d92075ba2edcf777491e1e50) - 2026-09-23
 ## Q2 2026
 
 

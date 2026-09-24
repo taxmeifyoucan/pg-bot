@@ -140,6 +140,14 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Update indices](https://github.com/ethereum/consensus-specs/pull/5657) - 2026-09-22
 * [Commit] [Remove unnecessary variable in `get_forkchoice_store()` (#5659)](https://github.com/ethereum/consensus-specs/commit/6e2b2357c9ffb06b99490facf49faf92404d87de) - 2026-09-23
 * [Commit] [Update `compute_weak_subjectivity_period` to return `Epoch` (#5660)](https://github.com/ethereum/consensus-specs/commit/6b9bd532cca16555e2f3282d757622ebff29743e) - 2026-09-22
+* [Pull Request] [Update and use time-related helpers](https://github.com/ethereum/consensus-specs/pull/5671) - 2026-09-23
+* [Pull Request] [Convert `Store.genesis_time` to `Store.genesis_time_ms`](https://github.com/ethereum/consensus-specs/pull/5668) - 2026-09-23
+* [Pull Request] [Convert `Store.time` to `Store.time_ms`](https://github.com/ethereum/consensus-specs/pull/5667) - 2026-09-23
+* [Review] [Review on: Convert `Store.time` to `Store.time_ms`](https://github.com/ethereum/consensus-specs/pull/5658#pullrequestreview-5290102793) - 2026-09-23
+* [Review] [Review on: Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665#pullrequestreview-5290007849) - 2026-09-23
+* [Commit] [Update and use time-related helpers (#5671)](https://github.com/ethereum/consensus-specs/commit/13b5cbf0d600cdc52e131f178101909eb8908924) - 2026-09-23
+* [Commit] [Convert `Store.genesis_time` to `Store.genesis_time_ms` (#5668)](https://github.com/ethereum/consensus-specs/commit/2b2e5cb9fee32ddf7ea1cb89afcaab90a037280c) - 2026-09-23
+* [Commit] [Convert `Store.time` to `Store.time_ms` (#5667)](https://github.com/ethereum/consensus-specs/commit/41f2504b1ebbc02f882332670fadcbb4875daa65) - 2026-09-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

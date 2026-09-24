@@ -117,6 +117,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: `BlockProductionPerformance` for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11319#pullrequestreview-5279426358) - 2026-09-22
 * [Commit] [Set `Date-Milliseconds` header more precisely (#11323)](https://github.com/Consensys-Incorporated/teku/commit/8c1759778e855b8d13945c341724bf3be7725e2f) - 2026-09-23
 * [Commit] [`BlockProductionPerformance` for Gloas (#11319)](https://github.com/Consensys-Incorporated/teku/commit/381d2ef383db2ec7d9defaff00531b26d96dbc1f) - 2026-09-22
+* [Review] [Review on: Upgrade to spec test 1.7.0.beta.2](https://github.com/Consensys-Incorporated/teku/pull/11322#pullrequestreview-5292453274) - 2026-09-23
+* [Pull Request] [Implement external signing for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11328) - 2026-09-23
+* [Pull Request] [Send `execution_payload_available` event when data is available](https://github.com/Consensys-Incorporated/teku/pull/11327) - 2026-09-23
+* [Commit] [Send `execution_payload_available` event when data is available (#11327)](https://github.com/Consensys-Incorporated/teku/commit/54a79f36097c2f9dae7bd79bc63b34f986157a67) - 2026-09-23
+* [Commit] [Submit builder preferences to each builder (#11311)](https://github.com/Consensys-Incorporated/teku/commit/88af170e77818bfa0a48475610983d8a4f3a4312) - 2026-09-23
 ## Q2 2026
 
 

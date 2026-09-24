@@ -643,6 +643,14 @@ Team: Erigon
 * [Review] [Review on: db/state: a read tx fills its files view field by field](https://github.com/erigontech/erigon/pull/24228#pullrequestreview-5279287174) - 2026-09-22
 * [Review] [Review on: db: read only BaseTxnID and TxCount where a body is decoded for them](https://github.com/erigontech/erigon/pull/24227#pullrequestreview-5279286651) - 2026-09-22
 * [Issue] [rpc: an eth_sendRawTransactionSync batch serializes the receipt waits, not just the submissions](https://github.com/erigontech/erigon/issues/24242) - 2026-09-22
+* [Review] [Review on: execution/engineapi: payload bodies serve stored tx bytes and stream their JSON](https://github.com/erigontech/erigon/pull/24220#pullrequestreview-5288082689) - 2026-09-23
+* [Review] [Review on: db: enable safe_nosync by default](https://github.com/erigontech/erigon/pull/24249#pullrequestreview-5288082318) - 2026-09-23
+* [Review] [Review on: rpc/jsonrpc: trace_filter writes each trace into the stream](https://github.com/erigontech/erigon/pull/24239#pullrequestreview-5288081754) - 2026-09-23
+* [Review] [Review on: rpc: jsonstream flush at 256KB](https://github.com/erigontech/erigon/pull/24253#pullrequestreview-5288082096) - 2026-09-23
+* [Review] [Review on: cmd/rpctest: hexutil.Big fields and arguments are hexutil.U256](https://github.com/erigontech/erigon/pull/24232#pullrequestreview-5288081600) - 2026-09-23
+* [Review] [Review on: rpc/jsonrpc: trace_block and trace_transaction stream their parity traces](https://github.com/erigontech/erigon/pull/24236#pullrequestreview-5288081940) - 2026-09-23
+* [Review] [Review on: rpc: _subscribe newHeads - add json fastpath ](https://github.com/erigontech/erigon/pull/24247#pullrequestreview-5288081392) - 2026-09-23
+* [Pull Request] [commitment: build the ModeParallel prefix trie off the execution thread](https://github.com/erigontech/erigon/pull/24252) - 2026-09-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

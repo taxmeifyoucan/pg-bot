@@ -79,6 +79,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf(epoch-cache): grow effective balance increments in place with 1 owner](https://github.com/ChainSafe/lodestar-z/pull/721#pullrequestreview-5265637887) - 2026-09-21
 * [Review] [Review on: docs: call a source file a file, not a module](https://github.com/ChainSafe/lodestar-z/pull/719#pullrequestreview-5265385644) - 2026-09-21
 * [Review] [Review on: docs: call a source file a file, not a module](https://github.com/ChainSafe/lodestar-z/pull/719#pullrequestreview-5276283467) - 2026-09-22
+* [Review] [Review on: fix(stf): self-heal progressive balance drift](https://github.com/ChainSafe/lodestar-z/pull/726#pullrequestreview-5291412150) - 2026-09-23
+* [Review] [Review on: refactor(epoch-cache): make effectiveBalanceIncrementsSet append instead](https://github.com/ChainSafe/lodestar-z/pull/721#pullrequestreview-5290132111) - 2026-09-23
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -143,6 +145,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: specify optimistic search for payload in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10123#pullrequestreview-5265221776) - 2026-09-21
 * [Review] [Review on: refactor: change onClockSlot to startPayloadPollAtSlot()](https://github.com/ChainSafe/lodestar/pull/10144#pullrequestreview-5276398045) - 2026-09-22
 * [Review] [Review on: fix: do not remove pending block on failed download](https://github.com/ChainSafe/lodestar/pull/10137#pullrequestreview-5276503480) - 2026-09-22
+* [Pull Request] [feat: ssz-rest engine api transport](https://github.com/ChainSafe/lodestar/pull/10155) - 2026-09-23
+* [Review] [Review on: feat: ssz-rest engine api transport](https://github.com/ChainSafe/lodestar/pull/10155#pullrequestreview-5292208891) - 2026-09-23
+* [Review] [Review on: feat(builder): assemble stateless payload envelopes](https://github.com/ChainSafe/lodestar/pull/9981#pullrequestreview-5290196870) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

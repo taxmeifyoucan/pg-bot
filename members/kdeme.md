@@ -182,6 +182,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Add block proof for Gloas and later](https://github.com/ethereum/portal-network-specs/pull/416) - 2026-09-10
 * [Commit] [Add block proof for Gloas and later (#416)](https://github.com/ethereum/portal-network-specs/commit/d1d1dfd45a36a47bf1b2a4e8324df05ed44a220f) - 2026-09-14
+
+[eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
+* [Pull Request] [feat: add nimbus stateless validator client](https://github.com/eth-act/zkevm-benchmark-workload/pull/313) - 2026-09-23
 ## Q2 2026
 
 

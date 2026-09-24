@@ -592,6 +592,30 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [perf(engine): prototype remaining newPayload pipeline overlap](https://github.com/NethermindEth/nethermind/pull/13691) - 2026-09-22
 * [Commit] [ci: fail the expb run if the yq download does not produce yq (#13631)](https://github.com/NethermindEth/nethermind/commit/b10b75c87a4e6972b64745d48731c91c7fe78d1d) - 2026-09-22
 * [Commit] [ci: report MGas/s for the request and the overhead window, not just processing (#13637)](https://github.com/NethermindEth/nethermind/commit/ac02224f25fd4901116ebf2643d522ec4a0e60a1) - 2026-09-22
+* [Review] [Review on: Fix flaky engine tests building a child on a parent whose state is not yet committed](https://github.com/NethermindEth/nethermind/pull/13740#pullrequestreview-5296261721) - 2026-09-23
+* [Review] [Review on: Fix flaky DirtyNodeHasher rehash test reading a process-wide counter](https://github.com/NethermindEth/nethermind/pull/13738#pullrequestreview-5296270155) - 2026-09-23
+* [Review] [Review on: Retry startup IP resolution and keep dialed endpoints when persisting peers](https://github.com/NethermindEth/nethermind/pull/13731#pullrequestreview-5296302005) - 2026-09-23
+* [Review] [Review on: Fix flaky Cannot_produce_bad_blocks: wait for the commit before the forkchoice update](https://github.com/NethermindEth/nethermind/pull/13739#pullrequestreview-5296265399) - 2026-09-23
+* [Pull Request] [perf(rpc): serve eth_getFilterChanges from shared block and pending logs](https://github.com/NethermindEth/nethermind/pull/13742) - 2026-09-23
+* [Review] [Review on: perf(rpc): serve eth_getFilterChanges from shared block and pending logs](https://github.com/NethermindEth/nethermind/pull/13742#pullrequestreview-5296762485) - 2026-09-23
+* [Review] [Review on: Fix flaky RetryCache overflow allocation test counting background GC noise](https://github.com/NethermindEth/nethermind/pull/13745#pullrequestreview-5297788051) - 2026-09-23
+* [Review] [Review on: feat(flat): add FlatDb.EnableCarryForwardCache](https://github.com/NethermindEth/nethermind/pull/13752#pullrequestreview-5298017556) - 2026-09-23
+* [Review] [Review on: perf: add dedicated processing thread and Windows worker affinity](https://github.com/NethermindEth/nethermind/pull/13751#pullrequestreview-5297904269) - 2026-09-23
+* [Review] [Review on: perf: skip ineffective thread priority syscalls on Linux](https://github.com/NethermindEth/nethermind/pull/13753#pullrequestreview-5298061616) - 2026-09-23
+* [Review] [Review on: fix(rpc): wake eth_sendRawTransactionSync after the tx index is published](https://github.com/NethermindEth/nethermind/pull/13736#pullrequestreview-5297792684) - 2026-09-23
+* [Review] [Review on: fix: avoid missing block processing queue drain](https://github.com/NethermindEth/nethermind/pull/13749#pullrequestreview-5297742154) - 2026-09-23
+* [Pull Request] [fix(engine): reject null required Cancun payload fields](https://github.com/NethermindEth/nethermind/pull/13747) - 2026-09-23
+* [Review] [Review on: fix(rpc): accept empty Parity trace selections](https://github.com/NethermindEth/nethermind/pull/13667#pullrequestreview-5290428952) - 2026-09-23
+* [Review] [Review on: ci: rebalance blockTest chunk counts to cut wall-clock](https://github.com/NethermindEth/nethermind/pull/12380#pullrequestreview-5293396104) - 2026-09-23
+* [Review] [Review on: perf: add dedicated block processing and cross-platform worker affinity](https://github.com/NethermindEth/nethermind/pull/13744#pullrequestreview-5297277488) - 2026-09-23
+* [Review] [Review on: fix(rpc): isolate synchronous transaction concurrency](https://github.com/NethermindEth/nethermind/pull/13735#pullrequestreview-5297799094) - 2026-09-23
+* [Review] [Review on: fix(rpc): reject trace filters with unavailable history](https://github.com/NethermindEth/nethermind/pull/13677#pullrequestreview-5290051345) - 2026-09-23
+* [Review] [Review on: perf: optionally pin block processing to the performance cores of an Intel hybrid CPU](https://github.com/NethermindEth/nethermind/pull/13717#pullrequestreview-5290477274) - 2026-09-23
+* [Review] [Review on: Remove the flat DB preimage recording feature](https://github.com/NethermindEth/nethermind/pull/13690#pullrequestreview-5289562640) - 2026-09-23
+* [Review] [Review on: fix(rpc): include beacon tip in eth_syncing highest block](https://github.com/NethermindEth/nethermind/pull/12739#pullrequestreview-5293322474) - 2026-09-23
+* [Review] [Review on: fix(tracing): retain output in state-only Parity traces](https://github.com/NethermindEth/nethermind/pull/13665#pullrequestreview-5290267410) - 2026-09-23
+* [Review] [Review on: fix: serialize Parity VM stack values as quantities](https://github.com/NethermindEth/nethermind/pull/13750#pullrequestreview-5297748912) - 2026-09-23
+* [Commit] [fix(engine): reject null required Cancun payload fields (#13747)](https://github.com/NethermindEth/nethermind/commit/d3e6d98f706a6a2b0115009efc1bf30a46c722a2) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08
@@ -599,6 +623,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652875753) - 2026-07-08
 
+* [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291316228) - 2026-09-23
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Issue] [riscv64 codegen: constant rematerialization, redundant width conversions, and memory round-trips measured on the ZisK guest](https://github.com/NethermindEth/bflat-riscv64/issues/40) - 2026-09-02
 

@@ -105,6 +105,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Schedule the Gloas fork on Sepolia](https://github.com/OffchainLabs/prysm/pull/17512#pullrequestreview-5281569540) - 2026-09-22
 * [Review] [Review on: Marshal states directly behind their DB version key when saving](https://github.com/OffchainLabs/prysm/pull/17518#pullrequestreview-5282321386) - 2026-09-22
 * [Commit] [Update hashtree to v0.2.6 (#17542)](https://github.com/OffchainLabs/prysm/commit/03f3712a184c1c7cc9fd38d3b1abc5328934cdef) - 2026-09-22
+* [Review] [Review on: Raise the Gloas builder bid wait to 600ms and make it configurable](https://github.com/OffchainLabs/prysm/pull/17551#pullrequestreview-5297274936) - 2026-09-23
+* [Review] [Review on: Return 204 from keymanager `DeleteGraffiti` on success](https://github.com/OffchainLabs/prysm/pull/17547#pullrequestreview-5294261555) - 2026-09-23
+* [Review] [Review on: refactor(build): use slices.SortFunc for proto staging](https://github.com/OffchainLabs/prysm/pull/17437#pullrequestreview-5297147798) - 2026-09-23
+* [Review] [Review on: refactor(ssz): use strings.Cut for len path validation](https://github.com/OffchainLabs/prysm/pull/17431#pullrequestreview-5295396647) - 2026-09-23
+* [Review] [Review on:  Serve the chain tip's envelope in envelopes by range when fork choice holds the tip full](https://github.com/OffchainLabs/prysm/pull/17533#pullrequestreview-5295212642) - 2026-09-23
+* [Review] [Review on: enable partial columns by default](https://github.com/OffchainLabs/prysm/pull/17545#pullrequestreview-5295758449) - 2026-09-23
+* [Review] [Review on: Decouple `BuilderService` with DB](https://github.com/OffchainLabs/prysm/pull/17515#pullrequestreview-5295628602) - 2026-09-23
+* [Review] [Review on: Fix/pending block broadcast fork digest](https://github.com/OffchainLabs/prysm/pull/17543#pullrequestreview-5294275691) - 2026-09-23
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75#pullrequestreview-5282164914) - 2026-09-22

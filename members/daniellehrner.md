@@ -137,6 +137,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Reject Engine API blocks descending from a bad block instead of backward syncing (#11313)](https://github.com/besu-eth/besu/commit/92847106855cf240297ebab9a675c53db77129d8) - 2026-09-21
 * [Commit] [Return an internal error when forkchoiceUpdated cannot set a valid head (#11317)](https://github.com/besu-eth/besu/commit/6241304be87bb06dcd5d6305b92f6ad26dbde843) - 2026-09-21
 * [Commit] [Schedule Amsterdam on Sepolia (#11333)](https://github.com/besu-eth/besu/commit/c227bcc64c5c74a970b2e40545084dfd7ee84d65) - 2026-09-21
+* [Commit] [Abort JSON-RPC stream backpressure wait when the peer goes away (#11146)](https://github.com/besu-eth/besu/commit/88f38dd3c1231eaef7d4325786207453a9c68077) - 2026-09-23
+* [Commit] [Stop backward sync when a block cannot be saved (#11303)](https://github.com/besu-eth/besu/commit/4a6ad0963661fc951f07d298044d292d153c8dfa) - 2026-09-23
+* [Commit] [add consumeEngineTestsGlamsterdam and consumeRlpTestsGlamsterdam to the gradle tasks to run on pull request (#11310)](https://github.com/besu-eth/besu/commit/fe2c66d260c3fe8b2d49bdda2511ee8aadf11921) - 2026-09-23
+* [Commit] [Fix flaky BackwardSyncAlgSpecTest stubbing race (#11311)](https://github.com/besu-eth/besu/commit/da3d6b0cd94d8051a02e51ff24afa4de41cabef7) - 2026-09-23
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

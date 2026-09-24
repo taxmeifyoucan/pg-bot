@@ -141,11 +141,20 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [enable bls to execution change ref test](https://github.com/Consensys-Incorporated/teku/issues/11312) - 2026-09-21
 * [Pull Request] [enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11320) - 2026-09-22
 * [Review] [Review on: Fix gloas transition](https://github.com/Consensys-Incorporated/teku/pull/11315#pullrequestreview-5280523047) - 2026-09-22
+* [Review] [Review on: BN should return 400 for unknown event stream topics](https://github.com/Consensys-Incorporated/teku/pull/11331#pullrequestreview-5294179355) - 2026-09-23
+* [Review] [Review on: enable proposer preferences ref tests](https://github.com/Consensys-Incorporated/teku/pull/11320#pullrequestreview-5294850273) - 2026-09-23
+* [Review] [Review on: 11.7.0.beta.1-cleanups](https://github.com/Consensys-Incorporated/teku/pull/11335#pullrequestreview-5294826817) - 2026-09-23
+* [Pull Request] [enable bls to execution change ref test](https://github.com/Consensys-Incorporated/teku/pull/11334) - 2026-09-23
+* [Review] [Review on: enable bls to execution change ref test](https://github.com/Consensys-Incorporated/teku/pull/11334#pullrequestreview-5294251431) - 2026-09-23
+* [Review] [Review on: Send `execution_payload_available` event when data is available](https://github.com/Consensys-Incorporated/teku/pull/11327#pullrequestreview-5289936371) - 2026-09-23
+* [Commit] [enable proposer preferences ref tests (#11320)](https://github.com/Consensys-Incorporated/teku/commit/064ed6770af4d11d29c22151e5f01d93ed356e7e) - 2026-09-23
+* [Commit] [enable bls to execution change ref test (#11334)](https://github.com/Consensys-Incorporated/teku/commit/a509e2678007932b5451632f8b34687347410b55) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646) - 2026-09-17
 * [Pull Request] [Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647) - 2026-09-18
 * [Review] [Review on: Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647#pullrequestreview-5268002128) - 2026-09-21
 * [Commit] [Fix fork epochs in proposer preferences tests (#5646)](https://github.com/ethereum/consensus-specs/commit/91312a90e17424a4d59bca949f1589e59b3eb5f0) - 2026-09-21
+* [Review] [Review on: Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665#pullrequestreview-5288337431) - 2026-09-23
 ## Q2 2026
 
 

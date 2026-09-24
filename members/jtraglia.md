@@ -332,6 +332,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump version to v1.7.0-beta.2 (#5664)](https://github.com/ethereum/consensus-specs/commit/5afdff62889b1a13a5be804c8be8763abf1c8654) - 2026-09-23
 * [Commit] [Add test for missing head flag edge case at the fork (#5661)](https://github.com/ethereum/consensus-specs/commit/dff05c7aebb7735d16333758b199a2f7da8d119f) - 2026-09-23
 * [Commit] [Reject pre-Gloas slots using `GLOAS_FORK_EPOCH` (#5663)](https://github.com/ethereum/consensus-specs/commit/64dd71b0c891dc20224f0ffe9f415e8a00c988af) - 2026-09-23
+* [Pull Request] [Deprecate old config variables](https://github.com/ethereum/consensus-specs/pull/5676) - 2026-09-23
+* [Pull Request] [Use millisecond helpers in second-based time helpers](https://github.com/ethereum/consensus-specs/pull/5675) - 2026-09-23
+* [Review] [Review on: Update and use time-related helpers](https://github.com/ethereum/consensus-specs/pull/5671#pullrequestreview-5294880906) - 2026-09-23
+* [Review] [Review on: Convert `Store.genesis_time` to `Store.genesis_time_ms`](https://github.com/ethereum/consensus-specs/pull/5668#pullrequestreview-5295826471) - 2026-09-23
+* [Review] [Review on: Convert `Store.time` to `Store.time_ms`](https://github.com/ethereum/consensus-specs/pull/5667#pullrequestreview-5296194024) - 2026-09-23
+* [Pull Request] [Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665) - 2026-09-23
+* [Review] [Review on: Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665#pullrequestreview-5291252528) - 2026-09-23
+* [Commit] [Use millisecond helpers in second-based time helpers (#5675)](https://github.com/ethereum/consensus-specs/commit/b9bb2c848667ae5eee91bd1cb371d5f065b9d3e9) - 2026-09-23
+* [Commit] [Sign proposer preferences with the proposal epoch's fork version (#5665)](https://github.com/ethereum/consensus-specs/commit/63a81afa62c15012f062cfcfba31ef1f27cf46b6) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -380,6 +389,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [All Core Devs - Testing (ACDT) #98, September 28, 2026](https://github.com/ethereum/pm/issues/2230) - 2026-09-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: bound engine_getInclusionListV1 result by the consensus-layer transaction byte measure](https://github.com/ethereum/execution-apis/pull/870#pullrequestreview-5067286014) - 2026-08-31
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Bump spec to v1.7.0-beta.2](https://github.com/Consensys-Incorporated/teku/pull/11326) - 2026-09-23
 ## Q2 2026
 
 

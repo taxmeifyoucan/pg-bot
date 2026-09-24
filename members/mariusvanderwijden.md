@@ -105,6 +105,8 @@ Team: Geth
 * [Review] [Review on: core/vm: activate the osaka precompiles on amsterdam](https://github.com/ethereum/go-ethereum/pull/35745#pullrequestreview-5264755382) - 2026-09-21
 * [Review] [Review on: core, params: schedule amsterdam fork on sepolia](https://github.com/ethereum/go-ethereum/pull/35734#pullrequestreview-5264857364) - 2026-09-21
 * [Issue] [Add flag to disable precompile cache](https://github.com/ethereum/go-ethereum/issues/35751) - 2026-09-21
+* [Pull Request] [eth/downloader: only fetch BALs for the next 512 blocks](https://github.com/ethereum/go-ethereum/pull/35780) - 2026-09-23
+* [Review] [Review on: build: fix ppa builder](https://github.com/ethereum/go-ethereum/pull/35782#pullrequestreview-5292783837) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

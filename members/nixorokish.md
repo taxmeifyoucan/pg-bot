@@ -34,6 +34,10 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Execution (ACDE) #246, September 24, 2026](https://github.com/ethereum/pm/issues/2223) - 2026-09-14
 * [Commit] [Merge pull request #2205 from ethereum/glamsterdam-testnet-timings](https://github.com/ethereum/pm/commit/161e412af396ad4b3443d4150e45a900714fe0e6) - 2026-09-15
 * [Commit] [Merge pull request #2226 from nixoassistant/auto-create-acd-issues](https://github.com/ethereum/pm/commit/0e07b947fdd13d865bb7d5cb6bebfad1bf981b43) - 2026-09-18
+* [Pull Request] [Update facilitator information in README](https://github.com/ethereum/pm/pull/2233) - 2026-09-23
+* [Commit] [Merge pull request #2233 from ethereum/nixorokish-patch-9](https://github.com/ethereum/pm/commit/c207bce96dec44f8880b95f3d7ae437ea05af8e3) - 2026-09-23
+* [Commit] [Fix typo in facilitator's name in README](https://github.com/ethereum/pm/commit/88280c6dce257fc936eee8660bc4ccfe76884f06) - 2026-09-23
+* [Commit] [Update facilitator information in README](https://github.com/ethereum/pm/commit/f49c68231cc4afabad413b64677ab3135affeb32) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16
@@ -95,6 +99,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-7773: Set Sepolia activation time](https://github.com/ethereum/EIPs/pull/12355#pullrequestreview-5241150094) - 2026-09-17
 * [Pull Request] [Update EIP-8081: Decisions from ACDC187](https://github.com/ethereum/EIPs/pull/12364) - 2026-09-21
 * [Commit] [Update EIP-8081: Decisions from ACDC187](https://github.com/ethereum/EIPs/commit/24c0edb17b82cb65f26d29f03e084637ec2ae2d4) - 2026-09-21
+* [Pull Request] [Update EIP-8081: add EIP-8383 to PFI'd](https://github.com/ethereum/EIPs/pull/12371) - 2026-09-23
+* [Commit] [Update EIP-8081: add EIP-8383 to PFI'd](https://github.com/ethereum/EIPs/commit/10bc64e2ea592ac7ec8ee87812ca8a8955a68bac) - 2026-09-23
 ## Q2 2026
 
 

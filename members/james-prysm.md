@@ -256,6 +256,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [refactor to parent envelope helper](https://github.com/OffchainLabs/prysm/pull/17541) - 2026-09-22
 * [Commit] [grpc use execution_payload_available event (#17500)](https://github.com/OffchainLabs/prysm/commit/47ea4789d6c61dfde34fd259f86a5a45093622f5) - 2026-09-22
 * [Commit] [gloas checkpoint sync withheld payload fix (#17458)](https://github.com/OffchainLabs/prysm/commit/0701be2738ad131ff3ee9050073018da8e1190be) - 2026-09-22
+* [Review] [Review on: intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536#pullrequestreview-5296987421) - 2026-09-23
+* [Review] [Review on: Return 404 for unknown validator REST paths](https://github.com/OffchainLabs/prysm/pull/17548#pullrequestreview-5292314269) - 2026-09-23
+* [Review] [Review on: Reject Gloas on deprecated blinded block and v3 produce endpoints](https://github.com/OffchainLabs/prysm/pull/17549#pullrequestreview-5292920424) - 2026-09-23
+* [Pull Request] [Unify PTC reads and retry REST nodes independently](https://github.com/OffchainLabs/prysm/pull/17552) - 2026-09-23
+* [Pull Request] [attempting to keep grpc and rest parity in ptc](https://github.com/OffchainLabs/prysm/pull/17550) - 2026-09-23
+* [Review] [Review on: enable partial columns by default](https://github.com/OffchainLabs/prysm/pull/17545#pullrequestreview-5291851205) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

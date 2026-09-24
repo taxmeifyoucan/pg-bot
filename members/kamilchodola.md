@@ -215,9 +215,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Support other clients in Fusaka EXPB benchmarks (#13436)](https://github.com/NethermindEth/nethermind/commit/26e23a869ec1af11aadc1a65e89f104cb7c57757) - 2026-09-16
 * [Commit] [ci(rpc-bench): replay the private eth_call corpus as debug_traceCall or trace_call (#13457)](https://github.com/NethermindEth/nethermind/commit/f5af38528c85ea72a7a1431ed4e788376ce43d3a) - 2026-09-16
 * [Review] [Review on: Default all sync test networks to Spot](https://github.com/NethermindEth/nethermind/pull/13556#pullrequestreview-5236867893) - 2026-09-17
+* [Commit] [perf(flat): refresh the carry-forward account cache on commit instead of evicting (#12960)](https://github.com/NethermindEth/nethermind/commit/8b7f9abda5ea3826efcbc39db6234f80115f5562) - 2026-09-24
+* [Commit] [Precreate RocksDB WAL files asynchronously (#13262)](https://github.com/NethermindEth/nethermind/commit/4b2f943f7a76411763c062c5d810d97e7104d059) - 2026-09-24
+* [Commit] [fix(flat): verify warmer reads in flat adapters (#12951 follow-up) (#12980)](https://github.com/NethermindEth/nethermind/commit/27ffd4fd160deedd929eccc9e49c13f7c692a093) - 2026-09-24
+* [Commit] [Select flat Account index search automatically (#13260)](https://github.com/NethermindEth/nethermind/commit/20a6419ca75b99af4719c109c89d82550987cb86) - 2026-09-24
+* [Commit] [Make EXPB regression campaigns faster and preserve complete run evidence (#13434)](https://github.com/NethermindEth/nethermind/commit/3f14eca2a0dab142a34543be6cb71e4773130b26) - 2026-09-24
+* [Commit] [Defer eligible RocksDB cleanup I/O to background workers (#13261)](https://github.com/NethermindEth/nethermind/commit/42541a1f8a8f8aae86490e347ee11db4da6326f7) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 
+* [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291334058) - 2026-09-23
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [ci: register Benchmarkoor - Nethermind workflow (dispatch-only)](https://github.com/NethermindEth/gas-benchmarks/commit/2848becbbfcb57b1e69587310ffb8a9daa40ec0c) - 2026-07-14
 * [Pull Request] [feat: Benchmarkoor - Nethermind CI (podman + CRIU memory checkpoints, per-test summary, dotTrace profiling)](https://github.com/NethermindEth/gas-benchmarks/pull/159) - 2026-07-15

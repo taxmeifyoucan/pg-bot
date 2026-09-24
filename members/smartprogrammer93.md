@@ -25,6 +25,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Raise mainnet ancient barriers to a 33024-epoch history window](https://github.com/NethermindEth/nethermind/pull/12808#pullrequestreview-4930481619) - 2026-08-13
 * [Review] [Review on: build(zisk): bump Zisk to 1.1.0-alpha](https://github.com/NethermindEth/nethermind/pull/12910#pullrequestreview-4980438741) - 2026-08-20
 * [Review] [Review on: Remove Taiko and Surge integration workflows](https://github.com/NethermindEth/nethermind/pull/12973#pullrequestreview-5008660515) - 2026-08-24
+* [Review] [Review on: docs(agents): require AI agents to declare harness and model on GitHub](https://github.com/NethermindEth/nethermind/pull/13605#pullrequestreview-5288616115) - 2026-09-23
 ## Q2 2026
 
 

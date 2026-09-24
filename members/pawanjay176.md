@@ -94,6 +94,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: enable mplex by default](https://github.com/sigp/lighthouse/pull/10070#pullrequestreview-5251152181) - 2026-09-18
 * [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5250979516) - 2026-09-18
 * [Review] [Review on: Add license/cla check in mergify](https://github.com/sigp/lighthouse/pull/10049#pullrequestreview-5251057277) - 2026-09-18
+* [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5296583677) - 2026-09-23
+* [Review] [Review on: Gloas spec v1.7.0-beta.2](https://github.com/sigp/lighthouse/pull/10114#pullrequestreview-5295117481) - 2026-09-23
+* [Review] [Review on: Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878#pullrequestreview-5298265308) - 2026-09-24
 ## Q2 2026
 
 

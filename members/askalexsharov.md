@@ -1811,6 +1811,27 @@ Team: Erigon
 * [Commit] [rpc: a server connection runs its handler directly; reverse calls are removed (#24193)](https://github.com/erigontech/erigon/commit/879cf9ff8d905e1cb5d5d2aefa12e3fde9ae4902) - 2026-09-22
 * [Commit] [rpc/jsonrpc: the witness and feeHistory results write through MarshalFastJSONTo (#24209)](https://github.com/erigontech/erigon/commit/c7b1230b94b90e9dc64b2fd8d4b3a1255d44e1eb) - 2026-09-22
 * [Commit] [rpc: a websocket write builds one timeout context, not two (#24187)](https://github.com/erigontech/erigon/commit/19d1986aba710526ac5d7cd8f0ea6be6f15014c0) - 2026-09-22
+* [Pull Request] [rpc/jsonstream, execution/types, rpc: write hex fields through Hex/Hexes over a closed type set](https://github.com/erigontech/erigon/pull/24263) - 2026-09-24
+* [Review] [Review on: rpc/jsonstream, execution/types, rpc: write hex fields through Hex/Hexes over a closed type set](https://github.com/erigontech/erigon/pull/24263#pullrequestreview-5298849389) - 2026-09-24
+* [Pull Request] [execution/types: Header declares its JSON hex form, and the test derives it](https://github.com/erigontech/erigon/pull/24268) - 2026-09-24
+* [Pull Request] [rpc/jsonstream: quantity and data writers, so encoders name the domain type](https://github.com/erigontech/erigon/pull/24267) - 2026-09-24
+* [Pull Request] [execution/types: one header JSON encoder, with the declaration as its oracle](https://github.com/erigontech/erigon/pull/24266) - 2026-09-24
+* [Pull Request] [execution/rlp: refuse a named uint256.Int instead of encoding its limbs](https://github.com/erigontech/erigon/pull/24265) - 2026-09-24
+* [Pull Request] [rpc/ethapi: RPCMarshalBlock fills the block header in place](https://github.com/erigontech/erigon/pull/24264) - 2026-09-24
+* [Pull Request] [rpc: avoid double-hashing of tx](https://github.com/erigontech/erigon/pull/24262) - 2026-09-24
+* [Review] [Review on: execution: Block-STM parallel execution + write-side finalization (2/2, split of #23967)](https://github.com/erigontech/erigon/pull/24133#pullrequestreview-5298461870) - 2026-09-24
+* [Pull Request] [db: enable safe_nosync by default](https://github.com/erigontech/erigon/pull/24249) - 2026-09-23
+* [Review] [Review on: db: enable safe_nosync by default](https://github.com/erigontech/erigon/pull/24249#pullrequestreview-5287282179) - 2026-09-23
+* [Pull Request] [rpc: jsonstream flush at 256KB](https://github.com/erigontech/erigon/pull/24253) - 2026-09-23
+* [Review] [Review on: rpc: remove obsolete fastJSONResult interface](https://github.com/erigontech/erigon/pull/24251#pullrequestreview-5287302020) - 2026-09-23
+* [Commit] [engine_api: drop the extra forced-fsync commit per fork choice (#24248)](https://github.com/erigontech/erigon/commit/b953468b6a3ddd9f0d318e77b1951b0a863515df) - 2026-09-23
+* [Commit] [db: enable safe_nosync by default (#24249)](https://github.com/erigontech/erigon/commit/e0ebef3b3abb7bfd57c7bff0de4899c81a597b1d) - 2026-09-23
+* [Commit] [rpc/jsonrpc: trace_filter writes each trace into the stream (#24239)](https://github.com/erigontech/erigon/commit/62072dc7beff42e2d12f6d9c248cf7170a7c3874) - 2026-09-23
+* [Commit] [rpc: jsonstream flush at 256KB (#24253)](https://github.com/erigontech/erigon/commit/12b6b3391b8038d0dc89fac593fcad8e5ea022f8) - 2026-09-23
+* [Commit] [cmd/rpctest: hexutil.Big fields and arguments are hexutil.U256 (#24232)](https://github.com/erigontech/erigon/commit/3646a0e9b83bed45db0ef2fe12f40283c2694624) - 2026-09-23
+* [Commit] [rpc/jsonrpc: trace_block and trace_transaction stream their parity traces (#24236)](https://github.com/erigontech/erigon/commit/34bdbc6ef4a2033020d7225400c9372f4036f577) - 2026-09-23
+* [Commit] [rpc: _subscribe newHeads - add json fastpath  (#24247)](https://github.com/erigontech/erigon/commit/26f5a32c99b1f6893997c11a08dfa9f831e79e4a) - 2026-09-23
+* [Commit] [rpc/jsonrpc: the witness cache holds results, not their JSON (#24235)](https://github.com/erigontech/erigon/commit/105bc98672e03cfb680b3c40eeeb78644258aeab) - 2026-09-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

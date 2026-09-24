@@ -194,6 +194,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: convert partial column quarantine to accept ref](https://github.com/status-im/nimbus-eth2/pull/9081#pullrequestreview-5276236494) - 2026-09-22
 * [Pull Request] [update to nim-libp2p 2.3.4](https://github.com/status-im/nimbus-eth2/pull/9093) - 2026-09-22
 * [Pull Request] [use v1.7.0-beta.1 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9087) - 2026-09-22
+* [Pull Request] [reduce consensus test build times and memory usage](https://github.com/status-im/nimbus-eth2/pull/9108) - 2026-09-24
+* [Pull Request] [ use v1.7.0-beta.2 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9107) - 2026-09-24
+* [Pull Request] [Revert "Bump vendor/glamsterdam-devnets from `dc86bda` to `9d7c9ae`"](https://github.com/status-im/nimbus-eth2/pull/9106) - 2026-09-23
+* [Pull Request] [gloas remote signer support](https://github.com/status-im/nimbus-eth2/pull/9102) - 2026-09-23
+* [Pull Request] [add EIP-7997 and EIP-8282 Glamsterdam system contracts to local testnet](https://github.com/status-im/nimbus-eth2/pull/9105) - 2026-09-23
+* [Pull Request] [update local testnet Geth to 1.17.6](https://github.com/status-im/nimbus-eth2/pull/9101) - 2026-09-23
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

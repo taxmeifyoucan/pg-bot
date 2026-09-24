@@ -31,6 +31,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Fix pubkey recovery for unfinalized states](https://github.com/grandinetech/grandine/commit/d6281c3d4bb1f87c251ba299d1e120c648889012) - 2026-09-04
 * [Issue] [Unlimited progressive containers may cause node crash](https://github.com/grandinetech/grandine/issues/918) - 2026-09-11
 * [Pull Request] [Optimize trusted state transition function](https://github.com/grandinetech/grandine/pull/920) - 2026-09-16
+* [Pull Request] [Adapt plugin to Nethermind 2.0](https://github.com/grandinetech/grandine/pull/936) - 2026-09-23
 ## Q2 2026
 
 

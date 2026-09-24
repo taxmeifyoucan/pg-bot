@@ -78,6 +78,9 @@ Team: Reth
 * [Review] [Review on: fix(rpc): classify pruned changeset errors as unavailable history](https://github.com/paradigmxyz/reth/pull/27367#pullrequestreview-5278955417) - 2026-09-22
 * [Review] [Review on: fix(rpc): include transaction hash in individual replays](https://github.com/paradigmxyz/reth/pull/27365#pullrequestreview-5278964553) - 2026-09-22
 * [Commit] [docs: streamline agent guidance (#27381)](https://github.com/paradigmxyz/reth/commit/7719d7df22ec3eef46b2da0347bbfa49be4cd1fb) - 2026-09-22
+* [Review] [Review on: fix(ci): install samply from latest edge](https://github.com/paradigmxyz/reth/pull/27394#pullrequestreview-5294828174) - 2026-09-23
+* [Review] [Review on: fix(ci): enable benchmark frame pointers](https://github.com/paradigmxyz/reth/pull/27393#pullrequestreview-5294533737) - 2026-09-23
+* [Review] [Review on: fix(ci): reuse shared deny and refresh runner pins](https://github.com/paradigmxyz/reth/pull/27382#pullrequestreview-5287546021) - 2026-09-23
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

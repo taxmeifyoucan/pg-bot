@@ -98,6 +98,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: compliance test fixes](https://github.com/grandinetech/grandine/pull/919#pullrequestreview-5277352758) - 2026-09-22
 * [Issue] [Update consensus-specs to v1.7.0-beta.1](https://github.com/grandinetech/grandine/issues/932) - 2026-09-22
 * [Commit] [Cap execution payload envelope delayed queue](https://github.com/grandinetech/grandine/commit/29750218c4a4117699bc189368e29e1b31532645) - 2026-09-22
+* [Pull Request] [Feature/consensus specs v1.7.0 beta.1](https://github.com/grandinetech/grandine/pull/933) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

@@ -128,8 +128,20 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Label the published Docker images with Nethermind's OCI metadata](https://github.com/NethermindEth/nethermind/pull/13694) - 2026-09-22
 * [Pull Request] [fix(ci): use --prerelease when publishing the bootnode release](https://github.com/NethermindEth/nethermind/pull/13695) - 2026-09-22
 * [Commit] [fix(rlp): bound blob wrapper cell-mask peek to transaction (#13614)](https://github.com/NethermindEth/nethermind/commit/790cf4c9adedbe46129808b885ef6707f430d427) - 2026-09-22
+* [Review] [Review on: Disable EXPB CPU quota while preserving affinity](https://github.com/NethermindEth/nethermind/pull/13593#pullrequestreview-5299003345) - 2026-09-24
+* [Review] [Review on: Fix flaky engine tests building a child on a parent whose state is not yet committed](https://github.com/NethermindEth/nethermind/pull/13740#pullrequestreview-5298832068) - 2026-09-24
+* [Review] [Review on: Fix flaky DirtyNodeHasher rehash test reading a process-wide counter](https://github.com/NethermindEth/nethermind/pull/13738#pullrequestreview-5298831186) - 2026-09-24
+* [Review] [Review on: Retry startup IP resolution and keep dialed endpoints when persisting peers](https://github.com/NethermindEth/nethermind/pull/13731#pullrequestreview-5298830520) - 2026-09-24
+* [Review] [Review on: fix(archive-proofs): deep storage epoch snapshots only when epochs are dropped](https://github.com/NethermindEth/nethermind/pull/13754#pullrequestreview-5298677952) - 2026-09-24
+* [Review] [Review on: perf: skip ineffective thread priority syscalls on Linux](https://github.com/NethermindEth/nethermind/pull/13753#pullrequestreview-5298144891) - 2026-09-24
+* [Commit] [fix(flat): resync after RocksDB auto-repair (#13645)](https://github.com/NethermindEth/nethermind/commit/eba2250169c25c08b9f1a37cac718dcd2bf67b2a) - 2026-09-24
+* [Commit] [fix(flat): refuse unsafe Flat activations and warn when full prune is ignored (#13644)](https://github.com/NethermindEth/nethermind/commit/945c04af0f45b482b41d72f164439b3ca5de81fd) - 2026-09-23
+* [Commit] [fix(rpc): demote guard-rail WARNs and map no-state to -32002 (#13643)](https://github.com/NethermindEth/nethermind/commit/cc4510eee51cb6f6175f30f0ad4190b52ac01928) - 2026-09-23
+* [Commit] [perf(sync): bound and overlap snap downloads with response processing (#12623)](https://github.com/NethermindEth/nethermind/commit/294020b0e367c8b7fee9a6d5d7dc64dc13a9726a) - 2026-09-23
+* [Commit] [perf(state): parallelize whale storage verification and enable snapshot readahead in FlatTrieVerifier (#12615)](https://github.com/NethermindEth/nethermind/commit/01a3a701bc36a2a8c4562e0c5ba09453c3f9e178) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
+* [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291874529) - 2026-09-23
 ## Q2 2026
 
 

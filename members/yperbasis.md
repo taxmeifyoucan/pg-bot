@@ -690,6 +690,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.7] cl: expire ttl cache entries on read instead of sweeping](https://github.com/erigontech/erigon/pull/24219) - 2026-09-22
 * [Commit] [cl: remove test workarounds for the ttl cache's old goroutine (#24204)](https://github.com/erigontech/erigon/commit/f099f0161ade159a442bde9328acf35e9e3b5742) - 2026-09-22
 * [Commit] [chainspec, clparams: schedule Glamsterdam on Sepolia (#24225)](https://github.com/erigontech/erigon/commit/7cbfbd4a410596790e5d31620996bfd50305d44d) - 2026-09-22
+* [Review] [Review on: cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845#pullrequestreview-5291713737) - 2026-09-23
+* [Pull Request] [[r3.7] cl/cltypes: reject hashing an incomplete execution payload envelope](https://github.com/erigontech/erigon/pull/24261) - 2026-09-23
+* [Pull Request] [[r3.7] Velvet Vibrissae release notes](https://github.com/erigontech/erigon/pull/24257) - 2026-09-23
+* [Review] [Review on: engine_api: drop the extra forced-fsync commit per fork choice](https://github.com/erigontech/erigon/pull/24248#pullrequestreview-5290706585) - 2026-09-23
+* [Issue] [Remove serial execution](https://github.com/erigontech/erigon/issues/24254) - 2026-09-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

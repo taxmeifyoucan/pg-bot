@@ -132,6 +132,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: perf: eliminate O(N²) isClosed overhead in LayeredKeyValueStorage.get()](https://github.com/besu-eth/besu/pull/11071#pullrequestreview-5265983737) - 2026-09-21
 * [Pull Request] [Prevent worldstate heal cascade when TrieLogPruner runs during shutdown](https://github.com/besu-eth/besu/pull/11330) - 2026-09-21
 * [Pull Request] [Fetch block access lists during backward sync](https://github.com/besu-eth/besu/pull/11334) - 2026-09-21
+* [Review] [Review on: Add a RocksDB table cache warmup](https://github.com/besu-eth/besu/pull/11355#pullrequestreview-5290710242) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

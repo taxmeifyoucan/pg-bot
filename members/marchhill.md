@@ -466,6 +466,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Enforce the EIP-8037 TX_MAX_TOTAL_GAS_LIMIT transaction cap](https://github.com/NethermindEth/nethermind/pull/13627#pullrequestreview-5277006054) - 2026-09-22
 * [Issue] [eth_simulateV1: SLOTNUM faults with invalid instruction because simulated blocks have no slot number](https://github.com/NethermindEth/nethermind/issues/13683) - 2026-09-22
 * [Issue] [Orphaned header validation skips the EIP-4844 blob-gas presence checks](https://github.com/NethermindEth/nethermind/issues/13682) - 2026-09-22
+* [Review] [Review on: Re-execute a known block whose state was pruned](https://github.com/NethermindEth/nethermind/pull/13686#pullrequestreview-5290207560) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

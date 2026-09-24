@@ -86,6 +86,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor(state-transition): re-organize test helpers](https://github.com/ChainSafe/lodestar/pull/10099#pullrequestreview-5244071794) - 2026-09-18
 * [Pull Request] [chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124) - 2026-09-18
 * [Review] [Review on: test: fix Capella epoch benchmark fork](https://github.com/ChainSafe/lodestar/pull/10145#pullrequestreview-5274315174) - 2026-09-22
+* [Review] [Review on: refactor: move stateHashTreeRootTime metric to beacon-node](https://github.com/ChainSafe/lodestar/pull/10153#pullrequestreview-5293619753) - 2026-09-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -274,6 +275,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor(epoch-cache): make effectiveBalanceIncrementsSet append instead](https://github.com/ChainSafe/lodestar-z/pull/721#pullrequestreview-5273879759) - 2026-09-22
 * [Review] [Review on: refactor: transfer shuffling indices on success](https://github.com/ChainSafe/lodestar-z/pull/723#pullrequestreview-5274675719) - 2026-09-22
 * [Commit] [docs: call a source file a file, not a module (#719)](https://github.com/ChainSafe/lodestar-z/commit/31f49753e501e6e871ee0c70ebb56382b08c435c) - 2026-09-22
+* [Pull Request] [fix(bindings): emit eth1Data.depositCount as bigint](https://github.com/ChainSafe/lodestar-z/pull/730) - 2026-09-23
+* [Pull Request] [fix(bindings): return beacon committee as Uint32Array](https://github.com/ChainSafe/lodestar-z/pull/728) - 2026-09-23
+* [Pull Request] [fix(bindings): depositCount as bigint](https://github.com/ChainSafe/lodestar-z/pull/729) - 2026-09-23
+* [Commit] [feat(stf): zero-alloc `processSyncAggregate` (#269)](https://github.com/ChainSafe/lodestar-z/commit/bd6873289731f9cef133c0a667fbd5ad6f222ea5) - 2026-09-23
+* [Commit] [chore: remove benchmark CI (#715)](https://github.com/ChainSafe/lodestar-z/commit/561193b16b03806fe36b411ecad384303b48c2e9) - 2026-09-23
+* [Commit] [fix(bindings): emit eth1Data.depositCount as bigint (#730)](https://github.com/ChainSafe/lodestar-z/commit/bd746f587a66f753455c52776edff3469e232f92) - 2026-09-23
+* [Commit] [refactor(epoch-cache): make effectiveBalanceIncrementsSet append instead (#721)](https://github.com/ChainSafe/lodestar-z/commit/bc748d841e539494e12ecceeaef3578a648449a3) - 2026-09-23
+* [Commit] [fix(bindings): return beacon committee as Uint32Array (#728)](https://github.com/ChainSafe/lodestar-z/commit/0f7ce2d2fe45430d728c748644249c4e01e7e132) - 2026-09-23
+* [Commit] [fix(bindings): depositCount as bigint (#729)](https://github.com/ChainSafe/lodestar-z/commit/6133ed0aba77ef557cfbe6da9c1c047c470bcfa8) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

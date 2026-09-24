@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: Reject RPC requests with trailing bytes](https://github.com/sigp/lighthouse/pull/9567#pullrequestreview-4714650886) - 2026-07-16
 
 * [Commit] [update deps](https://github.com/sigp/lighthouse/commit/3762889c47b9b48002690c5a72a3cce89a694384) - 2026-08-17
+* [Pull Request] [update deps](https://github.com/sigp/lighthouse/pull/10115) - 2026-09-23
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Review] [Review on: Fix clippy errors](https://github.com/sigp/discv5/pull/310#pullrequestreview-4842190346) - 2026-08-03
 * [Review] [Review on: fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309#pullrequestreview-4895370122) - 2026-08-10
@@ -24,6 +25,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309#pullrequestreview-5265816141) - 2026-09-21
 * [Pull Request] [update dependencies](https://github.com/sigp/discv5/pull/311) - 2026-09-22
 * [Review] [Review on: update dependencies](https://github.com/sigp/discv5/pull/311#pullrequestreview-5276682650) - 2026-09-22
+* [Pull Request] [feat: do not re-export enr crate](https://github.com/sigp/discv5/pull/313) - 2026-09-23
+* [Review] [Review on: Move to Edition 2024](https://github.com/sigp/discv5/pull/312#pullrequestreview-5292580445) - 2026-09-23
+* [Review] [Review on: update dependencies](https://github.com/sigp/discv5/pull/311#pullrequestreview-5289581112) - 2026-09-23
+* [Commit] [feat: do not re-export enr crate (#313)](https://github.com/sigp/discv5/commit/8dc0696ff58b6af9d160067b0764ab871b9fae82) - 2026-09-23
+* [Commit] [update dependencies (#311)](https://github.com/sigp/discv5/commit/cb292b4a2d272b05c78b1471e956722006c5448d) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Allow readers to ignore trailing bytes after declared SSZ bytes](https://github.com/ethereum/consensus-specs/pull/5511#pullrequestreview-4976938275) - 2026-08-19
 

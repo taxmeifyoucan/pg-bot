@@ -386,6 +386,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/state: versioned-state foundation (1/2, split of #23967)](https://github.com/erigontech/erigon/pull/24132#pullrequestreview-5273819935) - 2026-09-22
 * [Review] [Review on: chainspec, clparams: schedule Glamsterdam on Sepolia](https://github.com/erigontech/erigon/pull/24225#pullrequestreview-5276242265) - 2026-09-22
 * [Commit] [execution/tracing: support for EIP-8037 state gas tracing (part 2) (#24203)](https://github.com/erigontech/erigon/commit/be0f2d081af0cf7c42a98cd86fffc531304d8add) - 2026-09-22
+* [Review] [Review on: cmd, common, node, p2p, rpc, txnprovider: adopt gofumpt formatting](https://github.com/erigontech/erigon/pull/24183#pullrequestreview-5294678743) - 2026-09-23
+* [Pull Request] [rpc: remove obsolete fastJSONResult interface](https://github.com/erigontech/erigon/pull/24251) - 2026-09-23
+* [Commit] [execution/tracing: move internal tracers to V2 hooks for EIP-8037 state gas tracing (part 4) (#24240)](https://github.com/erigontech/erigon/commit/27119456bcd15670add00e9ece61df9b3e3c816f) - 2026-09-23
+* [Commit] [execution/tracing: support for EIP-8037 state gas tracing (part 3) (#24231)](https://github.com/erigontech/erigon/commit/a102803756a1b7ee32512a3ee10ae3ea062ba5f1) - 2026-09-23
+* [Commit] [rpc: remove obsolete fastJSONResult interface (#24251)](https://github.com/erigontech/erigon/commit/b6701eda63bcc5aecb8494d39801f4531de924bb) - 2026-09-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
@@ -404,6 +409,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594) - 2026-09-02
 * [Review] [Review on: integration: add tests for callTracer `to` omitted on a failed CREATE](https://github.com/erigontech/rpc-tests/pull/596#pullrequestreview-5112385134) - 2026-09-04
 * [Commit] [eth_simulateV1: update test_28 to remove EIP-7610 check and fallback to EIP-684 + yellow paper storage clearing on new account (#594)](https://github.com/erigontech/rpc-tests/commit/60ed34671cf189294b971e1a7f17008d53a27464) - 2026-09-04
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: debug: specify callTracer output and add EIP-8037 two-dimensional gas to tracing](https://github.com/ethereum/execution-apis/pull/852#pullrequestreview-5287202408) - 2026-09-23
 ## Q2 2026
 
 

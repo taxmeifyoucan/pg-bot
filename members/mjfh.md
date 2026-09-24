@@ -57,6 +57,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync maint update (#4821)](https://github.com/status-im/nimbus-eth1/commit/2e2b76b365e60eb03d6164abfd19e768f45e9c59) - 2026-09-18
 * [Pull Request] [Snap2 sync update cordb assembly](https://github.com/status-im/nimbus-eth1/pull/4833) - 2026-09-21
 * [Commit] [Snap2 sync update cordb assembly (#4833)](https://github.com/status-im/nimbus-eth1/commit/8370dde1febdf96e87f15bbc0816f738e81045f1) - 2026-09-21
+* [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4839) - 2026-09-23
+* [Commit] [Snap2 sync maint update (#4839)](https://github.com/status-im/nimbus-eth1/commit/4f282d85ad8772ac4ae067bd175438122ac87afc) - 2026-09-23
 ## Q2 2026
 
 

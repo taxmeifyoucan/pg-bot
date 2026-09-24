@@ -67,6 +67,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Document won't-fix vote slot reset in V28 to V29 migration](https://github.com/sigp/lighthouse/pull/10108) - 2026-09-22
 * [Review] [Review on: Gloas progressive merkle proofs](https://github.com/sigp/lighthouse/pull/9790#pullrequestreview-5277655600) - 2026-09-22
 * [Review] [Review on: Do not advance state under fc lock](https://github.com/sigp/lighthouse/pull/9895#pullrequestreview-5276970682) - 2026-09-22
+* [Review] [Review on: Gloas spec v1.7.0-beta.2](https://github.com/sigp/lighthouse/pull/10114#pullrequestreview-5288214990) - 2026-09-23
+* [Pull Request] [Drop FC update params cache](https://github.com/sigp/lighthouse/pull/10112) - 2026-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 

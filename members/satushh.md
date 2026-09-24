@@ -87,6 +87,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Reject proposer preferences pointing past the shuffling dependent slot](https://github.com/OffchainLabs/prysm/pull/17484#pullrequestreview-5283265153) - 2026-09-22
 * [Review] [Review on: Reject PTC lookups for pre-Gloas slots at the fork epoch](https://github.com/OffchainLabs/prysm/pull/17531#pullrequestreview-5275815118) - 2026-09-22
 * [Pull Request] [ Serve the chain tip's envelope in envelopes by range when fork choice holds the tip full](https://github.com/OffchainLabs/prysm/pull/17533) - 2026-09-22
+* [Review] [Review on: Return 404 for unknown validator REST paths](https://github.com/OffchainLabs/prysm/pull/17548#pullrequestreview-5292394339) - 2026-09-23
+* [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5294644128) - 2026-09-23
+* [Commit] [ Serve the chain tip's envelope in envelopes by range when fork choice holds the tip full (#17533)](https://github.com/OffchainLabs/prysm/commit/98563831a2a420a16f783387ab4864cc11bf3800) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

@@ -264,6 +264,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Proposer: respect PTC blob data unavailable majority](https://github.com/OffchainLabs/prysm/pull/17537) - 2026-09-22
 * [Review] [Review on: Don't fire `chain_reorg` when only the Gloas payload status flips](https://github.com/OffchainLabs/prysm/pull/17534#pullrequestreview-5279986887) - 2026-09-22
 * [Commit] [Return nil for null execution blocks in batch fetch instead of a parentHash decode error (#17525)](https://github.com/OffchainLabs/prysm/commit/964f0ba0491d91f00594ab04fc7dc7087c7dc11b) - 2026-09-22
+* [Review] [Review on: intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536#pullrequestreview-5296089249) - 2026-09-23
+* [Review] [Review on: Raise the Gloas builder bid wait to 600ms and make it configurable](https://github.com/OffchainLabs/prysm/pull/17551#pullrequestreview-5296917021) - 2026-09-23
+* [Review] [Review on: Fix/pending block broadcast fork digest](https://github.com/OffchainLabs/prysm/pull/17543#pullrequestreview-5291978651) - 2026-09-23
+* [Commit] [Use PROPOSER_REORG_CUTOFF_BPS in GetProposerHead (#17538)](https://github.com/OffchainLabs/prysm/commit/a5afd807f6212f155a8509b6ca8b54bddf31710a) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

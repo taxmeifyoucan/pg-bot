@@ -456,6 +456,33 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: move nethtest to the scripts dir](https://github.com/NethermindEth/nethermind/pull/13692#pullrequestreview-5281714586) - 2026-09-22
 * [Commit] [Reduce trie and storage-key hashing overhead (#13552)](https://github.com/NethermindEth/nethermind/commit/3ab95801aea8b0652942d01d2876b1bb3b255d0b) - 2026-09-22
 * [Commit] [Fix a race in the late-sender wave prewarm test (#13679)](https://github.com/NethermindEth/nethermind/commit/a41c31da2e21645cd80b899316026560a719ae2c) - 2026-09-22
+* [Pull Request] [Fix flaky engine tests building a child on a parent whose state is not yet committed](https://github.com/NethermindEth/nethermind/pull/13740) - 2026-09-23
+* [Pull Request] [Fix flaky DirtyNodeHasher rehash test reading a process-wide counter](https://github.com/NethermindEth/nethermind/pull/13738) - 2026-09-23
+* [Pull Request] [Retry startup IP resolution and keep dialed endpoints when persisting peers](https://github.com/NethermindEth/nethermind/pull/13731) - 2026-09-23
+* [Review] [Review on: Retry startup IP resolution and keep dialed endpoints when persisting peers](https://github.com/NethermindEth/nethermind/pull/13731#pullrequestreview-5294910686) - 2026-09-23
+* [Review] [Review on: fix(archive-proofs): deep storage epoch snapshots only when epochs are dropped](https://github.com/NethermindEth/nethermind/pull/13754#pullrequestreview-5298461246) - 2026-09-24
+* [Pull Request] [Fix flaky Cannot_produce_bad_blocks: wait for the commit before the forkchoice update](https://github.com/NethermindEth/nethermind/pull/13739) - 2026-09-23
+* [Review] [Review on: perf(rpc): serve eth_getFilterChanges from shared block and pending logs](https://github.com/NethermindEth/nethermind/pull/13742#pullrequestreview-5298182497) - 2026-09-24
+* [Pull Request] [Fix flaky RetryCache overflow allocation test counting background GC noise](https://github.com/NethermindEth/nethermind/pull/13745) - 2026-09-23
+* [Pull Request] [perf: add dedicated processing thread and Windows worker affinity](https://github.com/NethermindEth/nethermind/pull/13751) - 2026-09-23
+* [Pull Request] [perf: skip ineffective thread priority syscalls on Linux](https://github.com/NethermindEth/nethermind/pull/13753) - 2026-09-23
+* [Pull Request] [fix: avoid missing block processing queue drain](https://github.com/NethermindEth/nethermind/pull/13749) - 2026-09-23
+* [Pull Request] [perf: add dedicated block processing and cross-platform worker affinity](https://github.com/NethermindEth/nethermind/pull/13744) - 2026-09-23
+* [Review] [Review on: perf: add dedicated block processing and cross-platform worker affinity](https://github.com/NethermindEth/nethermind/pull/13744#pullrequestreview-5297189150) - 2026-09-23
+* [Review] [Review on: Remove the flat DB preimage recording feature](https://github.com/NethermindEth/nethermind/pull/13690#pullrequestreview-5290521357) - 2026-09-23
+* [Review] [Review on: Add FlatDb.DropPruningTrieState to reclaim the patricia trie after conversion](https://github.com/NethermindEth/nethermind/pull/13572#pullrequestreview-5289571269) - 2026-09-23
+* [Commit] [Fix flaky engine tests building a child on a parent whose state is not yet committed (#13740)](https://github.com/NethermindEth/nethermind/commit/3269a1a261b4ecef7552e31cc727c7d850881f9a) - 2026-09-24
+* [Commit] [Fix flaky DirtyNodeHasher rehash test reading a process-wide counter (#13738)](https://github.com/NethermindEth/nethermind/commit/2c5e133fe5ad1d8bd7d8b5f31d816cd1c6b0cb05) - 2026-09-24
+* [Commit] [Retry startup IP resolution and keep dialed endpoints when persisting peers (#13731)](https://github.com/NethermindEth/nethermind/commit/253f221f0123352ba42416bee7f70d62fd85d1f8) - 2026-09-24
+* [Commit] [Fix flaky RetryCache overflow allocation test counting background GC noise (#13745)](https://github.com/NethermindEth/nethermind/commit/69099f49fbab8e97c87b85b5e418b51552f917c7) - 2026-09-24
+* [Commit] [perf: skip ineffective thread priority syscalls on Linux (#13753)](https://github.com/NethermindEth/nethermind/commit/4154210084e06619ce3962d258f62c13d1469fe0) - 2026-09-24
+* [Commit] [fix: avoid missing block processing queue drain (#13749)](https://github.com/NethermindEth/nethermind/commit/7713998c5bf778631dae5933732ca74b846edc15) - 2026-09-23
+* [Commit] [Update EEST fixtures to tests@v21.0.0 (#13730)](https://github.com/NethermindEth/nethermind/commit/15fbd73f00ff28bffa40f4f5f6eb8670a86e58fa) - 2026-09-23
+* [Commit] [Vectorise JSON hex decoding and the byte hex writer (#13733)](https://github.com/NethermindEth/nethermind/commit/2f2cf7448e58add5249affc97c5a6036adae0c64) - 2026-09-23
+* [Commit] [Vectorise hex encoding for every ISA tier, including arm64 (#13726)](https://github.com/NethermindEth/nethermind/commit/c49be6c220462b413d0a2dbe61065535b42190e7) - 2026-09-23
+* [Commit] [Vectorize nibble expand and pack (#13704)](https://github.com/NethermindEth/nethermind/commit/c8efa53f7a3d978694627a4c712bd600186b2a05) - 2026-09-23
+* [Commit] [Document zkVM guest execution and GPU proving prerequisites (#13589)](https://github.com/NethermindEth/nethermind/commit/cb79dcbfdf6fab27f79a5eba0e3850b5198cbb90) - 2026-09-23
+* [Commit] [Fix missing stateless dependencies in the Visual Studio solution (#13594)](https://github.com/NethermindEth/nethermind/commit/1f2d64e8a3bdb9c9226eb43839f59c7889c247c7) - 2026-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
@@ -468,6 +495,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653198356) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653197195) - 2026-07-08
 
+* [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291571261) - 2026-09-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: return INVALID for undecodable blockAccessList](https://github.com/ethereum/execution-apis/pull/869#pullrequestreview-5043226331) - 2026-08-27
 

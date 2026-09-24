@@ -76,6 +76,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: account block execution gas before refund (EIP-7778)](https://github.com/ethereum/EIPs/pull/12226#pullrequestreview-5004050703) - 2026-08-24
 * [Review] [Review on: Update EIP-4444: Move to Draft](https://github.com/ethereum/EIPs/pull/12257#pullrequestreview-5051275509) - 2026-08-28
 * [Review] [Review on: Update EIP-8141: Remove a redundant check for frame's state gas limit](https://github.com/ethereum/EIPs/pull/12276#pullrequestreview-5081112121) - 2026-09-01
+* [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5292351500) - 2026-09-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

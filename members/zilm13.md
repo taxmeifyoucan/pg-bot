@@ -173,6 +173,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Enforce progressive list limits in ssz](https://github.com/Consensys-Incorporated/teku/pull/11297#pullrequestreview-5278573363) - 2026-09-22
 * [Commit] [FCR optimization part2:  Reuse cached checkpoint states and parallelize fast confirmation scoring (#11214)](https://github.com/Consensys-Incorporated/teku/commit/ecf3ed202a722f6c8c5f6151b89797a692f4e357) - 2026-09-22
 * [Commit] [Shutdown ungracefully on OOM with VM flag (#11289)](https://github.com/Consensys-Incorporated/teku/commit/5eb31d468ccb24e207a5cddbc898e2258dd1cd0c) - 2026-09-22
+* [Pull Request] [BN should return 400 for unknown event stream topics](https://github.com/Consensys-Incorporated/teku/pull/11331) - 2026-09-23
+* [Pull Request] [Report pre-Gloas head_v2 payload status as full](https://github.com/Consensys-Incorporated/teku/pull/11332) - 2026-09-23
+* [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5295394827) - 2026-09-23
+* [Review] [Review on: FC Node invalidation and Node resolution bug fixes](https://github.com/Consensys-Incorporated/teku/pull/11333#pullrequestreview-5294122227) - 2026-09-23
+* [Pull Request] [VC warn when no head events arrive from a beacon node](https://github.com/Consensys-Incorporated/teku/pull/11329) - 2026-09-23
+* [Commit] [BN should return 400 for unknown event stream topics (#11331)](https://github.com/Consensys-Incorporated/teku/commit/edc22a5e474b3ab324a2bd14eb8d8f2fddef3838) - 2026-09-23
+* [Commit] [Report pre-Gloas head_v2 payload status as full (#11332)](https://github.com/Consensys-Incorporated/teku/commit/b1758aed0a563822f69b2520b5eca1a20596981c) - 2026-09-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026
