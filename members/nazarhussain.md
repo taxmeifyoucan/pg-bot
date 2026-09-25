@@ -148,6 +148,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: ssz-rest engine api transport](https://github.com/ChainSafe/lodestar/pull/10155) - 2026-09-23
 * [Review] [Review on: feat: ssz-rest engine api transport](https://github.com/ChainSafe/lodestar/pull/10155#pullrequestreview-5292208891) - 2026-09-23
 * [Review] [Review on: feat(builder): assemble stateless payload envelopes](https://github.com/ChainSafe/lodestar/pull/9981#pullrequestreview-5290196870) - 2026-09-23
+* [Review] [Review on: fix: do not remove pending block on failed download](https://github.com/ChainSafe/lodestar/pull/10137#pullrequestreview-5302596130) - 2026-09-24
+* [Review] [Review on: test: builder nightly smoke test](https://github.com/ChainSafe/lodestar/pull/10150#pullrequestreview-5302813921) - 2026-09-24
+* [Review] [Review on: feat(builder): assemble execution payload bids](https://github.com/ChainSafe/lodestar/pull/9978#pullrequestreview-5303387966) - 2026-09-24
+* [Commit] [feat: use zig backed lodestar-z shuffle (#9829)](https://github.com/ChainSafe/lodestar/commit/7febf954879fde5e5fa195ce7480865fffa7a558) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

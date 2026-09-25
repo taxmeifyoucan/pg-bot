@@ -616,6 +616,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(tracing): retain output in state-only Parity traces](https://github.com/NethermindEth/nethermind/pull/13665#pullrequestreview-5290267410) - 2026-09-23
 * [Review] [Review on: fix: serialize Parity VM stack values as quantities](https://github.com/NethermindEth/nethermind/pull/13750#pullrequestreview-5297748912) - 2026-09-23
 * [Commit] [fix(engine): reject null required Cancun payload fields (#13747)](https://github.com/NethermindEth/nethermind/commit/d3e6d98f706a6a2b0115009efc1bf30a46c722a2) - 2026-09-23
+* [Review] [Review on: fix(flat-history): show the replay block of a storage range in the walk progress](https://github.com/NethermindEth/nethermind/pull/13791#pullrequestreview-5310735977) - 2026-09-24
+* [Review] [Review on: fix(tracing): report vmTrace store without stateDiff](https://github.com/NethermindEth/nethermind/pull/13779#pullrequestreview-5309715488) - 2026-09-24
+* [Pull Request] [test: wait for the payload's commit in SendNewBlockV2 before reading its state](https://github.com/NethermindEth/nethermind/pull/13793) - 2026-09-24
+* [Review] [Review on: test: wait for the payload's commit in SendNewBlockV2 before reading its state](https://github.com/NethermindEth/nethermind/pull/13793#pullrequestreview-5310619254) - 2026-09-24
+* [Pull Request] [Tone down dated emphasis in agent rules and skills](https://github.com/NethermindEth/nethermind/pull/13792) - 2026-09-24
+* [Review] [Review on: fix(tracing): serialize vmTrace store key and value as quantities](https://github.com/NethermindEth/nethermind/pull/13780#pullrequestreview-5309706390) - 2026-09-24
+* [Review] [Review on: fix(rpc): return no traces for the genesis block in trace_block](https://github.com/NethermindEth/nethermind/pull/13783#pullrequestreview-5309682033) - 2026-09-24
+* [Review] [Review on: fix(tracing): include forwarded gas in streamed vmTrace create cost](https://github.com/NethermindEth/nethermind/pull/13782#pullrequestreview-5309689020) - 2026-09-24
+* [Review] [Review on: fix(evm): report DUPn vmTrace push as n + 1 words](https://github.com/NethermindEth/nethermind/pull/13781#pullrequestreview-5309697051) - 2026-09-24
+* [Review] [Review on: chore(zkevm): bump up tests-zkevm version](https://github.com/NethermindEth/nethermind/pull/13789#pullrequestreview-5309378094) - 2026-09-24
+* [Review] [Review on: test: guard the traceCallMany gas default against EIP-7825's cap under Osaka](https://github.com/NethermindEth/nethermind/pull/13729#pullrequestreview-5308196867) - 2026-09-24
+* [Review] [Review on: Report EIP-8037 two-dimensional block gas used in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/13628#pullrequestreview-5308212838) - 2026-09-24
+* [Commit] [ci: don't retry test failures; time smoke test phases (#13766)](https://github.com/NethermindEth/nethermind/commit/641592d2b96fa1e2fa8e8a0b1761582a1728bd51) - 2026-09-24
+* [Commit] [test: deflake KademliaSimulation.SimulateLargeKNearestNeighbour (#13768)](https://github.com/NethermindEth/nethermind/commit/d9671bd0a63c8b9e91808da2c40dbe17ed0b6cf8) - 2026-09-24
+* [Commit] [test: wait for the payload's commit before building on it in Cannot_produce_bad_blocks (#13771)](https://github.com/NethermindEth/nethermind/commit/0df2d3df84d2a9e07f1a4eb8eb8a513d7a985712) - 2026-09-24
+* [Commit] [Revert "perf(flat): refresh the carry-forward account cache on commit instead of evicting (#12960)" (#13765)](https://github.com/NethermindEth/nethermind/commit/cc1a703e082089e47fa4fc4a312da5cdcf57fb9a) - 2026-09-24
+* [Commit] [perf(rpc): serve eth_getFilterChanges from shared block and pending logs (#13742)](https://github.com/NethermindEth/nethermind/commit/b0d846fdc628a24db51c3afa3b88e162b12ba79d) - 2026-09-24
+* [Commit] [Dispose engine test chains and fail tests that leak one (#13767)](https://github.com/NethermindEth/nethermind/commit/53a24464674a789e5213090e74e3f1895a4f63c5) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

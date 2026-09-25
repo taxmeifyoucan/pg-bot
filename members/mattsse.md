@@ -934,6 +934,40 @@ Team: Reth
 * [Review] [Review on: fix(txpool): scale validation channel capacity with worker count](https://github.com/paradigmxyz/reth/pull/27362#pullrequestreview-5288417783) - 2026-09-23
 * [Commit] [perf(storage): reuse canonical BlockState chain when building overlay providers (#27319)](https://github.com/paradigmxyz/reth/commit/8ae06eca59c85d35c58ba10aff111b0e7e11f177) - 2026-09-23
 * [Commit] [chore(deps): bump alloy to 2.5.0 (#27387)](https://github.com/paradigmxyz/reth/commit/458d609fb61d47eabc0ec1c027f1514ec405813c) - 2026-09-23
+* [Review] [Review on: fix(rpc): resolve pending state before blocking](https://github.com/paradigmxyz/reth/pull/27415#pullrequestreview-5308863381) - 2026-09-24
+* [Pull Request] [perf: share pending block and receipts](https://github.com/paradigmxyz/reth/pull/27427) - 2026-09-24
+* [Pull Request] [fix(engine): cap block range downloads](https://github.com/paradigmxyz/reth/pull/27400) - 2026-09-24
+* [Review] [Review on: perf(db): prefetch mapped bytecode pages before decoding](https://github.com/paradigmxyz/reth/pull/27424#pullrequestreview-5308528318) - 2026-09-24
+* [Pull Request] [fix(engine): dedupe block range requests](https://github.com/paradigmxyz/reth/pull/27426) - 2026-09-24
+* [Review] [Review on: fix(net): resolve the external ip when discv4 is disabled](https://github.com/paradigmxyz/reth/pull/27335#pullrequestreview-5308474172) - 2026-09-24
+* [Pull Request] [perf(engine): expand code cache for BAL](https://github.com/paradigmxyz/reth/pull/27425) - 2026-09-24
+* [Pull Request] [perf(engine): skip BAL bytecode prefetch](https://github.com/paradigmxyz/reth/pull/27416) - 2026-09-24
+* [Review] [Review on: fix(rpc): omit genesis block reward traces](https://github.com/paradigmxyz/reth/pull/27423#pullrequestreview-5308073610) - 2026-09-24
+* [Pull Request] [perf(rpc): cache validated V2 builder blobs](https://github.com/paradigmxyz/reth/pull/27413) - 2026-09-24
+* [Review] [Review on: fix(net): offload blocking NAT resolver work](https://github.com/paradigmxyz/reth/pull/27360#pullrequestreview-5306864228) - 2026-09-24
+* [Pull Request] [fix(net): honor the selected NAT interface](https://github.com/paradigmxyz/reth/pull/27420) - 2026-09-24
+* [Pull Request] [fix(net): reject non-public provider IPs](https://github.com/paradigmxyz/reth/pull/27421) - 2026-09-24
+* [Pull Request] [fix(net): cache async NAT hostname resolution](https://github.com/paradigmxyz/reth/pull/27418) - 2026-09-24
+* [Pull Request] [fix(net): share NAT results with discv5](https://github.com/paradigmxyz/reth/pull/27419) - 2026-09-24
+* [Review] [Review on: refactor(txpool): use alloy transaction helpers](https://github.com/paradigmxyz/reth/pull/27406#pullrequestreview-5305498087) - 2026-09-24
+* [Pull Request] [fix(rpc): default trace_filter to latest](https://github.com/paradigmxyz/reth/pull/27411) - 2026-09-24
+* [Review] [Review on: fix(engine): validate forkchoice state before applying updates](https://github.com/paradigmxyz/reth/pull/27247#pullrequestreview-5303684099) - 2026-09-24
+* [Pull Request] [fix(rpc): default trace_callMany to latest](https://github.com/paradigmxyz/reth/pull/27410) - 2026-09-24
+* [Pull Request] [perf: specialize RLP encoded lengths](https://github.com/paradigmxyz/reth/pull/27408) - 2026-09-24
+* [Pull Request] [fix(net): reject invalid block header ranges](https://github.com/paradigmxyz/reth/pull/27399) - 2026-09-24
+* [Review] [Review on: fix(net): reject invalid block header ranges](https://github.com/paradigmxyz/reth/pull/27399#pullrequestreview-5304704069) - 2026-09-24
+* [Issue] [rpc: switch pending state default after OP/Base update](https://github.com/paradigmxyz/reth/issues/27428) - 2026-09-24
+* [Commit] [fix(net): offload blocking NAT resolver work (#27360)](https://github.com/paradigmxyz/reth/commit/54cd0da45d468762688d38640a791e92ad0dcbcb) - 2026-09-24
+* [Commit] [perf(rpc): share sender cache with validation (#27308)](https://github.com/paradigmxyz/reth/commit/861a56167cd4eee8ed66e2bfb5d54a6b0620b40d) - 2026-09-24
+* [Commit] [fix(rpc): default trace_filter to latest (#27411)](https://github.com/paradigmxyz/reth/commit/074bf32ef193987b41ee79a93f07e2251ff6fe81) - 2026-09-24
+* [Commit] [fix(engine): validate forkchoice state before applying updates (#27247)](https://github.com/paradigmxyz/reth/commit/a120f00d47e43427816e2fe7e38229fabbb2db87) - 2026-09-24
+* [Commit] [perf(rpc): reuse shared sender recovery cache (#27368)](https://github.com/paradigmxyz/reth/commit/6351fbb92e80d8370092ff4d6f002ef6a7576996) - 2026-09-24
+* [Commit] [fix(rpc): default trace_callMany to latest (#27410)](https://github.com/paradigmxyz/reth/commit/d8d704cf7d83e3b159910bd8bd0d35b41b2813cc) - 2026-09-24
+* [Commit] [perf: specialize RLP encoded lengths (#27408)](https://github.com/paradigmxyz/reth/commit/973b1e7ea0a9757c3a7b3ddc2226d7e3904e4de0) - 2026-09-24
+* [Commit] [fix(net): reject invalid block header ranges (#27399)](https://github.com/paradigmxyz/reth/commit/2b0b905bc8e28bb08c07ef9def8d5b676c60d06e) - 2026-09-24
+* [Commit] [chore: bump revm and reth-core deps (#27401)](https://github.com/paradigmxyz/reth/commit/5166eb7dab0ef0a589e8911e09307953941b66f2) - 2026-09-24
+* [Commit] [feat(engine): make the backfill threshold configurable (#27329)](https://github.com/paradigmxyz/reth/commit/9b8e2480feb8514a0b31279bf25eaa30dfd38d8a) - 2026-09-24
+* [Commit] [fix(rpc): require explicit testing API (#27398)](https://github.com/paradigmxyz/reth/commit/0d1648572c8df05ccfd6501a1ff7ee8197d49bb9) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -968,6 +1002,7 @@ Team: Reth
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26
 * [Review] [Review on: chore(ci): protect dependency installs with Aegis](https://github.com/paradigmxyz/revmc/pull/415#pullrequestreview-5291088699) - 2026-09-23
+* [Review] [Review on: feat: support optional account extensions](https://github.com/paradigmxyz/revmc/pull/416#pullrequestreview-5302584749) - 2026-09-24
 ## Q2 2026
 
 

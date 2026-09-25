@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 
 * [Commit] [update deps](https://github.com/sigp/lighthouse/commit/3762889c47b9b48002690c5a72a3cce89a694384) - 2026-08-17
 * [Pull Request] [update deps](https://github.com/sigp/lighthouse/pull/10115) - 2026-09-23
+* [Pull Request] [Remove the Router and dispatch network events directly](https://github.com/sigp/lighthouse/pull/10122) - 2026-09-24
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Review] [Review on: Fix clippy errors](https://github.com/sigp/discv5/pull/310#pullrequestreview-4842190346) - 2026-08-03
 * [Review] [Review on: fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309#pullrequestreview-4895370122) - 2026-08-10

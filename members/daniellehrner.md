@@ -141,6 +141,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Stop backward sync when a block cannot be saved (#11303)](https://github.com/besu-eth/besu/commit/4a6ad0963661fc951f07d298044d292d153c8dfa) - 2026-09-23
 * [Commit] [add consumeEngineTestsGlamsterdam and consumeRlpTestsGlamsterdam to the gradle tasks to run on pull request (#11310)](https://github.com/besu-eth/besu/commit/fe2c66d260c3fe8b2d49bdda2511ee8aadf11921) - 2026-09-23
 * [Commit] [Fix flaky BackwardSyncAlgSpecTest stubbing race (#11311)](https://github.com/besu-eth/besu/commit/da3d6b0cd94d8051a02e51ff24afa4de41cabef7) - 2026-09-23
+* [Pull Request] [Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364) - 2026-09-24
+* [Pull Request] [Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363) - 2026-09-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

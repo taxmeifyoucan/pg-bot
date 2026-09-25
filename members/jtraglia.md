@@ -341,6 +341,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665#pullrequestreview-5291252528) - 2026-09-23
 * [Commit] [Use millisecond helpers in second-based time helpers (#5675)](https://github.com/ethereum/consensus-specs/commit/b9bb2c848667ae5eee91bd1cb371d5f065b9d3e9) - 2026-09-23
 * [Commit] [Sign proposer preferences with the proposal epoch's fork version (#5665)](https://github.com/ethereum/consensus-specs/commit/63a81afa62c15012f062cfcfba31ef1f27cf46b6) - 2026-09-23
+* [Pull Request] [Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679) - 2026-09-24
+* [Review] [Review on: Put validator assignments section at the right place](https://github.com/ethereum/consensus-specs/pull/5678#pullrequestreview-5309656746) - 2026-09-24
+* [Review] [Review on: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/ethereum/consensus-specs/pull/5673#pullrequestreview-5307663908) - 2026-09-24
+* [Review] [Review on: Fix empty slot support discount for Gloas](https://github.com/ethereum/consensus-specs/pull/5672#pullrequestreview-5307440343) - 2026-09-24
+* [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5307416454) - 2026-09-24
+* [Review] [Review on: Use time-related helper, instead of hardcoded slot duration](https://github.com/ethereum/consensus-specs/pull/5677#pullrequestreview-5305020842) - 2026-09-24
+* [Commit] [Deprecate old config variables (#5676)](https://github.com/ethereum/consensus-specs/commit/1145cc6e3b4567ac457ef003d9d68654d3310ca8) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -113,6 +113,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: move nethtest to the scripts dir (#13692)](https://github.com/NethermindEth/nethermind/commit/6e6b5c396489977d79662977757e2b67311e552b) - 2026-09-22
 * [Commit] [chore(agents): trim AGENTS.md and move benchmark guidance to skills (#13646)](https://github.com/NethermindEth/nethermind/commit/527c99c4a1f0d8ed0d74eb514f14d74617acb5c9) - 2026-09-22
 * [Commit] [chore(deps): update DotNetty package (#13687)](https://github.com/NethermindEth/nethermind/commit/b1eeb0bae6cfc354096e2e721c73d6e6a9d7411d) - 2026-09-23
+* [Pull Request] [chore(zkevm): bump up tests-zkevm version](https://github.com/NethermindEth/nethermind/pull/13789) - 2026-09-24
+* [Commit] [chore(zkevm): bump up tests-zkevm version (#13789)](https://github.com/NethermindEth/nethermind/commit/a9a901554cc9a8cc581e4607aa61a657fdfa9a42) - 2026-09-24
+* [Commit] [ci(zkevm): simplify zkVM guest release versioning (#13775)](https://github.com/NethermindEth/nethermind/commit/79fea9fe2330725bb18f6626644b9b2606ea1203) - 2026-09-24
+* [Commit] [chore: replace version suffix with "preview" (#13773)](https://github.com/NethermindEth/nethermind/commit/ce501a9734ac0b39b5a5195fd93a5bf67ba9c161) - 2026-09-24
+* [Commit] [ci(zkevm): release SP1 and OpenVM guests alongside ZisK (#13769)](https://github.com/NethermindEth/nethermind/commit/5c2a2768fdac1930af35aadf609b61bc6f4af8ee) - 2026-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

@@ -65,6 +65,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: schedule Gloas fork on Sepolia](https://github.com/ChainSafe/lodestar/pull/10119#pullrequestreview-5238270333) - 2026-09-17
 * [Pull Request] [chore: v1.48.1 release](https://github.com/ChainSafe/lodestar/pull/10125) - 2026-09-18
 * [Review] [Review on: refactor: remove legacy backfill sync](https://github.com/ChainSafe/lodestar/pull/10147#pullrequestreview-5284247006) - 2026-09-22
+* [Review] [Review on: fix: do not replace recorded slashing protection data on interchange import](https://github.com/ChainSafe/lodestar/pull/10168#pullrequestreview-5307201549) - 2026-09-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

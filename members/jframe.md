@@ -89,6 +89,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: newPayload to return syncing when parent world state unavailable](https://github.com/besu-eth/besu/pull/11309#pullrequestreview-5219084897) - 2026-09-16
 * [Review] [Review on: Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11331#pullrequestreview-5273338656) - 2026-09-22
 * [Commit] [Bonsai archive proofs diff encoding (#11091)](https://github.com/besu-eth/besu/commit/f9572aa82a2dadb3dd1b218d3ca97101540faf97) - 2026-09-24
+* [Pull Request] [Bonsai archive proofs ongoing sync](https://github.com/besu-eth/besu/pull/11361) - 2026-09-24
 ## Q2 2026
 
 

@@ -229,6 +229,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Tune layered txpool for upcoming Amsterdam 200M gas limit](https://github.com/besu-eth/besu/pull/11335) - 2026-09-21
 * [Review] [Review on: Tune layered txpool for upcoming Amsterdam 200M gas limit](https://github.com/besu-eth/besu/pull/11335#pullrequestreview-5265484820) - 2026-09-21
 * [Commit] [Tune layered txpool for upcoming Amsterdam 200M gas limit (#11335)](https://github.com/besu-eth/besu/commit/0efbda26fef38705db0ee589b0201c540b751a06) - 2026-09-21
+* [Review] [Review on: Declare plugin CLI options before register()](https://github.com/besu-eth/besu/pull/11282#pullrequestreview-5302566226) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

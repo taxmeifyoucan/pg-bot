@@ -244,6 +244,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(flat): add FlatDb.EnableCarryForwardCache (#13752)](https://github.com/NethermindEth/nethermind/commit/361cce87e5ce4fc4a97387e50a244430b588ccc7) - 2026-09-24
 * [Commit] [docs(agents): require AI agents to declare harness and model on GitHub (#13605)](https://github.com/NethermindEth/nethermind/commit/96fbff65a723f0430398db03ed96ac0a4d97c048) - 2026-09-23
 * [Commit] [Remove the flat DB preimage recording feature (#13690)](https://github.com/NethermindEth/nethermind/commit/9268462cf1b42a982ab011d330b2a4d9a5e9e29b) - 2026-09-23
+* [Pull Request] [refactor(state): apply BAL state changes through IScope.ApplyBal](https://github.com/NethermindEth/nethermind/pull/13772) - 2026-09-24
+* [Commit] [Close the HasState/BeginScope gap and add target-aware world-state scopes (#13522)](https://github.com/NethermindEth/nethermind/commit/c18cd3f282f6ab025ff834933f6e0e88c67a159e) - 2026-09-24
 ## Q2 2026
 
 

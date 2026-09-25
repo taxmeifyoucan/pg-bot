@@ -148,6 +148,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Update and use time-related helpers (#5671)](https://github.com/ethereum/consensus-specs/commit/13b5cbf0d600cdc52e131f178101909eb8908924) - 2026-09-23
 * [Commit] [Convert `Store.genesis_time` to `Store.genesis_time_ms` (#5668)](https://github.com/ethereum/consensus-specs/commit/2b2e5cb9fee32ddf7ea1cb89afcaab90a037280c) - 2026-09-23
 * [Commit] [Convert `Store.time` to `Store.time_ms` (#5667)](https://github.com/ethereum/consensus-specs/commit/41f2504b1ebbc02f882332670fadcbb4875daa65) - 2026-09-23
+* [Pull Request] [Put validator assignments section at the right place](https://github.com/ethereum/consensus-specs/pull/5678) - 2026-09-24
+* [Review] [Review on: Deprecate old config variables](https://github.com/ethereum/consensus-specs/pull/5676#pullrequestreview-5302661919) - 2026-09-24
+* [Pull Request] [Use time-related helper, instead of hardcoded slot duration](https://github.com/ethereum/consensus-specs/pull/5677) - 2026-09-24
+* [Commit] [Put validator assignments section at the right place (#5678)](https://github.com/ethereum/consensus-specs/commit/fcdcf42024f33c498bff74936eabea2d96049fc2) - 2026-09-24
+* [Commit] [Use time-related helper, instead of hardcoded slot duration (#5677)](https://github.com/ethereum/consensus-specs/commit/df2e7f3f7ae21882eafd6ba9e35dcf0147c89b37) - 2026-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

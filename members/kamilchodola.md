@@ -221,6 +221,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Select flat Account index search automatically (#13260)](https://github.com/NethermindEth/nethermind/commit/20a6419ca75b99af4719c109c89d82550987cb86) - 2026-09-24
 * [Commit] [Make EXPB regression campaigns faster and preserve complete run evidence (#13434)](https://github.com/NethermindEth/nethermind/commit/3f14eca2a0dab142a34543be6cb71e4773130b26) - 2026-09-24
 * [Commit] [Defer eligible RocksDB cleanup I/O to background workers (#13261)](https://github.com/NethermindEth/nethermind/commit/42541a1f8a8f8aae86490e347ee11db4da6326f7) - 2026-09-23
+* [Pull Request] [Cache EIP-7702 delegation targets in CodeInfo](https://github.com/NethermindEth/nethermind/pull/13799) - 2026-09-24
+* [Pull Request] [Clear sparse access journals by removing recorded entries](https://github.com/NethermindEth/nethermind/pull/13798) - 2026-09-24
+* [Pull Request] [Reuse bounded buffers for nested RETURN and REVERT output](https://github.com/NethermindEth/nethermind/pull/13797) - 2026-09-24
+* [Pull Request] [Reduce zero-ahead clearing for small EVM memory expansions](https://github.com/NethermindEth/nethermind/pull/13796) - 2026-09-24
+* [Pull Request] [Reduce per-thread retention of pinned EVM stacks](https://github.com/NethermindEth/nethermind/pull/13795) - 2026-09-24
+* [Commit] [fix(history): create the history pruner before the block processor starts (#13285)](https://github.com/NethermindEth/nethermind/commit/a05aec33c8b9be76beaa7d739d4b9c6b81a81a49) - 2026-09-24
+* [Commit] [ci(expb): per-dispatch CPU quota and cpuset overrides with host-cgroup readout (#13547)](https://github.com/NethermindEth/nethermind/commit/65c017def42a5f4742fc3594a22992875e722c84) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

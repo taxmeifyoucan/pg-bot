@@ -113,6 +113,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: enable partial columns by default](https://github.com/OffchainLabs/prysm/pull/17545#pullrequestreview-5295758449) - 2026-09-23
 * [Review] [Review on: Decouple `BuilderService` with DB](https://github.com/OffchainLabs/prysm/pull/17515#pullrequestreview-5295628602) - 2026-09-23
 * [Review] [Review on: Fix/pending block broadcast fork digest](https://github.com/OffchainLabs/prysm/pull/17543#pullrequestreview-5294275691) - 2026-09-23
+* [Review] [Review on: Reject by-root Gloas column sidecars whose slot does not match the block](https://github.com/OffchainLabs/prysm/pull/17557#pullrequestreview-5306450637) - 2026-09-24
+* [Review] [Review on: add explicit payload envelope checks](https://github.com/OffchainLabs/prysm/pull/17445#pullrequestreview-5306432971) - 2026-09-24
+* [Review] [Review on: enable partial columns by default](https://github.com/OffchainLabs/prysm/pull/17545#pullrequestreview-5305401731) - 2026-09-24
+* [Review] [Review on: Reject Builder-API bids whose block hash equals the parent block hash](https://github.com/OffchainLabs/prysm/pull/17556#pullrequestreview-5306335052) - 2026-09-24
+* [Review] [Review on: Enforce ProgressiveList limits defined on STF during unmarshal](https://github.com/OffchainLabs/prysm/pull/17412#pullrequestreview-5306322216) - 2026-09-24
+* [Review] [Review on: Apply block PTC votes to every seat and skip votes for older blocks](https://github.com/OffchainLabs/prysm/pull/17555#pullrequestreview-5306301033) - 2026-09-24
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75#pullrequestreview-5282164914) - 2026-09-22

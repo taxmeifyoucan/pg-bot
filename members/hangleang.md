@@ -99,6 +99,12 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Update consensus-specs to v1.7.0-beta.1](https://github.com/grandinetech/grandine/issues/932) - 2026-09-22
 * [Commit] [Cap execution payload envelope delayed queue](https://github.com/grandinetech/grandine/commit/29750218c4a4117699bc189368e29e1b31532645) - 2026-09-22
 * [Pull Request] [Feature/consensus specs v1.7.0 beta.1](https://github.com/grandinetech/grandine/pull/933) - 2026-09-23
+* [Review] [Review on: Don't invalidate empty blocks when EL invalidates payload](https://github.com/grandinetech/grandine/pull/937#pullrequestreview-5305864202) - 2026-09-24
+* [Commit] [Skip failing compliance tests](https://github.com/grandinetech/grandine/commit/d096c57c2f7cb199ca58b8e9eb4f3203d0329ce3) - 2026-09-24
+* [Commit] [Update consensus-spec-tests to v1.7.0-beta.1](https://github.com/grandinetech/grandine/commit/ba40e00bb866bce86589807966fa583ae833eb15) - 2026-09-24
+* [Commit] [Reject pre-Gloas payload attestations](https://github.com/grandinetech/grandine/commit/a69cc9c7e32527b083dfe7a2a58ee7474f2b41da) - 2026-09-24
+* [Commit] [Compute max `DataColumnSidecar` size from the max blobs in blob schedule](https://github.com/grandinetech/grandine/commit/8ebd2bfef2f0edcbf3cce42887d0c4b833734ce7) - 2026-09-24
+* [Commit] [Cast PTC votes early once payload envelope and data column sidecars are available](https://github.com/grandinetech/grandine/commit/d70201c053ffd1bf4c46e6a4cb2ab4f92a5bb50e) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

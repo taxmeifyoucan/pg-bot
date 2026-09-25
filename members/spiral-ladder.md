@@ -87,6 +87,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [chore(scripts): rm seemingly unused scripts](https://github.com/ChainSafe/lodestar/pull/10124) - 2026-09-18
 * [Review] [Review on: test: fix Capella epoch benchmark fork](https://github.com/ChainSafe/lodestar/pull/10145#pullrequestreview-5274315174) - 2026-09-22
 * [Review] [Review on: refactor: move stateHashTreeRootTime metric to beacon-node](https://github.com/ChainSafe/lodestar/pull/10153#pullrequestreview-5293619753) - 2026-09-23
+* [Review] [Review on: ci: require today's nightly spec test run](https://github.com/ChainSafe/lodestar/pull/10151#pullrequestreview-5302183196) - 2026-09-24
+* [Review] [Review on: fix: use exact integer division for Electra slashing penalty](https://github.com/ChainSafe/lodestar/pull/10163#pullrequestreview-5302197989) - 2026-09-24
+* [Commit] [refactor(state-transition): re-organize test helpers (#10099)](https://github.com/ChainSafe/lodestar/commit/c535e94f25e209f6b137be3d29a87562088035d3) - 2026-09-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -284,6 +287,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor(epoch-cache): make effectiveBalanceIncrementsSet append instead (#721)](https://github.com/ChainSafe/lodestar-z/commit/bc748d841e539494e12ecceeaef3578a648449a3) - 2026-09-23
 * [Commit] [fix(bindings): return beacon committee as Uint32Array (#728)](https://github.com/ChainSafe/lodestar-z/commit/0f7ce2d2fe45430d728c748644249c4e01e7e132) - 2026-09-23
 * [Commit] [fix(bindings): depositCount as bigint (#729)](https://github.com/ChainSafe/lodestar-z/commit/6133ed0aba77ef557cfbe6da9c1c047c470bcfa8) - 2026-09-23
+* [Review] [Review on: fix(bindings): make native STF setup and memory ownership safe](https://github.com/ChainSafe/lodestar-z/pull/648#pullrequestreview-5301656987) - 2026-09-24
+* [Review] [Review on: perf: overlap Fulu shuffling with epoch processing](https://github.com/ChainSafe/lodestar-z/pull/727#pullrequestreview-5302421189) - 2026-09-24
+* [Review] [Review on: feat: add typed stf diagnostics](https://github.com/ChainSafe/lodestar-z/pull/694#pullrequestreview-5302744742) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

@@ -391,6 +391,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/tracing: move internal tracers to V2 hooks for EIP-8037 state gas tracing (part 4) (#24240)](https://github.com/erigontech/erigon/commit/27119456bcd15670add00e9ece61df9b3e3c816f) - 2026-09-23
 * [Commit] [execution/tracing: support for EIP-8037 state gas tracing (part 3) (#24231)](https://github.com/erigontech/erigon/commit/a102803756a1b7ee32512a3ee10ae3ea062ba5f1) - 2026-09-23
 * [Commit] [rpc: remove obsolete fastJSONResult interface (#24251)](https://github.com/erigontech/erigon/commit/b6701eda63bcc5aecb8494d39801f4531de924bb) - 2026-09-23
+* [Review] [Review on: execution/types/ethutils: a receipt always carries effectiveGasPrice, as geth's does](https://github.com/erigontech/erigon/pull/24297#pullrequestreview-5312598116) - 2026-09-25
+* [Review] [Review on: fix(execution/execmodule): apply safe and finalized from a same-head fork choice](https://github.com/erigontech/erigon/pull/24292#pullrequestreview-5312437878) - 2026-09-25
+* [Review] [Review on: cmd, common, node, p2p, rpc, txnprovider: adopt gofumpt formatting](https://github.com/erigontech/erigon/pull/24183#pullrequestreview-5299922225) - 2026-09-24
+* [Pull Request] [execution/p2p: bal downloader cancel and do not wait for pending peer requests once batch is downloaded](https://github.com/erigontech/erigon/pull/24275) - 2026-09-24
+* [Review] [Review on: rpc: eth-spec-driven json encoding](https://github.com/erigontech/erigon/pull/24266#pullrequestreview-5299910561) - 2026-09-24
+* [Issue] [execution/p2p: backward downloads wait for redundant BAL peer timeouts](https://github.com/erigontech/erigon/issues/24271) - 2026-09-24
+* [Commit] [execution/p2p: bal downloader cancel and do not wait for pending peer requests once batch is downloaded (#24275)](https://github.com/erigontech/erigon/commit/df81a5d23b1de04f1bedd91f235905b92488aa04) - 2026-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

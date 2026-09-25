@@ -149,6 +149,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Send `execution_payload_available` event when data is available](https://github.com/Consensys-Incorporated/teku/pull/11327#pullrequestreview-5289936371) - 2026-09-23
 * [Commit] [enable proposer preferences ref tests (#11320)](https://github.com/Consensys-Incorporated/teku/commit/064ed6770af4d11d29c22151e5f01d93ed356e7e) - 2026-09-23
 * [Commit] [enable bls to execution change ref test (#11334)](https://github.com/Consensys-Incorporated/teku/commit/a509e2678007932b5451632f8b34687347410b55) - 2026-09-23
+* [Pull Request] [update ethspecify for beta 2](https://github.com/Consensys-Incorporated/teku/pull/11343) - 2026-09-24
+* [Commit] [update ethspecify for beta 2 (#11343)](https://github.com/Consensys-Incorporated/teku/commit/524c297a5b0111fc3d3145a2d53b4ee9fe1dfa6a) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646) - 2026-09-17
 * [Pull Request] [Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647) - 2026-09-18

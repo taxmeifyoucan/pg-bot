@@ -139,6 +139,13 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(rpc): demote guard-rail WARNs and map no-state to -32002 (#13643)](https://github.com/NethermindEth/nethermind/commit/cc4510eee51cb6f6175f30f0ad4190b52ac01928) - 2026-09-23
 * [Commit] [perf(sync): bound and overlap snap downloads with response processing (#12623)](https://github.com/NethermindEth/nethermind/commit/294020b0e367c8b7fee9a6d5d7dc64dc13a9726a) - 2026-09-23
 * [Commit] [perf(state): parallelize whale storage verification and enable snapshot readahead in FlatTrieVerifier (#12615)](https://github.com/NethermindEth/nethermind/commit/01a3a701bc36a2a8c4562e0c5ba09453c3f9e178) - 2026-09-23
+* [Pull Request] [perf(tools): read execution requests from a beacon node in StatelessInputGen](https://github.com/NethermindEth/nethermind/pull/13794) - 2026-09-24
+* [Review] [Review on: perf(tools): read execution requests from a beacon node in StatelessInputGen](https://github.com/NethermindEth/nethermind/pull/13794#pullrequestreview-5311369916) - 2026-09-24
+* [Review] [Review on: chore(zkevm): bump up tests-zkevm version](https://github.com/NethermindEth/nethermind/pull/13789#pullrequestreview-5309983182) - 2026-09-24
+* [Issue] [History walk: ETA TimeSpan overflow kills progress logging and discards the finished walk](https://github.com/NethermindEth/nethermind/issues/13760) - 2026-09-24
+* [Commit] [Label the published Docker images with Nethermind's OCI metadata (#13694)](https://github.com/NethermindEth/nethermind/commit/5c6bb21d1a398dc28f01cf4c967a4fd9d0b824d6) - 2026-09-24
+* [Commit] [fix(ci): repair RPC benchmark checkout and ARM storage checks (#13475)](https://github.com/NethermindEth/nethermind/commit/e059a35f40bc0053b82be4e826f0f7a9af439504) - 2026-09-24
+* [Commit] [fix(flat-history): prevent history walk ETA overflow from killing progress and discarding the walk (#13761)](https://github.com/NethermindEth/nethermind/commit/f85c66af0076e58b07862c5661ed25163b7e81d3) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 * [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291874529) - 2026-09-23

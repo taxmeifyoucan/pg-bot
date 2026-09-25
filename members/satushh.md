@@ -90,6 +90,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Return 404 for unknown validator REST paths](https://github.com/OffchainLabs/prysm/pull/17548#pullrequestreview-5292394339) - 2026-09-23
 * [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5294644128) - 2026-09-23
 * [Commit] [ Serve the chain tip's envelope in envelopes by range when fork choice holds the tip full (#17533)](https://github.com/OffchainLabs/prysm/commit/98563831a2a420a16f783387ab4864cc11bf3800) - 2026-09-23
+* [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5303082736) - 2026-09-24
+* [Review] [Review on: Reject by-root Gloas column sidecars whose slot does not match the block](https://github.com/OffchainLabs/prysm/pull/17557#pullrequestreview-5306478941) - 2026-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

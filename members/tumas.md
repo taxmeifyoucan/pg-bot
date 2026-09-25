@@ -32,6 +32,8 @@ Team: Grandine
 * [Review] [Review on: Update builder deposit cache so it handles some edge cases](https://github.com/grandinetech/grandine/pull/913#pullrequestreview-5152334761) - 2026-09-09
 * [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/grandinetech/grandine/pull/916#pullrequestreview-5167277371) - 2026-09-10
 * [Review] [Review on: Remove non-gossip artifacts too from received collections when delayed queues are full](https://github.com/grandinetech/grandine/pull/935#pullrequestreview-5290696995) - 2026-09-23
+* [Review] [Review on: Don't invalidate empty blocks when EL invalidates payload](https://github.com/grandinetech/grandine/pull/937#pullrequestreview-5304944408) - 2026-09-24
+* [Review] [Review on: delayed envelope queue fixes](https://github.com/grandinetech/grandine/pull/938#pullrequestreview-5305892055) - 2026-09-24
 ## Q2 2026
 
 

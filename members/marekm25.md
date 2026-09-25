@@ -23,6 +23,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Review] [Review on: docs: write down the zkVM guest rules](https://github.com/NethermindEth/nethermind/pull/13151#pullrequestreview-5117931092) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626342085) - 2026-07-03
+* [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5302031185) - 2026-09-24
 ## Q2 2026
 
 

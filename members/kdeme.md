@@ -162,6 +162,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: make the guest its text segment execute-only](https://github.com/status-im/nimbus-eth1/pull/4827) - 2026-09-20
 * [Commit] [stateless: make the guest its text segment execute-only (#4827)](https://github.com/status-im/nimbus-eth1/commit/3a36e9ae6c9d75df152cdafd40b1a901cea6418c) - 2026-09-20
 * [Pull Request] [stateless: publish the ZisK guest as a CI artifact and pre-release](https://github.com/status-im/nimbus-eth1/pull/4829) - 2026-09-21
+* [Pull Request] [rest engine_api: add POST /engine/v1/payloads/witness](https://github.com/status-im/nimbus-eth1/pull/4844) - 2026-09-24
+* [Review] [Review on: stop using broken atConsensusFork in favor of atEpoch](https://github.com/status-im/nimbus-eth1/pull/4840#pullrequestreview-5302192807) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
@@ -172,6 +174,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Support compiling buildinfo on/for bare metal](https://github.com/status-im/nimbus-eth2/pull/8792) - 2026-07-21
 * [Pull Request] [Bump nim-eth vendor module](https://github.com/status-im/nimbus-eth2/pull/8983) - 2026-09-02
 * [Review] [Review on: engine SSZ REST api](https://github.com/status-im/nimbus-eth2/pull/9048#pullrequestreview-5207188429) - 2026-09-15
+* [Pull Request] [Bump nim-eth: IP-address majority + IPv4to6 mapped address fix](https://github.com/status-im/nimbus-eth2/pull/9118) - 2026-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672183323) - 2026-07-10
 
@@ -185,6 +188,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [feat: add nimbus stateless validator client](https://github.com/eth-act/zkevm-benchmark-workload/pull/313) - 2026-09-23
+
+* [Review] [Review on: feat: add nimbus stateless validator client](https://github.com/eth-act/zkevm-benchmark-workload/pull/313#pullrequestreview-5301298856) - 2026-09-24
+* [Commit] [feat: add nimbus stateless validator client (#313)](https://github.com/eth-act/zkevm-benchmark-workload/commit/680245052152a8a2884b214787cc504f8ea3ab03) - 2026-09-24
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5309909110) - 2026-09-24
 ## Q2 2026
 
 

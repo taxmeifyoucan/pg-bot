@@ -193,6 +193,12 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): EIP-8037 - no refill for failed creates onto alive accounts](https://github.com/ethereum/execution-specs/pull/3529#pullrequestreview-5276344323) - 2026-09-22
 * [Review] [Review on: feat(tests): more amsterdam coverage gaps](https://github.com/ethereum/execution-specs/pull/3627#pullrequestreview-5275849958) - 2026-09-22
 * [Commit] [feat(tests): close out eip-7954 checklist (#3546)](https://github.com/ethereum/execution-specs/commit/f9bbb765c953bf5c5425085cbcc35172304348ef) - 2026-09-22
+* [Pull Request] [perf(test-fixtures): spill large payload lists to disk](https://github.com/ethereum/execution-specs/pull/3648) - 2026-09-25
+* [Pull Request] [perf(test-fixtures): measure block RLP size without encoding it](https://github.com/ethereum/execution-specs/pull/3642) - 2026-09-24
+* [Review] [Review on: fix(test-client-clis): accept every opcode name geth's t8n reports](https://github.com/ethereum/execution-specs/pull/3644#pullrequestreview-5312097642) - 2026-09-25
+* [Review] [Review on: fix(tests): isolate the BAL factory create-chain collision pre-alloc group](https://github.com/ethereum/execution-specs/pull/3640#pullrequestreview-5301309260) - 2026-09-24
+* [Issue] [Optimize memory usage for fixture writing](https://github.com/ethereum/execution-specs/issues/3647) - 2026-09-25
+* [Commit] [refactor(test-fixtures): stream fixture writes and merges through part files (#3628)](https://github.com/ethereum/execution-specs/commit/e64b25703eb7172eca7cc0ebe12f9837ef748114) - 2026-09-24
 ## Q2 2026
 
 

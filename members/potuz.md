@@ -113,6 +113,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: intialize the finalized dependent root from the startup ](https://github.com/OffchainLabs/prysm/pull/17536#pullrequestreview-5296503617) - 2026-09-23
 * [Pull Request] [Raise the Gloas builder bid wait to 600ms and make it configurable](https://github.com/OffchainLabs/prysm/pull/17551) - 2026-09-23
 * [Commit] [Raise the Gloas builder bid wait to 600ms and make it configurable (#17551)](https://github.com/OffchainLabs/prysm/commit/78835ab6dcbabef1aa44a5463910cbb6dd317cf2) - 2026-09-24
+* [Pull Request] [Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -131,6 +132,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5093046179) - 2026-09-02
 * [Pull Request] [Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644) - 2026-09-15
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5211144275) - 2026-09-15
+* [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5311695446) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

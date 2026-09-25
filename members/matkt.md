@@ -133,6 +133,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Prevent worldstate heal cascade when TrieLogPruner runs during shutdown](https://github.com/besu-eth/besu/pull/11330) - 2026-09-21
 * [Pull Request] [Fetch block access lists during backward sync](https://github.com/besu-eth/besu/pull/11334) - 2026-09-21
 * [Review] [Review on: Add a RocksDB table cache warmup](https://github.com/besu-eth/besu/pull/11355#pullrequestreview-5290710242) - 2026-09-23
+* [Review] [Review on: Recover sender only once per transaction](https://github.com/besu-eth/besu/pull/11366#pullrequestreview-5309028083) - 2026-09-24
+* [Commit] [Route BAL prefetch through versioned cross-block cache (#11331)](https://github.com/besu-eth/besu/commit/62a59fa91cb84351de92256a0e538bdc9fed99ad) - 2026-09-24
+* [Commit] [Prevent worldstate heal cascade when TrieLogPruner runs during shutdown (#11330)](https://github.com/besu-eth/besu/commit/85b32978312c5ec290c24e2dc4c346c368bf9258) - 2026-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

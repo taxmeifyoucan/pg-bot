@@ -268,6 +268,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Raise the Gloas builder bid wait to 600ms and make it configurable](https://github.com/OffchainLabs/prysm/pull/17551#pullrequestreview-5296917021) - 2026-09-23
 * [Review] [Review on: Fix/pending block broadcast fork digest](https://github.com/OffchainLabs/prysm/pull/17543#pullrequestreview-5291978651) - 2026-09-23
 * [Commit] [Use PROPOSER_REORG_CUTOFF_BPS in GetProposerHead (#17538)](https://github.com/OffchainLabs/prysm/commit/a5afd807f6212f155a8509b6ca8b54bddf31710a) - 2026-09-23
+* [Pull Request] [Reject by-root Gloas column sidecars whose slot does not match the block](https://github.com/OffchainLabs/prysm/pull/17557) - 2026-09-24
+* [Pull Request] [Reject Builder-API bids whose block hash equals the parent block hash](https://github.com/OffchainLabs/prysm/pull/17556) - 2026-09-24
+* [Pull Request] [Apply block PTC votes to every seat and skip votes for older blocks](https://github.com/OffchainLabs/prysm/pull/17555) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

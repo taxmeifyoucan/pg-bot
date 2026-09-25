@@ -467,6 +467,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Issue] [eth_simulateV1: SLOTNUM faults with invalid instruction because simulated blocks have no slot number](https://github.com/NethermindEth/nethermind/issues/13683) - 2026-09-22
 * [Issue] [Orphaned header validation skips the EIP-4844 blob-gas presence checks](https://github.com/NethermindEth/nethermind/issues/13682) - 2026-09-22
 * [Review] [Review on: Re-execute a known block whose state was pruned](https://github.com/NethermindEth/nethermind/pull/13686#pullrequestreview-5290207560) - 2026-09-23
+* [Pull Request] [fix(sync): bound concurrent block access list requests per peer](https://github.com/NethermindEth/nethermind/pull/13790) - 2026-09-24
+* [Review] [Review on: Preserve multidimensional gas in eth_simulateV1 blocks](https://github.com/NethermindEth/nethermind/pull/13626#pullrequestreview-5309232289) - 2026-09-24
+* [Review] [Review on: Cover terminal opcode tracer callbacks](https://github.com/NethermindEth/nethermind/pull/13625#pullrequestreview-5307992268) - 2026-09-24
+* [Review] [Review on: Load pyspec fixtures lazily to cut NUnit discovery memory](https://github.com/NethermindEth/nethermind/pull/13557#pullrequestreview-5304861146) - 2026-09-24
+* [Review] [Review on: Report terminal output for top-level action traces](https://github.com/NethermindEth/nethermind/pull/13622#pullrequestreview-5305195264) - 2026-09-24
+* [Review] [Review on: Report EIP-8037 two-dimensional block gas used in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/13628#pullrequestreview-5304587552) - 2026-09-24
+* [Issue] [JavaScript tracer fires step, postStep and fault for stack underflow and out of gas, unlike Geth](https://github.com/NethermindEth/nethermind/issues/13784) - 2026-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

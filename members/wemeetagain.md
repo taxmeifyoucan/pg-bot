@@ -216,6 +216,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: update gossipsub to v17.1.2](https://github.com/ChainSafe/lodestar/pull/10157#pullrequestreview-5294287851) - 2026-09-23
 * [Review] [Review on: refactor: move stateHashTreeRootTime metric to beacon-node](https://github.com/ChainSafe/lodestar/pull/10153#pullrequestreview-5291650161) - 2026-09-23
 * [Commit] [fix: update gossipsub to v17.1.2 (#10157)](https://github.com/ChainSafe/lodestar/commit/9e2717473418091cbf335f9083c1cf60604d11e6) - 2026-09-23
+* [Review] [Review on: fix: harden validator block signing](https://github.com/ChainSafe/lodestar/pull/10142#pullrequestreview-5309886790) - 2026-09-24
+* [Review] [Review on: test: apply EIP-3076 interchange test steps in order and update to v5.3.0](https://github.com/ChainSafe/lodestar/pull/10167#pullrequestreview-5310254556) - 2026-09-24
+* [Review] [Review on: fix: do not remove pending block on failed download](https://github.com/ChainSafe/lodestar/pull/10137#pullrequestreview-5309980731) - 2026-09-24
+* [Review] [Review on: fix: reject slashing protection import of attestations from the future](https://github.com/ChainSafe/lodestar/pull/10170#pullrequestreview-5307411445) - 2026-09-24
+* [Review] [Review on: fix: check attestation target epoch and block slot before signing](https://github.com/ChainSafe/lodestar/pull/10169#pullrequestreview-5307163005) - 2026-09-24
+* [Review] [Review on: ci: attest Docker image provenance and SBOMs](https://github.com/ChainSafe/lodestar/pull/10171#pullrequestreview-5306619525) - 2026-09-24
+* [Review] [Review on: feat: schedule 200M gas limit at Glamsterdam on Sepolia](https://github.com/ChainSafe/lodestar/pull/10172#pullrequestreview-5306593559) - 2026-09-24
+* [Review] [Review on: fix: validate slot and epoch values on slashing protection import](https://github.com/ChainSafe/lodestar/pull/10166#pullrequestreview-5306583108) - 2026-09-24
+* [Review] [Review on: feat: use zig backed lodestar-z shuffle](https://github.com/ChainSafe/lodestar/pull/9829#pullrequestreview-5304762462) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -450,6 +459,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(stf): self-heal progressive balance drift](https://github.com/ChainSafe/lodestar-z/pull/726#pullrequestreview-5292879855) - 2026-09-23
 * [Review] [Review on: chore: remove benchmark CI](https://github.com/ChainSafe/lodestar-z/pull/715#pullrequestreview-5292722797) - 2026-09-23
 * [Review] [Review on: refactor: write error values as error.Name](https://github.com/ChainSafe/lodestar-z/pull/718#pullrequestreview-5292713426) - 2026-09-23
+* [Review] [Review on: perf: overlap Fulu shuffling with epoch processing](https://github.com/ChainSafe/lodestar-z/pull/727#pullrequestreview-5306703214) - 2026-09-24
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -32,6 +32,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Issue] [Unlimited progressive containers may cause node crash](https://github.com/grandinetech/grandine/issues/918) - 2026-09-11
 * [Pull Request] [Optimize trusted state transition function](https://github.com/grandinetech/grandine/pull/920) - 2026-09-16
 * [Pull Request] [Adapt plugin to Nethermind 2.0](https://github.com/grandinetech/grandine/pull/936) - 2026-09-23
+* [Commit] [Adapt plugin to Nethermind 2.0](https://github.com/grandinetech/grandine/commit/a1ea7f27f9656f673962ba15fc704dccc2bdff4f) - 2026-09-24
 ## Q2 2026
 
 

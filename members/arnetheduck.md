@@ -29,6 +29,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671#pullrequestreview-4997859677) - 2026-08-21
 * [Issue] [QUIC port missing from `nimbus` help](https://github.com/status-im/nimbus-eth1/issues/4835) - 2026-09-22
 * [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/4838) - 2026-09-23
+* [Pull Request] [Revert "eth2: bump"](https://github.com/status-im/nimbus-eth1/pull/4843) - 2026-09-24
+* [Commit] [Revert "eth2: bump (#4838)" (#4843)](https://github.com/status-im/nimbus-eth1/commit/112216054d79f658f01234db3a8fcbb77bdc994a) - 2026-09-24
+* [Commit] [eth2: bump (#4838)](https://github.com/status-im/nimbus-eth1/commit/4dc018eb118182174bb70f7d37203cd0edbbd5cf) - 2026-09-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08
@@ -44,6 +47,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Review] [Review on: add gloas transition tests](https://github.com/status-im/nimbus-eth2/pull/7542#pullrequestreview-5266614634) - 2026-09-21
 * [Pull Request] [ncli/libnimbus_lc: allow compiling without threads](https://github.com/status-im/nimbus-eth2/pull/9092) - 2026-09-22
+* [Pull Request] [forks: atConsensusFork public](https://github.com/status-im/nimbus-eth2/pull/9114) - 2026-09-24
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [nim: avoid allocation for global context](https://github.com/ethereum/c-kzg-4844/pull/668) - 2026-09-21
 * [Review] [Review on: nim: avoid allocation for global context](https://github.com/ethereum/c-kzg-4844/pull/668#pullrequestreview-5269033351) - 2026-09-21

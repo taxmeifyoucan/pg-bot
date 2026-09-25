@@ -182,6 +182,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Update security reporting email](https://github.com/Consensys-Incorporated/teku/pull/11321#pullrequestreview-5284613404) - 2026-09-22
 * [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5276877808) - 2026-09-22
 * [Commit] [Reject UInt64.MAX_VALUE attestation epochs from the beacon node (#11318)](https://github.com/Consensys-Incorporated/teku/commit/7244bcc3bb26d5916481b49405a634c79b1de481) - 2026-09-22
+* [Review] [Review on: Make `LightClientUpdate` persistant in the database](https://github.com/Consensys-Incorporated/teku/pull/11337#pullrequestreview-5312800305) - 2026-09-25
+* [Pull Request] [Return 202 when setting graffiti via keymanager API](https://github.com/Consensys-Incorporated/teku/pull/11338) - 2026-09-24
+* [Review] [Review on: Support `finalized` and `genesis` for execution payload Beacon API](https://github.com/Consensys-Incorporated/teku/pull/11342#pullrequestreview-5303025646) - 2026-09-24
+* [Pull Request] [Rename VALID_VALIDATOR_SET_SIZE to VALID_VALIDATOR_INDEX_SET_SIZE](https://github.com/Consensys-Incorporated/teku/pull/11340) - 2026-09-24
+* [Commit] [Rename VALID_VALIDATOR_SET_SIZE to VALID_VALIDATOR_INDEX_SET_SIZE (#11340)](https://github.com/Consensys-Incorporated/teku/commit/49f98ff05d033f3e31dcbfe61f9344fc6e31d322) - 2026-09-24
+* [Commit] [Return 202 when setting graffiti via keymanager API (#11338)](https://github.com/Consensys-Incorporated/teku/commit/fc718d4b6ee6ec8440830bcef60bbd70377763b8) - 2026-09-24
 ## Q2 2026
 
 

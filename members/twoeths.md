@@ -299,6 +299,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: move stateHashTreeRootTime metric to beacon-node](https://github.com/ChainSafe/lodestar/pull/10153) - 2026-09-23
 * [Review] [Review on: refactor: move stateHashTreeRootTime metric to beacon-node](https://github.com/ChainSafe/lodestar/pull/10153#pullrequestreview-5289568501) - 2026-09-23
 * [Commit] [refactor: move stateHashTreeRootTime metric to beacon-node (#10153)](https://github.com/ChainSafe/lodestar/commit/fa4ae94ccc96c70eb6e1a196ea5e5e9a49bb0ebb) - 2026-09-23
+* [Review] [Review on: feat: ssz-rest engine api transport](https://github.com/ChainSafe/lodestar/pull/10155#pullrequestreview-5303501344) - 2026-09-24
+* [Issue] [Refactor initBeaconState() and return IBeaconStateView](https://github.com/ChainSafe/lodestar/issues/10164) - 2026-09-24
+* [Commit] [fix: do not remove pending block on failed download (#10137)](https://github.com/ChainSafe/lodestar/commit/ca7e252e954b88baee31b36bb80a2e166e7fea7e) - 2026-09-24
+* [Commit] [chore: track gloas newPayload metrics (#10113)](https://github.com/ChainSafe/lodestar/commit/3e439aa363e6f3179ad894d7f264221fcdde224b) - 2026-09-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

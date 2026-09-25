@@ -63,15 +63,22 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/commit/a08f51fec5b2b5da457adb05b8cffb487fb4f7de) - 2026-08-20
 * [Pull Request] [Update EIP-8298: allow SETCODEFROM in initcode and require an existing source](https://github.com/ethereum/EIPs/pull/12356) - 2026-09-18
 * [Pull Request] [Update EIP-8347: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/pull/12366) - 2026-09-22
+* [Pull Request] [Update EIP-8347: empty snapshots and the scope of the preimage match](https://github.com/ethereum/EIPs/pull/12378) - 2026-09-24
+* [Commit] [Update EIP-8347: empty snapshots and the scope of the preimage match](https://github.com/ethereum/EIPs/commit/0b8184b1d6ed9fba836222684fd082b32782d4ef) - 2026-09-24
+* [Commit] [Update EIP-8298: allow SETCODEFROM in initcode and require an existing source](https://github.com/ethereum/EIPs/commit/210a28dac6931dba40da7fd48334220e59f0ae73) - 2026-09-24
+* [Commit] [Update EIP-8297: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/commit/57474d392627f777d41ac2140a82d7208b9c262f) - 2026-09-24
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 
 * [Issue] [engine_forkchoiceUpdated applies the reorg before returning -38002 (forkchoice state not updated atomically)](https://github.com/ethereum/go-ethereum/issues/35713) - 2026-09-15
+* [Pull Request] [triedb/pathdb: release clean caches when disabling](https://github.com/ethereum/go-ethereum/pull/35789) - 2026-09-24
+* [Issue] [triedb/pathdb: Disable leaks the disk layer's clean caches](https://github.com/ethereum/go-ethereum/issues/35788) - 2026-09-24
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order](https://github.com/erigontech/erigon/pull/23473#pullrequestreview-4994264550) - 2026-08-21
 
 * [Issue] [forkchoiceUpdated that does not move the head discards safeBlockHash and finalizedBlockHash](https://github.com/erigontech/erigon/issues/24028) - 2026-09-15
 * [Issue] [engine_newPayload returns -32000 instead of a payload status for a side chain rooted at genesis](https://github.com/erigontech/erigon/issues/24027) - 2026-09-15
+* [Issue] [`snapshots export-preimages` refuses any state whose trie root is not a branch](https://github.com/erigontech/erigon/issues/24284) - 2026-09-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/ethereum/eels: add consume-reorg simulator (blockchain_test_engine_reorg fixtures)](https://github.com/ethereum/hive/pull/1608) - 2026-09-10
 

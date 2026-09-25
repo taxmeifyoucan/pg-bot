@@ -483,6 +483,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Vectorize nibble expand and pack (#13704)](https://github.com/NethermindEth/nethermind/commit/c8efa53f7a3d978694627a4c712bd600186b2a05) - 2026-09-23
 * [Commit] [Document zkVM guest execution and GPU proving prerequisites (#13589)](https://github.com/NethermindEth/nethermind/commit/cb79dcbfdf6fab27f79a5eba0e3850b5198cbb90) - 2026-09-23
 * [Commit] [Fix missing stateless dependencies in the Visual Studio solution (#13594)](https://github.com/NethermindEth/nethermind/commit/1f2d64e8a3bdb9c9226eb43839f59c7889c247c7) - 2026-09-23
+* [Review] [Review on: fix(flat-history): show the replay block of a storage range in the walk progress](https://github.com/NethermindEth/nethermind/pull/13791#pullrequestreview-5311130985) - 2026-09-24
+* [Review] [Review on: chore(zkevm): bump up tests-zkevm version](https://github.com/NethermindEth/nethermind/pull/13789#pullrequestreview-5309989292) - 2026-09-24
+* [Review] [Review on: Preserve multidimensional gas in eth_simulateV1 blocks](https://github.com/NethermindEth/nethermind/pull/13626#pullrequestreview-5307356554) - 2026-09-24
+* [Review] [Review on: test: guard the traceCallMany gas default against EIP-7825's cap under Osaka](https://github.com/NethermindEth/nethermind/pull/13729#pullrequestreview-5308927305) - 2026-09-24
+* [Review] [Review on: Cover terminal opcode tracer callbacks](https://github.com/NethermindEth/nethermind/pull/13625#pullrequestreview-5307356955) - 2026-09-24
+* [Commit] [Budget parallel work in state root, blooms, receipts root and prewarming (#13770)](https://github.com/NethermindEth/nethermind/commit/3adf9eae5623c27318fcaf201434cf53fe05f683) - 2026-09-24
+* [Commit] [Update GitHub Actions to Node 24 versions (#13757)](https://github.com/NethermindEth/nethermind/commit/afd6a6dfbbef785afa48cb4a3a09706b5b6cf2ca) - 2026-09-24
+* [Commit] [Disable EXPB CPU quota while preserving affinity (#13593)](https://github.com/NethermindEth/nethermind/commit/f3cfc952ed031c1148a0e8dc496bd8ea61dcb002) - 2026-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

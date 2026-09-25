@@ -90,6 +90,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [progressive merkle proof generation  (#17444)](https://github.com/OffchainLabs/prysm/commit/143a3fe2d356debc7c15a23650cf76974ee99784) - 2026-09-17
 * [Review] [Review on: Remove `--disable-progressive-ssz` feature flag](https://github.com/OffchainLabs/prysm/pull/17517#pullrequestreview-5249883537) - 2026-09-18
 * [Commit] [hdiff optimization: Sparse ApplyValidatorsDiff (#17507)](https://github.com/OffchainLabs/prysm/commit/f3d9dfc383697322386a77a1135c18bce05fdfab) - 2026-09-21
+* [Pull Request] [Lc gloas types](https://github.com/OffchainLabs/prysm/pull/17558) - 2026-09-24
+* [Review] [Review on: ExecutionBlockHashProof for lightclient](https://github.com/OffchainLabs/prysm/pull/17506#pullrequestreview-5304578213) - 2026-09-24
 ## Q2 2026
 
 

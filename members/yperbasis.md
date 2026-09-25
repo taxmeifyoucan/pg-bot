@@ -695,6 +695,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.7] Velvet Vibrissae release notes](https://github.com/erigontech/erigon/pull/24257) - 2026-09-23
 * [Review] [Review on: engine_api: drop the extra forced-fsync commit per fork choice](https://github.com/erigontech/erigon/pull/24248#pullrequestreview-5290706585) - 2026-09-23
 * [Issue] [Remove serial execution](https://github.com/erigontech/erigon/issues/24254) - 2026-09-23
+* [Pull Request] [docs: port Velvet Vibrissae release notes to main](https://github.com/erigontech/erigon/pull/24289) - 2026-09-24
+* [Review] [Review on: cl/beacon: deduplicate PTC duties per slot](https://github.com/erigontech/erigon/pull/24256#pullrequestreview-5306593939) - 2026-09-24
+* [Commit] [docs: port Velvet Vibrissae release notes to main (#24289)](https://github.com/erigontech/erigon/commit/01c118ee1fb0f0df4bcf2b9085602f75f5607b19) - 2026-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

@@ -81,6 +81,7 @@ Team: Reth
 * [Review] [Review on: fix(ci): install samply from latest edge](https://github.com/paradigmxyz/reth/pull/27394#pullrequestreview-5294828174) - 2026-09-23
 * [Review] [Review on: fix(ci): enable benchmark frame pointers](https://github.com/paradigmxyz/reth/pull/27393#pullrequestreview-5294533737) - 2026-09-23
 * [Review] [Review on: fix(ci): reuse shared deny and refresh runner pins](https://github.com/paradigmxyz/reth/pull/27382#pullrequestreview-5287546021) - 2026-09-23
+* [Review] [Review on: perf: specialize RLP encoded lengths](https://github.com/paradigmxyz/reth/pull/27408#pullrequestreview-5304502291) - 2026-09-24
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13
@@ -93,6 +94,7 @@ Team: Reth
 * [Commit] [fix: filter changelog commits by crate (#413)](https://github.com/paradigmxyz/revmc/commit/3559a9dd8583598e76aaa8d942a908bfaa564535) - 2026-09-06
 * [Commit] [fix: preserve changelog history during releases (#412)](https://github.com/paradigmxyz/revmc/commit/72fa5bd5981bcb5829364cdcb2d122c819f772ce) - 2026-09-06
 * [Review] [Review on: ci: add aarch64 Linux to test and state-test matrices](https://github.com/paradigmxyz/revmc/pull/414#pullrequestreview-5256077199) - 2026-09-19
+* [Review] [Review on: chore: move account-ext below other features](https://github.com/paradigmxyz/revmc/pull/417#pullrequestreview-5307203591) - 2026-09-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
 * [Pull Request] [perf(bal): reuse cached alloy code hashes](https://github.com/bluealloy/revm/pull/3913) - 2026-09-15

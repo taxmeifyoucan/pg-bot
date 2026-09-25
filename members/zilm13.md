@@ -180,6 +180,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [VC warn when no head events arrive from a beacon node](https://github.com/Consensys-Incorporated/teku/pull/11329) - 2026-09-23
 * [Commit] [BN should return 400 for unknown event stream topics (#11331)](https://github.com/Consensys-Incorporated/teku/commit/edc22a5e474b3ab324a2bd14eb8d8f2fddef3838) - 2026-09-23
 * [Commit] [Report pre-Gloas head_v2 payload status as full (#11332)](https://github.com/Consensys-Incorporated/teku/commit/b1758aed0a563822f69b2520b5eca1a20596981c) - 2026-09-23
+* [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5310369162) - 2026-09-24
+* [Review] [Review on: FC Node invalidation and Node resolution bug fixes](https://github.com/Consensys-Incorporated/teku/pull/11333#pullrequestreview-5306267295) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

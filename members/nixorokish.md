@@ -101,6 +101,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Update EIP-8081: Decisions from ACDC187](https://github.com/ethereum/EIPs/commit/24c0edb17b82cb65f26d29f03e084637ec2ae2d4) - 2026-09-21
 * [Pull Request] [Update EIP-8081: add EIP-8383 to PFI'd](https://github.com/ethereum/EIPs/pull/12371) - 2026-09-23
 * [Commit] [Update EIP-8081: add EIP-8383 to PFI'd](https://github.com/ethereum/EIPs/commit/10bc64e2ea592ac7ec8ee87812ca8a8955a68bac) - 2026-09-23
+* [Pull Request] [Update EIP-8081: Decisions from ACDE246](https://github.com/ethereum/EIPs/pull/12377) - 2026-09-24
+* [Commit] [Update EIP-8081: Decisions from ACDE246](https://github.com/ethereum/EIPs/commit/95176db61e5751e44964fb5e0766412cf2bf6e9a) - 2026-09-24
 ## Q2 2026
 
 

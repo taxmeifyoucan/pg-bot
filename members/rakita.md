@@ -79,6 +79,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix(ci): update blocked cmake dependency](https://github.com/bluealloy/revm/pull/3930) - 2026-09-22
 * [Commit] [fix(ci): update cmake lockfile dependency (#3930)](https://github.com/bluealloy/revm/commit/193bfb17e885b700e9c51899503eb1a29345f2fb) - 2026-09-22
 * [Pull Request] [fix(interpreter): report DUPN stack underflow correctly](https://github.com/bluealloy/revm/pull/3940) - 2026-09-23
+* [Pull Request] [feat: add EIP-8024 configuration flag](https://github.com/bluealloy/revm/pull/3942) - 2026-09-24
+* [Pull Request] [chore: release v120](https://github.com/bluealloy/revm/pull/3941) - 2026-09-24
+* [Commit] [chore: release v120 (#3941)](https://github.com/bluealloy/revm/commit/51bfea1650e720aa1b2c433cd65707995409d634) - 2026-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -125,6 +128,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: bump alloy-evm to 0.38.0, drop git patch (#407)](https://github.com/paradigmxyz/revmc/commit/cf68a87f627299a9c49bcc333a8a317c9b312a3d) - 2026-07-31
 * [Pull Request] [glamsterdam devnet-8: bump revm](https://github.com/paradigmxyz/revmc/pull/409) - 2026-08-10
 
+* [Pull Request] [feat: support optional account extensions](https://github.com/paradigmxyz/revmc/pull/416) - 2026-09-24
+* [Commit] [feat: support optional account extensions (#416)](https://github.com/paradigmxyz/revmc/commit/87ea260a9bd25759beab64753d2f36227891ca4a) - 2026-09-24
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Reformulate verify_kzg_proof to drop the G2 scalar multiplication](https://github.com/ethereum/c-kzg-4844/pull/662) - 2026-08-18
 ## Q2 2026

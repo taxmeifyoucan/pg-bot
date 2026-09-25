@@ -370,6 +370,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Pin EIP-7708 receipt ordering, bloom, and rollback behavior with tests (#13573)](https://github.com/NethermindEth/nethermind/commit/1a93184688a41e20740c3a4dfe2bafa48b234aa9) - 2026-09-23
 * [Commit] [Carry slot number through XDC header copies (#13587)](https://github.com/NethermindEth/nethermind/commit/1b781581f87478d37e0b06c3c75fe005082f4650) - 2026-09-23
 * [Commit] [Correct EIP-7928 receipt event metadata (#13509)](https://github.com/NethermindEth/nethermind/commit/4e146015b3fd0d4c210cedd7fbba6c9af7ad53ae) - 2026-09-23
+* [Commit] [Preserve account creation results in traced world state (#13574)](https://github.com/NethermindEth/nethermind/commit/c4eff6560e8f772c6d39a43f32dbf6c8a5e412bb) - 2026-09-24
+* [Commit] [Report EIP-7708 finalization logs to tracers (#13567)](https://github.com/NethermindEth/nethermind/commit/759b0ac54137980cfb14a02ef0fb432e9fff252b) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

@@ -60,6 +60,12 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: refactor(test-vm, tests): add `create_op` helper and drop `CREATE`/`CREATE2` branches](https://github.com/ethereum/execution-specs/pull/3625#pullrequestreview-5280792591) - 2026-09-22
 * [Review] [Review on: chore(tests): record measured EIP-7928 coverage in the checklist evidence](https://github.com/ethereum/execution-specs/pull/3620#pullrequestreview-5280457487) - 2026-09-22
 * [Pull Request] [fix(tests): isolate the BAL factory create-chain collision pre-alloc group](https://github.com/ethereum/execution-specs/pull/3640) - 2026-09-23
+* [Review] [Review on: perf(test-fixtures): measure block RLP size without encoding it](https://github.com/ethereum/execution-specs/pull/3642#pullrequestreview-5306577813) - 2026-09-24
+* [Pull Request] [fix(test-client-clis): accept every opcode name geth's t8n reports](https://github.com/ethereum/execution-specs/pull/3644) - 2026-09-24
+* [Review] [Review on: feat(test-benchmark): pre-fund CREATE targets and add randomized jumpdest analysis](https://github.com/ethereum/execution-specs/pull/3631#pullrequestreview-5309315016) - 2026-09-24
+* [Review] [Review on: refactor(test-fixtures): stream fixture writes and merges through part files](https://github.com/ethereum/execution-specs/pull/3628#pullrequestreview-5306988734) - 2026-09-24
+* [Commit] [fix(test-client-clis): accept every opcode name geth's t8n reports (#3644)](https://github.com/ethereum/execution-specs/commit/fb7fc09daee342bca6c5347f09463b9fd7241363) - 2026-09-25
+* [Commit] [fix(tests): isolate the BAL factory create-chain collision pre-alloc group (#3640)](https://github.com/ethereum/execution-specs/commit/4a05b82ea94ed5dbc73972ea87cfca19eade0fbd) - 2026-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09

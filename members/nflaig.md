@@ -680,6 +680,31 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [test: require exact Gloas viable heads in spec runner](https://github.com/ChainSafe/lodestar/pull/10156) - 2026-09-23
 * [Pull Request] [chore: update consensus specs to v1.7.0-beta.2](https://github.com/ChainSafe/lodestar/pull/10154) - 2026-09-23
 * [Review] [Review on: chore: update consensus specs to v1.7.0-beta.2](https://github.com/ChainSafe/lodestar/pull/10154#pullrequestreview-5289230229) - 2026-09-23
+* [Review] [Review on: fix: harden validator block signing](https://github.com/ChainSafe/lodestar/pull/10142#pullrequestreview-5307695714) - 2026-09-24
+* [Pull Request] [test: apply EIP-3076 interchange test steps in order and update to v5.3.0](https://github.com/ChainSafe/lodestar/pull/10167) - 2026-09-24
+* [Review] [Review on: test: apply EIP-3076 interchange test steps in order and update to v5.3.0](https://github.com/ChainSafe/lodestar/pull/10167#pullrequestreview-5306262323) - 2026-09-24
+* [Pull Request] [fix: include active slashed validators in fork choice committee weight](https://github.com/ChainSafe/lodestar/pull/10173) - 2026-09-24
+* [Pull Request] [fix: reject slashing protection import of attestations from the future](https://github.com/ChainSafe/lodestar/pull/10170) - 2026-09-24
+* [Review] [Review on: fix: reject slashing protection import of attestations from the future](https://github.com/ChainSafe/lodestar/pull/10170#pullrequestreview-5307097577) - 2026-09-24
+* [Pull Request] [fix: do not replace recorded slashing protection data on interchange import](https://github.com/ChainSafe/lodestar/pull/10168) - 2026-09-24
+* [Review] [Review on: fix: do not replace recorded slashing protection data on interchange import](https://github.com/ChainSafe/lodestar/pull/10168#pullrequestreview-5307457832) - 2026-09-24
+* [Pull Request] [fix: check attestation target epoch and block slot before signing](https://github.com/ChainSafe/lodestar/pull/10169) - 2026-09-24
+* [Review] [Review on: fix: check attestation target epoch and block slot before signing](https://github.com/ChainSafe/lodestar/pull/10169#pullrequestreview-5306263642) - 2026-09-24
+* [Review] [Review on: ci: attest Docker image provenance and SBOMs](https://github.com/ChainSafe/lodestar/pull/10171#pullrequestreview-5306905938) - 2026-09-24
+* [Pull Request] [fix: validate slot and epoch values on slashing protection import](https://github.com/ChainSafe/lodestar/pull/10166) - 2026-09-24
+* [Review] [Review on: fix: validate slot and epoch values on slashing protection import](https://github.com/ChainSafe/lodestar/pull/10166#pullrequestreview-5306559310) - 2026-09-24
+* [Review] [Review on: test: builder nightly smoke test](https://github.com/ChainSafe/lodestar/pull/10150#pullrequestreview-5304691097) - 2026-09-24
+* [Review] [Review on: ci: require today's nightly spec test run](https://github.com/ChainSafe/lodestar/pull/10151#pullrequestreview-5302112216) - 2026-09-24
+* [Pull Request] [fix: use exact integer division for Electra slashing penalty](https://github.com/ChainSafe/lodestar/pull/10163) - 2026-09-24
+* [Review] [Review on: chore: track gloas newPayload metrics](https://github.com/ChainSafe/lodestar/pull/10113#pullrequestreview-5301270523) - 2026-09-24
+* [Commit] [test: apply EIP-3076 interchange test steps in order and update to v5.3.0 (#10167)](https://github.com/ChainSafe/lodestar/commit/60ba78ee68f6be799cd03d670aa1c3e0a53ae7c8) - 2026-09-24
+* [Commit] [fix: harden validator block signing (#10142)](https://github.com/ChainSafe/lodestar/commit/45a80a07fa5ee937da2927f654339221d1abe4f5) - 2026-09-24
+* [Commit] [fix: do not replace recorded slashing protection data on interchange import (#10168)](https://github.com/ChainSafe/lodestar/commit/0d7639c5526760b0cc1d7ab57eaa8533c6d7ffea) - 2026-09-24
+* [Commit] [fix: reject slashing protection import of attestations from the future (#10170)](https://github.com/ChainSafe/lodestar/commit/f362c805cf18c00d747802604e33498edceabe7a) - 2026-09-24
+* [Commit] [fix: check attestation target epoch and block slot before signing (#10169)](https://github.com/ChainSafe/lodestar/commit/0db3f20aa0b0dbf85bb0fbcec6766a739d8ee659) - 2026-09-24
+* [Commit] [fix: validate slot and epoch values on slashing protection import (#10166)](https://github.com/ChainSafe/lodestar/commit/9ec766d7e0d8b46ccbccee8d0c72d3ff5b45d23e) - 2026-09-24
+* [Commit] [ci: require today's nightly spec test run (#10151)](https://github.com/ChainSafe/lodestar/commit/a56f18f2ea0e2f803e672c4415daa7b80479226a) - 2026-09-24
+* [Commit] [fix: use exact integer division for Electra slashing penalty (#10163)](https://github.com/ChainSafe/lodestar/commit/d4c0ee61efe323bd7e9678b88eaeae8133f27b1e) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -750,6 +775,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Reject pre-Gloas slots using `GLOAS_FORK_EPOCH`](https://github.com/ethereum/consensus-specs/pull/5663#pullrequestreview-5283540805) - 2026-09-22
 * [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5279464923) - 2026-09-22
 * [Review] [Review on: Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665#pullrequestreview-5287982292) - 2026-09-23
+* [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5310816346) - 2026-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

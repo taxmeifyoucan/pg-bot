@@ -1832,6 +1832,33 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc: trace_block and trace_transaction stream their parity traces (#24236)](https://github.com/erigontech/erigon/commit/34bdbc6ef4a2033020d7225400c9372f4036f577) - 2026-09-23
 * [Commit] [rpc: _subscribe newHeads - add json fastpath  (#24247)](https://github.com/erigontech/erigon/commit/26f5a32c99b1f6893997c11a08dfa9f831e79e4a) - 2026-09-23
 * [Commit] [rpc/jsonrpc: the witness cache holds results, not their JSON (#24235)](https://github.com/erigontech/erigon/commit/105bc98672e03cfb680b3c40eeeb78644258aeab) - 2026-09-23
+* [Pull Request] [execution/types: Log carries blockTimestamp, and RPCLog is gone](https://github.com/erigontech/erigon/pull/24282) - 2026-09-24
+* [Review] [Review on: execution/types: Log carries blockTimestamp, and RPCLog is gone](https://github.com/erigontech/erigon/pull/24282#pullrequestreview-5302625176) - 2026-09-24
+* [Pull Request] [rpc/ethapi: RPCTransaction's encoder comes from its tags](https://github.com/erigontech/erigon/pull/24283) - 2026-09-24
+* [Review] [Review on: rpc/ethapi: RPCTransaction's encoder comes from its tags](https://github.com/erigontech/erigon/pull/24283#pullrequestreview-5302899628) - 2026-09-24
+* [Pull Request] [cmd/tools/jsongen: generate MarshalFastJSONTo from a struct's tags](https://github.com/erigontech/erigon/pull/24277) - 2026-09-24
+* [Review] [Review on: cmd/tools/jsongen: generate MarshalFastJSONTo from a struct's tags](https://github.com/erigontech/erigon/pull/24277#pullrequestreview-5301006498) - 2026-09-24
+* [Pull Request] [engine_types: BlobsBundle comes from its tags](https://github.com/erigontech/erigon/pull/24288) - 2026-09-24
+* [Review] [Review on: engine_types: BlobsBundle comes from its tags](https://github.com/erigontech/erigon/pull/24288#pullrequestreview-5303747277) - 2026-09-24
+* [Pull Request] [cl, diagnostics, execution: drop dead code and two single-use deps](https://github.com/erigontech/erigon/pull/24298) - 2026-09-25
+* [Pull Request] [rpc/ethapi: RPCHeader and Withdrawal come from their tags](https://github.com/erigontech/erigon/pull/24286) - 2026-09-24
+* [Pull Request] [rpc/ethapi: a list of blocks is RPCBlocks, beside the block it encodes](https://github.com/erigontech/erigon/pull/24299) - 2026-09-25
+* [Pull Request] [execution/types/ethutils: a receipt always carries effectiveGasPrice, as geth's does](https://github.com/erigontech/erigon/pull/24297) - 2026-09-25
+* [Pull Request] [rpc/jsonrpc: pending transactions carry the effective gasPrice, as geth's do](https://github.com/erigontech/erigon/pull/24296) - 2026-09-25
+* [Review] [Review on: [r3.7] db/snapshotsync: report .tmp removals the sweep could not perform](https://github.com/erigontech/erigon/pull/24273#pullrequestreview-5302071655) - 2026-09-24
+* [Review] [Review on: db/state: share the latest-from-files cache between txs](https://github.com/erigontech/erigon/pull/24080#pullrequestreview-5302655623) - 2026-09-24
+* [Pull Request] [execution/types: RPCLog declares its JSON hex forms](https://github.com/erigontech/erigon/pull/24270) - 2026-09-24
+* [Review] [Review on: execution/types: RPCLog declares its JSON hex forms](https://github.com/erigontech/erigon/pull/24270#pullrequestreview-5300934204) - 2026-09-24
+* [Review] [Review on: rpc: memoise state reads across estimateGas probes](https://github.com/erigontech/erigon/pull/24138#pullrequestreview-5302128788) - 2026-09-24
+* [Review] [Review on: execution/p2p: bal downloader cancel and do not wait for pending peer requests once batch is downloaded](https://github.com/erigontech/erigon/pull/24275#pullrequestreview-5301247642) - 2026-09-24
+* [Review] [Review on: [r3.7] db/snapshotsync: stop RemoveOverlaps deleting another component's .tmp](https://github.com/erigontech/erigon/pull/24272#pullrequestreview-5300174682) - 2026-09-24
+* [Review] [Review on: execution/commitment: rebuild a pin trunk that has drained](https://github.com/erigontech/erigon/pull/24215#pullrequestreview-5300169738) - 2026-09-24
+* [Review] [Review on: execution/types/ethutils: keep a zero-address to in subscribed receipts](https://github.com/erigontech/erigon/pull/24260#pullrequestreview-5301039024) - 2026-09-24
+* [Commit] [execution/types: RPCLog declares its JSON hex forms (#24270)](https://github.com/erigontech/erigon/commit/e26d9bd4056586e004488c31b561fb2663d46019) - 2026-09-24
+* [Commit] [rpc: eth-spec-driven json encoding (#24266)](https://github.com/erigontech/erigon/commit/89f0b56d306c8f21dc52470ba324a147eba624c5) - 2026-09-24
+* [Commit] [rpc/ethapi: RPCMarshalBlock fills the block header in place (#24264)](https://github.com/erigontech/erigon/commit/134c9a851867255d39ccd4f2fa2b39804a79f730) - 2026-09-24
+* [Commit] [execution/rlp: refuse a named uint256.Int instead of encoding its limbs (#24265)](https://github.com/erigontech/erigon/commit/129f9554dff61e3a74c5a659b5dd155a7cfef5b2) - 2026-09-24
+* [Commit] [rpc: avoid double-hashing of tx (#24262)](https://github.com/erigontech/erigon/commit/f5a1a84e5c829dc0e35424806af33276849e1323) - 2026-09-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

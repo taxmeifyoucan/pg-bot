@@ -303,6 +303,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evmone 0.24.0](https://github.com/ipsilon/evmone/commit/2a4decd05b7e088b2da0e1f1924f8968e14e3586) - 2026-09-23
 * [Commit] [changelog: List changes for the 0.24.0 release (#1735)](https://github.com/ipsilon/evmone/commit/101a15769d5ed69c5a0b2285cb6b297288b326b8) - 2026-09-23
 * [Commit] [ci: Upgrade execution-specs tests (#1734)](https://github.com/ipsilon/evmone/commit/c60dd551be2a25bb1262b13e0e9a62049a611981) - 2026-09-23
+* [Pull Request] [AGENTS: Keep only the evmone-specific guidance](https://github.com/ipsilon/evmone/pull/1737) - 2026-09-24
+* [Commit] [state: Process the top-level message in a dedicated function (#1736)](https://github.com/ipsilon/evmone/commit/d9e925a192ddcf5354cbb35d577d10775c1d86e3) - 2026-09-24
+* [Commit] [ci: Benchmark the execution spec tests on CodSpeed (#1730)](https://github.com/ipsilon/evmone/commit/1671d6d86d5e870ae7a4f86e0df47a91b70f226a) - 2026-09-24
+* [Commit] [AGENTS: Keep only the evmone-specific guidance (#1737)](https://github.com/ipsilon/evmone/commit/6cb06807b09c6250a8de86f7af7a8685399b1f14) - 2026-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

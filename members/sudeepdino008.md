@@ -188,6 +188,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: read history values through PagedReader](https://github.com/erigontech/erigon/pull/24045#pullrequestreview-5220785602) - 2026-09-16
 * [Pull Request] [nano HF support for bsc](https://github.com/erigontech/erigon/pull/24095) - 2026-09-17
 * [Review] [Review on: add flag for range downloader block batch size](https://github.com/erigontech/erigon/pull/24050#pullrequestreview-5233004939) - 2026-09-17
+* [Pull Request] [execution/state, execution/exec, bsc/parlia: reproduce BSC's hertzfix storage patch](https://github.com/erigontech/erigon/pull/24285) - 2026-09-24
+* [Pull Request] [Hertz hardfork: precompile set + fork-ordered precompile resolution](https://github.com/erigontech/erigon/pull/24281) - 2026-09-24
 ## Q2 2026
 
 

@@ -97,6 +97,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5296583677) - 2026-09-23
 * [Review] [Review on: Gloas spec v1.7.0-beta.2](https://github.com/sigp/lighthouse/pull/10114#pullrequestreview-5295117481) - 2026-09-23
 * [Review] [Review on: Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878#pullrequestreview-5298265308) - 2026-09-24
+* [Review] [Review on: Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878#pullrequestreview-5309135946) - 2026-09-24
+* [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5311472260) - 2026-09-24
 ## Q2 2026
 
 

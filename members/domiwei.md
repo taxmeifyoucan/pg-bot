@@ -162,6 +162,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/p2p: add QUIC transport support (#24117)](https://github.com/erigontech/erigon/commit/e0e09348633cb93ad7b27878388525499a8a9b8b) - 2026-09-22
 * [Review] [Review on: execution/engineapi: payload bodies serve stored tx bytes and stream their JSON](https://github.com/erigontech/erigon/pull/24220#pullrequestreview-5287560676) - 2026-09-23
 * [Pull Request] [cl/beacon: deduplicate PTC duties per slot](https://github.com/erigontech/erigon/pull/24256) - 2026-09-23
+* [Pull Request] [cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274) - 2026-09-24
+* [Review] [Review on: cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5311287259) - 2026-09-24
+* [Review] [Review on: cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845#pullrequestreview-5310644521) - 2026-09-24
+* [Review] [Review on: cl/beacon: type-safely sort builder preference failures](https://github.com/erigontech/erigon/pull/24287#pullrequestreview-5310214031) - 2026-09-24
+* [Pull Request] [cl: harden voluntary exit admission lifecycle](https://github.com/erigontech/erigon/pull/24280) - 2026-09-24
+* [Pull Request] [cl: recover Gloas payload envelopes at chain tip](https://github.com/erigontech/erigon/pull/24279) - 2026-09-24
+* [Pull Request] [cl, execmodule: keep collector forkchoice forward-only](https://github.com/erigontech/erigon/pull/24278) - 2026-09-24
 ## Q2 2026
 
 

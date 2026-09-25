@@ -112,6 +112,8 @@ Team: Grandine
 * [Review] [Review on: Adapt plugin to Nethermind 2.0](https://github.com/grandinetech/grandine/pull/936#pullrequestreview-5291739336) - 2026-09-23
 * [Pull Request] [Remove non-gossip artifacts too from received collections when delayed queues are full](https://github.com/grandinetech/grandine/pull/935) - 2026-09-23
 * [Commit] [Remove non-gossip artifacts too from received collections when delayed queues are full](https://github.com/grandinetech/grandine/commit/22f4e8972c61dfe0d92075ba2edcf777491e1e50) - 2026-09-23
+* [Pull Request] [delayed envelope queue fixes](https://github.com/grandinetech/grandine/pull/938) - 2026-09-24
+* [Commit] [Evict envelopes with highest slot when delayed queue is full.](https://github.com/grandinetech/grandine/commit/ac21ead8f36377ea5296cafc4130dd39b02445bd) - 2026-09-24
 ## Q2 2026
 
 

@@ -616,6 +616,20 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(multi-stark)!: prove binary-bus shares inside the zerocheck sumcheck (#2302)](https://github.com/Plonky3/Plonky3/commit/6d673ed12b1c12f5a14d0067c386c40b17e7513c) - 2026-09-23
 * [Commit] [perf(multilinear-util,bus,multi-stark,word-backend,sumcheck)!: borrowed points and one packed equality-table kernel (#2305)](https://github.com/Plonky3/Plonky3/commit/cdb48a06c1a8fe0b5622ccadebceffc7bba2a1c6) - 2026-09-23
 * [Commit] [feat(sumcheck): authenticate jagged claims and ingest live traces (#2285)](https://github.com/Plonky3/Plonky3/commit/dbca717763d72f1b138b3c24fc6459d6ce757377) - 2026-09-23
+* [Pull Request] [perf(binary-field,multi-stark)!: SIMD GF(2^64) and GF(2^192) packings, shift-only reduction, GFNI inversion](https://github.com/Plonky3/Plonky3/pull/2322) - 2026-09-24
+* [Review] [Review on: perf(binary-field,multi-stark)!: SIMD GF(2^64) and GF(2^192) packings, shift-only reduction, GFNI inversion](https://github.com/Plonky3/Plonky3/pull/2322#pullrequestreview-5310547044) - 2026-09-24
+* [Review] [Review on: feat(blake2s-air): prove BLAKE2s compressions over a binary field](https://github.com/Plonky3/Plonky3/pull/2328#pullrequestreview-5310177214) - 2026-09-24
+* [Review] [Review on: feat(air,bus,multi-stark)!: seed timestamped memory from a public image or a private region](https://github.com/Plonky3/Plonky3/pull/2317#pullrequestreview-5307760563) - 2026-09-24
+* [Pull Request] [fix(binary-pcs): restore the main build by pinning mixed traces to the square case](https://github.com/Plonky3/Plonky3/pull/2321) - 2026-09-24
+* [Issue] [binary-field: shift-only reduction for GF(2^128) (GHASH), packed and scalar](https://github.com/Plonky3/Plonky3/issues/2327) - 2026-09-24
+* [Issue] [binary-field: NEON packings of GF(2^64) and GF(2^192) on AArch64](https://github.com/Plonky3/Plonky3/issues/2324) - 2026-09-24
+* [Issue] [Tracking: binary-field arithmetic on AArch64 and the remaining GF(2^128) reduction](https://github.com/Plonky3/Plonky3/issues/2323) - 2026-09-24
+* [Issue] [binary-field: constant-time GF(2^64) inversion on AArch64 without GFNI](https://github.com/Plonky3/Plonky3/issues/2326) - 2026-09-24
+* [Issue] [binary-field: AArch64 scalar GF(2^192) with two coordinates per register](https://github.com/Plonky3/Plonky3/issues/2325) - 2026-09-24
+* [Commit] [fix(binary-pcs): restore the main build by pinning mixed traces to the square case (#2321)](https://github.com/Plonky3/Plonky3/commit/1ece5466929eda74e60875bf7eb1965e5410bcb5) - 2026-09-24
+* [Commit] [feat(sumcheck,binary-pcs,examples)!: prove with GF(2^64) values and GF(2^192) challenges at 128 bits (#2319)](https://github.com/Plonky3/Plonky3/commit/b2adb8d60fdf1f6076a338d0ec18c1d3643cf231) - 2026-09-24
+* [Commit] [feat(bus): add a timestamped read-write memory for unordered rows (#2314)](https://github.com/Plonky3/Plonky3/commit/d37988dd7d781fd46100993162c3977c2fa94315) - 2026-09-24
+* [Commit] [feat(air,binary-pcs,multi-stark)!: support tables with both bit and field-element columns (#2316)](https://github.com/Plonky3/Plonky3/commit/2a9612f5289df0b1191b2563086785cd69b2f5c7) - 2026-09-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

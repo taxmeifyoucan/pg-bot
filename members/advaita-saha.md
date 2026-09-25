@@ -115,6 +115,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5248034691) - 2026-09-18
 * [Commit] [fix: peer overload in mainnet (#4748)](https://github.com/status-im/nimbus-eth1/commit/5dfdf626b88baefd4754580ca5a5e058efa3172b) - 2026-09-18
 * [Commit] [use the sharedNAT config for the lc (#4823)](https://github.com/status-im/nimbus-eth1/commit/7cd9269ff60e0241856f238843c91d12cd123c07) - 2026-09-19
+* [Pull Request] [initial implementation without KVT txFrame](https://github.com/status-im/nimbus-eth1/pull/4841) - 2026-09-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22
