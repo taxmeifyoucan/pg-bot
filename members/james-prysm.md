@@ -267,6 +267,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Reject by-root Gloas column sidecars whose slot does not match the block](https://github.com/OffchainLabs/prysm/pull/17557#pullrequestreview-5306155877) - 2026-09-24
 * [Review] [Review on: Apply block PTC votes to every seat and skip votes for older blocks](https://github.com/OffchainLabs/prysm/pull/17555#pullrequestreview-5306147137) - 2026-09-24
 * [Commit] [intialize the finalized dependent root from the startup  (#17536)](https://github.com/OffchainLabs/prysm/commit/88db79f60386af6b493b94de03f9b79000552c74) - 2026-09-24
+* [Pull Request] [Gloas batch envelope binding](https://github.com/OffchainLabs/prysm/pull/17566) - 2026-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

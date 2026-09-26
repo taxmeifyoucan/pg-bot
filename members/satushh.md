@@ -92,6 +92,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [ Serve the chain tip's envelope in envelopes by range when fork choice holds the tip full (#17533)](https://github.com/OffchainLabs/prysm/commit/98563831a2a420a16f783387ab4864cc11bf3800) - 2026-09-23
 * [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5303082736) - 2026-09-24
 * [Review] [Review on: Reject by-root Gloas column sidecars whose slot does not match the block](https://github.com/OffchainLabs/prysm/pull/17557#pullrequestreview-5306478941) - 2026-09-24
+* [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5319900983) - 2026-09-25
+* [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5318210765) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

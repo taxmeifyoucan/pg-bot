@@ -664,6 +664,11 @@ Team: Erigon
 * [Review] [Review on: rpc/ethapi: RPCMarshalBlock fills the block header in place](https://github.com/erigontech/erigon/pull/24264#pullrequestreview-5300200786) - 2026-09-24
 * [Review] [Review on: execution/rlp: refuse a named uint256.Int instead of encoding its limbs](https://github.com/erigontech/erigon/pull/24265#pullrequestreview-5300216653) - 2026-09-24
 * [Commit] [execution/commitment: rebuild a pin trunk that has drained (#24215)](https://github.com/erigontech/erigon/commit/8ade7563904d77d44a5cd0b01569b977aba28e59) - 2026-09-24
+* [Pull Request] [cmd/utils/app: pin export-preimages to the restored root at the execution block](https://github.com/erigontech/erigon/pull/24326) - 2026-09-25
+* [Pull Request] [execution/commitment/v3: commitment trie with per-node records](https://github.com/erigontech/erigon/pull/24304) - 2026-09-25
+* [Pull Request] [cl/beacon/handler: a failed envelope hash on the retry path reports the hash error, not the duplicate claim](https://github.com/erigontech/erigon/pull/24308) - 2026-09-25
+* [Pull Request] [cl/phase1/forkchoice/fork_graph: read envelope files written before the version byte](https://github.com/erigontech/erigon/pull/24307) - 2026-09-25
+* [Review] [Review on: execution/commitment: persist zero-update commitment progress](https://github.com/erigontech/erigon/pull/23719#pullrequestreview-5313849258) - 2026-09-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
@@ -679,6 +684,7 @@ Team: Erigon
 * [Commit] [Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/commit/21e1d9ec52cedce7647d1a5a37b729ab8a5917b4) - 2026-08-25
 * [Pull Request] [Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/pull/12246) - 2026-08-26
 * [Commit] [Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/commit/aa02d9934056b252768d673eafd2b668725cb138) - 2026-08-31
+* [Pull Request] [Update EIP-8347: replace RLP leaf records in the PBT snapshot with typed, stem-grouped records](https://github.com/ethereum/EIPs/pull/12379) - 2026-09-25
 ## Q2 2026
 
 

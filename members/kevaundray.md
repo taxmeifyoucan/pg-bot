@@ -124,6 +124,7 @@ Team: Consensus R&D (EF)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896171742) - 2026-08-10
 
+* [Review] [Review on: Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681#pullrequestreview-5317876602) - 2026-09-25
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [fix: remove parenthesis for historical backfill](https://github.com/sigp/lighthouse/pull/9814) - 2026-08-15
 ## Q2 2026

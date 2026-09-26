@@ -52,6 +52,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [refactor: simplify BlockProcessor 5 signatures with BlockExecutionContext](https://github.com/besu-eth/besu/pull/11308) - 2026-09-16
 * [Review] [Review on: add testing_commitBlockV1 RPC method](https://github.com/besu-eth/besu/pull/11152#pullrequestreview-5231017944) - 2026-09-17
 * [Review] [Review on: Default peer discovery to BOTH and restore the DiscV5 steady discovery cadence](https://github.com/besu-eth/besu/pull/11344#pullrequestreview-5286176900) - 2026-09-23
+* [Pull Request] [fix: close bonsaiWorldStateWitnessStorage](https://github.com/besu-eth/besu/pull/11367) - 2026-09-25
+* [Commit] [Fix Bonsai Witness closing (#11367)](https://github.com/besu-eth/besu/commit/accdae0061952615b23f3bc521ebcd82efd097d4) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

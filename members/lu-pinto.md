@@ -50,6 +50,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Revert TreeSet/TreeBasedTable usage in warm addresses and transient storage (#11319)](https://github.com/besu-eth/besu/commit/d997aad7b3be6333464c0687d3761c568ee63524) - 2026-09-21
 * [Pull Request] [Do not use UInt256 in TLoad/TStore](https://github.com/besu-eth/besu/pull/11348) - 2026-09-22
 * [Commit] [Do not use UInt256 in TLoad/TStore (#11348)](https://github.com/besu-eth/besu/commit/028f9d7391b1a85885a87d6c6f931bad7610da8c) - 2026-09-22
+* [Pull Request] [Make AddressStorageSlotKey hashcode seeded](https://github.com/besu-eth/besu/pull/11369) - 2026-09-25
 ## Q2 2026
 
 

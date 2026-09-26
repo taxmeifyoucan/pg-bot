@@ -34,6 +34,9 @@ Team: Grandine
 * [Review] [Review on: Remove non-gossip artifacts too from received collections when delayed queues are full](https://github.com/grandinetech/grandine/pull/935#pullrequestreview-5290696995) - 2026-09-23
 * [Review] [Review on: Don't invalidate empty blocks when EL invalidates payload](https://github.com/grandinetech/grandine/pull/937#pullrequestreview-5304944408) - 2026-09-24
 * [Review] [Review on: delayed envelope queue fixes](https://github.com/grandinetech/grandine/pull/938#pullrequestreview-5305892055) - 2026-09-24
+* [Pull Request] [Report only forward sync in the syncing and health endpoints](https://github.com/grandinetech/grandine/pull/940) - 2026-09-25
+* [Review] [Review on: Schedule Gloas fork on Sepolia](https://github.com/grandinetech/grandine/pull/941#pullrequestreview-5317311574) - 2026-09-25
+* [Commit] [Report only forward sync in the syncing and health endpoints](https://github.com/grandinetech/grandine/commit/af41f1d5cfe3a43ce5cd762d11d0548495b23d16) - 2026-09-25
 ## Q2 2026
 
 

@@ -70,6 +70,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Gloas spec v1.7.0-beta.2](https://github.com/sigp/lighthouse/pull/10114#pullrequestreview-5288214990) - 2026-09-23
 * [Pull Request] [Drop FC update params cache](https://github.com/sigp/lighthouse/pull/10112) - 2026-09-23
 * [Pull Request] [Introduce ParentPayloadStatus for the parent payload edge](https://github.com/sigp/lighthouse/pull/10121) - 2026-09-24
+* [Pull Request] [Remove perfidious fn ExecutionStatus::block_hash](https://github.com/sigp/lighthouse/pull/10126) - 2026-09-25
+* [Review] [Review on: Introduce ParentPayloadStatus for the parent payload edge](https://github.com/sigp/lighthouse/pull/10121#pullrequestreview-5320583993) - 2026-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 

@@ -40,6 +40,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [consume direct: block-test failures against Nethermind nethtest are never detected](https://github.com/ethereum/execution-specs/issues/3609) - 2026-09-16
 * [Issue] [fill: plain pytest test in a fixture directory crashes collection with INTERNALERROR](https://github.com/ethereum/execution-specs/issues/3608) - 2026-09-16
 * [Commit] [fix(test-consume): skip Besu evmtool's non-JSON summary line in state-test output (#3610)](https://github.com/ethereum/execution-specs/commit/2645291933b12217b56e8736207677e84e1744df) - 2026-09-17
+* [Review] [Review on: feat(testing): add blockchain_test_engine_reorg format and consume reorg simulator](https://github.com/ethereum/execution-specs/pull/3556#pullrequestreview-5318427307) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 

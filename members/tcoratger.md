@@ -630,6 +630,12 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(sumcheck,binary-pcs,examples)!: prove with GF(2^64) values and GF(2^192) challenges at 128 bits (#2319)](https://github.com/Plonky3/Plonky3/commit/b2adb8d60fdf1f6076a338d0ec18c1d3643cf231) - 2026-09-24
 * [Commit] [feat(bus): add a timestamped read-write memory for unordered rows (#2314)](https://github.com/Plonky3/Plonky3/commit/d37988dd7d781fd46100993162c3977c2fa94315) - 2026-09-24
 * [Commit] [feat(air,binary-pcs,multi-stark)!: support tables with both bit and field-element columns (#2316)](https://github.com/Plonky3/Plonky3/commit/2a9612f5289df0b1191b2563086785cd69b2f5c7) - 2026-09-24
+* [Pull Request] [perf(merkle-tree,util,symmetric)!: build Merkle trees in subtree blocks with register-tile transposes](https://github.com/Plonky3/Plonky3/pull/2335) - 2026-09-25
+* [Pull Request] [perf(multilinear-util): tensor-built eq tables, delayed-reduction dots, cost-model splits](https://github.com/Plonky3/Plonky3/pull/2334) - 2026-09-25
+* [Review] [Review on: fix(whir): reject final sumcheck data when no closing rounds are played](https://github.com/Plonky3/Plonky3/pull/2331#pullrequestreview-5319069010) - 2026-09-25
+* [Review] [Review on: perf(binary-field,multi-stark)!: SIMD GF(2^64) and GF(2^192) packings, shift-only reduction, GFNI inversion](https://github.com/Plonky3/Plonky3/pull/2322#pullrequestreview-5318138375) - 2026-09-25
+* [Commit] [test(multi-stark): prove a small 64-bit integer machine end to end over the binary backend (#2320)](https://github.com/Plonky3/Plonky3/commit/e8c72849828f5b4f035a7000ee2885b4a459ccb5) - 2026-09-25
+* [Commit] [feat(air,bus,multi-stark)!: seed timestamped memory from a public image or a private region (#2317)](https://github.com/Plonky3/Plonky3/commit/bb172cd15fb1c94986925e2979e675521a0b6b07) - 2026-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

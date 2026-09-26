@@ -273,6 +273,17 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: fix eth_sendRawTransactionSync fast path for a mined transaction (#24134)](https://github.com/erigontech/erigon/commit/38dcd210b54b7d793445aede71bce2f3fa77b4e4) - 2026-09-22
 * [Pull Request] [execution/types/ethutils: keep a zero-address to in subscribed receipts](https://github.com/erigontech/erigon/pull/24260) - 2026-09-23
 * [Commit] [execution/types/ethutils, node/privateapi: send the subscribed receipt fees from the backend (#24229)](https://github.com/erigontech/erigon/commit/1845aaff3f5745f458cb394c073d53d0f31ccfe9) - 2026-09-23
+* [Review] [Review on: fix(rpc/jsonrpc): trace_rawTransaction charges the sender for gas](https://github.com/erigontech/erigon/pull/24328#pullrequestreview-5321601581) - 2026-09-25
+* [Pull Request] [fix(rpc/jsonrpc): trace_call and trace_callMany price gas like eth_call](https://github.com/erigontech/erigon/pull/24330) - 2026-09-25
+* [Pull Request] [rpc: close the websocket connection when a ping gets no pong](https://github.com/erigontech/erigon/pull/24331) - 2026-09-25
+* [Review] [Review on: fix(rpc/jsonrpc): no vmTrace sub for SELFDESTRUCT or for calls that fail their precheck](https://github.com/erigontech/erigon/pull/24291#pullrequestreview-5321683754) - 2026-09-25
+* [Review] [Review on: fix(rpc/jsonrpc): trace_callMany reads state at the end of the requested block](https://github.com/erigontech/erigon/pull/24293#pullrequestreview-5314945626) - 2026-09-25
+* [Review] [Review on: fix(rpc/jsonrpc): trace_filter reports no genesis block reward](https://github.com/erigontech/erigon/pull/24295#pullrequestreview-5314311280) - 2026-09-25
+* [Review] [Review on: fix(rpc/jsonrpc): read trace_call calldata from `input`](https://github.com/erigontech/erigon/pull/24290#pullrequestreview-5314853062) - 2026-09-25
+* [Review] [Review on: fix(rpc/jsonrpc): trace_call and trace_callMany accept nonce, chainId, blob hashes and authorizations](https://github.com/erigontech/erigon/pull/24294#pullrequestreview-5314660768) - 2026-09-25
+* [Pull Request] [rpc/jsonrpc: ots_getBlockTransactions marshals only the requested page](https://github.com/erigontech/erigon/pull/24306) - 2026-09-25
+* [Review] [Review on: fix(rpc/jsonrpc): default trace_filter address lists to intersection](https://github.com/erigontech/erigon/pull/24255#pullrequestreview-5314184853) - 2026-09-25
+* [Commit] [execution/types/ethutils: keep a zero-address to in subscribed receipts (#24260)](https://github.com/erigontech/erigon/commit/850abeab26933c9b3dd332953f1a2badb76123b0) - 2026-09-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -309,6 +320,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [add eth_getHeaderByNumber and eth_getHeaderByHash tests](https://github.com/erigontech/rpc-tests/pull/603) - 2026-09-17
 * [Commit] [add eth_getHeaderByNumber and eth_getHeaderByHash tests (#603)](https://github.com/erigontech/rpc-tests/commit/21034d4d5893533219c053311abcb2bca31ef085) - 2026-09-17
 * [Review] [Review on: test: make trace filter union fixtures explicit](https://github.com/erigontech/rpc-tests/pull/604#pullrequestreview-5296765331) - 2026-09-23
+* [Review] [Review on: test: align SELFDESTRUCT vmTrace fixtures with frame semantics](https://github.com/erigontech/rpc-tests/pull/605#pullrequestreview-5320579109) - 2026-09-25
 ## Q2 2026
 
 

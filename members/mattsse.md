@@ -968,6 +968,48 @@ Team: Reth
 * [Commit] [chore: bump revm and reth-core deps (#27401)](https://github.com/paradigmxyz/reth/commit/5166eb7dab0ef0a589e8911e09307953941b66f2) - 2026-09-24
 * [Commit] [feat(engine): make the backfill threshold configurable (#27329)](https://github.com/paradigmxyz/reth/commit/9b8e2480feb8514a0b31279bf25eaa30dfd38d8a) - 2026-09-24
 * [Commit] [fix(rpc): require explicit testing API (#27398)](https://github.com/paradigmxyz/reth/commit/0d1648572c8df05ccfd6501a1ff7ee8197d49bb9) - 2026-09-24
+* [Pull Request] [refactor: convert trie accounts with From](https://github.com/paradigmxyz/reth/pull/27454) - 2026-09-25
+* [Pull Request] [refactor(net): simplify network test utils](https://github.com/paradigmxyz/reth/pull/27453) - 2026-09-25
+* [Pull Request] [refactor(e2e): clean up test utils](https://github.com/paradigmxyz/reth/pull/27452) - 2026-09-25
+* [Pull Request] [refactor: stop relying on account Copy](https://github.com/paradigmxyz/reth/pull/27449) - 2026-09-25
+* [Pull Request] [refactor(e2e): simplify test setup and add helpers](https://github.com/paradigmxyz/reth/pull/27432) - 2026-09-25
+* [Pull Request] [feat(e2e): make test utils usable for custom nodes](https://github.com/paradigmxyz/reth/pull/27442) - 2026-09-25
+* [Pull Request] [feat(e2e): add signer, receipt and polling helpers](https://github.com/paradigmxyz/reth/pull/27450) - 2026-09-25
+* [Review] [Review on: fix(rpc): correct Otterscan block and transaction responses](https://github.com/paradigmxyz/reth/pull/27217#pullrequestreview-5319767632) - 2026-09-25
+* [Review] [Review on: fix(net): enforce broadcast item queue limit](https://github.com/paradigmxyz/reth/pull/27377#pullrequestreview-5317629379) - 2026-09-25
+* [Review] [Review on: fix(rpc): populate VM bytecode in block replay traces](https://github.com/paradigmxyz/reth/pull/27213#pullrequestreview-5319583999) - 2026-09-25
+* [Pull Request] [chore(deps): bump revm-inspectors to 0.44](https://github.com/paradigmxyz/reth/pull/27448) - 2026-09-25
+* [Pull Request] [perf: enable sender recovery cache by default](https://github.com/paradigmxyz/reth/pull/27447) - 2026-09-25
+* [Pull Request] [test(e2e): honor storage_v2 in RLP import setup](https://github.com/paradigmxyz/reth/pull/27444) - 2026-09-25
+* [Pull Request] [refactor: init account literals with defaults](https://github.com/paradigmxyz/reth/pull/27443) - 2026-09-25
+* [Review] [Review on: chore(deps): update EIP-8141 checkouts](https://github.com/paradigmxyz/reth/pull/27439#pullrequestreview-5318278226) - 2026-09-25
+* [Pull Request] [test(e2e): make storage mode explicit](https://github.com/paradigmxyz/reth/pull/27434) - 2026-09-25
+* [Pull Request] [test(engine): persist blocks in v1/v2 e2e twins](https://github.com/paradigmxyz/reth/pull/27436) - 2026-09-25
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 10 updates](https://github.com/paradigmxyz/reth/pull/27402#pullrequestreview-5316036083) - 2026-09-25
+* [Pull Request] [test(engine): exercise on-disk reorg in e2e test](https://github.com/paradigmxyz/reth/pull/27441) - 2026-09-25
+* [Pull Request] [fix(scripts): add patch section in patch-alloy](https://github.com/paradigmxyz/reth/pull/27440) - 2026-09-25
+* [Pull Request] [fix(e2e): send ReorgTo fcu to its target](https://github.com/paradigmxyz/reth/pull/27438) - 2026-09-25
+* [Pull Request] [feat(engine): return witness sender public keys](https://github.com/paradigmxyz/reth/pull/27437) - 2026-09-25
+* [Pull Request] [refactor(engine): reuse alloy SSZ engine types](https://github.com/paradigmxyz/reth/pull/27435) - 2026-09-25
+* [Commit] [refactor(e2e): clean up test utils (#27452)](https://github.com/paradigmxyz/reth/commit/df7b7fdf55f9774610bb0209d981fd6550ac1b0d) - 2026-09-25
+* [Commit] [refactor: stop relying on account Copy (#27449)](https://github.com/paradigmxyz/reth/commit/1b4558f563c3fff8576a3e6eed6f1fcb674101fe) - 2026-09-25
+* [Commit] [refactor(e2e): simplify test setup and add helpers (#27432)](https://github.com/paradigmxyz/reth/commit/3f984abf389d8068319729d7a8d8b04a37104bff) - 2026-09-25
+* [Commit] [chore(deps): bump revm-inspectors to 0.44 (#27448)](https://github.com/paradigmxyz/reth/commit/eb03d80dddbf671e256ab235095ad9f3ccfa9923) - 2026-09-25
+* [Commit] [perf: enable sender recovery cache by default (#27447)](https://github.com/paradigmxyz/reth/commit/bc7776a13bebb40905ef3c90c6e5fb85b3c0ad4f) - 2026-09-25
+* [Commit] [revert: restore RocksDB BAL storage (#26789)](https://github.com/paradigmxyz/reth/commit/8ff3237697fe8fb330d5c00d24901c9b6232563c) - 2026-09-25
+* [Commit] [test(e2e): honor storage_v2 in RLP import setup (#27444)](https://github.com/paradigmxyz/reth/commit/654ed5088cc75864cd49711fd89bbf2368cc5c70) - 2026-09-25
+* [Commit] [refactor: init account literals with defaults (#27443)](https://github.com/paradigmxyz/reth/commit/ec64b19f9870a7c413e953654e052a1c71c11746) - 2026-09-25
+* [Commit] [perf(rpc): cache validated V2 builder blobs (#27413)](https://github.com/paradigmxyz/reth/commit/915ff944f25e84bd9ce8faa1b28f05db5004c7ff) - 2026-09-25
+* [Commit] [test(e2e): make storage mode explicit (#27434)](https://github.com/paradigmxyz/reth/commit/3f9dfc4250bb87760a1cf89f47d7fb86d814cfe0) - 2026-09-25
+* [Commit] [test(engine): persist blocks in v1/v2 e2e twins (#27436)](https://github.com/paradigmxyz/reth/commit/fa5f941c1c077765d13cb09238eb6e4b477fd37e) - 2026-09-25
+* [Commit] [test(engine): exercise on-disk reorg in e2e test (#27441)](https://github.com/paradigmxyz/reth/commit/f9fea9db61293cb4fe59b51656001f859ef9d731) - 2026-09-25
+* [Commit] [fix(scripts): add patch section in patch-alloy (#27440)](https://github.com/paradigmxyz/reth/commit/f50fa4221f919bad85946bdf35ee281e29bcbe69) - 2026-09-25
+* [Commit] [fix(e2e): send ReorgTo fcu to its target (#27438)](https://github.com/paradigmxyz/reth/commit/218657e03c66124f62a9189d5ea7887e666d5195) - 2026-09-25
+* [Commit] [perf(engine): skip BAL bytecode prefetch (#27416)](https://github.com/paradigmxyz/reth/commit/b4b2e8d1938fcf73b1658309118c3472d914b82a) - 2026-09-25
+* [Commit] [refactor(engine): reuse alloy SSZ engine types (#27435)](https://github.com/paradigmxyz/reth/commit/828b14ccbdaeb18c9b1f10a0975fbc03d3272a63) - 2026-09-25
+* [Commit] [fix(net): honor tx propagation policy on connect and requests (#27431)](https://github.com/paradigmxyz/reth/commit/a1bf317d15e51d5ea725db01f3427ed60694a846) - 2026-09-25
+* [Commit] [fix(engine): dedupe block range requests (#27426)](https://github.com/paradigmxyz/reth/commit/2833f744022fe0eb6e7223ce0dbfe739ff1af6c7) - 2026-09-25
+* [Commit] [perf: share pending block and receipts (#27427)](https://github.com/paradigmxyz/reth/commit/eb1214b550d6b58bef70e64a5f72a6e23bde5586) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

@@ -169,6 +169,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl: harden voluntary exit admission lifecycle](https://github.com/erigontech/erigon/pull/24280) - 2026-09-24
 * [Pull Request] [cl: recover Gloas payload envelopes at chain tip](https://github.com/erigontech/erigon/pull/24279) - 2026-09-24
 * [Pull Request] [cl, execmodule: keep collector forkchoice forward-only](https://github.com/erigontech/erigon/pull/24278) - 2026-09-24
+* [Commit] [cl/beacon: deduplicate PTC duties per slot (#24256)](https://github.com/erigontech/erigon/commit/02ab4e8dfb8db3597f945098db4443c263a72c79) - 2026-09-25
 ## Q2 2026
 
 

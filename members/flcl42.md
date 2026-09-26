@@ -425,6 +425,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/devp2p: add discovery endpoint tests](https://github.com/ethereum/go-ethereum/pull/35534) - 2026-08-13
 
+* [Pull Request] [cmd/devp2p: fix blob transaction availability test](https://github.com/ethereum/go-ethereum/pull/35805) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/pull/12317) - 2026-09-11
 * [Commit] [Update EIP-8038: Preserve the warm SELFDESTRUCT access exemption](https://github.com/ethereum/EIPs/commit/286a88e75f7bb301ba58e534e3484aae86001ed2) - 2026-09-14

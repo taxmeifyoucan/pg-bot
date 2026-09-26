@@ -99,6 +99,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878#pullrequestreview-5298265308) - 2026-09-24
 * [Review] [Review on: Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878#pullrequestreview-5309135946) - 2026-09-24
 * [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5311472260) - 2026-09-24
+* [Review] [Review on: Remove perfidious fn ExecutionStatus::block_hash](https://github.com/sigp/lighthouse/pull/10126#pullrequestreview-5321851597) - 2026-09-25
+* [Review] [Review on: Introduce ParentPayloadStatus for the parent payload edge](https://github.com/sigp/lighthouse/pull/10121#pullrequestreview-5322931380) - 2026-09-25
 ## Q2 2026
 
 

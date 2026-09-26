@@ -105,6 +105,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Reject pre-Gloas payload attestations](https://github.com/grandinetech/grandine/commit/a69cc9c7e32527b083dfe7a2a58ee7474f2b41da) - 2026-09-24
 * [Commit] [Compute max `DataColumnSidecar` size from the max blobs in blob schedule](https://github.com/grandinetech/grandine/commit/8ebd2bfef2f0edcbf3cce42887d0c4b833734ce7) - 2026-09-24
 * [Commit] [Cast PTC votes early once payload envelope and data column sidecars are available](https://github.com/grandinetech/grandine/commit/d70201c053ffd1bf4c46e6a4cb2ab4f92a5bb50e) - 2026-09-24
+* [Pull Request] [Pass gossip execution payload envelope directly to fork choice](https://github.com/grandinetech/grandine/pull/939) - 2026-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

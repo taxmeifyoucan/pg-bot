@@ -199,6 +199,12 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(tests): isolate the BAL factory create-chain collision pre-alloc group](https://github.com/ethereum/execution-specs/pull/3640#pullrequestreview-5301309260) - 2026-09-24
 * [Issue] [Optimize memory usage for fixture writing](https://github.com/ethereum/execution-specs/issues/3647) - 2026-09-25
 * [Commit] [refactor(test-fixtures): stream fixture writes and merges through part files (#3628)](https://github.com/ethereum/execution-specs/commit/e64b25703eb7172eca7cc0ebe12f9837ef748114) - 2026-09-24
+* [Pull Request] [perf(test-fixtures): stream fixture hash through iterencode](https://github.com/ethereum/execution-specs/pull/3650) - 2026-09-25
+* [Review] [Review on: feat(test-benchmark): add TSTORE key-distribution benchmark](https://github.com/ethereum/execution-specs/pull/3637#pullrequestreview-5313878705) - 2026-09-25
+* [Review] [Review on: feat(test-benchmark): pre-fund CREATE targets and add randomized jumpdest analysis](https://github.com/ethereum/execution-specs/pull/3631#pullrequestreview-5314554138) - 2026-09-25
+* [Issue] [Issue tracker: upstream the bloatnet fill-stateful branch](https://github.com/ethereum/execution-specs/issues/3649) - 2026-09-25
+* [Commit] [perf(test-fixtures): measure block RLP size without encoding it (#3642)](https://github.com/ethereum/execution-specs/commit/84e7d2c266e3319fc3882e72f379282bb1c40f2d) - 2026-09-25
+* [Commit] [refactor(test-vm, tests): add `create_op` helper and drop `CREATE`/`CREATE2` branches (#3625)](https://github.com/ethereum/execution-specs/commit/57d414402bad4d6f9c57e748f57f90eba7ae8111) - 2026-09-25
 ## Q2 2026
 
 

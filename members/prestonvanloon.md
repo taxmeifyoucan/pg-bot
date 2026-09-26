@@ -119,6 +119,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Reject Builder-API bids whose block hash equals the parent block hash](https://github.com/OffchainLabs/prysm/pull/17556#pullrequestreview-5306335052) - 2026-09-24
 * [Review] [Review on: Enforce ProgressiveList limits defined on STF during unmarshal](https://github.com/OffchainLabs/prysm/pull/17412#pullrequestreview-5306322216) - 2026-09-24
 * [Review] [Review on: Apply block PTC votes to every seat and skip votes for older blocks](https://github.com/OffchainLabs/prysm/pull/17555#pullrequestreview-5306301033) - 2026-09-24
+* [Pull Request] [Fix SSZ code generation when cross-compiling](https://github.com/OffchainLabs/prysm/pull/17565) - 2026-09-25
+* [Pull Request] [E2E: tolerate network-wide skipped slots in the metrics head-slot check](https://github.com/OffchainLabs/prysm/pull/17564) - 2026-09-25
+* [Commit] [Fix SSZ code generation when cross-compiling (#17565)](https://github.com/OffchainLabs/prysm/commit/5a12fcd9398ca8875efaa74486685b659568d4aa) - 2026-09-25
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75#pullrequestreview-5282164914) - 2026-09-22

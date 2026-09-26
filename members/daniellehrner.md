@@ -143,6 +143,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Fix flaky BackwardSyncAlgSpecTest stubbing race (#11311)](https://github.com/besu-eth/besu/commit/da3d6b0cd94d8051a02e51ff24afa4de41cabef7) - 2026-09-23
 * [Pull Request] [Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364) - 2026-09-24
 * [Pull Request] [Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363) - 2026-09-24
+* [Pull Request] [Close the remaining bad-chain gaps in backward sync and the Engine API](https://github.com/besu-eth/besu/pull/11373) - 2026-09-25
+* [Pull Request] [Retry bootnodes on networks with few peers](https://github.com/besu-eth/besu/pull/11368) - 2026-09-25
+* [Review] [Review on: Add concurrency protection for cross block cache](https://github.com/besu-eth/besu/pull/11371#pullrequestreview-5318658490) - 2026-09-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

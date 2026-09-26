@@ -491,6 +491,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Budget parallel work in state root, blooms, receipts root and prewarming (#13770)](https://github.com/NethermindEth/nethermind/commit/3adf9eae5623c27318fcaf201434cf53fe05f683) - 2026-09-24
 * [Commit] [Update GitHub Actions to Node 24 versions (#13757)](https://github.com/NethermindEth/nethermind/commit/afd6a6dfbbef785afa48cb4a3a09706b5b6cf2ca) - 2026-09-24
 * [Commit] [Disable EXPB CPU quota while preserving affinity (#13593)](https://github.com/NethermindEth/nethermind/commit/f3cfc952ed031c1148a0e8dc496bd8ea61dcb002) - 2026-09-24
+* [Pull Request] [Compute EVM zero-ahead alignment mask directly](https://github.com/NethermindEth/nethermind/pull/13880) - 2026-09-26
+* [Review] [Review on: Compute EVM zero-ahead alignment mask directly](https://github.com/NethermindEth/nethermind/pull/13880#pullrequestreview-5324019642) - 2026-09-26
+* [Review] [Review on: fix(txpool): track EIP-7702 authorities only for tuples valid on this chain](https://github.com/NethermindEth/nethermind/pull/13869#pullrequestreview-5323890329) - 2026-09-26
+* [Review] [Review on: perf(flat): build per-scope tries and maps on first need](https://github.com/NethermindEth/nethermind/pull/13838#pullrequestreview-5320601720) - 2026-09-25
+* [Review] [Review on: Tone down dated emphasis in agent rules and skills](https://github.com/NethermindEth/nethermind/pull/13792#pullrequestreview-5320038128) - 2026-09-25
+* [Review] [Review on: Clear sparse access journals by removing recorded entries](https://github.com/NethermindEth/nethermind/pull/13798#pullrequestreview-5322662845) - 2026-09-25
+* [Review] [Review on: perf(rpc): stop hashing the transaction on every eth_call](https://github.com/NethermindEth/nethermind/pull/13804#pullrequestreview-5319962561) - 2026-09-25
+* [Review] [Review on: perf(flat): pool flat-state buffers without per-thread copies or per-return nodes](https://github.com/NethermindEth/nethermind/pull/13839#pullrequestreview-5320671240) - 2026-09-25
+* [Review] [Review on: perf(state): grow heavy storage maps into pooled large maps](https://github.com/NethermindEth/nethermind/pull/13840#pullrequestreview-5320666444) - 2026-09-25
+* [Pull Request] [ci: skip the scheduled nightly when it would republish the same commit](https://github.com/NethermindEth/nethermind/pull/13864) - 2026-09-25
+* [Review] [Review on: fix: create the RetryCache timer in the constructor instead of on a pool thread](https://github.com/NethermindEth/nethermind/pull/13854#pullrequestreview-5320935491) - 2026-09-25
+* [Review] [Review on: test: run simulate forced-fail tests without the production RPC timeout](https://github.com/NethermindEth/nethermind/pull/13843#pullrequestreview-5320946411) - 2026-09-25
+* [Commit] [test: run the StorageCleared metric tests in their own non-parallel fixture (#13863)](https://github.com/NethermindEth/nethermind/commit/ed5d0e7727d1ecd6ffd58e359917ca4550ba17bf) - 2026-09-25
+* [Commit] [Complete guarded debug_setHead and debug_resetHead rewinds (#13558)](https://github.com/NethermindEth/nethermind/commit/12b16b9d6ce27ba0c07c6fe6b697fb50c7cc2ff2) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

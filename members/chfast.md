@@ -390,6 +390,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(test-benchmark): pre-fund CREATE targets and add randomized jumpdest analysis](https://github.com/ethereum/execution-specs/pull/3631) - 2026-09-22
 * [Commit] [feat(tests): port the repeated ECRECOVER call fillers (#3590)](https://github.com/ethereum/execution-specs/commit/24124a6e41519cd1acef6fbf276a093631b1c53f) - 2026-09-22
 * [Pull Request] [feat(test-benchmark): add TSTORE key-distribution benchmark](https://github.com/ethereum/execution-specs/pull/3637) - 2026-09-23
+* [Commit] [feat(test-benchmark): add TSTORE key-distribution benchmark (#3637)](https://github.com/ethereum/execution-specs/commit/f1d9a04433e800857007f01130bac779d61e3414) - 2026-09-25
+* [Commit] [feat(test-benchmark): pre-fund CREATE targets and add randomized jumpdest analysis (#3631)](https://github.com/ethereum/execution-specs/commit/f541fc1f76e8109ba419da243da9a8abdecb099b) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

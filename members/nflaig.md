@@ -705,6 +705,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: validate slot and epoch values on slashing protection import (#10166)](https://github.com/ChainSafe/lodestar/commit/9ec766d7e0d8b46ccbccee8d0c72d3ff5b45d23e) - 2026-09-24
 * [Commit] [ci: require today's nightly spec test run (#10151)](https://github.com/ChainSafe/lodestar/commit/a56f18f2ea0e2f803e672c4415daa7b80479226a) - 2026-09-24
 * [Commit] [fix: use exact integer division for Electra slashing penalty (#10163)](https://github.com/ChainSafe/lodestar/commit/d4c0ee61efe323bd7e9678b88eaeae8133f27b1e) - 2026-09-24
+* [Pull Request] [fix: settle builder payment before processing parent execution requests](https://github.com/ChainSafe/lodestar/pull/10180) - 2026-09-25
+* [Review] [Review on: ci: limit Docker SBOMs to Lodestar image](https://github.com/ChainSafe/lodestar/pull/10179#pullrequestreview-5322103659) - 2026-09-25
+* [Pull Request] [chore: v1.49.0 release](https://github.com/ChainSafe/lodestar/pull/10178) - 2026-09-25
+* [Pull Request] [fix: update `earliestAvailableSlot` when pruning history](https://github.com/ChainSafe/lodestar/pull/10177) - 2026-09-25
+* [Review] [Review on: chore: track p2p served bytes and request count per method](https://github.com/ChainSafe/lodestar/pull/10176#pullrequestreview-5317027097) - 2026-09-25
+* [Commit] [chore: update consensus specs to v1.7.0-beta.2 (#10154)](https://github.com/ChainSafe/lodestar/commit/19171711b60723fb4094fcfb725005153c6be32f) - 2026-09-25
+* [Commit] [fix: update `earliestAvailableSlot` when pruning history (#10177)](https://github.com/ChainSafe/lodestar/commit/c256679454da1b657cc19d07ed228d02e453eb97) - 2026-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -776,6 +783,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5279464923) - 2026-09-22
 * [Review] [Review on: Sign proposer preferences with the proposal epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5665#pullrequestreview-5287982292) - 2026-09-23
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5310816346) - 2026-09-24
+* [Pull Request] [Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680) - 2026-09-25
+* [Review] [Review on: Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680#pullrequestreview-5320274090) - 2026-09-25
+* [Pull Request] [Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

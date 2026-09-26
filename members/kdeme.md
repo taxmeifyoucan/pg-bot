@@ -164,6 +164,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: publish the ZisK guest as a CI artifact and pre-release](https://github.com/status-im/nimbus-eth1/pull/4829) - 2026-09-21
 * [Pull Request] [rest engine_api: add POST /engine/v1/payloads/witness](https://github.com/status-im/nimbus-eth1/pull/4844) - 2026-09-24
 * [Review] [Review on: stop using broken atConsensusFork in favor of atEpoch](https://github.com/status-im/nimbus-eth1/pull/4840#pullrequestreview-5302192807) - 2026-09-24
+* [Review] [Review on: fix(rpc): update REST+SSZ for api_newpayload](https://github.com/status-im/nimbus-eth1/pull/4855#pullrequestreview-5322088039) - 2026-09-25
+* [Pull Request] [portal/docker: migrate images from Debian bullseye to trixie](https://github.com/status-im/nimbus-eth1/pull/4847) - 2026-09-25
+* [Issue] [Consolidate --prune and --debug-bal-pruning](https://github.com/status-im/nimbus-eth1/issues/4850) - 2026-09-25
+* [Commit] [portal/docker: migrate images from Debian bullseye to trixie (#4847)](https://github.com/status-im/nimbus-eth1/commit/34f5f7389b000953494275478649132d39f01d8e) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
@@ -193,6 +197,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [feat: add nimbus stateless validator client (#313)](https://github.com/eth-act/zkevm-benchmark-workload/commit/680245052152a8a2884b214787cc504f8ea3ab03) - 2026-09-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5309909110) - 2026-09-24
+* [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5316587993) - 2026-09-25
 ## Q2 2026
 
 

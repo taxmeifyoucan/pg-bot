@@ -698,6 +698,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [docs: port Velvet Vibrissae release notes to main](https://github.com/erigontech/erigon/pull/24289) - 2026-09-24
 * [Review] [Review on: cl/beacon: deduplicate PTC duties per slot](https://github.com/erigontech/erigon/pull/24256#pullrequestreview-5306593939) - 2026-09-24
 * [Commit] [docs: port Velvet Vibrissae release notes to main (#24289)](https://github.com/erigontech/erigon/commit/01c118ee1fb0f0df4bcf2b9085602f75f5607b19) - 2026-09-24
+* [Review] [Review on: rpc, db: gate historical requests by physical availability](https://github.com/erigontech/erigon/pull/23776#pullrequestreview-5319164819) - 2026-09-25
+* [Review] [Review on: [r3.7] docs, .claude/rules: blob snapshot invariants and the 3.7 branch table](https://github.com/erigontech/erigon/pull/24317#pullrequestreview-5316823609) - 2026-09-25
+* [Review] [Review on: .claude/rules: v3.7.0 is the Latest release](https://github.com/erigontech/erigon/pull/24318#pullrequestreview-5316814292) - 2026-09-25
+* [Pull Request] [rpc, txpool: reject oversized transactions before RPC decoding](https://github.com/erigontech/erigon/pull/24315) - 2026-09-25
+* [Pull Request] [execution/engineapi: enforce funding order in CREATE2 BAL test](https://github.com/erigontech/erigon/pull/24309) - 2026-09-25
+* [Review] [Review on: cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5315597988) - 2026-09-25
+* [Review] [Review on: cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845#pullrequestreview-5314984475) - 2026-09-25
+* [Issue] [rpc: bound transaction decoding in trace_rawTransaction](https://github.com/erigontech/erigon/issues/24320) - 2026-09-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

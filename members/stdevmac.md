@@ -146,6 +146,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [Label the published Docker images with Nethermind's OCI metadata (#13694)](https://github.com/NethermindEth/nethermind/commit/5c6bb21d1a398dc28f01cf4c967a4fd9d0b824d6) - 2026-09-24
 * [Commit] [fix(ci): repair RPC benchmark checkout and ARM storage checks (#13475)](https://github.com/NethermindEth/nethermind/commit/e059a35f40bc0053b82be4e826f0f7a9af439504) - 2026-09-24
 * [Commit] [fix(flat-history): prevent history walk ETA overflow from killing progress and discarding the walk (#13761)](https://github.com/NethermindEth/nethermind/commit/f85c66af0076e58b07862c5661ed25163b7e81d3) - 2026-09-24
+* [Review] [Review on: fix(txpool): track EIP-7702 authorities only for tuples valid on this chain](https://github.com/NethermindEth/nethermind/pull/13869#pullrequestreview-5324225317) - 2026-09-26
+* [Pull Request] [fix(state): invalidate only the wiped contract in the pre-block storage cache](https://github.com/NethermindEth/nethermind/pull/13850) - 2026-09-25
+* [Review] [Review on: fix(state): invalidate only the wiped contract in the pre-block storage cache](https://github.com/NethermindEth/nethermind/pull/13850#pullrequestreview-5320629559) - 2026-09-25
+* [Issue] [Full sync through pruned history collapses to ~1 body per request (peer earliestBlock ignored, empty answers shrink the request sizer)](https://github.com/NethermindEth/nethermind/issues/13849) - 2026-09-25
+* [Issue] [Pre-block storage cache: one contract's storage wipe drops the whole cache and logs Info on every such block during historical replay](https://github.com/NethermindEth/nethermind/issues/13848) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 * [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291874529) - 2026-09-23

@@ -271,6 +271,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Reject by-root Gloas column sidecars whose slot does not match the block](https://github.com/OffchainLabs/prysm/pull/17557) - 2026-09-24
 * [Pull Request] [Reject Builder-API bids whose block hash equals the parent block hash](https://github.com/OffchainLabs/prysm/pull/17556) - 2026-09-24
 * [Pull Request] [Apply block PTC votes to every seat and skip votes for older blocks](https://github.com/OffchainLabs/prysm/pull/17555) - 2026-09-24
+* [Pull Request] [Accept late previous-fork attestations on the current fork's subnet topic](https://github.com/OffchainLabs/prysm/pull/17562) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

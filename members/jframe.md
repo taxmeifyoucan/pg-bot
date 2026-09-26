@@ -90,6 +90,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Route BAL prefetch through versioned cross-block cache](https://github.com/besu-eth/besu/pull/11331#pullrequestreview-5273338656) - 2026-09-22
 * [Commit] [Bonsai archive proofs diff encoding (#11091)](https://github.com/besu-eth/besu/commit/f9572aa82a2dadb3dd1b218d3ca97101540faf97) - 2026-09-24
 * [Pull Request] [Bonsai archive proofs ongoing sync](https://github.com/besu-eth/besu/pull/11361) - 2026-09-24
+* [Review] [Review on: fix: close bonsaiWorldStateWitnessStorage](https://github.com/besu-eth/besu/pull/11367#pullrequestreview-5314284137) - 2026-09-25
 ## Q2 2026
 
 

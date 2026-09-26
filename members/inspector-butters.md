@@ -92,6 +92,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [hdiff optimization: Sparse ApplyValidatorsDiff (#17507)](https://github.com/OffchainLabs/prysm/commit/f3d9dfc383697322386a77a1135c18bce05fdfab) - 2026-09-21
 * [Pull Request] [Lc gloas types](https://github.com/OffchainLabs/prysm/pull/17558) - 2026-09-24
 * [Review] [Review on: ExecutionBlockHashProof for lightclient](https://github.com/OffchainLabs/prysm/pull/17506#pullrequestreview-5304578213) - 2026-09-24
+* [Pull Request] [hdiff snapshot cache read](https://github.com/OffchainLabs/prysm/pull/17561) - 2026-09-25
+* [Commit] [hdiff snapshot cache read (#17561)](https://github.com/OffchainLabs/prysm/commit/b141a2203626f8fe12e92bf3d41fb7518bd1f3d1) - 2026-09-25
 ## Q2 2026
 
 

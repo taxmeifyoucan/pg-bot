@@ -225,6 +225,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: schedule 200M gas limit at Glamsterdam on Sepolia](https://github.com/ChainSafe/lodestar/pull/10172#pullrequestreview-5306593559) - 2026-09-24
 * [Review] [Review on: fix: validate slot and epoch values on slashing protection import](https://github.com/ChainSafe/lodestar/pull/10166#pullrequestreview-5306583108) - 2026-09-24
 * [Review] [Review on: feat: use zig backed lodestar-z shuffle](https://github.com/ChainSafe/lodestar/pull/9829#pullrequestreview-5304762462) - 2026-09-24
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.2](https://github.com/ChainSafe/lodestar/pull/10154#pullrequestreview-5319818080) - 2026-09-25
+* [Review] [Review on: chore(test): fix stale Infura JSDoc and drop orphaned state-transition devDep](https://github.com/ChainSafe/lodestar/pull/10175#pullrequestreview-5319627310) - 2026-09-25
+* [Review] [Review on: fix: update `earliestAvailableSlot` when pruning history](https://github.com/ChainSafe/lodestar/pull/10177#pullrequestreview-5319616319) - 2026-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

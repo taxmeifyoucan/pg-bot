@@ -474,6 +474,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Report terminal output for top-level action traces](https://github.com/NethermindEth/nethermind/pull/13622#pullrequestreview-5305195264) - 2026-09-24
 * [Review] [Review on: Report EIP-8037 two-dimensional block gas used in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/13628#pullrequestreview-5304587552) - 2026-09-24
 * [Issue] [JavaScript tracer fires step, postStep and fault for stack underflow and out of gas, unlike Geth](https://github.com/NethermindEth/nethermind/issues/13784) - 2026-09-24
+* [Commit] [fix: end an inclusion-list sender run at a tx skipped for size (#13382)](https://github.com/NethermindEth/nethermind/commit/71cb1140632bb0ec5332fa0056d0c8c75137fdd7) - 2026-09-26
+* [Commit] [Seed every head-derived fact at construction (#13472)](https://github.com/NethermindEth/nethermind/commit/6506824dbf5157b9068c92202af8ffd64c17fb16) - 2026-09-25
+* [Commit] [fix: give Hoodi its beacon chain genesis timestamp (#13732)](https://github.com/NethermindEth/nethermind/commit/d4cf3254b131629ff668df114517b7af62173d65) - 2026-09-25
+* [Commit] [fix(sync): bound concurrent block access list requests per peer (#13790)](https://github.com/NethermindEth/nethermind/commit/df8244633d44a9fbde2226f23f66ee067c58f65d) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

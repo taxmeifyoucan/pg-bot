@@ -114,6 +114,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Raise the Gloas builder bid wait to 600ms and make it configurable](https://github.com/OffchainLabs/prysm/pull/17551) - 2026-09-23
 * [Commit] [Raise the Gloas builder bid wait to 600ms and make it configurable (#17551)](https://github.com/OffchainLabs/prysm/commit/78835ab6dcbabef1aa44a5463910cbb6dd317cf2) - 2026-09-24
 * [Pull Request] [Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559) - 2026-09-24
+* [Review] [Review on: hdiff snapshot cache read](https://github.com/OffchainLabs/prysm/pull/17561#pullrequestreview-5321667246) - 2026-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

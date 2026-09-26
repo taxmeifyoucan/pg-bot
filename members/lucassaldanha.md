@@ -188,6 +188,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Rename VALID_VALIDATOR_SET_SIZE to VALID_VALIDATOR_INDEX_SET_SIZE](https://github.com/Consensys-Incorporated/teku/pull/11340) - 2026-09-24
 * [Commit] [Rename VALID_VALIDATOR_SET_SIZE to VALID_VALIDATOR_INDEX_SET_SIZE (#11340)](https://github.com/Consensys-Incorporated/teku/commit/49f98ff05d033f3e31dcbfe61f9344fc6e31d322) - 2026-09-24
 * [Commit] [Return 202 when setting graffiti via keymanager API (#11338)](https://github.com/Consensys-Incorporated/teku/commit/fc718d4b6ee6ec8440830bcef60bbd70377763b8) - 2026-09-24
+* [Review] [Review on: Make `LightClientUpdate` persistant in the database](https://github.com/Consensys-Incorporated/teku/pull/11337#pullrequestreview-5312844184) - 2026-09-25
 ## Q2 2026
 
 

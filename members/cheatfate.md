@@ -45,6 +45,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add payload attestation service to validator client](https://github.com/status-im/nimbus-eth2/pull/8947#pullrequestreview-5265984331) - 2026-09-21
 * [Pull Request] [VC: Fix VC should check for beacon proposer data for duty slot.](https://github.com/status-im/nimbus-eth2/pull/9098) - 2026-09-22
 * [Review] [Review on: VC: add payload attestation scoring and early send](https://github.com/status-im/nimbus-eth2/pull/9054#pullrequestreview-5310041277) - 2026-09-24
+* [Pull Request] [Preload all the blocks from minilru lists before processing.](https://github.com/status-im/nimbus-eth2/pull/9131) - 2026-09-25
+* [Review] [Review on: add payload-attestations BN role to docs and data/publish combinations](https://github.com/status-im/nimbus-eth2/pull/9129#pullrequestreview-5316772937) - 2026-09-25
+* [Pull Request] [Fix syncer should check slot before asking data columns by root.](https://github.com/status-im/nimbus-eth2/pull/9127) - 2026-09-25
 ## Q2 2026
 
 

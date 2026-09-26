@@ -32,6 +32,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "eth2: bump"](https://github.com/status-im/nimbus-eth1/pull/4843) - 2026-09-24
 * [Commit] [Revert "eth2: bump (#4838)" (#4843)](https://github.com/status-im/nimbus-eth1/commit/112216054d79f658f01234db3a8fcbb77bdc994a) - 2026-09-24
 * [Commit] [eth2: bump (#4838)](https://github.com/status-im/nimbus-eth1/commit/4dc018eb118182174bb70f7d37203cd0edbbd5cf) - 2026-09-24
+* [Pull Request] [import: add --with-state-root option](https://github.com/status-im/nimbus-eth1/pull/4853) - 2026-09-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08

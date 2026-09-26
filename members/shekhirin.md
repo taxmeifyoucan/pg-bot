@@ -81,6 +81,8 @@ Team: Reth
 * [Review] [Review on: fix(rpc): classify pruned changeset errors as unavailable history](https://github.com/paradigmxyz/reth/pull/27367#pullrequestreview-5278836335) - 2026-09-22
 * [Review] [Review on: fix(rpc): include transaction hash in individual replays](https://github.com/paradigmxyz/reth/pull/27365#pullrequestreview-5278830667) - 2026-09-22
 * [Review] [Review on: perf(rpc): reuse shared sender recovery cache](https://github.com/paradigmxyz/reth/pull/27368#pullrequestreview-5304667154) - 2026-09-24
+* [Review] [Review on: perf: enable sender recovery cache by default](https://github.com/paradigmxyz/reth/pull/27447#pullrequestreview-5318631810) - 2026-09-25
+* [Review] [Review on: perf(rpc): cache validated V2 builder blobs](https://github.com/paradigmxyz/reth/pull/27413#pullrequestreview-5318217525) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

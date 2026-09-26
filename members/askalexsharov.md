@@ -1859,6 +1859,18 @@ Team: Erigon
 * [Commit] [rpc/ethapi: RPCMarshalBlock fills the block header in place (#24264)](https://github.com/erigontech/erigon/commit/134c9a851867255d39ccd4f2fa2b39804a79f730) - 2026-09-24
 * [Commit] [execution/rlp: refuse a named uint256.Int instead of encoding its limbs (#24265)](https://github.com/erigontech/erigon/commit/129f9554dff61e3a74c5a659b5dd155a7cfef5b2) - 2026-09-24
 * [Commit] [rpc: avoid double-hashing of tx (#24262)](https://github.com/erigontech/erigon/commit/f5a1a84e5c829dc0e35424806af33276849e1323) - 2026-09-24
+* [Pull Request] [gql: build block transactions only when selected, implement maxPriorityFeePerGas](https://github.com/erigontech/erigon/pull/24301) - 2026-09-25
+* [Review] [Review on: gql: build block transactions only when selected, implement maxPriorityFeePerGas](https://github.com/erigontech/erigon/pull/24301#pullrequestreview-5312978055) - 2026-09-25
+* [Review] [Review on: execution/types: Log carries blockTimestamp, and RPCLog is gone](https://github.com/erigontech/erigon/pull/24282#pullrequestreview-5313153475) - 2026-09-25
+* [Review] [Review on: engine_types: BlobsBundle comes from its tags](https://github.com/erigontech/erigon/pull/24288#pullrequestreview-5313152492) - 2026-09-25
+* [Pull Request] [db/kv/mdbx: remove global locks from the read-tx begin/end path](https://github.com/erigontech/erigon/pull/24303) - 2026-09-25
+* [Review] [Review on: rpc/ethapi: RPCTransaction's encoder comes from its tags](https://github.com/erigontech/erigon/pull/24283#pullrequestreview-5313096026) - 2026-09-25
+* [Commit] [execution/types: Log carries blockTimestamp, and RPCLog is gone (#24282)](https://github.com/erigontech/erigon/commit/c9f77e9571a59a1ca183488d398d6f5a1d8b32c6) - 2026-09-25
+* [Commit] [engine_types: BlobsBundle comes from its tags (#24288)](https://github.com/erigontech/erigon/commit/5f3bb14dfc3661cc9ea56639c6e860557f205ff1) - 2026-09-25
+* [Commit] [rpc/ethapi: RPCHeader and Withdrawal come from their tags (#24286)](https://github.com/erigontech/erigon/commit/7b634c7d782d3e629eafddf73110d398a177b08b) - 2026-09-25
+* [Commit] [rpc/ethapi: RPCTransaction's encoder comes from its tags (#24283)](https://github.com/erigontech/erigon/commit/f8cfe5a7e1d85ca997180b402f30f4df0d63beea) - 2026-09-25
+* [Commit] [cmd/tools/jsongen: generate MarshalFastJSONTo from a struct's tags (#24277)](https://github.com/erigontech/erigon/commit/72eca892e62eea342cd3748a67f949ae36ba890e) - 2026-09-25
+* [Commit] [cl, diagnostics, execution: drop dead code and two single-use deps (#24298)](https://github.com/erigontech/erigon/commit/a96f61fa2ce9ba85e67770f5a8398ce4d464b7d7) - 2026-09-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

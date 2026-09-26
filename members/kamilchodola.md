@@ -228,6 +228,24 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Reduce per-thread retention of pinned EVM stacks](https://github.com/NethermindEth/nethermind/pull/13795) - 2026-09-24
 * [Commit] [fix(history): create the history pruner before the block processor starts (#13285)](https://github.com/NethermindEth/nethermind/commit/a05aec33c8b9be76beaa7d739d4b9c6b81a81a49) - 2026-09-24
 * [Commit] [ci(expb): per-dispatch CPU quota and cpuset overrides with host-cgroup readout (#13547)](https://github.com/NethermindEth/nethermind/commit/65c017def42a5f4742fc3594a22992875e722c84) - 2026-09-24
+* [Pull Request] [perf(flat): build per-scope tries and maps on first need](https://github.com/NethermindEth/nethermind/pull/13838) - 2026-09-25
+* [Review] [Review on: perf(flat): build per-scope tries and maps on first need](https://github.com/NethermindEth/nethermind/pull/13838#pullrequestreview-5319487974) - 2026-09-25
+* [Review] [Review on: Clear sparse access journals by removing recorded entries](https://github.com/NethermindEth/nethermind/pull/13798#pullrequestreview-5317699905) - 2026-09-25
+* [Pull Request] [perf(flat): pool flat-state buffers without per-thread copies or per-return nodes](https://github.com/NethermindEth/nethermind/pull/13839) - 2026-09-25
+* [Review] [Review on: perf(flat): pool flat-state buffers without per-thread copies or per-return nodes](https://github.com/NethermindEth/nethermind/pull/13839#pullrequestreview-5319576256) - 2026-09-25
+* [Pull Request] [perf(state): grow heavy storage maps into pooled large maps](https://github.com/NethermindEth/nethermind/pull/13840) - 2026-09-25
+* [Review] [Review on: perf(state): grow heavy storage maps into pooled large maps](https://github.com/NethermindEth/nethermind/pull/13840#pullrequestreview-5318929802) - 2026-09-25
+* [Commit] [perf(flat): pool flat-state buffers without per-thread copies or per-return nodes (#13839)](https://github.com/NethermindEth/nethermind/commit/4c9a2a996c3eab881f8e89373e94da747dc78d79) - 2026-09-26
+* [Commit] [perf(state): grow heavy storage maps into pooled large maps (#13840)](https://github.com/NethermindEth/nethermind/commit/a5bc8c3633ed32638bd1870a4d2b605aaee6c59b) - 2026-09-25
+* [Commit] [Cache EIP-7702 delegation targets in CodeInfo (#13799)](https://github.com/NethermindEth/nethermind/commit/c2a07940b0e3d085b703edb36f99dbe31b15590d) - 2026-09-25
+* [Commit] [perf(flat): build per-scope tries and maps on first need (#13838)](https://github.com/NethermindEth/nethermind/commit/d8883c1a23f2d2f759f552c579b053eafbfb2295) - 2026-09-25
+* [Commit] [Reduce zero-ahead clearing for small EVM memory expansions (#13796)](https://github.com/NethermindEth/nethermind/commit/a4f7a327e7fb7bfe89e322a1477420dde9c980f0) - 2026-09-25
+* [Commit] [Reduce per-thread retention of pinned EVM stacks (#13795)](https://github.com/NethermindEth/nethermind/commit/93f6b3690efc28aacf4b1f644f6e2492173c52f4) - 2026-09-25
+* [Commit] [perf(tracing): give every JavaScript block trace its own V8 runtime (#13541)](https://github.com/NethermindEth/nethermind/commit/c1910a5381ebfe7262b8b0e66438cd779d107e6c) - 2026-09-25
+* [Commit] [Reuse bounded buffers for nested RETURN and REVERT output (#13797)](https://github.com/NethermindEth/nethermind/commit/784266f93882318699693f4924e7b7b359f95a96) - 2026-09-25
+* [Commit] [perf(diag): make the cross-block state cache observable (#12958)](https://github.com/NethermindEth/nethermind/commit/010a0ec3b17775f9ba7ce439c53d8ab5d73e733e) - 2026-09-25
+* [Commit] [ci(rpc-bench): serve per-client snapshot sets on the arm64 runner (#13300)](https://github.com/NethermindEth/nethermind/commit/c586eeac8d9275e5896b1ac5d8e56421d92b3bcf) - 2026-09-25
+* [Commit] [perf(core): pack ValueHash256 and Signature's vector storage to 8-byte alignment (#13837)](https://github.com/NethermindEth/nethermind/commit/9b7c61b618c06a04d2b9ae189c585d829db028bd) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

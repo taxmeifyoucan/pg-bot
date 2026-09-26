@@ -130,6 +130,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Rename VALID_VALIDATOR_SET_SIZE to VALID_VALIDATOR_INDEX_SET_SIZE](https://github.com/Consensys-Incorporated/teku/pull/11340#pullrequestreview-5302592837) - 2026-09-24
 * [Commit] [Implement external signing for Gloas (#11328)](https://github.com/Consensys-Incorporated/teku/commit/f863a700aaa976fb0cb080ecddec4637daed72f0) - 2026-09-24
 * [Commit] [Support `finalized` and `genesis` for execution payload Beacon API (#11342)](https://github.com/Consensys-Incorporated/teku/commit/cad348d2050ee3c05d3c61c7f8ca58a36012b2f1) - 2026-09-24
+* [Commit] [Upgrade gradle + bring back gradlew.bat (#11339)](https://github.com/Consensys-Incorporated/teku/commit/3d26533fb84a7d12da04e5ab59e1ab7399db5fc5) - 2026-09-25
 ## Q2 2026
 
 

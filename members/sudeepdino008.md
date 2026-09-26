@@ -190,6 +190,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: add flag for range downloader block batch size](https://github.com/erigontech/erigon/pull/24050#pullrequestreview-5233004939) - 2026-09-17
 * [Pull Request] [execution/state, execution/exec, bsc/parlia: reproduce BSC's hertzfix storage patch](https://github.com/erigontech/erigon/pull/24285) - 2026-09-24
 * [Pull Request] [Hertz hardfork: precompile set + fork-ordered precompile resolution](https://github.com/erigontech/erigon/pull/24281) - 2026-09-24
+* [Pull Request] [bsc: feynman, cancun, haber precompile sets](https://github.com/erigontech/erigon/pull/24327) - 2026-09-25
 ## Q2 2026
 
 

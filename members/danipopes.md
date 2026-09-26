@@ -82,6 +82,7 @@ Team: Reth
 * [Review] [Review on: fix(ci): enable benchmark frame pointers](https://github.com/paradigmxyz/reth/pull/27393#pullrequestreview-5294533737) - 2026-09-23
 * [Review] [Review on: fix(ci): reuse shared deny and refresh runner pins](https://github.com/paradigmxyz/reth/pull/27382#pullrequestreview-5287546021) - 2026-09-23
 * [Review] [Review on: perf: specialize RLP encoded lengths](https://github.com/paradigmxyz/reth/pull/27408#pullrequestreview-5304502291) - 2026-09-24
+* [Review] [Review on: perf: enable sender recovery cache by default](https://github.com/paradigmxyz/reth/pull/27447#pullrequestreview-5318616371) - 2026-09-25
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

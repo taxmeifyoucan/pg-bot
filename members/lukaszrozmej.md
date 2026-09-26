@@ -634,6 +634,46 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Revert "perf(flat): refresh the carry-forward account cache on commit instead of evicting (#12960)" (#13765)](https://github.com/NethermindEth/nethermind/commit/cc1a703e082089e47fa4fc4a312da5cdcf57fb9a) - 2026-09-24
 * [Commit] [perf(rpc): serve eth_getFilterChanges from shared block and pending logs (#13742)](https://github.com/NethermindEth/nethermind/commit/b0d846fdc628a24db51c3afa3b88e162b12ba79d) - 2026-09-24
 * [Commit] [Dispose engine test chains and fail tests that leak one (#13767)](https://github.com/NethermindEth/nethermind/commit/53a24464674a789e5213090e74e3f1895a4f63c5) - 2026-09-24
+* [Review] [Review on: perf(evm): hash the precompile cache key once](https://github.com/NethermindEth/nethermind/pull/13877#pullrequestreview-5323956486) - 2026-09-26
+* [Review] [Review on: Compute EVM zero-ahead alignment mask directly](https://github.com/NethermindEth/nethermind/pull/13880#pullrequestreview-5323953087) - 2026-09-26
+* [Pull Request] [fix(txpool): track EIP-7702 authorities only for tuples valid on this chain](https://github.com/NethermindEth/nethermind/pull/13869) - 2026-09-26
+* [Pull Request] [perf(zkevm): compare jump-destination bytes at 64 bits](https://github.com/NethermindEth/nethermind/pull/13860) - 2026-09-25
+* [Review] [Review on: perf(zkevm): compare jump-destination bytes at 64 bits](https://github.com/NethermindEth/nethermind/pull/13860#pullrequestreview-5323563518) - 2026-09-25
+* [Pull Request] [perf(zkevm): cheaper address and storage-cell hashing in the guest](https://github.com/NethermindEth/nethermind/pull/13887) - 2026-09-26
+* [Pull Request] [perf(zkevm): absorb Keccak-256 input straight into the precompile state](https://github.com/NethermindEth/nethermind/pull/13885) - 2026-09-26
+* [Pull Request] [perf(evm): prove zkEVM jump destinations from the 32 bytes before them](https://github.com/NethermindEth/nethermind/pull/13886) - 2026-09-26
+* [Review] [Review on: fix(state): invalidate only the wiped contract in the pre-block storage cache](https://github.com/NethermindEth/nethermind/pull/13850#pullrequestreview-5321382292) - 2026-09-25
+* [Review] [Review on: perf(rpc): remove per-call allocations on hot RPC paths](https://github.com/NethermindEth/nethermind/pull/13874#pullrequestreview-5323966343) - 2026-09-26
+* [Review] [Review on: perf(receipts): take the stored sender before running ecrecover](https://github.com/NethermindEth/nethermind/pull/13873#pullrequestreview-5323961147) - 2026-09-26
+* [Pull Request] [perf(zkevm): compute MULMOD with the arith256 accelerator](https://github.com/NethermindEth/nethermind/pull/13861) - 2026-09-25
+* [Review] [Review on: perf(flat): build per-scope tries and maps on first need](https://github.com/NethermindEth/nethermind/pull/13838#pullrequestreview-5320986596) - 2026-09-25
+* [Review] [Review on: fix: end an inclusion-list sender run at a tx skipped for size](https://github.com/NethermindEth/nethermind/pull/13382#pullrequestreview-5323748000) - 2026-09-26
+* [Review] [Review on: fix(rpc): select trace_get results by traceAddress path](https://github.com/NethermindEth/nethermind/pull/13858#pullrequestreview-5321771799) - 2026-09-25
+* [Pull Request] [perf(evm): exempt the dispatch tail calls from NativeAOT's fat-pointer guard](https://github.com/NethermindEth/nethermind/pull/13866) - 2026-09-25
+* [Review] [Review on: fix(rpc): support union and intersection modes in trace_filter](https://github.com/NethermindEth/nethermind/pull/13857#pullrequestreview-5321426850) - 2026-09-25
+* [Review] [Review on: Tone down dated emphasis in agent rules and skills](https://github.com/NethermindEth/nethermind/pull/13792#pullrequestreview-5321695563) - 2026-09-25
+* [Review] [Review on: Clear sparse access journals by removing recorded entries](https://github.com/NethermindEth/nethermind/pull/13798#pullrequestreview-5317253177) - 2026-09-25
+* [Pull Request] [perf: thread the opcode counter as a native int](https://github.com/NethermindEth/nethermind/pull/13862) - 2026-09-25
+* [Review] [Review on: perf(rpc): stop hashing the transaction on every eth_call](https://github.com/NethermindEth/nethermind/pull/13804#pullrequestreview-5323643579) - 2026-09-25
+* [Pull Request] [perf(evm): keep jump-destination analysis out of the zkEVM PUSH2 handler](https://github.com/NethermindEth/nethermind/pull/13868) - 2026-09-25
+* [Review] [Review on: perf(flat): pool flat-state buffers without per-thread copies or per-return nodes](https://github.com/NethermindEth/nethermind/pull/13839#pullrequestreview-5320950610) - 2026-09-25
+* [Review] [Review on: perf(state): grow heavy storage maps into pooled large maps](https://github.com/NethermindEth/nethermind/pull/13840#pullrequestreview-5320932137) - 2026-09-25
+* [Review] [Review on: Report flat import progress at Info level on a 60 s heartbeat](https://github.com/NethermindEth/nethermind/pull/13724#pullrequestreview-5317428809) - 2026-09-25
+* [Review] [Review on: test(sync): drain a timed-out state sync round before failing the test](https://github.com/NethermindEth/nethermind/pull/13865#pullrequestreview-5323619968) - 2026-09-25
+* [Pull Request] [fix: create the RetryCache timer in the constructor instead of on a pool thread](https://github.com/NethermindEth/nethermind/pull/13854) - 2026-09-25
+* [Pull Request] [test: run simulate forced-fail tests without the production RPC timeout](https://github.com/NethermindEth/nethermind/pull/13843) - 2026-09-25
+* [Commit] [Tone down dated emphasis in agent rules and skills (#13792)](https://github.com/NethermindEth/nethermind/commit/6f5356c5ecc04ec8c3200514c39f148fc4a8a0e0) - 2026-09-26
+* [Commit] [fix: create the RetryCache timer in the constructor instead of on a pool thread (#13854)](https://github.com/NethermindEth/nethermind/commit/2d15193c2dba168c507cb52d14a755a9695d2d07) - 2026-09-25
+* [Commit] [test: run simulate forced-fail tests without the production RPC timeout (#13843)](https://github.com/NethermindEth/nethermind/commit/4ddc247c99127efe5da1c423c160cc121da45562) - 2026-09-25
+* [Commit] [test: find the embedded leaf when a storage proof ends in a branch (#13859)](https://github.com/NethermindEth/nethermind/commit/317b2b59b7b6647ec4d08e240188d302142997c7) - 2026-09-25
+* [Commit] [test: wait for Changed as well as the data in FileLocalDataSourceTests (#13855)](https://github.com/NethermindEth/nethermind/commit/3ccedcc9940357c9eaaba4513f29ff89133aea2c) - 2026-09-25
+* [Commit] [test(sync): drain a timed-out state sync round before starting the next (#13846)](https://github.com/NethermindEth/nethermind/commit/344acaada25b824da4510088a4041a7715140a63) - 2026-09-25
+* [Commit] [test: give the suggest pacer's unblock continuation time to run on a loaded runner (#13853)](https://github.com/NethermindEth/nethermind/commit/8b521abaffd3abd70cf387ae965344e208f3ec0e) - 2026-09-25
+* [Commit] [test: keep long finality off when a test replaces IFlatDbConfig (#13856)](https://github.com/NethermindEth/nethermind/commit/0a4aa7ea958ad4c3ecf0e5eaeddc6525709a0437) - 2026-09-25
+* [Commit] [test(stateless): pin the fail-closed handling of incomplete input (#13788)](https://github.com/NethermindEth/nethermind/commit/5f0ec9b48597579afb464710a894001f59eca0a3) - 2026-09-25
+* [Commit] [fix(stateless): reject a schema fork the chain schedule has left (#13787)](https://github.com/NethermindEth/nethermind/commit/7346d4d5a9bc08df526ee3289190e508a461a87a) - 2026-09-25
+* [Commit] [test: drop redundant MaxTime from runner smoke tests (#13774)](https://github.com/NethermindEth/nethermind/commit/429dc35b3691f3b950e2230e69d554bda4a8f50f) - 2026-09-25
+* [Commit] [Pass return data to tracers as ReadOnlySpan (#13844)](https://github.com/NethermindEth/nethermind/commit/c3507882d34cd261c0ce73d37fa806fefeb5689f) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08
@@ -646,6 +686,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Issue] [riscv64 codegen: constant rematerialization, redundant width conversions, and memory round-trips measured on the ZisK guest](https://github.com/NethermindEth/bflat-riscv64/issues/40) - 2026-09-02
 
 * [Issue] [dotnet-riscv v10.0.0.p4 blobs: musl/toolchain archives ship compressed+atomic instructions; guest measures ~1.8% slower than p3](https://github.com/NethermindEth/bflat-riscv64/issues/41) - 2026-09-02
+* [Pull Request] [tls: make __tls_get_addr a leaf](https://github.com/NethermindEth/bflat-riscv64/pull/44) - 2026-09-25
+* [Pull Request] [zisk: enable Zba, Zbb and Zbs](https://github.com/NethermindEth/bflat-riscv64/pull/43) - 2026-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8025: require seeded container hashing in the guest](https://github.com/ethereum/EIPs/pull/12289) - 2026-09-02
 * [Pull Request] [Update EIP-8025: require seeded container hashing in the guest](https://github.com/ethereum/EIPs/pull/12288) - 2026-09-02
@@ -653,6 +695,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [perf(riscv64): elide provably redundant extension casts (fixups 36 + 37)](https://github.com/NethermindEth/dotnet-riscv/pull/8) - 2026-09-02
+* [Pull Request] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/pull/11) - 2026-09-26
+* [Pull Request] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/pull/10) - 2026-09-25
+* [Pull Request] [fixup/11/upstream: keep widening casts under width-from-operand users; Zb lowering fixes](https://github.com/NethermindEth/dotnet-riscv/pull/9) - 2026-09-25
 ## Q2 2026
 
 

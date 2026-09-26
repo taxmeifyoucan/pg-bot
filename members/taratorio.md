@@ -398,6 +398,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc: eth-spec-driven json encoding](https://github.com/erigontech/erigon/pull/24266#pullrequestreview-5299910561) - 2026-09-24
 * [Issue] [execution/p2p: backward downloads wait for redundant BAL peer timeouts](https://github.com/erigontech/erigon/issues/24271) - 2026-09-24
 * [Commit] [execution/p2p: bal downloader cancel and do not wait for pending peer requests once batch is downloaded (#24275)](https://github.com/erigontech/erigon/commit/df81a5d23b1de04f1bedd91f235905b92488aa04) - 2026-09-24
+* [Review] [Review on: execution/engineapi: reject engine_getBlobsV1 post-osaka](https://github.com/erigontech/erigon/pull/21857#pullrequestreview-5313204250) - 2026-09-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

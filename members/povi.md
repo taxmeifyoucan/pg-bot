@@ -114,6 +114,12 @@ Team: Grandine
 * [Commit] [Remove non-gossip artifacts too from received collections when delayed queues are full](https://github.com/grandinetech/grandine/commit/22f4e8972c61dfe0d92075ba2edcf777491e1e50) - 2026-09-23
 * [Pull Request] [delayed envelope queue fixes](https://github.com/grandinetech/grandine/pull/938) - 2026-09-24
 * [Commit] [Evict envelopes with highest slot when delayed queue is full.](https://github.com/grandinetech/grandine/commit/ac21ead8f36377ea5296cafc4130dd39b02445bd) - 2026-09-24
+* [Review] [Review on: Report only forward sync in the syncing and health endpoints](https://github.com/grandinetech/grandine/pull/940#pullrequestreview-5318824077) - 2026-09-25
+* [Review] [Review on: Pass gossip execution payload envelope directly to fork choice](https://github.com/grandinetech/grandine/pull/939#pullrequestreview-5317806035) - 2026-09-25
+* [Pull Request] [Schedule Gloas fork on Sepolia](https://github.com/grandinetech/grandine/pull/941) - 2026-09-25
+* [Commit] [Add extra tests for Gloas payload invalidation possible scenarios](https://github.com/grandinetech/grandine/commit/a0c46b6ce1d50bd6d9ec001ef2cf8c90a3c92f4a) - 2026-09-25
+* [Commit] [Don't invalidate empty blocks when EL invalidates payload](https://github.com/grandinetech/grandine/commit/7686ad972d5492c4a8e39318ef4b2fc3b7e6fade) - 2026-09-25
+* [Commit] [Schedule Gloas fork on Sepolia](https://github.com/grandinetech/grandine/commit/66b3d385c3dc69d89e05b80bbb6baf7442a12966) - 2026-09-25
 ## Q2 2026
 
 

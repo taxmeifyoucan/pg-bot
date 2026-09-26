@@ -61,6 +61,9 @@ Team: Nimbus
 * [Commit] [Snap2 sync maint update (#4839)](https://github.com/status-im/nimbus-eth1/commit/4f282d85ad8772ac4ae067bd175438122ac87afc) - 2026-09-23
 * [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4842) - 2026-09-24
 * [Commit] [Snap2 sync maint update (#4842)](https://github.com/status-im/nimbus-eth1/commit/5f52bd298f72e86fbcda095887fe98fabd86cbed) - 2026-09-24
+* [Pull Request] [Snap2 sync restart test1](https://github.com/status-im/nimbus-eth1/pull/4854) - 2026-09-25
+* [Pull Request] [Snap2 sync fix missing stuff](https://github.com/status-im/nimbus-eth1/pull/4851) - 2026-09-25
+* [Commit] [Snap2 sync fix missing stuff (#4851)](https://github.com/status-im/nimbus-eth1/commit/27008edb5a775c8bc8abbd53c7e20342a7bb18d2) - 2026-09-25
 ## Q2 2026
 
 

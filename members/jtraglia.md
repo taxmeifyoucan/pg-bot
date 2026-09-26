@@ -348,6 +348,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5307416454) - 2026-09-24
 * [Review] [Review on: Use time-related helper, instead of hardcoded slot duration](https://github.com/ethereum/consensus-specs/pull/5677#pullrequestreview-5305020842) - 2026-09-24
 * [Commit] [Deprecate old config variables (#5676)](https://github.com/ethereum/consensus-specs/commit/1145cc6e3b4567ac457ef003d9d68654d3310ca8) - 2026-09-24
+* [Pull Request] [Use builtin `set` instead of `typing.Set`](https://github.com/ethereum/consensus-specs/pull/5687) - 2026-09-25
+* [Pull Request] [Use `X | None` instead of `typing.Optional`](https://github.com/ethereum/consensus-specs/pull/5689) - 2026-09-25
+* [Pull Request] [Use `collections.defaultdict` instead of `typing.DefaultDict`](https://github.com/ethereum/consensus-specs/pull/5688) - 2026-09-25
+* [Pull Request] [Use builtin `tuple` instead of `typing.Tuple`](https://github.com/ethereum/consensus-specs/pull/5686) - 2026-09-25
+* [Pull Request] [Use builtin `dict` instead of `typing.Dict`](https://github.com/ethereum/consensus-specs/pull/5685) - 2026-09-25
+* [Pull Request] [Use double quotes for strings in generated spec](https://github.com/ethereum/consensus-specs/pull/5684) - 2026-09-25
+* [Pull Request] [Run ruff on generated spec](https://github.com/ethereum/consensus-specs/pull/5683) - 2026-09-25
+* [Pull Request] [Rename configuration to configs](https://github.com/ethereum/consensus-specs/pull/5682) - 2026-09-25
+* [Review] [Review on: Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680#pullrequestreview-5319151429) - 2026-09-25
+* [Review] [Review on: Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681#pullrequestreview-5319239912) - 2026-09-25
+* [Commit] [Rename configuration to configs (#5682)](https://github.com/ethereum/consensus-specs/commit/caa9c8e804efb6ab43cddc7d536e1172f5e1ed87) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

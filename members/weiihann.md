@@ -17,6 +17,7 @@ Github: [@weiihann](https://github.com/weiihann)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Wei Han Ng (1 -> 0.5)](https://github.com/protocolguild/documentation/pull/518) - 2026-07-09
+* [Pull Request] [remove weiihann](https://github.com/protocolguild/documentation/pull/552) - 2026-09-25
 ## Q2 2026
 
 

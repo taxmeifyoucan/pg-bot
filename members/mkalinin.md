@@ -46,6 +46,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: fix: rename max IL transactions bytes constants](https://github.com/ethereum/execution-apis/pull/871#pullrequestreview-5050960335) - 2026-08-28
 * [Review] [Review on: engine: bound engine_getInclusionListV1 result by the consensus-layer transaction byte measure](https://github.com/ethereum/execution-apis/pull/870#pullrequestreview-5077347335) - 2026-09-01
 * [Review] [Review on: Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878#pullrequestreview-5111633510) - 2026-09-04
+* [Pull Request] [Add fast block](https://github.com/ethereum/execution-apis/pull/908) - 2026-09-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Fast Confirmation Rule (FCR) #11, July 21, 2026](https://github.com/ethereum/pm/issues/2149) - 2026-07-07
 

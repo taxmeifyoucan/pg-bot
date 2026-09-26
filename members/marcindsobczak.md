@@ -29,6 +29,13 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [perf(evm): resolve the jump-destination bitmap when the stack is built](https://github.com/NethermindEth/nethermind/pull/13803) - 2026-09-24
 * [Pull Request] [perf(evm): keep SUB, SHL and SHR handlers free of out-of-line calls](https://github.com/NethermindEth/nethermind/pull/13802) - 2026-09-24
 * [Commit] [fix(flat): retry a gather whose state was just persisted instead of refusing it (#13763)](https://github.com/NethermindEth/nethermind/commit/be3cbf9072d1704e20a39b85bb7734d8dd07e30a) - 2026-09-24
+* [Review] [Review on: perf(rpc): stop hashing the transaction on every eth_call](https://github.com/NethermindEth/nethermind/pull/13804#pullrequestreview-5319857574) - 2026-09-25
+* [Pull Request] [Report flat import progress at Info level on a 60 s heartbeat](https://github.com/NethermindEth/nethermind/pull/13724) - 2026-09-25
+* [Commit] [perf(rpc): stop hashing the transaction on every eth_call (#13804)](https://github.com/NethermindEth/nethermind/commit/18758238869175329065ec3005b36e63d039a497) - 2026-09-26
+* [Commit] [Report flat import progress at Info level on a 60 s heartbeat (#13724)](https://github.com/NethermindEth/nethermind/commit/4e9d3c135deb22297ce23bf5ad7e8abd5c367591) - 2026-09-25
+* [Commit] [perf(evm): keep SUB, SHL and SHR handlers free of out-of-line calls (#13802)](https://github.com/NethermindEth/nethermind/commit/4b6d8edffef2c12dba1eab94b33f8a8eaf445ec0) - 2026-09-25
+* [Commit] [perf(rpc): reuse the hash and CodeInfo of repeated state-override code (#13808)](https://github.com/NethermindEth/nethermind/commit/86680b389b4c8179a3009e8417055b0e08bcb879) - 2026-09-25
+* [Commit] [test(engine): return from SendNewBlockV2 only once the block is committed (#13764)](https://github.com/NethermindEth/nethermind/commit/4295b7ffc80cfd2935c678aaad3b007a173ef814) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652992370) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652988229) - 2026-07-08
