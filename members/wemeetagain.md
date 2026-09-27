@@ -228,6 +228,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: update consensus specs to v1.7.0-beta.2](https://github.com/ChainSafe/lodestar/pull/10154#pullrequestreview-5319818080) - 2026-09-25
 * [Review] [Review on: chore(test): fix stale Infura JSDoc and drop orphaned state-transition devDep](https://github.com/ChainSafe/lodestar/pull/10175#pullrequestreview-5319627310) - 2026-09-25
 * [Review] [Review on: fix: update `earliestAvailableSlot` when pruning history](https://github.com/ChainSafe/lodestar/pull/10177#pullrequestreview-5319616319) - 2026-09-25
+* [Issue] [newPayload is written to the EL only after the state transition finishes](https://github.com/ChainSafe/lodestar/issues/10188) - 2026-09-26
+* [Issue] [Backend-neutral serving lease: hold reqresp serving capacity until source work retires](https://github.com/ChainSafe/lodestar/issues/10187) - 2026-09-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -463,6 +465,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: remove benchmark CI](https://github.com/ChainSafe/lodestar-z/pull/715#pullrequestreview-5292722797) - 2026-09-23
 * [Review] [Review on: refactor: write error values as error.Name](https://github.com/ChainSafe/lodestar-z/pull/718#pullrequestreview-5292713426) - 2026-09-23
 * [Review] [Review on: perf: overlap Fulu shuffling with epoch processing](https://github.com/ChainSafe/lodestar-z/pull/727#pullrequestreview-5306703214) - 2026-09-24
+* [Commit] [refactor: bound fixed vector hashing (#681)](https://github.com/ChainSafe/lodestar-z/commit/0d04988234a116de40f3a1bcc74efdb9bf7c1d32) - 2026-09-26
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

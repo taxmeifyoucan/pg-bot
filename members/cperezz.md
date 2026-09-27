@@ -105,6 +105,7 @@ Github: [@cperezz](https://github.com/cperezz)
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [PBT migration: truncated artifact crashes the node instead of being rejected](https://github.com/NethermindEth/nethermind/issues/13669) - 2026-09-22
+* [Issue] [engine_newPayload returns -39001 "Timed out gathering ReadOnlySnapshotBundle" on a long side chain (flat DB)](https://github.com/NethermindEth/nethermind/issues/13923) - 2026-09-26
 ## Q2 2026
 
 

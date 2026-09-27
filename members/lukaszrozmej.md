@@ -674,6 +674,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(stateless): reject a schema fork the chain schedule has left (#13787)](https://github.com/NethermindEth/nethermind/commit/7346d4d5a9bc08df526ee3289190e508a461a87a) - 2026-09-25
 * [Commit] [test: drop redundant MaxTime from runner smoke tests (#13774)](https://github.com/NethermindEth/nethermind/commit/429dc35b3691f3b950e2230e69d554bda4a8f50f) - 2026-09-25
 * [Commit] [Pass return data to tracers as ReadOnlySpan (#13844)](https://github.com/NethermindEth/nethermind/commit/c3507882d34cd261c0ce73d37fa806fefeb5689f) - 2026-09-25
+* [Review] [Review on: test: deflake blockhash allocation assertions](https://github.com/NethermindEth/nethermind/pull/13939#pullrequestreview-5328287644) - 2026-09-27
+* [Pull Request] [perf(zkevm): dispatch the guest with gas, stack head, table and bytecode in registers](https://github.com/NethermindEth/nethermind/pull/13921) - 2026-09-26
+* [Pull Request] [perf(zkevm): guest handlers for the hottest opcodes](https://github.com/NethermindEth/nethermind/pull/13922) - 2026-09-26
+* [Review] [Review on: fix(rpc): support union and intersection modes in trace_filter](https://github.com/NethermindEth/nethermind/pull/13857#pullrequestreview-5324966168) - 2026-09-26
+* [Pull Request] [test: assert SeqlockCache concurrency hits across workers, not per worker](https://github.com/NethermindEth/nethermind/pull/13927) - 2026-09-26
+* [Pull Request] [test: keep the budget test's coordinator on the joining thread](https://github.com/NethermindEth/nethermind/pull/13926) - 2026-09-26
+* [Pull Request] [test: keep the pending discovery candidate from flooding the storage cache](https://github.com/NethermindEth/nethermind/pull/13925) - 2026-09-26
+* [Pull Request] [test: give FileLocalDataSourceTests reload waits room for a starved thread pool](https://github.com/NethermindEth/nethermind/pull/13924) - 2026-09-26
+* [Pull Request] [fix: resolve the session conflict when an incoming session attaches during a dial](https://github.com/NethermindEth/nethermind/pull/13903) - 2026-09-26
+* [Pull Request] [perf(zkevm): cheaper SSZ merkleization and list decoding for the stateless guest](https://github.com/NethermindEth/nethermind/pull/13916) - 2026-09-26
+* [Pull Request] [perf: keep Rlp beforefieldinit, move constructor throws out of line and bind composite tx validators once](https://github.com/NethermindEth/nethermind/pull/13920) - 2026-09-26
+* [Pull Request] [test: prewarm before the BAL hint in BlockCachePreWarmerTests](https://github.com/NethermindEth/nethermind/pull/13902) - 2026-09-26
+* [Review] [Review on: Compute EVM zero-ahead alignment mask directly](https://github.com/NethermindEth/nethermind/pull/13880#pullrequestreview-5327277093) - 2026-09-26
+* [Review] [Review on: perf(trace): stop trace_filter once count traces are collected](https://github.com/NethermindEth/nethermind/pull/13890#pullrequestreview-5325034953) - 2026-09-26
+* [Review] [Review on: perf(evm): poll cancellation on taken jumps instead of every opcode](https://github.com/NethermindEth/nethermind/pull/13895#pullrequestreview-5325085519) - 2026-09-26
+* [Commit] [test: assert SeqlockCache concurrency hits across workers, not per worker (#13927)](https://github.com/NethermindEth/nethermind/commit/e1b322686c1782779a4cbba4a577c00108399b04) - 2026-09-26
+* [Commit] [test: keep the budget test's coordinator on the joining thread (#13926)](https://github.com/NethermindEth/nethermind/commit/4b45fc374a8a245b75617f04b07b0794704ce1ed) - 2026-09-26
+* [Commit] [test: keep the pending discovery candidate from flooding the storage cache (#13925)](https://github.com/NethermindEth/nethermind/commit/4c5cd73ab33e42a60e0305277b0607acdd996d43) - 2026-09-26
+* [Commit] [test: give FileLocalDataSourceTests reload waits room for a starved thread pool (#13924)](https://github.com/NethermindEth/nethermind/commit/a4b7e40e7c847f6aa35044d35d6af5e74a703056) - 2026-09-26
+* [Commit] [test: prewarm before the BAL hint in BlockCachePreWarmerTests (#13902)](https://github.com/NethermindEth/nethermind/commit/896d971c2d17d1f5966f287b35f33dd86701cd55) - 2026-09-26
+* [Commit] [perf(zkevm): compare jump-destination bytes at 64 bits (#13860)](https://github.com/NethermindEth/nethermind/commit/e847f1ac379464af96e910703f35daf96713523a) - 2026-09-26
+* [Commit] [fix(txpool): track EIP-7702 authorities only for tuples valid on this chain (#13869)](https://github.com/NethermindEth/nethermind/commit/fca93966f6954856b818b913bfe5afd30f33aa08) - 2026-09-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

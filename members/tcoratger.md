@@ -636,6 +636,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(binary-field,multi-stark)!: SIMD GF(2^64) and GF(2^192) packings, shift-only reduction, GFNI inversion](https://github.com/Plonky3/Plonky3/pull/2322#pullrequestreview-5318138375) - 2026-09-25
 * [Commit] [test(multi-stark): prove a small 64-bit integer machine end to end over the binary backend (#2320)](https://github.com/Plonky3/Plonky3/commit/e8c72849828f5b4f035a7000ee2885b4a459ccb5) - 2026-09-25
 * [Commit] [feat(air,bus,multi-stark)!: seed timestamped memory from a public image or a private region (#2317)](https://github.com/Plonky3/Plonky3/commit/bb172cd15fb1c94986925e2979e675521a0b6b07) - 2026-09-25
+* [Pull Request] [perf(field): fold W into the broadcast operand of a packed extension product](https://github.com/Plonky3/Plonky3/pull/2338) - 2026-09-26
+* [Review] [Review on: feat(blake2s): add BLAKE2s with a batched many-message path](https://github.com/Plonky3/Plonky3/pull/2336#pullrequestreview-5327618009) - 2026-09-26
+* [Review] [Review on: perf(multi-stark): hash the node set of the successor-column walk](https://github.com/Plonky3/Plonky3/pull/2337#pullrequestreview-5327431027) - 2026-09-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

@@ -478,6 +478,22 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Seed every head-derived fact at construction (#13472)](https://github.com/NethermindEth/nethermind/commit/6506824dbf5157b9068c92202af8ffd64c17fb16) - 2026-09-25
 * [Commit] [fix: give Hoodi its beacon chain genesis timestamp (#13732)](https://github.com/NethermindEth/nethermind/commit/d4cf3254b131629ff668df114517b7af62173d65) - 2026-09-25
 * [Commit] [fix(sync): bound concurrent block access list requests per peer (#13790)](https://github.com/NethermindEth/nethermind/commit/df8244633d44a9fbde2226f23f66ee067c58f65d) - 2026-09-25
+* [Pull Request] [feat: EIP-8279 block access list byte floor](https://github.com/NethermindEth/nethermind/pull/13942) - 2026-09-27
+* [Review] [Review on: feat: EIP-8279 block access list byte floor](https://github.com/NethermindEth/nethermind/pull/13942#pullrequestreview-5328218503) - 2026-09-27
+* [Pull Request] [feat: EIP-8360 TCREATE opcode](https://github.com/NethermindEth/nethermind/pull/13933) - 2026-09-26
+* [Review] [Review on: feat: EIP-8360 TCREATE opcode](https://github.com/NethermindEth/nethermind/pull/13933#pullrequestreview-5327410568) - 2026-09-26
+* [Pull Request] [feat: EIP-8253 bump nonce of zero-nonce storage accounts](https://github.com/NethermindEth/nethermind/pull/13943) - 2026-09-27
+* [Review] [Review on: feat: EIP-8253 bump nonce of zero-nonce storage accounts](https://github.com/NethermindEth/nethermind/pull/13943#pullrequestreview-5328235929) - 2026-09-27
+* [Pull Request] [feat: EIP-7668 remove bloom filters](https://github.com/NethermindEth/nethermind/pull/13934) - 2026-09-26
+* [Review] [Review on: feat: EIP-7668 remove bloom filters](https://github.com/NethermindEth/nethermind/pull/13934#pullrequestreview-5328179752) - 2026-09-27
+* [Pull Request] [feat: EIP-5920 PAY opcode](https://github.com/NethermindEth/nethermind/pull/13930) - 2026-09-26
+* [Review] [Review on: feat: EIP-5920 PAY opcode](https://github.com/NethermindEth/nethermind/pull/13930#pullrequestreview-5327260608) - 2026-09-26
+* [Pull Request] [feat: EIP-7979 call and return opcodes](https://github.com/NethermindEth/nethermind/pull/13932) - 2026-09-26
+* [Review] [Review on: feat: EIP-7979 call and return opcodes](https://github.com/NethermindEth/nethermind/pull/13932#pullrequestreview-5327325454) - 2026-09-26
+* [Pull Request] [feat: EIP-8131 unified transaction content floor](https://github.com/NethermindEth/nethermind/pull/13929) - 2026-09-26
+* [Review] [Review on: feat: EIP-8131 unified transaction content floor](https://github.com/NethermindEth/nethermind/pull/13929#pullrequestreview-5327332907) - 2026-09-26
+* [Pull Request] [feat: EIP-3298 remove storage-clear refund and refund cap](https://github.com/NethermindEth/nethermind/pull/13928) - 2026-09-26
+* [Review] [Review on: feat: EIP-3298 remove storage-clear refund and refund cap](https://github.com/NethermindEth/nethermind/pull/13928#pullrequestreview-5327152618) - 2026-09-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

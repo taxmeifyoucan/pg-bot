@@ -284,6 +284,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc/jsonrpc: ots_getBlockTransactions marshals only the requested page](https://github.com/erigontech/erigon/pull/24306) - 2026-09-25
 * [Review] [Review on: fix(rpc/jsonrpc): default trace_filter address lists to intersection](https://github.com/erigontech/erigon/pull/24255#pullrequestreview-5314184853) - 2026-09-25
 * [Commit] [execution/types/ethutils: keep a zero-address to in subscribed receipts (#24260)](https://github.com/erigontech/erigon/commit/850abeab26933c9b3dd332953f1a2badb76123b0) - 2026-09-25
+* [Pull Request] [rpc/jsonrpc: graphql reports maxFeePerBlobGas for wrapped blob transactions](https://github.com/erigontech/erigon/pull/24342) - 2026-09-26
+* [Pull Request] [rpc/jsonrpc: poll the receipt while eth_sendRawTransactionSync waits for it](https://github.com/erigontech/erigon/pull/24337) - 2026-09-26
+* [Pull Request] [db/kv/membatchwithdb: keep db dups under a shared key in Range on DupSort tables](https://github.com/erigontech/erigon/pull/24340) - 2026-09-26
+* [Review] [Review on: fix(rpc/jsonrpc): treat explicit null as omitted in trace_call data/input and trace_filter mode](https://github.com/erigontech/erigon/pull/24334#pullrequestreview-5326386988) - 2026-09-26
+* [Pull Request] [rpc/jsonrpc, rpc/ethapi, execution/types: eth_fillTransaction builds the blob sidecar](https://github.com/erigontech/erigon/pull/24335) - 2026-09-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

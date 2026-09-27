@@ -669,6 +669,9 @@ Team: Erigon
 * [Pull Request] [cl/beacon/handler: a failed envelope hash on the retry path reports the hash error, not the duplicate claim](https://github.com/erigontech/erigon/pull/24308) - 2026-09-25
 * [Pull Request] [cl/phase1/forkchoice/fork_graph: read envelope files written before the version byte](https://github.com/erigontech/erigon/pull/24307) - 2026-09-25
 * [Review] [Review on: execution/commitment: persist zero-update commitment progress](https://github.com/erigontech/erigon/pull/23719#pullrequestreview-5313849258) - 2026-09-25
+* [Review] [Review on: gql: build block transactions only when selected, implement maxPriorityFeePerGas](https://github.com/erigontech/erigon/pull/24301#pullrequestreview-5326234359) - 2026-09-26
+* [Commit] [cmd/utils/app: pin export-preimages to the restored root at the execution block (#24326)](https://github.com/erigontech/erigon/commit/7853b9226e37dd50a3f62c84da97d856cbbbbe12) - 2026-09-26
+* [Commit] [cl/beacon/handler: a failed envelope hash on the retry path reports the hash error, not the duplicate claim (#24308)](https://github.com/erigontech/erigon/commit/c21170b51b87442a041382abfb54eb60c10202cb) - 2026-09-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

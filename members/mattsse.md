@@ -1010,6 +1010,27 @@ Team: Reth
 * [Commit] [fix(net): honor tx propagation policy on connect and requests (#27431)](https://github.com/paradigmxyz/reth/commit/a1bf317d15e51d5ea725db01f3427ed60694a846) - 2026-09-25
 * [Commit] [fix(engine): dedupe block range requests (#27426)](https://github.com/paradigmxyz/reth/commit/2833f744022fe0eb6e7223ce0dbfe739ff1af6c7) - 2026-09-25
 * [Commit] [perf: share pending block and receipts (#27427)](https://github.com/paradigmxyz/reth/commit/eb1214b550d6b58bef70e64a5f72a6e23bde5586) - 2026-09-25
+* [Review] [Review on: fix(storage): open legacy BAL databases read-only](https://github.com/paradigmxyz/reth/pull/27471#pullrequestreview-5325832297) - 2026-09-26
+* [Pull Request] [revert: "fix(storage): revert BAL store activation"](https://github.com/paradigmxyz/reth/pull/27472) - 2026-09-26
+* [Review] [Review on: fix(storage): revert BAL store activation](https://github.com/paradigmxyz/reth/pull/27470#pullrequestreview-5325792760) - 2026-09-26
+* [Pull Request] [fix(rpc): hold trace_* tracing permits until the trace completes](https://github.com/paradigmxyz/reth/pull/27469) - 2026-09-26
+* [Pull Request] [fix(rpc): hold debug_* tracing permits until the trace completes](https://github.com/paradigmxyz/reth/pull/27468) - 2026-09-26
+* [Pull Request] [feat(rpc): accept block tags in trace_filter](https://github.com/paradigmxyz/reth/pull/27467) - 2026-09-26
+* [Pull Request] [fix(rpc): hold the eth_simulateV1 tracing permit until the simulation completes](https://github.com/paradigmxyz/reth/pull/27460) - 2026-09-26
+* [Pull Request] [perf(rpc): stop block re-execution and builder validation of dropped requests](https://github.com/paradigmxyz/reth/pull/27463) - 2026-09-26
+* [Pull Request] [refactor(tasks): move CancelOnDrop from reth-revm to reth-tasks](https://github.com/paradigmxyz/reth/pull/27466) - 2026-09-26
+* [Pull Request] [perf(rpc): stop long blocking jobs once their request is dropped](https://github.com/paradigmxyz/reth/pull/27462) - 2026-09-26
+* [Pull Request] [fix(ipc): abort in-flight calls when the connection closes](https://github.com/paradigmxyz/reth/pull/27458) - 2026-09-26
+* [Pull Request] [fix(rpc): acquire tracing permits for otterscan trace methods](https://github.com/paradigmxyz/reth/pull/27465) - 2026-09-26
+* [Pull Request] [fix(rpc): limit concurrent eth_estimateGas and eth_createAccessList calls](https://github.com/paradigmxyz/reth/pull/27464) - 2026-09-26
+* [Pull Request] [fix(examples): stop subscription tasks when the client goes away](https://github.com/paradigmxyz/reth/pull/27461) - 2026-09-26
+* [Pull Request] [fix(ipc): enforce max subscriptions per connection](https://github.com/paradigmxyz/reth/pull/27459) - 2026-09-26
+* [Review] [Review on: fix(rpc): end syncing subscription on close](https://github.com/paradigmxyz/reth/pull/27455#pullrequestreview-5324660927) - 2026-09-26
+* [Commit] [perf(rpc): stop block re-execution and builder validation of dropped requests (#27463)](https://github.com/paradigmxyz/reth/commit/619a1e565f7b94f42dfc7454db6dbd2216301344) - 2026-09-26
+* [Commit] [refactor(tasks): move CancelOnDrop from reth-revm to reth-tasks (#27466)](https://github.com/paradigmxyz/reth/commit/621f663edf4be141150ece866325b18d993b50f7) - 2026-09-26
+* [Commit] [fix(ipc): abort in-flight calls when the connection closes (#27458)](https://github.com/paradigmxyz/reth/commit/c3d46f3d09c14d50f47b14768807c0d0a491e8fe) - 2026-09-26
+* [Commit] [fix(examples): stop subscription tasks when the client goes away (#27461)](https://github.com/paradigmxyz/reth/commit/f57be2b11c39b5544ce12a2c100f27c0314a456d) - 2026-09-26
+* [Commit] [fix(ipc): enforce max subscriptions per connection (#27459)](https://github.com/paradigmxyz/reth/commit/a68f9e19fe423eeb99f267c02ee94229648fb3ec) - 2026-09-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

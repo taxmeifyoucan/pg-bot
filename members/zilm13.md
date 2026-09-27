@@ -182,6 +182,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Report pre-Gloas head_v2 payload status as full (#11332)](https://github.com/Consensys-Incorporated/teku/commit/b1758aed0a563822f69b2520b5eca1a20596981c) - 2026-09-23
 * [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5310369162) - 2026-09-24
 * [Review] [Review on: FC Node invalidation and Node resolution bug fixes](https://github.com/Consensys-Incorporated/teku/pull/11333#pullrequestreview-5306267295) - 2026-09-24
+* [Review] [Review on: Reallow block production retry on failure](https://github.com/Consensys-Incorporated/teku/pull/11346#pullrequestreview-5326083036) - 2026-09-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

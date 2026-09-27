@@ -712,6 +712,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: track p2p served bytes and request count per method](https://github.com/ChainSafe/lodestar/pull/10176#pullrequestreview-5317027097) - 2026-09-25
 * [Commit] [chore: update consensus specs to v1.7.0-beta.2 (#10154)](https://github.com/ChainSafe/lodestar/commit/19171711b60723fb4094fcfb725005153c6be32f) - 2026-09-25
 * [Commit] [fix: update `earliestAvailableSlot` when pruning history (#10177)](https://github.com/ChainSafe/lodestar/commit/c256679454da1b657cc19d07ed228d02e453eb97) - 2026-09-25
+* [Pull Request] [feat: add builder pending payments and withdrawals endpoints](https://github.com/ChainSafe/lodestar/pull/10189) - 2026-09-26
+* [Review] [Review on: feat: add builder pending payments and withdrawals endpoints](https://github.com/ChainSafe/lodestar/pull/10189#pullrequestreview-5326067082) - 2026-09-26
+* [Pull Request] [fix: align fork choice v2 with beacon api spec](https://github.com/ChainSafe/lodestar/pull/10191) - 2026-09-26
+* [Pull Request] [feat: add ptc state endpoint](https://github.com/ChainSafe/lodestar/pull/10190) - 2026-09-26
+* [Review] [Review on: fix: keep earliestAvailableSlot at anchor slot on checkpoint sync](https://github.com/ChainSafe/lodestar/pull/10186#pullrequestreview-5325091598) - 2026-09-26
+* [Review] [Review on: fix: initialize earliestAvailableSlot from retained history on startup](https://github.com/ChainSafe/lodestar/pull/10185#pullrequestreview-5324979752) - 2026-09-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

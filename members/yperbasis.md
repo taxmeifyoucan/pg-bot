@@ -706,6 +706,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5315597988) - 2026-09-25
 * [Review] [Review on: cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845#pullrequestreview-5314984475) - 2026-09-25
 * [Issue] [rpc: bound transaction decoding in trace_rawTransaction](https://github.com/erigontech/erigon/issues/24320) - 2026-09-25
+* [Commit] [execution/engineapi: enforce funding order in CREATE2 BAL test (#24309)](https://github.com/erigontech/erigon/commit/5916d286c287f495351201a5dff60433f64ff35c) - 2026-09-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

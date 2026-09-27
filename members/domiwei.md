@@ -170,6 +170,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl: recover Gloas payload envelopes at chain tip](https://github.com/erigontech/erigon/pull/24279) - 2026-09-24
 * [Pull Request] [cl, execmodule: keep collector forkchoice forward-only](https://github.com/erigontech/erigon/pull/24278) - 2026-09-24
 * [Commit] [cl/beacon: deduplicate PTC duties per slot (#24256)](https://github.com/erigontech/erigon/commit/02ab4e8dfb8db3597f945098db4443c263a72c79) - 2026-09-25
+* [Review] [Review on: lint: enable staticcheck's ST1019, ST1016, ST1012, ST1017, ST1005](https://github.com/erigontech/erigon/pull/24332#pullrequestreview-5325633249) - 2026-09-26
+* [Review] [Review on: cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5325916349) - 2026-09-26
+* [Review] [Review on: cl/antiquary: give a blob backlog the same compression parallelism as EL catch-up](https://github.com/erigontech/erigon/pull/24316#pullrequestreview-5325632310) - 2026-09-26
+* [Review] [Review on: cl/beacon/synced_data: swap head state instead of copying it](https://github.com/erigontech/erigon/pull/23962#pullrequestreview-5325636929) - 2026-09-26
 ## Q2 2026
 
 

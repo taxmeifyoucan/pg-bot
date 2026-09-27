@@ -505,6 +505,33 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: run simulate forced-fail tests without the production RPC timeout](https://github.com/NethermindEth/nethermind/pull/13843#pullrequestreview-5320946411) - 2026-09-25
 * [Commit] [test: run the StorageCleared metric tests in their own non-parallel fixture (#13863)](https://github.com/NethermindEth/nethermind/commit/ed5d0e7727d1ecd6ffd58e359917ca4550ba17bf) - 2026-09-25
 * [Commit] [Complete guarded debug_setHead and debug_resetHead rewinds (#13558)](https://github.com/NethermindEth/nethermind/commit/12b16b9d6ce27ba0c07c6fe6b697fb50c7cc2ff2) - 2026-09-25
+* [Pull Request] [Replace explicit wait handles with managed cancellation and task signaling](https://github.com/NethermindEth/nethermind/pull/13945) - 2026-09-27
+* [Review] [Review on: Replace explicit wait handles with managed cancellation and task signaling](https://github.com/NethermindEth/nethermind/pull/13945#pullrequestreview-5328438940) - 2026-09-27
+* [Pull Request] [test: deflake blockhash allocation assertions](https://github.com/NethermindEth/nethermind/pull/13939) - 2026-09-26
+* [Review] [Review on: test: deflake blockhash allocation assertions](https://github.com/NethermindEth/nethermind/pull/13939#pullrequestreview-5327773511) - 2026-09-26
+* [Review] [Review on: perf(zkevm): dispatch the guest with gas, stack head, table and bytecode in registers](https://github.com/NethermindEth/nethermind/pull/13921#pullrequestreview-5326798475) - 2026-09-26
+* [Review] [Review on: perf(zkevm): guest handlers for the hottest opcodes](https://github.com/NethermindEth/nethermind/pull/13922#pullrequestreview-5326807475) - 2026-09-26
+* [Review] [Review on: fix(txpool): drop confirmed senders from the nonce manager](https://github.com/NethermindEth/nethermind/pull/13875#pullrequestreview-5326596804) - 2026-09-26
+* [Review] [Review on: perf(evm): keep jump-destination analysis out of the zkEVM PUSH2 handler](https://github.com/NethermindEth/nethermind/pull/13868#pullrequestreview-5326729912) - 2026-09-26
+* [Review] [Review on: perf: thread the opcode counter as a native int](https://github.com/NethermindEth/nethermind/pull/13862#pullrequestreview-5326723221) - 2026-09-26
+* [Pull Request] [perf(runner): warm the payload pipeline before RPC opens](https://github.com/NethermindEth/nethermind/pull/13931) - 2026-09-26
+* [Review] [Review on: perf(runner): warm the payload pipeline before RPC opens](https://github.com/NethermindEth/nethermind/pull/13931#pullrequestreview-5327280652) - 2026-09-26
+* [Review] [Review on: test: assert SeqlockCache concurrency hits across workers, not per worker](https://github.com/NethermindEth/nethermind/pull/13927#pullrequestreview-5327613843) - 2026-09-26
+* [Review] [Review on: test: keep the budget test's coordinator on the joining thread](https://github.com/NethermindEth/nethermind/pull/13926#pullrequestreview-5327620318) - 2026-09-26
+* [Review] [Review on: test: keep the pending discovery candidate from flooding the storage cache](https://github.com/NethermindEth/nethermind/pull/13925#pullrequestreview-5327623700) - 2026-09-26
+* [Review] [Review on: perf(evm): exempt the dispatch tail calls from NativeAOT's fat-pointer guard](https://github.com/NethermindEth/nethermind/pull/13866#pullrequestreview-5326836989) - 2026-09-26
+* [Review] [Review on: test: give FileLocalDataSourceTests reload waits room for a starved thread pool](https://github.com/NethermindEth/nethermind/pull/13924#pullrequestreview-5327627513) - 2026-09-26
+* [Review] [Review on: fix(rpc): estimate gas against the requested block with a deterministic search](https://github.com/NethermindEth/nethermind/pull/13899#pullrequestreview-5326687815) - 2026-09-26
+* [Review] [Review on: fix: resolve the session conflict when an incoming session attaches during a dial](https://github.com/NethermindEth/nethermind/pull/13903#pullrequestreview-5326758074) - 2026-09-26
+* [Review] [Review on: perf(zkevm): cheaper SSZ merkleization and list decoding for the stateless guest](https://github.com/NethermindEth/nethermind/pull/13916#pullrequestreview-5326764910) - 2026-09-26
+* [Review] [Review on: perf: keep Rlp beforefieldinit, move constructor throws out of line and bind composite tx validators once](https://github.com/NethermindEth/nethermind/pull/13920#pullrequestreview-5326789022) - 2026-09-26
+* [Review] [Review on: test: prewarm before the BAL hint in BlockCachePreWarmerTests](https://github.com/NethermindEth/nethermind/pull/13902#pullrequestreview-5326752619) - 2026-09-26
+* [Review] [Review on: perf(trace): stop trace_filter once count traces are collected](https://github.com/NethermindEth/nethermind/pull/13890#pullrequestreview-5326607226) - 2026-09-26
+* [Review] [Review on: perf(evm): poll cancellation on taken jumps instead of every opcode](https://github.com/NethermindEth/nethermind/pull/13895#pullrequestreview-5326649496) - 2026-09-26
+* [Commit] [test: deflake blockhash allocation assertions (#13939)](https://github.com/NethermindEth/nethermind/commit/e5de5944e4f9cc6c1e3aaff247acc6d8c994e584) - 2026-09-27
+* [Commit] [perf(runner): warm the payload pipeline before RPC opens (#13931)](https://github.com/NethermindEth/nethermind/commit/ae9ec587ef158f359cc95d27400f1ca0bcaca824) - 2026-09-26
+* [Commit] [ci: skip the scheduled nightly when it would republish the same commit (#13864)](https://github.com/NethermindEth/nethermind/commit/d861a2f07a847783e17e2598b50b4d220203c80e) - 2026-09-26
+* [Commit] [Compute EVM zero-ahead alignment mask directly (#13880)](https://github.com/NethermindEth/nethermind/commit/e7d67e535394333558cee900aadbcbdaedc4c59c) - 2026-09-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

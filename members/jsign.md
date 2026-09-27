@@ -42,6 +42,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [fix(zkevm): ensure evm trace is not polluted by stateless execution check](https://github.com/ethereum/execution-specs/pull/3646) - 2026-09-24
 * [Pull Request] [refactor(zkevm): simplify stateless fixture generation](https://github.com/ethereum/execution-specs/pull/3653) - 2026-09-25
 * [Pull Request] [feat(zkevm): remove pub_keys from StatelessInput](https://github.com/ethereum/execution-specs/pull/3652) - 2026-09-25
+* [Pull Request] [refactor(zkevm): drop address from get_code and key code reads by hash only](https://github.com/ethereum/execution-specs/pull/3656) - 2026-09-27
+* [Pull Request] [refactor(zkevm): trim noise and dead code from the zkevm diff](https://github.com/ethereum/execution-specs/pull/3655) - 2026-09-27
+* [Review] [Review on: refactor(zkevm): trim noise and dead code from the zkevm diff](https://github.com/ethereum/execution-specs/pull/3655#pullrequestreview-5328226236) - 2026-09-27
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12

@@ -283,6 +283,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stop using broken atConsensusFork in favor of atEpoch](https://github.com/status-im/nimbus-eth1/commit/7d50fa5643805e2d565f945c7ba392781fe9aa80) - 2026-09-24
 * [Pull Request] [filter out parsed genesis states from Git LFS across all supported networks](https://github.com/status-im/nimbus-eth1/pull/4845) - 2026-09-25
 * [Commit] [filter out parsed genesis states from Git LFS across all supported networks (#4845)](https://github.com/status-im/nimbus-eth1/commit/823efde80b4ef9d6841ea6a51324fcde8b516abf) - 2026-09-25
+* [Pull Request] [Revert "Revert "eth2: bump""](https://github.com/status-im/nimbus-eth1/pull/4856) - 2026-09-26
+* [Commit] [Revert "Revert "eth2: bump (#4838)" (#4843)" (#4856)](https://github.com/status-im/nimbus-eth1/commit/f91f77abab6d346cb066450b5b604ce91c4ea815) - 2026-09-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

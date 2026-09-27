@@ -169,6 +169,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Implement FCU with attributes retry ](https://github.com/Consensys-Incorporated/teku/pull/11345) - 2026-09-24
 * [Review] [Review on: FC Node invalidation and Node resolution bug fixes](https://github.com/Consensys-Incorporated/teku/pull/11333#pullrequestreview-5301399192) - 2026-09-24
 * [Commit] [FC Node invalidation and Node resolution bug fixes (#11333)](https://github.com/Consensys-Incorporated/teku/commit/78d63956434329be2029660623d2a39d5c13bf81) - 2026-09-24
+* [Commit] [reallow block production retry on failure (#11346)](https://github.com/Consensys-Incorporated/teku/commit/805d9ad161fc90971f86a0646e65cd653cec9a0c) - 2026-09-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

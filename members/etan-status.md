@@ -82,6 +82,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Implement light-client sync verification with EF sync tests](https://github.com/sigp/lighthouse/pull/10024#pullrequestreview-5244026141) - 2026-09-18
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Feat: Lc backfill data type](https://github.com/OffchainLabs/prysm/pull/17521#pullrequestreview-5325945204) - 2026-09-26
 ## Q2 2026
 
 

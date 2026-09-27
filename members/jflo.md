@@ -56,6 +56,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [proposed update to user guidance on security issues](https://github.com/besu-eth/besu/pull/11239) - 2026-09-03
 * [Review] [Review on: Fix CVEs in bouncy castle](https://github.com/besu-eth/besu/pull/11336#pullrequestreview-5268327838) - 2026-09-21
 * [Review] [Review on: Fix CVEs in bouncy castle](https://github.com/besu-eth/besu/pull/11336#pullrequestreview-5294578568) - 2026-09-23
+* [Pull Request] [Reconcile 26.9.0 into main](https://github.com/besu-eth/besu/pull/11378) - 2026-09-26
+* [Pull Request] [Bump plugin API baseline to 26.9.0](https://github.com/besu-eth/besu/pull/11377) - 2026-09-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 

@@ -96,10 +96,12 @@ Team: Reth
 * [Commit] [fix: preserve changelog history during releases (#412)](https://github.com/paradigmxyz/revmc/commit/72fa5bd5981bcb5829364cdcb2d122c819f772ce) - 2026-09-06
 * [Review] [Review on: ci: add aarch64 Linux to test and state-test matrices](https://github.com/paradigmxyz/revmc/pull/414#pullrequestreview-5256077199) - 2026-09-19
 * [Review] [Review on: chore: move account-ext below other features](https://github.com/paradigmxyz/revmc/pull/417#pullrequestreview-5307203591) - 2026-09-24
+* [Review] [Review on: chore(ci): use CodSpeed simulation mode](https://github.com/paradigmxyz/revmc/pull/418#pullrequestreview-5326155311) - 2026-09-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
 * [Pull Request] [perf(bal): reuse cached alloy code hashes](https://github.com/bluealloy/revm/pull/3913) - 2026-09-15
 * [Review] [Review on: refactor(state): use CodeChange accessors](https://github.com/bluealloy/revm/pull/3916#pullrequestreview-5220168723) - 2026-09-16
+* [Review] [Review on: refactor(bytecode): use fixed padding and lazy jump tables](https://github.com/bluealloy/revm/pull/3945#pullrequestreview-5325287326) - 2026-09-26
 ## Q2 2026
 
 
