@@ -672,6 +672,8 @@ Team: Erigon
 * [Review] [Review on: gql: build block transactions only when selected, implement maxPriorityFeePerGas](https://github.com/erigontech/erigon/pull/24301#pullrequestreview-5326234359) - 2026-09-26
 * [Commit] [cmd/utils/app: pin export-preimages to the restored root at the execution block (#24326)](https://github.com/erigontech/erigon/commit/7853b9226e37dd50a3f62c84da97d856cbbbbe12) - 2026-09-26
 * [Commit] [cl/beacon/handler: a failed envelope hash on the retry path reports the hash error, not the duplicate claim (#24308)](https://github.com/erigontech/erigon/commit/c21170b51b87442a041382abfb54eb60c10202cb) - 2026-09-26
+* [Review] [Review on: rpc/jsonrpc: stream trace_get result with the fast JSON writer](https://github.com/erigontech/erigon/pull/24346#pullrequestreview-5329533545) - 2026-09-27
+* [Review] [Review on: tracers/native, cmd/tools/jsongen: stream callTracer result with a generated writer](https://github.com/erigontech/erigon/pull/24347#pullrequestreview-5329530534) - 2026-09-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

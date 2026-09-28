@@ -696,6 +696,29 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test: prewarm before the BAL hint in BlockCachePreWarmerTests (#13902)](https://github.com/NethermindEth/nethermind/commit/896d971c2d17d1f5966f287b35f33dd86701cd55) - 2026-09-26
 * [Commit] [perf(zkevm): compare jump-destination bytes at 64 bits (#13860)](https://github.com/NethermindEth/nethermind/commit/e847f1ac379464af96e910703f35daf96713523a) - 2026-09-26
 * [Commit] [fix(txpool): track EIP-7702 authorities only for tuples valid on this chain (#13869)](https://github.com/NethermindEth/nethermind/commit/fca93966f6954856b818b913bfe5afd30f33aa08) - 2026-09-26
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/13987#pullrequestreview-5332856117) - 2026-09-28
+* [Review] [Review on: perf(evm): share the topic 0 instance across repeated logs](https://github.com/NethermindEth/nethermind/pull/13949#pullrequestreview-5329138971) - 2026-09-27
+* [Review] [Review on: perf(evm): skip re-validating memory ranges already charged for](https://github.com/NethermindEth/nethermind/pull/13950#pullrequestreview-5332853147) - 2026-09-28
+* [Review] [Review on: perf(flat): hash the pooled resource metric label once](https://github.com/NethermindEth/nethermind/pull/13986#pullrequestreview-5332795060) - 2026-09-28
+* [Review] [Review on: fix(txpool): skip used nonces when a reservation catches up to the account nonce](https://github.com/NethermindEth/nethermind/pull/13941#pullrequestreview-5330396377) - 2026-09-27
+* [Review] [Review on: perf(db): compress the code database with LZ4](https://github.com/NethermindEth/nethermind/pull/13907#pullrequestreview-5332741203) - 2026-09-27
+* [Pull Request] [test: derive the Shutter test header bloom from stored receipts on every lookup](https://github.com/NethermindEth/nethermind/pull/13973) - 2026-09-27
+* [Pull Request] [perf(zkevm): trim guest startup work in loggers, hex-prefix paths and system-call hashes](https://github.com/NethermindEth/nethermind/pull/13918) - 2026-09-28
+* [Review] [Review on: perf: faster RLP integer and signature decoding, signing hashes and tx/receipt root leaves](https://github.com/NethermindEth/nethermind/pull/13917#pullrequestreview-5332752754) - 2026-09-28
+* [Pull Request] [fix: keep AssociativeCache reads from missing a key while it is rewritten](https://github.com/NethermindEth/nethermind/pull/13960) - 2026-09-27
+* [Review] [Review on: perf(prewarm): interrupt warm transactions when a pass is cancelled](https://github.com/NethermindEth/nethermind/pull/13980#pullrequestreview-5331579320) - 2026-09-27
+* [Pull Request] [test: time only the disposal in the CompositeNodeSource enumeration test](https://github.com/NethermindEth/nethermind/pull/13955) - 2026-09-27
+* [Review] [Review on: test: time only the disposal in the CompositeNodeSource enumeration test](https://github.com/NethermindEth/nethermind/pull/13955#pullrequestreview-5329344780) - 2026-09-27
+* [Review] [Review on: perf(zkevm): run DIV, MOD, ADDMOD and MULMOD on ZisK's 256-bit arithmetic](https://github.com/NethermindEth/nethermind/pull/13975#pullrequestreview-5331600844) - 2026-09-27
+* [Review] [Review on: perf(zkevm): swap stack words in registers](https://github.com/NethermindEth/nethermind/pull/13977#pullrequestreview-5331588721) - 2026-09-27
+* [Review] [Review on: fix(simulate): drop logs emitted by reverted call frames](https://github.com/NethermindEth/nethermind/pull/13979#pullrequestreview-5331583900) - 2026-09-27
+* [Commit] [fix: resolve the session conflict when an incoming session attaches during a dial (#13903)](https://github.com/NethermindEth/nethermind/commit/5ffc9a1b403ffce204133fc2543422e4400e2c02) - 2026-09-28
+* [Commit] [test: derive the Shutter test header bloom from stored receipts on every lookup (#13973)](https://github.com/NethermindEth/nethermind/commit/1d48dd2573f90b2d3d89cafedbff0864c7c1bd69) - 2026-09-28
+* [Commit] [perf(zkevm): trim guest startup work in loggers, hex-prefix paths and system-call hashes (#13918)](https://github.com/NethermindEth/nethermind/commit/b33b6f7c8f6c0095c216c27be5adc6e63ba34fd5) - 2026-09-28
+* [Commit] [fix: keep AssociativeCache reads from missing a key while it is rewritten (#13960)](https://github.com/NethermindEth/nethermind/commit/7acda36889e51120998b63a0cdd85382619f5337) - 2026-09-27
+* [Commit] [perf(evm): keep jump-destination analysis out of the zkEVM PUSH2 handler (#13868)](https://github.com/NethermindEth/nethermind/commit/aed4dbeaccff341f58c5ab03120ea1ed83fbdc43) - 2026-09-27
+* [Commit] [perf(evm): exempt the dispatch tail calls from NativeAOT's fat-pointer guard (#13866)](https://github.com/NethermindEth/nethermind/commit/5ece5fbab520229a871481d5b87c0d0926b351da) - 2026-09-27
+* [Commit] [perf: thread the opcode counter as a native int (#13862)](https://github.com/NethermindEth/nethermind/commit/8965602af496646e0a36d15f7780173930602476) - 2026-09-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

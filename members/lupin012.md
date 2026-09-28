@@ -289,6 +289,18 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [db/kv/membatchwithdb: keep db dups under a shared key in Range on DupSort tables](https://github.com/erigontech/erigon/pull/24340) - 2026-09-26
 * [Review] [Review on: fix(rpc/jsonrpc): treat explicit null as omitted in trace_call data/input and trace_filter mode](https://github.com/erigontech/erigon/pull/24334#pullrequestreview-5326386988) - 2026-09-26
 * [Pull Request] [rpc/jsonrpc, rpc/ethapi, execution/types: eth_fillTransaction builds the blob sidecar](https://github.com/erigontech/erigon/pull/24335) - 2026-09-26
+* [Review] [Review on: fix(rpc/jsonrpc): default an omitted trace_filter fromBlock to latest](https://github.com/erigontech/erigon/pull/24341#pullrequestreview-5330477050) - 2026-09-27
+* [Pull Request] [rpc/jsonrpc: reject non-canonical block hash in erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/24358) - 2026-09-27
+* [Review] [Review on: fix(rpc/jsonrpc): trace_rawTransaction reads the block's GASLIMIT](https://github.com/erigontech/erigon/pull/24352#pullrequestreview-5330406626) - 2026-09-27
+* [Review] [Review on: fix(rpc/jsonrpc): trace_call and trace_callMany reject a chainId for another chain](https://github.com/erigontech/erigon/pull/24351#pullrequestreview-5330422610) - 2026-09-27
+* [Review] [Review on: ci: skip debug_traceBlockByNumber/test_25 until rpc-tests expects -32602 for pending](https://github.com/erigontech/erigon/pull/24354#pullrequestreview-5330588542) - 2026-09-27
+* [Review] [Review on: fix(rpc/jsonrpc): reject pending in tracing methods with -32602](https://github.com/erigontech/erigon/pull/24345#pullrequestreview-5329914436) - 2026-09-27
+* [Pull Request] [execution/execmodule: drop the module SD after a bulk block-overlay flush](https://github.com/erigontech/erigon/pull/24349) - 2026-09-27
+* [Review] [Review on: rpc: close the websocket connection when a ping gets no pong](https://github.com/erigontech/erigon/pull/24331#pullrequestreview-5329093940) - 2026-09-27
+* [Commit] [rpc: close the websocket connection when a ping gets no pong (#24331)](https://github.com/erigontech/erigon/commit/5f59ece16677bfe0d8f13cc395292b8c55455ebe) - 2026-09-27
+* [Commit] [rpc/jsonrpc: poll the receipt while eth_sendRawTransactionSync waits for it (#24337)](https://github.com/erigontech/erigon/commit/8fe8eaf038270a8ad5c6865a8768b7ba540963f4) - 2026-09-27
+* [Commit] [db/kv/membatchwithdb: keep db dups under a shared key in Range on DupSort tables (#24340)](https://github.com/erigontech/erigon/commit/03c5c499060016578bb362997adc6085834abf75) - 2026-09-27
+* [Commit] [rpc/jsonrpc: graphql reports maxFeePerBlobGas for wrapped blob transactions (#24342)](https://github.com/erigontech/erigon/commit/49f6499df14df8a2ed4db6f29b7ec0b222a692b6) - 2026-09-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -326,6 +338,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add eth_getHeaderByNumber and eth_getHeaderByHash tests (#603)](https://github.com/erigontech/rpc-tests/commit/21034d4d5893533219c053311abcb2bca31ef085) - 2026-09-17
 * [Review] [Review on: test: make trace filter union fixtures explicit](https://github.com/erigontech/rpc-tests/pull/604#pullrequestreview-5296765331) - 2026-09-23
 * [Review] [Review on: test: align SELFDESTRUCT vmTrace fixtures with frame semantics](https://github.com/erigontech/rpc-tests/pull/605#pullrequestreview-5320579109) - 2026-09-25
+* [Pull Request] [test: add trace_filter fixtures for the default intersection mode](https://github.com/erigontech/rpc-tests/pull/607) - 2026-09-27
+* [Pull Request] [trace_call, trace_callMany: update fixtures for eth_call gas pricing](https://github.com/erigontech/rpc-tests/pull/606) - 2026-09-27
+* [Commit] [trace_call, trace_callMany: update fixtures for eth_call gas pricing (#606)](https://github.com/erigontech/rpc-tests/commit/bde1ad95a01543ddc322f7182df5b168ccd96f74) - 2026-09-27
 ## Q2 2026
 
 

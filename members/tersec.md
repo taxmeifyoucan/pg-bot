@@ -213,6 +213,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: remove some debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/9132#pullrequestreview-5323440573) - 2026-09-25
 * [Review] [Review on: feat: speed up syncing for maybe finalized envelopes](https://github.com/status-im/nimbus-eth2/pull/9130#pullrequestreview-5320111178) - 2026-09-25
 * [Pull Request] [avoid duplicate newPayloads](https://github.com/status-im/nimbus-eth2/pull/9126) - 2026-09-25
+* [Pull Request] [fix O(n^2) gloas builder deposit handling; rm tests now covered by reference tests](https://github.com/status-im/nimbus-eth2/pull/9137) - 2026-09-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -285,6 +286,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [filter out parsed genesis states from Git LFS across all supported networks (#4845)](https://github.com/status-im/nimbus-eth1/commit/823efde80b4ef9d6841ea6a51324fcde8b516abf) - 2026-09-25
 * [Pull Request] [Revert "Revert "eth2: bump""](https://github.com/status-im/nimbus-eth1/pull/4856) - 2026-09-26
 * [Commit] [Revert "Revert "eth2: bump (#4838)" (#4843)" (#4856)](https://github.com/status-im/nimbus-eth1/commit/f91f77abab6d346cb066450b5b604ce91c4ea815) - 2026-09-26
+* [Pull Request] [bump eth2](https://github.com/status-im/nimbus-eth1/pull/4860) - 2026-09-28
+* [Commit] [bump eth2 (#4860)](https://github.com/status-im/nimbus-eth1/commit/87486297fdd0a1ade97f7414241b111a4c327f8d) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

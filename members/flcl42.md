@@ -372,6 +372,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Correct EIP-7928 receipt event metadata (#13509)](https://github.com/NethermindEth/nethermind/commit/4e146015b3fd0d4c210cedd7fbba6c9af7ad53ae) - 2026-09-23
 * [Commit] [Preserve account creation results in traced world state (#13574)](https://github.com/NethermindEth/nethermind/commit/c4eff6560e8f772c6d39a43f32dbf6c8a5e412bb) - 2026-09-24
 * [Commit] [Report EIP-7708 finalization logs to tracers (#13567)](https://github.com/NethermindEth/nethermind/commit/759b0ac54137980cfb14a02ef0fb432e9fff252b) - 2026-09-24
+* [Issue] [eth/70 requester pages and buffers unboundedly when the local header is unknown](https://github.com/NethermindEth/nethermind/issues/13983) - 2026-09-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

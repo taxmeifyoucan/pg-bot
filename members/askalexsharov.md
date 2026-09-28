@@ -1876,6 +1876,17 @@ Team: Erigon
 * [Review] [Review on: cmd/utils/app: pin export-preimages to the restored root at the execution block](https://github.com/erigontech/erigon/pull/24326#pullrequestreview-5324423983) - 2026-09-26
 * [Review] [Review on: cl/beacon/handler: a failed envelope hash on the retry path reports the hash error, not the duplicate claim](https://github.com/erigontech/erigon/pull/24308#pullrequestreview-5324422622) - 2026-09-26
 * [Commit] [gql: build block transactions only when selected, implement maxPriorityFeePerGas (#24301)](https://github.com/erigontech/erigon/commit/566787edd8bfa661fb828b6de957d7c3e10d750c) - 2026-09-26
+* [Pull Request] [rpc/jsonrpc: stream trace_get result with the fast JSON writer](https://github.com/erigontech/erigon/pull/24346) - 2026-09-27
+* [Pull Request] [tracers/native, cmd/tools/jsongen: stream callTracer result with a generated writer](https://github.com/erigontech/erigon/pull/24347) - 2026-09-27
+* [Review] [Review on: tracers/native, cmd/tools/jsongen: stream callTracer result with a generated writer](https://github.com/erigontech/erigon/pull/24347#pullrequestreview-5328833087) - 2026-09-27
+* [Review] [Review on: rpc: close the websocket connection when a ping gets no pong](https://github.com/erigontech/erigon/pull/24331#pullrequestreview-5328746090) - 2026-09-27
+* [Review] [Review on: rpc/jsonrpc: graphql reports maxFeePerBlobGas for wrapped blob transactions](https://github.com/erigontech/erigon/pull/24342#pullrequestreview-5328745278) - 2026-09-27
+* [Review] [Review on: db/kv/membatchwithdb: keep db dups under a shared key in Range on DupSort tables](https://github.com/erigontech/erigon/pull/24340#pullrequestreview-5328745693) - 2026-09-27
+* [Review] [Review on: rpc/jsonrpc: poll the receipt while eth_sendRawTransactionSync waits for it](https://github.com/erigontech/erigon/pull/24337#pullrequestreview-5328745908) - 2026-09-27
+* [Pull Request] [rpc, rpc/jsonstream: remove LazyFieldStream](https://github.com/erigontech/erigon/pull/24350) - 2026-09-27
+* [Review] [Review on: cmd/integration: fix invalid state snapshot removal command in README](https://github.com/erigontech/erigon/pull/24339#pullrequestreview-5328756332) - 2026-09-27
+* [Review] [Review on: [r3.7] cl/antiquary: give a blob backlog the same compression parallelism as EL catch-up](https://github.com/erigontech/erigon/pull/24338#pullrequestreview-5328752009) - 2026-09-27
+* [Commit] [rpc/jsonrpc: stream trace_get result with the fast JSON writer (#24346)](https://github.com/erigontech/erigon/commit/3ac4457621fb0306686e42f3479f3c0f55288533) - 2026-09-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
@@ -1890,6 +1901,9 @@ Team: Erigon
 * [Pull Request] [Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71) - 2026-08-24
 * [Review] [Review on: Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71#pullrequestreview-5174248641) - 2026-09-11
 * [Commit] [Bound how many chunks one HashtreeHash call takes (#71)](https://github.com/OffchainLabs/hashtree/commit/fc9afb29e405a3020ba860311aa5662e2a54e061) - 2026-09-15
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: test: expect invalid params for debug_traceBlockByNumber at pending](https://github.com/erigontech/rpc-tests/pull/608#pullrequestreview-5330938919) - 2026-09-27
 ## Q2 2026
 
 

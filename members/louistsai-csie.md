@@ -205,6 +205,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [Issue tracker: upstream the bloatnet fill-stateful branch](https://github.com/ethereum/execution-specs/issues/3649) - 2026-09-25
 * [Commit] [perf(test-fixtures): measure block RLP size without encoding it (#3642)](https://github.com/ethereum/execution-specs/commit/84e7d2c266e3319fc3882e72f379282bb1c40f2d) - 2026-09-25
 * [Commit] [refactor(test-vm, tests): add `create_op` helper and drop `CREATE`/`CREATE2` branches (#3625)](https://github.com/ethereum/execution-specs/commit/57d414402bad4d6f9c57e748f57f90eba7ae8111) - 2026-09-25
+* [Review] [Review on: feat(tests): cover a null EIP-8070 custodyColumns and repin to the current EIP blob](https://github.com/ethereum/execution-specs/pull/3622#pullrequestreview-5333352489) - 2026-09-28
+* [Review] [Review on: feat(test-benchmark): add gas-mutated point-evaluation benchmark](https://github.com/ethereum/execution-specs/pull/3660#pullrequestreview-5333142457) - 2026-09-28
 ## Q2 2026
 
 

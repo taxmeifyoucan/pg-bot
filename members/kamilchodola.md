@@ -246,6 +246,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(diag): make the cross-block state cache observable (#12958)](https://github.com/NethermindEth/nethermind/commit/010a0ec3b17775f9ba7ce439c53d8ab5d73e733e) - 2026-09-25
 * [Commit] [ci(rpc-bench): serve per-client snapshot sets on the arm64 runner (#13300)](https://github.com/NethermindEth/nethermind/commit/c586eeac8d9275e5896b1ac5d8e56421d92b3bcf) - 2026-09-25
 * [Commit] [perf(core): pack ValueHash256 and Signature's vector storage to 8-byte alignment (#13837)](https://github.com/NethermindEth/nethermind/commit/9b7c61b618c06a04d2b9ae189c585d829db028bd) - 2026-09-25
+* [Pull Request] [perf(zkevm): take the lean Keccak-256 sponge for every 256-bit ComputeHash in the guest](https://github.com/NethermindEth/nethermind/pull/13985) - 2026-09-27
+* [Pull Request] [perf(zkevm): reverse bytes with Zbb's rev8 in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/13984) - 2026-09-27
+* [Review] [Review on: perf(zkevm): reverse bytes with Zbb's rev8 in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/13984#pullrequestreview-5332560409) - 2026-09-27
+* [Pull Request] [perf(zkevm): run DIV, MOD, ADDMOD and MULMOD on ZisK's 256-bit arithmetic](https://github.com/NethermindEth/nethermind/pull/13975) - 2026-09-27
+* [Review] [Review on: perf(zkevm): run DIV, MOD, ADDMOD and MULMOD on ZisK's 256-bit arithmetic](https://github.com/NethermindEth/nethermind/pull/13975#pullrequestreview-5331827810) - 2026-09-27
+* [Pull Request] [perf(zkevm): resolve the jump-destination bitmap when the stack is built, as the host does](https://github.com/NethermindEth/nethermind/pull/13976) - 2026-09-27
+* [Pull Request] [perf(zkevm): swap stack words in registers](https://github.com/NethermindEth/nethermind/pull/13977) - 2026-09-27
+* [Review] [Review on: perf(zkevm): swap stack words in registers](https://github.com/NethermindEth/nethermind/pull/13977#pullrequestreview-5331801810) - 2026-09-27
+* [Commit] [Clear sparse access journals by removing recorded entries (#13798)](https://github.com/NethermindEth/nethermind/commit/d4c8a1ee0464a6fd13773eafa70ee79da557e02a) - 2026-09-28
+* [Commit] [perf: remove small recurring allocations in metrics, scopes, trie and EVM (#13841)](https://github.com/NethermindEth/nethermind/commit/f43981f75428fd975d3e9d5c6aacb9a169b9ed1a) - 2026-09-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 
@@ -262,6 +272,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: bug(test-benchmark): give every stateful benchmark the same startup blocks](https://github.com/ethereum/execution-specs/pull/3596#pullrequestreview-5220098126) - 2026-09-16
+
+[nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
+* [Pull Request] [fixup/11/upstream: compile zkVM P/Invokes without GC transition frames](https://github.com/NethermindEth/dotnet-riscv/pull/13) - 2026-09-27
+* [Pull Request] [fixup/11/upstream: skip the fat pointer check at static calli sites no fat pointer can reach](https://github.com/NethermindEth/dotnet-riscv/pull/12) - 2026-09-27
 ## Q2 2026
 
 

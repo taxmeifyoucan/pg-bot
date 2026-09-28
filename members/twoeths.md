@@ -306,6 +306,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: track p2p served bytes and request count per method](https://github.com/ChainSafe/lodestar/pull/10176) - 2026-09-25
 * [Commit] [chore: track p2p served bytes and request count per method (#10176)](https://github.com/ChainSafe/lodestar/commit/535f5dd45f9b27346554804cf5f45ccd94d3a390) - 2026-09-25
 * [Review] [Review on: fix: initialize earliestAvailableSlot from retained history on startup](https://github.com/ChainSafe/lodestar/pull/10185#pullrequestreview-5324819172) - 2026-09-26
+* [Pull Request] [chore: track engine api request/reponse bytes](https://github.com/ChainSafe/lodestar/pull/10195) - 2026-09-28
+* [Pull Request] [chore: track incoming request served bytes on Grafana](https://github.com/ChainSafe/lodestar/pull/10196) - 2026-09-28
+* [Issue] [Performance regression enabling dedupePayloads flag](https://github.com/ChainSafe/lodestar/issues/10193) - 2026-09-28
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

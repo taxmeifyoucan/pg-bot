@@ -1031,6 +1031,7 @@ Team: Reth
 * [Commit] [fix(ipc): abort in-flight calls when the connection closes (#27458)](https://github.com/paradigmxyz/reth/commit/c3d46f3d09c14d50f47b14768807c0d0a491e8fe) - 2026-09-26
 * [Commit] [fix(examples): stop subscription tasks when the client goes away (#27461)](https://github.com/paradigmxyz/reth/commit/f57be2b11c39b5544ce12a2c100f27c0314a456d) - 2026-09-26
 * [Commit] [fix(ipc): enforce max subscriptions per connection (#27459)](https://github.com/paradigmxyz/reth/commit/a68f9e19fe423eeb99f267c02ee94229648fb3ec) - 2026-09-26
+* [Review] [Review on: fix(rpc): log gas-cap clamping at debug without the request](https://github.com/paradigmxyz/reth/pull/27477#pullrequestreview-5329811276) - 2026-09-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -1061,6 +1062,7 @@ Team: Reth
 * [Pull Request] [fix(deps): update rustls to resolve RUSTSEC-2026-0285](https://github.com/bluealloy/revm/pull/3917) - 2026-09-16
 * [Commit] [refactor(state): use CodeChange accessors (#3916)](https://github.com/bluealloy/revm/commit/32b2c31d8abc6c6180f95fb5e09124537f8dcf7f) - 2026-09-16
 * [Commit] [fix(deps): update rustls to resolve RUSTSEC-2026-0285 (#3917)](https://github.com/bluealloy/revm/commit/1937b2e3571d3cc8bc3b3081492bd9be8fd9dc73) - 2026-09-16
+* [Pull Request] [feat: expose BAL account lookup completeness](https://github.com/bluealloy/revm/pull/3948) - 2026-09-27
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26

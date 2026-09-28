@@ -28,6 +28,7 @@ Team: Erigon
 * [Review] [Review on: integration: ignore the tracer error field on debug_traceBlockByNumber latest tests](https://github.com/erigontech/rpc-tests/pull/598#pullrequestreview-5177470965) - 2026-09-11
 * [Review] [Review on: add Go unit tests across all packages and fix three defects they surfaced](https://github.com/erigontech/rpc-tests/pull/601#pullrequestreview-5177468665) - 2026-09-11
 * [Review] [Review on: add eth_getHeaderByNumber and eth_getHeaderByHash tests](https://github.com/erigontech/rpc-tests/pull/603#pullrequestreview-5233631444) - 2026-09-17
+* [Review] [Review on: trace_call, trace_callMany: update fixtures for eth_call gas pricing](https://github.com/erigontech/rpc-tests/pull/606#pullrequestreview-5329491914) - 2026-09-27
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06

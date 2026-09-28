@@ -532,6 +532,31 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(runner): warm the payload pipeline before RPC opens (#13931)](https://github.com/NethermindEth/nethermind/commit/ae9ec587ef158f359cc95d27400f1ca0bcaca824) - 2026-09-26
 * [Commit] [ci: skip the scheduled nightly when it would republish the same commit (#13864)](https://github.com/NethermindEth/nethermind/commit/d861a2f07a847783e17e2598b50b4d220203c80e) - 2026-09-26
 * [Commit] [Compute EVM zero-ahead alignment mask directly (#13880)](https://github.com/NethermindEth/nethermind/commit/e7d67e535394333558cee900aadbcbdaedc4c59c) - 2026-09-26
+* [Pull Request] [perf: keep the joining thread working during receipt-root calculation](https://github.com/NethermindEth/nethermind/pull/13988) - 2026-09-28
+* [Review] [Review on: perf: keep the joining thread working during receipt-root calculation](https://github.com/NethermindEth/nethermind/pull/13988#pullrequestreview-5333508910) - 2026-09-28
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/13987#pullrequestreview-5332974260) - 2026-09-28
+* [Review] [Review on: fix(txpool): rederive the reserved nonce after a pending tx leaves the pool](https://github.com/NethermindEth/nethermind/pull/13970#pullrequestreview-5330776572) - 2026-09-27
+* [Review] [Review on: perf(evm): share the topic 0 instance across repeated logs](https://github.com/NethermindEth/nethermind/pull/13949#pullrequestreview-5330737709) - 2026-09-27
+* [Review] [Review on: perf(evm): skip re-validating memory ranges already charged for](https://github.com/NethermindEth/nethermind/pull/13950#pullrequestreview-5330754236) - 2026-09-27
+* [Pull Request] [perf(flat): hash the pooled resource metric label once](https://github.com/NethermindEth/nethermind/pull/13986) - 2026-09-28
+* [Review] [Review on: perf(flat): hash the pooled resource metric label once](https://github.com/NethermindEth/nethermind/pull/13986#pullrequestreview-5332773568) - 2026-09-28
+* [Review] [Review on: fix(txpool): skip used nonces when a reservation catches up to the account nonce](https://github.com/NethermindEth/nethermind/pull/13941#pullrequestreview-5330682450) - 2026-09-27
+* [Review] [Review on: perf(db): compress the code database with LZ4](https://github.com/NethermindEth/nethermind/pull/13907#pullrequestreview-5330923418) - 2026-09-27
+* [Review] [Review on: test: derive the Shutter test header bloom from stored receipts on every lookup](https://github.com/NethermindEth/nethermind/pull/13973#pullrequestreview-5330560249) - 2026-09-27
+* [Pull Request] [perf(flat): stop waiting on queued trie warmups at scope dispose](https://github.com/NethermindEth/nethermind/pull/13982) - 2026-09-27
+* [Review] [Review on: perf(flat): stop waiting on queued trie warmups at scope dispose](https://github.com/NethermindEth/nethermind/pull/13982#pullrequestreview-5332429928) - 2026-09-27
+* [Review] [Review on: fix: keep AssociativeCache reads from missing a key while it is rewritten](https://github.com/NethermindEth/nethermind/pull/13960#pullrequestreview-5330372756) - 2026-09-27
+* [Review] [Review on: perf(evm): skip per-tx opcode table and implicit-stop lookups](https://github.com/NethermindEth/nethermind/pull/13947#pullrequestreview-5330717115) - 2026-09-27
+* [Pull Request] [perf(prewarm): interrupt warm transactions when a pass is cancelled](https://github.com/NethermindEth/nethermind/pull/13980) - 2026-09-27
+* [Review] [Review on: perf(prewarm): interrupt warm transactions when a pass is cancelled](https://github.com/NethermindEth/nethermind/pull/13980#pullrequestreview-5331446513) - 2026-09-27
+* [Review] [Review on: perf(evm): keep jump-destination analysis out of the zkEVM PUSH2 handler](https://github.com/NethermindEth/nethermind/pull/13868#pullrequestreview-5330638077) - 2026-09-27
+* [Commit] [perf(flat): hash the pooled resource metric label once (#13986)](https://github.com/NethermindEth/nethermind/commit/f459375538ab98fb71d679aeec53056378f79f5d) - 2026-09-28
+* [Commit] [perf(flat): stop waiting on queued trie warmups at scope dispose (#13982)](https://github.com/NethermindEth/nethermind/commit/216831716a1426854257128eb3ae3023a2555c67) - 2026-09-27
+* [Commit] [perf(prewarm): interrupt warm transactions when a pass is cancelled (#13980)](https://github.com/NethermindEth/nethermind/commit/65260fda3fbb53168f3ee382dde96df9a5259bf7) - 2026-09-27
+* [Commit] [perf: apply and persist forkchoice state once per forkchoiceUpdated (#13951)](https://github.com/NethermindEth/nethermind/commit/170d8979d96de6276795356e710a8b96d0460f75) - 2026-09-27
+* [Commit] [Cache RocksDB read settings at database open (#13946)](https://github.com/NethermindEth/nethermind/commit/3996074334f9bf548b4f3aef1b2cfe463887bf5d) - 2026-09-27
+* [Commit] [Check header cache before resolving block numbers (#13952)](https://github.com/NethermindEth/nethermind/commit/a0e31741c26b02d19a4a33791a20d056e7fc24f0) - 2026-09-27
+* [Commit] [Replace explicit wait handles with managed cancellation and task signaling (#13945)](https://github.com/NethermindEth/nethermind/commit/971d87d767e3468887a4436de663a2c6f8fbbebc) - 2026-09-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

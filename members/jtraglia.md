@@ -359,6 +359,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680#pullrequestreview-5319151429) - 2026-09-25
 * [Review] [Review on: Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681#pullrequestreview-5319239912) - 2026-09-25
 * [Commit] [Rename configuration to configs (#5682)](https://github.com/ethereum/consensus-specs/commit/caa9c8e804efb6ab43cddc7d536e1172f5e1ed87) - 2026-09-25
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5692#pullrequestreview-5333176594) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

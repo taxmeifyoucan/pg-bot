@@ -97,6 +97,7 @@ Team: Reth
 * [Review] [Review on: ci: add aarch64 Linux to test and state-test matrices](https://github.com/paradigmxyz/revmc/pull/414#pullrequestreview-5256077199) - 2026-09-19
 * [Review] [Review on: chore: move account-ext below other features](https://github.com/paradigmxyz/revmc/pull/417#pullrequestreview-5307203591) - 2026-09-24
 * [Review] [Review on: chore(ci): use CodSpeed simulation mode](https://github.com/paradigmxyz/revmc/pull/418#pullrequestreview-5326155311) - 2026-09-26
+* [Review] [Review on: chore(deps): bump quanta to 0.13](https://github.com/paradigmxyz/revmc/pull/419#pullrequestreview-5331027464) - 2026-09-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
 * [Pull Request] [perf(bal): reuse cached alloy code hashes](https://github.com/bluealloy/revm/pull/3913) - 2026-09-15

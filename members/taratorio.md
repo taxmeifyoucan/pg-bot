@@ -400,6 +400,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/p2p: bal downloader cancel and do not wait for pending peer requests once batch is downloaded (#24275)](https://github.com/erigontech/erigon/commit/df81a5d23b1de04f1bedd91f235905b92488aa04) - 2026-09-24
 * [Review] [Review on: execution/engineapi: reject engine_getBlobsV1 post-osaka](https://github.com/erigontech/erigon/pull/21857#pullrequestreview-5313204250) - 2026-09-25
 * [Review] [Review on: execution/engineapi: enforce funding order in CREATE2 BAL test](https://github.com/erigontech/erigon/pull/24309#pullrequestreview-5328556269) - 2026-09-27
+* [Issue] [Glamsterdam: long SharedDomains commits prevent Erigon from keeping up with chain head](https://github.com/erigontech/erigon/issues/24348) - 2026-09-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

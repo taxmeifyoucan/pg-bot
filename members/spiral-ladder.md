@@ -290,6 +290,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bindings): make native STF setup and memory ownership safe](https://github.com/ChainSafe/lodestar-z/pull/648#pullrequestreview-5301656987) - 2026-09-24
 * [Review] [Review on: perf: overlap Fulu shuffling with epoch processing](https://github.com/ChainSafe/lodestar-z/pull/727#pullrequestreview-5302421189) - 2026-09-24
 * [Review] [Review on: feat: add typed stf diagnostics](https://github.com/ChainSafe/lodestar-z/pull/694#pullrequestreview-5302744742) - 2026-09-24
+* [Review] [Review on: refactor(stf): make allocator ownership explicit](https://github.com/ChainSafe/lodestar-z/pull/722#pullrequestreview-5333494418) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

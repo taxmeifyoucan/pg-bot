@@ -170,6 +170,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [portal/docker: migrate images from Debian bullseye to trixie (#4847)](https://github.com/status-im/nimbus-eth1/commit/34f5f7389b000953494275478649132d39f01d8e) - 2026-09-25
 * [Pull Request] [stateless: remove public keys from StatelessInput](https://github.com/status-im/nimbus-eth1/pull/4859) - 2026-09-26
 * [Pull Request] [Update eest test and test-zkevm fixtures to v21.0.0](https://github.com/status-im/nimbus-eth1/pull/4858) - 2026-09-26
+* [Commit] [Update eest test and test-zkevm fixtures to v21.0.0 (#4858)](https://github.com/status-im/nimbus-eth1/commit/4504661d00d279c87f1825fce783cd9795d670d2) - 2026-09-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

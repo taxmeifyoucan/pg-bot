@@ -189,6 +189,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Rename VALID_VALIDATOR_SET_SIZE to VALID_VALIDATOR_INDEX_SET_SIZE (#11340)](https://github.com/Consensys-Incorporated/teku/commit/49f98ff05d033f3e31dcbfe61f9344fc6e31d322) - 2026-09-24
 * [Commit] [Return 202 when setting graffiti via keymanager API (#11338)](https://github.com/Consensys-Incorporated/teku/commit/fc718d4b6ee6ec8440830bcef60bbd70377763b8) - 2026-09-24
 * [Review] [Review on: Make `LightClientUpdate` persistant in the database](https://github.com/Consensys-Incorporated/teku/pull/11337#pullrequestreview-5312844184) - 2026-09-25
+* [Pull Request] [Log dropped gossip queue parts at debug level](https://github.com/Consensys-Incorporated/teku/pull/11349) - 2026-09-28
+* [Pull Request] [Update CHANGELOG after 26.9.1 release](https://github.com/Consensys-Incorporated/teku/pull/11348) - 2026-09-28
+* [Commit] [Don't gossip valid attestations already seen for same participant and target epoch (#11307)](https://github.com/Consensys-Incorporated/teku/commit/83395786d303fd1698dfa0ae835562a575249149) - 2026-09-28
+* [Commit] [Update CHANGELOG after 26.9.1 release (#11348)](https://github.com/Consensys-Incorporated/teku/commit/33868e4bd6694b4a2e266a32d337a6d0f1658463) - 2026-09-28
 ## Q2 2026
 
 

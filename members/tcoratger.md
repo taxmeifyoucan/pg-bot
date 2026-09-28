@@ -639,6 +639,13 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [perf(field): fold W into the broadcast operand of a packed extension product](https://github.com/Plonky3/Plonky3/pull/2338) - 2026-09-26
 * [Review] [Review on: feat(blake2s): add BLAKE2s with a batched many-message path](https://github.com/Plonky3/Plonky3/pull/2336#pullrequestreview-5327618009) - 2026-09-26
 * [Review] [Review on: perf(multi-stark): hash the node set of the successor-column walk](https://github.com/Plonky3/Plonky3/pull/2337#pullrequestreview-5327431027) - 2026-09-26
+* [Pull Request] [perf(blake3): batch every message shape through a lane-parallel kernel](https://github.com/Plonky3/Plonky3/pull/2345) - 2026-09-27
+* [Pull Request] [perf(binary-dft)!: vectorize the Poly64 butterfly, share the first pass across cosets, and reorganize the crate](https://github.com/Plonky3/Plonky3/pull/2344) - 2026-09-27
+* [Review] [Review on: perf(binary-pcs,multi-stark,sumcheck)!: open at the zerocheck's values and skip redundant prove passes](https://github.com/Plonky3/Plonky3/pull/2340#pullrequestreview-5330427882) - 2026-09-27
+* [Review] [Review on: perf(multi-stark)!: evaluate Boolean stages' zerocheck tensor on 0, 1 and infinity](https://github.com/Plonky3/Plonky3/pull/2343#pullrequestreview-5330423944) - 2026-09-27
+* [Review] [Review on: perf(binary-pcs,binary-dft,sumcheck): commit Boolean traces without intermediate copies](https://github.com/Plonky3/Plonky3/pull/2339#pullrequestreview-5330419291) - 2026-09-27
+* [Review] [Review on: perf(multi-stark): one-plane Boolean stages, a GFNI constraint kernel and plane-served boundary rounds in the sliced zerocheck](https://github.com/Plonky3/Plonky3/pull/2342#pullrequestreview-5330433059) - 2026-09-27
+* [Review] [Review on: perf(binary-field)!: AArch64 GHASH kernels with prepared multipliers, NEON adds and two-lane packing](https://github.com/Plonky3/Plonky3/pull/2341#pullrequestreview-5330423007) - 2026-09-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

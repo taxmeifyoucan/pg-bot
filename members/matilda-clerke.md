@@ -62,6 +62,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Include payload status in head weight and root check for fork choice compliance tests](https://github.com/Consensys-Incorporated/teku/pull/11295) - 2026-09-18
 * [Review] [Review on: Implement head v2 events for validator clients](https://github.com/Consensys-Incorporated/teku/pull/11130#pullrequestreview-5286101266) - 2026-09-23
 * [Review] [Review on: Implement head v2 events for validator clients](https://github.com/Consensys-Incorporated/teku/pull/11130#pullrequestreview-5287237790) - 2026-09-23
+* [Review] [Review on: Update CHANGELOG after 26.9.1 release](https://github.com/Consensys-Incorporated/teku/pull/11348#pullrequestreview-5332983439) - 2026-09-28
+* [Issue] [Investigate and address failing fork choice compliance tests](https://github.com/Consensys-Incorporated/teku/issues/11347) - 2026-09-28
 ## Q2 2026
 
 

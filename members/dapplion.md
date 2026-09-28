@@ -72,6 +72,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Introduce ParentPayloadStatus for the parent payload edge](https://github.com/sigp/lighthouse/pull/10121) - 2026-09-24
 * [Pull Request] [Remove perfidious fn ExecutionStatus::block_hash](https://github.com/sigp/lighthouse/pull/10126) - 2026-09-25
 * [Review] [Review on: Introduce ParentPayloadStatus for the parent payload edge](https://github.com/sigp/lighthouse/pull/10121#pullrequestreview-5320583993) - 2026-09-25
+* [Pull Request] [Name invalidated payloads by execution block hash, not by block root](https://github.com/sigp/lighthouse/pull/10130) - 2026-09-27
+* [Pull Request] [Mark the forkchoiceUpdated head hash valid, not the head block](https://github.com/sigp/lighthouse/pull/10131) - 2026-09-27
+* [Pull Request] [Remove ExecutionStatus predicates with no production callers](https://github.com/sigp/lighthouse/pull/10129) - 2026-09-27
+* [Pull Request] [Remove ExecutionStatus predicates with no production callers](https://github.com/sigp/lighthouse/pull/10132) - 2026-09-27
+* [Pull Request] [Replay votes through compute_deltas when resetting to optimistic](https://github.com/sigp/lighthouse/pull/10133) - 2026-09-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 

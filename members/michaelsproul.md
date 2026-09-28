@@ -136,6 +136,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5299203437) - 2026-09-24
 * [Issue] [Test case: invalid finalized payload](https://github.com/sigp/lighthouse/issues/10118) - 2026-09-24
 * [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5316328367) - 2026-09-25
+* [Review] [Review on: Name invalidated payloads by execution block hash, not by block root](https://github.com/sigp/lighthouse/pull/10130#pullrequestreview-5332879934) - 2026-09-28
+* [Review] [Review on: Mark the forkchoiceUpdated head hash valid, not the head block](https://github.com/sigp/lighthouse/pull/10131#pullrequestreview-5332884753) - 2026-09-28
+* [Review] [Review on: Remove ExecutionStatus predicates with no production callers](https://github.com/sigp/lighthouse/pull/10129#pullrequestreview-5332519222) - 2026-09-27
+* [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5332525150) - 2026-09-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

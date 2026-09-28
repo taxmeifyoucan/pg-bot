@@ -151,6 +151,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(state): invalidate only the wiped contract in the pre-block storage cache](https://github.com/NethermindEth/nethermind/pull/13850#pullrequestreview-5320629559) - 2026-09-25
 * [Issue] [Full sync through pruned history collapses to ~1 body per request (peer earliestBlock ignored, empty answers shrink the request sizer)](https://github.com/NethermindEth/nethermind/issues/13849) - 2026-09-25
 * [Issue] [Pre-block storage cache: one contract's storage wipe drops the whole cache and logs Info on every such block during historical replay](https://github.com/NethermindEth/nethermind/issues/13848) - 2026-09-25
+* [Review] [Review on: perf(flat): stop waiting on queued trie warmups at scope dispose](https://github.com/NethermindEth/nethermind/pull/13982#pullrequestreview-5332721343) - 2026-09-27
+* [Pull Request] [fix(simulate): drop logs emitted by reverted call frames](https://github.com/NethermindEth/nethermind/pull/13979) - 2026-09-27
+* [Pull Request] [feat(mcp): add opt-in read-only MCP server plugin](https://github.com/NethermindEth/nethermind/pull/13978) - 2026-09-27
+* [Commit] [fix(state): invalidate only the wiped contract in the pre-block storage cache (#13850)](https://github.com/NethermindEth/nethermind/commit/31951fd8a2c498fae16439c8da703df1f6ca61cd) - 2026-09-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 * [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291874529) - 2026-09-23

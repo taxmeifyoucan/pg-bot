@@ -307,6 +307,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [state: Process the top-level message in a dedicated function (#1736)](https://github.com/ipsilon/evmone/commit/d9e925a192ddcf5354cbb35d577d10775c1d86e3) - 2026-09-24
 * [Commit] [ci: Benchmark the execution spec tests on CodSpeed (#1730)](https://github.com/ipsilon/evmone/commit/1671d6d86d5e870ae7a4f86e0df47a91b70f226a) - 2026-09-24
 * [Commit] [AGENTS: Keep only the evmone-specific guidance (#1737)](https://github.com/ipsilon/evmone/commit/6cb06807b09c6250a8de86f7af7a8685399b1f14) - 2026-09-24
+* [Pull Request] [test: Express the capped refund expectations as fractions of the gas](https://github.com/ipsilon/evmone/pull/1742) - 2026-09-27
+* [Pull Request] [state: Charge the recipient creation before resolving the delegation](https://github.com/ipsilon/evmone/pull/1740) - 2026-09-27
+* [Pull Request] [state: Pass the transaction to process_authorization_list()](https://github.com/ipsilon/evmone/pull/1741) - 2026-09-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -392,6 +395,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(test-benchmark): add TSTORE key-distribution benchmark](https://github.com/ethereum/execution-specs/pull/3637) - 2026-09-23
 * [Commit] [feat(test-benchmark): add TSTORE key-distribution benchmark (#3637)](https://github.com/ethereum/execution-specs/commit/f1d9a04433e800857007f01130bac779d61e3414) - 2026-09-25
 * [Commit] [feat(test-benchmark): pre-fund CREATE targets and add randomized jumpdest analysis (#3631)](https://github.com/ethereum/execution-specs/commit/f541fc1f76e8109ba419da243da9a8abdecb099b) - 2026-09-25
+* [Pull Request] [feat(test-benchmark): add gas-mutated point-evaluation benchmark](https://github.com/ethereum/execution-specs/pull/3660) - 2026-09-27
+* [Commit] [feat(test-benchmark): add gas-mutated point-evaluation benchmark (#3660)](https://github.com/ethereum/execution-specs/commit/86f1982e5e273e03f9f1c60b588e3b57d6df18e5) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

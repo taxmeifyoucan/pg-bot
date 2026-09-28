@@ -494,6 +494,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: feat: EIP-8131 unified transaction content floor](https://github.com/NethermindEth/nethermind/pull/13929#pullrequestreview-5327332907) - 2026-09-26
 * [Pull Request] [feat: EIP-3298 remove storage-clear refund and refund cap](https://github.com/NethermindEth/nethermind/pull/13928) - 2026-09-26
 * [Review] [Review on: feat: EIP-3298 remove storage-clear refund and refund cap](https://github.com/NethermindEth/nethermind/pull/13928#pullrequestreview-5327152618) - 2026-09-26
+* [Pull Request] [perf(db): compress the code database with LZ4](https://github.com/NethermindEth/nethermind/pull/13907) - 2026-09-28
+* [Commit] [perf(db): compress the code database with LZ4 (#13907)](https://github.com/NethermindEth/nethermind/commit/04c5bb1dac8e689cc7f57145b8d1e35c8f9e3971) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

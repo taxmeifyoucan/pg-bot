@@ -45,6 +45,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [refactor(zkevm): drop address from get_code and key code reads by hash only](https://github.com/ethereum/execution-specs/pull/3656) - 2026-09-27
 * [Pull Request] [refactor(zkevm): trim noise and dead code from the zkevm diff](https://github.com/ethereum/execution-specs/pull/3655) - 2026-09-27
 * [Review] [Review on: refactor(zkevm): trim noise and dead code from the zkevm diff](https://github.com/ethereum/execution-specs/pull/3655#pullrequestreview-5328226236) - 2026-09-27
+* [Pull Request] [test(zkevm): tighten SSZ decode checks and dedupe tests](https://github.com/ethereum/execution-specs/pull/3662) - 2026-09-27
+* [Pull Request] [refactor(zkevm): build stateless input from the final fixture block](https://github.com/ethereum/execution-specs/pull/3661) - 2026-09-27
+* [Pull Request] [refactor(zkevm): dedupe MPT walk and storage writes in witness code](https://github.com/ethereum/execution-specs/pull/3659) - 2026-09-27
+* [Pull Request] [refactor(zkevm): simplify encode and decode execution requests](https://github.com/ethereum/execution-specs/pull/3658) - 2026-09-27
+* [Pull Request] [refactor(zkevm): always include the parent header in the execution witness](https://github.com/ethereum/execution-specs/pull/3657) - 2026-09-27
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
