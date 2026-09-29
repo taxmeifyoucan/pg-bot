@@ -81,6 +81,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: call a source file a file, not a module](https://github.com/ChainSafe/lodestar-z/pull/719#pullrequestreview-5276283467) - 2026-09-22
 * [Review] [Review on: fix(stf): self-heal progressive balance drift](https://github.com/ChainSafe/lodestar-z/pull/726#pullrequestreview-5291412150) - 2026-09-23
 * [Review] [Review on: refactor(epoch-cache): make effectiveBalanceIncrementsSet append instead](https://github.com/ChainSafe/lodestar-z/pull/721#pullrequestreview-5290132111) - 2026-09-23
+* [Review] [Review on: refactor(stf): use fixed tail for new validator flags](https://github.com/ChainSafe/lodestar-z/pull/733#pullrequestreview-5339836768) - 2026-09-28
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -152,6 +153,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: builder nightly smoke test](https://github.com/ChainSafe/lodestar/pull/10150#pullrequestreview-5302813921) - 2026-09-24
 * [Review] [Review on: feat(builder): assemble execution payload bids](https://github.com/ChainSafe/lodestar/pull/9978#pullrequestreview-5303387966) - 2026-09-24
 * [Commit] [feat: use zig backed lodestar-z shuffle (#9829)](https://github.com/ChainSafe/lodestar/commit/7febf954879fde5e5fa195ce7480865fffa7a558) - 2026-09-24
+* [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5340538706) - 2026-09-28
+* [Review] [Review on: feat(builder): assemble execution payload bids](https://github.com/ChainSafe/lodestar/pull/9978#pullrequestreview-5340257560) - 2026-09-28
+* [Review] [Review on: fix: align voluntary exit pruning with inclusion rules](https://github.com/ChainSafe/lodestar/pull/9214#pullrequestreview-5340961899) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

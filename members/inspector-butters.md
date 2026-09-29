@@ -94,6 +94,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: ExecutionBlockHashProof for lightclient](https://github.com/OffchainLabs/prysm/pull/17506#pullrequestreview-5304578213) - 2026-09-24
 * [Pull Request] [hdiff snapshot cache read](https://github.com/OffchainLabs/prysm/pull/17561) - 2026-09-25
 * [Commit] [hdiff snapshot cache read (#17561)](https://github.com/OffchainLabs/prysm/commit/b141a2203626f8fe12e92bf3d41fb7518bd1f3d1) - 2026-09-25
+* [Pull Request] [make state diff anchors cache slot aware](https://github.com/OffchainLabs/prysm/pull/17573) - 2026-09-28
+* [Commit] [ExecutionBlockHashProof for lightclient (#17506)](https://github.com/OffchainLabs/prysm/commit/5f4d822f35f252a562afde4562b20bb74d9f5b8a) - 2026-09-28
 ## Q2 2026
 
 

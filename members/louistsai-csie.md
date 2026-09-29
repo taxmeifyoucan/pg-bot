@@ -207,6 +207,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [refactor(test-vm, tests): add `create_op` helper and drop `CREATE`/`CREATE2` branches (#3625)](https://github.com/ethereum/execution-specs/commit/57d414402bad4d6f9c57e748f57f90eba7ae8111) - 2026-09-25
 * [Review] [Review on: feat(tests): cover a null EIP-8070 custodyColumns and repin to the current EIP blob](https://github.com/ethereum/execution-specs/pull/3622#pullrequestreview-5333352489) - 2026-09-28
 * [Review] [Review on: feat(test-benchmark): add gas-mutated point-evaluation benchmark](https://github.com/ethereum/execution-specs/pull/3660#pullrequestreview-5333142457) - 2026-09-28
+* [Review] [Review on: feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665#pullrequestreview-5347377804) - 2026-09-29
+* [Review] [Review on: refactor(spec-specs): remove unreachable except in calculate_memory_gas_cost](https://github.com/ethereum/execution-specs/pull/3651#pullrequestreview-5347322259) - 2026-09-29
 ## Q2 2026
 
 

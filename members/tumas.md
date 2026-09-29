@@ -37,6 +37,7 @@ Team: Grandine
 * [Pull Request] [Report only forward sync in the syncing and health endpoints](https://github.com/grandinetech/grandine/pull/940) - 2026-09-25
 * [Review] [Review on: Schedule Gloas fork on Sepolia](https://github.com/grandinetech/grandine/pull/941#pullrequestreview-5317311574) - 2026-09-25
 * [Commit] [Report only forward sync in the syncing and health endpoints](https://github.com/grandinetech/grandine/commit/af41f1d5cfe3a43ce5cd762d11d0548495b23d16) - 2026-09-25
+* [Review] [Review on: Stream block roots while loading state by iteration](https://github.com/grandinetech/grandine/pull/942#pullrequestreview-5339945798) - 2026-09-28
 ## Q2 2026
 
 

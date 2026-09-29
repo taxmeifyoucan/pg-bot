@@ -208,6 +208,57 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat-runtime: patch riscv64 StubDispatch tail call range](https://github.com/NethermindEth/dotnet-riscv/commit/51efcac7a9bf4b5154f8cbf532723121ce1cf649) - 2026-08-11
 * [Commit] [pack_bflat_compiler_nupkg: locate riscv64 cross JIT in NuGet cache](https://github.com/NethermindEth/dotnet-riscv/commit/24f4531bb1ec2d5385624c28c668965254359629) - 2026-08-11
 * [Commit] [fixup/10/perf: rewrite 32_release_inline_knobs for upstream submission](https://github.com/NethermindEth/dotnet-riscv/commit/5a0f91f0b1f08d9424af3ac0c5b2aaf22c6a0d81) - 2026-09-04
+* [Pull Request] [Softfloat [3]](https://github.com/NethermindEth/dotnet-riscv/pull/14) - 2026-09-28
+* [Commit] [fixup/11/upstream: restore 15, the emitDisInsName format fix](https://github.com/NethermindEth/dotnet-riscv/commit/c37a384098eafd640deeb79103ffa6cb22a13387) - 2026-09-28
+* [Commit] [fixup/11/upstream: the asm ISA guards are in this profile now](https://github.com/NethermindEth/dotnet-riscv/commit/fd9c736637fb1477370518cb18b820c053e93368) - 2026-09-28
+* [Commit] [fixup/11/upstream: rebase the series onto release/11.0](https://github.com/NethermindEth/dotnet-riscv/commit/2889fca2ba9554a9e7eb8c7493d2f5010a7a06cb) - 2026-09-28
+* [Commit] [fixup/11/upstream: re-export the zk base series from runtime.misaligned](https://github.com/NethermindEth/dotnet-riscv/commit/2c3643d1307b65ac2c370059dc809003222ae4ce) - 2026-09-28
+* [Commit] [fixup/10/upstream: 04 - widen a float before the conversion helpers](https://github.com/NethermindEth/dotnet-riscv/commit/f4c6fabfbdfb7213d7d7208f5c28b10f17a3fdc2) - 2026-09-28
+* [Commit] [fixup/10,11/upstream: sync the submitted patches with their upstream branches](https://github.com/NethermindEth/dotnet-riscv/commit/0ddb9606184b23b26a337ce3667d5fcb5ce24eae) - 2026-09-28
+* [Commit] [fixup/10,11/upstream: 17, 10 - rework the unaligned LSDA read patch](https://github.com/NethermindEth/dotnet-riscv/commit/1438d9420bacfe2e915eebcb405450a27e902974) - 2026-09-28
+* [Commit] [rootfs: keep the host apk binary on the stock CDN, and fail loudly](https://github.com/NethermindEth/dotnet-riscv/commit/4e99197add33706426260a53bf6011afaea30241) - 2026-09-28
+* [Commit] [fixup/10,11/upstream: perf-35, perf-39 - the byte-wise paths under soft float](https://github.com/NethermindEth/dotnet-riscv/commit/64a12179687e7b88792ee711dfec545ba5cedc9f) - 2026-09-28
+* [Commit] [fixup/10/upstream: 04 - soft-float lowering for multiply and divide](https://github.com/NethermindEth/dotnet-riscv/commit/b32ab8219a9f3783f9e23d7cb9c0e6014c9c43be) - 2026-09-28
+* [Commit] [fixup/11/upstream: rewrite the unaligned LSDA read patch](https://github.com/NethermindEth/dotnet-riscv/commit/4359e9a7d6f812ef6d318dad5926ec7d05f17fa5) - 2026-09-28
+* [Commit] [fixup/10,11: perf-30 - the DMA-memcmp result rides on the csrrs](https://github.com/NethermindEth/dotnet-riscv/commit/ca5b542ebb7c7cc5e4e2bb11917036a64d1b7092) - 2026-09-28
+* [Commit] [fixup/10/upstream: perf-39 - drop diff timestamps from the patch headers](https://github.com/NethermindEth/dotnet-riscv/commit/3e7241b6c7ad4ce509cfd2d0e53d640558ac0fba) - 2026-09-28
+* [Commit] [fixup/10/upstream: perf-39 - use the .NET 10 spelling of the compiler member](https://github.com/NethermindEth/dotnet-riscv/commit/438852bb9371e06ab782467c30bfe0e5bf4e4e7e) - 2026-09-28
+* [Commit] [fixup/10,11/upstream: perf-39 - byte-wise packed-struct fields reached through GT_LCL_VAR](https://github.com/NethermindEth/dotnet-riscv/commit/c78ffedf83e1a481d11375fed6d8eb11d6792589) - 2026-09-28
+* [Commit] [fixup/10,11/upstream: perf-39 - byte-wise GT_LCL_FLD/GT_STORE_LCL_FLD at misaligned offsets](https://github.com/NethermindEth/dotnet-riscv/commit/b3be3ba97e6564a20caf72961154e92fd84d1062) - 2026-09-28
+* [Commit] [fixup/10,11: perf-35 - no delay-free on the address of an unaligned store](https://github.com/NethermindEth/dotnet-riscv/commit/a69460bc99fd4ce057919988ed7e2657b55ceb2f) - 2026-09-28
+* [Commit] [fixup/10/upstream: 10 - unaligned-safe reads of the runtime side tables (port of 11's 17)](https://github.com/NethermindEth/dotnet-riscv/commit/627cdab83592170225ff5cadc015699115acb2ce) - 2026-09-28
+* [Commit] [fixup/11/upstream: 17 - declare the unaligned read helpers before their first use](https://github.com/NethermindEth/dotnet-riscv/commit/ab9be2b206c750ac3c9d5291bd8714cd2bcaa349) - 2026-09-28
+* [Commit] [fixup/10,11/upstream: perf-39 strict align - base alignment follows the access width](https://github.com/NethermindEth/dotnet-riscv/commit/de6336f6097affc0e994c4486ccc2b08354c70c1) - 2026-09-28
+* [Commit] [fixup/11/upstream: strict alignment for riscv64 (JIT knob + runtime side tables)](https://github.com/NethermindEth/dotnet-riscv/commit/6f3c42a5c1de606f615fe3fde72ca892f5ca7ac3) - 2026-09-28
+* [Commit] [fixup/10,11/upstream: pad riscv64 code sections with NOP, not zeros](https://github.com/NethermindEth/dotnet-riscv/commit/821eff6e09c83b52a53bc6d5476bdf8636bbb5cb) - 2026-09-28
+* [Commit] [fixup/11/upstream: perf-38, fast riscv64 interface dispatch helper](https://github.com/NethermindEth/dotnet-riscv/commit/63bbd32d23e474dfdfb3a35652cb19bf0f496dba) - 2026-09-28
+* [Commit] [fixup/10/upstream: RhpInterfaceDispatchSlow must not tail-call through t1](https://github.com/NethermindEth/dotnet-riscv/commit/6e05e9b6241a9cc638d131172cf672da6c37eac4) - 2026-09-28
+* [Commit] [build_musl_rv64im.sh: pick the aport revision of the rootfs's musl package](https://github.com/NethermindEth/dotnet-riscv/commit/dadd88077499ba60efaaa1694eacf440e71696cb) - 2026-09-28
+* [Commit] [fixup: perf-37 is the split code/data patch; rebuild musl for rv64im again](https://github.com/NethermindEth/dotnet-riscv/commit/64829a6cc0b48f215370a251955e70f443ebf856) - 2026-09-28
+* [Commit] [fixup/11/upstream: perf-37 - keep the JIT data out of the code on riscv64](https://github.com/NethermindEth/dotnet-riscv/commit/946451b7641e3dbcfb331b5b2f93fea8ec2f6520) - 2026-09-28
+* [Commit] [CI: suffix the release tag with the run number when it already exists](https://github.com/NethermindEth/dotnet-riscv/commit/01d742c9a80f10f14a6dd050bc47fc6bf2a137ef) - 2026-09-28
+* [Commit] [fixup: perf-36 - plain load/modify/store atomics without the A extension](https://github.com/NethermindEth/dotnet-riscv/commit/7f79b1e5287791b89c430722bb45108f2aaf09ba) - 2026-09-28
+* [Commit] [08_pack_bflat_compiler_nupkg: disable the NuGet audit in the stage-one build](https://github.com/NethermindEth/dotnet-riscv/commit/d8027bad1e33b264b72ac79263d94726d20dc2a4) - 2026-09-28
+* [Commit] [fixup/11/upstream: perf-30 - the allocator argument is m_compiler too](https://github.com/NethermindEth/dotnet-riscv/commit/dae4a1fb62b9a6a04f3e9596a55ba81f5ed49ac9) - 2026-09-28
+* [Commit] [fixup/11/upstream: perf-33 needs IGF_HAS_REMOVED_INSTR on riscv64 too](https://github.com/NethermindEth/dotnet-riscv/commit/f9bc743e797487bc8e243b92c9ebb63d1400e154) - 2026-09-28
+* [Commit] [fixup: riscv64 perf patches on the upstream series, as perf-*.patch](https://github.com/NethermindEth/dotnet-riscv/commit/b80c429b8d5e53d31355833ea65fdc908ab7f354) - 2026-09-28
+* [Commit] [fixup/11/upstream: -Wformat error in emitDisInsName with clang 18](https://github.com/NethermindEth/dotnet-riscv/commit/50a10eabb1a96d6c3c11d7de0c6c52d9472dbcc5) - 2026-09-28
+* [Commit] [08_pack_bflat_compiler_nupkg: build stage one with FeatureXplatEventSource=false](https://github.com/NethermindEth/dotnet-riscv/commit/59da7912525dddc2ab2fffb55c0bf6a6584f37e5) - 2026-09-28
+* [Commit] [08_pack_bflat_compiler_nupkg: reuse the main build's cross rootfs](https://github.com/NethermindEth/dotnet-riscv/commit/cd0d6ed1784ad170305a185fd10d28216bcd2e98) - 2026-09-28
+* [Commit] [fixup/10/upstream: wire --targetarch riscv64-lp64 to the soft-float ABI in ilc](https://github.com/NethermindEth/dotnet-riscv/commit/d9a82a762b688692e12dbf218893cbe4bfc45dda) - 2026-09-28
+* [Commit] [fixup/10/upstream: CodeGen/LinearScan/emitter member names of .NET 10](https://github.com/NethermindEth/dotnet-riscv/commit/4cc71fd26c7a6da89fba633c1b4d618175156308) - 2026-09-28
+* [Commit] [fixup/10/upstream: drop the doubled hunks in the ILC patch, guard fscsr/frcsr](https://github.com/NethermindEth/dotnet-riscv/commit/d8d077a47ab37f90523f38dd5711d14a27f105be) - 2026-09-28
+* [Commit] [CI: pass the riscv64 ISA/ABI selection to the bflat compiler pack step](https://github.com/NethermindEth/dotnet-riscv/commit/b4e82b6a76b68b4e1e9fa9ddbe9450b17990c710) - 2026-09-28
+* [Commit] [fixup/10/upstream: link libatomic when the ISA has no A extension](https://github.com/NethermindEth/dotnet-riscv/commit/d7e1971f1ca88b5d5d9c2a66c9262d783b1b2d63) - 2026-09-28
+* [Commit] [fixup/10/upstream: -mabi=lp64 for the native link](https://github.com/NethermindEth/dotnet-riscv/commit/fd7ab4d14cecc7789a0a841f45f340c87bf3c580) - 2026-09-28
+* [Commit] [fixup/11/upstream: -mabi=lp64 for the native link and the aggregate shim](https://github.com/NethermindEth/dotnet-riscv/commit/8e3b45b27273315046d9daa971ff2169b2f5fc24) - 2026-09-28
+* [Commit] [fixup/10/upstream: remove hunks the backport had applied twice](https://github.com/NethermindEth/dotnet-riscv/commit/e1c2907ed433ae1d34103e22030a1d5948e7d889) - 2026-09-28
+* [Commit] [Make the .NET 10 upstream profile buildable in CI](https://github.com/NethermindEth/dotnet-riscv/commit/9252107ee76999bd69f7ac983e7e994bb4776d75) - 2026-09-28
+* [Commit] [fixup/11/upstream: publish the ILCompiler with the lp64 ABI](https://github.com/NethermindEth/dotnet-riscv/commit/ac7924b163cdc100c038958bcbb947321f17ea9b) - 2026-09-28
+* [Commit] [fixup/11/upstream: link libatomic when the ISA has no A extension](https://github.com/NethermindEth/dotnet-riscv/commit/595e7769c4b0c40c6849bf19dda1f0afeb141a0f) - 2026-09-28
+* [Commit] [fixup/11/upstream: include pthread.h in pal_hmac.c](https://github.com/NethermindEth/dotnet-riscv/commit/faa51e7bc193a5dd4f288f80fe0925aef6467a59) - 2026-09-28
+* [Commit] [Apply the toolchain patch to every eng/common copy in the VMR](https://github.com/NethermindEth/dotnet-riscv/commit/39f216907d6faa6919ccb93116115efe72fc4141) - 2026-09-28
+* [Commit] [rootfs: take musl from the mirror instead of rebuilding it](https://github.com/NethermindEth/dotnet-riscv/commit/298514affa24a832baeb0443efb9730c06052f7f) - 2026-09-28
 ## Q2 2026
 
 

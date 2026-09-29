@@ -1887,6 +1887,10 @@ Team: Erigon
 * [Review] [Review on: cmd/integration: fix invalid state snapshot removal command in README](https://github.com/erigontech/erigon/pull/24339#pullrequestreview-5328756332) - 2026-09-27
 * [Review] [Review on: [r3.7] cl/antiquary: give a blob backlog the same compression parallelism as EL catch-up](https://github.com/erigontech/erigon/pull/24338#pullrequestreview-5328752009) - 2026-09-27
 * [Commit] [rpc/jsonrpc: stream trace_get result with the fast JSON writer (#24346)](https://github.com/erigontech/erigon/commit/3ac4457621fb0306686e42f3479f3c0f55288533) - 2026-09-27
+* [Pull Request] [execution/state, execution/stagedsync: fix the gd8 regression and the post-unwind commitment drift](https://github.com/erigontech/erigon/pull/24379) - 2026-09-29
+* [Review] [Review on: execution/state, execution/stagedsync: fix the gd8 regression and the post-unwind commitment drift](https://github.com/erigontech/erigon/pull/24379#pullrequestreview-5347419174) - 2026-09-29
+* [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5336473316) - 2026-09-28
+* [Pull Request] [`db.safe.nosync=false` by default](https://github.com/erigontech/erigon/pull/24365) - 2026-09-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

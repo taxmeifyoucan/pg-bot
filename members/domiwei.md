@@ -174,6 +174,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5325916349) - 2026-09-26
 * [Review] [Review on: cl/antiquary: give a blob backlog the same compression parallelism as EL catch-up](https://github.com/erigontech/erigon/pull/24316#pullrequestreview-5325632310) - 2026-09-26
 * [Review] [Review on: cl/beacon/synced_data: swap head state instead of copying it](https://github.com/erigontech/erigon/pull/23962#pullrequestreview-5325636929) - 2026-09-26
+* [Review] [Review on: cl/beacon, cmd: prepend EL+CL client identification to custom graffiti by default](https://github.com/erigontech/erigon/pull/24369#pullrequestreview-5337332291) - 2026-09-28
+* [Pull Request] [cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845) - 2026-09-28
+* [Review] [Review on: cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845#pullrequestreview-5335377579) - 2026-09-28
+* [Review] [Review on: [r3.7] cl/beacon: publish sync-committee messages in background instead of blocking the request](https://github.com/erigontech/erigon/pull/24368#pullrequestreview-5337127888) - 2026-09-28
+* [Review] [Review on: lint: enable staticcheck's ST1019, ST1016, ST1012, ST1017, ST1005](https://github.com/erigontech/erigon/pull/24332#pullrequestreview-5334499523) - 2026-09-28
+* [Review] [Review on: cl: use errors.New instead of fmt.Errorf without format args](https://github.com/erigontech/erigon/pull/24353#pullrequestreview-5334499657) - 2026-09-28
+* [Commit] [cl: align Gloas consensus and APIs with v1.7.0-beta.2 (#23845)](https://github.com/erigontech/erigon/commit/df3b4ec76579ec8d96e8bba1710f374750d1795e) - 2026-09-28
 ## Q2 2026
 
 

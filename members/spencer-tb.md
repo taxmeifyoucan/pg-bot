@@ -364,6 +364,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(spec-specs): wipe pre-existing storage on contract creation from Cancun onward (#3508)](https://github.com/ethereum/execution-specs/commit/faf66377663259411f7c150f5490cbac683d3cc9) - 2026-09-23
 * [Commit] [fix(tests): un-skip remaining Amsterdam ported static tests and drop the skip list (Pt. 2d) (#3322)](https://github.com/ethereum/execution-specs/commit/f085d2cb3448c51a9c2aa24feb2f277b6bff94bb) - 2026-09-23
 * [Commit] [feat(tests): cover a null EIP-8070 custodyColumns and repin to the current EIP blob (#3622)](https://github.com/ethereum/execution-specs/commit/2b19bf5fa4969dcad3a3fa1b7fa997416a03f5bf) - 2026-09-28
+* [Pull Request] [feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665) - 2026-09-28
+* [Issue] [Hegotá EL Tracker: EIP scoping and devnet discussion](https://github.com/ethereum/execution-specs/issues/3664) - 2026-09-28
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

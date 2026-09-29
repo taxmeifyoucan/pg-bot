@@ -234,6 +234,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Remove duplicated and stale PendingTransactionDetailResult](https://github.com/besu-eth/besu/pull/11372) - 2026-09-25
 * [Pull Request] [Fix txpool_besuPendingTransactions gasPrice filter on EIP-1559 transactions](https://github.com/besu-eth/besu/pull/11374) - 2026-09-25
 * [Pull Request] [Report a blob cache miss instead of throwing](https://github.com/besu-eth/besu/pull/11370) - 2026-09-25
+* [Pull Request] [Build BlobsWithCommitments through named factories](https://github.com/besu-eth/besu/pull/11385) - 2026-09-28
+* [Review] [Review on: Build BlobsWithCommitments through named factories](https://github.com/besu-eth/besu/pull/11385#pullrequestreview-5340357057) - 2026-09-28
+* [Pull Request] [Skip plugin registration for --print-paths-and-exit](https://github.com/besu-eth/besu/pull/11387) - 2026-09-28
+* [Review] [Review on: Declare plugin CLI options before register()](https://github.com/besu-eth/besu/pull/11282#pullrequestreview-5341186271) - 2026-09-28
+* [Review] [Review on: Withdraw deprecation of PoaQueryService and BftQueryService](https://github.com/besu-eth/besu/pull/11376#pullrequestreview-5340988772) - 2026-09-28
+* [Commit] [Remove duplicated and stale PendingTransactionDetailResult (#11372)](https://github.com/besu-eth/besu/commit/c3aaf7cddd41162ea41f1f86c537960c20f615a0) - 2026-09-28
+* [Commit] [Report a blob cache miss instead of throwing (#11370)](https://github.com/besu-eth/besu/commit/8fd5f8399ff2d4349b891cd44ad6e32a98d78d47) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

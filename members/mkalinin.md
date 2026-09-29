@@ -36,6 +36,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Add a mechanism for providing a restart-resilient confirmed root](https://github.com/ethereum/consensus-specs/pull/5673) - 2026-09-23
 * [Pull Request] [Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670) - 2026-09-23
 * [Pull Request] [Fix empty slot support discount for Gloas](https://github.com/ethereum/consensus-specs/pull/5672) - 2026-09-23
+* [Commit] [Fix empty slot support discount for Gloas (#5672)](https://github.com/ethereum/consensus-specs/commit/221fb1aa7bc4c48a5957ab08026065d87015bce8) - 2026-09-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

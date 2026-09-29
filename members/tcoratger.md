@@ -646,6 +646,33 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(binary-pcs,binary-dft,sumcheck): commit Boolean traces without intermediate copies](https://github.com/Plonky3/Plonky3/pull/2339#pullrequestreview-5330419291) - 2026-09-27
 * [Review] [Review on: perf(multi-stark): one-plane Boolean stages, a GFNI constraint kernel and plane-served boundary rounds in the sliced zerocheck](https://github.com/Plonky3/Plonky3/pull/2342#pullrequestreview-5330433059) - 2026-09-27
 * [Review] [Review on: perf(binary-field)!: AArch64 GHASH kernels with prepared multipliers, NEON adds and two-lane packing](https://github.com/Plonky3/Plonky3/pull/2341#pullrequestreview-5330423007) - 2026-09-27
+* [Pull Request] [perf(merkle-tree): split a pass across threads when its rows are worth it](https://github.com/Plonky3/Plonky3/pull/2355) - 2026-09-28
+* [Pull Request] [perf(matrix,merkle-tree): hash adjacent rows in place](https://github.com/Plonky3/Plonky3/pull/2353) - 2026-09-28
+* [Review] [Review on: perf(multi-stark): accelerate quadratic constraint accumulation](https://github.com/Plonky3/Plonky3/pull/2347#pullrequestreview-5337609048) - 2026-09-28
+* [Pull Request] [perf: route hand-rolled dot products through the field primitives](https://github.com/Plonky3/Plonky3/pull/2364) - 2026-09-28
+* [Pull Request] [perf(binary-field)!: NEON GF(2^64) and GF(2^192) packings, PMULL reduction, mask-matrix inversion](https://github.com/Plonky3/Plonky3/pull/2365) - 2026-09-28
+* [Pull Request] [perf(sha256): pick the batched backend at run time on x86-64](https://github.com/Plonky3/Plonky3/pull/2357) - 2026-09-28
+* [Pull Request] [perf(sha256): hash short AVX-512 tails with one register group or SHA-NI streams](https://github.com/Plonky3/Plonky3/pull/2356) - 2026-09-28
+* [Pull Request] [perf(keccak): pick the batched Keccak backend at run time on x86-64](https://github.com/Plonky3/Plonky3/pull/2360) - 2026-09-28
+* [Pull Request] [feat(keccak): add SHA3-256 on the batched Keccak sponge](https://github.com/Plonky3/Plonky3/pull/2359) - 2026-09-28
+* [Pull Request] [perf(blake3): spread the chunks of a few long messages across the lanes](https://github.com/Plonky3/Plonky3/pull/2354) - 2026-09-28
+* [Review] [Review on: perf(multilinear-util): tensor-built eq tables, delayed-reduction dots, cost-model splits](https://github.com/Plonky3/Plonky3/pull/2334#pullrequestreview-5342423911) - 2026-09-28
+* [Pull Request] [perf(symmetric): hash a compression's children as one slice](https://github.com/Plonky3/Plonky3/pull/2366) - 2026-09-28
+* [Review] [Review on: perf(binary): accelerate GFNI unslicing and large NTT scatters](https://github.com/Plonky3/Plonky3/pull/2348#pullrequestreview-5337552866) - 2026-09-28
+* [Pull Request] [perf(sha256): hash 32 messages at once with an AVX-512 kernel](https://github.com/Plonky3/Plonky3/pull/2351) - 2026-09-28
+* [Review] [Review on: perf(sha256): hash 32 messages at once with an AVX-512 kernel](https://github.com/Plonky3/Plonky3/pull/2351#pullrequestreview-5342426487) - 2026-09-28
+* [Review] [Review on: perf(blake3): batch every message shape through a lane-parallel kernel](https://github.com/Plonky3/Plonky3/pull/2345#pullrequestreview-5342450568) - 2026-09-28
+* [Pull Request] [feat(symmetric,merkle-tree,security): add T5 Merkle trees (eprint 2021/373)](https://github.com/Plonky3/Plonky3/pull/2350) - 2026-09-28
+* [Pull Request] [test(examples): run the quadratic hash AIR tensor test from heavy CI](https://github.com/Plonky3/Plonky3/pull/2349) - 2026-09-28
+* [Issue] [perf(sha256): expand pure-padding blocks once on the AArch64 SHA-2 backend](https://github.com/Plonky3/Plonky3/issues/2352) - 2026-09-28
+* [Commit] [feat(keccak): add SHA3-256 on the batched Keccak sponge (#2359)](https://github.com/Plonky3/Plonky3/commit/31df62caddf7a3f151d1344a3f9facc6c4e87f27) - 2026-09-29
+* [Commit] [perf(sha256): hash 32 messages at once with an AVX-512 kernel (#2351)](https://github.com/Plonky3/Plonky3/commit/e1b98e91f64979f63a26f172d041f088e8e49274) - 2026-09-28
+* [Commit] [perf(binary-dft)!: vectorize the Poly64 butterfly, share the first pass across cosets, and reorganize the crate (#2344)](https://github.com/Plonky3/Plonky3/commit/eb1fa4cd3e192c2372490d2bfcee78c7af2b9a4f) - 2026-09-28
+* [Commit] [perf(blake3): batch every message shape through a lane-parallel kernel (#2345)](https://github.com/Plonky3/Plonky3/commit/11053cbe49dbb3f78ad57f1d80aa837592ce9276) - 2026-09-28
+* [Commit] [perf(binary-field,multi-stark)!: SIMD GF(2^64) and GF(2^192) packings, shift-only reduction, GFNI inversion (#2322)](https://github.com/Plonky3/Plonky3/commit/4035852bd2d72465b1011842e86657801d775163) - 2026-09-28
+* [Commit] [test(examples): run the quadratic hash AIR tensor test from heavy CI (#2349)](https://github.com/Plonky3/Plonky3/commit/c10962663ad96664b217b76006c69f974d85f890) - 2026-09-28
+* [Commit] [perf(merkle-tree,util,symmetric)!: build Merkle trees in subtree blocks with register-tile transposes (#2335)](https://github.com/Plonky3/Plonky3/commit/23173e2803838debffe12319e46530fbfd5cfe4d) - 2026-09-28
+* [Commit] [perf(field): fold W into the broadcast operand of a packed extension product (#2338)](https://github.com/Plonky3/Plonky3/commit/72a69337dd89aac73d2eb52cc6df50024b735b7c) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

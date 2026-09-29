@@ -140,6 +140,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Mark the forkchoiceUpdated head hash valid, not the head block](https://github.com/sigp/lighthouse/pull/10131#pullrequestreview-5332884753) - 2026-09-28
 * [Review] [Review on: Remove ExecutionStatus predicates with no production callers](https://github.com/sigp/lighthouse/pull/10129#pullrequestreview-5332519222) - 2026-09-27
 * [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5332525150) - 2026-09-27
+* [Pull Request] [Work around libp2p derive warning on Rust 1.100](https://github.com/sigp/lighthouse/pull/10153) - 2026-09-29
+* [Pull Request] [Use block hash in payload invalidation tests](https://github.com/sigp/lighthouse/pull/10137) - 2026-09-28
+* [Issue] [Optimise `ForkChoice::is_invalid`](https://github.com/sigp/lighthouse/issues/10151) - 2026-09-29
+* [Issue] [Gloas optimistic sync testing blitz](https://github.com/sigp/lighthouse/issues/10152) - 2026-09-29
+* [Issue] [Delete "shutdown on invalid justified payload" feature](https://github.com/sigp/lighthouse/issues/10150) - 2026-09-29
+* [Issue] [Improve error handling in EF `operations` tests](https://github.com/sigp/lighthouse/issues/10147) - 2026-09-29
+* [Issue] [Skip newPayload during finalized optimistic sync (Gloas)](https://github.com/sigp/lighthouse/issues/10141) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

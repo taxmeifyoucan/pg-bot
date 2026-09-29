@@ -101,6 +101,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5311472260) - 2026-09-24
 * [Review] [Review on: Remove perfidious fn ExecutionStatus::block_hash](https://github.com/sigp/lighthouse/pull/10126#pullrequestreview-5321851597) - 2026-09-25
 * [Review] [Review on: Introduce ParentPayloadStatus for the parent payload edge](https://github.com/sigp/lighthouse/pull/10121#pullrequestreview-5322931380) - 2026-09-25
+* [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5343425261) - 2026-09-28
+* [Review] [Review on: Enable partial data columns by default on all networks](https://github.com/sigp/lighthouse/pull/9896#pullrequestreview-5344090031) - 2026-09-28
+* [Review] [Review on: GET `/eth/v1/validator/{pubkey}/graffiti` to return String instead of hex string](https://github.com/sigp/lighthouse/pull/10117#pullrequestreview-5343725965) - 2026-09-28
+* [Review] [Review on: Notify reprocessing queue after RPC custody column imports](https://github.com/sigp/lighthouse/pull/10128#pullrequestreview-5343402045) - 2026-09-28
+* [Review] [Review on: Use block hash in payload invalidation tests](https://github.com/sigp/lighthouse/pull/10137#pullrequestreview-5343154425) - 2026-09-28
 ## Q2 2026
 
 

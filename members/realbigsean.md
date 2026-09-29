@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Areal
 * [Review] [Review on: Fix rust 1.97 lints](https://github.com/sigp/lighthouse/pull/9607#pullrequestreview-4666278126) - 2026-07-09
 * [Review] [Review on: Back merge 8.2.1](https://github.com/sigp/lighthouse/pull/9676#pullrequestreview-4749708713) - 2026-07-21
 * [Review] [Review on: Release v8.2.1](https://github.com/sigp/lighthouse/pull/9670#pullrequestreview-4741034922) - 2026-07-21
+* [Review] [Review on: Work around libp2p derive warning on Rust 1.100](https://github.com/sigp/lighthouse/pull/10153#pullrequestreview-5347447263) - 2026-09-29
 ## Q1 2026
 
 

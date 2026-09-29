@@ -138,6 +138,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [Prevent worldstate heal cascade when TrieLogPruner runs during shutdown (#11330)](https://github.com/besu-eth/besu/commit/85b32978312c5ec290c24e2dc4c346c368bf9258) - 2026-09-24
 * [Pull Request] [Add concurrency protection for cross block cache](https://github.com/besu-eth/besu/pull/11371) - 2026-09-25
 * [Review] [Review on: Add concurrency protection for cross block cache](https://github.com/besu-eth/besu/pull/11371#pullrequestreview-5318341523) - 2026-09-25
+* [Commit] [add more concurrency protection for cross block cache (#11371)](https://github.com/besu-eth/besu/commit/576509954a71a8e1df864b95aa500493a27186af) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

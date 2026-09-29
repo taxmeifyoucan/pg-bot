@@ -112,6 +112,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Support the `validator slashing-protection-history export` command when using the `--enable-minimal-slashing-protection`](https://github.com/OffchainLabs/prysm/issues/17514) - 2026-09-18
 * [Review] [Review on: Keep missing signing roots unknown when converting the validator data…](https://github.com/OffchainLabs/prysm/pull/17522#pullrequestreview-5257581017) - 2026-09-19
 * [Pull Request] [Fix backfill deadlock at the end of the sequence](https://github.com/OffchainLabs/prysm/pull/17530) - 2026-09-21
+* [Pull Request] [Fix all known flaky tests using the `make test mainnet` command.](https://github.com/OffchainLabs/prysm/pull/17571) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

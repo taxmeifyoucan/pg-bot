@@ -69,6 +69,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Add a RocksDB table cache warmup (#11355)](https://github.com/besu-eth/besu/commit/9f4cd8c7d08b7bb7b734f52b51c809d8e4c83593) - 2026-09-23
 * [Pull Request] [Recover sender only once per transaction](https://github.com/besu-eth/besu/pull/11366) - 2026-09-24
 * [Commit] [Recover sender only once per transaction (#11366)](https://github.com/besu-eth/besu/commit/cf89071f9d6dddf7997f35e09929fe059f82ecd1) - 2026-09-24
+* [Review] [Review on: Make AddressStorageSlotKey hashcode seeded](https://github.com/besu-eth/besu/pull/11369#pullrequestreview-5339509353) - 2026-09-28
 ## Q2 2026
 
 

@@ -557,6 +557,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cache RocksDB read settings at database open (#13946)](https://github.com/NethermindEth/nethermind/commit/3996074334f9bf548b4f3aef1b2cfe463887bf5d) - 2026-09-27
 * [Commit] [Check header cache before resolving block numbers (#13952)](https://github.com/NethermindEth/nethermind/commit/a0e31741c26b02d19a4a33791a20d056e7fc24f0) - 2026-09-27
 * [Commit] [Replace explicit wait handles with managed cancellation and task signaling (#13945)](https://github.com/NethermindEth/nethermind/commit/971d87d767e3468887a4436de663a2c6f8fbbebc) - 2026-09-27
+* [Commit] [perf: share workers across receipt-root calculation and trie commits (#13988)](https://github.com/NethermindEth/nethermind/commit/22b2d234a552bcc56d7bb9245392083022c14140) - 2026-09-28
+* [Commit] [perf(prewarm): cancel the speculative session earlier and promptly (#13989)](https://github.com/NethermindEth/nethermind/commit/7afea54aa8dc353db56d0292db841759637ca1df) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

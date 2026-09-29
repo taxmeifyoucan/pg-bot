@@ -155,6 +155,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix(simulate): drop logs emitted by reverted call frames](https://github.com/NethermindEth/nethermind/pull/13979) - 2026-09-27
 * [Pull Request] [feat(mcp): add opt-in read-only MCP server plugin](https://github.com/NethermindEth/nethermind/pull/13978) - 2026-09-27
 * [Commit] [fix(state): invalidate only the wiped contract in the pre-block storage cache (#13850)](https://github.com/NethermindEth/nethermind/commit/31951fd8a2c498fae16439c8da703df1f6ca61cd) - 2026-09-27
+* [Review] [Review on: fix(simulate): drop logs emitted by reverted call frames](https://github.com/NethermindEth/nethermind/pull/13979#pullrequestreview-5346555747) - 2026-09-29
+* [Commit] [Fix startup warmup drain test scheduler deadlock (#13974)](https://github.com/NethermindEth/nethermind/commit/83c9fdce8adf6961e26113e20ce04c2f89f70517) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 * [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291874529) - 2026-09-23

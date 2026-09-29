@@ -719,6 +719,20 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(evm): keep jump-destination analysis out of the zkEVM PUSH2 handler (#13868)](https://github.com/NethermindEth/nethermind/commit/aed4dbeaccff341f58c5ab03120ea1ed83fbdc43) - 2026-09-27
 * [Commit] [perf(evm): exempt the dispatch tail calls from NativeAOT's fat-pointer guard (#13866)](https://github.com/NethermindEth/nethermind/commit/5ece5fbab520229a871481d5b87c0d0926b351da) - 2026-09-27
 * [Commit] [perf: thread the opcode counter as a native int (#13862)](https://github.com/NethermindEth/nethermind/commit/8965602af496646e0a36d15f7780173930602476) - 2026-09-27
+* [Pull Request] [test(txpool): run should_revalidate_after_queued_fork_reorg alone](https://github.com/NethermindEth/nethermind/pull/14009) - 2026-09-28
+* [Review] [Review on: Bump up the version to 2.2.0-unstable](https://github.com/NethermindEth/nethermind/pull/14010#pullrequestreview-5344151027) - 2026-09-28
+* [Review] [Review on: fix(tracing): keep reverted frame results and use parity error labels](https://github.com/NethermindEth/nethermind/pull/13981#pullrequestreview-5343754571) - 2026-09-28
+* [Pull Request] [test(network): take the cheapest window in the NodeFilter allocation test](https://github.com/NethermindEth/nethermind/pull/14011) - 2026-09-28
+* [Review] [Review on: fix(xdc): treat blocks up to the V2 switch block as round 0 in XDPoS_getMissedRoundsInEpochByBlockNum](https://github.com/NethermindEth/nethermind/pull/14008#pullrequestreview-5342645779) - 2026-09-28
+* [Review] [Review on: fix(tracing): emit failed frames for calls and creates that fail their precheck](https://github.com/NethermindEth/nethermind/pull/13957#pullrequestreview-5344151355) - 2026-09-28
+* [Commit] [test(txpool): run should_revalidate_after_queued_fork_reorg alone (#14009)](https://github.com/NethermindEth/nethermind/commit/b8f0ca48bd8335797a2f9a9b98f14067f716803b) - 2026-09-29
+* [Commit] [perf(evm): prove zkEVM jump destinations from the 32 bytes before them (#13886)](https://github.com/NethermindEth/nethermind/commit/5db012dd7b6fc4cfd61ff3250b40bf1923f74ef6) - 2026-09-28
+* [Commit] [perf: faster RLP integer and signature decoding, signing hashes and tx/receipt root leaves (#13917)](https://github.com/NethermindEth/nethermind/commit/2c461a4223c778b55465e7b965ae4e8c1c0f1886) - 2026-09-28
+* [Commit] [perf(zkevm): dispatch the guest with gas, stack head, table and bytecode in registers (#13921)](https://github.com/NethermindEth/nethermind/commit/113247b24396cf5cad692894f06c70e964af9c89) - 2026-09-28
+* [Commit] [perf: keep Rlp beforefieldinit, move constructor throws out of line and bind composite tx validators once (#13920)](https://github.com/NethermindEth/nethermind/commit/1df4ab3a8db2b98a92e56df906ce95baf3d7fe2a) - 2026-09-28
+* [Commit] [perf(trie): trim the node resolve and branch encode paths (#13919)](https://github.com/NethermindEth/nethermind/commit/da8537dd439e66e442423d0a721a28713edb2189) - 2026-09-28
+* [Commit] [perf(zkevm): cheaper address and storage-cell hashing in the guest (#13887)](https://github.com/NethermindEth/nethermind/commit/26e7f74b72bb2c170275e380db3408f9d3c1aec9) - 2026-09-28
+* [Commit] [test: time only the disposal in the CompositeNodeSource enumeration test (#13955)](https://github.com/NethermindEth/nethermind/commit/bcb46be76fd3780eac729cb122adf44abf282f76) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

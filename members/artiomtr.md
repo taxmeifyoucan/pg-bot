@@ -33,6 +33,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Optimize trusted state transition function](https://github.com/grandinetech/grandine/pull/920) - 2026-09-16
 * [Pull Request] [Adapt plugin to Nethermind 2.0](https://github.com/grandinetech/grandine/pull/936) - 2026-09-23
 * [Commit] [Adapt plugin to Nethermind 2.0](https://github.com/grandinetech/grandine/commit/a1ea7f27f9656f673962ba15fc704dccc2bdff4f) - 2026-09-24
+* [Pull Request] [Stream block roots while loading state by iteration](https://github.com/grandinetech/grandine/pull/942) - 2026-09-28
+* [Commit] [Stream block roots while loading state by iteration](https://github.com/grandinetech/grandine/commit/cf6e7094eac880eaadd42920af0e0d714e02b04b) - 2026-09-28
 ## Q2 2026
 
 

@@ -52,6 +52,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Update EIP-1: Allow links to UTS](https://github.com/ethereum/EIPs/pull/10565) - 2026-09-16
 * [Review] [Review on: Update EIP-5069: Add EIP Coordinator](https://github.com/ethereum/EIPs/pull/12243#pullrequestreview-5225288944) - 2026-09-16
 * [Commit] [Update EIP-1: Allow links to UTS (#10565)](https://github.com/ethereum/EIPs/commit/c99b1c82ccb2802b15291b297fac2fabef7e6381) - 2026-09-16
+* [Review] [Review on: Update EIP-5069: Add EIP Coordinator](https://github.com/ethereum/EIPs/pull/12243#pullrequestreview-5342379495) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026

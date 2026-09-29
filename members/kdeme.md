@@ -171,6 +171,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: remove public keys from StatelessInput](https://github.com/status-im/nimbus-eth1/pull/4859) - 2026-09-26
 * [Pull Request] [Update eest test and test-zkevm fixtures to v21.0.0](https://github.com/status-im/nimbus-eth1/pull/4858) - 2026-09-26
 * [Commit] [Update eest test and test-zkevm fixtures to v21.0.0 (#4858)](https://github.com/status-im/nimbus-eth1/commit/4504661d00d279c87f1825fce783cd9795d670d2) - 2026-09-27
+* [Pull Request] [stateless: reuse the witness header hashes for the blockhash lookup](https://github.com/status-im/nimbus-eth1/pull/4861) - 2026-09-28
+* [Commit] [stateless: reuse the witness header hashes for the blockhash lookup (#4861)](https://github.com/status-im/nimbus-eth1/commit/2c3a959ae524b42806f98d5a408554ebb8d563ea) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

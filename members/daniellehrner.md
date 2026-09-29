@@ -146,6 +146,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Close the remaining bad-chain gaps in backward sync and the Engine API](https://github.com/besu-eth/besu/pull/11373) - 2026-09-25
 * [Pull Request] [Retry bootnodes on networks with few peers](https://github.com/besu-eth/besu/pull/11368) - 2026-09-25
 * [Review] [Review on: Add concurrency protection for cross block cache](https://github.com/besu-eth/besu/pull/11371#pullrequestreview-5318658490) - 2026-09-25
+* [Pull Request] [Bonsai: compute state roots on a persistent immutable tree cache](https://github.com/besu-eth/besu/pull/11386) - 2026-09-28
+* [Pull Request] [Bonsai: cache committed trie nodes, stop re-hashing preloaded ones](https://github.com/besu-eth/besu/pull/11382) - 2026-09-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

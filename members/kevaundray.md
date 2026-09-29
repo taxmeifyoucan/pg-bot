@@ -60,6 +60,9 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5261356910) - 2026-09-20
 * [Review] [Review on: Update EIP-8347: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/pull/12366#pullrequestreview-5278495047) - 2026-09-22
 * [Commit] [Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/commit/064a7729f7834375fe60ed154a4cc502c31628a6) - 2026-09-23
+* [Review] [Review on: Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347#pullrequestreview-5344600228) - 2026-09-28
+* [Pull Request] [Update EIP-4444: Update HISTORY_PRUNE_EPOCHS to 14,299 epochs](https://github.com/ethereum/EIPs/pull/12388) - 2026-09-28
+* [Commit] [Update EIP-4444: Update HISTORY_PRUNE_EPOCHS to 14,299 epochs](https://github.com/ethereum/EIPs/commit/f951d789d5e2f65ce8ac8994f7e0f4f4affdec43) - 2026-09-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
@@ -105,6 +108,8 @@ Team: Consensus R&D (EF)
 * [Issue] [EIP-161: Sending zero to an empty account](https://github.com/ethereum/execution-specs/issues/3341) - 2026-08-09
 * [Issue] [Consider extending test converage to execution-api tests](https://github.com/ethereum/execution-specs/issues/3339) - 2026-08-08
 * [Review] [Review on: binary(tests): delegation lifecycle, 2935 ring buffer, and chunking edges](https://github.com/ethereum/execution-specs/pull/3338#pullrequestreview-4891129546) - 2026-08-09
+* [Issue] [Tracking Issue: Gloas Retention Windows](https://github.com/ethereum/execution-specs/issues/3667) - 2026-09-28
+* [Issue] [Tracking issue: Hegota Retention Windows](https://github.com/ethereum/execution-specs/issues/3668) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20
@@ -125,6 +130,7 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896171742) - 2026-08-10
 
 * [Review] [Review on: Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681#pullrequestreview-5317876602) - 2026-09-25
+* [Review] [Review on: Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680#pullrequestreview-5344175386) - 2026-09-28
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [fix: remove parenthesis for historical backfill](https://github.com/sigp/lighthouse/pull/9814) - 2026-08-15
 ## Q2 2026

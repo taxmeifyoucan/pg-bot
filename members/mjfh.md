@@ -64,6 +64,10 @@ Team: Nimbus
 * [Pull Request] [Snap2 sync restart test1](https://github.com/status-im/nimbus-eth1/pull/4854) - 2026-09-25
 * [Pull Request] [Snap2 sync fix missing stuff](https://github.com/status-im/nimbus-eth1/pull/4851) - 2026-09-25
 * [Commit] [Snap2 sync fix missing stuff (#4851)](https://github.com/status-im/nimbus-eth1/commit/27008edb5a775c8bc8abbd53c7e20342a7bb18d2) - 2026-09-25
+* [Pull Request] [Snap2 sync reload prepper](https://github.com/status-im/nimbus-eth1/pull/4866) - 2026-09-28
+* [Pull Request] [Beacon sync fix garbled accounting fix](https://github.com/status-im/nimbus-eth1/pull/4865) - 2026-09-28
+* [Commit] [Snap2 sync reload prepper (#4866)](https://github.com/status-im/nimbus-eth1/commit/ee2df90899d004305df587ef79aec6eeff586005) - 2026-09-28
+* [Commit] [Beacon sync fix garbled accounting fix (#4865)](https://github.com/status-im/nimbus-eth1/commit/9b7ad4f180a3e9e19b47071fdcf1f11f1a34d4f9) - 2026-09-28
 ## Q2 2026
 
 

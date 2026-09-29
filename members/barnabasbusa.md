@@ -172,6 +172,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [Enforce EIP-7843 slotNumber presence in Amsterdam header validation](https://github.com/besu-eth/besu/pull/11084) - 2026-08-19
 * [Pull Request] [Return hex-encoded transactions from engine_getInclusionListV1](https://github.com/besu-eth/besu/pull/11184) - 2026-08-28
+* [Pull Request] [Default EIP-7002/EIP-7251 request contract addresses when absent from genesis](https://github.com/besu-eth/besu/pull/11384) - 2026-09-28
+* [Issue] [Geth-format genesis with `ethash` (e.g. mainnet genesis.json) fails to start: "Withdrawal Request Contract Address not found"](https://github.com/besu-eth/besu/issues/11383) - 2026-09-28
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
 

@@ -82,6 +82,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat: add EIP-8024 configuration flag](https://github.com/bluealloy/revm/pull/3942) - 2026-09-24
 * [Pull Request] [chore: release v120](https://github.com/bluealloy/revm/pull/3941) - 2026-09-24
 * [Commit] [chore: release v120 (#3941)](https://github.com/bluealloy/revm/commit/51bfea1650e720aa1b2c433cd65707995409d634) - 2026-09-24
+* [Review] [Review on: feat: expose BAL account lookup completeness](https://github.com/bluealloy/revm/pull/3948#pullrequestreview-5337908425) - 2026-09-28
+* [Commit] [feat: add EIP-8024 configuration flag (#3942)](https://github.com/bluealloy/revm/commit/57671c42f7851736e46150d74fdb745660edef20) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

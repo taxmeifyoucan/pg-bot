@@ -310,6 +310,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Express the capped refund expectations as fractions of the gas](https://github.com/ipsilon/evmone/pull/1742) - 2026-09-27
 * [Pull Request] [state: Charge the recipient creation before resolving the delegation](https://github.com/ipsilon/evmone/pull/1740) - 2026-09-27
 * [Pull Request] [state: Pass the transaction to process_authorization_list()](https://github.com/ipsilon/evmone/pull/1741) - 2026-09-27
+* [Pull Request] [ci: Benchmark the walltime on CodSpeed](https://github.com/ipsilon/evmone/pull/1743) - 2026-09-28
+* [Commit] [state: Pass the transaction to process_authorization_list() (#1741)](https://github.com/ipsilon/evmone/commit/6aebdeb5ff449bad7c4aab0ca235fc116ccbe06e) - 2026-09-28
+* [Commit] [state: Charge the recipient creation before resolving the delegation (#1740)](https://github.com/ipsilon/evmone/commit/875ac7fffe3428d3d35825da053be2eabc33b3b0) - 2026-09-28
+* [Commit] [test: Express the capped refund expectations as fractions of the gas (#1742)](https://github.com/ipsilon/evmone/commit/9921e040141f01443bd57aa077fbc0805442977b) - 2026-09-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -442,9 +446,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [build: give C++ deps the same cgo flags as C](https://github.com/erigontech/erigon/pull/23874) - 2026-09-08
 * [Pull Request] [build: compile the cgo deps with clang-22](https://github.com/erigontech/erigon/pull/23893) - 2026-09-09
 * [Review] [Review on: build, ci: require x86-64-v2 on amd64, drop the v1 release artifact](https://github.com/erigontech/erigon/pull/23877#pullrequestreview-5151117149) - 2026-09-09
+* [Pull Request] [execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363) - 2026-09-28
+* [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5337274069) - 2026-09-28
+* [Pull Request] [execution/vm: SSE4 JUMPDEST analysis](https://github.com/erigontech/erigon/pull/24364) - 2026-09-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 
+* [Issue] [core: BlockChain.Stop does not wait for the block prefetcher, which refills the reset pathdb clean caches (leak)](https://github.com/ethereum/go-ethereum/issues/35817) - 2026-09-28
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Amsterdam: failing value-bearing CALLCODE to a precompile is charged no gas](https://github.com/besu-eth/besu/issues/11124) - 2026-08-22
 
@@ -452,6 +460,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [Amsterdam: spilled EIP-8037 state gas is credited back to the parent reservoir on halt](https://github.com/NethermindEth/nethermind/issues/12964) - 2026-08-23
 
+* [Issue] [NativeAOT: ConfigProvider fails, TypeDiscovery calls Assembly.GetReferencedAssemblies](https://github.com/NethermindEth/nethermind/issues/13992) - 2026-09-28
+* [Issue] [NativeAOT: CollectionExtensions.NoResizeClear/NoLockClear throw (reflection on ConcurrentDictionary internals)](https://github.com/NethermindEth/nethermind/issues/13991) - 2026-09-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594#pullrequestreview-5091016403) - 2026-09-02
 * [Review] [Review on: eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594#pullrequestreview-5099586793) - 2026-09-03

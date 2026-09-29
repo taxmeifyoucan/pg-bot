@@ -77,6 +77,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-4444: Move to Draft](https://github.com/ethereum/EIPs/pull/12257#pullrequestreview-5051275509) - 2026-08-28
 * [Review] [Review on: Update EIP-8141: Remove a redundant check for frame's state gas limit](https://github.com/ethereum/EIPs/pull/12276#pullrequestreview-5081112121) - 2026-09-01
 * [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5292351500) - 2026-09-23
+* [Review] [Review on: Update EIP-4444: Update HISTORY_PRUNE_EPOCHS to 14,299 epochs](https://github.com/ethereum/EIPs/pull/12388#pullrequestreview-5344528894) - 2026-09-28
+* [Pull Request] [Update EIP-8141: deploy frames expiry verifier as standard contract](https://github.com/ethereum/EIPs/pull/12387) - 2026-09-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06
@@ -97,6 +99,8 @@ Team: Geth
 * [Review] [Review on: cmd/evm: test missing London base fee config](https://github.com/ethereum/go-ethereum/pull/35636#pullrequestreview-5094687581) - 2026-09-02
 * [Pull Request] [core: implement eip-8141 frames tx](https://github.com/ethereum/go-ethereum/pull/35666) - 2026-09-07
 * [Review] [Review on: docs: remove obsolete light node claim from README](https://github.com/ethereum/go-ethereum/pull/35683#pullrequestreview-5159651492) - 2026-09-09
+* [Pull Request] [core,internal/ethapi: Always write signature list and blob versioned hashes for frames RPC](https://github.com/ethereum/go-ethereum/pull/35824) - 2026-09-28
+* [Review] [Review on: core, internal/ethapi, ethclient: fix frame transaction receipt status and RPC fields](https://github.com/ethereum/go-ethereum/pull/35810#pullrequestreview-5342874145) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 
@@ -108,6 +112,7 @@ Team: Geth
 * [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5249468609) - 2026-09-18
 * [Pull Request] [schemas: specify eth_simulateV1 payload type](https://github.com/ethereum/execution-apis/pull/896) - 2026-09-22
 * [Commit] [schemas: specify eth_simulateV1 payload type (#896)](https://github.com/ethereum/execution-apis/commit/5bcdc34a477b10af278c079525374e6a4046f291) - 2026-09-22
+* [Review] [Review on: feat: frame transaction definitions](https://github.com/ethereum/execution-apis/pull/907#pullrequestreview-5343342439) - 2026-09-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix(rpc-compat): support large fixture messages](https://github.com/ethereum/hive/pull/1583) - 2026-07-22
 * [Commit] [fix(rpc-compat): support large fixture messages (#1583)](https://github.com/ethereum/hive/commit/ce2a6785d5f7dbf45f24d2b9e7a2620c4716922a) - 2026-07-22

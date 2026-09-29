@@ -77,6 +77,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Remove ExecutionStatus predicates with no production callers](https://github.com/sigp/lighthouse/pull/10129) - 2026-09-27
 * [Pull Request] [Remove ExecutionStatus predicates with no production callers](https://github.com/sigp/lighthouse/pull/10132) - 2026-09-27
 * [Pull Request] [Replay votes through compute_deltas when resetting to optimistic](https://github.com/sigp/lighthouse/pull/10133) - 2026-09-27
+* [Review] [Review on: Work around libp2p derive warning on Rust 1.100](https://github.com/sigp/lighthouse/pull/10153#pullrequestreview-5347395029) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 

@@ -59,6 +59,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: version: start v1.17.7 cycle](https://github.com/ethereum/go-ethereum/pull/35771#pullrequestreview-5286187036) - 2026-09-23
 * [Review] [Review on: version: release 1.17.6](https://github.com/ethereum/go-ethereum/pull/35770#pullrequestreview-5286110805) - 2026-09-23
 * [Review] [Review on: eth/downloader: prioritize head access lists over the memory allowance](https://github.com/ethereum/go-ethereum/pull/35780#pullrequestreview-5301190431) - 2026-09-24
+* [Pull Request] [cmd/devp2p: make blobCount in makeBlobTxs per transaction](https://github.com/ethereum/go-ethereum/pull/35818) - 2026-09-28
+* [Review] [Review on: cmd/devp2p: fix blob transaction availability test](https://github.com/ethereum/go-ethereum/pull/35805#pullrequestreview-5334280896) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 * [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12

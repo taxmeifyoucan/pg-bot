@@ -256,6 +256,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): swap stack words in registers](https://github.com/NethermindEth/nethermind/pull/13977#pullrequestreview-5331801810) - 2026-09-27
 * [Commit] [Clear sparse access journals by removing recorded entries (#13798)](https://github.com/NethermindEth/nethermind/commit/d4c8a1ee0464a6fd13773eafa70ee79da557e02a) - 2026-09-28
 * [Commit] [perf: remove small recurring allocations in metrics, scopes, trie and EVM (#13841)](https://github.com/NethermindEth/nethermind/commit/f43981f75428fd975d3e9d5c6aacb9a169b9ed1a) - 2026-09-27
+* [Commit] [perf(zkevm): swap stack words in registers (#13977)](https://github.com/NethermindEth/nethermind/commit/ccb1a3f74f179a91de0c31bdea6065effab0a8af) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

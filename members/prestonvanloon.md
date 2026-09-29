@@ -122,6 +122,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Fix SSZ code generation when cross-compiling](https://github.com/OffchainLabs/prysm/pull/17565) - 2026-09-25
 * [Pull Request] [E2E: tolerate network-wide skipped slots in the metrics head-slot check](https://github.com/OffchainLabs/prysm/pull/17564) - 2026-09-25
 * [Commit] [Fix SSZ code generation when cross-compiling (#17565)](https://github.com/OffchainLabs/prysm/commit/5a12fcd9398ca8875efaa74486685b659568d4aa) - 2026-09-25
+* [Pull Request] [Changelog v7.2.0](https://github.com/OffchainLabs/prysm/pull/17572) - 2026-09-28
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75#pullrequestreview-5282164914) - 2026-09-22

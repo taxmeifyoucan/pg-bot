@@ -51,6 +51,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Do not use UInt256 in TLoad/TStore](https://github.com/besu-eth/besu/pull/11348) - 2026-09-22
 * [Commit] [Do not use UInt256 in TLoad/TStore (#11348)](https://github.com/besu-eth/besu/commit/028f9d7391b1a85885a87d6c6f931bad7610da8c) - 2026-09-22
 * [Pull Request] [Make AddressStorageSlotKey hashcode seeded](https://github.com/besu-eth/besu/pull/11369) - 2026-09-25
+* [Review] [Review on: Make AddressStorageSlotKey hashcode seeded](https://github.com/besu-eth/besu/pull/11369#pullrequestreview-5340028173) - 2026-09-28
 ## Q2 2026
 
 

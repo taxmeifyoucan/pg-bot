@@ -50,6 +50,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [refactor(zkevm): dedupe MPT walk and storage writes in witness code](https://github.com/ethereum/execution-specs/pull/3659) - 2026-09-27
 * [Pull Request] [refactor(zkevm): simplify encode and decode execution requests](https://github.com/ethereum/execution-specs/pull/3658) - 2026-09-27
 * [Pull Request] [refactor(zkevm): always include the parent header in the execution witness](https://github.com/ethereum/execution-specs/pull/3657) - 2026-09-27
+* [Pull Request] [feat(zkevm): add stateless bytes to mutated blocks and engine payloads](https://github.com/ethereum/execution-specs/pull/3669) - 2026-09-28
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12

@@ -36,6 +36,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [perf(evm): keep SUB, SHL and SHR handlers free of out-of-line calls (#13802)](https://github.com/NethermindEth/nethermind/commit/4b6d8edffef2c12dba1eab94b33f8a8eaf445ec0) - 2026-09-25
 * [Commit] [perf(rpc): reuse the hash and CodeInfo of repeated state-override code (#13808)](https://github.com/NethermindEth/nethermind/commit/86680b389b4c8179a3009e8417055b0e08bcb879) - 2026-09-25
 * [Commit] [test(engine): return from SendNewBlockV2 only once the block is committed (#13764)](https://github.com/NethermindEth/nethermind/commit/4295b7ffc80cfd2935c678aaad3b007a173ef814) - 2026-09-25
+* [Pull Request] [perf(evm): run MLOAD and MSTORE frameless in the untraced dispatch](https://github.com/NethermindEth/nethermind/pull/14028) - 2026-09-29
+* [Review] [Review on: perf(evm): run MLOAD and MSTORE frameless in the untraced dispatch](https://github.com/NethermindEth/nethermind/pull/14028#pullrequestreview-5346233750) - 2026-09-29
+* [Pull Request] [perf(flat): hold carry-forward slot reads in a fixed set-associative table](https://github.com/NethermindEth/nethermind/pull/14027) - 2026-09-28
+* [Review] [Review on: perf(flat): hold carry-forward slot reads in a fixed set-associative table](https://github.com/NethermindEth/nethermind/pull/14027#pullrequestreview-5346186847) - 2026-09-29
+* [Pull Request] [fix(flat): recheck the carry-forward generation after a cache hit](https://github.com/NethermindEth/nethermind/pull/14026) - 2026-09-28
+* [Review] [Review on: fix(flat): recheck the carry-forward generation after a cache hit](https://github.com/NethermindEth/nethermind/pull/14026#pullrequestreview-5345952297) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652992370) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652988229) - 2026-07-08

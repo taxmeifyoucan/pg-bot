@@ -175,6 +175,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878#pullrequestreview-5307487497) - 2026-09-24
 * [Review] [Review on: Introduce ParentPayloadStatus for the parent payload edge](https://github.com/sigp/lighthouse/pull/10121#pullrequestreview-5310672534) - 2026-09-24
 * [Review] [Review on: Remove perfidious fn ExecutionStatus::block_hash](https://github.com/sigp/lighthouse/pull/10126#pullrequestreview-5321648040) - 2026-09-25
+* [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5335118616) - 2026-09-28
+* [Review] [Review on: Eagerly sign sync committee messages on head events](https://github.com/sigp/lighthouse/pull/9675#pullrequestreview-5334845088) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

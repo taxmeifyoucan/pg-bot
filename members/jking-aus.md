@@ -6,6 +6,11 @@ Github: [@jking-aus](https://github.com/jking-aus)
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Work around libp2p derive warning on Rust 1.100](https://github.com/sigp/lighthouse/pull/10153#pullrequestreview-5347355056) - 2026-09-29
 ## Q2 2026
 
 

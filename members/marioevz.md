@@ -144,6 +144,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): Implement missing EIP-7778 checklist items](https://github.com/ethereum/execution-specs/commit/903b48f152c932f6e47a615f0f7f009c56f1d92b) - 2026-09-04
 * [Commit] [feat(test-specs): Implement `gas_used` transaction receipt check](https://github.com/ethereum/execution-specs/commit/bf21c5d06b96352498d152b81fb49cf2afa0743b) - 2026-09-04
 * [Commit] [feat(test-tools): Implement `GasConsumer` (#3497)](https://github.com/ethereum/execution-specs/commit/a139673b3cf967fed068c1cb65cb95276a1d9eb0) - 2026-09-07
+* [Review] [Review on: perf(test-fixtures): stream fixture hash through iterencode](https://github.com/ethereum/execution-specs/pull/3650#pullrequestreview-5344152884) - 2026-09-28
+* [Review] [Review on: feat(test-execute): validate implicit gas limits with eth_estimateGas](https://github.com/ethereum/execution-specs/pull/3528#pullrequestreview-5345488032) - 2026-09-28
+* [Review] [Review on: fix(fill): deselect test items that request no spec type](https://github.com/ethereum/execution-specs/pull/3630#pullrequestreview-5345060463) - 2026-09-28
+* [Review] [Review on: perf(test-fixtures): spill large payload lists to disk](https://github.com/ethereum/execution-specs/pull/3648#pullrequestreview-5344766992) - 2026-09-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

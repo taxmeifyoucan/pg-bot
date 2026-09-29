@@ -360,6 +360,19 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681#pullrequestreview-5319239912) - 2026-09-25
 * [Commit] [Rename configuration to configs (#5682)](https://github.com/ethereum/consensus-specs/commit/caa9c8e804efb6ab43cddc7d536e1172f5e1ed87) - 2026-09-25
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5692#pullrequestreview-5333176594) - 2026-09-28
+* [Review] [Review on: Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680#pullrequestreview-5344229689) - 2026-09-28
+* [Pull Request] [Refactor gossip tests timing outputs](https://github.com/ethereum/consensus-specs/pull/5697) - 2026-09-28
+* [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5345379900) - 2026-09-28
+* [Pull Request] [Where it makes sense, replace `Sequence` with `list`](https://github.com/ethereum/consensus-specs/pull/5696) - 2026-09-28
+* [Review] [Review on: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/ethereum/consensus-specs/pull/5673#pullrequestreview-5340677570) - 2026-09-28
+* [Review] [Review on: Change some function signatures to return the right type](https://github.com/ethereum/consensus-specs/pull/5693#pullrequestreview-5339510513) - 2026-09-28
+* [Commit] [Use `X | None` instead of `typing.Optional` (#5689)](https://github.com/ethereum/consensus-specs/commit/a039ac48ccb2ffd806bfbb30ec01ce0b8c462521) - 2026-09-28
+* [Commit] [Use `collections.defaultdict` instead of `typing.DefaultDict` (#5688)](https://github.com/ethereum/consensus-specs/commit/c8de881f74a01d8c8f616132519fcba6d1546c4f) - 2026-09-28
+* [Commit] [Use builtin `set` instead of `typing.Set` (#5687)](https://github.com/ethereum/consensus-specs/commit/87a3d91c9d57e4b245dec80f33194e0d02d0f129) - 2026-09-28
+* [Commit] [Use builtin `tuple` instead of `typing.Tuple` (#5686)](https://github.com/ethereum/consensus-specs/commit/772e8eb33fb4480b0fee174ea88b7f5b14c24b18) - 2026-09-28
+* [Commit] [Use builtin `dict` instead of `typing.Dict` (#5685)](https://github.com/ethereum/consensus-specs/commit/95da06fdf969ae4b613d7b0e28692ceee58beaf6) - 2026-09-28
+* [Commit] [Use double quotes for strings in generated spec (#5684)](https://github.com/ethereum/consensus-specs/commit/915999080e17e55c41cec7f6202f53786d0a2c7a) - 2026-09-28
+* [Commit] [Run ruff on generated spec (#5683)](https://github.com/ethereum/consensus-specs/commit/a0b310dc0c707fdb56be578553c742944ffba977) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

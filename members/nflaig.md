@@ -718,6 +718,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add ptc state endpoint](https://github.com/ChainSafe/lodestar/pull/10190) - 2026-09-26
 * [Review] [Review on: fix: keep earliestAvailableSlot at anchor slot on checkpoint sync](https://github.com/ChainSafe/lodestar/pull/10186#pullrequestreview-5325091598) - 2026-09-26
 * [Review] [Review on: fix: initialize earliestAvailableSlot from retained history on startup](https://github.com/ChainSafe/lodestar/pull/10185#pullrequestreview-5324979752) - 2026-09-26
+* [Pull Request] [fix: use preallocated buffers in `getBlobsV2`](https://github.com/ChainSafe/lodestar/pull/10203) - 2026-09-28
+* [Review] [Review on: fix: use preallocated buffers in `getBlobsV2`](https://github.com/ChainSafe/lodestar/pull/10203#pullrequestreview-5344164120) - 2026-09-28
+* [Review] [Review on: chore: payload envelope reconstruction follow-ups from #10089](https://github.com/ChainSafe/lodestar/pull/10192#pullrequestreview-5338391450) - 2026-09-28
+* [Pull Request] [feat: support engine api over REST with SSZ encoding](https://github.com/ChainSafe/lodestar/pull/10204) - 2026-09-28
+* [Pull Request] [fix: delete orphaned execution payload envelopes from hot db](https://github.com/ChainSafe/lodestar/pull/10206) - 2026-09-28
+* [Pull Request] [fix: serve duplicate roots once and stream envelopes by root in EL batches](https://github.com/ChainSafe/lodestar/pull/10207) - 2026-09-28
+* [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5340670231) - 2026-09-28
+* [Review] [Review on: chore(deps): bump the actions group with 3 updates](https://github.com/ChainSafe/lodestar/pull/10205#pullrequestreview-5340687871) - 2026-09-28
+* [Review] [Review on: feat: add `block_hash` and `builder_index` to block event](https://github.com/ChainSafe/lodestar/pull/9854#pullrequestreview-5338455812) - 2026-09-28
+* [Review] [Review on: chore: merge v1.49.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/10202#pullrequestreview-5339523188) - 2026-09-28
+* [Commit] [fix: use preallocated buffers in `getBlobsV2` (#10203)](https://github.com/ChainSafe/lodestar/commit/5866a397b62dac415fa9a81d06686b0765e8a7e3) - 2026-09-28
+* [Commit] [feat: add builder pending payments and withdrawals endpoints (#10189)](https://github.com/ChainSafe/lodestar/commit/0a27fd270fbc6ec118b47534be3e0d72b9b0383b) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -792,6 +804,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680) - 2026-09-25
 * [Review] [Review on: Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680#pullrequestreview-5320274090) - 2026-09-25
 * [Pull Request] [Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681) - 2026-09-25
+* [Pull Request] [Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695) - 2026-09-28
+* [Commit] [Reduce min epochs for block requests in Gloas (#5680)](https://github.com/ethereum/consensus-specs/commit/e321975f8295d6872adfeb5d35db5202676739a0) - 2026-09-28
+* [Commit] [Do not prune non-finalized blocks (#5681)](https://github.com/ethereum/consensus-specs/commit/d6d1ab09dc1fd8890083096fd996f3a2c4244041) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -810,6 +825,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8282: Sync specification with sys-asm@83f9801](https://github.com/ethereum/EIPs/pull/12120#pullrequestreview-4982920171) - 2026-08-20
 * [Pull Request] [Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347) - 2026-09-16
 * [Review] [Review on: Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347#pullrequestreview-5268765902) - 2026-09-21
+* [Review] [Review on: Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347#pullrequestreview-5344377694) - 2026-09-28
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 
@@ -867,11 +883,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [Block access list retention should follow the history expiry window](https://github.com/NethermindEth/nethermind/issues/13553) - 2026-09-17
 
+* [Issue] [SSZ-REST engine API cannot resolve the Eth-Execution-Version fork on chainspec based networks](https://github.com/NethermindEth/nethermind/issues/14006) - 2026-09-28
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Block access list retention should follow the history expiry window](https://github.com/paradigmxyz/reth/issues/27293) - 2026-09-17
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Issue] [Block access list retention should follow the history expiry window](https://github.com/status-im/nimbus-eth1/issues/4809) - 2026-09-17
+* [Issue] [getPayloadBodiesByHashV2 returns null blockAccessList for blocks without withdrawals](https://github.com/status-im/nimbus-eth1/issues/4867) - 2026-09-28
 ## Q2 2026
 
 

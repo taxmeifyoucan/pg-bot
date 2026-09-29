@@ -707,6 +707,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845#pullrequestreview-5314984475) - 2026-09-25
 * [Issue] [rpc: bound transaction decoding in trace_rawTransaction](https://github.com/erigontech/erigon/issues/24320) - 2026-09-25
 * [Commit] [execution/engineapi: enforce funding order in CREATE2 BAL test (#24309)](https://github.com/erigontech/erigon/commit/5916d286c287f495351201a5dff60433f64ff35c) - 2026-09-27
+* [Review] [Review on: execution/tracing: no gasFunc gas mutations and initial create state charge in dynamicGas](https://github.com/erigontech/erigon/pull/24370#pullrequestreview-5339869078) - 2026-09-28
+* [Pull Request] [p2p/rlpx: grow read buffers as data arrives](https://github.com/erigontech/erigon/pull/24374) - 2026-09-28
+* [Review] [Review on: [r3.7] docs(site): 3.6.1 disk sizes and sync times, x86-64-v2 CPU baseline, 3.7 upgrade notes](https://github.com/erigontech/erigon/pull/24324#pullrequestreview-5335499914) - 2026-09-28
+* [Review] [Review on: cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/23845#pullrequestreview-5335269762) - 2026-09-28
+* [Review] [Review on: [r3.7] docs(site): carry the v3.5 archive onto release/3.7](https://github.com/erigontech/erigon/pull/24125#pullrequestreview-5335412676) - 2026-09-28
+* [Review] [Review on: ci: update stable fixtures to v21.0.0 glamsterdam and skip devnet shards](https://github.com/erigontech/erigon/pull/24362#pullrequestreview-5338030473) - 2026-09-28
+* [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5339699194) - 2026-09-28
+* [Review] [Review on: cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5335776091) - 2026-09-28
+* [Commit] [.github/actions: retry Go module downloads (#23282)](https://github.com/erigontech/erigon/commit/76c7bab643918c5ba87129834a91d8bc3466357d) - 2026-09-28
+* [Commit] [rpc, txpool: reject oversized transactions before RPC decoding (#24315)](https://github.com/erigontech/erigon/commit/701bbfb91e77e25b7e14fb2b368fea4f5f11b5dd) - 2026-09-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

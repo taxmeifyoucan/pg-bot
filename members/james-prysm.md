@@ -268,6 +268,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Apply block PTC votes to every seat and skip votes for older blocks](https://github.com/OffchainLabs/prysm/pull/17555#pullrequestreview-5306147137) - 2026-09-24
 * [Commit] [intialize the finalized dependent root from the startup  (#17536)](https://github.com/OffchainLabs/prysm/commit/88db79f60386af6b493b94de03f9b79000552c74) - 2026-09-24
 * [Pull Request] [Gloas batch envelope binding](https://github.com/OffchainLabs/prysm/pull/17566) - 2026-09-25
+* [Review] [Review on: Fix data race in proposer settings snapshot access](https://github.com/OffchainLabs/prysm/pull/17569#pullrequestreview-5340390258) - 2026-09-28
+* [Review] [Review on: Reject Gloas blocks whose bid does not build on the parent's execution head](https://github.com/OffchainLabs/prysm/pull/17575#pullrequestreview-5344671220) - 2026-09-28
+* [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5344496644) - 2026-09-28
+* [Review] [Review on: Accept late previous-fork attestations on the current fork's subnet topic](https://github.com/OffchainLabs/prysm/pull/17562#pullrequestreview-5339899091) - 2026-09-28
+* [Review] [Review on: Fix --max-health-checks off-by-one](https://github.com/OffchainLabs/prysm/pull/17570#pullrequestreview-5340349074) - 2026-09-28
+* [Review] [Review on: Changelog v7.2.0](https://github.com/OffchainLabs/prysm/pull/17572#pullrequestreview-5340907666) - 2026-09-28
+* [Commit] [adding builder settings flags for proposer settings (#17519)](https://github.com/OffchainLabs/prysm/commit/1b130c43f7509e91579cb2b270f7f4175456601f) - 2026-09-29
+* [Commit] [add explicit payload envelope checks (#17445)](https://github.com/OffchainLabs/prysm/commit/c0d71960d9b8c8ee5831dbd1e6c813e6bb660434) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

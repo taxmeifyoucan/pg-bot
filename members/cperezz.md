@@ -74,6 +74,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [engine_forkchoiceUpdated applies the reorg before returning -38002 (forkchoice state not updated atomically)](https://github.com/ethereum/go-ethereum/issues/35713) - 2026-09-15
 * [Pull Request] [triedb/pathdb: release clean caches when disabling](https://github.com/ethereum/go-ethereum/pull/35789) - 2026-09-24
 * [Issue] [triedb/pathdb: Disable leaks the disk layer's clean caches](https://github.com/ethereum/go-ethereum/issues/35788) - 2026-09-24
+* [Commit] [triedb/pathdb: release clean caches when disabling (#35789)](https://github.com/ethereum/go-ethereum/commit/59529d165d84125d241e38145a2e2b0710b498d6) - 2026-09-28
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order](https://github.com/erigontech/erigon/pull/23473#pullrequestreview-4994264550) - 2026-08-21
 

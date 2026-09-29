@@ -52,6 +52,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Commit] [ci: default all sync test networks to Spot provisioning (#13556)](https://github.com/NethermindEth/nethermind/commit/c1de81265a14f58be81a5d2ca20e8565a37b3706) - 2026-09-17
 * [Review] [Review on: ci: allow collaborators to request OCR reviews in PR comments](https://github.com/NethermindEth/nethermind/pull/13580#pullrequestreview-5248935412) - 2026-09-18
 * [Review] [Review on: fix: keep AI review configuration out of public reports](https://github.com/NethermindEth/nethermind/pull/13579#pullrequestreview-5248610385) - 2026-09-18
+* [Pull Request] [ci: stop choosing smoke-test VM types here and move hoodi/chiado sync runners to C3D](https://github.com/NethermindEth/nethermind/pull/14007) - 2026-09-28
 ## Q2 2026
 
 

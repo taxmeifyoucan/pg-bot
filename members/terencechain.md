@@ -272,6 +272,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Reject Builder-API bids whose block hash equals the parent block hash](https://github.com/OffchainLabs/prysm/pull/17556) - 2026-09-24
 * [Pull Request] [Apply block PTC votes to every seat and skip votes for older blocks](https://github.com/OffchainLabs/prysm/pull/17555) - 2026-09-24
 * [Pull Request] [Accept late previous-fork attestations on the current fork's subnet topic](https://github.com/OffchainLabs/prysm/pull/17562) - 2026-09-25
+* [Review] [Review on: Unify PTC reads and retry REST nodes independently](https://github.com/OffchainLabs/prysm/pull/17552#pullrequestreview-5342407939) - 2026-09-28
+* [Review] [Review on: adding builder settings flags for proposer settings](https://github.com/OffchainLabs/prysm/pull/17519#pullrequestreview-5342395806) - 2026-09-28
+* [Review] [Review on: Proposer: respect PTC blob data unavailable majority](https://github.com/OffchainLabs/prysm/pull/17537#pullrequestreview-5346463290) - 2026-09-29
+* [Pull Request] [Reject Gloas blocks whose bid does not build on the parent's execution head](https://github.com/OffchainLabs/prysm/pull/17575) - 2026-09-28
+* [Pull Request] [Apply gossip clock disparity to Gloas payload attestation, bid, and proposer preferences slot checks](https://github.com/OffchainLabs/prysm/pull/17576) - 2026-09-28
+* [Pull Request] [Ignore Gloas payload-present attestations while the payload is optimistic](https://github.com/OffchainLabs/prysm/pull/17574) - 2026-09-28
+* [Commit] [Reject PTC lookups for pre-Gloas slots at the fork epoch (#17531)](https://github.com/OffchainLabs/prysm/commit/cec7069f8e3d7af5e5ef036633de66c2199c6184) - 2026-09-28
+* [Commit] [Reject by-root Gloas column sidecars whose slot does not match the block (#17557)](https://github.com/OffchainLabs/prysm/commit/ff2341c1fe3219c47a37a973038ae80967794b60) - 2026-09-28
+* [Commit] [Apply block PTC votes to every seat and skip votes for older blocks (#17555)](https://github.com/OffchainLabs/prysm/commit/413fcb51ee1f1b277eefe88ce0653b24aef2e115) - 2026-09-28
+* [Commit] [Reject Builder-API bids whose block hash equals the parent block hash (#17556)](https://github.com/OffchainLabs/prysm/commit/6c92ec84ece281da74b1c279d8a2982819974d5b) - 2026-09-28
+* [Commit] [Accept late previous-fork attestations on the current fork's subnet topic (#17562)](https://github.com/OffchainLabs/prysm/commit/7b547d605d5a5f2af549f30e006dd83bddab47b9) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

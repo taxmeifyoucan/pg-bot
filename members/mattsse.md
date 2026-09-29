@@ -1032,6 +1032,41 @@ Team: Reth
 * [Commit] [fix(examples): stop subscription tasks when the client goes away (#27461)](https://github.com/paradigmxyz/reth/commit/f57be2b11c39b5544ce12a2c100f27c0314a456d) - 2026-09-26
 * [Commit] [fix(ipc): enforce max subscriptions per connection (#27459)](https://github.com/paradigmxyz/reth/commit/a68f9e19fe423eeb99f267c02ee94229648fb3ec) - 2026-09-26
 * [Review] [Review on: fix(rpc): log gas-cap clamping at debug without the request](https://github.com/paradigmxyz/reth/pull/27477#pullrequestreview-5329811276) - 2026-09-27
+* [Pull Request] [feat(trie): recover EIP-1186 account extensions](https://github.com/paradigmxyz/reth/pull/27524) - 2026-09-28
+* [Pull Request] [fix(trie): length-prefix stored walker nodes](https://github.com/paradigmxyz/reth/pull/27523) - 2026-09-28
+* [Pull Request] [feat: add account-ext feature](https://github.com/paradigmxyz/reth/pull/27501) - 2026-09-28
+* [Pull Request] [refactor(rpc): use calc::base_block_reward](https://github.com/paradigmxyz/reth/pull/27522) - 2026-09-28
+* [Pull Request] [refactor(rpc): use EthRpcErrorCode::PrunedHistory](https://github.com/paradigmxyz/reth/pull/27521) - 2026-09-28
+* [Pull Request] [refactor: use BlockId::latest()](https://github.com/paradigmxyz/reth/pull/27520) - 2026-09-28
+* [Pull Request] [refactor(rpc): use SystemContract::amsterdam](https://github.com/paradigmxyz/reth/pull/27519) - 2026-09-28
+* [Pull Request] [test(ef-tests): use B256::from for storage slots](https://github.com/paradigmxyz/reth/pull/27518) - 2026-09-28
+* [Pull Request] [chore(examples): use alloy SYSTEM_ADDRESS](https://github.com/paradigmxyz/reth/pull/27517) - 2026-09-28
+* [Pull Request] [chore(examples): use eip4844_transactions_iter](https://github.com/paradigmxyz/reth/pull/27516) - 2026-09-28
+* [Pull Request] [test(stages): use Address::create2_from_code](https://github.com/paradigmxyz/reth/pull/27515) - 2026-09-28
+* [Pull Request] [refactor(payload): use alloy_rlp::encode in payload_id](https://github.com/paradigmxyz/reth/pull/27514) - 2026-09-28
+* [Pull Request] [refactor(node): use BlockNumHash::matches_block_or_num](https://github.com/paradigmxyz/reth/pull/27513) - 2026-09-28
+* [Pull Request] [refactor(engine): use decoded_transactions in SSZ](https://github.com/paradigmxyz/reth/pull/27512) - 2026-09-28
+* [Pull Request] [refactor(era): decode proof bytes with decode_bytes](https://github.com/paradigmxyz/reth/pull/27511) - 2026-09-28
+* [Pull Request] [refactor(era): use Eip658Value::is_post_state](https://github.com/paradigmxyz/reth/pull/27510) - 2026-09-28
+* [Pull Request] [refactor(era): use BlockHeader::is_zero_difficulty](https://github.com/paradigmxyz/reth/pull/27509) - 2026-09-28
+* [Pull Request] [refactor(e2e): use payload status predicates](https://github.com/paradigmxyz/reth/pull/27508) - 2026-09-28
+* [Pull Request] [refactor: use ForkchoiceState::same_hash](https://github.com/paradigmxyz/reth/pull/27507) - 2026-09-28
+* [Pull Request] [refactor(chainspec): use is_london_active_at_block](https://github.com/paradigmxyz/reth/pull/27506) - 2026-09-28
+* [Pull Request] [refactor(chainspec): use ForkCondition::as_timestamp](https://github.com/paradigmxyz/reth/pull/27505) - 2026-09-28
+* [Pull Request] [refactor(rpc): use RewardAction::into_localized_trace](https://github.com/paradigmxyz/reth/pull/27504) - 2026-09-28
+* [Review] [Review on: fix(rpc): keep getLogs orchestration off blocking pool](https://github.com/paradigmxyz/reth/pull/27451#pullrequestreview-5343737249) - 2026-09-28
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 4 updates](https://github.com/paradigmxyz/reth/pull/27484#pullrequestreview-5343361970) - 2026-09-28
+* [Review] [Review on: docs(snap-sync): extend crate docs](https://github.com/paradigmxyz/reth/pull/27483#pullrequestreview-5337247511) - 2026-09-28
+* [Review] [Review on: perf(txpool): use a binary heap for the independent tx set](https://github.com/paradigmxyz/reth/pull/26957#pullrequestreview-5342448483) - 2026-09-28
+* [Issue] [test_reconnect_trusted is flaky and doesn't test trusted peer redial](https://github.com/paradigmxyz/reth/issues/27493) - 2026-09-28
+* [Commit] [fix(rpc): acquire tracing permits for otterscan trace methods (#27465)](https://github.com/paradigmxyz/reth/commit/60aeb53225c2ed80410c01bcfd922791480a31d2) - 2026-09-28
+* [Commit] [test(e2e): replace fixed sleeps with pool waits (#27500)](https://github.com/paradigmxyz/reth/commit/0fc98b4d82c717e01d99e2c285fd7516c4e19b79) - 2026-09-28
+* [Commit] [feat(net): dial explicitly added peers right away (#27499)](https://github.com/paradigmxyz/reth/commit/aec9993a0a7bcfe19a6e0776241a0dcb3fbb9730) - 2026-09-28
+* [Commit] [fix(cli): exit download right after completion (#27498)](https://github.com/paradigmxyz/reth/commit/84a5fd964434062b326f3359473f85d9952cd3bf) - 2026-09-28
+* [Commit] [test(net): fix flaky trusted reconnect test (#27494)](https://github.com/paradigmxyz/reth/commit/6534cb30d0999c1c7ec38c03bcb6b1c87aef067a) - 2026-09-28
+* [Commit] [refactor(net): simplify network test utils (#27453)](https://github.com/paradigmxyz/reth/commit/96d93d7a307ff13f049bc12fb922dd0a1954188c) - 2026-09-28
+* [Commit] [refactor: convert trie accounts with From (#27454)](https://github.com/paradigmxyz/reth/commit/6dcf705a7262a83f04db06d6d3615e47033bb850) - 2026-09-28
+* [Commit] [revert: "fix(storage): revert BAL store activation" (#27472)](https://github.com/paradigmxyz/reth/commit/f5060248edb3f39b8798ad719c9ba0ff5099447e) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -1063,6 +1098,7 @@ Team: Reth
 * [Commit] [refactor(state): use CodeChange accessors (#3916)](https://github.com/bluealloy/revm/commit/32b2c31d8abc6c6180f95fb5e09124537f8dcf7f) - 2026-09-16
 * [Commit] [fix(deps): update rustls to resolve RUSTSEC-2026-0285 (#3917)](https://github.com/bluealloy/revm/commit/1937b2e3571d3cc8bc3b3081492bd9be8fd9dc73) - 2026-09-16
 * [Pull Request] [feat: expose BAL account lookup completeness](https://github.com/bluealloy/revm/pull/3948) - 2026-09-27
+* [Commit] [feat: expose BAL account lookup completeness (#3948)](https://github.com/bluealloy/revm/commit/4f764fb9f5b09d5a35f1a433bcfb7a4923a702c4) - 2026-09-28
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26

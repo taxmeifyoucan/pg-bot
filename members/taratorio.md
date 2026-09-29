@@ -401,6 +401,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/engineapi: reject engine_getBlobsV1 post-osaka](https://github.com/erigontech/erigon/pull/21857#pullrequestreview-5313204250) - 2026-09-25
 * [Review] [Review on: execution/engineapi: enforce funding order in CREATE2 BAL test](https://github.com/erigontech/erigon/pull/24309#pullrequestreview-5328556269) - 2026-09-27
 * [Issue] [Glamsterdam: long SharedDomains commits prevent Erigon from keeping up with chain head](https://github.com/erigontech/erigon/issues/24348) - 2026-09-27
+* [Pull Request] [execution/tracing: no gasFunc gas mutations and initial create state charge in dynamicGas](https://github.com/erigontech/erigon/pull/24370) - 2026-09-28
+* [Pull Request] [ci: update stable fixtures to v21.0.0 glamsterdam and skip devnet shards](https://github.com/erigontech/erigon/pull/24362) - 2026-09-28
+* [Pull Request] [execution/commitment: preserve account updates when clearing storage](https://github.com/erigontech/erigon/pull/24359) - 2026-09-28
+* [Review] [Review on: execution/state,execution/types: rename receivers to ibs/ws/btx](https://github.com/erigontech/erigon/pull/24361#pullrequestreview-5335881183) - 2026-09-28
+* [Review] [Review on: rpc, txpool: reject oversized transactions before RPC decoding](https://github.com/erigontech/erigon/pull/24315#pullrequestreview-5335315929) - 2026-09-28
+* [Review] [Review on: lint: enable staticcheck's ST1019, ST1016, ST1012, ST1017, ST1005](https://github.com/erigontech/erigon/pull/24332#pullrequestreview-5333804778) - 2026-09-28
+* [Commit] [ci: update stable fixtures to v21.0.0 glamsterdam and skip devnet shards (#24362)](https://github.com/erigontech/erigon/commit/a1ce80fbf7508d1394367ba548cac3c60a425ece) - 2026-09-28
+* [Commit] [execution/commitment: preserve account updates when clearing storage (#24359)](https://github.com/erigontech/erigon/commit/b98a0a1008d24983d34a38156d361fc8643b6878) - 2026-09-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

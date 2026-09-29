@@ -496,6 +496,33 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: feat: EIP-3298 remove storage-clear refund and refund cap](https://github.com/NethermindEth/nethermind/pull/13928#pullrequestreview-5327152618) - 2026-09-26
 * [Pull Request] [perf(db): compress the code database with LZ4](https://github.com/NethermindEth/nethermind/pull/13907) - 2026-09-28
 * [Commit] [perf(db): compress the code database with LZ4 (#13907)](https://github.com/NethermindEth/nethermind/commit/04c5bb1dac8e689cc7f57145b8d1e35c8f9e3971) - 2026-09-28
+* [Pull Request] [fix(tracing): give a parity vmTrace frame operation its gas limit and receipt gasUsed](https://github.com/NethermindEth/nethermind/pull/14005) - 2026-09-28
+* [Review] [Review on: fix(tracing): give a parity vmTrace frame operation its gas limit and receipt gasUsed](https://github.com/NethermindEth/nethermind/pull/14005#pullrequestreview-5339587017) - 2026-09-28
+* [Pull Request] [refactor(eip8141): compile frame-tx tracer hooks out when not tracing](https://github.com/NethermindEth/nethermind/pull/14000) - 2026-09-28
+* [Review] [Review on: refactor(eip8141): compile frame-tx tracer hooks out when not tracing](https://github.com/NethermindEth/nethermind/pull/14000#pullrequestreview-5338785704) - 2026-09-28
+* [Review] [Review on: Deflake the ProtocolHandlerBase runner-reuse allocation probes](https://github.com/NethermindEth/nethermind/pull/13635#pullrequestreview-5345627588) - 2026-09-28
+* [Pull Request] [fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025) - 2026-09-28
+* [Review] [Review on: fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025#pullrequestreview-5345961751) - 2026-09-28
+* [Review] [Review on: test(txpool): run should_revalidate_after_queued_fork_reorg alone](https://github.com/NethermindEth/nethermind/pull/14009#pullrequestreview-5343101040) - 2026-09-28
+* [Pull Request] [perf(init): take the KZG trusted-setup load off the startup critical path](https://github.com/NethermindEth/nethermind/pull/13998) - 2026-09-28
+* [Review] [Review on: perf(init): take the KZG trusted-setup load off the startup critical path](https://github.com/NethermindEth/nethermind/pull/13998#pullrequestreview-5338332239) - 2026-09-28
+* [Pull Request] [fix(engine): return unsupported fork for newPayloadV3/V4 outside their fork windows](https://github.com/NethermindEth/nethermind/pull/14024) - 2026-09-28
+* [Review] [Review on: fix(engine): return unsupported fork for newPayloadV3/V4 outside their fork windows](https://github.com/NethermindEth/nethermind/pull/14024#pullrequestreview-5345707318) - 2026-09-28
+* [Review] [Review on: Fix use-after-return on the shared transaction pool in protocol-handler tests](https://github.com/NethermindEth/nethermind/pull/13674#pullrequestreview-5345667647) - 2026-09-28
+* [Review] [Review on: test: stop PrepareTx writing the built block back onto the fixture](https://github.com/NethermindEth/nethermind/pull/13681#pullrequestreview-5345580566) - 2026-09-28
+* [Review] [Review on: fix(nethtest): keep diagnostics off the --jsonout stdout document](https://github.com/NethermindEth/nethermind/pull/13638#pullrequestreview-5345521405) - 2026-09-28
+* [Pull Request] [fix(eth/70): stop receipt paging for blocks with unknown headers](https://github.com/NethermindEth/nethermind/pull/14018) - 2026-09-28
+* [Commit] [perf(init): take the KZG trusted-setup load off the startup critical path (#13998)](https://github.com/NethermindEth/nethermind/commit/c01c11ae003772a5e00348ca2541097f844ec0c3) - 2026-09-28
+* [Commit] [fix: support unsigned frame transaction simulation (#13911)](https://github.com/NethermindEth/nethermind/commit/45912ba3c49703d28846e4f56d4cbf52cd8eea9e) - 2026-09-28
+* [Commit] [fix(tracing): report the derived EIP-8141 frame-tx status to tracers and keep simulate logs to the receipt's (#13966)](https://github.com/NethermindEth/nethermind/commit/92ec3089ffae6547d2386719e7c47190294e080e) - 2026-09-28
+* [Commit] [fix: allow frame RPC requests without an outer recipient (#13910)](https://github.com/NethermindEth/nethermind/commit/7e4852c05db7c0d26c5edc0557e64f6df3f22e02) - 2026-09-28
+* [Commit] [fix(tracing): root parity traces of frame transactions in one transaction call (#13968)](https://github.com/NethermindEth/nethermind/commit/1f7f82759e009906d6e6c0ab36f8811d889ecf80) - 2026-09-28
+* [Commit] [fix(db): enumerate the whole code database, including unflushed writes (#13913)](https://github.com/NethermindEth/nethermind/commit/9487baeaa8bbb7e10cee8915a3c33b1f40298de4) - 2026-09-28
+* [Commit] [fix(tracing): record frame targets and payer in prestateTracer for frame transactions (#13964)](https://github.com/NethermindEth/nethermind/commit/0949ff4e8ff756f0700b286db8e0e29726b26891) - 2026-09-28
+* [Commit] [Re-execute a known block whose state was pruned (#13686)](https://github.com/NethermindEth/nethermind/commit/4a261d4d4b0e5a5d5ce882729c0e3f1af8575c71) - 2026-09-28
+* [Commit] [perf: re-attach stored block access lists to blocks replayed from the store (#13898)](https://github.com/NethermindEth/nethermind/commit/0b4cefe392351a7aac78f974d0ec4fc93b534245) - 2026-09-28
+* [Commit] [perf(precompiles): decode BLS12-381 inputs within a worker budget (#13901)](https://github.com/NethermindEth/nethermind/commit/938362884873e1781709f3fb2b94b91ea587d1ce) - 2026-09-28
+* [Commit] [fix: validate blob-gas field presence on orphaned headers (#13776)](https://github.com/NethermindEth/nethermind/commit/7660e52c9db1349ec2291302e76f7d8de890d370) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -542,6 +569,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: specify behaviour for an oversized aggregated inclusion list](https://github.com/ethereum/execution-apis/pull/864) - 2026-08-20
 * [Pull Request] [engine: add optional parentBlockHash to engine_getInclusionListV1](https://github.com/ethereum/execution-apis/pull/886) - 2026-09-11
+* [Review] [Review on: docs: specify callTracer and trace_* output for EIP-8141 frame transactions](https://github.com/ethereum/execution-apis/pull/909#pullrequestreview-5343442153) - 2026-09-28
+* [Pull Request] [docs: specify eth_simulateV1 ETH transfer logs for frame transactions](https://github.com/ethereum/execution-apis/pull/910) - 2026-09-28
 ## Q2 2026
 
 

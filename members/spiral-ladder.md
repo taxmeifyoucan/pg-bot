@@ -90,6 +90,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: ci: require today's nightly spec test run](https://github.com/ChainSafe/lodestar/pull/10151#pullrequestreview-5302183196) - 2026-09-24
 * [Review] [Review on: fix: use exact integer division for Electra slashing penalty](https://github.com/ChainSafe/lodestar/pull/10163#pullrequestreview-5302197989) - 2026-09-24
 * [Commit] [refactor(state-transition): re-organize test helpers (#10099)](https://github.com/ChainSafe/lodestar/commit/c535e94f25e209f6b137be3d29a87562088035d3) - 2026-09-24
+* [Review] [Review on: fix: use preallocated buffers in `getBlobsV2`](https://github.com/ChainSafe/lodestar/pull/10203#pullrequestreview-5339966595) - 2026-09-28
+* [Review] [Review on: feat: add builder pending payments and withdrawals endpoints](https://github.com/ChainSafe/lodestar/pull/10189#pullrequestreview-5340307767) - 2026-09-28
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -291,6 +293,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: perf: overlap Fulu shuffling with epoch processing](https://github.com/ChainSafe/lodestar-z/pull/727#pullrequestreview-5302421189) - 2026-09-24
 * [Review] [Review on: feat: add typed stf diagnostics](https://github.com/ChainSafe/lodestar-z/pull/694#pullrequestreview-5302744742) - 2026-09-24
 * [Review] [Review on: refactor(stf): make allocator ownership explicit](https://github.com/ChainSafe/lodestar-z/pull/722#pullrequestreview-5333494418) - 2026-09-28
+* [Review] [Review on: fix(bindings): preserve eth1 bigint values](https://github.com/ChainSafe/lodestar-z/pull/735#pullrequestreview-5335810085) - 2026-09-28
+* [Pull Request] [refactor(stf): use fixed tail for new validator flags](https://github.com/ChainSafe/lodestar-z/pull/733) - 2026-09-28
+* [Review] [Review on: refactor(stf): use fixed tail for new validator flags](https://github.com/ChainSafe/lodestar-z/pull/733#pullrequestreview-5339888730) - 2026-09-28
+* [Pull Request] [perf(state-transition): prototype diff-synced flat validator cache](https://github.com/ChainSafe/lodestar-z/pull/736) - 2026-09-28
+* [Review] [Review on: fix(bindings): make native STF setup and memory ownership safe](https://github.com/ChainSafe/lodestar-z/pull/648#pullrequestreview-5335607789) - 2026-09-28
+* [Review] [Review on: refactor(stf): make allocator ownership explicit](https://github.com/ChainSafe/lodestar-z/pull/722#pullrequestreview-5333809668) - 2026-09-28
+* [Pull Request] [fix(bindings): use c_allocator for BeaconStateView outside Debug](https://github.com/ChainSafe/lodestar-z/pull/732) - 2026-09-28
+* [Commit] [refactor(stf): use fixed tail for new validator flags (#733)](https://github.com/ChainSafe/lodestar-z/commit/367b69f0e88175369e651e70400b6abaf9ec772b) - 2026-09-28
+* [Commit] [fix(bindings): use c_allocator for BeaconStateView outside Debug (#732)](https://github.com/ChainSafe/lodestar-z/commit/f83914b3e360b2d903996ea940f84c2f85d3ce76) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

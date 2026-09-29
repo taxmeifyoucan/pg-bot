@@ -115,6 +115,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Raise the Gloas builder bid wait to 600ms and make it configurable (#17551)](https://github.com/OffchainLabs/prysm/commit/78835ab6dcbabef1aa44a5463910cbb6dd317cf2) - 2026-09-24
 * [Pull Request] [Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559) - 2026-09-24
 * [Review] [Review on: hdiff snapshot cache read](https://github.com/OffchainLabs/prysm/pull/17561#pullrequestreview-5321667246) - 2026-09-25
+* [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5341709566) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -134,6 +135,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644) - 2026-09-15
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5211144275) - 2026-09-15
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5311695446) - 2026-09-25
+* [Pull Request] [Do not pay for old payloads](https://github.com/ethereum/consensus-specs/pull/5694) - 2026-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

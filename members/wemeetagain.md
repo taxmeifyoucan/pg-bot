@@ -230,6 +230,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: update `earliestAvailableSlot` when pruning history](https://github.com/ChainSafe/lodestar/pull/10177#pullrequestreview-5319616319) - 2026-09-25
 * [Issue] [newPayload is written to the EL only after the state transition finishes](https://github.com/ChainSafe/lodestar/issues/10188) - 2026-09-26
 * [Issue] [Backend-neutral serving lease: hold reqresp serving capacity until source work retires](https://github.com/ChainSafe/lodestar/issues/10187) - 2026-09-26
+* [Review] [Review on: fix: use preallocated buffers in `getBlobsV2`](https://github.com/ChainSafe/lodestar/pull/10203#pullrequestreview-5343981364) - 2026-09-28
+* [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5344027492) - 2026-09-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -466,8 +468,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: write error values as error.Name](https://github.com/ChainSafe/lodestar-z/pull/718#pullrequestreview-5292713426) - 2026-09-23
 * [Review] [Review on: perf: overlap Fulu shuffling with epoch processing](https://github.com/ChainSafe/lodestar-z/pull/727#pullrequestreview-5306703214) - 2026-09-24
 * [Commit] [refactor: bound fixed vector hashing (#681)](https://github.com/ChainSafe/lodestar-z/commit/0d04988234a116de40f3a1bcc74efdb9bf7c1d32) - 2026-09-26
+* [Review] [Review on: fix(bindings): preserve eth1 bigint values](https://github.com/ChainSafe/lodestar-z/pull/735#pullrequestreview-5345151576) - 2026-09-28
+* [Review] [Review on: perf: shuffle compact validator positions](https://github.com/ChainSafe/lodestar-z/pull/734#pullrequestreview-5345059099) - 2026-09-28
+* [Review] [Review on: refactor(stf): use fixed tail for new validator flags](https://github.com/ChainSafe/lodestar-z/pull/733#pullrequestreview-5342306495) - 2026-09-28
+* [Commit] [fix(bindings): make native STF setup and memory ownership safe (#648)](https://github.com/ChainSafe/lodestar-z/commit/ef6c313cf1ad8a127cc53ba96cf5c4887c89ea14) - 2026-09-28
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Issue] [Engine API port answers unknown paths with HTTP 200 and a JSON-RPC error instead of 404](https://github.com/status-im/nimbus-eth1/issues/4868) - 2026-09-28
 ## Q2 2026
 
 

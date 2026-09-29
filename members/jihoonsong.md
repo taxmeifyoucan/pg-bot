@@ -153,6 +153,17 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Use time-related helper, instead of hardcoded slot duration](https://github.com/ethereum/consensus-specs/pull/5677) - 2026-09-24
 * [Commit] [Put validator assignments section at the right place (#5678)](https://github.com/ethereum/consensus-specs/commit/fcdcf42024f33c498bff74936eabea2d96049fc2) - 2026-09-24
 * [Commit] [Use time-related helper, instead of hardcoded slot duration (#5677)](https://github.com/ethereum/consensus-specs/commit/df2e7f3f7ae21882eafd6ba9e35dcf0147c89b37) - 2026-09-24
+* [Review] [Review on: Reduce min epochs for block requests in Gloas](https://github.com/ethereum/consensus-specs/pull/5680#pullrequestreview-5337256100) - 2026-09-28
+* [Review] [Review on: Do not prune non-finalized blocks](https://github.com/ethereum/consensus-specs/pull/5681#pullrequestreview-5337259450) - 2026-09-28
+* [Pull Request] [Change some function signatures to return the right type](https://github.com/ethereum/consensus-specs/pull/5693) - 2026-09-28
+* [Review] [Review on: Use `X | None` instead of `typing.Optional`](https://github.com/ethereum/consensus-specs/pull/5689#pullrequestreview-5336933923) - 2026-09-28
+* [Review] [Review on: Use `collections.defaultdict` instead of `typing.DefaultDict`](https://github.com/ethereum/consensus-specs/pull/5688#pullrequestreview-5339198596) - 2026-09-28
+* [Review] [Review on: Use builtin `set` instead of `typing.Set`](https://github.com/ethereum/consensus-specs/pull/5687#pullrequestreview-5339190146) - 2026-09-28
+* [Review] [Review on: Use builtin `tuple` instead of `typing.Tuple`](https://github.com/ethereum/consensus-specs/pull/5686#pullrequestreview-5339189331) - 2026-09-28
+* [Review] [Review on: Use builtin `dict` instead of `typing.Dict`](https://github.com/ethereum/consensus-specs/pull/5685#pullrequestreview-5339188841) - 2026-09-28
+* [Review] [Review on: Use double quotes for strings in generated spec](https://github.com/ethereum/consensus-specs/pull/5684#pullrequestreview-5339188260) - 2026-09-28
+* [Review] [Review on: Run ruff on generated spec](https://github.com/ethereum/consensus-specs/pull/5683#pullrequestreview-5339187811) - 2026-09-28
+* [Commit] [Change some function signatures to return the right type (#5693)](https://github.com/ethereum/consensus-specs/commit/47fe928fec77bb6cef1740528a9361bc25630872) - 2026-09-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -169,6 +180,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878#pullrequestreview-5088044127) - 2026-09-02
 * [Commit] [Add non-zero requirements to getInclusionListV1's response (#878)](https://github.com/ethereum/execution-apis/commit/2ab543851a206ec2836cb387b3aa9cb33c646938) - 2026-09-04
 * [Commit] [Update Amsterdam ToC (#837)](https://github.com/ethereum/execution-apis/commit/465d1b98d43e94ff3d57e904fd7d4bea7f6b804c) - 2026-09-13
+* [Review] [Review on: Add fast block](https://github.com/ethereum/execution-apis/pull/908#pullrequestreview-5339996310) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
 * [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29
@@ -182,6 +194,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Issue] [FOCIL Breakout #39, August 18, 2026](https://github.com/ethereum/pm/issues/2194) - 2026-08-17
 * [Issue] [FOCIL Breakout #41, September 1, 2026](https://github.com/ethereum/pm/issues/2208) - 2026-08-31
 * [Issue] [FOCIL Breakout #42, September 15, 2026](https://github.com/ethereum/pm/issues/2218) - 2026-09-08
+* [Issue] [FOCIL Breakout #43, September 29, 2026](https://github.com/ethereum/pm/issues/2235) - 2026-09-28
 ## Q2 2026
 
 

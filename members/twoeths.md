@@ -309,6 +309,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: track engine api request/reponse bytes](https://github.com/ChainSafe/lodestar/pull/10195) - 2026-09-28
 * [Pull Request] [chore: track incoming request served bytes on Grafana](https://github.com/ChainSafe/lodestar/pull/10196) - 2026-09-28
 * [Issue] [Performance regression enabling dedupePayloads flag](https://github.com/ChainSafe/lodestar/issues/10193) - 2026-09-28
+* [Review] [Review on: chore: payload envelope reconstruction follow-ups from #10089](https://github.com/ChainSafe/lodestar/pull/10192#pullrequestreview-5346682753) - 2026-09-29
+* [Commit] [chore: track engine api request/reponse bytes (#10195)](https://github.com/ChainSafe/lodestar/commit/418afc191b09a6c2b741702ac964df563b7a7aa2) - 2026-09-28
+* [Commit] [chore: track incoming request served bytes on Grafana (#10196)](https://github.com/ChainSafe/lodestar/commit/d504efc09d05ca0b37ad716a90958bfd4ae7effc) - 2026-09-28
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

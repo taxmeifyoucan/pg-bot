@@ -107,6 +107,10 @@ Team: Geth
 * [Issue] [Add flag to disable precompile cache](https://github.com/ethereum/go-ethereum/issues/35751) - 2026-09-21
 * [Pull Request] [eth/downloader: only fetch BALs for the next 512 blocks](https://github.com/ethereum/go-ethereum/pull/35780) - 2026-09-23
 * [Review] [Review on: build: fix ppa builder](https://github.com/ethereum/go-ethereum/pull/35782#pullrequestreview-5292783837) - 2026-09-23
+* [Review] [Review on: params: replace EF bootnodes with NodeOps fleet](https://github.com/ethereum/go-ethereum/pull/35682#pullrequestreview-5339815984) - 2026-09-28
+* [Review] [Review on: core: wait until all prefetchers are properly closed](https://github.com/ethereum/go-ethereum/pull/35821#pullrequestreview-5340487359) - 2026-09-28
+* [Review] [Review on: core, internal, miner: exclude the txs if the gas is insufficient](https://github.com/ethereum/go-ethereum/pull/35773#pullrequestreview-5340477959) - 2026-09-28
+* [Commit] [eth/downloader: prioritize head access lists over the memory allowance (#35780)](https://github.com/ethereum/go-ethereum/commit/23d09e36dd163f039b2debae6f4f34edd984fd56) - 2026-09-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

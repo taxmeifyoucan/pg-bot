@@ -301,6 +301,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: poll the receipt while eth_sendRawTransactionSync waits for it (#24337)](https://github.com/erigontech/erigon/commit/8fe8eaf038270a8ad5c6865a8768b7ba540963f4) - 2026-09-27
 * [Commit] [db/kv/membatchwithdb: keep db dups under a shared key in Range on DupSort tables (#24340)](https://github.com/erigontech/erigon/commit/03c5c499060016578bb362997adc6085834abf75) - 2026-09-27
 * [Commit] [rpc/jsonrpc: graphql reports maxFeePerBlobGas for wrapped blob transactions (#24342)](https://github.com/erigontech/erigon/commit/49f6499df14df8a2ed4db6f29b7ec0b222a692b6) - 2026-09-27
+* [Review] [Review on: fix(rpc/jsonrpc): trace_rawTransaction rejects transactions invalid at latest state](https://github.com/erigontech/erigon/pull/24329#pullrequestreview-5344527399) - 2026-09-28
+* [Review] [Review on: rpc/jsonrpc, rpc/ethapi, execution/types: eth_fillTransaction builds the blob sidecar](https://github.com/erigontech/erigon/pull/24335#pullrequestreview-5344142257) - 2026-09-28
+* [Pull Request] [rpc/jsonrpc, docs: fix trace_callMany example and test per-call BLOBBASEFEE](https://github.com/erigontech/erigon/pull/24377) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): report a reverted create as {gasUsed, output}](https://github.com/erigontech/erigon/pull/24355#pullrequestreview-5342042268) - 2026-09-28
+* [Review] [Review on: fix(rpc): reject call objects whose data and input differ](https://github.com/erigontech/erigon/pull/24336#pullrequestreview-5341894310) - 2026-09-28
+* [Commit] [rpc/jsonrpc, rpc/ethapi, execution/types: eth_fillTransaction builds the blob sidecar (#24335)](https://github.com/erigontech/erigon/commit/e2bd53d23f4f21bce775ad49476e439cf590e5d4) - 2026-09-28
+* [Commit] [rpc/jsonrpc: ots_getBlockTransactions marshals only the requested page (#24306)](https://github.com/erigontech/erigon/commit/cb7366d37642677e46d6ca074cee40c47317e06b) - 2026-09-28
+* [Commit] [fix(rpc/jsonrpc): trace_call and trace_callMany price gas like eth_call (#24330)](https://github.com/erigontech/erigon/commit/aa5b01e1bb611c758907e06092706e20ea684cd9) - 2026-09-28
+* [Commit] [execution/execmodule: drop the module SD after a bulk block-overlay flush (#24349)](https://github.com/erigontech/erigon/commit/25954ac94cb393b1ba8866ecd9b6f2b5f954ed34) - 2026-09-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -341,6 +350,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [test: add trace_filter fixtures for the default intersection mode](https://github.com/erigontech/rpc-tests/pull/607) - 2026-09-27
 * [Pull Request] [trace_call, trace_callMany: update fixtures for eth_call gas pricing](https://github.com/erigontech/rpc-tests/pull/606) - 2026-09-27
 * [Commit] [trace_call, trace_callMany: update fixtures for eth_call gas pricing (#606)](https://github.com/erigontech/rpc-tests/commit/bde1ad95a01543ddc322f7182df5b168ccd96f74) - 2026-09-27
+* [Review] [Review on: test: use parity failure labels in trace fixtures](https://github.com/erigontech/rpc-tests/pull/610#pullrequestreview-5342793840) - 2026-09-28
+* [Review] [Review on: test: expect -38013 for intrinsic gas too low in trace_call and trace_callMany](https://github.com/erigontech/rpc-tests/pull/613#pullrequestreview-5342767766) - 2026-09-28
+* [Review] [Review on: test: expect invalid params for a reversed trace_filter range](https://github.com/erigontech/rpc-tests/pull/609#pullrequestreview-5342773724) - 2026-09-28
 ## Q2 2026
 
 
