@@ -232,6 +232,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Backend-neutral serving lease: hold reqresp serving capacity until source work retires](https://github.com/ChainSafe/lodestar/issues/10187) - 2026-09-26
 * [Review] [Review on: fix: use preallocated buffers in `getBlobsV2`](https://github.com/ChainSafe/lodestar/pull/10203#pullrequestreview-5343981364) - 2026-09-28
 * [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5344027492) - 2026-09-28
+* [Review] [Review on: perf: avoid rescanning pruned state history](https://github.com/ChainSafe/lodestar/pull/10216#pullrequestreview-5359233355) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -472,6 +473,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: shuffle compact validator positions](https://github.com/ChainSafe/lodestar-z/pull/734#pullrequestreview-5345059099) - 2026-09-28
 * [Review] [Review on: refactor(stf): use fixed tail for new validator flags](https://github.com/ChainSafe/lodestar-z/pull/733#pullrequestreview-5342306495) - 2026-09-28
 * [Commit] [fix(bindings): make native STF setup and memory ownership safe (#648)](https://github.com/ChainSafe/lodestar-z/commit/ef6c313cf1ad8a127cc53ba96cf5c4887c89ea14) - 2026-09-28
+* [Pull Request] [fix: preserve pending view nodes](https://github.com/ChainSafe/lodestar-z/pull/740) - 2026-09-29
+* [Pull Request] [refactor: retain view roots last](https://github.com/ChainSafe/lodestar-z/pull/738) - 2026-09-29
+* [Pull Request] [refactor: remove unused view reads](https://github.com/ChainSafe/lodestar-z/pull/739) - 2026-09-29
+* [Review] [Review on: fix(bindings): preserve eth1 bigint values](https://github.com/ChainSafe/lodestar-z/pull/735#pullrequestreview-5356907937) - 2026-09-29
+* [Commit] [refactor: iterate compact proof reconstruction (#684)](https://github.com/ChainSafe/lodestar-z/commit/4051fcc71d8e3af5e9d637e58af629879cbb4349) - 2026-09-29
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 

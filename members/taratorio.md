@@ -409,6 +409,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: lint: enable staticcheck's ST1019, ST1016, ST1012, ST1017, ST1005](https://github.com/erigontech/erigon/pull/24332#pullrequestreview-5333804778) - 2026-09-28
 * [Commit] [ci: update stable fixtures to v21.0.0 glamsterdam and skip devnet shards (#24362)](https://github.com/erigontech/erigon/commit/a1ce80fbf7508d1394367ba548cac3c60a425ece) - 2026-09-28
 * [Commit] [execution/commitment: preserve account updates when clearing storage (#24359)](https://github.com/erigontech/erigon/commit/b98a0a1008d24983d34a38156d361fc8643b6878) - 2026-09-28
+* [Pull Request] [db/kv: fix mdbx auto-compact on startup failure due to chown error](https://github.com/erigontech/erigon/pull/24407) - 2026-09-30
+* [Review] [Review on: p2p: serve stored block access lists without replay](https://github.com/erigontech/erigon/pull/24391#pullrequestreview-5354273207) - 2026-09-29
+* [Pull Request] [rpc: update traceBlock to use EIP-8037 gas used](https://github.com/erigontech/erigon/pull/24382) - 2026-09-29
+* [Pull Request] [execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events](https://github.com/erigontech/erigon/pull/24381) - 2026-09-29
+* [Review] [Review on: execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events](https://github.com/erigontech/erigon/pull/24381#pullrequestreview-5351904734) - 2026-09-29
+* [Commit] [rpc: update traceBlock to use EIP-8037 gas used (#24382)](https://github.com/erigontech/erigon/commit/3e488e61e95a265fa0004a6ca942d5517b32e601) - 2026-09-29
+* [Commit] [execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events (#24381)](https://github.com/erigontech/erigon/commit/458f438025e1c0fa47e58f595c2107c27f475aad) - 2026-09-29
+* [Commit] [execution/tracing: no gasFunc gas mutations and initial create state charge in dynamicGas (#24370)](https://github.com/erigontech/erigon/commit/149465064b2c2c64b6aa942924e8947b7b824b00) - 2026-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -241,6 +241,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Withdraw deprecation of PoaQueryService and BftQueryService](https://github.com/besu-eth/besu/pull/11376#pullrequestreview-5340988772) - 2026-09-28
 * [Commit] [Remove duplicated and stale PendingTransactionDetailResult (#11372)](https://github.com/besu-eth/besu/commit/c3aaf7cddd41162ea41f1f86c537960c20f615a0) - 2026-09-28
 * [Commit] [Report a blob cache miss instead of throwing (#11370)](https://github.com/besu-eth/besu/commit/8fd5f8399ff2d4349b891cd44ad6e32a98d78d47) - 2026-09-28
+* [Pull Request] [Make the cell types immutable](https://github.com/besu-eth/besu/pull/11393) - 2026-09-29
+* [Review] [Review on: Make the cell types immutable](https://github.com/besu-eth/besu/pull/11393#pullrequestreview-5355654338) - 2026-09-29
+* [Review] [Review on: Report backward sync progress against the peer-estimated chain height](https://github.com/besu-eth/besu/pull/11337#pullrequestreview-5354803408) - 2026-09-29
+* [Commit] [Build BlobsWithCommitments through named factories (#11385)](https://github.com/besu-eth/besu/commit/b5d98381d9c1a75e13a76a96b63b041d6e97057a) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

@@ -79,6 +79,9 @@ Team: Geth
 * [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5292351500) - 2026-09-23
 * [Review] [Review on: Update EIP-4444: Update HISTORY_PRUNE_EPOCHS to 14,299 epochs](https://github.com/ethereum/EIPs/pull/12388#pullrequestreview-5344528894) - 2026-09-28
 * [Pull Request] [Update EIP-8141: deploy frames expiry verifier as standard contract](https://github.com/ethereum/EIPs/pull/12387) - 2026-09-28
+* [Pull Request] [Update EIP-8141: replace 7623 with 7976](https://github.com/ethereum/EIPs/pull/12395) - 2026-09-29
+* [Review] [Review on: Update EIP-8141: bound producer-side re-execution of an unapproving validation prefix](https://github.com/ethereum/EIPs/pull/12213#pullrequestreview-5353443551) - 2026-09-29
+* [Commit] [Update EIP-8141: replace 7623 with 7976](https://github.com/ethereum/EIPs/commit/5c0236f9c216640909aad63d70ec9df59ac85457) - 2026-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

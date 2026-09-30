@@ -310,6 +310,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: ots_getBlockTransactions marshals only the requested page (#24306)](https://github.com/erigontech/erigon/commit/cb7366d37642677e46d6ca074cee40c47317e06b) - 2026-09-28
 * [Commit] [fix(rpc/jsonrpc): trace_call and trace_callMany price gas like eth_call (#24330)](https://github.com/erigontech/erigon/commit/aa5b01e1bb611c758907e06092706e20ea684cd9) - 2026-09-28
 * [Commit] [execution/execmodule: drop the module SD after a bulk block-overlay flush (#24349)](https://github.com/erigontech/erigon/commit/25954ac94cb393b1ba8866ecd9b6f2b5f954ed34) - 2026-09-28
+* [Pull Request] [rpc/jsonrpc: test precompile out-of-gas and code-deposit failure labels](https://github.com/erigontech/erigon/pull/24390) - 2026-09-29
+* [Review] [Review on: fix(rpc/jsonrpc): trace_filter rejects a bound past the head with -32602](https://github.com/erigontech/erigon/pull/24357#pullrequestreview-5351513563) - 2026-09-29
+* [Review] [Review on: ci: re-enable trace rpc-tests fixed in v2.32.0](https://github.com/erigontech/erigon/pull/24378#pullrequestreview-5348532200) - 2026-09-29
+* [Review] [Review on: fix(rpc/jsonrpc): vmTrace reports only operations that executed](https://github.com/erigontech/erigon/pull/24344#pullrequestreview-5349976227) - 2026-09-29
+* [Commit] [rpc/jsonrpc: reject non-canonical block hash in erigon_getLatestLogs (#24358)](https://github.com/erigontech/erigon/commit/48d3a168fbbf3ccf28b0361a7472bca4c8d92376) - 2026-09-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -353,6 +358,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: test: use parity failure labels in trace fixtures](https://github.com/erigontech/rpc-tests/pull/610#pullrequestreview-5342793840) - 2026-09-28
 * [Review] [Review on: test: expect -38013 for intrinsic gas too low in trace_call and trace_callMany](https://github.com/erigontech/rpc-tests/pull/613#pullrequestreview-5342767766) - 2026-09-28
 * [Review] [Review on: test: expect invalid params for a reversed trace_filter range](https://github.com/erigontech/rpc-tests/pull/609#pullrequestreview-5342773724) - 2026-09-28
+* [Review] [Review on: test: expect invalid params for a trace_filter bound past the head](https://github.com/erigontech/rpc-tests/pull/611#pullrequestreview-5351053842) - 2026-09-29
+* [Review] [Review on: test: expect vmTrace to list only executed operations](https://github.com/erigontech/rpc-tests/pull/612#pullrequestreview-5348560951) - 2026-09-29
+* [Commit] [test: add trace_filter fixtures for the default intersection mode (#607)](https://github.com/erigontech/rpc-tests/commit/dcffa03b7ef6e43d5ea6a2b628d2b118839698c1) - 2026-09-29
 ## Q2 2026
 
 

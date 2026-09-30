@@ -257,6 +257,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Clear sparse access journals by removing recorded entries (#13798)](https://github.com/NethermindEth/nethermind/commit/d4c8a1ee0464a6fd13773eafa70ee79da557e02a) - 2026-09-28
 * [Commit] [perf: remove small recurring allocations in metrics, scopes, trie and EVM (#13841)](https://github.com/NethermindEth/nethermind/commit/f43981f75428fd975d3e9d5c6aacb9a169b9ed1a) - 2026-09-27
 * [Commit] [perf(zkevm): swap stack words in registers (#13977)](https://github.com/NethermindEth/nethermind/commit/ccb1a3f74f179a91de0c31bdea6065effab0a8af) - 2026-09-28
+* [Pull Request] [ci(expb): benchmark fusaka at 0 s and 1 s delay on the performance label and on master](https://github.com/NethermindEth/nethermind/pull/14061) - 2026-09-29
+* [Pull Request] [perf(flat): apply committed storage writes on an idle-priority thread during execution](https://github.com/NethermindEth/nethermind/pull/14059) - 2026-09-29
+* [Review] [Review on: perf(flat): apply committed storage writes on an idle-priority thread during execution](https://github.com/NethermindEth/nethermind/pull/14059#pullrequestreview-5358701830) - 2026-09-29
+* [Pull Request] [perf(flat): write storage trie nodes after the block is reported valid](https://github.com/NethermindEth/nethermind/pull/14058) - 2026-09-29
+* [Review] [Review on: perf(flat): write storage trie nodes after the block is reported valid](https://github.com/NethermindEth/nethermind/pull/14058#pullrequestreview-5358739014) - 2026-09-29
+* [Pull Request] [ci(expb): pin the flat DB compaction offset so every run compacts at the same blocks](https://github.com/NethermindEth/nethermind/pull/14053) - 2026-09-29
+* [Commit] [perf(flat): write storage trie nodes after the block is reported valid (#14058)](https://github.com/NethermindEth/nethermind/commit/a5d2bc0168c8c4b43694d133166db54363117776) - 2026-09-29
+* [Commit] [ci(expb): pin the flat DB compaction offset so every run compacts at the same blocks (#14053)](https://github.com/NethermindEth/nethermind/commit/ad22b8db86b9153abcbed9143df798a5607edb97) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

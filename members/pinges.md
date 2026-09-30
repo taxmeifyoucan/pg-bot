@@ -45,6 +45,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Issue] [Sync status reported incorrectly in three places (eth_syncing, ethstats, backward sync)](https://github.com/besu-eth/besu/issues/11260) - 2026-09-09
 * [Review] [Review on: Bonsai archive proofs diff encoding](https://github.com/besu-eth/besu/pull/11091#pullrequestreview-5262897212) - 2026-09-21
 * [Review] [Review on: Do not probe discovery-only bootnodes on RLPx from DiscV4](https://github.com/besu-eth/besu/pull/11343#pullrequestreview-5273493796) - 2026-09-22
+* [Review] [Review on: feat: add zkEVM execution-witness reference tests](https://github.com/besu-eth/besu/pull/11157#pullrequestreview-5349742545) - 2026-09-29
 ## Q2 2026
 
 

@@ -31,6 +31,17 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix(sinks): rate-limit per-event sink failure logs](https://github.com/ethpandaops/xatu/pull/887#pullrequestreview-5085668468) - 2026-09-02
 * [Pull Request] [feat(cannon): exit when the beacon node keeps failing the sync check](https://github.com/ethpandaops/xatu/pull/888) - 2026-09-15
 * [Review] [Review on: fix(cannon): resolve EL ceiling via finality checkpoint instead of cached "finalized" alias](https://github.com/ethpandaops/xatu/pull/885#pullrequestreview-5194794647) - 2026-09-14
+* [Pull Request] [fix(cannon): source gloas execution requests from the payload envelope](https://github.com/ethpandaops/xatu/pull/891) - 2026-09-30
+* [Pull Request] [feat: gloas (glamsterdam) support on master](https://github.com/ethpandaops/xatu/pull/890) - 2026-09-29
+* [Commit] [fix(cannon): source gloas execution requests from the payload envelope (#891)](https://github.com/ethpandaops/xatu/commit/00c57a7a934f462a900cb142d72a2a769ec7c6a2) - 2026-09-30
+* [Commit] [Merge pull request #890 from ethpandaops/feat/gloas-to-master](https://github.com/ethpandaops/xatu/commit/ae84ee032ca6a7cb0251c8d2f026d1ea47c2fcb8) - 2026-09-29
+* [Commit] [chore(deps): ethpandaops/beacon v0.71.0](https://github.com/ethpandaops/xatu/commit/6cebb8c4bde68a929a5f98eb5c51e29b5335f554) - 2026-09-29
+* [Commit] [ci: pull minio from pgsty](https://github.com/ethpandaops/xatu/commit/51a08b3c46c73b0266e313b4b1d04e7aa6b9acc7) - 2026-09-29
+* [Commit] [chore(deps): patch govulncheck findings](https://github.com/ethpandaops/xatu/commit/929bc2198362bc3394c69ecfcdae9136251d96de) - 2026-09-29
+* [Commit] [chore(docker): build with go 1.26.5 to match go.mod](https://github.com/ethpandaops/xatu/commit/9700b4b33e7338bf6083162f1f6685e0ae5d8629) - 2026-09-29
+* [Commit] [chore(deps): build gloas support on released dependencies](https://github.com/ethpandaops/xatu/commit/9bb1028e6813621ec63bf7aa59fdc711d6b27e3b) - 2026-09-29
+* [Commit] [fix: keep master's released proto and migration numbering for gloas](https://github.com/ethpandaops/xatu/commit/152d07386e887ea905d1a0f54157e04402efd3d1) - 2026-09-29
+* [Commit] [Merge remote-tracking branch 'origin/release/glamsterdam-devnet-11' into feat/gloas-to-master](https://github.com/ethpandaops/xatu/commit/78cac2441c396c0a25949c6b2844f12ff8aa6a04) - 2026-09-29
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06
@@ -55,6 +66,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [feat: support glamsterdam (gloas) networks](https://github.com/ethpandaops/tracoor/pull/56) - 2026-07-16
 
+* [Pull Request] [feat: glamsterdam (gloas) support](https://github.com/ethpandaops/tracoor/pull/68) - 2026-09-29
+* [Commit] [Merge pull request #68 from ethpandaops/feat/gloas-to-master](https://github.com/ethpandaops/tracoor/commit/bf18f8d2427b1f2b95917bdddb9d8b56b0cbee31) - 2026-09-29
+* [Commit] [fix(store): delete one object at a time when the S3 endpoint carries a path](https://github.com/ethpandaops/tracoor/commit/7659a51a25a489bc1e0fd9b7e1f28afd806ef4a4) - 2026-09-29
+* [Commit] [chore(deps): pin beacon to the v0.71.0 gloas release](https://github.com/ethpandaops/tracoor/commit/c66578009e93cccca24a24cc021b50ca70c8a5ba) - 2026-09-29
+* [Commit] [chore(deps): patch reachable govulncheck findings](https://github.com/ethpandaops/tracoor/commit/df1dc197679ba13621b95cc83f7366e97d7a3f18) - 2026-09-29
+* [Commit] [test: pull minio from pgsty now that Docker Hub no longer serves minio/minio](https://github.com/ethpandaops/tracoor/commit/cdc43d4e073098c1ee7cca7b862acba2588466e5) - 2026-09-29
+* [Commit] [chore(deps): move gloas support onto released dependencies](https://github.com/ethpandaops/tracoor/commit/daba6036415956a823559cd836b33186874350d4) - 2026-09-29
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846) - 2026-08-24
 * [Review] [Review on: feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846#pullrequestreview-5005730407) - 2026-08-24
@@ -68,6 +86,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [Probe rolloor.<network> as a service URL](https://github.com/ethpandaops/cartographoor/pull/109) - 2026-09-23
+* [Pull Request] [sepolia: nimbus 26.9.0 min version for gloas](https://github.com/ethpandaops/cartographoor/pull/113) - 2026-09-30
+* [Pull Request] [feat(sepolia): add tysm v1.1.0 to gloas min client versions](https://github.com/ethpandaops/cartographoor/pull/112) - 2026-09-29
+* [Pull Request] [feat(sepolia): schedule gloas at epoch 353024](https://github.com/ethpandaops/cartographoor/pull/111) - 2026-09-29
+* [Commit] [sepolia: nimbus 26.9.0 min version for gloas (#113)](https://github.com/ethpandaops/cartographoor/commit/95f4a8985c2d8703ccf4565e925d59f82ac9b96f) - 2026-09-30
+* [Commit] [Merge pull request #112 from ethpandaops/feat/sepolia-gloas-tysm](https://github.com/ethpandaops/cartographoor/commit/a9436d909493b58c28770cb9c6c08bf908a4e099) - 2026-09-29
+* [Commit] [feat(sepolia): add tysm v1.1.0 to the gloas min client versions](https://github.com/ethpandaops/cartographoor/commit/6380baa773c265865c1ebf7551a50fe08ed162d4) - 2026-09-29
+* [Commit] [Merge pull request #111 from ethpandaops/feat/sepolia-gloas](https://github.com/ethpandaops/cartographoor/commit/bc34e704a5eb5bbf9bb1bbb25f95f7c2c6447413) - 2026-09-29
+* [Commit] [feat(sepolia): schedule gloas at epoch 353024](https://github.com/ethpandaops/cartographoor/commit/0d1b180d11e7e9cd1ce895bc913816d9f3cb7484) - 2026-09-29
 ## Q2 2026
 
 

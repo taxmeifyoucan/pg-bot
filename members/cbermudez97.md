@@ -53,6 +53,10 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: ci: allow collaborators to request OCR reviews in PR comments](https://github.com/NethermindEth/nethermind/pull/13580#pullrequestreview-5248935412) - 2026-09-18
 * [Review] [Review on: fix: keep AI review configuration out of public reports](https://github.com/NethermindEth/nethermind/pull/13579#pullrequestreview-5248610385) - 2026-09-18
 * [Pull Request] [ci: stop choosing smoke-test VM types here and move hoodi/chiado sync runners to C3D](https://github.com/NethermindEth/nethermind/pull/14007) - 2026-09-28
+* [Pull Request] [ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika](https://github.com/NethermindEth/nethermind/pull/14056) - 2026-09-29
+* [Review] [Review on: ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika](https://github.com/NethermindEth/nethermind/pull/14056#pullrequestreview-5355386320) - 2026-09-29
+* [Commit] [ci: stop choosing smoke-test VM types here and move hoodi/chiado sync runners to C3D (#14007)](https://github.com/NethermindEth/nethermind/commit/1a5cb617f81d94261902b051918488061624f851) - 2026-09-29
+* [Commit] [ci: Make SPOT the only implicit provisioning model for GCP runners (#13728)](https://github.com/NethermindEth/nethermind/commit/cfffd26055215789ceb981d3cb7ac1c53e58aca6) - 2026-09-29
 ## Q2 2026
 
 

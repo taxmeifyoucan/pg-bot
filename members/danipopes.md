@@ -83,6 +83,10 @@ Team: Reth
 * [Review] [Review on: fix(ci): reuse shared deny and refresh runner pins](https://github.com/paradigmxyz/reth/pull/27382#pullrequestreview-5287546021) - 2026-09-23
 * [Review] [Review on: perf: specialize RLP encoded lengths](https://github.com/paradigmxyz/reth/pull/27408#pullrequestreview-5304502291) - 2026-09-24
 * [Review] [Review on: perf: enable sender recovery cache by default](https://github.com/paradigmxyz/reth/pull/27447#pullrequestreview-5318616371) - 2026-09-25
+* [Review] [Review on: chore(deps): let Dependabot update indirect Cargo dependencies](https://github.com/paradigmxyz/reth/pull/27585#pullrequestreview-5357425237) - 2026-09-29
+* [Review] [Review on: chore(deps): update keccak-asm to 0.1.9](https://github.com/paradigmxyz/reth/pull/27496#pullrequestreview-5356597518) - 2026-09-29
+* [Review] [Review on: chore(ci): remove crate-checks target cache](https://github.com/paradigmxyz/reth/pull/27579#pullrequestreview-5356637989) - 2026-09-29
+* [Review] [Review on: refactor: replace cfg-if with cfg_select](https://github.com/paradigmxyz/reth/pull/27577#pullrequestreview-5355258173) - 2026-09-29
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13
@@ -103,6 +107,7 @@ Team: Reth
 * [Pull Request] [perf(bal): reuse cached alloy code hashes](https://github.com/bluealloy/revm/pull/3913) - 2026-09-15
 * [Review] [Review on: refactor(state): use CodeChange accessors](https://github.com/bluealloy/revm/pull/3916#pullrequestreview-5220168723) - 2026-09-16
 * [Review] [Review on: refactor(bytecode): use fixed padding and lazy jump tables](https://github.com/bluealloy/revm/pull/3945#pullrequestreview-5325287326) - 2026-09-26
+* [Review] [Review on: chore(deps): let Dependabot update indirect Cargo dependencies](https://github.com/bluealloy/revm/pull/3952#pullrequestreview-5357428901) - 2026-09-29
 ## Q2 2026
 
 

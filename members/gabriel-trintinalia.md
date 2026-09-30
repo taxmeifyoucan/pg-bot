@@ -54,6 +54,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: Default peer discovery to BOTH and restore the DiscV5 steady discovery cadence](https://github.com/besu-eth/besu/pull/11344#pullrequestreview-5286176900) - 2026-09-23
 * [Pull Request] [fix: close bonsaiWorldStateWitnessStorage](https://github.com/besu-eth/besu/pull/11367) - 2026-09-25
 * [Commit] [Fix Bonsai Witness closing (#11367)](https://github.com/besu-eth/besu/commit/accdae0061952615b23f3bc521ebcd82efd097d4) - 2026-09-25
+* [Pull Request] [feat: add zkEVM execution-witness reference tests](https://github.com/besu-eth/besu/pull/11157) - 2026-09-30
+* [Review] [Review on: feat: add zkEVM execution-witness reference tests](https://github.com/besu-eth/besu/pull/11157#pullrequestreview-5348350805) - 2026-09-29
+* [Commit] [feat: add zkEVM execution-witness reference tests (#11157)](https://github.com/besu-eth/besu/commit/94b661ce234235f9726f09bad6374d02f777ae31) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

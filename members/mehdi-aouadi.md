@@ -154,6 +154,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Exclude voluntary exits conflicting with parent consolidations](https://github.com/Consensys-Incorporated/teku/pull/11352#pullrequestreview-5343813515) - 2026-09-28
 * [Pull Request] [filter pending execution payload bid retries dependent root](https://github.com/Consensys-Incorporated/teku/pull/11351) - 2026-09-28
 * [Commit] [filter pending execution payload bid retries dependent root (#11351)](https://github.com/Consensys-Incorporated/teku/commit/efe86bd4fd644f92b46aece4b67dc2a0387489b2) - 2026-09-28
+* [Pull Request] [skip inclusion list duties for pre Heze epochs](https://github.com/Consensys-Incorporated/teku/pull/11360) - 2026-09-29
+* [Review] [Review on: Exclude voluntary exits conflicting with parent consolidations](https://github.com/Consensys-Incorporated/teku/pull/11352#pullrequestreview-5350320918) - 2026-09-29
+* [Review] [Review on: Schedule 200m gas limit for Sepolia](https://github.com/Consensys-Incorporated/teku/pull/11358#pullrequestreview-5351687467) - 2026-09-29
+* [Pull Request] [Focil empty ils](https://github.com/Consensys-Incorporated/teku/pull/11356) - 2026-09-29
+* [Issue] [Beacon APIs](https://github.com/Consensys-Incorporated/teku/issues/11361) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix fork epochs in proposer preferences tests](https://github.com/ethereum/consensus-specs/pull/5646) - 2026-09-17
 * [Pull Request] [Fix bls to execution change gossip tests](https://github.com/ethereum/consensus-specs/pull/5647) - 2026-09-18

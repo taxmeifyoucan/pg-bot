@@ -308,6 +308,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fix(ipc-test): keep NetClient reference (#11295)](https://github.com/besu-eth/besu/commit/3535ff193cecafd8317bad67b1d4d704e955c9da) - 2026-09-15
 * [Pull Request] [eth_simulate now returns EIP-7708 transfer logs for Amsterdam](https://github.com/besu-eth/besu/pull/11154) - 2026-09-16
 * [Commit] [eth_simulate now returns EIP-7708 transfer logs for Amsterdam (#11154)](https://github.com/besu-eth/besu/commit/0c3014813314c2d656e28f2ea891487f21fe68a7) - 2026-09-16
+* [Pull Request] [Bump jackson-bom from 2.21.5 to 2.21.6](https://github.com/besu-eth/besu/pull/11396) - 2026-09-30
+* [Commit] [add testing_commitBlockV1 RPC method (#11152)](https://github.com/besu-eth/besu/commit/045e00792b89f1ed97f212cbfb300f4c0979cb17) - 2026-09-30
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

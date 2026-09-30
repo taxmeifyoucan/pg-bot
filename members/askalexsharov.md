@@ -1891,6 +1891,12 @@ Team: Erigon
 * [Review] [Review on: execution/state, execution/stagedsync: fix the gd8 regression and the post-unwind commitment drift](https://github.com/erigontech/erigon/pull/24379#pullrequestreview-5347419174) - 2026-09-29
 * [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5336473316) - 2026-09-28
 * [Pull Request] [`db.safe.nosync=false` by default](https://github.com/erigontech/erigon/pull/24365) - 2026-09-28
+* [Review] [Review on: db/state: propagate history cursor seek errors](https://github.com/erigontech/erigon/pull/24408#pullrequestreview-5361168171) - 2026-09-30
+* [Review] [Review on: rpc/jsonrpc: share one running witness build per block hash](https://github.com/erigontech/erigon/pull/24367#pullrequestreview-5360960792) - 2026-09-30
+* [Review] [Review on: db/kv: fix mdbx auto-compact on startup failure due to chown error](https://github.com/erigontech/erigon/pull/24407#pullrequestreview-5360628972) - 2026-09-30
+* [Review] [Review on: rpc: update traceBlock to use EIP-8037 gas used](https://github.com/erigontech/erigon/pull/24382#pullrequestreview-5348844814) - 2026-09-29
+* [Review] [Review on: execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events](https://github.com/erigontech/erigon/pull/24381#pullrequestreview-5348851515) - 2026-09-29
+* [Pull Request] [db/state/execctx: RPC latest-state reads use the state cache when no overlay is published](https://github.com/erigontech/erigon/pull/24389) - 2026-09-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

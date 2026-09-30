@@ -113,6 +113,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Keep missing signing roots unknown when converting the validator data…](https://github.com/OffchainLabs/prysm/pull/17522#pullrequestreview-5257581017) - 2026-09-19
 * [Pull Request] [Fix backfill deadlock at the end of the sequence](https://github.com/OffchainLabs/prysm/pull/17530) - 2026-09-21
 * [Pull Request] [Fix all known flaky tests using the `make test mainnet` command.](https://github.com/OffchainLabs/prysm/pull/17571) - 2026-09-28
+* [Review] [Review on: Update to gossipsub 18.0](https://github.com/OffchainLabs/prysm/pull/17579#pullrequestreview-5356593767) - 2026-09-29
+* [Review] [Review on: Remove Bazel: Phase 4/9](https://github.com/OffchainLabs/prysm/pull/17296#pullrequestreview-5351741345) - 2026-09-29
+* [Review] [Review on: Refactor Prysm peer scoring for better auditability/observability and make it easy to reason about](https://github.com/OffchainLabs/prysm/pull/17410#pullrequestreview-5353089643) - 2026-09-29
+* [Review] [Review on: refactor tests to use allVersions](https://github.com/OffchainLabs/prysm/pull/17578#pullrequestreview-5351277707) - 2026-09-29
+* [Review] [Review on: make state diff anchors cache slot aware](https://github.com/OffchainLabs/prysm/pull/17573#pullrequestreview-5350432202) - 2026-09-29
+* [Commit] [Remove Bazel: Phase 4/9 (#17296)](https://github.com/OffchainLabs/prysm/commit/935bf1061d9b681005a1f728444eb8b114141aed) - 2026-09-29
+* [Commit] [Fix all known flaky tests using the `make test mainnet` command. (#17571)](https://github.com/OffchainLabs/prysm/commit/ba67bd650e703f6791fa8700ba5d6861c87b7497) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

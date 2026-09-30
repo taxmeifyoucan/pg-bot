@@ -32,6 +32,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [adapt inclusion list specs + add inclusion list gossip val test vecs](https://github.com/status-im/nimbus-eth2/pull/9083) - 2026-09-21
 * [Pull Request] [convert partial column quarantine to accept ref](https://github.com/status-im/nimbus-eth2/pull/9081) - 2026-09-21
 * [Pull Request] [add pruning logic for partial columns + test](https://github.com/status-im/nimbus-eth2/pull/9139) - 2026-09-27
+* [Pull Request] [add inclusion list publishing flow](https://github.com/status-im/nimbus-eth2/pull/9149) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629505540) - 2026-07-04
 ## Q2 2026

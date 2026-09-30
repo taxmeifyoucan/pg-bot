@@ -730,6 +730,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: merge v1.49.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/10202#pullrequestreview-5339523188) - 2026-09-28
 * [Commit] [fix: use preallocated buffers in `getBlobsV2` (#10203)](https://github.com/ChainSafe/lodestar/commit/5866a397b62dac415fa9a81d06686b0765e8a7e3) - 2026-09-28
 * [Commit] [feat: add builder pending payments and withdrawals endpoints (#10189)](https://github.com/ChainSafe/lodestar/commit/0a27fd270fbc6ec118b47534be3e0d72b9b0383b) - 2026-09-28
+* [Review] [Review on: fix: merge incremental PTC duties regardless of batch size](https://github.com/ChainSafe/lodestar/pull/10197#pullrequestreview-5350716758) - 2026-09-29
+* [Pull Request] [fix: revalidate pooled slashings before block inclusion](https://github.com/ChainSafe/lodestar/pull/10218) - 2026-09-29
+* [Pull Request] [perf: avoid rescanning pruned state history](https://github.com/ChainSafe/lodestar/pull/10216) - 2026-09-29
+* [Pull Request] [fix: track slashing signature domains across forks](https://github.com/ChainSafe/lodestar/pull/10217) - 2026-09-29
+* [Review] [Review on: chore: payload envelope reconstruction follow-ups from #10089](https://github.com/ChainSafe/lodestar/pull/10192#pullrequestreview-5350845095) - 2026-09-29
+* [Review] [Review on: refactor: drop underscore prefix from private fields](https://github.com/ChainSafe/lodestar/pull/10208#pullrequestreview-5350776104) - 2026-09-29
+* [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5352861447) - 2026-09-29
+* [Review] [Review on: chore: track EL engine request/response bytes on Grafana](https://github.com/ChainSafe/lodestar/pull/10209#pullrequestreview-5350796040) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

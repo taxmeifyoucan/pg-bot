@@ -373,6 +373,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Use builtin `dict` instead of `typing.Dict` (#5685)](https://github.com/ethereum/consensus-specs/commit/95da06fdf969ae4b613d7b0e28692ceee58beaf6) - 2026-09-28
 * [Commit] [Use double quotes for strings in generated spec (#5684)](https://github.com/ethereum/consensus-specs/commit/915999080e17e55c41cec7f6202f53786d0a2c7a) - 2026-09-28
 * [Commit] [Run ruff on generated spec (#5683)](https://github.com/ethereum/consensus-specs/commit/a0b310dc0c707fdb56be578553c742944ffba977) - 2026-09-28
+* [Pull Request] [Bump version to v1.7.0-beta.3](https://github.com/ethereum/consensus-specs/pull/5700) - 2026-09-29
+* [Pull Request] [Delete broken pre-fork payload attestation tests](https://github.com/ethereum/consensus-specs/pull/5699) - 2026-09-29
+* [Commit] [Bump version to v1.7.0-beta.3 (#5700)](https://github.com/ethereum/consensus-specs/commit/82b6e507dc31f6f7052e79b16ecfe3778c1b38f6) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -111,6 +111,8 @@ Team: Geth
 * [Review] [Review on: core: wait until all prefetchers are properly closed](https://github.com/ethereum/go-ethereum/pull/35821#pullrequestreview-5340487359) - 2026-09-28
 * [Review] [Review on: core, internal, miner: exclude the txs if the gas is insufficient](https://github.com/ethereum/go-ethereum/pull/35773#pullrequestreview-5340477959) - 2026-09-28
 * [Commit] [eth/downloader: prioritize head access lists over the memory allowance (#35780)](https://github.com/ethereum/go-ethereum/commit/23d09e36dd163f039b2debae6f4f34edd984fd56) - 2026-09-28
+* [Review] [Review on: params: replace EF bootnodes with NodeOps fleet](https://github.com/ethereum/go-ethereum/pull/35682#pullrequestreview-5352961959) - 2026-09-29
+* [Review] [Review on: build, core, params, tests: update test fixture to v21](https://github.com/ethereum/go-ethereum/pull/35835#pullrequestreview-5351683936) - 2026-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

@@ -181,6 +181,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: lint: enable staticcheck's ST1019, ST1016, ST1012, ST1017, ST1005](https://github.com/erigontech/erigon/pull/24332#pullrequestreview-5334499523) - 2026-09-28
 * [Review] [Review on: cl: use errors.New instead of fmt.Errorf without format args](https://github.com/erigontech/erigon/pull/24353#pullrequestreview-5334499657) - 2026-09-28
 * [Commit] [cl: align Gloas consensus and APIs with v1.7.0-beta.2 (#23845)](https://github.com/erigontech/erigon/commit/df3b4ec76579ec8d96e8bba1710f374750d1795e) - 2026-09-28
+* [Review] [Review on: cl/phase1/stages, cl/phase1/forkchoice: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5349270701) - 2026-09-29
+* [Pull Request] [[r3.7] cl/beacon/handler: fix PTC duties dependent root and fork-epoch duties](https://github.com/erigontech/erigon/pull/24399) - 2026-09-29
+* [Pull Request] [[r3.7] cl/beacon: deduplicate PTC duties per slot](https://github.com/erigontech/erigon/pull/24387) - 2026-09-29
+* [Pull Request] [cl/beacon/handler: fix PTC duties dependent root and fork-epoch duties](https://github.com/erigontech/erigon/pull/24393) - 2026-09-29
+* [Pull Request] [[r3.7] cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/24386) - 2026-09-29
+* [Commit] [cl/beacon/handler: fix PTC duties dependent root and fork-epoch duties (#24393)](https://github.com/erigontech/erigon/commit/85e1ca92dd1bd471d748f13878d22e4ed18863f0) - 2026-09-29
 ## Q2 2026
 
 

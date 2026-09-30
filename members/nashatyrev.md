@@ -34,6 +34,7 @@ Team: [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%
 * [Review] [Review on: Consolidate per type counters on gossip](https://github.com/libp2p/jvm-libp2p/pull/525#pullrequestreview-5090873092) - 2026-09-02
 * [Review] [Review on: Consolidate per type counters on gossip](https://github.com/libp2p/jvm-libp2p/pull/525#pullrequestreview-5100001354) - 2026-09-03
 * [Review] [Review on: fix(gossip): open a single outbound stream per peer](https://github.com/libp2p/jvm-libp2p/pull/528#pullrequestreview-5169395567) - 2026-09-10
+* [Issue] [QUIC: flow-control window collapses to 32 KiB after first 10 MiB per stream (bump netty to 4.2.18)](https://github.com/libp2p/jvm-libp2p/issues/532) - 2026-09-29
 ## Q2 2026
 
 

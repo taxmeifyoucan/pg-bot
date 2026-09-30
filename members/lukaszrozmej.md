@@ -733,6 +733,42 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(trie): trim the node resolve and branch encode paths (#13919)](https://github.com/NethermindEth/nethermind/commit/da8537dd439e66e442423d0a721a28713edb2189) - 2026-09-28
 * [Commit] [perf(zkevm): cheaper address and storage-cell hashing in the guest (#13887)](https://github.com/NethermindEth/nethermind/commit/26e7f74b72bb2c170275e380db3408f9d3c1aec9) - 2026-09-28
 * [Commit] [test: time only the disposal in the CompositeNodeSource enumeration test (#13955)](https://github.com/NethermindEth/nethermind/commit/bcb46be76fd3780eac729cb122adf44abf282f76) - 2026-09-28
+* [Pull Request] [fix(simulate): keep log indices of logs dropped by a revert, as geth does](https://github.com/NethermindEth/nethermind/pull/14062) - 2026-09-29
+* [Review] [Review on: perf(rpc): write receipt logs straight from the stored entries](https://github.com/NethermindEth/nethermind/pull/14043#pullrequestreview-5359193696) - 2026-09-29
+* [Review] [Review on: fix(simulate): apply simulate overrides on the EIP-7928 per-transaction path](https://github.com/NethermindEth/nethermind/pull/14057#pullrequestreview-5358967967) - 2026-09-29
+* [Review] [Review on: perf(flat): apply committed storage writes on an idle-priority thread during execution](https://github.com/NethermindEth/nethermind/pull/14059#pullrequestreview-5359164052) - 2026-09-29
+* [Review] [Review on: fix(engine): return unsupported fork for newPayloadV3/V4 outside their fork windows](https://github.com/NethermindEth/nethermind/pull/14024#pullrequestreview-5356331078) - 2026-09-29
+* [Review] [Review on: fix(rpc): reject signed raw transaction gas above the cap](https://github.com/NethermindEth/nethermind/pull/14060#pullrequestreview-5358792598) - 2026-09-29
+* [Review] [Review on: perf(flat): write storage trie nodes after the block is reported valid](https://github.com/NethermindEth/nethermind/pull/14058#pullrequestreview-5358752913) - 2026-09-29
+* [Review] [Review on: fix(rpc): reject a trace_rawTransaction signed for another chain](https://github.com/NethermindEth/nethermind/pull/14048#pullrequestreview-5352168385) - 2026-09-29
+* [Review] [Review on: fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025#pullrequestreview-5356282884) - 2026-09-29
+* [Review] [Review on: fix(simulate): drop logs emitted by reverted call frames](https://github.com/NethermindEth/nethermind/pull/13979#pullrequestreview-5356394426) - 2026-09-29
+* [Review] [Review on: fix(rpc): treat a null or zero GasCap as uncapped in eth_call, eth_estimateGas and eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/14001#pullrequestreview-5356368452) - 2026-09-29
+* [Review] [Review on: fix(rpc): run zero-fee trace_call and trace_callMany calls with a zero base fee](https://github.com/NethermindEth/nethermind/pull/14045#pullrequestreview-5352187209) - 2026-09-29
+* [Review] [Review on: fix(rpc): reject a priority fee above the fee cap in trace_call and trace_callMany](https://github.com/NethermindEth/nethermind/pull/14046#pullrequestreview-5352136560) - 2026-09-29
+* [Review] [Review on: fix(rpc): don't select a transaction type from a null field](https://github.com/NethermindEth/nethermind/pull/14049#pullrequestreview-5352161969) - 2026-09-29
+* [Review] [Review on: fix(rpc): match a failed CREATE in trace_filter only by its creator](https://github.com/NethermindEth/nethermind/pull/14039#pullrequestreview-5350569657) - 2026-09-29
+* [Review] [Review on: fix(rpc): return invalid params for a trace_filter bound past the head](https://github.com/NethermindEth/nethermind/pull/14040#pullrequestreview-5355080150) - 2026-09-29
+* [Review] [Review on: fix(rpc): reject unknown members and negative after or count in trace_filter](https://github.com/NethermindEth/nethermind/pull/14050#pullrequestreview-5352147766) - 2026-09-29
+* [Review] [Review on: fix(rpc): skip frame signature verification in simulation](https://github.com/NethermindEth/nethermind/pull/14023#pullrequestreview-5353517949) - 2026-09-29
+* [Review] [Review on: fix(rpc): return frame simulation results](https://github.com/NethermindEth/nethermind/pull/14022#pullrequestreview-5354004657) - 2026-09-29
+* [Review] [Review on: fix(rpc): fill omitted frame gas in calls](https://github.com/NethermindEth/nethermind/pull/14021#pullrequestreview-5353930260) - 2026-09-29
+* [Review] [Review on: fix(rpc): accept empty frame signers](https://github.com/NethermindEth/nethermind/pull/14020#pullrequestreview-5353485950) - 2026-09-29
+* [Review] [Review on: fix(rpc): align frame gas field names](https://github.com/NethermindEth/nethermind/pull/14019#pullrequestreview-5353477379) - 2026-09-29
+* [Review] [Review on: feat(config): add mainnet_aztec with a rolling trace window](https://github.com/NethermindEth/nethermind/pull/14038#pullrequestreview-5350558145) - 2026-09-29
+* [Review] [Review on: ci(focil): pin EEST fixtures to tests-focil-devnet@v0.3.0](https://github.com/NethermindEth/nethermind/pull/13909#pullrequestreview-5354874460) - 2026-09-29
+* [Review] [Review on: fix(flat): recheck the carry-forward generation after a cache hit](https://github.com/NethermindEth/nethermind/pull/14026#pullrequestreview-5349879723) - 2026-09-29
+* [Review] [Review on: fix(rpc): serialize EIP-8141 frame fields and frame receipts as quantities with full logs](https://github.com/NethermindEth/nethermind/pull/13990#pullrequestreview-5349810901) - 2026-09-29
+* [Review] [Review on: Preempt gossiped frame tx validation while a block is processing](https://github.com/NethermindEth/nethermind/pull/13994#pullrequestreview-5349901319) - 2026-09-29
+* [Review] [Review on: fix(tracing): give a parity vmTrace frame operation its gas limit and receipt gasUsed](https://github.com/NethermindEth/nethermind/pull/14005#pullrequestreview-5354182314) - 2026-09-29
+* [Commit] [fix(sync): resolve TreeSync node dependencies atomically (#14051)](https://github.com/NethermindEth/nethermind/commit/9e7b5580aaf11e3602eb699cabb9ce7e0af36129) - 2026-09-29
+* [Commit] [test: fix flaky BySpeedStrategy recalculate-probability test (#14052)](https://github.com/NethermindEth/nethermind/commit/fb8ae24fcde51091fcc323c57b636967969db9cc) - 2026-09-29
+* [Commit] [perf(zkevm): guest handlers for the hottest opcodes (#13922)](https://github.com/NethermindEth/nethermind/commit/756b4d66fe8e906df9f65f7ae343e313cd6bc28b) - 2026-09-29
+* [Commit] [perf(evm): drop end-of-code checks from untraced dispatch via padded code copy (#13896)](https://github.com/NethermindEth/nethermind/commit/1f4a358fcbfbe3dfc62c4bcb7ac285138b71fe28) - 2026-09-29
+* [Commit] [ci: report guest cost per block against master (#13210)](https://github.com/NethermindEth/nethermind/commit/74267de23ba5e4867f3176c07b72d1061bc0f01a) - 2026-09-29
+* [Commit] [perf: cache tracer flags per transaction in TransactionProcessor (#14002)](https://github.com/NethermindEth/nethermind/commit/79c48f829eef801520774f7a4f235dcf69c031e1) - 2026-09-29
+* [Commit] [test: make SnapshotableMemColumnsDb batches and snapshots atomic across columns (#14041)](https://github.com/NethermindEth/nethermind/commit/afbc6fa363b1a81e0b38dc662ba471b21c2cb855) - 2026-09-29
+* [Commit] [test(network): take the cheapest window in the NodeFilter allocation test (#14011)](https://github.com/NethermindEth/nethermind/commit/de17a1a837375b742b91c65527aa517a99ee87bc) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

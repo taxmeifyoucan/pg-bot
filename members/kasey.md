@@ -49,6 +49,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235#pullrequestreview-5169713345) - 2026-09-10
 * [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5294467358) - 2026-09-23
 * [Review] [Review on: Fix SSZ code generation when cross-compiling](https://github.com/OffchainLabs/prysm/pull/17565#pullrequestreview-5322614637) - 2026-09-25
+* [Pull Request] [Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584) - 2026-09-29
+* [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5359599851) - 2026-09-29
 ## Q2 2026
 
 

@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Update tests to be spec agnostic](https://github.com/sigp/lighthouse/pull/10051) - 2026-09-14
 * [Pull Request] [Bump `rustls` to fix cargo audit failure](https://github.com/sigp/lighthouse/pull/10052) - 2026-09-14
 * [Review] [Review on: Progressive list type-level limits](https://github.com/sigp/lighthouse/pull/10106#pullrequestreview-5338007692) - 2026-09-28
+* [Pull Request] [Add compile-time Spec alias and migrate types tests](https://github.com/sigp/lighthouse/pull/10158) - 2026-09-29
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Review] [Review on: Fix clippy errors](https://github.com/sigp/discv5/pull/310#pullrequestreview-4842040982) - 2026-08-03
 ## Q2 2026

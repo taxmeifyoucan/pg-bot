@@ -42,6 +42,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: perf(flat): hold carry-forward slot reads in a fixed set-associative table](https://github.com/NethermindEth/nethermind/pull/14027#pullrequestreview-5346186847) - 2026-09-29
 * [Pull Request] [fix(flat): recheck the carry-forward generation after a cache hit](https://github.com/NethermindEth/nethermind/pull/14026) - 2026-09-28
 * [Review] [Review on: fix(flat): recheck the carry-forward generation after a cache hit](https://github.com/NethermindEth/nethermind/pull/14026#pullrequestreview-5345952297) - 2026-09-28
+* [Review] [Review on: ci(focil): pin EEST fixtures to tests-focil-devnet@v0.3.0](https://github.com/NethermindEth/nethermind/pull/13909#pullrequestreview-5354949858) - 2026-09-29
+* [Commit] [fix(flat): recheck the carry-forward generation after a cache hit (#14026)](https://github.com/NethermindEth/nethermind/commit/579aaf0fc1b7a23bf3909322f479f92d71d0cf9f) - 2026-09-29
+* [Commit] [perf(evm): run MLOAD and MSTORE frameless in the untraced dispatch (#14028)](https://github.com/NethermindEth/nethermind/commit/d648d3fb79162c2c255f03c37d15ff6ae1a1680f) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652992370) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652988229) - 2026-07-08

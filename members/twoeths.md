@@ -312,6 +312,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: payload envelope reconstruction follow-ups from #10089](https://github.com/ChainSafe/lodestar/pull/10192#pullrequestreview-5346682753) - 2026-09-29
 * [Commit] [chore: track engine api request/reponse bytes (#10195)](https://github.com/ChainSafe/lodestar/commit/418afc191b09a6c2b741702ac964df563b7a7aa2) - 2026-09-28
 * [Commit] [chore: track incoming request served bytes on Grafana (#10196)](https://github.com/ChainSafe/lodestar/commit/d504efc09d05ca0b37ad716a90958bfd4ae7effc) - 2026-09-28
+* [Review] [Review on: fix: merge incremental PTC duties regardless of batch size](https://github.com/ChainSafe/lodestar/pull/10197#pullrequestreview-5350403779) - 2026-09-29
+* [Review] [Review on: refactor: drop underscore prefix from private fields](https://github.com/ChainSafe/lodestar/pull/10208#pullrequestreview-5349844605) - 2026-09-29
+* [Review] [Review on: test: track spec-store block roots in fork-choice runner](https://github.com/ChainSafe/lodestar/pull/10198#pullrequestreview-5350208863) - 2026-09-29
+* [Pull Request] [chore: track EL engine request/response bytes on Grafana](https://github.com/ChainSafe/lodestar/pull/10209) - 2026-09-29
+* [Review] [Review on: refactor(cli): init BeaconState](https://github.com/ChainSafe/lodestar/pull/10200#pullrequestreview-5349806906) - 2026-09-29
+* [Commit] [chore: track EL engine request/response bytes on Grafana (#10209)](https://github.com/ChainSafe/lodestar/commit/ebecebb9bacb8261265c9dd7290dac32abdc7e0d) - 2026-09-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

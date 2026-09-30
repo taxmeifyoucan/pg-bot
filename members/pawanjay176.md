@@ -106,6 +106,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: GET `/eth/v1/validator/{pubkey}/graffiti` to return String instead of hex string](https://github.com/sigp/lighthouse/pull/10117#pullrequestreview-5343725965) - 2026-09-28
 * [Review] [Review on: Notify reprocessing queue after RPC custody column imports](https://github.com/sigp/lighthouse/pull/10128#pullrequestreview-5343402045) - 2026-09-28
 * [Review] [Review on: Use block hash in payload invalidation tests](https://github.com/sigp/lighthouse/pull/10137#pullrequestreview-5343154425) - 2026-09-28
+* [Review] [Review on: Fix FCR restart UX bug](https://github.com/sigp/lighthouse/pull/10160#pullrequestreview-5358875614) - 2026-09-29
+* [Review] [Review on: Keep ENR next_fork_version at a BPO fork](https://github.com/sigp/lighthouse/pull/10161#pullrequestreview-5359419613) - 2026-09-29
+* [Review] [Review on: Gloas builder circuit breaker](https://github.com/sigp/lighthouse/pull/10162#pullrequestreview-5359594283) - 2026-09-29
 ## Q2 2026
 
 

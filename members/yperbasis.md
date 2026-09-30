@@ -717,6 +717,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/stages: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24274#pullrequestreview-5335776091) - 2026-09-28
 * [Commit] [.github/actions: retry Go module downloads (#23282)](https://github.com/erigontech/erigon/commit/76c7bab643918c5ba87129834a91d8bc3466357d) - 2026-09-28
 * [Commit] [rpc, txpool: reject oversized transactions before RPC decoding (#24315)](https://github.com/erigontech/erigon/commit/701bbfb91e77e25b7e14fb2b368fea4f5f11b5dd) - 2026-09-28
+* [Review] [Review on: execution/state, execution/stagedsync: fix the gd8 regression and the post-unwind commitment drift](https://github.com/erigontech/erigon/pull/24379#pullrequestreview-5351633517) - 2026-09-29
+* [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5349174395) - 2026-09-29
+* [Review] [Review on: cl/services: harden deferred Gloas data-column sidecars](https://github.com/erigontech/erigon/pull/23645#pullrequestreview-5354886484) - 2026-09-29
+* [Review] [Review on: rpc, db: gate historical requests by physical availability](https://github.com/erigontech/erigon/pull/23776#pullrequestreview-5352617081) - 2026-09-29
+* [Pull Request] [p2p/sentry: bound queued bytes and limit NewBlock floods](https://github.com/erigontech/erigon/pull/24392) - 2026-09-29
+* [Pull Request] [cl: schedule Sepolia's 200M gas limit at Glamsterdam](https://github.com/erigontech/erigon/pull/24395) - 2026-09-29
+* [Review] [Review on: [r3.7] cl/beacon: deduplicate PTC duties per slot](https://github.com/erigontech/erigon/pull/24387#pullrequestreview-5350546729) - 2026-09-29
+* [Review] [Review on: cl/beacon/handler: fix PTC duties dependent root and fork-epoch duties](https://github.com/erigontech/erigon/pull/24393#pullrequestreview-5352720315) - 2026-09-29
+* [Review] [Review on: cl/services: handle local block errors and back off retries](https://github.com/erigontech/erigon/pull/23646#pullrequestreview-5352639732) - 2026-09-29
+* [Review] [Review on: [r3.7] docs(site): prepare release/3.7 to become the docs deploy branch](https://github.com/erigontech/erigon/pull/24325#pullrequestreview-5349277682) - 2026-09-29
+* [Review] [Review on: [r3.7] cl/beacon, cmd: prepend EL+CL client identification to custom graffiti by default (#24369)](https://github.com/erigontech/erigon/pull/24394#pullrequestreview-5353204405) - 2026-09-29
+* [Pull Request] [p2p: serve stored block access lists without replay](https://github.com/erigontech/erigon/pull/24391) - 2026-09-29
+* [Review] [Review on: execution/engineapi: wait out a busy execution module before dropping a payload build](https://github.com/erigontech/erigon/pull/24373#pullrequestreview-5349428746) - 2026-09-29
+* [Review] [Review on: execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events](https://github.com/erigontech/erigon/pull/24381#pullrequestreview-5350685373) - 2026-09-29
+* [Review] [Review on: [r3.7] docs(site): fix four defects that are live in the published docs](https://github.com/erigontech/erigon/pull/24130#pullrequestreview-5351900662) - 2026-09-29
+* [Pull Request] [rpc: reject out-of-range historical transaction indices](https://github.com/erigontech/erigon/pull/24388) - 2026-09-29
+* [Review] [Review on: [r3.7] cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/24386#pullrequestreview-5350511085) - 2026-09-29
+* [Issue] [cl/services: validate Gloas sidecar lengths before queue admission](https://github.com/erigontech/erigon/issues/24398) - 2026-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

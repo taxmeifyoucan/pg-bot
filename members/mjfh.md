@@ -68,6 +68,7 @@ Team: Nimbus
 * [Pull Request] [Beacon sync fix garbled accounting fix](https://github.com/status-im/nimbus-eth1/pull/4865) - 2026-09-28
 * [Commit] [Snap2 sync reload prepper (#4866)](https://github.com/status-im/nimbus-eth1/commit/ee2df90899d004305df587ef79aec6eeff586005) - 2026-09-28
 * [Commit] [Beacon sync fix garbled accounting fix (#4865)](https://github.com/status-im/nimbus-eth1/commit/9b7ad4f180a3e9e19b47071fdcf1f11f1a34d4f9) - 2026-09-28
+* [Pull Request] [Reload after snap sync has finished](https://github.com/status-im/nimbus-eth1/pull/4869) - 2026-09-29
 ## Q2 2026
 
 

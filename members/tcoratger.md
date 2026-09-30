@@ -673,6 +673,28 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [test(examples): run the quadratic hash AIR tensor test from heavy CI (#2349)](https://github.com/Plonky3/Plonky3/commit/c10962663ad96664b217b76006c69f974d85f890) - 2026-09-28
 * [Commit] [perf(merkle-tree,util,symmetric)!: build Merkle trees in subtree blocks with register-tile transposes (#2335)](https://github.com/Plonky3/Plonky3/commit/23173e2803838debffe12319e46530fbfd5cfe4d) - 2026-09-28
 * [Commit] [perf(field): fold W into the broadcast operand of a packed extension product (#2338)](https://github.com/Plonky3/Plonky3/commit/72a69337dd89aac73d2eb52cc6df50024b735b7c) - 2026-09-28
+* [Review] [Review on: fix(lookup): reject local lookup weight overflow instead of saturating](https://github.com/Plonky3/Plonky3/pull/2379#pullrequestreview-5357925926) - 2026-09-29
+* [Pull Request] [perf(binary-field): run GF(2^192) sums and paired packed products on 512-bit multiplies](https://github.com/Plonky3/Plonky3/pull/2380) - 2026-09-29
+* [Review] [Review on: fix(merkle-tree): reject a cap whose length the dimensions do not produce](https://github.com/Plonky3/Plonky3/pull/2378#pullrequestreview-5356938950) - 2026-09-29
+* [Review] [Review on: fix(whir): reject a schedule whose proof of work the base field cannot grind](https://github.com/Plonky3/Plonky3/pull/2376#pullrequestreview-5356918841) - 2026-09-29
+* [Review] [Review on: fix(stir): grind for the degree correction a round feeds under the capacity bound](https://github.com/Plonky3/Plonky3/pull/2374#pullrequestreview-5356870765) - 2026-09-29
+* [Review] [Review on: fix(whir): derive the schedule with the field size the security report uses](https://github.com/Plonky3/Plonky3/pull/2373#pullrequestreview-5355662163) - 2026-09-29
+* [Pull Request] [perf(blake2s): hash one message on scalar registers, the same speed on every build](https://github.com/Plonky3/Plonky3/pull/2377) - 2026-09-29
+* [Review] [Review on: fix(merkle-tree): pad a cap that reaches a padded layer](https://github.com/Plonky3/Plonky3/pull/2372#pullrequestreview-5355147010) - 2026-09-29
+* [Review] [Review on: fix(multi-stark): bind preprocessed table heights in the verifying key](https://github.com/Plonky3/Plonky3/pull/2371#pullrequestreview-5354203494) - 2026-09-29
+* [Review] [Review on: fix(circle): return no disjoint domain beyond the circle group](https://github.com/Plonky3/Plonky3/pull/2370#pullrequestreview-5354125411) - 2026-09-29
+* [Review] [Review on: fix(stir): stop folding before a round checks more points than its next degree bound](https://github.com/Plonky3/Plonky3/pull/2369#pullrequestreview-5354124987) - 2026-09-29
+* [Review] [Review on: perf: route hand-rolled dot products through the field primitives](https://github.com/Plonky3/Plonky3/pull/2364#pullrequestreview-5352670862) - 2026-09-29
+* [Review] [Review on: perf(sha256): pick the batched backend at run time on x86-64](https://github.com/Plonky3/Plonky3/pull/2357#pullrequestreview-5352731316) - 2026-09-29
+* [Review] [Review on: perf(multilinear-util): tensor-built eq tables, delayed-reduction dots, cost-model splits](https://github.com/Plonky3/Plonky3/pull/2334#pullrequestreview-5352590701) - 2026-09-29
+* [Review] [Review on: perf(keccak): pick the batched Keccak backend at run time on x86-64](https://github.com/Plonky3/Plonky3/pull/2360#pullrequestreview-5352569305) - 2026-09-29
+* [Review] [Review on: perf(blake3): spread the chunks of a few long messages across the lanes](https://github.com/Plonky3/Plonky3/pull/2354#pullrequestreview-5352615115) - 2026-09-29
+* [Review] [Review on: perf(merkle-tree): split a pass across threads when its rows are worth it](https://github.com/Plonky3/Plonky3/pull/2355#pullrequestreview-5352615221) - 2026-09-29
+* [Review] [Review on: perf(sha256): hash short AVX-512 tails with one register group or SHA-NI streams](https://github.com/Plonky3/Plonky3/pull/2356#pullrequestreview-5352886441) - 2026-09-29
+* [Pull Request] [fix(fri,merkle-tree): release the hiding RNG lock before parallel work](https://github.com/Plonky3/Plonky3/pull/2368) - 2026-09-29
+* [Review] [Review on: perf(binary-field)!: NEON GF(2^64) and GF(2^192) packings, PMULL reduction, mask-matrix inversion](https://github.com/Plonky3/Plonky3/pull/2365#pullrequestreview-5352544287) - 2026-09-29
+* [Review] [Review on: chore(deps): bump the cargo group with 2 updates](https://github.com/Plonky3/Plonky3/pull/2367#pullrequestreview-5352325081) - 2026-09-29
+* [Commit] [perf(matrix,merkle-tree): hash adjacent rows in place (#2353)](https://github.com/Plonky3/Plonky3/commit/6468485fb84c876850922bc7dc614362e69cc205) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

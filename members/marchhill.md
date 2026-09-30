@@ -523,6 +523,45 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [perf: re-attach stored block access lists to blocks replayed from the store (#13898)](https://github.com/NethermindEth/nethermind/commit/0b4cefe392351a7aac78f974d0ec4fc93b534245) - 2026-09-28
 * [Commit] [perf(precompiles): decode BLS12-381 inputs within a worker budget (#13901)](https://github.com/NethermindEth/nethermind/commit/938362884873e1781709f3fb2b94b91ea587d1ce) - 2026-09-28
 * [Commit] [fix: validate blob-gas field presence on orphaned headers (#13776)](https://github.com/NethermindEth/nethermind/commit/7660e52c9db1349ec2291302e76f7d8de890d370) - 2026-09-28
+* [Review] [Review on: perf(rpc): write receipt logs straight from the stored entries](https://github.com/NethermindEth/nethermind/pull/14043#pullrequestreview-5355942634) - 2026-09-29
+* [Review] [Review on: fix(engine): return unsupported fork for newPayloadV3/V4 outside their fork windows](https://github.com/NethermindEth/nethermind/pull/14024#pullrequestreview-5357159612) - 2026-09-29
+* [Review] [Review on: fix(flat): keep unanchored forks out of bulk snapshot conversion](https://github.com/NethermindEth/nethermind/pull/13997#pullrequestreview-5355943984) - 2026-09-29
+* [Review] [Review on: fix(rpc): reject a trace_rawTransaction signed for another chain](https://github.com/NethermindEth/nethermind/pull/14048#pullrequestreview-5355799886) - 2026-09-29
+* [Review] [Review on: ci(expb): pin the flat DB compaction offset so every run compacts at the same blocks](https://github.com/NethermindEth/nethermind/pull/14053#pullrequestreview-5355943314) - 2026-09-29
+* [Review] [Review on: fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025#pullrequestreview-5357408102) - 2026-09-29
+* [Review] [Review on: EIP-8369: enforce Profile 2 omissions with claimed-index replay and per-IL VERIFY budget](https://github.com/NethermindEth/nethermind/pull/13590#pullrequestreview-5355549050) - 2026-09-29
+* [Pull Request] [fix(focil): judge inclusion-list appendability per block gas dimension](https://github.com/NethermindEth/nethermind/pull/14055) - 2026-09-29
+* [Review] [Review on: fix(focil): judge inclusion-list appendability per block gas dimension](https://github.com/NethermindEth/nethermind/pull/14055#pullrequestreview-5356318664) - 2026-09-29
+* [Review] [Review on: test(eip8141): refresh campaign harness for soispoke v2](https://github.com/NethermindEth/nethermind/pull/13914#pullrequestreview-5356045106) - 2026-09-29
+* [Review] [Review on: fix(optimism): enforce the Isthmus newPayload version boundary](https://github.com/NethermindEth/nethermind/pull/14054#pullrequestreview-5355897660) - 2026-09-29
+* [Review] [Review on: fix(simulate): drop logs emitted by reverted call frames](https://github.com/NethermindEth/nethermind/pull/13979#pullrequestreview-5355899590) - 2026-09-29
+* [Review] [Review on: fix(rpc): treat a null or zero GasCap as uncapped in eth_call, eth_estimateGas and eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/14001#pullrequestreview-5355898595) - 2026-09-29
+* [Review] [Review on: fix(rpc): run zero-fee trace_call and trace_callMany calls with a zero base fee](https://github.com/NethermindEth/nethermind/pull/14045#pullrequestreview-5355805727) - 2026-09-29
+* [Review] [Review on: fix(rpc): reject a priority fee above the fee cap in trace_call and trace_callMany](https://github.com/NethermindEth/nethermind/pull/14046#pullrequestreview-5355800746) - 2026-09-29
+* [Review] [Review on: fix(rpc): don't select a transaction type from a null field](https://github.com/NethermindEth/nethermind/pull/14049#pullrequestreview-5355792358) - 2026-09-29
+* [Review] [Review on: fix(rpc): match a failed CREATE in trace_filter only by its creator](https://github.com/NethermindEth/nethermind/pull/14039#pullrequestreview-5355772535) - 2026-09-29
+* [Review] [Review on: fix(rpc): return invalid params for a trace_filter bound past the head](https://github.com/NethermindEth/nethermind/pull/14040#pullrequestreview-5355806600) - 2026-09-29
+* [Review] [Review on: fix(rpc): reject unknown members and negative after or count in trace_filter](https://github.com/NethermindEth/nethermind/pull/14050#pullrequestreview-5355791528) - 2026-09-29
+* [Review] [Review on: fix(rpc): return frame simulation results](https://github.com/NethermindEth/nethermind/pull/14022#pullrequestreview-5355584427) - 2026-09-29
+* [Review] [Review on: fix(rpc): fill omitted frame gas in calls](https://github.com/NethermindEth/nethermind/pull/14021#pullrequestreview-5355583616) - 2026-09-29
+* [Review] [Review on: fix(rpc): accept empty frame signers](https://github.com/NethermindEth/nethermind/pull/14020#pullrequestreview-5355557095) - 2026-09-29
+* [Review] [Review on: fix(rpc): align frame gas field names](https://github.com/NethermindEth/nethermind/pull/14019#pullrequestreview-5355620717) - 2026-09-29
+* [Review] [Review on: feat(config): add mainnet_aztec with a rolling trace window](https://github.com/NethermindEth/nethermind/pull/14038#pullrequestreview-5355951291) - 2026-09-29
+* [Review] [Review on: perf(zkevm): take the lean Keccak-256 sponge for every 256-bit ComputeHash in the guest](https://github.com/NethermindEth/nethermind/pull/13985#pullrequestreview-5355944752) - 2026-09-29
+* [Review] [Review on: ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika](https://github.com/NethermindEth/nethermind/pull/14056#pullrequestreview-5355940260) - 2026-09-29
+* [Review] [Review on: ci(focil): pin EEST fixtures to tests-focil-devnet@v0.3.0](https://github.com/NethermindEth/nethermind/pull/13909#pullrequestreview-5354436547) - 2026-09-29
+* [Review] [Review on: fix(rpc): serialize EIP-8141 frame fields and frame receipts as quantities with full logs](https://github.com/NethermindEth/nethermind/pull/13990#pullrequestreview-5350975857) - 2026-09-29
+* [Review] [Review on: Preempt gossiped frame tx validation while a block is processing](https://github.com/NethermindEth/nethermind/pull/13994#pullrequestreview-5350958654) - 2026-09-29
+* [Commit] [fix(tracing): give a parity vmTrace frame operation its gas limit and receipt gasUsed (#14005)](https://github.com/NethermindEth/nethermind/commit/d2731ca8ee5a3f0723e97d419c973001de132a0f) - 2026-09-29
+* [Commit] [Fix use-after-return on the shared transaction pool in protocol-handler tests (#13674)](https://github.com/NethermindEth/nethermind/commit/2691655ea5ade475b20271960f196d5a9da88f89) - 2026-09-29
+* [Commit] [test: stop PrepareTx writing the built block back onto the fixture (#13681)](https://github.com/NethermindEth/nethermind/commit/a0c02a69dd9591d6282d220c9b8111cecbb2c581) - 2026-09-29
+* [Commit] [test(merge): wait for payload commit before forkchoice (#13852)](https://github.com/NethermindEth/nethermind/commit/a16458f0d5fb9febc81681aa070e6bf49de39deb) - 2026-09-29
+* [Commit] [fix(evm): make the pooled-object leak detectors able to fire (#13393)](https://github.com/NethermindEth/nethermind/commit/fb4e3ce0530a0c9ef719f3554c3d437050f5c16a) - 2026-09-29
+* [Commit] [fix(nethtest): keep diagnostics off the --jsonout stdout document (#13638)](https://github.com/NethermindEth/nethermind/commit/ca14bedefe47b80de4da6031bb483d3b4724dedd) - 2026-09-29
+* [Commit] [fix(ci): poll for the killed child in the stall watchdog test (#13511)](https://github.com/NethermindEth/nethermind/commit/ad2c9f4d5ddbd7a487a3f1364e723621c2e6b3f1) - 2026-09-29
+* [Commit] [Deflake the ProtocolHandlerBase runner-reuse allocation probes (#13635)](https://github.com/NethermindEth/nethermind/commit/e9e590d53a896d16b35ebbc64d3c71153611cccc) - 2026-09-29
+* [Commit] [feat(t8n): fill EIP-8141 frame transactions (#13498)](https://github.com/NethermindEth/nethermind/commit/553d472857d052dd64f593f265108bd6bdae86f6) - 2026-09-29
+* [Commit] [refactor(eip8141): compile frame-tx tracer hooks out when not tracing (#14000)](https://github.com/NethermindEth/nethermind/commit/912b87fa5bf9f1fc549345958b77b23e04974fa5) - 2026-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -556,6 +595,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-7805: skip IL transactions needing data the IL cannot carry](https://github.com/ethereum/EIPs/pull/12224) - 2026-08-21
 * [Pull Request] [Update EIP-7805: skip blob transactions in the inclusion list check](https://github.com/ethereum/EIPs/pull/12319) - 2026-09-11
 * [Review] [Review on: Update EIP-7843: align Engine API method names with execution-apis](https://github.com/ethereum/EIPs/pull/12354#pullrequestreview-5241295718) - 2026-09-17
+* [Pull Request] [Update EIP-7805: Profile 2 inclusion claims and per-list VERIFY budget](https://github.com/ethereum/EIPs/pull/12394) - 2026-09-29
+* [Pull Request] [Update EIP-8369: hash-ordered per-IL budget fill](https://github.com/ethereum/EIPs/pull/12396) - 2026-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30
@@ -571,6 +612,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [engine: add optional parentBlockHash to engine_getInclusionListV1](https://github.com/ethereum/execution-apis/pull/886) - 2026-09-11
 * [Review] [Review on: docs: specify callTracer and trace_* output for EIP-8141 frame transactions](https://github.com/ethereum/execution-apis/pull/909#pullrequestreview-5343442153) - 2026-09-28
 * [Pull Request] [docs: specify eth_simulateV1 ETH transfer logs for frame transactions](https://github.com/ethereum/execution-apis/pull/910) - 2026-09-28
+
+* [Pull Request] [engine: inclusion list claims and membership in Bogota](https://github.com/ethereum/execution-apis/pull/911) - 2026-09-29
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add inclusion list claims to Heze (EIP-7805)](https://github.com/ethereum/consensus-specs/pull/5698) - 2026-09-29
 ## Q2 2026
 
 

@@ -148,6 +148,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Add concurrency protection for cross block cache](https://github.com/besu-eth/besu/pull/11371#pullrequestreview-5318658490) - 2026-09-25
 * [Pull Request] [Bonsai: compute state roots on a persistent immutable tree cache](https://github.com/besu-eth/besu/pull/11386) - 2026-09-28
 * [Pull Request] [Bonsai: cache committed trie nodes, stop re-hashing preloaded ones](https://github.com/besu-eth/besu/pull/11382) - 2026-09-28
+* [Pull Request] [Accept upper-half uint64 targetGasLimit in engine_forkchoiceUpdatedV4](https://github.com/besu-eth/besu/pull/11389) - 2026-09-29
+* [Review] [Review on: Default EIP-7002/EIP-7251 request contract addresses when absent from genesis](https://github.com/besu-eth/besu/pull/11384#pullrequestreview-5350222221) - 2026-09-29
+* [Pull Request] [Rotate changelog for 26.9.0](https://github.com/besu-eth/besu/pull/11388) - 2026-09-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

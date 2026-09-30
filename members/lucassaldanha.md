@@ -40,6 +40,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Smart-dialing feature (address ranking + staggered dials)](https://github.com/libp2p/jvm-libp2p/issues/529) - 2026-09-11
 * [Pull Request] [feat(gossip): bound inbound RPC protobuf field count](https://github.com/libp2p/jvm-libp2p/pull/531) - 2026-09-16
 * [Review] [Review on: feat(gossip): bound inbound RPC protobuf field count](https://github.com/libp2p/jvm-libp2p/pull/531#pullrequestreview-5217952757) - 2026-09-16
+* [Pull Request] [feat(gossip): expose router internals to GossipRouterEventListener](https://github.com/libp2p/jvm-libp2p/pull/533) - 2026-09-30
+* [Commit] [feat(gossip): bound inbound RPC protobuf field count (#531)](https://github.com/libp2p/jvm-libp2p/commit/7be7bb759be48d9a9f6a2ed60907250f5019b4fc) - 2026-09-29
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -196,6 +198,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Make `LightClientUpdate` persistant in the database](https://github.com/Consensys-Incorporated/teku/pull/11337#pullrequestreview-5347391153) - 2026-09-29
 * [Issue] [Grafana Panel Update: Data Columns Validation Failure Rate legend](https://github.com/Consensys-Incorporated/teku/issues/11355) - 2026-09-29
 * [Issue] [Promote builder config CLI options to stable and update docs](https://github.com/Consensys-Incorporated/teku/issues/11354) - 2026-09-28
+* [Pull Request] [Validate full epoch processing in epoch processing reference tests](https://github.com/Consensys-Incorporated/teku/pull/11366) - 2026-09-29
+* [Review] [Review on: Validate full epoch processing in epoch processing reference tests](https://github.com/Consensys-Incorporated/teku/pull/11366#pullrequestreview-5359552515) - 2026-09-29
+* [Pull Request] [feat(metrics): experimental gossipsub metrics](https://github.com/Consensys-Incorporated/teku/pull/11368) - 2026-09-30
+* [Pull Request] [Bound in-flight execution payload gossip validation](https://github.com/Consensys-Incorporated/teku/pull/11359) - 2026-09-29
+* [Review] [Review on: Bound in-flight execution payload gossip validation](https://github.com/Consensys-Incorporated/teku/pull/11359#pullrequestreview-5358731523) - 2026-09-29
+* [Review] [Review on: Keep ENR next_fork_version at a BPO fork](https://github.com/Consensys-Incorporated/teku/pull/11364#pullrequestreview-5359417783) - 2026-09-29
+* [Issue] [Add new set of libp2p-related metrics](https://github.com/Consensys-Incorporated/teku/issues/11367) - 2026-09-30
+* [Issue] [Add to epoch processing tests generation states before and after full epoch processing](https://github.com/Consensys-Incorporated/teku/issues/11365) - 2026-09-29
 ## Q2 2026
 
 

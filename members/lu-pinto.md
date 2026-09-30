@@ -52,6 +52,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Do not use UInt256 in TLoad/TStore (#11348)](https://github.com/besu-eth/besu/commit/028f9d7391b1a85885a87d6c6f931bad7610da8c) - 2026-09-22
 * [Pull Request] [Make AddressStorageSlotKey hashcode seeded](https://github.com/besu-eth/besu/pull/11369) - 2026-09-25
 * [Review] [Review on: Make AddressStorageSlotKey hashcode seeded](https://github.com/besu-eth/besu/pull/11369#pullrequestreview-5340028173) - 2026-09-28
+* [Pull Request] [Refactor tstore unit tests](https://github.com/besu-eth/besu/pull/11392) - 2026-09-29
+* [Review] [Review on: Accept upper-half uint64 targetGasLimit in engine_forkchoiceUpdatedV4](https://github.com/besu-eth/besu/pull/11389#pullrequestreview-5351801321) - 2026-09-29
+* [Commit] [Make AddressStorageSlotKey hashcode seeded (#11369)](https://github.com/besu-eth/besu/commit/3cbf077c5d71acfcdc02a1292c9bba9416b40672) - 2026-09-29
 ## Q2 2026
 
 

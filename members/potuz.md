@@ -116,6 +116,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559) - 2026-09-24
 * [Review] [Review on: hdiff snapshot cache read](https://github.com/OffchainLabs/prysm/pull/17561#pullrequestreview-5321667246) - 2026-09-25
 * [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5341709566) - 2026-09-28
+* [Review] [Review on: Archive mode: backfill to a past state and regenerate history into the hdiff tree](https://github.com/OffchainLabs/prysm/pull/17292#pullrequestreview-5354812971) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

@@ -80,6 +80,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(txpool): reuse insertion timestamp across a batch](https://github.com/paradigmxyz/reth/pull/27284#pullrequestreview-5233976021) - 2026-09-17
 * [Pull Request] [refactor(evm): integrate owned evm2 errors](https://github.com/paradigmxyz/reth/pull/27417) - 2026-09-24
 * [Pull Request] [refactor(evm): derive pre-block changes from executor](https://github.com/paradigmxyz/reth/pull/27526) - 2026-09-28
+* [Review] [Review on: fix(evm): avoid narrowing blob update fraction](https://github.com/paradigmxyz/reth/pull/27488#pullrequestreview-5353818646) - 2026-09-29
+* [Review] [Review on: fix(rpc): install access list before gas rerun](https://github.com/paradigmxyz/reth/pull/27487#pullrequestreview-5353471858) - 2026-09-29
+* [Review] [Review on: fix(rpc): preserve exact default blob fee cap](https://github.com/paradigmxyz/reth/pull/27490#pullrequestreview-5353459015) - 2026-09-29
+* [Review] [Review on: fix(rpc): preserve full block number overrides](https://github.com/paradigmxyz/reth/pull/27573#pullrequestreview-5353452398) - 2026-09-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

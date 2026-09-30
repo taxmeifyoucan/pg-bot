@@ -283,6 +283,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Apply block PTC votes to every seat and skip votes for older blocks (#17555)](https://github.com/OffchainLabs/prysm/commit/413fcb51ee1f1b277eefe88ce0653b24aef2e115) - 2026-09-28
 * [Commit] [Reject Builder-API bids whose block hash equals the parent block hash (#17556)](https://github.com/OffchainLabs/prysm/commit/6c92ec84ece281da74b1c279d8a2982819974d5b) - 2026-09-28
 * [Commit] [Accept late previous-fork attestations on the current fork's subnet topic (#17562)](https://github.com/OffchainLabs/prysm/commit/7b547d605d5a5f2af549f30e006dd83bddab47b9) - 2026-09-28
+* [Review] [Review on: Remove the beacon-fuzz state map generator](https://github.com/OffchainLabs/prysm/pull/17582#pullrequestreview-5357407485) - 2026-09-29
+* [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5356424500) - 2026-09-29
+* [Commit] [Reject proposer preferences pointing past the shuffling dependent slot (#17484)](https://github.com/OffchainLabs/prysm/commit/9ad1bee498613b7c5d0b70c7d7d2f3c3536c5b16) - 2026-09-29
+* [Commit] [Reject Gloas blocks whose bid does not build on the parent's execution head (#17575)](https://github.com/OffchainLabs/prysm/commit/5c6afdb0a04fcbff0bc398a149d3955bc26d14ae) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

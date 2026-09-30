@@ -123,6 +123,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [E2E: tolerate network-wide skipped slots in the metrics head-slot check](https://github.com/OffchainLabs/prysm/pull/17564) - 2026-09-25
 * [Commit] [Fix SSZ code generation when cross-compiling (#17565)](https://github.com/OffchainLabs/prysm/commit/5a12fcd9398ca8875efaa74486685b659568d4aa) - 2026-09-25
 * [Pull Request] [Changelog v7.2.0](https://github.com/OffchainLabs/prysm/pull/17572) - 2026-09-28
+* [Pull Request] [Remove the beacon-fuzz state map generator](https://github.com/OffchainLabs/prysm/pull/17582) - 2026-09-29
+* [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5358650018) - 2026-09-29
+* [Review] [Review on: Remove Bazel: Phase 5/9](https://github.com/OffchainLabs/prysm/pull/17356#pullrequestreview-5357450739) - 2026-09-29
+* [Pull Request] [Remove the eth1exporter tool](https://github.com/OffchainLabs/prysm/pull/17581) - 2026-09-29
+* [Pull Request] [Remove the unencrypted-keys-gen and convert-keys interop tools](https://github.com/OffchainLabs/prysm/pull/17583) - 2026-09-29
+* [Review] [Review on: check cache for reading state diffs](https://github.com/OffchainLabs/prysm/pull/17580#pullrequestreview-5356764956) - 2026-09-29
+* [Commit] [Remove the eth1exporter tool (#17581)](https://github.com/OffchainLabs/prysm/commit/b74776063e4f077a273ab044a914479ec0441c2f) - 2026-09-29
+* [Commit] [Changelog v7.2.0 (#17572)](https://github.com/OffchainLabs/prysm/commit/67e6a3eca46922e6744d4b9f84ddbdfd95820fc1) - 2026-09-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75#pullrequestreview-5282164914) - 2026-09-22

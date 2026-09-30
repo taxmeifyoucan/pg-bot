@@ -183,6 +183,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Don't gossip valid attestations already seen for same participant and target epoch](https://github.com/Consensys-Incorporated/teku/pull/11307#pullrequestreview-5310369162) - 2026-09-24
 * [Review] [Review on: FC Node invalidation and Node resolution bug fixes](https://github.com/Consensys-Incorporated/teku/pull/11333#pullrequestreview-5306267295) - 2026-09-24
 * [Review] [Review on: Reallow block production retry on failure](https://github.com/Consensys-Incorporated/teku/pull/11346#pullrequestreview-5326083036) - 2026-09-26
+* [Pull Request] [FCR: Precisely compute committee weight](https://github.com/Consensys-Incorporated/teku/pull/11362) - 2026-09-29
+* [Issue] [Deprecate headV1 event](https://github.com/Consensys-Incorporated/teku/issues/11363) - 2026-09-29
+* [Commit] [Don't mark block as invalid when exception is unknown (#11231)](https://github.com/Consensys-Incorporated/teku/commit/23935e651a5fdf33cb37a46560aa2c6208abe6f8) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

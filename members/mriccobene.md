@@ -29,6 +29,7 @@ Team: Erigon
 * [Review] [Review on: add Go unit tests across all packages and fix three defects they surfaced](https://github.com/erigontech/rpc-tests/pull/601#pullrequestreview-5177468665) - 2026-09-11
 * [Review] [Review on: add eth_getHeaderByNumber and eth_getHeaderByHash tests](https://github.com/erigontech/rpc-tests/pull/603#pullrequestreview-5233631444) - 2026-09-17
 * [Review] [Review on: trace_call, trace_callMany: update fixtures for eth_call gas pricing](https://github.com/erigontech/rpc-tests/pull/606#pullrequestreview-5329491914) - 2026-09-27
+* [Review] [Review on: test: add trace_filter fixtures for the default intersection mode](https://github.com/erigontech/rpc-tests/pull/607#pullrequestreview-5348573068) - 2026-09-29
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06
@@ -68,6 +69,7 @@ Team: Erigon
 * [Commit] [execution/stagedsync: index block-end system call logs in the parallel executor (#24067)](https://github.com/erigontech/erigon/commit/9c82a9bded1ef45008056a707d40eeb9c141a473) - 2026-09-17
 * [Review] [Review on: qa-tests: try to mach published snapshot granularity on the exec-from-zero test](https://github.com/erigontech/erigon/pull/24071#pullrequestreview-5279143054) - 2026-09-22
 * [Commit] [qa-tests: try to mach published snapshot granularity on the exec-from-zero test (#24071)](https://github.com/erigontech/erigon/commit/c0578eece97526b323ded83f3a62345fc29ca288) - 2026-09-22
+* [Review] [Review on: ci: re-enable trace rpc-tests fixed in v2.32.0](https://github.com/erigontech/erigon/pull/24378#pullrequestreview-5349549536) - 2026-09-29
 ## Q2 2026
 
 

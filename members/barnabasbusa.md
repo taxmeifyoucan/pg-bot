@@ -95,6 +95,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Raise submit page gas limits for EIP-8037 state costs](https://github.com/ethpandaops/dora/pull/857#pullrequestreview-5053490637) - 2026-08-28
 * [Commit] [Merge pull request #856 from ethpandaops/bbusa/gloas-churn-tooltip](https://github.com/ethpandaops/dora/commit/db2e57bc028b007923d20cb2cae35f76b456825d) - 2026-08-28
 * [Commit] [Use Gloas activation/exit churn limits for queue churn display](https://github.com/ethpandaops/dora/commit/437d9da7b0c57e094e50f3519daa26c4a25a13ac) - 2026-08-28
+* [Pull Request] [feat: support EIP-8198 variable slot durations](https://github.com/ethpandaops/dora/pull/882) - 2026-09-29
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -174,6 +175,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Return hex-encoded transactions from engine_getInclusionListV1](https://github.com/besu-eth/besu/pull/11184) - 2026-08-28
 * [Pull Request] [Default EIP-7002/EIP-7251 request contract addresses when absent from genesis](https://github.com/besu-eth/besu/pull/11384) - 2026-09-28
 * [Issue] [Geth-format genesis with `ethash` (e.g. mainnet genesis.json) fails to start: "Withdrawal Request Contract Address not found"](https://github.com/besu-eth/besu/issues/11383) - 2026-09-28
+* [Commit] [Default EIP-7002/EIP-7251 request contract addresses when absent from genesis (#11384)](https://github.com/besu-eth/besu/commit/d4ad1359b3c04b0f72cf216283a4c0dd1562424b) - 2026-09-29
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
 

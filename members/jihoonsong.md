@@ -164,6 +164,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Use double quotes for strings in generated spec](https://github.com/ethereum/consensus-specs/pull/5684#pullrequestreview-5339188260) - 2026-09-28
 * [Review] [Review on: Run ruff on generated spec](https://github.com/ethereum/consensus-specs/pull/5683#pullrequestreview-5339187811) - 2026-09-28
 * [Commit] [Change some function signatures to return the right type (#5693)](https://github.com/ethereum/consensus-specs/commit/47fe928fec77bb6cef1740528a9361bc25630872) - 2026-09-28
+* [Review] [Review on: Refactor gossip tests timing outputs](https://github.com/ethereum/consensus-specs/pull/5697#pullrequestreview-5353535958) - 2026-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

@@ -373,6 +373,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Preserve account creation results in traced world state (#13574)](https://github.com/NethermindEth/nethermind/commit/c4eff6560e8f772c6d39a43f32dbf6c8a5e412bb) - 2026-09-24
 * [Commit] [Report EIP-7708 finalization logs to tracers (#13567)](https://github.com/NethermindEth/nethermind/commit/759b0ac54137980cfb14a02ef0fb432e9fff252b) - 2026-09-24
 * [Issue] [eth/70 requester pages and buffers unboundedly when the local header is unknown](https://github.com/NethermindEth/nethermind/issues/13983) - 2026-09-27
+* [Issue] [AuRa and XDC TxPool overrides omit EIP-8141 validation-prefix simulator](https://github.com/NethermindEth/nethermind/issues/14035) - 2026-09-29
+* [Issue] [EIP-7906 TXDIFF rejects per-topic view parameters 0x0B and 0x0C](https://github.com/NethermindEth/nethermind/issues/14034) - 2026-09-29
+* [Issue] [EIP-8250 TXPARAM nonce indices differ from published specification](https://github.com/NethermindEth/nethermind/issues/14033) - 2026-09-29
+* [Issue] [EIP-8141 public pool defaults to 300k validation gas versus 100k spec limit](https://github.com/NethermindEth/nethermind/issues/14031) - 2026-09-29
+* [Issue] [EIP-8272 implementation follows superseded envelope design instead of canonical verifier frame](https://github.com/NethermindEth/nethermind/issues/14030) - 2026-09-29
+* [Issue] [eth_simulateV1 reports post-refund maxUsedGas for frame transactions](https://github.com/NethermindEth/nethermind/issues/14029) - 2026-09-29
+* [Issue] [EIP-8141 public pool admits generic leading VERIFY outside recognized prefixes](https://github.com/NethermindEth/nethermind/issues/14032) - 2026-09-29
+* [Issue] [Pooled eth/70 and eth/71 lists are not returned after trailing RLP rejection](https://github.com/NethermindEth/nethermind/issues/14036) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

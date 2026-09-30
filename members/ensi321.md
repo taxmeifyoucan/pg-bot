@@ -107,6 +107,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: exclude all spec-tests directories from docker build context](https://github.com/ChainSafe/lodestar/pull/10102) - 2026-09-16
 * [Commit] [fix: bound inbound gossipsub RPC frames by max_message_size (#10079)](https://github.com/ChainSafe/lodestar/commit/33d8e7d3cd7ef35a790f1e98af45d5ad0cc5ceeb) - 2026-09-16
 * [Commit] [chore: exclude all spec-tests directories from docker build context (#10102)](https://github.com/ChainSafe/lodestar/commit/71549aaa7545a58306d8c58cbb10f369df1a7285) - 2026-09-16
+* [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5352803256) - 2026-09-29
+* [Pull Request] [test: track spec-store block roots in fork-choice runner](https://github.com/ChainSafe/lodestar/pull/10198) - 2026-09-29
+* [Commit] [test: track spec-store block roots in fork-choice runner (#10198)](https://github.com/ChainSafe/lodestar/commit/b4eaa62b300693e311136076d5ca92b3234a4723) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
@@ -141,6 +144,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-4924253397) - 2026-08-13
 * [Review] [Review on: Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/pull/12097#pullrequestreview-4924277417) - 2026-08-13
 * [Commit] [Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/commit/2c2da76671d77e7d2f5060b23f8a92cb5d62897e) - 2026-09-17
+* [Pull Request] [Add EIP: Retire 0x00 validators](https://github.com/ethereum/EIPs/pull/12390) - 2026-09-29
+* [Pull Request] [Update EIP-8365: reduce scope to the deposit guard](https://github.com/ethereum/EIPs/pull/12389) - 2026-09-29
 ## Q2 2026
 
 

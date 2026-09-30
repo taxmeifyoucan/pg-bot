@@ -1067,6 +1067,59 @@ Team: Reth
 * [Commit] [refactor(net): simplify network test utils (#27453)](https://github.com/paradigmxyz/reth/commit/96d93d7a307ff13f049bc12fb922dd0a1954188c) - 2026-09-28
 * [Commit] [refactor: convert trie accounts with From (#27454)](https://github.com/paradigmxyz/reth/commit/6dcf705a7262a83f04db06d6d3615e47033bb850) - 2026-09-28
 * [Commit] [revert: "fix(storage): revert BAL store activation" (#27472)](https://github.com/paradigmxyz/reth/commit/f5060248edb3f39b8798ad719c9ba0ff5099447e) - 2026-09-28
+* [Review] [Review on: fix(rpc): time out slow compressed requests](https://github.com/paradigmxyz/reth/pull/27530#pullrequestreview-5350653179) - 2026-09-29
+* [Review] [Review on: feat(storage): reject snap sync on the legacy state layout](https://github.com/paradigmxyz/reth/pull/27540#pullrequestreview-5356733791) - 2026-09-29
+* [Review] [Review on: chore(snap): log peers that don't serve the pivot](https://github.com/paradigmxyz/reth/pull/27536#pullrequestreview-5355395178) - 2026-09-29
+* [Review] [Review on: feat(snap-sync): repair stale state at the pivot](https://github.com/paradigmxyz/reth/pull/27457#pullrequestreview-5354999761) - 2026-09-29
+* [Review] [Review on: fix(tracing): preserve context across engine and worker tasks](https://github.com/paradigmxyz/reth/pull/27529#pullrequestreview-5356873783) - 2026-09-29
+* [Pull Request] [fix(e2e): skip stale notifications in assert_new_block](https://github.com/paradigmxyz/reth/pull/27583) - 2026-09-29
+* [Pull Request] [perf(rpc): share encoded logs across subscribers](https://github.com/paradigmxyz/reth/pull/27580) - 2026-09-29
+* [Pull Request] [perf(rpc): share full pending tx subscriptions](https://github.com/paradigmxyz/reth/pull/27581) - 2026-09-29
+* [Review] [Review on: refactor(chain-state): track all executed in-memory blocks in one store](https://github.com/paradigmxyz/reth/pull/27320#pullrequestreview-5355976639) - 2026-09-29
+* [Review] [Review on: feat(storage): anchor pruned static files at a block](https://github.com/paradigmxyz/reth/pull/27538#pullrequestreview-5355914035) - 2026-09-29
+* [Pull Request] [test(engine): cover a disk reorg with a partial state trie](https://github.com/paradigmxyz/reth/pull/27578) - 2026-09-29
+* [Review] [Review on: test(txpool): synchronize bounded queue test](https://github.com/paradigmxyz/reth/pull/27532#pullrequestreview-5350653816) - 2026-09-29
+* [Review] [Review on: test(ef-tests): build genesis trie before block 1](https://github.com/paradigmxyz/reth/pull/27571#pullrequestreview-5353238811) - 2026-09-29
+* [Pull Request] [test(trie): cover extension-only account proofs](https://github.com/paradigmxyz/reth/pull/27575) - 2026-09-29
+* [Pull Request] [feat(rpc): return account extensions](https://github.com/paradigmxyz/reth/pull/27574) - 2026-09-29
+* [Review] [Review on: feat(trie): recover EIP-1186 account extensions](https://github.com/paradigmxyz/reth/pull/27524#pullrequestreview-5353246230) - 2026-09-29
+* [Review] [Review on: feat: add account-ext feature](https://github.com/paradigmxyz/reth/pull/27501#pullrequestreview-5351111238) - 2026-09-29
+* [Pull Request] [test: use revm AccountInfo::new in tests](https://github.com/paradigmxyz/reth/pull/27572) - 2026-09-29
+* [Commit] [fix(e2e): skip stale notifications in assert_new_block (#27583)](https://github.com/paradigmxyz/reth/commit/3045fff15eae0a8a4ce9545e27ceb78a7cb72476) - 2026-09-29
+* [Commit] [test(engine): cover a disk reorg with a partial state trie (#27578)](https://github.com/paradigmxyz/reth/commit/34eaed1981f770f0fe1c1a45fd8c00ab997804db) - 2026-09-29
+* [Commit] [test(trie): cover extension-only account proofs (#27575)](https://github.com/paradigmxyz/reth/commit/4d226ac99fd8457de3c41af654583776fdb772aa) - 2026-09-29
+* [Commit] [feat(rpc): return account extensions (#27574)](https://github.com/paradigmxyz/reth/commit/14df8f94a9c4cab8395470d3a3a62ad271ffeefd) - 2026-09-29
+* [Commit] [feat(trie): recover EIP-1186 account extensions (#27524)](https://github.com/paradigmxyz/reth/commit/87cf60565a6e3941c7bf0fa4a901b57690163e47) - 2026-09-29
+* [Commit] [feat: add account-ext feature (#27501)](https://github.com/paradigmxyz/reth/commit/1465c686ff8e8ddf05d1012c81455e27bb238a4e) - 2026-09-29
+* [Commit] [test: use revm AccountInfo::new in tests (#27572)](https://github.com/paradigmxyz/reth/commit/8bbeb85a18f25008cee962a47751ac3ff10d6415) - 2026-09-29
+* [Commit] [refactor(rpc): use SystemContract::amsterdam (#27519)](https://github.com/paradigmxyz/reth/commit/a7fe998d15b3b2f3a65b694ceba27eb635260575) - 2026-09-29
+* [Commit] [ci: bound doc tests cache size (#27570)](https://github.com/paradigmxyz/reth/commit/a90387ddb6ea99a8bb137adf705144fdd1d99e74) - 2026-09-29
+* [Commit] [refactor(net): format hashes with LowerHex (#27553)](https://github.com/paradigmxyz/reth/commit/7a54677bccbe3cb41b3c2475bba01e697544a20e) - 2026-09-29
+* [Commit] [refactor(evm): use State::bundle_size_hint (#27564)](https://github.com/paradigmxyz/reth/commit/25d4b5bc20b65fd80e47b3df98c390fb90806867) - 2026-09-29
+* [Commit] [refactor(rpc): use RewardAction::into_localized_trace (#27504)](https://github.com/paradigmxyz/reth/commit/f9f0a34886484ce33579fdaf8787d51ea4c1703c) - 2026-09-29
+* [Commit] [fix: make codec crates build standalone (#27546)](https://github.com/paradigmxyz/reth/commit/ae9e5eca3113755ccdf294fd7aa88e20aa749161) - 2026-09-29
+* [Commit] [refactor(trie): use B256::right_padding_from (#27568)](https://github.com/paradigmxyz/reth/commit/4b22155924ae4fd919489dbe37180e2296377028) - 2026-09-29
+* [Commit] [perf: use B256Map for hash-keyed maps (#27558)](https://github.com/paradigmxyz/reth/commit/ec6f9058a769fb157bcabde4e57ead905af73761) - 2026-09-29
+* [Commit] [refactor(trie): use TrieMask::from_nibble (#27567)](https://github.com/paradigmxyz/reth/commit/83eca1e061d8647caaa457e7b7365e57fac43e1f) - 2026-09-29
+* [Commit] [refactor(engine): use Bytecode::len (#27563)](https://github.com/paradigmxyz/reth/commit/546363a140ab2af6ed8461f9f29c6ab3df5c117d) - 2026-09-29
+* [Commit] [refactor(net): use Header::length_with_payload (#27552)](https://github.com/paradigmxyz/reth/commit/8547c8e82e667aab8d89b88e57b1637affc14141) - 2026-09-29
+* [Commit] [test: use AccountInfo::from_bytecode (#27560)](https://github.com/paradigmxyz/reth/commit/ccd3e6124718fff6a76ff236d295b27111564d3f) - 2026-09-29
+* [Commit] [refactor(net): drop redundant RLP length checks (#27547)](https://github.com/paradigmxyz/reth/commit/db3d7c6214e18e3d0a8b5e11cf3889a71ddbba28) - 2026-09-29
+* [Commit] [refactor(evm): use BundleState::storage (#27565)](https://github.com/paradigmxyz/reth/commit/1cb086adcbf6d9c18627ce03dd2fc9ec550f9c11) - 2026-09-29
+* [Commit] [refactor(engine): use BundleState::len (#27559)](https://github.com/paradigmxyz/reth/commit/5b781694cdbd1fe5a5645214d328b6a015df248b) - 2026-09-29
+* [Commit] [refactor(engine): use Bytecode::hash_slow (#27556)](https://github.com/paradigmxyz/reth/commit/f53988f568847b3731d52bee72097c9e05e395ed) - 2026-09-29
+* [Commit] [refactor(engine): use state_finalized_hash (#27557)](https://github.com/paradigmxyz/reth/commit/c3f02e087732272069e7e2c3e0b294dc8ed0c591) - 2026-09-29
+* [Commit] [refactor: use alloy_rlp::encode (#27550)](https://github.com/paradigmxyz/reth/commit/764221182e188e47e2af19d576c1a80557a30a4c) - 2026-09-29
+* [Commit] [refactor(engine): use is_empty_code_hash (#27562)](https://github.com/paradigmxyz/reth/commit/4f3a73a6710517994bafaa9e46d3b535428a2eb8) - 2026-09-29
+* [Commit] [refactor(net): derive RlpEncodableWrapper (#27551)](https://github.com/paradigmxyz/reth/commit/f10a99bc402ce832611e2ec32780292bcb50bbb1) - 2026-09-29
+* [Commit] [refactor(network): use EPOCH_DURATION (#27554)](https://github.com/paradigmxyz/reth/commit/768ffce814a92a480e2e16365b4e49c2f4c6b844) - 2026-09-29
+* [Commit] [refactor(ecies): use Keccak256 output as B256 (#27549)](https://github.com/paradigmxyz/reth/commit/2c1d94da2fc47efbd4610e318782711f02220d80) - 2026-09-29
+* [Commit] [test(engine): use EIP7702_CLEARED_DELEGATION (#27561)](https://github.com/paradigmxyz/reth/commit/7768260e75d9b4021fa863b46b843b2df06d78b5) - 2026-09-29
+* [Commit] [test(network): use VERSIONED_HASH_VERSION_KZG (#27555)](https://github.com/paradigmxyz/reth/commit/282ec9429503201cc2b0abbbf88332ce17127b49) - 2026-09-29
+* [Commit] [test(downloaders): use state_root in snap tests (#27548)](https://github.com/paradigmxyz/reth/commit/6845e15aefeb59400e0220eadcda16fab4d62b64) - 2026-09-29
+* [Commit] [refactor(rpc): use BundleState::account in validation (#27545)](https://github.com/paradigmxyz/reth/commit/844592c80c681c935737584f92c4a876e78a2590) - 2026-09-29
+* [Commit] [refactor(chainspec): use is_london_active_at_block (#27506)](https://github.com/paradigmxyz/reth/commit/4a27792a2d033ded92e6c796cbc23b0a2178b826) - 2026-09-29
+* [Commit] [test(ef-tests): use B256::from for storage slots (#27518)](https://github.com/paradigmxyz/reth/commit/2f3444b74c3e8cdaf56903c6e980bc80b76a2a71) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

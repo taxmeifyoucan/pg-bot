@@ -41,6 +41,11 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [fill: plain pytest test in a fixture directory crashes collection with INTERNALERROR](https://github.com/ethereum/execution-specs/issues/3608) - 2026-09-16
 * [Commit] [fix(test-consume): skip Besu evmtool's non-JSON summary line in state-test output (#3610)](https://github.com/ethereum/execution-specs/commit/2645291933b12217b56e8736207677e84e1744df) - 2026-09-17
 * [Review] [Review on: feat(testing): add blockchain_test_engine_reorg format and consume reorg simulator](https://github.com/ethereum/execution-specs/pull/3556#pullrequestreview-5318427307) - 2026-09-25
+* [Pull Request] [fix(test-fill): fail collection of tests without a spec fixture](https://github.com/ethereum/execution-specs/pull/3672) - 2026-09-29
+* [Pull Request] [fix(test-consume): run and check nethtest block tests in consume direct](https://github.com/ethereum/execution-specs/pull/3674) - 2026-09-29
+* [Review] [Review on: fix(test-consume): detect failing block tests in nethtest output](https://github.com/ethereum/execution-specs/pull/3634#pullrequestreview-5351633568) - 2026-09-29
+* [Commit] [fix(test-fill): fail collection of tests without a spec fixture (#3672)](https://github.com/ethereum/execution-specs/commit/05fec9ac6d1c1d1d8ce2379b28e528fa0106e395) - 2026-09-29
+* [Commit] [fix(test-consume): run and check nethtest block tests in consume direct (#3674)](https://github.com/ethereum/execution-specs/commit/ecb68f21a7d28db101c769878184f6facb319da1) - 2026-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 
@@ -68,6 +73,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8347: empty snapshots and the scope of the preimage match](https://github.com/ethereum/EIPs/commit/0b8184b1d6ed9fba836222684fd082b32782d4ef) - 2026-09-24
 * [Commit] [Update EIP-8298: allow SETCODEFROM in initcode and require an existing source](https://github.com/ethereum/EIPs/commit/210a28dac6931dba40da7fd48334220e59f0ae73) - 2026-09-24
 * [Commit] [Update EIP-8297: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/commit/57474d392627f777d41ac2140a82d7208b9c262f) - 2026-09-24
+* [Pull Request] [Update EIP-8298: record adopted code as a hash in the BAL](https://github.com/ethereum/EIPs/pull/12399) - 2026-09-29
+* [Review] [Review on: Update EIP-8347: replace RLP leaf records in the PBT snapshot with typed, stem-grouped records](https://github.com/ethereum/EIPs/pull/12379#pullrequestreview-5350664228) - 2026-09-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 
@@ -101,12 +108,16 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [ef-tests: computed trie updates are discarded, so multi-block cases never read stored trie nodes](https://github.com/paradigmxyz/reth/issues/27306) - 2026-09-18
 
 * [Commit] [test(ef-tests): persist trie updates between blocks (#27307)](https://github.com/paradigmxyz/reth/commit/2f46c5e2f91df484f03e770b3177049f7d83e8d9) - 2026-09-19
+* [Pull Request] [test(ef-tests): build genesis trie before block 1](https://github.com/paradigmxyz/reth/pull/27571) - 2026-09-29
+* [Commit] [test(ef-tests): build genesis trie before block 1 (#27571)](https://github.com/paradigmxyz/reth/commit/ae0060410604e28f1ccb1530312985bd1117a519) - 2026-09-29
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Issue] [blockchaintest: blocks are executed from the decoded JSON fields, so the block RLP body is never validated against its header](https://github.com/ipsilon/evmone/issues/1726) - 2026-09-19
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [PBT migration: truncated artifact crashes the node instead of being rejected](https://github.com/NethermindEth/nethermind/issues/13669) - 2026-09-22
 * [Issue] [engine_newPayload returns -39001 "Timed out gathering ReadOnlySnapshotBundle" on a long side chain (flat DB)](https://github.com/NethermindEth/nethermind/issues/13923) - 2026-09-26
+* [Pull Request] [fix(flat): keep unanchored forks out of bulk snapshot conversion](https://github.com/NethermindEth/nethermind/pull/13997) - 2026-09-30
+* [Commit] [fix(flat): keep unanchored forks out of bulk snapshot conversion (#13997)](https://github.com/NethermindEth/nethermind/commit/d079231ee09d48cbbc31f50516907bc3e8293975) - 2026-09-30
 ## Q2 2026
 
 

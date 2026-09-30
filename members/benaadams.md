@@ -559,6 +559,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Replace explicit wait handles with managed cancellation and task signaling (#13945)](https://github.com/NethermindEth/nethermind/commit/971d87d767e3468887a4436de663a2c6f8fbbebc) - 2026-09-27
 * [Commit] [perf: share workers across receipt-root calculation and trie commits (#13988)](https://github.com/NethermindEth/nethermind/commit/22b2d234a552bcc56d7bb9245392083022c14140) - 2026-09-28
 * [Commit] [perf(prewarm): cancel the speculative session earlier and promptly (#13989)](https://github.com/NethermindEth/nethermind/commit/7afea54aa8dc353db56d0292db841759637ca1df) - 2026-09-28
+* [Review] [Review on: ci(expb): benchmark fusaka at 0 s and 1 s delay on the performance label and on master](https://github.com/NethermindEth/nethermind/pull/14061#pullrequestreview-5359477179) - 2026-09-29
+* [Review] [Review on: perf(flat): hold carry-forward slot reads in a fixed set-associative table](https://github.com/NethermindEth/nethermind/pull/14027#pullrequestreview-5349436778) - 2026-09-29
+* [Review] [Review on: fix(tracing): give a parity vmTrace frame operation its gas limit and receipt gasUsed](https://github.com/NethermindEth/nethermind/pull/14005#pullrequestreview-5349013606) - 2026-09-29
+* [Commit] [Update Nethermind.RocksDbBindings to 11.8.1-preview.140 (#14044)](https://github.com/NethermindEth/nethermind/commit/83c8d6cec184fbe82b23b09c1c1f76da7e953a6f) - 2026-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
@@ -567,6 +571,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add EIP: ePBS Mandatory Burn of Execution Rewards](https://github.com/ethereum/EIPs/pull/12130) - 2026-08-07
 * [Review] [Review on: Add EIP: ePBS Mandatory Burn of Execution Rewards](https://github.com/ethereum/EIPs/pull/12130#pullrequestreview-4904092988) - 2026-08-11
 * [Review] [Review on: Update EIP-8298: allow SETCODEFROM in initcode and require an existing source](https://github.com/ethereum/EIPs/pull/12356#pullrequestreview-5268669161) - 2026-09-21
+* [Pull Request] [Update EIP-7907: Defer size-limit increases to EIP-7954](https://github.com/ethereum/EIPs/pull/12398) - 2026-09-29
+* [Commit] [Update EIP-7907: Defer size-limit increases to EIP-7954](https://github.com/ethereum/EIPs/commit/b3a1f7ba0554f57c5d892028f42d6bc8716bfb88) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653198356) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653197195) - 2026-07-08

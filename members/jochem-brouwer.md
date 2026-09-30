@@ -131,6 +131,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: eth/73 - Indexed Cell Requests](https://github.com/ethereum/EIPs/pull/12287#pullrequestreview-5257462542) - 2026-09-19
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5257418848) - 2026-09-19
 * [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5260141400) - 2026-09-20
+* [Review] [Review on: Update EIP-5069: Add EIP Coordinator](https://github.com/ethereum/EIPs/pull/12243#pullrequestreview-5358053212) - 2026-09-29
+* [Review] [Review on: Update CONTRIBUTING.md with new contributor guidelines](https://github.com/ethereum/EIPs/pull/12149#pullrequestreview-5355400747) - 2026-09-29
+* [Review] [Review on: Update EIP-7716: Move to Draft](https://github.com/ethereum/EIPs/pull/11962#pullrequestreview-5355268820) - 2026-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -188,6 +191,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [feat(spec-tests, spec-tools): run fork-transition fixtures through EELS](https://github.com/ethereum/execution-specs/pull/3564) - 2026-09-11
 * [Commit] [feat(spec-tests, spec-tools): run fork-transition fixtures through EELS (#3564)](https://github.com/ethereum/execution-specs/commit/6f426b367292ed189eeabea18b07e7f6f332a61b) - 2026-09-21
 * [Review] [Review on: feat(test-benchmark): add the minimal `TSTORE` loop observed in devnet-8](https://github.com/ethereum/execution-specs/pull/3626#pullrequestreview-5326225875) - 2026-09-26
+* [Pull Request] [new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676) - 2026-09-29
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

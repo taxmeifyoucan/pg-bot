@@ -157,6 +157,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(state): invalidate only the wiped contract in the pre-block storage cache (#13850)](https://github.com/NethermindEth/nethermind/commit/31951fd8a2c498fae16439c8da703df1f6ca61cd) - 2026-09-27
 * [Review] [Review on: fix(simulate): drop logs emitted by reverted call frames](https://github.com/NethermindEth/nethermind/pull/13979#pullrequestreview-5346555747) - 2026-09-29
 * [Commit] [Fix startup warmup drain test scheduler deadlock (#13974)](https://github.com/NethermindEth/nethermind/commit/83c9fdce8adf6961e26113e20ce04c2f89f70517) - 2026-09-28
+* [Pull Request] [Backport #13850, #13812, #13824, #13813, #13814 to release/2.1.0](https://github.com/NethermindEth/nethermind/pull/14063) - 2026-09-30
+* [Review] [Review on: fix(simulate): keep log indices of logs dropped by a revert, as geth does](https://github.com/NethermindEth/nethermind/pull/14062#pullrequestreview-5360044534) - 2026-09-30
+* [Commit] [ci: sync-validation timings dashboard on GitHub Pages (#12618)](https://github.com/NethermindEth/nethermind/commit/83fae5b6a3cf482692e4a5a086bec0e90edb66c7) - 2026-09-30
+* [Commit] [fix(simulate): drop logs emitted by reverted call frames (#13979)](https://github.com/NethermindEth/nethermind/commit/4aae97e671e54f70938f5924f2222663a766d166) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 * [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291874529) - 2026-09-23

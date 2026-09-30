@@ -677,6 +677,15 @@ Team: Erigon
 * [Pull Request] [rpc/jsonrpc: share one running witness build per block hash](https://github.com/erigontech/erigon/pull/24367) - 2026-09-28
 * [Review] [Review on: fix(rpc/jsonrpc): vmTrace reports only operations that executed](https://github.com/erigontech/erigon/pull/24344#pullrequestreview-5334433155) - 2026-09-28
 * [Review] [Review on: execution/commitment: preserve account updates when clearing storage](https://github.com/erigontech/erigon/pull/24359#pullrequestreview-5338942923) - 2026-09-28
+* [Review] [Review on: execution/state, execution/stagedsync: fix the gd8 regression and the post-unwind commitment drift](https://github.com/erigontech/erigon/pull/24379#pullrequestreview-5347558798) - 2026-09-29
+* [Pull Request] [db/integrity, cmd/utils/app: detect RCache holes in empty blocks](https://github.com/erigontech/erigon/pull/24400) - 2026-09-29
+* [Review] [Review on: [r3.7] cl/beacon, cmd: prepend EL+CL client identification to custom graffiti by default (#24369)](https://github.com/erigontech/erigon/pull/24394#pullrequestreview-5354302437) - 2026-09-29
+* [Review] [Review on: rpc/jsonrpc, docs: fix trace_callMany example and test per-call BLOBBASEFEE](https://github.com/erigontech/erigon/pull/24377#pullrequestreview-5354270340) - 2026-09-29
+* [Review] [Review on: execution/engineapi: wait out a busy execution module before dropping a payload build](https://github.com/erigontech/erigon/pull/24373#pullrequestreview-5347541646) - 2026-09-29
+* [Review] [Review on: rpc/jsonrpc: test precompile out-of-gas and code-deposit failure labels](https://github.com/erigontech/erigon/pull/24390#pullrequestreview-5354247310) - 2026-09-29
+* [Review] [Review on: fix(rpc/jsonrpc): trace_filter rejects a bound past the head with -32602](https://github.com/erigontech/erigon/pull/24357#pullrequestreview-5347528579) - 2026-09-29
+* [Review] [Review on: rpc/jsonrpc: reject non-canonical block hash in erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/24358#pullrequestreview-5347531132) - 2026-09-29
+* [Review] [Review on: ci: re-enable trace rpc-tests fixed in v2.32.0](https://github.com/erigontech/erigon/pull/24378#pullrequestreview-5347535492) - 2026-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
@@ -693,6 +702,7 @@ Team: Erigon
 * [Pull Request] [Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/pull/12246) - 2026-08-26
 * [Commit] [Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/commit/aa02d9934056b252768d673eafd2b668725cb138) - 2026-08-31
 * [Pull Request] [Update EIP-8347: replace RLP leaf records in the PBT snapshot with typed, stem-grouped records](https://github.com/ethereum/EIPs/pull/12379) - 2026-09-25
+* [Commit] [Update EIP-8347: replace RLP leaf records in the PBT snapshot with typed, stem-grouped records](https://github.com/ethereum/EIPs/commit/05f291880623d064fd76abd089298b278dafe94a) - 2026-09-29
 ## Q2 2026
 
 

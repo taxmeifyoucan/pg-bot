@@ -132,6 +132,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Support `finalized` and `genesis` for execution payload Beacon API (#11342)](https://github.com/Consensys-Incorporated/teku/commit/cad348d2050ee3c05d3c61c7f8ca58a36012b2f1) - 2026-09-24
 * [Commit] [Upgrade gradle + bring back gradlew.bat (#11339)](https://github.com/Consensys-Incorporated/teku/commit/3d26533fb84a7d12da04e5ab59e1ab7399db5fc5) - 2026-09-25
 * [Pull Request] [Extend ProposerConfig object for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11353) - 2026-09-28
+* [Review] [Review on: Extend ProposerConfig object for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11353#pullrequestreview-5356475164) - 2026-09-29
+* [Pull Request] [Schedule 200m gas limit for Sepolia](https://github.com/Consensys-Incorporated/teku/pull/11358) - 2026-09-29
+* [Commit] [Schedule 200m gas limit for Sepolia (#11358)](https://github.com/Consensys-Incorporated/teku/commit/7d206295b932e73a7e8948970d58d7c73df72e80) - 2026-09-29
 ## Q2 2026
 
 

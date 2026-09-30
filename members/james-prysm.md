@@ -276,6 +276,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Changelog v7.2.0](https://github.com/OffchainLabs/prysm/pull/17572#pullrequestreview-5340907666) - 2026-09-28
 * [Commit] [adding builder settings flags for proposer settings (#17519)](https://github.com/OffchainLabs/prysm/commit/1b130c43f7509e91579cb2b270f7f4175456601f) - 2026-09-29
 * [Commit] [add explicit payload envelope checks (#17445)](https://github.com/OffchainLabs/prysm/commit/c0d71960d9b8c8ee5831dbd1e6c813e6bb660434) - 2026-09-28
+* [Review] [Review on: Remove the eth1exporter tool](https://github.com/OffchainLabs/prysm/pull/17581#pullrequestreview-5357068353) - 2026-09-29
+* [Review] [Review on: Remove the unencrypted-keys-gen and convert-keys interop tools](https://github.com/OffchainLabs/prysm/pull/17583#pullrequestreview-5357433889) - 2026-09-29
+* [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5357223581) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

@@ -173,6 +173,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Exclude voluntary exits conflicting with parent consolidations](https://github.com/Consensys-Incorporated/teku/pull/11352) - 2026-09-28
 * [Review] [Review on: filter pending execution payload bid retries dependent root](https://github.com/Consensys-Incorporated/teku/pull/11351#pullrequestreview-5341464714) - 2026-09-28
 * [Review] [Review on: Don't mark block as invalid when exception is unknown](https://github.com/Consensys-Incorporated/teku/pull/11231#pullrequestreview-5341389986) - 2026-09-28
+* [Review] [Review on: Extend ProposerConfig object for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11353#pullrequestreview-5352725177) - 2026-09-29
+* [Review] [Review on: Exclude voluntary exits conflicting with parent consolidations](https://github.com/Consensys-Incorporated/teku/pull/11352#pullrequestreview-5350235760) - 2026-09-29
+* [Commit] [Exclude voluntary exits conflicting with parent consolidations (#11352)](https://github.com/Consensys-Incorporated/teku/commit/d65af7ec703765716a72b85f6655d3f62e6fc751) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

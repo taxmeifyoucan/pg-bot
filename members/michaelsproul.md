@@ -147,6 +147,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Delete "shutdown on invalid justified payload" feature](https://github.com/sigp/lighthouse/issues/10150) - 2026-09-29
 * [Issue] [Improve error handling in EF `operations` tests](https://github.com/sigp/lighthouse/issues/10147) - 2026-09-29
 * [Issue] [Skip newPayload during finalized optimistic sync (Gloas)](https://github.com/sigp/lighthouse/issues/10141) - 2026-09-28
+* [Pull Request] [Keep fork choice finalized checkpoint consistent with split](https://github.com/sigp/lighthouse/pull/10165) - 2026-09-30
+* [Review] [Review on: Keep fork choice finalized checkpoint consistent with split](https://github.com/sigp/lighthouse/pull/10165#pullrequestreview-5360872947) - 2026-09-30
+* [Review] [Review on: Fix FCR restart UX bug](https://github.com/sigp/lighthouse/pull/10160#pullrequestreview-5359810570) - 2026-09-29
+* [Pull Request] [Simplify fork boilerplate](https://github.com/sigp/lighthouse/pull/10164) - 2026-09-30
+* [Review] [Review on: Update tests to be spec agnostic](https://github.com/sigp/lighthouse/pull/10051#pullrequestreview-5348366721) - 2026-09-29
+* [Issue] [Manual finalization breaks the node with FCR enabled](https://github.com/sigp/lighthouse/issues/10166) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

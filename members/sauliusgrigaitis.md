@@ -16,6 +16,7 @@ Team: Grandine
 * [Issue] [Circuit-breaker for epbs](https://github.com/grandinetech/grandine/issues/795) - 2026-07-09
 * [Issue] [Improve BLS batching](https://github.com/grandinetech/grandine/issues/821) - 2026-07-20
 * [Issue] [Refactor SSZ max container size calculation](https://github.com/grandinetech/grandine/issues/905) - 2026-09-03
+* [Commit] [Bumped Grandine version](https://github.com/grandinetech/grandine/commit/e3ce4d4350a657114d0791c1066afb21930b98d9) - 2026-09-30
 ## Q2 2026
 
 

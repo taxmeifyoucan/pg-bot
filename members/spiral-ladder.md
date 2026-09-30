@@ -92,6 +92,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor(state-transition): re-organize test helpers (#10099)](https://github.com/ChainSafe/lodestar/commit/c535e94f25e209f6b137be3d29a87562088035d3) - 2026-09-24
 * [Review] [Review on: fix: use preallocated buffers in `getBlobsV2`](https://github.com/ChainSafe/lodestar/pull/10203#pullrequestreview-5339966595) - 2026-09-28
 * [Review] [Review on: feat: add builder pending payments and withdrawals endpoints](https://github.com/ChainSafe/lodestar/pull/10189#pullrequestreview-5340307767) - 2026-09-28
+* [Pull Request] [refactor: drop underscore prefix from private fields](https://github.com/ChainSafe/lodestar/pull/10208) - 2026-09-29
+* [Commit] [refactor: drop underscore prefix from private fields (#10208)](https://github.com/ChainSafe/lodestar/commit/55c1d0c0d1dbd4a8cd7c3345ea389bc85a6e652b) - 2026-09-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -302,6 +304,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix(bindings): use c_allocator for BeaconStateView outside Debug](https://github.com/ChainSafe/lodestar-z/pull/732) - 2026-09-28
 * [Commit] [refactor(stf): use fixed tail for new validator flags (#733)](https://github.com/ChainSafe/lodestar-z/commit/367b69f0e88175369e651e70400b6abaf9ec772b) - 2026-09-28
 * [Commit] [fix(bindings): use c_allocator for BeaconStateView outside Debug (#732)](https://github.com/ChainSafe/lodestar-z/commit/f83914b3e360b2d903996ea940f84c2f85d3ce76) - 2026-09-28
+* [Review] [Review on: fix(bindings): preserve eth1 bigint values](https://github.com/ChainSafe/lodestar-z/pull/735#pullrequestreview-5349224942) - 2026-09-29
+* [Review] [Review on: refactor: iterate compact proof reconstruction](https://github.com/ChainSafe/lodestar-z/pull/684#pullrequestreview-5352979909) - 2026-09-29
+* [Review] [Review on: feat(metrics): track block transition steps](https://github.com/ChainSafe/lodestar-z/pull/737#pullrequestreview-5350340735) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

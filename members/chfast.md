@@ -401,6 +401,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(test-benchmark): pre-fund CREATE targets and add randomized jumpdest analysis (#3631)](https://github.com/ethereum/execution-specs/commit/f541fc1f76e8109ba419da243da9a8abdecb099b) - 2026-09-25
 * [Pull Request] [feat(test-benchmark): add gas-mutated point-evaluation benchmark](https://github.com/ethereum/execution-specs/pull/3660) - 2026-09-27
 * [Commit] [feat(test-benchmark): add gas-mutated point-evaluation benchmark (#3660)](https://github.com/ethereum/execution-specs/commit/86f1982e5e273e03f9f1c60b588e3b57d6df18e5) - 2026-09-28
+* [Pull Request] [feat(tests): cover EIP-2780 preparation halt after repeated and self-sponsored authorizations](https://github.com/ethereum/execution-specs/pull/3671) - 2026-09-29
+* [Pull Request] [feat(tests): cover EIP-8037 partial-reservoir new-account charge and precompile OOG after spill](https://github.com/ethereum/execution-specs/pull/3673) - 2026-09-29
+* [Commit] [feat(tests): cover EIP-2780 preparation halt after repeated and self-sponsored authorizations (#3671)](https://github.com/ethereum/execution-specs/commit/56dbe51551158dcf41ba819392e6d575cfb6f011) - 2026-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

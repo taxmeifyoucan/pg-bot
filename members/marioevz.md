@@ -148,12 +148,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-execute): validate implicit gas limits with eth_estimateGas](https://github.com/ethereum/execution-specs/pull/3528#pullrequestreview-5345488032) - 2026-09-28
 * [Review] [Review on: fix(fill): deselect test items that request no spec type](https://github.com/ethereum/execution-specs/pull/3630#pullrequestreview-5345060463) - 2026-09-28
 * [Review] [Review on: perf(test-fixtures): spill large payload lists to disk](https://github.com/ethereum/execution-specs/pull/3648#pullrequestreview-5344766992) - 2026-09-28
+* [Review] [Review on: feat(tooling): add consume-hive skill](https://github.com/ethereum/execution-specs/pull/3612#pullrequestreview-5359812457) - 2026-09-29
+* [Review] [Review on: feat(tests): cover EIP-2780 preparation halt after repeated and self-sponsored authorizations](https://github.com/ethereum/execution-specs/pull/3671#pullrequestreview-5359792020) - 2026-09-29
+* [Review] [Review on: fix(test-fill): fail collection of tests without a spec fixture](https://github.com/ethereum/execution-specs/pull/3672#pullrequestreview-5359533829) - 2026-09-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23
 * [Issue] [All Core Devs - Testing (ACDT) #91, August 10, 2026](https://github.com/ethereum/pm/issues/2181) - 2026-08-03
 
 * [Issue] [All Core Devs - Testing (ACDT) #93, August 24, 2026](https://github.com/ethereum/pm/issues/2195) - 2026-08-18
+* [Issue] [All Core Devs - Testing (ACDT) #99, October 5, 2026](https://github.com/ethereum/pm/issues/2242) - 2026-09-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: genesis slot number parsing](https://github.com/ethereum/go-ethereum/pull/35464) - 2026-08-04
 ## Q2 2026

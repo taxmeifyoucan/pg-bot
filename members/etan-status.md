@@ -61,6 +61,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5247858452) - 2026-09-18
 * [Pull Request] [Define database API for LC data backfill](https://github.com/status-im/nimbus-eth2/pull/9147) - 2026-09-28
 * [Pull Request] [Fix LightClientBootstrap on-demand handler](https://github.com/status-im/nimbus-eth2/pull/9144) - 2026-09-28
+* [Commit] [Fix LightClientBootstrap on-demand handler (#9144)](https://github.com/status-im/nimbus-eth2/commit/964a1e38712b2256c6f421a3e9888ace381a505e) - 2026-09-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

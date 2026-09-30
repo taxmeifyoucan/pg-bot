@@ -96,6 +96,11 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [hdiff snapshot cache read (#17561)](https://github.com/OffchainLabs/prysm/commit/b141a2203626f8fe12e92bf3d41fb7518bd1f3d1) - 2026-09-25
 * [Pull Request] [make state diff anchors cache slot aware](https://github.com/OffchainLabs/prysm/pull/17573) - 2026-09-28
 * [Commit] [ExecutionBlockHashProof for lightclient (#17506)](https://github.com/OffchainLabs/prysm/commit/5f4d822f35f252a562afde4562b20bb74d9f5b8a) - 2026-09-28
+* [Pull Request] [check cache for reading state diffs](https://github.com/OffchainLabs/prysm/pull/17580) - 2026-09-29
+* [Review] [Review on: Fix all known flaky tests using the `make test mainnet` command.](https://github.com/OffchainLabs/prysm/pull/17571#pullrequestreview-5351535042) - 2026-09-29
+* [Pull Request] [refactor tests to use allVersions](https://github.com/OffchainLabs/prysm/pull/17578) - 2026-09-29
+* [Commit] [refactor tests to use allVersions (#17578)](https://github.com/OffchainLabs/prysm/commit/5538aa282fa3ddf01791e30b35c222f47551c473) - 2026-09-29
+* [Commit] [make state diff anchors cache slot aware (#17573)](https://github.com/OffchainLabs/prysm/commit/56db77bbfc5014ca91e0d03aa9a7898eb638eacc) - 2026-09-29
 ## Q2 2026
 
 
