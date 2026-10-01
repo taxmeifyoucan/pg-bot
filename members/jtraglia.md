@@ -376,6 +376,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Bump version to v1.7.0-beta.3](https://github.com/ethereum/consensus-specs/pull/5700) - 2026-09-29
 * [Pull Request] [Delete broken pre-fork payload attestation tests](https://github.com/ethereum/consensus-specs/pull/5699) - 2026-09-29
 * [Commit] [Bump version to v1.7.0-beta.3 (#5700)](https://github.com/ethereum/consensus-specs/commit/82b6e507dc31f6f7052e79b16ecfe3778c1b38f6) - 2026-09-29
+* [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5370711807) - 2026-09-30
+* [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5369633369) - 2026-09-30
+* [Pull Request] [Clarify deposits to exited builders with reassigned indices](https://github.com/ethereum/consensus-specs/pull/5705) - 2026-09-30
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5704#pullrequestreview-5369107870) - 2026-09-30
+* [Review] [Review on: Add light client test with missing period start block](https://github.com/ethereum/consensus-specs/pull/5702#pullrequestreview-5367724886) - 2026-09-30
+* [Review] [Review on: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/ethereum/consensus-specs/pull/5673#pullrequestreview-5366877214) - 2026-09-30
+* [Review] [Review on: Add anti-correlation attestation penalties (EIP-7716)](https://github.com/ethereum/consensus-specs/pull/5452#pullrequestreview-5366547578) - 2026-09-30
+* [Commit] [Delete broken pre-fork payload attestation tests (#5699)](https://github.com/ethereum/consensus-specs/commit/3b0f1ffdabdde963e4dc40009744b44f353f47e5) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

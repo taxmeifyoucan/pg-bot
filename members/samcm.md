@@ -63,6 +63,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle (#444)](https://github.com/ethpandaops/lab/commit/d02c7c320f91fed134b6ba1ad21da08745963e21) - 2026-07-17
 * [Commit] [feat(ci): cut a release on every master push (#446)](https://github.com/ethpandaops/lab/commit/19e33f7f020f42fd320b37b93131902741078218) - 2026-07-17
 * [Commit] [feat(ci): one-click releases that auto-trigger lab-backend (#445)](https://github.com/ethpandaops/lab/commit/47df0669e9a528dc1b69774e9d43b430e993d25e) - 2026-07-17
+* [Pull Request] [feat(consensus): fast confirmation page](https://github.com/ethpandaops/lab/pull/448) - 2026-09-30
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [feat: support glamsterdam (gloas) networks](https://github.com/ethpandaops/tracoor/pull/56) - 2026-07-16
 

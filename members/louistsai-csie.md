@@ -209,6 +209,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): add gas-mutated point-evaluation benchmark](https://github.com/ethereum/execution-specs/pull/3660#pullrequestreview-5333142457) - 2026-09-28
 * [Review] [Review on: feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665#pullrequestreview-5347377804) - 2026-09-29
 * [Review] [Review on: refactor(spec-specs): remove unreachable except in calculate_memory_gas_cost](https://github.com/ethereum/execution-specs/pull/3651#pullrequestreview-5347322259) - 2026-09-29
+* [Pull Request] [feat(tests): extend EIP-7708, EIP-8024 and EIP-8037 coverage](https://github.com/ethereum/execution-specs/pull/3678) - 2026-09-30
+* [Review] [Review on: fix(test-client-clis): map reth nonce overflow rejection](https://github.com/ethereum/execution-specs/pull/3679#pullrequestreview-5366692115) - 2026-09-30
+* [Review] [Review on: feat(tests): cover EIP-8037 partial-reservoir new-account charge and precompile OOG after spill](https://github.com/ethereum/execution-specs/pull/3673#pullrequestreview-5363929733) - 2026-09-30
+* [Commit] [feat(tests): extend EIP-7708, EIP-8024 and EIP-8037 coverage (#3678)](https://github.com/ethereum/execution-specs/commit/3925dfc9bafe39ef0430e5b48018a84b31ee4922) - 2026-09-30
 ## Q2 2026
 
 

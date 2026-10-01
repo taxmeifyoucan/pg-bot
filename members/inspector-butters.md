@@ -101,6 +101,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [refactor tests to use allVersions](https://github.com/OffchainLabs/prysm/pull/17578) - 2026-09-29
 * [Commit] [refactor tests to use allVersions (#17578)](https://github.com/OffchainLabs/prysm/commit/5538aa282fa3ddf01791e30b35c222f47551c473) - 2026-09-29
 * [Commit] [make state diff anchors cache slot aware (#17573)](https://github.com/OffchainLabs/prysm/commit/56db77bbfc5014ca91e0d03aa9a7898eb638eacc) - 2026-09-29
+* [Review] [Review on: perf(state): avoid quadratic scans in multi-value-slice append](https://github.com/OffchainLabs/prysm/pull/17591#pullrequestreview-5370540335) - 2026-09-30
+* [Pull Request] [stream balances diff](https://github.com/OffchainLabs/prysm/pull/17587) - 2026-09-30
+* [Commit] [check cache for reading state diffs (#17580)](https://github.com/OffchainLabs/prysm/commit/679707a87669a13423104b05094ae6e262e8fae5) - 2026-09-30
 ## Q2 2026
 
 

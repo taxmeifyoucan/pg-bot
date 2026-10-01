@@ -117,6 +117,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: hdiff snapshot cache read](https://github.com/OffchainLabs/prysm/pull/17561#pullrequestreview-5321667246) - 2026-09-25
 * [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5341709566) - 2026-09-28
 * [Review] [Review on: Archive mode: backfill to a past state and regenerate history into the hdiff tree](https://github.com/OffchainLabs/prysm/pull/17292#pullrequestreview-5354812971) - 2026-09-29
+* [Review] [Review on: check cache for reading state diffs](https://github.com/OffchainLabs/prysm/pull/17580#pullrequestreview-5368893821) - 2026-09-30
+* [Review] [Review on: Broadcast published envelopes without block checks at gossip validation level](https://github.com/OffchainLabs/prysm/pull/17520#pullrequestreview-5368567198) - 2026-09-30
+* [Review] [Review on: stream balances diff](https://github.com/OffchainLabs/prysm/pull/17587#pullrequestreview-5368633777) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

@@ -70,6 +70,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: v1.49.0 release](https://github.com/ChainSafe/lodestar/pull/10178#pullrequestreview-5339337879) - 2026-09-28
 * [Commit] [chore: merge v1.49.0 back to unstable (#10202)](https://github.com/ChainSafe/lodestar/commit/6fb6c0bad40fafb617e320377f943d4b7234a634) - 2026-09-28
 * [Commit] [chore: v1.49.0 release (#10178)](https://github.com/ChainSafe/lodestar/commit/0e1dc8585876c2e17fb7c87d9d788a0162fa337b) - 2026-09-28
+* [Review] [Review on: fix: deduplicate and stream execution payload envelopes by root](https://github.com/ChainSafe/lodestar/pull/10207#pullrequestreview-5367520394) - 2026-09-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

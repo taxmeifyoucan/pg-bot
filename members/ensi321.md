@@ -110,6 +110,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5352803256) - 2026-09-29
 * [Pull Request] [test: track spec-store block roots in fork-choice runner](https://github.com/ChainSafe/lodestar/pull/10198) - 2026-09-29
 * [Commit] [test: track spec-store block roots in fork-choice runner (#10198)](https://github.com/ChainSafe/lodestar/commit/b4eaa62b300693e311136076d5ca92b3234a4723) - 2026-09-29
+* [Review] [Review on: feat(builder): assemble execution payload bids](https://github.com/ChainSafe/lodestar/pull/9978#pullrequestreview-5369084128) - 2026-09-30
+* [Review] [Review on: fix: discount empty slot support by fork choice node](https://github.com/ChainSafe/lodestar/pull/10211#pullrequestreview-5368195147) - 2026-09-30
+* [Pull Request] [fix: apply epoch updates before computing attestation rewards](https://github.com/ChainSafe/lodestar/pull/10224) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
@@ -146,6 +149,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/commit/2c2da76671d77e7d2f5060b23f8a92cb5d62897e) - 2026-09-17
 * [Pull Request] [Add EIP: Retire 0x00 validators](https://github.com/ethereum/EIPs/pull/12390) - 2026-09-29
 * [Pull Request] [Update EIP-8365: reduce scope to the deposit guard](https://github.com/ethereum/EIPs/pull/12389) - 2026-09-29
+* [Commit] [Update EIP-8365: reduce scope to the deposit guard](https://github.com/ethereum/EIPs/commit/718595d75a86eafcf6f005c2b79e23ef941381e5) - 2026-09-30
 ## Q2 2026
 
 

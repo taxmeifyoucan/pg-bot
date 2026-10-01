@@ -84,6 +84,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(rpc): install access list before gas rerun](https://github.com/paradigmxyz/reth/pull/27487#pullrequestreview-5353471858) - 2026-09-29
 * [Review] [Review on: fix(rpc): preserve exact default blob fee cap](https://github.com/paradigmxyz/reth/pull/27490#pullrequestreview-5353459015) - 2026-09-29
 * [Review] [Review on: fix(rpc): preserve full block number overrides](https://github.com/paradigmxyz/reth/pull/27573#pullrequestreview-5353452398) - 2026-09-29
+* [Review] [Review on: refactor: move precompile cache to execution-cache](https://github.com/paradigmxyz/reth/pull/27604#pullrequestreview-5367816709) - 2026-09-30
+* [Review] [Review on: fix(evm): separate merged receipt gas totals](https://github.com/paradigmxyz/reth/pull/27594#pullrequestreview-5366477454) - 2026-09-30
+* [Review] [Review on: fix(evm): restore pre-merge payload difficulty](https://github.com/paradigmxyz/reth/pull/27588#pullrequestreview-5365653158) - 2026-09-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

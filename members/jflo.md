@@ -58,6 +58,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Fix CVEs in bouncy castle](https://github.com/besu-eth/besu/pull/11336#pullrequestreview-5294578568) - 2026-09-23
 * [Pull Request] [Reconcile 26.9.0 into main](https://github.com/besu-eth/besu/pull/11378) - 2026-09-26
 * [Pull Request] [Bump plugin API baseline to 26.9.0](https://github.com/besu-eth/besu/pull/11377) - 2026-09-26
+* [Issue] [Add an ErrorProne check for hash-bucketed collections keyed by Tuweni Bytes-hierarchy types](https://github.com/besu-eth/besu/issues/11409) - 2026-09-30
+* [Commit] [Reconcile 26.9.0 into main (#11378)](https://github.com/besu-eth/besu/commit/e4d39ad64cc4f789e086808131323c2dc4e97943) - 2026-09-30
+* [Commit] [Close three debug-tracing gaps found in review of the 26.9.0 fixes](https://github.com/besu-eth/besu/commit/7f904a379cf5b59e7016118d64f6d68abadf69a2) - 2026-09-30
+* [Commit] [Merge branch 'main' into reconcile-26.9.0](https://github.com/besu-eth/besu/commit/bad90165a98ed5a3793904c2226b1154839c3a92) - 2026-09-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 
@@ -74,6 +78,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Increase `MAX_SIGNED_INCLUSION_LIST_SIZE` to the worst-case size](https://github.com/ethereum/consensus-specs/pull/5576#pullrequestreview-5078554915) - 2026-09-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [Hegota(test-exceptions): Frames besu exception mapping](https://github.com/ethereum/execution-specs/pull/3682) - 2026-09-30
 ## Q2 2026
 
 

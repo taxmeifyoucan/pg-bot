@@ -186,6 +186,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [FCR: Precisely compute committee weight](https://github.com/Consensys-Incorporated/teku/pull/11362) - 2026-09-29
 * [Issue] [Deprecate headV1 event](https://github.com/Consensys-Incorporated/teku/issues/11363) - 2026-09-29
 * [Commit] [Don't mark block as invalid when exception is unknown (#11231)](https://github.com/Consensys-Incorporated/teku/commit/23935e651a5fdf33cb37a46560aa2c6208abe6f8) - 2026-09-29
+* [Review] [Review on: Prevent stale block production requests from replacing newer pins](https://github.com/Consensys-Incorporated/teku/pull/11375#pullrequestreview-5364566459) - 2026-09-30
+* [Review] [Review on: Send Eth-Consensus-Version header with proposer preferences](https://github.com/Consensys-Incorporated/teku/pull/11374#pullrequestreview-5364868773) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

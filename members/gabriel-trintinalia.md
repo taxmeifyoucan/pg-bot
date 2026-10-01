@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [feat(eip-8025): add engine_newPayloadWithWitnessV5 (#11181)](https://github.com/besu-eth/besu/commit/5bcbcbe19c47843808b4e4321667a758f93eb2fe) - 2026-10-01
 ## Q3 2026
 
 
@@ -57,6 +62,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [feat: add zkEVM execution-witness reference tests](https://github.com/besu-eth/besu/pull/11157) - 2026-09-30
 * [Review] [Review on: feat: add zkEVM execution-witness reference tests](https://github.com/besu-eth/besu/pull/11157#pullrequestreview-5348350805) - 2026-09-29
 * [Commit] [feat: add zkEVM execution-witness reference tests (#11157)](https://github.com/besu-eth/besu/commit/94b661ce234235f9726f09bad6374d02f777ae31) - 2026-09-30
+* [Review] [Review on: feat(eip-8025): add engine_newPayloadWithWitnessV5](https://github.com/besu-eth/besu/pull/11181#pullrequestreview-5364589668) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

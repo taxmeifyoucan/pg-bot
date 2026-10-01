@@ -214,6 +214,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(spec-tests): validate BPO fixtures with the framework's blob schedule (#3633)](https://github.com/ethereum/execution-specs/commit/4b43084b416e70fd451daab3889123855c3a324c) - 2026-09-22
 * [Review] [Review on: feat(testing): add blockchain_test_engine_reorg format and consume reorg simulator](https://github.com/ethereum/execution-specs/pull/3556#pullrequestreview-5291183791) - 2026-09-23
 * [Review] [Review on: fix(tests): isolate the BAL factory create-chain collision pre-alloc group](https://github.com/ethereum/execution-specs/pull/3640#pullrequestreview-5303552107) - 2026-09-24
+* [Review] [Review on: feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665#pullrequestreview-5365028062) - 2026-09-30
+* [Review] [Review on: perf(test-fixtures): stream fixture hash through iterencode](https://github.com/ethereum/execution-specs/pull/3650#pullrequestreview-5364745878) - 2026-09-30
+* [Review] [Review on: feat: add `--formats` flag to explicitly specify output fixture formats](https://github.com/ethereum/execution-specs/pull/3623#pullrequestreview-5363910794) - 2026-09-30
+* [Review] [Review on: fix(test-clis): cast binary_path to str for shutil.which compatibility on Windows](https://github.com/ethereum/execution-specs/pull/3643#pullrequestreview-5362204529) - 2026-09-30
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

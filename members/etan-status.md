@@ -62,11 +62,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Define database API for LC data backfill](https://github.com/status-im/nimbus-eth2/pull/9147) - 2026-09-28
 * [Pull Request] [Fix LightClientBootstrap on-demand handler](https://github.com/status-im/nimbus-eth2/pull/9144) - 2026-09-28
 * [Commit] [Fix LightClientBootstrap on-demand handler (#9144)](https://github.com/status-im/nimbus-eth2/commit/964a1e38712b2256c6f421a3e9888ace381a505e) - 2026-09-29
+* [Pull Request] [Use block slot instead of checkpoint epoch slot in LC ranking](https://github.com/status-im/nimbus-eth2/pull/9155) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06
 * [Review] [Review on: Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas](https://github.com/ethereum/consensus-specs/pull/5436#pullrequestreview-4642151693) - 2026-07-07
 
+* [Pull Request] [Add light client test with missing period start block](https://github.com/ethereum/consensus-specs/pull/5702) - 2026-09-30
+* [Commit] [Add light client test with missing period start block (#5702)](https://github.com/ethereum/consensus-specs/commit/fecacbbd30c67c2ab478f00a5b1d78ef09761ab3) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7708: Move to Review](https://github.com/ethereum/EIPs/pull/11872#pullrequestreview-4642198021) - 2026-07-07
 

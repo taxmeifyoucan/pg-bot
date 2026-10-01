@@ -6,6 +6,14 @@ Github: [@chong-he](https://github.com/chong-he)
 
 ## Contributions
 
+## Q4 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Add documentation for fast confirmation rule](https://github.com/sigp/lighthouse/pull/10183) - 2026-10-01
+* [Review] [Review on: Release v8.3.0-rc.0](https://github.com/sigp/lighthouse/pull/10181#pullrequestreview-5373861567) - 2026-10-01
+* [Review] [Review on: Merge v8.2.3 into unstable](https://github.com/sigp/lighthouse/pull/10180#pullrequestreview-5373790165) - 2026-10-01
+* [Review] [Review on: Release v8.2.3](https://github.com/sigp/lighthouse/pull/10179#pullrequestreview-5373561149) - 2026-10-01
 ## Q3 2026
 
 
@@ -80,6 +88,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Refresh PTC duties after validator index discovery](https://github.com/sigp/lighthouse/pull/10069#pullrequestreview-5273801378) - 2026-09-22
 * [Pull Request] [GET `/eth/v1/validator/{pubkey}/graffiti` to return String instead of hex string](https://github.com/sigp/lighthouse/pull/10117) - 2026-09-24
 * [Review] [Review on: Implement `GET beacon/pool/payload_attestations` endpoint](https://github.com/sigp/lighthouse/pull/10038#pullrequestreview-5288532366) - 2026-09-23
+* [Review] [Review on: Restore transitive schema migration code](https://github.com/sigp/lighthouse/pull/10170#pullrequestreview-5362844714) - 2026-09-30
 ## Q2 2026
 
 

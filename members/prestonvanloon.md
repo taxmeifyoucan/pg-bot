@@ -131,6 +131,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: check cache for reading state diffs](https://github.com/OffchainLabs/prysm/pull/17580#pullrequestreview-5356764956) - 2026-09-29
 * [Commit] [Remove the eth1exporter tool (#17581)](https://github.com/OffchainLabs/prysm/commit/b74776063e4f077a273ab044a914479ec0441c2f) - 2026-09-29
 * [Commit] [Changelog v7.2.0 (#17572)](https://github.com/OffchainLabs/prysm/commit/67e6a3eca46922e6744d4b9f84ddbdfd95820fc1) - 2026-09-29
+* [Pull Request] [perf(state): avoid quadratic scans in multi-value-slice append](https://github.com/OffchainLabs/prysm/pull/17591) - 2026-09-30
+* [Pull Request] [fix(db): replay missing historical hdiff states without repeated snapshot decoding](https://github.com/OffchainLabs/prysm/pull/17590) - 2026-09-30
+* [Review] [Review on: Remove Bazel: Phase 5/9](https://github.com/OffchainLabs/prysm/pull/17356#pullrequestreview-5367636806) - 2026-09-30
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: RISC-V: don't use s11 as Go bindings break](https://github.com/OffchainLabs/hashtree/pull/73#pullrequestreview-5213570288) - 2026-09-15
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.6](https://github.com/OffchainLabs/hashtree/pull/75#pullrequestreview-5282164914) - 2026-09-22

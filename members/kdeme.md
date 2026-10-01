@@ -173,6 +173,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update eest test and test-zkevm fixtures to v21.0.0 (#4858)](https://github.com/status-im/nimbus-eth1/commit/4504661d00d279c87f1825fce783cd9795d670d2) - 2026-09-27
 * [Pull Request] [stateless: reuse the witness header hashes for the blockhash lookup](https://github.com/status-im/nimbus-eth1/pull/4861) - 2026-09-28
 * [Commit] [stateless: reuse the witness header hashes for the blockhash lookup (#4861)](https://github.com/status-im/nimbus-eth1/commit/2c3a959ae524b42806f98d5a408554ebb8d563ea) - 2026-09-28
+* [Pull Request] [Bump nim-eth and remove custom distance support in Portal](https://github.com/status-im/nimbus-eth1/pull/4877) - 2026-09-30
+* [Commit] [stateless: remove public keys from StatelessInput (#4859)](https://github.com/status-im/nimbus-eth1/commit/1a0006e9691608d2e02f398044e3a5bffd314da1) - 2026-09-30
+* [Commit] [Bump nim-eth and remove custom distance support in Portal (#4877)](https://github.com/status-im/nimbus-eth1/commit/dca1e783a7a63b76b203b69148c7fa45b68f2daf) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

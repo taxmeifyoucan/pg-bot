@@ -8,6 +8,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: docs: use besu --version in CONTRIBUTING bug checklist](https://github.com/besu-eth/besu/pull/11332#pullrequestreview-5373485003) - 2026-10-01
+* [Review] [Review on: Add Osaka-specific per-tx limit increase to BFT soak test](https://github.com/besu-eth/besu/pull/11312#pullrequestreview-5373973225) - 2026-10-01
+* [Review] [Review on: Rotate changelog for 26.9.0](https://github.com/besu-eth/besu/pull/11388#pullrequestreview-5373760999) - 2026-10-01
+* [Review] [Review on: docs: update Configure the JVM link to configure-java path](https://github.com/besu-eth/besu/pull/11288#pullrequestreview-5373460188) - 2026-10-01
+* [Review] [Review on: docs: fix tracing example OTEL env and removed --network=dev](https://github.com/besu-eth/besu/pull/11320#pullrequestreview-5373448485) - 2026-10-01
 ## Q3 2026
 
 
@@ -310,6 +319,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [eth_simulate now returns EIP-7708 transfer logs for Amsterdam (#11154)](https://github.com/besu-eth/besu/commit/0c3014813314c2d656e28f2ea891487f21fe68a7) - 2026-09-16
 * [Pull Request] [Bump jackson-bom from 2.21.5 to 2.21.6](https://github.com/besu-eth/besu/pull/11396) - 2026-09-30
 * [Commit] [add testing_commitBlockV1 RPC method (#11152)](https://github.com/besu-eth/besu/commit/045e00792b89f1ed97f212cbfb300f4c0979cb17) - 2026-09-30
+* [Review] [Review on: Skip plugin registration for --print-paths-and-exit](https://github.com/besu-eth/besu/pull/11387#pullrequestreview-5361383551) - 2026-09-30
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

@@ -219,6 +219,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version v26.9.1](https://github.com/status-im/nimbus-eth2/commit/123ea73d485f18d4f90ff77667c9f798dc8251d3) - 2026-09-30
 * [Commit] [temporarily ignore garbage PAYLOAD_DUE_BPS values in VC (#9152)](https://github.com/status-im/nimbus-eth2/commit/4b8e5b559c9883e9aa60d3b7b334032dc93c6b67) - 2026-09-30
 * [Commit] [version v26.9.0](https://github.com/status-im/nimbus-eth2/commit/abb1ae36932ea51a3e95eb484b9c11f0b8ed9890) - 2026-09-29
+* [Review] [Review on: add pruning logic for partial columns + test](https://github.com/status-im/nimbus-eth2/pull/9139#pullrequestreview-5363679232) - 2026-09-30
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

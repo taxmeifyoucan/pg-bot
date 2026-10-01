@@ -35,6 +35,8 @@ Team: Codex DAS
 * [Commit] [core/txpool/blobpool: bound what the blob buffer holds (#35766)](https://github.com/ethereum/go-ethereum/commit/c6e3a0d7de3dee3e213eab2dfceda89cb6f7f8ef) - 2026-09-23
 * [Pull Request] [core: allow restarting a snap sync before the history cutoff](https://github.com/ethereum/go-ethereum/pull/35837) - 2026-09-29
 * [Commit] [core: allow restarting a snap sync before the history cutoff (#35837)](https://github.com/ethereum/go-ethereum/commit/5d8fd6b6082f9aa330dbaf5df52dfcfdb445f186) - 2026-09-29
+* [Review] [Review on: version: release 1.17.7](https://github.com/ethereum/go-ethereum/pull/35847#pullrequestreview-5365707832) - 2026-09-30
+* [Review] [Review on: core: handle the sync restarting after unclean shutdown](https://github.com/ethereum/go-ethereum/pull/35844#pullrequestreview-5364757571) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4818065623) - 2026-07-30
 * [Pull Request] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118) - 2026-08-06

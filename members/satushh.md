@@ -94,6 +94,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Reject by-root Gloas column sidecars whose slot does not match the block](https://github.com/OffchainLabs/prysm/pull/17557#pullrequestreview-5306478941) - 2026-09-24
 * [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5319900983) - 2026-09-25
 * [Review] [Review on: Gloas parent payload validation](https://github.com/OffchainLabs/prysm/pull/17475#pullrequestreview-5318210765) - 2026-09-25
+* [Review] [Review on: Fall back to Builder-API bids when the local payload is unavailable](https://github.com/OffchainLabs/prysm/pull/17080#pullrequestreview-5369051870) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08

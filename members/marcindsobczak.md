@@ -45,6 +45,16 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: ci(focil): pin EEST fixtures to tests-focil-devnet@v0.3.0](https://github.com/NethermindEth/nethermind/pull/13909#pullrequestreview-5354949858) - 2026-09-29
 * [Commit] [fix(flat): recheck the carry-forward generation after a cache hit (#14026)](https://github.com/NethermindEth/nethermind/commit/579aaf0fc1b7a23bf3909322f479f92d71d0cf9f) - 2026-09-29
 * [Commit] [perf(evm): run MLOAD and MSTORE frameless in the untraced dispatch (#14028)](https://github.com/NethermindEth/nethermind/commit/d648d3fb79162c2c255f03c37d15ff6ae1a1680f) - 2026-09-29
+* [Pull Request] [fix(state): a code override ends when its account is destroyed before Cancun](https://github.com/NethermindEth/nethermind/pull/14125) - 2026-09-30
+* [Review] [Review on: fix(state): a code override ends when its account is destroyed before Cancun](https://github.com/NethermindEth/nethermind/pull/14125#pullrequestreview-5372432894) - 2026-09-30
+* [Pull Request] [perf(flat): skip the in-memory layers for slot reads that none of them has, in read-only execution](https://github.com/NethermindEth/nethermind/pull/14094) - 2026-09-30
+* [Review] [Review on: perf(flat): skip the in-memory layers for slot reads that none of them has, in read-only execution](https://github.com/NethermindEth/nethermind/pull/14094#pullrequestreview-5368446846) - 2026-09-30
+* [Pull Request] [test(rpc): cover the resolved-code memo of eth_call end to end](https://github.com/NethermindEth/nethermind/pull/14121) - 2026-09-30
+* [Review] [Review on: test(rpc): cover the resolved-code memo of eth_call end to end](https://github.com/NethermindEth/nethermind/pull/14121#pullrequestreview-5370799377) - 2026-09-30
+* [Pull Request] [fix(rpc): code written during a call replaces a stateOverride code override](https://github.com/NethermindEth/nethermind/pull/14114) - 2026-09-30
+* [Review] [Review on: fix(rpc): code written during a call replaces a stateOverride code override](https://github.com/NethermindEth/nethermind/pull/14114#pullrequestreview-5368448363) - 2026-09-30
+* [Commit] [perf(rpc): remember resolved code for the rest of an eth_call scope (#13805)](https://github.com/NethermindEth/nethermind/commit/828bbd74ea383c2c7bbc175e2010936b29beb182) - 2026-09-30
+* [Commit] [perf(flat): hold carry-forward slot reads in a fixed set-associative table (#14027)](https://github.com/NethermindEth/nethermind/commit/577517a93c68a52d8b979288a72ded215490b4aa) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652992370) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652988229) - 2026-07-08

@@ -287,6 +287,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5356424500) - 2026-09-29
 * [Commit] [Reject proposer preferences pointing past the shuffling dependent slot (#17484)](https://github.com/OffchainLabs/prysm/commit/9ad1bee498613b7c5d0b70c7d7d2f3c3536c5b16) - 2026-09-29
 * [Commit] [Reject Gloas blocks whose bid does not build on the parent's execution head (#17575)](https://github.com/OffchainLabs/prysm/commit/5c6afdb0a04fcbff0bc398a149d3955bc26d14ae) - 2026-09-29
+* [Review] [Review on: fixing builder auth hex](https://github.com/OffchainLabs/prysm/pull/17593#pullrequestreview-5372207204) - 2026-09-30
+* [Review] [Review on: Fall back to Builder-API bids when the local payload is unavailable](https://github.com/OffchainLabs/prysm/pull/17080#pullrequestreview-5369528284) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

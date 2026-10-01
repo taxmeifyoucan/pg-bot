@@ -735,6 +735,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [rpc: reject out-of-range historical transaction indices](https://github.com/erigontech/erigon/pull/24388) - 2026-09-29
 * [Review] [Review on: [r3.7] cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/24386#pullrequestreview-5350511085) - 2026-09-29
 * [Issue] [cl/services: validate Gloas sidecar lengths before queue admission](https://github.com/erigontech/erigon/issues/24398) - 2026-09-29
+* [Review] [Review on: cl/services: harden deferred Gloas data-column sidecars](https://github.com/erigontech/erigon/pull/23645#pullrequestreview-5363005921) - 2026-09-30
+* [Pull Request] [[r3.7] cl: schedule Sepolia's 200M gas limit at Glamsterdam](https://github.com/erigontech/erigon/pull/24441) - 2026-09-30
+* [Review] [Review on: common/hexutil: hex encoding by `simd`](https://github.com/erigontech/erigon/pull/24410#pullrequestreview-5368056682) - 2026-09-30
+* [Pull Request] [cl/services: handle local block errors and back off retries](https://github.com/erigontech/erigon/pull/23646) - 2026-09-30
+* [Review] [Review on: cl/services: handle local block errors and back off retries](https://github.com/erigontech/erigon/pull/23646#pullrequestreview-5363226057) - 2026-09-30
+* [Review] [Review on: [r3.7] cl/p2p: add QUIC transport support](https://github.com/erigontech/erigon/pull/24413#pullrequestreview-5365409439) - 2026-09-30
+* [Review] [Review on: [r3.7] db/datadir/reset: refuse to leave commitment and state files from different builds](https://github.com/erigontech/erigon/pull/24401#pullrequestreview-5365100517) - 2026-09-30
+* [Review] [Review on: [r3.7] cl/beacon/handler: fix PTC duties dependent root and fork-epoch duties](https://github.com/erigontech/erigon/pull/24399#pullrequestreview-5365046466) - 2026-09-30
+* [Issue] [db/datadir/reset: guard misses legacy renames and rejects covered ranges](https://github.com/erigontech/erigon/issues/24426) - 2026-09-30
+* [Issue] [cl/services: bound deferred Gloas sidecar candidate work](https://github.com/erigontech/erigon/issues/24416) - 2026-09-30
+* [Commit] [cl: schedule Sepolia's 200M gas limit at Glamsterdam (#24395)](https://github.com/erigontech/erigon/commit/923b4d3122335c0258095fb7202290f9a5ba4513) - 2026-09-30
+* [Commit] [cl/services: handle local block errors and back off retries (#23646)](https://github.com/erigontech/erigon/commit/1781c95727fe30110b49896e943ee0d475e70965) - 2026-09-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

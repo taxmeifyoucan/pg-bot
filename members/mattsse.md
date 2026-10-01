@@ -1120,6 +1120,32 @@ Team: Reth
 * [Commit] [refactor(rpc): use BundleState::account in validation (#27545)](https://github.com/paradigmxyz/reth/commit/844592c80c681c935737584f92c4a876e78a2590) - 2026-09-29
 * [Commit] [refactor(chainspec): use is_london_active_at_block (#27506)](https://github.com/paradigmxyz/reth/commit/4a27792a2d033ded92e6c796cbc23b0a2178b826) - 2026-09-29
 * [Commit] [test(ef-tests): use B256::from for storage slots (#27518)](https://github.com/paradigmxyz/reth/commit/2f3444b74c3e8cdaf56903c6e980bc80b76a2a71) - 2026-09-29
+* [Review] [Review on: feat(ef-tests): run and validate Amsterdam block access list fixtures](https://github.com/paradigmxyz/reth/pull/27607#pullrequestreview-5368937771) - 2026-09-30
+* [Review] [Review on: fix(rpc): keep omitted-gas calls within the RPC gas cap](https://github.com/paradigmxyz/reth/pull/27586#pullrequestreview-5369068291) - 2026-09-30
+* [Review] [Review on: fix(rpc): use the local pending block for pending simulations](https://github.com/paradigmxyz/reth/pull/27593#pullrequestreview-5369239220) - 2026-09-30
+* [Pull Request] [fix(engine): finish cleanup before acknowledging shutdown](https://github.com/paradigmxyz/reth/pull/27609) - 2026-09-30
+* [Review] [Review on: refactor(chain-state): track all executed in-memory blocks in one store](https://github.com/paradigmxyz/reth/pull/27320#pullrequestreview-5368284035) - 2026-09-30
+* [Pull Request] [feat(e2e): add advance-until helpers](https://github.com/paradigmxyz/reth/pull/27598) - 2026-09-30
+* [Pull Request] [feat(payload): share precompile cache with builder](https://github.com/paradigmxyz/reth/pull/27595) - 2026-09-30
+* [Pull Request] [refactor: move precompile cache to execution-cache](https://github.com/paradigmxyz/reth/pull/27604) - 2026-09-30
+* [Review] [Review on: fix(prune): treat Before(0) as nothing to prune](https://github.com/paradigmxyz/reth/pull/27603#pullrequestreview-5368146532) - 2026-09-30
+* [Review] [Review on: fix(stages): rebuild pruned history from empty](https://github.com/paradigmxyz/reth/pull/27602#pullrequestreview-5368146134) - 2026-09-30
+* [Pull Request] [feat(e2e): add import_payload helper](https://github.com/paradigmxyz/reth/pull/27599) - 2026-09-30
+* [Pull Request] [test(e2e): wait for pruner in RocksDB pruning tests](https://github.com/paradigmxyz/reth/pull/27601) - 2026-09-30
+* [Pull Request] [feat(e2e): wait for the pool to process a new head](https://github.com/paradigmxyz/reth/pull/27597) - 2026-09-30
+* [Pull Request] [feat(e2e): control the next payload timestamp](https://github.com/paradigmxyz/reth/pull/27596) - 2026-09-30
+* [Review] [Review on: chore: all frames derived eip](https://github.com/paradigmxyz/reth/pull/27600#pullrequestreview-5367217762) - 2026-09-30
+* [Review] [Review on: fix(txpool): cap intrinsic regular gas under EIP-8037](https://github.com/paradigmxyz/reth/pull/27587#pullrequestreview-5365632084) - 2026-09-30
+* [Review] [Review on: feat(stages): add `Pipeline::run_until`](https://github.com/paradigmxyz/reth/pull/27537#pullrequestreview-5365403388) - 2026-09-30
+* [Review] [Review on: feat(snap-sync): recover from reorgs crossing the pivot](https://github.com/paradigmxyz/reth/pull/27482#pullrequestreview-5365844433) - 2026-09-30
+* [Commit] [feat(e2e): add advance-until helpers (#27598)](https://github.com/paradigmxyz/reth/commit/f7efe30fd421cc90882153dde337065022b0a0b8) - 2026-09-30
+* [Commit] [refactor: move precompile cache to execution-cache (#27604)](https://github.com/paradigmxyz/reth/commit/1f9d46d9ce79faf1175edbd15eddbf7d3cd2c432) - 2026-09-30
+* [Commit] [feat(e2e): add import_payload helper (#27599)](https://github.com/paradigmxyz/reth/commit/569c770ca893ac59f13cfcf5c46b0e26efd64fc9) - 2026-09-30
+* [Commit] [test(e2e): wait for pruner in RocksDB pruning tests (#27601)](https://github.com/paradigmxyz/reth/commit/f269bccbc0f007d7295ccd0b986ecfd36805ef56) - 2026-09-30
+* [Commit] [feat(e2e): wait for the pool to process a new head (#27597)](https://github.com/paradigmxyz/reth/commit/cdc4e096f140562f5d2a9f78ead17f3e16bdb3ca) - 2026-09-30
+* [Commit] [feat(e2e): control the next payload timestamp (#27596)](https://github.com/paradigmxyz/reth/commit/e29c3433cfbe4cae25e80dae3086d9dc13652e51) - 2026-09-30
+* [Commit] [perf(rpc): stop long blocking jobs once their request is dropped (#27462)](https://github.com/paradigmxyz/reth/commit/13a59de4bad087057f591fe14aa1884bd7e79cab) - 2026-09-30
+* [Commit] [docs: fix redundant module links (#27590)](https://github.com/paradigmxyz/reth/commit/560dac1600dec9b61a2e719fed09827058da2d92) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -1152,6 +1178,7 @@ Team: Reth
 * [Commit] [fix(deps): update rustls to resolve RUSTSEC-2026-0285 (#3917)](https://github.com/bluealloy/revm/commit/1937b2e3571d3cc8bc3b3081492bd9be8fd9dc73) - 2026-09-16
 * [Pull Request] [feat: expose BAL account lookup completeness](https://github.com/bluealloy/revm/pull/3948) - 2026-09-27
 * [Commit] [feat: expose BAL account lookup completeness (#3948)](https://github.com/bluealloy/revm/commit/4f764fb9f5b09d5a35f1a433bcfb7a4923a702c4) - 2026-09-28
+* [Pull Request] [fix: cap total tx gas limit under EIP-8037](https://github.com/bluealloy/revm/pull/3957) - 2026-09-30
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26

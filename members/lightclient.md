@@ -104,6 +104,7 @@ Team: Geth
 * [Review] [Review on: docs: remove obsolete light node claim from README](https://github.com/ethereum/go-ethereum/pull/35683#pullrequestreview-5159651492) - 2026-09-09
 * [Pull Request] [core,internal/ethapi: Always write signature list and blob versioned hashes for frames RPC](https://github.com/ethereum/go-ethereum/pull/35824) - 2026-09-28
 * [Review] [Review on: core, internal/ethapi, ethclient: fix frame transaction receipt status and RPC fields](https://github.com/ethereum/go-ethereum/pull/35810#pullrequestreview-5342874145) - 2026-09-28
+* [Review] [Review on: cmd/devp2p/internal/ethtest: advertise eth/71](https://github.com/ethereum/go-ethereum/pull/35826#pullrequestreview-5372002558) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 

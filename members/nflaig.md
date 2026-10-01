@@ -738,6 +738,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: drop underscore prefix from private fields](https://github.com/ChainSafe/lodestar/pull/10208#pullrequestreview-5350776104) - 2026-09-29
 * [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5352861447) - 2026-09-29
 * [Review] [Review on: chore: track EL engine request/response bytes on Grafana](https://github.com/ChainSafe/lodestar/pull/10209#pullrequestreview-5350796040) - 2026-09-29
+* [Review] [Review on: fix: verify the proposer signature before retaining unknown parent gossip blocks](https://github.com/ChainSafe/lodestar/pull/10087#pullrequestreview-5371873924) - 2026-09-30
+* [Review] [Review on: fix: track slashing signature domains across forks](https://github.com/ChainSafe/lodestar/pull/10217#pullrequestreview-5364006929) - 2026-09-30
+* [Review] [Review on: fix: consider p2p bids in `produceBlockV4WithBid`](https://github.com/ChainSafe/lodestar/pull/10212#pullrequestreview-5368367333) - 2026-09-30
+* [Review] [Review on: fix: discount empty slot support by fork choice node](https://github.com/ChainSafe/lodestar/pull/10211#pullrequestreview-5365210236) - 2026-09-30
+* [Review] [Review on: perf: avoid rescanning pruned state history](https://github.com/ChainSafe/lodestar/pull/10216#pullrequestreview-5363834698) - 2026-09-30
+* [Review] [Review on: fix: prune legacy hot data columns on startup](https://github.com/ChainSafe/lodestar/pull/10223#pullrequestreview-5366411317) - 2026-09-30
+* [Review] [Review on: fix: deduplicate and stream execution payload envelopes by root](https://github.com/ChainSafe/lodestar/pull/10207#pullrequestreview-5365818748) - 2026-09-30
+* [Review] [Review on: fix: revert fast confirmation to finalized on error](https://github.com/ChainSafe/lodestar/pull/10220#pullrequestreview-5365232344) - 2026-09-30
+* [Review] [Review on: chore: remove experimental label from fast confirmation](https://github.com/ChainSafe/lodestar/pull/10222#pullrequestreview-5366132348) - 2026-09-30
+* [Review] [Review on: test: isolate remaining beacon db test fixtures](https://github.com/ChainSafe/lodestar/pull/10219#pullrequestreview-5363243671) - 2026-09-30
+* [Review] [Review on: fix: merge attester duties for newly discovered validators](https://github.com/ChainSafe/lodestar/pull/10213#pullrequestreview-5362936028) - 2026-09-30
+* [Review] [Review on: fix: merge PTC duties for newly discovered validators](https://github.com/ChainSafe/lodestar/pull/10197#pullrequestreview-5362871123) - 2026-09-30
+* [Commit] [perf: avoid rescanning pruned state history (#10216)](https://github.com/ChainSafe/lodestar/commit/3579e999b53132b9d29a461d151948687821a45f) - 2026-09-30
+* [Commit] [fix: deduplicate and stream execution payload envelopes by root (#10207)](https://github.com/ChainSafe/lodestar/commit/033e6b71382e582ed35109a1e47f312a30cbca19) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

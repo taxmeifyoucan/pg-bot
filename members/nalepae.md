@@ -120,6 +120,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: make state diff anchors cache slot aware](https://github.com/OffchainLabs/prysm/pull/17573#pullrequestreview-5350432202) - 2026-09-29
 * [Commit] [Remove Bazel: Phase 4/9 (#17296)](https://github.com/OffchainLabs/prysm/commit/935bf1061d9b681005a1f728444eb8b114141aed) - 2026-09-29
 * [Commit] [Fix all known flaky tests using the `make test mainnet` command. (#17571)](https://github.com/OffchainLabs/prysm/commit/ba67bd650e703f6791fa8700ba5d6861c87b7497) - 2026-09-29
+* [Review] [Review on: check cache for reading state diffs](https://github.com/OffchainLabs/prysm/pull/17580#pullrequestreview-5363543569) - 2026-09-30
+* [Review] [Review on: Remove Bazel: Phase 5/9](https://github.com/OffchainLabs/prysm/pull/17356#pullrequestreview-5362864878) - 2026-09-30
+* [Pull Request] [Gloas: keep payload status right with several beacon nodes](https://github.com/OffchainLabs/prysm/pull/17585) - 2026-09-30
+* [Pull Request] [[EIP-8148] Custom sweep threshold for validators: Add EL mock for custom requests](https://github.com/OffchainLabs/prysm/pull/17588) - 2026-09-30
+* [Review] [Review on: Refactor Prysm peer scoring for better auditability/observability and make it easy to reason about](https://github.com/OffchainLabs/prysm/pull/17410#pullrequestreview-5363415831) - 2026-09-30
+* [Commit] [Remove Bazel: Phase 5/9 (#17356)](https://github.com/OffchainLabs/prysm/commit/1ca08be9c5a31e8b8bcc331700facba173954f39) - 2026-09-30
+* [Commit] [Gloas: keep payload status right with several beacon nodes (#17585)](https://github.com/OffchainLabs/prysm/commit/37a1876adc22cbaeed5454f5350bacf0d16f857f) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

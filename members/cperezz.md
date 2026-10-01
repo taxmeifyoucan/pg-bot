@@ -75,6 +75,9 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8297: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/commit/57474d392627f777d41ac2140a82d7208b9c262f) - 2026-09-24
 * [Pull Request] [Update EIP-8298: record adopted code as a hash in the BAL](https://github.com/ethereum/EIPs/pull/12399) - 2026-09-29
 * [Review] [Review on: Update EIP-8347: replace RLP leaf records in the PBT snapshot with typed, stem-grouped records](https://github.com/ethereum/EIPs/pull/12379#pullrequestreview-5350664228) - 2026-09-29
+* [Review] [Review on: Update EIP-8347: tag PBT snapshot records instead of counting them](https://github.com/ethereum/EIPs/pull/12404#pullrequestreview-5365542718) - 2026-09-30
+* [Review] [Review on: Update EIP-8298: record adopted code as a hash in the BAL; reject same-tx-created sources](https://github.com/ethereum/EIPs/pull/12399#pullrequestreview-5365155732) - 2026-09-30
+* [Review] [Review on: Update EIP-8347: move pbtRoot to the end of the snapshot](https://github.com/ethereum/EIPs/pull/12403#pullrequestreview-5364120030) - 2026-09-30
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 

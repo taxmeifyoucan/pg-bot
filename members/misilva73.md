@@ -73,6 +73,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: remove stale EIP-7610 collision rules](https://github.com/ethereum/EIPs/pull/12296#pullrequestreview-5246893634) - 2026-09-18
 * [Review] [Review on: Update EIP-8038: use execution-gas wording, fix the CALLCODE creation cell and a stale benchmark test name](https://github.com/ethereum/EIPs/pull/12353#pullrequestreview-5245176606) - 2026-09-18
 * [Review] [Review on: Update EIP-8347: reserved basic-data bytes must be zero](https://github.com/ethereum/EIPs/pull/12366#pullrequestreview-5290101245) - 2026-09-23
+* [Review] [Review on: Update EIP-8037: add Paweł Bylica as co-author](https://github.com/ethereum/EIPs/pull/12400#pullrequestreview-5362932605) - 2026-09-30
+* [Review] [Review on: Update EIP-8347: add extra write and computational load as a cost](https://github.com/ethereum/EIPs/pull/12392#pullrequestreview-5362923394) - 2026-09-30
 ## Q2 2026
 
 

@@ -265,6 +265,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci(expb): pin the flat DB compaction offset so every run compacts at the same blocks](https://github.com/NethermindEth/nethermind/pull/14053) - 2026-09-29
 * [Commit] [perf(flat): write storage trie nodes after the block is reported valid (#14058)](https://github.com/NethermindEth/nethermind/commit/a5d2bc0168c8c4b43694d133166db54363117776) - 2026-09-29
 * [Commit] [ci(expb): pin the flat DB compaction offset so every run compacts at the same blocks (#14053)](https://github.com/NethermindEth/nethermind/commit/ad22b8db86b9153abcbed9143df798a5607edb97) - 2026-09-29
+* [Pull Request] [ci(expb): count instructions per block in a deterministic benchmark mode](https://github.com/NethermindEth/nethermind/pull/14087) - 2026-09-30
+* [Pull Request] [perf(flat): keep the trie node cache add and snapshot merges on the calling thread on one processor](https://github.com/NethermindEth/nethermind/pull/14132) - 2026-09-30
+* [Review] [Review on: perf(flat): keep the trie node cache add and snapshot merges on the calling thread on one processor](https://github.com/NethermindEth/nethermind/pull/14132#pullrequestreview-5373168596) - 2026-09-30
+* [Pull Request] [feat: deterministic benchmark mode and per-block instruction counts](https://github.com/NethermindEth/nethermind/pull/14133) - 2026-09-30
+* [Review] [Review on: feat: deterministic benchmark mode and per-block instruction counts](https://github.com/NethermindEth/nethermind/pull/14133#pullrequestreview-5373235056) - 2026-09-30
+* [Review] [Review on: fix: align counting state provider code return types](https://github.com/NethermindEth/nethermind/pull/14120#pullrequestreview-5370686728) - 2026-09-30
+* [Review] [Review on: perf: cut the cost of blocks that load many distinct large contracts](https://github.com/NethermindEth/nethermind/pull/14086#pullrequestreview-5365525823) - 2026-09-30
+* [Commit] [perf(zkevm): run DIV, MOD, ADDMOD and MULMOD on ZisK's 256-bit arithmetic (#13975)](https://github.com/NethermindEth/nethermind/commit/6a88adb4b227d57150a84b75921762dc0f280bba) - 2026-09-30
+* [Commit] [perf(flat): apply committed storage writes on an idle-priority thread during execution (#14059)](https://github.com/NethermindEth/nethermind/commit/67997e1e593dddc32b5d202353c11e1cd384525b) - 2026-09-30
+* [Commit] [perf(trie): reach node data through the sealed classes and size children off the cast cache (#14072)](https://github.com/NethermindEth/nethermind/commit/6b0b4e6f0ea0bdc701d02b319b56a9ec9c4cb6b0) - 2026-09-30
+* [Commit] [perf(flat): size the carry-forward account cache for its cap (#14073)](https://github.com/NethermindEth/nethermind/commit/69c60104bd8637ba04e3aa4e975d6a0238283958) - 2026-09-30
+* [Commit] [ci(expb): benchmark fusaka at 0 s and 1 s delay on the performance label and on master (#14061)](https://github.com/NethermindEth/nethermind/commit/c3a29a599daea4b501747f0b894bb80b44c16624) - 2026-09-30
+* [Commit] [feat(rpc-bench): heap dump reports and process memory per cell (#13842)](https://github.com/NethermindEth/nethermind/commit/a56a0ea626be222c6a98756ad936e7a94ee6622c) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

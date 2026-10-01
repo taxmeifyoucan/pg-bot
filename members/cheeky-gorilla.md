@@ -138,6 +138,10 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #540 from protocolguild/cheeky-gorilla-patch-16](https://github.com/protocolguild/documentation/commit/25b09d9357fc336425fb24493b1365ccd255a95b) - 2026-08-31
 * [Commit] [Merge branch 'main' into cheeky-gorilla-patch-16](https://github.com/protocolguild/documentation/commit/b83e7dc328925e0288edcf429e7b52645ffbb9d4) - 2026-08-31
 * [Commit] [Merge pull request #539 from protocolguild/cheeky-gorilla-patch-15](https://github.com/protocolguild/documentation/commit/7b20c3f8dae2883508241df8a68f90ee95deb0ed) - 2026-08-31
+* [Commit] [Merge pull request #552 from weiihann/remove-weiihann](https://github.com/protocolguild/documentation/commit/bfeaf6654864ad1f8c80b20ab1fba59694a64598) - 2026-09-30
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/6e9dfc121a0ab0ff03e698101782b57c087dbba1) - 2026-09-30
+* [Commit] [Merge pull request #551 from alexb5dh/remove-alexb5dh](https://github.com/protocolguild/documentation/commit/b54aaf594e43146c8f70c6cbbe2d04b923ae95b1) - 2026-09-30
+* [Commit] [Merge pull request #550 from gballet/halve-gballet-s-weight](https://github.com/protocolguild/documentation/commit/e79828c69f7ddab7d9d4d1dc5baaf64445cccf21) - 2026-09-30
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

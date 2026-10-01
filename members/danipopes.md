@@ -87,6 +87,7 @@ Team: Reth
 * [Review] [Review on: chore(deps): update keccak-asm to 0.1.9](https://github.com/paradigmxyz/reth/pull/27496#pullrequestreview-5356597518) - 2026-09-29
 * [Review] [Review on: chore(ci): remove crate-checks target cache](https://github.com/paradigmxyz/reth/pull/27579#pullrequestreview-5356637989) - 2026-09-29
 * [Review] [Review on: refactor: replace cfg-if with cfg_select](https://github.com/paradigmxyz/reth/pull/27577#pullrequestreview-5355258173) - 2026-09-29
+* [Review] [Review on: perf(rpc): stop long blocking jobs once their request is dropped](https://github.com/paradigmxyz/reth/pull/27462#pullrequestreview-5365381660) - 2026-09-30
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

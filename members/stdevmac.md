@@ -6,6 +6,12 @@ Github: [@stdevmac](https://github.com/stdevmac)
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [fix(threading): withdraw unstarted pool workers when a parallel loop joins](https://github.com/NethermindEth/nethermind/pull/14137) - 2026-10-01
+* [Issue] [Snap sync exhausts the thread pool: RPC, Engine API and logging stall minutes after state sync starts](https://github.com/NethermindEth/nethermind/issues/14136) - 2026-10-01
 ## Q3 2026
 
 
@@ -161,6 +167,13 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(simulate): keep log indices of logs dropped by a revert, as geth does](https://github.com/NethermindEth/nethermind/pull/14062#pullrequestreview-5360044534) - 2026-09-30
 * [Commit] [ci: sync-validation timings dashboard on GitHub Pages (#12618)](https://github.com/NethermindEth/nethermind/commit/83fae5b6a3cf482692e4a5a086bec0e90edb66c7) - 2026-09-30
 * [Commit] [fix(simulate): drop logs emitted by reverted call frames (#13979)](https://github.com/NethermindEth/nethermind/commit/4aae97e671e54f70938f5924f2222663a766d166) - 2026-09-29
+* [Review] [Review on: fix(rpc): run blob calls without a positive blob fee cap at a zero blob base fee](https://github.com/NethermindEth/nethermind/pull/14092#pullrequestreview-5368745929) - 2026-09-30
+* [Review] [Review on: fix(rpc): reject a call object whose data and input differ](https://github.com/NethermindEth/nethermind/pull/14089#pullrequestreview-5368866618) - 2026-09-30
+* [Review] [Review on: feat(rpc): select a block by hash in trace_filter and reject hash bounds](https://github.com/NethermindEth/nethermind/pull/14111#pullrequestreview-5368780057) - 2026-09-30
+* [Review] [Review on: fix(tracing): select stored vmTrace like live replay](https://github.com/NethermindEth/nethermind/pull/14115#pullrequestreview-5368683118) - 2026-09-30
+* [Review] [Review on: fix(tracing): round-trip TraceStore vm and state](https://github.com/NethermindEth/nethermind/pull/14093#pullrequestreview-5368682638) - 2026-09-30
+* [Review] [Review on: fix(rpc): validate a trace_rawTransaction with block inclusion's checks](https://github.com/NethermindEth/nethermind/pull/14091#pullrequestreview-5368758935) - 2026-09-30
+* [Pull Request] [Backport #13850, #13812, #13824, #13813, #13814, #13899 to release/2.1.0](https://github.com/NethermindEth/nethermind/pull/14117) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 * [Review] [Review on: Remove alexb5dh](https://github.com/protocolguild/documentation/pull/551#pullrequestreview-5291874529) - 2026-09-23

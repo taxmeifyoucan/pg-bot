@@ -404,6 +404,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): cover EIP-2780 preparation halt after repeated and self-sponsored authorizations](https://github.com/ethereum/execution-specs/pull/3671) - 2026-09-29
 * [Pull Request] [feat(tests): cover EIP-8037 partial-reservoir new-account charge and precompile OOG after spill](https://github.com/ethereum/execution-specs/pull/3673) - 2026-09-29
 * [Commit] [feat(tests): cover EIP-2780 preparation halt after repeated and self-sponsored authorizations (#3671)](https://github.com/ethereum/execution-specs/commit/56dbe51551158dcf41ba819392e6d575cfb6f011) - 2026-09-29
+* [Commit] [feat(tests): cover EIP-8037 partial-reservoir new-account charge and precompile OOG after spill (#3673)](https://github.com/ethereum/execution-specs/commit/949856f3c29014beff31c34500c08da725e9cf6a) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -432,6 +433,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-8037: cap the transaction gas limit at 2^32-1](https://github.com/ethereum/EIPs/commit/d7087803ca236498c73f64665df0ddac7d621950) - 2026-09-14
 * [Commit] [Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/commit/9dcd72754f3fe4b48a4dbeffee669dc4c60f7ec5) - 2026-09-14
 * [Commit] [Update EIP-8246: Move to Last Call](https://github.com/ethereum/EIPs/commit/2db02af3e4e8c3553b6419a0b6159fcef599ce48) - 2026-09-15
+* [Pull Request] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/pull/12402) - 2026-09-30
+* [Pull Request] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/pull/12401) - 2026-09-30
+* [Pull Request] [Update EIP-8037: add Paweł Bylica as co-author](https://github.com/ethereum/EIPs/pull/12400) - 2026-09-30
+* [Commit] [Update EIP-8037: add Paweł Bylica as co-author](https://github.com/ethereum/EIPs/commit/94796f65120a8a17d3488ba948eed522912bef99) - 2026-09-30
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16
@@ -452,6 +457,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363) - 2026-09-28
 * [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5337274069) - 2026-09-28
 * [Pull Request] [execution/vm: SSE4 JUMPDEST analysis](https://github.com/erigontech/erigon/pull/24364) - 2026-09-28
+* [Pull Request] [execution/vm: NEON JUMPDEST analysis](https://github.com/erigontech/erigon/pull/24438) - 2026-09-30
+* [Pull Request] [execution/state: keep code hash in sync with code read from version map](https://github.com/erigontech/erigon/pull/24432) - 2026-09-30
+* [Pull Request] [execution/state: remove unused commited flag from code reads](https://github.com/erigontech/erigon/pull/24431) - 2026-09-30
+* [Pull Request] [execution/state: refreshCode returns accounts.Code](https://github.com/erigontech/erigon/pull/24430) - 2026-09-30
+* [Pull Request] [execution/state, execution/vm: read callee code and code hash together](https://github.com/erigontech/erigon/pull/24429) - 2026-09-30
+* [Pull Request] [execution: remove unused TraceJumpDest config](https://github.com/erigontech/erigon/pull/24424) - 2026-09-30
+* [Commit] [execution: remove unused TraceJumpDest config (#24424)](https://github.com/erigontech/erigon/commit/eba0974977bb956f2530bceb905b1673107dcd32) - 2026-09-30
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 

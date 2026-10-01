@@ -233,6 +233,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use preallocated buffers in `getBlobsV2`](https://github.com/ChainSafe/lodestar/pull/10203#pullrequestreview-5343981364) - 2026-09-28
 * [Review] [Review on: fix: use fork inactivity quotient in rewards](https://github.com/ChainSafe/lodestar/pull/10183#pullrequestreview-5344027492) - 2026-09-28
 * [Review] [Review on: perf: avoid rescanning pruned state history](https://github.com/ChainSafe/lodestar/pull/10216#pullrequestreview-5359233355) - 2026-09-29
+* [Review] [Review on: refactor(cli): init BeaconState](https://github.com/ChainSafe/lodestar/pull/10200#pullrequestreview-5372479937) - 2026-09-30
+* [Review] [Review on: feat: persist pubkey cache across restarts](https://github.com/ChainSafe/lodestar/pull/10152#pullrequestreview-5372449593) - 2026-09-30
+* [Review] [Review on: fix: replace latest messages by slot from gloas](https://github.com/ChainSafe/lodestar/pull/10128#pullrequestreview-5371393977) - 2026-09-30
+* [Review] [Review on: fix: track slashing signature domains across forks](https://github.com/ChainSafe/lodestar/pull/10217#pullrequestreview-5371051568) - 2026-09-30
+* [Review] [Review on: fix: removeAndDownScoreAllDescendants of unknown sync](https://github.com/ChainSafe/lodestar/pull/10221#pullrequestreview-5370640679) - 2026-09-30
+* [Review] [Review on: perf: avoid rescanning pruned state history](https://github.com/ChainSafe/lodestar/pull/10216#pullrequestreview-5368063322) - 2026-09-30
+* [Pull Request] [fix: prune legacy hot data columns on startup](https://github.com/ChainSafe/lodestar/pull/10223) - 2026-09-30
+* [Review] [Review on: fix: prune legacy hot data columns on startup](https://github.com/ChainSafe/lodestar/pull/10223#pullrequestreview-5366987809) - 2026-09-30
+* [Review] [Review on: fix: deduplicate and stream execution payload envelopes by root](https://github.com/ChainSafe/lodestar/pull/10207#pullrequestreview-5367484742) - 2026-09-30
+* [Review] [Review on: fix: revert fast confirmation to finalized on error](https://github.com/ChainSafe/lodestar/pull/10220#pullrequestreview-5366240246) - 2026-09-30
+* [Review] [Review on: chore: remove experimental label from fast confirmation](https://github.com/ChainSafe/lodestar/pull/10222#pullrequestreview-5366202481) - 2026-09-30
+* [Commit] [fix: prune legacy hot data columns on startup (#10223)](https://github.com/ChainSafe/lodestar/commit/cea8fba405a681a53cb59742e5b51e80ee58c153) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -478,6 +490,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: remove unused view reads](https://github.com/ChainSafe/lodestar-z/pull/739) - 2026-09-29
 * [Review] [Review on: fix(bindings): preserve eth1 bigint values](https://github.com/ChainSafe/lodestar-z/pull/735#pullrequestreview-5356907937) - 2026-09-29
 * [Commit] [refactor: iterate compact proof reconstruction (#684)](https://github.com/ChainSafe/lodestar-z/commit/4051fcc71d8e3af5e9d637e58af629879cbb4349) - 2026-09-29
+* [Pull Request] [chore(deps): bump hashtree revision](https://github.com/ChainSafe/lodestar-z/pull/743) - 2026-09-30
+* [Pull Request] [fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747) - 2026-09-30
+* [Pull Request] [perf: stream progressive tree construction](https://github.com/ChainSafe/lodestar-z/pull/746) - 2026-09-30
+* [Pull Request] [perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745) - 2026-09-30
+* [Pull Request] [perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744) - 2026-09-30
+* [Review] [Review on: refactor(stf): replace load-state recursive diff with linear scan](https://github.com/ChainSafe/lodestar-z/pull/741#pullrequestreview-5367460707) - 2026-09-30
+* [Review] [Review on: refactor: retain view roots last](https://github.com/ChainSafe/lodestar-z/pull/738#pullrequestreview-5366639643) - 2026-09-30
+* [Review] [Review on: refactor: migrate deprecated zig std APIs](https://github.com/ChainSafe/lodestar-z/pull/742#pullrequestreview-5366764941) - 2026-09-30
+* [Review] [Review on: feat(metrics): track block transition steps](https://github.com/ChainSafe/lodestar-z/pull/737#pullrequestreview-5366482197) - 2026-09-30
+* [Review] [Review on: fix: preserve pending view nodes](https://github.com/ChainSafe/lodestar-z/pull/740#pullrequestreview-5366464052) - 2026-09-30
+* [Commit] [refactor: retain view roots last (#738)](https://github.com/ChainSafe/lodestar-z/commit/77ad664a86e8261caa0d48aad487208d4946f6b4) - 2026-09-30
+* [Commit] [fix: preserve pending view nodes (#740)](https://github.com/ChainSafe/lodestar-z/commit/8a3d024f6be525d5a978756f4b9734196e904703) - 2026-09-30
+* [Commit] [refactor: remove unused view reads (#739)](https://github.com/ChainSafe/lodestar-z/commit/5015e0cb55c1ce5ee70de4aa755ba6c19ee056d3) - 2026-09-30
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 

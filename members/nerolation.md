@@ -62,6 +62,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Review] [Review on: Update EIP-8272: verify recent roots with a canonical frame](https://github.com/ethereum/EIPs/pull/12281#pullrequestreview-5110296682) - 2026-09-04
 * [Review] [Review on: Update EIP-8272: Add lightclient as a co-author](https://github.com/ethereum/EIPs/pull/12294#pullrequestreview-5112407699) - 2026-09-04
 * [Review] [Review on: Update EIP-7716: Move to Draft](https://github.com/ethereum/EIPs/pull/11962#pullrequestreview-5141559575) - 2026-09-08
+* [Review] [Review on: Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/pull/12347#pullrequestreview-5364015062) - 2026-09-30
+* [Review] [Review on: Update EIP-8298: record adopted code as a hash in the BAL; reject same-tx-created sources](https://github.com/ethereum/EIPs/pull/12399#pullrequestreview-5363822399) - 2026-09-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 
@@ -91,6 +93,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [core: enforce block gas limit in parallel block execution](https://github.com/ethereum/go-ethereum/pull/35575) - 2026-08-24
 
 * [Commit] [core: enforce block gas limit in parallel block execution (#35575)](https://github.com/ethereum/go-ethereum/commit/e9e35a42f8213235da1fde4f9ac8f3e9ff666b87) - 2026-08-26
+* [Pull Request] [core, eth, cmd/utils: reconstruct finalized state from bal](https://github.com/ethereum/go-ethereum/pull/35851) - 2026-09-30
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix CPU exhaustion from speculative execution after block rejection](https://github.com/besu-eth/besu/pull/11139) - 2026-08-24
 

@@ -187,6 +187,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/beacon/handler: fix PTC duties dependent root and fork-epoch duties](https://github.com/erigontech/erigon/pull/24393) - 2026-09-29
 * [Pull Request] [[r3.7] cl: align Gloas consensus and APIs with v1.7.0-beta.2](https://github.com/erigontech/erigon/pull/24386) - 2026-09-29
 * [Commit] [cl/beacon/handler: fix PTC duties dependent root and fork-epoch duties (#24393)](https://github.com/erigontech/erigon/commit/85e1ca92dd1bd471d748f13878d22e4ed18863f0) - 2026-09-29
+* [Review] [Review on: cl/services: harden deferred Gloas data-column sidecars](https://github.com/erigontech/erigon/pull/23645#pullrequestreview-5371969255) - 2026-09-30
+* [Review] [Review on: cl/beacon/handler: publish blobs from the request on a node that did not produce the block](https://github.com/erigontech/erigon/pull/24404#pullrequestreview-5362702329) - 2026-09-30
+* [Review] [Review on: [r3.7] docs: correct graffiti-identification version marker to 3.7.1](https://github.com/erigontech/erigon/pull/24419#pullrequestreview-5369235301) - 2026-09-30
+* [Review] [Review on: [r3.7] cl: schedule Sepolia's 200M gas limit at Glamsterdam](https://github.com/erigontech/erigon/pull/24441#pullrequestreview-5369256390) - 2026-09-30
+* [Review] [Review on: cl: schedule Sepolia's 200M gas limit at Glamsterdam](https://github.com/erigontech/erigon/pull/24395#pullrequestreview-5362211038) - 2026-09-30
+* [Review] [Review on: cl/utils/eth_clock: keep ENR next_fork_version at a BPO fork](https://github.com/erigontech/erigon/pull/24406#pullrequestreview-5362210773) - 2026-09-30
+* [Review] [Review on: cl/services: handle local block errors and back off retries](https://github.com/erigontech/erigon/pull/23646#pullrequestreview-5362211367) - 2026-09-30
+* [Pull Request] [[r3.7] cl/p2p: add QUIC transport support](https://github.com/erigontech/erigon/pull/24413) - 2026-09-30
+* [Review] [Review on: cl/utils/eth_clock: encode ENR next_fork_epoch as little-endian](https://github.com/erigontech/erigon/pull/24405#pullrequestreview-5362210535) - 2026-09-30
+* [Issue] [cl: Caplin payload size limit (15 MiB) diverges from spec MAX_PAYLOAD_SIZE (10 MiB)](https://github.com/erigontech/erigon/issues/24417) - 2026-09-30
+* [Commit] [cl/clparams, cl/spectest: set PAYLOAD_DUE_BPS to 5000 and check mainnet config against spec fixtures (#24420)](https://github.com/erigontech/erigon/commit/19180c5e76947ba737660febe17073c7a43c02d9) - 2026-09-30
 ## Q2 2026
 
 

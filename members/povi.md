@@ -120,6 +120,10 @@ Team: Grandine
 * [Commit] [Add extra tests for Gloas payload invalidation possible scenarios](https://github.com/grandinetech/grandine/commit/a0c46b6ce1d50bd6d9ec001ef2cf8c90a3c92f4a) - 2026-09-25
 * [Commit] [Don't invalidate empty blocks when EL invalidates payload](https://github.com/grandinetech/grandine/commit/7686ad972d5492c4a8e39318ef4b2fc3b7e6fade) - 2026-09-25
 * [Commit] [Schedule Gloas fork on Sepolia](https://github.com/grandinetech/grandine/commit/66b3d385c3dc69d89e05b80bbb6baf7442a12966) - 2026-09-25
+* [Review] [Review on: Move execution payload location insertion to when the payload envelope arrives](https://github.com/grandinetech/grandine/pull/890#pullrequestreview-5365413300) - 2026-09-30
+* [Pull Request] [tune max allowed empty slots](https://github.com/grandinetech/grandine/pull/946) - 2026-09-30
+* [Review] [Review on: Update `rustls`](https://github.com/grandinetech/grandine/pull/945#pullrequestreview-5365852115) - 2026-09-30
+* [Commit] [Update builder deposit cache so it handles some edge cases](https://github.com/grandinetech/grandine/commit/b521c56ae34587c372c3fcb6c13b91926de74b14) - 2026-09-30
 ## Q2 2026
 
 

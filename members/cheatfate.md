@@ -49,6 +49,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add payload-attestations BN role to docs and data/publish combinations](https://github.com/status-im/nimbus-eth2/pull/9129#pullrequestreview-5316772937) - 2026-09-25
 * [Pull Request] [Fix syncer should check slot before asking data columns by root.](https://github.com/status-im/nimbus-eth2/pull/9127) - 2026-09-25
 * [Pull Request] [Sync: optimize network usage by limiting remote requests.](https://github.com/status-im/nimbus-eth2/pull/9138) - 2026-09-27
+* [Pull Request] [VC: Fix rare assertion crash because of incorrect BN response.](https://github.com/status-im/nimbus-eth2/pull/9157) - 2026-09-30
 ## Q2 2026
 
 

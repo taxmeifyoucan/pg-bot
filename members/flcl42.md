@@ -381,6 +381,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Issue] [eth_simulateV1 reports post-refund maxUsedGas for frame transactions](https://github.com/NethermindEth/nethermind/issues/14029) - 2026-09-29
 * [Issue] [EIP-8141 public pool admits generic leading VERIFY outside recognized prefixes](https://github.com/NethermindEth/nethermind/issues/14032) - 2026-09-29
 * [Issue] [Pooled eth/70 and eth/71 lists are not returned after trailing RLP rejection](https://github.com/NethermindEth/nethermind/issues/14036) - 2026-09-29
+* [Issue] [eth_estimateGas can exceed configured GasCap for frame transactions](https://github.com/NethermindEth/nethermind/issues/14083) - 2026-09-30
+* [Issue] [eth_estimateGas quotes frame transactions before EIP-8141 activation](https://github.com/NethermindEth/nethermind/issues/14082) - 2026-09-30
+* [Issue] [Nested BlockReceiptsTracer loses frame receipt data and reports the wrong status](https://github.com/NethermindEth/nethermind/issues/14081) - 2026-09-30
+* [Issue] [Malformed block-body responses abandon pooled transactions during RLP decode](https://github.com/NethermindEth/nethermind/issues/14067) - 2026-09-30
+* [Issue] [EIP-8141 pool accepts a no-op deploy frame over an already deployed sender](https://github.com/NethermindEth/nethermind/issues/14066) - 2026-09-30
+* [Issue] [EIP-8250 activation resets a pre-existing NONCE_MANAGER nonce above one](https://github.com/NethermindEth/nethermind/issues/14065) - 2026-09-30
+* [Issue] [EIP-8141 pool validation allows TIMESTAMP via expiry-verifier helper call](https://github.com/NethermindEth/nethermind/issues/14064) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

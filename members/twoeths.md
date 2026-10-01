@@ -8,6 +8,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [fix: init BeaconStateView from state bytes](https://github.com/ChainSafe/lodestar/pull/10227) - 2026-10-01
+* [Pull Request] [refactor(cli): init BeaconState](https://github.com/ChainSafe/lodestar/pull/10200) - 2026-10-01
+* [Commit] [refactor(cli): init BeaconState (#10200)](https://github.com/ChainSafe/lodestar/commit/9c3f7bebe976443525cae9013f69d68ea06826c8) - 2026-10-01
 ## Q3 2026
 
 
@@ -318,6 +325,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: track EL engine request/response bytes on Grafana](https://github.com/ChainSafe/lodestar/pull/10209) - 2026-09-29
 * [Review] [Review on: refactor(cli): init BeaconState](https://github.com/ChainSafe/lodestar/pull/10200#pullrequestreview-5349806906) - 2026-09-29
 * [Commit] [chore: track EL engine request/response bytes on Grafana (#10209)](https://github.com/ChainSafe/lodestar/commit/ebecebb9bacb8261265c9dd7290dac32abdc7e0d) - 2026-09-29
+* [Pull Request] [fix: removeAndDownScoreAllDescendants of unknown sync](https://github.com/ChainSafe/lodestar/pull/10221) - 2026-09-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

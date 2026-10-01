@@ -176,6 +176,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Extend ProposerConfig object for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11353#pullrequestreview-5352725177) - 2026-09-29
 * [Review] [Review on: Exclude voluntary exits conflicting with parent consolidations](https://github.com/Consensys-Incorporated/teku/pull/11352#pullrequestreview-5350235760) - 2026-09-29
 * [Commit] [Exclude voluntary exits conflicting with parent consolidations (#11352)](https://github.com/Consensys-Incorporated/teku/commit/d65af7ec703765716a72b85f6655d3f62e6fc751) - 2026-09-29
+* [Review] [Review on: Integrate forkchoice compliance tests ignoring failures](https://github.com/Consensys-Incorporated/teku/pull/11291#pullrequestreview-5371222572) - 2026-09-30
+* [Review] [Review on: Remove traces of MAX_CHUNK_SIZE](https://github.com/Consensys-Incorporated/teku/pull/11377#pullrequestreview-5370510174) - 2026-09-30
+* [Review] [Review on: Extend ProposerConfig object for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11353#pullrequestreview-5364331890) - 2026-09-30
+* [Pull Request] [Prevent stale block production requests from replacing newer pins](https://github.com/Consensys-Incorporated/teku/pull/11375) - 2026-09-30
+* [Review] [Review on: Prevent stale block production requests from replacing newer pins](https://github.com/Consensys-Incorporated/teku/pull/11375#pullrequestreview-5364600358) - 2026-09-30
+* [Commit] [Implement FCU with attributes retry  (#11345)](https://github.com/Consensys-Incorporated/teku/commit/2ebb5f12ad6c304a7e10e3bd79f711bca37da2bc) - 2026-09-30
+* [Commit] [Prevent stale block production requests from replacing newer pins (#11375)](https://github.com/Consensys-Incorporated/teku/commit/c18ccbac3f9d252f9cd4b299bd0b55fdfe48d73d) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

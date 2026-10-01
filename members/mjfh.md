@@ -69,6 +69,11 @@ Team: Nimbus
 * [Commit] [Snap2 sync reload prepper (#4866)](https://github.com/status-im/nimbus-eth1/commit/ee2df90899d004305df587ef79aec6eeff586005) - 2026-09-28
 * [Commit] [Beacon sync fix garbled accounting fix (#4865)](https://github.com/status-im/nimbus-eth1/commit/9b7ad4f180a3e9e19b47071fdcf1f11f1a34d4f9) - 2026-09-28
 * [Pull Request] [Reload after snap sync has finished](https://github.com/status-im/nimbus-eth1/pull/4869) - 2026-09-29
+* [Pull Request] [Beacon sync fix edge case for fcu header resolution tool](https://github.com/status-im/nimbus-eth1/pull/4879) - 2026-09-30
+* [Pull Request] [Snap2 sync force snap2 for bal when available v2](https://github.com/status-im/nimbus-eth1/pull/4875) - 2026-09-30
+* [Pull Request] [Snap2 sync force snap2 for bal when available](https://github.com/status-im/nimbus-eth1/pull/4874) - 2026-09-30
+* [Commit] [Beacon sync fix edge case for fcu header resolution tool (#4879)](https://github.com/status-im/nimbus-eth1/commit/de28e835db32843fd1984d6592f75f097ea95573) - 2026-09-30
+* [Commit] [Snap2 sync force snap2 for bal when available v2 (#4875)](https://github.com/status-im/nimbus-eth1/commit/eee11c61c6f42c4d3b483a7c95b4955bac409355) - 2026-09-30
 ## Q2 2026
 
 

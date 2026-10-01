@@ -119,6 +119,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [imporved logging support at INFO level](https://github.com/status-im/nimbus-eth1/pull/4857) - 2026-09-26
 * [Commit] [imporved logging support at INFO level (#4857)](https://github.com/status-im/nimbus-eth1/commit/1f55f68a1bfdf8f847391b24fa7025a2b563b108) - 2026-09-26
 * [Review] [Review on: Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637#pullrequestreview-5353589602) - 2026-09-29
+* [Pull Request] [cheaper block size check](https://github.com/status-im/nimbus-eth1/pull/4872) - 2026-09-30
+* [Issue] [cache built state by blockHash](https://github.com/status-im/nimbus-eth1/issues/4871) - 2026-09-30
+* [Commit] [cheaper block size check (#4872)](https://github.com/status-im/nimbus-eth1/commit/63be3f63b509a035b6c9b4b3f28811c534ab56b6) - 2026-09-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

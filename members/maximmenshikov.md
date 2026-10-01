@@ -29,6 +29,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Support SP1 and OpenVM](https://github.com/NethermindEth/nethermind/pull/13435) - 2026-09-13
 * [Commit] [Support SP1 and OpenVM (#13435)](https://github.com/NethermindEth/nethermind/commit/949c901fc08414d844266eea3caa7358dfdc907c) - 2026-09-18
 * [Commit] [ZiskGuest: Bump ZisK toolchain to 1.3.0-alpha (#13743)](https://github.com/NethermindEth/nethermind/commit/9d50298664eafd0afae45e77629dd0a074f8c573) - 2026-09-23
+* [Review] [Review on: perf(zkvm): keep keccak memo slot arithmetic full-width](https://github.com/NethermindEth/nethermind/pull/14128#pullrequestreview-5371730479) - 2026-09-30
+* [Pull Request] [ZiskGuest: Bump ZisK runtime and image to 1.3.1-alpha](https://github.com/NethermindEth/nethermind/pull/14127) - 2026-09-30
+* [Review] [Review on: perf(zkvm): avoid narrowing multiply-fold intermediates](https://github.com/NethermindEth/nethermind/pull/14124#pullrequestreview-5371376162) - 2026-09-30
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02

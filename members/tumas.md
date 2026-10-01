@@ -39,6 +39,9 @@ Team: Grandine
 * [Commit] [Report only forward sync in the syncing and health endpoints](https://github.com/grandinetech/grandine/commit/af41f1d5cfe3a43ce5cd762d11d0548495b23d16) - 2026-09-25
 * [Review] [Review on: Stream block roots while loading state by iteration](https://github.com/grandinetech/grandine/pull/942#pullrequestreview-5339945798) - 2026-09-28
 * [Pull Request] [Run the validator client against remote beacon nodes with the new vc and bn commands](https://github.com/grandinetech/grandine/pull/943) - 2026-09-29
+* [Review] [Review on: Update builder deposit cache so it handles some edge cases](https://github.com/grandinetech/grandine/pull/913#pullrequestreview-5366346110) - 2026-09-30
+* [Pull Request] [Update `rustls`](https://github.com/grandinetech/grandine/pull/945) - 2026-09-30
+* [Commit] [Update `rustls`](https://github.com/grandinetech/grandine/commit/5289a46322db4ea5a9f5404a7b8145e48930cb70) - 2026-09-30
 ## Q2 2026
 
 

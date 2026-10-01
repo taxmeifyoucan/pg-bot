@@ -57,6 +57,9 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika](https://github.com/NethermindEth/nethermind/pull/14056#pullrequestreview-5355386320) - 2026-09-29
 * [Commit] [ci: stop choosing smoke-test VM types here and move hoodi/chiado sync runners to C3D (#14007)](https://github.com/NethermindEth/nethermind/commit/1a5cb617f81d94261902b051918488061624f851) - 2026-09-29
 * [Commit] [ci: Make SPOT the only implicit provisioning model for GCP runners (#13728)](https://github.com/NethermindEth/nethermind/commit/cfffd26055215789ceb981d3cb7ac1c53e58aca6) - 2026-09-29
+* [Review] [Review on: ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika](https://github.com/NethermindEth/nethermind/pull/14056#pullrequestreview-5367387156) - 2026-09-30
+* [Commit] [ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika (#14056)](https://github.com/NethermindEth/nethermind/commit/b1b0c55d1fc1eab7333e94f6d5854052903d50e2) - 2026-09-30
+* [Commit] [ci(hive): build image once, run Hive on PRs, drop consensus suite (#11877)](https://github.com/NethermindEth/nethermind/commit/21c5579690d61c340ffc0e0b49cf62bd41b09dc7) - 2026-09-30
 ## Q2 2026
 
 

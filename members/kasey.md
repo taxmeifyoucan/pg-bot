@@ -51,6 +51,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: Fix SSZ code generation when cross-compiling](https://github.com/OffchainLabs/prysm/pull/17565#pullrequestreview-5322614637) - 2026-09-25
 * [Pull Request] [Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584) - 2026-09-29
 * [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5359599851) - 2026-09-29
+* [Pull Request] [non-upgraded gloas val <> upgraded bn backward compat](https://github.com/OffchainLabs/prysm/pull/17589) - 2026-09-30
 ## Q2 2026
 
 

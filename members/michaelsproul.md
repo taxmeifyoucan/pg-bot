@@ -8,6 +8,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 ## Contributions
 
+## Q4 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Release v8.3.0-rc.0](https://github.com/sigp/lighthouse/pull/10181) - 2026-10-01
+* [Pull Request] [Merge v8.2.3 into unstable](https://github.com/sigp/lighthouse/pull/10180) - 2026-10-01
+* [Pull Request] [Release v8.2.3](https://github.com/sigp/lighthouse/pull/10179) - 2026-10-01
+* [Commit] [Release v8.2.3](https://github.com/sigp/lighthouse/commit/6db6ae9382b7d6f5bd1e0ca0d349bc0dc94adba2) - 2026-10-01
 ## Q3 2026
 
 
@@ -153,6 +161,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Simplify fork boilerplate](https://github.com/sigp/lighthouse/pull/10164) - 2026-09-30
 * [Review] [Review on: Update tests to be spec agnostic](https://github.com/sigp/lighthouse/pull/10051#pullrequestreview-5348366721) - 2026-09-29
 * [Issue] [Manual finalization breaks the node with FCR enabled](https://github.com/sigp/lighthouse/issues/10166) - 2026-09-30
+* [Pull Request] [Restore transitive schema migration code](https://github.com/sigp/lighthouse/pull/10170) - 2026-09-30
+* [Commit] [Bump quinn](https://github.com/sigp/lighthouse/commit/14ce05a63363a212c6e1640584b49f480e99a02a) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31
@@ -163,6 +173,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Reject pre-Gloas slots using `GLOAS_FORK_EPOCH`](https://github.com/ethereum/consensus-specs/pull/5663#pullrequestreview-5284842599) - 2026-09-22
 * [Review] [Review on: Enforce progressive list limits in SSZ library](https://github.com/ethereum/consensus-specs/pull/5642#pullrequestreview-5274519893) - 2026-09-22
 
+* [Review] [Review on: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/ethereum/consensus-specs/pull/5673#pullrequestreview-5361782083) - 2026-09-30
 [sigp/enr](https://github.com/sigp/enr)
 * [Review] [Review on: Release v0.14](https://github.com/sigp/enr/pull/92#pullrequestreview-5285172924) - 2026-09-22
 ## Q2 2026

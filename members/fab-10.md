@@ -245,6 +245,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Make the cell types immutable](https://github.com/besu-eth/besu/pull/11393#pullrequestreview-5355654338) - 2026-09-29
 * [Review] [Review on: Report backward sync progress against the peer-estimated chain height](https://github.com/besu-eth/besu/pull/11337#pullrequestreview-5354803408) - 2026-09-29
 * [Commit] [Build BlobsWithCommitments through named factories (#11385)](https://github.com/besu-eth/besu/commit/b5d98381d9c1a75e13a76a96b63b041d6e97057a) - 2026-09-29
+* [Review] [Review on: feat(eip-8025): add engine_newPayloadWithWitnessV5](https://github.com/besu-eth/besu/pull/11181#pullrequestreview-5366376933) - 2026-09-30
+* [Pull Request] [Address review: cells-only bundles on the paths that read blobs](https://github.com/besu-eth/besu/pull/11408) - 2026-09-30
+* [Review] [Review on: Address review: cells-only bundles on the paths that read blobs](https://github.com/besu-eth/besu/pull/11408#pullrequestreview-5370335463) - 2026-09-30
+* [Review] [Review on: Close the remaining bad-chain gaps in backward sync and the Engine API](https://github.com/besu-eth/besu/pull/11373#pullrequestreview-5369080144) - 2026-09-30
+* [Review] [Review on: Add the eth/72 cell primitives](https://github.com/besu-eth/besu/pull/11393#pullrequestreview-5365809414) - 2026-09-30
+* [Commit] [Add the eth/72 cell primitives (#11393)](https://github.com/besu-eth/besu/commit/67ce4ab1fe934d74c5d98504953533989748b8d2) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

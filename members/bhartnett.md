@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 
 ## Contributions
 
+## Q4 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [Remove pfx from cached account and storage leaves (#4878)](https://github.com/status-im/nimbus-eth1/commit/388e495ef224d7ac483e4e2c2a034ede7b1139aa) - 2026-10-01
 ## Q3 2026
 
 
@@ -123,6 +128,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use nim-ssz-serialization digest in sha256 precompile (#4817)](https://github.com/status-im/nimbus-eth1/commit/925bcc20cf47e46b98aaabca219088ff21e3794a) - 2026-09-18
 * [Commit] [Add parallel flag to enable/disable parallel features (#4816)](https://github.com/status-im/nimbus-eth1/commit/bd2bf36183b019602c5805fc747e00afbdb9bc94) - 2026-09-18
 * [Commit] [Storage trie static vids (#4797)](https://github.com/status-im/nimbus-eth1/commit/2f0ae87cd112616a4ca6b168bdaed4b95a112630) - 2026-09-23
+* [Pull Request] [Remove pfx from cached account and storage leaves](https://github.com/status-im/nimbus-eth1/pull/4878) - 2026-09-30
+* [Pull Request] [Update rdb cache sizes](https://github.com/status-im/nimbus-eth1/pull/4876) - 2026-09-30
+* [Commit] [Update rdb cache sizes (#4876)](https://github.com/status-im/nimbus-eth1/commit/4772f522d819def0842b515a1078f3abb8c1752f) - 2026-09-30
 ## Q2 2026
 
 

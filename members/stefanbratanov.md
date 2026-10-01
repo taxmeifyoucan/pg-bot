@@ -135,6 +135,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Extend ProposerConfig object for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11353#pullrequestreview-5356475164) - 2026-09-29
 * [Pull Request] [Schedule 200m gas limit for Sepolia](https://github.com/Consensys-Incorporated/teku/pull/11358) - 2026-09-29
 * [Commit] [Schedule 200m gas limit for Sepolia (#11358)](https://github.com/Consensys-Incorporated/teku/commit/7d206295b932e73a7e8948970d58d7c73df72e80) - 2026-09-29
+* [Pull Request] [Remove traces of MAX_CHUNK_SIZE](https://github.com/Consensys-Incorporated/teku/pull/11377) - 2026-09-30
+* [Pull Request] [Use proposer config for Gloas block proposal](https://github.com/Consensys-Incorporated/teku/pull/11376) - 2026-09-30
+* [Review] [Review on: Implement FCU with attributes retry ](https://github.com/Consensys-Incorporated/teku/pull/11345#pullrequestreview-5364108516) - 2026-09-30
+* [Commit] [Remove traces of MAX_CHUNK_SIZE (#11377)](https://github.com/Consensys-Incorporated/teku/commit/ecd5221701c0bb4e343a775825854308fd82afb4) - 2026-09-30
+* [Commit] [Extend ProposerConfig object for Gloas (#11353)](https://github.com/Consensys-Incorporated/teku/commit/fe0d14fe601bd968b7bfdd12477fe30cedce5f83) - 2026-09-30
 ## Q2 2026
 
 

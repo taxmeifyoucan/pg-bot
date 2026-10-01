@@ -107,6 +107,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Cast PTC votes early once payload envelope and data column sidecars are available](https://github.com/grandinetech/grandine/commit/d70201c053ffd1bf4c46e6a4cb2ab4f92a5bb50e) - 2026-09-24
 * [Pull Request] [Pass gossip execution payload envelope directly to fork choice](https://github.com/grandinetech/grandine/pull/939) - 2026-09-25
 * [Commit] [Pass gossip execution payload envelope directly to fork choice](https://github.com/grandinetech/grandine/commit/5e939e58247ba23d4064bb52c80b6bc817271cf9) - 2026-09-28
+* [Review] [Review on: Move execution payload location insertion to when the payload envelope arrives](https://github.com/grandinetech/grandine/pull/890#pullrequestreview-5365466784) - 2026-09-30
+* [Commit] [Insert execution payload location when the payload envelope arrives](https://github.com/grandinetech/grandine/commit/7f1e9cca90b9ca6c0996a9fda93b2ab6062cf240) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

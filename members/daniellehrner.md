@@ -151,6 +151,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Accept upper-half uint64 targetGasLimit in engine_forkchoiceUpdatedV4](https://github.com/besu-eth/besu/pull/11389) - 2026-09-29
 * [Review] [Review on: Default EIP-7002/EIP-7251 request contract addresses when absent from genesis](https://github.com/besu-eth/besu/pull/11384#pullrequestreview-5350222221) - 2026-09-29
 * [Pull Request] [Rotate changelog for 26.9.0](https://github.com/besu-eth/besu/pull/11388) - 2026-09-29
+* [Review] [Review on: Close the remaining bad-chain gaps in backward sync and the Engine API](https://github.com/besu-eth/besu/pull/11373#pullrequestreview-5367491004) - 2026-09-30
+* [Review] [Review on: Accept upper-half uint64 targetGasLimit in engine_forkchoiceUpdatedV4](https://github.com/besu-eth/besu/pull/11389#pullrequestreview-5367559106) - 2026-09-30
+* [Pull Request] [Publish the jump destination analysis safely](https://github.com/besu-eth/besu/pull/11403) - 2026-09-30
+* [Pull Request] [Bound the cost of jump destination analysis](https://github.com/besu-eth/besu/pull/11400) - 2026-09-30
+* [Review] [Review on: Fetch block access lists during backward sync](https://github.com/besu-eth/besu/pull/11334#pullrequestreview-5366871179) - 2026-09-30
+* [Pull Request] [Serialize head moves with a shared head lock](https://github.com/besu-eth/besu/pull/11402) - 2026-09-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

@@ -250,8 +250,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 * [Review] [Review on: fix(flat): keep unanchored forks out of bulk snapshot conversion](https://github.com/NethermindEth/nethermind/pull/13997#pullrequestreview-5359941056) - 2026-09-30
 * [Review] [Review on: perf(flat): hold carry-forward slot reads in a fixed set-associative table](https://github.com/NethermindEth/nethermind/pull/14027#pullrequestreview-5349672731) - 2026-09-29
+* [Commit] [refactor(bal): drop parent state root plumbing from BlockAccessListManager (#14080)](https://github.com/NethermindEth/nethermind/commit/2cb4e9e655b695063557df2eb57312128941e88c) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8347: add extra write and computational load as a cost](https://github.com/ethereum/EIPs/pull/12392) - 2026-09-29
+* [Pull Request] [Update EIP-8347: tag PBT snapshot records instead of counting them](https://github.com/ethereum/EIPs/pull/12404) - 2026-09-30
+* [Review] [Review on: Update EIP-8347: tag PBT snapshot records instead of counting them](https://github.com/ethereum/EIPs/pull/12404#pullrequestreview-5365476348) - 2026-09-30
+* [Pull Request] [Update EIP-8347: move pbtRoot to the end of the snapshot](https://github.com/ethereum/EIPs/pull/12403) - 2026-09-30
+* [Commit] [Update EIP-8347: tag PBT snapshot records instead of counting them](https://github.com/ethereum/EIPs/commit/66daa41124581e4e839e89d71eb06b6cd4b1f9b8) - 2026-09-30
+* [Commit] [Update EIP-8347: move pbtRoot to the end of the snapshot](https://github.com/ethereum/EIPs/commit/cc0383aa331da1e618a601063327b2381e33bd38) - 2026-09-30
+* [Commit] [Update EIP-8347: add extra write and computational load as a cost](https://github.com/ethereum/EIPs/commit/85cd4908e472ec85885f129a833a5c77730299f8) - 2026-09-30
 ## Q2 2026
 
 

@@ -769,6 +769,32 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf: cache tracer flags per transaction in TransactionProcessor (#14002)](https://github.com/NethermindEth/nethermind/commit/79c48f829eef801520774f7a4f235dcf69c031e1) - 2026-09-29
 * [Commit] [test: make SnapshotableMemColumnsDb batches and snapshots atomic across columns (#14041)](https://github.com/NethermindEth/nethermind/commit/afbc6fa363b1a81e0b38dc662ba471b21c2cb855) - 2026-09-29
 * [Commit] [test(network): take the cheapest window in the NodeFilter allocation test (#14011)](https://github.com/NethermindEth/nethermind/commit/de17a1a837375b742b91c65527aa517a99ee87bc) - 2026-09-29
+* [Review] [Review on: fix(rpc): run blob calls without a positive blob fee cap at a zero blob base fee](https://github.com/NethermindEth/nethermind/pull/14092#pullrequestreview-5371930315) - 2026-09-30
+* [Review] [Review on: fix(rpc): reject a call object whose data and input differ](https://github.com/NethermindEth/nethermind/pull/14089#pullrequestreview-5371929556) - 2026-09-30
+* [Review] [Review on: feat(rpc): select a block by hash in trace_filter and reject hash bounds](https://github.com/NethermindEth/nethermind/pull/14111#pullrequestreview-5371931288) - 2026-09-30
+* [Review] [Review on: fix(tracing): select stored vmTrace like live replay](https://github.com/NethermindEth/nethermind/pull/14115#pullrequestreview-5371918775) - 2026-09-30
+* [Review] [Review on: fix(rpc): validate a trace_rawTransaction with block inclusion's checks](https://github.com/NethermindEth/nethermind/pull/14091#pullrequestreview-5371951456) - 2026-09-30
+* [Review] [Review on: perf(zkvm): keep jump bitmap offsets native-sized](https://github.com/NethermindEth/nethermind/pull/14129#pullrequestreview-5372259625) - 2026-09-30
+* [Review] [Review on: perf(zkvm): keep keccak memo slot arithmetic full-width](https://github.com/NethermindEth/nethermind/pull/14128#pullrequestreview-5372255655) - 2026-09-30
+* [Review] [Review on: test: assert memory and span contents with Is.SequenceEqualTo; code cache sizes as constants](https://github.com/NethermindEth/nethermind/pull/14119#pullrequestreview-5371386693) - 2026-09-30
+* [Review] [Review on: feat(zkevm): adopt tests-zkevm@v21.0.1](https://github.com/NethermindEth/nethermind/pull/14118#pullrequestreview-5369978505) - 2026-09-30
+* [Review] [Review on: fix(tracing): require canonical blocks for stored transaction traces](https://github.com/NethermindEth/nethermind/pull/14122#pullrequestreview-5371898167) - 2026-09-30
+* [Review] [Review on: fix(tracing): serve only recorded trace types from TraceStore](https://github.com/NethermindEth/nethermind/pull/14123#pullrequestreview-5371889061) - 2026-09-30
+* [Pull Request] [fix(engine): return invalid params for incomplete payloads outside the fork window](https://github.com/NethermindEth/nethermind/pull/14131) - 2026-09-30
+* [Review] [Review on: fix(engine): return invalid params for incomplete payloads outside the fork window](https://github.com/NethermindEth/nethermind/pull/14131#pullrequestreview-5372703826) - 2026-09-30
+* [Pull Request] [test(discovery): fix flaky E2EDiscoveryTests.TestDiscovery](https://github.com/NethermindEth/nethermind/pull/14126) - 2026-09-30
+* [Review] [Review on: test(discovery): fix flaky E2EDiscoveryTests.TestDiscovery](https://github.com/NethermindEth/nethermind/pull/14126#pullrequestreview-5371551887) - 2026-09-30
+* [Review] [Review on: ZiskGuest: Bump ZisK runtime and image to 1.3.1-alpha](https://github.com/NethermindEth/nethermind/pull/14127#pullrequestreview-5372243567) - 2026-09-30
+* [Review] [Review on: perf(zkvm): avoid narrowing multiply-fold intermediates](https://github.com/NethermindEth/nethermind/pull/14124#pullrequestreview-5371411125) - 2026-09-30
+* [Review] [Review on: fix(simulate): apply simulate overrides on the EIP-7928 per-transaction path](https://github.com/NethermindEth/nethermind/pull/14057#pullrequestreview-5364155388) - 2026-09-30
+* [Review] [Review on: docs(agents): agent reviews approve or comment, never request changes](https://github.com/NethermindEth/nethermind/pull/14116#pullrequestreview-5368942810) - 2026-09-30
+* [Review] [Review on: test(rpc): cover the resolved-code memo of eth_call end to end](https://github.com/NethermindEth/nethermind/pull/14121#pullrequestreview-5371419143) - 2026-09-30
+* [Review] [Review on: fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025#pullrequestreview-5366067231) - 2026-09-30
+* [Review] [Review on: perf: cut the cost of blocks that load many distinct large contracts](https://github.com/NethermindEth/nethermind/pull/14086#pullrequestreview-5365528754) - 2026-09-30
+* [Commit] [fix(engine): return invalid params for incomplete payloads outside the fork window (#14131)](https://github.com/NethermindEth/nethermind/commit/8813c9f509d5e6bb7a91878d45b17392210870f4) - 2026-09-30
+* [Commit] [perf(zkevm): cheaper SSZ merkleization and list decoding for the stateless guest (#13916)](https://github.com/NethermindEth/nethermind/commit/c7aef5588d33c3661ce71a133be02873046f4f46) - 2026-09-30
+* [Commit] [perf(zkevm): absorb Keccak-256 input straight into the precompile state (#13885)](https://github.com/NethermindEth/nethermind/commit/3c47278979731de2424aca50bd5485876564c37e) - 2026-09-30
+* [Commit] [fix(simulate): keep log indices of logs dropped by a revert, as geth does (#14062)](https://github.com/NethermindEth/nethermind/commit/5f21fdd22b52d7ee69fe7050571418bc8d05c0bd) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

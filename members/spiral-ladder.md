@@ -94,6 +94,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: add builder pending payments and withdrawals endpoints](https://github.com/ChainSafe/lodestar/pull/10189#pullrequestreview-5340307767) - 2026-09-28
 * [Pull Request] [refactor: drop underscore prefix from private fields](https://github.com/ChainSafe/lodestar/pull/10208) - 2026-09-29
 * [Commit] [refactor: drop underscore prefix from private fields (#10208)](https://github.com/ChainSafe/lodestar/commit/55c1d0c0d1dbd4a8cd7c3345ea389bc85a6e652b) - 2026-09-29
+* [Review] [Review on: test: isolate remaining beacon db test fixtures](https://github.com/ChainSafe/lodestar/pull/10219#pullrequestreview-5363154437) - 2026-09-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -307,6 +308,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bindings): preserve eth1 bigint values](https://github.com/ChainSafe/lodestar-z/pull/735#pullrequestreview-5349224942) - 2026-09-29
 * [Review] [Review on: refactor: iterate compact proof reconstruction](https://github.com/ChainSafe/lodestar-z/pull/684#pullrequestreview-5352979909) - 2026-09-29
 * [Review] [Review on: feat(metrics): track block transition steps](https://github.com/ChainSafe/lodestar-z/pull/737#pullrequestreview-5350340735) - 2026-09-29
+* [Review] [Review on: perf(state-transition): diff-synced flat validator cache](https://github.com/ChainSafe/lodestar-z/pull/736#pullrequestreview-5362644103) - 2026-09-30
+* [Review] [Review on: refactor: retain view roots last](https://github.com/ChainSafe/lodestar-z/pull/738#pullrequestreview-5363180355) - 2026-09-30
+* [Review] [Review on: fix: preserve pending view nodes](https://github.com/ChainSafe/lodestar-z/pull/740#pullrequestreview-5363905214) - 2026-09-30
+* [Review] [Review on: refactor: remove unused view reads](https://github.com/ChainSafe/lodestar-z/pull/739#pullrequestreview-5363897831) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

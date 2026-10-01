@@ -118,6 +118,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci(zkevm): simplify zkVM guest release versioning (#13775)](https://github.com/NethermindEth/nethermind/commit/79fea9fe2330725bb18f6626644b9b2606ea1203) - 2026-09-24
 * [Commit] [chore: replace version suffix with "preview" (#13773)](https://github.com/NethermindEth/nethermind/commit/ce501a9734ac0b39b5a5195fd93a5bf67ba9c161) - 2026-09-24
 * [Commit] [ci(zkevm): release SP1 and OpenVM guests alongside ZisK (#13769)](https://github.com/NethermindEth/nethermind/commit/5c2a2768fdac1930af35aadf609b61bc6f4af8ee) - 2026-09-24
+* [Pull Request] [feat(zkevm): adopt tests-zkevm@v21.0.1](https://github.com/NethermindEth/nethermind/pull/14118) - 2026-09-30
+* [Review] [Review on: fix(engine): return invalid params for incomplete payloads outside the fork window](https://github.com/NethermindEth/nethermind/pull/14131#pullrequestreview-5372667122) - 2026-09-30
+* [Review] [Review on: test(discovery): fix flaky E2EDiscoveryTests.TestDiscovery](https://github.com/NethermindEth/nethermind/pull/14126#pullrequestreview-5372676793) - 2026-09-30
+* [Review] [Review on: ZiskGuest: Bump ZisK runtime and image to 1.3.1-alpha](https://github.com/NethermindEth/nethermind/pull/14127#pullrequestreview-5371551516) - 2026-09-30
+* [Review] [Review on: docs(agents): agent reviews approve or comment, never request changes](https://github.com/NethermindEth/nethermind/pull/14116#pullrequestreview-5368451571) - 2026-09-30
+* [Review] [Review on: fix: align counting state provider code return types](https://github.com/NethermindEth/nethermind/pull/14120#pullrequestreview-5370585274) - 2026-09-30
+* [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions (#14090)](https://github.com/NethermindEth/nethermind/commit/79173d14db95c6607f17a1c9218c700c1d3869b1) - 2026-09-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

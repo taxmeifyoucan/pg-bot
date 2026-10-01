@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Commit] [perf(zkvm): keep keccak memo slot arithmetic full-width (#14128)](https://github.com/NethermindEth/nethermind/commit/3f2a4efeab9ed061b5f906030d04c649629d93af) - 2026-10-01
 ## Q3 2026
 
 
@@ -563,6 +568,22 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(flat): hold carry-forward slot reads in a fixed set-associative table](https://github.com/NethermindEth/nethermind/pull/14027#pullrequestreview-5349436778) - 2026-09-29
 * [Review] [Review on: fix(tracing): give a parity vmTrace frame operation its gas limit and receipt gasUsed](https://github.com/NethermindEth/nethermind/pull/14005#pullrequestreview-5349013606) - 2026-09-29
 * [Commit] [Update Nethermind.RocksDbBindings to 11.8.1-preview.140 (#14044)](https://github.com/NethermindEth/nethermind/commit/83c8d6cec184fbe82b23b09c1c1f76da7e953a6f) - 2026-09-29
+* [Pull Request] [perf(zkvm): keep jump bitmap offsets native-sized](https://github.com/NethermindEth/nethermind/pull/14129) - 2026-09-30
+* [Pull Request] [perf(zkvm): keep keccak memo slot arithmetic full-width](https://github.com/NethermindEth/nethermind/pull/14128) - 2026-09-30
+* [Pull Request] [test: assert memory and span contents with Is.SequenceEqualTo; code cache sizes as constants](https://github.com/NethermindEth/nethermind/pull/14119) - 2026-09-30
+* [Review] [Review on: feat(zkevm): adopt tests-zkevm@v21.0.1](https://github.com/NethermindEth/nethermind/pull/14118#pullrequestreview-5372930670) - 2026-09-30
+* [Review] [Review on: fix(engine): return invalid params for incomplete payloads outside the fork window](https://github.com/NethermindEth/nethermind/pull/14131#pullrequestreview-5372608376) - 2026-09-30
+* [Pull Request] [perf(zkvm): avoid narrowing multiply-fold intermediates](https://github.com/NethermindEth/nethermind/pull/14124) - 2026-09-30
+* [Pull Request] [docs(agents): agent reviews approve or comment, never request changes](https://github.com/NethermindEth/nethermind/pull/14116) - 2026-09-30
+* [Review] [Review on: fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025#pullrequestreview-5370309145) - 2026-09-30
+* [Review] [Review on: ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika](https://github.com/NethermindEth/nethermind/pull/14056#pullrequestreview-5370309437) - 2026-09-30
+* [Pull Request] [fix: align counting state provider code return types](https://github.com/NethermindEth/nethermind/pull/14120) - 2026-09-30
+* [Pull Request] [perf: cut the cost of blocks that load many distinct large contracts](https://github.com/NethermindEth/nethermind/pull/14086) - 2026-09-30
+* [Review] [Review on: perf: cut the cost of blocks that load many distinct large contracts](https://github.com/NethermindEth/nethermind/pull/14086#pullrequestreview-5365341592) - 2026-09-30
+* [Commit] [perf(zkvm): avoid narrowing multiply-fold intermediates (#14124)](https://github.com/NethermindEth/nethermind/commit/b2517bda0166ab648a95c3679601dfccac1bbb5b) - 2026-09-30
+* [Commit] [docs(agents): agent reviews approve or comment, never request changes (#14116)](https://github.com/NethermindEth/nethermind/commit/7480766a8eb2753323f032812b3b973b0e2c8dc4) - 2026-09-30
+* [Commit] [fix: align counting state provider code return types (#14120)](https://github.com/NethermindEth/nethermind/commit/40954fe88229f85bf4cb8efb83b2bb0cd5edb53a) - 2026-09-30
+* [Commit] [perf: cut the cost of blocks that load many distinct large contracts (#14086)](https://github.com/NethermindEth/nethermind/commit/922e86253d174f9a1031afc4cc58e5a13a570269) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

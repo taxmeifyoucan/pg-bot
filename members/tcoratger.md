@@ -695,6 +695,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(binary-field)!: NEON GF(2^64) and GF(2^192) packings, PMULL reduction, mask-matrix inversion](https://github.com/Plonky3/Plonky3/pull/2365#pullrequestreview-5352544287) - 2026-09-29
 * [Review] [Review on: chore(deps): bump the cargo group with 2 updates](https://github.com/Plonky3/Plonky3/pull/2367#pullrequestreview-5352325081) - 2026-09-29
 * [Commit] [perf(matrix,merkle-tree): hash adjacent rows in place (#2353)](https://github.com/Plonky3/Plonky3/commit/6468485fb84c876850922bc7dc614362e69cc205) - 2026-09-29
+* [Review] [Review on: fix(air,bus,multi-stark)!: bind periodic values into the transcript](https://github.com/Plonky3/Plonky3/pull/2381#pullrequestreview-5369383005) - 2026-09-30
+* [Pull Request] [test(blake2s): check against the official BLAKE2s known answers](https://github.com/Plonky3/Plonky3/pull/2382) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

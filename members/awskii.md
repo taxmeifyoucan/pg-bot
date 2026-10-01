@@ -686,6 +686,8 @@ Team: Erigon
 * [Review] [Review on: fix(rpc/jsonrpc): trace_filter rejects a bound past the head with -32602](https://github.com/erigontech/erigon/pull/24357#pullrequestreview-5347528579) - 2026-09-29
 * [Review] [Review on: rpc/jsonrpc: reject non-canonical block hash in erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/24358#pullrequestreview-5347531132) - 2026-09-29
 * [Review] [Review on: ci: re-enable trace rpc-tests fixed in v2.32.0](https://github.com/erigontech/erigon/pull/24378#pullrequestreview-5347535492) - 2026-09-29
+* [Pull Request] [execution/commitment/trie: drop orphaned v2 subtrie-loading layer](https://github.com/erigontech/erigon/pull/24434) - 2026-09-30
+* [Pull Request] [execution/commitment: warmup reads every branch on a key's path](https://github.com/erigontech/erigon/pull/24442) - 2026-09-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

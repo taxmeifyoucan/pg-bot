@@ -279,6 +279,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Remove the eth1exporter tool](https://github.com/OffchainLabs/prysm/pull/17581#pullrequestreview-5357068353) - 2026-09-29
 * [Review] [Review on: Remove the unencrypted-keys-gen and convert-keys interop tools](https://github.com/OffchainLabs/prysm/pull/17583#pullrequestreview-5357433889) - 2026-09-29
 * [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5357223581) - 2026-09-29
+* [Pull Request] [fixing builder auth hex](https://github.com/OffchainLabs/prysm/pull/17593) - 2026-09-30
+* [Review] [Review on: Fall back to Builder-API bids when the local payload is unavailable](https://github.com/OffchainLabs/prysm/pull/17080#pullrequestreview-5368905628) - 2026-09-30
+* [Review] [Review on: Gloas: keep payload status right with several beacon nodes](https://github.com/OffchainLabs/prysm/pull/17585#pullrequestreview-5367695330) - 2026-09-30
+* [Commit] [fixing builder auth hex (#17593)](https://github.com/OffchainLabs/prysm/commit/a32764072ed4b215c66cf2d1dd18ead919849e3d) - 2026-09-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `on_proposer_slashing` fork choice handler to Gloas](https://github.com/ethereum/consensus-specs/pull/5644#pullrequestreview-5223839240) - 2026-09-16
 ## Q2 2026

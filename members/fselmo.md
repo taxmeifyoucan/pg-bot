@@ -72,6 +72,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5358127861) - 2026-09-29
 * [Review] [Review on: fix(test-consume): run and check nethtest block tests in consume direct](https://github.com/ethereum/execution-specs/pull/3674#pullrequestreview-5356025635) - 2026-09-29
 * [Review] [Review on: perf(test-fixtures): spill large payload lists to disk](https://github.com/ethereum/execution-specs/pull/3648#pullrequestreview-5355851256) - 2026-09-29
+* [Review] [Review on: feat(tests): cover SYSTEM_ADDRESS accessed via delegation and withdrawal (EIP-7928)](https://github.com/ethereum/execution-specs/pull/3681#pullrequestreview-5372584347) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 * [Commit] [Update EIP-7928: Amend storage-read gas-feasibility check](https://github.com/ethereum/EIPs/commit/d2a64c2d4cc44f2f507577d0ebfb110dcc21d358) - 2026-09-09
@@ -79,6 +80,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix system calls in block access lists and contract creation](https://github.com/besu-eth/besu/pull/11397) - 2026-09-30
+* [Review] [Review on: Fix system calls in block access lists and contract creation](https://github.com/besu-eth/besu/pull/11397#pullrequestreview-5370576945) - 2026-09-30
 ## Q2 2026
 
 

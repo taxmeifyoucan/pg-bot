@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 ## Contributions
 
+## Q4 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Use payload envelope summaries for the head snapshot and block production](https://github.com/sigp/lighthouse/pull/10178) - 2026-10-01
 ## Q3 2026
 
 

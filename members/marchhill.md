@@ -562,6 +562,25 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Deflake the ProtocolHandlerBase runner-reuse allocation probes (#13635)](https://github.com/NethermindEth/nethermind/commit/e9e590d53a896d16b35ebbc64d3c71153611cccc) - 2026-09-29
 * [Commit] [feat(t8n): fill EIP-8141 frame transactions (#13498)](https://github.com/NethermindEth/nethermind/commit/553d472857d052dd64f593f265108bd6bdae86f6) - 2026-09-29
 * [Commit] [refactor(eip8141): compile frame-tx tracer hooks out when not tracing (#14000)](https://github.com/NethermindEth/nethermind/commit/912b87fa5bf9f1fc549345958b77b23e04974fa5) - 2026-09-29
+* [Pull Request] [fix(network): return pooled objects on RLP validation failures](https://github.com/NethermindEth/nethermind/pull/14113) - 2026-09-30
+* [Review] [Review on: test(eip8141): refresh campaign harness for soispoke v2](https://github.com/NethermindEth/nethermind/pull/13914#pullrequestreview-5365682346) - 2026-09-30
+* [Pull Request] [fix(txpool): wire frame prefix simulation into AuRa and XDC](https://github.com/NethermindEth/nethermind/pull/14110) - 2026-09-30
+* [Pull Request] [fix(tracing): forward frame receipts through nested receipt tracers](https://github.com/NethermindEth/nethermind/pull/14104) - 2026-09-30
+* [Pull Request] [fix(rpc): enforce frame estimate fork and gas cap](https://github.com/NethermindEth/nethermind/pull/14103) - 2026-09-30
+* [Review] [Review on: fix(focil): judge inclusion-list appendability per block gas dimension](https://github.com/NethermindEth/nethermind/pull/14055#pullrequestreview-5365449358) - 2026-09-30
+* [Review] [Review on: fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025#pullrequestreview-5366683187) - 2026-09-30
+* [Review] [Review on: ci: fail fast on machine types the runner cannot use, and drop convert_to_paprika](https://github.com/NethermindEth/nethermind/pull/14056#pullrequestreview-5369281676) - 2026-09-30
+* [Review] [Review on: fix: align counting state provider code return types](https://github.com/NethermindEth/nethermind/pull/14120#pullrequestreview-5370688930) - 2026-09-30
+* [Pull Request] [fix(eip7906): support per-topic TXDIFF views](https://github.com/NethermindEth/nethermind/pull/14109) - 2026-09-30
+* [Pull Request] [fix(txpool): reject expiry helper and no-op deploy prefixes](https://github.com/NethermindEth/nethermind/pull/14107) - 2026-09-30
+* [Pull Request] [fix(rpc): report frame simulation gas before refunds](https://github.com/NethermindEth/nethermind/pull/14105) - 2026-09-30
+* [Commit] [fix(engine): reject omitted or null payload fields on engine_newPayloadV3+ (#14025)](https://github.com/NethermindEth/nethermind/commit/e1dc5feea4527767be12d7e866e8dbdb2c3e6092) - 2026-09-30
+* [Commit] [perf(il): skip the keyed nonce scan when drawing an inclusion list (#13384)](https://github.com/NethermindEth/nethermind/commit/ae7462fa4207234f86a43c84d81b2db6bb4a01be) - 2026-09-30
+* [Commit] [test(focil): pin the sender reservoir's headroom over the inclusion-list byte cap (#13392)](https://github.com/NethermindEth/nethermind/commit/09e4a781f9705aaa96783b9748736b4bbed6b935) - 2026-09-30
+* [Commit] [test(focil): assert inclusionListSatisfied on the forkchoice response (#13411)](https://github.com/NethermindEth/nethermind/commit/77cab14d12184c107b0b8fcb762855a20cfc22d4) - 2026-09-30
+* [Commit] [fix(eth/70): stop receipt paging for blocks with unknown headers (#14018)](https://github.com/NethermindEth/nethermind/commit/5a9427dee74f87f19264569dc5f36f0b39e5a0c8) - 2026-09-30
+* [Commit] [docs(focil): explain fork-boundary sampling and cover empty buckets (#13383)](https://github.com/NethermindEth/nethermind/commit/f7fcb7ca3ea6fcf619b0a9ee8df8362fb42c36a3) - 2026-09-30
+* [Commit] [fix(engine): return unsupported fork for newPayloadV3/V4 outside their fork windows (#14024)](https://github.com/NethermindEth/nethermind/commit/c976f9a2b9300ecf986f2d9c13eeb13a252ca439) - 2026-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

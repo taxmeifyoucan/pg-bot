@@ -8,6 +8,12 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [execution/stagedsync, execution/state: refold and write only the slots whose value moved](https://github.com/erigontech/erigon/pull/24456) - 2026-10-01
+* [Review] [Review on: execution/stagedsync, execution/state: refold and write only the slots whose value moved](https://github.com/erigontech/erigon/pull/24456#pullrequestreview-5374094122) - 2026-10-01
 ## Q3 2026
 
 
@@ -1897,6 +1903,17 @@ Team: Erigon
 * [Review] [Review on: rpc: update traceBlock to use EIP-8037 gas used](https://github.com/erigontech/erigon/pull/24382#pullrequestreview-5348844814) - 2026-09-29
 * [Review] [Review on: execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events](https://github.com/erigontech/erigon/pull/24381#pullrequestreview-5348851515) - 2026-09-29
 * [Pull Request] [db/state/execctx: RPC latest-state reads use the state cache when no overlay is published](https://github.com/erigontech/erigon/pull/24389) - 2026-09-29
+* [Pull Request] [jsonstream: write hand-written hex fields with ethjson.Data](https://github.com/erigontech/erigon/pull/24440) - 2026-09-30
+* [Review] [Review on: db: mdbx autocompact on startup early ownership check and clarify passing uid:gid to docker](https://github.com/erigontech/erigon/pull/24439#pullrequestreview-5367181480) - 2026-09-30
+* [Pull Request] [common/hexutil: hex encoding by `simd`](https://github.com/erigontech/erigon/pull/24410) - 2026-09-30
+* [Review] [Review on: common/hexutil: hex encoding by `simd`](https://github.com/erigontech/erigon/pull/24410#pullrequestreview-5363130572) - 2026-09-30
+* [Pull Request] [execution/engineapi, rpc/jsonrpc: don't keep a pointer into another object's field](https://github.com/erigontech/erigon/pull/24425) - 2026-09-30
+* [Pull Request] [rpc/jsonstream: one concrete Stream type](https://github.com/erigontech/erigon/pull/24433) - 2026-09-30
+* [Review] [Review on: rpc/jsonstream: one concrete Stream type](https://github.com/erigontech/erigon/pull/24433#pullrequestreview-5367190988) - 2026-09-30
+* [Pull Request] [execution/vm: JUMPDEST analysis with `simd`](https://github.com/erigontech/erigon/pull/24411) - 2026-09-30
+* [Pull Request] [rpc/jsonstream: write quantity and data fields in one step](https://github.com/erigontech/erigon/pull/24428) - 2026-09-30
+* [Pull Request] [execution/vm: keep jumpDestCache within 64MB](https://github.com/erigontech/erigon/pull/24427) - 2026-09-30
+* [Commit] [execution/engineapi, rpc/jsonrpc: don't keep a pointer into another object's field (#24425)](https://github.com/erigontech/erigon/commit/e686a9864790503c7209f1728e8e67b555274ace) - 2026-09-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

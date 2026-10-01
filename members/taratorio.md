@@ -417,6 +417,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rpc: update traceBlock to use EIP-8037 gas used (#24382)](https://github.com/erigontech/erigon/commit/3e488e61e95a265fa0004a6ca942d5517b32e601) - 2026-09-29
 * [Commit] [execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events (#24381)](https://github.com/erigontech/erigon/commit/458f438025e1c0fa47e58f595c2107c27f475aad) - 2026-09-29
 * [Commit] [execution/tracing: no gasFunc gas mutations and initial create state charge in dynamicGas (#24370)](https://github.com/erigontech/erigon/commit/149465064b2c2c64b6aa942924e8947b7b824b00) - 2026-09-29
+* [Pull Request] [db: mdbx autocompact on startup early ownership check and clarify passing uid:gid to docker](https://github.com/erigontech/erigon/pull/24439) - 2026-09-30
+* [Review] [Review on: execution/engineapi, rpc/jsonrpc: don't keep a pointer into another object's field](https://github.com/erigontech/erigon/pull/24425#pullrequestreview-5365356875) - 2026-09-30
+* [Review] [Review on: execution: remove unused TraceJumpDest config](https://github.com/erigontech/erigon/pull/24424#pullrequestreview-5364534899) - 2026-09-30
+* [Commit] [db: mdbx autocompact on startup early ownership check and clarify passing uid:gid to docker (#24439)](https://github.com/erigontech/erigon/commit/d663b5cf5fb09fff9aba8e0281fa459500449ded) - 2026-09-30
+* [Commit] [execution: fix OOM due to builder GC retention (#24415)](https://github.com/erigontech/erigon/commit/8e7a343d1cfe24e0b811bf33925345aea67e32ab) - 2026-09-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -151,6 +151,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tooling): add consume-hive skill](https://github.com/ethereum/execution-specs/pull/3612#pullrequestreview-5359812457) - 2026-09-29
 * [Review] [Review on: feat(tests): cover EIP-2780 preparation halt after repeated and self-sponsored authorizations](https://github.com/ethereum/execution-specs/pull/3671#pullrequestreview-5359792020) - 2026-09-29
 * [Review] [Review on: fix(test-fill): fail collection of tests without a spec fixture](https://github.com/ethereum/execution-specs/pull/3672#pullrequestreview-5359533829) - 2026-09-29
+* [Review] [Review on: feat(test-specs, tests): tests for BAL parallel execution](https://github.com/ethereum/execution-specs/pull/3670#pullrequestreview-5372771902) - 2026-09-30
+* [Review] [Review on: feat(tests): extend EIP-7708, EIP-8024 and EIP-8037 coverage](https://github.com/ethereum/execution-specs/pull/3678#pullrequestreview-5372302025) - 2026-09-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23
