@@ -7,6 +7,39 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [fix(network): use 2 MiB BAL response soft limit](https://github.com/NethermindEth/nethermind/pull/14152) - 2026-10-01
+* [Pull Request] [fix(sync): preserve account wipes during BAL healing](https://github.com/NethermindEth/nethermind/pull/14156) - 2026-10-01
+* [Review] [Review on: fix(network): stop submitting a transaction message once an invalid transaction requests a disconnect](https://github.com/NethermindEth/nethermind/pull/14134#pullrequestreview-5382504499) - 2026-10-01
+* [Pull Request] [[release/2.0.0] Repay EIP-8037 spill after child return](https://github.com/NethermindEth/nethermind/pull/14160) - 2026-10-01
+* [Pull Request] [fix(test): use normal gas charging by default in EVM tracer](https://github.com/NethermindEth/nethermind/pull/14161) - 2026-10-01
+* [Pull Request] [Add finalized BAL catch-up with retained receipts](https://github.com/NethermindEth/nethermind/pull/14157) - 2026-10-01
+* [Review] [Review on: Add finalized BAL catch-up with retained receipts](https://github.com/NethermindEth/nethermind/pull/14157#pullrequestreview-5383169031) - 2026-10-01
+* [Pull Request] [feat: estimate and fill per-frame gas limits](https://github.com/NethermindEth/nethermind/pull/13912) - 2026-10-01
+* [Pull Request] [fix(txpool): reapply paymaster cap after head changes](https://github.com/NethermindEth/nethermind/pull/14155) - 2026-10-01
+* [Review] [Review on: fix(eip7906): support per-topic TXDIFF views](https://github.com/NethermindEth/nethermind/pull/14109#pullrequestreview-5378131661) - 2026-10-01
+* [Review] [Review on: fix(tracing): forward frame receipts through nested receipt tracers](https://github.com/NethermindEth/nethermind/pull/14104#pullrequestreview-5377914388) - 2026-10-01
+* [Review] [Review on: fix(eip8250): keep a higher existing NONCE_MANAGER nonce at activation](https://github.com/NethermindEth/nethermind/pull/14070#pullrequestreview-5377433032) - 2026-10-01
+* [Review] [Review on: fix(eip8250): align TXPARAM keyed-nonce indices with the spec](https://github.com/NethermindEth/nethermind/pull/14069#pullrequestreview-5377432481) - 2026-10-01
+* [Pull Request] [fix(rpc): enforce frame transaction activation during calls](https://github.com/NethermindEth/nethermind/pull/14154) - 2026-10-01
+* [Review] [Review on: test: drain deferred writes before corrupting the stored access list](https://github.com/NethermindEth/nethermind/pull/14148#pullrequestreview-5378128170) - 2026-10-01
+* [Review] [Review on: docs(agents): add zkevm skills](https://github.com/NethermindEth/nethermind/pull/14146#pullrequestreview-5378136959) - 2026-10-01
+* [Review] [Review on: docs(zkevm): move the OpenVM guest README into its project folder](https://github.com/NethermindEth/nethermind/pull/14150#pullrequestreview-5378128730) - 2026-10-01
+* [Commit] [feat: estimate and fill per-frame gas limits (#13912)](https://github.com/NethermindEth/nethermind/commit/c88b947b93d6781d3ed09f73592f7c66ba398743) - 2026-10-01
+* [Commit] [fix(focil): report inclusionListSatisfied for a head newPayloadV6 left unanswered (#13385)](https://github.com/NethermindEth/nethermind/commit/28cb277d85bf386a9f6bfb7521297ecd1055b6e5) - 2026-10-01
+* [Commit] [fix(eip7906): support per-topic TXDIFF views (#14109)](https://github.com/NethermindEth/nethermind/commit/af9299e7a15a71d2845bdf202fcc1f177a5b2d69) - 2026-10-01
+* [Commit] [fix(tracing): forward frame receipts through nested receipt tracers (#14104)](https://github.com/NethermindEth/nethermind/commit/7ee8a54da11059d16e7b8f1c2a412734f26d62a7) - 2026-10-01
+* [Commit] [fix(focil): judge inclusion-list appendability per block gas dimension (#14055)](https://github.com/NethermindEth/nethermind/commit/748063e95f85062c306ddcdbec312dde9359e3f7) - 2026-10-01
+* [Commit] [fix(rpc): enforce frame estimate fork and gas cap (#14103)](https://github.com/NethermindEth/nethermind/commit/a659c97e95c2180e124e84963d9207270cefdbf0) - 2026-10-01
+* [Commit] [fix(rpc): report frame simulation gas before refunds (#14105)](https://github.com/NethermindEth/nethermind/commit/6abc252c047b9649e74361c9aff0ddbcb249bfd7) - 2026-10-01
+* [Commit] [refactor(txpool): share the verify gas default constant (#14106)](https://github.com/NethermindEth/nethermind/commit/759efed7c787eb0f31ca7e321c4a9004ef82ba35) - 2026-10-01
+* [Commit] [fix(txpool): reject expiry helper and no-op deploy prefixes (#14107)](https://github.com/NethermindEth/nethermind/commit/307df4ee321850caea6231c287f3339ec34b64b3) - 2026-10-01
+* [Commit] [fix(txpool): reject unrecognized frame validation prefixes (#14108)](https://github.com/NethermindEth/nethermind/commit/a7fdb5332187ac0eed3f198a0b124007ddbffa36) - 2026-10-01
+* [Commit] [fix(txpool): wire frame prefix simulation into AuRa and XDC (#14110)](https://github.com/NethermindEth/nethermind/commit/1bfbc2296ddcfac3cd7b086099d7b1de92bbc5e3) - 2026-10-01
+* [Commit] [fix(network): return pooled objects on RLP validation failures (#14113)](https://github.com/NethermindEth/nethermind/commit/bb2fa9bcdf5867941aaff6c9003073eccafb048e) - 2026-10-01
 ## Q3 2026
 
 

@@ -8,6 +8,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Faster EXP with the 2-adic logarithm and exponential](https://github.com/besu-eth/besu/pull/11421) - 2026-10-01
+* [Review] [Review on: Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364#pullrequestreview-5379915608) - 2026-10-01
+* [Review] [Review on: Versioned code storage [1/3] Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363#pullrequestreview-5376392572) - 2026-10-01
 ## Q3 2026
 
 

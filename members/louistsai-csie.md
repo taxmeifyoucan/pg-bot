@@ -6,6 +6,22 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(client-clis): add besu frames exception mappings](https://github.com/ethereum/execution-specs/pull/3682#pullrequestreview-5375168770) - 2026-10-01
+* [Issue] [Hegota EIPs issue tracking](https://github.com/ethereum/execution-specs/issues/3685) - 2026-10-01
+* [Issue] [EIP-8279 Implementation Tracker: Block Access List Byte Floor](https://github.com/ethereum/execution-specs/issues/3695) - 2026-10-01
+* [Issue] [EIP-8272 Implementation Tracker: Recent Roots for Frame Transactions](https://github.com/ethereum/execution-specs/issues/3694) - 2026-10-01
+* [Issue] [EIP-8253 Implementation Tracker: Bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/issues/3693) - 2026-10-01
+* [Issue] [EIP-8250 Implementation Tracker: Keyed Nonces for Frame Transactions](https://github.com/ethereum/execution-specs/issues/3692) - 2026-10-01
+* [Issue] [EIP-8163 Implementation Tracker: Reserve `EXTENSION (0xae)` opcode](https://github.com/ethereum/execution-specs/issues/3691) - 2026-10-01
+* [Issue] [EIP-8131 Implementation Tracker: Unified Transaction Content Floor](https://github.com/ethereum/execution-specs/issues/3690) - 2026-10-01
+* [Issue] [EIP-7979 Implementation Tracker: Call and Return Opcodes for the EVM](https://github.com/ethereum/execution-specs/issues/3689) - 2026-10-01
+* [Issue] [EIP-7906 Implementation Tracker: Transaction Assertions via State Diff Opcode](https://github.com/ethereum/execution-specs/issues/3688) - 2026-10-01
+* [Issue] [EIP-7668 Implementation Tracker: Remove bloom filters](https://github.com/ethereum/execution-specs/issues/3687) - 2026-10-01
+* [Issue] [EIP-3298 Implementation Tracker: Remove storage-clear refund and refund cap](https://github.com/ethereum/execution-specs/issues/3686) - 2026-10-01
 ## Q3 2026
 
 

@@ -6,6 +6,14 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Commit] [ZiskGuest: Bump ZisK runtime and image to 1.3.1-alpha (#14127)](https://github.com/NethermindEth/nethermind/commit/c9298f6f97dd1c1bbab8a01738f58a77b439f4f1) - 2026-10-01
+
+[nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
+* [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 ## Q3 2026
 
 

@@ -8,6 +8,17 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5380295511) - 2026-10-01
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: specify multiplexer behavior for exchangeCapabilities](https://github.com/ethereum/execution-apis/pull/913) - 2026-10-01
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Keep ENR next_fork_version at a BPO fork](https://github.com/sigp/lighthouse/pull/10161#pullrequestreview-5385317189) - 2026-10-01
 ## Q3 2026
 
 

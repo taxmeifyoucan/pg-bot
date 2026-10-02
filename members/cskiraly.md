@@ -8,6 +8,11 @@ Team: Codex DAS
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [eth/catalyst: resolve unknown forkchoice heads in the background](https://github.com/ethereum/go-ethereum/pull/35864) - 2026-10-01
 ## Q3 2026
 
 

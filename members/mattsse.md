@@ -8,6 +8,20 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2026
+
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Review] [Review on: fix(revme): run EIP-4788 call before EIP-2935](https://github.com/bluealloy/revm/pull/3959#pullrequestreview-5381905003) - 2026-10-01
+* [Review] [Review on: ci: run devnet blockchain tests](https://github.com/bluealloy/revm/pull/3958#pullrequestreview-5381908434) - 2026-10-01
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: feat(tracing): support EIP-8141 frame transactions](https://github.com/paradigmxyz/reth/pull/27640#pullrequestreview-5386445964) - 2026-10-01
+* [Review] [Review on: feat(tracing): support EIP-8141 frame transactions](https://github.com/paradigmxyz/reth/pull/27639#pullrequestreview-5386443487) - 2026-10-01
+* [Review] [Review on: test(snap-sync): add cancelled repair resume test](https://github.com/paradigmxyz/reth/pull/27618#pullrequestreview-5378784943) - 2026-10-01
+* [Pull Request] [perf(rpc): share precompile cache with validation](https://github.com/paradigmxyz/reth/pull/27638) - 2026-10-01
+* [Review] [Review on: chore(ci): remove e2e-rocksdb and edge leftovers](https://github.com/paradigmxyz/reth/pull/27636#pullrequestreview-5381617099) - 2026-10-01
+* [Commit] [test(rpc): build TraceFilter with Default in rpc-builder test (#27624)](https://github.com/paradigmxyz/reth/commit/a369af110bc104e64ee81b8600b0cc3d8a97e46e) - 2026-10-01
 ## Q3 2026
 
 

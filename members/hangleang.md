@@ -7,6 +7,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 ## Contributions
 
+## Q4 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Implement Gloas builder flow from beacon-APIs](https://github.com/grandinetech/grandine/pull/948) - 2026-10-01
 ## Q3 2026
 
 

@@ -8,6 +8,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: rpc: _call and _gasEstimation to not produce logs](https://github.com/erigontech/erigon/pull/24473#pullrequestreview-5385237744) - 2026-10-01
+* [Pull Request] [node: add in-use metrics for the RPC compressor pools](https://github.com/erigontech/erigon/pull/24412) - 2026-10-01
+* [Review] [Review on: node: add in-use metrics for the RPC compressor pools](https://github.com/erigontech/erigon/pull/24412#pullrequestreview-5384709438) - 2026-10-01
+* [Commit] [node: add in-use metrics for the RPC compressor pools (#24412)](https://github.com/erigontech/erigon/commit/6bfdad5404e129c5d757103d720152f2d8e33a3d) - 2026-10-01
+* [Commit] [rpc/ethapi, rpc/jsonrpc: reject a call object whose chainId is not the node's (#24414)](https://github.com/erigontech/erigon/commit/18d9de8798c2df9fb9718eb339b8beaf7d348b1b) - 2026-10-01
 ## Q3 2026
 
 

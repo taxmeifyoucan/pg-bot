@@ -15,6 +15,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: init BeaconStateView from state bytes](https://github.com/ChainSafe/lodestar/pull/10227) - 2026-10-01
 * [Pull Request] [refactor(cli): init BeaconState](https://github.com/ChainSafe/lodestar/pull/10200) - 2026-10-01
 * [Commit] [refactor(cli): init BeaconState (#10200)](https://github.com/ChainSafe/lodestar/commit/9c3f7bebe976443525cae9013f69d68ea06826c8) - 2026-10-01
+* [Review] [Review on: fix: fall back to db and check fork for unfinalized checkpoint states](https://github.com/ChainSafe/lodestar/pull/10230#pullrequestreview-5377519799) - 2026-10-01
+* [Review] [Review on: chore: remove dead `forceGenesis` flag](https://github.com/ChainSafe/lodestar/pull/10231#pullrequestreview-5377928988) - 2026-10-01
+* [Review] [Review on: fix: reject checkpoint sync state with mismatching fork](https://github.com/ChainSafe/lodestar/pull/10228#pullrequestreview-5377330883) - 2026-10-01
+* [Commit] [fix: removeAndDownScoreAllDescendants of unknown sync (#10221)](https://github.com/ChainSafe/lodestar/commit/fef46df5ba4afab225b44f1f90d80c39dbf3de24) - 2026-10-01
+* [Commit] [fix: init BeaconStateView from state bytes (#10227)](https://github.com/ChainSafe/lodestar/commit/53ad0a2af7faa0a2456bbd14ace504b4b2ff3ab1) - 2026-10-01
 ## Q3 2026
 
 

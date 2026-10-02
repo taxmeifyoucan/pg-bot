@@ -8,6 +8,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535#pullrequestreview-5382277723) - 2026-10-01
+* [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380253897) - 2026-10-01
 ## Q3 2026
 
 

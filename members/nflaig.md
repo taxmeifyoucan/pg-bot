@@ -8,6 +8,39 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: refactor(builder): share one beacon event subscription](https://github.com/ChainSafe/lodestar/pull/10064#pullrequestreview-5386526509) - 2026-10-01
+* [Review] [Review on: feat(builder): publish stateless payload envelopes](https://github.com/ChainSafe/lodestar/pull/9982#pullrequestreview-5385935781) - 2026-10-01
+* [Review] [Review on: feat(builder): publish execution payload bids](https://github.com/ChainSafe/lodestar/pull/9979#pullrequestreview-5383071704) - 2026-10-01
+* [Pull Request] [test: add `initBeaconState` unit tests](https://github.com/ChainSafe/lodestar/pull/10233) - 2026-10-01
+* [Review] [Review on: test: add `initBeaconState` unit tests](https://github.com/ChainSafe/lodestar/pull/10233#pullrequestreview-5380113311) - 2026-10-01
+* [Review] [Review on: fix: replace latest messages by slot from gloas](https://github.com/ChainSafe/lodestar/pull/10128#pullrequestreview-5375583522) - 2026-10-01
+* [Pull Request] [fix: fall back to db and check fork for unfinalized checkpoint states](https://github.com/ChainSafe/lodestar/pull/10230) - 2026-10-01
+* [Pull Request] [chore: remove dead `forceGenesis` flag](https://github.com/ChainSafe/lodestar/pull/10231) - 2026-10-01
+* [Review] [Review on: chore: remove dead `forceGenesis` flag](https://github.com/ChainSafe/lodestar/pull/10231#pullrequestreview-5377172778) - 2026-10-01
+* [Pull Request] [chore: remove project board automation](https://github.com/ChainSafe/lodestar/pull/10232) - 2026-10-01
+* [Review] [Review on: fix: verify the proposer signature before retaining unknown parent gossip blocks](https://github.com/ChainSafe/lodestar/pull/10087#pullrequestreview-5377714020) - 2026-10-01
+* [Pull Request] [fix: reject checkpoint sync state with mismatching fork](https://github.com/ChainSafe/lodestar/pull/10228) - 2026-10-01
+* [Review] [Review on: fix: init BeaconStateView from state bytes](https://github.com/ChainSafe/lodestar/pull/10227#pullrequestreview-5375440248) - 2026-10-01
+* [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5376623355) - 2026-10-01
+* [Review] [Review on: fix(archive): prune by block and payload level data](https://github.com/ChainSafe/lodestar/pull/10022#pullrequestreview-5375815594) - 2026-10-01
+* [Review] [Review on: feat: persist pubkey cache across restarts](https://github.com/ChainSafe/lodestar/pull/10152#pullrequestreview-5375703863) - 2026-10-01
+* [Review] [Review on: fix: removeAndDownScoreAllDescendants of unknown sync](https://github.com/ChainSafe/lodestar/pull/10221#pullrequestreview-5375515470) - 2026-10-01
+* [Commit] [test: add `initBeaconState` unit tests (#10233)](https://github.com/ChainSafe/lodestar/commit/2e668c516f40cea30155d891227ebc2cbb4581b9) - 2026-10-01
+* [Commit] [fix: fall back to db and check fork for unfinalized checkpoint states (#10230)](https://github.com/ChainSafe/lodestar/commit/ece0239bd3e6355b76f686f523515d3520a6e4f0) - 2026-10-01
+* [Commit] [chore: remove dead `forceGenesis` flag (#10231)](https://github.com/ChainSafe/lodestar/commit/ab72db8f34830cb9f785e85a14bea07d31332dba) - 2026-10-01
+* [Commit] [fix: reject checkpoint sync state with mismatching fork (#10228)](https://github.com/ChainSafe/lodestar/commit/a4451e41c8358d07d7facf1e1a49361e75d09b10) - 2026-10-01
+* [Commit] [fix: track slashing signature domains across forks (#10217)](https://github.com/ChainSafe/lodestar/commit/d86161f63c3adf1b377e7c15f189c508969760f5) - 2026-10-01
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
+* [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 ## Q3 2026
 
 

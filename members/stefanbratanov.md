@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 ## Contributions
 
+## Q4 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Hidden option to disable considering p2p bids for block proposal](https://github.com/Consensys-Incorporated/teku/pull/11386) - 2026-10-01
 ## Q3 2026
 
 

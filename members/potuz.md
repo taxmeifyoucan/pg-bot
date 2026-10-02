@@ -8,6 +8,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 ## Contributions
 
+## Q4 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5379475015) - 2026-10-01
+* [Pull Request] [Use EL validation instead of Forkchoice for optimistic status of incoming payload](https://github.com/OffchainLabs/prysm/pull/17600) - 2026-10-01
 ## Q3 2026
 
 

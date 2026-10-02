@@ -6,6 +6,20 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: chore: remove dead `forceGenesis` flag](https://github.com/ChainSafe/lodestar/pull/10231#pullrequestreview-5378183117) - 2026-10-01
+* [Review] [Review on: fix(archive): prune by block and payload level data](https://github.com/ChainSafe/lodestar/pull/10022#pullrequestreview-5375930517) - 2026-10-01
+* [Review] [Review on: feat: persist pubkey cache across restarts](https://github.com/ChainSafe/lodestar/pull/10152#pullrequestreview-5375777147) - 2026-10-01
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
+* [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
+* [Pull Request] [fix(ssz): clear borrowed roots after failed commit](https://github.com/ChainSafe/lodestar-z/pull/748) - 2026-10-01
+* [Review] [Review on: refactor: migrate deprecated zig std APIs](https://github.com/ChainSafe/lodestar-z/pull/742#pullrequestreview-5374910026) - 2026-10-01
+* [Review] [Review on: chore(deps): bump hashtree revision](https://github.com/ChainSafe/lodestar-z/pull/743#pullrequestreview-5374900518) - 2026-10-01
 ## Q3 2026
 
 

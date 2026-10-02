@@ -16,6 +16,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Merge v8.2.3 into unstable](https://github.com/sigp/lighthouse/pull/10180) - 2026-10-01
 * [Pull Request] [Release v8.2.3](https://github.com/sigp/lighthouse/pull/10179) - 2026-10-01
 * [Commit] [Release v8.2.3](https://github.com/sigp/lighthouse/commit/6db6ae9382b7d6f5bd1e0ca0d349bc0dc94adba2) - 2026-10-01
+* [Review] [Review on: Remove redundant todo](https://github.com/sigp/lighthouse/pull/10195#pullrequestreview-5387427242) - 2026-10-02
+* [Review] [Review on: Add documentation for fast confirmation rule](https://github.com/sigp/lighthouse/pull/10183#pullrequestreview-5375369386) - 2026-10-01
 ## Q3 2026
 
 

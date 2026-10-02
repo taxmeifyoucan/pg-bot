@@ -8,6 +8,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: test: add `initBeaconState` unit tests](https://github.com/ChainSafe/lodestar/pull/10233#pullrequestreview-5380302993) - 2026-10-01
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
+* [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
 ## Q3 2026
 
 

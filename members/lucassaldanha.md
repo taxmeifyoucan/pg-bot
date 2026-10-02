@@ -19,8 +19,24 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Speed up slow property tests (#11380)](https://github.com/Consensys-Incorporated/teku/commit/8f45734447952d853c6607b7713bb3f6184c5fbe) - 2026-10-01
 * [Commit] [Replace deprecated log4j builder calls (#11378)](https://github.com/Consensys-Incorporated/teku/commit/d9ee6e0aa9fd67c8b2950a50d46852a5396ca581) - 2026-10-01
 
+* [Pull Request] [Fetch tags in the publish jobs so develop artifacts carry a real version](https://github.com/Consensys-Incorporated/teku/pull/11390) - 2026-10-01
+* [Pull Request] [Speed up CI: prebuilt Docker image, reference tests in assemble, single-tarball artifact, split slow DAS test, faster CodeQL](https://github.com/Consensys-Incorporated/teku/pull/11385) - 2026-10-01
+* [Review] [Review on: Speed up CI: prebuilt Docker image, reference tests in assemble, single-tarball artifact, split slow DAS test, faster CodeQL](https://github.com/Consensys-Incorporated/teku/pull/11385#pullrequestreview-5377693209) - 2026-10-01
+* [Pull Request] [Breaking test to see how it looks in the report](https://github.com/Consensys-Incorporated/teku/pull/11389) - 2026-10-01
+* [Pull Request] [Merge JUnit XML per shard before uploading test reports](https://github.com/Consensys-Incorporated/teku/pull/11384) - 2026-10-01
+* [Pull Request] [Publish test reports as check runs from a workflow_run workflow](https://github.com/Consensys-Incorporated/teku/pull/11383) - 2026-10-01
+* [Issue] [Imported slashing protection for a loaded key is overwritten by the cached signing record](https://github.com/Consensys-Incorporated/teku/issues/11388) - 2026-10-01
+* [Commit] [Fetch tags in the publish jobs so develop artifacts carry a real version (#11390)](https://github.com/Consensys-Incorporated/teku/commit/9a71af29512517b98b46ab461fe9a7d9ff3265b0) - 2026-10-02
+* [Commit] [Speed up CI: prebuilt Docker image, reference tests in assemble, single-tarball artifact, split slow DAS test, faster CodeQL (#11385)](https://github.com/Consensys-Incorporated/teku/commit/802d5a8414e13812ea9cfba1bb302e1a5bb1eecc) - 2026-10-01
+* [Commit] [Merge JUnit XML per shard before uploading test reports (#11384)](https://github.com/Consensys-Incorporated/teku/commit/fdb9b9f4e979fdf54664086fe35cc2cd1836afea) - 2026-10-01
+* [Commit] [Publish test reports as check runs from a workflow_run workflow (#11383)](https://github.com/Consensys-Incorporated/teku/commit/fd1b844e146a61d6c62630b3f6b83e38be172055) - 2026-10-01
+* [Commit] [Remove Gradle workers.max=4 cap from CI (#11382)](https://github.com/Consensys-Incorporated/teku/commit/6f246728e20b0e45aeb13577c1ff7e132b89850f) - 2026-10-01
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
+* [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Commit] [Merge pull request #533 from lucassaldanha/gossip-metrics-hooks](https://github.com/libp2p/jvm-libp2p/commit/491163cb5917bff58b03b4c6a649caf508652898) - 2026-10-02
 ## Q3 2026
 
 

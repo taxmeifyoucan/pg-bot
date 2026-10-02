@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 ## Contributions
 
+## Q4 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [8995 focil beacon apis](https://github.com/Consensys-Incorporated/teku/pull/11387) - 2026-10-01
 ## Q3 2026
 
 

@@ -13,6 +13,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Use payload envelope summaries for the head snapshot and block production](https://github.com/sigp/lighthouse/pull/10178) - 2026-10-01
+* [Pull Request] [Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189) - 2026-10-01
+* [Pull Request] [Fix PTC duties at the Gloas fork boundary](https://github.com/sigp/lighthouse/pull/10193) - 2026-10-01
+* [Pull Request] [Fix Gloas payload_received on failed envelope import](https://github.com/sigp/lighthouse/pull/10194) - 2026-10-01
+* [Pull Request] [Import the checkpoint sync anchor payload envelope at startup](https://github.com/sigp/lighthouse/pull/10190) - 2026-10-01
+* [Review] [Review on: Add inclusion_list_bits to ExecutionPayloadBid](https://github.com/sigp/lighthouse/pull/9729#pullrequestreview-5383793849) - 2026-10-01
+* [Pull Request] [Use payload envelope summary in head snapshot and block production](https://github.com/sigp/lighthouse/pull/10187) - 2026-10-01
 ## Q3 2026
 
 

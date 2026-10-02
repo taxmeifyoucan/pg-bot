@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 ## Contributions
 
+## Q4 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Remove Gradle workers.max=4 cap from CI](https://github.com/Consensys-Incorporated/teku/pull/11382#pullrequestreview-5376174225) - 2026-10-01
+* [Review] [Review on: Publish test reports as check runs from a workflow_run workflow](https://github.com/Consensys-Incorporated/teku/pull/11383#pullrequestreview-5376504009) - 2026-10-01
 ## Q3 2026
 
 

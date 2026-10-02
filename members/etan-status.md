@@ -8,6 +8,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Yee/decentralized checkpoint http consumer](https://github.com/sigp/lighthouse/pull/10140#pullrequestreview-5377554369) - 2026-10-01
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Store full finalized_checkpoint in CachedLightClientData](https://github.com/status-im/nimbus-eth2/pull/9161) - 2026-10-01
+* [Review] [Review on: Preserve negative peer score across reconnections](https://github.com/status-im/nimbus-eth2/pull/8446#pullrequestreview-5379557227) - 2026-10-01
+* [Review] [Review on: VC: Fix rare assertion crash because of incorrect BN response.](https://github.com/status-im/nimbus-eth2/pull/9157#pullrequestreview-5375754422) - 2026-10-01
 ## Q3 2026
 
 

@@ -8,6 +8,14 @@ Team: Geth
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8141: use max_fee to bound cost](https://github.com/ethereum/EIPs/pull/12414) - 2026-10-01
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 ## Q3 2026
 
 

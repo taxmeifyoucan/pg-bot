@@ -8,6 +8,16 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7928: clarify empty BAL conditions](https://github.com/ethereum/EIPs/pull/12416#pullrequestreview-5387671314) - 2026-10-02
+* [Review] [Review on: Update EIP-7928: clarify warm `SELFDESTRUCT` beneficiary access cost](https://github.com/ethereum/EIPs/pull/12408#pullrequestreview-5383154670) - 2026-10-01
+* [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5385380175) - 2026-10-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380765838) - 2026-10-01
 ## Q3 2026
 
 

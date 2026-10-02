@@ -13,6 +13,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Remove pfx from cached account and storage leaves (#4878)](https://github.com/status-im/nimbus-eth1/commit/388e495ef224d7ac483e4e2c2a034ede7b1139aa) - 2026-10-01
+* [Pull Request] [Avoid allocation when fetching cached accounts](https://github.com/status-im/nimbus-eth1/pull/4888) - 2026-10-02
+* [Pull Request] [Make leaf cache sizes configurable](https://github.com/status-im/nimbus-eth1/pull/4880) - 2026-10-01
+* [Commit] [Make leaf cache sizes configurable (#4880)](https://github.com/status-im/nimbus-eth1/commit/f249c631650187b5b0abe7ee4931e7c7af041c49) - 2026-10-01
 ## Q3 2026
 
 

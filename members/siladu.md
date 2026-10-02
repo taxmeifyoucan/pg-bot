@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Bump jackson-bom from 2.21.5 to 2.21.6](https://github.com/besu-eth/besu/pull/11396#pullrequestreview-5387247763) - 2026-10-02
 ## Q3 2026
 
 

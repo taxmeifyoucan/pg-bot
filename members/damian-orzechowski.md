@@ -8,6 +8,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix(eip8250): keep a higher existing NONCE_MANAGER nonce at activation](https://github.com/NethermindEth/nethermind/pull/14070#pullrequestreview-5377722535) - 2026-10-01
+* [Review] [Review on: fix(eip8250): align TXPARAM keyed-nonce indices with the spec](https://github.com/NethermindEth/nethermind/pull/14069#pullrequestreview-5377800218) - 2026-10-01
 ## Q3 2026
 
 

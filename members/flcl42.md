@@ -8,6 +8,17 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Bind JSON-RPC host names to their resolved addresses](https://github.com/NethermindEth/nethermind/pull/13746#pullrequestreview-5378087517) - 2026-10-01
+* [Pull Request] [Honor discv4 Ping forward compatibility](https://github.com/NethermindEth/nethermind/pull/14151) - 2026-10-01
+* [Issue] [BAL healing loses an account wipe when a storage-bearing payer is revived in one chunk](https://github.com/NethermindEth/nethermind/issues/14145) - 2026-10-01
+* [Issue] [eth/71 BAL responses use a 10 MiB soft limit despite EIP-8159 guidance](https://github.com/NethermindEth/nethermind/issues/14144) - 2026-10-01
+* [Issue] [Parity chainspec omits genesis requests_hash when only EIP-8282 is active](https://github.com/NethermindEth/nethermind/issues/14143) - 2026-10-01
+* [Issue] [TxPool retains excess frame transactions after a pay target becomes noncanonical](https://github.com/NethermindEth/nethermind/issues/14142) - 2026-10-01
+* [Issue] [eth_call executes frame transactions before EIP-8141 activation](https://github.com/NethermindEth/nethermind/issues/14141) - 2026-10-01
 ## Q3 2026
 
 

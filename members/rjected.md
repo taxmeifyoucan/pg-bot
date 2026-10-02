@@ -8,6 +8,11 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(evm): support context and shared dispatch for native calls](https://github.com/paradigmxyz/reth/pull/27642) - 2026-10-01
 ## Q3 2026
 
 

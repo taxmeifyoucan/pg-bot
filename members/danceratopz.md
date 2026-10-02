@@ -8,6 +8,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(client-clis): add besu frames exception mappings](https://github.com/ethereum/execution-specs/pull/3682#pullrequestreview-5378647867) - 2026-10-01
+* [Review] [Review on: feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665#pullrequestreview-5378844799) - 2026-10-01
+* [Review] [Review on: feat(tooling): add consume-hive skill](https://github.com/ethereum/execution-specs/pull/3612#pullrequestreview-5378297335) - 2026-10-01
+* [Issue] [CI fails on PRs into eips/amsterdam/eip-8141 because Bogota has no spec fork](https://github.com/ethereum/execution-specs/issues/3684) - 2026-10-01
+* [Commit] [feat(tooling): add consume-hive skill (#3612)](https://github.com/ethereum/execution-specs/commit/8667dacd68b65e0a80d548bd8ae81dc0e5b7b2b7) - 2026-10-01
 ## Q3 2026
 
 

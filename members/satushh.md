@@ -6,6 +6,12 @@ Github: [@satushh](https://github.com/satushh)
 
 ## Contributions
 
+## Q4 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Never reorg when PROPOSER_REORG_CUTOFF_BPS cannot fit within the slot](https://github.com/OffchainLabs/prysm/pull/17598) - 2026-10-01
+* [Pull Request] [Derive late-block reorg timing from PROPOSER_REORG_CUTOFF_BPS](https://github.com/OffchainLabs/prysm/pull/17594) - 2026-10-01
 ## Q3 2026
 
 

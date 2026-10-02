@@ -8,6 +8,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 
 ## Contributions
 
+## Q4 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Optional payload storage](https://github.com/grandinetech/grandine/pull/949) - 2026-10-01
 ## Q3 2026
 
 

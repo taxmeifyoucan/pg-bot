@@ -8,6 +8,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 ## Contributions
 
+## Q4 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559#pullrequestreview-5385876796) - 2026-10-01
+* [Review] [Review on: Apply gossip clock disparity to Gloas payload attestation, bid, and proposer preferences slot checks](https://github.com/OffchainLabs/prysm/pull/17576#pullrequestreview-5385589926) - 2026-10-01
+* [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5383864482) - 2026-10-01
+* [Pull Request] [make sure fallback in keymanager uses gas limit schedule](https://github.com/OffchainLabs/prysm/pull/17601) - 2026-10-01
 ## Q3 2026
 
 

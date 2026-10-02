@@ -8,6 +8,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [execution/state, execution/vm: read callee code and code hash together (#24429)](https://github.com/erigontech/erigon/commit/b7a17e7df0ffbc5266a7d494068123580365bf10) - 2026-10-01
 ## Q3 2026
 
 

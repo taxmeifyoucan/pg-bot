@@ -8,6 +8,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [feat(cannon): add Gloas beacon state derivers](https://github.com/ethpandaops/xatu/pull/895) - 2026-10-01
+* [Pull Request] [feat(cannon): Gloas builder execution requests and per-block BAL summary derivers](https://github.com/ethpandaops/xatu/pull/894) - 2026-10-01
+* [Pull Request] [fix(cannon): stream block access list epochs in bounded batches](https://github.com/ethpandaops/xatu/pull/893) - 2026-10-01
+* [Commit] [feat(cannon): add Gloas beacon state derivers (#895)](https://github.com/ethpandaops/xatu/commit/3e95e6c4457abbe4b9fc44b69760162f9ac2743e) - 2026-10-01
+* [Commit] [feat(cannon): Gloas builder execution requests and per-block BAL summary derivers (#894)](https://github.com/ethpandaops/xatu/commit/2f1b1908615b7b3d4f08c2c972063f5f751f56a7) - 2026-10-01
+* [Commit] [fix(cannon): stream block access list epochs in bounded batches (#893)](https://github.com/ethpandaops/xatu/commit/4af83a8977405f9c00966608d534aaf848f631fb) - 2026-10-01
 ## Q3 2026
 
 

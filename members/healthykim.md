@@ -6,6 +6,11 @@ Github: [@healthykim](https://github.com/healthykim)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [eth: fix cells response to use index major](https://github.com/ethereum/go-ethereum/pull/35860) - 2026-10-01
 ## Q3 2026
 
 

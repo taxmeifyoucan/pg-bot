@@ -8,6 +8,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix: preserve RPC gas cap error when estimating frame limits](https://github.com/NethermindEth/nethermind/pull/14166#pullrequestreview-5386905032) - 2026-10-01
+* [Review] [Review on: fix(network): stop submitting a transaction message once an invalid transaction requests a disconnect](https://github.com/NethermindEth/nethermind/pull/14134#pullrequestreview-5377512442) - 2026-10-01
+* [Review] [Review on: perf(evm): reuse child call frames per depth instead of the thread-static pools](https://github.com/NethermindEth/nethermind/pull/14139#pullrequestreview-5377438375) - 2026-10-01
+* [Review] [Review on: fix(eip7906): support per-topic TXDIFF views](https://github.com/NethermindEth/nethermind/pull/14109#pullrequestreview-5377581710) - 2026-10-01
+* [Review] [Review on: fix(tracing): forward frame receipts through nested receipt tracers](https://github.com/NethermindEth/nethermind/pull/14104#pullrequestreview-5377699967) - 2026-10-01
+* [Review] [Review on: fix(eip8250): keep a higher existing NONCE_MANAGER nonce at activation](https://github.com/NethermindEth/nethermind/pull/14070#pullrequestreview-5375564753) - 2026-10-01
+* [Review] [Review on: fix(eip8250): align TXPARAM keyed-nonce indices with the spec](https://github.com/NethermindEth/nethermind/pull/14069#pullrequestreview-5375568996) - 2026-10-01
+* [Review] [Review on: fix(rpc): enforce frame estimate fork and gas cap](https://github.com/NethermindEth/nethermind/pull/14103#pullrequestreview-5380683816) - 2026-10-01
+* [Review] [Review on: fix(rpc): code written during a call replaces a stateOverride code override](https://github.com/NethermindEth/nethermind/pull/14114#pullrequestreview-5377626693) - 2026-10-01
+* [Pull Request] [test: drain deferred writes before corrupting the stored access list](https://github.com/NethermindEth/nethermind/pull/14148) - 2026-10-01
+* [Review] [Review on: docs(agents): add zkevm skills](https://github.com/NethermindEth/nethermind/pull/14146#pullrequestreview-5378371639) - 2026-10-01
+* [Review] [Review on: docs(zkevm): move the OpenVM guest README into its project folder](https://github.com/NethermindEth/nethermind/pull/14150#pullrequestreview-5378372852) - 2026-10-01
+* [Commit] [test: drain deferred writes before corrupting the stored access list (#14148)](https://github.com/NethermindEth/nethermind/commit/3d144dff4ee9d57128c263a764c61fa8ea15ac55) - 2026-10-01
+* [Commit] [test(discovery): fix flaky E2EDiscoveryTests.TestDiscovery (#14126)](https://github.com/NethermindEth/nethermind/commit/80f4e681a7c4049f39b64f8bd85986a5eb869ddf) - 2026-10-01
 ## Q3 2026
 
 

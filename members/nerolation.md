@@ -8,6 +8,16 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7928: clarify warm `SELFDESTRUCT` beneficiary access cost](https://github.com/ethereum/EIPs/pull/12408#pullrequestreview-5382999480) - 2026-10-01
+* [Pull Request] [Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415) - 2026-10-01
+* [Pull Request] [Update EIP-7928: Update size numbers](https://github.com/ethereum/EIPs/pull/12410) - 2026-10-01
+* [Pull Request] [Update EIP-7928: add updated 60M gas size analysis with recent blocks](https://github.com/ethereum/EIPs/pull/12409) - 2026-10-01
+* [Commit] [Update EIP-7928: Update size numbers](https://github.com/ethereum/EIPs/commit/943f8d14e39ef91d96f79b0dde32ccafdd58e7db) - 2026-10-01
+* [Commit] [Update EIP-7928: add updated 60M gas size analysis with recent blocks](https://github.com/ethereum/EIPs/commit/c7ee5edac598e22f65c3a5de711bd938262c63f0) - 2026-10-01
 ## Q3 2026
 
 

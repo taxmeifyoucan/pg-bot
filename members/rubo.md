@@ -8,6 +8,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat: migrate to .NET 11 ](https://github.com/NethermindEth/nethermind/pull/14147) - 2026-10-01
+* [Pull Request] [docs(agents): add zkevm skills](https://github.com/NethermindEth/nethermind/pull/14146) - 2026-10-01
+* [Pull Request] [docs(zkevm): move the OpenVM guest README into its project folder](https://github.com/NethermindEth/nethermind/pull/14150) - 2026-10-01
+* [Commit] [docs(agents): add zkevm skills (#14146)](https://github.com/NethermindEth/nethermind/commit/85144af753cc530061da96e3f26b34ead5bdfb08) - 2026-10-01
+* [Commit] [docs(zkevm): move the OpenVM guest README into its project folder (#14150)](https://github.com/NethermindEth/nethermind/commit/b7bf505ab050ebcf419c06fc8b4df114d3e45946) - 2026-10-01
+* [Commit] [feat(zkevm): adopt tests-zkevm@v21.0.1 (#14118)](https://github.com/NethermindEth/nethermind/commit/06bd7443f0571446b0e0b7f5579ffa14fec32ad3) - 2026-10-01
 ## Q3 2026
 
 

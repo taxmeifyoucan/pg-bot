@@ -8,6 +8,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [Bump plugin API baseline to 26.9.0 (#11377)](https://github.com/besu-eth/besu/commit/c5ef77bae4e15d2c1b27d7ee98a70b1ab984a882) - 2026-10-02
+* [Commit] [proposed update to user guidance on security issues (#11239)](https://github.com/besu-eth/besu/commit/af361cf305ad2a6d35e067e7b1bf41cf6c5534ab) - 2026-10-01
 ## Q3 2026
 
 

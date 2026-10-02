@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Retain blocks and BALs for the history expiry window](https://github.com/besu-eth/besu/pull/11417#pullrequestreview-5387026533) - 2026-10-02
 ## Q3 2026
 
 

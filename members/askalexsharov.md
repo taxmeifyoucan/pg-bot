@@ -14,6 +14,24 @@ Team: Erigon
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/stagedsync, execution/state: refold and write only the slots whose value moved](https://github.com/erigontech/erigon/pull/24456) - 2026-10-01
 * [Review] [Review on: execution/stagedsync, execution/state: refold and write only the slots whose value moved](https://github.com/erigontech/erigon/pull/24456#pullrequestreview-5374094122) - 2026-10-01
+* [Review] [Review on: execution: remove unused function parameters and dead code](https://github.com/erigontech/erigon/pull/24492#pullrequestreview-5387739267) - 2026-10-02
+* [Pull Request] [execution/cache: never Set an existing key in ByteLRU](https://github.com/erigontech/erigon/pull/24494) - 2026-10-02
+* [Review] [Review on: execution/cache: never Set an existing key in ByteLRU](https://github.com/erigontech/erigon/pull/24494#pullrequestreview-5388079982) - 2026-10-02
+* [Pull Request] [db/state/execctx, execution/execmodule: RPC state reads use the state cache when nothing published an overlay](https://github.com/erigontech/erigon/pull/24497) - 2026-10-02
+* [Pull Request] [common/crypto: keccak cache ](https://github.com/erigontech/erigon/pull/24480) - 2026-10-01
+* [Review] [Review on: common/crypto: keccak cache ](https://github.com/erigontech/erigon/pull/24480#pullrequestreview-5379479655) - 2026-10-01
+* [Review] [Review on: execution/commitment/trie: drop orphaned v2 subtrie-loading layer](https://github.com/erigontech/erigon/pull/24434#pullrequestreview-5378918658) - 2026-10-01
+* [Pull Request] [rpc/transactions: CALL_NO_MATERIALIZE runs eth_call on the versioned state path](https://github.com/erigontech/erigon/pull/24495) - 2026-10-02
+* [Review] [Review on: rpc/jsonrpc: serve the *ByBlockAndIndex transaction methods without decoding the whole block](https://github.com/erigontech/erigon/pull/24409#pullrequestreview-5376877222) - 2026-10-01
+* [Pull Request] [execution/vm/evmtypes: drop the defensive copy in Return/Revert](https://github.com/erigontech/erigon/pull/24470) - 2026-10-01
+* [Review] [Review on: execution/vm/evmtypes: drop the defensive copy in Return/Revert](https://github.com/erigontech/erigon/pull/24470#pullrequestreview-5376841599) - 2026-10-01
+* [Pull Request] [rpc: _call and _gasEstimation to not produce logs](https://github.com/erigontech/erigon/pull/24473) - 2026-10-01
+* [Review] [Review on: node: add in-use metrics for the RPC compressor pools](https://github.com/erigontech/erigon/pull/24412#pullrequestreview-5378974904) - 2026-10-01
+* [Commit] [rpc: _call and _gasEstimation to not produce logs (#24473)](https://github.com/erigontech/erigon/commit/30774a8c665d8998e327ed798d1aa1488beba961) - 2026-10-02
+* [Commit] [jsonstream: write hand-written hex fields with ethjson.Data (#24440)](https://github.com/erigontech/erigon/commit/ca2181d7b220c32ab7e4c5dcd8b31b103e425a25) - 2026-10-01
+* [Commit] [rpc/jsonstream: one concrete Stream type (#24433)](https://github.com/erigontech/erigon/commit/31a1065c98d95ba1fdeec7eaa6f314ad9436da41) - 2026-10-01
+* [Commit] [rpc/jsonstream: replace LazyFieldStream by helper (#24350)](https://github.com/erigontech/erigon/commit/9c3697f5bf23cabd89767ea90ef54796330715ed) - 2026-10-01
+* [Commit] [rpc/jsonstream: write quantity and data fields in one step (#24428)](https://github.com/erigontech/erigon/commit/edd005cdc38729b070bf6aaf334ee80f6008dde1) - 2026-10-01
 ## Q3 2026
 
 

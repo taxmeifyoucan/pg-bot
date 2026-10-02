@@ -8,6 +8,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: refactor(builder): share one beacon event subscription](https://github.com/ChainSafe/lodestar/pull/10064#pullrequestreview-5377891474) - 2026-10-01
+* [Review] [Review on: feat(builder): coordinate bounded payload build jobs](https://github.com/ChainSafe/lodestar/pull/9973#pullrequestreview-5378024101) - 2026-10-01
 ## Q3 2026
 
 

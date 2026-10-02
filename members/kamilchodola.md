@@ -8,6 +8,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [perf(engine): start sender recovery once the payload's block is built](https://github.com/NethermindEth/nethermind/pull/14164) - 2026-10-01
+* [Review] [Review on: fix: preserve RPC gas cap error when estimating frame limits](https://github.com/NethermindEth/nethermind/pull/14166#pullrequestreview-5386901460) - 2026-10-01
 ## Q3 2026
 
 

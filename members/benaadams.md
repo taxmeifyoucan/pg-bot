@@ -13,6 +13,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Commit] [perf(zkvm): keep keccak memo slot arithmetic full-width (#14128)](https://github.com/NethermindEth/nethermind/commit/3f2a4efeab9ed061b5f906030d04c649629d93af) - 2026-10-01
+* [Review] [Review on: perf(engine): start sender recovery once the payload's block is built](https://github.com/NethermindEth/nethermind/pull/14164#pullrequestreview-5386717439) - 2026-10-01
+* [Review] [Review on: perf(runner): stop idle thread-pool workers from spinning](https://github.com/NethermindEth/nethermind/pull/14162#pullrequestreview-5387027304) - 2026-10-02
+* [Pull Request] [test: fix pruning threshold race across midnight UTC](https://github.com/NethermindEth/nethermind/pull/14167) - 2026-10-02
+* [Pull Request] [fix: preserve RPC gas cap error when estimating frame limits](https://github.com/NethermindEth/nethermind/pull/14166) - 2026-10-01
+* [Review] [Review on: Update Directory.Build.props for 2.1.0](https://github.com/NethermindEth/nethermind/pull/14163#pullrequestreview-5385972122) - 2026-10-01
+* [Review] [Review on: fix(eip8250): keep a higher existing NONCE_MANAGER nonce at activation](https://github.com/NethermindEth/nethermind/pull/14070#pullrequestreview-5378416739) - 2026-10-01
+* [Review] [Review on: fix(eip8250): align TXPARAM keyed-nonce indices with the spec](https://github.com/NethermindEth/nethermind/pull/14069#pullrequestreview-5378416694) - 2026-10-01
+* [Review] [Review on: test: drain deferred writes before corrupting the stored access list](https://github.com/NethermindEth/nethermind/pull/14148#pullrequestreview-5378416748) - 2026-10-01
+* [Review] [Review on: docs(agents): add zkevm skills](https://github.com/NethermindEth/nethermind/pull/14146#pullrequestreview-5378212167) - 2026-10-01
+* [Review] [Review on: docs(zkevm): move the OpenVM guest README into its project folder](https://github.com/NethermindEth/nethermind/pull/14150#pullrequestreview-5378213977) - 2026-10-01
+* [Commit] [fix: preserve RPC gas cap error when estimating frame limits (#14166)](https://github.com/NethermindEth/nethermind/commit/cd4967c34119e53408febe070febb49592daf6fd) - 2026-10-02
+* [Commit] [perf(zkvm): keep jump bitmap offsets native-sized (#14129)](https://github.com/NethermindEth/nethermind/commit/3e7c5e815f73005b03a3322654b5f3686f52ad48) - 2026-10-01
 ## Q3 2026
 
 

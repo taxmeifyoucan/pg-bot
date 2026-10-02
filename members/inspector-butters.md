@@ -6,6 +6,13 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 
 ## Contributions
 
+## Q4 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: fix(db): replay missing historical hdiff states without repeated snapshot decoding](https://github.com/OffchainLabs/prysm/pull/17590#pullrequestreview-5381306052) - 2026-10-01
+* [Review] [Review on: Lc gloas types](https://github.com/OffchainLabs/prysm/pull/17558#pullrequestreview-5381365557) - 2026-10-01
+* [Commit] [Lc gloas types (#17558)](https://github.com/OffchainLabs/prysm/commit/346efcb111618d869d1d48d11344e5e89c2421c9) - 2026-10-01
 ## Q3 2026
 
 

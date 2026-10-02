@@ -8,6 +8,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Review] [Review on: Bump the actions group with 4 updates](https://github.com/ethereum/c-kzg-4844/pull/669#pullrequestreview-5385263871) - 2026-10-01
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add `equivocation_delay` mutation to fork choice compliance tests](https://github.com/ethereum/consensus-specs/pull/5572#pullrequestreview-5384570618) - 2026-10-01
+* [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5383002772) - 2026-10-01
+* [Commit] [Refactor gossip tests timing outputs (#5697)](https://github.com/ethereum/consensus-specs/commit/889a389f9f95d2aba52aedf233217f370772dd3d) - 2026-10-01
+* [Commit] [Clarify deposits to exited builders with reassigned indices (#5705)](https://github.com/ethereum/consensus-specs/commit/5f195b6f2e17d9e8ab00e48fac44c0b160a8c94b) - 2026-10-01
 ## Q3 2026
 
 

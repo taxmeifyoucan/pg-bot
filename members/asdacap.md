@@ -8,6 +8,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat(flat): trie node-dedup log in front of the trie columns](https://github.com/NethermindEth/nethermind/pull/14140) - 2026-10-01
+* [Review] [Review on: feat(flat): trie node-dedup log in front of the trie columns](https://github.com/NethermindEth/nethermind/pull/14140#pullrequestreview-5376945264) - 2026-10-01
 ## Q3 2026
 
 

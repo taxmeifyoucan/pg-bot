@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [feat(eip-8025): add engine_newPayloadWithWitnessV5 (#11181)](https://github.com/besu-eth/besu/commit/5bcbcbe19c47843808b4e4321667a758f93eb2fe) - 2026-10-01
+* [Pull Request] [refactor: cleanup preprocessing function](https://github.com/besu-eth/besu/pull/11412) - 2026-10-01
 ## Q3 2026
 
 

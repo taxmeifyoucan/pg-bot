@@ -8,6 +8,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 ## Contributions
 
+## Q4 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [`ReceiveExecutionPayloadEnvelope`: Add missing forkchoice lock.](https://github.com/OffchainLabs/prysm/pull/17599) - 2026-10-01
+* [Pull Request] [Remove Bazel: Phase 7/9](https://github.com/OffchainLabs/prysm/pull/17595) - 2026-10-01
 ## Q3 2026
 
 

@@ -17,6 +17,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Rotate changelog for 26.9.0](https://github.com/besu-eth/besu/pull/11388#pullrequestreview-5373760999) - 2026-10-01
 * [Review] [Review on: docs: update Configure the JVM link to configure-java path](https://github.com/besu-eth/besu/pull/11288#pullrequestreview-5373460188) - 2026-10-01
 * [Review] [Review on: docs: fix tracing example OTEL env and removed --network=dev](https://github.com/besu-eth/besu/pull/11320#pullrequestreview-5373448485) - 2026-10-01
+
+* [Review] [Review on: Implement callTracer withLog with receipt-aligned log index](https://github.com/besu-eth/besu/pull/11342#pullrequestreview-5387885895) - 2026-10-02
+* [Review] [Review on: Bump plugin API baseline to 26.9.0](https://github.com/besu-eth/besu/pull/11377#pullrequestreview-5387590388) - 2026-10-02
+* [Review] [Review on: Add `--include-bals` to `blocks export`](https://github.com/besu-eth/besu/pull/11042#pullrequestreview-5386319332) - 2026-10-01
+* [Review] [Review on: Add a snap-sync node late join to the BFT soak test](https://github.com/besu-eth/besu/pull/11416#pullrequestreview-5386381609) - 2026-10-01
+* [Review] [Review on: Fix/sync signal reporting bugs](https://github.com/besu-eth/besu/pull/11262#pullrequestreview-5386504049) - 2026-10-01
+* [Pull Request] [chore: don't run jacocoTestReport automatically after tests](https://github.com/besu-eth/besu/pull/11410) - 2026-10-01
+* [Review] [Review on: proposed update to user guidance on security issues](https://github.com/besu-eth/besu/pull/11239#pullrequestreview-5375356199) - 2026-10-01
+* [Commit] [Bump jackson-bom from 2.21.5 to 2.21.6 (#11396)](https://github.com/besu-eth/besu/commit/6f663e110d0f8197ae6487f992bf5cd43dc73bc6) - 2026-10-02
+* [Commit] [chore: don't run jacocoTestReport automatically after tests (#11410)](https://github.com/besu-eth/besu/commit/ffa8d35342f8ef4b1fc9c8ef16d06aec3b7773ea) - 2026-10-01
+[Consensys/tuweni](https://github.com/Consensys/tuweni)
+* [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
+* [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01
 ## Q3 2026
 
 

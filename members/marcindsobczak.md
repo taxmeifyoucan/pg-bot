@@ -8,6 +8,16 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [perf(runner): stop idle thread-pool workers from spinning](https://github.com/NethermindEth/nethermind/pull/14162) - 2026-10-01
+* [Pull Request] [perf(rpc): cut state-override code allocations in eth_call](https://github.com/NethermindEth/nethermind/pull/14159) - 2026-10-01
+* [Review] [Review on: perf(rpc): cut state-override code allocations in eth_call](https://github.com/NethermindEth/nethermind/pull/14159#pullrequestreview-5386275242) - 2026-10-01
+* [Pull Request] [perf(evm): reuse child call frames per depth instead of the thread-static pools](https://github.com/NethermindEth/nethermind/pull/14139) - 2026-10-01
+* [Review] [Review on: perf(evm): reuse child call frames per depth instead of the thread-static pools](https://github.com/NethermindEth/nethermind/pull/14139#pullrequestreview-5376464662) - 2026-10-01
+* [Commit] [fix(rpc): code written during a call replaces a stateOverride code override (#14114)](https://github.com/NethermindEth/nethermind/commit/26b784fdca15e25f95e210fa190477e4b056fd7d) - 2026-10-01
 ## Q3 2026
 
 

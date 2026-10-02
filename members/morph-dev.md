@@ -8,6 +8,11 @@ Team: Portal Network (EF)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553) - 2026-10-01
 ## Q3 2026
 
 

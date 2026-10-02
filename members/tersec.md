@@ -8,6 +8,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [enforce Nim versions](https://github.com/status-im/nimbus-eth1/pull/4884) - 2026-10-01
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
+* [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
+* [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
 ## Q3 2026
 
 

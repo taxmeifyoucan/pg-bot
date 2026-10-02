@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 ## Contributions
 
+## Q4 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Update EEST mainnet fixtures to v21.0.0](https://github.com/status-im/nimbus-eth1/pull/4889) - 2026-10-02
+* [Review] [Review on: tx_packer early exit](https://github.com/status-im/nimbus-eth1/pull/4885#pullrequestreview-5387859750) - 2026-10-02
 ## Q3 2026
 
 

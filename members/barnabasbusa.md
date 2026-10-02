@@ -8,6 +8,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Issue] [engine_forkchoiceUpdated builds payload synchronously (13-16s), stalls event loop and causes missed proposals on glamsterdam-devnet-8](https://github.com/status-im/nimbus-eth1/issues/4881) - 2026-10-01
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] [feat: show why inclusion list transactions were omitted](https://github.com/ethpandaops/dora/pull/884) - 2026-10-01
 ## Q3 2026
 
 

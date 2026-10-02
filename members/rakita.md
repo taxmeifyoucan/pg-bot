@@ -8,6 +8,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 ## Contributions
 
+## Q4 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(txpool): honor EVM block gas policy](https://github.com/paradigmxyz/reth/pull/27641) - 2026-10-01
 ## Q3 2026
 
 

@@ -6,6 +6,16 @@ Github: [@matkt](https://github.com/matkt)
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Retain blocks and BALs for the history expiry window](https://github.com/besu-eth/besu/pull/11417) - 2026-10-01
+* [Review] [Review on: Fix system calls in block access lists and contract creation](https://github.com/besu-eth/besu/pull/11397#pullrequestreview-5378284072) - 2026-10-01
+* [Review] [Review on: Versioned code storage [2/3] Store contract code in a versioned format with its jump destination analysis](https://github.com/besu-eth/besu/pull/11327#pullrequestreview-5378012564) - 2026-10-01
+* [Review] [Review on: Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364#pullrequestreview-5378980435) - 2026-10-01
+* [Review] [Review on: Versioned code storage [1/3] Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363#pullrequestreview-5375504314) - 2026-10-01
+* [Commit] [Fetch block access lists during backward sync (#11334)](https://github.com/besu-eth/besu/commit/4456884545e6f6a4fb87370b5d625629ca494e12) - 2026-10-01
 ## Q3 2026
 
 

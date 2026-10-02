@@ -8,6 +8,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [[r3.7] release: Erigon v3.7.1](https://github.com/erigontech/erigon/pull/24488) - 2026-10-01
+* [Commit] [cl/p2p: allocate test listener ports per transport (#24475)](https://github.com/erigontech/erigon/commit/66e3cd23290c6bd63224321b29b404aeb6e033de) - 2026-10-01
+* [Commit] [cl/services: harden deferred Gloas data-column sidecars (#23645)](https://github.com/erigontech/erigon/commit/50e2cc4f9808e670b93df0672167c04da05ab9b7) - 2026-10-01
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 ## Q3 2026
 
 

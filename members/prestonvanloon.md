@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 ## Contributions
 
+## Q4 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Commit] [perf(state): avoid quadratic scans in multi-value-slice append (#17591)](https://github.com/OffchainLabs/prysm/commit/62b55b3ed7ddbc4590188b501a13ae92fbf65363) - 2026-10-01
 ## Q3 2026
 
 

@@ -8,6 +8,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: chore: don't run jacocoTestReport automatically after tests](https://github.com/besu-eth/besu/pull/11410#pullrequestreview-5376998817) - 2026-10-01
+* [Review] [Review on: Close the remaining bad-chain gaps in backward sync and the Engine API](https://github.com/besu-eth/besu/pull/11373#pullrequestreview-5376605912) - 2026-10-01
+* [Review] [Review on: Versioned code storage [1/3] Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363#pullrequestreview-5378794082) - 2026-10-01
+* [Pull Request] [Cap Amsterdam transaction gas limit at EIP-8037 TX_MAX_TOTAL_GAS_LIMIT](https://github.com/besu-eth/besu/pull/11414) - 2026-10-01
+* [Pull Request] [Treat failing beacon roots and history system calls as non-fatal](https://github.com/besu-eth/besu/pull/11415) - 2026-10-01
+* [Pull Request] [Stop duplicating reference test fixtures per checkout](https://github.com/besu-eth/besu/pull/11413) - 2026-10-01
+* [Commit] [Close the remaining bad-chain gaps in backward sync and the Engine API (#11373)](https://github.com/besu-eth/besu/commit/6fa699b3bd82d5041a8cd5d591c3eb52c2203233) - 2026-10-01
+* [Commit] [Versioned code storage [1/3] Add a rewrite operation for whole storage segments (#11363)](https://github.com/besu-eth/besu/commit/4315dc1848dea3dee1719446275e6611bd5ea33d) - 2026-10-01
+* [Commit] [Accept upper-half uint64 targetGasLimit in engine_forkchoiceUpdatedV4 (#11389)](https://github.com/besu-eth/besu/commit/46a46220cbe28639219f2f052a10125d5fc86147) - 2026-10-01
+* [Commit] [Rotate changelog for 26.9.0 (#11388)](https://github.com/besu-eth/besu/commit/3540a8308acac975f60519cc861f2d7ba97f3ebf) - 2026-10-01
 ## Q3 2026
 
 

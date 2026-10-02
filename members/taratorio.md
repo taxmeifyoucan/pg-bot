@@ -8,6 +8,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: execution: remove unused function parameters and dead code](https://github.com/erigontech/erigon/pull/24492#pullrequestreview-5387934361) - 2026-10-02
+* [Review] [Review on: rpc/transactions: CALL_NO_MATERIALIZE runs eth_call on the versioned state path](https://github.com/erigontech/erigon/pull/24495#pullrequestreview-5387967852) - 2026-10-02
+* [Review] [Review on: cmd/evm: report a json error when stdin input cannot be decoded](https://github.com/erigontech/erigon/pull/24496#pullrequestreview-5387962053) - 2026-10-02
+* [Pull Request] [db: inverted index flush prefetch](https://github.com/erigontech/erigon/pull/24483) - 2026-10-01
 ## Q3 2026
 
 
