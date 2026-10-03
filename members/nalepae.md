@@ -14,6 +14,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [`ReceiveExecutionPayloadEnvelope`: Add missing forkchoice lock.](https://github.com/OffchainLabs/prysm/pull/17599) - 2026-10-01
 * [Pull Request] [Remove Bazel: Phase 7/9](https://github.com/OffchainLabs/prysm/pull/17595) - 2026-10-01
+* [Pull Request] [Remove Bazel: `make dist` - build `hashtree` from source](https://github.com/OffchainLabs/prysm/pull/17605) - 2026-10-02
+* [Review] [Review on: Use EL validation instead of Forkchoice for optimistic status of incoming payload](https://github.com/OffchainLabs/prysm/pull/17600#pullrequestreview-5389292756) - 2026-10-02
+* [Review] [Review on: Keep missing signing roots unknown when converting the validator data…](https://github.com/OffchainLabs/prysm/pull/17522#pullrequestreview-5393568466) - 2026-10-02
+* [Review] [Review on: make sure fallback in keymanager uses gas limit schedule](https://github.com/OffchainLabs/prysm/pull/17601#pullrequestreview-5389528027) - 2026-10-02
+* [Review] [Review on: Memoize EIP-4881/EIP-3076 spectest fixture](https://github.com/OffchainLabs/prysm/pull/17367#pullrequestreview-5389851588) - 2026-10-02
+* [Issue] [Offer PPA, brew (and chocolatey?) installation for Prysm](https://github.com/OffchainLabs/prysm/issues/17604) - 2026-10-02
 ## Q3 2026
 
 

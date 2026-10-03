@@ -8,6 +8,11 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8250: Have first byte of the nonce key indicate nonce type](https://github.com/ethereum/EIPs/pull/12352#pullrequestreview-5391843443) - 2026-10-02
 ## Q3 2026
 
 

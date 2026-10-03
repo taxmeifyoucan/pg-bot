@@ -19,6 +19,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5383002772) - 2026-10-01
 * [Commit] [Refactor gossip tests timing outputs (#5697)](https://github.com/ethereum/consensus-specs/commit/889a389f9f95d2aba52aedf233217f370772dd3d) - 2026-10-01
 * [Commit] [Clarify deposits to exited builders with reassigned indices (#5705)](https://github.com/ethereum/consensus-specs/commit/5f195b6f2e17d9e8ab00e48fac44c0b160a8c94b) - 2026-10-01
+* [Pull Request] [Build gas limit bid tests with matching head block bid](https://github.com/ethereum/consensus-specs/pull/5709) - 2026-10-02
 ## Q3 2026
 
 

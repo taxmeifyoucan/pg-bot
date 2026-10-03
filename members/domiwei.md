@@ -13,6 +13,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [cl/phase1/stages, cl/phase1/forkchoice: replay persisted Gloas parent payloads (#24274)](https://github.com/erigontech/erigon/commit/a9ddec22224a3cc531da59a16940116df32f2524) - 2026-10-01
+* [Pull Request] [cl/sentinel/handlers: only serve the requested slot range in BeaconBlocksByRange](https://github.com/erigontech/erigon/pull/24514) - 2026-10-02
+* [Pull Request] [cl/phase1/network/services: use the finalized checkpoint start slot in the Fulu data column sidecar check](https://github.com/erigontech/erigon/pull/24515) - 2026-10-02
+* [Pull Request] [cl/phase1/stages: pace chain tip block request retries](https://github.com/erigontech/erigon/pull/24513) - 2026-10-02
+* [Pull Request] [cl/beacon/handler: use the Fulu inclusion proof depth for published data column sidecars](https://github.com/erigontech/erigon/pull/24512) - 2026-10-02
+* [Review] [Review on: cl/beacon/handler: write validators response after releasing the head state](https://github.com/erigontech/erigon/pull/24450#pullrequestreview-5389230720) - 2026-10-02
 ## Q3 2026
 
 

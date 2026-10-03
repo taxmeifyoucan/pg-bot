@@ -40,6 +40,26 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix(txpool): reject unrecognized frame validation prefixes (#14108)](https://github.com/NethermindEth/nethermind/commit/a7fdb5332187ac0eed3f198a0b124007ddbffa36) - 2026-10-01
 * [Commit] [fix(txpool): wire frame prefix simulation into AuRa and XDC (#14110)](https://github.com/NethermindEth/nethermind/commit/1bfbc2296ddcfac3cd7b086099d7b1de92bbc5e3) - 2026-10-01
 * [Commit] [fix(network): return pooled objects on RLP validation failures (#14113)](https://github.com/NethermindEth/nethermind/commit/bb2fa9bcdf5867941aaff6c9003073eccafb048e) - 2026-10-01
+* [Pull Request] [[WIP] EIP-8288: Lean SPHINCS sigs and aggregation](https://github.com/NethermindEth/nethermind/pull/14202) - 2026-10-02
+* [Review] [Review on: [WIP] EIP-8288: Lean SPHINCS sigs and aggregation](https://github.com/NethermindEth/nethermind/pull/14202#pullrequestreview-5397106342) - 2026-10-02
+* [Review] [Review on: fix(eip8272): verify recent roots with a canonical VERIFY frame](https://github.com/NethermindEth/nethermind/pull/14071#pullrequestreview-5390683473) - 2026-10-02
+* [Review] [Review on: fix(txpool): index the prefix paymaster as a frame tx dependency](https://github.com/NethermindEth/nethermind/pull/14172#pullrequestreview-5392537722) - 2026-10-02
+* [Review] [Review on: test: fix pruning threshold race across midnight UTC](https://github.com/NethermindEth/nethermind/pull/14167#pullrequestreview-5392539307) - 2026-10-02
+* [Pull Request] [Back off peer candidates rejected by the contact filter](https://github.com/NethermindEth/nethermind/pull/14190) - 2026-10-02
+* [Review] [Review on: Back off peer candidates rejected by the contact filter](https://github.com/NethermindEth/nethermind/pull/14190#pullrequestreview-5394455424) - 2026-10-02
+* [Review] [Review on: perf(evm): remove jump-target bytecode prefetch hints](https://github.com/NethermindEth/nethermind/pull/14176#pullrequestreview-5392538436) - 2026-10-02
+* [Review] [Review on: Verify EIP-1459 tree root signature in DNS discovery](https://github.com/NethermindEth/nethermind/pull/14183#pullrequestreview-5394012359) - 2026-10-02
+* [Review] [Review on: perf(rpc): read single-object request bodies in one pass](https://github.com/NethermindEth/nethermind/pull/14187#pullrequestreview-5394014155) - 2026-10-02
+* [Review] [Review on: test(merge): make the engine JSON/SSZ round-trip benchmarks run and measure production costs](https://github.com/NethermindEth/nethermind/pull/14188#pullrequestreview-5394025223) - 2026-10-02
+* [Review] [Review on: Check eth/snap response request ids before decoding](https://github.com/NethermindEth/nethermind/pull/14184#pullrequestreview-5394012995) - 2026-10-02
+* [Review] [Review on: Normalize invalid-length input of flat-fee cached precompiles](https://github.com/NethermindEth/nethermind/pull/14185#pullrequestreview-5394011678) - 2026-10-02
+* [Review] [Review on: feat(txpool): preempt gossiped frame tx validation while a block is being built](https://github.com/NethermindEth/nethermind/pull/14085#pullrequestreview-5390694912) - 2026-10-02
+* [Review] [Review on: fix(logging): reapply CLI and Seq overrides after NLog config reload](https://github.com/NethermindEth/nethermind/pull/14181#pullrequestreview-5392548139) - 2026-10-02
+* [Commit] [fix(rpc): enforce frame transaction activation during calls (#14154)](https://github.com/NethermindEth/nethermind/commit/fa6a026e943b17cc65c62c8eda3a70a4a43534bb) - 2026-10-02
+* [Commit] [fix(txpool): reapply paymaster cap after head changes (#14155)](https://github.com/NethermindEth/nethermind/commit/79cd9d100b87f920597a63989abe229b21eb5051) - 2026-10-02
+* [Commit] [fix(sync): preserve account wipes during BAL healing (#14156)](https://github.com/NethermindEth/nethermind/commit/22567bb55ac484ccd1b56f1b3aeee342fe7024d1) - 2026-10-02
+* [Commit] [fix(specs): initialize EIP-8282 genesis requests hash (#14153)](https://github.com/NethermindEth/nethermind/commit/8328642fa89e4969ea87a44224db4d3e4921d44c) - 2026-10-02
+* [Commit] [fix(network): use 2 MiB BAL response soft limit (#14152)](https://github.com/NethermindEth/nethermind/commit/23e5ce6f6d73833333f492501790a279c6bd182b) - 2026-10-02
 ## Q3 2026
 
 

@@ -18,6 +18,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7928: add updated 60M gas size analysis with recent blocks](https://github.com/ethereum/EIPs/pull/12409) - 2026-10-01
 * [Commit] [Update EIP-7928: Update size numbers](https://github.com/ethereum/EIPs/commit/943f8d14e39ef91d96f79b0dde32ccafdd58e7db) - 2026-10-01
 * [Commit] [Update EIP-7928: add updated 60M gas size analysis with recent blocks](https://github.com/ethereum/EIPs/commit/c7ee5edac598e22f65c3a5de711bd938262c63f0) - 2026-10-01
+* [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5391293752) - 2026-10-02
+* [Review] [Review on: Update EIP-8159: Match EIP-7928 BAL storage types](https://github.com/ethereum/EIPs/pull/12397#pullrequestreview-5390643411) - 2026-10-02
+* [Commit] [Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/commit/ac912ca6a9685590345dd8e5736cda75976d0131) - 2026-10-02
 ## Q3 2026
 
 

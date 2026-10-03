@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 ## Contributions
 
+## Q4 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Implement optional proofs with fork-choice optimistic](https://github.com/sigp/lighthouse/pull/10198) - 2026-10-02
 ## Q3 2026
 
 

@@ -18,6 +18,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Release v8.2.3](https://github.com/sigp/lighthouse/commit/6db6ae9382b7d6f5bd1e0ca0d349bc0dc94adba2) - 2026-10-01
 * [Review] [Review on: Remove redundant todo](https://github.com/sigp/lighthouse/pull/10195#pullrequestreview-5387427242) - 2026-10-02
 * [Review] [Review on: Add documentation for fast confirmation rule](https://github.com/sigp/lighthouse/pull/10183#pullrequestreview-5375369386) - 2026-10-01
+* [Review] [Review on: Fix nightly tests failing on phase0 and altair](https://github.com/sigp/lighthouse/pull/10200#pullrequestreview-5392594473) - 2026-10-02
+* [Review] [Review on: Trust the system CA store for outbound HTTPS](https://github.com/sigp/lighthouse/pull/10110#pullrequestreview-5390884799) - 2026-10-02
 ## Q3 2026
 
 

@@ -16,6 +16,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364#pullrequestreview-5378980435) - 2026-10-01
 * [Review] [Review on: Versioned code storage [1/3] Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363#pullrequestreview-5375504314) - 2026-10-01
 * [Commit] [Fetch block access lists during backward sync (#11334)](https://github.com/besu-eth/besu/commit/4456884545e6f6a4fb87370b5d625629ca494e12) - 2026-10-01
+* [Review] [Review on: Fix system calls in block access lists and contract creation](https://github.com/besu-eth/besu/pull/11397#pullrequestreview-5391635213) - 2026-10-02
+* [Pull Request] [Bonsai: block-granular LRU cross-block cache, cache top trie nodes](https://github.com/besu-eth/besu/pull/11428) - 2026-10-02
+* [Commit] [Retain blocks and BALs for the history expiry window (#11417)](https://github.com/besu-eth/besu/commit/983665f8e153aae07b37921912d57073940d5675) - 2026-10-02
 ## Q3 2026
 
 

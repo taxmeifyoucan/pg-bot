@@ -14,6 +14,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5379475015) - 2026-10-01
 * [Pull Request] [Use EL validation instead of Forkchoice for optimistic status of incoming payload](https://github.com/OffchainLabs/prysm/pull/17600) - 2026-10-01
+* [Pull Request] [Fix payload production in the first Gloas block](https://github.com/OffchainLabs/prysm/pull/17610) - 2026-10-02
+* [Review] [Review on: Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559#pullrequestreview-5394621907) - 2026-10-02
+* [Review] [Review on: Refresh security.txt contact, keys, and expiry](https://github.com/OffchainLabs/prysm/pull/17611#pullrequestreview-5394861111) - 2026-10-02
+* [Pull Request] [Do not use background context in upgradeToGloas](https://github.com/OffchainLabs/prysm/pull/17608) - 2026-10-02
+* [Pull Request] [request bid in parallel with the local bid](https://github.com/OffchainLabs/prysm/pull/17607) - 2026-10-02
+* [Commit] [Fix payload production in the first Gloas block (#17610)](https://github.com/OffchainLabs/prysm/commit/0084c14ce837d5f0ee91cb5dd4c34435e2040f07) - 2026-10-02
+* [Commit] [Use EL validation instead of Forkchoice for optimistic status of incoming payload (#17600)](https://github.com/OffchainLabs/prysm/commit/353f24dfa2c4c6a10a37c936275a04509f1000ac) - 2026-10-02
+* [Commit] [Do not use background context in upgradeToGloas (#17608)](https://github.com/OffchainLabs/prysm/commit/517ffc16a78bef55938e0da5338d51836ceb245f) - 2026-10-02
 ## Q3 2026
 
 

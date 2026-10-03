@@ -18,6 +18,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Store full finalized_checkpoint in CachedLightClientData](https://github.com/status-im/nimbus-eth2/pull/9161) - 2026-10-01
 * [Review] [Review on: Preserve negative peer score across reconnections](https://github.com/status-im/nimbus-eth2/pull/8446#pullrequestreview-5379557227) - 2026-10-01
 * [Review] [Review on: VC: Fix rare assertion crash because of incorrect BN response.](https://github.com/status-im/nimbus-eth2/pull/9157#pullrequestreview-5375754422) - 2026-10-01
+
+* [Pull Request] [Add vanity log for Gloas transition](https://github.com/status-im/nimbus-eth2/pull/9175) - 2026-10-02
+* [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/status-im/nimbus-eth2/pull/9168) - 2026-10-02
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 ## Q3 2026
 
 

@@ -14,6 +14,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [perf(engine): start sender recovery once the payload's block is built](https://github.com/NethermindEth/nethermind/pull/14164) - 2026-10-01
 * [Review] [Review on: fix: preserve RPC gas cap error when estimating frame limits](https://github.com/NethermindEth/nethermind/pull/14166#pullrequestreview-5386901460) - 2026-10-01
+* [Pull Request] [perf(prewarm): read the accounts that large calldata names as ABI address words](https://github.com/NethermindEth/nethermind/pull/14204) - 2026-10-02
+* [Review] [Review on: perf(prewarm): read the accounts that large calldata names as ABI address words](https://github.com/NethermindEth/nethermind/pull/14204#pullrequestreview-5397481056) - 2026-10-02
+* [Pull Request] [perf(evm): carry host execution gas through opcode dispatch](https://github.com/NethermindEth/nethermind/pull/14178) - 2026-10-02
+* [Review] [Review on: perf: share worker budgets across block processing stages](https://github.com/NethermindEth/nethermind/pull/14182#pullrequestreview-5393536294) - 2026-10-02
+* [Pull Request] [perf(evm): remove jump-target bytecode prefetch hints](https://github.com/NethermindEth/nethermind/pull/14176) - 2026-10-02
+* [Commit] [perf(zkevm): reverse bytes with Zbb's rev8 in the ZisK guest (#13984)](https://github.com/NethermindEth/nethermind/commit/555f7175981d56ed85c7cae7873dbeda4ee2ff33) - 2026-10-02
+* [Commit] [perf(evm): remove jump-target bytecode prefetch hints (#14176)](https://github.com/NethermindEth/nethermind/commit/faaa339feb3d208e617c0d4b200f0d1234f951ff) - 2026-10-02
+* [Commit] [perf(evm): carry fused PUSH2 opcode counts in host dispatch (#14177)](https://github.com/NethermindEth/nethermind/commit/3370d566b67ad741e91a6e647d98c5c28c3a2ed9) - 2026-10-02
+* [Commit] [perf(evm): simplify zero-extended scalar stack words (#14180)](https://github.com/NethermindEth/nethermind/commit/1d7e318111739c093f7695a600b42c2b36bc5d9a) - 2026-10-02
+* [Commit] [perf(metrics): cache observer children for stable labels (#14173)](https://github.com/NethermindEth/nethermind/commit/b33fe1f5bce716d8d2f7a1478f0cd81cf91f1fca) - 2026-10-02
+* [Commit] [ci(bench): per-client snapshots and per-arm node flags in an RPC sweep (#12961)](https://github.com/NethermindEth/nethermind/commit/26918c54676b320b5b21c447061bb5949138d468) - 2026-10-02
+* [Commit] [perf(engine): start sender recovery once the payload's block is built (#14164)](https://github.com/NethermindEth/nethermind/commit/c4f7a12b96b2ba3faa15a8c0ee534ac834a46e07) - 2026-10-02
 ## Q3 2026
 
 

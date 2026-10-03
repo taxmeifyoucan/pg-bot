@@ -20,6 +20,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject checkpoint sync state with mismatching fork](https://github.com/ChainSafe/lodestar/pull/10228#pullrequestreview-5377330883) - 2026-10-01
 * [Commit] [fix: removeAndDownScoreAllDescendants of unknown sync (#10221)](https://github.com/ChainSafe/lodestar/commit/fef46df5ba4afab225b44f1f90d80c39dbf3de24) - 2026-10-01
 * [Commit] [fix: init BeaconStateView from state bytes (#10227)](https://github.com/ChainSafe/lodestar/commit/53ad0a2af7faa0a2456bbd14ace504b4b2ff3ab1) - 2026-10-01
+* [Review] [Review on: perf: hoist weak-subjectivity staleness check before anchor state load](https://github.com/ChainSafe/lodestar/pull/10229#pullrequestreview-5388205342) - 2026-10-02
+* [Pull Request] [fix: ignore messages from FATAL peer](https://github.com/ChainSafe/lodestar/pull/10239) - 2026-10-02
+* [Review] [Review on: fix: ignore messages from FATAL peer](https://github.com/ChainSafe/lodestar/pull/10239#pullrequestreview-5389340483) - 2026-10-02
+* [Pull Request] [fix: reject null slot gossip messages](https://github.com/ChainSafe/lodestar/pull/10241) - 2026-10-02
+* [Review] [Review on: fix: reject null slot gossip messages](https://github.com/ChainSafe/lodestar/pull/10241#pullrequestreview-5389746056) - 2026-10-02
+* [Commit] [fix: ignore messages from FATAL peer (#10239)](https://github.com/ChainSafe/lodestar/commit/fd4f342a40f62f50f4368e4e7515a1dab958457c) - 2026-10-02
+* [Commit] [fix: reject null slot gossip messages (#10241)](https://github.com/ChainSafe/lodestar/commit/a28be61ecba97f68988032ef810a28c4eb456ce5) - 2026-10-02
 ## Q3 2026
 
 

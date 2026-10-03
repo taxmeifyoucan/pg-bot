@@ -16,6 +16,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc/transactions: CALL_NO_MATERIALIZE runs eth_call on the versioned state path](https://github.com/erigontech/erigon/pull/24495#pullrequestreview-5387967852) - 2026-10-02
 * [Review] [Review on: cmd/evm: report a json error when stdin input cannot be decoded](https://github.com/erigontech/erigon/pull/24496#pullrequestreview-5387962053) - 2026-10-02
 * [Pull Request] [db: inverted index flush prefetch](https://github.com/erigontech/erigon/pull/24483) - 2026-10-01
+* [Review] [Review on: execution: system calls do not touch SystemAddress, drop its BAL filter](https://github.com/erigontech/erigon/pull/24504#pullrequestreview-5390583067) - 2026-10-02
+* [Commit] [db: inverted index flush prefetch (#24483)](https://github.com/erigontech/erigon/commit/4c584ee31a01b2ef60f365136b82381a75dcd9f2) - 2026-10-02
 ## Q3 2026
 
 

@@ -13,6 +13,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [8995 focil beacon apis](https://github.com/Consensys-Incorporated/teku/pull/11387) - 2026-10-01
+* [Pull Request] [Fix FOCIL voting for inclusion list unsatisfied payloads](https://github.com/Consensys-Incorporated/teku/pull/11396) - 2026-10-02
+* [Pull Request] [Fix Heze fork choice for unsatisfied inclusion lists](https://github.com/Consensys-Incorporated/teku/pull/11395) - 2026-10-02
+* [Pull Request] [fix execution payload gossip validation concurrency](https://github.com/Consensys-Incorporated/teku/pull/11394) - 2026-10-02
+* [Review] [Review on: Stop rejecting slashings for offences in an earlier fork at the gossip topic layer](https://github.com/Consensys-Incorporated/teku/pull/11393#pullrequestreview-5390154820) - 2026-10-02
+* [Commit] [fix execution payload gossip validation concurrency (#11394)](https://github.com/Consensys-Incorporated/teku/commit/16f0bb5c1175718c0b2272641be434d7955a7ca8) - 2026-10-02
 ## Q3 2026
 
 

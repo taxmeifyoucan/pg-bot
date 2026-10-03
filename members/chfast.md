@@ -13,6 +13,18 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [execution/state, execution/vm: read callee code and code hash together (#24429)](https://github.com/erigontech/erigon/commit/b7a17e7df0ffbc5266a7d494068123580365bf10) - 2026-10-01
+* [Pull Request] [execution: system calls do not touch SystemAddress, drop its BAL filter](https://github.com/erigontech/erigon/pull/24504) - 2026-10-02
+* [Review] [Review on: execution/vm: JUMPDEST analysis with `simd`](https://github.com/erigontech/erigon/pull/24411#pullrequestreview-5390632125) - 2026-10-02
+* [Pull Request] [execution: system calls do not touch SystemAddress, drop its BAL filter](https://github.com/erigontech/erigon/pull/24503) - 2026-10-02
+* [Commit] [execution: system calls do not touch SystemAddress, drop its BAL filter (#24504)](https://github.com/erigontech/erigon/commit/a5c6f2dc24032570aae4416e7665e639f65b05d4) - 2026-10-02
+* [Commit] [execution/vm: NEON JUMPDEST analysis (#24438)](https://github.com/erigontech/erigon/commit/4b1a39d76bb1d8cab1050718d59e8632529469cb) - 2026-10-02
+* [Commit] [execution/vm: SSE4 JUMPDEST analysis (#24364)](https://github.com/erigontech/erigon/commit/b240007fb930491f8a37aca859c3d1b7967a865a) - 2026-10-02
+* [Commit] [execution/vm: JUMPDEST analysis bitmap marks jump destinations (#24363)](https://github.com/erigontech/erigon/commit/20110ae69c647bdedf82fc7331a588bae54c254b) - 2026-10-02
+* [Commit] [build: give C++ deps the same cgo flags as C (#23874)](https://github.com/erigontech/erigon/commit/61dc400807488e5d9082dec02c413b1bdbe55826) - 2026-10-02
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
+* [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
 ## Q3 2026
 
 

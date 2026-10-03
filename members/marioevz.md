@@ -8,6 +8,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(test-types): relative balance and nonce post-state expectations](https://github.com/ethereum/execution-specs/pull/3699) - 2026-10-03
+* [Review] [Review on: feat(test-specs, tests): tests for BAL parallel execution](https://github.com/ethereum/execution-specs/pull/3670#pullrequestreview-5392812263) - 2026-10-02
 ## Q3 2026
 
 

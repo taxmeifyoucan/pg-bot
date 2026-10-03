@@ -6,6 +6,11 @@ Github: [@misilva73](https://github.com/misilva73)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/pull/12401#pullrequestreview-5389384659) - 2026-10-02
 ## Q3 2026
 
 

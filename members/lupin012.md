@@ -17,6 +17,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: node: add in-use metrics for the RPC compressor pools](https://github.com/erigontech/erigon/pull/24412#pullrequestreview-5384709438) - 2026-10-01
 * [Commit] [node: add in-use metrics for the RPC compressor pools (#24412)](https://github.com/erigontech/erigon/commit/6bfdad5404e129c5d757103d720152f2d8e33a3d) - 2026-10-01
 * [Commit] [rpc/ethapi, rpc/jsonrpc: reject a call object whose chainId is not the node's (#24414)](https://github.com/erigontech/erigon/commit/18d9de8798c2df9fb9718eb339b8beaf7d348b1b) - 2026-10-01
+* [Review] [Review on: feat(rpc/jsonrpc): trace_filter selects a block by blockHash and rejects hash bounds](https://github.com/erigontech/erigon/pull/24435#pullrequestreview-5394988315) - 2026-10-02
 ## Q3 2026
 
 

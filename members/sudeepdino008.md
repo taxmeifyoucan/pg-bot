@@ -8,6 +8,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [bsc: pascal / prague support](https://github.com/erigontech/erigon/pull/24506) - 2026-10-02
 ## Q3 2026
 
 

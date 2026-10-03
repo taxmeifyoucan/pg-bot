@@ -19,6 +19,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Keep ENR next_fork_version at a BPO fork](https://github.com/sigp/lighthouse/pull/10161#pullrequestreview-5385317189) - 2026-10-01
+* [Review] [Review on: Gloas builder circuit breaker](https://github.com/sigp/lighthouse/pull/10162#pullrequestreview-5395541615) - 2026-10-02
 ## Q3 2026
 
 

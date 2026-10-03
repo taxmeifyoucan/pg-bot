@@ -14,6 +14,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [Snap sync exhausts the thread pool: RPC, Engine API and logging stall minutes after state sync starts](https://github.com/NethermindEth/nethermind/issues/14136) - 2026-10-01
 * [Pull Request] [Update Directory.Build.props for 2.1.0](https://github.com/NethermindEth/nethermind/pull/14163) - 2026-10-01
 * [Commit] [fix(threading): withdraw unstarted pool workers when a parallel loop joins (#14137)](https://github.com/NethermindEth/nethermind/commit/97bc26fb1141b4a667dbac02602fd084bed11e9d) - 2026-10-01
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026
 
 

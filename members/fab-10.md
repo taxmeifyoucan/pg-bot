@@ -13,6 +13,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Hold a blob as its cells, verifiable in part ](https://github.com/besu-eth/besu/pull/11408#pullrequestreview-5381652097) - 2026-10-01
+* [Pull Request] [Setup Bogotá hardfork](https://github.com/besu-eth/besu/pull/11431) - 2026-10-02
+* [Review] [Review on: Setup Bogotá hardfork](https://github.com/besu-eth/besu/pull/11431#pullrequestreview-5394565357) - 2026-10-02
+* [Review] [Review on: End the pause between block creations on cancellation](https://github.com/besu-eth/besu/pull/11426#pullrequestreview-5391462578) - 2026-10-02
+* [Pull Request] [Fix verification metadata for Gradle plugins](https://github.com/besu-eth/besu/pull/11430) - 2026-10-02
+* [Commit] [Fix verification metadata for Gradle plugins (#11430)](https://github.com/besu-eth/besu/commit/2c0d106023d108a3326ec20357676576fe45ff48) - 2026-10-02
+* [Commit] [Fix txpool_besuPendingTransactions gasPrice filter on EIP-1559 transactions (#11374)](https://github.com/besu-eth/besu/commit/b4c95e36fd4ac184559ac7d179b1b81924106fed) - 2026-10-02
 ## Q3 2026
 
 

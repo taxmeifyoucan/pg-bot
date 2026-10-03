@@ -8,6 +8,11 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/reth/pull/27647#pullrequestreview-5389407071) - 2026-10-02
 ## Q3 2026
 
 

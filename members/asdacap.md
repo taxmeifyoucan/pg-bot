@@ -14,6 +14,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [feat(flat): trie node-dedup log in front of the trie columns](https://github.com/NethermindEth/nethermind/pull/14140) - 2026-10-01
 * [Review] [Review on: feat(flat): trie node-dedup log in front of the trie columns](https://github.com/NethermindEth/nethermind/pull/14140#pullrequestreview-5376945264) - 2026-10-01
+* [Review] [Review on: feat(flat): trie node-dedup log in front of the trie columns](https://github.com/NethermindEth/nethermind/pull/14140#pullrequestreview-5389776291) - 2026-10-02
+* [Commit] [feat(producer): check state availability for the target block (#14079)](https://github.com/NethermindEth/nethermind/commit/bf0bd4ed0c55a509cc046e3768ffdaf08890c4d5) - 2026-10-02
 ## Q3 2026
 
 

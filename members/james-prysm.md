@@ -16,6 +16,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Apply gossip clock disparity to Gloas payload attestation, bid, and proposer preferences slot checks](https://github.com/OffchainLabs/prysm/pull/17576#pullrequestreview-5385589926) - 2026-10-01
 * [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5383864482) - 2026-10-01
 * [Pull Request] [make sure fallback in keymanager uses gas limit schedule](https://github.com/OffchainLabs/prysm/pull/17601) - 2026-10-01
+* [Review] [Review on: Fix payload production in the first Gloas block](https://github.com/OffchainLabs/prysm/pull/17610#pullrequestreview-5393994290) - 2026-10-02
+* [Review] [Review on: Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559#pullrequestreview-5395409932) - 2026-10-02
+* [Pull Request] [add sepolia gas schedule](https://github.com/OffchainLabs/prysm/pull/17609) - 2026-10-02
+* [Review] [Review on: make sure fallback in keymanager uses gas limit schedule](https://github.com/OffchainLabs/prysm/pull/17601#pullrequestreview-5392671574) - 2026-10-02
+* [Commit] [add sepolia gas schedule (#17609)](https://github.com/OffchainLabs/prysm/commit/a3a9fb8851291edde14e517042d553f9c7d1cbcc) - 2026-10-02
+* [Commit] [make sure fallback in keymanager uses gas limit schedule (#17601)](https://github.com/OffchainLabs/prysm/commit/b6f189cb8faba9cbc8fbc7362d754c35d8e51f8f) - 2026-10-02
 ## Q3 2026
 
 

@@ -22,6 +22,37 @@ Team: Reth
 * [Pull Request] [perf(rpc): share precompile cache with validation](https://github.com/paradigmxyz/reth/pull/27638) - 2026-10-01
 * [Review] [Review on: chore(ci): remove e2e-rocksdb and edge leftovers](https://github.com/paradigmxyz/reth/pull/27636#pullrequestreview-5381617099) - 2026-10-01
 * [Commit] [test(rpc): build TraceFilter with Default in rpc-builder test (#27624)](https://github.com/paradigmxyz/reth/commit/a369af110bc104e64ee81b8600b0cc3d8a97e46e) - 2026-10-01
+* [Review] [Review on: refactor: reuse verified equivalent helpers](https://github.com/paradigmxyz/reth/pull/27652#pullrequestreview-5392430357) - 2026-10-02
+* [Review] [Review on: refactor: apply machine-applicable helper lints](https://github.com/paradigmxyz/reth/pull/27650#pullrequestreview-5391510352) - 2026-10-02
+* [Pull Request] [perf(engine): pre-size the BAL commit maps](https://github.com/paradigmxyz/reth/pull/27667) - 2026-10-02
+* [Pull Request] [perf(engine): drop the BAL cache in the background](https://github.com/paradigmxyz/reth/pull/27666) - 2026-10-02
+* [Pull Request] [perf(trie): run proof workers on parked threads](https://github.com/paradigmxyz/reth/pull/27664) - 2026-10-02
+* [Review] [Review on: feat(storage): anchor pruned static files at a block](https://github.com/paradigmxyz/reth/pull/27538#pullrequestreview-5394504625) - 2026-10-02
+* [Review] [Review on: feat(snap): publish snap state as the pipeline start](https://github.com/paradigmxyz/reth/pull/27539#pullrequestreview-5394423002) - 2026-10-02
+* [Pull Request] [fix(trie): build reth-trie-parallel without metrics](https://github.com/paradigmxyz/reth/pull/27662) - 2026-10-02
+* [Pull Request] [fix(tasks): treat a zero worker count as unset](https://github.com/paradigmxyz/reth/pull/27660) - 2026-10-02
+* [Pull Request] [perf(trie): share proof worker metrics handles](https://github.com/paradigmxyz/reth/pull/27661) - 2026-10-02
+* [Pull Request] [perf(engine): size proof worker pools by block gas](https://github.com/paradigmxyz/reth/pull/27196) - 2026-10-02
+* [Review] [Review on: perf(engine): size proof worker pools by block gas](https://github.com/paradigmxyz/reth/pull/27196#pullrequestreview-5393839811) - 2026-10-02
+* [Review] [Review on: fix(engine): use spec-default tx gas cap in BAL executor](https://github.com/paradigmxyz/reth/pull/27644#pullrequestreview-5392835351) - 2026-10-02
+* [Pull Request] [fix(rpc): use spec-default tx gas cap in simulate](https://github.com/paradigmxyz/reth/pull/27659) - 2026-10-02
+* [Pull Request] [test(e2e): drop redundant pending tx waits in RocksDB tests](https://github.com/paradigmxyz/reth/pull/27658) - 2026-10-02
+* [Pull Request] [feat(e2e): add persistence and prune checkpoint waits](https://github.com/paradigmxyz/reth/pull/27657) - 2026-10-02
+* [Pull Request] [feat(e2e): add a transaction builder to TestAccount](https://github.com/paradigmxyz/reth/pull/27656) - 2026-10-02
+* [Review] [Review on: perf(trie): compact arena node layout](https://github.com/paradigmxyz/reth/pull/27157#pullrequestreview-5391435077) - 2026-10-02
+* [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/reth/pull/27647) - 2026-10-02
+* [Review] [Review on: fix(engine): apply the blob budget to IL checks and log verdicts](https://github.com/paradigmxyz/reth/pull/27643#pullrequestreview-5391383658) - 2026-10-02
+* [Review] [Review on: fix(stages): persist backfilled bals](https://github.com/paradigmxyz/reth/pull/27645#pullrequestreview-5388919730) - 2026-10-02
+* [Review] [Review on: fix: clippy warnings](https://github.com/paradigmxyz/reth/pull/27646#pullrequestreview-5389221927) - 2026-10-02
+* [Commit] [fix(tasks): treat a zero worker count as unset (#27660)](https://github.com/paradigmxyz/reth/commit/bd3238abc249c79c22a28bd2f981787c07b11976) - 2026-10-02
+* [Commit] [perf(engine): size proof worker pools by block gas (#27196)](https://github.com/paradigmxyz/reth/commit/580e89512705a3aca0fda549b74e65580b7c7c88) - 2026-10-02
+* [Commit] [fix(rpc): use spec-default tx gas cap in simulate (#27659)](https://github.com/paradigmxyz/reth/commit/63af26d3a9934ff0d4d7ce5f6f8acf79ead71fee) - 2026-10-02
+* [Commit] [test(e2e): drop redundant pending tx waits in RocksDB tests (#27658)](https://github.com/paradigmxyz/reth/commit/189482d7af614216088e70ac2f3ec2b1bb191f56) - 2026-10-02
+* [Commit] [feat(e2e): add persistence and prune checkpoint waits (#27657)](https://github.com/paradigmxyz/reth/commit/72f84e0d9cd1a8f7ceee6fe245b00d05cf233efc) - 2026-10-02
+* [Commit] [feat(e2e): add a transaction builder to TestAccount (#27656)](https://github.com/paradigmxyz/reth/commit/ecfe4b226c4c5ebd6b6725deeaa81eee26903cbf) - 2026-10-02
+* [Commit] [perf(trie): compact arena node layout (#27157)](https://github.com/paradigmxyz/reth/commit/7d36b562e6289a025b96fa683227be5521e4992d) - 2026-10-02
+* [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#27647)](https://github.com/paradigmxyz/reth/commit/038edab20dfff017f7a7502e683c732e5628ad89) - 2026-10-02
+* [Commit] [perf(trie): seek sparse trie cursor on packed keys (#27155)](https://github.com/paradigmxyz/reth/commit/979e0a20cd7ae87147b2e7ee5c0b38b052a211d4) - 2026-10-02
 ## Q3 2026
 
 

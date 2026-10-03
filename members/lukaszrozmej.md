@@ -26,6 +26,57 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: docs(zkevm): move the OpenVM guest README into its project folder](https://github.com/NethermindEth/nethermind/pull/14150#pullrequestreview-5378372852) - 2026-10-01
 * [Commit] [test: drain deferred writes before corrupting the stored access list (#14148)](https://github.com/NethermindEth/nethermind/commit/3d144dff4ee9d57128c263a764c61fa8ea15ac55) - 2026-10-01
 * [Commit] [test(discovery): fix flaky E2EDiscoveryTests.TestDiscovery (#14126)](https://github.com/NethermindEth/nethermind/commit/80f4e681a7c4049f39b64f8bd85986a5eb869ddf) - 2026-10-01
+* [Review] [Review on: perf(prewarm): read the accounts that large calldata names as ABI address words](https://github.com/NethermindEth/nethermind/pull/14204#pullrequestreview-5397329648) - 2026-10-02
+* [Pull Request] [test(rpc): take the minimum of several runs in the receipt allocation test](https://github.com/NethermindEth/nethermind/pull/14189) - 2026-10-02
+* [Pull Request] [perf(zkevm): trim keccak call overhead in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14207) - 2026-10-02
+* [Pull Request] [perf(zkevm): relieve register pressure in the guest opcode handlers](https://github.com/NethermindEth/nethermind/pull/14206) - 2026-10-02
+* [Pull Request] [fix(rpc): canonical method names in RPC stats, stable metric labels, streamed writer depth/encoder](https://github.com/NethermindEth/nethermind/pull/14194) - 2026-10-02
+* [Review] [Review on: fix(eip8272): verify recent roots with a canonical VERIFY frame](https://github.com/NethermindEth/nethermind/pull/14071#pullrequestreview-5389555992) - 2026-10-02
+* [Pull Request] [perf(zkevm): leaner trie walks, node re-encoding and witness lookups](https://github.com/NethermindEth/nethermind/pull/14209) - 2026-10-02
+* [Pull Request] [perf(zkevm): copy byte runs with a direct memmove in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14208) - 2026-10-02
+* [Review] [Review on: fix(rpc): enforce frame transaction activation during calls](https://github.com/NethermindEth/nethermind/pull/14154#pullrequestreview-5389564217) - 2026-10-02
+* [Review] [Review on: fix(txpool): index the prefix paymaster as a frame tx dependency](https://github.com/NethermindEth/nethermind/pull/14172#pullrequestreview-5391551002) - 2026-10-02
+* [Review] [Review on: fix(docgen): load only runtime-dependency assemblies](https://github.com/NethermindEth/nethermind/pull/14203#pullrequestreview-5396920051) - 2026-10-02
+* [Review] [Review on: perf(zkevm): reverse bytes with Zbb's rev8 in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/13984#pullrequestreview-5396389964) - 2026-10-02
+* [Pull Request] [perf(rpc): read typed parameters through their converter](https://github.com/NethermindEth/nethermind/pull/14193) - 2026-10-02
+* [Review] [Review on: Bind JSON-RPC host names to their resolved addresses](https://github.com/NethermindEth/nethermind/pull/13746#pullrequestreview-5389288066) - 2026-10-02
+* [Pull Request] [build(zkevm): bump the bflat RISC-V64 image](https://github.com/NethermindEth/nethermind/pull/14201) - 2026-10-02
+* [Pull Request] [Decode receipts responses against the expected per-block receipt counts](https://github.com/NethermindEth/nethermind/pull/14191) - 2026-10-02
+* [Review] [Review on: Decode receipts responses against the expected per-block receipt counts](https://github.com/NethermindEth/nethermind/pull/14191#pullrequestreview-5396587030) - 2026-10-02
+* [Review] [Review on: test: fix pruning threshold race across midnight UTC](https://github.com/NethermindEth/nethermind/pull/14167#pullrequestreview-5390027290) - 2026-10-02
+* [Pull Request] [perf(rpc): allocation-free filter address/topic binding and access list serialization](https://github.com/NethermindEth/nethermind/pull/14198) - 2026-10-02
+* [Pull Request] [test: fix DevBlockProducerTests flake by awaiting block production](https://github.com/NethermindEth/nethermind/pull/14192) - 2026-10-02
+* [Pull Request] [perf(rpc): cut allocations and redundant work on hot JSON-RPC paths](https://github.com/NethermindEth/nethermind/pull/14195) - 2026-10-02
+* [Pull Request] [perf(rpc): answer complete socket messages from their bytes](https://github.com/NethermindEth/nethermind/pull/14196) - 2026-10-02
+* [Review] [Review on: perf(evm): carry host execution gas through opcode dispatch](https://github.com/NethermindEth/nethermind/pull/14178#pullrequestreview-5391965206) - 2026-10-02
+* [Pull Request] [perf(rpc): validate, count and decode a batch body in fewer passes](https://github.com/NethermindEth/nethermind/pull/14197) - 2026-10-02
+* [Review] [Review on: perf: share worker budgets across block processing stages](https://github.com/NethermindEth/nethermind/pull/14182#pullrequestreview-5393690136) - 2026-10-02
+* [Review] [Review on: perf(runner): stop idle thread-pool workers from spinning](https://github.com/NethermindEth/nethermind/pull/14162#pullrequestreview-5392159957) - 2026-10-02
+* [Review] [Review on: Back off peer candidates rejected by the contact filter](https://github.com/NethermindEth/nethermind/pull/14190#pullrequestreview-5396010695) - 2026-10-02
+* [Review] [Review on: perf(evm): remove jump-target bytecode prefetch hints](https://github.com/NethermindEth/nethermind/pull/14176#pullrequestreview-5391947497) - 2026-10-02
+* [Pull Request] [Verify EIP-1459 tree root signature in DNS discovery](https://github.com/NethermindEth/nethermind/pull/14183) - 2026-10-02
+* [Review] [Review on: Verify EIP-1459 tree root signature in DNS discovery](https://github.com/NethermindEth/nethermind/pull/14183#pullrequestreview-5393531876) - 2026-10-02
+* [Pull Request] [perf(rpc): read single-object request bodies in one pass](https://github.com/NethermindEth/nethermind/pull/14187) - 2026-10-02
+* [Pull Request] [test(merge): make the engine JSON/SSZ round-trip benchmarks run and measure production costs](https://github.com/NethermindEth/nethermind/pull/14188) - 2026-10-02
+* [Pull Request] [Check eth/snap response request ids before decoding](https://github.com/NethermindEth/nethermind/pull/14184) - 2026-10-02
+* [Pull Request] [Normalize invalid-length input of flat-fee cached precompiles](https://github.com/NethermindEth/nethermind/pull/14185) - 2026-10-02
+* [Commit] [build(zkevm): bump the bflat RISC-V64 image (#14201)](https://github.com/NethermindEth/nethermind/commit/5f8939e71883a669205660f92df005f4e5b2cbbb) - 2026-10-02
+* [Commit] [Verify EIP-1459 tree root signature in DNS discovery (#14183)](https://github.com/NethermindEth/nethermind/commit/c1ba5c5cdaedbce37955e549c127a026712ce56a) - 2026-10-02
+* [Commit] [perf(rpc): read single-object request bodies in one pass (#14187)](https://github.com/NethermindEth/nethermind/commit/cc9eb0b6a5d4983100f57331feaa23d5daa89361) - 2026-10-02
+* [Commit] [test(merge): make the engine JSON/SSZ round-trip benchmarks run and measure production costs (#14188)](https://github.com/NethermindEth/nethermind/commit/84c52f017f55a9d3a9fc1f94b7a38b208e527fb3) - 2026-10-02
+* [Commit] [Check eth/snap response request ids before decoding (#14184)](https://github.com/NethermindEth/nethermind/commit/d1178d898e88c609cd6e6fe1e972628ad02ddbda) - 2026-10-02
+* [Commit] [Normalize invalid-length input of flat-fee cached precompiles (#14185)](https://github.com/NethermindEth/nethermind/commit/1eb94fff1222a40d5d1b94fbb6e57b3f6acb2f1c) - 2026-10-02
+
+[NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
+* [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
+* [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
+* [Commit] [Gate ZisK bit manipulation on the fixed compiler package](https://github.com/NethermindEth/bflat-riscv64/commit/fabe66aa773b28ac6a64b979f7a5aa0c4d26ccaa) - 2026-10-02
+* [Commit] [Restore TLS lookup contract and cover lazy first use](https://github.com/NethermindEth/bflat-riscv64/commit/f37f55ac9057105668e1394edc60bdae8b8b7aab) - 2026-10-02
+
+[nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
+* [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
+* [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
+* [Commit] [fixup/11/upstream: keep widening casts under width-from-operand users; Zb lowering fixes](https://github.com/NethermindEth/dotnet-riscv/commit/6d87c98fe7b9b4cea78ee4ed754c141cd08dfa73) - 2026-10-02
 ## Q3 2026
 
 

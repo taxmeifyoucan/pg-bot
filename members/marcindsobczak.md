@@ -18,6 +18,11 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [perf(evm): reuse child call frames per depth instead of the thread-static pools](https://github.com/NethermindEth/nethermind/pull/14139) - 2026-10-01
 * [Review] [Review on: perf(evm): reuse child call frames per depth instead of the thread-static pools](https://github.com/NethermindEth/nethermind/pull/14139#pullrequestreview-5376464662) - 2026-10-01
 * [Commit] [fix(rpc): code written during a call replaces a stateOverride code override (#14114)](https://github.com/NethermindEth/nethermind/commit/26b784fdca15e25f95e210fa190477e4b056fd7d) - 2026-10-01
+* [Pull Request] [Reduce access-list journal and repeated-account lookup costs](https://github.com/NethermindEth/nethermind/pull/14199) - 2026-10-02
+* [Pull Request] [Reuse pooled scratch for large nested EVM return data](https://github.com/NethermindEth/nethermind/pull/14200) - 2026-10-02
+* [Commit] [fix(state): a code override ends when its account is destroyed before Cancun (#14125)](https://github.com/NethermindEth/nethermind/commit/be77c772ceb2faf0b257f717be6d908e5804b5ef) - 2026-10-02
+* [Commit] [perf(evm): reuse child call frames per depth instead of the thread-static pools (#14139)](https://github.com/NethermindEth/nethermind/commit/1fa9b82921f244bfccfca347ca6e5ea07ae36e51) - 2026-10-02
+* [Commit] [test(rpc): cover the resolved-code memo of eth_call end to end (#14121)](https://github.com/NethermindEth/nethermind/commit/ef2c6c52017ff3023023d002e74baa45133c14ca) - 2026-10-02
 ## Q3 2026
 
 

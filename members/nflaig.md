@@ -35,6 +35,26 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: reject checkpoint sync state with mismatching fork (#10228)](https://github.com/ChainSafe/lodestar/commit/a4451e41c8358d07d7facf1e1a49361e75d09b10) - 2026-10-01
 * [Commit] [fix: track slashing signature domains across forks (#10217)](https://github.com/ChainSafe/lodestar/commit/d86161f63c3adf1b377e7c15f189c508969760f5) - 2026-10-01
 
+* [Review] [Review on: fix: surface archived envelopes the EL cannot serve](https://github.com/ChainSafe/lodestar/pull/10248#pullrequestreview-5397567841) - 2026-10-02
+* [Review] [Review on: perf: hoist weak-subjectivity staleness check before anchor state load](https://github.com/ChainSafe/lodestar/pull/10229#pullrequestreview-5395954340) - 2026-10-02
+* [Review] [Review on: fix: discount empty slot support by fork choice node](https://github.com/ChainSafe/lodestar/pull/10211#pullrequestreview-5396213089) - 2026-10-02
+* [Review] [Review on: fix: ignore messages from FATAL peer](https://github.com/ChainSafe/lodestar/pull/10239#pullrequestreview-5390926652) - 2026-10-02
+* [Pull Request] [fix: evict invalid payload envelopes from the seen cache](https://github.com/ChainSafe/lodestar/pull/10246) - 2026-10-02
+* [Review] [Review on: fix: evict invalid payload envelopes from the seen cache](https://github.com/ChainSafe/lodestar/pull/10246#pullrequestreview-5394851530) - 2026-10-02
+* [Review] [Review on: feat: `payload_attributes` event gloas](https://github.com/ChainSafe/lodestar/pull/10243#pullrequestreview-5395263884) - 2026-10-02
+* [Pull Request] [fix: do not miss PTC duties in the first Gloas epoch](https://github.com/ChainSafe/lodestar/pull/10242) - 2026-10-02
+* [Review] [Review on: fix: do not miss PTC duties in the first Gloas epoch](https://github.com/ChainSafe/lodestar/pull/10242#pullrequestreview-5391476019) - 2026-10-02
+* [Review] [Review on: feat: persist pubkey cache across restarts](https://github.com/ChainSafe/lodestar/pull/10152#pullrequestreview-5391216177) - 2026-10-02
+* [Review] [Review on: fix: reject null slot gossip messages](https://github.com/ChainSafe/lodestar/pull/10241#pullrequestreview-5390971383) - 2026-10-02
+* [Review] [Review on: feat(api): carry forkchoice hashes on post-gloas payload_attributes events](https://github.com/ChainSafe/lodestar/pull/10109#pullrequestreview-5391532143) - 2026-10-02
+* [Review] [Review on: feat(builder): assemble stateless payload envelopes](https://github.com/ChainSafe/lodestar/pull/9981#pullrequestreview-5389352109) - 2026-10-02
+* [Review] [Review on: feat(builder): match selected local bids](https://github.com/ChainSafe/lodestar/pull/9980#pullrequestreview-5388759504) - 2026-10-02
+* [Review] [Review on: feat(builder): publish stateless payload envelopes](https://github.com/ChainSafe/lodestar/pull/9982#pullrequestreview-5389630070) - 2026-10-02
+* [Review] [Review on: docs: add note about ai contribution](https://github.com/ChainSafe/lodestar/pull/10244#pullrequestreview-5393541674) - 2026-10-02
+* [Review] [Review on: chore: remove blob related code](https://github.com/ChainSafe/lodestar/pull/9957#pullrequestreview-5391404612) - 2026-10-02
+* [Commit] [fix: replace latest messages by slot from gloas (#10128)](https://github.com/ChainSafe/lodestar/commit/70314c9caa5eb59f3207796818475284095ef37e) - 2026-10-02
+* [Commit] [fix: evict invalid payload envelopes from the seen cache (#10246)](https://github.com/ChainSafe/lodestar/commit/3bd495295ea2472ff7bc82d342c356c460007b0a) - 2026-10-02
+* [Commit] [fix: do not miss PTC duties in the first Gloas epoch (#10242)](https://github.com/ChainSafe/lodestar/commit/456b75a81ee79bfaaa5098f256ea789f2da12ae9) - 2026-10-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

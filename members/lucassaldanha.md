@@ -31,6 +31,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Merge JUnit XML per shard before uploading test reports (#11384)](https://github.com/Consensys-Incorporated/teku/commit/fdb9b9f4e979fdf54664086fe35cc2cd1836afea) - 2026-10-01
 * [Commit] [Publish test reports as check runs from a workflow_run workflow (#11383)](https://github.com/Consensys-Incorporated/teku/commit/fd1b844e146a61d6c62630b3f6b83e38be172055) - 2026-10-01
 * [Commit] [Remove Gradle workers.max=4 cap from CI (#11382)](https://github.com/Consensys-Incorporated/teku/commit/6f246728e20b0e45aeb13577c1ff7e132b89850f) - 2026-10-01
+* [Issue] [Gossipsub peer score metrics (3rd batch)](https://github.com/Consensys-Incorporated/teku/issues/11391) - 2026-10-02
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

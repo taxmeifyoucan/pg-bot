@@ -14,6 +14,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Release v8.3.0-rc.0](https://github.com/sigp/lighthouse/pull/10181#pullrequestreview-5373861567) - 2026-10-01
 * [Review] [Review on: Merge v8.2.3 into unstable](https://github.com/sigp/lighthouse/pull/10180#pullrequestreview-5373790165) - 2026-10-01
 * [Review] [Review on: Release v8.2.3](https://github.com/sigp/lighthouse/pull/10179#pullrequestreview-5373561149) - 2026-10-01
+* [Review] [Review on: Implement `GET beacon/pool/payload_attestations` endpoint](https://github.com/sigp/lighthouse/pull/10038#pullrequestreview-5389147167) - 2026-10-02
+* [Review] [Review on: Add documentation for fast confirmation rule](https://github.com/sigp/lighthouse/pull/10183#pullrequestreview-5388156450) - 2026-10-02
 ## Q3 2026
 
 

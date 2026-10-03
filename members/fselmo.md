@@ -16,8 +16,14 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: Update EIP-7928: clarify warm `SELFDESTRUCT` beneficiary access cost](https://github.com/ethereum/EIPs/pull/12408#pullrequestreview-5383154670) - 2026-10-01
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5385380175) - 2026-10-01
 
+* [Commit] [Update EIP-8159: Match EIP-7928 BAL storage types](https://github.com/ethereum/EIPs/commit/59d4019f121a26f9efbd6b0bfc9c3b9fc0815855) - 2026-10-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380765838) - 2026-10-01
+* [Pull Request] [fix(test-specs): keep a failing block's fixture to one defect](https://github.com/ethereum/execution-specs/pull/3698) - 2026-10-02
+* [Commit] [feat(test-specs, tests): tests for BAL parallel execution (#3670)](https://github.com/ethereum/execution-specs/commit/a87891f7e69eab1f903233c61c5514d8c94bd5d1) - 2026-10-02
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 ## Q3 2026
 
 

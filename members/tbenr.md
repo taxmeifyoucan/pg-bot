@@ -8,6 +8,20 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 ## Contributions
 
+## Q4 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Stop rejecting slashings for offences in an earlier fork at the gossip topic layer](https://github.com/Consensys-Incorporated/teku/pull/11393) - 2026-10-02
+* [Pull Request] [VoluntaryExitGossipManager fork validation fix](https://github.com/Consensys-Incorporated/teku/pull/11392) - 2026-10-02
+* [Commit] [Stop rejecting slashings for offences in an earlier fork at the gossip topic layer (#11393)](https://github.com/Consensys-Incorporated/teku/commit/d9d461d0b3615e58c94399a34b050a84887e8308) - 2026-10-02
+* [Commit] [VoluntaryExitGossipManager fork validation fix (#11392)](https://github.com/Consensys-Incorporated/teku/commit/618590295b324e2b2dc6c173b951ebcf7349b94d) - 2026-10-02
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Pull Request] [quic connect timeout fix](https://github.com/libp2p/jvm-libp2p/pull/535) - 2026-10-02
 ## Q3 2026
 
 

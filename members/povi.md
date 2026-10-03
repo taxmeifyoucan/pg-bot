@@ -14,6 +14,7 @@ Team: Grandine
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [State cache prune locking improvements](https://github.com/grandinetech/grandine/pull/950) - 2026-10-01
 * [Commit] [Enable wait for fully validated head for pre-Gloas phases](https://github.com/grandinetech/grandine/commit/7be8d120b080e5758f27e092055359436317c6b9) - 2026-10-01
+* [Review] [Review on: Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951#pullrequestreview-5390250941) - 2026-10-02
 ## Q3 2026
 
 

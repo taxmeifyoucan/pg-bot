@@ -32,6 +32,12 @@ Team: Erigon
 * [Commit] [rpc/jsonstream: one concrete Stream type (#24433)](https://github.com/erigontech/erigon/commit/31a1065c98d95ba1fdeec7eaa6f314ad9436da41) - 2026-10-01
 * [Commit] [rpc/jsonstream: replace LazyFieldStream by helper (#24350)](https://github.com/erigontech/erigon/commit/9c3697f5bf23cabd89767ea90ef54796330715ed) - 2026-10-01
 * [Commit] [rpc/jsonstream: write quantity and data fields in one step (#24428)](https://github.com/erigontech/erigon/commit/edd005cdc38729b070bf6aaf334ee80f6008dde1) - 2026-10-01
+* [Pull Request] [execution/vm: skip the jump table for the hottest opcodes](https://github.com/erigontech/erigon/pull/24510) - 2026-10-02
+* [Pull Request] [execution/state: ReadSet storage as key->index map plus value slices](https://github.com/erigontech/erigon/pull/24516) - 2026-10-03
+* [Review] [Review on: execution/vm/evmtypes: drop the defensive copy in Return/Revert](https://github.com/erigontech/erigon/pull/24470#pullrequestreview-5391656231) - 2026-10-02
+* [Pull Request] [exec: `InternKey` small global lock-free cache](https://github.com/erigontech/erigon/pull/24499) - 2026-10-02
+* [Review] [Review on: db: inverted index flush prefetch](https://github.com/erigontech/erigon/pull/24483#pullrequestreview-5389083663) - 2026-10-02
+* [Commit] [rpc/transactions: CALL_NO_MATERIALIZE runs eth_call on the versioned state path (#24495)](https://github.com/erigontech/erigon/commit/0fd83ee2c6f2ac91c1d4ab182ddc4f97bb2d6319) - 2026-10-02
 ## Q3 2026
 
 

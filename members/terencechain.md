@@ -8,6 +8,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 ## Contributions
 
+## Q4 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Fix payload production in the first Gloas block](https://github.com/OffchainLabs/prysm/pull/17610#pullrequestreview-5393641529) - 2026-10-02
+* [Review] [Review on: Unfinalized checkpoint sync](https://github.com/OffchainLabs/prysm/pull/17559#pullrequestreview-5396253030) - 2026-10-02
+* [Review] [Review on: Refresh security.txt contact, keys, and expiry](https://github.com/OffchainLabs/prysm/pull/17611#pullrequestreview-5395780492) - 2026-10-02
+* [Review] [Review on: Do not use background context in upgradeToGloas](https://github.com/OffchainLabs/prysm/pull/17608#pullrequestreview-5392341252) - 2026-10-02
+* [Review] [Review on: Enforce ProgressiveList limits defined on STF during unmarshal](https://github.com/OffchainLabs/prysm/pull/17412#pullrequestreview-5395773909) - 2026-10-02
+* [Commit] [Skip execution blocks the EL no longer has when reconstructing Gloas envelopes by root (#17526)](https://github.com/OffchainLabs/prysm/commit/24116b013389b1022f98b1252c1d652fa218aac8) - 2026-10-02
 ## Q3 2026
 
 

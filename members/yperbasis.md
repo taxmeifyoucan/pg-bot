@@ -16,8 +16,25 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/p2p: allocate test listener ports per transport (#24475)](https://github.com/erigontech/erigon/commit/66e3cd23290c6bd63224321b29b404aeb6e033de) - 2026-10-01
 * [Commit] [cl/services: harden deferred Gloas data-column sidecars (#23645)](https://github.com/erigontech/erigon/commit/50e2cc4f9808e670b93df0672167c04da05ab9b7) - 2026-10-01
 
+* [Pull Request] [txnprovider/txpool: defer authorization recovery until after prechecks](https://github.com/erigontech/erigon/pull/24509) - 2026-10-02
+* [Review] [Review on: commitment: parallel fold workers read the caller's snapshot](https://github.com/erigontech/erigon/pull/23722#pullrequestreview-5393342860) - 2026-10-02
+* [Pull Request] [txnprovider/txpool: cap transaction packet counts before decoding](https://github.com/erigontech/erigon/pull/24508) - 2026-10-02
+* [Review] [Review on: docs(site): carry the v3.5 archive onto main](https://github.com/erigontech/erigon/pull/24124#pullrequestreview-5390305019) - 2026-10-02
+* [Review] [Review on: execution/vm: NEON JUMPDEST analysis](https://github.com/erigontech/erigon/pull/24438#pullrequestreview-5390012871) - 2026-10-02
+* [Review] [Review on: execution/vm/evmtypes: drop the defensive copy in Return/Revert](https://github.com/erigontech/erigon/pull/24470#pullrequestreview-5390064165) - 2026-10-02
+* [Review] [Review on: docs(site): document 3.7 RPC, config, txpool and compaction changes](https://github.com/erigontech/erigon/pull/24490#pullrequestreview-5390359793) - 2026-10-02
+* [Review] [Review on: execution/vm: SSE4 JUMPDEST analysis](https://github.com/erigontech/erigon/pull/24364#pullrequestreview-5390012629) - 2026-10-02
+* [Pull Request] [engineapi, cl: move CL adapters out of Engine API types](https://github.com/erigontech/erigon/pull/24507) - 2026-10-02
+* [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5390012411) - 2026-10-02
+* [Review] [Review on: execution/cache: never Set an existing key in ByteLRU](https://github.com/erigontech/erigon/pull/24494#pullrequestreview-5390765843) - 2026-10-02
+* [Review] [Review on: build: give C++ deps the same cgo flags as C](https://github.com/erigontech/erigon/pull/23874#pullrequestreview-5390305925) - 2026-10-02
+* [Issue] [vm: fix JUMPDEST cache bitmap byte accounting](https://github.com/erigontech/erigon/issues/24501) - 2026-10-02
+* [Commit] [execution, cl: share assembled payload conversions (#24477)](https://github.com/erigontech/erigon/commit/8edecff26148fcc4f9dbd78b18cf157a1cbdc312) - 2026-10-02
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/devp2p: respect negotiated eth version in transaction tests](https://github.com/ethereum/go-ethereum/pull/35869) - 2026-10-02
 ## Q3 2026
 
 

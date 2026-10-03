@@ -14,10 +14,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [enforce Nim versions](https://github.com/status-im/nimbus-eth1/pull/4884) - 2026-10-01
 
+* [Commit] [enforce Nim versions (#4884)](https://github.com/status-im/nimbus-eth1/commit/3f010b0ab952f6e6e7f766726ef6312c1f3a33d5) - 2026-10-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
 * [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
+* [Pull Request] [rm unused getBlobsV3 remnants](https://github.com/status-im/nimbus-eth2/pull/9174) - 2026-10-02
+* [Pull Request] [rm pre-fulu metadata](https://github.com/status-im/nimbus-eth2/pull/9166) - 2026-10-02
 ## Q3 2026
 
 

@@ -8,6 +8,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: feat: persist pubkey cache across restarts](https://github.com/ChainSafe/lodestar/pull/10152#pullrequestreview-5392977846) - 2026-10-02
+* [Pull Request] [docs: add note about ai contribution](https://github.com/ChainSafe/lodestar/pull/10244) - 2026-10-02
+* [Review] [Review on: docs: add note about ai contribution](https://github.com/ChainSafe/lodestar/pull/10244#pullrequestreview-5393488498) - 2026-10-02
+* [Commit] [docs: add note about ai contribution (#10244)](https://github.com/ChainSafe/lodestar/commit/db953a4f93a563983186f098966576476310f38a) - 2026-10-02
 ## Q3 2026
 
 

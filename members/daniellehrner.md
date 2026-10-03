@@ -22,6 +22,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Versioned code storage [1/3] Add a rewrite operation for whole storage segments (#11363)](https://github.com/besu-eth/besu/commit/4315dc1848dea3dee1719446275e6611bd5ea33d) - 2026-10-01
 * [Commit] [Accept upper-half uint64 targetGasLimit in engine_forkchoiceUpdatedV4 (#11389)](https://github.com/besu-eth/besu/commit/46a46220cbe28639219f2f052a10125d5fc86147) - 2026-10-01
 * [Commit] [Rotate changelog for 26.9.0 (#11388)](https://github.com/besu-eth/besu/commit/3540a8308acac975f60519cc861f2d7ba97f3ebf) - 2026-10-01
+
+* [Pull Request] [End the pause between block creations on cancellation](https://github.com/besu-eth/besu/pull/11426) - 2026-10-02
+* [Pull Request] [Drop the block in flight on getPayload when a block with transactions exists](https://github.com/besu-eth/besu/pull/11429) - 2026-10-02
+* [Pull Request] [Measure in sync status against the engine payload head](https://github.com/besu-eth/besu/pull/11424) - 2026-10-02
+* [Pull Request] [Make every method advertised by engine_exchangeCapabilities callable](https://github.com/besu-eth/besu/pull/11425) - 2026-10-02
+* [Review] [Review on: Make every method advertised by engine_exchangeCapabilities callable](https://github.com/besu-eth/besu/pull/11425#pullrequestreview-5390768152) - 2026-10-02
+* [Commit] [End the pause between block creations on cancellation (#11426)](https://github.com/besu-eth/besu/commit/ac7842de5943e006cc56ef8ad28915bdc3b2acb9) - 2026-10-02
+* [Commit] [Measure in sync status against the engine payload head (#11424)](https://github.com/besu-eth/besu/commit/8a84928d87648bfd741a77035da12ba68fbeecad) - 2026-10-02
+* [Commit] [Make every method advertised by engine_exchangeCapabilities callable (#11425)](https://github.com/besu-eth/besu/commit/77d67eb16fb256090030c2f5d1631b0d76fd3222) - 2026-10-02
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026
 
 

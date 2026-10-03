@@ -12,6 +12,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Implement Gloas builder flow from beacon-APIs](https://github.com/grandinetech/grandine/pull/948) - 2026-10-01
+* [Pull Request] [Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951) - 2026-10-02
+* [Review] [Review on: Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951#pullrequestreview-5391645768) - 2026-10-02
+* [Issue] [Add per-key builder configuration to key manager](https://github.com/grandinetech/grandine/issues/952) - 2026-10-02
 ## Q3 2026
 
 

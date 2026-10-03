@@ -8,6 +8,11 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: fix(ci): correct rust-toolchain pin comments](https://github.com/paradigmxyz/reth/pull/27655#pullrequestreview-5391295885) - 2026-10-02
 ## Q3 2026
 
 

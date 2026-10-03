@@ -6,6 +6,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 ## Contributions
 
+## Q4 2026
+
+
+[Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
+* [Review] [Review on: fix(sumcheck,binary-pcs,multi-stark): check an AIR's bit columns against the commitment](https://github.com/Plonky3/Plonky3/pull/2383#pullrequestreview-5389906003) - 2026-10-02
 ## Q3 2026
 
 

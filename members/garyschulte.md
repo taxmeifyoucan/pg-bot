@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 ## Contributions
 
+## Q4 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Fix verification metadata for Gradle plugins](https://github.com/besu-eth/besu/pull/11430#pullrequestreview-5393305645) - 2026-10-02
 ## Q3 2026
 
 

@@ -14,9 +14,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: test: add `initBeaconState` unit tests](https://github.com/ChainSafe/lodestar/pull/10233#pullrequestreview-5380302993) - 2026-10-01
 
+* [Review] [Review on: perf: hoist weak-subjectivity staleness check before anchor state load](https://github.com/ChainSafe/lodestar/pull/10229#pullrequestreview-5395939864) - 2026-10-02
+* [Review] [Review on: fix: replace latest messages by slot from gloas](https://github.com/ChainSafe/lodestar/pull/10128#pullrequestreview-5396077325) - 2026-10-02
+* [Review] [Review on: fix: ignore messages from FATAL peer](https://github.com/ChainSafe/lodestar/pull/10239#pullrequestreview-5395061739) - 2026-10-02
+* [Review] [Review on: fix: evict invalid payload envelopes from the seen cache](https://github.com/ChainSafe/lodestar/pull/10246#pullrequestreview-5395153938) - 2026-10-02
+* [Review] [Review on: feat: `payload_attributes` event gloas](https://github.com/ChainSafe/lodestar/pull/10243#pullrequestreview-5395199069) - 2026-10-02
+* [Review] [Review on: fix: do not miss PTC duties in the first Gloas epoch](https://github.com/ChainSafe/lodestar/pull/10242#pullrequestreview-5395070052) - 2026-10-02
+* [Review] [Review on: docs: add note about ai contribution](https://github.com/ChainSafe/lodestar/pull/10244#pullrequestreview-5393494332) - 2026-10-02
+* [Commit] [feat: persist pubkey cache across restarts (#10152)](https://github.com/ChainSafe/lodestar/commit/e90f18e925d0982157e846261c128001b037d605) - 2026-10-02
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
+
+* [Review] [Review on: refactor(state-transition): remove reused cache lock](https://github.com/ChainSafe/lodestar-z/pull/750#pullrequestreview-5395105899) - 2026-10-02
+* [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5395083749) - 2026-10-02
+* [Commit] [perf: stream progressive hashing (#744)](https://github.com/ChainSafe/lodestar-z/commit/1ceb7ca7d14e3aa0d6195124c626fc5cb7866e38) - 2026-10-02
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 ## Q3 2026
 
 

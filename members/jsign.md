@@ -14,6 +14,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8025: Align execution layer with tests-zkevm@v21.0.1](https://github.com/ethereum/EIPs/pull/12411) - 2026-10-01
 * [Commit] [Update EIP-8025: Align execution layer with tests-zkevm@v21.0.1](https://github.com/ethereum/EIPs/commit/08500ae9941697c863cd93ec9858cf4d0f2e5998) - 2026-10-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [chore(zkevm): update geth filler for v21](https://github.com/ethereum/execution-specs/pull/3697) - 2026-10-02
 ## Q3 2026
 
 

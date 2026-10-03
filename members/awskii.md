@@ -8,6 +8,19 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [EIP-8297 partitioned binary tree commitment on v3 rows](https://github.com/erigontech/erigon/pull/24511) - 2026-10-02
+* [Review] [Review on: docs(site): carry the v3.5 archive onto main](https://github.com/erigontech/erigon/pull/24124#pullrequestreview-5389258903) - 2026-10-02
+* [Pull Request] [execution/state: keep BlockStateCache accounts and storage decoded](https://github.com/erigontech/erigon/pull/24505) - 2026-10-02
+* [Review] [Review on: docs(site): document 3.7 RPC, config, txpool and compaction changes](https://github.com/erigontech/erigon/pull/24490#pullrequestreview-5389257617) - 2026-10-02
+* [Review] [Review on: docs(site): document the plain commitment format and its migration paths](https://github.com/erigontech/erigon/pull/24437#pullrequestreview-5389258119) - 2026-10-02
+* [Review] [Review on: [r3.7] docs(site): document 3.7 RPC, config, txpool and compaction changes](https://github.com/erigontech/erigon/pull/24491#pullrequestreview-5389257862) - 2026-10-02
+* [Review] [Review on: [r3.7] docs(site): document the plain commitment format and its migration paths](https://github.com/erigontech/erigon/pull/24467#pullrequestreview-5389258384) - 2026-10-02
+* [Review] [Review on: docs(site): 3.6.1 disk sizes and sync times, x86-64-v2 CPU baseline, 3.7 upgrade notes](https://github.com/erigontech/erigon/pull/24436#pullrequestreview-5389258690) - 2026-10-02
+* [Commit] [execution/commitment/trie: drop orphaned v2 subtrie-loading layer (#24434)](https://github.com/erigontech/erigon/commit/2cd7a82b30b7e35caa0526e8555999dfbfd10045) - 2026-10-02
 ## Q3 2026
 
 

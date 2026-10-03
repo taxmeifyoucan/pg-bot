@@ -19,6 +19,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Issue] [Parity chainspec omits genesis requests_hash when only EIP-8282 is active](https://github.com/NethermindEth/nethermind/issues/14143) - 2026-10-01
 * [Issue] [TxPool retains excess frame transactions after a pay target becomes noncanonical](https://github.com/NethermindEth/nethermind/issues/14142) - 2026-10-01
 * [Issue] [eth_call executes frame transactions before EIP-8141 activation](https://github.com/NethermindEth/nethermind/issues/14141) - 2026-10-01
+* [Review] [Review on: Verify EIP-1459 tree root signature in DNS discovery](https://github.com/NethermindEth/nethermind/pull/14183#pullrequestreview-5394638018) - 2026-10-02
+* [Commit] [Honor discv4 Ping forward compatibility (#14151)](https://github.com/NethermindEth/nethermind/commit/2db6830e1e0fe9e7f9515306a0fe5462c40df6e1) - 2026-10-02
 ## Q3 2026
 
 

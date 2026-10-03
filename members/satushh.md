@@ -12,6 +12,8 @@ Github: [@satushh](https://github.com/satushh)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Never reorg when PROPOSER_REORG_CUTOFF_BPS cannot fit within the slot](https://github.com/OffchainLabs/prysm/pull/17598) - 2026-10-01
 * [Pull Request] [Derive late-block reorg timing from PROPOSER_REORG_CUTOFF_BPS](https://github.com/OffchainLabs/prysm/pull/17594) - 2026-10-01
+* [Review] [Review on: Fix payload production in the first Gloas block](https://github.com/OffchainLabs/prysm/pull/17610#pullrequestreview-5394412518) - 2026-10-02
+* [Pull Request] [Limit Gloas payload envelope validation work](https://github.com/OffchainLabs/prysm/pull/17612) - 2026-10-02
 ## Q3 2026
 
 

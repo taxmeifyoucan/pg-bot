@@ -25,6 +25,33 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: docs(zkevm): move the OpenVM guest README into its project folder](https://github.com/NethermindEth/nethermind/pull/14150#pullrequestreview-5378213977) - 2026-10-01
 * [Commit] [fix: preserve RPC gas cap error when estimating frame limits (#14166)](https://github.com/NethermindEth/nethermind/commit/cd4967c34119e53408febe070febb49592daf6fd) - 2026-10-02
 * [Commit] [perf(zkvm): keep jump bitmap offsets native-sized (#14129)](https://github.com/NethermindEth/nethermind/commit/3e7c5e815f73005b03a3322654b5f3686f52ad48) - 2026-10-01
+* [Review] [Review on: perf(prewarm): read the accounts that large calldata names as ABI address words](https://github.com/NethermindEth/nethermind/pull/14204#pullrequestreview-5397316100) - 2026-10-02
+* [Pull Request] [Avoid HTTP and JSON round trips in local health-check UI polling](https://github.com/NethermindEth/nethermind/pull/14211) - 2026-10-03
+* [Review] [Review on: Avoid HTTP and JSON round trips in local health-check UI polling](https://github.com/NethermindEth/nethermind/pull/14211#pullrequestreview-5398344482) - 2026-10-03
+* [Review] [Review on: test(rpc): take the minimum of several runs in the receipt allocation test](https://github.com/NethermindEth/nethermind/pull/14189#pullrequestreview-5395607363) - 2026-10-02
+* [Review] [Review on: fix(rpc): canonical method names in RPC stats, stable metric labels, streamed writer depth/encoder](https://github.com/NethermindEth/nethermind/pull/14194#pullrequestreview-5396422951) - 2026-10-02
+* [Review] [Review on: fix(rpc): enforce frame transaction activation during calls](https://github.com/NethermindEth/nethermind/pull/14154#pullrequestreview-5395608877) - 2026-10-02
+* [Review] [Review on: fix(docgen): load only runtime-dependency assemblies](https://github.com/NethermindEth/nethermind/pull/14203#pullrequestreview-5397459834) - 2026-10-02
+* [Review] [Review on: perf(zkevm): reverse bytes with Zbb's rev8 in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/13984#pullrequestreview-5396766309) - 2026-10-02
+* [Review] [Review on: perf(rpc): read typed parameters through their converter](https://github.com/NethermindEth/nethermind/pull/14193#pullrequestreview-5396423118) - 2026-10-02
+* [Review] [Review on: build(zkevm): bump the bflat RISC-V64 image](https://github.com/NethermindEth/nethermind/pull/14201#pullrequestreview-5396496718) - 2026-10-02
+* [Review] [Review on: Decode receipts responses against the expected per-block receipt counts](https://github.com/NethermindEth/nethermind/pull/14191#pullrequestreview-5396423445) - 2026-10-02
+* [Review] [Review on: perf(rpc): allocation-free filter address/topic binding and access list serialization](https://github.com/NethermindEth/nethermind/pull/14198#pullrequestreview-5396422517) - 2026-10-02
+* [Review] [Review on: test: fix DevBlockProducerTests flake by awaiting block production](https://github.com/NethermindEth/nethermind/pull/14192#pullrequestreview-5396423268) - 2026-10-02
+* [Review] [Review on: perf(rpc): cut allocations and redundant work on hot JSON-RPC paths](https://github.com/NethermindEth/nethermind/pull/14195#pullrequestreview-5396422811) - 2026-10-02
+* [Review] [Review on: perf(rpc): answer complete socket messages from their bytes](https://github.com/NethermindEth/nethermind/pull/14196#pullrequestreview-5396420167) - 2026-10-02
+* [Review] [Review on: perf(rpc): validate, count and decode a batch body in fewer passes](https://github.com/NethermindEth/nethermind/pull/14197#pullrequestreview-5396422663) - 2026-10-02
+* [Pull Request] [perf: share worker budgets across block processing stages](https://github.com/NethermindEth/nethermind/pull/14182) - 2026-10-02
+* [Review] [Review on: perf: share worker budgets across block processing stages](https://github.com/NethermindEth/nethermind/pull/14182#pullrequestreview-5393268722) - 2026-10-02
+* [Review] [Review on: perf(evm): remove jump-target bytecode prefetch hints](https://github.com/NethermindEth/nethermind/pull/14176#pullrequestreview-5392532902) - 2026-10-02
+* [Review] [Review on: Verify EIP-1459 tree root signature in DNS discovery](https://github.com/NethermindEth/nethermind/pull/14183#pullrequestreview-5395608098) - 2026-10-02
+* [Review] [Review on: perf(rpc): read single-object request bodies in one pass](https://github.com/NethermindEth/nethermind/pull/14187#pullrequestreview-5394299895) - 2026-10-02
+* [Review] [Review on: test(merge): make the engine JSON/SSZ round-trip benchmarks run and measure production costs](https://github.com/NethermindEth/nethermind/pull/14188#pullrequestreview-5395607587) - 2026-10-02
+* [Review] [Review on: Check eth/snap response request ids before decoding](https://github.com/NethermindEth/nethermind/pull/14184#pullrequestreview-5395607912) - 2026-10-02
+* [Review] [Review on: Normalize invalid-length input of flat-fee cached precompiles](https://github.com/NethermindEth/nethermind/pull/14185#pullrequestreview-5395608300) - 2026-10-02
+* [Commit] [test: fix pruning threshold race across midnight UTC (#14167).](https://github.com/NethermindEth/nethermind/commit/3e0c2a868e4325cac2d8b612899f9911d8283760) - 2026-10-02
+* [Commit] [perf: share worker budgets across block processing stages (#14182)](https://github.com/NethermindEth/nethermind/commit/3de0cbc210bbc8775abf6585acafb29a1a74f38d) - 2026-10-02
+* [Commit] [test: assert memory and span contents with Is.SequenceEqualTo; code cache sizes as constants (#14119)](https://github.com/NethermindEth/nethermind/commit/5fb38e4127e2f01c9a6d7e6852d0ad8ea3e23e85) - 2026-10-02
 ## Q3 2026
 
 

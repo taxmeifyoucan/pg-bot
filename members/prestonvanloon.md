@@ -13,6 +13,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [perf(state): avoid quadratic scans in multi-value-slice append (#17591)](https://github.com/OffchainLabs/prysm/commit/62b55b3ed7ddbc4590188b501a13ae92fbf65363) - 2026-10-01
+* [Pull Request] [Refresh security.txt contact, keys, and expiry](https://github.com/OffchainLabs/prysm/pull/17611) - 2026-10-02
+* [Review] [Review on: add sepolia gas schedule](https://github.com/OffchainLabs/prysm/pull/17609#pullrequestreview-5393376482) - 2026-10-02
+* [Commit] [Refresh security.txt contact, keys, and expiry (#17611)](https://github.com/OffchainLabs/prysm/commit/6ceaad8d21f8a631b82db3507f59c12f927cc432) - 2026-10-02
 ## Q3 2026
 
 

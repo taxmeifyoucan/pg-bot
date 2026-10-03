@@ -6,6 +6,11 @@ Github: [@cperezz](https://github.com/cperezz)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Update EIP-8298: record adopted code as a hash in the BAL; reject same-tx-created sources](https://github.com/ethereum/EIPs/commit/9bff5ef1068353888431ca3d0208d85d9e14b99a) - 2026-10-02
 ## Q3 2026
 
 

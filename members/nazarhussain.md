@@ -8,6 +8,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: fix: replace latest messages by slot from gloas](https://github.com/ChainSafe/lodestar/pull/10128#pullrequestreview-5393033033) - 2026-10-02
+* [Review] [Review on: chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090#pullrequestreview-5391429569) - 2026-10-02
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
+* [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
+* [Review] [Review on: feat(bindings): implement remaining rewards apis](https://github.com/ChainSafe/lodestar-z/pull/731#pullrequestreview-5394231717) - 2026-10-02
+* [Pull Request] [fix: align transition status options with host semantics](https://github.com/ChainSafe/lodestar-z/pull/751) - 2026-10-02
+* [Review] [Review on: perf(state-transition): diff-synced flat validator cache](https://github.com/ChainSafe/lodestar-z/pull/736#pullrequestreview-5393525722) - 2026-10-02
 ## Q3 2026
 
 

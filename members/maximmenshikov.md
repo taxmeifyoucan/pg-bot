@@ -14,6 +14,12 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
+
+[NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
+* [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
+* [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
+* [Commit] [Merge remote-tracking branch 'origin/master' into zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/daf729fd1211288b92fb2fdc334512fb81137a6b) - 2026-10-02
+* [Commit] [Build: move every leg onto the dotnet-riscv main releases](https://github.com/NethermindEth/bflat-riscv64/commit/53938077ba63404c586c678253d85f99e9916f44) - 2026-10-02
 ## Q3 2026
 
 
