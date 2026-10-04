@@ -26,6 +26,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(metrics): cache observer children for stable labels (#14173)](https://github.com/NethermindEth/nethermind/commit/b33fe1f5bce716d8d2f7a1478f0cd81cf91f1fca) - 2026-10-02
 * [Commit] [ci(bench): per-client snapshots and per-arm node flags in an RPC sweep (#12961)](https://github.com/NethermindEth/nethermind/commit/26918c54676b320b5b21c447061bb5949138d468) - 2026-10-02
 * [Commit] [perf(engine): start sender recovery once the payload's block is built (#14164)](https://github.com/NethermindEth/nethermind/commit/c4f7a12b96b2ba3faa15a8c0ee534ac834a46e07) - 2026-10-02
+* [Pull Request] [perf(processing): give block processing a dedicated core by default and keep other threads off it](https://github.com/NethermindEth/nethermind/pull/14224) - 2026-10-03
+* [Review] [Review on: perf(processing): give block processing a dedicated core by default and keep other threads off it](https://github.com/NethermindEth/nethermind/pull/14224#pullrequestreview-5401402003) - 2026-10-03
+* [Pull Request] [perf: keep the block's worker-group runners between the post-transaction steps](https://github.com/NethermindEth/nethermind/pull/14225) - 2026-10-03
+* [Review] [Review on: perf: keep the block's worker-group runners between the post-transaction steps](https://github.com/NethermindEth/nethermind/pull/14225#pullrequestreview-5401422773) - 2026-10-03
+* [Pull Request] [perf(prewarm): hand a warm caught in cold storage reads to discovery](https://github.com/NethermindEth/nethermind/pull/14219) - 2026-10-03
+* [Review] [Review on: perf(prewarm): hand a warm caught in cold storage reads to discovery](https://github.com/NethermindEth/nethermind/pull/14219#pullrequestreview-5399906567) - 2026-10-03
 ## Q3 2026
 
 

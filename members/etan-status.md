@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [Add vanity log for Gloas transition](https://github.com/status-im/nimbus-eth2/pull/9175) - 2026-10-02
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/status-im/nimbus-eth2/pull/9168) - 2026-10-02
+* [Pull Request] [Unify early reject of data with future slot](https://github.com/status-im/nimbus-eth2/pull/9180) - 2026-10-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 ## Q3 2026

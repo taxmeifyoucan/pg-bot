@@ -30,6 +30,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: build: give C++ deps the same cgo flags as C](https://github.com/erigontech/erigon/pull/23874#pullrequestreview-5390305925) - 2026-10-02
 * [Issue] [vm: fix JUMPDEST cache bitmap byte accounting](https://github.com/erigontech/erigon/issues/24501) - 2026-10-02
 * [Commit] [execution, cl: share assembled payload conversions (#24477)](https://github.com/erigontech/erigon/commit/8edecff26148fcc4f9dbd78b18cf157a1cbdc312) - 2026-10-02
+* [Pull Request] [docs: port v3.7.1 release notes to main](https://github.com/erigontech/erigon/pull/24502) - 2026-10-03
+* [Review] [Review on: commitment: parallel fold workers read the caller's snapshot](https://github.com/erigontech/erigon/pull/23722#pullrequestreview-5399881452) - 2026-10-03
+* [Pull Request] [commitment: clone read snapshots for parallel folds](https://github.com/erigontech/erigon/pull/24524) - 2026-10-03
+* [Commit] [txnprovider/txpool: cap transaction packet counts before decoding (#24508)](https://github.com/erigontech/erigon/commit/27b3e9d50d48ad5adc7715f6dca453320724a6c6) - 2026-10-03
+* [Commit] [docs: port v3.7.1 release notes to main (#24502)](https://github.com/erigontech/erigon/commit/b971a8b14dfa513dd9930a62847fa8acfd604751) - 2026-10-03
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

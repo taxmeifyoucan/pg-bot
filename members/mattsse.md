@@ -53,6 +53,45 @@ Team: Reth
 * [Commit] [perf(trie): compact arena node layout (#27157)](https://github.com/paradigmxyz/reth/commit/7d36b562e6289a025b96fa683227be5521e4992d) - 2026-10-02
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#27647)](https://github.com/paradigmxyz/reth/commit/038edab20dfff017f7a7502e683c732e5628ad89) - 2026-10-02
 * [Commit] [perf(trie): seek sparse trie cursor on packed keys (#27155)](https://github.com/paradigmxyz/reth/commit/979e0a20cd7ae87147b2e7ee5c0b38b052a211d4) - 2026-10-02
+* [Pull Request] [feat(e2e): wait for a block to become the head](https://github.com/paradigmxyz/reth/pull/27711) - 2026-10-03
+* [Pull Request] [feat(e2e): advance until the pool is drained](https://github.com/paradigmxyz/reth/pull/27710) - 2026-10-03
+* [Pull Request] [feat(e2e): wait for transactions to enter or leave the pool](https://github.com/paradigmxyz/reth/pull/27709) - 2026-10-03
+* [Pull Request] [feat(e2e): stop and restart test nodes](https://github.com/paradigmxyz/reth/pull/27702) - 2026-10-03
+* [Pull Request] [docs: point agents at the e2e test guide](https://github.com/paradigmxyz/reth/pull/27701) - 2026-10-03
+* [Pull Request] [docs(e2e): add crate guide and cookbook](https://github.com/paradigmxyz/reth/pull/27700) - 2026-10-03
+* [Pull Request] [feat(e2e): custom node instances and builder hook](https://github.com/paradigmxyz/reth/pull/27697) - 2026-10-03
+* [Pull Request] [feat(e2e): build forks and reorg in NodeTestContext](https://github.com/paradigmxyz/reth/pull/27696) - 2026-10-03
+* [Pull Request] [feat(e2e): add NodeTestContext::mine](https://github.com/paradigmxyz/reth/pull/27695) - 2026-10-03
+* [Pull Request] [feat(e2e): add version-agnostic engine context](https://github.com/paradigmxyz/reth/pull/27694) - 2026-10-03
+* [Pull Request] [refactor(e2e): drop attributes bound from NodeBuilderHelper](https://github.com/paradigmxyz/reth/pull/27693) - 2026-10-03
+* [Pull Request] [feat(e2e): make block finality configurable](https://github.com/paradigmxyz/reth/pull/27689) - 2026-10-03
+* [Pull Request] [refactor(e2e): remove setup no-ops and fixed sleeps](https://github.com/paradigmxyz/reth/pull/27688) - 2026-10-03
+* [Pull Request] [fix(e2e): derive tree config from node config](https://github.com/paradigmxyz/reth/pull/27686) - 2026-10-03
+* [Pull Request] [feat(e2e): add configurable and negative waits](https://github.com/paradigmxyz/reth/pull/27685) - 2026-10-03
+* [Pull Request] [fix(e2e): resolve payloads without the event stream](https://github.com/paradigmxyz/reth/pull/27684) - 2026-10-03
+* [Pull Request] [fix(e2e): fail submit_payload on invalid payloads](https://github.com/paradigmxyz/reth/pull/27683) - 2026-10-03
+* [Pull Request] [feat(e2e): expand the e2e test harness](https://github.com/paradigmxyz/reth/pull/27713) - 2026-10-03
+* [Review] [Review on: fix(txpool): use tip gas limit at startup](https://github.com/paradigmxyz/reth/pull/27682#pullrequestreview-5400017607) - 2026-10-03
+* [Review] [Review on: fix(stages): heal interrupted empty block](https://github.com/paradigmxyz/reth/pull/27680#pullrequestreview-5401789787) - 2026-10-03
+* [Review] [Review on: feat(node): make the engine backfill pluggable](https://github.com/paradigmxyz/reth/pull/27542#pullrequestreview-5401788920) - 2026-10-03
+* [Pull Request] [fix(ci): update benchmark run fixture](https://github.com/paradigmxyz/reth/pull/27705) - 2026-10-03
+* [Review] [Review on: fix(ef-tests): check the BAL size cap](https://github.com/paradigmxyz/reth/pull/27699#pullrequestreview-5401556764) - 2026-10-03
+* [Review] [Review on: fix(snap): clear database receipts on publish](https://github.com/paradigmxyz/reth/pull/27698#pullrequestreview-5401556231) - 2026-10-03
+* [Review] [Review on: fix(ef-tests): use BPO2 blob params for Amsterdam](https://github.com/paradigmxyz/reth/pull/27692#pullrequestreview-5401313686) - 2026-10-03
+* [Review] [Review on: feat(engine): forward forkchoice heads to active backfill](https://github.com/paradigmxyz/reth/pull/27541#pullrequestreview-5401532209) - 2026-10-03
+* [Review] [Review on: fix(prune): reject unwinds below pruned history](https://github.com/paradigmxyz/reth/pull/27677#pullrequestreview-5400344559) - 2026-10-03
+* [Review] [Review on: fix(stages): heal bodies to the highest stored block](https://github.com/paradigmxyz/reth/pull/27676#pullrequestreview-5400354581) - 2026-10-03
+* [Pull Request] [test: harden Osaka blob conversion e2e](https://github.com/paradigmxyz/reth/pull/27687) - 2026-10-03
+* [Review] [Review on: fix(discv4): retry ENR requests](https://github.com/paradigmxyz/reth/pull/27630#pullrequestreview-5399709748) - 2026-10-03
+* [Commit] [fix(ci): update benchmark run fixture (#27705)](https://github.com/paradigmxyz/reth/commit/2af6c2b9d2488047a3501e120a839a2a89fea7d5) - 2026-10-03
+* [Commit] [test: harden Osaka blob conversion e2e (#27687)](https://github.com/paradigmxyz/reth/commit/7a5c817ab841b8b5ceea6dccb4f100a4d973b9e0) - 2026-10-03
+* [Commit] [perf(trie): cache proof worker metrics per process (#27674)](https://github.com/paradigmxyz/reth/commit/b06756c888648f9b74c5d499da222814e148f973) - 2026-10-03
+* [Commit] [fix(trie): build reth-trie-parallel without metrics (#27662)](https://github.com/paradigmxyz/reth/commit/66615da2b68924691c98a7f4e7c363a72c0feed4) - 2026-10-03
+* [Commit] [perf(trie): share proof worker metrics handles (#27661)](https://github.com/paradigmxyz/reth/commit/ab12ea9487cd7cc1e7dd04902745403be3b0ce1e) - 2026-10-03
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
+* [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03
 ## Q3 2026
 
 

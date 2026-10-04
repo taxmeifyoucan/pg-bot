@@ -21,6 +21,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Use payload envelope summary in head snapshot and block production](https://github.com/sigp/lighthouse/pull/10187) - 2026-10-01
 * [Pull Request] [Subscribe to next fork topics an epoch early](https://github.com/sigp/lighthouse/pull/10204) - 2026-10-02
 * [Review] [Review on: Remove redundant todo](https://github.com/sigp/lighthouse/pull/10195#pullrequestreview-5388698449) - 2026-10-02
+* [Review] [Review on: Notify the reprocess queue when column reconstruction imports a block](https://github.com/sigp/lighthouse/pull/10202#pullrequestreview-5399417201) - 2026-10-03
 ## Q3 2026
 
 

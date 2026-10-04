@@ -21,6 +21,19 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
 * [Pull Request] [rm unused getBlobsV3 remnants](https://github.com/status-im/nimbus-eth2/pull/9174) - 2026-10-02
 * [Pull Request] [rm pre-fulu metadata](https://github.com/status-im/nimbus-eth2/pull/9166) - 2026-10-02
+
+* [Pull Request] [prevent req/resp column handlers from monopolizing event loop](https://github.com/status-im/nimbus-eth2/pull/9192) - 2026-10-04
+* [Pull Request] [rm long-unused ganache support](https://github.com/status-im/nimbus-eth2/pull/9191) - 2026-10-04
+* [Pull Request] [catch mismatched envelope/block parent block roots early](https://github.com/status-im/nimbus-eth2/pull/9189) - 2026-10-03
+* [Review] [Review on: add proposer preferences support to VC](https://github.com/status-im/nimbus-eth2/pull/9164#pullrequestreview-5399491424) - 2026-10-03
+* [Pull Request] [don't by-root sync already finalized blocks](https://github.com/status-im/nimbus-eth2/pull/9185) - 2026-10-03
+* [Pull Request] [ensure VC resolves all active validators, including slashed and exiting](https://github.com/status-im/nimbus-eth2/pull/9186) - 2026-10-03
+* [Pull Request] [Revert "Preserve negative peer score across reconnections"](https://github.com/status-im/nimbus-eth2/pull/9184) - 2026-10-03
+* [Pull Request] [Revert "add getBlobsV4 support into service"](https://github.com/status-im/nimbus-eth2/pull/9183) - 2026-10-03
+* [Pull Request] [Revert "Bump vendor/nim-minilru from `6dd93fe` to `e2d6421`"](https://github.com/status-im/nimbus-eth2/pull/9181) - 2026-10-03
+* [Pull Request] [stop typically gating on sync committee topics for outbound peering](https://github.com/status-im/nimbus-eth2/pull/9182) - 2026-10-03
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 ## Q3 2026
 
 

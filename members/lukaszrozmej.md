@@ -67,6 +67,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Check eth/snap response request ids before decoding (#14184)](https://github.com/NethermindEth/nethermind/commit/d1178d898e88c609cd6e6fe1e972628ad02ddbda) - 2026-10-02
 * [Commit] [Normalize invalid-length input of flat-fee cached precompiles (#14185)](https://github.com/NethermindEth/nethermind/commit/1eb94fff1222a40d5d1b94fbb6e57b3f6acb2f1c) - 2026-10-02
 
+* [Pull Request] [perf(stateless): hand the decoded witness state nodes over without copying them](https://github.com/NethermindEth/nethermind/pull/14233) - 2026-10-04
+* [Pull Request] [perf(zkevm): dispatch the guest on opcode pairs and fuse common pairs](https://github.com/NethermindEth/nethermind/pull/14232) - 2026-10-04
+* [Pull Request] [perf(zkevm): trim calldata zero counting, storage journal appends, storage-cell hashing and merkle sha256 calls in the guest](https://github.com/NethermindEth/nethermind/pull/14234) - 2026-10-04
+* [Pull Request] [perf(zkevm): lean hashed-child resolve and no RLP-limit copy in inlined guards](https://github.com/NethermindEth/nethermind/pull/14230) - 2026-10-03
+* [Pull Request] [perf(zkevm): guest handlers for wide arithmetic, SLOAD/TLOAD/TSTORE, MSTORE8 and data copies](https://github.com/NethermindEth/nethermind/pull/14229) - 2026-10-03
+* [Pull Request] [test: await the in-flight cap check in SimpleDispatcherTests instead of blocking a pool thread](https://github.com/NethermindEth/nethermind/pull/14226) - 2026-10-03
+* [Pull Request] [perf(zkevm): cheaper leaf re-encoding and branch walks on the commit path](https://github.com/NethermindEth/nethermind/pull/14223) - 2026-10-03
+* [Pull Request] [perf(zkevm): OptimizedDictionary/OptimizedHashSet with 64-bit guest hash tables on the state path](https://github.com/NethermindEth/nethermind/pull/14222) - 2026-10-03
+* [Pull Request] [perf(zkevm): cut interface dispatch and hashing in state, access tracking and tx validation](https://github.com/NethermindEth/nethermind/pull/14218) - 2026-10-03
+* [Pull Request] [perf(zkevm): guest interpreter - more dispatch registers, narrow arithmetic, new handlers, jump-analysis anchors](https://github.com/NethermindEth/nethermind/pull/14217) - 2026-10-03
+* [Pull Request] [perf(zkevm): cheaper state commit and trie encoding in the guest](https://github.com/NethermindEth/nethermind/pull/14216) - 2026-10-03
+* [Pull Request] [perf(trie): cheaper node resolution on read walks](https://github.com/NethermindEth/nethermind/pull/14215) - 2026-10-03
+* [Pull Request] [perf(state): cheaper storage reads (per-slot journal filter, SlotKey map key, stateless code memo)](https://github.com/NethermindEth/nethermind/pull/14214) - 2026-10-03
+* [Commit] [perf(rpc): cut allocations and redundant work on hot JSON-RPC paths (#14195)](https://github.com/NethermindEth/nethermind/commit/061bf8e649c4bb97fdcb37d87660252b5c83d0ae) - 2026-10-03
+* [Commit] [test: fix DevBlockProducerTests flake by awaiting block production (#14192)](https://github.com/NethermindEth/nethermind/commit/14a9f8dda2319d15a78e1c021e997575f5964864) - 2026-10-03
+* [Commit] [perf(rpc): allocation-free filter address/topic binding and access list serialization (#14198)](https://github.com/NethermindEth/nethermind/commit/fdcb632328913acb35894ff8191bf3348bda0754) - 2026-10-03
+* [Commit] [test(rpc): take the minimum of several runs in the receipt allocation test (#14189)](https://github.com/NethermindEth/nethermind/commit/678e4f181e792b3a7072210414433db726d7190f) - 2026-10-03
+* [Commit] [fix(rpc): canonical method names in RPC stats, stable metric labels, streamed writer depth/encoder (#14194)](https://github.com/NethermindEth/nethermind/commit/bd425d704c2e6ab272e4f079a1248191880121c5) - 2026-10-03
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -77,6 +95,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
 * [Commit] [fixup/11/upstream: keep widening casts under width-from-operand users; Zb lowering fixes](https://github.com/NethermindEth/dotnet-riscv/commit/6d87c98fe7b9b4cea78ee4ed754c141cd08dfa73) - 2026-10-02
+* [Pull Request] [fixup/11/upstream: RISC-V shift masks, aligned null checks, narrowing casts, BigMul via mulhu](https://github.com/NethermindEth/dotnet-riscv/pull/16) - 2026-10-03
+* [Review] [Review on: fixup/11/upstream: RISC-V shift masks, aligned null checks, narrowing casts, BigMul via mulhu](https://github.com/NethermindEth/dotnet-riscv/pull/16#pullrequestreview-5401431127) - 2026-10-03
 ## Q3 2026
 
 

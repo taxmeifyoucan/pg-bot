@@ -18,6 +18,18 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [node: add in-use metrics for the RPC compressor pools (#24412)](https://github.com/erigontech/erigon/commit/6bfdad5404e129c5d757103d720152f2d8e33a3d) - 2026-10-01
 * [Commit] [rpc/ethapi, rpc/jsonrpc: reject a call object whose chainId is not the node's (#24414)](https://github.com/erigontech/erigon/commit/18d9de8798c2df9fb9718eb339b8beaf7d348b1b) - 2026-10-01
 * [Review] [Review on: feat(rpc/jsonrpc): trace_filter selects a block by blockHash and rejects hash bounds](https://github.com/erigontech/erigon/pull/24435#pullrequestreview-5394988315) - 2026-10-02
+* [Review] [Review on: rpc/jsonrpc: eth_call builds the state reader from the already resolved block](https://github.com/erigontech/erigon/pull/24529#pullrequestreview-5401218758) - 2026-10-03
+* [Review] [Review on: rpc: CallArgs hand-made unmarshal](https://github.com/erigontech/erigon/pull/24521#pullrequestreview-5401057322) - 2026-10-03
+* [Pull Request] [QA: generate the eth_call latest pattern before the RPC perf tests](https://github.com/erigontech/erigon/pull/24539) - 2026-10-03
+* [Review] [Review on: cmd/rpcdaemon: put /graphql behind the body limit, vhost and CORS checks](https://github.com/erigontech/erigon/pull/24487#pullrequestreview-5401608145) - 2026-10-03
+* [Review] [Review on: execution/tracing/tracers/native: start the flat call tracer from the default call tracer config](https://github.com/erigontech/erigon/pull/24465#pullrequestreview-5401549877) - 2026-10-03
+* [Review] [Review on: rpc/jsonrpc: match the sender in ots_getTransactionBySenderAndNonce](https://github.com/erigontech/erigon/pull/24486#pullrequestreview-5401657414) - 2026-10-03
+* [Review] [Review on: rpc, execution: roll back returned ro txs on panic](https://github.com/erigontech/erigon/pull/24498#pullrequestreview-5401189077) - 2026-10-03
+* [Review] [Review on: rpc/jsonrpc: serve the *ByBlockAndIndex transaction methods without decoding the whole block](https://github.com/erigontech/erigon/pull/24409#pullrequestreview-5401111809) - 2026-10-03
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
+* [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
 ## Q3 2026
 
 

@@ -21,6 +21,7 @@ Team: Erigon
 * [Review] [Review on: [r3.7] docs(site): document the plain commitment format and its migration paths](https://github.com/erigontech/erigon/pull/24467#pullrequestreview-5389258384) - 2026-10-02
 * [Review] [Review on: docs(site): 3.6.1 disk sizes and sync times, x86-64-v2 CPU baseline, 3.7 upgrade notes](https://github.com/erigontech/erigon/pull/24436#pullrequestreview-5389258690) - 2026-10-02
 * [Commit] [execution/commitment/trie: drop orphaned v2 subtrie-loading layer (#24434)](https://github.com/erigontech/erigon/commit/2cd7a82b30b7e35caa0526e8555999dfbfd10045) - 2026-10-02
+* [Pull Request] [execution/stagedsync: dispatch the frontier retry before the batch tail](https://github.com/erigontech/erigon/pull/24531) - 2026-10-03
 ## Q3 2026
 
 

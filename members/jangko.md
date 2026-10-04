@@ -19,6 +19,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637#pullrequestreview-5388456615) - 2026-10-02
 * [Commit] [Fix getExecutionPayloadBodyV2 missing BAL (#4890)](https://github.com/status-im/nimbus-eth1/commit/5948269cf229eae89f5046f9d2ceae77af4c11bd) - 2026-10-03
 * [Commit] [Update EEST mainnet fixtures to v21.0.0 (#4889)](https://github.com/status-im/nimbus-eth1/commit/fa681ae5f1a0495d6697ec4a4a76b1b61895a192) - 2026-10-02
+* [Pull Request] [Bump nim-web3: move execution_types.nim to nimbus-eth1 repo](https://github.com/status-im/nimbus-eth1/pull/4895) - 2026-10-03
+* [Commit] [Bump nim-web3: move execution_types.nim to nimbus-eth1 repo (#4895)](https://github.com/status-im/nimbus-eth1/commit/9bf632a46e5d5aa7fb8e7d50bf12b43c6fdc9b74) - 2026-10-03
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026
 
 

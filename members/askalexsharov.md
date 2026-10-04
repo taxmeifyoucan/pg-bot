@@ -38,6 +38,26 @@ Team: Erigon
 * [Pull Request] [exec: `InternKey` small global lock-free cache](https://github.com/erigontech/erigon/pull/24499) - 2026-10-02
 * [Review] [Review on: db: inverted index flush prefetch](https://github.com/erigontech/erigon/pull/24483#pullrequestreview-5389083663) - 2026-10-02
 * [Commit] [rpc/transactions: CALL_NO_MATERIALIZE runs eth_call on the versioned state path (#24495)](https://github.com/erigontech/erigon/commit/0fd83ee2c6f2ac91c1d4ab182ddc4f97bb2d6319) - 2026-10-02
+* [Pull Request] [execution/vm: two fewer taken jumps in the run loop](https://github.com/erigontech/erigon/pull/24527) - 2026-10-03
+* [Pull Request] [vm: generate interpreter loop](https://github.com/erigontech/erigon/pull/24517) - 2026-10-03
+* [Review] [Review on: vm: generate interpreter loop](https://github.com/erigontech/erigon/pull/24517#pullrequestreview-5400157315) - 2026-10-03
+* [Pull Request] [rpc/jsonrpc: eth_call builds the state reader from the already resolved block](https://github.com/erigontech/erigon/pull/24529) - 2026-10-03
+* [Review] [Review on: rpc: enable StateCache](https://github.com/erigontech/erigon/pull/24497#pullrequestreview-5404040002) - 2026-10-04
+* [Pull Request] [rpc: CallArgs hand-made unmarshal](https://github.com/erigontech/erigon/pull/24521) - 2026-10-03
+* [Review] [Review on: rpc: CallArgs hand-made unmarshal](https://github.com/erigontech/erigon/pull/24521#pullrequestreview-5400982484) - 2026-10-03
+* [Pull Request] [rpc, execution: roll back returned ro txs on panic](https://github.com/erigontech/erigon/pull/24498) - 2026-10-03
+* [Review] [Review on: rpc, execution: roll back returned ro txs on panic](https://github.com/erigontech/erigon/pull/24498#pullrequestreview-5401009056) - 2026-10-03
+* [Review] [Review on: txnprovider/txpool: cap transaction packet counts before decoding](https://github.com/erigontech/erigon/pull/24508#pullrequestreview-5401144611) - 2026-10-03
+* [Pull Request] [rpc/jsonrpc: serve the *ByBlockAndIndex transaction methods without decoding the whole block](https://github.com/erigontech/erigon/pull/24409) - 2026-10-03
+* [Review] [Review on: cl: remove unused function parameters and dead code](https://github.com/erigontech/erigon/pull/24518#pullrequestreview-5401097126) - 2026-10-03
+* [Pull Request] [execution/protocol/misc: FakeExponential in 64-bit words while every step fits](https://github.com/erigontech/erigon/pull/24530) - 2026-10-03
+* [Review] [Review on: rpc: check pruning before replay and keep block transaction counts available](https://github.com/erigontech/erigon/pull/23777#pullrequestreview-5401087145) - 2026-10-03
+* [Pull Request] [rpc/jsonrpc: serve header lookups from the blocks LRU](https://github.com/erigontech/erigon/pull/24528) - 2026-10-03
+* [Commit] [execution/cache: never Set an existing key in ByteLRU (#24494)](https://github.com/erigontech/erigon/commit/5cb6c8674de8ff3967d36356cfdcd0f0b88e31ce) - 2026-10-04
+* [Commit] [rpc/jsonrpc: eth_call builds the state reader from the already resolved block (#24529)](https://github.com/erigontech/erigon/commit/a3b7b41303a7178a487a9b021ddf8f18c1bcd4c4) - 2026-10-04
+* [Commit] [rpc: CallArgs hand-made unmarshal (#24521)](https://github.com/erigontech/erigon/commit/e1bbae9166330e232ec4c68346beba970e5462fa) - 2026-10-04
+* [Commit] [rpc, execution: roll back returned ro txs on panic (#24498)](https://github.com/erigontech/erigon/commit/9e22f9a74e701cbdc798547424aed52929cff63b) - 2026-10-03
+* [Commit] [rpc/jsonrpc: serve the *ByBlockAndIndex transaction methods without decoding the whole block (#24409)](https://github.com/erigontech/erigon/commit/2a7e1cc12c7c6ac7848439f9114255d69f4b054d) - 2026-10-03
 ## Q3 2026
 
 

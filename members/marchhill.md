@@ -60,6 +60,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix(sync): preserve account wipes during BAL healing (#14156)](https://github.com/NethermindEth/nethermind/commit/22567bb55ac484ccd1b56f1b3aeee342fe7024d1) - 2026-10-02
 * [Commit] [fix(specs): initialize EIP-8282 genesis requests hash (#14153)](https://github.com/NethermindEth/nethermind/commit/8328642fa89e4969ea87a44224db4d3e4921d44c) - 2026-10-02
 * [Commit] [fix(network): use 2 MiB BAL response soft limit (#14152)](https://github.com/NethermindEth/nethermind/commit/23e5ce6f6d73833333f492501790a279c6bd182b) - 2026-10-02
+* [Pull Request] [[WIP] Lean proof and devp2p benchmarks](https://github.com/NethermindEth/nethermind/pull/14220) - 2026-10-03
+* [Review] [Review on: [WIP] Lean proof and devp2p benchmarks](https://github.com/NethermindEth/nethermind/pull/14220#pullrequestreview-5400572935) - 2026-10-03
+* [Commit] [Back off peer candidates rejected by the contact filter (#14190)](https://github.com/NethermindEth/nethermind/commit/8640721e631927fa51cb4c166f5f42d4ab64be63) - 2026-10-03
 ## Q3 2026
 
 

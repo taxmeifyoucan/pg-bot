@@ -13,6 +13,8 @@ Team: Codex DAS
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: resolve unknown forkchoice heads in the background](https://github.com/ethereum/go-ethereum/pull/35864) - 2026-10-01
+* [Pull Request] [beacon/blsync: add --beacon.p2pblocks, following the head without downloading blocks](https://github.com/ethereum/go-ethereum/pull/35873) - 2026-10-03
+* [Pull Request] [beacon/light/request: send EvCanRequestAgain after refusing requests](https://github.com/ethereum/go-ethereum/pull/35872) - 2026-10-03
 ## Q3 2026
 
 

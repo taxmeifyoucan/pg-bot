@@ -52,6 +52,25 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test: fix pruning threshold race across midnight UTC (#14167).](https://github.com/NethermindEth/nethermind/commit/3e0c2a868e4325cac2d8b612899f9911d8283760) - 2026-10-02
 * [Commit] [perf: share worker budgets across block processing stages (#14182)](https://github.com/NethermindEth/nethermind/commit/3de0cbc210bbc8775abf6585acafb29a1a74f38d) - 2026-10-02
 * [Commit] [test: assert memory and span contents with Is.SequenceEqualTo; code cache sizes as constants (#14119)](https://github.com/NethermindEth/nethermind/commit/5fb38e4127e2f01c9a6d7e6852d0ad8ea3e23e85) - 2026-10-02
+* [Review] [Review on: perf(zkevm): lean hashed-child resolve and no RLP-limit copy in inlined guards](https://github.com/NethermindEth/nethermind/pull/14230#pullrequestreview-5403331686) - 2026-10-03
+* [Review] [Review on: perf(zkevm): guest handlers for wide arithmetic, SLOAD/TLOAD/TSTORE, MSTORE8 and data copies](https://github.com/NethermindEth/nethermind/pull/14229#pullrequestreview-5403331552) - 2026-10-03
+* [Review] [Review on: test: await the in-flight cap check in SimpleDispatcherTests instead of blocking a pool thread](https://github.com/NethermindEth/nethermind/pull/14226#pullrequestreview-5403331411) - 2026-10-03
+* [Review] [Review on: perf(zkevm): cheaper leaf re-encoding and branch walks on the commit path](https://github.com/NethermindEth/nethermind/pull/14223#pullrequestreview-5403331243) - 2026-10-03
+* [Review] [Review on: perf(zkevm): OptimizedDictionary/OptimizedHashSet with 64-bit guest hash tables on the state path](https://github.com/NethermindEth/nethermind/pull/14222#pullrequestreview-5403331065) - 2026-10-03
+* [Review] [Review on: perf(zkevm): cut interface dispatch and hashing in state, access tracking and tx validation](https://github.com/NethermindEth/nethermind/pull/14218#pullrequestreview-5403327899) - 2026-10-03
+* [Review] [Review on: perf(zkevm): guest interpreter - more dispatch registers, narrow arithmetic, new handlers, jump-analysis anchors](https://github.com/NethermindEth/nethermind/pull/14217#pullrequestreview-5403330964) - 2026-10-03
+* [Review] [Review on: perf(zkevm): cheaper state commit and trie encoding in the guest](https://github.com/NethermindEth/nethermind/pull/14216#pullrequestreview-5403330920) - 2026-10-03
+* [Review] [Review on: perf(trie): cheaper node resolution on read walks](https://github.com/NethermindEth/nethermind/pull/14215#pullrequestreview-5403330871) - 2026-10-03
+* [Review] [Review on: perf(state): cheaper storage reads (per-slot journal filter, SlotKey map key, stateless code memo)](https://github.com/NethermindEth/nethermind/pull/14214#pullrequestreview-5403330821) - 2026-10-03
+* [Review] [Review on: perf(zkevm): leaner trie walks, node re-encoding and witness lookups](https://github.com/NethermindEth/nethermind/pull/14209#pullrequestreview-5403330755) - 2026-10-03
+* [Review] [Review on: perf(zkevm): copy byte runs with a direct memmove in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14208#pullrequestreview-5403330633) - 2026-10-03
+* [Review] [Review on: perf(rpc): validate, count and decode a batch body in fewer passes](https://github.com/NethermindEth/nethermind/pull/14197#pullrequestreview-5403330403) - 2026-10-03
+* [Review] [Review on: perf(rpc): answer complete socket messages from their bytes](https://github.com/NethermindEth/nethermind/pull/14196#pullrequestreview-5403330204) - 2026-10-03
+* [Review] [Review on: perf(rpc): read typed parameters through their converter](https://github.com/NethermindEth/nethermind/pull/14193#pullrequestreview-5403330068) - 2026-10-03
+* [Review] [Review on: Decode receipts responses against the expected per-block receipt counts](https://github.com/NethermindEth/nethermind/pull/14191#pullrequestreview-5403327647) - 2026-10-03
+* [Review] [Review on: perf(zkevm): relieve register pressure in the guest opcode handlers](https://github.com/NethermindEth/nethermind/pull/14206#pullrequestreview-5403152123) - 2026-10-03
+* [Review] [Review on: perf(zkevm): trim keccak call overhead in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14207#pullrequestreview-5403149570) - 2026-10-03
+* [Review] [Review on: perf: keep the block's worker-group runners between the post-transaction steps](https://github.com/NethermindEth/nethermind/pull/14225#pullrequestreview-5402020160) - 2026-10-03
 ## Q3 2026
 
 

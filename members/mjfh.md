@@ -14,6 +14,8 @@ Team: Nimbus
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Snap2 sync fixes and updates](https://github.com/status-im/nimbus-eth1/pull/4886) - 2026-10-01
 * [Commit] [Snap2 sync fixes and updates (#4886)](https://github.com/status-im/nimbus-eth1/commit/ae4e1e4ab62c6cfcf4fd2a7fc3c80b6f78da9feb) - 2026-10-01
+* [Pull Request] [Snap2 sync reload after sync has finished](https://github.com/status-im/nimbus-eth1/pull/4894) - 2026-10-03
+* [Commit] [Snap2 sync reload after sync has finished (#4894)](https://github.com/status-im/nimbus-eth1/commit/ca4d5c272ed63b344d17098552c12610ed39109e) - 2026-10-03
 ## Q3 2026
 
 

@@ -55,6 +55,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: replace latest messages by slot from gloas (#10128)](https://github.com/ChainSafe/lodestar/commit/70314c9caa5eb59f3207796818475284095ef37e) - 2026-10-02
 * [Commit] [fix: evict invalid payload envelopes from the seen cache (#10246)](https://github.com/ChainSafe/lodestar/commit/3bd495295ea2472ff7bc82d342c356c460007b0a) - 2026-10-02
 * [Commit] [fix: do not miss PTC duties in the first Gloas epoch (#10242)](https://github.com/ChainSafe/lodestar/commit/456b75a81ee79bfaaa5098f256ea789f2da12ae9) - 2026-10-02
+* [Pull Request] [feat: add endpoint to get proposer preferences](https://github.com/ChainSafe/lodestar/pull/10255) - 2026-10-03
+* [Pull Request] [fix: report builder circuit breaker as block selection reason](https://github.com/ChainSafe/lodestar/pull/10254) - 2026-10-03
+* [Review] [Review on: feat(builder): connect payload source to Engine JSON-RPC](https://github.com/ChainSafe/lodestar/pull/10234#pullrequestreview-5401018501) - 2026-10-03
+* [Pull Request] [fix: prevent unknown block sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10250) - 2026-10-03
+* [Review] [Review on: fix: prevent unknown block sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10250#pullrequestreview-5400834076) - 2026-10-03
+* [Pull Request] [chore: update stale pruning note in payload envelope seen cache doc](https://github.com/ChainSafe/lodestar/pull/10253) - 2026-10-03
+* [Pull Request] [fix: retry rate-limited peers after a sync chain restart](https://github.com/ChainSafe/lodestar/pull/10252) - 2026-10-03
+* [Pull Request] [fix: reject range sync envelopes whose block hash does not match the bid](https://github.com/ChainSafe/lodestar/pull/10251) - 2026-10-03
+* [Review] [Review on: fix: evict invalid payload envelopes from the seen cache](https://github.com/ChainSafe/lodestar/pull/10246#pullrequestreview-5400620451) - 2026-10-03
+* [Pull Request] [fix: prevent range sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10249) - 2026-10-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
