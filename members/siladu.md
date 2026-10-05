@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Bump jackson-bom from 2.21.5 to 2.21.6](https://github.com/besu-eth/besu/pull/11396#pullrequestreview-5387247763) - 2026-10-02
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557) - 2026-10-04
 ## Q3 2026
 
 

@@ -16,6 +16,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(flat): trie node-dedup log in front of the trie columns](https://github.com/NethermindEth/nethermind/pull/14140#pullrequestreview-5376945264) - 2026-10-01
 * [Review] [Review on: feat(flat): trie node-dedup log in front of the trie columns](https://github.com/NethermindEth/nethermind/pull/14140#pullrequestreview-5389776291) - 2026-10-02
 * [Commit] [feat(producer): check state availability for the target block (#14079)](https://github.com/NethermindEth/nethermind/commit/bf0bd4ed0c55a509cc046e3768ffdaf08890c4d5) - 2026-10-02
+* [Pull Request] [feat(history): add prune-history step command](https://github.com/NethermindEth/nethermind/pull/14252) - 2026-10-04
+* [Pull Request] [refactor(txpool): resolve ITxPool, ITxSender and ITransactionComparerProvider from DI](https://github.com/NethermindEth/nethermind/pull/14253) - 2026-10-05
+* [Pull Request] [fix(test): call the public FrameTxSignatureValidator.Validate overload](https://github.com/NethermindEth/nethermind/pull/14258) - 2026-10-05
+* [Review] [Review on: perf(flat): skip the in-memory layers for slot reads that none of them has, in read-only execution](https://github.com/NethermindEth/nethermind/pull/14094#pullrequestreview-5409626296) - 2026-10-05
+* [Commit] [fix(test): call the public FrameTxSignatureValidator.Validate overload (#14258)](https://github.com/NethermindEth/nethermind/commit/7f47fe2f1c65f2aacfba231c3fcde6e4f1c2e053) - 2026-10-05
+* [Commit] [refactor(state): apply BAL state changes through IScope.ApplyBal (#13772)](https://github.com/NethermindEth/nethermind/commit/06bb49beae6d36b0dc8efd56bcf57509193a4997) - 2026-10-04
 ## Q3 2026
 
 

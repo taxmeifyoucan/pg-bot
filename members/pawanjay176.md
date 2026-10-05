@@ -14,6 +14,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Remove redundant todo](https://github.com/sigp/lighthouse/pull/10195) - 2026-10-02
 * [Review] [Review on: Keep ENR next_fork_version at a BPO fork](https://github.com/sigp/lighthouse/pull/10161#pullrequestreview-5383583296) - 2026-10-01
+* [Review] [Review on: Subscribe to next fork topics an epoch early](https://github.com/sigp/lighthouse/pull/10204#pullrequestreview-5408332581) - 2026-10-04
 ## Q3 2026
 
 

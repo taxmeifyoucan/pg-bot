@@ -8,6 +8,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 
 ## Contributions
 
+## Q4 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Update third-party dependencies](https://github.com/Consensys-Incorporated/teku/pull/11400#pullrequestreview-5409132618) - 2026-10-05
+* [Review] [Review on: Dial TCP when a discovered peer's QUIC address is unreachable](https://github.com/Consensys-Incorporated/teku/pull/11399#pullrequestreview-5408927166) - 2026-10-05
+* [Review] [Review on: Pull Docker base images via GCR mirror with docker.io fallback](https://github.com/Consensys-Incorporated/teku/pull/11398#pullrequestreview-5408593577) - 2026-10-04
 ## Q3 2026
 
 

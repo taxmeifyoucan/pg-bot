@@ -32,12 +32,34 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Publish test reports as check runs from a workflow_run workflow (#11383)](https://github.com/Consensys-Incorporated/teku/commit/fd1b844e146a61d6c62630b3f6b83e38be172055) - 2026-10-01
 * [Commit] [Remove Gradle workers.max=4 cap from CI (#11382)](https://github.com/Consensys-Incorporated/teku/commit/6f246728e20b0e45aeb13577c1ff7e132b89850f) - 2026-10-01
 * [Issue] [Gossipsub peer score metrics (3rd batch)](https://github.com/Consensys-Incorporated/teku/issues/11391) - 2026-10-02
+* [Review] [Review on: Fix inconsistencies and bugs in light client beacon APIs](https://github.com/Consensys-Incorporated/teku/pull/11350#pullrequestreview-5409167047) - 2026-10-05
+* [Pull Request] [Update third-party dependencies](https://github.com/Consensys-Incorporated/teku/pull/11400) - 2026-10-05
+* [Pull Request] [Verify the proposer signature before processing a block](https://github.com/Consensys-Incorporated/teku/pull/11401) - 2026-10-05
+* [Review] [Review on: Hidden option to disable considering p2p bids for block proposal](https://github.com/Consensys-Incorporated/teku/pull/11386#pullrequestreview-5409135968) - 2026-10-05
+* [Pull Request] [Dial TCP when a discovered peer's QUIC address is unreachable](https://github.com/Consensys-Incorporated/teku/pull/11399) - 2026-10-04
+* [Review] [Review on: Dial TCP when a discovered peer's QUIC address is unreachable](https://github.com/Consensys-Incorporated/teku/pull/11399#pullrequestreview-5408639565) - 2026-10-04
+* [Pull Request] [Pull Docker base images via GCR mirror with docker.io fallback](https://github.com/Consensys-Incorporated/teku/pull/11398) - 2026-10-04
+* [Review] [Review on: Pull Docker base images via GCR mirror with docker.io fallback](https://github.com/Consensys-Incorporated/teku/pull/11398#pullrequestreview-5408335535) - 2026-10-04
+* [Issue] [Update gossip tests in reference-tests to match their new format](https://github.com/Consensys-Incorporated/teku/issues/11402) - 2026-10-05
+* [Commit] [Update third-party dependencies (#11400)](https://github.com/Consensys-Incorporated/teku/commit/d1eeed81aae10f3026254739b534a1b817aa8934) - 2026-10-05
+* [Commit] [Dial TCP when a discovered peer's QUIC address is unreachable (#11399)](https://github.com/Consensys-Incorporated/teku/commit/c1b70b4abc0ef874bdae42600d3ff7da12104846) - 2026-10-05
+* [Commit] [Pull Docker base images via GCR mirror with docker.io fallback (#11398)](https://github.com/Consensys-Incorporated/teku/commit/a2dd309ec0fc594f2dccf98022c427ab295f093b) - 2026-10-04
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Commit] [Merge pull request #533 from lucassaldanha/gossip-metrics-hooks](https://github.com/libp2p/jvm-libp2p/commit/491163cb5917bff58b03b4c6a649caf508652898) - 2026-10-02
+
+* [Pull Request] [Wait a backoff slack before re-GRAFTing a pruned peer](https://github.com/libp2p/jvm-libp2p/pull/538) - 2026-10-04
+* [Pull Request] [Bump netty to 4.2.18 so QUIC receive windows stop collapsing to 32 KiB](https://github.com/libp2p/jvm-libp2p/pull/537) - 2026-10-04
+* [Review] [Review on: quic connect timeout fix](https://github.com/libp2p/jvm-libp2p/pull/535#pullrequestreview-5408272768) - 2026-10-04
+* [Issue] [Node re-GRAFTs with no backoff slack](https://github.com/libp2p/jvm-libp2p/issues/536) - 2026-10-04
+* [Commit] [Bump netty to 4.2.18 so QUIC receive windows stop collapsing to 32 KiB (#537)](https://github.com/libp2p/jvm-libp2p/commit/843e0ea8c7688ae649c3a9cacbbc01b4d5303675) - 2026-10-05
+* [Commit] [Merge pull request #535 from tbenr/claude/quic-connect-timeout-fix-126dc3](https://github.com/libp2p/jvm-libp2p/commit/f31a7caf61e6352e6cec88be7e83c5dd5aea796a) - 2026-10-05
+* [Commit] [Download Kubo from GitHub releases so CI stops depending on dist.ipfs.tech](https://github.com/libp2p/jvm-libp2p/commit/981754ea2111d7af02df832218ac8719d12b0579) - 2026-10-04
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Teku incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2251) - 2026-10-04
 ## Q3 2026
 
 

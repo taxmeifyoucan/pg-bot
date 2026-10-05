@@ -58,6 +58,41 @@ Team: Erigon
 * [Commit] [rpc: CallArgs hand-made unmarshal (#24521)](https://github.com/erigontech/erigon/commit/e1bbae9166330e232ec4c68346beba970e5462fa) - 2026-10-04
 * [Commit] [rpc, execution: roll back returned ro txs on panic (#24498)](https://github.com/erigontech/erigon/commit/9e22f9a74e701cbdc798547424aed52929cff63b) - 2026-10-03
 * [Commit] [rpc/jsonrpc: serve the *ByBlockAndIndex transaction methods without decoding the whole block (#24409)](https://github.com/erigontech/erigon/commit/2a7e1cc12c7c6ac7848439f9114255d69f4b054d) - 2026-10-03
+* [Review] [Review on: common/crypto: keccak cache ](https://github.com/erigontech/erigon/pull/24480#pullrequestreview-5406529128) - 2026-10-04
+* [Pull Request] [execution/state: storage reads without a version map skip the versioned read path](https://github.com/erigontech/erigon/pull/24570) - 2026-10-05
+* [Review] [Review on: execution/state: storage reads without a version map skip the versioned read path](https://github.com/erigontech/erigon/pull/24570#pullrequestreview-5409769927) - 2026-10-05
+* [Pull Request] [exec: resolve the code access hook once, not per code read](https://github.com/erigontech/erigon/pull/24571) - 2026-10-05
+* [Pull Request] [exec: Call uses cfg.Origin instead of creating its state object](https://github.com/erigontech/erigon/pull/24572) - 2026-10-05
+* [Pull Request] [exec: keep precompiles warm without inserting them per tx](https://github.com/erigontech/erigon/pull/24574) - 2026-10-05
+* [Review] [Review on: exec: keep precompiles warm without inserting them per tx](https://github.com/erigontech/erigon/pull/24574#pullrequestreview-5409722607) - 2026-10-05
+* [Pull Request] [exec: fewer version-map probes on repeat reads](https://github.com/erigontech/erigon/pull/24559) - 2026-10-04
+* [Review] [Review on: exec: fewer version-map probes on repeat reads](https://github.com/erigontech/erigon/pull/24559#pullrequestreview-5406906154) - 2026-10-04
+* [Pull Request] [execution/state: versioned balance write takes the balance its caller read](https://github.com/erigontech/erigon/pull/24573) - 2026-10-05
+* [Review] [Review on: execution/stagedsync: defer same-sender successors until validation](https://github.com/erigontech/erigon/pull/24500#pullrequestreview-5409734688) - 2026-10-05
+* [Review] [Review on: execution/state: keep BlockStateCache accounts and storage decoded](https://github.com/erigontech/erigon/pull/24505#pullrequestreview-5409733555) - 2026-10-05
+* [Review] [Review on: execution/commitment: warmup reads every branch on a key's path](https://github.com/erigontech/erigon/pull/24442#pullrequestreview-5409731664) - 2026-10-05
+* [Review] [Review on: execution/stagedsync: feed touched keys to the BAL branch prefetch](https://github.com/erigontech/erigon/pull/24479#pullrequestreview-5409728553) - 2026-10-05
+* [Pull Request] [execution/state: an own balance write settles TouchAccount](https://github.com/erigontech/erigon/pull/24569) - 2026-10-05
+* [Review] [Review on: execution/state: an own balance write settles TouchAccount](https://github.com/erigontech/erigon/pull/24569#pullrequestreview-5409724892) - 2026-10-05
+* [Pull Request] [ibs: if code not changed - don't create journal records, don't re-calc hash](https://github.com/erigontech/erigon/pull/24552) - 2026-10-04
+* [Review] [Review on: ibs: if code not changed - don't create journal records, don't re-calc hash](https://github.com/erigontech/erigon/pull/24552#pullrequestreview-5405821917) - 2026-10-04
+* [Pull Request] [rpc/jsonrpc: cache headers for header-only lookups](https://github.com/erigontech/erigon/pull/24540) - 2026-10-04
+* [Pull Request] [vm: EVM.call and createWithPreparation methods suffer from slow-defer](https://github.com/erigontech/erigon/pull/24542) - 2026-10-04
+* [Review] [Review on: vm: EVM.call and createWithPreparation methods suffer from slow-defer](https://github.com/erigontech/erigon/pull/24542#pullrequestreview-5405122789) - 2026-10-04
+* [Pull Request] [execution/state, execution/vm: 2-entry slot caches for repeated storage access](https://github.com/erigontech/erigon/pull/24551) - 2026-10-04
+* [Review] [Review on: execution/state, execution/vm: 2-entry slot caches for repeated storage access](https://github.com/erigontech/erigon/pull/24551#pullrequestreview-5406057983) - 2026-10-04
+* [Pull Request] [execution/vm: CREATE and CREATE2 run their initcode from memory, not a copy](https://github.com/erigontech/erigon/pull/24541) - 2026-10-04
+* [Review] [Review on: execution/vm: CREATE and CREATE2 run their initcode from memory, not a copy](https://github.com/erigontech/erigon/pull/24541#pullrequestreview-5406505791) - 2026-10-04
+* [Review] [Review on: rpc: enable StateCache](https://github.com/erigontech/erigon/pull/24497#pullrequestreview-5406526318) - 2026-10-04
+* [Pull Request] [exec: add vm.Config.NoBAL to skip them in eth_call](https://github.com/erigontech/erigon/pull/24555) - 2026-10-04
+* [Review] [Review on: exec: add vm.Config.NoBAL to skip them in eth_call](https://github.com/erigontech/erigon/pull/24555#pullrequestreview-5406485509) - 2026-10-04
+* [Pull Request] [execution/state: CreateAccount does not heap-allocate an account copy outside versioned execution](https://github.com/erigontech/erigon/pull/24565) - 2026-10-04
+* [Review] [Review on: execution/vm, rpc/jsonrpc: list EIP-8024 operations that halt in execute in vmTrace](https://github.com/erigontech/erigon/pull/24560#pullrequestreview-5409418613) - 2026-10-05
+* [Review] [Review on: execution/execmodule: detach the block overlay when validation finds a bad block](https://github.com/erigontech/erigon/pull/24561#pullrequestreview-5409419028) - 2026-10-05
+* [Review] [Review on: rpc/jsonrpc: apply state overrides to every call in trace_callMany](https://github.com/erigontech/erigon/pull/24567#pullrequestreview-5409422356) - 2026-10-05
+* [Review] [Review on: rpc/jsonrpc: reject trace_rawTransaction gas limit above the RPC gas cap](https://github.com/erigontech/erigon/pull/24564#pullrequestreview-5409419789) - 2026-10-05
+* [Pull Request] [execution/vm: lock-free direct-mapped JUMPDEST analysis cache](https://github.com/erigontech/erigon/pull/24563) - 2026-10-04
+* [Pull Request] [execution/vm: split EVM.call into Call, CallCode, DelegateCall and StaticCall](https://github.com/erigontech/erigon/pull/24549) - 2026-10-04
 ## Q3 2026
 
 

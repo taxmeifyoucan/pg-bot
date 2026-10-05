@@ -63,6 +63,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [[WIP] Lean proof and devp2p benchmarks](https://github.com/NethermindEth/nethermind/pull/14220) - 2026-10-03
 * [Review] [Review on: [WIP] Lean proof and devp2p benchmarks](https://github.com/NethermindEth/nethermind/pull/14220#pullrequestreview-5400572935) - 2026-10-03
 * [Commit] [Back off peer candidates rejected by the contact filter (#14190)](https://github.com/NethermindEth/nethermind/commit/8640721e631927fa51cb4c166f5f42d4ab64be63) - 2026-10-03
+* [Commit] [fix(test): use normal gas charging by default in EVM tracer (#14161)](https://github.com/NethermindEth/nethermind/commit/6dff813b6c3b8141689422e4113f6ea0760e0260) - 2026-10-04
 ## Q3 2026
 
 

@@ -23,6 +23,8 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(state): a code override ends when its account is destroyed before Cancun (#14125)](https://github.com/NethermindEth/nethermind/commit/be77c772ceb2faf0b257f717be6d908e5804b5ef) - 2026-10-02
 * [Commit] [perf(evm): reuse child call frames per depth instead of the thread-static pools (#14139)](https://github.com/NethermindEth/nethermind/commit/1fa9b82921f244bfccfca347ca6e5ea07ae36e51) - 2026-10-02
 * [Commit] [test(rpc): cover the resolved-code memo of eth_call end to end (#14121)](https://github.com/NethermindEth/nethermind/commit/ef2c6c52017ff3023023d002e74baa45133c14ca) - 2026-10-02
+* [Pull Request] [test(evm): read the frame cache directly and share the cached/uncached observation](https://github.com/NethermindEth/nethermind/pull/14174) - 2026-10-04
+* [Commit] [test(evm): read the frame cache directly and share the cached/uncached observation (#14174)](https://github.com/NethermindEth/nethermind/commit/b60cca5fc72e16714ec65fdf5739a6f55b3b4648) - 2026-10-04
 ## Q3 2026
 
 

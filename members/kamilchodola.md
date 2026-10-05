@@ -32,6 +32,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf: keep the block's worker-group runners between the post-transaction steps](https://github.com/NethermindEth/nethermind/pull/14225#pullrequestreview-5401422773) - 2026-10-03
 * [Pull Request] [perf(prewarm): hand a warm caught in cold storage reads to discovery](https://github.com/NethermindEth/nethermind/pull/14219) - 2026-10-03
 * [Review] [Review on: perf(prewarm): hand a warm caught in cold storage reads to discovery](https://github.com/NethermindEth/nethermind/pull/14219#pullrequestreview-5399906567) - 2026-10-03
+* [Pull Request] [Stop idle thread-pool workers from spinning before they sleep](https://github.com/NethermindEth/nethermind/pull/14246) - 2026-10-04
 ## Q3 2026
 
 

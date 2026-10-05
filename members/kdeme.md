@@ -14,6 +14,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [stateless: link the vendor's memcpy, memmove, memset and memcmp](https://github.com/status-im/nimbus-eth1/pull/4882) - 2026-10-01
 * [Commit] [stateless: link the vendor's memcpy, memmove, memset and memcmp (#4882)](https://github.com/status-im/nimbus-eth1/commit/50c1eec7cf617997a6359959b09f6b0d9e849abc) - 2026-10-01
+* [Pull Request] [eest: add zkevm benchmark fixtures make target and download](https://github.com/status-im/nimbus-eth1/pull/4899) - 2026-10-04
+* [Pull Request] [stateless: run the EEST zkevm benchmark fixtures](https://github.com/status-im/nimbus-eth1/pull/4897) - 2026-10-04
+* [Pull Request] [stateless guest: pin the Rust nightly building ZisK](https://github.com/status-im/nimbus-eth1/pull/4898) - 2026-10-04
+* [Pull Request] [stateless: build the ZisK guest against ziskos v1.2.0-alpha in CI](https://github.com/status-im/nimbus-eth1/pull/4896) - 2026-10-04
+* [Commit] [stateless guest: pin the Rust nightly building ZisK (#4898)](https://github.com/status-im/nimbus-eth1/commit/8795b658c818c11381aa7681ae081a9b7ec66a28) - 2026-10-04
+* [Commit] [stateless: build the ZisK guest against ziskos v1.2.0-alpha in CI (#4896)](https://github.com/status-im/nimbus-eth1/commit/f04aa5378985d40feb78e9e56d453b2acf8f35fb) - 2026-10-04
 ## Q3 2026
 
 

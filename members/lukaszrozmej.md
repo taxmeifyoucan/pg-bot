@@ -85,18 +85,45 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(rpc): allocation-free filter address/topic binding and access list serialization (#14198)](https://github.com/NethermindEth/nethermind/commit/fdcb632328913acb35894ff8191bf3348bda0754) - 2026-10-03
 * [Commit] [test(rpc): take the minimum of several runs in the receipt allocation test (#14189)](https://github.com/NethermindEth/nethermind/commit/678e4f181e792b3a7072210414433db726d7190f) - 2026-10-03
 * [Commit] [fix(rpc): canonical method names in RPC stats, stable metric labels, streamed writer depth/encoder (#14194)](https://github.com/NethermindEth/nethermind/commit/bd425d704c2e6ab272e4f079a1248191880121c5) - 2026-10-03
+* [Pull Request] [fix(shutter): count missed keys atomically](https://github.com/NethermindEth/nethermind/pull/14238) - 2026-10-04
+* [Pull Request] [perf(zkevm): leave the receipt transaction hash unset in the guest](https://github.com/NethermindEth/nethermind/pull/14239) - 2026-10-04
+* [Pull Request] [perf(zkevm): skip the zero credit to the executing account of a frame that runs code](https://github.com/NethermindEth/nethermind/pull/14243) - 2026-10-04
+* [Pull Request] [fix(stateless): record the code read by a fused EXTCODESIZE check in the execution witness](https://github.com/NethermindEth/nethermind/pull/14248) - 2026-10-04
+* [Pull Request] [perf(zkevm): analyze jump destinations with ZisK's JUMPDEST bitmap precompile](https://github.com/NethermindEth/nethermind/pull/14255) - 2026-10-05
+* [Pull Request] [perf(zkevm): reuse decoded witness header hashes and widen the guest keccak memo to 2^17 slots](https://github.com/NethermindEth/nethermind/pull/14256) - 2026-10-05
+* [Pull Request] [perf(zkevm): DMA memmove/memset for keccak state fill and RLP byte strings in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14257) - 2026-10-05
+* [Review] [Review on: feat(flatdb): byte-capped in-memory snapshot window](https://github.com/NethermindEth/nethermind/pull/13972#pullrequestreview-5405941023) - 2026-10-04
+* [Review] [Review on: perf(eip8141): recover frame tx secp256k1 signers in the parallel sender-recovery step](https://github.com/NethermindEth/nethermind/pull/14205#pullrequestreview-5408148878) - 2026-10-04
+* [Review] [Review on: Align debug_traceTransaction missing-transaction errors with Geth](https://github.com/NethermindEth/nethermind/pull/14250#pullrequestreview-5407925811) - 2026-10-04
+* [Review] [Review on: Fix JavaScript tracer transaction index for selected transactions](https://github.com/NethermindEth/nethermind/pull/14249#pullrequestreview-5407924841) - 2026-10-04
+* [Review] [Review on: Stop idle thread-pool workers from spinning before they sleep](https://github.com/NethermindEth/nethermind/pull/14246#pullrequestreview-5407921624) - 2026-10-04
+* [Review] [Review on: fix(rpc): let a call's fields decide how it runs, and reject fields its fork lacks](https://github.com/NethermindEth/nethermind/pull/14212#pullrequestreview-5407146713) - 2026-10-04
+* [Review] [Review on: fix(auth): respect expiration in JWT cache](https://github.com/NethermindEth/nethermind/pull/14228#pullrequestreview-5407120683) - 2026-10-04
+* [Review] [Review on: fix(test): use normal gas charging by default in EVM tracer](https://github.com/NethermindEth/nethermind/pull/14161#pullrequestreview-5407091680) - 2026-10-04
+* [Review] [Review on: fix(xdc): encode XDPoS_getV2Block* headers with the node's header decoder](https://github.com/NethermindEth/nethermind/pull/14175#pullrequestreview-5407137431) - 2026-10-04
+* [Review] [Review on: test(evm): read the frame cache directly and share the cached/uncached observation](https://github.com/NethermindEth/nethermind/pull/14174#pullrequestreview-5407132663) - 2026-10-04
+* [Review] [Review on: perf(eip8141): compute the frame tx sig hash on first use](https://github.com/NethermindEth/nethermind/pull/14221#pullrequestreview-5407124654) - 2026-10-04
+* [Pull Request] [perf(zkevm): cheaper first jumps to a destination in the guest](https://github.com/NethermindEth/nethermind/pull/14242) - 2026-10-04
+* [Pull Request] [perf(zkevm): stop a guest trie write's climb at the first pending level](https://github.com/NethermindEth/nethermind/pull/14240) - 2026-10-04
+* [Pull Request] [perf(zkevm): per-block guest code cache as a plain map](https://github.com/NethermindEth/nethermind/pull/14244) - 2026-10-04
+* [Pull Request] [perf(zkevm): reach each storage change in place when writing storage roots](https://github.com/NethermindEth/nethermind/pull/14241) - 2026-10-04
+* [Commit] [perf(state): cheaper storage reads (per-slot journal filter, SlotKey map key, stateless code memo) (#14214)](https://github.com/NethermindEth/nethermind/commit/c71261ecf625da8746271383f36d512c2b871c3c) - 2026-10-04
+* [Commit] [perf(zkevm): trim keccak call overhead in the ZisK guest (#14207)](https://github.com/NethermindEth/nethermind/commit/92d91836f4de7c5ef634fcf64e50f1a23e38730d) - 2026-10-04
+* [Commit] [perf(rpc): read typed parameters through their converter (#14193)](https://github.com/NethermindEth/nethermind/commit/fc24b807e4f376764ab3d24ae242d59bc7d7c2a1) - 2026-10-04
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
 * [Commit] [Gate ZisK bit manipulation on the fixed compiler package](https://github.com/NethermindEth/bflat-riscv64/commit/fabe66aa773b28ac6a64b979f7a5aa0c4d26ccaa) - 2026-10-02
 * [Commit] [Restore TLS lookup contract and cover lazy first use](https://github.com/NethermindEth/bflat-riscv64/commit/f37f55ac9057105668e1394edc60bdae8b8b7aab) - 2026-10-02
 
+* [Pull Request] [perf(zisk): frameless allocation fast paths with a cached allocation context](https://github.com/NethermindEth/bflat-riscv64/pull/47) - 2026-10-04
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
 * [Commit] [fixup/11/upstream: keep widening casts under width-from-operand users; Zb lowering fixes](https://github.com/NethermindEth/dotnet-riscv/commit/6d87c98fe7b9b4cea78ee4ed754c141cd08dfa73) - 2026-10-02
 * [Pull Request] [fixup/11/upstream: RISC-V shift masks, aligned null checks, narrowing casts, BigMul via mulhu](https://github.com/NethermindEth/dotnet-riscv/pull/16) - 2026-10-03
 * [Review] [Review on: fixup/11/upstream: RISC-V shift masks, aligned null checks, narrowing casts, BigMul via mulhu](https://github.com/NethermindEth/dotnet-riscv/pull/16#pullrequestreview-5401431127) - 2026-10-03
+* [Pull Request] [fixup/11/upstream: tail-call no-return calls that end a throw block on RISC-V](https://github.com/NethermindEth/dotnet-riscv/pull/19) - 2026-10-04
 ## Q3 2026
 
 

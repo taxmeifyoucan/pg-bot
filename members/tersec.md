@@ -32,6 +32,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "add getBlobsV4 support into service"](https://github.com/status-im/nimbus-eth2/pull/9183) - 2026-10-03
 * [Pull Request] [Revert "Bump vendor/nim-minilru from `6dd93fe` to `e2d6421`"](https://github.com/status-im/nimbus-eth2/pull/9181) - 2026-10-03
 * [Pull Request] [stop typically gating on sync committee topics for outbound peering](https://github.com/status-im/nimbus-eth2/pull/9182) - 2026-10-03
+* [Review] [Review on: add proposer preferences support to VC](https://github.com/status-im/nimbus-eth2/pull/9164#pullrequestreview-5408679457) - 2026-10-04
+* [Pull Request] [Revert "Revert "add getBlobsV4 support into service""](https://github.com/status-im/nimbus-eth2/pull/9194) - 2026-10-04
+* [Pull Request] [Revert "Revert "Preserve negative peer score across reconnections""](https://github.com/status-im/nimbus-eth2/pull/9195) - 2026-10-04
+* [Pull Request] [rm unused altair.MetaData type](https://github.com/status-im/nimbus-eth2/pull/9193) - 2026-10-04
+* [Commit] [version v26.10.0](https://github.com/status-im/nimbus-eth2/commit/657beb3d6e13fcfddb1a7ca2dbd2d3d0516f8ca8) - 2026-10-04
+* [Commit] [rm unused altair.MetaData type (#9193)](https://github.com/status-im/nimbus-eth2/commit/84ac0dd8802f4ec173e903786d542ea3de1a040a) - 2026-10-04
+* [Commit] [prevent req/resp column handlers from monopolizing event loop (#9192)](https://github.com/status-im/nimbus-eth2/commit/59f8e1a40dc251b509f8b6f8fe72097c573ada1c) - 2026-10-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 ## Q3 2026

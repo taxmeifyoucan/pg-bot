@@ -8,6 +8,12 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614#pullrequestreview-5404939974) - 2026-10-04
+* [Review] [Review on: perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615#pullrequestreview-5404940851) - 2026-10-04
 ## Q3 2026
 
 

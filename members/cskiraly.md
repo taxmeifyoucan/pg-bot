@@ -15,6 +15,8 @@ Team: Codex DAS
 * [Pull Request] [eth/catalyst: resolve unknown forkchoice heads in the background](https://github.com/ethereum/go-ethereum/pull/35864) - 2026-10-01
 * [Pull Request] [beacon/blsync: add --beacon.p2pblocks, following the head without downloading blocks](https://github.com/ethereum/go-ethereum/pull/35873) - 2026-10-03
 * [Pull Request] [beacon/light/request: send EvCanRequestAgain after refusing requests](https://github.com/ethereum/go-ethereum/pull/35872) - 2026-10-03
+* [Pull Request] [beacon/params: fix hoodi beacon genesis time](https://github.com/ethereum/go-ethereum/pull/35876) - 2026-10-04
+* [Pull Request] [core/filtermaps: start the log index at a history cutoff past the last checkpoint](https://github.com/ethereum/go-ethereum/pull/35875) - 2026-10-04
 ## Q3 2026
 
 

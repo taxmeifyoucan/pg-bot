@@ -71,6 +71,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): relieve register pressure in the guest opcode handlers](https://github.com/NethermindEth/nethermind/pull/14206#pullrequestreview-5403152123) - 2026-10-03
 * [Review] [Review on: perf(zkevm): trim keccak call overhead in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14207#pullrequestreview-5403149570) - 2026-10-03
 * [Review] [Review on: perf: keep the block's worker-group runners between the post-transaction steps](https://github.com/NethermindEth/nethermind/pull/14225#pullrequestreview-5402020160) - 2026-10-03
+* [Pull Request] [build: mark AOT-compatible projects and source-generate JSON metadata](https://github.com/NethermindEth/nethermind/pull/14237) - 2026-10-04
+* [Review] [Review on: build: mark AOT-compatible projects and source-generate JSON metadata](https://github.com/NethermindEth/nethermind/pull/14237#pullrequestreview-5405474307) - 2026-10-04
+* [Review] [Review on: Decode receipts responses against the expected per-block receipt counts](https://github.com/NethermindEth/nethermind/pull/14191#pullrequestreview-5409704979) - 2026-10-05
+* [Review] [Review on: perf(zkevm): relieve register pressure in the guest opcode handlers](https://github.com/NethermindEth/nethermind/pull/14206#pullrequestreview-5409704638) - 2026-10-05
+* [Review] [Review on: perf(zkevm): leaner trie walks, node re-encoding and witness lookups](https://github.com/NethermindEth/nethermind/pull/14209#pullrequestreview-5409704413) - 2026-10-05
+* [Review] [Review on: perf(stateless): hand the decoded witness state nodes over without copying them](https://github.com/NethermindEth/nethermind/pull/14233#pullrequestreview-5409704307) - 2026-10-05
+* [Review] [Review on: fix(shutter): count missed keys atomically](https://github.com/NethermindEth/nethermind/pull/14238#pullrequestreview-5409704216) - 2026-10-05
+* [Review] [Review on: perf(zkevm): leave the receipt transaction hash unset in the guest](https://github.com/NethermindEth/nethermind/pull/14239#pullrequestreview-5409703984) - 2026-10-05
+* [Review] [Review on: perf(zkevm): skip the zero credit to the executing account of a frame that runs code](https://github.com/NethermindEth/nethermind/pull/14243#pullrequestreview-5409703594) - 2026-10-05
+* [Review] [Review on: fix(stateless): record the code read by a fused EXTCODESIZE check in the execution witness](https://github.com/NethermindEth/nethermind/pull/14248#pullrequestreview-5409703430) - 2026-10-05
+* [Review] [Review on: perf(zkevm): analyze jump destinations with ZisK's JUMPDEST bitmap precompile](https://github.com/NethermindEth/nethermind/pull/14255#pullrequestreview-5409703325) - 2026-10-05
+* [Review] [Review on: perf(zkevm): reuse decoded witness header hashes and widen the guest keccak memo to 2^17 slots](https://github.com/NethermindEth/nethermind/pull/14256#pullrequestreview-5409703212) - 2026-10-05
+* [Review] [Review on: fix(test): call the public FrameTxSignatureValidator.Validate overload](https://github.com/NethermindEth/nethermind/pull/14258#pullrequestreview-5409689104) - 2026-10-05
+* [Commit] [Avoid HTTP and JSON round trips in local health-check UI polling (#14211)](https://github.com/NethermindEth/nethermind/commit/c5f3cd3b7904b712cab1764df4754d254a55d7fc) - 2026-10-04
 ## Q3 2026
 
 

@@ -65,6 +65,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: reject range sync envelopes whose block hash does not match the bid](https://github.com/ChainSafe/lodestar/pull/10251) - 2026-10-03
 * [Review] [Review on: fix: evict invalid payload envelopes from the seen cache](https://github.com/ChainSafe/lodestar/pull/10246#pullrequestreview-5400620451) - 2026-10-03
 * [Pull Request] [fix: prevent range sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10249) - 2026-10-03
+* [Pull Request] [chore: remove unused getPayloadBodies V1 engine methods](https://github.com/ChainSafe/lodestar/pull/10258) - 2026-10-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

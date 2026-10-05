@@ -35,6 +35,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [commitment: clone read snapshots for parallel folds](https://github.com/erigontech/erigon/pull/24524) - 2026-10-03
 * [Commit] [txnprovider/txpool: cap transaction packet counts before decoding (#24508)](https://github.com/erigontech/erigon/commit/27b3e9d50d48ad5adc7715f6dca453320724a6c6) - 2026-10-03
 * [Commit] [docs: port v3.7.1 release notes to main (#24502)](https://github.com/erigontech/erigon/commit/b971a8b14dfa513dd9930a62847fa8acfd604751) - 2026-10-03
+* [Pull Request] [cl, ci: test Caplin block production and blob publication](https://github.com/erigontech/erigon/pull/24543) - 2026-10-04
+* [Review] [Review on: txnprovider/txpool: defer authorization recovery until after prechecks](https://github.com/erigontech/erigon/pull/24509#pullrequestreview-5404962032) - 2026-10-04
+* [Review] [Review on: execution/state: refreshCode returns accounts.Code](https://github.com/erigontech/erigon/pull/24430#pullrequestreview-5405467296) - 2026-10-04
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

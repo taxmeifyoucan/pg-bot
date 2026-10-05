@@ -22,6 +22,21 @@ Team: Erigon
 * [Review] [Review on: docs(site): 3.6.1 disk sizes and sync times, x86-64-v2 CPU baseline, 3.7 upgrade notes](https://github.com/erigontech/erigon/pull/24436#pullrequestreview-5389258690) - 2026-10-02
 * [Commit] [execution/commitment/trie: drop orphaned v2 subtrie-loading layer (#24434)](https://github.com/erigontech/erigon/commit/2cd7a82b30b7e35caa0526e8555999dfbfd10045) - 2026-10-02
 * [Pull Request] [execution/stagedsync: dispatch the frontier retry before the batch tail](https://github.com/erigontech/erigon/pull/24531) - 2026-10-03
+* [Review] [Review on: common/crypto: keccak cache ](https://github.com/erigontech/erigon/pull/24480#pullrequestreview-5409634056) - 2026-10-05
+* [Review] [Review on: execution/state: storage reads without a version map skip the versioned read path](https://github.com/erigontech/erigon/pull/24570#pullrequestreview-5409634377) - 2026-10-05
+* [Review] [Review on: exec: resolve the code access hook once, not per code read](https://github.com/erigontech/erigon/pull/24571#pullrequestreview-5409634833) - 2026-10-05
+* [Review] [Review on: exec: fewer version-map probes on repeat reads](https://github.com/erigontech/erigon/pull/24559#pullrequestreview-5409633713) - 2026-10-05
+* [Review] [Review on: execution/stagedsync: feed touched keys to the BAL branch prefetch](https://github.com/erigontech/erigon/pull/24479#pullrequestreview-5409561060) - 2026-10-05
+* [Review] [Review on: execution/state: an own balance write settles TouchAccount](https://github.com/erigontech/erigon/pull/24569#pullrequestreview-5409634148) - 2026-10-05
+* [Review] [Review on: execution/vm: two fewer taken jumps in the run loop](https://github.com/erigontech/erigon/pull/24527#pullrequestreview-5409634670) - 2026-10-05
+* [Review] [Review on: execution/state: serve warm storage reads from the read set](https://github.com/erigontech/erigon/pull/22993#pullrequestreview-5409634596) - 2026-10-05
+* [Review] [Review on: rpc/jsonrpc: cache headers for header-only lookups](https://github.com/erigontech/erigon/pull/24540#pullrequestreview-5409634503) - 2026-10-05
+* [Review] [Review on: vm: EVM.call and createWithPreparation methods suffer from slow-defer](https://github.com/erigontech/erigon/pull/24542#pullrequestreview-5409634276) - 2026-10-05
+* [Review] [Review on: execution/stagedsync, execution/state: refold and write only the slots whose value moved](https://github.com/erigontech/erigon/pull/24456#pullrequestreview-5409633943) - 2026-10-05
+* [Review] [Review on: vm: generate interpreter loop](https://github.com/erigontech/erigon/pull/24517#pullrequestreview-5409633847) - 2026-10-05
+* [Review] [Review on: execution/state, execution/vm: 2-entry slot caches for repeated storage access](https://github.com/erigontech/erigon/pull/24551#pullrequestreview-5409633569) - 2026-10-05
+* [Review] [Review on: execution/vm: CREATE and CREATE2 run their initcode from memory, not a copy](https://github.com/erigontech/erigon/pull/24541#pullrequestreview-5409633452) - 2026-10-05
+* [Review] [Review on: rpc: enable StateCache](https://github.com/erigontech/erigon/pull/24497#pullrequestreview-5409633162) - 2026-10-05
 ## Q3 2026
 
 

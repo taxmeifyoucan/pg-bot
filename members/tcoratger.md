@@ -11,6 +11,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
 * [Review] [Review on: fix(sumcheck,binary-pcs,multi-stark): check an AIR's bit columns against the commitment](https://github.com/Plonky3/Plonky3/pull/2383#pullrequestreview-5389906003) - 2026-10-02
+* [Review] [Review on: fix(matrix): enforce the row bound in specialized horizontal packing](https://github.com/Plonky3/Plonky3/pull/2384#pullrequestreview-5406635959) - 2026-10-04
 ## Q3 2026
 
 

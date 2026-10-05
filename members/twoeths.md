@@ -27,6 +27,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject null slot gossip messages](https://github.com/ChainSafe/lodestar/pull/10241#pullrequestreview-5389746056) - 2026-10-02
 * [Commit] [fix: ignore messages from FATAL peer (#10239)](https://github.com/ChainSafe/lodestar/commit/fd4f342a40f62f50f4368e4e7515a1dab958457c) - 2026-10-02
 * [Commit] [fix: reject null slot gossip messages (#10241)](https://github.com/ChainSafe/lodestar/commit/a28be61ecba97f68988032ef810a28c4eb456ce5) - 2026-10-02
+* [Pull Request] [fix: optimize builder flows](https://github.com/ChainSafe/lodestar/pull/10263) - 2026-10-05
 ## Q3 2026
 
 

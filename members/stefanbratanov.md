@@ -15,6 +15,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Hidden option to disable considering p2p bids for block proposal](https://github.com/Consensys-Incorporated/teku/pull/11386) - 2026-10-01
 * [Review] [Review on: fix execution payload gossip validation concurrency](https://github.com/Consensys-Incorporated/teku/pull/11394#pullrequestreview-5392631551) - 2026-10-02
 * [Review] [Review on: VoluntaryExitGossipManager fork validation fix](https://github.com/Consensys-Incorporated/teku/pull/11392#pullrequestreview-5389975419) - 2026-10-02
+* [Commit] [Hidden option to disable considering p2p bids for block proposal (#11386)](https://github.com/Consensys-Incorporated/teku/commit/0898861dd0d38a16ee968c330900e62535ed361d) - 2026-10-05
 ## Q3 2026
 
 

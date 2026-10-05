@@ -89,6 +89,23 @@ Team: Reth
 * [Commit] [fix(trie): build reth-trie-parallel without metrics (#27662)](https://github.com/paradigmxyz/reth/commit/66615da2b68924691c98a7f4e7c363a72c0feed4) - 2026-10-03
 * [Commit] [perf(trie): share proof worker metrics handles (#27661)](https://github.com/paradigmxyz/reth/commit/ab12ea9487cd7cc1e7dd04902745403be3b0ce1e) - 2026-10-03
 
+* [Pull Request] [fix(net): never send empty incomplete eth/70 receipts](https://github.com/paradigmxyz/reth/pull/27717) - 2026-10-04
+* [Pull Request] [fix(storage): evict competing overlays on new head](https://github.com/paradigmxyz/reth/pull/27724) - 2026-10-04
+* [Pull Request] [fix(rpc): offload eth_getLogs blockHash queries](https://github.com/paradigmxyz/reth/pull/27723) - 2026-10-04
+* [Review] [Review on: fix(nippy-jar): end last value at its offset](https://github.com/paradigmxyz/reth/pull/27678#pullrequestreview-5406894330) - 2026-10-04
+* [Pull Request] [fix(discv4): match neighbours replies by source ip](https://github.com/paradigmxyz/reth/pull/27722) - 2026-10-04
+* [Pull Request] [feat(txpool): prune unused sender identifiers](https://github.com/paradigmxyz/reth/pull/27721) - 2026-10-04
+* [Pull Request] [fix(nippy-jar): handle uncommitted rows in prune_rows](https://github.com/paradigmxyz/reth/pull/27719) - 2026-10-04
+* [Pull Request] [fix(txpool): apply min priority fee to legacy txs](https://github.com/paradigmxyz/reth/pull/27720) - 2026-10-04
+* [Pull Request] [fix(rpc): bound eth_getProof storage key work](https://github.com/paradigmxyz/reth/pull/27716) - 2026-10-04
+* [Review] [Review on: fix(rpc): use resolved block state in simulate_v1](https://github.com/paradigmxyz/reth/pull/27714#pullrequestreview-5406603172) - 2026-10-04
+* [Pull Request] [fix(consensus): reject pre-Shanghai body withdrawals](https://github.com/paradigmxyz/reth/pull/27715) - 2026-10-04
+* [Issue] [nippy-jar: prune_rows mishandles uncommitted rows](https://github.com/paradigmxyz/reth/issues/27718) - 2026-10-04
+* [Commit] [fix(net): never send empty incomplete eth/70 receipts (#27717)](https://github.com/paradigmxyz/reth/commit/42fa3c569ad182914d26db410919d6a10c7b4859) - 2026-10-04
+* [Commit] [fix(nippy-jar): handle uncommitted rows in prune_rows (#27719)](https://github.com/paradigmxyz/reth/commit/0d1324f14712cefca117bdcb561ed9393192160a) - 2026-10-04
+* [Commit] [fix(txpool): apply min priority fee to legacy txs (#27720)](https://github.com/paradigmxyz/reth/commit/2c108d3898dbd09f86962c1720196071b10b6f4e) - 2026-10-04
+* [Commit] [feat(e2e): expand the e2e test harness (#27713)](https://github.com/paradigmxyz/reth/commit/e47a8c8f27002ed74b9cb857ce90f983682e2b78) - 2026-10-04
+* [Commit] [fix(consensus): reject pre-Shanghai body withdrawals (#27715)](https://github.com/paradigmxyz/reth/commit/f10487daa37f734fe44ca34bef48d3587c066ace) - 2026-10-04
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

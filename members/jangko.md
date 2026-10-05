@@ -22,6 +22,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Bump nim-web3: move execution_types.nim to nimbus-eth1 repo](https://github.com/status-im/nimbus-eth1/pull/4895) - 2026-10-03
 * [Commit] [Bump nim-web3: move execution_types.nim to nimbus-eth1 repo (#4895)](https://github.com/status-im/nimbus-eth1/commit/9bf632a46e5d5aa7fb8e7d50bf12b43c6fdc9b74) - 2026-10-03
 
+* [Review] [Review on: Bump njs: Format version = 1](https://github.com/status-im/nimbus-eth1/pull/4893#pullrequestreview-5406399646) - 2026-10-04
+* [Commit] [Bump njs: Format version = 1 (#4893)](https://github.com/status-im/nimbus-eth1/commit/9bcb713ce0a611233d11a24056b089ea25332cce) - 2026-10-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

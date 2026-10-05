@@ -27,9 +27,18 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc, execution: roll back returned ro txs on panic](https://github.com/erigontech/erigon/pull/24498#pullrequestreview-5401189077) - 2026-10-03
 * [Review] [Review on: rpc/jsonrpc: serve the *ByBlockAndIndex transaction methods without decoding the whole block](https://github.com/erigontech/erigon/pull/24409#pullrequestreview-5401111809) - 2026-10-03
 
+* [Review] [Review on: rpc/jsonrpc: cache headers for header-only lookups](https://github.com/erigontech/erigon/pull/24540#pullrequestreview-5407851189) - 2026-10-04
+* [Pull Request] [execution/vm, rpc/jsonrpc: list EIP-8024 operations that halt in execute in vmTrace](https://github.com/erigontech/erigon/pull/24560) - 2026-10-04
+* [Pull Request] [execution/execmodule: detach the block overlay when validation finds a bad block](https://github.com/erigontech/erigon/pull/24561) - 2026-10-04
+* [Pull Request] [rpc/jsonrpc: apply state overrides to every call in trace_callMany](https://github.com/erigontech/erigon/pull/24567) - 2026-10-04
+* [Pull Request] [rpc/jsonrpc: reject trace_rawTransaction gas limit above the RPC gas cap](https://github.com/erigontech/erigon/pull/24564) - 2026-10-04
+* [Review] [Review on: rpc: check pruning before replay and keep block transaction counts available](https://github.com/erigontech/erigon/pull/23777#pullrequestreview-5407902129) - 2026-10-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
+* [Pull Request] [rpc_pattern_gen: mixed load from a profile; rpc_perf: results by API with --verbose](https://github.com/erigontech/rpc-tests/pull/616) - 2026-10-04
+* [Commit] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks (#614)](https://github.com/erigontech/rpc-tests/commit/1b2fa5e37c10e1da306db3a2d811a1666c08abf9) - 2026-10-04
+* [Commit] [perf: count JSON-RPC errors in response bodies (#615)](https://github.com/erigontech/rpc-tests/commit/6f6e7514a4498c696d83d87f99338f714680da14) - 2026-10-04
 ## Q3 2026
 
 
