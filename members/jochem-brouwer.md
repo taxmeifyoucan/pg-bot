@@ -15,10 +15,13 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535#pullrequestreview-5382277723) - 2026-10-01
 * [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380253897) - 2026-10-01
 
+* [Pull Request] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor](https://github.com/ethereum/execution-specs/pull/3711) - 2026-10-05
+* [Commit] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor (#3711)](https://github.com/ethereum/execution-specs/commit/1764b0884c3ad7f2126cc6a51f0e7ebd347cf8dc) - 2026-10-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02
 * [Review] [Review on: Update EIP-7928: clarify empty BAL conditions](https://github.com/ethereum/EIPs/pull/12416#pullrequestreview-5390806280) - 2026-10-02
+* [Commit] [Update EIP-5069: Add EIP Coordinator](https://github.com/ethereum/EIPs/commit/910d80209cb83c90f939f2746c5eb1f54b9d2a05) - 2026-10-05
 ## Q3 2026
 
 

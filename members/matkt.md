@@ -19,6 +19,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Fix system calls in block access lists and contract creation](https://github.com/besu-eth/besu/pull/11397#pullrequestreview-5391635213) - 2026-10-02
 * [Pull Request] [Bonsai: block-granular LRU cross-block cache, cache top trie nodes](https://github.com/besu-eth/besu/pull/11428) - 2026-10-02
 * [Commit] [Retain blocks and BALs for the history expiry window (#11417)](https://github.com/besu-eth/besu/commit/983665f8e153aae07b37921912d57073940d5675) - 2026-10-02
+* [Pull Request] [Commit few updated accounts sequentially in the world state accumulator](https://github.com/besu-eth/besu/pull/11468) - 2026-10-05
+* [Review] [Review on: Fix/cross block cache concurrency part 2](https://github.com/besu-eth/besu/pull/11399#pullrequestreview-5410519750) - 2026-10-05
+* [Pull Request] [Hash and size legacy transactions and block access lists from their r…](https://github.com/besu-eth/besu/pull/11470) - 2026-10-05
+* [Commit] [Commit few updated accounts sequentially in the world state accumulator (#11468)](https://github.com/besu-eth/besu/commit/370541c9a1206d863d7747ca417eb8a10b2c440c) - 2026-10-06
+* [Commit] [Hash and size legacy transactions and block access lists from their raw bytes (#11470)](https://github.com/besu-eth/besu/commit/65086a3ef44e592d312fe11aefda503847966634) - 2026-10-06
 ## Q3 2026
 
 

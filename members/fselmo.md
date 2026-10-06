@@ -22,8 +22,18 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(test-specs): keep a failing block's fixture to one defect](https://github.com/ethereum/execution-specs/pull/3698) - 2026-10-02
 * [Commit] [feat(test-specs, tests): tests for BAL parallel execution (#3670)](https://github.com/ethereum/execution-specs/commit/a87891f7e69eab1f903233c61c5514d8c94bd5d1) - 2026-10-02
 
+* [Pull Request] [fix(tests): tag re-invoked selfdestruct children by call](https://github.com/ethereum/execution-specs/pull/3717) - 2026-10-06
+* [Pull Request] [docs(test-formats): document the block access list fixture field](https://github.com/ethereum/execution-specs/pull/3710) - 2026-10-05
+* [Pull Request] [feat(tests): pin the EIP-8037 intrinsic execution gas cap](https://github.com/ethereum/execution-specs/pull/3709) - 2026-10-05
+* [Pull Request] [fix(test-client-clis): keep tool detection off stdout](https://github.com/ethereum/execution-specs/pull/3707) - 2026-10-05
+* [Commit] [fix(tests): tag re-invoked selfdestruct children by call (#3717)](https://github.com/ethereum/execution-specs/commit/513134688fe6373f8e2a08142f7231283f075593) - 2026-10-06
+* [Commit] [feat(tests): pin the EIP-8037 intrinsic execution gas cap (#3709)](https://github.com/ethereum/execution-specs/commit/57842a8a866c9dcec6236c9666e53f92ff878d0b) - 2026-10-06
+* [Commit] [fix(test-specs): keep a failing block's fixture to one defect (#3698)](https://github.com/ethereum/execution-specs/commit/37f6de9010c9dcb59705963fa9a449191d749a67) - 2026-10-05
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [execution/stagedsync: run a single exec worker when one is configured](https://github.com/erigontech/erigon/pull/24594) - 2026-10-05
 ## Q3 2026
 
 

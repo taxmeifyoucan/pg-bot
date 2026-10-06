@@ -22,6 +22,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [EIP-7906 Implementation Tracker: Transaction Assertions via State Diff Opcode](https://github.com/ethereum/execution-specs/issues/3688) - 2026-10-01
 * [Issue] [EIP-7668 Implementation Tracker: Remove bloom filters](https://github.com/ethereum/execution-specs/issues/3687) - 2026-10-01
 * [Issue] [EIP-3298 Implementation Tracker: Remove storage-clear refund and refund cap](https://github.com/ethereum/execution-specs/issues/3686) - 2026-10-01
+* [Review] [Review on: refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor](https://github.com/ethereum/execution-specs/pull/3711#pullrequestreview-5423673266) - 2026-10-06
+* [Review] [Review on: fix(tests): tag re-invoked selfdestruct children by call](https://github.com/ethereum/execution-specs/pull/3717#pullrequestreview-5423689488) - 2026-10-06
+* [Review] [Review on: docs(test-formats): document the block access list fixture field](https://github.com/ethereum/execution-specs/pull/3710#pullrequestreview-5423399757) - 2026-10-06
+* [Review] [Review on: feat(tests): cover CREATE nonce after re-invoking a self-destructed contract](https://github.com/ethereum/execution-specs/pull/3705#pullrequestreview-5423263408) - 2026-10-06
+* [Review] [Review on: feat(tests): pin the EIP-8037 intrinsic execution gas cap](https://github.com/ethereum/execution-specs/pull/3709#pullrequestreview-5423336608) - 2026-10-06
 ## Q3 2026
 
 

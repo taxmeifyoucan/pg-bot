@@ -21,6 +21,11 @@ Team: Geth
 * [Pull Request] [eth/tracers/native: add Stop() to KeccakTracer](https://github.com/ethereum/go-ethereum/pull/35858) - 2026-10-01
 * [Pull Request] [eth/protocols/eth: limit getPooledTransactions lookup](https://github.com/ethereum/go-ethereum/pull/35857) - 2026-10-01
 
+* [Pull Request] [core: better caching for jumpdest analysis](https://github.com/ethereum/go-ethereum/pull/35881) - 2026-10-05
+* [Commit] [p2p/discover: require bonded peer for address prediction (#35861)](https://github.com/ethereum/go-ethereum/commit/02de17351a90bb88ec32ec031718c4ce33a15b0a) - 2026-10-06
+* [Commit] [eth/protocols/snap: charge per request (#35856)](https://github.com/ethereum/go-ethereum/commit/9bbffb6fcdbc1068849b013da448a0e7561d7d4c) - 2026-10-05
+* [Commit] [eth/protocols/eth: don't skip invalid receipts (#35859)](https://github.com/ethereum/go-ethereum/commit/4b11f5d81d0fd20f5444afb96ec40c764b17e748) - 2026-10-05
+* [Commit] [eth/protocols/eth: limit getPooledTransactions lookup (#35857)](https://github.com/ethereum/go-ethereum/commit/49a5eaf084cbec6321477d8e69281a7777f6bb2b) - 2026-10-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

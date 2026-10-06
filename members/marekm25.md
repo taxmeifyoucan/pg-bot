@@ -8,6 +8,12 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412898020) - 2026-10-05
+* [Pull Request] [Add coordinators from Nethermind in Glamsterdam mainnet plan](https://github.com/ethereum/pm/pull/2256) - 2026-10-05
 ## Q3 2026
 
 

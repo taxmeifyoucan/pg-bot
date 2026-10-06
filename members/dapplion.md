@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Implement optional proofs with fork-choice optimistic](https://github.com/sigp/lighthouse/pull/10198) - 2026-10-02
+* [Pull Request] [Add POST /eth/v1/beacon/pool/execution_proofs](https://github.com/sigp/lighthouse/pull/10210) - 2026-10-05
 ## Q3 2026
 
 

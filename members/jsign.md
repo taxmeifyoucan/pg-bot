@@ -18,6 +18,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(zkevm): update geth filler for v21](https://github.com/ethereum/execution-specs/pull/3697) - 2026-10-02
 * [Pull Request] [fix(zkevm): split zkevm-benchmark release into one tarball per gas value](https://github.com/ethereum/execution-specs/pull/3700) - 2026-10-03
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 ## Q3 2026
 
 

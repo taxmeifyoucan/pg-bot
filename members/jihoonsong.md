@@ -6,6 +6,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5412862391) - 2026-10-05
 ## Q3 2026
 
 

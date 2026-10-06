@@ -16,6 +16,13 @@ Team: Geth
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core/types, eth/protocols/eth: fix snap sync of frame transaction receipts](https://github.com/ethereum/go-ethereum/pull/35882) - 2026-10-05
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
+* [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05
 ## Q3 2026
 
 

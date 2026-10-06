@@ -93,6 +93,38 @@ Team: Erigon
 * [Review] [Review on: rpc/jsonrpc: reject trace_rawTransaction gas limit above the RPC gas cap](https://github.com/erigontech/erigon/pull/24564#pullrequestreview-5409419789) - 2026-10-05
 * [Pull Request] [execution/vm: lock-free direct-mapped JUMPDEST analysis cache](https://github.com/erigontech/erigon/pull/24563) - 2026-10-04
 * [Pull Request] [execution/vm: split EVM.call into Call, CallCode, DelegateCall and StaticCall](https://github.com/erigontech/erigon/pull/24549) - 2026-10-04
+* [Pull Request] [exec: run PUSH3..PUSH32 on the fast path](https://github.com/erigontech/erigon/pull/24577) - 2026-10-05
+* [Pull Request] [exec: create collision check returns early for an absent account](https://github.com/erigontech/erigon/pull/24592) - 2026-10-05
+* [Review] [Review on: exec: create collision check returns early for an absent account](https://github.com/erigontech/erigon/pull/24592#pullrequestreview-5416596628) - 2026-10-05
+* [Pull Request] [exec: add `ibs.noConflictDetection` flag to skips logic required only for parallel-exec conflicts-resolution](https://github.com/erigontech/erigon/pull/24600) - 2026-10-06
+* [Review] [Review on: exec: add `ibs.noConflictDetection` flag to skips logic required only for parallel-exec conflicts-resolution](https://github.com/erigontech/erigon/pull/24600#pullrequestreview-5422299708) - 2026-10-06
+* [Pull Request] [vm: CallContext return to pool only at end of exec](https://github.com/erigontech/erigon/pull/24576) - 2026-10-05
+* [Review] [Review on: vm: CallContext return to pool only at end of exec](https://github.com/erigontech/erigon/pull/24576#pullrequestreview-5410474603) - 2026-10-05
+* [Pull Request] [exec: enable `StateCache` at startup](https://github.com/erigontech/erigon/pull/24587) - 2026-10-05
+* [Pull Request] [rpc: eth_call reuse a pooled `ibs`](https://github.com/erigontech/erigon/pull/24601) - 2026-10-06
+* [Review] [Review on: rpc: eth_call reuse a pooled `ibs`](https://github.com/erigontech/erigon/pull/24601#pullrequestreview-5422594338) - 2026-10-06
+* [Pull Request] [exec: skip "synthesizing an account" if version map has no cell for](https://github.com/erigontech/erigon/pull/24602) - 2026-10-06
+* [Review] [Review on: db: remove commit gate](https://github.com/erigontech/erigon/pull/24591#pullrequestreview-5423171607) - 2026-10-06
+* [Pull Request] [exec: SSTORE hands its gas-func read to SetState](https://github.com/erigontech/erigon/pull/24580) - 2026-10-05
+* [Review] [Review on: exec: SSTORE hands its gas-func read to SetState](https://github.com/erigontech/erigon/pull/24580#pullrequestreview-5412791544) - 2026-10-05
+* [Review] [Review on: rpc/jsonrpc: graphql Call builds the state reader from the already resolved block](https://github.com/erigontech/erigon/pull/24595#pullrequestreview-5423226164) - 2026-10-06
+* [Review] [Review on: execution/tracing: add remaining geth flat call tracer fixtures and share the fixture runner](https://github.com/erigontech/erigon/pull/24596#pullrequestreview-5422924705) - 2026-10-06
+* [Review] [Review on: cmd/rpcdaemon: answer 413 for an oversized chunked /graphql body](https://github.com/erigontech/erigon/pull/24597#pullrequestreview-5422829760) - 2026-10-06
+* [Review] [Review on: execution/vm: count JUMPDEST cache bitmap size in bytes](https://github.com/erigontech/erigon/pull/24578#pullrequestreview-5422848224) - 2026-10-06
+* [Review] [Review on: rpc/jsonrpc: return -32001 for an unknown block in trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/24598#pullrequestreview-5422810484) - 2026-10-06
+* [Review] [Review on: execution/stagedsync, execution/state: refold and write only the slots whose value moved](https://github.com/erigontech/erigon/pull/24456#pullrequestreview-5411608677) - 2026-10-05
+* [Commit] [exec: fewer version-map probes on repeat reads (#24559)](https://github.com/erigontech/erigon/commit/89b3cb4b7a6a7135807ac3cce75623bf7bd21a62) - 2026-10-05
+* [Commit] [exec: add vm.Config.NoBAL to skip them in eth_call (#24555)](https://github.com/erigontech/erigon/commit/e1de848857c7c7bcdb7b9d9021b877fd311d1491) - 2026-10-05
+* [Commit] [exec: serve warm storage reads from the read set (#22993)](https://github.com/erigontech/erigon/commit/e4501ea01f1cecbc6783cda78599767a62c19a1e) - 2026-10-05
+* [Commit] [vm: two fewer taken jumps in the run loop (#24527)](https://github.com/erigontech/erigon/commit/7289660130c0fd7064902eba3b9436a4ed0f272c) - 2026-10-05
+* [Commit] [exec: resolve the code access hook once, not per code read (#24571)](https://github.com/erigontech/erigon/commit/283128d4dd5edf349c01b9a0f02685884525bc9f) - 2026-10-05
+* [Commit] [vm: 2-entry slot caches for repeated storage access (#24551)](https://github.com/erigontech/erigon/commit/e377f646c1a0b6dce64c20eaeb2065e8b923420a) - 2026-10-05
+* [Commit] [exec: storage reads without a version map skip the versioned read path (#24570)](https://github.com/erigontech/erigon/commit/6fe6ff1d345fede086af7bdcd29f2f23d959e439) - 2026-10-05
+* [Commit] [vm: EVM.call and createWithPreparation methods suffer from slow-defer (#24542)](https://github.com/erigontech/erigon/commit/27fb351d06b8c963c0fb5c9c74c5d83422e34dd0) - 2026-10-05
+* [Commit] [ibs: if code not changed - don't create journal records, don't re-calc hash (#24552)](https://github.com/erigontech/erigon/commit/2d07067908208a1670e3b8742f42d7e6e1c94598) - 2026-10-05
+* [Commit] [vm: CREATE and CREATE2 run their initcode from memory, not a copy (#24541)](https://github.com/erigontech/erigon/commit/7f2d00f7ba63b9486f42b2531a950ac54d85480c) - 2026-10-05
+* [Commit] [common/crypto: keccak cache  (#24480)](https://github.com/erigontech/erigon/commit/64d09f61e86bd1f63e3e8cf5ba27a90f4cdef8f6) - 2026-10-05
+* [Commit] [rpc/jsonrpc: cache headers for header-only lookups (#24540)](https://github.com/erigontech/erigon/commit/eae22c4b8f2c4661220f7f9342a69c6f1c64b686) - 2026-10-05
 ## Q3 2026
 
 

@@ -14,6 +14,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove Gradle workers.max=4 cap from CI](https://github.com/Consensys-Incorporated/teku/pull/11382#pullrequestreview-5376174225) - 2026-10-01
 * [Review] [Review on: Publish test reports as check runs from a workflow_run workflow](https://github.com/Consensys-Incorporated/teku/pull/11383#pullrequestreview-5376504009) - 2026-10-01
+* [Pull Request] [ Add decode regression test for Gloas block body deposits limit](https://github.com/Consensys-Incorporated/teku/pull/11415) - 2026-10-06
+* [Review] [Review on: Add second batch of gossipsub metrics](https://github.com/Consensys-Incorporated/teku/pull/11414#pullrequestreview-5423294045) - 2026-10-06
 ## Q3 2026
 
 

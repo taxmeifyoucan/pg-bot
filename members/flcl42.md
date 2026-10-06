@@ -21,6 +21,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Issue] [eth_call executes frame transactions before EIP-8141 activation](https://github.com/NethermindEth/nethermind/issues/14141) - 2026-10-01
 * [Review] [Review on: Verify EIP-1459 tree root signature in DNS discovery](https://github.com/NethermindEth/nethermind/pull/14183#pullrequestreview-5394638018) - 2026-10-02
 * [Commit] [Honor discv4 Ping forward compatibility (#14151)](https://github.com/NethermindEth/nethermind/commit/2db6830e1e0fe9e7f9515306a0fe5462c40df6e1) - 2026-10-02
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 ## Q3 2026
 
 

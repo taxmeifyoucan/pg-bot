@@ -8,6 +8,12 @@ Team: Grandine
 
 ## Contributions
 
+## Q4 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Review] [Review on: Allow to process blocks again that were once ignored because there were too far in the future to be delayed](https://github.com/grandinetech/grandine/pull/954#pullrequestreview-5414109711) - 2026-10-05
+* [Review] [Review on: State cache prune locking improvements](https://github.com/grandinetech/grandine/pull/950#pullrequestreview-5412695390) - 2026-10-05
 ## Q3 2026
 
 

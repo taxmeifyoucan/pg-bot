@@ -22,11 +22,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add vanity log for Gloas transition](https://github.com/status-im/nimbus-eth2/pull/9175) - 2026-10-02
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/status-im/nimbus-eth2/pull/9168) - 2026-10-02
 * [Pull Request] [Unify early reject of data with future slot](https://github.com/status-im/nimbus-eth2/pull/9180) - 2026-10-03
+* [Pull Request] [Fix crash with restarting right around the Altair fork](https://github.com/status-im/nimbus-eth2/pull/9205) - 2026-10-05
+* [Pull Request] [Update Windows build instructions](https://github.com/status-im/nimbus-eth2/pull/9201) - 2026-10-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7495: Clarify inactive field merkleization](https://github.com/ethereum/EIPs/pull/12419#pullrequestreview-5406836527) - 2026-10-04
+* [Review] [Review on: Update EIP-8116: Define gasUsed and RPC cumulativeGasUsed](https://github.com/ethereum/EIPs/pull/12430#pullrequestreview-5420739697) - 2026-10-05
 ## Q3 2026
 
 

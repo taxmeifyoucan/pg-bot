@@ -15,6 +15,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951) - 2026-10-02
 * [Review] [Review on: Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951#pullrequestreview-5391645768) - 2026-10-02
 * [Issue] [Add per-key builder configuration to key manager](https://github.com/grandinetech/grandine/issues/952) - 2026-10-02
+* [Commit] [Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/commit/368d871213e58dd31c9bc8ed6d4019926a637a61) - 2026-10-05
 ## Q3 2026
 
 

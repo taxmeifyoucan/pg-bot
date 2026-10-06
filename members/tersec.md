@@ -15,6 +15,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [enforce Nim versions](https://github.com/status-im/nimbus-eth1/pull/4884) - 2026-10-01
 
 * [Commit] [enforce Nim versions (#4884)](https://github.com/status-im/nimbus-eth1/commit/3f010b0ab952f6e6e7f766726ef6312c1f3a33d5) - 2026-10-02
+* [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5422509198) - 2026-10-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
@@ -39,6 +40,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version v26.10.0](https://github.com/status-im/nimbus-eth2/commit/657beb3d6e13fcfddb1a7ca2dbd2d3d0516f8ca8) - 2026-10-04
 * [Commit] [rm unused altair.MetaData type (#9193)](https://github.com/status-im/nimbus-eth2/commit/84ac0dd8802f4ec173e903786d542ea3de1a040a) - 2026-10-04
 * [Commit] [prevent req/resp column handlers from monopolizing event loop (#9192)](https://github.com/status-im/nimbus-eth2/commit/59f8e1a40dc251b509f8b6f8fe72097c573ada1c) - 2026-10-04
+* [Pull Request] [use v1.7.0-beta.3 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9211) - 2026-10-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 ## Q3 2026

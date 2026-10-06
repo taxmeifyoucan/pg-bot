@@ -18,6 +18,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db: inverted index flush prefetch](https://github.com/erigontech/erigon/pull/24483) - 2026-10-01
 * [Review] [Review on: execution: system calls do not touch SystemAddress, drop its BAL filter](https://github.com/erigontech/erigon/pull/24504#pullrequestreview-5390583067) - 2026-10-02
 * [Commit] [db: inverted index flush prefetch (#24483)](https://github.com/erigontech/erigon/commit/4c584ee31a01b2ef60f365136b82381a75dcd9f2) - 2026-10-02
+* [Pull Request] [db: remove commit gate](https://github.com/erigontech/erigon/pull/24591) - 2026-10-05
+* [Commit] [db: remove commit gate (#24591)](https://github.com/erigontech/erigon/commit/37e276412b69410a918c57fc2070da6c3627ce9d) - 2026-10-06
 ## Q3 2026
 
 

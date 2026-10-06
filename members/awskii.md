@@ -37,6 +37,19 @@ Team: Erigon
 * [Review] [Review on: execution/state, execution/vm: 2-entry slot caches for repeated storage access](https://github.com/erigontech/erigon/pull/24551#pullrequestreview-5409633569) - 2026-10-05
 * [Review] [Review on: execution/vm: CREATE and CREATE2 run their initcode from memory, not a copy](https://github.com/erigontech/erigon/pull/24541#pullrequestreview-5409633452) - 2026-10-05
 * [Review] [Review on: rpc: enable StateCache](https://github.com/erigontech/erigon/pull/24497#pullrequestreview-5409633162) - 2026-10-05
+* [Review] [Review on: exec: CreateAddress goes through Keccak256Hash, without allocations](https://github.com/erigontech/erigon/pull/24575#pullrequestreview-5423714181) - 2026-10-06
+* [Review] [Review on: exec: CreateAccount does not heap-allocate an account copy ](https://github.com/erigontech/erigon/pull/24565#pullrequestreview-5423714104) - 2026-10-06
+* [Review] [Review on: exec: run PUSH3..PUSH32 on the fast path](https://github.com/erigontech/erigon/pull/24577#pullrequestreview-5423714040) - 2026-10-06
+* [Review] [Review on: exec: keep precompiles warm without inserting them per tx](https://github.com/erigontech/erigon/pull/24574#pullrequestreview-5423713921) - 2026-10-06
+* [Review] [Review on: exec: create collision check returns early for an absent account](https://github.com/erigontech/erigon/pull/24592#pullrequestreview-5423713637) - 2026-10-06
+* [Review] [Review on: execution/state: versioned balance write takes the balance its caller read](https://github.com/erigontech/erigon/pull/24573#pullrequestreview-5423713477) - 2026-10-06
+* [Review] [Review on: exec: Call uses cfg.Origin instead of creating its state object](https://github.com/erigontech/erigon/pull/24572#pullrequestreview-5423713361) - 2026-10-06
+* [Review] [Review on: exec: add `ibs.noConflictDetection` flag to skips logic required only for parallel-exec conflicts-resolution](https://github.com/erigontech/erigon/pull/24600#pullrequestreview-5423713170) - 2026-10-06
+* [Review] [Review on: vm: CallContext return to pool only at end of exec](https://github.com/erigontech/erigon/pull/24576#pullrequestreview-5423713022) - 2026-10-06
+* [Review] [Review on: exec: enable `StateCache` at startup](https://github.com/erigontech/erigon/pull/24587#pullrequestreview-5423712752) - 2026-10-06
+* [Review] [Review on: rpc: eth_call reuse a pooled `ibs`](https://github.com/erigontech/erigon/pull/24601#pullrequestreview-5423712600) - 2026-10-06
+* [Pull Request] [execution/stagedsync: feed touched keys to the BAL branch prefetch](https://github.com/erigontech/erigon/pull/24479) - 2026-10-05
+* [Commit] [commitment: parallel fold workers read the caller's snapshot (#23722)](https://github.com/erigontech/erigon/commit/c12ebb1ef31bdae5aa124b2df20c64eef97d254f) - 2026-10-05
 ## Q3 2026
 
 

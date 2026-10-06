@@ -18,6 +18,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: docs: add note about ai contribution](https://github.com/ChainSafe/lodestar/pull/10244#pullrequestreview-5393263625) - 2026-10-02
 * [Pull Request] [chore(lint): fail on src imports of dev-only dependencies](https://github.com/ChainSafe/lodestar/pull/10090) - 2026-10-02
 * [Commit] [chore(lint): fail on src imports of dev-only dependencies (#10090)](https://github.com/ChainSafe/lodestar/commit/f2fb26d4535ef9a6862bae05b53345b8e95745e8) - 2026-10-02
+* [Commit] [feat(bindings): zig state transition (#9632)](https://github.com/ChainSafe/lodestar/commit/af3e3a6cff73ab463f7cc26f0ad5ae585c145090) - 2026-10-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -25,6 +26,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor: migrate deprecated zig std APIs](https://github.com/ChainSafe/lodestar-z/pull/742#pullrequestreview-5374910026) - 2026-10-01
 * [Review] [Review on: chore(deps): bump hashtree revision](https://github.com/ChainSafe/lodestar-z/pull/743#pullrequestreview-5374900518) - 2026-10-01
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5389708869) - 2026-10-02
+
+* [Review] [Review on: fix: prepare state before rewards](https://github.com/ChainSafe/lodestar-z/pull/755#pullrequestreview-5423577029) - 2026-10-06
+* [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5414867682) - 2026-10-05
+* [Review] [Review on: feat(bindings): implement remaining rewards apis](https://github.com/ChainSafe/lodestar-z/pull/731#pullrequestreview-5414522497) - 2026-10-05
+* [Review] [Review on: fix(state-transition): report withdrawal count mismatch](https://github.com/ChainSafe/lodestar-z/pull/752#pullrequestreview-5415870275) - 2026-10-05
+* [Review] [Review on: perf(state-transition): diff-synced flat validator cache](https://github.com/ChainSafe/lodestar-z/pull/736#pullrequestreview-5411214403) - 2026-10-05
+* [Commit] [perf(state-transition): diff-synced flat validator cache (#736)](https://github.com/ChainSafe/lodestar-z/commit/d7282c7a751d0b8c56b3e525af007bebaaee119b) - 2026-10-05
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 ## Q3 2026
 
 

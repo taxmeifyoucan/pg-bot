@@ -14,6 +14,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: refactor(builder): share one beacon event subscription](https://github.com/ChainSafe/lodestar/pull/10064#pullrequestreview-5377891474) - 2026-10-01
 * [Review] [Review on: feat(builder): coordinate bounded payload build jobs](https://github.com/ChainSafe/lodestar/pull/9973#pullrequestreview-5378024101) - 2026-10-01
+* [Review] [Review on: fix: resolve inclusion list dependent root from the block state on payload import](https://github.com/ChainSafe/lodestar/pull/10265#pullrequestreview-5412706641) - 2026-10-05
+* [Commit] [fix: apply epoch updates before computing attestation rewards (#10224)](https://github.com/ChainSafe/lodestar/commit/6ce21fd8a2497280d1b072a8e4e3e86bc9dc5791) - 2026-10-05
 ## Q3 2026
 
 

@@ -8,6 +8,12 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/ethereum/consensus-specs/pull/5673#pullrequestreview-5410516459) - 2026-10-05
+* [Commit] [Add a mechanism for providing a restart-resilient confirmed root (#5673)](https://github.com/ethereum/consensus-specs/commit/11a5d6f551a4d3bcb4f2afb7612287292c92de22) - 2026-10-05
 ## Q3 2026
 
 

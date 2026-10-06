@@ -15,6 +15,11 @@ Team: Grandine
 * [Pull Request] [State cache prune locking improvements](https://github.com/grandinetech/grandine/pull/950) - 2026-10-01
 * [Commit] [Enable wait for fully validated head for pre-Gloas phases](https://github.com/grandinetech/grandine/commit/7be8d120b080e5758f27e092055359436317c6b9) - 2026-10-01
 * [Review] [Review on: Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951#pullrequestreview-5390250941) - 2026-10-02
+* [Pull Request] [Produce and publish attestations before attest tick by default on head change](https://github.com/grandinetech/grandine/pull/955) - 2026-10-05
+* [Pull Request] [Allow to process blocks again that were once ignored because there were too far in the future to be delayed](https://github.com/grandinetech/grandine/pull/954) - 2026-10-05
+* [Review] [Review on: Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951#pullrequestreview-5412180684) - 2026-10-05
+* [Commit] [Allow to process blocks again that were once ignored because there were too far in the future to be delayed](https://github.com/grandinetech/grandine/commit/52299203d3083e923a6781c3dd1158aee27b14b7) - 2026-10-05
+* [Commit] [During state cache prune, do not try to acquire cache map lock with timeout. If it's locked, skip that map.](https://github.com/grandinetech/grandine/commit/2ec9f905fd7e425b89865cc8e6526da2b7f998de) - 2026-10-05
 ## Q3 2026
 
 

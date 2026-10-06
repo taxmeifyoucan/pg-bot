@@ -110,6 +110,36 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(state): cheaper storage reads (per-slot journal filter, SlotKey map key, stateless code memo) (#14214)](https://github.com/NethermindEth/nethermind/commit/c71261ecf625da8746271383f36d512c2b871c3c) - 2026-10-04
 * [Commit] [perf(zkevm): trim keccak call overhead in the ZisK guest (#14207)](https://github.com/NethermindEth/nethermind/commit/92d91836f4de7c5ef634fcf64e50f1a23e38730d) - 2026-10-04
 * [Commit] [perf(rpc): read typed parameters through their converter (#14193)](https://github.com/NethermindEth/nethermind/commit/fc24b807e4f376764ab3d24ae242d59bc7d7c2a1) - 2026-10-04
+* [Review] [Review on: feat: EIP-8131 unified transaction content floor](https://github.com/NethermindEth/nethermind/pull/13929#pullrequestreview-5418281437) - 2026-10-05
+* [Review] [Review on: feat: EIP-8253 bump nonce of zero-nonce storage accounts](https://github.com/NethermindEth/nethermind/pull/13943#pullrequestreview-5418231018) - 2026-10-05
+* [Pull Request] [ci: split Nethermind.JsonRpc.Test into two chunks on macOS and Windows](https://github.com/NethermindEth/nethermind/pull/14275) - 2026-10-05
+* [Pull Request] [fix(sync): retake an invalid sync snapshot before recalculating progress pointers](https://github.com/NethermindEth/nethermind/pull/14276) - 2026-10-05
+* [Pull Request] [test(txpool): serve restored frame blob bodies so startup revalidation keeps them](https://github.com/NethermindEth/nethermind/pull/14279) - 2026-10-05
+* [Review] [Review on: test(txpool): serve restored frame blob bodies so startup revalidation keeps them](https://github.com/NethermindEth/nethermind/pull/14279#pullrequestreview-5420372619) - 2026-10-05
+* [Commit] [test(merge): wait for the stored improvement before getPayload in TestTwoTransaction_SameContract_WithBlockImprovement (#14267)](https://github.com/NethermindEth/nethermind/commit/737b0b12a5254b43be02cd78ff982693dd8f7fac) - 2026-10-05
+* [Commit] [test: wait for genesis to leave the queue before queuing the committing copy (#14268)](https://github.com/NethermindEth/nethermind/commit/f7b927602dc4866b5d359c4f18a0184ddda262b9) - 2026-10-05
+* [Commit] [refactor(evm): share the carried-gas dispatch protocol between host and zkVM guest (#14269)](https://github.com/NethermindEth/nethermind/commit/597a37ac6860a6a0090980d7c25fdba0657d1340) - 2026-10-05
+* [Commit] [perf(zkevm): trim calldata zero counting, storage journal appends, storage-cell hashing and merkle sha256 calls in the guest (#14234)](https://github.com/NethermindEth/nethermind/commit/e8955c4cd6a1c41ffc525033198850fd989c46dc) - 2026-10-05
+* [Commit] [perf(zkevm): cheaper state commit and trie encoding in the guest (#14216)](https://github.com/NethermindEth/nethermind/commit/b3b87cccc966375430fd80dfdb120de562a06136) - 2026-10-05
+* [Commit] [perf(zkevm): lean hashed-child resolve and no RLP-limit copy in inlined guards (#14230)](https://github.com/NethermindEth/nethermind/commit/8ef14c149616fe54909cf41d3cf4f31c13b86ec2) - 2026-10-05
+* [Commit] [perf(trie): cheaper node resolution on read walks (#14215)](https://github.com/NethermindEth/nethermind/commit/b0ae4ffbd67a037e4e6874372e9f970da18662bd) - 2026-10-05
+* [Commit] [perf(zkevm): copy byte runs with a direct memmove in the ZisK guest (#14208)](https://github.com/NethermindEth/nethermind/commit/b46cfda86e061066a0a74496f0cf91b0ced75314) - 2026-10-05
+* [Commit] [perf(zkevm): resume re-encoded witness branches from retained sponge states (#14261)](https://github.com/NethermindEth/nethermind/commit/94bb8f99c153f4ad77cb49f11e763f7d0c618143) - 2026-10-05
+* [Commit] [ci: retry flaky RPCs in the fast sync settings update (#14264)](https://github.com/NethermindEth/nethermind/commit/a6cf01ca61b74ba6f18cd539e9ffeb4af6b493b4) - 2026-10-05
+* [Commit] [fix(stateless): record the code read by a fused EXTCODESIZE check in the execution witness (#14248)](https://github.com/NethermindEth/nethermind/commit/b3d35b216873a3fcc8fab9ff710adfbd344caee6) - 2026-10-05
+* [Commit] [perf(zkevm): guest interpreter - more dispatch registers, narrow arithmetic, new handlers, jump-analysis anchors (#14217)](https://github.com/NethermindEth/nethermind/commit/69e73d89364ad89606cd7b5e0767283b97cd01f8) - 2026-10-05
+* [Commit] [perf(zkevm): analyze jump destinations with ZisK's JUMPDEST bitmap precompile (#14255)](https://github.com/NethermindEth/nethermind/commit/f92237a09ddbbe637c340a849b5e539718f34c22) - 2026-10-05
+* [Commit] [perf(zkevm): leaner trie walks, node re-encoding and witness lookups (#14209)](https://github.com/NethermindEth/nethermind/commit/ff6bf27408bf30af20e7e38726fdb2af538b264f) - 2026-10-05
+* [Commit] [perf(zkevm): reuse decoded witness header hashes and widen the guest keccak memo to 2^17 slots (#14256)](https://github.com/NethermindEth/nethermind/commit/e5bf5640ad9ce1c1876b3d80d47cf1504f9c35e5) - 2026-10-05
+* [Commit] [test: await the in-flight cap check in SimpleDispatcherTests instead of blocking a pool thread (#14226)](https://github.com/NethermindEth/nethermind/commit/c67161f40fdf4633668d90271bee725ae8162a9a) - 2026-10-05
+* [Commit] [perf(rpc): answer complete socket messages from their bytes (#14196)](https://github.com/NethermindEth/nethermind/commit/efeb1a76703e28ed53fa486e27b7c613047dd30f) - 2026-10-05
+* [Commit] [perf(rpc): validate, count and decode a batch body in fewer passes (#14197)](https://github.com/NethermindEth/nethermind/commit/c3cd61c26868fff59d98062e06b50ec1c9d81f26) - 2026-10-05
+* [Commit] [Decode receipts responses against the expected per-block receipt counts (#14191)](https://github.com/NethermindEth/nethermind/commit/88d1c600960bccd2a4fb8b928e6f5f9f27303512) - 2026-10-05
+* [Commit] [perf(zkevm): skip the zero credit to the executing account of a frame that runs code (#14243)](https://github.com/NethermindEth/nethermind/commit/638fc14d76244ae7cd4f42dfeef7238fc09fb6e6) - 2026-10-05
+* [Commit] [perf(zkevm): leave the receipt transaction hash unset in the guest (#14239)](https://github.com/NethermindEth/nethermind/commit/21c865442cb7823f6e29c510028971797f877119) - 2026-10-05
+* [Commit] [fix(shutter): count missed keys atomically (#14238)](https://github.com/NethermindEth/nethermind/commit/65450154b7736e4d8c5d9de35b69c735069e5107) - 2026-10-05
+* [Commit] [perf(stateless): hand the decoded witness state nodes over without copying them (#14233)](https://github.com/NethermindEth/nethermind/commit/e60e40358b146e00206992e08cedb69a535f2c23) - 2026-10-05
+* [Commit] [perf(zkevm): relieve register pressure in the guest opcode handlers (#14206)](https://github.com/NethermindEth/nethermind/commit/1336cf938d53a0d162181ab418b99fbebebfa4fb) - 2026-10-05
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -124,6 +154,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [fixup/11/upstream: RISC-V shift masks, aligned null checks, narrowing casts, BigMul via mulhu](https://github.com/NethermindEth/dotnet-riscv/pull/16) - 2026-10-03
 * [Review] [Review on: fixup/11/upstream: RISC-V shift masks, aligned null checks, narrowing casts, BigMul via mulhu](https://github.com/NethermindEth/dotnet-riscv/pull/16#pullrequestreview-5401431127) - 2026-10-03
 * [Pull Request] [fixup/11/upstream: tail-call no-return calls that end a throw block on RISC-V](https://github.com/NethermindEth/dotnet-riscv/pull/19) - 2026-10-04
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
+* [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05
+* [Commit] [Add Nethermind Coordinators](https://github.com/ethereum/pm/commit/9d85994a5d38e845adc02f4bbd5fa9fbb72415fd) - 2026-10-05
 ## Q3 2026
 
 

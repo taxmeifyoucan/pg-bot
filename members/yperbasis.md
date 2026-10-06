@@ -38,11 +38,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl, ci: test Caplin block production and blob publication](https://github.com/erigontech/erigon/pull/24543) - 2026-10-04
 * [Review] [Review on: txnprovider/txpool: defer authorization recovery until after prechecks](https://github.com/erigontech/erigon/pull/24509#pullrequestreview-5404962032) - 2026-10-04
 * [Review] [Review on: execution/state: refreshCode returns accounts.Code](https://github.com/erigontech/erigon/pull/24430#pullrequestreview-5405467296) - 2026-10-04
+* [Pull Request] [rpc: check pruning before replay and keep block transaction counts available](https://github.com/erigontech/erigon/pull/23777) - 2026-10-05
+* [Review] [Review on: execution/state: refreshCode returns accounts.Code](https://github.com/erigontech/erigon/pull/24430#pullrequestreview-5417229382) - 2026-10-05
+* [Review] [Review on: txnprovider/txpool: defer authorization recovery until after prechecks](https://github.com/erigontech/erigon/pull/24509#pullrequestreview-5411734336) - 2026-10-05
+* [Pull Request] [db/state: close and remove outputs from failed merges](https://github.com/erigontech/erigon/pull/24579) - 2026-10-05
+* [Review] [Review on: txnprovider/txpool: keep existing txn when its replacement is rejected](https://github.com/erigontech/erigon/pull/24534#pullrequestreview-5415461232) - 2026-10-05
+* [Commit] [rpc: check pruning before replay and keep block transaction counts available (#23777)](https://github.com/erigontech/erigon/commit/d112b40ccab4f5b69ece5f4bdf226f99cc2e9fa3) - 2026-10-05
+* [Commit] [cl, ci: test Caplin block production and blob publication (#24543)](https://github.com/erigontech/erigon/commit/8e8be1cc826ab9bb8aad82f9df0e55db6f2c59e4) - 2026-10-05
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/devp2p: respect negotiated eth version in transaction tests](https://github.com/ethereum/go-ethereum/pull/35869) - 2026-10-02
+* [Commit] [cmd/devp2p: respect negotiated eth version in transaction tests (#35869)](https://github.com/ethereum/go-ethereum/commit/7628eaa0e2bd537fc32186cbec4c95f8f6443ca8) - 2026-10-05
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Erigon incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2253) - 2026-10-05
+* [Commit] [Add Erigon incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/commit/e5d4d229dbbc1735149a6a022cff95d79ca1de44) - 2026-10-05
 ## Q3 2026
 
 

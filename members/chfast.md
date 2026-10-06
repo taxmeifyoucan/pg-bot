@@ -22,9 +22,16 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/vm: JUMPDEST analysis bitmap marks jump destinations (#24363)](https://github.com/erigontech/erigon/commit/20110ae69c647bdedf82fc7331a588bae54c254b) - 2026-10-02
 * [Commit] [build: give C++ deps the same cgo flags as C (#23874)](https://github.com/erigontech/erigon/commit/61dc400807488e5d9082dec02c413b1bdbe55826) - 2026-10-02
 
+* [Pull Request] [execution/vm: count JUMPDEST cache bitmap size in bytes](https://github.com/erigontech/erigon/pull/24578) - 2026-10-05
+* [Review] [Review on: execution/state: refreshCode returns accounts.Code](https://github.com/erigontech/erigon/pull/24430#pullrequestreview-5412353231) - 2026-10-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
+
+[ethereum/evmone](https://github.com/ethereum/evmone)
+* [Pull Request] [Implement EIP-8037 transaction gas limit cap](https://github.com/ipsilon/evmone/pull/1744) - 2026-10-05
+* [Pull Request] [state: Revert a failed block-start system call](https://github.com/ipsilon/evmone/pull/1745) - 2026-10-05
+* [Commit] [Implement EIP-2780: "Resource-based intrinsic transaction gas" (#1733)](https://github.com/ipsilon/evmone/commit/9c6f891709c9fe983a2bf552bbf64c8da69e9fde) - 2026-10-05
 ## Q3 2026
 
 

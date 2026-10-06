@@ -8,6 +8,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8198 quick slots](https://github.com/ethereum/execution-specs/pull/3703#pullrequestreview-5421761588) - 2026-10-05
+* [Review] [Review on: chore(all): Rebase to `forks/amsterdam`](https://github.com/ethereum/execution-specs/pull/3713#pullrequestreview-5420333395) - 2026-10-05
 ## Q3 2026
 
 

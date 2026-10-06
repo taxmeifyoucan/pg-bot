@@ -15,6 +15,21 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Update Directory.Build.props for 2.1.0](https://github.com/NethermindEth/nethermind/pull/14163) - 2026-10-01
 * [Commit] [fix(threading): withdraw unstarted pool workers when a parallel loop joins (#14137)](https://github.com/NethermindEth/nethermind/commit/97bc26fb1141b4a667dbac02602fd084bed11e9d) - 2026-10-01
 
+* [Pull Request] [test(txpool): re-enable parallel nonce reservation test](https://github.com/NethermindEth/nethermind/pull/14298) - 2026-10-06
+* [Pull Request] [fix(docgen): document wire shape of parity trace actions and simulate results](https://github.com/NethermindEth/nethermind/pull/14293) - 2026-10-06
+* [Pull Request] [fix(flat): warn when snap sync discards existing flat state and time the wipe](https://github.com/NethermindEth/nethermind/pull/14297) - 2026-10-06
+* [Pull Request] [fix(docgen): document the wire shape of trace replay results and trace actions](https://github.com/NethermindEth/nethermind/pull/14294) - 2026-10-06
+* [Pull Request] [fix(wallet): fail on startup when BlockAuthorAccount key cannot be loaded](https://github.com/NethermindEth/nethermind/pull/14290) - 2026-10-06
+* [Pull Request] [fix(ssz-rest): resolve Eth-Execution-Version fork for chainspec-based specs](https://github.com/NethermindEth/nethermind/pull/14295) - 2026-10-06
+* [Pull Request] [fix(healthchecks): start periodic disk space check before block tree review](https://github.com/NethermindEth/nethermind/pull/14292) - 2026-10-06
+* [Review] [Review on: Return Geth-compatible code hashes in prestate traces](https://github.com/NethermindEth/nethermind/pull/13758#pullrequestreview-5422321208) - 2026-10-06
+* [Review] [Review on: Align Geth debug tracing callbacks, native tracers and call overrides](https://github.com/NethermindEth/nethermind/pull/13807#pullrequestreview-5422321555) - 2026-10-06
+* [Pull Request] [fix(ethstats): log repeated disconnects while offline at debug](https://github.com/NethermindEth/nethermind/pull/14289) - 2026-10-06
+* [Pull Request] [fix(merge): include WebSockets URL when checking the engine port is configured](https://github.com/NethermindEth/nethermind/pull/14285) - 2026-10-05
+* [Pull Request] [fix(sync): stop old bodies and receipts progress overshooting the total on finish](https://github.com/NethermindEth/nethermind/pull/14286) - 2026-10-05
+* [Review] [Review on: fix(docgen): document trace_callMany wire parameter shape](https://github.com/NethermindEth/nethermind/pull/14236#pullrequestreview-5422320410) - 2026-10-06
+* [Review] [Review on: fix(eth_sendRawTransaction): return InvalidParams for malformed RLP](https://github.com/NethermindEth/nethermind/pull/12003#pullrequestreview-5422320040) - 2026-10-06
+* [Review] [Review on: fix: shorten validator exit and withdrawability delays in assertoor config](https://github.com/NethermindEth/nethermind/pull/10980#pullrequestreview-5422319658) - 2026-10-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

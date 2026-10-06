@@ -17,11 +17,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Stop rejecting slashings for offences in an earlier fork at the gossip topic layer (#11393)](https://github.com/Consensys-Incorporated/teku/commit/d9d461d0b3615e58c94399a34b050a84887e8308) - 2026-10-02
 * [Commit] [VoluntaryExitGossipManager fork validation fix (#11392)](https://github.com/Consensys-Incorporated/teku/commit/618590295b324e2b2dc6c173b951ebcf7349b94d) - 2026-10-02
 
+* [Pull Request] [Settle builder payment before parent requests and sweep remaining builder balance](https://github.com/Consensys-Incorporated/teku/pull/11408) - 2026-10-05
+* [Issue] [Support for consensus-spec beta.3](https://github.com/Consensys-Incorporated/teku/issues/11409) - 2026-10-05
+* [Issue] [Settle builder payment before parent requests](https://github.com/Consensys-Incorporated/teku/issues/11405) - 2026-10-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [quic connect timeout fix](https://github.com/libp2p/jvm-libp2p/pull/535) - 2026-10-02
+* [Review] [Review on: Release 1.3.8](https://github.com/libp2p/jvm-libp2p/pull/539#pullrequestreview-5419556380) - 2026-10-05
+* [Review] [Review on: Wait a backoff slack before re-GRAFTing a pruned peer](https://github.com/libp2p/jvm-libp2p/pull/538#pullrequestreview-5413111370) - 2026-10-05
 ## Q3 2026
 
 

@@ -22,6 +22,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: make sure fallback in keymanager uses gas limit schedule](https://github.com/OffchainLabs/prysm/pull/17601#pullrequestreview-5392671574) - 2026-10-02
 * [Commit] [add sepolia gas schedule (#17609)](https://github.com/OffchainLabs/prysm/commit/a3a9fb8851291edde14e517042d553f9c7d1cbcc) - 2026-10-02
 * [Commit] [make sure fallback in keymanager uses gas limit schedule (#17601)](https://github.com/OffchainLabs/prysm/commit/b6f189cb8faba9cbc8fbc7362d754c35d8e51f8f) - 2026-10-02
+* [Pull Request] [Update CHANGELOG.md for v7.2.1](https://github.com/OffchainLabs/prysm/pull/17624) - 2026-10-05
+* [Review] [Review on: REST VC: wait past the attestation due time when no node has answered](https://github.com/OffchainLabs/prysm/pull/17620#pullrequestreview-5423015396) - 2026-10-06
 ## Q3 2026
 
 

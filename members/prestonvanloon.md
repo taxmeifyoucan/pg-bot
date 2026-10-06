@@ -16,6 +16,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Refresh security.txt contact, keys, and expiry](https://github.com/OffchainLabs/prysm/pull/17611) - 2026-10-02
 * [Review] [Review on: add sepolia gas schedule](https://github.com/OffchainLabs/prysm/pull/17609#pullrequestreview-5393376482) - 2026-10-02
 * [Commit] [Refresh security.txt contact, keys, and expiry (#17611)](https://github.com/OffchainLabs/prysm/commit/6ceaad8d21f8a631b82db3507f59c12f927cc432) - 2026-10-02
+* [Review] [Review on: Update CHANGELOG.md for v7.2.1](https://github.com/OffchainLabs/prysm/pull/17624#pullrequestreview-5420364224) - 2026-10-05
+* [Pull Request] [Remove .bzl CODEOWNER requirements](https://github.com/OffchainLabs/prysm/pull/17621) - 2026-10-05
+* [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5418767879) - 2026-10-05
 ## Q3 2026
 
 

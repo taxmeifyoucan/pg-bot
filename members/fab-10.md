@@ -19,6 +19,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Fix verification metadata for Gradle plugins](https://github.com/besu-eth/besu/pull/11430) - 2026-10-02
 * [Commit] [Fix verification metadata for Gradle plugins (#11430)](https://github.com/besu-eth/besu/commit/2c0d106023d108a3326ec20357676576fe45ff48) - 2026-10-02
 * [Commit] [Fix txpool_besuPendingTransactions gasPrice filter on EIP-1559 transactions (#11374)](https://github.com/besu-eth/besu/commit/b4c95e36fd4ac184559ac7d179b1b81924106fed) - 2026-10-02
+* [Review] [Review on: Setup Bogotá hardfork](https://github.com/besu-eth/besu/pull/11431#pullrequestreview-5414551920) - 2026-10-05
+* [Pull Request] [Warn when a PoA chain defaults the EIP-8282 builder request addresses](https://github.com/besu-eth/besu/pull/11476) - 2026-10-05
+* [Issue] [snap/2 GetBlockAccessLists server has no per-request lookup cap, unlike the other snap handlers and eth/71](https://github.com/besu-eth/besu/issues/11475) - 2026-10-05
+* [Issue] [EVMExecutor and evmtool run still delete self-destructed accounts under Amsterdam, burning the balance EIP-8246 preserves](https://github.com/besu-eth/besu/issues/11474) - 2026-10-05
+* [Commit] [Penalize eth/71 peers that send malformed BlockAccessLists RLP (#11472)](https://github.com/besu-eth/besu/commit/458ce542f002c69f358888d90c6b0cdba52d549f) - 2026-10-05
 ## Q3 2026
 
 

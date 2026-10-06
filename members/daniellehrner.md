@@ -31,6 +31,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [End the pause between block creations on cancellation (#11426)](https://github.com/besu-eth/besu/commit/ac7842de5943e006cc56ef8ad28915bdc3b2acb9) - 2026-10-02
 * [Commit] [Measure in sync status against the engine payload head (#11424)](https://github.com/besu-eth/besu/commit/8a84928d87648bfd741a77035da12ba68fbeecad) - 2026-10-02
 * [Commit] [Make every method advertised by engine_exchangeCapabilities callable (#11425)](https://github.com/besu-eth/besu/commit/77d67eb16fb256090030c2f5d1631b0d76fd3222) - 2026-10-02
+* [Pull Request] [Add AND, OR, XOR and NOT to EVM v2](https://github.com/besu-eth/besu/pull/11477) - 2026-10-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

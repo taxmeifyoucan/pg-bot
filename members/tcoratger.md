@@ -12,6 +12,25 @@ Github: [@tcoratger](https://github.com/tcoratger)
 [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
 * [Review] [Review on: fix(sumcheck,binary-pcs,multi-stark): check an AIR's bit columns against the commitment](https://github.com/Plonky3/Plonky3/pull/2383#pullrequestreview-5389906003) - 2026-10-02
 * [Review] [Review on: fix(matrix): enforce the row bound in specialized horizontal packing](https://github.com/Plonky3/Plonky3/pull/2384#pullrequestreview-5406635959) - 2026-10-04
+* [Review] [Review on: perf(dft): remove transient allocations from Radix2DFTSmallBatch butterfly layers](https://github.com/Plonky3/Plonky3/pull/2387#pullrequestreview-5417289380) - 2026-10-05
+* [Review] [Review on: perf: route hand-rolled dot products through the field primitives](https://github.com/Plonky3/Plonky3/pull/2364#pullrequestreview-5412839874) - 2026-10-05
+* [Review] [Review on: perf(sha256): pick the batched backend at run time on x86-64](https://github.com/Plonky3/Plonky3/pull/2357#pullrequestreview-5412960674) - 2026-10-05
+* [Review] [Review on: perf(merkle-tree): split a pass across threads when its rows are worth it](https://github.com/Plonky3/Plonky3/pull/2355#pullrequestreview-5412850782) - 2026-10-05
+* [Review] [Review on: fix(fri,merkle-tree): release the hiding RNG lock before parallel work](https://github.com/Plonky3/Plonky3/pull/2368#pullrequestreview-5412877812) - 2026-10-05
+* [Review] [Review on: fix(matrix): reject overflowing row indices](https://github.com/Plonky3/Plonky3/pull/2385#pullrequestreview-5413312665) - 2026-10-05
+* [Review] [Review on: fix(bus): check that a timestamped memory's boundary blocks seed disjoint cells](https://github.com/Plonky3/Plonky3/pull/2386#pullrequestreview-5413312848) - 2026-10-05
+* [Review] [Review on: perf(multilinear-util): tensor-built eq tables, delayed-reduction dots, cost-model splits](https://github.com/Plonky3/Plonky3/pull/2334#pullrequestreview-5413192144) - 2026-10-05
+* [Review] [Review on: perf(binary-field): run GF(2^192) sums and paired packed products on 512-bit multiplies](https://github.com/Plonky3/Plonky3/pull/2380#pullrequestreview-5412952937) - 2026-10-05
+* [Review] [Review on: perf(blake2s): hash one message on scalar registers, the same speed on every build](https://github.com/Plonky3/Plonky3/pull/2377#pullrequestreview-5412979412) - 2026-10-05
+* [Commit] [perf(symmetric): hash a compression's children as one slice (#2366)](https://github.com/Plonky3/Plonky3/commit/4e3eaf45003983933fa8936f5a9873383bd042c1) - 2026-10-05
+* [Commit] [perf: route hand-rolled dot products through the field primitives (#2364)](https://github.com/Plonky3/Plonky3/commit/75a36195cf631c3986804a4681a8403d8441f1e0) - 2026-10-05
+* [Commit] [perf(sha256): pick the batched backend at run time on x86-64 (#2357)](https://github.com/Plonky3/Plonky3/commit/e1eb9f55e4725a0b4f465c9df0f8d1ff24ad9b62) - 2026-10-05
+* [Commit] [perf(merkle-tree): split a pass across threads when its rows are worth it (#2355)](https://github.com/Plonky3/Plonky3/commit/16d59b80edd1c9cb4ac8018c7a333b6d791eeaeb) - 2026-10-05
+* [Commit] [perf(binary-field)!: NEON GF(2^64) and GF(2^192) packings, PMULL reduction, mask-matrix inversion (#2365)](https://github.com/Plonky3/Plonky3/commit/42875ddbe5b88e1031c65eacf4111310e5f0f1d7) - 2026-10-05
+* [Commit] [perf(blake3): spread the chunks of a few long messages across the lanes (#2354)](https://github.com/Plonky3/Plonky3/commit/1ea7537230b3d4da204ac47798f7e7cf4cdf2d13) - 2026-10-05
+* [Commit] [perf(keccak): pick the batched Keccak backend at run time on x86-64 (#2360)](https://github.com/Plonky3/Plonky3/commit/e41a724a177db73e05a5080512bd82b8438e0e89) - 2026-10-05
+* [Commit] [perf(sha256): hash short AVX-512 tails with one register group or SHA-NI streams (#2356)](https://github.com/Plonky3/Plonky3/commit/a01b83b163dd3703d664b9fd93e451cbdb575846) - 2026-10-05
+* [Commit] [test(blake2s): check both paths against the official BLAKE2s known answers (#2382)](https://github.com/Plonky3/Plonky3/commit/99fcc3ed704870a0b7cb8c9043e269a614145526) - 2026-10-05
 ## Q3 2026
 
 

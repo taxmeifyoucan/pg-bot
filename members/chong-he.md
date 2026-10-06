@@ -16,6 +16,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Release v8.2.3](https://github.com/sigp/lighthouse/pull/10179#pullrequestreview-5373561149) - 2026-10-01
 * [Review] [Review on: Implement `GET beacon/pool/payload_attestations` endpoint](https://github.com/sigp/lighthouse/pull/10038#pullrequestreview-5389147167) - 2026-10-02
 * [Review] [Review on: Add documentation for fast confirmation rule](https://github.com/sigp/lighthouse/pull/10183#pullrequestreview-5388156450) - 2026-10-02
+* [Review] [Review on: Add SSZ response support for validator_balances endpoints](https://github.com/sigp/lighthouse/pull/10082#pullrequestreview-5423183481) - 2026-10-06
 ## Q3 2026
 
 

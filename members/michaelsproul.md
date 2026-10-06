@@ -20,6 +20,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Add documentation for fast confirmation rule](https://github.com/sigp/lighthouse/pull/10183#pullrequestreview-5375369386) - 2026-10-01
 * [Review] [Review on: Fix nightly tests failing on phase0 and altair](https://github.com/sigp/lighthouse/pull/10200#pullrequestreview-5392594473) - 2026-10-02
 * [Review] [Review on: Trust the system CA store for outbound HTTPS](https://github.com/sigp/lighthouse/pull/10110#pullrequestreview-5390884799) - 2026-10-02
+* [Review] [Review on: Add documentation for fast confirmation rule](https://github.com/sigp/lighthouse/pull/10183#pullrequestreview-5423062555) - 2026-10-06
+* [Review] [Review on: Use payload envelope summary in head snapshot and block production](https://github.com/sigp/lighthouse/pull/10187#pullrequestreview-5423042718) - 2026-10-06
+* [Review] [Review on: Remove deprecated builder `submitBlindedBlock` v1](https://github.com/sigp/lighthouse/pull/10213#pullrequestreview-5422723997) - 2026-10-06
+* [Review] [Review on: Propagate beacon chain database read errors](https://github.com/sigp/lighthouse/pull/10217#pullrequestreview-5422598406) - 2026-10-06
 ## Q3 2026
 
 

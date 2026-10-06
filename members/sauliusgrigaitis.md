@@ -8,6 +8,12 @@ Team: Grandine
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Grandine coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2257) - 2026-10-05
+* [Commit] [Add Grandine coordinators for Glamsterdam](https://github.com/ethereum/pm/commit/e8c48347c84b5a3feed29b1a025ba0ea4815fbda) - 2026-10-05
 ## Q3 2026
 
 

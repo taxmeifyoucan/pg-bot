@@ -21,6 +21,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Memoize EIP-4881/EIP-3076 spectest fixture](https://github.com/OffchainLabs/prysm/pull/17367#pullrequestreview-5389851588) - 2026-10-02
 * [Issue] [Offer PPA, brew (and chocolatey?) installation for Prysm](https://github.com/OffchainLabs/prysm/issues/17604) - 2026-10-02
 * [Pull Request] [Postpone the validator client shutdown until a restart misses no rewarded duty](https://github.com/OffchainLabs/prysm/pull/17616) - 2026-10-03
+* [Pull Request] [REST VC: wait past the attestation due time when no node has answered](https://github.com/OffchainLabs/prysm/pull/17620) - 2026-10-05
 ## Q3 2026
 
 

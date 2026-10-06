@@ -11,6 +11,10 @@ Github: [@cperezz](https://github.com/cperezz)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8298: record adopted code as a hash in the BAL; reject same-tx-created sources](https://github.com/ethereum/EIPs/commit/9bff5ef1068353888431ca3d0208d85d9e14b99a) - 2026-10-02
+* [Review] [Review on: Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427#pullrequestreview-5420250048) - 2026-10-05
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [PBT migration: BAL follower stalls after an anchor import](https://github.com/NethermindEth/nethermind/issues/14259) - 2026-10-05
 ## Q3 2026
 
 

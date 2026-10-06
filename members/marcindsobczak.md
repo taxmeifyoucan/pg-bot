@@ -25,6 +25,8 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [test(rpc): cover the resolved-code memo of eth_call end to end (#14121)](https://github.com/NethermindEth/nethermind/commit/ef2c6c52017ff3023023d002e74baa45133c14ca) - 2026-10-02
 * [Pull Request] [test(evm): read the frame cache directly and share the cached/uncached observation](https://github.com/NethermindEth/nethermind/pull/14174) - 2026-10-04
 * [Commit] [test(evm): read the frame cache directly and share the cached/uncached observation (#14174)](https://github.com/NethermindEth/nethermind/commit/b60cca5fc72e16714ec65fdf5739a6f55b3b4648) - 2026-10-04
+* [Commit] [perf(evm): let SUB call UInt256.Subtract again now that it inlines (#14042)](https://github.com/NethermindEth/nethermind/commit/d22b6eb80aa2048e4bae33e3a227e89a0108255e) - 2026-10-05
+* [Commit] [perf(flat): skip the in-memory layers for slot reads that none of them has, in read-only execution (#14094)](https://github.com/NethermindEth/nethermind/commit/347d8319e2f1de3116a2321c6ed292c55fedbb4d) - 2026-10-05
 ## Q3 2026
 
 

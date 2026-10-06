@@ -17,6 +17,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Make leaf cache sizes configurable](https://github.com/status-im/nimbus-eth1/pull/4880) - 2026-10-01
 * [Commit] [Make leaf cache sizes configurable (#4880)](https://github.com/status-im/nimbus-eth1/commit/f249c631650187b5b0abe7ee4931e7c7af041c49) - 2026-10-01
 * [Commit] [Avoid allocation when fetching cached accounts (#4888)](https://github.com/status-im/nimbus-eth1/commit/e84e8ee93ee88464fbd5faa9324154987bed39af) - 2026-10-02
+* [Pull Request] [Optimize logs bloom calculation](https://github.com/status-im/nimbus-eth1/pull/4906) - 2026-10-05
+* [Pull Request] [Skip empty log packing in parallel tx execution](https://github.com/status-im/nimbus-eth1/pull/4905) - 2026-10-05
+* [Commit] [Skip empty log packing in parallel tx execution (#4905)](https://github.com/status-im/nimbus-eth1/commit/2bd5a7d45e3148110acabd8839f642b96b302b26) - 2026-10-05
 ## Q3 2026
 
 

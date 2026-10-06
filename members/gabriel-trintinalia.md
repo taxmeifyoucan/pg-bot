@@ -14,6 +14,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [feat(eip-8025): add engine_newPayloadWithWitnessV5 (#11181)](https://github.com/besu-eth/besu/commit/5bcbcbe19c47843808b4e4321667a758f93eb2fe) - 2026-10-01
 * [Pull Request] [refactor: cleanup preprocessing function](https://github.com/besu-eth/besu/pull/11412) - 2026-10-01
+* [Pull Request] [feat: add debug_getRawExecutionRequests](https://github.com/besu-eth/besu/pull/11481) - 2026-10-06
+* [Review] [Review on: Commit few updated accounts sequentially in the world state accumulator](https://github.com/besu-eth/besu/pull/11468#pullrequestreview-5422173811) - 2026-10-06
+* [Review] [Review on: Treat failing beacon roots and history system calls as non-fatal](https://github.com/besu-eth/besu/pull/11415#pullrequestreview-5422419506) - 2026-10-06
+* [Review] [Review on: Hash and size legacy transactions and block access lists from their r…](https://github.com/besu-eth/besu/pull/11470#pullrequestreview-5422166702) - 2026-10-06
 ## Q3 2026
 
 

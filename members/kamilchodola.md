@@ -33,6 +33,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(prewarm): hand a warm caught in cold storage reads to discovery](https://github.com/NethermindEth/nethermind/pull/14219) - 2026-10-03
 * [Review] [Review on: perf(prewarm): hand a warm caught in cold storage reads to discovery](https://github.com/NethermindEth/nethermind/pull/14219#pullrequestreview-5399906567) - 2026-10-03
 * [Pull Request] [Stop idle thread-pool workers from spinning before they sleep](https://github.com/NethermindEth/nethermind/pull/14246) - 2026-10-04
+* [Commit] [perf(evm): carry host execution gas through opcode dispatch (#14178)](https://github.com/NethermindEth/nethermind/commit/7168809135986cdae202b74e0a6a50edaa8f0b7c) - 2026-10-05
+* [Commit] [perf(prewarm): hand a warm caught in cold storage reads to discovery (#14219)](https://github.com/NethermindEth/nethermind/commit/9c52f03a8c4fa589af66491a0707cdb30c57d8e7) - 2026-10-05
+* [Commit] [perf(engine): start early sender recovery once the payload's transactions root is joined (#14213)](https://github.com/NethermindEth/nethermind/commit/afa3d64d2e95e1a6f5e527b7481f2845ae3ed2d7) - 2026-10-05
+* [Commit] [perf(prewarm): read the accounts that large calldata names as ABI address words (#14204)](https://github.com/NethermindEth/nethermind/commit/fc7b508827af35ea4251f06792e563098ad6aa6e) - 2026-10-05
 ## Q3 2026
 
 

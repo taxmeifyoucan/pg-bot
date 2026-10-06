@@ -15,6 +15,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Faster EXP with the 2-adic logarithm and exponential](https://github.com/besu-eth/besu/pull/11421) - 2026-10-01
 * [Review] [Review on: Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364#pullrequestreview-5379915608) - 2026-10-01
 * [Review] [Review on: Versioned code storage [1/3] Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363#pullrequestreview-5376392572) - 2026-10-01
+* [Pull Request] [Import committed QBFT blocks without executing them again](https://github.com/besu-eth/besu/pull/11469) - 2026-10-05
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
+* [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05
 ## Q3 2026
 
 

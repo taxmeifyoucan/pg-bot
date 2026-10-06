@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 ## Contributions
 
+## Q4 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Update gossip config with MAX_TOTAL_FIELDS = 32768](https://github.com/Consensys-Incorporated/teku/pull/11413#pullrequestreview-5423194768) - 2026-10-06
 ## Q3 2026
 
 

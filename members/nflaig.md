@@ -66,12 +66,35 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: evict invalid payload envelopes from the seen cache](https://github.com/ChainSafe/lodestar/pull/10246#pullrequestreview-5400620451) - 2026-10-03
 * [Pull Request] [fix: prevent range sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10249) - 2026-10-03
 * [Pull Request] [chore: remove unused getPayloadBodies V1 engine methods](https://github.com/ChainSafe/lodestar/pull/10258) - 2026-10-04
+* [Review] [Review on: fix: discount empty slot support by fork choice node](https://github.com/ChainSafe/lodestar/pull/10211#pullrequestreview-5412242654) - 2026-10-05
+* [Review] [Review on: deps: bump @chainsafe/libp2p-quic to 2.1.5](https://github.com/ChainSafe/lodestar/pull/10276#pullrequestreview-5421827297) - 2026-10-05
+* [Review] [Review on: chore: tag next docker images with commit sha](https://github.com/ChainSafe/lodestar/pull/10275#pullrequestreview-5421588823) - 2026-10-05
+* [Review] [Review on: fix: serve finalized state by root from checkpoint cache](https://github.com/ChainSafe/lodestar/pull/10273#pullrequestreview-5421101450) - 2026-10-05
+* [Review] [Review on: chore(deps): bump fastify from 5.12.1 to 5.12.5](https://github.com/ChainSafe/lodestar/pull/10272#pullrequestreview-5417764040) - 2026-10-05
+* [Review] [Review on: chore(deps): bump anchore/sbom-action from 0.24.2 to 0.24.3 in the actions group](https://github.com/ChainSafe/lodestar/pull/10270#pullrequestreview-5417685760) - 2026-10-05
+* [Pull Request] [fix: request the whole range sync batch again after a processing error](https://github.com/ChainSafe/lodestar/pull/10266) - 2026-10-05
+* [Pull Request] [fix: inherit gloas block execution status from the parent variant it builds on](https://github.com/ChainSafe/lodestar/pull/10268) - 2026-10-05
+* [Pull Request] [fix: do not attest to an optimistic head](https://github.com/ChainSafe/lodestar/pull/10269) - 2026-10-05
+* [Pull Request] [fix: resolve inclusion list dependent root from the block state on payload import](https://github.com/ChainSafe/lodestar/pull/10265) - 2026-10-05
+* [Review] [Review on: fix: apply epoch updates before computing attestation rewards](https://github.com/ChainSafe/lodestar/pull/10224#pullrequestreview-5412120686) - 2026-10-05
+* [Commit] [chore: remove unused getPayloadBodies V1 engine methods (#10258)](https://github.com/ChainSafe/lodestar/commit/cddd01a6c62c81e1062e2024acf669de230c09c7) - 2026-10-05
+* [Commit] [fix: settle builder payment before processing parent execution requests (#10180)](https://github.com/ChainSafe/lodestar/commit/a876bac1da2d1a52330eb79116fa0d1268946caf) - 2026-10-05
+* [Commit] [fix: request the whole range sync batch again after a processing error (#10266)](https://github.com/ChainSafe/lodestar/commit/408017a9db464e9141c2ca85340717068c9f1a10) - 2026-10-05
+* [Commit] [chore: update stale pruning note in payload envelope seen cache doc (#10253)](https://github.com/ChainSafe/lodestar/commit/d99080f29a567b7b1e83850ca19d662977d7c304) - 2026-10-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
 
+* [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5413480142) - 2026-10-05
+* [Commit] [Settle builder payment before parent requests (#5695)](https://github.com/ethereum/consensus-specs/commit/71c00190f157b8dda556bf4e6135c39307569e62) - 2026-10-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: core: better caching for jumpdest analysis](https://github.com/ethereum/go-ethereum/pull/35881#pullrequestreview-5418545030) - 2026-10-05
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [Gloas: head with an EL-unvalidated payload is treated as execution-valid; block production only stopped by the EL](https://github.com/status-im/nimbus-eth2/issues/9203) - 2026-10-05
 ## Q3 2026
 
 

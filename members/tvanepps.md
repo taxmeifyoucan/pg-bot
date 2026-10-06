@@ -8,6 +8,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add top 10 current funders to README](https://github.com/protocolguild/documentation/pull/559) - 2026-10-05
 ## Q3 2026
 
 

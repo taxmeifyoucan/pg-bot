@@ -44,6 +44,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Update third-party dependencies (#11400)](https://github.com/Consensys-Incorporated/teku/commit/d1eeed81aae10f3026254739b534a1b817aa8934) - 2026-10-05
 * [Commit] [Dial TCP when a discovered peer's QUIC address is unreachable (#11399)](https://github.com/Consensys-Incorporated/teku/commit/c1b70b4abc0ef874bdae42600d3ff7da12104846) - 2026-10-05
 * [Commit] [Pull Docker base images via GCR mirror with docker.io fallback (#11398)](https://github.com/Consensys-Incorporated/teku/commit/a2dd309ec0fc594f2dccf98022c427ab295f093b) - 2026-10-04
+* [Pull Request] [Add second batch of gossipsub metrics](https://github.com/Consensys-Incorporated/teku/pull/11414) - 2026-10-06
+* [Review] [Review on: Add second batch of gossipsub metrics](https://github.com/Consensys-Incorporated/teku/pull/11414#pullrequestreview-5423330229) - 2026-10-06
+* [Pull Request] [Update gossip config with MAX_TOTAL_FIELDS = 32768](https://github.com/Consensys-Incorporated/teku/pull/11413) - 2026-10-06
+* [Review] [Review on: Send Eth-Consensus-Version header with payload attestations](https://github.com/Consensys-Incorporated/teku/pull/11407#pullrequestreview-5420528733) - 2026-10-05
+* [Commit] [Add second batch of gossipsub metrics (#11414)](https://github.com/Consensys-Incorporated/teku/commit/0bccee634ef54422428011a096a2941fbd53e488) - 2026-10-06
+* [Commit] [Update gossip config with MAX_TOTAL_FIELDS = 32768 (#11413)](https://github.com/Consensys-Incorporated/teku/commit/57937d72b49ee6f9fa27d80f48e7a3285bc5a7b9) - 2026-10-06
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01
@@ -58,6 +64,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Bump netty to 4.2.18 so QUIC receive windows stop collapsing to 32 KiB (#537)](https://github.com/libp2p/jvm-libp2p/commit/843e0ea8c7688ae649c3a9cacbbc01b4d5303675) - 2026-10-05
 * [Commit] [Merge pull request #535 from tbenr/claude/quic-connect-timeout-fix-126dc3](https://github.com/libp2p/jvm-libp2p/commit/f31a7caf61e6352e6cec88be7e83c5dd5aea796a) - 2026-10-05
 * [Commit] [Download Kubo from GitHub releases so CI stops depending on dist.ipfs.tech](https://github.com/libp2p/jvm-libp2p/commit/981754ea2111d7af02df832218ac8719d12b0579) - 2026-10-04
+* [Review] [Review on: Release 1.3.8](https://github.com/libp2p/jvm-libp2p/pull/539#pullrequestreview-5421967920) - 2026-10-05
+* [Pull Request] [Remove Eclipse .project file and ignore Eclipse metadata](https://github.com/libp2p/jvm-libp2p/pull/540) - 2026-10-05
+* [Commit] [Remove Eclipse .project file and ignore Eclipse metadata (#540)](https://github.com/libp2p/jvm-libp2p/commit/0ab75941a68a89d5943cb91a6d1f77fc9e578bc6) - 2026-10-06
+* [Commit] [Wait a backoff slack before re-GRAFTing a pruned peer (#538)](https://github.com/libp2p/jvm-libp2p/commit/9d40f1c9c58b32e30619d8e2cf297bdc2338ac21) - 2026-10-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Teku incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2251) - 2026-10-04
 ## Q3 2026

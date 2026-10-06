@@ -21,6 +21,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(docgen): load only runtime-dependency assemblies](https://github.com/NethermindEth/nethermind/pull/14203) - 2026-10-02
 * [Review] [Review on: build(zkevm): bump the bflat RISC-V64 image](https://github.com/NethermindEth/nethermind/pull/14201#pullrequestreview-5396315361) - 2026-10-02
 * [Commit] [fix(docgen): load only runtime-dependency assemblies (#14203)](https://github.com/NethermindEth/nethermind/commit/e5189324ad57de45253a5f1f3fe14706ea7b9153) - 2026-10-02
+* [Commit] [chore(deps): replace Open.NAT.Core and fix UPnP lease duration (#14283)](https://github.com/NethermindEth/nethermind/commit/6ab460c0fae5eb049640366f55012c42c846140d) - 2026-10-05
+* [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions (#14262)](https://github.com/NethermindEth/nethermind/commit/6299210eb73a209dba069d2f73e3389e0155cc0e) - 2026-10-05
 ## Q3 2026
 
 

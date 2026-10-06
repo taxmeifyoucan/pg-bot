@@ -11,6 +11,9 @@ Github: [@healthykim](https://github.com/healthykim)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth: fix cells response to use index major](https://github.com/ethereum/go-ethereum/pull/35860) - 2026-10-01
+* [Review] [Review on: cmd/devp2p: respect negotiated eth version in transaction tests](https://github.com/ethereum/go-ethereum/pull/35869#pullrequestreview-5416587827) - 2026-10-05
+* [Review] [Review on: core/txpool/blobpool: promote gapped transactions on reset](https://github.com/ethereum/go-ethereum/pull/35836#pullrequestreview-5410071918) - 2026-10-05
+* [Review] [Review on: eth/protocols/eth: limit getPooledTransactions lookup](https://github.com/ethereum/go-ethereum/pull/35857#pullrequestreview-5410049279) - 2026-10-05
 ## Q3 2026
 
 

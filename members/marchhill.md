@@ -64,6 +64,26 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: [WIP] Lean proof and devp2p benchmarks](https://github.com/NethermindEth/nethermind/pull/14220#pullrequestreview-5400572935) - 2026-10-03
 * [Commit] [Back off peer candidates rejected by the contact filter (#14190)](https://github.com/NethermindEth/nethermind/commit/8640721e631927fa51cb4c166f5f42d4ab64be63) - 2026-10-03
 * [Commit] [fix(test): use normal gas charging by default in EVM tracer (#14161)](https://github.com/NethermindEth/nethermind/commit/6dff813b6c3b8141689422e4113f6ea0760e0260) - 2026-10-04
+
+* [Pull Request] [perf: fuse PUSH2 CALLSUB for EIP-7979](https://github.com/NethermindEth/nethermind/pull/14287) - 2026-10-05
+* [Review] [Review on: perf: fuse PUSH2 CALLSUB for EIP-7979](https://github.com/NethermindEth/nethermind/pull/14287#pullrequestreview-5422088513) - 2026-10-05
+* [Review] [Review on: feat: EIP-3298 remove storage-clear refund and refund cap](https://github.com/NethermindEth/nethermind/pull/13928#pullrequestreview-5414492827) - 2026-10-05
+* [Review] [Review on: feat: EIP-8131 unified transaction content floor](https://github.com/NethermindEth/nethermind/pull/13929#pullrequestreview-5414543728) - 2026-10-05
+* [Review] [Review on: feat: EIP-7668 remove bloom filters](https://github.com/NethermindEth/nethermind/pull/13934#pullrequestreview-5416559286) - 2026-10-05
+* [Review] [Review on: feat: EIP-8253 bump nonce of zero-nonce storage accounts](https://github.com/NethermindEth/nethermind/pull/13943#pullrequestreview-5414288365) - 2026-10-05
+* [Review] [Review on: perf(zkevm): cut interface dispatch and hashing in state, access tracking and tx validation](https://github.com/NethermindEth/nethermind/pull/14218#pullrequestreview-5418606978) - 2026-10-05
+* [Review] [Review on: perf(zkevm): guest handlers for wide arithmetic, SLOAD/TLOAD/TSTORE, MSTORE8 and data copies](https://github.com/NethermindEth/nethermind/pull/14229#pullrequestreview-5419661390) - 2026-10-05
+* [Review] [Review on: perf(zkevm): DMA memmove/memset for keccak state fill and RLP byte strings in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14257#pullrequestreview-5418606235) - 2026-10-05
+* [Review] [Review on: ci: split Nethermind.JsonRpc.Test into two chunks on macOS and Windows](https://github.com/NethermindEth/nethermind/pull/14275#pullrequestreview-5419650013) - 2026-10-05
+* [Review] [Review on: fix(sync): retake an invalid sync snapshot before recalculating progress pointers](https://github.com/NethermindEth/nethermind/pull/14276#pullrequestreview-5419652014) - 2026-10-05
+* [Review] [Review on: test(txpool): serve restored frame blob bodies so startup revalidation keeps them](https://github.com/NethermindEth/nethermind/pull/14279#pullrequestreview-5419651519) - 2026-10-05
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
+* [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
+* [Pull Request] [Update EIP-7666: Specify fork-block install and genesis activation](https://github.com/ethereum/EIPs/pull/12431) - 2026-10-05
+* [Pull Request] [Update EIP-8116: Define gasUsed and RPC cumulativeGasUsed](https://github.com/ethereum/EIPs/pull/12430) - 2026-10-05
+* [Pull Request] [Update EIP-5920: Price value with ACCOUNT_WRITE under EIP-8038](https://github.com/ethereum/EIPs/pull/12428) - 2026-10-05
+* [Pull Request] [Update EIP-7843: Move to Last Call](https://github.com/ethereum/EIPs/pull/12425) - 2026-10-05
 ## Q3 2026
 
 

@@ -85,6 +85,34 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): reuse decoded witness header hashes and widen the guest keccak memo to 2^17 slots](https://github.com/NethermindEth/nethermind/pull/14256#pullrequestreview-5409703212) - 2026-10-05
 * [Review] [Review on: fix(test): call the public FrameTxSignatureValidator.Validate overload](https://github.com/NethermindEth/nethermind/pull/14258#pullrequestreview-5409689104) - 2026-10-05
 * [Commit] [Avoid HTTP and JSON round trips in local health-check UI polling (#14211)](https://github.com/NethermindEth/nethermind/commit/c5f3cd3b7904b712cab1764df4754d254a55d7fc) - 2026-10-04
+
+* [Pull Request] [perf(rpc): source-generated JSON writers for blocks, RPC transactions and logs](https://github.com/NethermindEth/nethermind/pull/14299) - 2026-10-06
+* [Review] [Review on: Preserve empty and disabled stacks in Geth trace files](https://github.com/NethermindEth/nethermind/pull/13709#pullrequestreview-5423294041) - 2026-10-06
+* [Review] [Review on: Fix nested exit records in Geth trace files](https://github.com/NethermindEth/nethermind/pull/13737#pullrequestreview-5423293648) - 2026-10-06
+* [Review] [Review on: Return Geth-compatible code hashes in prestate traces](https://github.com/NethermindEth/nethermind/pull/13758#pullrequestreview-5423293503) - 2026-10-06
+* [Review] [Review on: Fix debug block tracing replay-state preconditions](https://github.com/NethermindEth/nethermind/pull/14282#pullrequestreview-5423293334) - 2026-10-06
+* [Review] [Review on: Fix debug_traceTransaction replay-state precondition](https://github.com/NethermindEth/nethermind/pull/14284#pullrequestreview-5423292960) - 2026-10-06
+* [Review] [Review on: Fix debug_traceBlockByNumber moving-selector replay race](https://github.com/NethermindEth/nethermind/pull/14288#pullrequestreview-5423292801) - 2026-10-06
+* [Review] [Review on: Fix debug_traceCall moving-selector replay race](https://github.com/NethermindEth/nethermind/pull/14291#pullrequestreview-5423292650) - 2026-10-06
+* [Review] [Review on: Fix debug_traceCallMany base-selector replay race](https://github.com/NethermindEth/nethermind/pull/14296#pullrequestreview-5423292529) - 2026-10-06
+* [Review] [Review on: Align Geth debug tracing callbacks, native tracers and call overrides](https://github.com/NethermindEth/nethermind/pull/13807#pullrequestreview-5423291392) - 2026-10-06
+* [Review] [Review on: feat: EIP-8131 unified transaction content floor](https://github.com/NethermindEth/nethermind/pull/13929#pullrequestreview-5422584667) - 2026-10-06
+* [Review] [Review on: perf(zkevm): cut interface dispatch and hashing in state, access tracking and tx validation](https://github.com/NethermindEth/nethermind/pull/14218#pullrequestreview-5422450006) - 2026-10-06
+* [Review] [Review on: perf(zkevm): cheaper leaf re-encoding and branch walks on the commit path](https://github.com/NethermindEth/nethermind/pull/14223#pullrequestreview-5422449732) - 2026-10-06
+* [Review] [Review on: perf(zkevm): guest handlers for wide arithmetic, SLOAD/TLOAD/TSTORE, MSTORE8 and data copies](https://github.com/NethermindEth/nethermind/pull/14229#pullrequestreview-5422449542) - 2026-10-06
+* [Review] [Review on: perf(zkevm): reach each storage change in place when writing storage roots](https://github.com/NethermindEth/nethermind/pull/14241#pullrequestreview-5422449321) - 2026-10-06
+* [Review] [Review on: perf(zkevm): cheaper first jumps to a destination in the guest](https://github.com/NethermindEth/nethermind/pull/14242#pullrequestreview-5422449107) - 2026-10-06
+* [Review] [Review on: perf(zkevm): per-block guest code cache as a plain map](https://github.com/NethermindEth/nethermind/pull/14244#pullrequestreview-5422448823) - 2026-10-06
+* [Review] [Review on: perf(zkevm): DMA memmove/memset for keccak state fill and RLP byte strings in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14257#pullrequestreview-5422448542) - 2026-10-06
+* [Review] [Review on: ci: split Nethermind.JsonRpc.Test into two chunks on macOS and Windows](https://github.com/NethermindEth/nethermind/pull/14275#pullrequestreview-5422448348) - 2026-10-06
+* [Review] [Review on: fix(sync): retake an invalid sync snapshot before recalculating progress pointers](https://github.com/NethermindEth/nethermind/pull/14276#pullrequestreview-5422448113) - 2026-10-06
+* [Review] [Review on: test(txpool): serve restored frame blob bodies so startup revalidation keeps them](https://github.com/NethermindEth/nethermind/pull/14279#pullrequestreview-5422447882) - 2026-10-06
+* [Review] [Review on: perf(zkevm): stop a guest trie write's climb at the first pending level](https://github.com/NethermindEth/nethermind/pull/14240#pullrequestreview-5422446298) - 2026-10-06
+* [Review] [Review on: perf(zkevm): dispatch the guest on opcode pairs and fuse common pairs](https://github.com/NethermindEth/nethermind/pull/14232#pullrequestreview-5422445976) - 2026-10-06
+* [Commit] [build: mark AOT-compatible projects and source-generate JSON metadata (#14237)](https://github.com/NethermindEth/nethermind/commit/db38aaaf54a84add713162a77e7b9a9702b001e5) - 2026-10-05
+* [Commit] [fix(rpc): restore master build after complete-message decoder changes (#14263)](https://github.com/NethermindEth/nethermind/commit/b677624be50dc90328a6dd07049adda7dc11865a) - 2026-10-05
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 ## Q3 2026
 
 

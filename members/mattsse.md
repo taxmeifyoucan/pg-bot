@@ -106,6 +106,20 @@ Team: Reth
 * [Commit] [fix(txpool): apply min priority fee to legacy txs (#27720)](https://github.com/paradigmxyz/reth/commit/2c108d3898dbd09f86962c1720196071b10b6f4e) - 2026-10-04
 * [Commit] [feat(e2e): expand the e2e test harness (#27713)](https://github.com/paradigmxyz/reth/commit/e47a8c8f27002ed74b9cb857ce90f983682e2b78) - 2026-10-04
 * [Commit] [fix(consensus): reject pre-Shanghai body withdrawals (#27715)](https://github.com/paradigmxyz/reth/commit/f10487daa37f734fe44ca34bef48d3587c066ace) - 2026-10-04
+* [Review] [Review on: refactor: use named Chain constructors, chain_id and Option predicates](https://github.com/paradigmxyz/reth/pull/27750#pullrequestreview-5423629952) - 2026-10-06
+* [Review] [Review on: refactor: use revm and alloy aliases and helpers](https://github.com/paradigmxyz/reth/pull/27749#pullrequestreview-5423628358) - 2026-10-06
+* [Review] [Review on: refactor: use alloy-primitives conversions and literals](https://github.com/paradigmxyz/reth/pull/27748#pullrequestreview-5423625423) - 2026-10-06
+* [Review] [Review on: refactor(stages): use ExecOutput::done](https://github.com/paradigmxyz/reth/pull/27746#pullrequestreview-5423619540) - 2026-10-06
+* [Review] [Review on: refactor(net): use Capability and Protocol constructors](https://github.com/paradigmxyz/reth/pull/27747#pullrequestreview-5423624055) - 2026-10-06
+* [Review] [Review on: feat(node): add the snap backfill](https://github.com/paradigmxyz/reth/pull/27708#pullrequestreview-5423286579) - 2026-10-06
+* [Review] [Review on: fix(net): deprioritize unavailable snap peers](https://github.com/paradigmxyz/reth/pull/27730#pullrequestreview-5420950549) - 2026-10-05
+* [Review] [Review on: refactor: use BlockId helpers](https://github.com/paradigmxyz/reth/pull/27744#pullrequestreview-5421089587) - 2026-10-05
+* [Review] [Review on: feat(node): hand snap state over to the pipeline](https://github.com/paradigmxyz/reth/pull/27706#pullrequestreview-5416706327) - 2026-10-05
+* [Review] [Review on: feat(storage): refuse databases the selected sync cannot use](https://github.com/paradigmxyz/reth/pull/27704#pullrequestreview-5416644041) - 2026-10-05
+* [Review] [Review on: refactor: use zero and enum comparison predicates](https://github.com/paradigmxyz/reth/pull/27742#pullrequestreview-5419036635) - 2026-10-05
+* [Review] [Review on: refactor: normalize byte and integer literals](https://github.com/paradigmxyz/reth/pull/27729#pullrequestreview-5414684747) - 2026-10-05
+* [Pull Request] [feat(txpool): configure sender id pruning](https://github.com/paradigmxyz/reth/pull/27736) - 2026-10-05
+* [Commit] [fix(discv4): match neighbours replies by source ip (#27722)](https://github.com/paradigmxyz/reth/commit/f4190077932c179c529fa384fcbe3b1958b11b56) - 2026-10-05
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

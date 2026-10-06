@@ -14,6 +14,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-types): relative balance and nonce post-state expectations](https://github.com/ethereum/execution-specs/pull/3699) - 2026-10-03
 * [Review] [Review on: feat(test-specs, tests): tests for BAL parallel execution](https://github.com/ethereum/execution-specs/pull/3670#pullrequestreview-5392812263) - 2026-10-02
+* [Review] [Review on: fix(test-specs): keep a failing block's fixture to one defect [backport forks/bogota]](https://github.com/ethereum/execution-specs/pull/3715#pullrequestreview-5421470421) - 2026-10-05
+* [Review] [Review on: fix(test-specs): keep a failing block's fixture to one defect](https://github.com/ethereum/execution-specs/pull/3698#pullrequestreview-5421316861) - 2026-10-05
+* [Review] [Review on: fix(test-execute): skip chain ID check in `--collect-only` mode [backport forks/bogota]](https://github.com/ethereum/execution-specs/pull/3714#pullrequestreview-5421273613) - 2026-10-05
+* [Review] [Review on: fix(test-execute): skip chain ID check in `--collect-only` mode](https://github.com/ethereum/execution-specs/pull/3702#pullrequestreview-5421142734) - 2026-10-05
+* [Review] [Review on: feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665#pullrequestreview-5420672800) - 2026-10-05
+* [Pull Request] [chore(all): Rebase to `forks/amsterdam`](https://github.com/ethereum/execution-specs/pull/3713) - 2026-10-05
 ## Q3 2026
 
 

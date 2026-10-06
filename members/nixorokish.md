@@ -6,6 +6,35 @@ Github: [@nixorokish](https://github.com/nixorokish)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8081: Decisions from ACDC188](https://github.com/ethereum/EIPs/pull/12429) - 2026-10-05
+* [Commit] [Update EIP-8081: Decisions from ACDC188](https://github.com/ethereum/EIPs/commit/69075f1b54fc4a116b41f75461a9868755a83e41) - 2026-10-05
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Review] [Review on: Add Lodestar incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2243#pullrequestreview-5417157912) - 2026-10-05
+* [Commit] [Merge pull request #2261 from benjaminion/master](https://github.com/ethereum/pm/commit/1b2d30fd58b69b81a5374012350313d3ba727d1a) - 2026-10-05
+* [Commit] [Merge pull request #2254 from abcoathup/glamsterdam-plan-networks](https://github.com/ethereum/pm/commit/ed6e32d5002e906f3fd9631baa9e735d73a71f86) - 2026-10-05
+* [Commit] [Merge pull request #2260 from lightclient/patch-2](https://github.com/ethereum/pm/commit/27ed2dba9fd386e3aa01c626fec64484c8f52c07) - 2026-10-05
+* [Commit] [Merge branch 'master' into patch-2](https://github.com/ethereum/pm/commit/c0445d52722f2cc0e236fce001046493aa24b7a7) - 2026-10-05
+* [Commit] [Merge pull request #2255 from LukaszRozmej/patch-2](https://github.com/ethereum/pm/commit/01628b6a42fb8505be0c10b92bdef084ba5d0ba9) - 2026-10-05
+* [Commit] [Merge branch 'master' into patch-2](https://github.com/ethereum/pm/commit/b17117442a93e8a99ff69cfcf57c647af4bcd022) - 2026-10-05
+* [Commit] [Merge pull request #2253 from yperbasis/erigon_glamsterdam](https://github.com/ethereum/pm/commit/1db3098f99b572168c07b98aa38ed2a880c90f0e) - 2026-10-05
+* [Commit] [Merge branch 'master' into erigon_glamsterdam](https://github.com/ethereum/pm/commit/b9ea99381dce350f7eb33731ff03a6a1acf11813) - 2026-10-05
+* [Commit] [Merge pull request #2252 from terencechain/prysm-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/d3d3f70b5357e2e3a7404a51084582dcddbfa742) - 2026-10-05
+* [Commit] [Merge branch 'master' into prysm-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/b9566f3b8ee7b3334449378de8ed0f281c0a3c0c) - 2026-10-05
+* [Commit] [Merge pull request #2251 from lucassaldanha/patch-4](https://github.com/ethereum/pm/commit/f32d46f99a57982e48362526458477cddd5ca4b7) - 2026-10-05
+* [Commit] [Merge branch 'master' into patch-4](https://github.com/ethereum/pm/commit/b8157687217b3915240121d3131773bb691e9c8a) - 2026-10-05
+* [Commit] [Merge pull request #2250 from tersec/nimbus-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/9ed6dcff808bd89f2e2df93cce847dbb3ac38c5b) - 2026-10-05
+* [Commit] [Merge branch 'master' into nimbus-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/a3b1f6e2c418f28e19384351ca21a8cac7e65f90) - 2026-10-05
+* [Commit] [Merge pull request #2249 from decofe/centaur/add-reth-glamsterdam-coordinators-1791046686](https://github.com/ethereum/pm/commit/bd7cdcb150e9d65cc617aaf9a94724613593d0cf) - 2026-10-05
+* [Commit] [Merge pull request #2248 from lambdaclass/ethrex-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/9e84a09b32cf2df1089aa6d9c123f208a2e32691) - 2026-10-05
+* [Commit] [Merge pull request #2246 from daniellehrner/besu-glamstersam-mainnet-plan](https://github.com/ethereum/pm/commit/f280c9cd9b0a14cbe2528883ab788acbe228d576) - 2026-10-05
+* [Commit] [Merge pull request #2244 from jking-aus/lighthouse-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/3d4766f6df15d5748801874a26f1396cac1f15dd) - 2026-10-05
+* [Commit] [Merge branch 'master' into lighthouse-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/0f3fd130c83c7cfadf87967090c033fa5a0726f9) - 2026-10-05
+* [Commit] [Merge pull request #2243 from lodekeeper/glamsterdam-incident-response-lodestar](https://github.com/ethereum/pm/commit/f4abff90e2f625ddce4b5a5dab3dc98033c70719) - 2026-10-05
 ## Q3 2026
 
 

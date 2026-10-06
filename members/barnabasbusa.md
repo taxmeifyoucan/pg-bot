@@ -14,6 +14,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Issue] [engine_forkchoiceUpdated builds payload synchronously (13-16s), stalls event loop and causes missed proposals on glamsterdam-devnet-8](https://github.com/status-im/nimbus-eth1/issues/4881) - 2026-10-01
 
+* [Pull Request] [feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903) - 2026-10-05
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat: show why inclusion list transactions were omitted](https://github.com/ethpandaops/dora/pull/884) - 2026-10-01
 
@@ -26,12 +27,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: bump go-eth2-client to merged master commit](https://github.com/ethpandaops/dora/commit/4f2a1f56c20fa9e003e6ceeea3cef31fe0207a62) - 2026-10-02
 * [Commit] [Merge pull request #882 from ethpandaops/bbusa/eip8198-slot-schedule](https://github.com/ethpandaops/dora/commit/83cdaa1e5277ac67d6eca079d18be011055a4022) - 2026-10-02
 * [Commit] [Merge remote-tracking branch 'origin/master' into bbusa/eip8198-slot-schedule](https://github.com/ethpandaops/dora/commit/cfcadc91fed0bbb5d1024ce49952587f927132ce) - 2026-10-02
+* [Review] [Review on: feat: index inclusion lists and resolve why transactions were omitted](https://github.com/ethpandaops/dora/pull/886#pullrequestreview-5414968175) - 2026-10-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 ## Q3 2026
 
 

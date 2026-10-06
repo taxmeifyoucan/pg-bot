@@ -28,6 +28,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: ignore messages from FATAL peer (#10239)](https://github.com/ChainSafe/lodestar/commit/fd4f342a40f62f50f4368e4e7515a1dab958457c) - 2026-10-02
 * [Commit] [fix: reject null slot gossip messages (#10241)](https://github.com/ChainSafe/lodestar/commit/a28be61ecba97f68988032ef810a28c4eb456ce5) - 2026-10-02
 * [Pull Request] [fix: optimize builder flows](https://github.com/ChainSafe/lodestar/pull/10263) - 2026-10-05
+* [Review] [Review on: fix: request the whole range sync batch again after a processing error](https://github.com/ChainSafe/lodestar/pull/10266#pullrequestreview-5414288517) - 2026-10-05
+* [Pull Request] [feat: persist earliest available slot](https://github.com/ChainSafe/lodestar/pull/10267) - 2026-10-05
+* [Commit] [fix: optimize builder flows (#10263)](https://github.com/ChainSafe/lodestar/commit/023ad6c0129a75a9bbc798052b4fe9052b80bb77) - 2026-10-05
 ## Q3 2026
 
 

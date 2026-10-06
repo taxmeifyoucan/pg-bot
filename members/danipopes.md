@@ -13,6 +13,7 @@ Team: Reth
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/reth/pull/27647#pullrequestreview-5389407071) - 2026-10-02
+* [Review] [Review on: chore(deps): update Cargo.lock](https://github.com/paradigmxyz/reth/pull/27741#pullrequestreview-5418355686) - 2026-10-05
 ## Q3 2026
 
 

@@ -28,6 +28,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Bump jackson-bom from 2.21.5 to 2.21.6 (#11396)](https://github.com/besu-eth/besu/commit/6f663e110d0f8197ae6487f992bf5cd43dc73bc6) - 2026-10-02
 * [Commit] [chore: don't run jacocoTestReport automatically after tests (#11410)](https://github.com/besu-eth/besu/commit/ffa8d35342f8ef4b1fc9c8ef16d06aec3b7773ea) - 2026-10-01
 * [Review] [Review on: Fix txpool_besuPendingTransactions gasPrice filter on EIP-1559 transactions](https://github.com/besu-eth/besu/pull/11374#pullrequestreview-5389294500) - 2026-10-02
+* [Review] [Review on: Accept a block hash as the debug_traceCall block parameter](https://github.com/besu-eth/besu/pull/11433#pullrequestreview-5422720044) - 2026-10-06
+* [Review] [Review on: fix(chain): publish sync heads after storage commit](https://github.com/besu-eth/besu/pull/10842#pullrequestreview-5423597961) - 2026-10-06
+* [Review] [Review on: fix(rpc): select exactly the blockHash block in trace_filter](https://github.com/besu-eth/besu/pull/11407#pullrequestreview-5423454836) - 2026-10-06
+* [Review] [Review on: Fix eth_simulateV1 block fields after Amsterdam](https://github.com/besu-eth/besu/pull/11394#pullrequestreview-5422699237) - 2026-10-06
+* [Review] [Review on: Decode GraphQL sendRawTransaction data like eth_sendRawTransaction](https://github.com/besu-eth/besu/pull/11444#pullrequestreview-5423366223) - 2026-10-06
+* [Review] [Review on: Return BLOCK_NOT_FOUND from debug_traceBlockByNumber for unknown block numbers](https://github.com/besu-eth/besu/pull/11437#pullrequestreview-5423115954) - 2026-10-06
+* [Review] [Review on: Implement `debug_getModifiedAccounts*`](https://github.com/besu-eth/besu/pull/11323#pullrequestreview-5422951706) - 2026-10-06
+* [Review] [Review on: Add eth_getHeaderByHash and eth_getHeaderByNumber](https://github.com/besu-eth/besu/pull/11220#pullrequestreview-5422559782) - 2026-10-06
+* [Review] [Review on: Return "to": null for contract-creation transactions](https://github.com/besu-eth/besu/pull/11434#pullrequestreview-5422524958) - 2026-10-06
+* [Review] [Review on: Accept a block hash in eth_estimateGas and eth_createAccessList](https://github.com/besu-eth/besu/pull/11380#pullrequestreview-5422662361) - 2026-10-06
+* [Issue] [unsafeStoreHeader and unsafeSetChainHead publish chain head state before storage commit](https://github.com/besu-eth/besu/issues/11480) - 2026-10-06
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01
