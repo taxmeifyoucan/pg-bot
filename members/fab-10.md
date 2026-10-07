@@ -24,6 +24,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Issue] [snap/2 GetBlockAccessLists server has no per-request lookup cap, unlike the other snap handlers and eth/71](https://github.com/besu-eth/besu/issues/11475) - 2026-10-05
 * [Issue] [EVMExecutor and evmtool run still delete self-destructed accounts under Amsterdam, burning the balance EIP-8246 preserves](https://github.com/besu-eth/besu/issues/11474) - 2026-10-05
 * [Commit] [Penalize eth/71 peers that send malformed BlockAccessLists RLP (#11472)](https://github.com/besu-eth/besu/commit/458ce542f002c69f358888d90c6b0cdba52d549f) - 2026-10-05
+* [Review] [Review on: Close the block world state only after transaction selection stops](https://github.com/besu-eth/besu/pull/11473#pullrequestreview-5428515207) - 2026-10-06
+* [Pull Request] [FOCIL: Refactor engine API payload status handling to allow version-specific responses](https://github.com/besu-eth/besu/pull/11488) - 2026-10-06
+* [Pull Request] [Fix stale MessageFrame javadoc: same-tx SELFDESTRUCT does not refund state gas](https://github.com/besu-eth/besu/pull/11471) - 2026-10-06
+* [Issue] [BFT transactiongaslimit override drops the Amsterdam intrinsic gas cap and can disable the tx.gas cap](https://github.com/besu-eth/besu/issues/11492) - 2026-10-06
+* [Issue] [GetSyncReceiptsFromPeerTask per-receipt size bound uses a hard-coded 45M gas limit](https://github.com/besu-eth/besu/issues/11493) - 2026-10-06
+* [Commit] [Setup Bogotá hardfork (#11431)](https://github.com/besu-eth/besu/commit/aff36ff9d74e037210129c152cc5e186f123cf79) - 2026-10-06
+* [Commit] [Fix stale MessageFrame javadoc: same-tx SELFDESTRUCT does not refund state gas (#11471)](https://github.com/besu-eth/besu/commit/7db2b2457ad13e15452c8ccea483e1e19bc4a5e8) - 2026-10-06
 ## Q3 2026
 
 

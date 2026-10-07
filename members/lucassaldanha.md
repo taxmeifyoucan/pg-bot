@@ -50,6 +50,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Send Eth-Consensus-Version header with payload attestations](https://github.com/Consensys-Incorporated/teku/pull/11407#pullrequestreview-5420528733) - 2026-10-05
 * [Commit] [Add second batch of gossipsub metrics (#11414)](https://github.com/Consensys-Incorporated/teku/commit/0bccee634ef54422428011a096a2941fbd53e488) - 2026-10-06
 * [Commit] [Update gossip config with MAX_TOTAL_FIELDS = 32768 (#11413)](https://github.com/Consensys-Incorporated/teku/commit/57937d72b49ee6f9fa27d80f48e7a3285bc5a7b9) - 2026-10-06
+* [Review] [Review on: Bound the future block queue by size and count](https://github.com/Consensys-Incorporated/teku/pull/11434#pullrequestreview-5436652615) - 2026-10-07
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

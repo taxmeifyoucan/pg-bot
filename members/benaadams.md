@@ -111,8 +111,50 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): dispatch the guest on opcode pairs and fuse common pairs](https://github.com/NethermindEth/nethermind/pull/14232#pullrequestreview-5422445976) - 2026-10-06
 * [Commit] [build: mark AOT-compatible projects and source-generate JSON metadata (#14237)](https://github.com/NethermindEth/nethermind/commit/db38aaaf54a84add713162a77e7b9a9702b001e5) - 2026-10-05
 * [Commit] [fix(rpc): restore master build after complete-message decoder changes (#14263)](https://github.com/NethermindEth/nethermind/commit/b677624be50dc90328a6dd07049adda7dc11865a) - 2026-10-05
+* [Review] [Review on: fix(ethstats): log repeated disconnects while offline at debug](https://github.com/NethermindEth/nethermind/pull/14289#pullrequestreview-5436993734) - 2026-10-07
+* [Review] [Review on: fix(merge): include WebSockets URL when checking the engine port is configured](https://github.com/NethermindEth/nethermind/pull/14285#pullrequestreview-5436993451) - 2026-10-07
+* [Review] [Review on: fix(wallet): reject an unavailable BlockAuthorAccount signing key](https://github.com/NethermindEth/nethermind/pull/14290#pullrequestreview-5436993195) - 2026-10-07
+* [Review] [Review on: fix(healthchecks): start periodic disk space check before block tree review](https://github.com/NethermindEth/nethermind/pull/14292#pullrequestreview-5436992934) - 2026-10-07
+* [Review] [Review on: feat(healthchecks): link consensus client docs in the no-ForkChoices warning](https://github.com/NethermindEth/nethermind/pull/14309#pullrequestreview-5436992757) - 2026-10-07
+* [Review] [Review on: test(txpool): re-enable parallel nonce reservation test](https://github.com/NethermindEth/nethermind/pull/14298#pullrequestreview-5436992563) - 2026-10-07
+* [Review] [Review on: test(blockchain): make FileLocalDataSource retries_loading_file deterministic](https://github.com/NethermindEth/nethermind/pull/14303#pullrequestreview-5436992374) - 2026-10-07
+* [Review] [Review on: test(aura): wait for the produced block in AuRaBlockProducerTests instead of a fixed window](https://github.com/NethermindEth/nethermind/pull/14306#pullrequestreview-5436992168) - 2026-10-07
+* [Review] [Review on: fix(producers): count only execution gas when ordering pool txs under EIP-8037](https://github.com/NethermindEth/nethermind/pull/14304#pullrequestreview-5436991883) - 2026-10-07
+* [Review] [Review on: fix(flat): warn when snap sync discards existing flat state and time the wipe](https://github.com/NethermindEth/nethermind/pull/14297#pullrequestreview-5436991554) - 2026-10-07
+* [Review] [Review on: fix(sync): stop old bodies and receipts progress overshooting the total on finish](https://github.com/NethermindEth/nethermind/pull/14286#pullrequestreview-5436991265) - 2026-10-07
+* [Review] [Review on: feat(sync): report snap healing progress as its own phase without the full state percentage](https://github.com/NethermindEth/nethermind/pull/14308#pullrequestreview-5436991097) - 2026-10-07
+* [Review] [Review on: test(sync): cover moving sync pivot in MultiSyncModeSelector scenarios](https://github.com/NethermindEth/nethermind/pull/14310#pullrequestreview-5436990928) - 2026-10-07
+* [Review] [Review on: perf(evm): past the block code cache's cap, evict code only finished transactions used](https://github.com/NethermindEth/nethermind/pull/14380#pullrequestreview-5435908780) - 2026-10-07
+* [Review] [Review on: perf(trie): hash serially by default; history walk hashes on its own thread](https://github.com/NethermindEth/nethermind/pull/14326#pullrequestreview-5436866000) - 2026-10-07
+* [Review] [Review on: perf(flat-history): drop pruned block markers with one range delete](https://github.com/NethermindEth/nethermind/pull/14333#pullrequestreview-5436865828) - 2026-10-07
+* [Review] [Review on: perf(archive-proofs): resolve commitment column batches once per write batch](https://github.com/NethermindEth/nethermind/pull/14341#pullrequestreview-5436865658) - 2026-10-07
+* [Review] [Review on: perf(archive-proofs): prefetch from the first uncached depth](https://github.com/NethermindEth/nethermind/pull/14340#pullrequestreview-5436865514) - 2026-10-07
+* [Review] [Review on: fix(flat-history): revalidate cached no-poison after a capture](https://github.com/NethermindEth/nethermind/pull/14347#pullrequestreview-5436865352) - 2026-10-07
+* [Review] [Review on: fix(tx-index): refuse scratch slots with no live account](https://github.com/NethermindEth/nethermind/pull/14352#pullrequestreview-5436865173) - 2026-10-07
+* [Review] [Review on: perf(flat-history): encode v3 capture post-values only when a row is written](https://github.com/NethermindEth/nethermind/pull/14355#pullrequestreview-5436864996) - 2026-10-07
+* [Review] [Review on: perf(archive-proofs): keep open window nodes in a reusable slab](https://github.com/NethermindEth/nethermind/pull/14360#pullrequestreview-5436864814) - 2026-10-07
+* [Review] [Review on: perf(tx-index): read earlier-block overlay behind the block read cache](https://github.com/NethermindEth/nethermind/pull/14361#pullrequestreview-5436864655) - 2026-10-07
+* [Review] [Review on: perf(archive-proofs): collect historical proofs with a direct path walk](https://github.com/NethermindEth/nethermind/pull/14365#pullrequestreview-5436864519) - 2026-10-07
+* [Review] [Review on: perf(history-walk): skip the rest of an overflowing storage group](https://github.com/NethermindEth/nethermind/pull/14367#pullrequestreview-5436864338) - 2026-10-07
+* [Review] [Review on: perf(tx-index): sync the bulk import scratch WAL every 64 pages](https://github.com/NethermindEth/nethermind/pull/14370#pullrequestreview-5436864204) - 2026-10-07
+* [Review] [Review on: fix(rpc): fee default texts and check order for transactions to send and sign](https://github.com/NethermindEth/nethermind/pull/14375#pullrequestreview-5436864042) - 2026-10-07
+* [Review] [Review on: fix(rpc): fill the missing half of an eth_createAccessList fee pair](https://github.com/NethermindEth/nethermind/pull/14377#pullrequestreview-5436863860) - 2026-10-07
+* [Review] [Review on: perf(flat-history): reuse empty hashes for historical accounts](https://github.com/NethermindEth/nethermind/pull/14328#pullrequestreview-5436861605) - 2026-10-07
+* [Review] [Review on: perf(history-walk): fold the root in parallel block-range chunks](https://github.com/NethermindEth/nethermind/pull/14373#pullrequestreview-5436861373) - 2026-10-07
+* [Review] [Review on: perf(tx-index): drop per-block scratch WAL syncs in bulk replay](https://github.com/NethermindEth/nethermind/pull/14350#pullrequestreview-5436861158) - 2026-10-07
+* [Review] [Review on: perf(archive-proofs): serve proof metadata from memory](https://github.com/NethermindEth/nethermind/pull/14348#pullrequestreview-5436860989) - 2026-10-07
+* [Review] [Review on: fix(archive-proofs): mark a reattached child changed when a branch re-forms](https://github.com/NethermindEth/nethermind/pull/14356#pullrequestreview-5436860759) - 2026-10-07
+* [Review] [Review on: fix(history-walk): scan the whole storage bucket before accepting slot history](https://github.com/NethermindEth/nethermind/pull/14329#pullrequestreview-5436860572) - 2026-10-07
+* [Review] [Review on: refactor(tracing): size changeset trace budget from JsonRpc.TraceBlockParallelism](https://github.com/NethermindEth/nethermind/pull/14363#pullrequestreview-5436860386) - 2026-10-07
+* [Review] [Review on: perf(rpc): process up to 16 requests per WebSocket and IPC connection](https://github.com/NethermindEth/nethermind/pull/14345#pullrequestreview-5436860143) - 2026-10-07
+* [Review] [Review on: perf(flat-history): pruner seeks past each key's live rows](https://github.com/NethermindEth/nethermind/pull/14371#pullrequestreview-5436859915) - 2026-10-07
+* [Review] [Review on: perf(flat): filter in-memory slot reads of plain eth_call, estimateGas and createAccessList](https://github.com/NethermindEth/nethermind/pull/14330#pullrequestreview-5436859663) - 2026-10-07
+* [Review] [Review on: perf(history-walk): fork/join scheduler so split storage children run on all workers](https://github.com/NethermindEth/nethermind/pull/14353#pullrequestreview-5436859470) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427#pullrequestreview-5426520224) - 2026-10-06
 ## Q3 2026
 
 

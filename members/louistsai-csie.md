@@ -27,6 +27,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: docs(test-formats): document the block access list fixture field](https://github.com/ethereum/execution-specs/pull/3710#pullrequestreview-5423399757) - 2026-10-06
 * [Review] [Review on: feat(tests): cover CREATE nonce after re-invoking a self-destructed contract](https://github.com/ethereum/execution-specs/pull/3705#pullrequestreview-5423263408) - 2026-10-06
 * [Review] [Review on: feat(tests): pin the EIP-8037 intrinsic execution gas cap](https://github.com/ethereum/execution-specs/pull/3709#pullrequestreview-5423336608) - 2026-10-06
+* [Review] [Review on: fix(ci): raise the fill-pypy heap cap to 4G](https://github.com/ethereum/execution-specs/pull/3723#pullrequestreview-5428832594) - 2026-10-06
+* [Review] [Review on: feat(tests): Add EIP-8163 EXTENSION opcode test](https://github.com/ethereum/execution-specs/pull/3454#pullrequestreview-5424369654) - 2026-10-06
+* [Pull Request] [feat(spec-specs,tests): implement EIP-7668 empty logs bloom in Bogota](https://github.com/ethereum/execution-specs/pull/3719) - 2026-10-06
+* [Pull Request] [refactor(test-execute): simplify estimate-gas batching and payload](https://github.com/ethereum/execution-specs/pull/3718) - 2026-10-06
+* [Review] [Review on: refactor(tests): fold CALL execution_cost + stale TODO cleanups](https://github.com/ethereum/execution-specs/pull/3606#pullrequestreview-5424960514) - 2026-10-06
 ## Q3 2026
 
 

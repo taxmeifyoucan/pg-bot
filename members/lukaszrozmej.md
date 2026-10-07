@@ -140,6 +140,41 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(shutter): count missed keys atomically (#14238)](https://github.com/NethermindEth/nethermind/commit/65450154b7736e4d8c5d9de35b69c735069e5107) - 2026-10-05
 * [Commit] [perf(stateless): hand the decoded witness state nodes over without copying them (#14233)](https://github.com/NethermindEth/nethermind/commit/e60e40358b146e00206992e08cedb69a535f2c23) - 2026-10-05
 * [Commit] [perf(zkevm): relieve register pressure in the guest opcode handlers (#14206)](https://github.com/NethermindEth/nethermind/commit/1336cf938d53a0d162181ab418b99fbebebfa4fb) - 2026-10-05
+* [Pull Request] [perf(evm): past the block code cache's cap, evict code only finished transactions used](https://github.com/NethermindEth/nethermind/pull/14380) - 2026-10-06
+* [Review] [Review on: perf(trie): hash serially by default; history walk hashes on its own thread](https://github.com/NethermindEth/nethermind/pull/14326#pullrequestreview-5435425708) - 2026-10-06
+* [Review] [Review on: perf(flat-history): drop pruned block markers with one range delete](https://github.com/NethermindEth/nethermind/pull/14333#pullrequestreview-5435458639) - 2026-10-06
+* [Review] [Review on: perf(archive-proofs): resolve commitment column batches once per write batch](https://github.com/NethermindEth/nethermind/pull/14341#pullrequestreview-5435473860) - 2026-10-06
+* [Review] [Review on: perf(archive-proofs): prefetch from the first uncached depth](https://github.com/NethermindEth/nethermind/pull/14340#pullrequestreview-5435470428) - 2026-10-06
+* [Review] [Review on: fix(flat-history): revalidate cached no-poison after a capture](https://github.com/NethermindEth/nethermind/pull/14347#pullrequestreview-5435476438) - 2026-10-06
+* [Review] [Review on: fix(tx-index): refuse scratch slots with no live account](https://github.com/NethermindEth/nethermind/pull/14352#pullrequestreview-5435487136) - 2026-10-06
+* [Review] [Review on: perf(flat-history): encode v3 capture post-values only when a row is written](https://github.com/NethermindEth/nethermind/pull/14355#pullrequestreview-5435523235) - 2026-10-06
+* [Review] [Review on: perf(archive-proofs): keep open window nodes in a reusable slab](https://github.com/NethermindEth/nethermind/pull/14360#pullrequestreview-5435557187) - 2026-10-06
+* [Review] [Review on: fix(rpc): fill the missing half of an eth_createAccessList fee pair](https://github.com/NethermindEth/nethermind/pull/14377#pullrequestreview-5435571489) - 2026-10-06
+* [Review] [Review on: perf(flat-history): reuse empty hashes for historical accounts](https://github.com/NethermindEth/nethermind/pull/14328#pullrequestreview-5435444180) - 2026-10-06
+* [Review] [Review on: perf(tx-index): drop per-block scratch WAL syncs in bulk replay](https://github.com/NethermindEth/nethermind/pull/14350#pullrequestreview-5435484560) - 2026-10-06
+* [Review] [Review on: perf(archive-proofs): serve proof metadata from memory](https://github.com/NethermindEth/nethermind/pull/14348#pullrequestreview-5435479024) - 2026-10-06
+* [Review] [Review on: fix(archive-proofs): mark a reattached child changed when a branch re-forms](https://github.com/NethermindEth/nethermind/pull/14356#pullrequestreview-5435533214) - 2026-10-06
+* [Review] [Review on: fix(history-walk): scan the whole storage bucket before accepting slot history](https://github.com/NethermindEth/nethermind/pull/14329#pullrequestreview-5435452105) - 2026-10-06
+* [Review] [Review on: perf(history-walk): fork/join scheduler so split storage children run on all workers](https://github.com/NethermindEth/nethermind/pull/14353#pullrequestreview-5435493486) - 2026-10-06
+* [Review] [Review on: zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26](https://github.com/NethermindEth/nethermind/pull/14358#pullrequestreview-5434278172) - 2026-10-06
+* [Commit] [fix(state): delete pre-existing account recreated and deleted again in one commit (#14357)](https://github.com/NethermindEth/nethermind/commit/88068f5e48bf7965a98c9efc73ad7ca371892497) - 2026-10-06
+* [Commit] [fix(merge): keep a suggested block queued when newPayload's budget runs out first (#14337)](https://github.com/NethermindEth/nethermind/commit/be26e3f851932a58e1523418bdde266a007595e0) - 2026-10-06
+* [Commit] [perf(evm): keep the code a block loads for the rest of the block (#14322)](https://github.com/NethermindEth/nethermind/commit/83bbbf1d983e62af9f41710c29fb3f48a738bd1e) - 2026-10-06
+* [Commit] [perf(zkevm): per-block guest code cache as a plain map (#14244)](https://github.com/NethermindEth/nethermind/commit/bd965aa29084af4515ed73b71cf3b0776a9a05ed) - 2026-10-06
+* [Commit] [fix(rpc): keep a notification's send failure when the socket closes first (#14319)](https://github.com/NethermindEth/nethermind/commit/0c56218d6635d93934d83718c38d334c40ea69f8) - 2026-10-06
+* [Commit] [perf(zkevm): reach each storage change in place when writing storage roots (#14241)](https://github.com/NethermindEth/nethermind/commit/c080e1abe01a9a2e2a78b512d11fb261b2e64737) - 2026-10-06
+* [Commit] [perf(zkevm): cheaper first jumps to a destination in the guest (#14242)](https://github.com/NethermindEth/nethermind/commit/a3e21cd599f06694d6736df66e8dcf5dda3238c5) - 2026-10-06
+* [Commit] [ci: drop stale Timestamp entries from known-flaky hive tests (#14315)](https://github.com/NethermindEth/nethermind/commit/8c59a0182cbe32213779ba68111deda13910cb9b) - 2026-10-06
+* [Commit] [perf(zkevm): dispatch the guest on opcode pairs and fuse common pairs (#14232)](https://github.com/NethermindEth/nethermind/commit/e849244c55b5317c53fa6e78095643b5b7ab5207) - 2026-10-06
+* [Commit] [perf(zkevm): OptimizedDictionary/OptimizedHashSet with 64-bit guest hash tables on the state path (#14222)](https://github.com/NethermindEth/nethermind/commit/96b0e6bc2de95881ac1f7d6f118ac183a0ed070e) - 2026-10-06
+* [Commit] [perf(zkevm): cut interface dispatch and hashing in state, access tracking and tx validation (#14218)](https://github.com/NethermindEth/nethermind/commit/44027e36fb3a427b17edfbd76f22b0c6fe6328cc) - 2026-10-06
+* [Commit] [perf(zkevm): stop a guest trie write's climb at the first pending level (#14240)](https://github.com/NethermindEth/nethermind/commit/994465f9079c300e9a591c77447d73a00435c02e) - 2026-10-06
+* [Commit] [ci: split Nethermind.JsonRpc.Test into two chunks on macOS and Windows (#14275)](https://github.com/NethermindEth/nethermind/commit/54d6be0d69a5777bf21c64d5d0bd9172dd00a485) - 2026-10-06
+* [Commit] [perf(zkevm): cheaper leaf re-encoding and branch walks on the commit path (#14223)](https://github.com/NethermindEth/nethermind/commit/30b4a1a9575d4c8f8ef0592bdcbdebc24228748f) - 2026-10-06
+* [Commit] [test(txpool): serve restored frame blob bodies so startup revalidation keeps them (#14279)](https://github.com/NethermindEth/nethermind/commit/ddd8c261347c1ec7a65507e5a6b79817064458a6) - 2026-10-06
+* [Commit] [perf(zkevm): DMA memmove/memset for keccak state fill and RLP byte strings in the ZisK guest (#14257)](https://github.com/NethermindEth/nethermind/commit/2111f3af0126ad0c9a251d57f2d319ec5d22d8c2) - 2026-10-06
+* [Commit] [perf(zkevm): guest handlers for wide arithmetic, SLOAD/TLOAD/TSTORE, MSTORE8 and data copies (#14229)](https://github.com/NethermindEth/nethermind/commit/0bf379baa170bc8ca63e29f169a194b6923412f0) - 2026-10-06
+* [Commit] [fix(sync): retake an invalid sync snapshot before recalculating progress pointers (#14276)](https://github.com/NethermindEth/nethermind/commit/4fa1d7b0ad25cc260661d2e40d05a61033fe9420) - 2026-10-06
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -155,6 +190,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fixup/11/upstream: RISC-V shift masks, aligned null checks, narrowing casts, BigMul via mulhu](https://github.com/NethermindEth/dotnet-riscv/pull/16#pullrequestreview-5401431127) - 2026-10-03
 * [Pull Request] [fixup/11/upstream: tail-call no-return calls that end a throw block on RISC-V](https://github.com/NethermindEth/dotnet-riscv/pull/19) - 2026-10-04
 
+* [Review] [Review on: docs: fix Stateless Executor link](https://github.com/NethermindEth/dotnet-riscv/pull/18#pullrequestreview-5434439960) - 2026-10-06
+* [Commit] [fixup/11/upstream: tail call no-return calls ending a throw block on RISC-V](https://github.com/NethermindEth/dotnet-riscv/commit/a7345be701eb864cfd89cbd2b490349996f1ecfe) - 2026-10-06
+* [Commit] [fix: handle RISC-V BigMul in binary evaluation-order switch](https://github.com/NethermindEth/dotnet-riscv/commit/8a87f1ea42102d9d2d05ee80b23104657c1133cd) - 2026-10-06
+* [Commit] [fixup/11/upstream: Math.BigMul(ulong, ulong, out ulong) as mul + mulhu on RISC-V](https://github.com/NethermindEth/dotnet-riscv/commit/9d3b549f78fbcb077beb2e089270635bfce2bb59) - 2026-10-06
+* [Commit] [fixup/11/upstream: no sext.w for a LONG-to-INT cast of an in-range value](https://github.com/NethermindEth/dotnet-riscv/commit/0bc1b6cb83e88c764fa937d22763fcd0c9b538ff) - 2026-10-06
+* [Commit] [fixup/11/upstream: probe object references with an aligned ld on RISC-V](https://github.com/NethermindEth/dotnet-riscv/commit/3c7e3bd885f1bd5e6271b5508fe38cbb1ac19b7e) - 2026-10-06
+* [Commit] [fixup/11/upstream: drop shift-count masks the RISC-V shifts already apply](https://github.com/NethermindEth/dotnet-riscv/commit/e8e575129f8baed974f8b6c811ac63eec16d3a8e) - 2026-10-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

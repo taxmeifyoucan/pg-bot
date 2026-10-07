@@ -14,6 +14,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Implement optional proofs with fork-choice optimistic](https://github.com/sigp/lighthouse/pull/10198) - 2026-10-02
 * [Pull Request] [Add POST /eth/v1/beacon/pool/execution_proofs](https://github.com/sigp/lighthouse/pull/10210) - 2026-10-05
+* [Pull Request] [Align the EIP-8025 proof types and gossip rules with the spec](https://github.com/sigp/lighthouse/pull/10236) - 2026-10-06
+* [Review] [Review on: Implement optional proofs with fork-choice optimistic](https://github.com/sigp/lighthouse/pull/10198#pullrequestreview-5432842387) - 2026-10-06
+* [Pull Request] [Revert the execution proof availability gate](https://github.com/sigp/lighthouse/pull/10233) - 2026-10-06
+* [Review] [Review on: Tweak FCR restart logic to match latest spec](https://github.com/sigp/lighthouse/pull/10224#pullrequestreview-5425219745) - 2026-10-06
 ## Q3 2026
 
 

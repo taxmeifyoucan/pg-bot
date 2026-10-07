@@ -24,6 +24,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Hash and size legacy transactions and block access lists from their r…](https://github.com/besu-eth/besu/pull/11470) - 2026-10-05
 * [Commit] [Commit few updated accounts sequentially in the world state accumulator (#11468)](https://github.com/besu-eth/besu/commit/370541c9a1206d863d7747ca417eb8a10b2c440c) - 2026-10-06
 * [Commit] [Hash and size legacy transactions and block access lists from their raw bytes (#11470)](https://github.com/besu-eth/besu/commit/65086a3ef44e592d312fe11aefda503847966634) - 2026-10-06
+* [Pull Request] [Share one NoOpBonsaiCachedMerkleTrieLoader instead of building one per world state](https://github.com/besu-eth/besu/pull/11484) - 2026-10-06
+* [Pull Request] [Hash each storage slot once per block](https://github.com/besu-eth/besu/pull/11491) - 2026-10-06
+* [Pull Request] [Index the block access list once per block, for the state root and the execution](https://github.com/besu-eth/besu/pull/11486) - 2026-10-06
+* [Pull Request] [Compute the transactions root of an engine_newPayload block once](https://github.com/besu-eth/besu/pull/11485) - 2026-10-06
 ## Q3 2026
 
 

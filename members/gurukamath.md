@@ -8,6 +8,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(specs, tests): deploy the EIP-8141 expiry verifier as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3729) - 2026-10-06
+* [Review] [Review on: refactor(spec-specs): join imports that fit on one line](https://github.com/ethereum/execution-specs/pull/3720#pullrequestreview-5427071564) - 2026-10-06
 ## Q3 2026
 
 

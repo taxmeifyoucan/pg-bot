@@ -24,6 +24,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [make sure fallback in keymanager uses gas limit schedule (#17601)](https://github.com/OffchainLabs/prysm/commit/b6f189cb8faba9cbc8fbc7362d754c35d8e51f8f) - 2026-10-02
 * [Pull Request] [Update CHANGELOG.md for v7.2.1](https://github.com/OffchainLabs/prysm/pull/17624) - 2026-10-05
 * [Review] [Review on: REST VC: wait past the attestation due time when no node has answered](https://github.com/OffchainLabs/prysm/pull/17620#pullrequestreview-5423015396) - 2026-10-06
+* [Pull Request] [improve execution payment warning message](https://github.com/OffchainLabs/prysm/pull/17630) - 2026-10-06
+* [Commit] [Update CHANGELOG.md for v7.2.1 (#17624)](https://github.com/OffchainLabs/prysm/commit/e133d5aee39b400735d6b623a5fbbf8264ba600f) - 2026-10-06
 ## Q3 2026
 
 

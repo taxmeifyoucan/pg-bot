@@ -16,6 +16,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Publish test reports as check runs from a workflow_run workflow](https://github.com/Consensys-Incorporated/teku/pull/11383#pullrequestreview-5376504009) - 2026-10-01
 * [Pull Request] [ Add decode regression test for Gloas block body deposits limit](https://github.com/Consensys-Incorporated/teku/pull/11415) - 2026-10-06
 * [Review] [Review on: Add second batch of gossipsub metrics](https://github.com/Consensys-Incorporated/teku/pull/11414#pullrequestreview-5423294045) - 2026-10-06
+* [Pull Request] [Lower pending block pool byte cap and report pool size in bytes](https://github.com/Consensys-Incorporated/teku/pull/11435) - 2026-10-07
+* [Review] [Review on: Subscribe to head_v2 events once gloas is scheduled](https://github.com/Consensys-Incorporated/teku/pull/11416#pullrequestreview-5435695325) - 2026-10-06
+* [Pull Request] [Bound the future block queue by size and count](https://github.com/Consensys-Incorporated/teku/pull/11434) - 2026-10-06
+* [Review] [Review on: Bound the future block queue by size and count](https://github.com/Consensys-Incorporated/teku/pull/11434#pullrequestreview-5435772479) - 2026-10-06
+* [Review] [Review on: Settle builder payment before parent requests and sweep remaining builder balance](https://github.com/Consensys-Incorporated/teku/pull/11408#pullrequestreview-5424952102) - 2026-10-06
+* [Commit] [Bound the future block queue by size and count (#11434)](https://github.com/Consensys-Incorporated/teku/commit/a46f9e1e3679e4c2707d27447628d07a6c67b600) - 2026-10-07
+* [Commit] [ Add decode regression test for Gloas block body deposits limit (#11415)](https://github.com/Consensys-Incorporated/teku/commit/2b8ffef789cfb27a85e89bf6d185e974d56ab2ec) - 2026-10-06
 ## Q3 2026
 
 

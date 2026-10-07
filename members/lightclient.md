@@ -14,12 +14,17 @@ Team: Geth
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8141: use max_fee to bound cost](https://github.com/ethereum/EIPs/pull/12414) - 2026-10-01
 
+* [Review] [Review on: Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442#pullrequestreview-5435007741) - 2026-10-06
+* [Commit] [Update EIP-8141: deploy frames expiry verifier as standard contract (#12387)](https://github.com/ethereum/EIPs/commit/88fa3e4d24efb0dffdbe1fda2765060b870de784) - 2026-10-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/types, eth/protocols/eth: fix snap sync of frame transaction receipts](https://github.com/ethereum/go-ethereum/pull/35882) - 2026-10-05
 
+* [Pull Request] [core, core/txpool, eth: add a dedicated frame transaction pool](https://github.com/ethereum/go-ethereum/pull/35891) - 2026-10-06
+* [Pull Request] [core, core/state, core/vm: read frame logs through vm.StateDB](https://github.com/ethereum/go-ethereum/pull/35887) - 2026-10-06
+* [Pull Request] [core/txpool: reject frame transactions carrying blob hashes](https://github.com/ethereum/go-ethereum/pull/35886) - 2026-10-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05

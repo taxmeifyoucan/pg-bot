@@ -23,6 +23,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Remove redundant todo](https://github.com/sigp/lighthouse/pull/10195#pullrequestreview-5388698449) - 2026-10-02
 * [Review] [Review on: Notify the reprocess queue when column reconstruction imports a block](https://github.com/sigp/lighthouse/pull/10202#pullrequestreview-5399417201) - 2026-10-03
 * [Pull Request] [Gloas spec v1.7.0-beta.3](https://github.com/sigp/lighthouse/pull/10212) - 2026-10-05
+* [Review] [Review on: Revert the execution proof availability gate](https://github.com/sigp/lighthouse/pull/10233#pullrequestreview-5433271633) - 2026-10-06
+* [Pull Request] [Add property tests for EpochSchedule](https://github.com/sigp/lighthouse/pull/10232) - 2026-10-06
 ## Q3 2026
 
 

@@ -14,6 +14,23 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8198 quick slots](https://github.com/ethereum/execution-specs/pull/3703#pullrequestreview-5421761588) - 2026-10-05
 * [Review] [Review on: chore(all): Rebase to `forks/amsterdam`](https://github.com/ethereum/execution-specs/pull/3713#pullrequestreview-5420333395) - 2026-10-05
+
+* [Pull Request] [feat(spec-specs,tests): implement EIP-7906 transaction assertions](https://github.com/ethereum/execution-specs/pull/3730) - 2026-10-06
+* [Review] [Review on: feat(specs, tests): deploy the EIP-8141 expiry verifier as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3729#pullrequestreview-5434395030) - 2026-10-06
+* [Review] [Review on: chore(ci): port forks/amsterdam changes to forks/bogota](https://github.com/ethereum/execution-specs/pull/3728#pullrequestreview-5433206546) - 2026-10-06
+* [Pull Request] [feat(specs,tests): type EIP-8250 nonce keys by their most significant byte](https://github.com/ethereum/execution-specs/pull/3724) - 2026-10-06
+* [Pull Request] [feat(specs,tests): reject an occupied EIP-8250 nonce manager address at the fork block](https://github.com/ethereum/execution-specs/pull/3725) - 2026-10-06
+* [Pull Request] [feat(specs,tests): record the EIP-8250 activation in the fork block's access list](https://github.com/ethereum/execution-specs/pull/3722) - 2026-10-06
+* [Pull Request] [fix(ci): raise the fill-pypy heap cap to 4G](https://github.com/ethereum/execution-specs/pull/3723) - 2026-10-06
+* [Pull Request] [fix(test-forks,tests): fix latent base fee and blob transition bugs](https://github.com/ethereum/execution-specs/pull/3721) - 2026-10-06
+* [Review] [Review on: feat(specs,tests): implement EIP-8250 keyed nonces for frame transactions](https://github.com/ethereum/execution-specs/pull/3683#pullrequestreview-5428270695) - 2026-10-06
+* [Review] [Review on: docs(test-formats): document the block access list fixture field](https://github.com/ethereum/execution-specs/pull/3710#pullrequestreview-5426797024) - 2026-10-06
+* [Issue] [Test Release Tracker: `frames-devnet@v1.0.0`](https://github.com/ethereum/execution-specs/issues/3727) - 2026-10-06
+* [Commit] [fix(ci): raise the fill-pypy heap cap to 4G (#3723)](https://github.com/ethereum/execution-specs/commit/30396e1fdad0f25184ee15d3ba3e9206faeac028) - 2026-10-06
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
+* [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
+* [Commit] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/commit/260ccd2b2c2d7b5571094d835f24924e19092b58) - 2026-10-06
 ## Q3 2026
 
 

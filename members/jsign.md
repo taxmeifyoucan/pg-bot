@@ -21,6 +21,15 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
+
+[eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
+* [Pull Request] [ci: parallelize EEST R2 validation and validate fewer blocks by default](https://github.com/eth-act/zkevm-benchmark-workload/pull/317) - 2026-10-06
+* [Pull Request] [ci: fail on Cargo.toml warnings, use stable Rust, fix test caching](https://github.com/eth-act/zkevm-benchmark-workload/pull/316) - 2026-10-06
+* [Pull Request] [fix: update catalog URL to new R2 endpoint for Sepolia](https://github.com/eth-act/zkevm-benchmark-workload/pull/315) - 2026-10-06
+* [Commit] [ci: parallelize EEST R2 validation and validate fewer blocks by default (#317)](https://github.com/eth-act/zkevm-benchmark-workload/commit/b1b3fc7e5062f14cf7fc87c645803974fa080918) - 2026-10-06
+* [Commit] [ci: fail on Cargo.toml warnings, use stable Rust, fix test caching (#316)](https://github.com/eth-act/zkevm-benchmark-workload/commit/eead81b805d8e17c1177159a9983dc08fb323aef) - 2026-10-06
+* [Commit] [fix: update catalog URL to new R2 endpoint for Sepolia (#315)](https://github.com/eth-act/zkevm-benchmark-workload/commit/5cbfca2bbe36f1f2a310469d9e6c87831d2910e9) - 2026-10-06
+* [Commit] [feat: adopt tests-zkevm@v21.0.1 engine fixtures and Sepolia publication (#314)](https://github.com/eth-act/zkevm-benchmark-workload/commit/3c74a083561416e6b73785c4ab59a40afab331c3) - 2026-10-06
 ## Q3 2026
 
 

@@ -20,6 +20,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-execute): skip chain ID check in `--collect-only` mode](https://github.com/ethereum/execution-specs/pull/3702#pullrequestreview-5421142734) - 2026-10-05
 * [Review] [Review on: feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665#pullrequestreview-5420672800) - 2026-10-05
 * [Pull Request] [chore(all): Rebase to `forks/amsterdam`](https://github.com/ethereum/execution-specs/pull/3713) - 2026-10-05
+* [Review] [Review on: feat(spec-tools): lint formatting-only differences between forks](https://github.com/ethereum/execution-specs/pull/3726#pullrequestreview-5433582064) - 2026-10-06
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 ## Q3 2026
 
 

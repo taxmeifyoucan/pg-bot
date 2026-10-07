@@ -29,6 +29,12 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(tests): tag re-invoked selfdestruct children by call (#3717)](https://github.com/ethereum/execution-specs/commit/513134688fe6373f8e2a08142f7231283f075593) - 2026-10-06
 * [Commit] [feat(tests): pin the EIP-8037 intrinsic execution gas cap (#3709)](https://github.com/ethereum/execution-specs/commit/57842a8a866c9dcec6236c9666e53f92ff878d0b) - 2026-10-06
 * [Commit] [fix(test-specs): keep a failing block's fixture to one defect (#3698)](https://github.com/ethereum/execution-specs/commit/37f6de9010c9dcb59705963fa9a449191d749a67) - 2026-10-05
+* [Pull Request] [chore(ci): port forks/amsterdam changes to forks/bogota](https://github.com/ethereum/execution-specs/pull/3728) - 2026-10-06
+* [Commit] [refactor(spec-specs): join imports in the Bogota fork](https://github.com/ethereum/execution-specs/commit/1562e2f8b5cb1efda7e0d7c517f2dfb5742c0a43) - 2026-10-06
+* [Commit] [docs(test-formats): document the block access list fixture field (#3710)](https://github.com/ethereum/execution-specs/commit/48014a16387a3a85202c9f4a387cd35d6a32a30c) - 2026-10-06
+* [Commit] [fix(test-client-clis): keep tool detection off stdout (#3707)](https://github.com/ethereum/execution-specs/commit/b44927a30accd2bfe8a9f4f1ad10ad96fe02eb82) - 2026-10-06
+* [Commit] [fix(tests): tag re-invoked selfdestruct children by call (#3717)](https://github.com/ethereum/execution-specs/commit/dd30a01e4e2eaaf9d4a6b000383532ee1d02920c) - 2026-10-06
+* [Commit] [feat(tests): pin the EIP-8037 intrinsic execution gas cap (#3709)](https://github.com/ethereum/execution-specs/commit/3aa522b21576685fe780a884bed505a9de70ece8) - 2026-10-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

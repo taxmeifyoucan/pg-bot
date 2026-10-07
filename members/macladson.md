@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 ## Contributions
 
+## Q4 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Split up EF tests to run each preset separately](https://github.com/sigp/lighthouse/pull/10237) - 2026-10-06
 ## Q3 2026
 
 

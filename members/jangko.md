@@ -24,6 +24,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 * [Review] [Review on: Bump njs: Format version = 1](https://github.com/status-im/nimbus-eth1/pull/4893#pullrequestreview-5406399646) - 2026-10-04
 * [Commit] [Bump njs: Format version = 1 (#4893)](https://github.com/status-im/nimbus-eth1/commit/9bcb713ce0a611233d11a24056b089ea25332cce) - 2026-10-04
+* [Review] [Review on: rpc: execute eth_call and eth_estimateGas in the context of the requested block](https://github.com/status-im/nimbus-eth1/pull/4912#pullrequestreview-5428241158) - 2026-10-06
+* [Review] [Review on: rpc: report eth_call execution failures as errors](https://github.com/status-im/nimbus-eth1/pull/4911#pullrequestreview-5428323611) - 2026-10-06
+* [Review] [Review on: Only copy deposit logs into vmState](https://github.com/status-im/nimbus-eth1/pull/4924#pullrequestreview-5437237662) - 2026-10-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

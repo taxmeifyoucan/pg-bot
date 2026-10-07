@@ -27,6 +27,10 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [test(evm): read the frame cache directly and share the cached/uncached observation (#14174)](https://github.com/NethermindEth/nethermind/commit/b60cca5fc72e16714ec65fdf5739a6f55b3b4648) - 2026-10-04
 * [Commit] [perf(evm): let SUB call UInt256.Subtract again now that it inlines (#14042)](https://github.com/NethermindEth/nethermind/commit/d22b6eb80aa2048e4bae33e3a227e89a0108255e) - 2026-10-05
 * [Commit] [perf(flat): skip the in-memory layers for slot reads that none of them has, in read-only execution (#14094)](https://github.com/NethermindEth/nethermind/commit/347d8319e2f1de3116a2321c6ed292c55fedbb4d) - 2026-10-05
+* [Review] [Review on: test(txpool): re-enable parallel nonce reservation test](https://github.com/NethermindEth/nethermind/pull/14298#pullrequestreview-5425099948) - 2026-10-06
+* [Review] [Review on: test(blockchain): make FileLocalDataSource retries_loading_file deterministic](https://github.com/NethermindEth/nethermind/pull/14303#pullrequestreview-5426798907) - 2026-10-06
+* [Review] [Review on: test(aura): wait for the produced block in AuRaBlockProducerTests instead of a fixed window](https://github.com/NethermindEth/nethermind/pull/14306#pullrequestreview-5426793673) - 2026-10-06
+* [Review] [Review on: fix(sync): stop old bodies and receipts progress overshooting the total on finish](https://github.com/NethermindEth/nethermind/pull/14286#pullrequestreview-5428795555) - 2026-10-06
 ## Q3 2026
 
 

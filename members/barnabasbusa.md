@@ -28,15 +28,32 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #882 from ethpandaops/bbusa/eip8198-slot-schedule](https://github.com/ethpandaops/dora/commit/83cdaa1e5277ac67d6eca079d18be011055a4022) - 2026-10-02
 * [Commit] [Merge remote-tracking branch 'origin/master' into bbusa/eip8198-slot-schedule](https://github.com/ethpandaops/dora/commit/cfcadc91fed0bbb5d1024ce49952587f927132ce) - 2026-10-02
 * [Review] [Review on: feat: index inclusion lists and resolve why transactions were omitted](https://github.com/ethpandaops/dora/pull/886#pullrequestreview-5414968175) - 2026-10-05
+* [Pull Request] [fix: subscribe to fork event streams one epoch before activation](https://github.com/ethpandaops/dora/pull/892) - 2026-10-06
+* [Pull Request] [fix: hide bid seen-by column for self-built bids](https://github.com/ethpandaops/dora/pull/891) - 2026-10-06
+* [Commit] [Merge pull request #892 from ethpandaops/bbusa/subscribe-fork-events-early](https://github.com/ethpandaops/dora/commit/b35f400d2df9a610a8d02f5c69db39d38d75b97b) - 2026-10-06
+* [Commit] [fix: subscribe to fork event streams one epoch before activation](https://github.com/ethpandaops/dora/commit/64fd5d5fc7b1d8a447762a3754697b8409bc3426) - 2026-10-06
+* [Commit] [Merge pull request #891 from ethpandaops/bbusa/hide-bid-seen-by-self-built](https://github.com/ethpandaops/dora/commit/2f374eb6794448281fd18cce7071ce97c17226c6) - 2026-10-06
+* [Commit] [fix: hide bid seen-by column for self-built bids](https://github.com/ethpandaops/dora/commit/6685acef7382065c4f1811bd04a527d99a2d77a4) - 2026-10-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
+* [Review] [Review on: Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442#pullrequestreview-5434683771) - 2026-10-06
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
 
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [fix: verify inclusion list signatures without batching](https://github.com/ChainSafe/lodestar/pull/10282) - 2026-10-06
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [feat: emit inclusion_list SSE event](https://github.com/sigp/lighthouse/pull/10228) - 2026-10-06
+* [Pull Request] [fix: produce inclusion lists in the first Heze slot](https://github.com/sigp/lighthouse/pull/10230) - 2026-10-06
 ## Q3 2026
 
 

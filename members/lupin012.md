@@ -43,6 +43,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: apply state overrides to every call in trace_callMany (#24567)](https://github.com/erigontech/erigon/commit/96188a47395eb2a1f95e49d2c939f08fa15d66c7) - 2026-10-05
 * [Commit] [execution/vm, rpc/jsonrpc: list EIP-8024 operations that halt in execute in vmTrace (#24560)](https://github.com/erigontech/erigon/commit/f18801810e8e9ec14c79646c4620378a3dff905c) - 2026-10-05
 * [Commit] [rpc/jsonrpc: reject trace_rawTransaction gas limit above the RPC gas cap (#24564)](https://github.com/erigontech/erigon/commit/81a1fbc87519c4f4f52dbaa4f67d531b96c59c43) - 2026-10-05
+* [Review] [Review on: rpc: a notification gets no reply, not an empty frame or a streamed result](https://github.com/erigontech/erigon/pull/24461#pullrequestreview-5434361222) - 2026-10-06
+* [Review] [Review on: cmd/rpcdaemon/graphql: resolve block.parent to the parent block](https://github.com/erigontech/erigon/pull/24466#pullrequestreview-5434252593) - 2026-10-06
+* [Review] [Review on: execution/tracing: add remaining geth flat call tracer fixtures and share the fixture runner](https://github.com/erigontech/erigon/pull/24596#pullrequestreview-5431296726) - 2026-10-06
+* [Commit] [ChangeLog: add breaking-change entry for #24487 (#24597)](https://github.com/erigontech/erigon/commit/a69eeec42f6339125a4bd1c276e966a348a4a19a) - 2026-10-07
+* [Commit] [execution/tracing: add remaining geth flat call tracer fixtures and share the fixture runner (#24596)](https://github.com/erigontech/erigon/commit/dc36553a8a7bbd09d51a713bbcce64d6e3c6c27b) - 2026-10-06
+* [Commit] [rpc/jsonrpc: return -32001 for an unknown block in trace_block and trace_replayBlockTransactions (#24598)](https://github.com/erigontech/erigon/commit/b8c104115060e2ab297ffddc734c1b01385eb6bf) - 2026-10-06
+* [Commit] [rpc/jsonrpc: graphql Call builds the state reader from the already resolved block (#24595)](https://github.com/erigontech/erigon/commit/7996d082df2dc533fce4ffa2bc417b774e50f8a6) - 2026-10-06
+* [Commit] [execution/execmodule: detach the block overlay when validation finds a bad block (#24561)](https://github.com/erigontech/erigon/commit/f4416e17c4ec01a2bf529377583f7f4faea1b7f8) - 2026-10-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

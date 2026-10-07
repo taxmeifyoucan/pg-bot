@@ -19,6 +19,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: discount empty slot support by fork choice node](https://github.com/ChainSafe/lodestar/pull/10211#pullrequestreview-5412213588) - 2026-10-05
 * [Review] [Review on: chore: update stale pruning note in payload envelope seen cache doc](https://github.com/ChainSafe/lodestar/pull/10253#pullrequestreview-5414642433) - 2026-10-05
 * [Commit] [fix: discount empty slot support by fork choice node (#10211)](https://github.com/ChainSafe/lodestar/commit/4c3db96e92eb8d49bda38ff10494df86d1c12ae4) - 2026-10-06
+* [Review] [Review on: test: enable is_one_confirmed deposit vectors](https://github.com/ChainSafe/lodestar/pull/9917#pullrequestreview-5428902967) - 2026-10-06
+* [Review] [Review on: fix: reject range sync envelopes whose block hash does not match the bid](https://github.com/ChainSafe/lodestar/pull/10251#pullrequestreview-5429080095) - 2026-10-06
+* [Review] [Review on: fix: prevent unknown block sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10250#pullrequestreview-5428684633) - 2026-10-06
+* [Review] [Review on: fix: report builder circuit breaker as block selection reason](https://github.com/ChainSafe/lodestar/pull/10254#pullrequestreview-5428601059) - 2026-10-06
+* [Review] [Review on: fix: prevent range sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10249#pullrequestreview-5426375207) - 2026-10-06
+* [Review] [Review on: test: require exact Gloas viable heads in spec runner](https://github.com/ChainSafe/lodestar/pull/10156#pullrequestreview-5425708823) - 2026-10-06
+* [Commit] [test: enable is_one_confirmed deposit vectors (#9917)](https://github.com/ChainSafe/lodestar/commit/67e2b54129862030d2d4f38fbe1c4847bbae3b40) - 2026-10-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

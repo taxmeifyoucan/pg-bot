@@ -18,6 +18,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(cannon): add Gloas beacon state derivers (#895)](https://github.com/ethpandaops/xatu/commit/3e95e6c4457abbe4b9fc44b69760162f9ac2743e) - 2026-10-01
 * [Commit] [feat(cannon): Gloas builder execution requests and per-block BAL summary derivers (#894)](https://github.com/ethpandaops/xatu/commit/2f1b1908615b7b3d4f08c2c972063f5f751f56a7) - 2026-10-01
 * [Commit] [fix(cannon): stream block access list epochs in bounded batches (#893)](https://github.com/ethpandaops/xatu/commit/4af83a8977405f9c00966608d534aaf848f631fb) - 2026-10-01
+* [Pull Request] [fix(server): accept Gloas validator blocks](https://github.com/ethpandaops/xatu/pull/901) - 2026-10-07
+* [Pull Request] [fix(cannon): EL ceiling and blob sidecars for Gloas blocks](https://github.com/ethpandaops/xatu/pull/897) - 2026-10-07
+* [Pull Request] [feat(clmimicry): accept Gloas gossip blocks and aggregates](https://github.com/ethpandaops/xatu/pull/898) - 2026-10-07
+* [Pull Request] [feat(sentry): produce Gloas blocks over v4](https://github.com/ethpandaops/xatu/pull/899) - 2026-10-07
+* [Commit] [fix(server): accept Gloas validator blocks (#901)](https://github.com/ethpandaops/xatu/commit/81d3b324b736753358e24e591759179841be63cd) - 2026-10-07
+* [Commit] [feat(sentry): produce Gloas blocks over v4 (#899)](https://github.com/ethpandaops/xatu/commit/92d84c4efd733083c8d6a368c0c42737f8952c8a) - 2026-10-07
+* [Commit] [feat(clmimicry): accept Gloas gossip blocks and aggregates (#898)](https://github.com/ethpandaops/xatu/commit/75a10b0575570d7c5e6280e4b04b524059745c5e) - 2026-10-07
+* [Commit] [fix(cannon): EL ceiling and blob sidecars for Gloas blocks (#897)](https://github.com/ethpandaops/xatu/commit/f468ae46b7ff09662609ff03ef89808119888703) - 2026-10-07
 ## Q3 2026
 
 

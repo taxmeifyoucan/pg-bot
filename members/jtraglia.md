@@ -14,6 +14,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Review] [Review on: Bump the actions group with 4 updates](https://github.com/ethereum/c-kzg-4844/pull/669#pullrequestreview-5385263871) - 2026-10-01
 
+* [Review] [Review on: Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672#pullrequestreview-5433059262) - 2026-10-06
+* [Review] [Review on: feat: bump to zig 0.17.0](https://github.com/ethereum/c-kzg-4844/pull/670#pullrequestreview-5431114374) - 2026-10-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `equivocation_delay` mutation to fork choice compliance tests](https://github.com/ethereum/consensus-specs/pull/5572#pullrequestreview-5384570618) - 2026-10-01
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5383002772) - 2026-10-01
@@ -22,6 +24,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Build gas limit bid tests with matching head block bid](https://github.com/ethereum/consensus-specs/pull/5709) - 2026-10-02
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5711#pullrequestreview-5419129187) - 2026-10-05
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5419122012) - 2026-10-05
+* [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5433764334) - 2026-10-06
+* [Pull Request] [Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717) - 2026-10-06
+* [Review] [Review on: Add EIP-8015 to Heze](https://github.com/ethereum/consensus-specs/pull/5655#pullrequestreview-5429858249) - 2026-10-06
+* [Review] [Review on: Bump version to v1.7.0-beta.4](https://github.com/ethereum/consensus-specs/pull/5716#pullrequestreview-5430290393) - 2026-10-06
+* [Review] [Review on: Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710#pullrequestreview-5430070044) - 2026-10-06
+* [Review] [Review on: Remove release tags of EIPs included in a fork](https://github.com/ethereum/consensus-specs/pull/5715#pullrequestreview-5429837771) - 2026-10-06
+* [Review] [Review on: Add EIP-8365 to Heze](https://github.com/ethereum/consensus-specs/pull/5713#pullrequestreview-5428822831) - 2026-10-06
+* [Review] [Review on: Standardize shorthands in comprehensions](https://github.com/ethereum/consensus-specs/pull/5714#pullrequestreview-5429166781) - 2026-10-06
+* [Commit] [Build gas limit bid tests with matching head block bid (#5709)](https://github.com/ethereum/consensus-specs/commit/c489a99077c16bad7d75053257c50633d12d314d) - 2026-10-06
 ## Q3 2026
 
 

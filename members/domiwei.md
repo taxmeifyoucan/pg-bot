@@ -18,6 +18,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/phase1/stages: pace chain tip block request retries](https://github.com/erigontech/erigon/pull/24513) - 2026-10-02
 * [Pull Request] [cl/beacon/handler: use the Fulu inclusion proof depth for published data column sidecars](https://github.com/erigontech/erigon/pull/24512) - 2026-10-02
 * [Review] [Review on: cl/beacon/handler: write validators response after releasing the head state](https://github.com/erigontech/erigon/pull/24450#pullrequestreview-5389230720) - 2026-10-02
+* [Pull Request] [cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629) - 2026-10-06
+* [Pull Request] [cl, execution: fix two causes of a stall after a Caplin restart](https://github.com/erigontech/erigon/pull/24628) - 2026-10-06
+* [Pull Request] [cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24627) - 2026-10-06
 ## Q3 2026
 
 

@@ -11,6 +11,17 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5412862391) - 2026-10-05
+* [Review] [Review on: Add EIP-8015 to Heze](https://github.com/ethereum/consensus-specs/pull/5655#pullrequestreview-5430970757) - 2026-10-06
+* [Pull Request] [Bump version to v1.7.0-beta.4](https://github.com/ethereum/consensus-specs/pull/5716) - 2026-10-06
+* [Pull Request] [Remove release tags of EIPs included in a fork](https://github.com/ethereum/consensus-specs/pull/5715) - 2026-10-06
+* [Pull Request] [Add EIP-8365 to Heze](https://github.com/ethereum/consensus-specs/pull/5713) - 2026-10-06
+* [Review] [Review on: Add EIP-8365 to Heze](https://github.com/ethereum/consensus-specs/pull/5713#pullrequestreview-5428545122) - 2026-10-06
+* [Pull Request] [Standardize shorthands in comprehensions](https://github.com/ethereum/consensus-specs/pull/5714) - 2026-10-06
+* [Commit] [Add EIP-8015 to Heze (#5655)](https://github.com/ethereum/consensus-specs/commit/fc64cec037058aa763d81e9f9698fe448d2abf97) - 2026-10-06
+* [Commit] [Bump version to v1.7.0-beta.4 (#5716)](https://github.com/ethereum/consensus-specs/commit/5167d9a392dbcfab96faa4c7517440f94149eee8) - 2026-10-06
+* [Commit] [Remove release tags of EIPs included in a fork (#5715)](https://github.com/ethereum/consensus-specs/commit/d73d91b598af851138f4b405e9dd39dc64b00191) - 2026-10-06
+* [Commit] [Add EIP-8365 to Heze (#5713)](https://github.com/ethereum/consensus-specs/commit/d94010d25e4a6639a608a80349c83af74192b656) - 2026-10-06
+* [Commit] [Standardize shorthands in comprehensions (#5714)](https://github.com/ethereum/consensus-specs/commit/ef251c0f436f2f4f1d64e531a8b3edab245300a3) - 2026-10-06
 ## Q3 2026
 
 

@@ -19,6 +19,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Update CHANGELOG.md for v7.2.1](https://github.com/OffchainLabs/prysm/pull/17624#pullrequestreview-5420364224) - 2026-10-05
 * [Pull Request] [Remove .bzl CODEOWNER requirements](https://github.com/OffchainLabs/prysm/pull/17621) - 2026-10-05
 * [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5418767879) - 2026-10-05
+* [Review] [Review on: Remove unneeded ticker stops](https://github.com/OffchainLabs/prysm/pull/17631#pullrequestreview-5432704756) - 2026-10-06
+* [Review] [Review on: Remove `BeaconState` proto message](https://github.com/OffchainLabs/prysm/pull/17535#pullrequestreview-5430224746) - 2026-10-06
+* [Commit] [Remove .bzl CODEOWNER requirements (#17621)](https://github.com/OffchainLabs/prysm/commit/2ddd9275b2769d4eb772cc8d82634de4f3f04ab6) - 2026-10-06
 ## Q3 2026
 
 

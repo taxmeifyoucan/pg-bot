@@ -22,6 +22,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Fix payload production in the first Gloas block (#17610)](https://github.com/OffchainLabs/prysm/commit/0084c14ce837d5f0ee91cb5dd4c34435e2040f07) - 2026-10-02
 * [Commit] [Use EL validation instead of Forkchoice for optimistic status of incoming payload (#17600)](https://github.com/OffchainLabs/prysm/commit/353f24dfa2c4c6a10a37c936275a04509f1000ac) - 2026-10-02
 * [Commit] [Do not use background context in upgradeToGloas (#17608)](https://github.com/OffchainLabs/prysm/commit/517ffc16a78bef55938e0da5338d51836ceb245f) - 2026-10-02
+* [Pull Request] [Remove unneeded ticker stops](https://github.com/OffchainLabs/prysm/pull/17631) - 2026-10-06
+* [Review] [Review on: request bid in parallel with the local bid](https://github.com/OffchainLabs/prysm/pull/17607#pullrequestreview-5431730159) - 2026-10-06
+* [Commit] [Remove unneeded ticker stops (#17631)](https://github.com/OffchainLabs/prysm/commit/a7cac0741fb68681572afd77b6ef76b8ee83814e) - 2026-10-06
+* [Commit] [request bid in parallel with the local bid (#17607)](https://github.com/OffchainLabs/prysm/commit/6eb4c86ed1b70f54183c6feb6f0d2855b434a957) - 2026-10-06
 ## Q3 2026
 
 

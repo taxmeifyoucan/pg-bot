@@ -31,6 +31,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: request the whole range sync batch again after a processing error](https://github.com/ChainSafe/lodestar/pull/10266#pullrequestreview-5414288517) - 2026-10-05
 * [Pull Request] [feat: persist earliest available slot](https://github.com/ChainSafe/lodestar/pull/10267) - 2026-10-05
 * [Commit] [fix: optimize builder flows (#10263)](https://github.com/ChainSafe/lodestar/commit/023ad6c0129a75a9bbc798052b4fe9052b80bb77) - 2026-10-05
+* [Review] [Review on: fix: verify inclusion list signatures without batching](https://github.com/ChainSafe/lodestar/pull/10282#pullrequestreview-5436769517) - 2026-10-07
+* [Review] [Review on: feat: persist earliest available slot](https://github.com/ChainSafe/lodestar/pull/10267#pullrequestreview-5426882911) - 2026-10-06
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.3](https://github.com/ChainSafe/lodestar/pull/10280#pullrequestreview-5426191672) - 2026-10-06
+* [Pull Request] [fix: cache gossip blocks only after proposer signature verification](https://github.com/ChainSafe/lodestar/pull/10279) - 2026-10-06
+* [Review] [Review on: fix: cache gossip blocks only after proposer signature verification](https://github.com/ChainSafe/lodestar/pull/10279#pullrequestreview-5426050265) - 2026-10-06
 ## Q3 2026
 
 

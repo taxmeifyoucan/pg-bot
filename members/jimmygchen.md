@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fix nightly tests failing on phase0 and altair](https://github.com/sigp/lighthouse/pull/10200) - 2026-10-02
 
 * [Pull Request] [Report nightly test failures in GitHub issues](https://github.com/sigp/lighthouse/pull/10222) - 2026-10-06
+* [Issue] [Gloas bids built from `payload_attributes` are ignored when the PTC votes against a Full payload](https://github.com/sigp/lighthouse/issues/10226) - 2026-10-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
 ## Q3 2026

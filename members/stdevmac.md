@@ -30,6 +30,20 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(docgen): document trace_callMany wire parameter shape](https://github.com/NethermindEth/nethermind/pull/14236#pullrequestreview-5422320410) - 2026-10-06
 * [Review] [Review on: fix(eth_sendRawTransaction): return InvalidParams for malformed RLP](https://github.com/NethermindEth/nethermind/pull/12003#pullrequestreview-5422320040) - 2026-10-06
 * [Review] [Review on: fix: shorten validator exit and withdrawability delays in assertoor config](https://github.com/NethermindEth/nethermind/pull/10980#pullrequestreview-5422319658) - 2026-10-06
+* [Review] [Review on: fix(docgen): document wire shape of parity trace actions and simulate results](https://github.com/NethermindEth/nethermind/pull/14293#pullrequestreview-5424461387) - 2026-10-06
+* [Review] [Review on: fix(wallet): reject an unavailable BlockAuthorAccount signing key](https://github.com/NethermindEth/nethermind/pull/14290#pullrequestreview-5424458898) - 2026-10-06
+* [Pull Request] [feat(healthchecks): link consensus client docs in the no-ForkChoices warning](https://github.com/NethermindEth/nethermind/pull/14309) - 2026-10-06
+* [Pull Request] [test(blockchain): make FileLocalDataSource retries_loading_file deterministic](https://github.com/NethermindEth/nethermind/pull/14303) - 2026-10-06
+* [Pull Request] [test(aura): wait for the produced block in AuRaBlockProducerTests instead of a fixed window](https://github.com/NethermindEth/nethermind/pull/14306) - 2026-10-06
+* [Review] [Review on: test(aura): wait for the produced block in AuRaBlockProducerTests instead of a fixed window](https://github.com/NethermindEth/nethermind/pull/14306#pullrequestreview-5424673395) - 2026-10-06
+* [Pull Request] [fix(producers): count only execution gas when ordering pool txs under EIP-8037](https://github.com/NethermindEth/nethermind/pull/14304) - 2026-10-06
+* [Review] [Review on: fix(flat): warn when snap sync discards existing flat state and time the wipe](https://github.com/NethermindEth/nethermind/pull/14297#pullrequestreview-5424570429) - 2026-10-06
+* [Review] [Review on: fix(sync): stop old bodies and receipts progress overshooting the total on finish](https://github.com/NethermindEth/nethermind/pull/14286#pullrequestreview-5430897432) - 2026-10-06
+* [Pull Request] [feat(sync): report snap healing progress as its own phase without the full state percentage](https://github.com/NethermindEth/nethermind/pull/14308) - 2026-10-06
+* [Pull Request] [test(sync): cover moving sync pivot in MultiSyncModeSelector scenarios](https://github.com/NethermindEth/nethermind/pull/14310) - 2026-10-06
+* [Review] [Review on: test(sync): cover moving sync pivot in MultiSyncModeSelector scenarios](https://github.com/NethermindEth/nethermind/pull/14310#pullrequestreview-5426928921) - 2026-10-06
+* [Pull Request] [fix(rpc): preserve runtime metadata probe frames for coverage checks](https://github.com/NethermindEth/nethermind/pull/14384) - 2026-10-07
+* [Issue] [Block access lists sync scans back to genesis after Amsterdam fork (barrier defaults to 1), slowing synced nodes](https://github.com/NethermindEth/nethermind/issues/14334) - 2026-10-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

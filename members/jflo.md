@@ -14,6 +14,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Bump plugin API baseline to 26.9.0 (#11377)](https://github.com/besu-eth/besu/commit/c5ef77bae4e15d2c1b27d7ee98a70b1ab984a882) - 2026-10-02
 * [Commit] [proposed update to user guidance on security issues (#11239)](https://github.com/besu-eth/besu/commit/af361cf305ad2a6d35e067e7b1bf41cf6c5534ab) - 2026-10-01
+* [Pull Request] [ci: run the full suite on merge_group so main can use a merge queue](https://github.com/besu-eth/besu/pull/11494) - 2026-10-06
+* [Review] [Review on: Enable NullAway for crypto services](https://github.com/besu-eth/besu/pull/10935#pullrequestreview-5430069857) - 2026-10-06
+* [Commit] [Enable NullAway for crypto services (#10935)](https://github.com/besu-eth/besu/commit/70fc66e369bd3f9ef6648652965fc408b21efda5) - 2026-10-06
+* [Commit] [Merge branch 'main' into feat/nullaway-crypto-services](https://github.com/besu-eth/besu/commit/79717150456ce091369709211ca1bb8b49986ec5) - 2026-10-06
 ## Q3 2026
 
 

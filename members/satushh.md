@@ -14,6 +14,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Derive late-block reorg timing from PROPOSER_REORG_CUTOFF_BPS](https://github.com/OffchainLabs/prysm/pull/17594) - 2026-10-01
 * [Review] [Review on: Fix payload production in the first Gloas block](https://github.com/OffchainLabs/prysm/pull/17610#pullrequestreview-5394412518) - 2026-10-02
 * [Pull Request] [Limit Gloas payload envelope validation work](https://github.com/OffchainLabs/prysm/pull/17612) - 2026-10-02
+* [Review] [Review on: request bid in parallel with the local bid](https://github.com/OffchainLabs/prysm/pull/17607#pullrequestreview-5432383090) - 2026-10-06
 ## Q3 2026
 
 

@@ -13,6 +13,9 @@ Team: Reth
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(evm): support context and shared dispatch for native calls](https://github.com/paradigmxyz/reth/pull/27642) - 2026-10-01
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026
 
 

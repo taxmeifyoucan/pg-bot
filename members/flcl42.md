@@ -22,8 +22,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Verify EIP-1459 tree root signature in DNS discovery](https://github.com/NethermindEth/nethermind/pull/14183#pullrequestreview-5394638018) - 2026-10-02
 * [Commit] [Honor discv4 Ping forward compatibility (#14151)](https://github.com/NethermindEth/nethermind/commit/2db6830e1e0fe9e7f9515306a0fe5462c40df6e1) - 2026-10-02
 
+* [Commit] [Resolve SSZ REST forks for chainspec networks (#14302)](https://github.com/NethermindEth/nethermind/commit/f4605b584504da6f39309de073833ecde38e0323) - 2026-10-06
+* [Commit] [Retain verified ENRs for mismatched signed PING endpoints (#14277)](https://github.com/NethermindEth/nethermind/commit/88a089a125bffc73fd4a5b2950e28baf689de6cb) - 2026-10-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 ## Q3 2026
 
 

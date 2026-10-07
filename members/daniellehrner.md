@@ -32,6 +32,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Measure in sync status against the engine payload head (#11424)](https://github.com/besu-eth/besu/commit/8a84928d87648bfd741a77035da12ba68fbeecad) - 2026-10-02
 * [Commit] [Make every method advertised by engine_exchangeCapabilities callable (#11425)](https://github.com/besu-eth/besu/commit/77d67eb16fb256090030c2f5d1631b0d76fd3222) - 2026-10-02
 * [Pull Request] [Add AND, OR, XOR and NOT to EVM v2](https://github.com/besu-eth/besu/pull/11477) - 2026-10-05
+* [Pull Request] [Check the flat database ranges of the snap sync heal in parallel](https://github.com/besu-eth/besu/pull/11495) - 2026-10-06
+* [Review] [Review on: Setup Bogotá hardfork](https://github.com/besu-eth/besu/pull/11431#pullrequestreview-5425558097) - 2026-10-06
+* [Review] [Review on: Publish the jump destination analysis safely](https://github.com/besu-eth/besu/pull/11403#pullrequestreview-5425508101) - 2026-10-06
+* [Review] [Review on: Fix stale MessageFrame javadoc: same-tx SELFDESTRUCT does not refund state gas](https://github.com/besu-eth/besu/pull/11471#pullrequestreview-5425214165) - 2026-10-06
+* [Pull Request] [Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482) - 2026-10-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

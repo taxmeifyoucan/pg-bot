@@ -20,6 +20,22 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Settle builder payment before parent requests and sweep remaining builder balance](https://github.com/Consensys-Incorporated/teku/pull/11408) - 2026-10-05
 * [Issue] [Support for consensus-spec beta.3](https://github.com/Consensys-Incorporated/teku/issues/11409) - 2026-10-05
 * [Issue] [Settle builder payment before parent requests](https://github.com/Consensys-Incorporated/teku/issues/11405) - 2026-10-05
+* [Pull Request] [Fix progressive ssz loadstore by preserving last chunk size](https://github.com/Consensys-Incorporated/teku/pull/11418) - 2026-10-06
+* [Pull Request] [Quic-only enr acceptance](https://github.com/Consensys-Incorporated/teku/pull/11432) - 2026-10-06
+* [Issue] [Peer selection improvements (tracking issue)](https://github.com/Consensys-Incorporated/teku/issues/11419) - 2026-10-06
+* [Issue] [Discovery drops QUIC-only ENRs, including the ones Teku itself produces](https://github.com/Consensys-Incorporated/teku/issues/11420) - 2026-10-06
+* [Issue] [Teku advertises a TCP port in its ENR when TCP is disabled](https://github.com/Consensys-Incorporated/teku/issues/11431) - 2026-10-06
+* [Issue] [Selection and dial diagnostics: outcomes, candidate inventory, eligible coverage](https://github.com/Consensys-Incorporated/teku/issues/11430) - 2026-10-06
+* [Issue] [New peers are evaluated for eviction before their subscriptions can arrive](https://github.com/Consensys-Incorporated/teku/issues/11428) - 2026-10-06
+* [Issue] [Batch eviction can remove all coverage of a subnet](https://github.com/Consensys-Incorporated/teku/issues/11426) - 2026-10-06
+* [Issue] [Peer selection re-selects candidates whose dial is still pending](https://github.com/Consensys-Incorporated/teku/issues/11422) - 2026-10-06
+* [Issue] [Peer selection picks candidates the local node has no transport to dial](https://github.com/Consensys-Incorporated/teku/issues/11421) - 2026-10-06
+* [Issue] [Subnet coverage counts peers the gossip layer will not publish to](https://github.com/Consensys-Incorporated/teku/issues/11429) - 2026-10-06
+* [Issue] [Eviction decisions are not diagnosable from the logs](https://github.com/Consensys-Incorporated/teku/issues/11427) - 2026-10-06
+* [Issue] [Peer selection counts peers that are already disconnecting](https://github.com/Consensys-Incorporated/teku/issues/11425) - 2026-10-06
+* [Issue] [Discovery can offer the same peer twice to selection](https://github.com/Consensys-Incorporated/teku/issues/11424) - 2026-10-06
+* [Issue] [Static peers can lose their pool membership to discovery selection bookkeeping](https://github.com/Consensys-Incorporated/teku/issues/11423) - 2026-10-06
+* [Commit] [Settle builder payment before parent requests and sweep remaining builder balance (#11408)](https://github.com/Consensys-Incorporated/teku/commit/0b70053d1a43d6855e581c285c3a6de4e97f391a) - 2026-10-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

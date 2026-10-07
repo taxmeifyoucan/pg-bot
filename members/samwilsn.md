@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Sam Wilson from membership list](https://github.com/protocolguild/documentation/pull/563) - 2026-10-06
 ## Q3 2026
 
 

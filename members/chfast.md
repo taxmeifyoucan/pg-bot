@@ -24,6 +24,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 * [Pull Request] [execution/vm: count JUMPDEST cache bitmap size in bytes](https://github.com/erigontech/erigon/pull/24578) - 2026-10-05
 * [Review] [Review on: execution/state: refreshCode returns accounts.Code](https://github.com/erigontech/erigon/pull/24430#pullrequestreview-5412353231) - 2026-10-05
+* [Pull Request] [execution/state, execution/tests: restore newlyCreated for accounts created in the tx](https://github.com/erigontech/erigon/pull/24624) - 2026-10-06
+* [Pull Request] [execution/state: look up the dirty set once in reconstructCellFlags](https://github.com/erigontech/erigon/pull/24625) - 2026-10-06
+* [Pull Request] [execution/state: attribute the SelfDestructPath=false write to CreateAccount](https://github.com/erigontech/erigon/pull/24621) - 2026-10-06
+* [Commit] [execution/state, execution/tests: restore newlyCreated for accounts created in the tx (#24624)](https://github.com/erigontech/erigon/commit/e15cca7be9cd40238b24002a13490df924b8412a) - 2026-10-07
+* [Commit] [execution/state: refreshCode returns accounts.Code (#24430)](https://github.com/erigontech/erigon/commit/2261146ec1a3007c4ba6ac072e463934db912c60) - 2026-10-07
+* [Commit] [execution/vm: count JUMPDEST cache bitmap size in bytes (#24578)](https://github.com/erigontech/erigon/commit/0ce232fdd049f241449fe6683d138e4ec55ce81c) - 2026-10-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -32,6 +38,17 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Implement EIP-8037 transaction gas limit cap](https://github.com/ipsilon/evmone/pull/1744) - 2026-10-05
 * [Pull Request] [state: Revert a failed block-start system call](https://github.com/ipsilon/evmone/pull/1745) - 2026-10-05
 * [Commit] [Implement EIP-2780: "Resource-based intrinsic transaction gas" (#1733)](https://github.com/ipsilon/evmone/commit/9c6f891709c9fe983a2bf552bbf64c8da69e9fde) - 2026-10-05
+* [Pull Request] [state: Use designated initializers for the transaction context](https://github.com/ipsilon/evmone/pull/1749) - 2026-10-06
+* [Pull Request] [state: Fix comments of the transaction gas accounting](https://github.com/ipsilon/evmone/pull/1748) - 2026-10-06
+* [Pull Request] [Implement EIP-8282: "Builder Execution Requests"](https://github.com/ipsilon/evmone/pull/1747) - 2026-10-06
+* [Pull Request] [ci: Run only the tests@v21.0.0 execution-specs tests](https://github.com/ipsilon/evmone/pull/1746) - 2026-10-06
+* [Issue] [state: Don't load a storage slot whose cold access is not paid](https://github.com/ipsilon/evmone/issues/1750) - 2026-10-06
+* [Commit] [state: Use designated initializers for the transaction context (#1749)](https://github.com/ipsilon/evmone/commit/937d4530c7bb4c6f37eb88e1e0f9e2ce79479dc9) - 2026-10-06
+* [Commit] [state: Fix comments of the transaction gas accounting (#1748)](https://github.com/ipsilon/evmone/commit/df9578652bd117d242d2599ab9d37ccbb6ab6709) - 2026-10-06
+* [Commit] [Implement EIP-8282: "Builder Execution Requests" (#1747)](https://github.com/ipsilon/evmone/commit/b47bdefc1484c7b458b856c61c7c6210645868ce) - 2026-10-06
+* [Commit] [state: Revert a failed block-start system call (#1745)](https://github.com/ipsilon/evmone/commit/fd502791c6aeef32ab24aaa3101795577c990069) - 2026-10-06
+* [Commit] [Implement EIP-8037 transaction gas limit limit (#1744)](https://github.com/ipsilon/evmone/commit/25193cba2363fc8da7748a1c6b268ae6ff09a0cc) - 2026-10-06
+* [Commit] [ci: Run only the tests@v21.0.0 execution-specs tests (#1746)](https://github.com/ipsilon/evmone/commit/ffd3a311fa39c15c599eb9d64389497b35904c97) - 2026-10-06
 ## Q3 2026
 
 

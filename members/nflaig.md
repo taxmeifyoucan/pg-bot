@@ -81,6 +81,28 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: settle builder payment before processing parent execution requests (#10180)](https://github.com/ChainSafe/lodestar/commit/a876bac1da2d1a52330eb79116fa0d1268946caf) - 2026-10-05
 * [Commit] [fix: request the whole range sync batch again after a processing error (#10266)](https://github.com/ChainSafe/lodestar/commit/408017a9db464e9141c2ca85340717068c9f1a10) - 2026-10-05
 * [Commit] [chore: update stale pruning note in payload envelope seen cache doc (#10253)](https://github.com/ChainSafe/lodestar/commit/d99080f29a567b7b1e83850ca19d662977d7c304) - 2026-10-05
+* [Review] [Review on: fix: populate proposal shufflings before packing attestations](https://github.com/ChainSafe/lodestar/pull/10285#pullrequestreview-5435204088) - 2026-10-06
+* [Review] [Review on: test: follow current head slot in sync waits](https://github.com/ChainSafe/lodestar/pull/10237#pullrequestreview-5435597488) - 2026-10-06
+* [Review] [Review on: chore: warn on conflicting execution payload envelope retries](https://github.com/ChainSafe/lodestar/pull/10288#pullrequestreview-5435299047) - 2026-10-06
+* [Review] [Review on: feat: optionally persist produced execution payload envelopes](https://github.com/ChainSafe/lodestar/pull/10287#pullrequestreview-5435277564) - 2026-10-06
+* [Review] [Review on: refactor: make slot timing fork-aware to prepare for slot duration changes](https://github.com/ChainSafe/lodestar/pull/10138#pullrequestreview-5435173333) - 2026-10-06
+* [Review] [Review on: refactor: remove obsolete builder voluntary exit signatures](https://github.com/ChainSafe/lodestar/pull/10286#pullrequestreview-5434475762) - 2026-10-06
+* [Review] [Review on: test: enable is_one_confirmed deposit vectors](https://github.com/ChainSafe/lodestar/pull/9917#pullrequestreview-5428850403) - 2026-10-06
+* [Review] [Review on: fix: serve archived genesis state by root](https://github.com/ChainSafe/lodestar/pull/10277#pullrequestreview-5434783265) - 2026-10-06
+* [Review] [Review on: feat: add endpoint to get proposer preferences](https://github.com/ChainSafe/lodestar/pull/10255#pullrequestreview-5427378031) - 2026-10-06
+* [Pull Request] [chore: log native state transition option on startup](https://github.com/ChainSafe/lodestar/pull/10281) - 2026-10-06
+* [Review] [Review on: chore: log native state transition option on startup](https://github.com/ChainSafe/lodestar/pull/10281#pullrequestreview-5429053390) - 2026-10-06
+* [Review] [Review on: feat: emit PTC quorum changes from fork choice](https://github.com/ChainSafe/lodestar/pull/10274#pullrequestreview-5426786618) - 2026-10-06
+* [Pull Request] [chore: update consensus specs to v1.7.0-beta.3](https://github.com/ChainSafe/lodestar/pull/10280) - 2026-10-06
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.3](https://github.com/ChainSafe/lodestar/pull/10280#pullrequestreview-5425842595) - 2026-10-06
+* [Review] [Review on: fix: cache gossip blocks only after proposer signature verification](https://github.com/ChainSafe/lodestar/pull/10279#pullrequestreview-5426012378) - 2026-10-06
+* [Commit] [feat: add endpoint to get proposer preferences (#10255)](https://github.com/ChainSafe/lodestar/commit/01cc10ce70bc3c6cd3f6d6169a740330f5882f3d) - 2026-10-06
+* [Commit] [fix: retry rate-limited peers after a sync chain restart (#10252)](https://github.com/ChainSafe/lodestar/commit/773f874b0557bd10e16199c35adaab4c1290f056) - 2026-10-06
+* [Commit] [chore: log native state transition option on startup (#10281)](https://github.com/ChainSafe/lodestar/commit/0af9fb2c02a944df47a60a5f1fb9a91accdb2c19) - 2026-10-06
+* [Commit] [fix: report builder circuit breaker as block selection reason (#10254)](https://github.com/ChainSafe/lodestar/commit/c04a49931158fc0080ab3685156df19056576f6d) - 2026-10-06
+* [Commit] [fix: prevent range sync stall when rate limit backoff expires (#10249)](https://github.com/ChainSafe/lodestar/commit/622c8d36bcb825a82e2e39e53bd7aa035f303ca6) - 2026-10-06
+* [Commit] [chore: update consensus specs to v1.7.0-beta.3 (#10280)](https://github.com/ChainSafe/lodestar/commit/15ca1827f4e7f61fd4b91106e67285493a6653dc) - 2026-10-06
+* [Commit] [test: require exact Gloas viable heads in spec runner (#10156)](https://github.com/ChainSafe/lodestar/commit/2c73e626787005b5443bca00d593d87790438f21) - 2026-10-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

@@ -39,6 +39,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Return "to": null for contract-creation transactions](https://github.com/besu-eth/besu/pull/11434#pullrequestreview-5422524958) - 2026-10-06
 * [Review] [Review on: Accept a block hash in eth_estimateGas and eth_createAccessList](https://github.com/besu-eth/besu/pull/11380#pullrequestreview-5422662361) - 2026-10-06
 * [Issue] [unsafeStoreHeader and unsafeSetChainHead publish chain head state before storage commit](https://github.com/besu-eth/besu/issues/11480) - 2026-10-06
+* [Pull Request] [Log client-initiated engine connection closes at WARN, not ERROR](https://github.com/besu-eth/besu/pull/11500) - 2026-10-07
+* [Pull Request] [remove deprecated --Xsnapsync-synchronizer-pivot-block-distance-before-caching](https://github.com/besu-eth/besu/pull/11499) - 2026-10-07
+* [Review] [Review on: Enable NullAway for services key-value storage](https://github.com/besu-eth/besu/pull/10948#pullrequestreview-5424521608) - 2026-10-06
+* [Review] [Review on: Fix ephemery synchronization and fork schedule handling issue](https://github.com/besu-eth/besu/pull/11497#pullrequestreview-5436631887) - 2026-10-07
+* [Pull Request] [ci: use BuildKit cache mode=min to reduce GHA cache usage](https://github.com/besu-eth/besu/pull/11498) - 2026-10-06
+* [Review] [Review on: Accept a block hash in eth_estimateGas and eth_createAccessList](https://github.com/besu-eth/besu/pull/11380#pullrequestreview-5435772841) - 2026-10-06
+* [Review] [Review on: Enable NullAway for Ethereum EVM tool](https://github.com/besu-eth/besu/pull/10963#pullrequestreview-5424474859) - 2026-10-06
+* [Review] [Review on: Enable NullAway for RocksDB plugin](https://github.com/besu-eth/besu/pull/10964#pullrequestreview-5424465467) - 2026-10-06
+* [Review] [Review on: Enable NullAway for crypto algorithms](https://github.com/besu-eth/besu/pull/10952#pullrequestreview-5424454903) - 2026-10-06
+* [Review] [Review on: Enable NullAway for services pipeline](https://github.com/besu-eth/besu/pull/10947#pullrequestreview-5424484817) - 2026-10-06
+* [Review] [Review on: Enable NullAway for crypto services](https://github.com/besu-eth/besu/pull/10935#pullrequestreview-5424449862) - 2026-10-06
+* [Commit] [remove deprecated --Xsnapsync-synchronizer-pivot-block-distance-before-caching (#11499)](https://github.com/besu-eth/besu/commit/e745c269f957aa0861ffaaf8e1090a4680017f8f) - 2026-10-07
+* [Commit] [ci: use BuildKit cache mode=min to reduce GHA cache usage (#11498)](https://github.com/besu-eth/besu/commit/26045f4d74af0e2e8ad288020e50d301138354ad) - 2026-10-07
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

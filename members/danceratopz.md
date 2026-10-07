@@ -17,6 +17,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tooling): add consume-hive skill](https://github.com/ethereum/execution-specs/pull/3612#pullrequestreview-5378297335) - 2026-10-01
 * [Issue] [CI fails on PRs into eips/amsterdam/eip-8141 because Bogota has no spec fork](https://github.com/ethereum/execution-specs/issues/3684) - 2026-10-01
 * [Commit] [feat(tooling): add consume-hive skill (#3612)](https://github.com/ethereum/execution-specs/commit/8667dacd68b65e0a80d548bd8ae81dc0e5b7b2b7) - 2026-10-01
+* [Review] [Review on: feat(test-fill): make engine_x fixtures consumable via devp2p sync](https://github.com/ethereum/execution-specs/pull/3364#pullrequestreview-5437341781) - 2026-10-07
+* [Pull Request] [feat(spec-tools): lint formatting-only differences between forks](https://github.com/ethereum/execution-specs/pull/3726) - 2026-10-06
+* [Pull Request] [chore(tooling): point agents at forks/bogota](https://github.com/ethereum/execution-specs/pull/3731) - 2026-10-07
+* [Review] [Review on: refactor(spec-specs): remove unintended differences between Osaka and BPO forks](https://github.com/ethereum/execution-specs/pull/3701#pullrequestreview-5425917812) - 2026-10-06
+* [Review] [Review on: fix(ci): raise the fill-pypy heap cap to 4G](https://github.com/ethereum/execution-specs/pull/3723#pullrequestreview-5428888091) - 2026-10-06
+* [Pull Request] [refactor(spec-specs): join imports that fit on one line](https://github.com/ethereum/execution-specs/pull/3720) - 2026-10-06
+* [Review] [Review on: feat(test-fill): fail tests that call a spec fixture twice](https://github.com/ethereum/execution-specs/pull/3716#pullrequestreview-5425431531) - 2026-10-06
+* [Review] [Review on: feat: add `--formats` flag to explicitly specify output fixture formats](https://github.com/ethereum/execution-specs/pull/3623#pullrequestreview-5425016378) - 2026-10-06
+* [Review] [Review on: fix(test-client-clis): keep tool detection off stdout](https://github.com/ethereum/execution-specs/pull/3707#pullrequestreview-5424922334) - 2026-10-06
+* [Commit] [refactor(spec-specs): join imports that fit on one line (#3720)](https://github.com/ethereum/execution-specs/commit/81bf48c96989efc5d562fdac5bc4697aaad67ed0) - 2026-10-06
 ## Q3 2026
 
 

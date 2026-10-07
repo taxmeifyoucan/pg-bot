@@ -23,6 +23,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(docgen): load only runtime-dependency assemblies (#14203)](https://github.com/NethermindEth/nethermind/commit/e5189324ad57de45253a5f1f3fe14706ea7b9153) - 2026-10-02
 * [Commit] [chore(deps): replace Open.NAT.Core and fix UPnP lease duration (#14283)](https://github.com/NethermindEth/nethermind/commit/6ab460c0fae5eb049640366f55012c42c846140d) - 2026-10-05
 * [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions (#14262)](https://github.com/NethermindEth/nethermind/commit/6299210eb73a209dba069d2f73e3389e0155cc0e) - 2026-10-05
+
+* [Commit] [docs(agents): require conventional commit messages and PR titles (#14364)](https://github.com/NethermindEth/nethermind/commit/423fc4d34e8ecf05b1b6eb9e5d0244ee3c82804e) - 2026-10-06
+* [Commit] [chore: ignore all VS Code workspace files (#14362)](https://github.com/NethermindEth/nethermind/commit/11193af22f8b749321b8ffb7829c776ba2ef659a) - 2026-10-06
+* [Commit] [ci: switch to trusted NuGet publishing (#14332)](https://github.com/NethermindEth/nethermind/commit/98e3a036572e5e28b660b33b3f560b39cf3cf5d7) - 2026-10-06
+* [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions (#14278)](https://github.com/NethermindEth/nethermind/commit/376044065eadf4ffdc734d81e0b2d75c557d214b) - 2026-10-06
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
+* [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06
 ## Q3 2026
 
 

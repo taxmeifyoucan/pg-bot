@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [feat(sentry): fetch Gloas-aware v2 debug fork choice](https://github.com/ethpandaops/xatu/pull/900) - 2026-10-07
 ## Q3 2026
 
 

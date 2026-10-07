@@ -24,6 +24,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Use payload envelope summary in head snapshot and block production](https://github.com/sigp/lighthouse/pull/10187#pullrequestreview-5423042718) - 2026-10-06
 * [Review] [Review on: Remove deprecated builder `submitBlindedBlock` v1](https://github.com/sigp/lighthouse/pull/10213#pullrequestreview-5422723997) - 2026-10-06
 * [Review] [Review on: Propagate beacon chain database read errors](https://github.com/sigp/lighthouse/pull/10217#pullrequestreview-5422598406) - 2026-10-06
+
+* [Pull Request] [Bump PTC SSE queue](https://github.com/sigp/lighthouse/pull/10239) - 2026-10-07
+* [Review] [Review on: Split up EF tests to run each preset separately](https://github.com/sigp/lighthouse/pull/10237#pullrequestreview-5436617886) - 2026-10-07
+* [Review] [Review on: Fix Web3Signer Gloas request types for remote-signing-api v1.4.0](https://github.com/sigp/lighthouse/pull/10207#pullrequestreview-5424010347) - 2026-10-06
+* [Pull Request] [Tweak FCR restart logic to match latest spec](https://github.com/sigp/lighthouse/pull/10224) - 2026-10-06
+* [Review] [Review on: Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189#pullrequestreview-5424120262) - 2026-10-06
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 ## Q3 2026
 
 

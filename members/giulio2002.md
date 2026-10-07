@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [remove Giulio2002](https://github.com/protocolguild/documentation/pull/565) - 2026-10-06
 ## Q3 2026
 
 

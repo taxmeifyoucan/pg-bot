@@ -15,6 +15,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Remove redundant todo](https://github.com/sigp/lighthouse/pull/10195) - 2026-10-02
 * [Review] [Review on: Keep ENR next_fork_version at a BPO fork](https://github.com/sigp/lighthouse/pull/10161#pullrequestreview-5383583296) - 2026-10-01
 * [Review] [Review on: Subscribe to next fork topics an epoch early](https://github.com/sigp/lighthouse/pull/10204#pullrequestreview-5408332581) - 2026-10-04
+
+* [Review] [Review on: Remove the Router and dispatch network events directly](https://github.com/sigp/lighthouse/pull/10122#pullrequestreview-5435222884) - 2026-10-06
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 ## Q3 2026
 
 

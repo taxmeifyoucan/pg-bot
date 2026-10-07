@@ -12,10 +12,36 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Commit] [ZiskGuest: Bump ZisK runtime and image to 1.3.1-alpha (#14127)](https://github.com/NethermindEth/nethermind/commit/c9298f6f97dd1c1bbab8a01738f58a77b439f4f1) - 2026-10-01
 
+* [Pull Request] [zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26](https://github.com/NethermindEth/nethermind/pull/14358) - 2026-10-06
+* [Review] [Review on: zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26](https://github.com/NethermindEth/nethermind/pull/14358#pullrequestreview-5434424100) - 2026-10-06
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
 * [Pull Request] [fixup/11/upstream-perf: zkVM CQ perf-44..49 (unroll thresholds, no fences, Log2 clz, BigMul mulh, inline newarr)](https://github.com/NethermindEth/dotnet-riscv/pull/17) - 2026-10-03
+* [Pull Request] [fixup/11/upstream-perf: zkVM CQ perf-44..66 on top of PR #16/#19 (register allocation, DMA/memset idioms, synthesized weights)](https://github.com/NethermindEth/dotnet-riscv/pull/20) - 2026-10-06
+* [Commit] [fixup/11/upstream: perf-44..66 rebased onto perf/riscv64-guest-codegen-r9 (PR #16/#19): 45a/46a/47a/50a renumbered beside PR #16's 45-48/50, 48a = signed Math.BigMul on top of its unsigned one](https://github.com/NethermindEth/dotnet-riscv/commit/0b7c975fab251a6aadcd0e3de6eb33795236fe8e) - 2026-10-06
+* [Commit] [CI: runtime_tests - patch_max and test_env, to bisect a test failure](https://github.com/NethermindEth/dotnet-riscv/commit/1842df68f6f8316648e8845e5fc1baadc3aa9ce6) - 2026-10-06
+* [Commit] [CI: runtime_tests - test_tree, to build and run one subtree of the tests](https://github.com/NethermindEth/dotnet-riscv/commit/eee258a95ea0be414a39da53ac978c5b7d6b1f95) - 2026-10-06
+* [Commit] [fixup/11/upstream: 01 - F, C and A do not imply RiscV64Base](https://github.com/NethermindEth/dotnet-riscv/commit/6cf541e811dbe6a6833ab4499c981c9b3cd9a751) - 2026-10-06
+* [Commit] [CI: runtime_tests - give the merged test runners two hours under qemu](https://github.com/NethermindEth/dotnet-riscv/commit/c055866bc8eeb5d30e5b7c44f11add8a1bc8a682) - 2026-10-06
+* [Commit] [fixup/11/upstream: 01 - seed F/D/C/A regardless of EnableHWIntrinsic](https://github.com/NethermindEth/dotnet-riscv/commit/529415fdc126f86853c63a614a9cc1df99e803d4) - 2026-10-06
+* [Commit] [patch_runtime, CI: a 'none' profile, the baseline for the runtime tests](https://github.com/NethermindEth/dotnet-riscv/commit/412cd83e0ea04703cc030f6da823e2bb8b08f905) - 2026-10-06
+* [Commit] [fixup/11/upstream: 14 - give aggregate-executable shims the lp64 loader too](https://github.com/NethermindEth/dotnet-riscv/commit/8e51721bc3455dcc8a788d99ceeaac9113486fdc) - 2026-10-06
+* [Commit] [fixup/11/upstream: 03 - name the musl lp64 loader in the native build too](https://github.com/NethermindEth/dotnet-riscv/commit/aea063eabb88ada2fa1a04e14a5a37420e7c76bf) - 2026-10-06
+* [Commit] [fixup/11/upstream: 21 - backport the NativeAOT PromoteCarefully stack_limit fix](https://github.com/NethermindEth/dotnet-riscv/commit/082c20747aded47c21f5cf59277cbe7b6131deda) - 2026-10-06
+* [Commit] [CI: runtime_tests - keep musl from loading the build container's libraries](https://github.com/NethermindEth/dotnet-riscv/commit/808b8a4201998330822ea86130bf2a2d2aa9cc5b) - 2026-10-06
+* [Commit] [CI: runtime_tests - probe a merged NativeAOT test runner](https://github.com/NethermindEth/dotnet-riscv/commit/b805ce0f0dbcf44c3e1fd714fe20356205759cbf) - 2026-10-06
+* [Commit] [CI: runtime_tests - strace the probe, keep CORE_ROOT when the CoreCLR run fails](https://github.com/NethermindEth/dotnet-riscv/commit/966e6b6e2b0578100db0f476e9ee4a3eb5d9a2eb) - 2026-10-06
+* [Commit] [fixup/11/upstream: 14 - name the musl lp64 loader for riscv64-lp64 executables](https://github.com/NethermindEth/dotnet-riscv/commit/27efe7dd76ade4af2470e756896feb8b164965b1) - 2026-10-06
+* [Commit] [CI: runtime_tests - register a current qemu through tonistiigi/binfmt](https://github.com/NethermindEth/dotnet-riscv/commit/210413fb1ff9a2eee7ddd69b6df4f2fcab4c5087) - 2026-10-06
+* [Commit] [CI: runtime_tests - do not let the probe's find die of SIGPIPE under pipefail](https://github.com/NethermindEth/dotnet-riscv/commit/6dda8e301f045a39bf3bcfa7f12f3d39830729c3) - 2026-10-06
+* [Commit] [CI: runtime_tests - show why test runners fail, allow a tests-only run](https://github.com/NethermindEth/dotnet-riscv/commit/e5b479ac56fb981d612646e6428fca717b3d37b4) - 2026-10-06
+* [Commit] [CI: runtime_tests - let src/tests/build.sh detect musl from the rootfs](https://github.com/NethermindEth/dotnet-riscv/commit/3a61b0b902cc0528eee042b2fd5334755d87f8d2) - 2026-10-06
+* [Commit] [fixup/11/upstream: re-export on the runtime commit the VMR pins](https://github.com/NethermindEth/dotnet-riscv/commit/85f2bf3d84a3d326e875268b7c9cd1cf140d9107) - 2026-10-06
+* [Commit] [fixup/10,11: perf-26 - gate zkVM inline allocation on JitZkBumpAddr, produce a ref](https://github.com/NethermindEth/dotnet-riscv/commit/c1a67435d800d8863cfa74753dd28e30dcbbf8b6) - 2026-10-06
+* [Commit] [CI: Add optional runtime tests job run under qemu-user](https://github.com/NethermindEth/dotnet-riscv/commit/8c9a01e23cc37d0e9c1c25e594f4d7a5cd3f7db0) - 2026-10-06
+* [Commit] [fixup/11/upstream: split A detection and --assume-no-concurrency out](https://github.com/NethermindEth/dotnet-riscv/commit/545a22d28ae7d70e824c3296d4f40d4daf256417) - 2026-10-06
+* [Commit] [CI: add a suffix to the run name and release tag](https://github.com/NethermindEth/dotnet-riscv/commit/5d87a2e4ba90419cfa29d2b99509427436df2151) - 2026-10-06
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -25,6 +51,10 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #45 from NethermindEth/fix/remove-eh-dl-iterate-phdr](https://github.com/NethermindEth/bflat-riscv64/commit/df4464b9cfb2cce76b56a260fa5f19dd89fe2136) - 2026-10-03
 * [Commit] [eh: keep dl_iterate_phdr wrapped under --remove-eh](https://github.com/NethermindEth/bflat-riscv64/commit/b9935e2376fec4bb27008f86e40a906d9223c9a0) - 2026-10-03
 * [Commit] [zisk: patch the ELF in place, like sp1](https://github.com/NethermindEth/bflat-riscv64/commit/0750bf627e41a971d95d4d105931cf871aa0482d) - 2026-10-03
+* [Pull Request] [bflat: zkVM code-quality knobs of dotnet-riscv perf-56..66 and --codegenopt passthrough; .NET 11 perf runtime 11.0.100-rtm.26506.199-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/pull/48) - 2026-10-06
+* [Commit] [Merge pull request #48 from NethermindEth/perf/riscv64-zkvm-cq](https://github.com/NethermindEth/bflat-riscv64/commit/2ee8a26047fb6a14aa3d7d1c1dcc61eb15a9c9f1) - 2026-10-06
+* [Commit] [Merge pull request #47 from NethermindEth/perf/zisk-static-alloc-context](https://github.com/NethermindEth/bflat-riscv64/commit/3a479b8312152afcdb7a9c368042fac3517722ef) - 2026-10-06
+* [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-rtm.26506.199-upstream-perf (PR #20)](https://github.com/NethermindEth/bflat-riscv64/commit/1603ef36895074c6f5f155a59a5373e5f43d0f6f) - 2026-10-06
 ## Q3 2026
 
 

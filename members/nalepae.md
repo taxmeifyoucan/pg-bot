@@ -22,6 +22,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Offer PPA, brew (and chocolatey?) installation for Prysm](https://github.com/OffchainLabs/prysm/issues/17604) - 2026-10-02
 * [Pull Request] [Postpone the validator client shutdown until a restart misses no rewarded duty](https://github.com/OffchainLabs/prysm/pull/17616) - 2026-10-03
 * [Pull Request] [REST VC: wait past the attestation due time when no node has answered](https://github.com/OffchainLabs/prysm/pull/17620) - 2026-10-05
+* [Review] [Review on: request bid in parallel with the local bid](https://github.com/OffchainLabs/prysm/pull/17607#pullrequestreview-5429203025) - 2026-10-06
+* [Pull Request] [Backfill: Fix Gloas](https://github.com/OffchainLabs/prysm/pull/17632) - 2026-10-06
+* [Review] [Review on: improve execution payment warning message](https://github.com/OffchainLabs/prysm/pull/17630#pullrequestreview-5430671590) - 2026-10-06
+* [Commit] [REST VC: wait past the attestation due time when no node has answered (#17620)](https://github.com/OffchainLabs/prysm/commit/64379e9906c1a2f150b5d9b9bbfbe7fb1f2a0901) - 2026-10-06
 ## Q3 2026
 
 

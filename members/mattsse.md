@@ -120,9 +120,18 @@ Team: Reth
 * [Review] [Review on: refactor: normalize byte and integer literals](https://github.com/paradigmxyz/reth/pull/27729#pullrequestreview-5414684747) - 2026-10-05
 * [Pull Request] [feat(txpool): configure sender id pruning](https://github.com/paradigmxyz/reth/pull/27736) - 2026-10-05
 * [Commit] [fix(discv4): match neighbours replies by source ip (#27722)](https://github.com/paradigmxyz/reth/commit/f4190077932c179c529fa384fcbe3b1958b11b56) - 2026-10-05
+* [Pull Request] [feat(e2e): add NodeTestContext::mine_signed](https://github.com/paradigmxyz/reth/pull/27760) - 2026-10-06
+* [Review] [Review on: feat(node): `--snap.v2` patient zero](https://github.com/paradigmxyz/reth/pull/27712#pullrequestreview-5433085800) - 2026-10-06
+* [Review] [Review on: feat(node): add the snap backfill](https://github.com/paradigmxyz/reth/pull/27708#pullrequestreview-5423615549) - 2026-10-06
+* [Commit] [feat(e2e): add NodeTestContext::mine_signed (#27760)](https://github.com/paradigmxyz/reth/commit/1e8eb0c1820276f387ac4edff41beb48f76120d9) - 2026-10-07
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564#pullrequestreview-5436065689) - 2026-10-07
+* [Review] [Review on: docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562#pullrequestreview-5432531169) - 2026-10-06
+* [Pull Request] [docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561) - 2026-10-06
 ## Q3 2026
 
 

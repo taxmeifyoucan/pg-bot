@@ -31,6 +31,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(keccak): pick the batched Keccak backend at run time on x86-64 (#2360)](https://github.com/Plonky3/Plonky3/commit/e41a724a177db73e05a5080512bd82b8438e0e89) - 2026-10-05
 * [Commit] [perf(sha256): hash short AVX-512 tails with one register group or SHA-NI streams (#2356)](https://github.com/Plonky3/Plonky3/commit/a01b83b163dd3703d664b9fd93e451cbdb575846) - 2026-10-05
 * [Commit] [test(blake2s): check both paths against the official BLAKE2s known answers (#2382)](https://github.com/Plonky3/Plonky3/commit/99fcc3ed704870a0b7cb8c9043e269a614145526) - 2026-10-05
+* [Pull Request] [perf(maybe-rayon): cut loops into pieces up front and wake helpers as a tree](https://github.com/Plonky3/Plonky3/pull/2389) - 2026-10-06
+* [Review] [Review on: fix(examples): implement every Matrix accessor on MaybeBitreversedMatrix](https://github.com/Plonky3/Plonky3/pull/2388#pullrequestreview-5426957628) - 2026-10-06
 ## Q3 2026
 
 

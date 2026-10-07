@@ -13,6 +13,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [rm Kasey](https://github.com/protocolguild/documentation/pull/554) - 2026-10-01
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Commit] [Enforce ProgressiveList limits defined on STF during unmarshal (#17412)](https://github.com/OffchainLabs/prysm/commit/3f7ea620722fceaf4b0dda8fa18ce027f6b87491) - 2026-10-06
 ## Q3 2026
 
 

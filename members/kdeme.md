@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless guest: pin the Rust nightly building ZisK (#4898)](https://github.com/status-im/nimbus-eth1/commit/8795b658c818c11381aa7681ae081a9b7ec66a28) - 2026-10-04
 * [Commit] [stateless: build the ZisK guest against ziskos v1.2.0-alpha in CI (#4896)](https://github.com/status-im/nimbus-eth1/commit/f04aa5378985d40feb78e9e56d453b2acf8f35fb) - 2026-10-04
 * [Commit] [eest: add zkevm benchmark fixtures make target and download (#4899)](https://github.com/status-im/nimbus-eth1/commit/7e6c38ee2795f5b029353f1badb08e693b52ee93) - 2026-10-05
+* [Review] [Review on: EL: engine rest ssz api](https://github.com/status-im/nimbus-eth1/pull/4653#pullrequestreview-5431305255) - 2026-10-06
 ## Q3 2026
 
 

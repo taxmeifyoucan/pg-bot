@@ -18,6 +18,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: Commit few updated accounts sequentially in the world state accumulator](https://github.com/besu-eth/besu/pull/11468#pullrequestreview-5422173811) - 2026-10-06
 * [Review] [Review on: Treat failing beacon roots and history system calls as non-fatal](https://github.com/besu-eth/besu/pull/11415#pullrequestreview-5422419506) - 2026-10-06
 * [Review] [Review on: Hash and size legacy transactions and block access lists from their r…](https://github.com/besu-eth/besu/pull/11470#pullrequestreview-5422166702) - 2026-10-06
+* [Review] [Review on: feat: add debug_getRawExecutionRequests](https://github.com/besu-eth/besu/pull/11481#pullrequestreview-5424093521) - 2026-10-06
+* [Commit] [feat: add debug_getRawExecutionRequests (#11481)](https://github.com/besu-eth/besu/commit/47d923540d1ed0eb050dfc6a13bbea7a92cc533b) - 2026-10-07
 ## Q3 2026
 
 

@@ -37,6 +37,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(prewarm): hand a warm caught in cold storage reads to discovery (#14219)](https://github.com/NethermindEth/nethermind/commit/9c52f03a8c4fa589af66491a0707cdb30c57d8e7) - 2026-10-05
 * [Commit] [perf(engine): start early sender recovery once the payload's transactions root is joined (#14213)](https://github.com/NethermindEth/nethermind/commit/afa3d64d2e95e1a6f5e527b7481f2845ae3ed2d7) - 2026-10-05
 * [Commit] [perf(prewarm): read the accounts that large calldata names as ABI address words (#14204)](https://github.com/NethermindEth/nethermind/commit/fc7b508827af35ea4251f06792e563098ad6aa6e) - 2026-10-05
+* [Commit] [Prewarmer handoff rework (#14312)](https://github.com/NethermindEth/nethermind/commit/95faee7e97c0ad3b0d842f87fd7436e574b17658) - 2026-10-06
 ## Q3 2026
 
 

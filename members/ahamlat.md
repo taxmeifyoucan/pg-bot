@@ -17,6 +17,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Versioned code storage [1/3] Add a rewrite operation for whole storage segments](https://github.com/besu-eth/besu/pull/11363#pullrequestreview-5376392572) - 2026-10-01
 * [Pull Request] [Import committed QBFT blocks without executing them again](https://github.com/besu-eth/besu/pull/11469) - 2026-10-05
 
+* [Review] [Review on: Share one NoOpBonsaiCachedMerkleTrieLoader instead of building one per world state](https://github.com/besu-eth/besu/pull/11484#pullrequestreview-5435283310) - 2026-10-06
+* [Review] [Review on: Fix stale MessageFrame javadoc: same-tx SELFDESTRUCT does not refund state gas](https://github.com/besu-eth/besu/pull/11471#pullrequestreview-5425567620) - 2026-10-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

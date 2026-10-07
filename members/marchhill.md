@@ -77,6 +77,17 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: ci: split Nethermind.JsonRpc.Test into two chunks on macOS and Windows](https://github.com/NethermindEth/nethermind/pull/14275#pullrequestreview-5419650013) - 2026-10-05
 * [Review] [Review on: fix(sync): retake an invalid sync snapshot before recalculating progress pointers](https://github.com/NethermindEth/nethermind/pull/14276#pullrequestreview-5419652014) - 2026-10-05
 * [Review] [Review on: test(txpool): serve restored frame blob bodies so startup revalidation keeps them](https://github.com/NethermindEth/nethermind/pull/14279#pullrequestreview-5419651519) - 2026-10-05
+* [Review] [Review on: perf: fuse PUSH2 CALLSUB for EIP-7979](https://github.com/NethermindEth/nethermind/pull/14287#pullrequestreview-5434904909) - 2026-10-06
+* [Review] [Review on: perf(trie): hash serially by default; history walk hashes on its own thread](https://github.com/NethermindEth/nethermind/pull/14326#pullrequestreview-5430557625) - 2026-10-06
+* [Review] [Review on: perf(flat-history): drop pruned block markers with one range delete](https://github.com/NethermindEth/nethermind/pull/14333#pullrequestreview-5430559505) - 2026-10-06
+* [Review] [Review on: perf(flat-history): reuse empty hashes for historical accounts](https://github.com/NethermindEth/nethermind/pull/14328#pullrequestreview-5430556786) - 2026-10-06
+* [Review] [Review on: fix(history-walk): scan the whole storage bucket before accepting slot history](https://github.com/NethermindEth/nethermind/pull/14329#pullrequestreview-5430556171) - 2026-10-06
+* [Commit] [test(clique): deploy Amsterdam request predeploys in the producer tests' genesis (#14339)](https://github.com/NethermindEth/nethermind/commit/d606784014a17d8dd3199ed4b075a09acb77a6e9) - 2026-10-06
+* [Commit] [feat: EIP-3298 remove storage-clear refund and refund cap (#13928)](https://github.com/NethermindEth/nethermind/commit/15987764427d740d920f5e07ecf47686c27dd5c5) - 2026-10-06
+* [Commit] [feat: EIP-7979 call and return opcodes (#13932)](https://github.com/NethermindEth/nethermind/commit/7083c2a29ae40233fc13511b2cc5c9de8d70b4e5) - 2026-10-06
+* [Commit] [feat: EIP-8131 unified transaction content floor (#13929)](https://github.com/NethermindEth/nethermind/commit/cc18c99b341e5d57f3545dcd957752435d5f4a0f) - 2026-10-06
+* [Commit] [feat: EIP-7668 remove bloom filters (#13934)](https://github.com/NethermindEth/nethermind/commit/7a8535c74a30b9244722badf3f6b21feb67333d2) - 2026-10-06
+* [Commit] [feat: EIP-8253 bump nonce of zero-nonce storage accounts (#13943)](https://github.com/NethermindEth/nethermind/commit/e42284a09b196c07fb02db32fbf7190a5a255de0) - 2026-10-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -84,6 +95,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8116: Define gasUsed and RPC cumulativeGasUsed](https://github.com/ethereum/EIPs/pull/12430) - 2026-10-05
 * [Pull Request] [Update EIP-5920: Price value with ACCOUNT_WRITE under EIP-8038](https://github.com/ethereum/EIPs/pull/12428) - 2026-10-05
 * [Pull Request] [Update EIP-7843: Move to Last Call](https://github.com/ethereum/EIPs/pull/12425) - 2026-10-05
+* [Commit] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/commit/c2471607ae30f665f2cfd878b7284ba39afeba75) - 2026-10-06
 ## Q3 2026
 
 

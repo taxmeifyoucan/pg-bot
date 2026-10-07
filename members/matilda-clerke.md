@@ -15,6 +15,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Update third-party dependencies](https://github.com/Consensys-Incorporated/teku/pull/11400#pullrequestreview-5409132618) - 2026-10-05
 * [Review] [Review on: Dial TCP when a discovered peer's QUIC address is unreachable](https://github.com/Consensys-Incorporated/teku/pull/11399#pullrequestreview-5408927166) - 2026-10-05
 * [Review] [Review on: Pull Docker base images via GCR mirror with docker.io fallback](https://github.com/Consensys-Incorporated/teku/pull/11398#pullrequestreview-5408593577) - 2026-10-04
+* [Pull Request] [Subscribe to head_v2 events once gloas is scheduled](https://github.com/Consensys-Incorporated/teku/pull/11416) - 2026-10-06
+* [Review] [Review on: Bound the future block queue by size and count](https://github.com/Consensys-Incorporated/teku/pull/11434#pullrequestreview-5435601146) - 2026-10-06
+* [Review] [Review on:  Add decode regression test for Gloas block body deposits limit](https://github.com/Consensys-Incorporated/teku/pull/11415#pullrequestreview-5435566494) - 2026-10-06
 ## Q3 2026
 
 

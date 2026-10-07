@@ -15,6 +15,9 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614#pullrequestreview-5404939974) - 2026-10-04
 * [Review] [Review on: perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615#pullrequestreview-5404940851) - 2026-10-04
 * [Review] [Review on: rpc_pattern_gen: mixed load from a profile; rpc_perf: results by API with --verbose](https://github.com/erigontech/rpc-tests/pull/616#pullrequestreview-5418207048) - 2026-10-05
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 ## Q3 2026
 
 

@@ -28,6 +28,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: settle builder payment before processing parent execution requests](https://github.com/ChainSafe/lodestar/pull/10180#pullrequestreview-5417128208) - 2026-10-05
 * [Review] [Review on: fix: optimize builder flows](https://github.com/ChainSafe/lodestar/pull/10263#pullrequestreview-5417306954) - 2026-10-05
 * [Review] [Review on: fix: request the whole range sync batch again after a processing error](https://github.com/ChainSafe/lodestar/pull/10266#pullrequestreview-5417068108) - 2026-10-05
+* [Pull Request] [fix: populate proposal shufflings before packing attestations](https://github.com/ChainSafe/lodestar/pull/10285) - 2026-10-06
+* [Pull Request] [chore: warn on conflicting execution payload envelope retries](https://github.com/ChainSafe/lodestar/pull/10288) - 2026-10-06
+* [Pull Request] [feat: optionally persist produced execution payload envelopes](https://github.com/ChainSafe/lodestar/pull/10287) - 2026-10-06
+* [Pull Request] [refactor: remove obsolete builder voluntary exit signatures](https://github.com/ChainSafe/lodestar/pull/10286) - 2026-10-06
+* [Review] [Review on: fix: serve archived genesis state by root](https://github.com/ChainSafe/lodestar/pull/10277#pullrequestreview-5430033656) - 2026-10-06
+* [Pull Request] [fix: deduplicate incomplete payload sync at the payload deadline](https://github.com/ChainSafe/lodestar/pull/10289) - 2026-10-06
+* [Review] [Review on: feat: add endpoint to get proposer preferences](https://github.com/ChainSafe/lodestar/pull/10255#pullrequestreview-5431390351) - 2026-10-06
+* [Review] [Review on: ci: cache ssz and bls spec test vectors in both spec test jobs](https://github.com/ChainSafe/lodestar/pull/10283#pullrequestreview-5431822183) - 2026-10-06
+* [Review] [Review on: fix: do not attest to an optimistic head](https://github.com/ChainSafe/lodestar/pull/10269#pullrequestreview-5431502677) - 2026-10-06
+* [Review] [Review on: fix: retry rate-limited peers after a sync chain restart](https://github.com/ChainSafe/lodestar/pull/10252#pullrequestreview-5431435024) - 2026-10-06
+* [Review] [Review on: chore: log native state transition option on startup](https://github.com/ChainSafe/lodestar/pull/10281#pullrequestreview-5429418878) - 2026-10-06
+* [Commit] [refactor: remove obsolete builder voluntary exit signatures (#10286)](https://github.com/ChainSafe/lodestar/commit/ce0e7321186a98432fa261bda13d8ea84663d4e3) - 2026-10-06
+* [Commit] [feat: emit PTC quorum changes from fork choice (#10274)](https://github.com/ChainSafe/lodestar/commit/f23b93e9eb9c4b45339d40cf5ddf1bb4f8c55b53) - 2026-10-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -36,8 +49,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5395083749) - 2026-10-02
 * [Commit] [perf: stream progressive hashing (#744)](https://github.com/ChainSafe/lodestar-z/commit/1ceb7ca7d14e3aa0d6195124c626fc5cb7866e38) - 2026-10-02
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5417367746) - 2026-10-05
+* [Review] [Review on: fix: preserve shuffling input ownership](https://github.com/ChainSafe/lodestar-z/pull/753#pullrequestreview-5429657670) - 2026-10-06
+* [Review] [Review on: test: verify allocation failure coverage with standard checks](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5429693163) - 2026-10-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
+* [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06
+* [Commit] [Derive EIP-8198 slot timing from fork configuration (#5710)](https://github.com/ethereum/consensus-specs/commit/40bcb8c2b2ebd0f67705c1578c3d7bf76aee8176) - 2026-10-06
 ## Q3 2026
 
 

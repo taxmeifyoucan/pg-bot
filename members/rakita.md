@@ -13,6 +13,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(txpool): honor EVM block gas policy](https://github.com/paradigmxyz/reth/pull/27641) - 2026-10-01
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442) - 2026-10-06
+* [Commit] [Update EIP-2780: Move to Last Call (#12442)](https://github.com/ethereum/EIPs/commit/5ef380124bd68d09c02fa90d0de0f2455f37d5ee) - 2026-10-06
 ## Q3 2026
 
 

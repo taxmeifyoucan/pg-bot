@@ -26,6 +26,13 @@ Team: Geth
 * [Commit] [eth/protocols/snap: charge per request (#35856)](https://github.com/ethereum/go-ethereum/commit/9bbffb6fcdbc1068849b013da448a0e7561d7d4c) - 2026-10-05
 * [Commit] [eth/protocols/eth: don't skip invalid receipts (#35859)](https://github.com/ethereum/go-ethereum/commit/4b11f5d81d0fd20f5444afb96ec40c764b17e748) - 2026-10-05
 * [Commit] [eth/protocols/eth: limit getPooledTransactions lookup (#35857)](https://github.com/ethereum/go-ethereum/commit/49a5eaf084cbec6321477d8e69281a7777f6bb2b) - 2026-10-05
+* [Review] [Review on: core, eth, internal: skip the execution gas cap on eth_call](https://github.com/ethereum/go-ethereum/pull/35845#pullrequestreview-5430221949) - 2026-10-06
+* [Review] [Review on: beacon/light/request: send EvCanRequestAgain after refusing requests](https://github.com/ethereum/go-ethereum/pull/35872#pullrequestreview-5429960678) - 2026-10-06
+* [Review] [Review on: beacon/light/sync: drop a rejected committee update response from the queue](https://github.com/ethereum/go-ethereum/pull/35879#pullrequestreview-5430069437) - 2026-10-06
+* [Review] [Review on: eth/catalyst: don't treat a forward canonical update as a reorg](https://github.com/ethereum/go-ethereum/pull/35804#pullrequestreview-5428812348) - 2026-10-06
+* [Commit] [core: better caching for jumpdest analysis (#35881)](https://github.com/ethereum/go-ethereum/commit/93d78a01abb7e04beed100b54cd84d2b3c0e859f) - 2026-10-06
+* [Commit] [go.mod: update github.com/pion/stun/v3 (#35863)](https://github.com/ethereum/go-ethereum/commit/dd838206656184fbfef0379e6b56e6eb2bbffc04) - 2026-10-06
+* [Commit] [core: cache codeHash in BAL lookup (#35865)](https://github.com/ethereum/go-ethereum/commit/1bcc715ed193a1831383d6cf180f5bc6438d19d5) - 2026-10-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

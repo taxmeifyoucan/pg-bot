@@ -20,6 +20,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Skip execution blocks the EL no longer has when reconstructing Gloas envelopes by root (#17526)](https://github.com/OffchainLabs/prysm/commit/24116b013389b1022f98b1252c1d652fa218aac8) - 2026-10-02
 
 * [Review] [Review on: Remove .bzl CODEOWNER requirements](https://github.com/OffchainLabs/prysm/pull/17621#pullrequestreview-5418834962) - 2026-10-05
+* [Pull Request] [Read head and forkchoice node under one lock in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17633) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

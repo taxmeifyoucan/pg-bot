@@ -45,6 +45,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: txnprovider/txpool: keep existing txn when its replacement is rejected](https://github.com/erigontech/erigon/pull/24534#pullrequestreview-5415461232) - 2026-10-05
 * [Commit] [rpc: check pruning before replay and keep block transaction counts available (#23777)](https://github.com/erigontech/erigon/commit/d112b40ccab4f5b69ece5f4bdf226f99cc2e9fa3) - 2026-10-05
 * [Commit] [cl, ci: test Caplin block production and blob publication (#24543)](https://github.com/erigontech/erigon/commit/8e8be1cc826ab9bb8aad82f9df0e55db6f2c59e4) - 2026-10-05
+* [Review] [Review on: cl: remove unused function parameters and dead code](https://github.com/erigontech/erigon/pull/24518#pullrequestreview-5427181597) - 2026-10-06
+* [Pull Request] [p2p: throttle historical BAL re-execution](https://github.com/erigontech/erigon/pull/24613) - 2026-10-06
+* [Review] [Review on: p2p: throttle historical BAL re-execution](https://github.com/erigontech/erigon/pull/24613#pullrequestreview-5428887746) - 2026-10-06
+* [Review] [Review on: exec: allocate WriteSet cells on slabs](https://github.com/erigontech/erigon/pull/24603#pullrequestreview-5426452295) - 2026-10-06
+* [Pull Request] [cl: enforce per-topic gossip payload bounds before allocating](https://github.com/erigontech/erigon/pull/24618) - 2026-10-06
+* [Pull Request] [cl/phase1/network/gossip: score every subscribed topic](https://github.com/erigontech/erigon/pull/24619) - 2026-10-06
+* [Pull Request] [cl: reject negative validator indices in state accessors](https://github.com/erigontech/erigon/pull/24615) - 2026-10-06
+* [Review] [Review on: cl: reject negative validator indices in state accessors](https://github.com/erigontech/erigon/pull/24615#pullrequestreview-5428717260) - 2026-10-06
+* [Pull Request] [cl/cltypes/solid: cap inferred committee bits width when decoding without config](https://github.com/erigontech/erigon/pull/24614) - 2026-10-06
+* [Review] [Review on: db/state: fix cleanup after failed merges](https://github.com/erigontech/erigon/pull/24579#pullrequestreview-5426288739) - 2026-10-06
+* [Pull Request] [cl/p2p: bound GossipSub control-message size to prevent IHAVE memory exhaustion](https://github.com/erigontech/erigon/pull/24616) - 2026-10-06
+* [Issue] [engineapitester: release backend resources when node startup fails](https://github.com/erigontech/erigon/issues/24622) - 2026-10-06
+* [Issue] [Erigon can't build blocks on Sepolia after Glamsterdam](https://github.com/erigontech/erigon/issues/24620) - 2026-10-06
+* [Commit] [cl/p2p: bound GossipSub control-message size to prevent IHAVE memory exhaustion (#24616)](https://github.com/erigontech/erigon/commit/6989d9a41054e5420050c75d60f382dc9c4678ab) - 2026-10-06
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
