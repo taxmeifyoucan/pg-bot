@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Pull Request] [update libp2p](https://github.com/sigp/lighthouse/pull/10229) - 2026-10-06
 * [Review] [Review on: update libp2p](https://github.com/sigp/lighthouse/pull/10229#pullrequestreview-5431770962) - 2026-10-06
 * [Review] [Review on: Add compile-time Spec alias and migrate types tests](https://github.com/sigp/lighthouse/pull/10158#pullrequestreview-5430518640) - 2026-10-06
+* [Review] [Review on: Remove the Router and dispatch network events directly](https://github.com/sigp/lighthouse/pull/10122#pullrequestreview-5446530906) - 2026-10-07
 ## Q3 2026
 
 

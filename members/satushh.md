@@ -15,6 +15,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Fix payload production in the first Gloas block](https://github.com/OffchainLabs/prysm/pull/17610#pullrequestreview-5394412518) - 2026-10-02
 * [Pull Request] [Limit Gloas payload envelope validation work](https://github.com/OffchainLabs/prysm/pull/17612) - 2026-10-02
 * [Review] [Review on: request bid in parallel with the local bid](https://github.com/OffchainLabs/prysm/pull/17607#pullrequestreview-5432383090) - 2026-10-06
+* [Pull Request] [  Add `GET /eth/v1/beacon/states/{state_id}/ptc` endpoint](https://github.com/OffchainLabs/prysm/pull/17641) - 2026-10-07
+* [Pull Request] [  Add `safe_block_hash` and `finalized_block_hash` to the Gloas `payload_attributes` event](https://github.com/OffchainLabs/prysm/pull/17640) - 2026-10-07
+* [Review] [Review on: Backfill completion fix](https://github.com/OffchainLabs/prysm/pull/17223#pullrequestreview-5440699825) - 2026-10-07
 ## Q3 2026
 
 

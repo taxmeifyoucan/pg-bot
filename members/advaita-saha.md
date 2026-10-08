@@ -15,6 +15,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [tx_packer early exit](https://github.com/status-im/nimbus-eth1/pull/4885) - 2026-10-01
 * [Commit] [tx_packer early exit (#4885)](https://github.com/status-im/nimbus-eth1/commit/5003b9bfaf83d9cd2441b0b4ac43061a972bfaa2) - 2026-10-02
 * [Review] [Review on: Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637#pullrequestreview-5424957875) - 2026-10-06
+* [Pull Request] [make focil related field optional to include](https://github.com/status-im/nimbus-eth1/pull/4933) - 2026-10-07
+* [Commit] [make focil related field optional to include (#4933)](https://github.com/status-im/nimbus-eth1/commit/0270a30978743ff8abe2c224a295d55557a4f4fe) - 2026-10-07
 ## Q3 2026
 
 

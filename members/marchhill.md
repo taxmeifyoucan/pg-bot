@@ -88,6 +88,21 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [feat: EIP-8131 unified transaction content floor (#13929)](https://github.com/NethermindEth/nethermind/commit/cc18c99b341e5d57f3545dcd957752435d5f4a0f) - 2026-10-06
 * [Commit] [feat: EIP-7668 remove bloom filters (#13934)](https://github.com/NethermindEth/nethermind/commit/7a8535c74a30b9244722badf3f6b21feb67333d2) - 2026-10-06
 * [Commit] [feat: EIP-8253 bump nonce of zero-nonce storage accounts (#13943)](https://github.com/NethermindEth/nethermind/commit/e42284a09b196c07fb02db32fbf7190a5a255de0) - 2026-10-06
+* [Review] [Review on: feat(eip8141): deploy the expiry verifier as an ordinary contract](https://github.com/NethermindEth/nethermind/pull/14378#pullrequestreview-5440105305) - 2026-10-07
+* [Review] [Review on: fix(network): honor PeerManagerEnabled when starting peer services](https://github.com/NethermindEth/nethermind/pull/14390#pullrequestreview-5442412737) - 2026-10-07
+* [Review] [Review on: feat(specs): schedule EIP-8250, EIP-8272 and EIP-7906 from a geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14386#pullrequestreview-5440089657) - 2026-10-07
+* [Review] [Review on: fix(producers): count only execution gas when ordering pool txs under EIP-8037](https://github.com/NethermindEth/nethermind/pull/14304#pullrequestreview-5445476437) - 2026-10-07
+* [Review] [Review on: feat(jsonrpc): include caller address in debug request logs](https://github.com/NethermindEth/nethermind/pull/14316#pullrequestreview-5445508901) - 2026-10-07
+* [Review] [Review on: fix(txpool): run the frame-tx prefix simulation under the configured MAX_VERIFY_GAS](https://github.com/NethermindEth/nethermind/pull/14379#pullrequestreview-5440152733) - 2026-10-07
+* [Review] [Review on: feat(eip8141): MATCHA paymaster width for sponsored frame transactions](https://github.com/NethermindEth/nethermind/pull/14305#pullrequestreview-5440151404) - 2026-10-07
+* [Review] [Review on: fix(sync): stop block access lists sync at the EIP-7928 activation block](https://github.com/NethermindEth/nethermind/pull/14368#pullrequestreview-5445393931) - 2026-10-07
+* [Review] [Review on: ci(zkevm): run stateless Glamsterdam tests on Sepolia blocks](https://github.com/NethermindEth/nethermind/pull/14413#pullrequestreview-5444179061) - 2026-10-07
+* [Review] [Review on: refactor(zkevm): share guest substitutions, project settings and guide](https://github.com/NethermindEth/nethermind/pull/14397#pullrequestreview-5442326789) - 2026-10-07
+* [Commit] [perf: fuse PUSH2 CALLSUB for EIP-7979 (#14287)](https://github.com/NethermindEth/nethermind/commit/f6cef40bf17cdb6cf9f305a90b719eb9bd92ad7c) - 2026-10-07
+* [Commit] [fix(engine): do not move the head to a block whose state was pruned (#14366)](https://github.com/NethermindEth/nethermind/commit/9ca26e9cc10767d108b1a434a1426f726ce04226) - 2026-10-07
+* [Commit] [test(clique): pin producer tests to Sepolia's latest scheduled fork (#14354)](https://github.com/NethermindEth/nethermind/commit/c9c761f6e517edf9f9d85a2a288193b3f71e28c9) - 2026-10-07
+* [Commit] [Catch up finalized blocks from block access lists (#14157)](https://github.com/NethermindEth/nethermind/commit/f02c61a885cbde9bc9cb34336861b2088e187b2a) - 2026-10-07
+* [Commit] [feat: EIP-8279 block access list byte floor (#13942)](https://github.com/NethermindEth/nethermind/commit/6d0d8a3e1c29576761b656d48dc273b9a02385c4) - 2026-10-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

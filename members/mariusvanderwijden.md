@@ -33,6 +33,9 @@ Team: Geth
 * [Commit] [core: better caching for jumpdest analysis (#35881)](https://github.com/ethereum/go-ethereum/commit/93d78a01abb7e04beed100b54cd84d2b3c0e859f) - 2026-10-06
 * [Commit] [go.mod: update github.com/pion/stun/v3 (#35863)](https://github.com/ethereum/go-ethereum/commit/dd838206656184fbfef0379e6b56e6eb2bbffc04) - 2026-10-06
 * [Commit] [core: cache codeHash in BAL lookup (#35865)](https://github.com/ethereum/go-ethereum/commit/1bcc715ed193a1831383d6cf180f5bc6438d19d5) - 2026-10-06
+* [Review] [Review on: docs: correct eth_simulateV1 block time and failure semantics](https://github.com/ethereum/go-ethereum/pull/35740#pullrequestreview-5440527685) - 2026-10-07
+* [Review] [Review on: internal/ethapi, core: align eth_simulateV1 blocks with the Amsterdam spec](https://github.com/ethereum/go-ethereum/pull/35668#pullrequestreview-5440414527) - 2026-10-07
+* [Commit] [eth/protocols/eth: verify block shape before hashing (#35862)](https://github.com/ethereum/go-ethereum/commit/0b468a86b90a6563c3725e9871d7cea8581eb1b2) - 2026-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

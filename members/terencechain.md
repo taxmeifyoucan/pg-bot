@@ -21,6 +21,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 * [Review] [Review on: Remove .bzl CODEOWNER requirements](https://github.com/OffchainLabs/prysm/pull/17621#pullrequestreview-5418834962) - 2026-10-05
 * [Pull Request] [Read head and forkchoice node under one lock in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17633) - 2026-10-07
+* [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5450742469) - 2026-10-08
+* [Review] [Review on: Replace the per-call `Broadcasted data column sidecars` debug log with a `Broadcasted data column sidecars summary` log, aggregated per block root and emitted once no column was broadcast for this root during 100 ms.](https://github.com/OffchainLabs/prysm/pull/17642#pullrequestreview-5449265597) - 2026-10-07
+* [Commit] [Read head and forkchoice node under one lock in GetAttestationData (#17633)](https://github.com/OffchainLabs/prysm/commit/5f204371678597bcff1b2532f085be198186d1f6) - 2026-10-07
+* [Commit] [Apply gossip clock disparity to Gloas payload attestation, bid, and proposer preferences slot checks (#17576)](https://github.com/OffchainLabs/prysm/commit/6bcaa9286651fcb28c57680c9f4626dac42b7866) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

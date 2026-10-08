@@ -16,6 +16,8 @@ Team: Robust Incentives Group (RIG)
 * [Pull Request] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/pull/12445) - 2026-10-06
 * [Commit] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/commit/1fffbca420b7ececa21ef0ddb5b7b285672e4394) - 2026-10-06
 * [Commit] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/commit/b45e1c1e747efed4fa0b062c01ce6902045e04c6) - 2026-10-06
+* [Pull Request] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/pull/12450) - 2026-10-07
+* [Commit] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/commit/1424fd7732f94ccdafc9188db9726ee167ef2c53) - 2026-10-07
 ## Q3 2026
 
 

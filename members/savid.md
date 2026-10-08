@@ -13,6 +13,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [feat(sentry): fetch Gloas-aware v2 debug fork choice](https://github.com/ethpandaops/xatu/pull/900) - 2026-10-07
+* [Pull Request] [feat: store spec event fields dropped on the way to ClickHouse](https://github.com/ethpandaops/xatu/pull/902) - 2026-10-08
+* [Review] [Review on: feat: store spec event fields dropped on the way to ClickHouse](https://github.com/ethpandaops/xatu/pull/902#pullrequestreview-5450756907) - 2026-10-08
 ## Q3 2026
 
 

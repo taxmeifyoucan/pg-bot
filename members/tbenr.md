@@ -36,6 +36,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Discovery can offer the same peer twice to selection](https://github.com/Consensys-Incorporated/teku/issues/11424) - 2026-10-06
 * [Issue] [Static peers can lose their pool membership to discovery selection bookkeeping](https://github.com/Consensys-Incorporated/teku/issues/11423) - 2026-10-06
 * [Commit] [Settle builder payment before parent requests and sweep remaining builder balance (#11408)](https://github.com/Consensys-Incorporated/teku/commit/0b70053d1a43d6855e581c285c3a6de4e97f391a) - 2026-10-06
+* [Review] [Review on: Lower pending block pool byte cap and report pool size in bytes](https://github.com/Consensys-Incorporated/teku/pull/11435#pullrequestreview-5446881840) - 2026-10-07
+* [Pull Request] [Report payload reorgs and payload statuses in reorg events](https://github.com/Consensys-Incorporated/teku/pull/11437) - 2026-10-07
+* [Commit] [Fix progressive ssz loadstore by preserving last chunk size (#11418)](https://github.com/Consensys-Incorporated/teku/commit/0ac8f54d9ec6b3f218945a068a7702ad353d2f08) - 2026-10-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

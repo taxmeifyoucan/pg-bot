@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7495: Clarify inactive field merkleization](https://github.com/ethereum/EIPs/pull/12419#pullrequestreview-5406836527) - 2026-10-04
 * [Review] [Review on: Update EIP-8116: Define gasUsed and RPC cumulativeGasUsed](https://github.com/ethereum/EIPs/pull/12430#pullrequestreview-5420739697) - 2026-10-05
+* [Pull Request] [Update EIP-7773: Add EIP-7495 and EIP-7916 to Glamsterdam](https://github.com/ethereum/EIPs/pull/12449) - 2026-10-07
 ## Q3 2026
 
 

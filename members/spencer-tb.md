@@ -27,10 +27,20 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: docs(test-formats): document the block access list fixture field](https://github.com/ethereum/execution-specs/pull/3710#pullrequestreview-5426797024) - 2026-10-06
 * [Issue] [Test Release Tracker: `frames-devnet@v1.0.0`](https://github.com/ethereum/execution-specs/issues/3727) - 2026-10-06
 * [Commit] [fix(ci): raise the fill-pypy heap cap to 4G (#3723)](https://github.com/ethereum/execution-specs/commit/30396e1fdad0f25184ee15d3ba3e9206faeac028) - 2026-10-06
+* [Pull Request] [refactor(test-forks,test-specs): remove the unused activation code install hook in EIP-8141](https://github.com/ethereum/execution-specs/pull/3735) - 2026-10-07
+* [Pull Request] [feat(specs,tests): deploy the EIP-8250 nonce manager as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3736) - 2026-10-07
+* [Review] [Review on: feat(specs, tests): deploy the EIP-8141 expiry verifier as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3729#pullrequestreview-5442594264) - 2026-10-07
+* [Commit] [fix(test-forks,tests): fix latent base fee and blob transition bugs (#3721)](https://github.com/ethereum/execution-specs/commit/4daa5df7f657d982732785671c2758551f19da6d) - 2026-10-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
 * [Commit] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/commit/260ccd2b2c2d7b5571094d835f24924e19092b58) - 2026-10-06
+* [Pull Request] [Update EIP-3298: Remove the refund cap from frame transaction settlement](https://github.com/ethereum/EIPs/pull/12455) - 2026-10-07
+* [Review] [Review on: Update EIP-8272: deploy recent root contract as standard contract](https://github.com/ethereum/EIPs/pull/12443#pullrequestreview-5445097388) - 2026-10-07
+* [Pull Request] [Update EIP-7723: Require consensus-specs alongside execution-specs](https://github.com/ethereum/EIPs/pull/12451) - 2026-10-07
+* [Pull Request] [Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452) - 2026-10-07
+* [Review] [Review on: Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452#pullrequestreview-5444910673) - 2026-10-07
+* [Commit] [Update EIP-3298: Remove the refund cap from frame transaction settlement](https://github.com/ethereum/EIPs/commit/6dac5e74918b54511298fdbff79650e8f8d27d78) - 2026-10-07
 ## Q3 2026
 
 

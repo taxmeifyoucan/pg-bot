@@ -26,6 +26,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: REST VC: wait past the attestation due time when no node has answered](https://github.com/OffchainLabs/prysm/pull/17620#pullrequestreview-5423015396) - 2026-10-06
 * [Pull Request] [improve execution payment warning message](https://github.com/OffchainLabs/prysm/pull/17630) - 2026-10-06
 * [Commit] [Update CHANGELOG.md for v7.2.1 (#17624)](https://github.com/OffchainLabs/prysm/commit/e133d5aee39b400735d6b623a5fbbf8264ba600f) - 2026-10-06
+* [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5450613327) - 2026-10-08
+* [Commit] [refactor to parent envelope helper (#17541)](https://github.com/OffchainLabs/prysm/commit/ee779399dec4acc02f21f6a2160efe518378c76f) - 2026-10-08
+* [Commit] [improve execution payment warning message (#17630)](https://github.com/OffchainLabs/prysm/commit/3b839483f941836a8502732358660f18e1af3a5b) - 2026-10-07
 ## Q3 2026
 
 

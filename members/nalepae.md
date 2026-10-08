@@ -26,6 +26,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Backfill: Fix Gloas](https://github.com/OffchainLabs/prysm/pull/17632) - 2026-10-06
 * [Review] [Review on: improve execution payment warning message](https://github.com/OffchainLabs/prysm/pull/17630#pullrequestreview-5430671590) - 2026-10-06
 * [Commit] [REST VC: wait past the attestation due time when no node has answered (#17620)](https://github.com/OffchainLabs/prysm/commit/64379e9906c1a2f150b5d9b9bbfbe7fb1f2a0901) - 2026-10-06
+* [Pull Request] [Replace the per-call `Broadcasted data column sidecars` debug log with a `Broadcasted data column sidecars summary` log, aggregated per block root and emitted once no column was broadcast for this root during 100 ms.](https://github.com/OffchainLabs/prysm/pull/17642) - 2026-10-07
+* [Review] [Review on: Postpone the validator client shutdown until a restart misses no rewarded duty](https://github.com/OffchainLabs/prysm/pull/17616#pullrequestreview-5440313448) - 2026-10-07
+* [Pull Request] [Use the slot deadline for the duties of the first slot of an epoch](https://github.com/OffchainLabs/prysm/pull/17637) - 2026-10-07
+* [Pull Request] [Add `beacon_payload_gas_limit` and `beacon_payload_gas_used` metrics.](https://github.com/OffchainLabs/prysm/pull/17634) - 2026-10-07
+* [Commit] [Postpone the validator client shutdown until a restart misses no rewarded duty (#17616)](https://github.com/OffchainLabs/prysm/commit/4b5b0b85e102476a8f41455c57b65bae0395a002) - 2026-10-07
+* [Commit] [Remove Bazel: Phase 7/9 (#17595)](https://github.com/OffchainLabs/prysm/commit/ad9764e5b946e990daeaa04094cd6ee20e0c4f9b) - 2026-10-07
+* [Commit] [Add `beacon_payload_gas_limit` and `beacon_payload_gas_used` metrics. (#17634)](https://github.com/OffchainLabs/prysm/commit/1804185b28f815926c003d83b1011df32eff47ea) - 2026-10-07
 ## Q3 2026
 
 

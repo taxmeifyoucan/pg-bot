@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: feat: add debug_getRawExecutionRequests](https://github.com/besu-eth/besu/pull/11481#pullrequestreview-5424144402) - 2026-10-06
+* [Review] [Review on: Retry bootnodes on networks with few peers](https://github.com/besu-eth/besu/pull/11368#pullrequestreview-5438118080) - 2026-10-07
 ## Q3 2026
 
 

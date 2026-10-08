@@ -28,6 +28,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: ignore all VS Code workspace files (#14362)](https://github.com/NethermindEth/nethermind/commit/11193af22f8b749321b8ffb7829c776ba2ef659a) - 2026-10-06
 * [Commit] [ci: switch to trusted NuGet publishing (#14332)](https://github.com/NethermindEth/nethermind/commit/98e3a036572e5e28b660b33b3f560b39cf3cf5d7) - 2026-10-06
 * [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions (#14278)](https://github.com/NethermindEth/nethermind/commit/376044065eadf4ffdc734d81e0b2d75c557d214b) - 2026-10-06
+* [Pull Request] [ci(zkevm): run stateless Glamsterdam tests on Sepolia blocks](https://github.com/NethermindEth/nethermind/pull/14413) - 2026-10-07
+* [Review] [Review on: ci(zkevm): run stateless Glamsterdam tests on Sepolia blocks](https://github.com/NethermindEth/nethermind/pull/14413#pullrequestreview-5448895541) - 2026-10-07
+* [Review] [Review on: refactor(zkevm): share guest substitutions, project settings and guide](https://github.com/NethermindEth/nethermind/pull/14397#pullrequestreview-5442386234) - 2026-10-07
+* [Commit] [ci(zkevm): run stateless Glamsterdam tests on Sepolia blocks (#14413)](https://github.com/NethermindEth/nethermind/commit/21208c3dbfb49653d5331604fee7ee86be341dd0) - 2026-10-07
+* [Commit] [fix(zkevm): pass exact-length buffers to the BLS12-381 MSM and pairing accelerators (#14419)](https://github.com/NethermindEth/nethermind/commit/80e5dfce1eb0439c26a454012d78a6602d15934a) - 2026-10-07
+* [Commit] [fix(zkevm): pass 8-byte aligned buffers to the Blake2F accelerator (#14418)](https://github.com/NethermindEth/nethermind/commit/26eaee5e63115a8aa50aef8024b48d5a929ef786) - 2026-10-07
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

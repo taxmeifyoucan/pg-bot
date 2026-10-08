@@ -18,6 +18,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Subscribe to head_v2 events once gloas is scheduled](https://github.com/Consensys-Incorporated/teku/pull/11416) - 2026-10-06
 * [Review] [Review on: Bound the future block queue by size and count](https://github.com/Consensys-Incorporated/teku/pull/11434#pullrequestreview-5435601146) - 2026-10-06
 * [Review] [Review on:  Add decode regression test for Gloas block body deposits limit](https://github.com/Consensys-Incorporated/teku/pull/11415#pullrequestreview-5435566494) - 2026-10-06
+* [Pull Request] [Impose size limit on seenCache in LibP2PGossipNetworkBuilder](https://github.com/Consensys-Incorporated/teku/pull/11445) - 2026-10-08
+* [Review] [Review on: Impose size limit on seenCache in LibP2PGossipNetworkBuilder](https://github.com/Consensys-Incorporated/teku/pull/11445#pullrequestreview-5449928991) - 2026-10-08
+* [Commit] [Subscribe to head_v2 events once gloas is scheduled (#11416)](https://github.com/Consensys-Incorporated/teku/commit/4b32943ea80f7b202d497fa1b5ed19ad0458c776) - 2026-10-07
 ## Q3 2026
 
 

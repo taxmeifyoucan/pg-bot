@@ -16,6 +16,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(builder): coordinate bounded payload build jobs](https://github.com/ChainSafe/lodestar/pull/9973#pullrequestreview-5378024101) - 2026-10-01
 * [Review] [Review on: fix: resolve inclusion list dependent root from the block state on payload import](https://github.com/ChainSafe/lodestar/pull/10265#pullrequestreview-5412706641) - 2026-10-05
 * [Commit] [fix: apply epoch updates before computing attestation rewards (#10224)](https://github.com/ChainSafe/lodestar/commit/6ce21fd8a2497280d1b072a8e4e3e86bc9dc5791) - 2026-10-05
+* [Review] [Review on: fix: verify inclusion list signatures without batching](https://github.com/ChainSafe/lodestar/pull/10282#pullrequestreview-5438574172) - 2026-10-07
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 ## Q3 2026
 
 

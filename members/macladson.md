@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Split up EF tests to run each preset separately](https://github.com/sigp/lighthouse/pull/10237) - 2026-10-06
+* [Pull Request] [Split `beacon_chain` tests by preset](https://github.com/sigp/lighthouse/pull/10246) - 2026-10-07
 ## Q3 2026
 
 

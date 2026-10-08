@@ -15,6 +15,7 @@ Team: Reth
 * [Review] [Review on: fix(revme): run EIP-4788 call before EIP-2935](https://github.com/bluealloy/revm/pull/3959#pullrequestreview-5381905003) - 2026-10-01
 * [Review] [Review on: ci: run devnet blockchain tests](https://github.com/bluealloy/revm/pull/3958#pullrequestreview-5381908434) - 2026-10-01
 
+* [Pull Request] [fix(inspector): trace runtime gas halts](https://github.com/bluealloy/revm/pull/3968) - 2026-10-07
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(tracing): support EIP-8141 frame transactions](https://github.com/paradigmxyz/reth/pull/27640#pullrequestreview-5386445964) - 2026-10-01
 * [Review] [Review on: feat(tracing): support EIP-8141 frame transactions](https://github.com/paradigmxyz/reth/pull/27639#pullrequestreview-5386443487) - 2026-10-01
@@ -124,6 +125,11 @@ Team: Reth
 * [Review] [Review on: feat(node): `--snap.v2` patient zero](https://github.com/paradigmxyz/reth/pull/27712#pullrequestreview-5433085800) - 2026-10-06
 * [Review] [Review on: feat(node): add the snap backfill](https://github.com/paradigmxyz/reth/pull/27708#pullrequestreview-5423615549) - 2026-10-06
 * [Commit] [feat(e2e): add NodeTestContext::mine_signed (#27760)](https://github.com/paradigmxyz/reth/commit/1e8eb0c1820276f387ac4edff41beb48f76120d9) - 2026-10-07
+* [Review] [Review on: feat(node): enable snap/2 sync behind --snap.v2](https://github.com/paradigmxyz/reth/pull/27712#pullrequestreview-5451123084) - 2026-10-08
+* [Pull Request] [perf(snap): pipeline state downloads](https://github.com/paradigmxyz/reth/pull/27803) - 2026-10-08
+* [Review] [Review on: docs(trie): clarify proof target ordering](https://github.com/paradigmxyz/reth/pull/27775#pullrequestreview-5449889074) - 2026-10-08
+* [Review] [Review on: refactor(trie): share storage proof collection](https://github.com/paradigmxyz/reth/pull/27798#pullrequestreview-5449891689) - 2026-10-08
+* [Review] [Review on: refactor(cli): narrow unused pub items to pub(crate)](https://github.com/paradigmxyz/reth/pull/27799#pullrequestreview-5449825681) - 2026-10-08
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03
@@ -132,6 +138,7 @@ Team: Reth
 * [Review] [Review on: docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564#pullrequestreview-5436065689) - 2026-10-07
 * [Review] [Review on: docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562#pullrequestreview-5432531169) - 2026-10-06
 * [Pull Request] [docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561) - 2026-10-06
+* [Review] [Review on: docs: remove Sergei Shulepov](https://github.com/protocolguild/documentation/pull/566#pullrequestreview-5442672968) - 2026-10-07
 ## Q3 2026
 
 

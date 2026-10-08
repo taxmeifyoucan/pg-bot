@@ -16,6 +16,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558#pullrequestreview-5432630857) - 2026-10-06
+
+[hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
+* [Review] [Review on: Add partitioned binary trie](https://github.com/besu-eth/besu-stateless/pull/92#pullrequestreview-5448352329) - 2026-10-07
 ## Q3 2026
 
 

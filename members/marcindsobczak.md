@@ -31,6 +31,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: test(blockchain): make FileLocalDataSource retries_loading_file deterministic](https://github.com/NethermindEth/nethermind/pull/14303#pullrequestreview-5426798907) - 2026-10-06
 * [Review] [Review on: test(aura): wait for the produced block in AuRaBlockProducerTests instead of a fixed window](https://github.com/NethermindEth/nethermind/pull/14306#pullrequestreview-5426793673) - 2026-10-06
 * [Review] [Review on: fix(sync): stop old bodies and receipts progress overshooting the total on finish](https://github.com/NethermindEth/nethermind/pull/14286#pullrequestreview-5428795555) - 2026-10-06
+* [Pull Request] [test(merge): keep decoders swapped into the Rlp registry invisible to other tests](https://github.com/NethermindEth/nethermind/pull/14433) - 2026-10-07
+* [Review] [Review on: perf(evm): leave checked opcodes straight from host dispatch when it carries gas](https://github.com/NethermindEth/nethermind/pull/14427#pullrequestreview-5449088321) - 2026-10-07
+* [Commit] [test(evm): cover access-list journal rollback across nested frames (#14395)](https://github.com/NethermindEth/nethermind/commit/4e2fcb7a171bcf55c141d92e8094f143da2d8939) - 2026-10-07
 ## Q3 2026
 
 

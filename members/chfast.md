@@ -30,6 +30,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state, execution/tests: restore newlyCreated for accounts created in the tx (#24624)](https://github.com/erigontech/erigon/commit/e15cca7be9cd40238b24002a13490df924b8412a) - 2026-10-07
 * [Commit] [execution/state: refreshCode returns accounts.Code (#24430)](https://github.com/erigontech/erigon/commit/2261146ec1a3007c4ba6ac072e463934db912c60) - 2026-10-07
 * [Commit] [execution/vm: count JUMPDEST cache bitmap size in bytes (#24578)](https://github.com/erigontech/erigon/commit/0ce232fdd049f241449fe6683d138e4ec55ce81c) - 2026-10-06
+* [Commit] [execution/state: carry the balance of a credit-revived account in CreateAccount (#24654)](https://github.com/erigontech/erigon/commit/e6dff208c92471c66ec141a5adc4b6529bcdab73) - 2026-10-07
+* [Commit] [execution/state: record the pre-tx balance in CreateAccount (#24653)](https://github.com/erigontech/erigon/commit/32087fc7a7d28fe893530a32e629ab70a23217db) - 2026-10-07
+* [Commit] [execution/state: remove unused commited flag from code reads (#24431)](https://github.com/erigontech/erigon/commit/7e8140ed2fb72bc07bea84a62f0c4bdc1e5adfd6) - 2026-10-07
+* [Commit] [execution/state: attribute the SelfDestructPath=false write to CreateAccount (#24621)](https://github.com/erigontech/erigon/commit/cf082a8595f5403ecd0b6aceb44c7e31798b537d) - 2026-10-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -49,6 +53,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [state: Revert a failed block-start system call (#1745)](https://github.com/ipsilon/evmone/commit/fd502791c6aeef32ab24aaa3101795577c990069) - 2026-10-06
 * [Commit] [Implement EIP-8037 transaction gas limit limit (#1744)](https://github.com/ipsilon/evmone/commit/25193cba2363fc8da7748a1c6b268ae6ff09a0cc) - 2026-10-06
 * [Commit] [ci: Run only the tests@v21.0.0 execution-specs tests (#1746)](https://github.com/ipsilon/evmone/commit/ffd3a311fa39c15c599eb9d64389497b35904c97) - 2026-10-06
+* [Pull Request] [Implement EIP-7928: "Block-Level Access Lists"](https://github.com/ipsilon/evmone/pull/1752) - 2026-10-07
+* [Pull Request] [state: Journal account creation in State::get_or_create()](https://github.com/ipsilon/evmone/pull/1751) - 2026-10-07
+* [Commit] [state: Replace State::find() with the nonexistent account flag (#1712)](https://github.com/ipsilon/evmone/commit/39425f364d67b6d0ab17fdaa325d807258bf3ed7) - 2026-10-07
+* [Commit] [state: Journal account creation in State::get_or_create() (#1751)](https://github.com/ipsilon/evmone/commit/f282290eaaf4138924a44de1a43c9a91f3f3042d) - 2026-10-07
 ## Q3 2026
 
 

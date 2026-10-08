@@ -6,6 +6,11 @@ Github: [@joshdavislight](https://github.com/joshdavislight)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Josh Davis from membership list](https://github.com/protocolguild/documentation/pull/571) - 2026-10-07
 ## Q2 2026
 
 

@@ -33,6 +33,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [test(blake2s): check both paths against the official BLAKE2s known answers (#2382)](https://github.com/Plonky3/Plonky3/commit/99fcc3ed704870a0b7cb8c9043e269a614145526) - 2026-10-05
 * [Pull Request] [perf(maybe-rayon): cut loops into pieces up front and wake helpers as a tree](https://github.com/Plonky3/Plonky3/pull/2389) - 2026-10-06
 * [Review] [Review on: fix(examples): implement every Matrix accessor on MaybeBitreversedMatrix](https://github.com/Plonky3/Plonky3/pull/2388#pullrequestreview-5426957628) - 2026-10-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 ## Q3 2026
 
 

@@ -38,6 +38,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: perf(state-transition): diff-synced flat validator cache](https://github.com/ChainSafe/lodestar-z/pull/736#pullrequestreview-5411214403) - 2026-10-05
 * [Commit] [perf(state-transition): diff-synced flat validator cache (#736)](https://github.com/ChainSafe/lodestar-z/commit/d7282c7a751d0b8c56b3e525af007bebaaee119b) - 2026-10-05
 * [Pull Request] [chore: bump spec test version to v1.7.0-beta.2](https://github.com/ChainSafe/lodestar-z/pull/756) - 2026-10-06
+* [Pull Request] [feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760) - 2026-10-07
+* [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5446580060) - 2026-10-07
+* [Pull Request] [feat(metrics): add sub-second epoch transition histogram buckets](https://github.com/ChainSafe/lodestar-z/pull/759) - 2026-10-07
+* [Commit] [feat(metrics): add sub-second epoch transition histogram buckets (#759)](https://github.com/ChainSafe/lodestar-z/commit/bf96e24bceccf443f04162873fc4cc88b59fc680) - 2026-10-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 ## Q3 2026

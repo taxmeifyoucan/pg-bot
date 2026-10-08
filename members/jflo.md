@@ -18,6 +18,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Enable NullAway for crypto services](https://github.com/besu-eth/besu/pull/10935#pullrequestreview-5430069857) - 2026-10-06
 * [Commit] [Enable NullAway for crypto services (#10935)](https://github.com/besu-eth/besu/commit/70fc66e369bd3f9ef6648652965fc408b21efda5) - 2026-10-06
 * [Commit] [Merge branch 'main' into feat/nullaway-crypto-services](https://github.com/besu-eth/besu/commit/79717150456ce091369709211ca1bb8b49986ec5) - 2026-10-06
+* [Review] [Review on: Enable NullAway for consensus/merge](https://github.com/besu-eth/besu/pull/11256#pullrequestreview-5445596910) - 2026-10-07
+* [Review] [Review on: Log replaced payload builds at debug level with the changed inputs](https://github.com/besu-eth/besu/pull/11504#pullrequestreview-5441075381) - 2026-10-07
+* [Review] [Review on: Warn when a PoA chain defaults the EIP-8282 builder request addresses](https://github.com/besu-eth/besu/pull/11476#pullrequestreview-5448253552) - 2026-10-07
+* [Review] [Review on: FOCIL: Refactor engine API payload status handling to allow version-specific responses](https://github.com/besu-eth/besu/pull/11488#pullrequestreview-5448331104) - 2026-10-07
+* [Review] [Review on: Stop duplicating reference test fixtures per checkout](https://github.com/besu-eth/besu/pull/11413#pullrequestreview-5447729316) - 2026-10-07
+* [Review] [Review on: Enable NullAway for testutil](https://github.com/besu-eth/besu/pull/11321#pullrequestreview-5446987728) - 2026-10-07
+* [Review] [Review on: Report partial log bloom cache removal failures](https://github.com/besu-eth/besu/pull/11447#pullrequestreview-5446626978) - 2026-10-07
+* [Review] [Review on: txparse: close corpus file stream after processing](https://github.com/besu-eth/besu/pull/11423#pullrequestreview-5446276459) - 2026-10-07
+* [Review] [Review on: Enable NullAway for ethereum/mock-p2p](https://github.com/besu-eth/besu/pull/11284#pullrequestreview-5445999556) - 2026-10-07
+* [Review] [Review on: Validate batch size when using a stop condition](https://github.com/besu-eth/besu/pull/11479#pullrequestreview-5445560161) - 2026-10-07
 ## Q3 2026
 
 

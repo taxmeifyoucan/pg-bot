@@ -16,6 +16,11 @@ Team: Geth
 
 * [Review] [Review on: Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442#pullrequestreview-5435007741) - 2026-10-06
 * [Commit] [Update EIP-8141: deploy frames expiry verifier as standard contract (#12387)](https://github.com/ethereum/EIPs/commit/88fa3e4d24efb0dffdbe1fda2765060b870de784) - 2026-10-06
+* [Pull Request] [Update EIP-7906: assign opcode bytes and add POST_TX to the valid frame modes](https://github.com/ethereum/EIPs/pull/12454) - 2026-10-07
+* [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5445745916) - 2026-10-07
+* [Pull Request] [Update EIP-8141: check frame modes against a set of valid values](https://github.com/ethereum/EIPs/pull/12453) - 2026-10-07
+* [Commit] [Update EIP-7906: assign opcode bytes and add POST_TX to the valid frame modes](https://github.com/ethereum/EIPs/commit/25855add6986d5123a043b03999ad5757a2e13d6) - 2026-10-07
+* [Commit] [Update EIP-8141: check frame modes against a set of valid values](https://github.com/ethereum/EIPs/commit/6bc5841052ad161b29e21d11dbfb58bc98dac507) - 2026-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 

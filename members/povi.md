@@ -22,6 +22,7 @@ Team: Grandine
 * [Commit] [During state cache prune, do not try to acquire cache map lock with timeout. If it's locked, skip that map.](https://github.com/grandinetech/grandine/commit/2ec9f905fd7e425b89865cc8e6526da2b7f998de) - 2026-10-05
 * [Commit] [Update quinn](https://github.com/grandinetech/grandine/commit/06412924aaf24fbcbe2f5955ec85c5d87087701a) - 2026-10-06
 * [Commit] [Produce and publish attestations before attest tick by default on head change](https://github.com/grandinetech/grandine/commit/f08b0a49da7f0205d5f0f75c1fe5181165719485) - 2026-10-06
+* [Commit] [Fix windows build](https://github.com/grandinetech/grandine/commit/fec154bde72f9955533754da93bd07739492a4c4) - 2026-10-07
 ## Q3 2026
 
 

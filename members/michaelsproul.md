@@ -30,6 +30,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix Web3Signer Gloas request types for remote-signing-api v1.4.0](https://github.com/sigp/lighthouse/pull/10207#pullrequestreview-5424010347) - 2026-10-06
 * [Pull Request] [Tweak FCR restart logic to match latest spec](https://github.com/sigp/lighthouse/pull/10224) - 2026-10-06
 * [Review] [Review on: Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189#pullrequestreview-5424120262) - 2026-10-06
+* [Review] [Review on: Add `safe_block_hash` and `finalized_block_hash` to Payload Attributes event](https://github.com/sigp/lighthouse/pull/10244#pullrequestreview-5449939950) - 2026-10-08
+* [Review] [Review on: update libp2p](https://github.com/sigp/lighthouse/pull/10229#pullrequestreview-5449386199) - 2026-10-07
+* [Review] [Review on: Fix blob ordering when filtering blobs by versioned hash](https://github.com/sigp/lighthouse/pull/9944#pullrequestreview-5442153978) - 2026-10-07
+* [Review] [Review on: Fix lcli http-sync --known-common-ancestor argument parsing](https://github.com/sigp/lighthouse/pull/10245#pullrequestreview-5440491731) - 2026-10-07
+* [Review] [Review on: Fix PTC duties at the Gloas fork boundary](https://github.com/sigp/lighthouse/pull/10193#pullrequestreview-5437575817) - 2026-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 ## Q3 2026

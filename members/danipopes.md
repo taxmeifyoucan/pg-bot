@@ -14,6 +14,10 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/reth/pull/27647#pullrequestreview-5389407071) - 2026-10-02
 * [Review] [Review on: chore(deps): update Cargo.lock](https://github.com/paradigmxyz/reth/pull/27741#pullrequestreview-5418355686) - 2026-10-05
+
+* [Pull Request] [refactor(rpc): replace jsonrpsee with reth-json-rpc](https://github.com/paradigmxyz/reth/pull/27801) - 2026-10-08
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 ## Q3 2026
 
 

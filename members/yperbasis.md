@@ -59,6 +59,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [engineapitester: release backend resources when node startup fails](https://github.com/erigontech/erigon/issues/24622) - 2026-10-06
 * [Issue] [Erigon can't build blocks on Sepolia after Glamsterdam](https://github.com/erigontech/erigon/issues/24620) - 2026-10-06
 * [Commit] [cl/p2p: bound GossipSub control-message size to prevent IHAVE memory exhaustion (#24616)](https://github.com/erigontech/erigon/commit/6989d9a41054e5420050c75d60f382dc9c4678ab) - 2026-10-06
+* [Review] [Review on: cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629#pullrequestreview-5440168967) - 2026-10-07
+* [Review] [Review on: cl, execution: fix two causes of a stall after a Caplin restart](https://github.com/erigontech/erigon/pull/24628#pullrequestreview-5440329861) - 2026-10-07
+* [Commit] [execution/engineapi: reject null withdrawals (#24650)](https://github.com/erigontech/erigon/commit/245d277b576798c524557db32164178a6d0879e7) - 2026-10-07
+* [Commit] [db/state: fix cleanup after failed merges (#24579)](https://github.com/erigontech/erigon/commit/26b8cc98620d220f53f05a22dd62454a2d44e48f) - 2026-10-07
+* [Commit] [txnprovider/txpool: defer authorization recovery until after prechecks (#24509)](https://github.com/erigontech/erigon/commit/8e269c57fd542a4000fba38503c374d1994fc50e) - 2026-10-07
+* [Commit] [p2p/sentry: bound queued bytes and limit NewBlock floods (#24392)](https://github.com/erigontech/erigon/commit/9e603d74f60c21ca793a03a7ce373de19aa3fdc7) - 2026-10-07
+* [Commit] [p2p/rlpx: grow read buffers as data arrives (#24374)](https://github.com/erigontech/erigon/commit/60aae95c2357250aacdbd3db0f8a14da5579c627) - 2026-10-07
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -69,6 +76,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Erigon incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2253) - 2026-10-05
 * [Commit] [Add Erigon incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/commit/e5d4d229dbbc1735149a6a022cff95d79ca1de44) - 2026-10-05
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [docs: remove Willian Mitsuda from active membership](https://github.com/protocolguild/documentation/pull/569) - 2026-10-07
+* [Pull Request] [docs: remove Ilya Mikheev from active membership](https://github.com/protocolguild/documentation/pull/570) - 2026-10-07
 ## Q3 2026
 
 

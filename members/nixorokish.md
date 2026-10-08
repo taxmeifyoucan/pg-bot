@@ -35,6 +35,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Merge pull request #2244 from jking-aus/lighthouse-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/3d4766f6df15d5748801874a26f1396cac1f15dd) - 2026-10-05
 * [Commit] [Merge branch 'master' into lighthouse-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/0f3fd130c83c7cfadf87967090c033fa5a0726f9) - 2026-10-05
 * [Commit] [Merge pull request #2243 from lodekeeper/glamsterdam-incident-response-lodestar](https://github.com/ethereum/pm/commit/f4abff90e2f625ddce4b5a5dab3dc98033c70719) - 2026-10-05
+* [Pull Request] [schedule glamsterdam on hoodi](https://github.com/ethereum/pm/pull/2263) - 2026-10-07
 ## Q3 2026
 
 

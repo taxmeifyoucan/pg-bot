@@ -51,6 +51,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: return -32001 for an unknown block in trace_block and trace_replayBlockTransactions (#24598)](https://github.com/erigontech/erigon/commit/b8c104115060e2ab297ffddc734c1b01385eb6bf) - 2026-10-06
 * [Commit] [rpc/jsonrpc: graphql Call builds the state reader from the already resolved block (#24595)](https://github.com/erigontech/erigon/commit/7996d082df2dc533fce4ffa2bc417b774e50f8a6) - 2026-10-06
 * [Commit] [execution/execmodule: detach the block overlay when validation finds a bad block (#24561)](https://github.com/erigontech/erigon/commit/f4416e17c4ec01a2bf529377583f7f4faea1b7f8) - 2026-10-06
+* [Pull Request] [QA: disable eth_fillTransaction/test_13 in RPC Integration Tests Latest](https://github.com/erigontech/erigon/pull/24668) - 2026-10-07
+* [Pull Request] [QA: generate the latest eth_call and mixed patterns at the tip in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/24663) - 2026-10-07
+* [Review] [Review on: rpc/jsonrpc: set slotNumber, apply withdrawals and skip synthetic transfer logs in eth_simulateV1](https://github.com/erigontech/erigon/pull/24402#pullrequestreview-5448005150) - 2026-10-07
+* [Review] [Review on: fix(rpc/jsonrpc): don't use the estimateGas transfer shortcut for calls with authorizations](https://github.com/erigontech/erigon/pull/24462#pullrequestreview-5447399768) - 2026-10-07
+* [Review] [Review on: rpc/rpchelper: ask the remote for all topics when a log filter names none](https://github.com/erigontech/erigon/pull/24459#pullrequestreview-5447589779) - 2026-10-07
+* [Review] [Review on: fix(rpc/jsonrpc): eth_getRawTransactionByHash returns pending transactions from the pool](https://github.com/erigontech/erigon/pull/24463#pullrequestreview-5447766460) - 2026-10-07
+* [Commit] [QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf (#24539)](https://github.com/erigontech/erigon/commit/d1cecd9f4eeaacc49a2f30d2d9e05b959fb5649e) - 2026-10-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

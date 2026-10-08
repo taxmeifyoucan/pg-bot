@@ -7,6 +7,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2026
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [partial column peering mechanics](https://github.com/status-im/nimbus-eth2/pull/9230) - 2026-10-07
+* [Pull Request] [bump nim-web3 to `6f045f54466248d2ab216e2f88d905044956c90d`](https://github.com/status-im/nimbus-eth2/pull/9229) - 2026-10-07
 ## Q3 2026
 
 

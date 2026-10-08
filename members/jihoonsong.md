@@ -22,6 +22,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Remove release tags of EIPs included in a fork (#5715)](https://github.com/ethereum/consensus-specs/commit/d73d91b598af851138f4b405e9dd39dc64b00191) - 2026-10-06
 * [Commit] [Add EIP-8365 to Heze (#5713)](https://github.com/ethereum/consensus-specs/commit/d94010d25e4a6639a608a80349c83af74192b656) - 2026-10-06
 * [Commit] [Standardize shorthands in comprehensions (#5714)](https://github.com/ethereum/consensus-specs/commit/ef251c0f436f2f4f1d64e531a8b3edab245300a3) - 2026-10-06
+* [Pull Request] [Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718) - 2026-10-07
+* [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5441670103) - 2026-10-07
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 ## Q3 2026
 
 

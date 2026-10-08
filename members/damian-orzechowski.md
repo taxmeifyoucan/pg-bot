@@ -14,6 +14,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: fix(eip8250): keep a higher existing NONCE_MANAGER nonce at activation](https://github.com/NethermindEth/nethermind/pull/14070#pullrequestreview-5377722535) - 2026-10-01
 * [Review] [Review on: fix(eip8250): align TXPARAM keyed-nonce indices with the spec](https://github.com/NethermindEth/nethermind/pull/14069#pullrequestreview-5377800218) - 2026-10-01
+* [Review] [Review on: fix(ethstats): log repeated disconnects while offline at debug](https://github.com/NethermindEth/nethermind/pull/14289#pullrequestreview-5441407308) - 2026-10-07
+* [Review] [Review on: feat(sync): report snap healing progress as its own phase without the full state percentage](https://github.com/NethermindEth/nethermind/pull/14308#pullrequestreview-5439347282) - 2026-10-07
+* [Review] [Review on: feat(eip8141): MATCHA paymaster width for sponsored frame transactions](https://github.com/NethermindEth/nethermind/pull/14305#pullrequestreview-5441866891) - 2026-10-07
 ## Q3 2026
 
 

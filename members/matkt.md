@@ -28,6 +28,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Hash each storage slot once per block](https://github.com/besu-eth/besu/pull/11491) - 2026-10-06
 * [Pull Request] [Index the block access list once per block, for the state root and the execution](https://github.com/besu-eth/besu/pull/11486) - 2026-10-06
 * [Pull Request] [Compute the transactions root of an engine_newPayload block once](https://github.com/besu-eth/besu/pull/11485) - 2026-10-06
+* [Pull Request] [Read the root and block hash of a cached block once, not per world state](https://github.com/besu-eth/besu/pull/11510) - 2026-10-07
+* [Review] [Review on: Read the root and block hash of a cached block once, not per world state](https://github.com/besu-eth/besu/pull/11510#pullrequestreview-5442522295) - 2026-10-07
+* [Commit] [Log BAL prefetch completion at debug level (#11502)](https://github.com/besu-eth/besu/commit/f08022cb2748d937e8b5b7e5906f1a9b883e1181) - 2026-10-07
+* [Commit] [Share one NoOpBonsaiCachedMerkleTrieLoader instead of building one per world state (#11484)](https://github.com/besu-eth/besu/commit/a1dce34024d9ff29f90e78562206e3e41aa9cfaf) - 2026-10-07
 ## Q3 2026
 
 

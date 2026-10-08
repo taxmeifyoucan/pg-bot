@@ -41,6 +41,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: log native state transition option on startup](https://github.com/ChainSafe/lodestar/pull/10281#pullrequestreview-5429418878) - 2026-10-06
 * [Commit] [refactor: remove obsolete builder voluntary exit signatures (#10286)](https://github.com/ChainSafe/lodestar/commit/ce0e7321186a98432fa261bda13d8ea84663d4e3) - 2026-10-06
 * [Commit] [feat: emit PTC quorum changes from fork choice (#10274)](https://github.com/ChainSafe/lodestar/commit/f23b93e9eb9c4b45339d40cf5ddf1bb4f8c55b53) - 2026-10-06
+* [Pull Request] [feat: add opt-in Xray network tracing](https://github.com/ChainSafe/lodestar/pull/10298) - 2026-10-07
+* [Review] [Review on: feat: add ptc state endpoint](https://github.com/ChainSafe/lodestar/pull/10190#pullrequestreview-5446128532) - 2026-10-07
+* [Review] [Review on: feat: add fork choice v2 debug fields](https://github.com/ChainSafe/lodestar/pull/10297#pullrequestreview-5444218743) - 2026-10-07
+* [Review] [Review on: fix: align fork choice v2 with beacon api spec](https://github.com/ChainSafe/lodestar/pull/10191#pullrequestreview-5443220499) - 2026-10-07
+* [Commit] [feat: optionally persist produced execution payload envelopes (#10287)](https://github.com/ChainSafe/lodestar/commit/45e4260336a7dbcf719ce9985202ffde84883239) - 2026-10-07
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -51,6 +56,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5417367746) - 2026-10-05
 * [Review] [Review on: fix: preserve shuffling input ownership](https://github.com/ChainSafe/lodestar-z/pull/753#pullrequestreview-5429657670) - 2026-10-06
 * [Review] [Review on: test: verify allocation failure coverage with standard checks](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5429693163) - 2026-10-06
+* [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5447190851) - 2026-10-07
+* [Review] [Review on: feat(metrics): add sub-second epoch transition histogram buckets](https://github.com/ChainSafe/lodestar-z/pull/759#pullrequestreview-5443727187) - 2026-10-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

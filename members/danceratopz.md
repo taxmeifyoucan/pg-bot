@@ -27,6 +27,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat: add `--formats` flag to explicitly specify output fixture formats](https://github.com/ethereum/execution-specs/pull/3623#pullrequestreview-5425016378) - 2026-10-06
 * [Review] [Review on: fix(test-client-clis): keep tool detection off stdout](https://github.com/ethereum/execution-specs/pull/3707#pullrequestreview-5424922334) - 2026-10-06
 * [Commit] [refactor(spec-specs): join imports that fit on one line (#3720)](https://github.com/ethereum/execution-specs/commit/81bf48c96989efc5d562fdac5bc4697aaad67ed0) - 2026-10-06
+* [Pull Request] [refactor(spec-specs): remove formatting-only differences between forks](https://github.com/ethereum/execution-specs/pull/3732) - 2026-10-07
+* [Review] [Review on: feat(test-fill): make engine_x fixtures consumable via devp2p sync](https://github.com/ethereum/execution-specs/pull/3364#pullrequestreview-5437575488) - 2026-10-07
+* [Commit] [refactor(spec-specs): remove formatting-only differences between forks (#3732)](https://github.com/ethereum/execution-specs/commit/f329cb4ddfd6dd56ab7c56d25edb03554c3ffd67) - 2026-10-07
+* [Commit] [feat(spec-tools): lint formatting-only differences between forks (#3726)](https://github.com/ethereum/execution-specs/commit/d7a84b8c131fff12257f1141cc01260301aae68d) - 2026-10-07
+* [Commit] [chore(tooling): point agents at forks/bogota (#3731)](https://github.com/ethereum/execution-specs/commit/69c0ea7a335052764095eb49b726a755fed2ee2c) - 2026-10-07
 ## Q3 2026
 
 

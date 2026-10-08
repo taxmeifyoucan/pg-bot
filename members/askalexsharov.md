@@ -165,6 +165,21 @@ Team: Erigon
 * [Commit] [exec: run PUSH3..PUSH32 on the fast path (#24577)](https://github.com/erigontech/erigon/commit/c7d65387ebe953b8887ed09193395ca5633d8093) - 2026-10-06
 * [Commit] [exec: create collision check returns early for an absent account (#24592)](https://github.com/erigontech/erigon/commit/da0f689970910510718cb9466db5dd1b678ef275) - 2026-10-06
 * [Commit] [exec: CreateAccount does not heap-allocate an account copy  (#24565)](https://github.com/erigontech/erigon/commit/9ad9643d8392d127299b67ad1ca5e85e0bc1c10a) - 2026-10-06
+* [Review] [Review on: exec: a reused read set keeps its per-address slot maps](https://github.com/erigontech/erigon/pull/24605#pullrequestreview-5438768906) - 2026-10-07
+* [Pull Request] [execution/vm: keep pc and gas out of run's loop-head spill](https://github.com/erigontech/erigon/pull/24651) - 2026-10-07
+* [Review] [Review on: execution/vm: keep pc and gas out of run's loop-head spill](https://github.com/erigontech/erigon/pull/24651#pullrequestreview-5450576432) - 2026-10-08
+* [Pull Request] [cl/sentinel/communication/ssz_snappy: grow the read buffer as data arrives](https://github.com/erigontech/erigon/pull/24648) - 2026-10-07
+* [Review] [Review on: cl/sentinel/communication/ssz_snappy: grow the read buffer as data arrives](https://github.com/erigontech/erigon/pull/24648#pullrequestreview-5450314562) - 2026-10-08
+* [Pull Request] [build, cl/spectest: stop building with GOEXPERIMENT=jsonv2](https://github.com/erigontech/erigon/pull/24656) - 2026-10-07
+* [Pull Request] [rpc: speedup `json.Validate`](https://github.com/erigontech/erigon/pull/24637) - 2026-10-07
+* [Review] [Review on: rpc: speedup `json.Validate`](https://github.com/erigontech/erigon/pull/24637#pullrequestreview-5450364814) - 2026-10-08
+* [Pull Request] [execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658) - 2026-10-07
+* [Review] [Review on: execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658#pullrequestreview-5442522048) - 2026-10-07
+* [Pull Request] [p2p/rlpx: reject snappy lengths the payload cannot decode to](https://github.com/erigontech/erigon/pull/24649) - 2026-10-07
+* [Pull Request] [protocol/mdgas: count the zero bytes with bytes.Count](https://github.com/erigontech/erigon/pull/24636) - 2026-10-07
+* [Commit] [cl/sentinel/communication/ssz_snappy: grow the read buffer as data arrives (#24648)](https://github.com/erigontech/erigon/commit/61bf737cb1b2a606370ad88efdbe50c098f50ee6) - 2026-10-08
+* [Commit] [rpc: enable StateCache (#24497)](https://github.com/erigontech/erigon/commit/1a2825ce10f468a8543d1852c87152cc9caaf283) - 2026-10-07
+* [Commit] [execution/state: an empty version map answers a probe without the sync.Map (#24604)](https://github.com/erigontech/erigon/commit/e151b8bca33d38155a982c53c13b7147ad43de05) - 2026-10-07
 ## Q3 2026
 
 

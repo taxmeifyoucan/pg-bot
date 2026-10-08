@@ -15,6 +15,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [engine_forkchoiceUpdated builds payload synchronously (13-16s), stalls event loop and causes missed proposals on glamsterdam-devnet-8](https://github.com/status-im/nimbus-eth1/issues/4881) - 2026-10-01
 
 * [Pull Request] [feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903) - 2026-10-05
+* [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5439347978) - 2026-10-07
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat: show why inclusion list transactions were omitted](https://github.com/ethpandaops/dora/pull/884) - 2026-10-01
 
@@ -42,6 +43,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
 
+* [Review] [Review on: setup.sh: reshim python after pip install (fixes lint-ansible CI)](https://github.com/ethpandaops/template-devnets/pull/191#pullrequestreview-5439911531) - 2026-10-07
+* [Commit] [feat: add HackMD sync helper (#160)](https://github.com/ethpandaops/template-devnets/commit/f25a2b9a61d01abda6d82aba36fa4d46056f3003) - 2026-10-07
+* [Commit] [inventory: keep genesis chain id within 32-bit range (#188)](https://github.com/ethpandaops/template-devnets/commit/4e6a5a04ea076d1b2629129d874cd4559259e9d9) - 2026-10-07
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 
@@ -51,6 +55,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
+* [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441688831) - 2026-10-07
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [feat: emit inclusion_list SSE event](https://github.com/sigp/lighthouse/pull/10228) - 2026-10-06
 * [Pull Request] [fix: produce inclusion lists in the first Heze slot](https://github.com/sigp/lighthouse/pull/10230) - 2026-10-06

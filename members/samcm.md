@@ -26,6 +26,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(sentry): produce Gloas blocks over v4 (#899)](https://github.com/ethpandaops/xatu/commit/92d84c4efd733083c8d6a368c0c42737f8952c8a) - 2026-10-07
 * [Commit] [feat(clmimicry): accept Gloas gossip blocks and aggregates (#898)](https://github.com/ethpandaops/xatu/commit/75a10b0575570d7c5e6280e4b04b524059745c5e) - 2026-10-07
 * [Commit] [fix(cannon): EL ceiling and blob sidecars for Gloas blocks (#897)](https://github.com/ethpandaops/xatu/commit/f468ae46b7ff09662609ff03ef89808119888703) - 2026-10-07
+* [Review] [Review on: feat: store spec event fields dropped on the way to ClickHouse](https://github.com/ethpandaops/xatu/pull/902#pullrequestreview-5450593639) - 2026-10-08
+* [Pull Request] [fix(proto): regenerate pkg/proto/clickhouse and check it in CI](https://github.com/ethpandaops/xatu/pull/903) - 2026-10-08
+* [Commit] [fix(proto): regenerate pkg/proto/clickhouse and check it in CI (#903)](https://github.com/ethpandaops/xatu/commit/2c244086e6a05628f773432be0cdb900c03b2cc3) - 2026-10-08
 ## Q3 2026
 
 

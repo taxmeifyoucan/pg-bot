@@ -13,6 +13,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Update gossip config with MAX_TOTAL_FIELDS = 32768](https://github.com/Consensys-Incorporated/teku/pull/11413#pullrequestreview-5423194768) - 2026-10-06
+* [Pull Request] [Bump ref test to beta3](https://github.com/Consensys-Incorporated/teku/pull/11444) - 2026-10-07
+* [Review] [Review on: Lower pending block pool byte cap and report pool size in bytes](https://github.com/Consensys-Incorporated/teku/pull/11435#pullrequestreview-5449532540) - 2026-10-07
 ## Q3 2026
 
 

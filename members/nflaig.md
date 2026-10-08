@@ -103,12 +103,27 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: prevent range sync stall when rate limit backoff expires (#10249)](https://github.com/ChainSafe/lodestar/commit/622c8d36bcb825a82e2e39e53bd7aa035f303ca6) - 2026-10-06
 * [Commit] [chore: update consensus specs to v1.7.0-beta.3 (#10280)](https://github.com/ChainSafe/lodestar/commit/15ca1827f4e7f61fd4b91106e67285493a6653dc) - 2026-10-06
 * [Commit] [test: require exact Gloas viable heads in spec runner (#10156)](https://github.com/ChainSafe/lodestar/commit/2c73e626787005b5443bca00d593d87790438f21) - 2026-10-06
+* [Pull Request] [fix: clear pending builder payments of slashed proposers](https://github.com/ChainSafe/lodestar/pull/10300) - 2026-10-08
+* [Pull Request] [feat: support payload reorgs in chain reorg events](https://github.com/ChainSafe/lodestar/pull/10299) - 2026-10-07
+* [Review] [Review on: fix: honor group validator statuses when filtering by ids](https://github.com/ChainSafe/lodestar/pull/10261#pullrequestreview-5445568817) - 2026-10-07
+* [Pull Request] [feat: add fork choice v2 debug fields](https://github.com/ChainSafe/lodestar/pull/10297) - 2026-10-07
+* [Review] [Review on: feat: optionally persist produced execution payload envelopes](https://github.com/ChainSafe/lodestar/pull/10287#pullrequestreview-5444095194) - 2026-10-07
+* [Review] [Review on: fix: align fork choice v2 with beacon api spec](https://github.com/ChainSafe/lodestar/pull/10191#pullrequestreview-5441831962) - 2026-10-07
+* [Review] [Review on: fix: populate proposal shufflings before packing attestations](https://github.com/ChainSafe/lodestar/pull/10285#pullrequestreview-5438914276) - 2026-10-07
+* [Review] [Review on: feat: remove legacy Eth1 fields in Heze (EIP-8015)](https://github.com/ChainSafe/lodestar/pull/10293#pullrequestreview-5439951218) - 2026-10-07
+* [Review] [Review on: feat: disallow new BLS withdrawal validators in Heze (EIP-8365)](https://github.com/ChainSafe/lodestar/pull/10292#pullrequestreview-5439188010) - 2026-10-07
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.3](https://github.com/ChainSafe/lodestar/pull/10280#pullrequestreview-5438891372) - 2026-10-07
+* [Commit] [feat: add ptc state endpoint (#10190)](https://github.com/ChainSafe/lodestar/commit/ba0411b482d924be4b2e1637a2abbfa7024e3fbb) - 2026-10-07
+* [Commit] [feat: add fork choice v2 debug fields (#10297)](https://github.com/ChainSafe/lodestar/commit/d23dd629582cc634e4da031bfc8e30fb6e451f1f) - 2026-10-07
+* [Commit] [fix: align fork choice v2 with beacon api spec (#10191)](https://github.com/ChainSafe/lodestar/commit/3b56ef3d947b1fd05e0280fefb718c44d6205693) - 2026-10-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
 
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5413480142) - 2026-10-05
 * [Commit] [Settle builder payment before parent requests (#5695)](https://github.com/ethereum/consensus-specs/commit/71c00190f157b8dda556bf4e6135c39307569e62) - 2026-10-05
+* [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5450195100) - 2026-10-08
+* [Review] [Review on: Add tests for proposer and attester slashings in one block](https://github.com/ethereum/consensus-specs/pull/5720#pullrequestreview-5450152376) - 2026-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
@@ -117,6 +132,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Gloas: head with an EL-unvalidated payload is treated as execution-valid; block production only stopped by the EL](https://github.com/status-im/nimbus-eth2/issues/9203) - 2026-10-05
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [fix: align fork choice v2 with beacon api spec](https://github.com/OffchainLabs/prysm/pull/17636) - 2026-10-07
 ## Q3 2026
 
 

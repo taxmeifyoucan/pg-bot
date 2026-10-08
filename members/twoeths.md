@@ -36,6 +36,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: update consensus specs to v1.7.0-beta.3](https://github.com/ChainSafe/lodestar/pull/10280#pullrequestreview-5426191672) - 2026-10-06
 * [Pull Request] [fix: cache gossip blocks only after proposer signature verification](https://github.com/ChainSafe/lodestar/pull/10279) - 2026-10-06
 * [Review] [Review on: fix: cache gossip blocks only after proposer signature verification](https://github.com/ChainSafe/lodestar/pull/10279#pullrequestreview-5426050265) - 2026-10-06
+* [Pull Request] [chore: bump ssz to 1.8.1](https://github.com/ChainSafe/lodestar/pull/10301) - 2026-10-08
+* [Review] [Review on: fix: clear pending builder payments of slashed proposers](https://github.com/ChainSafe/lodestar/pull/10300#pullrequestreview-5450654650) - 2026-10-08
+* [Pull Request] [fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294) - 2026-10-07
+* [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5442276446) - 2026-10-07
+* [Review] [Review on: fix: populate proposal shufflings before packing attestations](https://github.com/ChainSafe/lodestar/pull/10285#pullrequestreview-5442531044) - 2026-10-07
+* [Pull Request] [fix: handle missing shuffling in block production](https://github.com/ChainSafe/lodestar/pull/10295) - 2026-10-07
 ## Q3 2026
 
 

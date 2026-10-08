@@ -33,6 +33,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add EIP-8365 to Heze](https://github.com/ethereum/consensus-specs/pull/5713#pullrequestreview-5428822831) - 2026-10-06
 * [Review] [Review on: Standardize shorthands in comprehensions](https://github.com/ethereum/consensus-specs/pull/5714#pullrequestreview-5429166781) - 2026-10-06
 * [Commit] [Build gas limit bid tests with matching head block bid (#5709)](https://github.com/ethereum/consensus-specs/commit/c489a99077c16bad7d75053257c50633d12d314d) - 2026-10-06
+* [Pull Request] [Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719) - 2026-10-07
+* [Pull Request] [Add tests for proposer and attester slashings in one block](https://github.com/ethereum/consensus-specs/pull/5720) - 2026-10-08
+* [Review] [Review on: Make the ProofEngine validation-only](https://github.com/ethereum/consensus-specs/pull/5639#pullrequestreview-5448788564) - 2026-10-07
+* [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5444817735) - 2026-10-07
+* [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5443733201) - 2026-10-07
+* [Commit] [Exclude slashed validators from `calculate_committee_fraction` (#5679)](https://github.com/ethereum/consensus-specs/commit/f62a3a9ff58d7338c319c77407db587af67463a7) - 2026-10-07
+* [Commit] [Return slot durations as tuples in `get_slot_durations` (#5717)](https://github.com/ethereum/consensus-specs/commit/e03ef4967d38f0bd9b8860dec92de8d1da74367f) - 2026-10-07
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 ## Q3 2026
 
 

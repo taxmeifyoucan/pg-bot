@@ -175,6 +175,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): DMA memmove/memset for keccak state fill and RLP byte strings in the ZisK guest (#14257)](https://github.com/NethermindEth/nethermind/commit/2111f3af0126ad0c9a251d57f2d319ec5d22d8c2) - 2026-10-06
 * [Commit] [perf(zkevm): guest handlers for wide arithmetic, SLOAD/TLOAD/TSTORE, MSTORE8 and data copies (#14229)](https://github.com/NethermindEth/nethermind/commit/0bf379baa170bc8ca63e29f169a194b6923412f0) - 2026-10-06
 * [Commit] [fix(sync): retake an invalid sync snapshot before recalculating progress pointers (#14276)](https://github.com/NethermindEth/nethermind/commit/4fa1d7b0ad25cc260661d2e40d05a61033fe9420) - 2026-10-06
+* [Review] [Review on: feat(specs): schedule EIP-8250, EIP-8272 and EIP-7906 from a geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14386#pullrequestreview-5441444753) - 2026-10-07
+* [Pull Request] [refactor(zkevm): share guest substitutions, project settings and guide](https://github.com/NethermindEth/nethermind/pull/14397) - 2026-10-07
+* [Review] [Review on: refactor(tracing): one node-wide parallel trace budget sized by JsonRpc.TraceBlockParallelism](https://github.com/NethermindEth/nethermind/pull/14363#pullrequestreview-5441215190) - 2026-10-07
+* [Commit] [ci: drop Missing Ancestor entries from known-flaky hive tests (#14382)](https://github.com/NethermindEth/nethermind/commit/77e9be911f78a846d07ece11d28411391eaff0a4) - 2026-10-07
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -182,6 +186,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Restore TLS lookup contract and cover lazy first use](https://github.com/NethermindEth/bflat-riscv64/commit/f37f55ac9057105668e1394edc60bdae8b8b7aab) - 2026-10-02
 
 * [Pull Request] [perf(zisk): frameless allocation fast paths with a cached allocation context](https://github.com/NethermindEth/bflat-riscv64/pull/47) - 2026-10-04
+* [Pull Request] [bflat: wide unaligned accesses for --libc openvm](https://github.com/NethermindEth/bflat-riscv64/pull/49) - 2026-10-07
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
@@ -197,6 +202,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fixup/11/upstream: no sext.w for a LONG-to-INT cast of an in-range value](https://github.com/NethermindEth/dotnet-riscv/commit/0bc1b6cb83e88c764fa937d22763fcd0c9b538ff) - 2026-10-06
 * [Commit] [fixup/11/upstream: probe object references with an aligned ld on RISC-V](https://github.com/NethermindEth/dotnet-riscv/commit/3c7e3bd885f1bd5e6271b5508fe38cbb1ac19b7e) - 2026-10-06
 * [Commit] [fixup/11/upstream: drop shift-count masks the RISC-V shifts already apply](https://github.com/NethermindEth/dotnet-riscv/commit/e8e575129f8baed974f8b6c811ac63eec16d3a8e) - 2026-10-06
+* [Pull Request] [fixup/11/upstream: perf-67 - strict alignment proves accesses through locals aligned](https://github.com/NethermindEth/dotnet-riscv/pull/21) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

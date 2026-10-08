@@ -150,6 +150,29 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(flat-history): pruner seeks past each key's live rows](https://github.com/NethermindEth/nethermind/pull/14371#pullrequestreview-5436859915) - 2026-10-07
 * [Review] [Review on: perf(flat): filter in-memory slot reads of plain eth_call, estimateGas and createAccessList](https://github.com/NethermindEth/nethermind/pull/14330#pullrequestreview-5436859663) - 2026-10-07
 * [Review] [Review on: perf(history-walk): fork/join scheduler so split storage children run on all workers](https://github.com/NethermindEth/nethermind/pull/14353#pullrequestreview-5436859470) - 2026-10-07
+* [Review] [Review on: perf(history-walk): fold the root in parallel block-range chunks](https://github.com/NethermindEth/nethermind/pull/14373#pullrequestreview-5448470795) - 2026-10-07
+* [Review] [Review on: perf(flat): skip per-scope resets and warm-up hints that do nothing](https://github.com/NethermindEth/nethermind/pull/14336#pullrequestreview-5448472222) - 2026-10-07
+* [Review] [Review on: fix(focil): judge an inclusion list resent while an earlier copy is queued](https://github.com/NethermindEth/nethermind/pull/14314#pullrequestreview-5438109136) - 2026-10-07
+* [Review] [Review on: feat(eip8141): deploy the expiry verifier as an ordinary contract](https://github.com/NethermindEth/nethermind/pull/14378#pullrequestreview-5438109380) - 2026-10-07
+* [Pull Request] [perf(network): bound inbound transaction admission and pool request tracking](https://github.com/NethermindEth/nethermind/pull/14434) - 2026-10-07
+* [Review] [Review on: perf(network): bound inbound transaction admission and pool request tracking](https://github.com/NethermindEth/nethermind/pull/14434#pullrequestreview-5449926143) - 2026-10-08
+* [Pull Request] [fix(init): exit cleanly when KZG trusted setup cannot be loaded](https://github.com/NethermindEth/nethermind/pull/14435) - 2026-10-08
+* [Review] [Review on: fix(init): exit cleanly when KZG trusted setup cannot be loaded](https://github.com/NethermindEth/nethermind/pull/14435#pullrequestreview-5450487919) - 2026-10-08
+* [Review] [Review on: feat(specs): schedule EIP-8250, EIP-8272 and EIP-7906 from a geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14386#pullrequestreview-5438109634) - 2026-10-07
+* [Review] [Review on: feat(jsonrpc): include caller address in debug request logs](https://github.com/NethermindEth/nethermind/pull/14316#pullrequestreview-5437543201) - 2026-10-07
+* [Review] [Review on: fix(txpool): run the frame-tx prefix simulation under the configured MAX_VERIFY_GAS](https://github.com/NethermindEth/nethermind/pull/14379#pullrequestreview-5438109839) - 2026-10-07
+* [Review] [Review on: feat(eip8141): MATCHA paymaster width for sponsored frame transactions](https://github.com/NethermindEth/nethermind/pull/14305#pullrequestreview-5437543382) - 2026-10-07
+* [Review] [Review on: feat(jsonrpc): add JsonRpc.IpcEnabledModules to serve a separate module set over IPC](https://github.com/NethermindEth/nethermind/pull/14318#pullrequestreview-5437543048) - 2026-10-07
+* [Review] [Review on: refactor(txpool): resolve ITxPool, ITxSender and ITransactionComparerProvider from DI](https://github.com/NethermindEth/nethermind/pull/14253#pullrequestreview-5437603466) - 2026-10-07
+* [Review] [Review on: feat(sync): label snap sync phases and drop misleading healing percentage](https://github.com/NethermindEth/nethermind/pull/14344#pullrequestreview-5437542166) - 2026-10-07
+* [Review] [Review on: fix(sync): stop block access lists sync at the EIP-7928 activation block](https://github.com/NethermindEth/nethermind/pull/14368#pullrequestreview-5437541193) - 2026-10-07
+* [Review] [Review on: ci(zkevm): run stateless Glamsterdam tests on Sepolia blocks](https://github.com/NethermindEth/nethermind/pull/14413#pullrequestreview-5448812551) - 2026-10-07
+* [Review] [Review on: fix(history-walk): scan the whole storage bucket before accepting slot history](https://github.com/NethermindEth/nethermind/pull/14329#pullrequestreview-5448472585) - 2026-10-07
+* [Review] [Review on: perf(evm): leave checked opcodes straight from host dispatch when it carries gas](https://github.com/NethermindEth/nethermind/pull/14427#pullrequestreview-5448254529) - 2026-10-07
+* [Review] [Review on: refactor(zkevm): share guest substitutions, project settings and guide](https://github.com/NethermindEth/nethermind/pull/14397#pullrequestreview-5447267406) - 2026-10-07
+* [Review] [Review on: refactor(tracing): one node-wide parallel trace budget sized by JsonRpc.TraceBlockParallelism](https://github.com/NethermindEth/nethermind/pull/14363#pullrequestreview-5448471226) - 2026-10-07
+* [Commit] [perf(network): bound inbound transaction admission and pool request tracking (#14434)](https://github.com/NethermindEth/nethermind/commit/e7f273cb3620d76863696750e3876745b6d784af) - 2026-10-08
+* [Commit] [perf(rpc): source-generated JSON writers for blocks, RPC transactions and logs (#14299)](https://github.com/NethermindEth/nethermind/commit/1afc6a83202e6e9344613d8ea4e7a9a01d7ada09) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

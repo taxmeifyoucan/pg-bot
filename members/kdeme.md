@@ -22,6 +22,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: build the ZisK guest against ziskos v1.2.0-alpha in CI (#4896)](https://github.com/status-im/nimbus-eth1/commit/f04aa5378985d40feb78e9e56d453b2acf8f35fb) - 2026-10-04
 * [Commit] [eest: add zkevm benchmark fixtures make target and download (#4899)](https://github.com/status-im/nimbus-eth1/commit/7e6c38ee2795f5b029353f1badb08e693b52ee93) - 2026-10-05
 * [Review] [Review on: EL: engine rest ssz api](https://github.com/status-im/nimbus-eth1/pull/4653#pullrequestreview-5431305255) - 2026-10-06
+* [Review] [Review on: make focil related field optional to include](https://github.com/status-im/nimbus-eth1/pull/4933#pullrequestreview-5446154113) - 2026-10-07
+* [Commit] [networking: remove DiscoveryV4 support, use DiscoveryV5 only (#4476)](https://github.com/status-im/nimbus-eth1/commit/1f305f8442ff292410376b330b795bc56a982705) - 2026-10-07
 ## Q3 2026
 
 

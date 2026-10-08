@@ -52,6 +52,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Enable NullAway for crypto services](https://github.com/besu-eth/besu/pull/10935#pullrequestreview-5424449862) - 2026-10-06
 * [Commit] [remove deprecated --Xsnapsync-synchronizer-pivot-block-distance-before-caching (#11499)](https://github.com/besu-eth/besu/commit/e745c269f957aa0861ffaaf8e1090a4680017f8f) - 2026-10-07
 * [Commit] [ci: use BuildKit cache mode=min to reduce GHA cache usage (#11498)](https://github.com/besu-eth/besu/commit/26045f4d74af0e2e8ad288020e50d301138354ad) - 2026-10-07
+* [Review] [Review on: Write returnData in streamed debug_traceBlock struct logs](https://github.com/besu-eth/besu/pull/11450#pullrequestreview-5439008452) - 2026-10-07
+* [Review] [Review on: fix(blocks): preserve export if BAL sidecar cannot open](https://github.com/besu-eth/besu/pull/11467#pullrequestreview-5439232870) - 2026-10-07
+* [Pull Request] [updateVerificationMetadata to include checkLicense](https://github.com/besu-eth/besu/pull/11507) - 2026-10-07
+* [Issue] [txpool: IndexOutOfBoundsException in SparseTransactions.canAdd when reconciling a sender with a nonce gap >= maxFutureBySender](https://github.com/besu-eth/besu/issues/11501) - 2026-10-07
+* [Issue] [flaky test SECP256R1AcceptanceTest transactionShouldBeSuccessful](https://github.com/besu-eth/besu/issues/11517) - 2026-10-07
+* [Commit] [updateVerificationMetadata to include checkLicense (#11507)](https://github.com/besu-eth/besu/commit/bee392b2865f11511ee38cc235e0ed6c50eff17e) - 2026-10-07
+* [Commit] [update jackson bom to 2.21.7 (#11503)](https://github.com/besu-eth/besu/commit/33506247ea3112a62200b85a1939874f40309c51) - 2026-10-07
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

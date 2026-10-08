@@ -21,6 +21,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629) - 2026-10-06
 * [Pull Request] [cl, execution: fix two causes of a stall after a Caplin restart](https://github.com/erigontech/erigon/pull/24628) - 2026-10-06
 * [Pull Request] [cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24627) - 2026-10-06
+* [Review] [Review on: cl/aggregation: avoid uint64 underflow when checking stale slots](https://github.com/erigontech/erigon/pull/24652#pullrequestreview-5449488675) - 2026-10-07
+* [Review] [Review on: cl/sentinel/communication/ssz_snappy: grow the read buffer as data arrives](https://github.com/erigontech/erigon/pull/24648#pullrequestreview-5449489828) - 2026-10-07
+* [Review] [Review on: build, cl/spectest: stop building with GOEXPERIMENT=jsonv2](https://github.com/erigontech/erigon/pull/24656#pullrequestreview-5449488978) - 2026-10-07
+* [Review] [Review on: cl/antiquary: retire one blob segment per attempt](https://github.com/erigontech/erigon/pull/24586#pullrequestreview-5449506201) - 2026-10-07
+* [Review] [Review on: cl/phase1/network/services: read same-epoch parent state in place for gossip block validation](https://github.com/erigontech/erigon/pull/24523#pullrequestreview-5449425414) - 2026-10-07
+* [Review] [Review on: cl/beacon/handler: aggregate PTC votes after the payload wait](https://github.com/erigontech/erigon/pull/24662#pullrequestreview-5449410393) - 2026-10-07
+* [Review] [Review on: cl/beacon/handler: select block attestations by marginal proposer reward](https://github.com/erigontech/erigon/pull/24566#pullrequestreview-5449360656) - 2026-10-07
+* [Review] [Review on: cl: follow the spec's gossip slot window for current and future slots](https://github.com/erigontech/erigon/pull/24489#pullrequestreview-5449510044) - 2026-10-07
+* [Review] [Review on: cl: reject negative validator indices in state accessors](https://github.com/erigontech/erigon/pull/24615#pullrequestreview-5449489455) - 2026-10-07
+* [Review] [Review on: cl/cltypes/solid: cap inferred committee bits width when decoding without config](https://github.com/erigontech/erigon/pull/24614#pullrequestreview-5449489217) - 2026-10-07
+* [Pull Request] [[r3.7] cl, execution: fix two causes of a stall after a Caplin restart](https://github.com/erigontech/erigon/pull/24657) - 2026-10-07
+* [Review] [Review on: cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629#pullrequestreview-5448906940) - 2026-10-07
+* [Commit] [cl, execution: fix two causes of a stall after a Caplin restart (#24628)](https://github.com/erigontech/erigon/commit/b2293323511f1ec355841b453efd1bdb53a01c32) - 2026-10-07
 ## Q3 2026
 
 

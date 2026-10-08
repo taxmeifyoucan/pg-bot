@@ -37,6 +37,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Publish the jump destination analysis safely](https://github.com/besu-eth/besu/pull/11403#pullrequestreview-5425508101) - 2026-10-06
 * [Review] [Review on: Fix stale MessageFrame javadoc: same-tx SELFDESTRUCT does not refund state gas](https://github.com/besu-eth/besu/pull/11471#pullrequestreview-5425214165) - 2026-10-06
 * [Pull Request] [Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482) - 2026-10-06
+* [Pull Request] [Log replaced payload builds at debug level with the changed inputs](https://github.com/besu-eth/besu/pull/11504) - 2026-10-07
+* [Pull Request] [Request the storage of an account only for the account range it belongs to](https://github.com/besu-eth/besu/pull/11516) - 2026-10-07
+* [Pull Request] [Stop all snap sync download pipelines when one of them fails](https://github.com/besu-eth/besu/pull/11515) - 2026-10-07
+* [Pull Request] [Fix a lost wake-up in AsyncOperationProcessor that can stall snap sync](https://github.com/besu-eth/besu/pull/11514) - 2026-10-07
+* [Review] [Review on: Make EthProtocolVersion an enum](https://github.com/besu-eth/besu/pull/11511#pullrequestreview-5442593569) - 2026-10-07
+* [Pull Request] [Keep the wrapped account's analysed code in update tracking accounts](https://github.com/besu-eth/besu/pull/11508) - 2026-10-07
+* [Pull Request] [Fix callTracer crash when the top frame halts before it starts](https://github.com/besu-eth/besu/pull/11505) - 2026-10-07
+* [Review] [Review on: Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364#pullrequestreview-5442470864) - 2026-10-07
+* [Commit] [Stop duplicating reference test fixtures per checkout (#11413)](https://github.com/besu-eth/besu/commit/b78faa4a9103d5d4d39d1afe5c95596aad1cdaf4) - 2026-10-07
+* [Commit] [Versioned code storage [2/3] Store contract code in a versioned format with its jump destination analysis (#11327)](https://github.com/besu-eth/besu/commit/830715a7ea94bc60374f6f8cc3d4ce0eaf1fff66) - 2026-10-07
+* [Commit] [Retry bootnodes on networks with few peers (#11368)](https://github.com/besu-eth/besu/commit/d00b89f1f265174f5984304bc57e2ed3bbf51d0d) - 2026-10-07
+* [Commit] [Publish the jump destination analysis safely (#11403)](https://github.com/besu-eth/besu/commit/da96be7ac4c1779b554f7f950a70a90c5adf3bfb) - 2026-10-07
+* [Commit] [Treat failing beacon roots and history system calls as non-fatal (#11415)](https://github.com/besu-eth/besu/commit/0405c93dc62911361155c6ca4e90173a1a1fa421) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

@@ -26,6 +26,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: request bid in parallel with the local bid](https://github.com/OffchainLabs/prysm/pull/17607#pullrequestreview-5431730159) - 2026-10-06
 * [Commit] [Remove unneeded ticker stops (#17631)](https://github.com/OffchainLabs/prysm/commit/a7cac0741fb68681572afd77b6ef76b8ee83814e) - 2026-10-06
 * [Commit] [request bid in parallel with the local bid (#17607)](https://github.com/OffchainLabs/prysm/commit/6eb4c86ed1b70f54183c6feb6f0d2855b434a957) - 2026-10-06
+* [Review] [Review on: Read head and forkchoice node under one lock in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17633#pullrequestreview-5449434415) - 2026-10-07
 ## Q3 2026
 
 

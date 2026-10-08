@@ -20,6 +20,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: Hash and size legacy transactions and block access lists from their r…](https://github.com/besu-eth/besu/pull/11470#pullrequestreview-5422166702) - 2026-10-06
 * [Review] [Review on: feat: add debug_getRawExecutionRequests](https://github.com/besu-eth/besu/pull/11481#pullrequestreview-5424093521) - 2026-10-06
 * [Commit] [feat: add debug_getRawExecutionRequests (#11481)](https://github.com/besu-eth/besu/commit/47d923540d1ed0eb050dfc6a13bbea7a92cc533b) - 2026-10-07
+
+* [Pull Request] [refactor: decouple block rewards from the block processor into the protocol spec](https://github.com/besu-eth/besu/pull/11509) - 2026-10-07
+* [Pull Request] [chore(tech-debt): remove the vestigial skipZeroBlockRewards flag](https://github.com/besu-eth/besu/pull/11506) - 2026-10-07
+* [Commit] [refactor: decouple block rewards from the block processor into the protocol spec (#11509)](https://github.com/besu-eth/besu/commit/a1788adccd184dc87dcb80a485ae743e75534169) - 2026-10-08
+* [Commit] [Remove the skipZeroBlockRewards flag (#11506)](https://github.com/besu-eth/besu/commit/2372a4fd9a2d6f2eb64af28db04f28ff49c0b8c2) - 2026-10-07
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 ## Q3 2026
 
 

@@ -14,6 +14,7 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(evm): support context and shared dispatch for native calls](https://github.com/paradigmxyz/reth/pull/27642) - 2026-10-01
 
+* [Review] [Review on: feat(cli): allow CPU core count overrides](https://github.com/paradigmxyz/reth/pull/27765#pullrequestreview-5446189811) - 2026-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

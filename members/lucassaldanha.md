@@ -51,6 +51,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Add second batch of gossipsub metrics (#11414)](https://github.com/Consensys-Incorporated/teku/commit/0bccee634ef54422428011a096a2941fbd53e488) - 2026-10-06
 * [Commit] [Update gossip config with MAX_TOTAL_FIELDS = 32768 (#11413)](https://github.com/Consensys-Incorporated/teku/commit/57937d72b49ee6f9fa27d80f48e7a3285bc5a7b9) - 2026-10-06
 * [Review] [Review on: Bound the future block queue by size and count](https://github.com/Consensys-Incorporated/teku/pull/11434#pullrequestreview-5436652615) - 2026-10-07
+* [Review] [Review on: Fix progressive ssz loadstore by preserving last chunk size](https://github.com/Consensys-Incorporated/teku/pull/11418#pullrequestreview-5450813783) - 2026-10-08
+* [Pull Request] [Decode gossip messages on the async runner instead of the gossipsub thread](https://github.com/Consensys-Incorporated/teku/pull/11447) - 2026-10-08
+* [Review] [Review on: Decode gossip messages on the async runner instead of the gossipsub thread](https://github.com/Consensys-Incorporated/teku/pull/11447#pullrequestreview-5450950217) - 2026-10-08
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

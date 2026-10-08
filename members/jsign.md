@@ -30,6 +30,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [ci: fail on Cargo.toml warnings, use stable Rust, fix test caching (#316)](https://github.com/eth-act/zkevm-benchmark-workload/commit/eead81b805d8e17c1177159a9983dc08fb323aef) - 2026-10-06
 * [Commit] [fix: update catalog URL to new R2 endpoint for Sepolia (#315)](https://github.com/eth-act/zkevm-benchmark-workload/commit/5cbfca2bbe36f1f2a310469d9e6c87831d2910e9) - 2026-10-06
 * [Commit] [feat: adopt tests-zkevm@v21.0.1 engine fixtures and Sepolia publication (#314)](https://github.com/eth-act/zkevm-benchmark-workload/commit/3c74a083561416e6b73785c4ab59a40afab331c3) - 2026-10-06
+* [Pull Request] [ci: add SP1 e2e test with real EEST fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/318) - 2026-10-07
+* [Commit] [ci: add SP1 e2e test with real EEST fixtures (#318)](https://github.com/eth-act/zkevm-benchmark-workload/commit/274070caa41c7b88b3b7a0ed8adf0a4cc4e5a12c) - 2026-10-07
 ## Q3 2026
 
 

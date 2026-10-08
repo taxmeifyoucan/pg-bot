@@ -13,6 +13,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Optional payload storage](https://github.com/grandinetech/grandine/pull/949) - 2026-10-01
+* [Pull Request] [Enable nethermind integration in stable releases](https://github.com/grandinetech/grandine/pull/959) - 2026-10-07
+* [Pull Request] [Make pre-release tags published as unstable](https://github.com/grandinetech/grandine/pull/958) - 2026-10-07
+* [Pull Request] [Optimize epoch processing for gloas](https://github.com/grandinetech/grandine/pull/957) - 2026-10-07
 ## Q3 2026
 
 

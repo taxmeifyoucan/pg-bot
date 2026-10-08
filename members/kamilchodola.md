@@ -38,6 +38,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(engine): start early sender recovery once the payload's transactions root is joined (#14213)](https://github.com/NethermindEth/nethermind/commit/afa3d64d2e95e1a6f5e527b7481f2845ae3ed2d7) - 2026-10-05
 * [Commit] [perf(prewarm): read the accounts that large calldata names as ABI address words (#14204)](https://github.com/NethermindEth/nethermind/commit/fc7b508827af35ea4251f06792e563098ad6aa6e) - 2026-10-05
 * [Commit] [Prewarmer handoff rework (#14312)](https://github.com/NethermindEth/nethermind/commit/95faee7e97c0ad3b0d842f87fd7436e574b17658) - 2026-10-06
+* [Pull Request] [perf(evm): leave checked opcodes straight from host dispatch when it carries gas](https://github.com/NethermindEth/nethermind/pull/14427) - 2026-10-07
+* [Commit] [perf(evm): leave checked opcodes straight from host dispatch when it carries gas (#14427)](https://github.com/NethermindEth/nethermind/commit/f3b740c870a1169ea37059e48a9bf98e36964874) - 2026-10-07
+* [Commit] [Refresh prewarm footprints that earlier transactions invalidate (#14393)](https://github.com/NethermindEth/nethermind/commit/b40beacdafee3a51494bb64b283bf194f867bc1a) - 2026-10-07
 ## Q3 2026
 
 

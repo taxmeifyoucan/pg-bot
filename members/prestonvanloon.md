@@ -22,6 +22,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Remove unneeded ticker stops](https://github.com/OffchainLabs/prysm/pull/17631#pullrequestreview-5432704756) - 2026-10-06
 * [Review] [Review on: Remove `BeaconState` proto message](https://github.com/OffchainLabs/prysm/pull/17535#pullrequestreview-5430224746) - 2026-10-06
 * [Commit] [Remove .bzl CODEOWNER requirements (#17621)](https://github.com/OffchainLabs/prysm/commit/2ddd9275b2769d4eb772cc8d82634de4f3f04ab6) - 2026-10-06
+* [Review] [Review on: Read head and forkchoice node under one lock in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17633#pullrequestreview-5448259733) - 2026-10-07
+* [Review] [Review on: Fix/pending block broadcast fork digest](https://github.com/OffchainLabs/prysm/pull/17543#pullrequestreview-5447241412) - 2026-10-07
+* [Review] [Review on: Remove Bazel: Phase 7/9](https://github.com/OffchainLabs/prysm/pull/17595#pullrequestreview-5444721900) - 2026-10-07
+* [Commit] [Remove the unencrypted-keys-gen and convert-keys interop tools (#17583)](https://github.com/OffchainLabs/prysm/commit/87b1a26dd9056e94768e78a604409f86dc4dc9a9) - 2026-10-07
+* [Commit] [Remove the beacon-fuzz state map generator (#17582)](https://github.com/OffchainLabs/prysm/commit/8d4a776b920eefc3c7c08c34310178ec9567a690) - 2026-10-07
 ## Q3 2026
 
 

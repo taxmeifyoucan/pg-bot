@@ -18,6 +18,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync reload after sync has finished (#4894)](https://github.com/status-im/nimbus-eth1/commit/ca4d5c272ed63b344d17098552c12610ed39109e) - 2026-10-03
 * [Pull Request] [Code cosmetics, comments update, small fixes and updates](https://github.com/status-im/nimbus-eth1/pull/4904) - 2026-10-05
 * [Commit] [Code cosmetics, comments update, small fixes and updates (#4904)](https://github.com/status-im/nimbus-eth1/commit/99329500d397cfafa905941663aec2d2ea844a4e) - 2026-10-05
+* [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4925) - 2026-10-07
+* [Commit] [Snap2 sync maint update (#4925)](https://github.com/status-im/nimbus-eth1/commit/29c0cab3d7da1f486ec8c37a6eda3feafbab280b) - 2026-10-07
 ## Q3 2026
 
 

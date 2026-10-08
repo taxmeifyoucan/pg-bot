@@ -26,6 +26,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: prevent range sync stall when rate limit backoff expires](https://github.com/ChainSafe/lodestar/pull/10249#pullrequestreview-5426375207) - 2026-10-06
 * [Review] [Review on: test: require exact Gloas viable heads in spec runner](https://github.com/ChainSafe/lodestar/pull/10156#pullrequestreview-5425708823) - 2026-10-06
 * [Commit] [test: enable is_one_confirmed deposit vectors (#9917)](https://github.com/ChainSafe/lodestar/commit/67e2b54129862030d2d4f38fbe1c4847bbae3b40) - 2026-10-06
+* [Review] [Review on: fix: inherit gloas block execution status from the parent variant it builds on](https://github.com/ChainSafe/lodestar/pull/10268#pullrequestreview-5441721682) - 2026-10-07
+* [Review] [Review on: fix: handle missing shuffling in block production](https://github.com/ChainSafe/lodestar/pull/10295#pullrequestreview-5441257528) - 2026-10-07
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -33,6 +35,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: align transition status options with host semantics](https://github.com/ChainSafe/lodestar-z/pull/751) - 2026-10-02
 * [Review] [Review on: perf(state-transition): diff-synced flat validator cache](https://github.com/ChainSafe/lodestar-z/pull/736#pullrequestreview-5393525722) - 2026-10-02
 * [Review] [Review on: feat(bindings): implement remaining rewards apis](https://github.com/ChainSafe/lodestar-z/pull/731#pullrequestreview-5413024331) - 2026-10-05
+* [Review] [Review on: test: verify allocation failure coverage with standard checks](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5440791887) - 2026-10-07
 ## Q3 2026
 
 

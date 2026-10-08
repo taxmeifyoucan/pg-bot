@@ -31,6 +31,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Issue] [GetSyncReceiptsFromPeerTask per-receipt size bound uses a hard-coded 45M gas limit](https://github.com/besu-eth/besu/issues/11493) - 2026-10-06
 * [Commit] [Setup Bogotá hardfork (#11431)](https://github.com/besu-eth/besu/commit/aff36ff9d74e037210129c152cc5e186f123cf79) - 2026-10-06
 * [Commit] [Fix stale MessageFrame javadoc: same-tx SELFDESTRUCT does not refund state gas (#11471)](https://github.com/besu-eth/besu/commit/7db2b2457ad13e15452c8ccea483e1e19bc4a5e8) - 2026-10-06
+* [Pull Request] [Replace custom `ByteUnits` utility with Storage-Units library](https://github.com/besu-eth/besu/pull/11512) - 2026-10-07
+* [Review] [Review on: Log replaced payload builds at debug level with the changed inputs](https://github.com/besu-eth/besu/pull/11504#pullrequestreview-5440420271) - 2026-10-07
+* [Review] [Review on: updateVerificationMetadata to include checkLicense](https://github.com/besu-eth/besu/pull/11507#pullrequestreview-5441738034) - 2026-10-07
+* [Pull Request] [Make EthProtocolVersion an enum](https://github.com/besu-eth/besu/pull/11511) - 2026-10-07
+* [Review] [Review on: Make EthProtocolVersion an enum](https://github.com/besu-eth/besu/pull/11511#pullrequestreview-5443682372) - 2026-10-07
+* [Pull Request] [Make SnapProtocolVersion an enum](https://github.com/besu-eth/besu/pull/11513) - 2026-10-07
+* [Commit] [Warn when a PoA chain defaults the EIP-8282 builder request addresses (#11476)](https://github.com/besu-eth/besu/commit/591429ca840a322fcc611d535b1ce7d037027907) - 2026-10-07
 ## Q3 2026
 
 

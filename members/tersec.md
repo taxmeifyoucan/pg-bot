@@ -44,6 +44,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [prevent req/resp column handlers from monopolizing event loop (#9192)](https://github.com/status-im/nimbus-eth2/commit/59f8e1a40dc251b509f8b6f8fe72097c573ada1c) - 2026-10-04
 * [Pull Request] [use v1.7.0-beta.3 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9211) - 2026-10-06
 * [Pull Request] [rm Pectra gossip support; update test summaries](https://github.com/status-im/nimbus-eth2/pull/9222) - 2026-10-07
+* [Review] [Review on: fix(sync): use per-entity stale-retry timestamp in SyncDag](https://github.com/status-im/nimbus-eth2/pull/9223#pullrequestreview-5450378831) - 2026-10-08
+* [Review] [Review on: partial column peering mechanics](https://github.com/status-im/nimbus-eth2/pull/9230#pullrequestreview-5450898611) - 2026-10-08
+* [Pull Request] [decrease test stack usage and copying](https://github.com/status-im/nimbus-eth2/pull/9232) - 2026-10-07
+* [Review] [Review on: Request and validate bids with BuilderConfig on proposal](https://github.com/status-im/nimbus-eth2/pull/9163#pullrequestreview-5449813883) - 2026-10-07
+* [Review] [Review on: nix: fix installCheckPhase for MacOS platform](https://github.com/status-im/nimbus-eth2/pull/9226#pullrequestreview-5439236559) - 2026-10-07
+* [Pull Request] [reduce peerdas helper stack usage](https://github.com/status-im/nimbus-eth2/pull/9228) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 ## Q3 2026

@@ -18,12 +18,16 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor](https://github.com/ethereum/execution-specs/pull/3711) - 2026-10-05
 * [Commit] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor (#3711)](https://github.com/ethereum/execution-specs/commit/1764b0884c3ad7f2126cc6a51f0e7ebd347cf8dc) - 2026-10-06
 * [Commit] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor (#3711)](https://github.com/ethereum/execution-specs/commit/abc389a05198ec8a87142cd282db6e72af4bde4d) - 2026-10-06
+* [Review] [Review on: test(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5437626276) - 2026-10-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02
 * [Review] [Review on: Update EIP-7928: clarify empty BAL conditions](https://github.com/ethereum/EIPs/pull/12416#pullrequestreview-5390806280) - 2026-10-02
 * [Commit] [Update EIP-5069: Add EIP Coordinator](https://github.com/ethereum/EIPs/commit/910d80209cb83c90f939f2746c5eb1f54b9d2a05) - 2026-10-05
 * [Review] [Review on: Update EIP-7843: Move to Last Call](https://github.com/ethereum/EIPs/pull/12425#pullrequestreview-5437268510) - 2026-10-07
+* [Pull Request] [Update EIP-8253: explicitly define Mainnet/testnet chain configs](https://github.com/ethereum/EIPs/pull/12456) - 2026-10-08
+* [Review] [Review on: Update EIP-1: remove duplicate EEST links section](https://github.com/ethereum/EIPs/pull/11398#pullrequestreview-5449307219) - 2026-10-07
+* [Review] [Review on: Update EIP-3298: Remove the refund cap from frame transaction settlement](https://github.com/ethereum/EIPs/pull/12455#pullrequestreview-5449107346) - 2026-10-07
 ## Q3 2026
 
 

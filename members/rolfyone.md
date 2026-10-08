@@ -23,6 +23,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Settle builder payment before parent requests and sweep remaining builder balance](https://github.com/Consensys-Incorporated/teku/pull/11408#pullrequestreview-5424952102) - 2026-10-06
 * [Commit] [Bound the future block queue by size and count (#11434)](https://github.com/Consensys-Incorporated/teku/commit/a46f9e1e3679e4c2707d27447628d07a6c67b600) - 2026-10-07
 * [Commit] [ Add decode regression test for Gloas block body deposits limit (#11415)](https://github.com/Consensys-Incorporated/teku/commit/2b8ffef789cfb27a85e89bf6d185e974d56ab2ec) - 2026-10-06
+* [Pull Request] [Verify block signatures before saving blocks for future processing](https://github.com/Consensys-Incorporated/teku/pull/11438) - 2026-10-07
+* [Pull Request] [[beacon api] update fork choice v2 to the final spec](https://github.com/Consensys-Incorporated/teku/pull/11448) - 2026-10-08
+* [Pull Request] [[beacon api] add Gloas fields to payload_attributes and block events](https://github.com/Consensys-Incorporated/teku/pull/11446) - 2026-10-08
+* [Issue] [[beacon api] update fork choice v2 to the final spec](https://github.com/Consensys-Incorporated/teku/issues/11442) - 2026-10-07
+* [Issue] [[beacon api] add Gloas fields to payload_attributes and block events](https://github.com/Consensys-Incorporated/teku/issues/11439) - 2026-10-07
+* [Issue] [[beacon api] add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/issues/11443) - 2026-10-07
+* [Issue] [[beacon api] add PTC state endpoint](https://github.com/Consensys-Incorporated/teku/issues/11441) - 2026-10-07
+* [Issue] [[beacon api] add builder_pending_withdrawals and builder_pending_payments state endpoints](https://github.com/Consensys-Incorporated/teku/issues/11440) - 2026-10-07
+* [Commit] [Lower pending block pool byte cap and report pool size in bytes (#11435)](https://github.com/Consensys-Incorporated/teku/commit/d82a2d91cddd46d205ec71f21616c1ec5b74535a) - 2026-10-07
 ## Q3 2026
 
 

@@ -22,6 +22,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Skip empty log packing in parallel tx execution (#4905)](https://github.com/status-im/nimbus-eth1/commit/2bd5a7d45e3148110acabd8839f642b96b302b26) - 2026-10-05
 * [Pull Request] [Only copy deposit logs into vmState](https://github.com/status-im/nimbus-eth1/pull/4924) - 2026-10-07
 * [Commit] [Optimize logs bloom computation (#4906)](https://github.com/status-im/nimbus-eth1/commit/f498b7ebdf19abe935ff5b920478572d6266adca) - 2026-10-06
+* [Pull Request] [BAL building optimizations](https://github.com/status-im/nimbus-eth1/pull/4931) - 2026-10-07
+* [Review] [Review on: Only copy deposit logs into vmState](https://github.com/status-im/nimbus-eth1/pull/4924#pullrequestreview-5437516101) - 2026-10-07
+* [Commit] [BAL building optimizations (#4931)](https://github.com/status-im/nimbus-eth1/commit/148f9ce75c5c61d2c7002077b1e3f780a8d6cf52) - 2026-10-07
+* [Commit] [Only copy deposit logs into vmState (#4924)](https://github.com/status-im/nimbus-eth1/commit/b8353f73ef06b0517586b75932fbcc09415f3db0) - 2026-10-07
 ## Q3 2026
 
 

@@ -17,6 +17,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Subscribe to next fork topics an epoch early](https://github.com/sigp/lighthouse/pull/10204#pullrequestreview-5408332581) - 2026-10-04
 
 * [Review] [Review on: Remove the Router and dispatch network events directly](https://github.com/sigp/lighthouse/pull/10122#pullrequestreview-5435222884) - 2026-10-06
+* [Pull Request] [Small cache fixes](https://github.com/sigp/lighthouse/pull/10259) - 2026-10-07
+* [Review] [Review on: Add `safe_block_hash` and `finalized_block_hash` to Payload Attributes event](https://github.com/sigp/lighthouse/pull/10244#pullrequestreview-5448610720) - 2026-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 ## Q3 2026

@@ -15,6 +15,7 @@ Team: Grandine
 * [Review] [Review on: Allow to process blocks again that were once ignored because there were too far in the future to be delayed](https://github.com/grandinetech/grandine/pull/954#pullrequestreview-5414109711) - 2026-10-05
 * [Review] [Review on: State cache prune locking improvements](https://github.com/grandinetech/grandine/pull/950#pullrequestreview-5412695390) - 2026-10-05
 * [Review] [Review on: Produce and publish attestations before attest tick by default on head change](https://github.com/grandinetech/grandine/pull/955#pullrequestreview-5428436987) - 2026-10-06
+* [Review] [Review on: Optional payload storage](https://github.com/grandinetech/grandine/pull/949#pullrequestreview-5443324861) - 2026-10-07
 ## Q3 2026
 
 

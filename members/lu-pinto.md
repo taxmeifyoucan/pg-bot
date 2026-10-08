@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: fix(evmtool): report undecodable block RLP in --json-array output](https://github.com/besu-eth/besu/pull/11329#pullrequestreview-5427490788) - 2026-10-06
 * [Review] [Review on: Publish the jump destination analysis safely](https://github.com/besu-eth/besu/pull/11403#pullrequestreview-5426897739) - 2026-10-06
 * [Review] [Review on: Do not cache empty code under a non-empty code hash](https://github.com/besu-eth/besu/pull/11420#pullrequestreview-5426789844) - 2026-10-06
+* [Review] [Review on: Fix callTracer crash when the top frame halts before it starts](https://github.com/besu-eth/besu/pull/11505#pullrequestreview-5442180253) - 2026-10-07
 ## Q3 2026
 
 

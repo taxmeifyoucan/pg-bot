@@ -44,6 +44,13 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: test(sync): cover moving sync pivot in MultiSyncModeSelector scenarios](https://github.com/NethermindEth/nethermind/pull/14310#pullrequestreview-5426928921) - 2026-10-06
 * [Pull Request] [fix(rpc): preserve runtime metadata probe frames for coverage checks](https://github.com/NethermindEth/nethermind/pull/14384) - 2026-10-07
 * [Issue] [Block access lists sync scans back to genesis after Amsterdam fork (barrier defaults to 1), slowing synced nodes](https://github.com/NethermindEth/nethermind/issues/14334) - 2026-10-06
+* [Commit] [fix(ethstats): log repeated disconnects while offline at debug (#14289)](https://github.com/NethermindEth/nethermind/commit/7f252e12678b14dd695e532ee6a7a1cf5ddc7b34) - 2026-10-08
+* [Commit] [fix(docgen): document wire shape of parity trace actions and simulate results (#14293)](https://github.com/NethermindEth/nethermind/commit/4e83c9c905fe8349f1167a6ab8c626c94ac3191a) - 2026-10-08
+* [Commit] [test(txpool): re-enable parallel nonce reservation test (#14298)](https://github.com/NethermindEth/nethermind/commit/8cc2286697b45bb5a49cd4f1af3ef1e89683a194) - 2026-10-08
+* [Commit] [test(blockchain): make FileLocalDataSource retries_loading_file deterministic (#14303)](https://github.com/NethermindEth/nethermind/commit/6fac7ecf83cd7428df109240b67d5a944d83f799) - 2026-10-08
+* [Commit] [feat(sync): report snap healing progress as its own phase without the full state percentage (#14308)](https://github.com/NethermindEth/nethermind/commit/5b78c6b19e1331fa156c439517192abceb8dc781) - 2026-10-08
+* [Commit] [test(sync): cover moving sync pivot in MultiSyncModeSelector scenarios (#14310)](https://github.com/NethermindEth/nethermind/commit/18148e6b9e2a2e2272eb37fb645bed5a97bdc4f8) - 2026-10-07
+* [Commit] [fix(rpc): preserve runtime metadata probe frames for coverage checks (#14384)](https://github.com/NethermindEth/nethermind/commit/957769a32689bb87559fdc09dc8d358e15ede758) - 2026-10-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

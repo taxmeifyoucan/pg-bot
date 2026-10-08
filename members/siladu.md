@@ -16,6 +16,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 * [Review] [Review on: ci: use BuildKit cache mode=min to reduce GHA cache usage](https://github.com/besu-eth/besu/pull/11498#pullrequestreview-5436124813) - 2026-10-07
 * [Review] [Review on: Enable Gradle GitHub Actions cache in workflows](https://github.com/besu-eth/besu/pull/10472#pullrequestreview-5435489004) - 2026-10-06
+* [Review] [Review on: Log replaced payload builds at debug level with the changed inputs](https://github.com/besu-eth/besu/pull/11504#pullrequestreview-5441840326) - 2026-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557) - 2026-10-04
 ## Q3 2026

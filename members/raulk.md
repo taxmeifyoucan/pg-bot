@@ -6,6 +6,11 @@ Github: [@raulk](https://github.com/raulk)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [remove @raulk](https://github.com/protocolguild/documentation/pull/567) - 2026-10-07
 ## Q3 2026
 
 
