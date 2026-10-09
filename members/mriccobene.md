@@ -16,9 +16,11 @@ Team: Erigon
 * [Review] [Review on: perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615#pullrequestreview-5404940851) - 2026-10-04
 * [Review] [Review on: rpc_pattern_gen: mixed load from a profile; rpc_perf: results by API with --verbose](https://github.com/erigontech/rpc-tests/pull/616#pullrequestreview-5418207048) - 2026-10-05
 
+* [Review] [Review on: rpc_perf: latencies by API with --verbose](https://github.com/erigontech/rpc-tests/pull/617#pullrequestreview-5461995977) - 2026-10-08
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
+* [Review] [Review on: QA: generate the latest eth_call and mixed patterns at the tip in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/24663#pullrequestreview-5462009048) - 2026-10-08
 ## Q3 2026
 
 

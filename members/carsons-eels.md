@@ -6,6 +6,11 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove carson as a pg member](https://github.com/protocolguild/documentation/pull/574) - 2026-10-08
 ## Q3 2026
 
 

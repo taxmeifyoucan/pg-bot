@@ -16,6 +16,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/pull/951#pullrequestreview-5391645768) - 2026-10-02
 * [Issue] [Add per-key builder configuration to key manager](https://github.com/grandinetech/grandine/issues/952) - 2026-10-02
 * [Commit] [Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/commit/368d871213e58dd31c9bc8ed6d4019926a637a61) - 2026-10-05
+* [Pull Request] [Prune invalid execution payload envelopes from cache and storage](https://github.com/grandinetech/grandine/pull/963) - 2026-10-08
+* [Pull Request] [Return 400 for execution payload bids ignored by gossip validation](https://github.com/grandinetech/grandine/pull/960) - 2026-10-08
 ## Q3 2026
 
 

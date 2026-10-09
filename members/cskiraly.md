@@ -20,6 +20,11 @@ Team: Codex DAS
 * [Pull Request] [beacon/light/sync: drop a rejected committee update response from the queue](https://github.com/ethereum/go-ethereum/pull/35879) - 2026-10-05
 * [Commit] [beacon/params: fix hoodi beacon genesis time (#35876)](https://github.com/ethereum/go-ethereum/commit/7fea2f15dcd45730de4b822db3a0b010a7f78aad) - 2026-10-06
 * [Commit] [beacon/light/request: send EvCanRequestAgain after refusing requests (#35872)](https://github.com/ethereum/go-ethereum/commit/850e69c224cac266723875aa1112f5471ae2fcfe) - 2026-10-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
+* [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08
+* [Commit] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/commit/d298b6d416a233e9369a7c705a5abf0a246d6124) - 2026-10-08
 ## Q3 2026
 
 

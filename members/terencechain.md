@@ -25,6 +25,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Replace the per-call `Broadcasted data column sidecars` debug log with a `Broadcasted data column sidecars summary` log, aggregated per block root and emitted once no column was broadcast for this root during 100 ms.](https://github.com/OffchainLabs/prysm/pull/17642#pullrequestreview-5449265597) - 2026-10-07
 * [Commit] [Read head and forkchoice node under one lock in GetAttestationData (#17633)](https://github.com/OffchainLabs/prysm/commit/5f204371678597bcff1b2532f085be198186d1f6) - 2026-10-07
 * [Commit] [Apply gossip clock disparity to Gloas payload attestation, bid, and proposer preferences slot checks (#17576)](https://github.com/OffchainLabs/prysm/commit/6bcaa9286651fcb28c57680c9f4626dac42b7866) - 2026-10-07
+* [Review] [Review on: Verify gossip payload envelope signatures without loading state](https://github.com/OffchainLabs/prysm/pull/17652#pullrequestreview-5463726114) - 2026-10-08
+* [Pull Request] [Charge the envelopes by-range rate limit for the full count before reconstruction](https://github.com/OffchainLabs/prysm/pull/17655) - 2026-10-08
+* [Pull Request] [Dispatch data column gossip validation on the sidecar wire type](https://github.com/OffchainLabs/prysm/pull/17653) - 2026-10-08
+* [Pull Request] [Read the head state under the same lock as the head root in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17654) - 2026-10-08
+* [Pull Request] [Schedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17650) - 2026-10-08
+* [Review] [Review on: Serialize block gossip decode](https://github.com/OffchainLabs/prysm/pull/17647#pullrequestreview-5459130977) - 2026-10-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

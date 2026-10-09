@@ -16,6 +16,16 @@ Team: Reth
 * [Review] [Review on: chore(deps): update Cargo.lock](https://github.com/paradigmxyz/reth/pull/27741#pullrequestreview-5418355686) - 2026-10-05
 
 * [Pull Request] [refactor(rpc): replace jsonrpsee with reth-json-rpc](https://github.com/paradigmxyz/reth/pull/27801) - 2026-10-08
+* [Review] [Review on: test(storage): remove redundant tests](https://github.com/paradigmxyz/reth/pull/27829#pullrequestreview-5464141347) - 2026-10-08
+* [Review] [Review on: test: remove redundant trie, task and downloader tests](https://github.com/paradigmxyz/reth/pull/27827#pullrequestreview-5462565507) - 2026-10-08
+* [Review] [Review on: test(net): remove redundant tests](https://github.com/paradigmxyz/reth/pull/27825#pullrequestreview-5464141113) - 2026-10-08
+* [Review] [Review on: test(snap-sync): remove redundant range tests](https://github.com/paradigmxyz/reth/pull/27822#pullrequestreview-5464140914) - 2026-10-08
+* [Review] [Review on: test(engine): remove redundant tests](https://github.com/paradigmxyz/reth/pull/27828#pullrequestreview-5464141761) - 2026-10-08
+* [Review] [Review on: test(rpc): remove redundant rpc and pool tests](https://github.com/paradigmxyz/reth/pull/27826#pullrequestreview-5464141671) - 2026-10-08
+* [Review] [Review on: test(node): remove redundant e2e and unit tests](https://github.com/paradigmxyz/reth/pull/27823#pullrequestreview-5464141569) - 2026-10-08
+* [Review] [Review on: test(node): remove redundant arg and harness tests](https://github.com/paradigmxyz/reth/pull/27820#pullrequestreview-5464141448) - 2026-10-08
+* [Review] [Review on: test(snap-sync): remove redundant session tests](https://github.com/paradigmxyz/reth/pull/27824#pullrequestreview-5464141009) - 2026-10-08
+* [Review] [Review on: test(engine): remove redundant FOCIL tests](https://github.com/paradigmxyz/reth/pull/27821#pullrequestreview-5464140832) - 2026-10-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 ## Q3 2026

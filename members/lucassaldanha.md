@@ -54,6 +54,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Fix progressive ssz loadstore by preserving last chunk size](https://github.com/Consensys-Incorporated/teku/pull/11418#pullrequestreview-5450813783) - 2026-10-08
 * [Pull Request] [Decode gossip messages on the async runner instead of the gossipsub thread](https://github.com/Consensys-Incorporated/teku/pull/11447) - 2026-10-08
 * [Review] [Review on: Decode gossip messages on the async runner instead of the gossipsub thread](https://github.com/Consensys-Incorporated/teku/pull/11447#pullrequestreview-5450950217) - 2026-10-08
+* [Pull Request] [Log in to Docker Hub with OIDC instead of a stored password](https://github.com/Consensys-Incorporated/teku/pull/11455) - 2026-10-09
+* [Review] [Review on: Accept discovered peers that advertise only a QUIC address](https://github.com/Consensys-Incorporated/teku/pull/11432#pullrequestreview-5462740644) - 2026-10-08
+* [Review] [Review on: [beacon api] add Gloas fields to payload_attributes and block events](https://github.com/Consensys-Incorporated/teku/pull/11446#pullrequestreview-5463587274) - 2026-10-08
+* [Review] [Review on: added hoodi configuration for gloas](https://github.com/Consensys-Incorporated/teku/pull/11452#pullrequestreview-5462841856) - 2026-10-08
+* [Pull Request] [Update CHANGELOG post 26.10.0 release](https://github.com/Consensys-Incorporated/teku/pull/11453) - 2026-10-08
+* [Issue] [ENR advertises tcp port when TCP transport is disabled](https://github.com/Consensys-Incorporated/teku/issues/11454) - 2026-10-08
+* [Commit] [Decode gossip messages on the async runner instead of the gossipsub thread (#11447)](https://github.com/Consensys-Incorporated/teku/commit/f23ff0a716797d76d2cf855589e7d5dab8a20143) - 2026-10-08
+* [Commit] [Update CHANGELOG post 26.10.0 release (#11453)](https://github.com/Consensys-Incorporated/teku/commit/c161c12ffb6dc73a5e3e699db5cf4be445918a28) - 2026-10-08
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

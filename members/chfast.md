@@ -34,6 +34,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: record the pre-tx balance in CreateAccount (#24653)](https://github.com/erigontech/erigon/commit/32087fc7a7d28fe893530a32e629ab70a23217db) - 2026-10-07
 * [Commit] [execution/state: remove unused commited flag from code reads (#24431)](https://github.com/erigontech/erigon/commit/7e8140ed2fb72bc07bea84a62f0c4bdc1e5adfd6) - 2026-10-07
 * [Commit] [execution/state: attribute the SelfDestructPath=false write to CreateAccount (#24621)](https://github.com/erigontech/erigon/commit/cf082a8595f5403ecd0b6aceb44c7e31798b537d) - 2026-10-07
+* [Pull Request] [execution: don't take a destroyed account's nonce for a value-transfer revival](https://github.com/erigontech/erigon/pull/24705) - 2026-10-08
+* [Pull Request] [execution/state, execution/stagedsync: record incarnation 0 for a destroyed account](https://github.com/erigontech/erigon/pull/24696) - 2026-10-08
+* [Pull Request] [execution/state: keep a cached object's balance in step with a versioned write](https://github.com/erigontech/erigon/pull/24695) - 2026-10-08
+* [Pull Request] [execution/state, execution/tests: keep the nonce of a self-destructed account across a revert](https://github.com/erigontech/erigon/pull/24701) - 2026-10-08
+* [Commit] [execution/state: look up the dirty set once in reconstructCellFlags (#24625)](https://github.com/erigontech/erigon/commit/6d412173eff900d26a1ecc22508e5b8a4127a474) - 2026-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -57,6 +62,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [state: Journal account creation in State::get_or_create()](https://github.com/ipsilon/evmone/pull/1751) - 2026-10-07
 * [Commit] [state: Replace State::find() with the nonexistent account flag (#1712)](https://github.com/ipsilon/evmone/commit/39425f364d67b6d0ab17fdaa325d807258bf3ed7) - 2026-10-07
 * [Commit] [state: Journal account creation in State::get_or_create() (#1751)](https://github.com/ipsilon/evmone/commit/f282290eaaf4138924a44de1a43c9a91f3f3042d) - 2026-10-07
+* [Pull Request] [ci: Upgrade execution-specs tests to tests@v21.0.1](https://github.com/ipsilon/evmone/pull/1754) - 2026-10-08
+* [Pull Request] [evm: Read the account also for a 0-byte EXTCODECOPY](https://github.com/ipsilon/evmone/pull/1753) - 2026-10-08
+* [Commit] [ci: Upgrade execution-specs tests to tests@v21.0.1 (#1754)](https://github.com/ipsilon/evmone/commit/abdddefab4e45bf7233aad5d7c8a66b567d66b63) - 2026-10-08
 ## Q3 2026
 
 

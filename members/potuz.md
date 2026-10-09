@@ -27,6 +27,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Remove unneeded ticker stops (#17631)](https://github.com/OffchainLabs/prysm/commit/a7cac0741fb68681572afd77b6ef76b8ee83814e) - 2026-10-06
 * [Commit] [request bid in parallel with the local bid (#17607)](https://github.com/OffchainLabs/prysm/commit/6eb4c86ed1b70f54183c6feb6f0d2855b434a957) - 2026-10-06
 * [Review] [Review on: Read head and forkchoice node under one lock in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17633#pullrequestreview-5449434415) - 2026-10-07
+* [Pull Request] [Verify gossip payload envelope signatures without loading state](https://github.com/OffchainLabs/prysm/pull/17652) - 2026-10-08
+* [Pull Request] [Serialize block gossip decode](https://github.com/OffchainLabs/prysm/pull/17647) - 2026-10-08
+* [Pull Request] [Use the target's shuffling dependent root in getRecentPreState](https://github.com/OffchainLabs/prysm/pull/17649) - 2026-10-08
+* [Commit] [Archive mode: backfill to a past state and regenerate history into the hdiff tree (#17292)](https://github.com/OffchainLabs/prysm/commit/9d4a17741ca1e86d646bd27cf0d60f28cfa7ad53) - 2026-10-08
+* [Commit] [Add relay circuit breaker, related flags and metrics (#17540)](https://github.com/OffchainLabs/prysm/commit/e53427d327785e024dc35f134664b67801a13baa) - 2026-10-08
+* [Commit] [Serialize block gossip decode (#17647)](https://github.com/OffchainLabs/prysm/commit/7105d5dc3ba36c5395d5e746a552c3af04e4625e) - 2026-10-08
+* [Commit] [Unfinalized checkpoint sync (#17559)](https://github.com/OffchainLabs/prysm/commit/8fcc735259787ae62cb5425d8fcc0b42eddfd049) - 2026-10-08
 ## Q3 2026
 
 

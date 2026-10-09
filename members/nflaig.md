@@ -116,6 +116,27 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add ptc state endpoint (#10190)](https://github.com/ChainSafe/lodestar/commit/ba0411b482d924be4b2e1637a2abbfa7024e3fbb) - 2026-10-07
 * [Commit] [feat: add fork choice v2 debug fields (#10297)](https://github.com/ChainSafe/lodestar/commit/d23dd629582cc634e4da031bfc8e30fb6e451f1f) - 2026-10-07
 * [Commit] [fix: align fork choice v2 with beacon api spec (#10191)](https://github.com/ChainSafe/lodestar/commit/3b56ef3d947b1fd05e0280fefb718c44d6205693) - 2026-10-07
+* [Review] [Review on: feat: focil](https://github.com/ChainSafe/lodestar/pull/10312#pullrequestreview-5460595110) - 2026-10-08
+* [Pull Request] [fix: align beacon api with v5.0.0-beta.0](https://github.com/ChainSafe/lodestar/pull/10302) - 2026-10-08
+* [Review] [Review on: feat: schedule Gloas fork and 200M gas limit on Hoodi](https://github.com/ChainSafe/lodestar/pull/10313#pullrequestreview-5462226485) - 2026-10-08
+* [Review] [Review on: feat: honor executiononly builder selection post-gloas](https://github.com/ChainSafe/lodestar/pull/10309#pullrequestreview-5458753318) - 2026-10-08
+* [Pull Request] [fix: recreate the dangling parent payload entry in range sync](https://github.com/ChainSafe/lodestar/pull/10311) - 2026-10-08
+* [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5453619520) - 2026-10-08
+* [Pull Request] [fix: record block timeliness after data availability](https://github.com/ChainSafe/lodestar/pull/10306) - 2026-10-08
+* [Review] [Review on: test: upgrade geth and nethermind in sim tests](https://github.com/ChainSafe/lodestar/pull/10308#pullrequestreview-5458961254) - 2026-10-08
+* [Review] [Review on: fix: reject range sync envelopes whose block hash does not match the bid](https://github.com/ChainSafe/lodestar/pull/10251#pullrequestreview-5457431690) - 2026-10-08
+* [Pull Request] [fix: cancel req/resp bridge iterators when the consumer returns early](https://github.com/ChainSafe/lodestar/pull/10304) - 2026-10-08
+* [Review] [Review on: fix: cancel req/resp bridge iterators when the consumer returns early](https://github.com/ChainSafe/lodestar/pull/10304#pullrequestreview-5457055754) - 2026-10-08
+* [Pull Request] [fix: serialize attestation slashing protection checks per validator](https://github.com/ChainSafe/lodestar/pull/10303) - 2026-10-08
+* [Review] [Review on: fix: serialize attestation slashing protection checks per validator](https://github.com/ChainSafe/lodestar/pull/10303#pullrequestreview-5455332868) - 2026-10-08
+* [Review] [Review on: fix: inherit gloas block execution status from the parent variant it builds on](https://github.com/ChainSafe/lodestar/pull/10268#pullrequestreview-5454026456) - 2026-10-08
+* [Review] [Review on: fix: cache gossip blocks only after proposer signature verification](https://github.com/ChainSafe/lodestar/pull/10279#pullrequestreview-5454729401) - 2026-10-08
+* [Review] [Review on: fix: handle missing shuffling in block production](https://github.com/ChainSafe/lodestar/pull/10295#pullrequestreview-5453700589) - 2026-10-08
+* [Review] [Review on: chore: bump ssz to 1.8.1](https://github.com/ChainSafe/lodestar/pull/10301#pullrequestreview-5453420505) - 2026-10-08
+* [Commit] [fix: reject range sync envelopes whose block hash does not match the bid (#10251)](https://github.com/ChainSafe/lodestar/commit/e8dec5f2fee5db729212009029cfdc8b0ba81c27) - 2026-10-08
+* [Commit] [test: forward progressive list limits in spec type replacement (#10081)](https://github.com/ChainSafe/lodestar/commit/2201499bbff0a9856cb7572a51723d49e1d9db10) - 2026-10-08
+* [Commit] [fix: prevent unknown block sync stall when rate limit backoff expires (#10250)](https://github.com/ChainSafe/lodestar/commit/79bf6381f867e91556f36787535271e57146c8a1) - 2026-10-08
+* [Commit] [fix: inherit gloas block execution status from the parent variant it builds on (#10268)](https://github.com/ChainSafe/lodestar/commit/055a216e01e259562f156c50025184b2869598b7) - 2026-10-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

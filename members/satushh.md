@@ -18,6 +18,11 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [  Add `GET /eth/v1/beacon/states/{state_id}/ptc` endpoint](https://github.com/OffchainLabs/prysm/pull/17641) - 2026-10-07
 * [Pull Request] [  Add `safe_block_hash` and `finalized_block_hash` to the Gloas `payload_attributes` event](https://github.com/OffchainLabs/prysm/pull/17640) - 2026-10-07
 * [Review] [Review on: Backfill completion fix](https://github.com/OffchainLabs/prysm/pull/17223#pullrequestreview-5440699825) - 2026-10-07
+* [Pull Request] [Trim whitespace when parsing Accept header media types for SSZ responses](https://github.com/OffchainLabs/prysm/pull/17651) - 2026-10-08
+* [Review] [Review on: Schedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17650#pullrequestreview-5458232015) - 2026-10-08
+* [Commit] [Trim whitespace when parsing Accept header media types for SSZ responses (#17651)](https://github.com/OffchainLabs/prysm/commit/099e4cb0b9a3c3957cb8744d52c9db9de7b47efb) - 2026-10-08
+* [Commit] [  Add `GET /eth/v1/beacon/states/{state_id}/ptc` endpoint (#17641)](https://github.com/OffchainLabs/prysm/commit/658591abcfab040b2a881ab3abbe8bc5bd0f21e8) - 2026-10-08
+* [Commit] [  Add `safe_block_hash` and `finalized_block_hash` to the Gloas `payload_attributes` event (#17640)](https://github.com/OffchainLabs/prysm/commit/376880691c065db55c81c861a90390a91656be5b) - 2026-10-08
 ## Q3 2026
 
 

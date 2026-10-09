@@ -24,6 +24,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Unify early reject of data with future slot](https://github.com/status-im/nimbus-eth2/pull/9180) - 2026-10-03
 * [Pull Request] [Fix crash with restarting right around the Altair fork](https://github.com/status-im/nimbus-eth2/pull/9205) - 2026-10-05
 * [Pull Request] [Update Windows build instructions](https://github.com/status-im/nimbus-eth2/pull/9201) - 2026-10-05
+* [Pull Request] [Adopt compute_max_data_column_sidecar_size](https://github.com/status-im/nimbus-eth2/pull/9237) - 2026-10-08
+* [Pull Request] [Merge redundant sidecar checks](https://github.com/status-im/nimbus-eth2/pull/9235) - 2026-10-08
+* [Issue] [Forward sync stalls at the data column horizon (Sepolia, sync from genesis)](https://github.com/status-im/nimbus-eth2/issues/9238) - 2026-10-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

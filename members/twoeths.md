@@ -42,6 +42,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5442276446) - 2026-10-07
 * [Review] [Review on: fix: populate proposal shufflings before packing attestations](https://github.com/ChainSafe/lodestar/pull/10285#pullrequestreview-5442531044) - 2026-10-07
 * [Pull Request] [fix: handle missing shuffling in block production](https://github.com/ChainSafe/lodestar/pull/10295) - 2026-10-07
+* [Review] [Review on: feat: focil](https://github.com/ChainSafe/lodestar/pull/10312#pullrequestreview-5465435845) - 2026-10-09
+* [Review] [Review on: fix: handle missing shuffling in block production](https://github.com/ChainSafe/lodestar/pull/10295#pullrequestreview-5452370487) - 2026-10-08
+* [Issue] [processSyncAggregate performance regression](https://github.com/ChainSafe/lodestar/issues/10315) - 2026-10-09
+* [Commit] [fix: cache gossip blocks only after proposer signature verification (#10279)](https://github.com/ChainSafe/lodestar/commit/c3aaeedc3b6cdc1e7ad21d218e671f2363546d81) - 2026-10-08
+* [Commit] [fix: handle missing shuffling in block production (#10295)](https://github.com/ChainSafe/lodestar/commit/9fd806c44638eb560525983c5b43e8a4b8e01c03) - 2026-10-08
+* [Commit] [feat: persist earliest available slot (#10267)](https://github.com/ChainSafe/lodestar/commit/0edec865c8d88a9457364fc648eef3a5c905d72d) - 2026-10-08
+* [Commit] [chore: bump ssz to 1.8.1 (#10301)](https://github.com/ChainSafe/lodestar/commit/9c7f3c203fff8b9b81de7249ffc61a377112d6fc) - 2026-10-08
 ## Q3 2026
 
 

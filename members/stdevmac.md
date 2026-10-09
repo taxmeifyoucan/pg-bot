@@ -51,6 +51,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [feat(sync): report snap healing progress as its own phase without the full state percentage (#14308)](https://github.com/NethermindEth/nethermind/commit/5b78c6b19e1331fa156c439517192abceb8dc781) - 2026-10-08
 * [Commit] [test(sync): cover moving sync pivot in MultiSyncModeSelector scenarios (#14310)](https://github.com/NethermindEth/nethermind/commit/18148e6b9e2a2e2272eb37fb645bed5a97bdc4f8) - 2026-10-07
 * [Commit] [fix(rpc): preserve runtime metadata probe frames for coverage checks (#14384)](https://github.com/NethermindEth/nethermind/commit/957769a32689bb87559fdc09dc8d358e15ede758) - 2026-10-07
+* [Pull Request] [ci: run independent workflow steps in parallel](https://github.com/NethermindEth/nethermind/pull/14475) - 2026-10-09
+* [Review] [Review on: perf(eth72): reduce announcement tracking allocations](https://github.com/NethermindEth/nethermind/pull/14474#pullrequestreview-5465410919) - 2026-10-09
+* [Pull Request] [fix(benchmark): chain BlockProcessingBenchmark scenario blocks to their parent header](https://github.com/NethermindEth/nethermind/pull/14477) - 2026-10-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

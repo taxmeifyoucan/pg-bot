@@ -66,6 +66,25 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txnprovider/txpool: defer authorization recovery until after prechecks (#24509)](https://github.com/erigontech/erigon/commit/8e269c57fd542a4000fba38503c374d1994fc50e) - 2026-10-07
 * [Commit] [p2p/sentry: bound queued bytes and limit NewBlock floods (#24392)](https://github.com/erigontech/erigon/commit/9e603d74f60c21ca793a03a7ce373de19aa3fdc7) - 2026-10-07
 * [Commit] [p2p/rlpx: grow read buffers as data arrives (#24374)](https://github.com/erigontech/erigon/commit/60aae95c2357250aacdbd3db0f8a14da5579c627) - 2026-10-07
+* [Review] [Review on: cl/phase1/forkchoice: ignore ticks before genesis](https://github.com/erigontech/erigon/pull/24680#pullrequestreview-5456824406) - 2026-10-08
+* [Review] [Review on: cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing](https://github.com/erigontech/erigon/pull/24547#pullrequestreview-5455530472) - 2026-10-08
+* [Review] [Review on: cl/phase1/network/services: verify gossip signatures with the message epoch's fork version](https://github.com/erigontech/erigon/pull/24544#pullrequestreview-5457729233) - 2026-10-08
+* [Review] [Review on: cl: use the Fulu inclusion proof depth for data column sidecars](https://github.com/erigontech/erigon/pull/24512#pullrequestreview-5456206447) - 2026-10-08
+* [Review] [Review on: [r3.7] cl/beacon/handler: aggregate PTC votes after the payload wait](https://github.com/erigontech/erigon/pull/24682#pullrequestreview-5456101216) - 2026-10-08
+* [Review] [Review on: txnprovider: check execution gas inclusion contributions](https://github.com/erigontech/erigon/pull/24685#pullrequestreview-5457651793) - 2026-10-08
+* [Review] [Review on: [r3.7] cl/phase1/network: say why blob backfill is incomplete, and export its state](https://github.com/erigontech/erigon/pull/24690#pullrequestreview-5457765286) - 2026-10-08
+* [Review] [Review on: [r3.7] cl/p2p, cmd: add a QUIC disable switch and default the QUIC port to 4002](https://github.com/erigontech/erigon/pull/24686#pullrequestreview-5457451028) - 2026-10-08
+* [Pull Request] [docs: match Caplin Docker setup to released images](https://github.com/erigontech/erigon/pull/24692) - 2026-10-08
+* [Review] [Review on: cl: fix publication of self-built Gloas blocks and payloads](https://github.com/erigontech/erigon/pull/24545#pullrequestreview-5455954732) - 2026-10-08
+* [Review] [Review on: cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24627#pullrequestreview-5455497129) - 2026-10-08
+* [Review] [Review on: cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24550#pullrequestreview-5455547015) - 2026-10-08
+* [Review] [Review on: cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24548#pullrequestreview-5455619927) - 2026-10-08
+* [Review] [Review on: cl/phase1/forkchoice: keep Fulu blocks out of fork choice until their custody columns are stored](https://github.com/erigontech/erigon/pull/24546#pullrequestreview-5455801197) - 2026-10-08
+* [Review] [Review on: cl: reject negative validator indices in state accessors](https://github.com/erigontech/erigon/pull/24615#pullrequestreview-5455399437) - 2026-10-08
+* [Issue] [cl: previous-slot sync gossip can ban valid peers before committee rotation](https://github.com/erigontech/erigon/issues/24694) - 2026-10-08
+* [Commit] [docs: match Caplin Docker setup to released images (#24692)](https://github.com/erigontech/erigon/commit/c43b2a46182e36740a6321c19bd34a64b4a3ce03) - 2026-10-08
+* [Commit] [cl: reject negative validator indices in state accessors (#24615)](https://github.com/erigontech/erigon/commit/95bbcdf6f8757358871d1041de4516cba005c6b0) - 2026-10-08
+* [Commit] [cl: cap inferred SSZ committee bits width and reject oversized custom presets (#24614)](https://github.com/erigontech/erigon/commit/4ca6efe007cabb62f34de1358fdae246f736b018) - 2026-10-08
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -80,6 +99,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Willian Mitsuda from active membership](https://github.com/protocolguild/documentation/pull/569) - 2026-10-07
 * [Pull Request] [docs: remove Ilya Mikheev from active membership](https://github.com/protocolguild/documentation/pull/570) - 2026-10-07
+* [Pull Request] [Add Oleksandr Lystopad from Erigon](https://github.com/protocolguild/documentation/pull/572) - 2026-10-08
 ## Q3 2026
 
 

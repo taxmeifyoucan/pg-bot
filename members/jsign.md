@@ -19,6 +19,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [chore(zkevm): update geth filler for v21](https://github.com/ethereum/execution-specs/pull/3697) - 2026-10-02
 * [Pull Request] [fix(zkevm): split zkevm-benchmark release into one tarball per gas value](https://github.com/ethereum/execution-specs/pull/3700) - 2026-10-03
 
+* [Pull Request] [feat(zkevm):  extend shared 7702 delegation marker tests](https://github.com/ethereum/execution-specs/pull/3751) - 2026-10-08
+* [Review] [Review on: feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737#pullrequestreview-5462332543) - 2026-10-08
+* [Pull Request] [feat(zkevm): extend same-tx CREATE witness code tests](https://github.com/ethereum/execution-specs/pull/3750) - 2026-10-08
+* [Review] [Review on: feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741#pullrequestreview-5461699375) - 2026-10-08
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 
@@ -32,6 +36,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [feat: adopt tests-zkevm@v21.0.1 engine fixtures and Sepolia publication (#314)](https://github.com/eth-act/zkevm-benchmark-workload/commit/3c74a083561416e6b73785c4ab59a40afab331c3) - 2026-10-06
 * [Pull Request] [ci: add SP1 e2e test with real EEST fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/318) - 2026-10-07
 * [Commit] [ci: add SP1 e2e test with real EEST fixtures (#318)](https://github.com/eth-act/zkevm-benchmark-workload/commit/274070caa41c7b88b3b7a0ed8adf0a4cc4e5a12c) - 2026-10-07
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
 ## Q3 2026
 
 

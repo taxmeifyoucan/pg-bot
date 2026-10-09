@@ -14,6 +14,7 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): correct rust-toolchain pin comments](https://github.com/paradigmxyz/reth/pull/27655#pullrequestreview-5391295885) - 2026-10-02
 
+* [Review] [Review on: feat(dst): add optimized builds and gate trie/MDBX checks](https://github.com/paradigmxyz/reth/pull/27819#pullrequestreview-5462679059) - 2026-10-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

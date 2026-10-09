@@ -25,8 +25,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [chore(tech-debt): remove the vestigial skipZeroBlockRewards flag](https://github.com/besu-eth/besu/pull/11506) - 2026-10-07
 * [Commit] [refactor: decouple block rewards from the block processor into the protocol spec (#11509)](https://github.com/besu-eth/besu/commit/a1788adccd184dc87dcb80a485ae743e75534169) - 2026-10-08
 * [Commit] [Remove the skipZeroBlockRewards flag (#11506)](https://github.com/besu-eth/besu/commit/2372a4fd9a2d6f2eb64af28db04f28ff49c0b8c2) - 2026-10-07
+* [Pull Request] [refactor: make the DAO fork a regular fork with a fork state change](https://github.com/besu-eth/besu/pull/11538) - 2026-10-09
+* [Review] [Review on: refactor: cleanup preprocessing function](https://github.com/besu-eth/besu/pull/11412#pullrequestreview-5451485219) - 2026-10-08
+* [Pull Request] [fix: discard a rejected block's changes on every failure path](https://github.com/besu-eth/besu/pull/11533) - 2026-10-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
+* [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08
 ## Q3 2026
 
 

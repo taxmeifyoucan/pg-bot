@@ -21,6 +21,7 @@ Team: Geth
 * [Pull Request] [Update EIP-8141: check frame modes against a set of valid values](https://github.com/ethereum/EIPs/pull/12453) - 2026-10-07
 * [Commit] [Update EIP-7906: assign opcode bytes and add POST_TX to the valid frame modes](https://github.com/ethereum/EIPs/commit/25855add6986d5123a043b03999ad5757a2e13d6) - 2026-10-07
 * [Commit] [Update EIP-8141: check frame modes against a set of valid values](https://github.com/ethereum/EIPs/commit/6bc5841052ad161b29e21d11dbfb58bc98dac507) - 2026-10-07
+* [Review] [Review on: Update EIP-8141: roll back the approval context when a call reverts](https://github.com/ethereum/EIPs/pull/12458#pullrequestreview-5460727147) - 2026-10-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 

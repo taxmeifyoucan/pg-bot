@@ -32,6 +32,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[beacon api] add PTC state endpoint](https://github.com/Consensys-Incorporated/teku/issues/11441) - 2026-10-07
 * [Issue] [[beacon api] add builder_pending_withdrawals and builder_pending_payments state endpoints](https://github.com/Consensys-Incorporated/teku/issues/11440) - 2026-10-07
 * [Commit] [Lower pending block pool byte cap and report pool size in bytes (#11435)](https://github.com/Consensys-Incorporated/teku/commit/d82a2d91cddd46d205ec71f21616c1ec5b74535a) - 2026-10-07
+* [Review] [Review on: Bump ref test to beta3](https://github.com/Consensys-Incorporated/teku/pull/11444#pullrequestreview-5463924482) - 2026-10-08
+* [Review] [Review on: Preserve fork choice variants on duplicate block imports](https://github.com/Consensys-Incorporated/teku/pull/11449#pullrequestreview-5463294081) - 2026-10-08
+* [Review] [Review on: Report payload reorgs and payload statuses in reorg events](https://github.com/Consensys-Incorporated/teku/pull/11437#pullrequestreview-5463365845) - 2026-10-08
+* [Review] [Review on: Decode gossip messages on the async runner instead of the gossipsub thread](https://github.com/Consensys-Incorporated/teku/pull/11447#pullrequestreview-5463233195) - 2026-10-08
+* [Pull Request] [added hoodi configuration for gloas](https://github.com/Consensys-Incorporated/teku/pull/11452) - 2026-10-08
+* [Review] [Review on: Update CHANGELOG post 26.10.0 release](https://github.com/Consensys-Incorporated/teku/pull/11453#pullrequestreview-5463390988) - 2026-10-08
+* [Commit] [Add Gloas fields to payload_attributes and block events (#11446)](https://github.com/Consensys-Incorporated/teku/commit/c77115aec16da74ddd3df39271eed26852679700) - 2026-10-08
+* [Commit] [added hoodi configuration for gloas (#11452)](https://github.com/Consensys-Incorporated/teku/commit/3a62a5e42468465e942af263e34aae3cbc2b18f3) - 2026-10-08
+* [Commit] [[beacon api] update fork choice v2 to the final spec (#11448)](https://github.com/Consensys-Incorporated/teku/commit/7fae7891ead9815b62feefc726fcc12942deaf55) - 2026-10-08
 ## Q3 2026
 
 

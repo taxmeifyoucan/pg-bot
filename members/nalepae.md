@@ -33,6 +33,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Postpone the validator client shutdown until a restart misses no rewarded duty (#17616)](https://github.com/OffchainLabs/prysm/commit/4b5b0b85e102476a8f41455c57b65bae0395a002) - 2026-10-07
 * [Commit] [Remove Bazel: Phase 7/9 (#17595)](https://github.com/OffchainLabs/prysm/commit/ad9764e5b946e990daeaa04094cd6ee20e0c4f9b) - 2026-10-07
 * [Commit] [Add `beacon_payload_gas_limit` and `beacon_payload_gas_used` metrics. (#17634)](https://github.com/OffchainLabs/prysm/commit/1804185b28f815926c003d83b1011df32eff47ea) - 2026-10-07
+* [Commit] [Use the slot deadline for the duties of the first slot of an epoch (#17637)](https://github.com/OffchainLabs/prysm/commit/50be37ea04338e46ab22322ec5c93aa31f10a47e) - 2026-10-08
+* [Commit] [Replace the per-call `Broadcasted data column sidecars` debug log with a `Broadcasted data column sidecars summary` log, aggregated per block root and emitted once no column was broadcast for this root during 100 ms. (#17642)](https://github.com/OffchainLabs/prysm/commit/22c23b743998e79e8b24472405aa37a1e7319a2e) - 2026-10-08
 ## Q3 2026
 
 

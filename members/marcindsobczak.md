@@ -34,6 +34,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [test(merge): keep decoders swapped into the Rlp registry invisible to other tests](https://github.com/NethermindEth/nethermind/pull/14433) - 2026-10-07
 * [Review] [Review on: perf(evm): leave checked opcodes straight from host dispatch when it carries gas](https://github.com/NethermindEth/nethermind/pull/14427#pullrequestreview-5449088321) - 2026-10-07
 * [Commit] [test(evm): cover access-list journal rollback across nested frames (#14395)](https://github.com/NethermindEth/nethermind/commit/4e2fcb7a171bcf55c141d92e8094f143da2d8939) - 2026-10-07
+* [Pull Request] [perf(merge): enter the no-GC region on engine_getBlobs, take it over in engine_newPayload](https://github.com/NethermindEth/nethermind/pull/14447) - 2026-10-08
+* [Review] [Review on: perf(merge): enter the no-GC region on engine_getBlobs, take it over in engine_newPayload](https://github.com/NethermindEth/nethermind/pull/14447#pullrequestreview-5459150621) - 2026-10-08
+* [Pull Request] [perf(rpc): give Kestrel 64 KiB transport blocks so a large request body arrives in a few reads](https://github.com/NethermindEth/nethermind/pull/14443) - 2026-10-08
 ## Q3 2026
 
 

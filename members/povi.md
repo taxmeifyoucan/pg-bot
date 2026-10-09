@@ -23,6 +23,8 @@ Team: Grandine
 * [Commit] [Update quinn](https://github.com/grandinetech/grandine/commit/06412924aaf24fbcbe2f5955ec85c5d87087701a) - 2026-10-06
 * [Commit] [Produce and publish attestations before attest tick by default on head change](https://github.com/grandinetech/grandine/commit/f08b0a49da7f0205d5f0f75c1fe5181165719485) - 2026-10-06
 * [Commit] [Fix windows build](https://github.com/grandinetech/grandine/commit/fec154bde72f9955533754da93bd07739492a4c4) - 2026-10-07
+* [Pull Request] [Update consensus-spec-tests to v1.7.0-beta.3](https://github.com/grandinetech/grandine/pull/962) - 2026-10-08
+* [Issue] [Update to consensus specs v1.7.0-beta.3](https://github.com/grandinetech/grandine/issues/961) - 2026-10-08
 ## Q3 2026
 
 

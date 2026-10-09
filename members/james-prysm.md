@@ -29,6 +29,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add relay circuit breaker, related flags and metrics](https://github.com/OffchainLabs/prysm/pull/17540#pullrequestreview-5450613327) - 2026-10-08
 * [Commit] [refactor to parent envelope helper (#17541)](https://github.com/OffchainLabs/prysm/commit/ee779399dec4acc02f21f6a2160efe518378c76f) - 2026-10-08
 * [Commit] [improve execution payment warning message (#17630)](https://github.com/OffchainLabs/prysm/commit/3b839483f941836a8502732358660f18e1af3a5b) - 2026-10-07
+* [Review] [Review on: Trim whitespace when parsing Accept header media types for SSZ responses](https://github.com/OffchainLabs/prysm/pull/17651#pullrequestreview-5459115789) - 2026-10-08
+* [Review] [Review on: Charge the envelopes by-range rate limit for the full count before reconstruction](https://github.com/OffchainLabs/prysm/pull/17655#pullrequestreview-5462918729) - 2026-10-08
+* [Review] [Review on: Schedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17650#pullrequestreview-5458108694) - 2026-10-08
+* [Review] [Review on: Add builder_index and block_hash to the Gloas block event](https://github.com/OffchainLabs/prysm/pull/17628#pullrequestreview-5458594328) - 2026-10-08
+* [Review] [Review on: Add builder_pending_withdrawals and builder_pending_payments state endpoints](https://github.com/OffchainLabs/prysm/pull/17627#pullrequestreview-5458260594) - 2026-10-08
 ## Q3 2026
 
 

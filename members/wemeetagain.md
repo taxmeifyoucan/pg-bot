@@ -46,6 +46,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add fork choice v2 debug fields](https://github.com/ChainSafe/lodestar/pull/10297#pullrequestreview-5444218743) - 2026-10-07
 * [Review] [Review on: fix: align fork choice v2 with beacon api spec](https://github.com/ChainSafe/lodestar/pull/10191#pullrequestreview-5443220499) - 2026-10-07
 * [Commit] [feat: optionally persist produced execution payload envelopes (#10287)](https://github.com/ChainSafe/lodestar/commit/45e4260336a7dbcf719ce9985202ffde84883239) - 2026-10-07
+* [Review] [Review on: feat: honor executiononly builder selection post-gloas](https://github.com/ChainSafe/lodestar/pull/10309#pullrequestreview-5461628997) - 2026-10-08
+* [Review] [Review on: fix: recreate the dangling parent payload entry in range sync](https://github.com/ChainSafe/lodestar/pull/10311#pullrequestreview-5461549237) - 2026-10-08
+* [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5461513223) - 2026-10-08
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

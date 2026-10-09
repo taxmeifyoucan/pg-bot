@@ -14,6 +14,11 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 
 * [Pull Request] [zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26](https://github.com/NethermindEth/nethermind/pull/14358) - 2026-10-06
 * [Review] [Review on: zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26](https://github.com/NethermindEth/nethermind/pull/14358#pullrequestreview-5434424100) - 2026-10-06
+* [Review] [Review on: perf(zkvm): hash SSZ merkle pairs with SP1's SHA-256 precompiles directly](https://github.com/NethermindEth/nethermind/pull/14402#pullrequestreview-5463665717) - 2026-10-08
+* [Review] [Review on: perf(zkvm): run MULMOD on SP1's uint256_mulmod precompile](https://github.com/NethermindEth/nethermind/pull/14403#pullrequestreview-5463677690) - 2026-10-08
+* [Pull Request] [chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0](https://github.com/NethermindEth/nethermind/pull/14456) - 2026-10-08
+* [Review] [Review on: chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0](https://github.com/NethermindEth/nethermind/pull/14456#pullrequestreview-5463400745) - 2026-10-08
+* [Commit] [chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0 (#14456)](https://github.com/NethermindEth/nethermind/commit/89afb8d0cf83425788712d8e13267305045d9ee7) - 2026-10-08
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

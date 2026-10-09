@@ -38,6 +38,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Make EthProtocolVersion an enum](https://github.com/besu-eth/besu/pull/11511#pullrequestreview-5443682372) - 2026-10-07
 * [Pull Request] [Make SnapProtocolVersion an enum](https://github.com/besu-eth/besu/pull/11513) - 2026-10-07
 * [Commit] [Warn when a PoA chain defaults the EIP-8282 builder request addresses (#11476)](https://github.com/besu-eth/besu/commit/591429ca840a322fcc611d535b1ce7d037027907) - 2026-10-07
+* [Review] [Review on: Close the block world state only after transaction selection stops](https://github.com/besu-eth/besu/pull/11473#pullrequestreview-5459844444) - 2026-10-08
+* [Review] [Review on: Replace custom `ByteUnits` utility with Storage-Units library](https://github.com/besu-eth/besu/pull/11512#pullrequestreview-5456591994) - 2026-10-08
+* [Review] [Review on: FOCIL: Refactor engine API payload status handling to allow version-specific responses](https://github.com/besu-eth/besu/pull/11488#pullrequestreview-5457073522) - 2026-10-08
+* [Commit] [EIP-8070: Hold a blob as its cells, verifiable in part  (#11408)](https://github.com/besu-eth/besu/commit/d0d649bb3de87ad150b7c05d1c3e7ad1c556cb96) - 2026-10-08
+* [Commit] [Make EthProtocolVersion an enum (#11511)](https://github.com/besu-eth/besu/commit/7a2303a887b8efff6ac13b1a3b33b0341c2377b9) - 2026-10-08
+* [Commit] [Replace custom `ByteUnits` utility with Storage-Units library (#11512)](https://github.com/besu-eth/besu/commit/5790c5a68fa2b4f69878ab0a2284a9170782ad00) - 2026-10-08
+* [Commit] [Refactor engine API payload status handling to allow version-specific responses (#11488)](https://github.com/besu-eth/besu/commit/0930cdcd1b8723e9db608e6ea48edcd644b86b2c) - 2026-10-08
 ## Q3 2026
 
 

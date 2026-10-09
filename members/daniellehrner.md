@@ -50,6 +50,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Retry bootnodes on networks with few peers (#11368)](https://github.com/besu-eth/besu/commit/d00b89f1f265174f5984304bc57e2ed3bbf51d0d) - 2026-10-07
 * [Commit] [Publish the jump destination analysis safely (#11403)](https://github.com/besu-eth/besu/commit/da96be7ac4c1779b554f7f950a70a90c5adf3bfb) - 2026-10-07
 * [Commit] [Treat failing beacon roots and history system calls as non-fatal (#11415)](https://github.com/besu-eth/besu/commit/0405c93dc62911361155c6ca4e90173a1a1fa421) - 2026-10-07
+* [Pull Request] [Schedule Amsterdam on Hoodi](https://github.com/besu-eth/besu/pull/11531) - 2026-10-08
+* [Pull Request] [EVM v2 MEGA PR](https://github.com/besu-eth/besu/pull/11524) - 2026-10-08
+* [Pull Request] [Allocate less on the trie paths and write Bonsai changes in a write batch](https://github.com/besu-eth/besu/pull/11528) - 2026-10-08
+* [Pull Request] [Stop repeating trie and encoding work for blocks with access lists](https://github.com/besu-eth/besu/pull/11530) - 2026-10-08
+* [Pull Request] [Move per-block receipt and root work off the importing thread](https://github.com/besu-eth/besu/pull/11529) - 2026-10-08
+* [Pull Request] [Close the block world state only after transaction selection stops](https://github.com/besu-eth/besu/pull/11473) - 2026-10-08
+* [Review] [Review on: Close the block world state only after transaction selection stops](https://github.com/besu-eth/besu/pull/11473#pullrequestreview-5457837888) - 2026-10-08
+* [Review] [Review on: Add AND, OR, XOR and NOT to EVM v2](https://github.com/besu-eth/besu/pull/11477#pullrequestreview-5460239833) - 2026-10-08
+* [Review] [Review on: Fix callTracer crash when the top frame halts before it starts](https://github.com/besu-eth/besu/pull/11505#pullrequestreview-5457217412) - 2026-10-08
+* [Review] [Review on: Log replaced payload builds at debug level with the changed inputs](https://github.com/besu-eth/besu/pull/11504#pullrequestreview-5456795954) - 2026-10-08
+* [Commit] [Close the block world state only after transaction selection stops (#11473)](https://github.com/besu-eth/besu/commit/fa4bae715808cea87bc36354fe8eb656bb932971) - 2026-10-08
+* [Commit] [Add AND, OR, XOR and NOT to EVM v2 (#11477)](https://github.com/besu-eth/besu/commit/18ea164b6d0cb63c1721cd4c36d3c7dfb360cd57) - 2026-10-08
+* [Commit] [Log replaced payload builds at debug level with the changed inputs (#11504)](https://github.com/besu-eth/besu/commit/def0a84d72bcf54816132c2843852eb38fdbbe59) - 2026-10-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

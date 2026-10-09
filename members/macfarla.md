@@ -59,6 +59,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [flaky test SECP256R1AcceptanceTest transactionShouldBeSuccessful](https://github.com/besu-eth/besu/issues/11517) - 2026-10-07
 * [Commit] [updateVerificationMetadata to include checkLicense (#11507)](https://github.com/besu-eth/besu/commit/bee392b2865f11511ee38cc235e0ed6c50eff17e) - 2026-10-07
 * [Commit] [update jackson bom to 2.21.7 (#11503)](https://github.com/besu-eth/besu/commit/33506247ea3112a62200b85a1939874f40309c51) - 2026-10-07
+* [Review] [Review on: fix: stop JSON-RPC active-connection counter leaks](https://github.com/besu-eth/besu/pull/11453#pullrequestreview-5464886331) - 2026-10-09
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

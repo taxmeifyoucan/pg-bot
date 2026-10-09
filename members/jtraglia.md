@@ -41,6 +41,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Exclude slashed validators from `calculate_committee_fraction` (#5679)](https://github.com/ethereum/consensus-specs/commit/f62a3a9ff58d7338c319c77407db587af67463a7) - 2026-10-07
 * [Commit] [Return slot durations as tuples in `get_slot_durations` (#5717)](https://github.com/ethereum/consensus-specs/commit/e03ef4967d38f0bd9b8860dec92de8d1da74367f) - 2026-10-07
 
+* [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5456852032) - 2026-10-08
+* [Pull Request] [Stop reading `eth1_data` in fast confirmation test helper](https://github.com/ethereum/consensus-specs/pull/5722) - 2026-10-08
+* [Commit] [Clear pending builder payments of slashed proposers (#5719)](https://github.com/ethereum/consensus-specs/commit/aa16bb4c156184e9548a997d53efaf2a228a6304) - 2026-10-08
+* [Commit] [Add tests for proposer and attester slashings in one block (#5720)](https://github.com/ethereum/consensus-specs/commit/e0e1080f287e450e32e661d0df4bb891494197e6) - 2026-10-08
+* [Commit] [Stop reading `eth1_data` in fast confirmation test helper (#5722)](https://github.com/ethereum/consensus-specs/commit/bb702330fe22ac2fe60d3d04dd01919fc9b63fa6) - 2026-10-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 ## Q3 2026

@@ -14,6 +14,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: feat: add debug_getRawExecutionRequests](https://github.com/besu-eth/besu/pull/11481#pullrequestreview-5424144402) - 2026-10-06
 * [Review] [Review on: Retry bootnodes on networks with few peers](https://github.com/besu-eth/besu/pull/11368#pullrequestreview-5438118080) - 2026-10-07
+* [Pull Request] [Snap2 stale pivot causing worldstate to stall until chaindownload finished](https://github.com/besu-eth/besu/pull/11536) - 2026-10-09
+* [Pull Request] [snap/2: download pivot catch-up range independently of the chain download cycle](https://github.com/besu-eth/besu/pull/11537) - 2026-10-09
+* [Review] [Review on: Unify Bonsai trie node access behind getTrieNode/putTrieNode/removeTrieNode](https://github.com/besu-eth/besu/pull/11398#pullrequestreview-5452068347) - 2026-10-08
+* [Issue] [snap/2: BAL download stage slow](https://github.com/besu-eth/besu/issues/11535) - 2026-10-09
+* [Issue] [snap/2: World state stalls on stale pivot during initial sync](https://github.com/besu-eth/besu/issues/11534) - 2026-10-09
 ## Q3 2026
 
 

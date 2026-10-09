@@ -35,6 +35,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix blob ordering when filtering blobs by versioned hash](https://github.com/sigp/lighthouse/pull/9944#pullrequestreview-5442153978) - 2026-10-07
 * [Review] [Review on: Fix lcli http-sync --known-common-ancestor argument parsing](https://github.com/sigp/lighthouse/pull/10245#pullrequestreview-5440491731) - 2026-10-07
 * [Review] [Review on: Fix PTC duties at the Gloas fork boundary](https://github.com/sigp/lighthouse/pull/10193#pullrequestreview-5437575817) - 2026-10-07
+* [Review] [Review on: Reject Gloas envelopes for invalidated payloads](https://github.com/sigp/lighthouse/pull/10194#pullrequestreview-5451797639) - 2026-10-08
+* [Review] [Review on: Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189#pullrequestreview-5463647100) - 2026-10-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 ## Q3 2026

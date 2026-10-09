@@ -173,11 +173,40 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(tracing): one node-wide parallel trace budget sized by JsonRpc.TraceBlockParallelism](https://github.com/NethermindEth/nethermind/pull/14363#pullrequestreview-5448471226) - 2026-10-07
 * [Commit] [perf(network): bound inbound transaction admission and pool request tracking (#14434)](https://github.com/NethermindEth/nethermind/commit/e7f273cb3620d76863696750e3876745b6d784af) - 2026-10-08
 * [Commit] [perf(rpc): source-generated JSON writers for blocks, RPC transactions and logs (#14299)](https://github.com/NethermindEth/nethermind/commit/1afc6a83202e6e9344613d8ea4e7a9a01d7ada09) - 2026-10-07
+* [Review] [Review on: Reduce proof input allocations with packed hashes](https://github.com/NethermindEth/nethermind/pull/14471#pullrequestreview-5464608201) - 2026-10-09
+* [Review] [Review on: Use shared processing for empty block overrides](https://github.com/NethermindEth/nethermind/pull/14473#pullrequestreview-5464858631) - 2026-10-09
+* [Pull Request] [perf(eth72): reduce announcement tracking allocations](https://github.com/NethermindEth/nethermind/pull/14474) - 2026-10-09
+* [Review] [Review on: perf(eth72): reduce announcement tracking allocations](https://github.com/NethermindEth/nethermind/pull/14474#pullrequestreview-5464871899) - 2026-10-09
+* [Pull Request] [perf(prewarm): footprint handoff tweaks](https://github.com/NethermindEth/nethermind/pull/14476) - 2026-10-09
+* [Review] [Review on: perf(prewarm): footprint handoff tweaks](https://github.com/NethermindEth/nethermind/pull/14476#pullrequestreview-5465519565) - 2026-10-09
+* [Review] [Review on: Avoid receipt loading for raw transaction lookup](https://github.com/NethermindEth/nethermind/pull/14472#pullrequestreview-5464825243) - 2026-10-09
+* [Review] [Review on: perf(validation): recover EIP-2780 senders in the block validator only when intrinsic gas needs them](https://github.com/NethermindEth/nethermind/pull/14468#pullrequestreview-5464520404) - 2026-10-09
+* [Review] [Review on: perf(blockchain): write a suggested block's header off the engine API path](https://github.com/NethermindEth/nethermind/pull/14466#pullrequestreview-5464519960) - 2026-10-09
+* [Review] [Review on: perf(flat): keep read-only accounts out of the block's change set](https://github.com/NethermindEth/nethermind/pull/14446#pullrequestreview-5464927210) - 2026-10-09
+* [Review] [Review on: feat(eip8250): deploy the nonce manager as an ordinary contract](https://github.com/NethermindEth/nethermind/pull/14438#pullrequestreview-5464926967) - 2026-10-09
+* [Review] [Review on: feat(eip8272): deploy the recent root contract as an ordinary contract](https://github.com/NethermindEth/nethermind/pull/14437#pullrequestreview-5464926777) - 2026-10-09
+* [Pull Request] [perf(rlp): encode and decode built-in transaction types without virtual dispatch](https://github.com/NethermindEth/nethermind/pull/14455) - 2026-10-08
+* [Review] [Review on: perf(rlp): encode and decode built-in transaction types without virtual dispatch](https://github.com/NethermindEth/nethermind/pull/14455#pullrequestreview-5460197590) - 2026-10-08
+* [Review] [Review on: Stop an idle mempool pre-warm session without waiting for it](https://github.com/NethermindEth/nethermind/pull/14467#pullrequestreview-5464520189) - 2026-10-09
+* [Review] [Review on: perf(rpc): read block senders without decoding receipts](https://github.com/NethermindEth/nethermind/pull/14452#pullrequestreview-5464519094) - 2026-10-09
+* [Review] [Review on: perf(zkvm): hash SSZ merkle pairs with SP1's SHA-256 precompiles directly](https://github.com/NethermindEth/nethermind/pull/14402#pullrequestreview-5464519753) - 2026-10-09
+* [Review] [Review on: ci(zkevm): run the tests-zkevm-benchmark fixtures through the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14465#pullrequestreview-5464519513) - 2026-10-09
+* [Pull Request] [perf: remove field-layout padding in hot and per-message types](https://github.com/NethermindEth/nethermind/pull/14454) - 2026-10-08
+* [Review] [Review on: perf(tracing): stream struct logs with bounded memory per request](https://github.com/NethermindEth/nethermind/pull/14461#pullrequestreview-5459966383) - 2026-10-08
+* [Review] [Review on: feat(rpc): add an operator cap on buffered struct-log trace size](https://github.com/NethermindEth/nethermind/pull/14460#pullrequestreview-5459739432) - 2026-10-08
+* [Review] [Review on: fix(bal): stop parallel validation once executed gas exceeds the block limit](https://github.com/NethermindEth/nethermind/pull/14459#pullrequestreview-5459734231) - 2026-10-08
+* [Commit] [perf(eth72): reduce announcement tracking allocations (#14474)](https://github.com/NethermindEth/nethermind/commit/a35806184ca5ea6b2d561d6e040b6f9b9acdfc69) - 2026-10-09
+* [Commit] [perf(rlp): encode and decode built-in transaction types without virtual dispatch (#14455)](https://github.com/NethermindEth/nethermind/commit/a92a24318f535dbb445ec8e8e0f84685e932caaf) - 2026-10-09
+* [Commit] [perf: remove field-layout padding in hot and per-message types (#14454)](https://github.com/NethermindEth/nethermind/commit/0e8d83268ca896f8b7c67ca0a612a6229d1173e6) - 2026-10-08
+* [Commit] [fix(init): exit cleanly when KZG trusted setup cannot be loaded (#14435)](https://github.com/NethermindEth/nethermind/commit/1c530e095563b269ed6e49834ca0aa41d9a62a48) - 2026-10-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427#pullrequestreview-5426520224) - 2026-10-06
+
+[NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
+* [Review] [Review on: pal: reclaim ZisK accelerator scratch memory, halt on Rust OOM](https://github.com/NethermindEth/bflat-riscv64/pull/52#pullrequestreview-5464545346) - 2026-10-09
 ## Q3 2026
 
 

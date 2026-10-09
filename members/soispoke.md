@@ -13,6 +13,11 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8250: Have first byte of the nonce key indicate nonce type](https://github.com/ethereum/EIPs/pull/12352#pullrequestreview-5391843443) - 2026-10-02
+* [Pull Request] [Update EIP-8141: roll back the approval context when a call reverts](https://github.com/ethereum/EIPs/pull/12458) - 2026-10-08
+* [Review] [Review on: Update EIP-8250: record keyed nonces in the block access list and pri…](https://github.com/ethereum/EIPs/pull/12457#pullrequestreview-5455045871) - 2026-10-08
+* [Review] [Review on: Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440#pullrequestreview-5455259452) - 2026-10-08
+* [Review] [Review on: Update EIP-8272: deploy recent root contract as standard contract](https://github.com/ethereum/EIPs/pull/12443#pullrequestreview-5454800989) - 2026-10-08
+* [Commit] [Update EIP-8141: roll back the approval context when a call reverts](https://github.com/ethereum/EIPs/commit/af80fc1c4122c4990b8c84bfd10be60c6e343bb2) - 2026-10-08
 ## Q3 2026
 
 

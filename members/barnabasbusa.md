@@ -35,6 +35,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: subscribe to fork event streams one epoch before activation](https://github.com/ethpandaops/dora/commit/64fd5d5fc7b1d8a447762a3754697b8409bc3426) - 2026-10-06
 * [Commit] [Merge pull request #891 from ethpandaops/bbusa/hide-bid-seen-by-self-built](https://github.com/ethpandaops/dora/commit/2f374eb6794448281fd18cce7071ce97c17226c6) - 2026-10-06
 * [Commit] [fix: hide bid seen-by column for self-built bids](https://github.com/ethpandaops/dora/commit/6685acef7382065c4f1811bd04a527d99a2d77a4) - 2026-10-06
+* [Pull Request] [fix: avoid full slot scan when resolving Gloas payload status](https://github.com/ethpandaops/dora/pull/893) - 2026-10-08
+* [Commit] [fix: avoid full slot scan when resolving Gloas payload status](https://github.com/ethpandaops/dora/commit/b77a0fd3c03b7f07e25f542312fbe7293a81263a) - 2026-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -46,6 +48,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: setup.sh: reshim python after pip install (fixes lint-ansible CI)](https://github.com/ethpandaops/template-devnets/pull/191#pullrequestreview-5439911531) - 2026-10-07
 * [Commit] [feat: add HackMD sync helper (#160)](https://github.com/ethpandaops/template-devnets/commit/f25a2b9a61d01abda6d82aba36fa4d46056f3003) - 2026-10-07
 * [Commit] [inventory: keep genesis chain id within 32-bit range (#188)](https://github.com/ethpandaops/template-devnets/commit/4e6a5a04ea076d1b2629129d874cd4559259e9d9) - 2026-10-07
+* [Pull Request] [chore: bump sops to 3.13.3](https://github.com/ethpandaops/template-devnets/pull/196) - 2026-10-08
+* [Commit] [chore: bump sops to 3.13.3 (#196)](https://github.com/ethpandaops/template-devnets/commit/50365257e4b61f50a3587cd189c7677ed4dd6e04) - 2026-10-08
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 

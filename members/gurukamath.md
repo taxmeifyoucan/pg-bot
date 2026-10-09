@@ -16,6 +16,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec-specs): join imports that fit on one line](https://github.com/ethereum/execution-specs/pull/3720#pullrequestreview-5427071564) - 2026-10-06
 * [Review] [Review on: refactor(spec-specs): remove formatting-only differences between forks](https://github.com/ethereum/execution-specs/pull/3732#pullrequestreview-5443823939) - 2026-10-07
 * [Review] [Review on: feat(specs, tests): deploy the EIP-8141 expiry verifier as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3729#pullrequestreview-5438894002) - 2026-10-07
+* [Pull Request] [feat(spec-specs,test-forks,tests): implement EIP-8272 recent roots for frame transactions](https://github.com/ethereum/execution-specs/pull/3740) - 2026-10-08
+* [Review] [Review on: refactor(test-forks,test-specs): remove the unused activation code install hook in EIP-8141](https://github.com/ethereum/execution-specs/pull/3735#pullrequestreview-5453794967) - 2026-10-08
+* [Pull Request] [docs(specs,tests): track the EIP-8141 frame mode set-membership wording](https://github.com/ethereum/execution-specs/pull/3739) - 2026-10-08
 ## Q3 2026
 
 

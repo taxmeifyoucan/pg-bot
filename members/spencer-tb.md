@@ -31,6 +31,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(specs,tests): deploy the EIP-8250 nonce manager as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3736) - 2026-10-07
 * [Review] [Review on: feat(specs, tests): deploy the EIP-8141 expiry verifier as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3729#pullrequestreview-5442594264) - 2026-10-07
 * [Commit] [fix(test-forks,tests): fix latent base fee and blob transition bugs (#3721)](https://github.com/ethereum/execution-specs/commit/4daa5df7f657d982732785671c2758551f19da6d) - 2026-10-07
+* [Review] [Review on: feat(skill): keep AI from updating the <fork> docstring until merges](https://github.com/ethereum/execution-specs/pull/3749#pullrequestreview-5460985667) - 2026-10-08
+* [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8272 recent roots for frame transactions](https://github.com/ethereum/execution-specs/pull/3740#pullrequestreview-5460448467) - 2026-10-08
+* [Review] [Review on: docs(specs,tests): track the EIP-8141 frame mode set-membership wording](https://github.com/ethereum/execution-specs/pull/3739#pullrequestreview-5456650468) - 2026-10-08
+* [Issue] [EIP-8116 Implementation Tracker: Replace cumulative receipt fields](https://github.com/ethereum/execution-specs/issues/3747) - 2026-10-08
+* [Issue] [EIP-8360 Implementation Tracker: TCREATE Opcode](https://github.com/ethereum/execution-specs/issues/3746) - 2026-10-08
+* [Issue] [EIP-4758 Implementation Tracker: Deactivate SELFDESTRUCT](https://github.com/ethereum/execution-specs/issues/3745) - 2026-10-08
+* [Issue] [EIP-7709 Implementation Tracker: Read BLOCKHASH from Storage and Update Cost](https://github.com/ethereum/execution-specs/issues/3744) - 2026-10-08
+* [Issue] [EIP-8298 Implementation Tracker: SETCODEFROM Code Reuse Instruction](https://github.com/ethereum/execution-specs/issues/3743) - 2026-10-08
+* [Issue] [EIP-5920 Implementation Tracker: PAY opcode](https://github.com/ethereum/execution-specs/issues/3742) - 2026-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -41,6 +50,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452) - 2026-10-07
 * [Review] [Review on: Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452#pullrequestreview-5444910673) - 2026-10-07
 * [Commit] [Update EIP-3298: Remove the refund cap from frame transaction settlement](https://github.com/ethereum/EIPs/commit/6dac5e74918b54511298fdbff79650e8f8d27d78) - 2026-10-07
+* [Pull Request] [Update EIP-7906: clarify diff opcode semantics and gas accounting](https://github.com/ethereum/EIPs/pull/12461) - 2026-10-08
+* [Commit] [Update EIP-7906: clarify diff opcode semantics and gas accounting](https://github.com/ethereum/EIPs/commit/8dbdab2b25dec0c3645169ce50c6d43a502a17c6) - 2026-10-08
+* [Commit] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/commit/17669e96e5ad3fb2b132af1c116a649edbb2b7c9) - 2026-10-08
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5462620440) - 2026-10-08
 ## Q3 2026
 
 

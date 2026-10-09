@@ -19,6 +19,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor (#3711)](https://github.com/ethereum/execution-specs/commit/1764b0884c3ad7f2126cc6a51f0e7ebd347cf8dc) - 2026-10-06
 * [Commit] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor (#3711)](https://github.com/ethereum/execution-specs/commit/abc389a05198ec8a87142cd282db6e72af4bde4d) - 2026-10-06
 * [Review] [Review on: test(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5437626276) - 2026-10-07
+* [Review] [Review on: feat(test-evm-tools): derive fork-block activation from the transition schedule](https://github.com/ethereum/execution-specs/pull/3557#pullrequestreview-5455779638) - 2026-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02

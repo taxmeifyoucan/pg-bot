@@ -26,6 +26,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Revert the execution proof availability gate](https://github.com/sigp/lighthouse/pull/10233#pullrequestreview-5433271633) - 2026-10-06
 * [Pull Request] [Add property tests for EpochSchedule](https://github.com/sigp/lighthouse/pull/10232) - 2026-10-06
 * [Review] [Review on: Enforce inclusion list satisfaction in fork choice](https://github.com/sigp/lighthouse/pull/10253#pullrequestreview-5446944605) - 2026-10-07
+* [Pull Request] [Use the Gloas min epochs for block requests as the backfill range](https://github.com/sigp/lighthouse/pull/10270) - 2026-10-08
 ## Q3 2026
 
 

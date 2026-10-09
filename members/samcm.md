@@ -29,6 +29,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: store spec event fields dropped on the way to ClickHouse](https://github.com/ethpandaops/xatu/pull/902#pullrequestreview-5450593639) - 2026-10-08
 * [Pull Request] [fix(proto): regenerate pkg/proto/clickhouse and check it in CI](https://github.com/ethpandaops/xatu/pull/903) - 2026-10-08
 * [Commit] [fix(proto): regenerate pkg/proto/clickhouse and check it in CI (#903)](https://github.com/ethpandaops/xatu/commit/2c244086e6a05628f773432be0cdb900c03b2cc3) - 2026-10-08
+
+* [Review] [Review on: feat(sentry): fetch Gloas-aware v2 debug fork choice](https://github.com/ethpandaops/xatu/pull/900#pullrequestreview-5451415673) - 2026-10-08
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
+* [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 ## Q3 2026
 
 

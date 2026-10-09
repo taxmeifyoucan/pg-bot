@@ -34,6 +34,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.7] cl, execution: fix two causes of a stall after a Caplin restart](https://github.com/erigontech/erigon/pull/24657) - 2026-10-07
 * [Review] [Review on: cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629#pullrequestreview-5448906940) - 2026-10-07
 * [Commit] [cl, execution: fix two causes of a stall after a Caplin restart (#24628)](https://github.com/erigontech/erigon/commit/b2293323511f1ec355841b453efd1bdb53a01c32) - 2026-10-07
+* [Pull Request] [cl/phase1/network: defer the gloas checkpoint anchor when the checkpoint url cannot serve its child](https://github.com/erigontech/erigon/pull/24708) - 2026-10-09
+* [Pull Request] [cl/phase1/forkchoice: ignore ticks before genesis](https://github.com/erigontech/erigon/pull/24680) - 2026-10-08
+* [Review] [Review on: cl: fix publication of self-built Gloas blocks and payloads](https://github.com/erigontech/erigon/pull/24545#pullrequestreview-5458227867) - 2026-10-08
+* [Review] [Review on: cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24627#pullrequestreview-5458030939) - 2026-10-08
+* [Review] [Review on: cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24550#pullrequestreview-5457826226) - 2026-10-08
+* [Review] [Review on: cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24548#pullrequestreview-5457565859) - 2026-10-08
+* [Pull Request] [cl/phase1/forkchoice: keep Fulu blocks out of fork choice until their custody columns are stored](https://github.com/erigontech/erigon/pull/24546) - 2026-10-08
+* [Issue] [Caplin: fresh Sepolia checkpoint sync after Gloas loops forever on the anchor successor search (checkpointz returns 500)](https://github.com/erigontech/erigon/issues/24676) - 2026-10-08
+* [Commit] [cl/phase1/forkchoice: ignore ticks before genesis (#24680)](https://github.com/erigontech/erigon/commit/5b3fc33321c6c0156840a0adb08930c3f8a71c0f) - 2026-10-08
+* [Commit] [cl: use the Fulu inclusion proof depth for data column sidecars (#24512)](https://github.com/erigontech/erigon/commit/d1a4a6b21be22aae5d5fae4caba6721ae97748e5) - 2026-10-08
+* [Commit] [cl/phase1/forkchoice: keep Fulu blocks out of fork choice until their custody columns are stored (#24546)](https://github.com/erigontech/erigon/commit/52b4a2bd95e84f32fb428dd30f1d0ce131b7ffe8) - 2026-10-08
 ## Q3 2026
 
 

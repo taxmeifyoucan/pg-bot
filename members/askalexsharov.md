@@ -180,6 +180,23 @@ Team: Erigon
 * [Commit] [cl/sentinel/communication/ssz_snappy: grow the read buffer as data arrives (#24648)](https://github.com/erigontech/erigon/commit/61bf737cb1b2a606370ad88efdbe50c098f50ee6) - 2026-10-08
 * [Commit] [rpc: enable StateCache (#24497)](https://github.com/erigontech/erigon/commit/1a2825ce10f468a8543d1852c87152cc9caaf283) - 2026-10-07
 * [Commit] [execution/state: an empty version map answers a probe without the sync.Map (#24604)](https://github.com/erigontech/erigon/commit/e151b8bca33d38155a982c53c13b7147ad43de05) - 2026-10-07
+* [Review] [Review on: exec: a reused read set keeps its per-address slot maps](https://github.com/erigontech/erigon/pull/24605#pullrequestreview-5453761969) - 2026-10-08
+* [Review] [Review on: execution: remove stale BAL RLP decoding size based checks](https://github.com/erigontech/erigon/pull/24684#pullrequestreview-5464978361) - 2026-10-09
+* [Review] [Review on: execution: don't take a destroyed account's nonce for a value-transfer revival](https://github.com/erigontech/erigon/pull/24705#pullrequestreview-5464881893) - 2026-10-09
+* [Review] [Review on: QA: bump rpc-tests to v2.35.1](https://github.com/erigontech/erigon/pull/24707#pullrequestreview-5464709221) - 2026-10-09
+* [Review] [Review on: cl/phase1/network/services: verify gossip signatures with the message epoch's fork version](https://github.com/erigontech/erigon/pull/24544#pullrequestreview-5452014523) - 2026-10-08
+* [Pull Request] [execution/state: code reads carry their hash again](https://github.com/erigontech/erigon/pull/24677) - 2026-10-08
+* [Pull Request] [execution/state: cheaper account creation on the noMaterialize path](https://github.com/erigontech/erigon/pull/24674) - 2026-10-08
+* [Review] [Review on: execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658#pullrequestreview-5453799863) - 2026-10-08
+* [Commit] [execution/vm: split EVM.call into Call, CallCode, DelegateCall and StaticCall (#24549)](https://github.com/erigontech/erigon/commit/f0883908c903e87fe6c414698db2510224b2be81) - 2026-10-08
+* [Commit] [execution/state: cheaper account creation on the noMaterialize path (#24674)](https://github.com/erigontech/erigon/commit/e03e1bccbe0c2e179d91c65c54cb1f832be74c2d) - 2026-10-08
+* [Commit] [cmd/evm: `fixture` saves a tx with its prestate for the vm benchmarks (#24675)](https://github.com/erigontech/erigon/commit/638a151bcb1a6977fd94a5354dac5722387815bc) - 2026-10-08
+* [Commit] [protocol/mdgas: count the zero bytes with bytes.Count (#24636)](https://github.com/erigontech/erigon/commit/1dd94561e4e5a9d87fdce59cb624a07f07c20725) - 2026-10-08
+* [Commit] [vm: the origin still exists before EIP-158 (#24630)](https://github.com/erigontech/erigon/commit/9bf7b9597d0347fd31d44e8e356151c75f05cc08) - 2026-10-08
+* [Commit] [rpc: speedup `json.Validate` (#24637)](https://github.com/erigontech/erigon/commit/8db51197b914e0ee8b2f0d2e3931f61a52a4fecb) - 2026-10-08
+* [Commit] [p2p/rlpx: reject snappy lengths the payload cannot decode to (#24649)](https://github.com/erigontech/erigon/commit/59d7302006827e9b0e7435be1af58cf75f9eb714) - 2026-10-08
+* [Commit] [vmgen: drop the `if false` blocks from run (#24634)](https://github.com/erigontech/erigon/commit/6f6b8da0ae6d270631d96ed71250388f0bc75441) - 2026-10-08
+* [Commit] [exec: skip "synthesizing an account" if version map has no cell for (#24602)](https://github.com/erigontech/erigon/commit/8f0631f480c4b833d561345dc08ae9f5a3e62ace) - 2026-10-08
 ## Q3 2026
 
 

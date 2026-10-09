@@ -25,6 +25,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs,tests): implement EIP-7668 empty logs bloom in Bogota](https://github.com/ethereum/execution-specs/pull/3719#pullrequestreview-5447483100) - 2026-10-07
 * [Review] [Review on: fix(test-forks,tests): fix latent base fee and blob transition bugs](https://github.com/ethereum/execution-specs/pull/3721#pullrequestreview-5445718370) - 2026-10-07
 * [Commit] [feat(test-types): relative balance and nonce post-state expectations (#3699)](https://github.com/ethereum/execution-specs/commit/3d544d73f2e01a9b68c2bb3faf6afb45f012758b) - 2026-10-07
+* [Review] [Review on: feat(spec-specs,tests): implement EIP-7906 transaction assertions](https://github.com/ethereum/execution-specs/pull/3730#pullrequestreview-5461061692) - 2026-10-08
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

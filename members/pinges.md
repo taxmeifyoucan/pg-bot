@@ -14,6 +14,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Retain blocks and BALs for the history expiry window](https://github.com/besu-eth/besu/pull/11417#pullrequestreview-5387026533) - 2026-10-02
 * [Review] [Review on: remove deprecated --Xsnapsync-synchronizer-pivot-block-distance-before-caching](https://github.com/besu-eth/besu/pull/11499#pullrequestreview-5436743783) - 2026-10-07
+* [Review] [Review on: Fix/sync signal reporting bugs](https://github.com/besu-eth/besu/pull/11262#pullrequestreview-5465046052) - 2026-10-09
+* [Review] [Review on: Serialize head moves with a shared head lock](https://github.com/besu-eth/besu/pull/11402#pullrequestreview-5463992982) - 2026-10-08
+* [Review] [Review on: Stop re-fetching announced blocks that are saved as pending](https://github.com/besu-eth/besu/pull/11518#pullrequestreview-5453676018) - 2026-10-08
+* [Review] [Review on: Honor IPv6 outbound preference for DNS-discovered peers](https://github.com/besu-eth/besu/pull/11448#pullrequestreview-5452849646) - 2026-10-08
+* [Review] [Review on: perf(eth): reduce per-tx allocations in constructGetPooledTransactionsResponse](https://github.com/besu-eth/besu/pull/10546#pullrequestreview-5452454180) - 2026-10-08
+* [Review] [Review on: Request the remaining announced transactions, in announcement order, on pooled transaction retries](https://github.com/besu-eth/besu/pull/11465#pullrequestreview-5452158826) - 2026-10-08
 ## Q3 2026
 
 

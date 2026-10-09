@@ -27,6 +27,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Remove Bazel: Phase 7/9](https://github.com/OffchainLabs/prysm/pull/17595#pullrequestreview-5444721900) - 2026-10-07
 * [Commit] [Remove the unencrypted-keys-gen and convert-keys interop tools (#17583)](https://github.com/OffchainLabs/prysm/commit/87b1a26dd9056e94768e78a604409f86dc4dc9a9) - 2026-10-07
 * [Commit] [Remove the beacon-fuzz state map generator (#17582)](https://github.com/OffchainLabs/prysm/commit/8d4a776b920eefc3c7c08c34310178ec9567a690) - 2026-10-07
+
+* [Review] [Review on: Trim whitespace when parsing Accept header media types for SSZ responses](https://github.com/OffchainLabs/prysm/pull/17651#pullrequestreview-5459150536) - 2026-10-08
+* [Pull Request] [Verify proposer preferences signature before advancing the dependent state](https://github.com/OffchainLabs/prysm/pull/17656) - 2026-10-08
+* [Review] [Review on: Serialize block gossip decode](https://github.com/OffchainLabs/prysm/pull/17647#pullrequestreview-5459095077) - 2026-10-08
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026
 
 

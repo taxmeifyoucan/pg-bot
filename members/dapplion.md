@@ -20,6 +20,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Tweak FCR restart logic to match latest spec](https://github.com/sigp/lighthouse/pull/10224#pullrequestreview-5425219745) - 2026-10-06
 * [Review] [Review on: Implement optional proofs with fork-choice optimistic](https://github.com/sigp/lighthouse/pull/10198#pullrequestreview-5439788155) - 2026-10-07
 * [Review] [Review on: Align the EIP-8025 proof types and gossip rules with the spec](https://github.com/sigp/lighthouse/pull/10236#pullrequestreview-5443712657) - 2026-10-07
+* [Pull Request] [Allow beacon node with EL to relay execution proofs](https://github.com/sigp/lighthouse/pull/10271) - 2026-10-08
+* [Pull Request] [Add execution proof metrics](https://github.com/sigp/lighthouse/pull/10272) - 2026-10-08
+* [Pull Request] [Queue locally submitted execution proofs for republication](https://github.com/sigp/lighthouse/pull/10273) - 2026-10-08
+* [Pull Request] [Make the required execution proof count a flag](https://github.com/sigp/lighthouse/pull/10269) - 2026-10-08
+* [Pull Request] [Add filter_optimistic_payloads feature](https://github.com/sigp/lighthouse/pull/10265) - 2026-10-08
+* [Pull Request] [Make the execution layer optional with proof engine](https://github.com/sigp/lighthouse/pull/10262) - 2026-10-08
 ## Q3 2026
 
 

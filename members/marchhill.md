@@ -103,6 +103,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [test(clique): pin producer tests to Sepolia's latest scheduled fork (#14354)](https://github.com/NethermindEth/nethermind/commit/c9c761f6e517edf9f9d85a2a288193b3f71e28c9) - 2026-10-07
 * [Commit] [Catch up finalized blocks from block access lists (#14157)](https://github.com/NethermindEth/nethermind/commit/f02c61a885cbde9bc9cb34336861b2088e187b2a) - 2026-10-07
 * [Commit] [feat: EIP-8279 block access list byte floor (#13942)](https://github.com/NethermindEth/nethermind/commit/6d0d8a3e1c29576761b656d48dc273b9a02385c4) - 2026-10-07
+* [Pull Request] [fix: use EIP-7906's assigned opcode bytes](https://github.com/NethermindEth/nethermind/pull/14469) - 2026-10-08
+* [Pull Request] [fix(tests): decode frame transactions from txbytes in state tests](https://github.com/NethermindEth/nethermind/pull/14463) - 2026-10-08
+* [Pull Request] [fix: zero-length logs bloom for an EIP-7668 genesis](https://github.com/NethermindEth/nethermind/pull/14458) - 2026-10-08
+* [Review] [Review on: feat(hegota): Implement 7709](https://github.com/NethermindEth/nethermind/pull/12742#pullrequestreview-5464417862) - 2026-10-09
+* [Review] [Review on: feat(rpc): add an operator cap on buffered struct-log trace size](https://github.com/NethermindEth/nethermind/pull/14460#pullrequestreview-5459763423) - 2026-10-08
+* [Review] [Review on: fix(bal): stop parallel validation once executed gas exceeds the block limit](https://github.com/NethermindEth/nethermind/pull/14459#pullrequestreview-5459704208) - 2026-10-08
+* [Pull Request] [feat: EIP-8077 announce tx source and nonce (eth/73)](https://github.com/NethermindEth/nethermind/pull/14462) - 2026-10-08
+* [Review] [Review on: feat: EIP-8077 announce tx source and nonce (eth/73)](https://github.com/NethermindEth/nethermind/pull/14462#pullrequestreview-5460253715) - 2026-10-08
+* [Commit] [feat: align EIP-8279 metering with execution-specs#3351 (#14448)](https://github.com/NethermindEth/nethermind/commit/dafc369783685e66bc92dc043683db23396adfcf) - 2026-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -111,6 +120,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-5920: Price value with ACCOUNT_WRITE under EIP-8038](https://github.com/ethereum/EIPs/pull/12428) - 2026-10-05
 * [Pull Request] [Update EIP-7843: Move to Last Call](https://github.com/ethereum/EIPs/pull/12425) - 2026-10-05
 * [Commit] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/commit/c2471607ae30f665f2cfd878b7284ba39afeba75) - 2026-10-06
+* [Review] [Review on: Update EIP-7805: Profile 2 inclusion claims and per-list VERIFY budget](https://github.com/ethereum/EIPs/pull/12394#pullrequestreview-5456269010) - 2026-10-08
+* [Review] [Review on: Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423#pullrequestreview-5455781793) - 2026-10-08
 ## Q3 2026
 
 

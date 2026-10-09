@@ -58,6 +58,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/rpchelper: ask the remote for all topics when a log filter names none](https://github.com/erigontech/erigon/pull/24459#pullrequestreview-5447589779) - 2026-10-07
 * [Review] [Review on: fix(rpc/jsonrpc): eth_getRawTransactionByHash returns pending transactions from the pool](https://github.com/erigontech/erigon/pull/24463#pullrequestreview-5447766460) - 2026-10-07
 * [Commit] [QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf (#24539)](https://github.com/erigontech/erigon/commit/d1cecd9f4eeaacc49a2f30d2d9e05b959fb5649e) - 2026-10-07
+* [Pull Request] [QA: bump rpc-tests to v2.35.1](https://github.com/erigontech/erigon/pull/24707) - 2026-10-08
+* [Pull Request] [rpc/jsonrpc: reject unknown fields in trace_filter requests](https://github.com/erigontech/erigon/pull/24706) - 2026-10-08
+* [Review] [Review on: fix(rpc): reject dynamic fee fields before london](https://github.com/erigontech/erigon/pull/24536#pullrequestreview-5460841778) - 2026-10-08
+* [Commit] [QA: generate the latest eth_call and mixed patterns at the tip in RPC Performance Tests Latest (#24663)](https://github.com/erigontech/erigon/commit/5f19689728059687b92867ed55e7ba8d0892ac12) - 2026-10-08
+* [Commit] [QA: disable eth_fillTransaction/test_13 in RPC Integration Tests Latest (#24668)](https://github.com/erigontech/erigon/commit/dba36fe3cfe228a087129ae49b8acc7acf750845) - 2026-10-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -65,6 +70,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks (#614)](https://github.com/erigontech/rpc-tests/commit/1b2fa5e37c10e1da306db3a2d811a1666c08abf9) - 2026-10-04
 * [Commit] [perf: count JSON-RPC errors in response bodies (#615)](https://github.com/erigontech/rpc-tests/commit/6f6e7514a4498c696d83d87f99338f714680da14) - 2026-10-04
 * [Commit] [rpc_pattern_gen: mixed load from a profile; rpc_perf: results by API with --verbose (#616)](https://github.com/erigontech/rpc-tests/commit/e438652f5545f62d8d72ea2643978beb85a00723) - 2026-10-05
+* [Pull Request] [rpc_perf: latencies by API with --verbose](https://github.com/erigontech/rpc-tests/pull/617) - 2026-10-08
+* [Commit] [rpc_perf: latencies by API with --verbose (#617)](https://github.com/erigontech/rpc-tests/commit/566ddedada4d8163a980ff7939df90076574ff47) - 2026-10-08
 ## Q3 2026
 
 

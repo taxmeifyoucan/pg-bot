@@ -13,6 +13,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Pull Request] [Update EIP-8081: Decisions from ACDC188](https://github.com/ethereum/EIPs/pull/12429) - 2026-10-05
 * [Commit] [Update EIP-8081: Decisions from ACDC188](https://github.com/ethereum/EIPs/commit/69075f1b54fc4a116b41f75461a9868755a83e41) - 2026-10-05
 
+* [Pull Request] [Update EIP-8081: Decisions from ACDE247](https://github.com/ethereum/EIPs/pull/12460) - 2026-10-08
+* [Commit] [Update EIP-8081: Decisions from ACDE247](https://github.com/ethereum/EIPs/commit/f154af816c4e3467ea3a86e064e4d3493ab2a8e0) - 2026-10-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Lodestar incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2243#pullrequestreview-5417157912) - 2026-10-05
 * [Commit] [Merge pull request #2261 from benjaminion/master](https://github.com/ethereum/pm/commit/1b2d30fd58b69b81a5374012350313d3ba727d1a) - 2026-10-05

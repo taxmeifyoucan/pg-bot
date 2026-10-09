@@ -34,8 +34,43 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [perf(maybe-rayon): cut loops into pieces up front and wake helpers as a tree](https://github.com/Plonky3/Plonky3/pull/2389) - 2026-10-06
 * [Review] [Review on: fix(examples): implement every Matrix accessor on MaybeBitreversedMatrix](https://github.com/Plonky3/Plonky3/pull/2388#pullrequestreview-5426957628) - 2026-10-06
 
+* [Pull Request] [perf(binary-field): fold ARM cubic products with ternary sums](https://github.com/Plonky3/Plonky3/pull/2424) - 2026-10-08
+* [Pull Request] [perf(binary-dft): fold paired ARM butterflies with carryless products](https://github.com/Plonky3/Plonky3/pull/2422) - 2026-10-08
+* [Pull Request] [perf(binary-field): schedule ARM cubic coordinate loads independently](https://github.com/Plonky3/Plonky3/pull/2423) - 2026-10-08
+* [Pull Request] [perf(binary-dft): visit only selected basis vectors for twiddles](https://github.com/Plonky3/Plonky3/pull/2421) - 2026-10-08
+* [Pull Request] [perf(binary-field): reduce scalar x86 products with carryless folds](https://github.com/Plonky3/Plonky3/pull/2420) - 2026-10-08
+* [Pull Request] [perf(binary-dft): defer ARM generator-weighted extension reductions](https://github.com/Plonky3/Plonky3/pull/2419) - 2026-10-08
+* [Pull Request] [perf(binary-field): defer generator-power byte reductions on ARM](https://github.com/Plonky3/Plonky3/pull/2418) - 2026-10-08
+* [Pull Request] [perf(binary-field): halve carryless multiplies for four-pair products](https://github.com/Plonky3/Plonky3/pull/2417) - 2026-10-08
+* [Pull Request] [perf(binary-dft): fuse weighted products of Boolean extensions](https://github.com/Plonky3/Plonky3/pull/2416) - 2026-10-08
+* [Pull Request] [perf(binary-dft): unroll complete ARM butterfly groups](https://github.com/Plonky3/Plonky3/pull/2414) - 2026-10-08
+* [Pull Request] [perf(binary-field): fuse three ARM butterfly stages in registers](https://github.com/Plonky3/Plonky3/pull/2415) - 2026-10-08
+* [Pull Request] [perf(binary-field): multiply four extension pairs without padding](https://github.com/Plonky3/Plonky3/pull/2413) - 2026-10-08
+* [Pull Request] [perf(binary-field): reduce ARM byte products with nibble tables](https://github.com/Plonky3/Plonky3/pull/2412) - 2026-10-08
+* [Pull Request] [perf(binary-field): defer mixed product sums across chunks](https://github.com/Plonky3/Plonky3/pull/2409) - 2026-10-08
+* [Pull Request] [perf(binary-dft): keep 64-byte ARM extensions in registers](https://github.com/Plonky3/Plonky3/pull/2411) - 2026-10-08
+* [Pull Request] [feat(binary-field): defer scalar and packed extension products across sums](https://github.com/Plonky3/Plonky3/pull/2410) - 2026-10-08
+* [Pull Request] [perf(binary-field): pack mixed Poly192 dot products](https://github.com/Plonky3/Plonky3/pull/2408) - 2026-10-08
+* [Pull Request] [perf(binary-field): defer reductions in weighted Poly64 column sums](https://github.com/Plonky3/Plonky3/pull/2407) - 2026-10-08
+* [Pull Request] [perf(binary-field): offer optional eight-lane polynomial packing](https://github.com/Plonky3/Plonky3/pull/2405) - 2026-10-08
+* [Pull Request] [perf(binary-dft): retain Poly64 ARM butterflies in vector registers](https://github.com/Plonky3/Plonky3/pull/2403) - 2026-10-08
+* [Pull Request] [feat(binary-dft): add explicit bases and packed-byte extension](https://github.com/Plonky3/Plonky3/pull/2404) - 2026-10-08
+* [Pull Request] [perf(binary-field): multiply packed AES bytes with NEON](https://github.com/Plonky3/Plonky3/pull/2402) - 2026-10-08
+* [Review] [Review on: perf(binary-field): reuse allocations when Poly192 vectors change coordinates](https://github.com/Plonky3/Plonky3/pull/2398#pullrequestreview-5454343348) - 2026-10-08
+* [Review] [Review on: perf(fri)!: compute commit LDEs concurrently](https://github.com/Plonky3/Plonky3/pull/2397#pullrequestreview-5454352172) - 2026-10-08
+* [Review] [Review on: perf(sumcheck): parallelize the prefix layout's stacked gather and OOD recording](https://github.com/Plonky3/Plonky3/pull/2396#pullrequestreview-5454358038) - 2026-10-08
+* [Review] [Review on: perf(sumcheck,whir)!: share retained WHIR prover data between clones](https://github.com/Plonky3/Plonky3/pull/2395#pullrequestreview-5454357631) - 2026-10-08
+* [Review] [Review on: perf(bus): evaluate product GKR round lines by slope steps and split per-tree loops](https://github.com/Plonky3/Plonky3/pull/2394#pullrequestreview-5454351811) - 2026-10-08
+* [Review] [Review on: feat(multi-stark): let bus-declaring AIRs use SubfieldBackend and ReprBackend](https://github.com/Plonky3/Plonky3/pull/2392#pullrequestreview-5454388995) - 2026-10-08
+* [Review] [Review on: perf(multi-stark): read bus sources in place until the first fold](https://github.com/Plonky3/Plonky3/pull/2391#pullrequestreview-5454388731) - 2026-10-08
+* [Review] [Review on: fix(blake3-air): split trace counters through u64 on 32-bit targets](https://github.com/Plonky3/Plonky3/pull/2390#pullrequestreview-5454695763) - 2026-10-08
+* [Review] [Review on: perf(multi-stark,bus): compute the bus composition in the backend's representation](https://github.com/Plonky3/Plonky3/pull/2393#pullrequestreview-5454389306) - 2026-10-08
+* [Review] [Review on: perf(binary-dft): run the GF(2^128) LCH network in the GHASH basis when a twiddle is wide](https://github.com/Plonky3/Plonky3/pull/2400#pullrequestreview-5454364959) - 2026-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 ## Q3 2026
 
 

@@ -41,6 +41,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(evm): leave checked opcodes straight from host dispatch when it carries gas](https://github.com/NethermindEth/nethermind/pull/14427) - 2026-10-07
 * [Commit] [perf(evm): leave checked opcodes straight from host dispatch when it carries gas (#14427)](https://github.com/NethermindEth/nethermind/commit/f3b740c870a1169ea37059e48a9bf98e36964874) - 2026-10-07
 * [Commit] [Refresh prewarm footprints that earlier transactions invalidate (#14393)](https://github.com/NethermindEth/nethermind/commit/b40beacdafee3a51494bb64b283bf194f867bc1a) - 2026-10-07
+* [Pull Request] [perf(validation): recover EIP-2780 senders in the block validator only when intrinsic gas needs them](https://github.com/NethermindEth/nethermind/pull/14468) - 2026-10-08
+* [Review] [Review on: perf(validation): recover EIP-2780 senders in the block validator only when intrinsic gas needs them](https://github.com/NethermindEth/nethermind/pull/14468#pullrequestreview-5463862216) - 2026-10-08
+* [Pull Request] [perf(blockchain): write a suggested block's header off the engine API path](https://github.com/NethermindEth/nethermind/pull/14466) - 2026-10-08
+* [Review] [Review on: perf(blockchain): write a suggested block's header off the engine API path](https://github.com/NethermindEth/nethermind/pull/14466#pullrequestreview-5464096770) - 2026-10-08
+* [Pull Request] [Stop an idle mempool pre-warm session without waiting for it](https://github.com/NethermindEth/nethermind/pull/14467) - 2026-10-08
+* [Review] [Review on: Stop an idle mempool pre-warm session without waiting for it](https://github.com/NethermindEth/nethermind/pull/14467#pullrequestreview-5463954898) - 2026-10-08
 ## Q3 2026
 
 

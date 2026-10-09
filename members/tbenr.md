@@ -39,6 +39,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Lower pending block pool byte cap and report pool size in bytes](https://github.com/Consensys-Incorporated/teku/pull/11435#pullrequestreview-5446881840) - 2026-10-07
 * [Pull Request] [Report payload reorgs and payload statuses in reorg events](https://github.com/Consensys-Incorporated/teku/pull/11437) - 2026-10-07
 * [Commit] [Fix progressive ssz loadstore by preserving last chunk size (#11418)](https://github.com/Consensys-Incorporated/teku/commit/0ac8f54d9ec6b3f218945a068a7702ad353d2f08) - 2026-10-08
+* [Pull Request] [Preserve fork choice variants on duplicate block imports](https://github.com/Consensys-Incorporated/teku/pull/11449) - 2026-10-08
+* [Review] [Review on: [beacon api] update fork choice v2 to the final spec](https://github.com/Consensys-Incorporated/teku/pull/11448#pullrequestreview-5456853451) - 2026-10-08
+* [Pull Request] [Recover Gloas payloads for state-only finalized checkpoints](https://github.com/Consensys-Incorporated/teku/pull/11450) - 2026-10-08
+* [Commit] [Accept discovered peers that advertise only a QUIC address (#11432)](https://github.com/Consensys-Incorporated/teku/commit/46c9ef753e3e80dd4d81181b5b3ba9d5220dfead) - 2026-10-09
+* [Commit] [Preserve fork choice variants on duplicate block imports (#11449)](https://github.com/Consensys-Incorporated/teku/commit/807254cc5d75c22b26f0bc691ed9a90bc7924dad) - 2026-10-08
+* [Commit] [Report payload reorgs and payload statuses in reorg events (#11437)](https://github.com/Consensys-Incorporated/teku/commit/a00045e3665eeffc267037665f6342923b22e3d0) - 2026-10-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

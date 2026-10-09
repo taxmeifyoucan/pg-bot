@@ -32,6 +32,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Read the root and block hash of a cached block once, not per world state](https://github.com/besu-eth/besu/pull/11510#pullrequestreview-5442522295) - 2026-10-07
 * [Commit] [Log BAL prefetch completion at debug level (#11502)](https://github.com/besu-eth/besu/commit/f08022cb2748d937e8b5b7e5906f1a9b883e1181) - 2026-10-07
 * [Commit] [Share one NoOpBonsaiCachedMerkleTrieLoader instead of building one per world state (#11484)](https://github.com/besu-eth/besu/commit/a1dce34024d9ff29f90e78562206e3e41aa9cfaf) - 2026-10-07
+* [Review] [Review on: refactor: cleanup preprocessing function](https://github.com/besu-eth/besu/pull/11412#pullrequestreview-5457066957) - 2026-10-08
+* [Review] [Review on: Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482#pullrequestreview-5456322365) - 2026-10-08
+* [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-5455992560) - 2026-10-08
+* [Commit] [Unify Bonsai trie node access behind getTrieNode/putTrieNode/removeTrieNode (#11398)](https://github.com/besu-eth/besu/commit/a7241f71a162b3a1895c656d244cff9088e91c88) - 2026-10-08
 ## Q3 2026
 
 

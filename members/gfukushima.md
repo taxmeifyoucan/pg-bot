@@ -15,6 +15,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Update gossip config with MAX_TOTAL_FIELDS = 32768](https://github.com/Consensys-Incorporated/teku/pull/11413#pullrequestreview-5423194768) - 2026-10-06
 * [Pull Request] [Bump ref test to beta3](https://github.com/Consensys-Incorporated/teku/pull/11444) - 2026-10-07
 * [Review] [Review on: Lower pending block pool byte cap and report pool size in bytes](https://github.com/Consensys-Incorporated/teku/pull/11435#pullrequestreview-5449532540) - 2026-10-07
+* [Review] [Review on: Bump ref test to beta3](https://github.com/Consensys-Incorporated/teku/pull/11444#pullrequestreview-5464330210) - 2026-10-09
+* [Issue] [Revisit fork choice compliance test suite (compTests)](https://github.com/Consensys-Incorporated/teku/issues/11457) - 2026-10-09
+* [Issue] [Clear builder payment on slashing](https://github.com/Consensys-Incorporated/teku/issues/11456) - 2026-10-09
+* [Commit] [Bump ref test to beta3 (#11444)](https://github.com/Consensys-Incorporated/teku/commit/10e03bc6862c32f1bbfd11eea80dff5f61c1f1d1) - 2026-10-09
 ## Q3 2026
 
 

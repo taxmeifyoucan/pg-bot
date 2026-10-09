@@ -50,6 +50,11 @@ Team: Erigon
 * [Review] [Review on: rpc: eth_call reuse a pooled `ibs`](https://github.com/erigontech/erigon/pull/24601#pullrequestreview-5423712600) - 2026-10-06
 * [Pull Request] [execution/stagedsync: feed touched keys to the BAL branch prefetch](https://github.com/erigontech/erigon/pull/24479) - 2026-10-05
 * [Commit] [commitment: parallel fold workers read the caller's snapshot (#23722)](https://github.com/erigontech/erigon/commit/c12ebb1ef31bdae5aa124b2df20c64eef97d254f) - 2026-10-05
+* [Review] [Review on: exec: a reused read set keeps its per-address slot maps](https://github.com/erigontech/erigon/pull/24605#pullrequestreview-5452313652) - 2026-10-08
+* [Review] [Review on: common/hexutil: hex encode/decode in simd](https://github.com/erigontech/erigon/pull/24410#pullrequestreview-5452315521) - 2026-10-08
+* [Review] [Review on: execution/vm: split EVM.call into Call, CallCode, DelegateCall and StaticCall](https://github.com/erigontech/erigon/pull/24549#pullrequestreview-5452315038) - 2026-10-08
+* [Review] [Review on: execution/state: cheaper account creation on the noMaterialize path](https://github.com/erigontech/erigon/pull/24674#pullrequestreview-5452315760) - 2026-10-08
+* [Review] [Review on: execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658#pullrequestreview-5452313339) - 2026-10-08
 ## Q3 2026
 
 

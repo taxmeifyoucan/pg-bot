@@ -28,6 +28,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: enable is_one_confirmed deposit vectors (#9917)](https://github.com/ChainSafe/lodestar/commit/67e2b54129862030d2d4f38fbe1c4847bbae3b40) - 2026-10-06
 * [Review] [Review on: fix: inherit gloas block execution status from the parent variant it builds on](https://github.com/ChainSafe/lodestar/pull/10268#pullrequestreview-5441721682) - 2026-10-07
 * [Review] [Review on: fix: handle missing shuffling in block production](https://github.com/ChainSafe/lodestar/pull/10295#pullrequestreview-5441257528) - 2026-10-07
+* [Review] [Review on: fix: align beacon api with v5.0.0-beta.0](https://github.com/ChainSafe/lodestar/pull/10302#pullrequestreview-5455998539) - 2026-10-08
+* [Review] [Review on: feat: retrieve proposer preferences on connection opening](https://github.com/ChainSafe/lodestar/pull/10290#pullrequestreview-5456279482) - 2026-10-08
+* [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5454432561) - 2026-10-08
+* [Pull Request] [test: upgrade geth and nethermind in sim tests](https://github.com/ChainSafe/lodestar/pull/10308) - 2026-10-08
+* [Review] [Review on: test: upgrade geth and nethermind in sim tests](https://github.com/ChainSafe/lodestar/pull/10308#pullrequestreview-5459010924) - 2026-10-08
+* [Review] [Review on: fix: reject range sync envelopes whose block hash does not match the bid](https://github.com/ChainSafe/lodestar/pull/10251#pullrequestreview-5458173921) - 2026-10-08
+* [Review] [Review on: fix: inherit gloas block execution status from the parent variant it builds on](https://github.com/ChainSafe/lodestar/pull/10268#pullrequestreview-5454599315) - 2026-10-08
+* [Review] [Review on: fix: handle missing shuffling in block production](https://github.com/ChainSafe/lodestar/pull/10295#pullrequestreview-5454617933) - 2026-10-08
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

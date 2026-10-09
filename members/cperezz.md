@@ -17,6 +17,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [PBT migration: BAL follower stalls after an anchor import](https://github.com/NethermindEth/nethermind/issues/14259) - 2026-10-05
 
 * [Issue] [Restart deletes the whole chain: genesis is replayed on an empty state](https://github.com/NethermindEth/nethermind/issues/14323) - 2026-10-06
+* [Pull Request] [fix(processing): refuse a branch that reaches genesis without state](https://github.com/NethermindEth/nethermind/pull/14324) - 2026-10-08
+* [Commit] [fix(processing): refuse a branch that reaches genesis without state (#14324)](https://github.com/NethermindEth/nethermind/commit/542ed0d6081bb49e27dae599feef5a45950f8c93) - 2026-10-08
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [binary-trie: a genesis with binaryTrieTime 0 cannot be initialised with default settings](https://github.com/erigontech/erigon/issues/24612) - 2026-10-06
 ## Q3 2026

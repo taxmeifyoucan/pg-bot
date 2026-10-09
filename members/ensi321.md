@@ -18,6 +18,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: apply epoch updates before computing attestation rewards (#10224)](https://github.com/ChainSafe/lodestar/commit/6ce21fd8a2497280d1b072a8e4e3e86bc9dc5791) - 2026-10-05
 * [Review] [Review on: fix: verify inclusion list signatures without batching](https://github.com/ChainSafe/lodestar/pull/10282#pullrequestreview-5438574172) - 2026-10-07
 
+* [Pull Request] [feat: focil](https://github.com/ChainSafe/lodestar/pull/10312) - 2026-10-08
+* [Review] [Review on: feat: focil](https://github.com/ChainSafe/lodestar/pull/10312#pullrequestreview-5462094664) - 2026-10-08
+* [Pull Request] [chore: update consensus specs to v1.7.0-beta.4](https://github.com/ChainSafe/lodestar/pull/10314) - 2026-10-09
+* [Review] [Review on: fix: align beacon api with v5.0.0-beta.0](https://github.com/ChainSafe/lodestar/pull/10302#pullrequestreview-5464842898) - 2026-10-09
+* [Review] [Review on: feat: retrieve proposer preferences on connection opening](https://github.com/ChainSafe/lodestar/pull/10290#pullrequestreview-5464751141) - 2026-10-09
+* [Pull Request] [feat: schedule Gloas fork and 200M gas limit on Hoodi](https://github.com/ChainSafe/lodestar/pull/10313) - 2026-10-08
+* [Review] [Review on: test: forward progressive list limits in spec type replacement](https://github.com/ChainSafe/lodestar/pull/10081#pullrequestreview-5456664134) - 2026-10-08
+* [Commit] [feat: schedule Gloas fork and 200M gas limit on Hoodi (#10313)](https://github.com/ChainSafe/lodestar/commit/3acad901ec979f8861d9f678d2a53330592753a5) - 2026-10-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 ## Q3 2026

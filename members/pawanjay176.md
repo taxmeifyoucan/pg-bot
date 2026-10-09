@@ -21,6 +21,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add `safe_block_hash` and `finalized_block_hash` to Payload Attributes event](https://github.com/sigp/lighthouse/pull/10244#pullrequestreview-5448610720) - 2026-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5464585807) - 2026-10-09
 ## Q3 2026
 
 

@@ -18,6 +18,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [cmd/devp2p: explicitly corrupt the cells for `TestBlobTxWithInvalidCells`](https://github.com/ethereum/go-ethereum/pull/35901) - 2026-10-07
 * [Review] [Review on: eth/protocols/eth: limit getCells lookup](https://github.com/ethereum/go-ethereum/pull/35883#pullrequestreview-5441904710) - 2026-10-07
 * [Commit] [eth: fix cells response to use index major (#35860)](https://github.com/ethereum/go-ethereum/commit/4f9ca6d227546a8cd58ef58125e5daf17d6a104c) - 2026-10-07
+* [Review] [Review on: eth/protocols/eth: add size checks for receipts](https://github.com/ethereum/go-ethereum/pull/35904#pullrequestreview-5455581712) - 2026-10-08
 ## Q3 2026
 
 

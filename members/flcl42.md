@@ -24,6 +24,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 * [Commit] [Resolve SSZ REST forks for chainspec networks (#14302)](https://github.com/NethermindEth/nethermind/commit/f4605b584504da6f39309de073833ecde38e0323) - 2026-10-06
 * [Commit] [Retain verified ENRs for mismatched signed PING endpoints (#14277)](https://github.com/NethermindEth/nethermind/commit/88a089a125bffc73fd4a5b2950e28baf689de6cb) - 2026-10-06
+* [Review] [Review on: refactor(discovery): replace DotNetty UDP transport with a plain socket](https://github.com/NethermindEth/nethermind/pull/14346#pullrequestreview-5453688564) - 2026-10-08
+* [Pull Request] [Add a verified P2P light client](https://github.com/NethermindEth/nethermind/pull/14457) - 2026-10-08
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

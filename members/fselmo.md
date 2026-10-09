@@ -36,9 +36,13 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(tests): tag re-invoked selfdestruct children by call (#3717)](https://github.com/ethereum/execution-specs/commit/dd30a01e4e2eaaf9d4a6b000383532ee1d02920c) - 2026-10-06
 * [Commit] [feat(tests): pin the EIP-8037 intrinsic execution gas cap (#3709)](https://github.com/ethereum/execution-specs/commit/3aa522b21576685fe780a884bed505a9de70ece8) - 2026-10-06
 * [Review] [Review on: feat(test-types): relative balance and nonce post-state expectations](https://github.com/ethereum/execution-specs/pull/3699#pullrequestreview-5447955318) - 2026-10-07
+* [Pull Request] [feat(skill): keep AI from updating the <fork> docstring until merges](https://github.com/ethereum/execution-specs/pull/3749) - 2026-10-08
+* [Issue] [EIP-8198 Implementation Tracker: Quick Slots](https://github.com/ethereum/execution-specs/issues/3748) - 2026-10-08
+* [Commit] [feat(skill): keep AI from updating the <fork> docstring until merges (#3749)](https://github.com/ethereum/execution-specs/commit/dc6d1a55cef60d45dbd5969c8d602610daecf604) - 2026-10-08
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 
+* [Pull Request] [Report the head's inclusion list verdict in `engine_forkchoiceUpdatedV5`](https://github.com/besu-eth/besu/pull/11532) - 2026-10-08
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/stagedsync: run a single exec worker when one is configured](https://github.com/erigontech/erigon/pull/24594) - 2026-10-05
 * [Commit] [execution/stagedsync: run a single exec worker when one is configured (#24594)](https://github.com/erigontech/erigon/commit/83e0334e1dad7ea949e1c3c87c6ff0d565df1bb1) - 2026-10-07

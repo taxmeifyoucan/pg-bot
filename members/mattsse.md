@@ -130,6 +130,29 @@ Team: Reth
 * [Review] [Review on: docs(trie): clarify proof target ordering](https://github.com/paradigmxyz/reth/pull/27775#pullrequestreview-5449889074) - 2026-10-08
 * [Review] [Review on: refactor(trie): share storage proof collection](https://github.com/paradigmxyz/reth/pull/27798#pullrequestreview-5449891689) - 2026-10-08
 * [Review] [Review on: refactor(cli): narrow unused pub items to pub(crate)](https://github.com/paradigmxyz/reth/pull/27799#pullrequestreview-5449825681) - 2026-10-08
+* [Review] [Review on: fix(trie): remove orphaned branches](https://github.com/paradigmxyz/reth/pull/27832#pullrequestreview-5464466848) - 2026-10-09
+* [Pull Request] [test(storage): remove redundant tests](https://github.com/paradigmxyz/reth/pull/27829) - 2026-10-08
+* [Pull Request] [test: remove redundant trie, task and downloader tests](https://github.com/paradigmxyz/reth/pull/27827) - 2026-10-08
+* [Pull Request] [test(net): remove redundant tests](https://github.com/paradigmxyz/reth/pull/27825) - 2026-10-08
+* [Pull Request] [test(snap-sync): remove redundant range tests](https://github.com/paradigmxyz/reth/pull/27822) - 2026-10-08
+* [Pull Request] [test(engine): remove redundant tests](https://github.com/paradigmxyz/reth/pull/27828) - 2026-10-08
+* [Pull Request] [test(rpc): remove redundant rpc and pool tests](https://github.com/paradigmxyz/reth/pull/27826) - 2026-10-08
+* [Pull Request] [test(node): remove redundant e2e and unit tests](https://github.com/paradigmxyz/reth/pull/27823) - 2026-10-08
+* [Pull Request] [test(node): remove redundant arg and harness tests](https://github.com/paradigmxyz/reth/pull/27820) - 2026-10-08
+* [Pull Request] [test(snap-sync): remove redundant session tests](https://github.com/paradigmxyz/reth/pull/27824) - 2026-10-08
+* [Pull Request] [perf(snap): overlap state downloads](https://github.com/paradigmxyz/reth/pull/27814) - 2026-10-08
+* [Pull Request] [perf(net): pipeline snap requests](https://github.com/paradigmxyz/reth/pull/27813) - 2026-10-08
+* [Pull Request] [perf(db): avoid copying presence checks](https://github.com/paradigmxyz/reth/pull/27812) - 2026-10-08
+* [Pull Request] [test(engine): remove redundant FOCIL tests](https://github.com/paradigmxyz/reth/pull/27821) - 2026-10-08
+* [Review] [Review on: fix(chain-state): drop parent chains iteratively](https://github.com/paradigmxyz/reth/pull/27818#pullrequestreview-5462792683) - 2026-10-08
+* [Review] [Review on: chore(node): share backfill client alias](https://github.com/paradigmxyz/reth/pull/27815#pullrequestreview-5461372658) - 2026-10-08
+* [Pull Request] [test(node): fix the snap legacy layout test](https://github.com/paradigmxyz/reth/pull/27810) - 2026-10-08
+* [Commit] [test(storage): remove redundant tests (#27829)](https://github.com/paradigmxyz/reth/commit/7744d20cb2106f8aa21a9b8517b62ec29fcd6bb4) - 2026-10-09
+* [Commit] [test: remove redundant trie, task and downloader tests (#27827)](https://github.com/paradigmxyz/reth/commit/7c3610796a38a534fb18a8762f59754bcbffd8ee) - 2026-10-09
+* [Commit] [test(net): remove redundant tests (#27825)](https://github.com/paradigmxyz/reth/commit/6df18cb3b3bdefbafecbf1d9cc174fa02e4a0382) - 2026-10-09
+* [Commit] [test(snap-sync): remove redundant range tests (#27822)](https://github.com/paradigmxyz/reth/commit/1c47d7b5bc9ba051724f696af1162aa49575bb5a) - 2026-10-09
+* [Commit] [test(snap-sync): remove redundant session tests (#27824)](https://github.com/paradigmxyz/reth/commit/7e3a426f0d07875e3149730a14b18b6881d24d2a) - 2026-10-09
+* [Commit] [test(node): fix the snap legacy layout test (#27810)](https://github.com/paradigmxyz/reth/commit/e479f402cc427cd6f4cac8c11c4712241e7ea5ab) - 2026-10-08
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

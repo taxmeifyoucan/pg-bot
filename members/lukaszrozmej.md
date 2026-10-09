@@ -179,6 +179,25 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [refactor(zkevm): share guest substitutions, project settings and guide](https://github.com/NethermindEth/nethermind/pull/14397) - 2026-10-07
 * [Review] [Review on: refactor(tracing): one node-wide parallel trace budget sized by JsonRpc.TraceBlockParallelism](https://github.com/NethermindEth/nethermind/pull/14363#pullrequestreview-5441215190) - 2026-10-07
 * [Commit] [ci: drop Missing Ancestor entries from known-flaky hive tests (#14382)](https://github.com/NethermindEth/nethermind/commit/77e9be911f78a846d07ece11d28411391eaff0a4) - 2026-10-07
+* [Review] [Review on: perf(rlp): encode and decode built-in transaction types without virtual dispatch](https://github.com/NethermindEth/nethermind/pull/14455#pullrequestreview-5460599419) - 2026-10-08
+* [Review] [Review on: perf(rpc): read block senders without decoding receipts](https://github.com/NethermindEth/nethermind/pull/14452#pullrequestreview-5461535038) - 2026-10-08
+* [Review] [Review on: ci(zkevm): run the tests-zkevm-benchmark fixtures through the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14465#pullrequestreview-5463000776) - 2026-10-08
+* [Pull Request] [perf(zkvm): run MULMOD on SP1's uint256_mulmod precompile](https://github.com/NethermindEth/nethermind/pull/14403) - 2026-10-08
+* [Review] [Review on: perf(blocktree): resolve block numbers without a lock convoy](https://github.com/NethermindEth/nethermind/pull/14451#pullrequestreview-5456189519) - 2026-10-08
+* [Review] [Review on: chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0](https://github.com/NethermindEth/nethermind/pull/14456#pullrequestreview-5462997351) - 2026-10-08
+* [Review] [Review on: perf: remove field-layout padding in hot and per-message types](https://github.com/NethermindEth/nethermind/pull/14454#pullrequestreview-5455914886) - 2026-10-08
+* [Review] [Review on: perf(tracing): stream struct logs with bounded memory per request](https://github.com/NethermindEth/nethermind/pull/14461#pullrequestreview-5460574724) - 2026-10-08
+* [Pull Request] [perf(zkvm): gather big-endian words byte by byte where the zkVM has no rev8](https://github.com/NethermindEth/nethermind/pull/14405) - 2026-10-08
+* [Pull Request] [perf(zkvm): link a 64-bit memcpy into the SP1 guest](https://github.com/NethermindEth/nethermind/pull/14404) - 2026-10-08
+* [Pull Request] [feat(rpc): add an operator cap on buffered struct-log trace size](https://github.com/NethermindEth/nethermind/pull/14460) - 2026-10-08
+* [Pull Request] [fix(bal): stop parallel validation once executed gas exceeds the block limit](https://github.com/NethermindEth/nethermind/pull/14459) - 2026-10-08
+* [Review] [Review on: fix(bal): stop parallel validation once executed gas exceeds the block limit](https://github.com/NethermindEth/nethermind/pull/14459#pullrequestreview-5459714213) - 2026-10-08
+* [Commit] [perf(zkvm): run MULMOD on SP1's uint256_mulmod precompile (#14403)](https://github.com/NethermindEth/nethermind/commit/3f9bfa792db4f870098792670ba22fe1eec3b4d1) - 2026-10-08
+* [Commit] [perf(zkvm): gather big-endian words byte by byte where the zkVM has no rev8 (#14405)](https://github.com/NethermindEth/nethermind/commit/04f8ac2e94d95abbea0f4ceed78af45ec05776f3) - 2026-10-08
+* [Commit] [perf(zkvm): link a 64-bit memcpy into the SP1 guest (#14404)](https://github.com/NethermindEth/nethermind/commit/fc03d2e9a0608a9d0aba781ceb0a82bddf98b9f6) - 2026-10-08
+* [Commit] [feat(rpc): add an operator cap on buffered struct-log trace size (#14460)](https://github.com/NethermindEth/nethermind/commit/8af3611170ef923eff7d82767a7f507451c4e2d1) - 2026-10-08
+* [Commit] [fix(bal): stop parallel validation once executed gas exceeds the block limit (#14459)](https://github.com/NethermindEth/nethermind/commit/893d102b2ff45c56ae62fae9c2c9243516a84f44) - 2026-10-08
+* [Commit] [fix(zkvm): pass BLS12-381 points to SP1 in its own layout (#14401)](https://github.com/NethermindEth/nethermind/commit/13fa0cac51eb75ba8a1ec53ca69140e2329226fb) - 2026-10-08
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -187,6 +206,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 * [Pull Request] [perf(zisk): frameless allocation fast paths with a cached allocation context](https://github.com/NethermindEth/bflat-riscv64/pull/47) - 2026-10-04
 * [Pull Request] [bflat: wide unaligned accesses for --libc openvm](https://github.com/NethermindEth/bflat-riscv64/pull/49) - 2026-10-07
+* [Pull Request] [zisk_subst: a single-threaded class constructor runner](https://github.com/NethermindEth/bflat-riscv64/pull/51) - 2026-10-08
+* [Pull Request] [rhp: bump-allocate GC static bases and uninitialized arrays](https://github.com/NethermindEth/bflat-riscv64/pull/50) - 2026-10-08
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
@@ -203,6 +224,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fixup/11/upstream: probe object references with an aligned ld on RISC-V](https://github.com/NethermindEth/dotnet-riscv/commit/3c7e3bd885f1bd5e6271b5508fe38cbb1ac19b7e) - 2026-10-06
 * [Commit] [fixup/11/upstream: drop shift-count masks the RISC-V shifts already apply](https://github.com/NethermindEth/dotnet-riscv/commit/e8e575129f8baed974f8b6c811ac63eec16d3a8e) - 2026-10-06
 * [Pull Request] [fixup/11/upstream: perf-67 - strict alignment proves accesses through locals aligned](https://github.com/NethermindEth/dotnet-riscv/pull/21) - 2026-10-07
+* [Pull Request] [fixup/11/upstream: perf-73..74 - cheaper first-use resolution of NativeAOT dispatch cells](https://github.com/NethermindEth/dotnet-riscv/pull/25) - 2026-10-08
+* [Pull Request] [fixup/11/upstream: perf-73..75 - zkVM array length via ld, INT parameters trusted extended, small parameters normalized once](https://github.com/NethermindEth/dotnet-riscv/pull/24) - 2026-10-08
+* [Pull Request] [fixup/11/upstream: perf-72 - devirtualize calls whose receiver classes all resolve to one method](https://github.com/NethermindEth/dotnet-riscv/pull/23) - 2026-10-08
+* [Pull Request] [fixup/11/upstream: perf-68..71 - RISC-V width fixups: lwu loads, non-negative zext as sext, zero-extending null-check probes, li via addi](https://github.com/NethermindEth/dotnet-riscv/pull/22) - 2026-10-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

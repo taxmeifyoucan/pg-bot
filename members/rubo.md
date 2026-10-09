@@ -34,9 +34,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci(zkevm): run stateless Glamsterdam tests on Sepolia blocks (#14413)](https://github.com/NethermindEth/nethermind/commit/21208c3dbfb49653d5331604fee7ee86be341dd0) - 2026-10-07
 * [Commit] [fix(zkevm): pass exact-length buffers to the BLS12-381 MSM and pairing accelerators (#14419)](https://github.com/NethermindEth/nethermind/commit/80e5dfce1eb0439c26a454012d78a6602d15934a) - 2026-10-07
 * [Commit] [fix(zkevm): pass 8-byte aligned buffers to the Blake2F accelerator (#14418)](https://github.com/NethermindEth/nethermind/commit/26eaee5e63115a8aa50aef8024b48d5a929ef786) - 2026-10-07
+* [Review] [Review on: perf(zkvm): hash SSZ merkle pairs with SP1's SHA-256 precompiles directly](https://github.com/NethermindEth/nethermind/pull/14402#pullrequestreview-5463701481) - 2026-10-08
+* [Pull Request] [ci(zkevm): run the tests-zkevm-benchmark fixtures through the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14465) - 2026-10-08
+* [Review] [Review on: ci(zkevm): run the tests-zkevm-benchmark fixtures through the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14465#pullrequestreview-5462499477) - 2026-10-08
+* [Review] [Review on: perf(zkvm): run MULMOD on SP1's uint256_mulmod precompile](https://github.com/NethermindEth/nethermind/pull/14403#pullrequestreview-5463697626) - 2026-10-08
+* [Review] [Review on: chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0](https://github.com/NethermindEth/nethermind/pull/14456#pullrequestreview-5463027612) - 2026-10-08
+* [Pull Request] [refactor(discovery): replace DotNetty UDP transport with a plain socket](https://github.com/NethermindEth/nethermind/pull/14346) - 2026-10-08
+* [Review] [Review on: refactor(discovery): replace DotNetty UDP transport with a plain socket](https://github.com/NethermindEth/nethermind/pull/14346#pullrequestreview-5459302777) - 2026-10-08
+* [Commit] [refactor(discovery): replace DotNetty UDP transport with a plain socket (#14346)](https://github.com/NethermindEth/nethermind/commit/24d803cedd24733667666512b74de00408b3c9f9) - 2026-10-08
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06
+
+[NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
+* [Pull Request] [pal: reclaim ZisK accelerator scratch memory, halt on Rust OOM](https://github.com/NethermindEth/bflat-riscv64/pull/52) - 2026-10-08
 ## Q3 2026
 
 
