@@ -63,6 +63,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: fix(rpc): reject dynamic fee fields before london](https://github.com/erigontech/erigon/pull/24536#pullrequestreview-5460841778) - 2026-10-08
 * [Commit] [QA: generate the latest eth_call and mixed patterns at the tip in RPC Performance Tests Latest (#24663)](https://github.com/erigontech/erigon/commit/5f19689728059687b92867ed55e7ba8d0892ac12) - 2026-10-08
 * [Commit] [QA: disable eth_fillTransaction/test_13 in RPC Integration Tests Latest (#24668)](https://github.com/erigontech/erigon/commit/dba36fe3cfe228a087129ae49b8acc7acf750845) - 2026-10-08
+* [Pull Request] [[wip] common/dbg, execution: read alloc/sys from runtime/metrics in per-block logs](https://github.com/erigontech/erigon/pull/24743) - 2026-10-09
+* [Pull Request] [rpc/jsonrpc: implement txpool_inspect](https://github.com/erigontech/erigon/pull/24738) - 2026-10-09
+* [Pull Request] [cmd/rpcdaemon: put /graphql behind HTTP admission control](https://github.com/erigontech/erigon/pull/24744) - 2026-10-09
+* [Pull Request] [[wip] db/state: take domain read locks in TemporalMemBatch flush](https://github.com/erigontech/erigon/pull/24728) - 2026-10-09
+* [Commit] [QA: bump rpc-tests to v2.35.1 (#24707)](https://github.com/erigontech/erigon/commit/1816f8997c5f95b132d16eae688a499211a544e2) - 2026-10-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

@@ -153,6 +153,19 @@ Team: Reth
 * [Commit] [test(snap-sync): remove redundant range tests (#27822)](https://github.com/paradigmxyz/reth/commit/1c47d7b5bc9ba051724f696af1162aa49575bb5a) - 2026-10-09
 * [Commit] [test(snap-sync): remove redundant session tests (#27824)](https://github.com/paradigmxyz/reth/commit/7e3a426f0d07875e3149730a14b18b6881d24d2a) - 2026-10-09
 * [Commit] [test(node): fix the snap legacy layout test (#27810)](https://github.com/paradigmxyz/reth/commit/e479f402cc427cd6f4cac8c11c4712241e7ea5ab) - 2026-10-08
+* [Review] [Review on: feat(e2e): add snap sync harness and tests](https://github.com/paradigmxyz/reth/pull/27725#pullrequestreview-5474638001) - 2026-10-09
+* [Pull Request] [perf(ci): run ef-tests temp dirs on tmpfs](https://github.com/paradigmxyz/reth/pull/27851) - 2026-10-10
+* [Pull Request] [perf(ef-tests): share RocksDB across test cases](https://github.com/paradigmxyz/reth/pull/27847) - 2026-10-09
+* [Pull Request] [fix(ci): keep rust-cache across compact base checkout](https://github.com/paradigmxyz/reth/pull/27839) - 2026-10-09
+* [Pull Request] [perf(ci): cache-friendly stage-test reth build](https://github.com/paradigmxyz/reth/pull/27840) - 2026-10-09
+* [Pull Request] [chore(snap-sync): remove dead APIs and slim tests](https://github.com/paradigmxyz/reth/pull/27835) - 2026-10-09
+* [Commit] [fix(ci): keep rust-cache across compact base checkout (#27839)](https://github.com/paradigmxyz/reth/commit/8458973f25fec5e2bc1a51992da041620c266e62) - 2026-10-09
+* [Commit] [perf(ci): cache-friendly stage-test reth build (#27840)](https://github.com/paradigmxyz/reth/commit/d5e5790d794e830d3ea868237747dcebb90fdce2) - 2026-10-09
+* [Commit] [test(engine): remove redundant tests (#27828)](https://github.com/paradigmxyz/reth/commit/5ab939ecde2e4f0cb83ffe1bfc298fa2fe0a00bd) - 2026-10-09
+* [Commit] [chore(snap-sync): remove dead APIs and slim tests (#27835)](https://github.com/paradigmxyz/reth/commit/1df2a855811c64854dd65518bc46ab06beb47a1e) - 2026-10-09
+* [Commit] [test(rpc): remove redundant rpc and pool tests (#27826)](https://github.com/paradigmxyz/reth/commit/a79f88d98083ed4f9e4de6edf930c86e8173f6cc) - 2026-10-09
+* [Commit] [test(node): remove redundant e2e and unit tests (#27823)](https://github.com/paradigmxyz/reth/commit/8b5ec15783213b4e6d2ba90a02a60cb5ca29b546) - 2026-10-09
+* [Commit] [test(node): remove redundant arg and harness tests (#27820)](https://github.com/paradigmxyz/reth/commit/aab51ee174f9eb80f13f18374140de613a40d065) - 2026-10-09
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

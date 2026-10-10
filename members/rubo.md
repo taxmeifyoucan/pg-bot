@@ -42,6 +42,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(discovery): replace DotNetty UDP transport with a plain socket](https://github.com/NethermindEth/nethermind/pull/14346) - 2026-10-08
 * [Review] [Review on: refactor(discovery): replace DotNetty UDP transport with a plain socket](https://github.com/NethermindEth/nethermind/pull/14346#pullrequestreview-5459302777) - 2026-10-08
 * [Commit] [refactor(discovery): replace DotNetty UDP transport with a plain socket (#14346)](https://github.com/NethermindEth/nethermind/commit/24d803cedd24733667666512b74de00408b3c9f9) - 2026-10-08
+* [Review] [Review on: feat(consensus): abandon a block that takes longer than a configurable timeout to process](https://github.com/NethermindEth/nethermind/pull/14487#pullrequestreview-5475480096) - 2026-10-09
+* [Pull Request] [chore(deps): update packages](https://github.com/NethermindEth/nethermind/pull/14491) - 2026-10-09
+* [Review] [Review on: chore(deps): update packages](https://github.com/NethermindEth/nethermind/pull/14491#pullrequestreview-5472536969) - 2026-10-09
+* [Commit] [chore(deps): update packages (#14491)](https://github.com/NethermindEth/nethermind/commit/b34a55aed37a3ec4cc2a83916f2a21d09ea4ce51) - 2026-10-09
+* [Commit] [ci(zkevm): run the tests-zkevm-benchmark fixtures through the ZisK guest (#14465)](https://github.com/NethermindEth/nethermind/commit/cf97d559874f2c74e14873fc37d3101bed2ddf4c) - 2026-10-09
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

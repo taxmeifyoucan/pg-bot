@@ -49,6 +49,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: handle missing shuffling in block production (#10295)](https://github.com/ChainSafe/lodestar/commit/9fd806c44638eb560525983c5b43e8a4b8e01c03) - 2026-10-08
 * [Commit] [feat: persist earliest available slot (#10267)](https://github.com/ChainSafe/lodestar/commit/0edec865c8d88a9457364fc648eef3a5c905d72d) - 2026-10-08
 * [Commit] [chore: bump ssz to 1.8.1 (#10301)](https://github.com/ChainSafe/lodestar/commit/9c7f3c203fff8b9b81de7249ffc61a377112d6fc) - 2026-10-08
+* [Review] [Review on: feat: focil](https://github.com/ChainSafe/lodestar/pull/10312#pullrequestreview-5465575567) - 2026-10-09
+* [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5468035504) - 2026-10-09
+* [Pull Request] [chore: track circuit breaker metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/10318) - 2026-10-09
+* [Review] [Review on: chore: track circuit breaker metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/10318#pullrequestreview-5467627555) - 2026-10-09
+* [Review] [Review on: feat: disallow new validators with BLS withdrawal credentials in heze](https://github.com/ChainSafe/lodestar/pull/10316#pullrequestreview-5466577059) - 2026-10-09
+* [Issue] [Handle failed shuffling regen](https://github.com/ChainSafe/lodestar/issues/10320) - 2026-10-09
+* [Commit] [fix: prune shuffling cache by smallest epoch (#10294)](https://github.com/ChainSafe/lodestar/commit/58d40975f9f2699fbf0207a6a32ed8d3e4cb3322) - 2026-10-09
+* [Commit] [chore: track circuit breaker metrics on Grafana (#10318)](https://github.com/ChainSafe/lodestar/commit/f0a5c36612e7de24df5c3d0a12d34fd3576a6a02) - 2026-10-09
 ## Q3 2026
 
 

@@ -17,6 +17,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(ethstats): log repeated disconnects while offline at debug](https://github.com/NethermindEth/nethermind/pull/14289#pullrequestreview-5441407308) - 2026-10-07
 * [Review] [Review on: feat(sync): report snap healing progress as its own phase without the full state percentage](https://github.com/NethermindEth/nethermind/pull/14308#pullrequestreview-5439347282) - 2026-10-07
 * [Review] [Review on: feat(eip8141): MATCHA paymaster width for sponsored frame transactions](https://github.com/NethermindEth/nethermind/pull/14305#pullrequestreview-5441866891) - 2026-10-07
+* [Review] [Review on: feat(eip8272): deploy the recent root contract as an ordinary contract](https://github.com/NethermindEth/nethermind/pull/14437#pullrequestreview-5468157137) - 2026-10-09
+* [Review] [Review on: perf(logs): defer compact log data expansion](https://github.com/NethermindEth/nethermind/pull/14488#pullrequestreview-5472026431) - 2026-10-09
 ## Q3 2026
 
 

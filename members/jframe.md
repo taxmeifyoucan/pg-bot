@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Unify Bonsai trie node access behind getTrieNode/putTrieNode/removeTrieNode](https://github.com/besu-eth/besu/pull/11398#pullrequestreview-5452068347) - 2026-10-08
 * [Issue] [snap/2: BAL download stage slow](https://github.com/besu-eth/besu/issues/11535) - 2026-10-09
 * [Issue] [snap/2: World state stalls on stale pivot during initial sync](https://github.com/besu-eth/besu/issues/11534) - 2026-10-09
+* [Issue] [snap/2: Keep world state progress across restarts and re-pivots](https://github.com/besu-eth/besu/issues/11539) - 2026-10-09
 ## Q3 2026
 
 

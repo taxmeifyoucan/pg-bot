@@ -13,6 +13,9 @@ Team: Consensus R&D (EF)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461224828) - 2026-10-08
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [feat(spec): Abstract py-ecc implementation detail from EIP-2537 (#2384)](https://github.com/ethereum/execution-specs/commit/64cbead5981236d0fd6f5d172c1ac5dbfb5998f3) - 2026-10-09
 ## Q3 2026
 
 

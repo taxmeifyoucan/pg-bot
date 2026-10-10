@@ -66,6 +66,25 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix(blake3-air): split trace counters through u64 on 32-bit targets](https://github.com/Plonky3/Plonky3/pull/2390#pullrequestreview-5454695763) - 2026-10-08
 * [Review] [Review on: perf(multi-stark,bus): compute the bus composition in the backend's representation](https://github.com/Plonky3/Plonky3/pull/2393#pullrequestreview-5454389306) - 2026-10-08
 * [Review] [Review on: perf(binary-dft): run the GF(2^128) LCH network in the GHASH basis when a twiddle is wide](https://github.com/Plonky3/Plonky3/pull/2400#pullrequestreview-5454364959) - 2026-10-08
+* [Commit] [perf(binary-dft): sum twiddles over selected basis bits (#2421)](https://github.com/Plonky3/Plonky3/commit/b5f795efaecbb1097db3cf8c280333a239cd4533) - 2026-10-10
+* [Commit] [perf(binary-field): reduce scalar x86 products with carryless folds (#2420)](https://github.com/Plonky3/Plonky3/commit/adf2f370fe46da94b5e33744acd53d90af08e014) - 2026-10-10
+* [Commit] [perf(binary-dft): defer ARM generator-weighted extension reductions (#2419)](https://github.com/Plonky3/Plonky3/commit/8c349f5aa8296e28b2e4cd10fb869505ea5ee30c) - 2026-10-10
+* [Commit] [perf(binary-field): defer generator-power byte reductions on ARM (#2418)](https://github.com/Plonky3/Plonky3/commit/a5080b31cc48ce5cf3c98ecd32f8479ac1146f6a) - 2026-10-10
+* [Commit] [perf(binary-field): halve carryless multiplies for four-pair products (#2417)](https://github.com/Plonky3/Plonky3/commit/fb2d5947ab6710a8e72d4aab2c4ec3d736d2ce69) - 2026-10-10
+* [Commit] [perf(binary-dft): fuse weighted products of Boolean extensions (#2416)](https://github.com/Plonky3/Plonky3/commit/fc91f8426786949d49835062e5048512ea0aa6ae) - 2026-10-10
+* [Commit] [perf(binary-field): fuse three ARM butterfly stages in registers (#2415)](https://github.com/Plonky3/Plonky3/commit/bf5d5d0edac82f85dbfda0c14a3200a24fa78036) - 2026-10-10
+* [Commit] [perf(binary-dft): unroll full ARM butterfly groups (#2414)](https://github.com/Plonky3/Plonky3/commit/ef7dbf9697f2359dd60312738534d8496ba222aa) - 2026-10-10
+* [Commit] [perf(binary-field): multiply four pairs without padding wide lanes (#2413)](https://github.com/Plonky3/Plonky3/commit/c32c8a22173c752564282acf14b567af116d181f) - 2026-10-10
+* [Commit] [perf(binary-field): reduce NEON byte products with nibble tables (#2412)](https://github.com/Plonky3/Plonky3/commit/adf144e63ca4543d9cee9e82b4937dc66f818708) - 2026-10-10
+* [Commit] [perf(binary-dft): retain 64-byte NEON extensions in registers (#2411)](https://github.com/Plonky3/Plonky3/commit/bd92234144ca9fbdfb1384dea563fdff48bfe7b3) - 2026-10-10
+* [Commit] [feat(binary-field): expose deferred extension products (#2410)](https://github.com/Plonky3/Plonky3/commit/1ccf56ecfc07293a0b3ce8c8004fa407a57906d4) - 2026-10-10
+* [Commit] [perf(binary-field): defer mixed product sums across chunks (#2409)](https://github.com/Plonky3/Plonky3/commit/a18b53f95b85e5dfc4a137ee9e0b14628fecb8f8) - 2026-10-10
+* [Commit] [perf(binary-field): accumulate mixed Poly192 dot products across packed lanes (#2408)](https://github.com/Plonky3/Plonky3/commit/7cc258b2dfcc32e3f90acee39c4d87e535a3ff0b) - 2026-10-10
+* [Commit] [perf(binary-field): defer reductions in weighted Poly64 column sums (#2407)](https://github.com/Plonky3/Plonky3/commit/7fc5b653ba4aa0b8d4a05d6ec03143c1cec4b62c) - 2026-10-10
+* [Commit] [perf(binary-field): offer eight-lane polynomial packing on AVX-512 (#2405)](https://github.com/Plonky3/Plonky3/commit/5747a95a236e78a0564c0e236563df7f2e94c1b1) - 2026-10-10
+* [Commit] [feat(binary-dft): support explicit binary bases and packed-byte extension (#2404)](https://github.com/Plonky3/Plonky3/commit/a57bc4c8cd7688dac8d59e01068022539e318cf8) - 2026-10-10
+* [Commit] [perf(binary-dft): keep Poly64 NEON butterflies in vector registers (#2403)](https://github.com/Plonky3/Plonky3/commit/c0ec80d84a821214c79e3818b4bd343ca2417162) - 2026-10-10
+* [Commit] [perf(binary-field): multiply packed AES bytes with NEON (#2402)](https://github.com/Plonky3/Plonky3/commit/8ee0e031618dff64cd2d0287abf0e8b948e03cb7) - 2026-10-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

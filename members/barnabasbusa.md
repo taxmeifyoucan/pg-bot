@@ -37,6 +37,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: hide bid seen-by column for self-built bids](https://github.com/ethpandaops/dora/commit/6685acef7382065c4f1811bd04a527d99a2d77a4) - 2026-10-06
 * [Pull Request] [fix: avoid full slot scan when resolving Gloas payload status](https://github.com/ethpandaops/dora/pull/893) - 2026-10-08
 * [Commit] [fix: avoid full slot scan when resolving Gloas payload status](https://github.com/ethpandaops/dora/commit/b77a0fd3c03b7f07e25f542312fbe7293a81263a) - 2026-10-08
+* [Pull Request] [feat: fold EIP-8198 slot duration into Heze](https://github.com/ethpandaops/dora/pull/896) - 2026-10-09
+* [Pull Request] [feat: derive EIP-8198 slot duration from fork config](https://github.com/ethpandaops/dora/pull/895) - 2026-10-09
+* [Review] [Review on: feat: derive EIP-8198 slot duration from fork config](https://github.com/ethpandaops/dora/pull/895#pullrequestreview-5469464285) - 2026-10-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -63,6 +66,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [feat: emit inclusion_list SSE event](https://github.com/sigp/lighthouse/pull/10228) - 2026-10-06
 * [Pull Request] [fix: produce inclusion lists in the first Heze slot](https://github.com/sigp/lighthouse/pull/10230) - 2026-10-06
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [fix: include git commit in web3_clientVersion](https://github.com/erigontech/erigon/pull/24727) - 2026-10-09
+* [Commit] [fix: include git commit in web3_clientVersion (#24727)](https://github.com/erigontech/erigon/commit/d5591444081a93bf1d9f3f5813765f382469a6b4) - 2026-10-09
 ## Q3 2026
 
 

@@ -45,6 +45,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/forkchoice: ignore ticks before genesis (#24680)](https://github.com/erigontech/erigon/commit/5b3fc33321c6c0156840a0adb08930c3f8a71c0f) - 2026-10-08
 * [Commit] [cl: use the Fulu inclusion proof depth for data column sidecars (#24512)](https://github.com/erigontech/erigon/commit/d1a4a6b21be22aae5d5fae4caba6721ae97748e5) - 2026-10-08
 * [Commit] [cl/phase1/forkchoice: keep Fulu blocks out of fork choice until their custody columns are stored (#24546)](https://github.com/erigontech/erigon/commit/52b4a2bd95e84f32fb428dd30f1d0ce131b7ffe8) - 2026-10-08
+* [Review] [Review on: cl/phase1/forkchoice/fork_graph: read the anchor state off the dump grid](https://github.com/erigontech/erigon/pull/24718#pullrequestreview-5470222588) - 2026-10-09
+* [Review] [Review on: cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629#pullrequestreview-5475695238) - 2026-10-09
+* [Review] [Review on: cl/phase1/network: defer the gloas checkpoint anchor when the checkpoint url cannot serve its child](https://github.com/erigontech/erigon/pull/24708#pullrequestreview-5475226178) - 2026-10-09
+* [Pull Request] [cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing](https://github.com/erigontech/erigon/pull/24547) - 2026-10-09
+* [Pull Request] [cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24548) - 2026-10-09
+* [Pull Request] [[r3.7] cl: use the Fulu inclusion proof depth for data column sidecars](https://github.com/erigontech/erigon/pull/24729) - 2026-10-09
+* [Pull Request] [[r3.7] cl/phase1/forkchoice: ignore ticks before genesis](https://github.com/erigontech/erigon/pull/24730) - 2026-10-09
+* [Pull Request] [[r3.7] cl/phase1/network/services: verify gossip signatures with the message epoch's fork version](https://github.com/erigontech/erigon/pull/24733) - 2026-10-09
+* [Pull Request] [[r3.7] cl/phase1/forkchoice: keep Fulu blocks out of fork choice until their custody columns are stored](https://github.com/erigontech/erigon/pull/24732) - 2026-10-09
+* [Commit] [cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing (#24547)](https://github.com/erigontech/erigon/commit/97f059e62572a7076b688880576273111c4b6e08) - 2026-10-09
+* [Commit] [cl/phase1/stages: recover the served head and FULL payloads after a restart (#24548)](https://github.com/erigontech/erigon/commit/893edfd9a42f5cc98ad10c508df1bfbf959e1e9c) - 2026-10-09
+* [Commit] [cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes (#24627)](https://github.com/erigontech/erigon/commit/c3df957f971a7ba29ed09d6e3a01b6eb44f12cc7) - 2026-10-09
+* [Commit] [cl/phase1/network/services: verify gossip signatures with the message epoch's fork version (#24544)](https://github.com/erigontech/erigon/commit/73afa5ce5f55ad2a7a472a6cd90ca2e76041cbeb) - 2026-10-09
 ## Q3 2026
 
 

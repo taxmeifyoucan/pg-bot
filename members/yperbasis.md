@@ -85,6 +85,30 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [docs: match Caplin Docker setup to released images (#24692)](https://github.com/erigontech/erigon/commit/c43b2a46182e36740a6321c19bd34a64b4a3ce03) - 2026-10-08
 * [Commit] [cl: reject negative validator indices in state accessors (#24615)](https://github.com/erigontech/erigon/commit/95bbcdf6f8757358871d1041de4516cba005c6b0) - 2026-10-08
 * [Commit] [cl: cap inferred SSZ committee bits width and reject oversized custom presets (#24614)](https://github.com/erigontech/erigon/commit/4ca6efe007cabb62f34de1358fdae246f736b018) - 2026-10-08
+* [Review] [Review on: execution: don't revive a destroyed account with its old nonce or code hash](https://github.com/erigontech/erigon/pull/24705#pullrequestreview-5470011165) - 2026-10-09
+* [Pull Request] [rpc: bound aggregate in-flight WebSocket read memory](https://github.com/erigontech/erigon/pull/24736) - 2026-10-09
+* [Review] [Review on: rpc: bound aggregate in-flight WebSocket read memory](https://github.com/erigontech/erigon/pull/24736#pullrequestreview-5472224777) - 2026-10-09
+* [Pull Request] [rpc: cap the subscriptions one connection may hold](https://github.com/erigontech/erigon/pull/24735) - 2026-10-09
+* [Review] [Review on: rpc: cap the subscriptions one connection may hold](https://github.com/erigontech/erigon/pull/24735#pullrequestreview-5472051846) - 2026-10-09
+* [Review] [Review on: cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629#pullrequestreview-5469404332) - 2026-10-09
+* [Review] [Review on: cl/phase1/network: defer the gloas checkpoint anchor when the checkpoint url cannot serve its child](https://github.com/erigontech/erigon/pull/24708#pullrequestreview-5468567327) - 2026-10-09
+* [Review] [Review on: cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing](https://github.com/erigontech/erigon/pull/24547#pullrequestreview-5469108347) - 2026-10-09
+* [Review] [Review on: cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24550#pullrequestreview-5469224940) - 2026-10-09
+* [Review] [Review on: cl: fix publication of self-built Gloas blocks and payloads](https://github.com/erigontech/erigon/pull/24545#pullrequestreview-5468830494) - 2026-10-09
+* [Review] [Review on: cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24548#pullrequestreview-5469556289) - 2026-10-09
+* [Review] [Review on: cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24627#pullrequestreview-5471059355) - 2026-10-09
+* [Review] [Review on: [r3.7] cl: use the Fulu inclusion proof depth for data column sidecars](https://github.com/erigontech/erigon/pull/24729#pullrequestreview-5470610306) - 2026-10-09
+* [Review] [Review on: [r3.7] cl/phase1/forkchoice: ignore ticks before genesis](https://github.com/erigontech/erigon/pull/24730#pullrequestreview-5470642271) - 2026-10-09
+* [Review] [Review on: execution/state, execution/stagedsync: record incarnation 0 for a destroyed account](https://github.com/erigontech/erigon/pull/24696#pullrequestreview-5469536786) - 2026-10-09
+* [Review] [Review on: [r3.7] cl/phase1/network/services: verify gossip signatures with the message epoch's fork version](https://github.com/erigontech/erigon/pull/24733#pullrequestreview-5470844002) - 2026-10-09
+* [Review] [Review on: [r3.7] cl/phase1/forkchoice: keep Fulu blocks out of fork choice until their custody columns are stored](https://github.com/erigontech/erigon/pull/24732#pullrequestreview-5470760736) - 2026-10-09
+* [Pull Request] [rpc: bound the request bytes held at once across HTTP bodies and websocket messages](https://github.com/erigontech/erigon/pull/24737) - 2026-10-09
+* [Review] [Review on: rpc: bound the request bytes held at once across HTTP bodies and websocket messages](https://github.com/erigontech/erigon/pull/24737#pullrequestreview-5472130828) - 2026-10-09
+* [Pull Request] [rpc: cap the number of live filters and subscriptions](https://github.com/erigontech/erigon/pull/24734) - 2026-10-09
+* [Review] [Review on: rpc: cap the number of live filters and subscriptions](https://github.com/erigontech/erigon/pull/24734#pullrequestreview-5471946599) - 2026-10-09
+* [Review] [Review on: [r3.7] cl/beacon/handler: test the PTC aggregation order and skip it on a sync aggregate error](https://github.com/erigontech/erigon/pull/24726#pullrequestreview-5470690511) - 2026-10-09
+* [Review] [Review on: fix: include git commit in web3_clientVersion](https://github.com/erigontech/erigon/pull/24727#pullrequestreview-5469206647) - 2026-10-09
+* [Issue] [BAL mismatch on glamsterdam-devnet-8](https://github.com/erigontech/erigon/issues/24724) - 2026-10-09
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

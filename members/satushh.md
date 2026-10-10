@@ -23,6 +23,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Trim whitespace when parsing Accept header media types for SSZ responses (#17651)](https://github.com/OffchainLabs/prysm/commit/099e4cb0b9a3c3957cb8744d52c9db9de7b47efb) - 2026-10-08
 * [Commit] [  Add `GET /eth/v1/beacon/states/{state_id}/ptc` endpoint (#17641)](https://github.com/OffchainLabs/prysm/commit/658591abcfab040b2a881ab3abbe8bc5bd0f21e8) - 2026-10-08
 * [Commit] [  Add `safe_block_hash` and `finalized_block_hash` to the Gloas `payload_attributes` event (#17640)](https://github.com/OffchainLabs/prysm/commit/376880691c065db55c81c861a90390a91656be5b) - 2026-10-08
+* [Pull Request] [Bound RPC decoding by SSZ type size](https://github.com/OffchainLabs/prysm/pull/17660) - 2026-10-09
+* [Review] [Review on: Backfill: Fix Gloas](https://github.com/OffchainLabs/prysm/pull/17632#pullrequestreview-5470940676) - 2026-10-09
 ## Q3 2026
 
 

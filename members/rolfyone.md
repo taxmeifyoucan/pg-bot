@@ -41,6 +41,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Add Gloas fields to payload_attributes and block events (#11446)](https://github.com/Consensys-Incorporated/teku/commit/c77115aec16da74ddd3df39271eed26852679700) - 2026-10-08
 * [Commit] [added hoodi configuration for gloas (#11452)](https://github.com/Consensys-Incorporated/teku/commit/3a62a5e42468465e942af263e34aae3cbc2b18f3) - 2026-10-08
 * [Commit] [[beacon api] update fork choice v2 to the final spec (#11448)](https://github.com/Consensys-Incorporated/teku/commit/7fae7891ead9815b62feefc726fcc12942deaf55) - 2026-10-08
+* [Pull Request] [Align inclusion list gossip validation with the Heze spec](https://github.com/Consensys-Incorporated/teku/pull/11468) - 2026-10-10
+* [Pull Request] [Align InclusionListsByIndices with the Heze spec](https://github.com/Consensys-Incorporated/teku/pull/11467) - 2026-10-09
+* [Review] [Review on: Align InclusionListsByIndices with the Heze spec](https://github.com/Consensys-Incorporated/teku/pull/11467#pullrequestreview-5476926431) - 2026-10-10
+* [Pull Request] [Use the block's dependent root for inclusion list satisfaction](https://github.com/Consensys-Incorporated/teku/pull/11466) - 2026-10-09
+* [Pull Request] [Disallow new validators with BLS withdrawal credentials in Heze](https://github.com/Consensys-Incorporated/teku/pull/11462) - 2026-10-09
+* [Pull Request] [Update reference tests to v1.7.0-beta.4](https://github.com/Consensys-Incorporated/teku/pull/11459) - 2026-10-09
+* [Issue] [Implement EIP-8015: remove deposit and eth1data fields](https://github.com/Consensys-Incorporated/teku/issues/11463) - 2026-10-09
+* [Issue] [Implement EIP-8365: disallow new validators with BLS withdrawal credentials](https://github.com/Consensys-Incorporated/teku/issues/11461) - 2026-10-09
+* [Issue] [beta.4 spec changes](https://github.com/Consensys-Incorporated/teku/issues/11458) - 2026-10-09
+* [Commit] [Update reference tests to v1.7.0-beta.4 (#11459)](https://github.com/Consensys-Incorporated/teku/commit/4feb1b0bf8ba0f102246dd6fef43a8b765286ef9) - 2026-10-09
+
+[ConsenSys/teku](https://github.com/ConsenSys/teku)
+* [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 ## Q3 2026
 
 

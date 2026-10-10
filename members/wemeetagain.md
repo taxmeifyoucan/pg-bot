@@ -49,6 +49,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: honor executiononly builder selection post-gloas](https://github.com/ChainSafe/lodestar/pull/10309#pullrequestreview-5461628997) - 2026-10-08
 * [Review] [Review on: fix: recreate the dangling parent payload entry in range sync](https://github.com/ChainSafe/lodestar/pull/10311#pullrequestreview-5461549237) - 2026-10-08
 * [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5461513223) - 2026-10-08
+* [Review] [Review on: fix: keep proposer boost root for the payload tiebreak when boost is withheld](https://github.com/ChainSafe/lodestar/pull/10339#pullrequestreview-5474639890) - 2026-10-09
+* [Review] [Review on: refactor: clean up attached validators tracking](https://github.com/ChainSafe/lodestar/pull/10338#pullrequestreview-5474250041) - 2026-10-09
+* [Review] [Review on: feat: stop depending on prepare_beacon_proposer for custody and gloas payloads](https://github.com/ChainSafe/lodestar/pull/10336#pullrequestreview-5473786719) - 2026-10-09
+* [Review] [Review on: fix(beacon-node): derive the sync aggregate size from the preset in serialized block offsets](https://github.com/ChainSafe/lodestar/pull/10334#pullrequestreview-5472682151) - 2026-10-09
+* [Review] [Review on: feat: stop calling `prepareBeaconProposer` from gloas](https://github.com/ChainSafe/lodestar/pull/10337#pullrequestreview-5473759803) - 2026-10-09
+* [Review] [Review on: fix: bound engine getBlobs retries and request blobs before newPayload](https://github.com/ChainSafe/lodestar/pull/10329#pullrequestreview-5471080671) - 2026-10-09
+* [Review] [Review on: ci: add nightly engine API interop run against latest execution client images](https://github.com/ChainSafe/lodestar/pull/10333#pullrequestreview-5472504272) - 2026-10-09
+* [Review] [Review on: refactor: make slot timing fork-aware to prepare for slot duration changes](https://github.com/ChainSafe/lodestar/pull/10138#pullrequestreview-5471562989) - 2026-10-09
+* [Review] [Review on: feat: remove `deposit` and `eth1data` fields (eip8015)](https://github.com/ChainSafe/lodestar/pull/10335#pullrequestreview-5472470782) - 2026-10-09
+* [Review] [Review on: fix: handle partial failures when submitting proposal preferences](https://github.com/ChainSafe/lodestar/pull/10325#pullrequestreview-5470802078) - 2026-10-09
+* [Review] [Review on: fix: cancel req/resp bridge iterators when the consumer returns early](https://github.com/ChainSafe/lodestar/pull/10304#pullrequestreview-5470866797) - 2026-10-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

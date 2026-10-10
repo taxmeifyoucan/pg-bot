@@ -22,15 +22,19 @@ Team: Geth
 * [Commit] [Update EIP-7906: assign opcode bytes and add POST_TX to the valid frame modes](https://github.com/ethereum/EIPs/commit/25855add6986d5123a043b03999ad5757a2e13d6) - 2026-10-07
 * [Commit] [Update EIP-8141: check frame modes against a set of valid values](https://github.com/ethereum/EIPs/commit/6bc5841052ad161b29e21d11dbfb58bc98dac507) - 2026-10-07
 * [Review] [Review on: Update EIP-8141: roll back the approval context when a call reverts](https://github.com/ethereum/EIPs/pull/12458#pullrequestreview-5460727147) - 2026-10-08
+* [Review] [Review on: Update EIP-8141: define the validation prefix and execution body under Behavior](https://github.com/ethereum/EIPs/pull/12471#pullrequestreview-5472979360) - 2026-10-09
+* [Review] [Review on: Update EIP-8141: name the TXPARAM, FRAMEPARAM and SIGPARAM params](https://github.com/ethereum/EIPs/pull/12469#pullrequestreview-5471742594) - 2026-10-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 
+* [Pull Request] [Add Kamil Salakhiev](https://github.com/protocolguild/documentation/pull/575) - 2026-10-09
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/types, eth/protocols/eth: fix snap sync of frame transaction receipts](https://github.com/ethereum/go-ethereum/pull/35882) - 2026-10-05
 
 * [Pull Request] [core, core/txpool, eth: add a dedicated frame transaction pool](https://github.com/ethereum/go-ethereum/pull/35891) - 2026-10-06
 * [Pull Request] [core, core/state, core/vm: read frame logs through vm.StateDB](https://github.com/ethereum/go-ethereum/pull/35887) - 2026-10-06
 * [Pull Request] [core/txpool: reject frame transactions carrying blob hashes](https://github.com/ethereum/go-ethereum/pull/35886) - 2026-10-06
+* [Review] [Review on: core, core/txpool, eth: add a dedicated frame transaction pool](https://github.com/ethereum/go-ethereum/pull/35891#pullrequestreview-5472035758) - 2026-10-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05

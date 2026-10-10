@@ -36,6 +36,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482#pullrequestreview-5456322365) - 2026-10-08
 * [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-5455992560) - 2026-10-08
 * [Commit] [Unify Bonsai trie node access behind getTrieNode/putTrieNode/removeTrieNode (#11398)](https://github.com/besu-eth/besu/commit/a7241f71a162b3a1895c656d244cff9088e91c88) - 2026-10-08
+* [Review] [Review on: EVM v2 MEGA PR](https://github.com/besu-eth/besu/pull/11524#pullrequestreview-5466802323) - 2026-10-09
+* [Review] [Review on: Keep the wrapped account's analysed code in update tracking accounts](https://github.com/besu-eth/besu/pull/11508#pullrequestreview-5468628363) - 2026-10-09
+* [Review] [Review on: Pay from the current address in the PAY opcode](https://github.com/besu-eth/besu/pull/11544#pullrequestreview-5470768267) - 2026-10-09
+* [Commit] [Raise the snap/2 world state request parallelism to 64 (#11541)](https://github.com/besu-eth/besu/commit/0cdb5f0a5d3e3e38c8335b84de5bf515a0deb313) - 2026-10-09
+* [Commit] [snap/2: log the world state download percentage in the heartbeat (#11548)](https://github.com/besu-eth/besu/commit/3cceaa69632869a5fc9bda4c6d4801754d848e6e) - 2026-10-09
 ## Q3 2026
 
 

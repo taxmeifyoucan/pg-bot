@@ -31,6 +31,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [schedule Hoodi Glamsterdam activation](https://github.com/status-im/nimbus-eth1/pull/4938) - 2026-10-08
 * [Pull Request] [Align to the spec: rename check2dGasInclusion to checkBlockGasCapacity](https://github.com/status-im/nimbus-eth1/pull/4937) - 2026-10-08
 * [Commit] [Align to the spec: rename check2dGasInclusion to checkBlockGasCapacity (#4937)](https://github.com/status-im/nimbus-eth1/commit/25eca32bd79de0902a64488546b6414114882674) - 2026-10-08
+* [Pull Request] [Upgrade EEST mainnet fixtures to v21.0.1](https://github.com/status-im/nimbus-eth1/pull/4951) - 2026-10-10
+* [Pull Request] [Remove block gasLimit param from intrinsicGas](https://github.com/status-im/nimbus-eth1/pull/4941) - 2026-10-09
+* [Commit] [Remove block gasLimit param from intrinsicGas (#4941)](https://github.com/status-im/nimbus-eth1/commit/e6a17291ce81f46ec779cd49407bb98b91a5df1e) - 2026-10-09
+* [Commit] [processTransaction accepts optional precalculated IntrinsicGas (#4939)](https://github.com/status-im/nimbus-eth1/commit/b3e7c6a90a2c1ecfe77f21a0a76c0468f83df118) - 2026-10-09
+* [Commit] [schedule Hoodi Glamsterdam activation (#4938)](https://github.com/status-im/nimbus-eth1/commit/b741727d6b137add7c6e172581723d6fe22af1f7) - 2026-10-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

@@ -24,6 +24,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: EL: engine rest ssz api](https://github.com/status-im/nimbus-eth1/pull/4653#pullrequestreview-5431305255) - 2026-10-06
 * [Review] [Review on: make focil related field optional to include](https://github.com/status-im/nimbus-eth1/pull/4933#pullrequestreview-5446154113) - 2026-10-07
 * [Commit] [networking: remove DiscoveryV4 support, use DiscoveryV5 only (#4476)](https://github.com/status-im/nimbus-eth1/commit/1f305f8442ff292410376b330b795bc56a982705) - 2026-10-07
+* [Pull Request] [portal: bump nim-eth and adapt to the discv5 node type changes ](https://github.com/status-im/nimbus-eth1/pull/4949) - 2026-10-09
 ## Q3 2026
 
 

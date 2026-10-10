@@ -16,6 +16,8 @@ Team: Grandine
 * [Review] [Review on: State cache prune locking improvements](https://github.com/grandinetech/grandine/pull/950#pullrequestreview-5412695390) - 2026-10-05
 * [Review] [Review on: Produce and publish attestations before attest tick by default on head change](https://github.com/grandinetech/grandine/pull/955#pullrequestreview-5428436987) - 2026-10-06
 * [Review] [Review on: Optional payload storage](https://github.com/grandinetech/grandine/pull/949#pullrequestreview-5443324861) - 2026-10-07
+* [Review] [Review on: Use response context bytes to determine the fork for RPC response size limits](https://github.com/grandinetech/grandine/pull/964#pullrequestreview-5471254666) - 2026-10-09
+* [Review] [Review on: tune max allowed empty slots](https://github.com/grandinetech/grandine/pull/946#pullrequestreview-5468335769) - 2026-10-09
 ## Q3 2026
 
 

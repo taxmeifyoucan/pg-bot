@@ -54,6 +54,23 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [ci: run independent workflow steps in parallel](https://github.com/NethermindEth/nethermind/pull/14475) - 2026-10-09
 * [Review] [Review on: perf(eth72): reduce announcement tracking allocations](https://github.com/NethermindEth/nethermind/pull/14474#pullrequestreview-5465410919) - 2026-10-09
 * [Pull Request] [fix(benchmark): chain BlockProcessingBenchmark scenario blocks to their parent header](https://github.com/NethermindEth/nethermind/pull/14477) - 2026-10-09
+* [Pull Request] [ci: authenticate Docker Hub pulls in stateless workflows](https://github.com/NethermindEth/nethermind/pull/14500) - 2026-10-10
+* [Review] [Review on: ci: authenticate Docker Hub pulls in stateless workflows](https://github.com/NethermindEth/nethermind/pull/14500#pullrequestreview-5477340140) - 2026-10-10
+* [Review] [Review on: feat(sync): label snap sync phases and drop misleading healing percentage](https://github.com/NethermindEth/nethermind/pull/14344#pullrequestreview-5466191441) - 2026-10-09
+* [Review] [Review on: ci: cut PR validation from 45 to 24 minutes](https://github.com/NethermindEth/nethermind/pull/14475#pullrequestreview-5466331933) - 2026-10-09
+* [Review] [Review on: feat(jsonrpc): add JsonRpc.IpcEnabledModules to serve a separate module set over IPC](https://github.com/NethermindEth/nethermind/pull/14318#pullrequestreview-5466266140) - 2026-10-09
+* [Review] [Review on: fix(healthchecks): start periodic disk space check before block tree review](https://github.com/NethermindEth/nethermind/pull/14292#pullrequestreview-5466265874) - 2026-10-09
+* [Review] [Review on: feat(era1): add EraManifest tool to rebuild and verify era1 manifests](https://github.com/NethermindEth/nethermind/pull/14317#pullrequestreview-5466266968) - 2026-10-09
+* [Pull Request] [fix(blockchain): recognize the canonical head during progress recalculation](https://github.com/NethermindEth/nethermind/pull/14490) - 2026-10-09
+* [Review] [Review on: fix(blockchain): recognize the canonical head during progress recalculation](https://github.com/NethermindEth/nethermind/pull/14490#pullrequestreview-5472041203) - 2026-10-09
+* [Commit] [test(aura): wait for the produced block in AuRaBlockProducerTests instead of a fixed window (#14306)](https://github.com/NethermindEth/nethermind/commit/c5561507d04d4f944c86aa496e23ef7f396b8447) - 2026-10-10
+* [Commit] [fix(sync): stop old bodies and receipts progress overshooting the total on finish (#14286)](https://github.com/NethermindEth/nethermind/commit/cb97cceead3996674819b6124a21bd7cf384c3c2) - 2026-10-10
+* [Commit] [ci: replace OpenCodeReview with shared PR-Agent (#13652)](https://github.com/NethermindEth/nethermind/commit/32fc86a107b9ce193647308d814810d29bad8a68) - 2026-10-10
+* [Commit] [fix(merge): include WebSockets URL when checking the engine port is configured (#14285)](https://github.com/NethermindEth/nethermind/commit/b403c8512cbbd22d19cff58a919f90ce26e9be0f) - 2026-10-09
+* [Commit] [fix(wallet): reject an unavailable BlockAuthorAccount signing key (#14290)](https://github.com/NethermindEth/nethermind/commit/5b074aa8f8a9dce8ccebc9b280cc9843627bf017) - 2026-10-09
+* [Commit] [fix(flat): warn when snap sync discards existing flat state and time the wipe (#14297)](https://github.com/NethermindEth/nethermind/commit/d1f90ce48402eb4f82e1aedae2e4d428523c3c81) - 2026-10-09
+* [Commit] [fix(producers): count only execution gas when ordering pool txs under EIP-8037 (#14304)](https://github.com/NethermindEth/nethermind/commit/b09c9b142d200920775ea42febc3c321d2bd0164) - 2026-10-09
+* [Commit] [feat(healthchecks): link consensus client docs in the no-ForkChoices warning (#14309)](https://github.com/NethermindEth/nethermind/commit/3273b75aefa1fe304962780b793750f8211d8814) - 2026-10-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

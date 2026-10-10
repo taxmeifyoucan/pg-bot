@@ -26,6 +26,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: schedule Gloas fork and 200M gas limit on Hoodi](https://github.com/ChainSafe/lodestar/pull/10313) - 2026-10-08
 * [Review] [Review on: test: forward progressive list limits in spec type replacement](https://github.com/ChainSafe/lodestar/pull/10081#pullrequestreview-5456664134) - 2026-10-08
 * [Commit] [feat: schedule Gloas fork and 200M gas limit on Hoodi (#10313)](https://github.com/ChainSafe/lodestar/commit/3acad901ec979f8861d9f678d2a53330592753a5) - 2026-10-08
+* [Review] [Review on: feat: reject proposer data and validator registrations from gloas](https://github.com/ChainSafe/lodestar/pull/10341#pullrequestreview-5475145875) - 2026-10-09
+* [Review] [Review on: feat: track validators that submit proposer preferences as attached](https://github.com/ChainSafe/lodestar/pull/10340#pullrequestreview-5474744614) - 2026-10-09
+* [Review] [Review on: fix: keep proposer boost root for the payload tiebreak when boost is withheld](https://github.com/ChainSafe/lodestar/pull/10339#pullrequestreview-5474639277) - 2026-10-09
+* [Review] [Review on: fix(archive): rework pruning for non-canonical block variants](https://github.com/ChainSafe/lodestar/pull/10022#pullrequestreview-5474232129) - 2026-10-09
+* [Review] [Review on: fix(beacon-node): derive the sync aggregate size from the preset in serialized block offsets](https://github.com/ChainSafe/lodestar/pull/10334#pullrequestreview-5474066022) - 2026-10-09
+* [Review] [Review on: fix: align beacon api with v5.0.0-beta.0](https://github.com/ChainSafe/lodestar/pull/10302#pullrequestreview-5468910266) - 2026-10-09
+* [Commit] [chore: update consensus specs to v1.7.0-beta.4 (#10314)](https://github.com/ChainSafe/lodestar/commit/6155cf7acc9ba60ff319ff9da7304a4cfb991284) - 2026-10-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 ## Q3 2026

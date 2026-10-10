@@ -20,6 +20,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor (#3711)](https://github.com/ethereum/execution-specs/commit/abc389a05198ec8a87142cd282db6e72af4bde4d) - 2026-10-06
 * [Review] [Review on: test(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5437626276) - 2026-10-07
 * [Review] [Review on: feat(test-evm-tools): derive fork-block activation from the transition schedule](https://github.com/ethereum/execution-specs/pull/3557#pullrequestreview-5455779638) - 2026-10-08
+* [Commit] [new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT (#3676)](https://github.com/ethereum/execution-specs/commit/6e84f8e28f9d74e1ddf335b7d205894446fefc8f) - 2026-10-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02
@@ -29,6 +30,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-8253: explicitly define Mainnet/testnet chain configs](https://github.com/ethereum/EIPs/pull/12456) - 2026-10-08
 * [Review] [Review on: Update EIP-1: remove duplicate EEST links section](https://github.com/ethereum/EIPs/pull/11398#pullrequestreview-5449307219) - 2026-10-07
 * [Review] [Review on: Update EIP-3298: Remove the refund cap from frame transaction settlement](https://github.com/ethereum/EIPs/pull/12455#pullrequestreview-5449107346) - 2026-10-07
+* [Review] [Review on: Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423#pullrequestreview-5476210749) - 2026-10-09
+* [Review] [Review on: Add EIP: Ancestor-Indexed BALs](https://github.com/ethereum/EIPs/pull/11595#pullrequestreview-5469504024) - 2026-10-09
 ## Q3 2026
 
 

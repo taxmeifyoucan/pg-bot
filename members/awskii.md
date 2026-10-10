@@ -55,6 +55,24 @@ Team: Erigon
 * [Review] [Review on: execution/vm: split EVM.call into Call, CallCode, DelegateCall and StaticCall](https://github.com/erigontech/erigon/pull/24549#pullrequestreview-5452315038) - 2026-10-08
 * [Review] [Review on: execution/state: cheaper account creation on the noMaterialize path](https://github.com/erigontech/erigon/pull/24674#pullrequestreview-5452315760) - 2026-10-08
 * [Review] [Review on: execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658#pullrequestreview-5452313339) - 2026-10-08
+* [Review] [Review on: execution: Block-STM parallel execution + write-side finalization (2/2, split of #23967)](https://github.com/erigontech/erigon/pull/24133#pullrequestreview-5477032228) - 2026-10-10
+* [Review] [Review on: refactor: use slices.Backward to simplify the code](https://github.com/erigontech/erigon/pull/24715#pullrequestreview-5477025759) - 2026-10-10
+* [Review] [Review on: db/state: don't cache dead-fork branches read during an unwind commit](https://github.com/erigontech/erigon/pull/24731#pullrequestreview-5477024632) - 2026-10-10
+* [Review] [Review on: ci(docs): let the cutover tell a cap prune apart from a lost version](https://github.com/erigontech/erigon/pull/24131#pullrequestreview-5477023147) - 2026-10-10
+* [Review] [Review on: cl/phase1/forkchoice/fork_graph: read the anchor state off the dump grid](https://github.com/erigontech/erigon/pull/24718#pullrequestreview-5477018644) - 2026-10-10
+* [Review] [Review on: bsc: apply Parlia system-contract upgrades at fork boundaries](https://github.com/erigontech/erigon/pull/24029#pullrequestreview-5477017750) - 2026-10-10
+* [Review] [Review on: cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629#pullrequestreview-5467854246) - 2026-10-09
+* [Review] [Review on: cl/phase1/network: defer the gloas checkpoint anchor when the checkpoint url cannot serve its child](https://github.com/erigontech/erigon/pull/24708#pullrequestreview-5467854575) - 2026-10-09
+* [Review] [Review on: cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing](https://github.com/erigontech/erigon/pull/24547#pullrequestreview-5467856399) - 2026-10-09
+* [Review] [Review on: cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24550#pullrequestreview-5467856734) - 2026-10-09
+* [Review] [Review on: cl: fix publication of self-built Gloas blocks and payloads](https://github.com/erigontech/erigon/pull/24545#pullrequestreview-5467856228) - 2026-10-09
+* [Review] [Review on: cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24548#pullrequestreview-5467856581) - 2026-10-09
+* [Review] [Review on: cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24627#pullrequestreview-5467856936) - 2026-10-09
+* [Review] [Review on: cl/phase1/stages: do not block a chain-tip fetcher on its error channel after the listener left](https://github.com/erigontech/erigon/pull/24703#pullrequestreview-5467857968) - 2026-10-09
+* [Review] [Review on: cl/phase1/core/state: log fork upgrades at debug level](https://github.com/erigontech/erigon/pull/24702#pullrequestreview-5467855639) - 2026-10-09
+* [Review] [Review on: exec: resolve a touched absent account once, skip a no-op repeat self-destruct](https://github.com/erigontech/erigon/pull/24710#pullrequestreview-5467855833) - 2026-10-09
+* [Review] [Review on: execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658#pullrequestreview-5466886825) - 2026-10-09
+* [Review] [Review on: exec: restore the stateObject arena, the shared committed read and the SetCode code reuse](https://github.com/erigontech/erigon/pull/24687#pullrequestreview-5466886616) - 2026-10-09
 ## Q3 2026
 
 

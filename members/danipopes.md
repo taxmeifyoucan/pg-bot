@@ -26,8 +26,18 @@ Team: Reth
 * [Review] [Review on: test(node): remove redundant arg and harness tests](https://github.com/paradigmxyz/reth/pull/27820#pullrequestreview-5464141448) - 2026-10-08
 * [Review] [Review on: test(snap-sync): remove redundant session tests](https://github.com/paradigmxyz/reth/pull/27824#pullrequestreview-5464141009) - 2026-10-08
 * [Review] [Review on: test(engine): remove redundant FOCIL tests](https://github.com/paradigmxyz/reth/pull/27821#pullrequestreview-5464140832) - 2026-10-08
+* [Review] [Review on: test(engine): remove redundant tests](https://github.com/paradigmxyz/reth/pull/27828#pullrequestreview-5465972448) - 2026-10-09
+* [Review] [Review on: test(rpc): remove redundant rpc and pool tests](https://github.com/paradigmxyz/reth/pull/27826#pullrequestreview-5465972330) - 2026-10-09
+* [Review] [Review on: test(node): remove redundant arg and harness tests](https://github.com/paradigmxyz/reth/pull/27820#pullrequestreview-5465972111) - 2026-10-09
+* [Review] [Review on: test(node): remove redundant e2e and unit tests](https://github.com/paradigmxyz/reth/pull/27823#pullrequestreview-5465972203) - 2026-10-09
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [fix(runtime): reject AOT mode without a store](https://github.com/paradigmxyz/revmc/pull/424) - 2026-10-10
+* [Pull Request] [docs(runtime): fix cache size and idle evict defaults](https://github.com/paradigmxyz/revmc/pull/423) - 2026-10-10
+* [Commit] [fix(runtime): reject AOT mode without a store (#424)](https://github.com/paradigmxyz/revmc/commit/6860b6f7bbda09b3c4dd0cf6571a97e3df7cd08d) - 2026-10-10
+* [Commit] [docs(runtime): fix cache size and idle evict defaults (#423)](https://github.com/paradigmxyz/revmc/commit/9ab29d05dfbbac79b988cfd2f19523c67c11a196) - 2026-10-10
 ## Q3 2026
 
 

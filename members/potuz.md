@@ -34,6 +34,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Add relay circuit breaker, related flags and metrics (#17540)](https://github.com/OffchainLabs/prysm/commit/e53427d327785e024dc35f134664b67801a13baa) - 2026-10-08
 * [Commit] [Serialize block gossip decode (#17647)](https://github.com/OffchainLabs/prysm/commit/7105d5dc3ba36c5395d5e746a552c3af04e4625e) - 2026-10-08
 * [Commit] [Unfinalized checkpoint sync (#17559)](https://github.com/OffchainLabs/prysm/commit/8fcc735259787ae62cb5425d8fcc0b42eddfd049) - 2026-10-08
+* [Commit] [Verify gossip payload envelope signatures without loading state (#17652)](https://github.com/OffchainLabs/prysm/commit/7ead28c2d455c86e4384376f8d17d6a0f95a65d0) - 2026-10-09
 ## Q3 2026
 
 

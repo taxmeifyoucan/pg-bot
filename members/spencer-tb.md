@@ -54,6 +54,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update EIP-7906: clarify diff opcode semantics and gas accounting](https://github.com/ethereum/EIPs/commit/8dbdab2b25dec0c3645169ce50c6d43a502a17c6) - 2026-10-08
 * [Commit] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/commit/17669e96e5ad3fb2b132af1c116a649edbb2b7c9) - 2026-10-08
 
+* [Pull Request] [Update EIP-7906: state the POST_TX rollback point via the EIP-8141 validation prefix](https://github.com/ethereum/EIPs/pull/12472) - 2026-10-09
+* [Pull Request] [Update EIP-8141: define the validation prefix and execution body under Behavior](https://github.com/ethereum/EIPs/pull/12471) - 2026-10-09
+* [Pull Request] [Update EIP-8141: name the TXPARAM, FRAMEPARAM and SIGPARAM params](https://github.com/ethereum/EIPs/pull/12469) - 2026-10-09
+* [Review] [Review on: Update EIP-7906: specify block-level access list recording for TXDIFF and POST_TX rollback](https://github.com/ethereum/EIPs/pull/12463#pullrequestreview-5471314106) - 2026-10-09
+* [Pull Request] [Update EIP-7906: name the TXTRACE and TXDIFF params](https://github.com/ethereum/EIPs/pull/12468) - 2026-10-09
+* [Commit] [Update EIP-8141: define the validation prefix and execution body under Behavior](https://github.com/ethereum/EIPs/commit/af3a7802c8ea516f717c6013e27d0f529046f007) - 2026-10-09
+* [Commit] [Update EIP-8141: name the TXPARAM, FRAMEPARAM and SIGPARAM params](https://github.com/ethereum/EIPs/commit/7752622050d9d77c46b578351eba9cfb5125f087) - 2026-10-09
+* [Commit] [Update EIP-7906: name the TXTRACE and TXDIFF params](https://github.com/ethereum/EIPs/commit/7d3570401baf6d9eac25c4f8fccf26d05de37032) - 2026-10-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5462620440) - 2026-10-08
 ## Q3 2026

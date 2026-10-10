@@ -16,6 +16,17 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Enable nethermind integration in stable releases](https://github.com/grandinetech/grandine/pull/959) - 2026-10-07
 * [Pull Request] [Make pre-release tags published as unstable](https://github.com/grandinetech/grandine/pull/958) - 2026-10-07
 * [Pull Request] [Optimize epoch processing for gloas](https://github.com/grandinetech/grandine/pull/957) - 2026-10-07
+* [Pull Request] [Set Go proxy fallback for Ziren CI](https://github.com/grandinetech/grandine/pull/965) - 2026-10-09
+* [Commit] [Set Go proxy fallback for Ziren CI](https://github.com/grandinetech/grandine/commit/3b0a5ac45ff552cffe36af72269a1476715174c6) - 2026-10-09
+* [Commit] [Fix db-stats key classification](https://github.com/grandinetech/grandine/commit/ebce02f062906954506aa53192986eb3983c12bd) - 2026-10-09
+* [Commit] [Store finalized blocks without payloads](https://github.com/grandinetech/grandine/commit/4019f077e9f979a2e2409e7e9a24b2db1ae8c263) - 2026-10-09
+* [Commit] [Move compression into fork-choice storage](https://github.com/grandinetech/grandine/commit/03302dcc0de0efd445550296cdb435c8b3a6197c) - 2026-10-09
+* [Commit] [Generalize block helpers over signed block traits](https://github.com/grandinetech/grandine/commit/605567d2387f653d19a910f1e7905a6bdb148e8d) - 2026-10-09
+* [Commit] [Support engine_getPayloadBodiesByHash](https://github.com/grandinetech/grandine/commit/b7a0fcc26c3bd9d8bb4e9e0096d004fd0a176d34) - 2026-10-09
+* [Commit] [Support blinded block state transitions](https://github.com/grandinetech/grandine/commit/262924f6be47204e7d75996152645d930e195f99) - 2026-10-09
+* [Commit] [Add unblinding for blocks and envelopes](https://github.com/grandinetech/grandine/commit/248e7c3ff954d637fe663d1e9a3578518e4dc770) - 2026-10-09
+* [Commit] [Expose raw database access for encoded state values](https://github.com/grandinetech/grandine/commit/0e76524ce6e709186c0e8c6d6179918a307dbe84) - 2026-10-09
+* [Commit] [Implement SSZ serialization for `Option<T>`](https://github.com/grandinetech/grandine/commit/03b22c0ccf08508e9afe9b0c3758c78a4936d905) - 2026-10-09
 ## Q3 2026
 
 

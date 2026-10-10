@@ -25,6 +25,12 @@ Team: Grandine
 * [Commit] [Fix windows build](https://github.com/grandinetech/grandine/commit/fec154bde72f9955533754da93bd07739492a4c4) - 2026-10-07
 * [Pull Request] [Update consensus-spec-tests to v1.7.0-beta.3](https://github.com/grandinetech/grandine/pull/962) - 2026-10-08
 * [Issue] [Update to consensus specs v1.7.0-beta.3](https://github.com/grandinetech/grandine/issues/961) - 2026-10-08
+* [Review] [Review on: Set Go proxy fallback for Ziren CI](https://github.com/grandinetech/grandine/pull/965#pullrequestreview-5471801555) - 2026-10-09
+* [Pull Request] [Use response context bytes to determine the fork for RPC response size limits](https://github.com/grandinetech/grandine/pull/964) - 2026-10-09
+* [Commit] [Use response context bytes to determine the fork for RPC response size limits](https://github.com/grandinetech/grandine/commit/1e150508d6ec0257cd2d7d6fbfea635ceffa85d8) - 2026-10-09
+* [Commit] [Don't emit out of sync error in validator client if there are no peers with newer head slot](https://github.com/grandinetech/grandine/commit/19c46a250799610d084203718c06b0a239ab0c51) - 2026-10-09
+* [Commit] [Check head epoch against current epoch before emitting out of sync error](https://github.com/grandinetech/grandine/commit/7b37c61a5eaf489a2e4f415b38a8195462340e5a) - 2026-10-09
+* [Commit] [Refine validator client beacon node out of sync message](https://github.com/grandinetech/grandine/commit/28658a8202bf5ac1211c4ec722f3f9586ec7bb07) - 2026-10-09
 ## Q3 2026
 
 

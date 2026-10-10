@@ -22,6 +22,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Fix callTracer crash when the top frame halts before it starts](https://github.com/besu-eth/besu/pull/11505#pullrequestreview-5442180253) - 2026-10-07
 * [Review] [Review on: Add AND, OR, XOR and NOT to EVM v2](https://github.com/besu-eth/besu/pull/11477#pullrequestreview-5458806652) - 2026-10-08
 * [Review] [Review on: fix: report pre-operation memory in debug_trace*](https://github.com/besu-eth/besu/pull/11206#pullrequestreview-5456591593) - 2026-10-08
+* [Review] [Review on: Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962#pullrequestreview-5472724488) - 2026-10-09
 ## Q3 2026
 
 

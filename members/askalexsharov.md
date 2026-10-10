@@ -197,6 +197,12 @@ Team: Erigon
 * [Commit] [p2p/rlpx: reject snappy lengths the payload cannot decode to (#24649)](https://github.com/erigontech/erigon/commit/59d7302006827e9b0e7435be1af58cf75f9eb714) - 2026-10-08
 * [Commit] [vmgen: drop the `if false` blocks from run (#24634)](https://github.com/erigontech/erigon/commit/6f6b8da0ae6d270631d96ed71250388f0bc75441) - 2026-10-08
 * [Commit] [exec: skip "synthesizing an account" if version map has no cell for (#24602)](https://github.com/erigontech/erigon/commit/8f0631f480c4b833d561345dc08ae9f5a3e62ace) - 2026-10-08
+* [Pull Request] [exec: resolve a touched absent account once, skip a no-op repeat self-destruct](https://github.com/erigontech/erigon/pull/24710) - 2026-10-09
+* [Pull Request] [exec: restore the stateObject arena, the shared committed read and the SetCode code reuse](https://github.com/erigontech/erigon/pull/24687) - 2026-10-09
+* [Commit] [exec: resolve a touched absent account once, skip a no-op repeat self-destruct (#24710)](https://github.com/erigontech/erigon/commit/c29592aefe275861efecefacc0fd8875ae533161) - 2026-10-09
+* [Commit] [execution/vm: reuse RETURN/REVERT output buffers (#24658)](https://github.com/erigontech/erigon/commit/05d2086c0597a8ccd73bbe49ab80cfa8ed07c2cb) - 2026-10-09
+* [Commit] [execution/vm: keep pc and gas out of run's loop-head spill (#24651)](https://github.com/erigontech/erigon/commit/222fd1db26685b9b034f9ab29ed6f321e34115d8) - 2026-10-09
+* [Commit] [execution/vm/benchmark: add a Uniswap v4 swap to the mainnet tx list (#24709)](https://github.com/erigontech/erigon/commit/a03fd06c219d826bf63ddbab77ba0795535d2e6c) - 2026-10-09
 ## Q3 2026
 
 

@@ -26,8 +26,12 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5441670103) - 2026-10-07
 
 * [Review] [Review on: Sign inclusion lists with the inclusion list epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5721#pullrequestreview-5456708718) - 2026-10-08
+* [Pull Request] [Set the IL deadline to 9s into the slot](https://github.com/ethereum/consensus-specs/pull/5727) - 2026-10-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470) - 2026-10-09
 ## Q3 2026
 
 

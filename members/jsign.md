@@ -39,6 +39,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Review] [Review on: fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448#pullrequestreview-5474051941) - 2026-10-09
 ## Q3 2026
 
 

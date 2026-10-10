@@ -15,6 +15,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [Lc gloas types (#17558)](https://github.com/OffchainLabs/prysm/commit/346efcb111618d869d1d48d11344e5e89c2421c9) - 2026-10-01
 * [Review] [Review on: fix(db): replay missing historical hdiff states without repeated snapshot decoding](https://github.com/OffchainLabs/prysm/pull/17590#pullrequestreview-5398717789) - 2026-10-03
 * [Review] [Review on: Remove `BeaconState` proto message](https://github.com/OffchainLabs/prysm/pull/17535#pullrequestreview-5428825432) - 2026-10-06
+* [Review] [Review on: Remove the "experimental" status from the `--enable-state-diff` flag.](https://github.com/OffchainLabs/prysm/pull/17657#pullrequestreview-5467988818) - 2026-10-09
 ## Q3 2026
 
 

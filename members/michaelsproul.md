@@ -37,6 +37,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix PTC duties at the Gloas fork boundary](https://github.com/sigp/lighthouse/pull/10193#pullrequestreview-5437575817) - 2026-10-07
 * [Review] [Review on: Reject Gloas envelopes for invalidated payloads](https://github.com/sigp/lighthouse/pull/10194#pullrequestreview-5451797639) - 2026-10-08
 * [Review] [Review on: Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189#pullrequestreview-5463647100) - 2026-10-08
+* [Review] [Review on: Fix cross builds after cc bump](https://github.com/sigp/lighthouse/pull/10278#pullrequestreview-5476761104) - 2026-10-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 ## Q3 2026

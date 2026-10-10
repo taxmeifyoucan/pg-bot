@@ -26,6 +26,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Make the required execution proof count a flag](https://github.com/sigp/lighthouse/pull/10269) - 2026-10-08
 * [Pull Request] [Add filter_optimistic_payloads feature](https://github.com/sigp/lighthouse/pull/10265) - 2026-10-08
 * [Pull Request] [Make the execution layer optional with proof engine](https://github.com/sigp/lighthouse/pull/10262) - 2026-10-08
+* [Pull Request] [Fix recompute head after proof](https://github.com/sigp/lighthouse/pull/10280) - 2026-10-09
 ## Q3 2026
 
 

@@ -63,6 +63,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Close the block world state only after transaction selection stops (#11473)](https://github.com/besu-eth/besu/commit/fa4bae715808cea87bc36354fe8eb656bb932971) - 2026-10-08
 * [Commit] [Add AND, OR, XOR and NOT to EVM v2 (#11477)](https://github.com/besu-eth/besu/commit/18ea164b6d0cb63c1721cd4c36d3c7dfb360cd57) - 2026-10-08
 * [Commit] [Log replaced payload builds at debug level with the changed inputs (#11504)](https://github.com/besu-eth/besu/commit/def0a84d72bcf54816132c2843852eb38fdbbe59) - 2026-10-08
+* [Review] [Review on: EVM v2 MEGA PR](https://github.com/besu-eth/besu/pull/11524#pullrequestreview-5469563798) - 2026-10-09
+* [Review] [Review on: Keep the wrapped account's analysed code in update tracking accounts](https://github.com/besu-eth/besu/pull/11508#pullrequestreview-5470119263) - 2026-10-09
+* [Pull Request] [Pay from the current address in the PAY opcode](https://github.com/besu-eth/besu/pull/11544) - 2026-10-09
+* [Pull Request] [Give each empty block its own creation timing](https://github.com/besu-eth/besu/pull/11461) - 2026-10-09
+* [Commit] [Cap Amsterdam transaction gas limit at EIP-8037 TX_MAX_TOTAL_GAS_LIMIT (#11414)](https://github.com/besu-eth/besu/commit/d05d8e745383699dd686e6efb090eddeb63a7380) - 2026-10-09
+* [Commit] [Give each empty block its own creation timing (#11461)](https://github.com/besu-eth/besu/commit/5be8fe380e9ad9e95625eeb351f84ca3521bfffd) - 2026-10-09
+* [Commit] [Keep the wrapped account's analysed code in update tracking accounts (#11508)](https://github.com/besu-eth/besu/commit/62df7321110d24637b07352ed6241d40d0320308) - 2026-10-09
+* [Commit] [Pay from the current address in the PAY opcode (#11544)](https://github.com/besu-eth/besu/commit/a4dd220f7603f2d67db6e28ed9c98e302229081f) - 2026-10-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

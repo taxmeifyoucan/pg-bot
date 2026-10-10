@@ -137,6 +137,62 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: forward progressive list limits in spec type replacement (#10081)](https://github.com/ChainSafe/lodestar/commit/2201499bbff0a9856cb7572a51723d49e1d9db10) - 2026-10-08
 * [Commit] [fix: prevent unknown block sync stall when rate limit backoff expires (#10250)](https://github.com/ChainSafe/lodestar/commit/79bf6381f867e91556f36787535271e57146c8a1) - 2026-10-08
 * [Commit] [fix: inherit gloas block execution status from the parent variant it builds on (#10268)](https://github.com/ChainSafe/lodestar/commit/055a216e01e259562f156c50025184b2869598b7) - 2026-10-08
+* [Pull Request] [chore: v1.50.0 release](https://github.com/ChainSafe/lodestar/pull/10342) - 2026-10-09
+* [Pull Request] [feat: reject proposer data and validator registrations from gloas](https://github.com/ChainSafe/lodestar/pull/10341) - 2026-10-09
+* [Review] [Review on: feat: reject proposer data and validator registrations from gloas](https://github.com/ChainSafe/lodestar/pull/10341#pullrequestreview-5475155685) - 2026-10-09
+* [Review] [Review on: feat(builder): persist proposer preferences across builder restarts](https://github.com/ChainSafe/lodestar/pull/10330#pullrequestreview-5474331566) - 2026-10-09
+* [Review] [Review on: feat: honor executiononly builder selection post-gloas](https://github.com/ChainSafe/lodestar/pull/10309#pullrequestreview-5467471631) - 2026-10-09
+* [Pull Request] [feat: track validators that submit proposer preferences as attached](https://github.com/ChainSafe/lodestar/pull/10340) - 2026-10-09
+* [Pull Request] [fix: keep proposer boost root for the payload tiebreak when boost is withheld](https://github.com/ChainSafe/lodestar/pull/10339) - 2026-10-09
+* [Pull Request] [refactor: clean up attached validators tracking](https://github.com/ChainSafe/lodestar/pull/10338) - 2026-10-09
+* [Pull Request] [feat: stop depending on prepare_beacon_proposer for custody and gloas payloads](https://github.com/ChainSafe/lodestar/pull/10336) - 2026-10-09
+* [Review] [Review on: feat: stop depending on prepare_beacon_proposer for custody and gloas payloads](https://github.com/ChainSafe/lodestar/pull/10336#pullrequestreview-5474086221) - 2026-10-09
+* [Pull Request] [feat: stop calling `prepareBeaconProposer` from gloas](https://github.com/ChainSafe/lodestar/pull/10337) - 2026-10-09
+* [Pull Request] [fix: bound engine getBlobs retries and request blobs before newPayload](https://github.com/ChainSafe/lodestar/pull/10329) - 2026-10-09
+* [Review] [Review on: fix: bound engine getBlobs retries and request blobs before newPayload](https://github.com/ChainSafe/lodestar/pull/10329#pullrequestreview-5472890200) - 2026-10-09
+* [Pull Request] [ci: add nightly engine API interop run against latest execution client images](https://github.com/ChainSafe/lodestar/pull/10333) - 2026-10-09
+* [Review] [Review on: ci: add nightly engine API interop run against latest execution client images](https://github.com/ChainSafe/lodestar/pull/10333#pullrequestreview-5471437013) - 2026-10-09
+* [Pull Request] [fix: handle partial failures when submitting proposal preferences](https://github.com/ChainSafe/lodestar/pull/10325) - 2026-10-09
+* [Review] [Review on: fix: handle partial failures when submitting proposal preferences](https://github.com/ChainSafe/lodestar/pull/10325#pullrequestreview-5469417592) - 2026-10-09
+* [Review] [Review on: feat: support engine api over REST with SSZ encoding](https://github.com/ChainSafe/lodestar/pull/10204#pullrequestreview-5467028333) - 2026-10-09
+* [Pull Request] [fix: resubmit proposal preferences after the beacon node resynced](https://github.com/ChainSafe/lodestar/pull/10326) - 2026-10-09
+* [Review] [Review on: fix: resubmit proposal preferences after the beacon node resynced](https://github.com/ChainSafe/lodestar/pull/10326#pullrequestreview-5469566218) - 2026-10-09
+* [Review] [Review on: fix: respect advertised engine REST endpoints](https://github.com/ChainSafe/lodestar/pull/10328#pullrequestreview-5470021679) - 2026-10-09
+* [Pull Request] [feat: persist proposer preferences across beacon node restarts](https://github.com/ChainSafe/lodestar/pull/10327) - 2026-10-09
+* [Review] [Review on: feat: persist proposer preferences across beacon node restarts](https://github.com/ChainSafe/lodestar/pull/10327#pullrequestreview-5469610392) - 2026-10-09
+* [Pull Request] [fix: send a zero commit in engine_getClientVersionV1 when git data is missing](https://github.com/ChainSafe/lodestar/pull/10324) - 2026-10-09
+* [Review] [Review on: fix: send a zero commit in engine_getClientVersionV1 when git data is missing](https://github.com/ChainSafe/lodestar/pull/10324#pullrequestreview-5469368029) - 2026-10-09
+* [Pull Request] [refactor: combine proposer and builder preferences services](https://github.com/ChainSafe/lodestar/pull/10319) - 2026-10-09
+* [Review] [Review on: refactor: combine proposer and builder preferences services](https://github.com/ChainSafe/lodestar/pull/10319#pullrequestreview-5468155197) - 2026-10-09
+* [Review] [Review on: test: upgrade geth and nethermind in sim tests](https://github.com/ChainSafe/lodestar/pull/10308#pullrequestreview-5468636647) - 2026-10-09
+* [Review] [Review on: fix: align beacon api with v5.0.0-beta.0](https://github.com/ChainSafe/lodestar/pull/10302#pullrequestreview-5465881304) - 2026-10-09
+* [Pull Request] [fix: retry proposer preferences submission on error response](https://github.com/ChainSafe/lodestar/pull/10317) - 2026-10-09
+* [Review] [Review on: fix: prune shuffling cache by smallest epoch](https://github.com/ChainSafe/lodestar/pull/10294#pullrequestreview-5468214313) - 2026-10-09
+* [Review] [Review on: feat: retrieve proposer preferences on connection opening](https://github.com/ChainSafe/lodestar/pull/10290#pullrequestreview-5465811678) - 2026-10-09
+* [Review] [Review on: chore: track circuit breaker metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/10318#pullrequestreview-5467669221) - 2026-10-09
+* [Pull Request] [feat: disallow new validators with BLS withdrawal credentials in heze](https://github.com/ChainSafe/lodestar/pull/10316) - 2026-10-09
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.4](https://github.com/ChainSafe/lodestar/pull/10314#pullrequestreview-5466012388) - 2026-10-09
+* [Issue] [Engine API over REST: EL interop matrix](https://github.com/ChainSafe/lodestar/issues/10323) - 2026-10-09
+* [Issue] [GetBlobsTracker retries getBlobs on every data column arrival after a null response](https://github.com/ChainSafe/lodestar/issues/10321) - 2026-10-09
+* [Issue] [Engine state flips to SYNCING when engine_getClientVersionV1 fails](https://github.com/ChainSafe/lodestar/issues/10322) - 2026-10-09
+* [Commit] [feat: reject proposer data and validator registrations from gloas (#10341)](https://github.com/ChainSafe/lodestar/commit/b726a05a4df34068d21b254bf5c590ea75afd169) - 2026-10-09
+* [Commit] [feat: track validators that submit proposer preferences as attached (#10340)](https://github.com/ChainSafe/lodestar/commit/5a1db4e01ce41dc9c69f174647e0c6bd5b7a24df) - 2026-10-09
+* [Commit] [fix: keep proposer boost root for the payload tiebreak when boost is withheld (#10339)](https://github.com/ChainSafe/lodestar/commit/4ef13ee1119a7d7907e54d5267a7d0a9dfbfee82) - 2026-10-09
+* [Commit] [refactor: clean up attached validators tracking (#10338)](https://github.com/ChainSafe/lodestar/commit/26076bcd3fa0c971ba4b79ef96055b11e6eaa49d) - 2026-10-09
+* [Commit] [feat: stop depending on prepare_beacon_proposer for custody and gloas payloads (#10336)](https://github.com/ChainSafe/lodestar/commit/67e8d545498265c033a8661e71b0403a2571f564) - 2026-10-09
+* [Commit] [feat: stop calling `prepareBeaconProposer` from gloas (#10337)](https://github.com/ChainSafe/lodestar/commit/1d053e89c6a27d6f3a00e32530c8543b87170e71) - 2026-10-09
+* [Commit] [ci: add nightly engine API interop run against latest execution client images (#10333)](https://github.com/ChainSafe/lodestar/commit/6d20ee6eb83fde5fea7cebeb2094cb346883f382) - 2026-10-09
+* [Commit] [fix: handle partial failures when submitting proposal preferences (#10325)](https://github.com/ChainSafe/lodestar/commit/1cd749f306505d81b6ff64d47cd948f125bce471) - 2026-10-09
+* [Commit] [feat: support engine api over REST with SSZ encoding (#10204)](https://github.com/ChainSafe/lodestar/commit/791f801899475f83f1f0678e39c9397b2c6bba83) - 2026-10-09
+* [Commit] [fix: cancel req/resp bridge iterators when the consumer returns early (#10304)](https://github.com/ChainSafe/lodestar/commit/08c4bed201f1e618ff35a4c85e35dab3830f42ec) - 2026-10-09
+* [Commit] [fix: resubmit proposal preferences after the beacon node resynced (#10326)](https://github.com/ChainSafe/lodestar/commit/52b7101ea27286689df72be34c2b06f5aca3edd3) - 2026-10-09
+* [Commit] [feat: persist proposer preferences across beacon node restarts (#10327)](https://github.com/ChainSafe/lodestar/commit/0837ebd40295cc26fa1278157e1c7ddc880dd714) - 2026-10-09
+* [Commit] [fix: send a zero commit in engine_getClientVersionV1 when git data is missing (#10324)](https://github.com/ChainSafe/lodestar/commit/14e68493c6fcfd0f0bf00751424cfd8f5c09b9dc) - 2026-10-09
+* [Commit] [refactor: combine proposer and builder preferences services (#10319)](https://github.com/ChainSafe/lodestar/commit/dff4197219245a40e497bd1d83ea4aeb1c120de3) - 2026-10-09
+* [Commit] [fix: align beacon api with v5.0.0-beta.0 (#10302)](https://github.com/ChainSafe/lodestar/commit/b37917f96a130d07297e482fd547504c839620d6) - 2026-10-09
+* [Commit] [fix: retry proposer preferences submission on error response (#10317)](https://github.com/ChainSafe/lodestar/commit/072bf9885376d737fc37a393e34ac64b66501264) - 2026-10-09
+* [Commit] [feat: disallow new validators with BLS withdrawal credentials in heze (#10316)](https://github.com/ChainSafe/lodestar/commit/56f65bd6e97f1ff0987173b99fa432c3da0bfb98) - 2026-10-09
+* [Commit] [fix: recreate the dangling parent payload entry in range sync (#10311)](https://github.com/ChainSafe/lodestar/commit/c02b971f5b130627a99fe87d06c06c42acaa602b) - 2026-10-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -151,11 +207,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: core: better caching for jumpdest analysis](https://github.com/ethereum/go-ethereum/pull/35881#pullrequestreview-5418545030) - 2026-10-05
 
+* [Issue] [Blob transactions are not propagated to the peer before inclusion on a two-node devnet](https://github.com/ethereum/go-ethereum/issues/35921) - 2026-10-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Gloas: head with an EL-unvalidated payload is treated as execution-valid; block production only stopped by the EL](https://github.com/status-im/nimbus-eth2/issues/9203) - 2026-10-05
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [fix: align fork choice v2 with beacon api spec](https://github.com/OffchainLabs/prysm/pull/17636) - 2026-10-07
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [Blob transactions rarely reach the peer before inclusion on a two-node devnet](https://github.com/NethermindEth/nethermind/issues/14483) - 2026-10-09
+* [Issue] [engine_getBlobsV2 stops serving a transaction's blobs as soon as it is included](https://github.com/NethermindEth/nethermind/issues/14482) - 2026-10-09
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Issue] [engine_getBlobsV2 stops serving a transaction's blobs once it is included](https://github.com/status-im/nimbus-eth1/issues/4947) - 2026-10-09
 ## Q3 2026
 
 

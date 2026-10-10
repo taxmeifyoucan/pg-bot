@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5422509198) - 2026-10-06
 * [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5437282875) - 2026-10-07
 * [Review] [Review on: Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637#pullrequestreview-5424539686) - 2026-10-06
+* [Review] [Review on: use the chronos race() instead of one()](https://github.com/status-im/nimbus-eth1/pull/4936#pullrequestreview-5466578408) - 2026-10-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
@@ -50,6 +51,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Request and validate bids with BuilderConfig on proposal](https://github.com/status-im/nimbus-eth2/pull/9163#pullrequestreview-5449813883) - 2026-10-07
 * [Review] [Review on: nix: fix installCheckPhase for MacOS platform](https://github.com/status-im/nimbus-eth2/pull/9226#pullrequestreview-5439236559) - 2026-10-07
 * [Pull Request] [reduce peerdas helper stack usage](https://github.com/status-im/nimbus-eth2/pull/9228) - 2026-10-07
+* [Pull Request] [schedule Hoodi Glamsterdam activation](https://github.com/status-im/nimbus-eth2/pull/9250) - 2026-10-10
+* [Review] [Review on: Fix execution payload validity logic](https://github.com/status-im/nimbus-eth2/pull/9220#pullrequestreview-5470199081) - 2026-10-09
+* [Review] [Review on: partial column peering mechanics](https://github.com/status-im/nimbus-eth2/pull/9230#pullrequestreview-5468832208) - 2026-10-09
+* [Pull Request] [use v1.7.0-beta.4 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9246) - 2026-10-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

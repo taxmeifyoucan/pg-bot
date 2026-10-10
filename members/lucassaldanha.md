@@ -62,6 +62,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [ENR advertises tcp port when TCP transport is disabled](https://github.com/Consensys-Incorporated/teku/issues/11454) - 2026-10-08
 * [Commit] [Decode gossip messages on the async runner instead of the gossipsub thread (#11447)](https://github.com/Consensys-Incorporated/teku/commit/f23ff0a716797d76d2cf855589e7d5dab8a20143) - 2026-10-08
 * [Commit] [Update CHANGELOG post 26.10.0 release (#11453)](https://github.com/Consensys-Incorporated/teku/commit/c161c12ffb6dc73a5e3e699db5cf4be445918a28) - 2026-10-08
+* [Review] [Review on: Log in to Docker Hub with OIDC instead of a stored password](https://github.com/Consensys-Incorporated/teku/pull/11455#pullrequestreview-5467649339) - 2026-10-09
+* [Commit] [Log in to Docker Hub with OIDC instead of a stored password (#11455)](https://github.com/Consensys-Incorporated/teku/commit/8f4cac0afc06b969e85d89f357bc648b56af4495) - 2026-10-09
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

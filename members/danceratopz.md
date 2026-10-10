@@ -33,6 +33,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(spec-tools): lint formatting-only differences between forks (#3726)](https://github.com/ethereum/execution-specs/commit/d7a84b8c131fff12257f1141cc01260301aae68d) - 2026-10-07
 * [Commit] [chore(tooling): point agents at forks/bogota (#3731)](https://github.com/ethereum/execution-specs/commit/69c0ea7a335052764095eb49b726a755fed2ee2c) - 2026-10-07
 * [Review] [Review on: feat(spec-specs,tests): implement EIP-7906 transaction assertions](https://github.com/ethereum/execution-specs/pull/3730#pullrequestreview-5455750470) - 2026-10-08
+
+* [Commit] [fix(test-fixtures): reserve the default fee recipient when packing pre-alloc groups (#3752)](https://github.com/ethereum/execution-specs/commit/9ba531d96f0da24f9b9af9bb51ae0e5b2f43fe8b) - 2026-10-09
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
+* [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
 ## Q3 2026
 
 

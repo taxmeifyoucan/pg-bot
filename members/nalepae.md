@@ -35,6 +35,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Add `beacon_payload_gas_limit` and `beacon_payload_gas_used` metrics. (#17634)](https://github.com/OffchainLabs/prysm/commit/1804185b28f815926c003d83b1011df32eff47ea) - 2026-10-07
 * [Commit] [Use the slot deadline for the duties of the first slot of an epoch (#17637)](https://github.com/OffchainLabs/prysm/commit/50be37ea04338e46ab22322ec5c93aa31f10a47e) - 2026-10-08
 * [Commit] [Replace the per-call `Broadcasted data column sidecars` debug log with a `Broadcasted data column sidecars summary` log, aggregated per block root and emitted once no column was broadcast for this root during 100 ms. (#17642)](https://github.com/OffchainLabs/prysm/commit/22c23b743998e79e8b24472405aa37a1e7319a2e) - 2026-10-08
+
+* [Pull Request] [[EIP-8025] Implement optional execution proofs](https://github.com/OffchainLabs/prysm/pull/17658) - 2026-10-09
+* [Pull Request] [Remove the "experimental" status from the `--enable-state-diff` flag.](https://github.com/OffchainLabs/prysm/pull/17657) - 2026-10-09
+* [Commit] [Remove the "experimental" status from the `--enable-state-diff` flag. (#17657)](https://github.com/OffchainLabs/prysm/commit/2154983d4c98228468c10b671cfb1dde534b9e90) - 2026-10-09
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 ## Q3 2026
 
 

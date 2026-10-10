@@ -31,6 +31,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Read the head state under the same lock as the head root in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17654) - 2026-10-08
 * [Pull Request] [Schedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17650) - 2026-10-08
 * [Review] [Review on: Serialize block gossip decode](https://github.com/OffchainLabs/prysm/pull/17647#pullrequestreview-5459130977) - 2026-10-08
+* [Pull Request] [Settle the builder payment before processing parent execution requests](https://github.com/OffchainLabs/prysm/pull/17661) - 2026-10-09
+* [Pull Request] [Bump consensus spec to v1.7.0-beta.4](https://github.com/OffchainLabs/prysm/pull/17664) - 2026-10-09
+* [Pull Request] [Subtract same-payload withdrawals from the builder balance in the builders sweep](https://github.com/OffchainLabs/prysm/pull/17663) - 2026-10-09
+* [Pull Request] [Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662) - 2026-10-09
+* [Commit] [Remove data column sidecar size presets dropped by the spec (#17532)](https://github.com/OffchainLabs/prysm/commit/8b79bf5448f7b4aab1c23dff30027c66e69a29c5) - 2026-10-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

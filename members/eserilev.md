@@ -27,6 +27,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Add property tests for EpochSchedule](https://github.com/sigp/lighthouse/pull/10232) - 2026-10-06
 * [Review] [Review on: Enforce inclusion list satisfaction in fork choice](https://github.com/sigp/lighthouse/pull/10253#pullrequestreview-5446944605) - 2026-10-07
 * [Pull Request] [Use the Gloas min epochs for block requests as the backfill range](https://github.com/sigp/lighthouse/pull/10270) - 2026-10-08
+* [Review] [Review on: Implement gossip verification of inclusion lists](https://github.com/sigp/lighthouse/pull/10182#pullrequestreview-5466780323) - 2026-10-09
+* [Review] [Review on: Fix empty BlocksByRoot responses during Gloas column publish](https://github.com/sigp/lighthouse/pull/9976#pullrequestreview-5467228859) - 2026-10-09
 ## Q3 2026
 
 

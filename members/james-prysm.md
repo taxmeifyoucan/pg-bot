@@ -34,6 +34,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Schedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17650#pullrequestreview-5458108694) - 2026-10-08
 * [Review] [Review on: Add builder_index and block_hash to the Gloas block event](https://github.com/OffchainLabs/prysm/pull/17628#pullrequestreview-5458594328) - 2026-10-08
 * [Review] [Review on: Add builder_pending_withdrawals and builder_pending_payments state endpoints](https://github.com/OffchainLabs/prysm/pull/17627#pullrequestreview-5458260594) - 2026-10-08
+* [Review] [Review on: Use the target's shuffling dependent root in getRecentPreState](https://github.com/OffchainLabs/prysm/pull/17649#pullrequestreview-5475608394) - 2026-10-09
+* [Review] [Review on: Remove data column sidecar size presets dropped by the spec](https://github.com/OffchainLabs/prysm/pull/17532#pullrequestreview-5473958709) - 2026-10-09
+* [Review] [Review on: Verify proposer preferences signature before advancing the dependent state](https://github.com/OffchainLabs/prysm/pull/17656#pullrequestreview-5474983428) - 2026-10-09
+* [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5471667301) - 2026-10-09
 ## Q3 2026
 
 

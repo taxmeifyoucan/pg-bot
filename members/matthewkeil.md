@@ -16,6 +16,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [docs: add note about ai contribution](https://github.com/ChainSafe/lodestar/pull/10244) - 2026-10-02
 * [Review] [Review on: docs: add note about ai contribution](https://github.com/ChainSafe/lodestar/pull/10244#pullrequestreview-5393488498) - 2026-10-02
 * [Commit] [docs: add note about ai contribution (#10244)](https://github.com/ChainSafe/lodestar/commit/db953a4f93a563983186f098966576476310f38a) - 2026-10-02
+* [Pull Request] [fix: queue column reconstructions in event multiple come in before completion](https://github.com/ChainSafe/lodestar/pull/10331) - 2026-10-09
+* [Review] [Review on: fix: queue column reconstructions in event multiple come in before completion](https://github.com/ChainSafe/lodestar/pull/10331#pullrequestreview-5470600968) - 2026-10-09
+* [Review] [Review on: fix: resubmit proposal preferences after the beacon node resynced](https://github.com/ChainSafe/lodestar/pull/10326#pullrequestreview-5470776049) - 2026-10-09
 ## Q3 2026
 
 

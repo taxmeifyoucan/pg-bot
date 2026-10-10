@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: Add compile-time Spec alias and migrate types tests](https://github.com/sigp/lighthouse/pull/10158#pullrequestreview-5430518640) - 2026-10-06
 * [Review] [Review on: Remove the Router and dispatch network events directly](https://github.com/sigp/lighthouse/pull/10122#pullrequestreview-5446530906) - 2026-10-07
 * [Review] [Review on: Split `beacon_chain` tests by preset](https://github.com/sigp/lighthouse/pull/10246#pullrequestreview-5456858453) - 2026-10-08
+* [Review] [Review on: Split `http_api` tests by preset](https://github.com/sigp/lighthouse/pull/10284#pullrequestreview-5471457410) - 2026-10-09
 ## Q3 2026
 
 

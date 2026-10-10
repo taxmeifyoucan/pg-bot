@@ -112,6 +112,21 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [feat: EIP-8077 announce tx source and nonce (eth/73)](https://github.com/NethermindEth/nethermind/pull/14462) - 2026-10-08
 * [Review] [Review on: feat: EIP-8077 announce tx source and nonce (eth/73)](https://github.com/NethermindEth/nethermind/pull/14462#pullrequestreview-5460253715) - 2026-10-08
 * [Commit] [feat: align EIP-8279 metering with execution-specs#3351 (#14448)](https://github.com/NethermindEth/nethermind/commit/dafc369783685e66bc92dc043683db23396adfcf) - 2026-10-08
+* [Review] [Review on: feat(jsonrpc): add JsonRpc.IpcEnabledModules to serve a separate module set over IPC](https://github.com/NethermindEth/nethermind/pull/14318#pullrequestreview-5468643736) - 2026-10-09
+* [Pull Request] [fix(txpool): return txs of blocks the head rewinds past](https://github.com/NethermindEth/nethermind/pull/14492) - 2026-10-09
+* [Review] [Review on: fix(txpool): return txs of blocks the head rewinds past](https://github.com/NethermindEth/nethermind/pull/14492#pullrequestreview-5473067196) - 2026-10-09
+* [Review] [Review on: feat: EIP-8077 announce tx source and nonce (eth/73)](https://github.com/NethermindEth/nethermind/pull/14462#pullrequestreview-5468994629) - 2026-10-09
+* [Review] [Review on: feat: EIP-8116 replace cumulative receipt fields](https://github.com/NethermindEth/nethermind/pull/14272#pullrequestreview-5475306003) - 2026-10-09
+* [Review] [Review on: EIP-8151: account-code restricted ecRecover](https://github.com/NethermindEth/nethermind/pull/13959#pullrequestreview-5472109679) - 2026-10-09
+* [Pull Request] [perf(network): skip fetching eth/73 announcements with stale nonces](https://github.com/NethermindEth/nethermind/pull/14499) - 2026-10-09
+* [Review] [Review on: perf(network): skip fetching eth/73 announcements with stale nonces](https://github.com/NethermindEth/nethermind/pull/14499#pullrequestreview-5475694766) - 2026-10-09
+* [Pull Request] [fix(specs): forward interface-default members in ReleaseSpecDecorator](https://github.com/NethermindEth/nethermind/pull/14497) - 2026-10-09
+* [Review] [Review on: Schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/14489#pullrequestreview-5471906805) - 2026-10-09
+* [Review] [Review on: perf(logs): defer compact log data expansion](https://github.com/NethermindEth/nethermind/pull/14488#pullrequestreview-5470880415) - 2026-10-09
+* [Review] [Review on: chore(deps): update packages](https://github.com/NethermindEth/nethermind/pull/14491#pullrequestreview-5473951170) - 2026-10-09
+* [Commit] [fix(tests): decode frame transactions from txbytes in state tests (#14463)](https://github.com/NethermindEth/nethermind/commit/fca650f554a71fe989d95501c5f05f331483b1ed) - 2026-10-09
+* [Commit] [fix: use EIP-7906's assigned opcode bytes (#14469)](https://github.com/NethermindEth/nethermind/commit/efd7d189b892ba2be35c2fd062630d069e9538c5) - 2026-10-09
+* [Commit] [fix: zero-length logs bloom for an EIP-7668 genesis (#14458)](https://github.com/NethermindEth/nethermind/commit/2aef7866440694c99c73f93501c5b39f3d8c16ee) - 2026-10-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -122,6 +137,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/commit/c2471607ae30f665f2cfd878b7284ba39afeba75) - 2026-10-06
 * [Review] [Review on: Update EIP-7805: Profile 2 inclusion claims and per-list VERIFY budget](https://github.com/ethereum/EIPs/pull/12394#pullrequestreview-5456269010) - 2026-10-08
 * [Review] [Review on: Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423#pullrequestreview-5455781793) - 2026-10-08
+* [Review] [Review on: Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423#pullrequestreview-5476561985) - 2026-10-10
+* [Pull Request] [Update EIP-8288: Define bounded mempool aggregation](https://github.com/ethereum/EIPs/pull/12473) - 2026-10-09
+* [Pull Request] [Update EIP-8288: Define proof capacity and conditional FOCIL inclusion](https://github.com/ethereum/EIPs/pull/12475) - 2026-10-10
+* [Pull Request] [Update EIP-8288: Bind dependency digests to verification schemes](https://github.com/ethereum/EIPs/pull/12474) - 2026-10-10
 ## Q3 2026
 
 

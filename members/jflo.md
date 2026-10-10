@@ -29,6 +29,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Enable NullAway for ethereum/mock-p2p](https://github.com/besu-eth/besu/pull/11284#pullrequestreview-5445999556) - 2026-10-07
 * [Review] [Review on: Validate batch size when using a stop condition](https://github.com/besu-eth/besu/pull/11479#pullrequestreview-5445560161) - 2026-10-07
 * [Pull Request] [Install the EIP-8141 expiry verifier when Bogota activates](https://github.com/besu-eth/besu/pull/11527) - 2026-10-08
+* [Pull Request] [test: close three silent coverage gaps in the evmtool fixture runners](https://github.com/besu-eth/besu/pull/11552) - 2026-10-09
 ## Q3 2026
 
 

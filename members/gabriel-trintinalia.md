@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [refactor: make the DAO fork a regular fork with a fork state change](https://github.com/besu-eth/besu/pull/11538) - 2026-10-09
 * [Review] [Review on: refactor: cleanup preprocessing function](https://github.com/besu-eth/besu/pull/11412#pullrequestreview-5451485219) - 2026-10-08
 * [Pull Request] [fix: discard a rejected block's changes on every failure path](https://github.com/besu-eth/besu/pull/11533) - 2026-10-08
+* [Commit] [refactor: cleanup preprocessing function (#11412)](https://github.com/besu-eth/besu/commit/aa3760c7e1dc7177c96f35b02bc814b0ce913e53) - 2026-10-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08

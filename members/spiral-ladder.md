@@ -23,6 +23,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: ci: cache ssz and bls spec test vectors in both spec test jobs](https://github.com/ChainSafe/lodestar/pull/10283#pullrequestreview-5431801579) - 2026-10-06
 * [Review] [Review on: chore: log native state transition option on startup](https://github.com/ChainSafe/lodestar/pull/10281#pullrequestreview-5429541976) - 2026-10-06
 * [Commit] [ci: cache ssz and bls spec test vectors in both spec test jobs (#10283)](https://github.com/ChainSafe/lodestar/commit/52daf20faf0060bf91ef6c7f522f5d5feabaa8e4) - 2026-10-06
+* [Pull Request] [fix(beacon-node): derive the sync aggregate size from the preset in serialized block offsets](https://github.com/ChainSafe/lodestar/pull/10334) - 2026-10-09
+* [Review] [Review on: fix(beacon-node): derive the sync aggregate size from the preset in serialized block offsets](https://github.com/ChainSafe/lodestar/pull/10334#pullrequestreview-5471852842) - 2026-10-09
+* [Pull Request] [feat: remove `deposit` and `eth1data` fields (eip8015)](https://github.com/ChainSafe/lodestar/pull/10335) - 2026-10-09
+* [Review] [Review on: fix: send a zero commit in engine_getClientVersionV1 when git data is missing](https://github.com/ChainSafe/lodestar/pull/10324#pullrequestreview-5469357127) - 2026-10-09
+* [Review] [Review on: refactor: combine proposer and builder preferences services](https://github.com/ChainSafe/lodestar/pull/10319#pullrequestreview-5469330655) - 2026-10-09
+* [Review] [Review on: fix: retry proposer preferences submission on error response](https://github.com/ChainSafe/lodestar/pull/10317#pullrequestreview-5468621000) - 2026-10-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -42,8 +48,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5446580060) - 2026-10-07
 * [Pull Request] [feat(metrics): add sub-second epoch transition histogram buckets](https://github.com/ChainSafe/lodestar-z/pull/759) - 2026-10-07
 * [Commit] [feat(metrics): add sub-second epoch transition histogram buckets (#759)](https://github.com/ChainSafe/lodestar-z/commit/bf96e24bceccf443f04162873fc4cc88b59fc680) - 2026-10-07
+* [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5466578489) - 2026-10-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Pull Request] [fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448) - 2026-10-09
 ## Q3 2026
 
 

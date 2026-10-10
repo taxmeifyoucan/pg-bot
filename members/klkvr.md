@@ -8,6 +8,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 ## Contributions
 
+## Q4 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [perf(evm): stream native state updates to execution hooks](https://github.com/paradigmxyz/reth/pull/27849) - 2026-10-09
 ## Q3 2026
 
 

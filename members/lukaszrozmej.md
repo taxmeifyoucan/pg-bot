@@ -198,6 +198,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [feat(rpc): add an operator cap on buffered struct-log trace size (#14460)](https://github.com/NethermindEth/nethermind/commit/8af3611170ef923eff7d82767a7f507451c4e2d1) - 2026-10-08
 * [Commit] [fix(bal): stop parallel validation once executed gas exceeds the block limit (#14459)](https://github.com/NethermindEth/nethermind/commit/893d102b2ff45c56ae62fae9c2c9243516a84f44) - 2026-10-08
 * [Commit] [fix(zkvm): pass BLS12-381 points to SP1 in its own layout (#14401)](https://github.com/NethermindEth/nethermind/commit/13fa0cac51eb75ba8a1ec53ca69140e2329226fb) - 2026-10-08
+* [Pull Request] [feat(consensus): abandon a block that takes longer than a configurable timeout to process](https://github.com/NethermindEth/nethermind/pull/14487) - 2026-10-09
+* [Review] [Review on: feat(consensus): abandon a block that takes longer than a configurable timeout to process](https://github.com/NethermindEth/nethermind/pull/14487#pullrequestreview-5470410752) - 2026-10-09
+* [Pull Request] [test(tracing): tolerate one-off runtime allocations in the BAL overlay zero-alloc test](https://github.com/NethermindEth/nethermind/pull/14486) - 2026-10-09
+* [Review] [Review on: feat: EIP-8116 replace cumulative receipt fields](https://github.com/NethermindEth/nethermind/pull/14272#pullrequestreview-5474159132) - 2026-10-09
+* [Review] [Review on: EIP-8151: account-code restricted ecRecover](https://github.com/NethermindEth/nethermind/pull/13959#pullrequestreview-5474158845) - 2026-10-09
+* [Review] [Review on: perf(merge): re-commit the no-GC region budget right after a decommit](https://github.com/NethermindEth/nethermind/pull/14481#pullrequestreview-5476017833) - 2026-10-09
+* [Review] [Review on: perf(rpc): give Kestrel 64 KiB transport blocks so a large request body arrives in a few reads](https://github.com/NethermindEth/nethermind/pull/14443#pullrequestreview-5468746844) - 2026-10-09
+* [Pull Request] [test(merge): accept VALID when an unheld suggest beats the zero budget](https://github.com/NethermindEth/nethermind/pull/14498) - 2026-10-09
+* [Review] [Review on: perf(logs): defer compact log data expansion](https://github.com/NethermindEth/nethermind/pull/14488#pullrequestreview-5471995025) - 2026-10-09
+* [Review] [Review on: chore(deps): update packages](https://github.com/NethermindEth/nethermind/pull/14491#pullrequestreview-5474056527) - 2026-10-09
+* [Commit] [perf(zkvm): hash SSZ merkle pairs with SP1's SHA-256 precompiles directly (#14402)](https://github.com/NethermindEth/nethermind/commit/b16d6338b1197fbf7d79413406e002ae09c68b6c) - 2026-10-09
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -208,6 +219,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [bflat: wide unaligned accesses for --libc openvm](https://github.com/NethermindEth/bflat-riscv64/pull/49) - 2026-10-07
 * [Pull Request] [zisk_subst: a single-threaded class constructor runner](https://github.com/NethermindEth/bflat-riscv64/pull/51) - 2026-10-08
 * [Pull Request] [rhp: bump-allocate GC static bases and uninitialized arrays](https://github.com/NethermindEth/bflat-riscv64/pull/50) - 2026-10-08
+* [Review] [Review on: pal: reclaim ZisK accelerator scratch memory, halt on Rust OOM](https://github.com/NethermindEth/bflat-riscv64/pull/52#pullrequestreview-5469951970) - 2026-10-09
+* [Commit] [rhp: bump-allocate GC static bases and uninitialized arrays](https://github.com/NethermindEth/bflat-riscv64/commit/cf66b2fa6946018e5b3ee1aa4b844be880767e4e) - 2026-10-09
+* [Commit] [bflat: wide unaligned accesses for --libc openvm](https://github.com/NethermindEth/bflat-riscv64/commit/70178fc852a9ac773ceb52b229723b87a734ce76) - 2026-10-09
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02

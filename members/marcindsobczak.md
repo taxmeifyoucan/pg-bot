@@ -37,6 +37,11 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [perf(merge): enter the no-GC region on engine_getBlobs, take it over in engine_newPayload](https://github.com/NethermindEth/nethermind/pull/14447) - 2026-10-08
 * [Review] [Review on: perf(merge): enter the no-GC region on engine_getBlobs, take it over in engine_newPayload](https://github.com/NethermindEth/nethermind/pull/14447#pullrequestreview-5459150621) - 2026-10-08
 * [Pull Request] [perf(rpc): give Kestrel 64 KiB transport blocks so a large request body arrives in a few reads](https://github.com/NethermindEth/nethermind/pull/14443) - 2026-10-08
+* [Pull Request] [perf(merge): re-commit the no-GC region budget right after a decommit](https://github.com/NethermindEth/nethermind/pull/14481) - 2026-10-09
+* [Review] [Review on: perf(merge): re-commit the no-GC region budget right after a decommit](https://github.com/NethermindEth/nethermind/pull/14481#pullrequestreview-5476175537) - 2026-10-09
+* [Review] [Review on: perf(rpc): give Kestrel 64 KiB transport blocks so a large request body arrives in a few reads](https://github.com/NethermindEth/nethermind/pull/14443#pullrequestreview-5467658986) - 2026-10-09
+* [Commit] [perf(rpc): give Kestrel 64 KiB transport blocks so a large request body arrives in a few reads (#14443)](https://github.com/NethermindEth/nethermind/commit/d0f3fb6b5fcf98d627d753eba0266dc191a80e32) - 2026-10-09
+* [Commit] [test(merge): fix flaky ExecutionPayloadTests by scoping the swapped tx decoder (#14433)](https://github.com/NethermindEth/nethermind/commit/2e942baf682079984b95f05ea7be25db8ab12cf6) - 2026-10-09
 ## Q3 2026
 
 

@@ -39,6 +39,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [execution/state: keep a cached object's balance in step with a versioned write](https://github.com/erigontech/erigon/pull/24695) - 2026-10-08
 * [Pull Request] [execution/state, execution/tests: keep the nonce of a self-destructed account across a revert](https://github.com/erigontech/erigon/pull/24701) - 2026-10-08
 * [Commit] [execution/state: look up the dirty set once in reconstructCellFlags (#24625)](https://github.com/erigontech/erigon/commit/6d412173eff900d26a1ecc22508e5b8a4127a474) - 2026-10-08
+* [Pull Request] [execution/state: treat slots written by the destroying tx as wiped](https://github.com/erigontech/erigon/pull/24742) - 2026-10-09
+* [Review] [Review on: execution: don't revive a destroyed account with its old nonce or code hash](https://github.com/erigontech/erigon/pull/24705#pullrequestreview-5468177568) - 2026-10-09
+* [Commit] [execution/state, execution/stagedsync: record incarnation 0 for a destroyed account (#24696)](https://github.com/erigontech/erigon/commit/5f5156f3cd63f27c2d185cc79ad7cbf6c764f3b1) - 2026-10-09
+* [Commit] [execution/state, execution/tests: keep the nonce of a self-destructed account across a revert (#24701)](https://github.com/erigontech/erigon/commit/f6073c39668b9bd728c3f0f7615b256208fd45eb) - 2026-10-09
+* [Commit] [execution/state: keep a cached object's balance in step with a versioned write (#24695)](https://github.com/erigontech/erigon/commit/0bccf35bfb5db398b9dba563d240c25603dd1ace) - 2026-10-09
+* [Commit] [execution/state: keep code hash in sync with code read from version map (#24432)](https://github.com/erigontech/erigon/commit/76167d7987af908e88391a40dfd054c275c6e04d) - 2026-10-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02

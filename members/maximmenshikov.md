@@ -60,6 +60,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #48 from NethermindEth/perf/riscv64-zkvm-cq](https://github.com/NethermindEth/bflat-riscv64/commit/2ee8a26047fb6a14aa3d7d1c1dcc61eb15a9c9f1) - 2026-10-06
 * [Commit] [Merge pull request #47 from NethermindEth/perf/zisk-static-alloc-context](https://github.com/NethermindEth/bflat-riscv64/commit/3a479b8312152afcdb7a9c368042fac3517722ef) - 2026-10-06
 * [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-rtm.26506.199-upstream-perf (PR #20)](https://github.com/NethermindEth/bflat-riscv64/commit/1603ef36895074c6f5f155a59a5373e5f43d0f6f) - 2026-10-06
+* [Review] [Review on: pal: reclaim ZisK accelerator scratch memory, halt on Rust OOM](https://github.com/NethermindEth/bflat-riscv64/pull/52#pullrequestreview-5468548767) - 2026-10-09
+* [Review] [Review on: zisk_subst: a single-threaded class constructor runner](https://github.com/NethermindEth/bflat-riscv64/pull/51#pullrequestreview-5468519829) - 2026-10-09
+* [Review] [Review on: bflat: wide unaligned accesses for --libc openvm](https://github.com/NethermindEth/bflat-riscv64/pull/49#pullrequestreview-5468442803) - 2026-10-09
 ## Q3 2026
 
 

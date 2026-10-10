@@ -46,8 +46,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Clear pending builder payments of slashed proposers (#5719)](https://github.com/ethereum/consensus-specs/commit/aa16bb4c156184e9548a997d53efaf2a228a6304) - 2026-10-08
 * [Commit] [Add tests for proposer and attester slashings in one block (#5720)](https://github.com/ethereum/consensus-specs/commit/e0e1080f287e450e32e661d0df4bb891494197e6) - 2026-10-08
 * [Commit] [Stop reading `eth1_data` in fast confirmation test helper (#5722)](https://github.com/ethereum/consensus-specs/commit/bb702330fe22ac2fe60d3d04dd01919fc9b63fa6) - 2026-10-08
+* [Pull Request] [Bump version to v1.7.0-beta.5](https://github.com/ethereum/consensus-specs/pull/5728) - 2026-10-09
+* [Review] [Review on: Set the IL deadline to 9s into the slot](https://github.com/ethereum/consensus-specs/pull/5727#pullrequestreview-5472985995) - 2026-10-09
+* [Commit] [Bump version to v1.7.0-beta.5 (#5728)](https://github.com/ethereum/consensus-specs/commit/9a8fdd0703d6ccc18e2c6c52eb08576cace262eb) - 2026-10-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Issue] [Recurring periods of late block imports](https://github.com/Consensys-Incorporated/teku/issues/11465) - 2026-10-09
 ## Q3 2026
 
 

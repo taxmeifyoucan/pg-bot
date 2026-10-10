@@ -45,6 +45,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Accept discovered peers that advertise only a QUIC address (#11432)](https://github.com/Consensys-Incorporated/teku/commit/46c9ef753e3e80dd4d81181b5b3ba9d5220dfead) - 2026-10-09
 * [Commit] [Preserve fork choice variants on duplicate block imports (#11449)](https://github.com/Consensys-Incorporated/teku/commit/807254cc5d75c22b26f0bc691ed9a90bc7924dad) - 2026-10-08
 * [Commit] [Report payload reorgs and payload statuses in reorg events (#11437)](https://github.com/Consensys-Incorporated/teku/commit/a00045e3665eeffc267037665f6342923b22e3d0) - 2026-10-08
+* [Pull Request] [Resolve discovered peer addresses against both local transports](https://github.com/Consensys-Incorporated/teku/pull/11464) - 2026-10-09
+* [Review] [Review on: Update reference tests to v1.7.0-beta.4](https://github.com/Consensys-Incorporated/teku/pull/11459#pullrequestreview-5468766293) - 2026-10-09
+* [Pull Request] [Keep block reorgs over payload reorgs when coalescing head events](https://github.com/Consensys-Incorporated/teku/pull/11460) - 2026-10-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

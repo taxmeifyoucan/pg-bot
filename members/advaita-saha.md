@@ -20,6 +20,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [use the chronos race() instead of one()](https://github.com/status-im/nimbus-eth1/pull/4936) - 2026-10-08
 * [Commit] [remove txRecords and instead use the KVT txFrame (#4789)](https://github.com/status-im/nimbus-eth1/commit/857c80b6026851851ee259157776045f99ea62c1) - 2026-10-08
 * [Commit] [async block builder implementation (#4512)](https://github.com/status-im/nimbus-eth1/commit/d97841ebfb3980f6fbc17a2c93160a849bb2ff75) - 2026-10-08
+* [Pull Request] [fix shutdown crash](https://github.com/status-im/nimbus-eth1/pull/4948) - 2026-10-09
+* [Commit] [fix shutdown crash (#4948)](https://github.com/status-im/nimbus-eth1/commit/cc89085ecb51c0967aea5eadd0ee6e678e8d6156) - 2026-10-09
+* [Commit] [use the race() instead of one() (#4936)](https://github.com/status-im/nimbus-eth1/commit/ce3be87650eb3a45415109095e43d4df0a109ee5) - 2026-10-09
 ## Q3 2026
 
 

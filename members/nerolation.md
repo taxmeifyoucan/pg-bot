@@ -24,6 +24,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8250: record keyed nonces in the block access list and pri…](https://github.com/ethereum/EIPs/pull/12457) - 2026-10-08
 * [Review] [Review on: Update EIP-7773: Add EIP-7495 and EIP-7916 to Glamsterdam](https://github.com/ethereum/EIPs/pull/12449#pullrequestreview-5456818709) - 2026-10-08
 * [Commit] [Update EIP-8250: record keyed nonces in the block access list and pri…](https://github.com/ethereum/EIPs/commit/e32850647e72d6287b7778c6899007abd1a78b1d) - 2026-10-08
+* [Pull Request] [Update EIP-8250: make keyed nonces single-use spent flags](https://github.com/ethereum/EIPs/pull/12467) - 2026-10-09
+* [Commit] [Add EIP: Ancestor-Indexed BALs](https://github.com/ethereum/EIPs/commit/a7b5980a55117611aa572531a30c97c709af8f4a) - 2026-10-09
+* [Commit] [Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/commit/1db69122ac55228c6c88995b260fded00ea6b90b) - 2026-10-09
 ## Q3 2026
 
 

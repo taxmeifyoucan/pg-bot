@@ -47,6 +47,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(blockchain): write a suggested block's header off the engine API path](https://github.com/NethermindEth/nethermind/pull/14466#pullrequestreview-5464096770) - 2026-10-08
 * [Pull Request] [Stop an idle mempool pre-warm session without waiting for it](https://github.com/NethermindEth/nethermind/pull/14467) - 2026-10-08
 * [Review] [Review on: Stop an idle mempool pre-warm session without waiting for it](https://github.com/NethermindEth/nethermind/pull/14467#pullrequestreview-5463954898) - 2026-10-08
+* [Pull Request] [Warm the trie node a storage delete collapses into](https://github.com/NethermindEth/nethermind/pull/14495) - 2026-10-09
+* [Commit] [fix(rpc): report precompile failures with go-ethereum's error text (#14281)](https://github.com/NethermindEth/nethermind/commit/0213c60141ee37df619c8c10eb52a9aea2e083a8) - 2026-10-09
+* [Commit] [perf(validation): recover EIP-2780 senders in the block validator only when intrinsic gas needs them (#14468)](https://github.com/NethermindEth/nethermind/commit/4136ecc8d34ab8d8ecc4b2d9d31b78e2edebacbd) - 2026-10-09
+* [Commit] [Stop an idle mempool pre-warm session without waiting for it (#14467)](https://github.com/NethermindEth/nethermind/commit/83c4a905699dbbaddcf8efa4bbcfd5503e6760d5) - 2026-10-09
 ## Q3 2026
 
 

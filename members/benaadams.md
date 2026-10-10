@@ -199,6 +199,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(rlp): encode and decode built-in transaction types without virtual dispatch (#14455)](https://github.com/NethermindEth/nethermind/commit/a92a24318f535dbb445ec8e8e0f84685e932caaf) - 2026-10-09
 * [Commit] [perf: remove field-layout padding in hot and per-message types (#14454)](https://github.com/NethermindEth/nethermind/commit/0e8d83268ca896f8b7c67ca0a612a6229d1173e6) - 2026-10-08
 * [Commit] [fix(init): exit cleanly when KZG trusted setup cannot be loaded (#14435)](https://github.com/NethermindEth/nethermind/commit/1c530e095563b269ed6e49834ca0aa41d9a62a48) - 2026-10-08
+* [Review] [Review on: ci: authenticate Docker Hub pulls in stateless workflows](https://github.com/NethermindEth/nethermind/pull/14500#pullrequestreview-5477351266) - 2026-10-10
+* [Review] [Review on: Warm the trie node a storage delete collapses into](https://github.com/NethermindEth/nethermind/pull/14495#pullrequestreview-5476895451) - 2026-10-10
+* [Review] [Review on: perf(logs): precompute topic bloom extracts](https://github.com/NethermindEth/nethermind/pull/14494#pullrequestreview-5476895369) - 2026-10-10
+* [Review] [Review on: test(tracing): tolerate one-off runtime allocations in the BAL overlay zero-alloc test](https://github.com/NethermindEth/nethermind/pull/14486#pullrequestreview-5476895081) - 2026-10-10
+* [Review] [Review on: feat: EIP-8116 replace cumulative receipt fields](https://github.com/NethermindEth/nethermind/pull/14272#pullrequestreview-5476894871) - 2026-10-10
+* [Review] [Review on: perf(rpc): give Kestrel 64 KiB transport blocks so a large request body arrives in a few reads](https://github.com/NethermindEth/nethermind/pull/14443#pullrequestreview-5467006647) - 2026-10-09
+* [Review] [Review on: perf(logs): defer compact log data expansion](https://github.com/NethermindEth/nethermind/pull/14488#pullrequestreview-5470631332) - 2026-10-09
+* [Commit] [perf(cache): reuse array slots in LRU caches (#14478)](https://github.com/NethermindEth/nethermind/commit/6b40d33c39217868a36bbd295226d5885e4306a3) - 2026-10-09
+* [Commit] [perf(prewarm): footprint handoff tweaks (#14476)](https://github.com/NethermindEth/nethermind/commit/c8bb53e7f807ad476d3073c3e092070037bd451b) - 2026-10-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 
