@@ -28,6 +28,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Add a verified P2P light client](https://github.com/NethermindEth/nethermind/pull/14457) - 2026-10-08
 * [Review] [Review on: feat(consensus): abandon a block that takes longer than a configurable timeout to process](https://github.com/NethermindEth/nethermind/pull/14487#pullrequestreview-5475559837) - 2026-10-09
 * [Pull Request] [Schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/14489) - 2026-10-09
+* [Review] [Review on: test(eels): update execution fixtures to v21.0.1](https://github.com/NethermindEth/nethermind/pull/14502#pullrequestreview-5479051448) - 2026-10-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

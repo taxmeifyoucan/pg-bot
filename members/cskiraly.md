@@ -21,6 +21,10 @@ Team: Codex DAS
 * [Commit] [beacon/params: fix hoodi beacon genesis time (#35876)](https://github.com/ethereum/go-ethereum/commit/7fea2f15dcd45730de4b822db3a0b010a7f78aad) - 2026-10-06
 * [Commit] [beacon/light/request: send EvCanRequestAgain after refusing requests (#35872)](https://github.com/ethereum/go-ethereum/commit/850e69c224cac266723875aa1112f5471ae2fcfe) - 2026-10-06
 
+* [Pull Request] [core/rawdb: keep the freezer metadata at a fixed size](https://github.com/ethereum/go-ethereum/pull/35939) - 2026-10-10
+* [Pull Request] [beacon/params: save the checkpoint file atomically](https://github.com/ethereum/go-ethereum/pull/35938) - 2026-10-10
+* [Pull Request] [beacon/light/api: reconnect the event stream with a capped backoff](https://github.com/ethereum/go-ethereum/pull/35937) - 2026-10-10
+* [Pull Request] [triedb/pathdb: fix the reactivation after a state sync](https://github.com/ethereum/go-ethereum/pull/35936) - 2026-10-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08

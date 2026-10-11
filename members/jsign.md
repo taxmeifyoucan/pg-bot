@@ -23,6 +23,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737#pullrequestreview-5462332543) - 2026-10-08
 * [Pull Request] [feat(zkevm): extend same-tx CREATE witness code tests](https://github.com/ethereum/execution-specs/pull/3750) - 2026-10-08
 * [Review] [Review on: feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741#pullrequestreview-5461699375) - 2026-10-08
+* [Review] [Review on: feat(specs): add specs and tests for EIP-7709](https://github.com/ethereum/execution-specs/pull/2619#pullrequestreview-5479744092) - 2026-10-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 

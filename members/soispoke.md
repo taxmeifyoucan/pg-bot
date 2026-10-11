@@ -18,6 +18,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Review] [Review on: Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440#pullrequestreview-5455259452) - 2026-10-08
 * [Review] [Review on: Update EIP-8272: deploy recent root contract as standard contract](https://github.com/ethereum/EIPs/pull/12443#pullrequestreview-5454800989) - 2026-10-08
 * [Commit] [Update EIP-8141: roll back the approval context when a call reverts](https://github.com/ethereum/EIPs/commit/af80fc1c4122c4990b8c84bfd10be60c6e343bb2) - 2026-10-08
+* [Review] [Review on: Update EIP-7805: Profile 2 inclusion claims and per-list VERIFY budget](https://github.com/ethereum/EIPs/pull/12394#pullrequestreview-5478430723) - 2026-10-10
 ## Q3 2026
 
 

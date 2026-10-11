@@ -36,6 +36,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Subtract same-payload withdrawals from the builder balance in the builders sweep](https://github.com/OffchainLabs/prysm/pull/17663) - 2026-10-09
 * [Pull Request] [Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662) - 2026-10-09
 * [Commit] [Remove data column sidecar size presets dropped by the spec (#17532)](https://github.com/OffchainLabs/prysm/commit/8b79bf5448f7b4aab1c23dff30027c66e69a29c5) - 2026-10-09
+* [Review] [Review on: Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662#pullrequestreview-5477701741) - 2026-10-10
+* [Commit] [Settle the builder payment before processing parent execution requests (#17661)](https://github.com/OffchainLabs/prysm/commit/849e801d11b8e7a6b3a96172f16dcc24dd6557a1) - 2026-10-10
+* [Commit] [Schedule the Gloas fork on Hoodi (#17650)](https://github.com/OffchainLabs/prysm/commit/9cf66c5c4d15914a73f9097492d9d7d96d87b378) - 2026-10-10
+* [Commit] [Charge the envelopes by-range rate limit for the full count before reconstruction (#17655)](https://github.com/OffchainLabs/prysm/commit/9ed8d3804b78afa982a29487faa5c9ebd13de1fb) - 2026-10-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

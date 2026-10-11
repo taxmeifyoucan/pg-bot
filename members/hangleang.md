@@ -18,6 +18,15 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Serve PTC duties for the Gloas fork epoch before the fork](https://github.com/grandinetech/grandine/commit/368d871213e58dd31c9bc8ed6d4019926a637a61) - 2026-10-05
 * [Pull Request] [Prune invalid execution payload envelopes from cache and storage](https://github.com/grandinetech/grandine/pull/963) - 2026-10-08
 * [Pull Request] [Return 400 for execution payload bids ignored by gossip validation](https://github.com/grandinetech/grandine/pull/960) - 2026-10-08
+* [Pull Request] [Add builder bid identity to the block event](https://github.com/grandinetech/grandine/pull/974) - 2026-10-10
+* [Pull Request] [Add PTC state endpoint](https://github.com/grandinetech/grandine/pull/973) - 2026-10-10
+* [Pull Request] [Add proposer preferences endpoint](https://github.com/grandinetech/grandine/pull/972) - 2026-10-10
+* [Pull Request] [Add builder pending withdrawals and payments endpoints](https://github.com/grandinetech/grandine/pull/971) - 2026-10-10
+* [Pull Request] [Update `payload_attributes` event data for post-gloas](https://github.com/grandinetech/grandine/pull/970) - 2026-10-10
+* [Pull Request] [Update Gloas attestation and slashing endpoints](https://github.com/grandinetech/grandine/pull/969) - 2026-10-10
+* [Pull Request] [Serialize pending lists on beacon state endpoints without copying](https://github.com/grandinetech/grandine/pull/968) - 2026-10-10
+* [Pull Request] [Extend support for `GET /eth/v1/beacon/pool/payload_attestations`](https://github.com/grandinetech/grandine/pull/967) - 2026-10-10
+* [Pull Request] [Remove `GET /eth/v1/validator/execution_payload_bids/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/966) - 2026-10-10
 ## Q3 2026
 
 

@@ -52,6 +52,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [beta.4 spec changes](https://github.com/Consensys-Incorporated/teku/issues/11458) - 2026-10-09
 * [Commit] [Update reference tests to v1.7.0-beta.4 (#11459)](https://github.com/Consensys-Incorporated/teku/commit/4feb1b0bf8ba0f102246dd6fef43a8b765286ef9) - 2026-10-09
 
+* [Pull Request] [Only record forkchoiceUpdated IL satisfaction for optimistic FULL nodes](https://github.com/Consensys-Incorporated/teku/pull/11471) - 2026-10-10
+* [Review] [Review on: Only record forkchoiceUpdated IL satisfaction for optimistic FULL nodes](https://github.com/Consensys-Incorporated/teku/pull/11471#pullrequestreview-5481600682) - 2026-10-11
+* [Pull Request] [Skip signing inclusion lists with no transactions](https://github.com/Consensys-Incorporated/teku/pull/11470) - 2026-10-10
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 ## Q3 2026

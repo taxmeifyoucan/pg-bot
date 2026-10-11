@@ -203,6 +203,16 @@ Team: Erigon
 * [Commit] [execution/vm: reuse RETURN/REVERT output buffers (#24658)](https://github.com/erigontech/erigon/commit/05d2086c0597a8ccd73bbe49ab80cfa8ed07c2cb) - 2026-10-09
 * [Commit] [execution/vm: keep pc and gas out of run's loop-head spill (#24651)](https://github.com/erigontech/erigon/commit/222fd1db26685b9b034f9ab29ed6f321e34115d8) - 2026-10-09
 * [Commit] [execution/vm/benchmark: add a Uniswap v4 swap to the mainnet tx list (#24709)](https://github.com/erigontech/erigon/commit/a03fd06c219d826bf63ddbab77ba0795535d2e6c) - 2026-10-09
+* [Review] [Review on: cl/phase1/stages: stop leaking the chain tip fetch goroutine after cancellation](https://github.com/erigontech/erigon/pull/24765#pullrequestreview-5479218809) - 2026-10-10
+* [Review] [Review on: db/state: take domain read locks in TemporalMemBatch flush](https://github.com/erigontech/erigon/pull/24728#pullrequestreview-5479216610) - 2026-10-10
+* [Pull Request] [rpc: port geth's client options, IPC dial and reverse calls](https://github.com/erigontech/erigon/pull/24764) - 2026-10-10
+* [Review] [Review on: rpc: port geth's client options, IPC dial and reverse calls](https://github.com/erigontech/erigon/pull/24764#pullrequestreview-5478968321) - 2026-10-10
+* [Review] [Review on: common/dbg, execution: read alloc/sys from runtime/metrics in per-block logs](https://github.com/erigontech/erigon/pull/24743#pullrequestreview-5479209709) - 2026-10-10
+* [Pull Request] [deps: update x/*, golangci-lint, bubbletea, pyroscope, prometheus, urfave/cli, mcp-go](https://github.com/erigontech/erigon/pull/24763) - 2026-10-10
+* [Pull Request] [rpc/jsonrpc: revert createAccessList runs instead of resetting the state](https://github.com/erigontech/erigon/pull/24756) - 2026-10-10
+* [Review] [Review on: rpc/jsonrpc: revert createAccessList runs instead of resetting the state](https://github.com/erigontech/erigon/pull/24756#pullrequestreview-5478134460) - 2026-10-10
+* [Pull Request] [vm: run masked opcode hooks on the fast path](https://github.com/erigontech/erigon/pull/24753) - 2026-10-10
+* [Pull Request] [tracing: add Hooks.WantsAnyOpcode](https://github.com/erigontech/erigon/pull/24757) - 2026-10-10
 ## Q3 2026
 
 

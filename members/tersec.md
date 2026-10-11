@@ -55,6 +55,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix execution payload validity logic](https://github.com/status-im/nimbus-eth2/pull/9220#pullrequestreview-5470199081) - 2026-10-09
 * [Review] [Review on: partial column peering mechanics](https://github.com/status-im/nimbus-eth2/pull/9230#pullrequestreview-5468832208) - 2026-10-09
 * [Pull Request] [use v1.7.0-beta.4 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9246) - 2026-10-09
+* [Pull Request] [bump nim-eth](https://github.com/status-im/nimbus-eth2/pull/9251) - 2026-10-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

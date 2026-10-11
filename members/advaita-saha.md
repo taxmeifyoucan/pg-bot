@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [fix shutdown crash](https://github.com/status-im/nimbus-eth1/pull/4948) - 2026-10-09
 * [Commit] [fix shutdown crash (#4948)](https://github.com/status-im/nimbus-eth1/commit/cc89085ecb51c0967aea5eadd0ee6e678e8d6156) - 2026-10-09
 * [Commit] [use the race() instead of one() (#4936)](https://github.com/status-im/nimbus-eth1/commit/ce3be87650eb3a45415109095e43d4df0a109ee5) - 2026-10-09
+* [Review] [Review on: nix: update NBS to fetch sources via flake inputs](https://github.com/status-im/nimbus-eth1/pull/4954#pullrequestreview-5479890900) - 2026-10-10
+* [Pull Request] [Build generate_makefile via a local wrapper, like eth2](https://github.com/status-im/nimbus-eth1/pull/4953) - 2026-10-10
 ## Q3 2026
 
 

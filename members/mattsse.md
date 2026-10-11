@@ -166,6 +166,7 @@ Team: Reth
 * [Commit] [test(rpc): remove redundant rpc and pool tests (#27826)](https://github.com/paradigmxyz/reth/commit/a79f88d98083ed4f9e4de6edf930c86e8173f6cc) - 2026-10-09
 * [Commit] [test(node): remove redundant e2e and unit tests (#27823)](https://github.com/paradigmxyz/reth/commit/8b5ec15783213b4e6d2ba90a02a60cb5ca29b546) - 2026-10-09
 * [Commit] [test(node): remove redundant arg and harness tests (#27820)](https://github.com/paradigmxyz/reth/commit/aab51ee174f9eb80f13f18374140de613a40d065) - 2026-10-09
+* [Review] [Review on: fix: fix the addresses for frame system contracts](https://github.com/paradigmxyz/reth/pull/27854#pullrequestreview-5481648807) - 2026-10-11
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

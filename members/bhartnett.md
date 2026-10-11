@@ -27,6 +27,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [BAL building optimizations (#4931)](https://github.com/status-im/nimbus-eth1/commit/148f9ce75c5c61d2c7002077b1e3f780a8d6cf52) - 2026-10-07
 * [Commit] [Only copy deposit logs into vmState (#4924)](https://github.com/status-im/nimbus-eth1/commit/b8353f73ef06b0517586b75932fbcc09415f3db0) - 2026-10-07
 * [Pull Request] [BAL tracker optimizations](https://github.com/status-im/nimbus-eth1/pull/4940) - 2026-10-09
+* [Pull Request] [Skip post execution BAL hashing](https://github.com/status-im/nimbus-eth1/pull/4955) - 2026-10-10
+* [Commit] [BAL tracker optimizations (#4940)](https://github.com/status-im/nimbus-eth1/commit/67a3885fd172536d12cdf25fd1a80afa44bbaaca) - 2026-10-10
 ## Q3 2026
 
 

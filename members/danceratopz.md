@@ -35,6 +35,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs,tests): implement EIP-7906 transaction assertions](https://github.com/ethereum/execution-specs/pull/3730#pullrequestreview-5455750470) - 2026-10-08
 
 * [Commit] [fix(test-fixtures): reserve the default fee recipient when packing pre-alloc groups (#3752)](https://github.com/ethereum/execution-specs/commit/9ba531d96f0da24f9b9af9bb51ae0e5b2f43fe8b) - 2026-10-09
+* [Pull Request] [fix(test-consume): count tests that stop in setup toward their client group](https://github.com/ethereum/execution-specs/pull/3765) - 2026-10-10
+* [Review] [Review on: fix(test-client-clis): map ethrex's too-wide EIP-8250 nonce fields to TYPE_6_INVALID_FRAME_FORMAT](https://github.com/ethereum/execution-specs/pull/3762#pullrequestreview-5480686248) - 2026-10-10
+* [Review] [Review on: docs(tooling): document conventional commit format and prefixes in CONTRIBUTING.md](https://github.com/ethereum/execution-specs/pull/3759#pullrequestreview-5478242883) - 2026-10-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

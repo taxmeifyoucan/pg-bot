@@ -71,6 +71,23 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(flat): warn when snap sync discards existing flat state and time the wipe (#14297)](https://github.com/NethermindEth/nethermind/commit/d1f90ce48402eb4f82e1aedae2e4d428523c3c81) - 2026-10-09
 * [Commit] [fix(producers): count only execution gas when ordering pool txs under EIP-8037 (#14304)](https://github.com/NethermindEth/nethermind/commit/b09c9b142d200920775ea42febc3c321d2bd0164) - 2026-10-09
 * [Commit] [feat(healthchecks): link consensus client docs in the no-ForkChoices warning (#14309)](https://github.com/NethermindEth/nethermind/commit/3273b75aefa1fe304962780b793750f8211d8814) - 2026-10-09
+* [Pull Request] [fix(network): reject a stale remote fork id whose next fork does not match ours](https://github.com/NethermindEth/nethermind/pull/14521) - 2026-10-11
+* [Pull Request] [fix(specs): keep the last blob schedule entry when several share a timestamp](https://github.com/NethermindEth/nethermind/pull/14519) - 2026-10-11
+* [Pull Request] [fix(specs): resolve the deposit contract after fork labels are expanded](https://github.com/NethermindEth/nethermind/pull/14517) - 2026-10-11
+* [Pull Request] [fix(consensus): dequeue withdrawal and consolidation requests from the spec-configured contracts](https://github.com/NethermindEth/nethermind/pull/14515) - 2026-10-11
+* [Pull Request] [fix(init): tolerate repeated ProcessingQueueEmpty during block tree review](https://github.com/NethermindEth/nethermind/pull/14513) - 2026-10-11
+* [Pull Request] [ci: fix hive eels simulator names, buildarg passing and silent zero-test runs](https://github.com/NethermindEth/nethermind/pull/14504) - 2026-10-10
+* [Review] [Review on: ci: fix hive eels simulator names, buildarg passing and silent zero-test runs](https://github.com/NethermindEth/nethermind/pull/14504#pullrequestreview-5481228394) - 2026-10-10
+* [Pull Request] [fix(specs): use each chain's deposit contract in the Sepolia, Gnosis and Chiado fork schedules](https://github.com/NethermindEth/nethermind/pull/14506) - 2026-10-10
+* [Review] [Review on: fix(specs): use each chain's deposit contract in the Sepolia, Gnosis and Chiado fork schedules](https://github.com/NethermindEth/nethermind/pull/14506#pullrequestreview-5481227604) - 2026-10-10
+* [Issue] [ForkInfo.ValidateForkId accepts a stale remote fork id whose announced next fork differs from the fork local went through (EIP-2124 rule 2)](https://github.com/NethermindEth/nethermind/issues/14520) - 2026-10-11
+* [Issue] [Chainspec blobSchedule entries sharing a timestamp are silently dropped (first wins), unlike the geth-genesis loader which keeps the latest fork](https://github.com/NethermindEth/nethermind/issues/14518) - 2026-10-11
+* [Issue] [ChainSpecLoader resolves DepositContractAddress before fork labels are expanded, so a "prague" label enables EIP-6110 with a null deposit contract](https://github.com/NethermindEth/nethermind/issues/14516) - 2026-10-11
+* [Issue] [ExecutionRequestsProcessor dequeues EIP-7002/EIP-7251 requests from the hardcoded predeploys, ignoring the chainspec-configured contract addresses](https://github.com/NethermindEth/nethermind/issues/14514) - 2026-10-11
+* [Issue] [ReviewBlockTree step throws InvalidOperationException into the processing loop when ProcessingQueueEmpty is raised twice, stalling block processing](https://github.com/NethermindEth/nethermind/issues/14512) - 2026-10-11
+* [Commit] [fix(sync): stop block access lists sync at the EIP-7928 activation block (#14368)](https://github.com/NethermindEth/nethermind/commit/8b96508ed8c225de1b85729f6f28f9efa2578e86) - 2026-10-10
+* [Commit] [ci: authenticate Docker Hub pulls in stateless workflows (#14500)](https://github.com/NethermindEth/nethermind/commit/d6ed2d4e2cd88943a2e9bcfc093622067b732d40) - 2026-10-10
+* [Commit] [feat(sync): label snap sync phases and drop misleading healing percentage (#14344)](https://github.com/NethermindEth/nethermind/commit/4e46f7e7879e93fdc27e401bf2b30992c131cc5e) - 2026-10-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

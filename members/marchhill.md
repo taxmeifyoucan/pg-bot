@@ -127,6 +127,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix(tests): decode frame transactions from txbytes in state tests (#14463)](https://github.com/NethermindEth/nethermind/commit/fca650f554a71fe989d95501c5f05f331483b1ed) - 2026-10-09
 * [Commit] [fix: use EIP-7906's assigned opcode bytes (#14469)](https://github.com/NethermindEth/nethermind/commit/efd7d189b892ba2be35c2fd062630d069e9538c5) - 2026-10-09
 * [Commit] [fix: zero-length logs bloom for an EIP-7668 genesis (#14458)](https://github.com/NethermindEth/nethermind/commit/2aef7866440694c99c73f93501c5b39f3d8c16ee) - 2026-10-09
+* [Pull Request] [feat: EIP-8288 bounded aggregation, scheme-bound deps, block capacity and EIP-8437 updates](https://github.com/NethermindEth/nethermind/pull/14508) - 2026-10-10
+* [Review] [Review on: feat: EIP-8288 bounded aggregation, scheme-bound deps, block capacity and EIP-8437 updates](https://github.com/NethermindEth/nethermind/pull/14508#pullrequestreview-5479023368) - 2026-10-10
+* [Commit] [fix(txpool): return txs of blocks the head rewinds past (#14492)](https://github.com/NethermindEth/nethermind/commit/204457adfec70998bfc579bfbd88f62575ea52a3) - 2026-10-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -141,6 +144,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: Define bounded mempool aggregation](https://github.com/ethereum/EIPs/pull/12473) - 2026-10-09
 * [Pull Request] [Update EIP-8288: Define proof capacity and conditional FOCIL inclusion](https://github.com/ethereum/EIPs/pull/12475) - 2026-10-10
 * [Pull Request] [Update EIP-8288: Bind dependency digests to verification schemes](https://github.com/ethereum/EIPs/pull/12474) - 2026-10-10
+* [Review] [Review on: Update EIP-7805: Profile 2 inclusion claims and per-list VERIFY budget](https://github.com/ethereum/EIPs/pull/12394#pullrequestreview-5478746923) - 2026-10-10
 ## Q3 2026
 
 

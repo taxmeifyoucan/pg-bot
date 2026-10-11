@@ -58,6 +58,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/stages: recover the served head and FULL payloads after a restart (#24548)](https://github.com/erigontech/erigon/commit/893edfd9a42f5cc98ad10c508df1bfbf959e1e9c) - 2026-10-09
 * [Commit] [cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes (#24627)](https://github.com/erigontech/erigon/commit/c3df957f971a7ba29ed09d6e3a01b6eb44f12cc7) - 2026-10-09
 * [Commit] [cl/phase1/network/services: verify gossip signatures with the message epoch's fork version (#24544)](https://github.com/erigontech/erigon/commit/73afa5ce5f55ad2a7a472a6cd90ca2e76041cbeb) - 2026-10-09
+* [Pull Request] [cl/phase1/stages: stop leaking the chain tip fetch goroutine after cancellation](https://github.com/erigontech/erigon/pull/24765) - 2026-10-10
+* [Pull Request] [cl/phase1/network/services: accept aggregates of a new epoch before its first block](https://github.com/erigontech/erigon/pull/24766) - 2026-10-10
+* [Pull Request] [[r3.7] cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24762) - 2026-10-10
+* [Pull Request] [[r3.7] cl: fix publication of self-built Gloas blocks and payloads](https://github.com/erigontech/erigon/pull/24761) - 2026-10-10
+* [Pull Request] [[r3.7] cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24760) - 2026-10-10
+* [Pull Request] [[r3.7] cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24759) - 2026-10-10
+* [Pull Request] [[r3.7] cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing](https://github.com/erigontech/erigon/pull/24758) - 2026-10-10
+* [Pull Request] [cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24550) - 2026-10-10
+* [Pull Request] [cl: fix publication of self-built Gloas blocks and payloads](https://github.com/erigontech/erigon/pull/24545) - 2026-10-10
+* [Commit] [cl/phase1/stages: stop leaking the chain tip fetch goroutine after cancellation (#24765)](https://github.com/erigontech/erigon/commit/e1c10eeda75220bb6f95b8761678f766eb887628) - 2026-10-10
+* [Commit] [cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks (#24550)](https://github.com/erigontech/erigon/commit/9a275afaa7b19305e45c45b7f62f3f9705696c60) - 2026-10-10
+* [Commit] [cl: fix publication of self-built Gloas blocks and payloads (#24545)](https://github.com/erigontech/erigon/commit/b4b4dda5194cef78c08ce56d7ebb520938926bea) - 2026-10-10
 ## Q3 2026
 
 

@@ -209,6 +209,21 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(logs): defer compact log data expansion](https://github.com/NethermindEth/nethermind/pull/14488#pullrequestreview-5471995025) - 2026-10-09
 * [Review] [Review on: chore(deps): update packages](https://github.com/NethermindEth/nethermind/pull/14491#pullrequestreview-5474056527) - 2026-10-09
 * [Commit] [perf(zkvm): hash SSZ merkle pairs with SP1's SHA-256 precompiles directly (#14402)](https://github.com/NethermindEth/nethermind/commit/b16d6338b1197fbf7d79413406e002ae09c68b6c) - 2026-10-09
+* [Pull Request] [fix(merge): process again a forkchoice head left unprocessed on a processed parent](https://github.com/NethermindEth/nethermind/pull/14505) - 2026-10-10
+* [Pull Request] [refactor(zkevm): one flag for the guest build and one for ZisK](https://github.com/NethermindEth/nethermind/pull/14398) - 2026-10-10
+* [Review] [Review on: refactor(zkevm): one flag for the guest build and one for ZisK](https://github.com/NethermindEth/nethermind/pull/14398#pullrequestreview-5477999187) - 2026-10-10
+* [Pull Request] [refactor(zkevm): replace #if ZK_EVM with per-build files](https://github.com/NethermindEth/nethermind/pull/14399) - 2026-10-10
+* [Pull Request] [refactor(analyzers): let NETH003 accept build-variant file names](https://github.com/NethermindEth/nethermind/pull/14400) - 2026-10-10
+* [Review] [Review on: test(merge): accept VALID when an unheld suggest beats the zero budget](https://github.com/NethermindEth/nethermind/pull/14498#pullrequestreview-5477969049) - 2026-10-10
+* [Review] [Review on: perf(state): reuse larger pooled storage maps](https://github.com/NethermindEth/nethermind/pull/14509#pullrequestreview-5480332744) - 2026-10-10
+* [Review] [Review on: test(eels): update execution fixtures to v21.0.1](https://github.com/NethermindEth/nethermind/pull/14502#pullrequestreview-5477933054) - 2026-10-10
+* [Review] [Review on: perf(zkevm): skip unused chain spec providers and reflection in guest startup](https://github.com/NethermindEth/nethermind/pull/14449#pullrequestreview-5477975276) - 2026-10-10
+* [Issue] [Re-process an unprocessed forkchoice head whose parent is processed](https://github.com/NethermindEth/nethermind/issues/14503) - 2026-10-10
+* [Commit] [refactor(zkevm): one flag for the guest build and one for ZisK (#14398)](https://github.com/NethermindEth/nethermind/commit/1556bf0b5b7d052953839ecb0bc0d936bea5cefb) - 2026-10-10
+* [Commit] [refactor(zkevm): replace #if ZK_EVM with per-build files (#14399)](https://github.com/NethermindEth/nethermind/commit/a82bd721d30448def2ed3870d786addca813f157) - 2026-10-10
+* [Commit] [refactor(analyzers): let NETH003 accept build-variant file names (#14400)](https://github.com/NethermindEth/nethermind/commit/bdeed93b2c033916d4743b1024079adee5bd6c47) - 2026-10-10
+* [Commit] [test(merge): accept VALID when an unheld suggest beats the zero budget (#14498)](https://github.com/NethermindEth/nethermind/commit/3b4911cd47b7f363de5a2b84bd3002e5a9e50e29) - 2026-10-10
+* [Commit] [test(tracing): tolerate one-off runtime allocations in the BAL overlay zero-alloc test (#14486)](https://github.com/NethermindEth/nethermind/commit/bbdea1e6da8a9612cb858751f8aca3edc5c3975c) - 2026-10-10
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

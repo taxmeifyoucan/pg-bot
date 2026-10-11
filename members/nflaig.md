@@ -193,6 +193,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: retry proposer preferences submission on error response (#10317)](https://github.com/ChainSafe/lodestar/commit/072bf9885376d737fc37a393e34ac64b66501264) - 2026-10-09
 * [Commit] [feat: disallow new validators with BLS withdrawal credentials in heze (#10316)](https://github.com/ChainSafe/lodestar/commit/56f65bd6e97f1ff0987173b99fa432c3da0bfb98) - 2026-10-09
 * [Commit] [fix: recreate the dangling parent payload entry in range sync (#10311)](https://github.com/ChainSafe/lodestar/commit/c02b971f5b130627a99fe87d06c06c42acaa602b) - 2026-10-09
+* [Pull Request] [fix: separate engine response timings](https://github.com/ChainSafe/lodestar/pull/10349) - 2026-10-10
+* [Pull Request] [perf: avoid importing sync committee maps](https://github.com/ChainSafe/lodestar/pull/10350) - 2026-10-10
+* [Pull Request] [fix: record source state clone count](https://github.com/ChainSafe/lodestar/pull/10348) - 2026-10-10
+* [Pull Request] [fix: deduplicate pending payload downloads](https://github.com/ChainSafe/lodestar/pull/10347) - 2026-10-10
+* [Review] [Review on: fix: do not change engine state when the client version request fails](https://github.com/ChainSafe/lodestar/pull/10346#pullrequestreview-5479596175) - 2026-10-10
+* [Pull Request] [feat: enable native gloas transitions](https://github.com/ChainSafe/lodestar/pull/10345) - 2026-10-10
+* [Pull Request] [test: enforce native spec assertions](https://github.com/ChainSafe/lodestar/pull/10344) - 2026-10-10
+* [Pull Request] [feat: submit proposal preferences of the next epoch from mid-epoch](https://github.com/ChainSafe/lodestar/pull/10343) - 2026-10-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -220,6 +228,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Issue] [engine_getBlobsV2 stops serving a transaction's blobs once it is included](https://github.com/status-im/nimbus-eth1/issues/4947) - 2026-10-09
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Pull Request] [perf: expose sync committee indices](https://github.com/ChainSafe/lodestar-z/pull/768) - 2026-10-10
+* [Pull Request] [fix: include commit in block timing](https://github.com/ChainSafe/lodestar-z/pull/767) - 2026-10-10
+* [Pull Request] [fix: include histogram upper bounds](https://github.com/ChainSafe/lodestar-z/pull/766) - 2026-10-10
+* [Pull Request] [feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765) - 2026-10-10
+* [Pull Request] [feat: implement gloas state transition](https://github.com/ChainSafe/lodestar-z/pull/764) - 2026-10-10
+* [Pull Request] [feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763) - 2026-10-10
+* [Pull Request] [perf: defer unused pool initialization](https://github.com/ChainSafe/lodestar-z/pull/762) - 2026-10-10
 ## Q3 2026
 
 

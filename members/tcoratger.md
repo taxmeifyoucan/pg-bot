@@ -85,6 +85,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(binary-dft): support explicit binary bases and packed-byte extension (#2404)](https://github.com/Plonky3/Plonky3/commit/a57bc4c8cd7688dac8d59e01068022539e318cf8) - 2026-10-10
 * [Commit] [perf(binary-dft): keep Poly64 NEON butterflies in vector registers (#2403)](https://github.com/Plonky3/Plonky3/commit/c0ec80d84a821214c79e3818b4bd343ca2417162) - 2026-10-10
 * [Commit] [perf(binary-field): multiply packed AES bytes with NEON (#2402)](https://github.com/Plonky3/Plonky3/commit/8ee0e031618dff64cd2d0287abf0e8b948e03cb7) - 2026-10-10
+* [Review] [Review on: perf(maybe-rayon): cut loops into pieces up front and wake helpers as a tree](https://github.com/Plonky3/Plonky3/pull/2389#pullrequestreview-5478554291) - 2026-10-10
+* [Commit] [perf(binary-field): pair the terms of packed GF(2^64) and GF(2^192) dot products on 512-bit multiplies (#2380)](https://github.com/Plonky3/Plonky3/commit/62c72b8c56dd8f292d43722e47faf81022750147) - 2026-10-10
+* [Commit] [perf(blake2s): hash one message on scalar registers, the same speed on every build (#2377)](https://github.com/Plonky3/Plonky3/commit/161e891fcb96a6aaa6c530413797c968f5bdecee) - 2026-10-10
+* [Commit] [perf(multilinear-util): tensor-built eq tables, delayed-reduction dots, cost-model splits (#2334)](https://github.com/Plonky3/Plonky3/commit/86eaf7f488b1d191d02a2e98c7266ebe9fcb9de9) - 2026-10-10
+* [Commit] [perf(binary-field): fold ARM schoolbook products with ternary sums (#2424)](https://github.com/Plonky3/Plonky3/commit/b2b0c67b32385bd69f927bb55524a5c5a9adf7a4) - 2026-10-10
+* [Commit] [perf(binary-field): gather ARM cubic coordinates with ordinary loads (#2423)](https://github.com/Plonky3/Plonky3/commit/f06a3ce8f50d511be94c7ecc267e37940d5c3e0a) - 2026-10-10
+* [Commit] [perf(binary-dft): try carryless ARM butterfly reductions (#2422)](https://github.com/Plonky3/Plonky3/commit/c90f7bda221ae02a8b78c56d7b59d51a59c3c6be) - 2026-10-10
+* [Commit] [fix(fri,merkle-tree): release the hiding RNG lock before parallel work (#2368)](https://github.com/Plonky3/Plonky3/commit/b4435233cf9eef5e06f6e4cf856ebeef6db3f519) - 2026-10-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

@@ -54,6 +54,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Pull Request] [fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448) - 2026-10-09
+* [Commit] [fix: drop dead code when merging the ELF verifier archive (#448)](https://github.com/eth-act/ere/commit/c65b53172f9a9eeb3b81d05b5ef29f0432570c7f) - 2026-10-10
 ## Q3 2026
 
 

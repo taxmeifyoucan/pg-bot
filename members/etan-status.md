@@ -27,6 +27,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Adopt compute_max_data_column_sidecar_size](https://github.com/status-im/nimbus-eth2/pull/9237) - 2026-10-08
 * [Pull Request] [Merge redundant sidecar checks](https://github.com/status-im/nimbus-eth2/pull/9235) - 2026-10-08
 * [Issue] [Forward sync stalls at the data column horizon (Sepolia, sync from genesis)](https://github.com/status-im/nimbus-eth2/issues/9238) - 2026-10-08
+* [Pull Request] [Require parent block root in Cancun blocks in LC library](https://github.com/status-im/nimbus-eth2/pull/9257) - 2026-10-11
+* [Review] [Review on: add epbs flags](https://github.com/status-im/nimbus-eth2/pull/9236#pullrequestreview-5481226098) - 2026-10-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -34,6 +36,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Update EIP-7495: Clarify inactive field merkleization](https://github.com/ethereum/EIPs/pull/12419#pullrequestreview-5406836527) - 2026-10-04
 * [Review] [Review on: Update EIP-8116: Define gasUsed and RPC cumulativeGasUsed](https://github.com/ethereum/EIPs/pull/12430#pullrequestreview-5420739697) - 2026-10-05
 * [Pull Request] [Update EIP-7773: Add EIP-7495 and EIP-7916 to Glamsterdam](https://github.com/ethereum/EIPs/pull/12449) - 2026-10-07
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Use RLP consumeList API for lists allowing additional elements](https://github.com/status-im/nimbus-eth1/pull/4958) - 2026-10-11
+* [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4957) - 2026-10-10
+* [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4956) - 2026-10-10
+* [Commit] [Bump nim-eth (#4957)](https://github.com/status-im/nimbus-eth1/commit/97d1f982c67fcff9b7f18b74e075179d9d5a7df1) - 2026-10-11
 ## Q3 2026
 
 

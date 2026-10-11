@@ -68,6 +68,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [cmd/rpcdaemon: put /graphql behind HTTP admission control](https://github.com/erigontech/erigon/pull/24744) - 2026-10-09
 * [Pull Request] [[wip] db/state: take domain read locks in TemporalMemBatch flush](https://github.com/erigontech/erigon/pull/24728) - 2026-10-09
 * [Commit] [QA: bump rpc-tests to v2.35.1 (#24707)](https://github.com/erigontech/erigon/commit/1816f8997c5f95b132d16eae688a499211a544e2) - 2026-10-09
+* [Pull Request] [rpc/jsonrpc: return -32602 for malformed trace_rawTransaction input](https://github.com/erigontech/erigon/pull/24768) - 2026-10-10
+* [Pull Request] [db/state: drop unused FlushWithCommitmentCallback, inline flushLocked into Flush](https://github.com/erigontech/erigon/pull/24767) - 2026-10-10
+* [Commit] [db/state: take domain read locks in TemporalMemBatch flush (#24728)](https://github.com/erigontech/erigon/commit/115849c57f85d376687e7fc729fbebe999c10f42) - 2026-10-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
