@@ -201,6 +201,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: enable native gloas transitions](https://github.com/ChainSafe/lodestar/pull/10345) - 2026-10-10
 * [Pull Request] [test: enforce native spec assertions](https://github.com/ChainSafe/lodestar/pull/10344) - 2026-10-10
 * [Pull Request] [feat: submit proposal preferences of the next epoch from mid-epoch](https://github.com/ChainSafe/lodestar/pull/10343) - 2026-10-10
+* [Review] [Review on: perf: avoid importing sync committee maps](https://github.com/ChainSafe/lodestar/pull/10350#pullrequestreview-5482750170) - 2026-10-11
+* [Pull Request] [feat: implement quick slots EIP-8198 in heze](https://github.com/ChainSafe/lodestar/pull/10355) - 2026-10-11
+* [Review] [Review on: feat: implement quick slots EIP-8198 in heze](https://github.com/ChainSafe/lodestar/pull/10355#pullrequestreview-5484177127) - 2026-10-11
+* [Review] [Review on: fix(beacon-node): derive the sync aggregate size from the preset in serialized block offsets](https://github.com/ChainSafe/lodestar/pull/10334#pullrequestreview-5483130652) - 2026-10-11
+* [Review] [Review on: feat: remove `deposit` and `eth1data` fields (eip8015)](https://github.com/ChainSafe/lodestar/pull/10335#pullrequestreview-5482710938) - 2026-10-11
+* [Review] [Review on: fix: do not treat hex block ids as slots in getBlockRoot fast path](https://github.com/ChainSafe/lodestar/pull/10352#pullrequestreview-5482853111) - 2026-10-11
+* [Review] [Review on: fix: reset pendingDeposits with the fork's list type at genesis](https://github.com/ChainSafe/lodestar/pull/10353#pullrequestreview-5482770708) - 2026-10-11
+* [Issue] [investigate how we pass focil tests without having focil code](https://github.com/ChainSafe/lodestar/issues/10354) - 2026-10-11
+* [Commit] [refactor: make slot timing fork-aware to prepare for slot duration changes (#10138)](https://github.com/ChainSafe/lodestar/commit/20062ed60e2e565a1578a9172082821104b8f205) - 2026-10-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -209,6 +218,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Settle builder payment before parent requests (#5695)](https://github.com/ethereum/consensus-specs/commit/71c00190f157b8dda556bf4e6135c39307569e62) - 2026-10-05
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5450195100) - 2026-10-08
 * [Review] [Review on: Add tests for proposer and attester slashings in one block](https://github.com/ethereum/consensus-specs/pull/5720#pullrequestreview-5450152376) - 2026-10-08
+* [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5484352852) - 2026-10-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
@@ -237,6 +247,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: implement gloas state transition](https://github.com/ChainSafe/lodestar-z/pull/764) - 2026-10-10
 * [Pull Request] [feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763) - 2026-10-10
 * [Pull Request] [perf: defer unused pool initialization](https://github.com/ChainSafe/lodestar-z/pull/762) - 2026-10-10
+* [Review] [Review on: fix: include commit in block timing](https://github.com/ChainSafe/lodestar-z/pull/767#pullrequestreview-5482755155) - 2026-10-11
+* [Pull Request] [perf: bound proposer shuffle cache](https://github.com/ChainSafe/lodestar-z/pull/770) - 2026-10-11
+* [Commit] [fix: include commit in block timing (#767)](https://github.com/ChainSafe/lodestar-z/commit/88a968b0145cfb50e75fb45bbebf4aa4021fd014) - 2026-10-12
+* [Commit] [perf: expose sync committee indices (#768)](https://github.com/ChainSafe/lodestar-z/commit/79032c552fe11947876e42ae0a8dc2d315343313) - 2026-10-11
 ## Q3 2026
 
 

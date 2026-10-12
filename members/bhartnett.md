@@ -29,6 +29,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [BAL tracker optimizations](https://github.com/status-im/nimbus-eth1/pull/4940) - 2026-10-09
 * [Pull Request] [Skip post execution BAL hashing](https://github.com/status-im/nimbus-eth1/pull/4955) - 2026-10-10
 * [Commit] [BAL tracker optimizations (#4940)](https://github.com/status-im/nimbus-eth1/commit/67a3885fd172536d12cdf25fd1a80afa44bbaaca) - 2026-10-10
+* [Commit] [Skip post execution BAL hashing (#4955)](https://github.com/status-im/nimbus-eth1/commit/b0b990f1e57243e1cdef2a786c3e6953f9ecd9dc) - 2026-10-11
 ## Q3 2026
 
 

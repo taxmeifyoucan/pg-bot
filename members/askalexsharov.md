@@ -213,6 +213,13 @@ Team: Erigon
 * [Review] [Review on: rpc/jsonrpc: revert createAccessList runs instead of resetting the state](https://github.com/erigontech/erigon/pull/24756#pullrequestreview-5478134460) - 2026-10-10
 * [Pull Request] [vm: run masked opcode hooks on the fast path](https://github.com/erigontech/erigon/pull/24753) - 2026-10-10
 * [Pull Request] [tracing: add Hooks.WantsAnyOpcode](https://github.com/erigontech/erigon/pull/24757) - 2026-10-10
+* [Pull Request] [exec: `codeCache` migrate `addrToCodeHash` to lock-free cache](https://github.com/erigontech/erigon/pull/24775) - 2026-10-12
+* [Pull Request] [go.mod: otter with the replacement fix for a never-linked node](https://github.com/erigontech/erigon/pull/24774) - 2026-10-12
+* [Review] [Review on: rpc/jsonrpc: return a constant true from net_listening](https://github.com/erigontech/erigon/pull/24773#pullrequestreview-5486047068) - 2026-10-12
+* [Review] [Review on: rpc/jsonrpc: return -32602 for malformed trace_rawTransaction input](https://github.com/erigontech/erigon/pull/24768#pullrequestreview-5482370800) - 2026-10-11
+* [Review] [Review on: db/state: drop unused FlushWithCommitmentCallback, inline flushLocked into Flush](https://github.com/erigontech/erigon/pull/24767#pullrequestreview-5482372511) - 2026-10-11
+* [Review] [Review on: cmd/rpcdaemon: put /graphql behind HTTP admission control](https://github.com/erigontech/erigon/pull/24744#pullrequestreview-5482367939) - 2026-10-11
+* [Review] [Review on: rpc/jsonrpc: implement txpool_inspect](https://github.com/erigontech/erigon/pull/24738#pullrequestreview-5482369837) - 2026-10-11
 ## Q3 2026
 
 

@@ -39,6 +39,16 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189#pullrequestreview-5463647100) - 2026-10-08
 * [Review] [Review on: Fix cross builds after cc bump](https://github.com/sigp/lighthouse/pull/10278#pullrequestreview-5476761104) - 2026-10-10
 * [Review] [Review on: Unify `BlobInfo` and `DataColumnInfo` into `DataInfo`](https://github.com/sigp/lighthouse/pull/9957#pullrequestreview-5477686133) - 2026-10-10
+* [Review] [Review on: Use should_build_on_full when preparing Gloas payload attributes](https://github.com/sigp/lighthouse/pull/10234#pullrequestreview-5485390606) - 2026-10-11
+* [Pull Request] [Schedule Gloas on Hoodi](https://github.com/sigp/lighthouse/pull/10304) - 2026-10-12
+* [Review] [Review on: Fix proposer re-org cutoff rounding on 5s slots](https://github.com/sigp/lighthouse/pull/10102#pullrequestreview-5485821086) - 2026-10-12
+* [Pull Request] [Gloas spec v1.7.0-beta.4](https://github.com/sigp/lighthouse/pull/10307) - 2026-10-12
+* [Review] [Review on: Propagate optimistic head errors](https://github.com/sigp/lighthouse/pull/10296#pullrequestreview-5482645491) - 2026-10-11
+* [Review] [Review on: Fix lcli http-sync --known-common-ancestor argument parsing](https://github.com/sigp/lighthouse/pull/10245#pullrequestreview-5485537322) - 2026-10-11
+* [Review] [Review on: Enable Gloas in the simulator tests](https://github.com/sigp/lighthouse/pull/10292#pullrequestreview-5485329143) - 2026-10-11
+* [Review] [Review on: Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282#pullrequestreview-5485316911) - 2026-10-11
+* [Review] [Review on: Gloas spec v1.7.0-beta.3](https://github.com/sigp/lighthouse/pull/10212#pullrequestreview-5483211406) - 2026-10-11
+* [Review] [Review on: Resolve the fork from the block slot when loading the http-sync cache](https://github.com/sigp/lighthouse/pull/10276#pullrequestreview-5485042168) - 2026-10-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 ## Q3 2026

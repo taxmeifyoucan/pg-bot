@@ -61,6 +61,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [update jackson bom to 2.21.7 (#11503)](https://github.com/besu-eth/besu/commit/33506247ea3112a62200b85a1939874f40309c51) - 2026-10-07
 * [Review] [Review on: fix: stop JSON-RPC active-connection counter leaks](https://github.com/besu-eth/besu/pull/11453#pullrequestreview-5464886331) - 2026-10-09
 * [Review] [Review on: Give each empty block its own creation timing](https://github.com/besu-eth/besu/pull/11461#pullrequestreview-5467664553) - 2026-10-09
+* [Review] [Review on: Serialize null block fields of pending transactions again](https://github.com/besu-eth/besu/pull/11427#pullrequestreview-5486329681) - 2026-10-12
+* [Review] [Review on: Fix ephemery synchronization and fork schedule handling issue](https://github.com/besu-eth/besu/pull/11497#pullrequestreview-5485690814) - 2026-10-12
+* [Review] [Review on: fix: discard a rejected block's changes on every failure path](https://github.com/besu-eth/besu/pull/11533#pullrequestreview-5485878841) - 2026-10-12
+* [Review] [Review on: Enable NullAway for services key-value storage](https://github.com/besu-eth/besu/pull/10948#pullrequestreview-5485697042) - 2026-10-12
+* [Review] [Review on: Reject transactions with an unrecoverable signature as invalid](https://github.com/besu-eth/besu/pull/11458#pullrequestreview-5485754598) - 2026-10-12
+* [Review] [Review on: Update finalized once per backward sync session](https://github.com/besu-eth/besu/pull/11457#pullrequestreview-5485742622) - 2026-10-12
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

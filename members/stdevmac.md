@@ -88,6 +88,59 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(sync): stop block access lists sync at the EIP-7928 activation block (#14368)](https://github.com/NethermindEth/nethermind/commit/8b96508ed8c225de1b85729f6f28f9efa2578e86) - 2026-10-10
 * [Commit] [ci: authenticate Docker Hub pulls in stateless workflows (#14500)](https://github.com/NethermindEth/nethermind/commit/d6ed2d4e2cd88943a2e9bcfc093622067b732d40) - 2026-10-10
 * [Commit] [feat(sync): label snap sync phases and drop misleading healing percentage (#14344)](https://github.com/NethermindEth/nethermind/commit/4e46f7e7879e93fdc27e401bf2b30992c131cc5e) - 2026-10-10
+* [Pull Request] [fix(init): verify the receipts root before storing receipts downloaded by the receipt fix](https://github.com/NethermindEth/nethermind/pull/14531) - 2026-10-12
+* [Pull Request] [fix(xdc): report an unrecoverable certificate signature instead of throwing](https://github.com/NethermindEth/nethermind/pull/14535) - 2026-10-12
+* [Review] [Review on: fix(xdc): report an unrecoverable certificate signature instead of throwing](https://github.com/NethermindEth/nethermind/pull/14535#pullrequestreview-5486293161) - 2026-10-12
+* [Review] [Review on: fix(network): reject a stale remote fork id whose next fork does not match ours](https://github.com/NethermindEth/nethermind/pull/14521#pullrequestreview-5486289893) - 2026-10-12
+* [Pull Request] [fix(snapshot): extract tar entries into a relative database path](https://github.com/NethermindEth/nethermind/pull/14524) - 2026-10-11
+* [Review] [Review on: fix(specs): resolve the deposit contract after fork labels are expanded](https://github.com/NethermindEth/nethermind/pull/14517#pullrequestreview-5486286710) - 2026-10-12
+* [Pull Request] [fix(rpc): reject log filters with more than four topic positions](https://github.com/NethermindEth/nethermind/pull/14545) - 2026-10-12
+* [Pull Request] [fix(rpc): keep the engine request body cap on additional and cloned engine URLs](https://github.com/NethermindEth/nethermind/pull/14526) - 2026-10-11
+* [Review] [Review on: fix(rpc): keep the engine request body cap on additional and cloned engine URLs](https://github.com/NethermindEth/nethermind/pull/14526#pullrequestreview-5486283227) - 2026-10-12
+* [Pull Request] [fix(pruning): treat a persistence interval below 1 as 1](https://github.com/NethermindEth/nethermind/pull/14558) - 2026-10-12
+* [Review] [Review on: fix(pruning): treat a persistence interval below 1 as 1](https://github.com/NethermindEth/nethermind/pull/14558#pullrequestreview-5486282747) - 2026-10-12
+* [Pull Request] [fix(network): apply discv4 per-ip inbound limit before the global one](https://github.com/NethermindEth/nethermind/pull/14548) - 2026-10-12
+* [Pull Request] [fix(init): fail startup when a listener port is in use](https://github.com/NethermindEth/nethermind/pull/14571) - 2026-10-12
+* [Pull Request] [fix(optimism): compute the Jovian base fee without mutating the parent header](https://github.com/NethermindEth/nethermind/pull/14537) - 2026-10-12
+* [Pull Request] [fix(evm): resolve EIP-7702 delegations only when the fork enables them](https://github.com/NethermindEth/nethermind/pull/14569) - 2026-10-12
+* [Pull Request] [fix(sync): ignore a single peer's failure when fetching the FCU head header](https://github.com/NethermindEth/nethermind/pull/14567) - 2026-10-12
+* [Pull Request] [fix(rpc): keep accepting IPC connections after an accept error](https://github.com/NethermindEth/nethermind/pull/14565) - 2026-10-12
+* [Pull Request] [fix(network): disconnect peers that broadcast blob transactions](https://github.com/NethermindEth/nethermind/pull/14563) - 2026-10-12
+* [Pull Request] [fix(evm): keep the self-destruct storage wipe undoable in CallAndRestore](https://github.com/NethermindEth/nethermind/pull/14550) - 2026-10-12
+* [Pull Request] [fix(shutter): dispose block and key wait registrations outside the handler lock](https://github.com/NethermindEth/nethermind/pull/14533) - 2026-10-12
+* [Pull Request] [fix(consensus): validate parent beacon block root presence in headers](https://github.com/NethermindEth/nethermind/pull/14560) - 2026-10-12
+* [Pull Request] [fix(sync): match sparse block body replies by content in forward sync](https://github.com/NethermindEth/nethermind/pull/14556) - 2026-10-12
+* [Pull Request] [fix(rpc): apply max request body size to websocket messages](https://github.com/NethermindEth/nethermind/pull/14554) - 2026-10-12
+* [Pull Request] [fix(network): resubmit full blob txs whose hash was rejected with another sidecar](https://github.com/NethermindEth/nethermind/pull/14553) - 2026-10-12
+* [Pull Request] [fix(core): create the generated jwt secret and node key readable by the owner only](https://github.com/NethermindEth/nethermind/pull/14552) - 2026-10-12
+* [Pull Request] [fix(sync): score proof-only snap storage replies as failed ranges](https://github.com/NethermindEth/nethermind/pull/14547) - 2026-10-12
+* [Pull Request] [fix(network): bound discv4 response backlog and require bond before tracking pinging nodes](https://github.com/NethermindEth/nethermind/pull/14546) - 2026-10-12
+* [Pull Request] [fix(optimism): write the Holocene extra data on every produced block](https://github.com/NethermindEth/nethermind/pull/14544) - 2026-10-12
+* [Pull Request] [fix(config): never return sensitive items from GetRawValue](https://github.com/NethermindEth/nethermind/pull/14543) - 2026-10-12
+* [Pull Request] [fix(trie): release stable-state locks when persisting fails](https://github.com/NethermindEth/nethermind/pull/14542) - 2026-10-12
+* [Pull Request] [fix(txpool): restore tx hash cache size when a memory hint is set](https://github.com/NethermindEth/nethermind/pull/14538) - 2026-10-12
+* [Pull Request] [fix(shutter): keep the key receive loop alive on malformed gossip](https://github.com/NethermindEth/nethermind/pull/14532) - 2026-10-12
+* [Pull Request] [fix(aura): treat a failed withdrawals system call as an invalid block](https://github.com/NethermindEth/nethermind/pull/14530) - 2026-10-12
+* [Issue] [Startup continues without P2P, discovery or RPC listeners when their port is in use](https://github.com/NethermindEth/nethermind/issues/14570) - 2026-10-12
+* [Issue] [EIP-7702 delegation designators are followed before Prague](https://github.com/NethermindEth/nethermind/issues/14568) - 2026-10-12
+* [Issue] [FetchHeaderFromPeer fails engine_forkchoiceUpdated when a single peer's header request throws](https://github.com/NethermindEth/nethermind/issues/14566) - 2026-10-12
+* [Issue] [IPC JSON-RPC stops accepting connections after a single accept error](https://github.com/NethermindEth/nethermind/issues/14564) - 2026-10-12
+* [Issue] [Blob transactions are accepted from unsolicited Transactions broadcasts](https://github.com/NethermindEth/nethermind/issues/14562) - 2026-10-12
+* [Issue] [eth_getFilterChanges reports logs and block hashes of payloads that never became canonical](https://github.com/NethermindEth/nethermind/issues/14561) - 2026-10-12
+* [Issue] [HeaderValidator does not check ParentBeaconBlockRoot presence against EIP-4788 activation](https://github.com/NethermindEth/nethermind/issues/14559) - 2026-10-12
+* [Issue] [Pruning.PersistenceInterval=0 makes state persistence throw DivideByZeroException](https://github.com/NethermindEth/nethermind/issues/14557) - 2026-10-12
+* [Issue] [Forward sync reports honest peers that omit missing bodies from a BlockBodies reply](https://github.com/NethermindEth/nethermind/issues/14555) - 2026-10-12
+* [Issue] [Generated JWT secret and node key files are created world-readable on Unix](https://github.com/NethermindEth/nethermind/issues/14551) - 2026-10-12
+* [Issue] [CallAndRestore of a self-destructing contract leaves its storage wiped after the restore (pre-Cancun)](https://github.com/NethermindEth/nethermind/issues/14549) - 2026-10-12
+* [Issue] [Optimism: improved payloads are built without the Holocene EIP-1559 extra data](https://github.com/NethermindEth/nethermind/issues/14540) - 2026-10-12
+* [Issue] [debug_getConfigValue returns config items flagged IsSensitive in plaintext](https://github.com/NethermindEth/nethermind/issues/14539) - 2026-10-12
+* [Issue] [Engine URLs from AdditionalRpcUrls (and the cloned WS URL) lose the engine request body cap](https://github.com/NethermindEth/nethermind/issues/14525) - 2026-10-11
+* [Issue] [Snapshot extraction rejects every tar entry when Init.BaseDbPath is relative](https://github.com/NethermindEth/nethermind/issues/14523) - 2026-10-11
+* [Commit] [build(diag): add dotnet-counters to the diagnostic image (#14426)](https://github.com/NethermindEth/nethermind/commit/0e52f9568197a73981606a15771b9d1c913fba72) - 2026-10-11
+* [Commit] [feat(blocks): add produced-block trace dumps (#14342)](https://github.com/NethermindEth/nethermind/commit/10d735b8512cfb3be28851896061b4ada74cc2b1) - 2026-10-11
+* [Commit] [feat(jsonrpc): add JsonRpc.IpcEnabledModules to serve a separate module set over IPC (#14318)](https://github.com/NethermindEth/nethermind/commit/3123835a79768f2992102637fc0cfe08e32e5c8b) - 2026-10-11
+* [Commit] [fix(healthchecks): start periodic disk space check before block tree review (#14292)](https://github.com/NethermindEth/nethermind/commit/9c0ebc92238c464d0c39a5da409b5d47d990837c) - 2026-10-11
+* [Commit] [feat(era1): add EraManifest tool to rebuild and verify era1 manifests (#14317)](https://github.com/NethermindEth/nethermind/commit/2218677ac5ef82cf174d653f063f66b8d4371954) - 2026-10-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

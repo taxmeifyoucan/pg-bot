@@ -13,6 +13,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8298: record adopted code as a hash in the BAL; reject same-tx-created sources](https://github.com/ethereum/EIPs/commit/9bff5ef1068353888431ca3d0208d85d9e14b99a) - 2026-10-02
 * [Review] [Review on: Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427#pullrequestreview-5420250048) - 2026-10-05
 
+* [Pull Request] [Update EIP-8298: close spec gaps found writing tests; assign opcode 0xA7](https://github.com/ethereum/EIPs/pull/12480) - 2026-10-11
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [PBT migration: BAL follower stalls after an anchor import](https://github.com/NethermindEth/nethermind/issues/14259) - 2026-10-05
 
@@ -21,6 +22,10 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [fix(processing): refuse a branch that reaches genesis without state (#14324)](https://github.com/NethermindEth/nethermind/commit/542ed0d6081bb49e27dae599feef5a45950f8c93) - 2026-10-08
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [binary-trie: a genesis with binaryTrieTime 0 cannot be initialised with default settings](https://github.com/erigontech/erigon/issues/24612) - 2026-10-06
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5482738375) - 2026-10-11
+* [Pull Request] [feat(spec-specs,tests,test-forks,test-types,test-vm): implement EIP-8298 SETCODEFROM](https://github.com/ethereum/execution-specs/pull/3769) - 2026-10-11
 ## Q3 2026
 
 

@@ -48,6 +48,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Resolve discovered peer addresses against both local transports](https://github.com/Consensys-Incorporated/teku/pull/11464) - 2026-10-09
 * [Review] [Review on: Update reference tests to v1.7.0-beta.4](https://github.com/Consensys-Incorporated/teku/pull/11459#pullrequestreview-5468766293) - 2026-10-09
 * [Pull Request] [Keep block reorgs over payload reorgs when coalescing head events](https://github.com/Consensys-Incorporated/teku/pull/11460) - 2026-10-09
+* [Commit] [Keep block reorgs over payload reorgs when coalescing head events (#11460)](https://github.com/Consensys-Incorporated/teku/commit/43bd9e5c7be57490c2ee474bc8ff68d887564172) - 2026-10-11
+* [Commit] [Resolve discovered peer addresses against both local transports (#11464)](https://github.com/Consensys-Incorporated/teku/commit/53f2ff10564e64aff7b826a2934d04c2f6b03250) - 2026-10-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

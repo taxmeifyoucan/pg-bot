@@ -212,6 +212,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(state): reuse larger pooled storage maps](https://github.com/NethermindEth/nethermind/pull/14509#pullrequestreview-5480214422) - 2026-10-10
 * [Pull Request] [test(eels): update execution fixtures to v21.0.1](https://github.com/NethermindEth/nethermind/pull/14502) - 2026-10-10
 * [Commit] [test(eels): update execution fixtures to v21.0.1 (#14502)](https://github.com/NethermindEth/nethermind/commit/872cf6c59ebe08a9f0b5d604bfd3b5c914ef3b66) - 2026-10-10
+* [Review] [Review on: ci: run frame fixtures from tests-frames-devnet@v1.0.0](https://github.com/NethermindEth/nethermind/pull/14493#pullrequestreview-5485694018) - 2026-10-12
+* [Review] [Review on: refactor(consensus): remove the now-empty predeploy installer](https://github.com/NethermindEth/nethermind/pull/14484#pullrequestreview-5485700344) - 2026-10-12
+* [Review] [Review on: perf(evm): keep fused jump counts in dispatch](https://github.com/NethermindEth/nethermind/pull/14529#pullrequestreview-5485698827) - 2026-10-12
+* [Review] [Review on: Avoid eager original-value indexing for read-only storage](https://github.com/NethermindEth/nethermind/pull/14528#pullrequestreview-5484147942) - 2026-10-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

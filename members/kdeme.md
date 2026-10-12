@@ -26,6 +26,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [networking: remove DiscoveryV4 support, use DiscoveryV5 only (#4476)](https://github.com/status-im/nimbus-eth1/commit/1f305f8442ff292410376b330b795bc56a982705) - 2026-10-07
 * [Pull Request] [portal: bump nim-eth and adapt to the discv5 node type changes ](https://github.com/status-im/nimbus-eth1/pull/4949) - 2026-10-09
 * [Commit] [portal: bump nim-eth and adapt to the discv5 node type changes  (#4949)](https://github.com/status-im/nimbus-eth1/commit/6be5f0c5a924ee95111c001b7de79b5e6956792e) - 2026-10-10
+* [Pull Request] [snap: decode requests as flat field lists and always send the proof field](https://github.com/status-im/nimbus-eth1/pull/4960) - 2026-10-11
+* [Pull Request] [snap: send StorageRanges via snap/2 to peers that negotiated snap/2](https://github.com/status-im/nimbus-eth1/pull/4959) - 2026-10-11
+* [Commit] [snap: send StorageRanges via snap/2 to peers that negotiated snap/2 (#4959)](https://github.com/status-im/nimbus-eth1/commit/af9e318f80f28e2a591946e9802ae3984e7606a4) - 2026-10-11
 ## Q3 2026
 
 

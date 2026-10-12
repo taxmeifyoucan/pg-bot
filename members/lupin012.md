@@ -71,6 +71,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc/jsonrpc: return -32602 for malformed trace_rawTransaction input](https://github.com/erigontech/erigon/pull/24768) - 2026-10-10
 * [Pull Request] [db/state: drop unused FlushWithCommitmentCallback, inline flushLocked into Flush](https://github.com/erigontech/erigon/pull/24767) - 2026-10-10
 * [Commit] [db/state: take domain read locks in TemporalMemBatch flush (#24728)](https://github.com/erigontech/erigon/commit/115849c57f85d376687e7fc729fbebe999c10f42) - 2026-10-10
+* [Pull Request] [rpc/jsonrpc: return a constant true from net_listening](https://github.com/erigontech/erigon/pull/24773) - 2026-10-11
+* [Pull Request] [QA: add an optional Nethermind run and a client comparison to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/24770) - 2026-10-11
+* [Commit] [rpc/jsonrpc: return a constant true from net_listening (#24773)](https://github.com/erigontech/erigon/commit/c13ccff93304f8605dc13e1b59f509b9c4ab9d81) - 2026-10-12
+* [Commit] [rpc/jsonrpc: return -32602 for malformed trace_rawTransaction input (#24768)](https://github.com/erigontech/erigon/commit/1d3ebbf217f6b4f99028cd590889a5c9f3aaa969) - 2026-10-11
+* [Commit] [db/state: drop unused FlushWithCommitmentCallback, inline flushLocked into Flush (#24767)](https://github.com/erigontech/erigon/commit/63d5801560d97e1825a27ae93c14bf5f7708c8b2) - 2026-10-11
+* [Commit] [rpc/jsonrpc: implement txpool_inspect (#24738)](https://github.com/erigontech/erigon/commit/bcd8e3c34c576ac1550e1c924ec36dff3d2c9719) - 2026-10-11
+* [Commit] [cmd/rpcdaemon: put /graphql behind HTTP admission control (#24744)](https://github.com/erigontech/erigon/commit/9d42904c6290304cf986aba517d544ec1cdb1153) - 2026-10-11
+* [Commit] [common/dbg, execution: read alloc/sys from runtime/metrics in per-block logs (#24743)](https://github.com/erigontech/erigon/commit/d6dc774fdf24cdbbb826bfb7fd5d671d22e70f23) - 2026-10-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -80,6 +88,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen: mixed load from a profile; rpc_perf: results by API with --verbose (#616)](https://github.com/erigontech/rpc-tests/commit/e438652f5545f62d8d72ea2643978beb85a00723) - 2026-10-05
 * [Pull Request] [rpc_perf: latencies by API with --verbose](https://github.com/erigontech/rpc-tests/pull/617) - 2026-10-08
 * [Commit] [rpc_perf: latencies by API with --verbose (#617)](https://github.com/erigontech/rpc-tests/commit/566ddedada4d8163a980ff7939df90076574ff47) - 2026-10-08
+* [Pull Request] [rpc_pattern_gen: blocks=N profile option to draw a method from the most recent blocks](https://github.com/erigontech/rpc-tests/pull/620) - 2026-10-11
+* [Pull Request] [rpc_perf: count empty results](https://github.com/erigontech/rpc-tests/pull/619) - 2026-10-11
+* [Pull Request] [rpc_pattern_gen: eth_estimateGas, eth_gasPrice and eth_maxPriorityFeePerGas](https://github.com/erigontech/rpc-tests/pull/618) - 2026-10-11
 ## Q3 2026
 
 

@@ -70,6 +70,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/stages: stop leaking the chain tip fetch goroutine after cancellation (#24765)](https://github.com/erigontech/erigon/commit/e1c10eeda75220bb6f95b8761678f766eb887628) - 2026-10-10
 * [Commit] [cl: fix req/resp concurrency, chain tip request pacing, BlocksByRange range and sidecar finalized slot checks (#24550)](https://github.com/erigontech/erigon/commit/9a275afaa7b19305e45c45b7f62f3f9705696c60) - 2026-10-10
 * [Commit] [cl: fix publication of self-built Gloas blocks and payloads (#24545)](https://github.com/erigontech/erigon/commit/b4b4dda5194cef78c08ce56d7ebb520938926bea) - 2026-10-10
+* [Pull Request] [cl/sentinel/handlers: return zero chunks for data column by-root misses](https://github.com/erigontech/erigon/pull/24772) - 2026-10-11
+* [Pull Request] [cl/phase1/forkchoice: reject attester slashings with no slashable validator, handle huge indices](https://github.com/erigontech/erigon/pull/24771) - 2026-10-11
 ## Q3 2026
 
 

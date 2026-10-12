@@ -57,6 +57,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Handle failed shuffling regen](https://github.com/ChainSafe/lodestar/issues/10320) - 2026-10-09
 * [Commit] [fix: prune shuffling cache by smallest epoch (#10294)](https://github.com/ChainSafe/lodestar/commit/58d40975f9f2699fbf0207a6a32ed8d3e4cb3322) - 2026-10-09
 * [Commit] [chore: track circuit breaker metrics on Grafana (#10318)](https://github.com/ChainSafe/lodestar/commit/f0a5c36612e7de24df5c3d0a12d34fd3576a6a02) - 2026-10-09
+* [Review] [Review on: fix: deduplicate pending payload downloads](https://github.com/ChainSafe/lodestar/pull/10347#pullrequestreview-5486275975) - 2026-10-12
+* [Review] [Review on: fix: deduplicate incomplete payload sync at the payload deadline](https://github.com/ChainSafe/lodestar/pull/10289#pullrequestreview-5486277904) - 2026-10-12
+* [Review] [Review on: perf: avoid importing sync committee maps](https://github.com/ChainSafe/lodestar/pull/10350#pullrequestreview-5486130770) - 2026-10-12
+* [Review] [Review on: fix: separate engine response timings](https://github.com/ChainSafe/lodestar/pull/10349#pullrequestreview-5486056636) - 2026-10-12
+* [Pull Request] [perf: allocate once when serializing execution requests](https://github.com/ChainSafe/lodestar/pull/10356) - 2026-10-12
 ## Q3 2026
 
 

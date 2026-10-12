@@ -27,6 +27,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Add filter_optimistic_payloads feature](https://github.com/sigp/lighthouse/pull/10265) - 2026-10-08
 * [Pull Request] [Make the execution layer optional with proof engine](https://github.com/sigp/lighthouse/pull/10262) - 2026-10-08
 * [Pull Request] [Fix recompute head after proof](https://github.com/sigp/lighthouse/pull/10280) - 2026-10-09
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 ## Q3 2026
 
 

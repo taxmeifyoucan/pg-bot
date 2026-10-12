@@ -20,6 +20,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Bump PTC SSE queue](https://github.com/sigp/lighthouse/pull/10239#pullrequestreview-5436790035) - 2026-10-07
 * [Review] [Review on: Report a missing block from the basic simulator instead of panicking](https://github.com/sigp/lighthouse/pull/10205#pullrequestreview-5436525455) - 2026-10-07
 * [Review] [Review on: Add SSZ response support for validator_balances endpoints](https://github.com/sigp/lighthouse/pull/10082#pullrequestreview-5435991605) - 2026-10-07
+* [Review] [Review on: Schedule Gloas on Hoodi](https://github.com/sigp/lighthouse/pull/10304#pullrequestreview-5485958275) - 2026-10-12
 ## Q3 2026
 
 

@@ -64,6 +64,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Update CHANGELOG post 26.10.0 release (#11453)](https://github.com/Consensys-Incorporated/teku/commit/c161c12ffb6dc73a5e3e699db5cf4be445918a28) - 2026-10-08
 * [Review] [Review on: Log in to Docker Hub with OIDC instead of a stored password](https://github.com/Consensys-Incorporated/teku/pull/11455#pullrequestreview-5467649339) - 2026-10-09
 * [Commit] [Log in to Docker Hub with OIDC instead of a stored password (#11455)](https://github.com/Consensys-Incorporated/teku/commit/8f4cac0afc06b969e85d89f357bc648b56af4495) - 2026-10-09
+* [Pull Request] [Tighten the CI publish path and drop the Docker Hub login from acceptance tests](https://github.com/Consensys-Incorporated/teku/pull/11474) - 2026-10-12
+* [Review] [Review on: Verify block signatures before saving blocks for future processing](https://github.com/Consensys-Incorporated/teku/pull/11438#pullrequestreview-5485365423) - 2026-10-11
+* [Review] [Review on: Disallow new validators with BLS withdrawal credentials in Heze](https://github.com/Consensys-Incorporated/teku/pull/11462#pullrequestreview-5485366489) - 2026-10-11
+* [Review] [Review on: Keep block reorgs over payload reorgs when coalescing head events](https://github.com/Consensys-Incorporated/teku/pull/11460#pullrequestreview-5485303107) - 2026-10-11
+* [Review] [Review on: Resolve discovered peer addresses against both local transports](https://github.com/Consensys-Incorporated/teku/pull/11464#pullrequestreview-5485330828) - 2026-10-11
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

@@ -17,6 +17,9 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen: mixed load from a profile; rpc_perf: results by API with --verbose](https://github.com/erigontech/rpc-tests/pull/616#pullrequestreview-5418207048) - 2026-10-05
 
 * [Review] [Review on: rpc_perf: latencies by API with --verbose](https://github.com/erigontech/rpc-tests/pull/617#pullrequestreview-5461995977) - 2026-10-08
+* [Review] [Review on: rpc_pattern_gen: blocks=N profile option to draw a method from the most recent blocks](https://github.com/erigontech/rpc-tests/pull/620#pullrequestreview-5484944321) - 2026-10-11
+* [Review] [Review on: rpc_perf: count empty results](https://github.com/erigontech/rpc-tests/pull/619#pullrequestreview-5484942650) - 2026-10-11
+* [Review] [Review on: rpc_pattern_gen: eth_estimateGas, eth_gasPrice and eth_maxPriorityFeePerGas](https://github.com/erigontech/rpc-tests/pull/618#pullrequestreview-5484941669) - 2026-10-11
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

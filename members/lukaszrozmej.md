@@ -224,6 +224,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [refactor(analyzers): let NETH003 accept build-variant file names (#14400)](https://github.com/NethermindEth/nethermind/commit/bdeed93b2c033916d4743b1024079adee5bd6c47) - 2026-10-10
 * [Commit] [test(merge): accept VALID when an unheld suggest beats the zero budget (#14498)](https://github.com/NethermindEth/nethermind/commit/3b4911cd47b7f363de5a2b84bd3002e5a9e50e29) - 2026-10-10
 * [Commit] [test(tracing): tolerate one-off runtime allocations in the BAL overlay zero-alloc test (#14486)](https://github.com/NethermindEth/nethermind/commit/bbdea1e6da8a9612cb858751f8aca3edc5c3975c) - 2026-10-10
+* [Pull Request] [perf(state): inline the indexed-originals check, keep indexing out of line](https://github.com/NethermindEth/nethermind/pull/14536) - 2026-10-12
+* [Pull Request] [refactor(state): move lazy-originals ZK_EVM branches into std/zkevm partials](https://github.com/NethermindEth/nethermind/pull/14534) - 2026-10-12
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/14511#pullrequestreview-5485727317) - 2026-10-12
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/14510#pullrequestreview-5485727719) - 2026-10-12
+* [Review] [Review on: Schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/14489#pullrequestreview-5485730569) - 2026-10-12
+* [Commit] [feat(consensus): abandon a block that takes longer than a configurable timeout to process (#14487)](https://github.com/NethermindEth/nethermind/commit/e6b1d77d233af1ca0d8c60a5eb694422fcd6b612) - 2026-10-11
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

@@ -130,6 +130,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [feat: EIP-8288 bounded aggregation, scheme-bound deps, block capacity and EIP-8437 updates](https://github.com/NethermindEth/nethermind/pull/14508) - 2026-10-10
 * [Review] [Review on: feat: EIP-8288 bounded aggregation, scheme-bound deps, block capacity and EIP-8437 updates](https://github.com/NethermindEth/nethermind/pull/14508#pullrequestreview-5479023368) - 2026-10-10
 * [Commit] [fix(txpool): return txs of blocks the head rewinds past (#14492)](https://github.com/NethermindEth/nethermind/commit/204457adfec70998bfc579bfbd88f62575ea52a3) - 2026-10-10
+* [Review] [Review on: feat: EIP-8437 ethp2p binding with authenticated broadcast](https://github.com/NethermindEth/nethermind/pull/14522#pullrequestreview-5481828667) - 2026-10-11
+* [Commit] [feat: implement EIP-8298 SETCODEFROM opcode (#12536)](https://github.com/NethermindEth/nethermind/commit/2cbc4fd999956c2d7392594eb70b552e1e81e96d) - 2026-10-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
