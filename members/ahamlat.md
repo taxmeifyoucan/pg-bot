@@ -22,9 +22,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Add AND, OR, XOR and NOT to EVM v2](https://github.com/besu-eth/besu/pull/11477#pullrequestreview-5456319022) - 2026-10-08
 * [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-5461127399) - 2026-10-08
 * [Review] [Review on: Import committed QBFT blocks without executing them again](https://github.com/besu-eth/besu/pull/11469#pullrequestreview-5453474310) - 2026-10-08
+* [Review] [Review on: Import committed QBFT blocks without executing them again](https://github.com/besu-eth/besu/pull/11469#pullrequestreview-5488206843) - 2026-10-12
+* [Pull Request] [Skip operation tracer calls in the EVM loop when tracing is disabled](https://github.com/besu-eth/besu/pull/11566) - 2026-10-12
+* [Review] [Review on: Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364#pullrequestreview-5487945406) - 2026-10-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5494631995) - 2026-10-12
 ## Q3 2026
 
 

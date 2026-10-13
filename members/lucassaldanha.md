@@ -69,6 +69,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Disallow new validators with BLS withdrawal credentials in Heze](https://github.com/Consensys-Incorporated/teku/pull/11462#pullrequestreview-5485366489) - 2026-10-11
 * [Review] [Review on: Keep block reorgs over payload reorgs when coalescing head events](https://github.com/Consensys-Incorporated/teku/pull/11460#pullrequestreview-5485303107) - 2026-10-11
 * [Review] [Review on: Resolve discovered peer addresses against both local transports](https://github.com/Consensys-Incorporated/teku/pull/11464#pullrequestreview-5485330828) - 2026-10-11
+* [Pull Request] [Accept gossip subscription RPCs carrying up to 500 topics](https://github.com/Consensys-Incorporated/teku/pull/11483) - 2026-10-13
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11258#pullrequestreview-5496800758) - 2026-10-12
+* [Review] [Review on: Update Renovatebot GHA Updates (major)](https://github.com/Consensys-Incorporated/teku/pull/11480#pullrequestreview-5496377378) - 2026-10-12
+* [Pull Request] [Replace protocols-renovate[bot] with ci-protocols-renovate[bot] in the CLA allowlist](https://github.com/Consensys-Incorporated/teku/pull/11481) - 2026-10-12
+* [Commit] [Accept gossip subscription RPCs carrying up to 500 topics (#11483)](https://github.com/Consensys-Incorporated/teku/commit/94a223c009ebe4d08c0c73ea868fcd3b6aaa62be) - 2026-10-13
+* [Commit] [Replace protocols-renovate[bot] with ci-protocols-renovate[bot] in the CLA allowlist (#11481)](https://github.com/Consensys-Incorporated/teku/commit/2b4a882925a949b6716a2209dd5a130a01945812) - 2026-10-12
+* [Commit] [Tighten the CI publish path and drop the Docker Hub login from acceptance tests (#11474)](https://github.com/Consensys-Incorporated/teku/commit/a3afd1f1337a9e1fefb3c92ae661c718e4f214c8) - 2026-10-12
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [snap/2: BAL download stage slow](https://github.com/besu-eth/besu/issues/11535) - 2026-10-09
 * [Issue] [snap/2: World state stalls on stale pivot during initial sync](https://github.com/besu-eth/besu/issues/11534) - 2026-10-09
 * [Issue] [snap/2: Keep world state progress across restarts and re-pivots](https://github.com/besu-eth/besu/issues/11539) - 2026-10-09
+* [Review] [Review on: refactor: simplify BlockProcessor signatures with BlockExecutionContext.](https://github.com/besu-eth/besu/pull/11308#pullrequestreview-5497028319) - 2026-10-12
 ## Q3 2026
 
 

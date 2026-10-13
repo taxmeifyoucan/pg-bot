@@ -62,6 +62,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: avoid importing sync committee maps](https://github.com/ChainSafe/lodestar/pull/10350#pullrequestreview-5486130770) - 2026-10-12
 * [Review] [Review on: fix: separate engine response timings](https://github.com/ChainSafe/lodestar/pull/10349#pullrequestreview-5486056636) - 2026-10-12
 * [Pull Request] [perf: allocate once when serializing execution requests](https://github.com/ChainSafe/lodestar/pull/10356) - 2026-10-12
+* [Review] [Review on: fix: queue column reconstructions in event multiple come in before completion](https://github.com/ChainSafe/lodestar/pull/10331#pullrequestreview-5497831795) - 2026-10-13
+* [Review] [Review on: chore: track circuit breaker metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/10318#pullrequestreview-5488259944) - 2026-10-12
+* [Commit] [chore: fix Builder API queries per slot panel (#10357)](https://github.com/ChainSafe/lodestar/commit/03c05fa09adb7ff01c7d4c495451596c9cecedd8) - 2026-10-12
+* [Commit] [perf: allocate once when serializing execution requests (#10356)](https://github.com/ChainSafe/lodestar/commit/c785f2463ae49f1b547cb6fb3c14f993a394fbf5) - 2026-10-12
 ## Q3 2026
 
 

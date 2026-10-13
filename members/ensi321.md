@@ -33,6 +33,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(beacon-node): derive the sync aggregate size from the preset in serialized block offsets](https://github.com/ChainSafe/lodestar/pull/10334#pullrequestreview-5474066022) - 2026-10-09
 * [Review] [Review on: fix: align beacon api with v5.0.0-beta.0](https://github.com/ChainSafe/lodestar/pull/10302#pullrequestreview-5468910266) - 2026-10-09
 * [Commit] [chore: update consensus specs to v1.7.0-beta.4 (#10314)](https://github.com/ChainSafe/lodestar/commit/6155cf7acc9ba60ff319ff9da7304a4cfb991284) - 2026-10-09
+* [Review] [Review on: feat: implement quick slots EIP-8198 in heze](https://github.com/ChainSafe/lodestar/pull/10355#pullrequestreview-5487132448) - 2026-10-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 ## Q3 2026

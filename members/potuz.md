@@ -35,6 +35,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Serialize block gossip decode (#17647)](https://github.com/OffchainLabs/prysm/commit/7105d5dc3ba36c5395d5e746a552c3af04e4625e) - 2026-10-08
 * [Commit] [Unfinalized checkpoint sync (#17559)](https://github.com/OffchainLabs/prysm/commit/8fcc735259787ae62cb5425d8fcc0b42eddfd049) - 2026-10-08
 * [Commit] [Verify gossip payload envelope signatures without loading state (#17652)](https://github.com/OffchainLabs/prysm/commit/7ead28c2d455c86e4384376f8d17d6a0f95a65d0) - 2026-10-09
+* [Review] [Review on: Subtract same-payload withdrawals from the builder balance in the builders sweep](https://github.com/OffchainLabs/prysm/pull/17663#pullrequestreview-5490601291) - 2026-10-12
+* [Review] [Review on: Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662#pullrequestreview-5490447265) - 2026-10-12
+* [Review] [Review on: Settle the builder payment before processing parent execution requests](https://github.com/OffchainLabs/prysm/pull/17661#pullrequestreview-5490401505) - 2026-10-12
+* [Commit] [Use the target's shuffling dependent root in getRecentPreState (#17649)](https://github.com/OffchainLabs/prysm/commit/7fa9877e68522f44923251875b9115465c96b7f9) - 2026-10-12
 ## Q3 2026
 
 

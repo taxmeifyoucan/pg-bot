@@ -40,6 +40,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [EIP-7709 Implementation Tracker: Read BLOCKHASH from Storage and Update Cost](https://github.com/ethereum/execution-specs/issues/3744) - 2026-10-08
 * [Issue] [EIP-8298 Implementation Tracker: SETCODEFROM Code Reuse Instruction](https://github.com/ethereum/execution-specs/issues/3743) - 2026-10-08
 * [Issue] [EIP-5920 Implementation Tracker: PAY opcode](https://github.com/ethereum/execution-specs/issues/3742) - 2026-10-08
+* [Pull Request] [refactor(tests): bind the EIP-8141 calldata floor settlement tests by the minimum data](https://github.com/ethereum/execution-specs/pull/3784) - 2026-10-12
+* [Pull Request] [perf(test-fill, test-forks): cut per-test and collection overhead](https://github.com/ethereum/execution-specs/pull/3785) - 2026-10-12
+* [Review] [Review on: perf(test-fill, test-forks): cut per-test and collection overhead](https://github.com/ethereum/execution-specs/pull/3785#pullrequestreview-5496778670) - 2026-10-12
+* [Pull Request] [perf(test-fill, test-evm-tools): count opcodes only for benchmark tests](https://github.com/ethereum/execution-specs/pull/3790) - 2026-10-12
+* [Pull Request] [perf(test-types): compute allocation state roots incrementally](https://github.com/ethereum/execution-specs/pull/3782) - 2026-10-12
+* [Pull Request] [feat(tests): derive the EIP-8250 keyed nonce access cost from the fork and pin it in the gas cap](https://github.com/ethereum/execution-specs/pull/3775) - 2026-10-12
+* [Review] [Review on: feat(spec-specs,test-forks,tests): charge EIP-8250 keyed nonce access in intrinsic gas and the calldata floor](https://github.com/ethereum/execution-specs/pull/3756#pullrequestreview-5495470413) - 2026-10-12
+* [Issue] [Test Release Tracker: `hegota-devnet@v0.0.0`](https://github.com/ethereum/execution-specs/issues/3787) - 2026-10-12
+* [Issue] [Test Release Tracker: `hegota-devnet@v1.0.0`](https://github.com/ethereum/execution-specs/issues/3788) - 2026-10-12
+* [Issue] [Test Release Tracker: `bogota-devnet@v1.1.0`](https://github.com/ethereum/execution-specs/issues/3773) - 2026-10-12
+* [Issue] [Test Release Tracker: `heze-devnet@v2.0.0`](https://github.com/ethereum/execution-specs/issues/3783) - 2026-10-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

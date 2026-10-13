@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Honor IPv6 outbound preference for DNS-discovered peers](https://github.com/besu-eth/besu/pull/11448#pullrequestreview-5452849646) - 2026-10-08
 * [Review] [Review on: perf(eth): reduce per-tx allocations in constructGetPooledTransactionsResponse](https://github.com/besu-eth/besu/pull/10546#pullrequestreview-5452454180) - 2026-10-08
 * [Review] [Review on: Request the remaining announced transactions, in announcement order, on pooled transaction retries](https://github.com/besu-eth/besu/pull/11465#pullrequestreview-5452158826) - 2026-10-08
+* [Review] [Review on: Serialize head world state writes in the world state provider](https://github.com/besu-eth/besu/pull/11402#pullrequestreview-5498991670) - 2026-10-13
 ## Q3 2026
 
 

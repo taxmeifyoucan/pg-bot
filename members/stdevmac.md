@@ -141,6 +141,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [feat(jsonrpc): add JsonRpc.IpcEnabledModules to serve a separate module set over IPC (#14318)](https://github.com/NethermindEth/nethermind/commit/3123835a79768f2992102637fc0cfe08e32e5c8b) - 2026-10-11
 * [Commit] [fix(healthchecks): start periodic disk space check before block tree review (#14292)](https://github.com/NethermindEth/nethermind/commit/9c0ebc92238c464d0c39a5da409b5d47d990837c) - 2026-10-11
 * [Commit] [feat(era1): add EraManifest tool to rebuild and verify era1 manifests (#14317)](https://github.com/NethermindEth/nethermind/commit/2218677ac5ef82cf174d653f063f66b8d4371954) - 2026-10-11
+* [Review] [Review on: fix(init): fail startup when a listener port is in use](https://github.com/NethermindEth/nethermind/pull/14571#pullrequestreview-5486881769) - 2026-10-12
+* [Review] [Review on: fix(sync): ignore a single peer's failure when fetching the FCU head header](https://github.com/NethermindEth/nethermind/pull/14567#pullrequestreview-5487164919) - 2026-10-12
+* [Review] [Review on: fix(aura): treat a failed withdrawals system call as an invalid block](https://github.com/NethermindEth/nethermind/pull/14530#pullrequestreview-5487764123) - 2026-10-12
+* [Review] [Review on: fix(sync): score proof-only snap storage replies as failed ranges](https://github.com/NethermindEth/nethermind/pull/14547#pullrequestreview-5487876502) - 2026-10-12
+* [Review] [Review on: fix(consensus): dequeue withdrawal and consolidation requests from the spec-configured contracts](https://github.com/NethermindEth/nethermind/pull/14515#pullrequestreview-5487423604) - 2026-10-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

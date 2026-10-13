@@ -28,6 +28,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix debug_traceCallMany base-selector replay race](https://github.com/NethermindEth/nethermind/pull/14296#pullrequestreview-5449695343) - 2026-10-07
 * [Review] [Review on: feat(sync): label snap sync phases and drop misleading healing percentage](https://github.com/NethermindEth/nethermind/pull/14344#pullrequestreview-5449638548) - 2026-10-07
 * [Commit] [fix(flat): verify preimage storage in bounded memory (#14387)](https://github.com/NethermindEth/nethermind/commit/dcd7edca7c45c908e614dc64b08313cb1d207c49) - 2026-10-08
+* [Review] [Review on: fix(init): fail startup when a listener port is in use](https://github.com/NethermindEth/nethermind/pull/14571#pullrequestreview-5488281754) - 2026-10-12
+* [Review] [Review on: fix(sync): ignore a single peer's failure when fetching the FCU head header](https://github.com/NethermindEth/nethermind/pull/14567#pullrequestreview-5488299794) - 2026-10-12
+* [Review] [Review on: fix(sync): score proof-only snap storage replies as failed ranges](https://github.com/NethermindEth/nethermind/pull/14547#pullrequestreview-5490449679) - 2026-10-12
+* [Pull Request] [fix(consensus): set zero parent beacon root in NethDev blocks after Cancun](https://github.com/NethermindEth/nethermind/pull/14575) - 2026-10-12
+* [Review] [Review on: fix(flat): count spool writers under the lock](https://github.com/NethermindEth/nethermind/pull/14579#pullrequestreview-5497193242) - 2026-10-12
+* [Review] [Review on: fix(pruning): treat a persistence interval below 1 as 1](https://github.com/NethermindEth/nethermind/pull/14558#pullrequestreview-5497196301) - 2026-10-12
+* [Review] [Review on: Advertise snap in the local ENR when serving snap](https://github.com/NethermindEth/nethermind/pull/14585#pullrequestreview-5497189245) - 2026-10-12
 ## Q3 2026
 
 

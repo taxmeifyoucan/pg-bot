@@ -30,6 +30,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Require parent block root in Cancun blocks in LC library](https://github.com/status-im/nimbus-eth2/pull/9257) - 2026-10-11
 * [Review] [Review on: add epbs flags](https://github.com/status-im/nimbus-eth2/pull/9236#pullrequestreview-5481226098) - 2026-10-10
 * [Pull Request] [Avoid ignoring bids for second Gloas payload building on Fulu](https://github.com/status-im/nimbus-eth2/pull/9263) - 2026-10-11
+* [Pull Request] [Handle STATUS message with finalized_epoch > head_slot.epoch](https://github.com/status-im/nimbus-eth2/pull/9277) - 2026-10-12
+* [Pull Request] [Handle restart when first slot of finalized epoch was missed](https://github.com/status-im/nimbus-eth2/pull/9276) - 2026-10-12
+* [Review] [Review on: Handle restart when first slot of finalized epoch was missed](https://github.com/status-im/nimbus-eth2/pull/9276#pullrequestreview-5496931363) - 2026-10-12
+* [Pull Request] [Add Dockerfile for OSS Scanner](https://github.com/status-im/nimbus-eth2/pull/9268) - 2026-10-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

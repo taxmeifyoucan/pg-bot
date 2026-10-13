@@ -57,6 +57,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [quic connect timeout fix](https://github.com/libp2p/jvm-libp2p/pull/535) - 2026-10-02
 * [Review] [Review on: Release 1.3.8](https://github.com/libp2p/jvm-libp2p/pull/539#pullrequestreview-5419556380) - 2026-10-05
 * [Review] [Review on: Wait a backoff slack before re-GRAFTing a pruned peer](https://github.com/libp2p/jvm-libp2p/pull/538#pullrequestreview-5413111370) - 2026-10-05
+* [Pull Request] [Fix slow-peer pressure tracking above 256 peers](https://github.com/libp2p/jvm-libp2p/pull/541) - 2026-10-12
 ## Q3 2026
 
 

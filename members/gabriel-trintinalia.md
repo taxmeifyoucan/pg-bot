@@ -29,9 +29,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: refactor: cleanup preprocessing function](https://github.com/besu-eth/besu/pull/11412#pullrequestreview-5451485219) - 2026-10-08
 * [Pull Request] [fix: discard a rejected block's changes on every failure path](https://github.com/besu-eth/besu/pull/11533) - 2026-10-08
 * [Commit] [refactor: cleanup preprocessing function (#11412)](https://github.com/besu-eth/besu/commit/aa3760c7e1dc7177c96f35b02bc814b0ce913e53) - 2026-10-09
+* [Pull Request] [refactor: rerun failed parallel blocks on the same processor](https://github.com/besu-eth/besu/pull/11571) - 2026-10-13
+* [Commit] [refactor: simplify BlockProcessor signatures with BlockExecutionContext. (#11308)](https://github.com/besu-eth/besu/commit/fc80c5e58c0173f23c4c946f0d38f82fd25c8734) - 2026-10-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08
+* [Pull Request] [feat(zkevm): reject a witness with more headers than the SSZ list limit](https://github.com/ethereum/execution-specs/pull/3793) - 2026-10-13
+* [Pull Request] [feat(zkevm): reject witness headers that break the chain below the parent](https://github.com/ethereum/execution-specs/pull/3792) - 2026-10-13
+* [Pull Request] [feat(zkevm): require the delegate's code even when it is a single STOP](https://github.com/ethereum/execution-specs/pull/3791) - 2026-10-12
+* [Pull Request] [feat(tests): EIP-8025 - require the SYSTEM_ADDRESS proof when a block reads it](https://github.com/ethereum/execution-specs/pull/3770) - 2026-10-12
 ## Q3 2026
 
 

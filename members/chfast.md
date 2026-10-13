@@ -45,6 +45,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state, execution/tests: keep the nonce of a self-destructed account across a revert (#24701)](https://github.com/erigontech/erigon/commit/f6073c39668b9bd728c3f0f7615b256208fd45eb) - 2026-10-09
 * [Commit] [execution/state: keep a cached object's balance in step with a versioned write (#24695)](https://github.com/erigontech/erigon/commit/0bccf35bfb5db398b9dba563d240c25603dd1ace) - 2026-10-09
 * [Commit] [execution/state: keep code hash in sync with code read from version map (#24432)](https://github.com/erigontech/erigon/commit/76167d7987af908e88391a40dfd054c275c6e04d) - 2026-10-09
+* [Commit] [execution/state: treat slots written by the destroying tx as wiped (#24742)](https://github.com/erigontech/erigon/commit/ec8ca9d0100fad1ff40324431e7dbecf42978d4c) - 2026-10-12
+* [Commit] [execution: don't revive a destroyed account with its old nonce or code hash (#24705)](https://github.com/erigontech/erigon/commit/d9bc27f368d3d9ba05adf3deb0c37ae264207946) - 2026-10-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -71,6 +73,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [ci: Upgrade execution-specs tests to tests@v21.0.1](https://github.com/ipsilon/evmone/pull/1754) - 2026-10-08
 * [Pull Request] [evm: Read the account also for a 0-byte EXTCODECOPY](https://github.com/ipsilon/evmone/pull/1753) - 2026-10-08
 * [Commit] [ci: Upgrade execution-specs tests to tests@v21.0.1 (#1754)](https://github.com/ipsilon/evmone/commit/abdddefab4e45bf7233aad5d7c8a66b567d66b63) - 2026-10-08
+* [Pull Request] [state: Warm accounts and storage slots without loading them](https://github.com/ipsilon/evmone/pull/1757) - 2026-10-12
+* [Pull Request] [state: Read the system contract code through the State](https://github.com/ipsilon/evmone/pull/1756) - 2026-10-12
+* [Pull Request] [test: Apply the withdrawals before the block-end system calls](https://github.com/ipsilon/evmone/pull/1755) - 2026-10-12
+* [Commit] [state: Read the system contract code through the State (#1756)](https://github.com/ipsilon/evmone/commit/201a8f3d8991d1fbbc9c530ed099f5c43fdf1ae6) - 2026-10-12
+* [Commit] [test: Apply the withdrawals before the block-end system calls (#1755)](https://github.com/ipsilon/evmone/commit/fff0e98245c558c1a98fd25ac8dcb945bf2faa93) - 2026-10-12
+* [Commit] [evm: Read the account also for a 0-byte EXTCODECOPY (#1753)](https://github.com/ipsilon/evmone/commit/c2d54b02f2ecb5e5340c018a943baf20e2614f4f) - 2026-10-12
 ## Q3 2026
 
 

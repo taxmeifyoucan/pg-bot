@@ -40,6 +40,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [EIP-8198 Implementation Tracker: Quick Slots](https://github.com/ethereum/execution-specs/issues/3748) - 2026-10-08
 * [Commit] [feat(skill): keep AI from updating the <fork> docstring until merges (#3749)](https://github.com/ethereum/execution-specs/commit/dc6d1a55cef60d45dbd5969c8d602610daecf604) - 2026-10-08
 * [Review] [Review on: fix(tests): skip inclusion-list variants whose entry cannot fit a list](https://github.com/ethereum/execution-specs/pull/3502#pullrequestreview-5476755226) - 2026-10-10
+* [Review] [Review on: feat(consume): check inclusionListSatisfied semantics and probe engine_getInclusionListV1](https://github.com/ethereum/execution-specs/pull/3410#pullrequestreview-5494274447) - 2026-10-12
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

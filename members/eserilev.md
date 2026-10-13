@@ -29,6 +29,16 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Use the Gloas min epochs for block requests as the backfill range](https://github.com/sigp/lighthouse/pull/10270) - 2026-10-08
 * [Review] [Review on: Implement gossip verification of inclusion lists](https://github.com/sigp/lighthouse/pull/10182#pullrequestreview-5466780323) - 2026-10-09
 * [Review] [Review on: Fix empty BlocksByRoot responses during Gloas column publish](https://github.com/sigp/lighthouse/pull/9976#pullrequestreview-5467228859) - 2026-10-09
+
+* [Pull Request] [ EIP-8198: Keep the data retention window and gossip seen_ttl fixed in time](https://github.com/sigp/lighthouse/pull/10319) - 2026-10-12
+* [Pull Request] [EIP-8198: Use slot duration schedule in timers and duty loops](https://github.com/sigp/lighthouse/pull/10316) - 2026-10-12
+* [Pull Request] [EIP-8198: Activate slot duration change at the Heze fork](https://github.com/sigp/lighthouse/pull/10318) - 2026-10-12
+* [Pull Request] [EIP-8198: Rescale rewards, penalties and churn by the slot duration](https://github.com/sigp/lighthouse/pull/10317) - 2026-10-12
+* [Pull Request] [EIP-8198: Make `SlotClock` aware of slot duration schedule](https://github.com/sigp/lighthouse/pull/10314) - 2026-10-12
+* [Review] [Review on: Gloas spec v1.7.0-beta.4](https://github.com/sigp/lighthouse/pull/10307#pullrequestreview-5486807683) - 2026-10-12
+* [Pull Request] [EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313) - 2026-10-12
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026
 
 

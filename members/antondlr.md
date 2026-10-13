@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aanto
 * [Pull Request] [Fix cross builds after cc bump](https://github.com/sigp/lighthouse/pull/10278) - 2026-10-09
 * [Pull Request] [Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282) - 2026-10-09
 * [Pull Request] [Build Linux binaries natively instead of with cross](https://github.com/sigp/lighthouse/pull/10283) - 2026-10-09
+* [Review] [Review on: Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282#pullrequestreview-5487225458) - 2026-10-12
 ## Q3 2026
 
 

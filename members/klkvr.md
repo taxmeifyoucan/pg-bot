@@ -13,6 +13,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [perf(evm): stream native state updates to execution hooks](https://github.com/paradigmxyz/reth/pull/27849) - 2026-10-09
+* [Pull Request] [perf(rpc): mutate prepared tx env instead of reconverting requests](https://github.com/paradigmxyz/reth/pull/27872) - 2026-10-12
+* [Review] [Review on: perf(evm): stream native state updates to execution hooks](https://github.com/paradigmxyz/reth/pull/27849#pullrequestreview-5494995690) - 2026-10-12
+* [Review] [Review on: fix(witness): preserve parent-state code reads](https://github.com/paradigmxyz/reth/pull/27635#pullrequestreview-5495919804) - 2026-10-12
+* [Review] [Review on: fix(rpc): preserve absent accounts in empty state overrides](https://github.com/paradigmxyz/reth/pull/27745#pullrequestreview-5495608282) - 2026-10-12
 ## Q3 2026
 
 

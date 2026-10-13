@@ -24,6 +24,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: roll back the approval context when a call reverts](https://github.com/ethereum/EIPs/pull/12458#pullrequestreview-5460727147) - 2026-10-08
 * [Review] [Review on: Update EIP-8141: define the validation prefix and execution body under Behavior](https://github.com/ethereum/EIPs/pull/12471#pullrequestreview-5472979360) - 2026-10-09
 * [Review] [Review on: Update EIP-8141: name the TXPARAM, FRAMEPARAM and SIGPARAM params](https://github.com/ethereum/EIPs/pull/12469#pullrequestreview-5471742594) - 2026-10-09
+* [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5494082658) - 2026-10-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 

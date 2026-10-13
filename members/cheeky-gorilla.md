@@ -8,6 +8,16 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
+* [Commit] [Add file](https://github.com/protocolguild/protocol-guild-site/commit/40bcd1874d3932ec140f932cbd03a471a5ce55f2) - 2026-10-12
+* [Commit] [Delete file](https://github.com/protocolguild/protocol-guild-site/commit/caca2542a1fddbeb14b8ca6c335d444c5a44b83a) - 2026-10-12
+* [Commit] [Add file](https://github.com/protocolguild/protocol-guild-site/commit/07aad8f7937ff95937f3c717572f476d2ac77118) - 2026-10-12
+* [Commit] [Delete file](https://github.com/protocolguild/protocol-guild-site/commit/3481da281a851f5a70da26c5cd7d0ee398e706e3) - 2026-10-12
+* [Commit] [Add image](https://github.com/protocolguild/protocol-guild-site/commit/84b9492330e7beec9fb5aa844daf66e1802c13f5) - 2026-10-12
+* [Commit] [Create folder](https://github.com/protocolguild/protocol-guild-site/commit/83747f2b9977e245875e6d7d7c235a5be495a00d) - 2026-10-12
 ## Q3 2026
 
 

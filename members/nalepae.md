@@ -39,6 +39,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [[EIP-8025] Implement optional execution proofs](https://github.com/OffchainLabs/prysm/pull/17658) - 2026-10-09
 * [Pull Request] [Remove the "experimental" status from the `--enable-state-diff` flag.](https://github.com/OffchainLabs/prysm/pull/17657) - 2026-10-09
 * [Commit] [Remove the "experimental" status from the `--enable-state-diff` flag. (#17657)](https://github.com/OffchainLabs/prysm/commit/2154983d4c98228468c10b671cfb1dde534b9e90) - 2026-10-09
+* [Review] [Review on: Fix backfill service deadlock when waiting for completion](https://github.com/OffchainLabs/prysm/pull/17635#pullrequestreview-5490030820) - 2026-10-12
+* [Pull Request] [No responsive beacon node found](https://github.com/OffchainLabs/prysm/pull/17669) - 2026-10-12
+* [Commit] [Backfill: Fix Gloas (#17632)](https://github.com/OffchainLabs/prysm/commit/cdaa03be567bea04fd7efb83b0dc6745c75019e0) - 2026-10-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 ## Q3 2026

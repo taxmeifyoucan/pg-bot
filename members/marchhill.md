@@ -132,6 +132,19 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix(txpool): return txs of blocks the head rewinds past (#14492)](https://github.com/NethermindEth/nethermind/commit/204457adfec70998bfc579bfbd88f62575ea52a3) - 2026-10-10
 * [Review] [Review on: feat: EIP-8437 ethp2p binding with authenticated broadcast](https://github.com/NethermindEth/nethermind/pull/14522#pullrequestreview-5481828667) - 2026-10-11
 * [Commit] [feat: implement EIP-8298 SETCODEFROM opcode (#12536)](https://github.com/NethermindEth/nethermind/commit/2cbc4fd999956c2d7392594eb70b552e1e81e96d) - 2026-10-11
+* [Review] [Review on: fix(sync): ignore a single peer's failure when fetching the FCU head header](https://github.com/NethermindEth/nethermind/pull/14567#pullrequestreview-5491034490) - 2026-10-12
+* [Review] [Review on: perf(txpool): reject underpriced replacements before recovering signatures](https://github.com/NethermindEth/nethermind/pull/14577#pullrequestreview-5492751800) - 2026-10-12
+* [Pull Request] [fix(tracing): prestate diff mode deletes the self-destructed account, not the beneficiary](https://github.com/NethermindEth/nethermind/pull/14580) - 2026-10-12
+* [Review] [Review on: fix(tracing): prestate diff mode deletes the self-destructed account, not the beneficiary](https://github.com/NethermindEth/nethermind/pull/14580#pullrequestreview-5493416208) - 2026-10-12
+* [Pull Request] [feat: EIP-8116 replace cumulative receipt fields](https://github.com/NethermindEth/nethermind/pull/14272) - 2026-10-12
+* [Review] [Review on: fix(discv4): match a pong on the pinged endpoint](https://github.com/NethermindEth/nethermind/pull/14576#pullrequestreview-5492697881) - 2026-10-12
+* [Pull Request] [Fix flaky newPayload verdict test wall-clock limit](https://github.com/NethermindEth/nethermind/pull/14573) - 2026-10-12
+* [Review] [Review on: refactor(state): move lazy-originals ZK_EVM branches into std/zkevm partials](https://github.com/NethermindEth/nethermind/pull/14534#pullrequestreview-5489508645) - 2026-10-12
+* [Review] [Review on: fix(consensus): dequeue withdrawal and consolidation requests from the spec-configured contracts](https://github.com/NethermindEth/nethermind/pull/14515#pullrequestreview-5491034917) - 2026-10-12
+* [Review] [Review on: fix(erae): reject truncated entries and incomplete random reads](https://github.com/NethermindEth/nethermind/pull/14507#pullrequestreview-5491034741) - 2026-10-12
+* [Commit] [feat: EIP-8116 replace cumulative receipt fields (#14272)](https://github.com/NethermindEth/nethermind/commit/5302886bf889ef9fc2cae976c8f0cba8a0d17d4e) - 2026-10-12
+* [Commit] [feat: EIP-8360 TCREATE opcode (#13933)](https://github.com/NethermindEth/nethermind/commit/498b6679892f5bbee2847caa39241d896596f910) - 2026-10-12
+* [Commit] [EIP-8151: account-code restricted ecRecover (#13959)](https://github.com/NethermindEth/nethermind/commit/0ddcc35c4824dd3ded7edf08c88f8272aed734d3) - 2026-10-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -147,6 +160,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: Define proof capacity and conditional FOCIL inclusion](https://github.com/ethereum/EIPs/pull/12475) - 2026-10-10
 * [Pull Request] [Update EIP-8288: Bind dependency digests to verification schemes](https://github.com/ethereum/EIPs/pull/12474) - 2026-10-10
 * [Review] [Review on: Update EIP-7805: Profile 2 inclusion claims and per-list VERIFY budget](https://github.com/ethereum/EIPs/pull/12394#pullrequestreview-5478746923) - 2026-10-10
+* [Pull Request] [Update EIP-8141: clarify transient storage and deploy targets in trace rules](https://github.com/ethereum/EIPs/pull/12494) - 2026-10-12
+* [Review] [Review on: Update EIP-8141: clarify transient storage and deploy targets in trace rules](https://github.com/ethereum/EIPs/pull/12494#pullrequestreview-5497875733) - 2026-10-13
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
+* [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12
 ## Q3 2026
 
 

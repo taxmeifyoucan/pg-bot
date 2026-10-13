@@ -49,6 +49,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282#pullrequestreview-5485316911) - 2026-10-11
 * [Review] [Review on: Gloas spec v1.7.0-beta.3](https://github.com/sigp/lighthouse/pull/10212#pullrequestreview-5483211406) - 2026-10-11
 * [Review] [Review on: Resolve the fork from the block slot when loading the http-sync cache](https://github.com/sigp/lighthouse/pull/10276#pullrequestreview-5485042168) - 2026-10-11
+* [Review] [Review on: Validate the slot of Gloas RPC data columns against the bid](https://github.com/sigp/lighthouse/pull/10327#pullrequestreview-5497580696) - 2026-10-13
+* [Review] [Review on: Build Linux binaries natively instead of with cross](https://github.com/sigp/lighthouse/pull/10283#pullrequestreview-5487822988) - 2026-10-12
+* [Review] [Review on: Pass ChainSpec to get_proposer_head instead of three threshold args](https://github.com/sigp/lighthouse/pull/10324#pullrequestreview-5497012395) - 2026-10-12
+* [Review] [Review on: Prune Gloas data columns past withheld payloads and on abandoned forks](https://github.com/sigp/lighthouse/pull/10286#pullrequestreview-5487426270) - 2026-10-12
+* [Review] [Review on: Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282#pullrequestreview-5487393456) - 2026-10-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 ## Q3 2026

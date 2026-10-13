@@ -25,6 +25,8 @@ Team: Codex DAS
 * [Pull Request] [beacon/params: save the checkpoint file atomically](https://github.com/ethereum/go-ethereum/pull/35938) - 2026-10-10
 * [Pull Request] [beacon/light/api: reconnect the event stream with a capped backoff](https://github.com/ethereum/go-ethereum/pull/35937) - 2026-10-10
 * [Pull Request] [triedb/pathdb: fix the reactivation after a state sync](https://github.com/ethereum/go-ethereum/pull/35936) - 2026-10-10
+* [Commit] [triedb/pathdb: fix the reactivation after a state sync (#35936)](https://github.com/ethereum/go-ethereum/commit/32fea34c44eb9f280b2b8bdbbf344c8ff5ef63cf) - 2026-10-12
+* [Commit] [core/rawdb: keep the freezer metadata at a fixed size (#35939)](https://github.com/ethereum/go-ethereum/commit/640194fb96e58698babf990fe9c8b48f871f1de2) - 2026-10-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08

@@ -47,6 +47,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore(deps): update packages](https://github.com/NethermindEth/nethermind/pull/14491#pullrequestreview-5472536969) - 2026-10-09
 * [Commit] [chore(deps): update packages (#14491)](https://github.com/NethermindEth/nethermind/commit/b34a55aed37a3ec4cc2a83916f2a21d09ea4ce51) - 2026-10-09
 * [Commit] [ci(zkevm): run the tests-zkevm-benchmark fixtures through the ZisK guest (#14465)](https://github.com/NethermindEth/nethermind/commit/cf97d559874f2c74e14873fc37d3101bed2ddf4c) - 2026-10-09
+* [Review] [Review on: perf(zkevm): run no Nethermind class constructors in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/14590#pullrequestreview-5496875537) - 2026-10-12
+* [Pull Request] [feat: support Windows on ARM64](https://github.com/NethermindEth/nethermind/pull/14572) - 2026-10-12
+* [Commit] [feat: support Windows on ARM64 (#14572)](https://github.com/NethermindEth/nethermind/commit/d2d5309cb38919b33d85bea849343d33754e3b9d) - 2026-10-12
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

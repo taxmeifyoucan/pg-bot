@@ -37,6 +37,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [processTransaction accepts optional precalculated IntrinsicGas (#4939)](https://github.com/status-im/nimbus-eth1/commit/b3e7c6a90a2c1ecfe77f21a0a76c0468f83df118) - 2026-10-09
 * [Commit] [schedule Hoodi Glamsterdam activation (#4938)](https://github.com/status-im/nimbus-eth1/commit/b741727d6b137add7c6e172581723d6fe22af1f7) - 2026-10-09
 * [Commit] [Upgrade EEST mainnet fixtures to v21.0.1 (#4951)](https://github.com/status-im/nimbus-eth1/commit/910f04795fed5a0f082ad266c5320cf6b4e132d5) - 2026-10-10
+* [Review] [Review on: rpc: return the created code from a contract creation call](https://github.com/status-im/nimbus-eth1/pull/4950#pullrequestreview-5486782376) - 2026-10-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

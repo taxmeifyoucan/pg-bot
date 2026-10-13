@@ -46,6 +46,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Replace custom `ByteUnits` utility with Storage-Units library (#11512)](https://github.com/besu-eth/besu/commit/5790c5a68fa2b4f69878ab0a2284a9170782ad00) - 2026-10-08
 * [Commit] [Refactor engine API payload status handling to allow version-specific responses (#11488)](https://github.com/besu-eth/besu/commit/0930cdcd1b8723e9db608e6ea48edcd644b86b2c) - 2026-10-08
 * [Commit] [Update Gradle Plugin for Besu Plugins to 0.3.0 (#11540)](https://github.com/besu-eth/besu/commit/bc1f7cda857983ed96ee4cc41fa0b355fcf5d125) - 2026-10-09
+* [Pull Request] [Revert "Replace custom `ByteUnits` utility with Storage-Units library…](https://github.com/besu-eth/besu/pull/11563) - 2026-10-12
+* [Review] [Review on: Fix layered txpool corruption on sparse promotion and late selection results](https://github.com/besu-eth/besu/pull/11462#pullrequestreview-5492362521) - 2026-10-12
+* [Commit] [Revert "Replace custom `ByteUnits` utility with Storage-Units library (#11512)" (#11563)](https://github.com/besu-eth/besu/commit/f9822929b0a0da0c411b45651532f376fd7fc09a) - 2026-10-12
 ## Q3 2026
 
 

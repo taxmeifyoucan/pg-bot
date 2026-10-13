@@ -38,6 +38,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Remove data column sidecar size presets dropped by the spec](https://github.com/OffchainLabs/prysm/pull/17532#pullrequestreview-5473958709) - 2026-10-09
 * [Review] [Review on: Verify proposer preferences signature before advancing the dependent state](https://github.com/OffchainLabs/prysm/pull/17656#pullrequestreview-5474983428) - 2026-10-09
 * [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5471667301) - 2026-10-09
+* [Review] [Review on: Subtract same-payload withdrawals from the builder balance in the builders sweep](https://github.com/OffchainLabs/prysm/pull/17663#pullrequestreview-5491954811) - 2026-10-12
+* [Review] [Review on: Add `GET /eth/v1/beacon/proposer_preferences` Beacon API endpoint](https://github.com/OffchainLabs/prysm/pull/17638#pullrequestreview-5493731697) - 2026-10-12
+* [Pull Request] [remove tracing from e2e](https://github.com/OffchainLabs/prysm/pull/17683) - 2026-10-13
+* [Pull Request] [fix flakey tests](https://github.com/OffchainLabs/prysm/pull/17682) - 2026-10-13
+* [Review] [Review on: Proposer: respect PTC blob data unavailable majority](https://github.com/OffchainLabs/prysm/pull/17537#pullrequestreview-5492098810) - 2026-10-12
+* [Review] [Review on: Dispatch data column gossip validation on the sidecar wire type](https://github.com/OffchainLabs/prysm/pull/17653#pullrequestreview-5496164919) - 2026-10-12
+* [Review] [Review on: Read the head state under the same lock as the head root in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17654#pullrequestreview-5492033974) - 2026-10-12
+* [Review] [Review on: Don't fire `chain_reorg` when only the Gloas payload status flips](https://github.com/OffchainLabs/prysm/pull/17534#pullrequestreview-5493655894) - 2026-10-12
+* [Review] [Review on: Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662#pullrequestreview-5491950029) - 2026-10-12
 ## Q3 2026
 
 

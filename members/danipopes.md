@@ -30,6 +30,15 @@ Team: Reth
 * [Review] [Review on: test(rpc): remove redundant rpc and pool tests](https://github.com/paradigmxyz/reth/pull/27826#pullrequestreview-5465972330) - 2026-10-09
 * [Review] [Review on: test(node): remove redundant arg and harness tests](https://github.com/paradigmxyz/reth/pull/27820#pullrequestreview-5465972111) - 2026-10-09
 * [Review] [Review on: test(node): remove redundant e2e and unit tests](https://github.com/paradigmxyz/reth/pull/27823#pullrequestreview-5465972203) - 2026-10-09
+* [Review] [Review on: ci: run Cyclops warden on every push and after audit commands](https://github.com/paradigmxyz/reth/pull/27860#pullrequestreview-5496653608) - 2026-10-12
+* [Pull Request] [fix(ipc): keep truncated requests at the limit](https://github.com/paradigmxyz/reth/pull/27866) - 2026-10-12
+* [Pull Request] [fix(ipc): stop buffering oversized requests](https://github.com/paradigmxyz/reth/pull/27864) - 2026-10-12
+* [Pull Request] [perf(rpc): skip compression on loopback servers](https://github.com/paradigmxyz/reth/pull/27865) - 2026-10-12
+* [Pull Request] [perf(rpc): compress only large responses, fastest](https://github.com/paradigmxyz/reth/pull/27863) - 2026-10-12
+* [Commit] [fix(ipc): keep truncated requests at the limit (#27866)](https://github.com/paradigmxyz/reth/commit/ed9bb9d43c780a5bb86712cd874c859c8b2bb5cf) - 2026-10-12
+* [Commit] [perf(rpc): skip compression on loopback servers (#27865)](https://github.com/paradigmxyz/reth/commit/fa94e1518457f3aef3d685e947fc8218de3ef16d) - 2026-10-12
+* [Commit] [fix(ipc): stop buffering oversized requests (#27864)](https://github.com/paradigmxyz/reth/commit/95bdbe747571b417246dac174052770f4cd0ffd4) - 2026-10-12
+* [Commit] [perf(rpc): compress only large responses, fastest (#27863)](https://github.com/paradigmxyz/reth/commit/81e7be6f543be69adb8e6d6eea6fb4f275a1239c) - 2026-10-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

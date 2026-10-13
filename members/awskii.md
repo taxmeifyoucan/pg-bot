@@ -73,6 +73,8 @@ Team: Erigon
 * [Review] [Review on: exec: resolve a touched absent account once, skip a no-op repeat self-destruct](https://github.com/erigontech/erigon/pull/24710#pullrequestreview-5467855833) - 2026-10-09
 * [Review] [Review on: execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658#pullrequestreview-5466886825) - 2026-10-09
 * [Review] [Review on: exec: restore the stateObject arena, the shared committed read and the SetCode code reuse](https://github.com/erigontech/erigon/pull/24687#pullrequestreview-5466886616) - 2026-10-09
+* [Review] [Review on: exec: `codeCache` migrate `addrToCodeHash` to lock-free cache](https://github.com/erigontech/erigon/pull/24775#pullrequestreview-5486701912) - 2026-10-12
+* [Issue] [db/state: commitment rebuild with history writes every step's history twice](https://github.com/erigontech/erigon/issues/24780) - 2026-10-12
 ## Q3 2026
 
 

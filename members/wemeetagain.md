@@ -60,6 +60,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: remove `deposit` and `eth1data` fields (eip8015)](https://github.com/ChainSafe/lodestar/pull/10335#pullrequestreview-5472470782) - 2026-10-09
 * [Review] [Review on: fix: handle partial failures when submitting proposal preferences](https://github.com/ChainSafe/lodestar/pull/10325#pullrequestreview-5470802078) - 2026-10-09
 * [Review] [Review on: fix: cancel req/resp bridge iterators when the consumer returns early](https://github.com/ChainSafe/lodestar/pull/10304#pullrequestreview-5470866797) - 2026-10-09
+* [Review] [Review on: fix: deduplicate incomplete payload sync at the payload deadline](https://github.com/ChainSafe/lodestar/pull/10289#pullrequestreview-5492711985) - 2026-10-12
+* [Review] [Review on: perf: decode hex natively in nodejs fromHexInto](https://github.com/ChainSafe/lodestar/pull/10358#pullrequestreview-5492939645) - 2026-10-12
+* [Review] [Review on: test: retry oapi spec download on failure](https://github.com/ChainSafe/lodestar/pull/10364#pullrequestreview-5492882304) - 2026-10-12
+* [Review] [Review on: test: pipe dev node output in voluntary exit from api e2e test](https://github.com/ChainSafe/lodestar/pull/10360#pullrequestreview-5492913221) - 2026-10-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -72,6 +76,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: verify allocation failure coverage with standard checks](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5429693163) - 2026-10-06
 * [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5447190851) - 2026-10-07
 * [Review] [Review on: feat(metrics): add sub-second epoch transition histogram buckets](https://github.com/ChainSafe/lodestar-z/pull/759#pullrequestreview-5443727187) - 2026-10-07
+* [Review] [Review on: feat: add `bench_ssz` step](https://github.com/ChainSafe/lodestar-z/pull/318#pullrequestreview-5497866540) - 2026-10-13
+* [Review] [Review on: test: organize json test cases](https://github.com/ChainSafe/lodestar-z/pull/776#pullrequestreview-5491794354) - 2026-10-12
+* [Review] [Review on: test: initialize fresh decode outputs](https://github.com/ChainSafe/lodestar-z/pull/775#pullrequestreview-5492702822) - 2026-10-12
+* [Review] [Review on: feat(metrics): label state transitions by source](https://github.com/ChainSafe/lodestar-z/pull/772#pullrequestreview-5492252871) - 2026-10-12
+* [Review] [Review on: perf: vectorize shuffle swap loop](https://github.com/ChainSafe/lodestar-z/pull/769#pullrequestreview-5492191192) - 2026-10-12
+* [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5491768419) - 2026-10-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

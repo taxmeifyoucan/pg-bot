@@ -32,6 +32,15 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-3298: Remove the refund cap from frame transaction settlement](https://github.com/ethereum/EIPs/pull/12455#pullrequestreview-5449107346) - 2026-10-07
 * [Review] [Review on: Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423#pullrequestreview-5476210749) - 2026-10-09
 * [Review] [Review on: Add EIP: Ancestor-Indexed BALs](https://github.com/ethereum/EIPs/pull/11595#pullrequestreview-5469504024) - 2026-10-09
+* [Pull Request] [Update EIP-8253: Add Mainnet prestate values + genesis/devnet alloc](https://github.com/ethereum/EIPs/pull/12495) - 2026-10-12
+* [Pull Request] [Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491) - 2026-10-12
+* [Pull Request] [Update EIP-4758: Move to Draft](https://github.com/ethereum/EIPs/pull/12492) - 2026-10-12
+* [Pull Request] [Add EIP: Hardware and Bandwidth Recommendations](https://github.com/ethereum/EIPs/pull/12490) - 2026-10-12
+* [Commit] [Update EIP-8253: Add Mainnet prestate values + genesis/devnet alloc](https://github.com/ethereum/EIPs/commit/0cc66cb8a489925c5a56ff2df112cbcd1293c148) - 2026-10-12
+* [Commit] [Update EIP-8253: explicitly define Mainnet/testnet chain configs](https://github.com/ethereum/EIPs/commit/2b3e257fcb4e6c89fbe6d62bf0fabfb7649c2c3f) - 2026-10-12
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026
 
 

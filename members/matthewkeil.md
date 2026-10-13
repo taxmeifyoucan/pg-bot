@@ -19,6 +19,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: queue column reconstructions in event multiple come in before completion](https://github.com/ChainSafe/lodestar/pull/10331) - 2026-10-09
 * [Review] [Review on: fix: queue column reconstructions in event multiple come in before completion](https://github.com/ChainSafe/lodestar/pull/10331#pullrequestreview-5470600968) - 2026-10-09
 * [Review] [Review on: fix: resubmit proposal preferences after the beacon node resynced](https://github.com/ChainSafe/lodestar/pull/10326#pullrequestreview-5470776049) - 2026-10-09
+* [Pull Request] [chore: merge v1.50.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/10362) - 2026-10-12
+* [Review] [Review on: chore: v1.50.0 release](https://github.com/ChainSafe/lodestar/pull/10342#pullrequestreview-5490998668) - 2026-10-12
+* [Commit] [fix: queue column reconstructions in event multiple come in before completion (#10331)](https://github.com/ChainSafe/lodestar/commit/75239241d4c150a7f05bfc365d12b9ee5d60d9ff) - 2026-10-13
+* [Commit] [chore: merge v1.50.0 back to unstable (#10362)](https://github.com/ChainSafe/lodestar/commit/2593063a82560cf82345f9973e78676fc639bc0e) - 2026-10-12
+* [Commit] [chore: v1.50.0 release (#10342)](https://github.com/ChainSafe/lodestar/commit/003bd66543fa65b5c1e954eec9e8077054c226dc) - 2026-10-12
 ## Q3 2026
 
 

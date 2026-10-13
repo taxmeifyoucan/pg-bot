@@ -19,6 +19,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(eip8141): MATCHA paymaster width for sponsored frame transactions](https://github.com/NethermindEth/nethermind/pull/14305#pullrequestreview-5441866891) - 2026-10-07
 * [Review] [Review on: feat(eip8272): deploy the recent root contract as an ordinary contract](https://github.com/NethermindEth/nethermind/pull/14437#pullrequestreview-5468157137) - 2026-10-09
 * [Review] [Review on: perf(logs): defer compact log data expansion](https://github.com/NethermindEth/nethermind/pull/14488#pullrequestreview-5472026431) - 2026-10-09
+* [Review] [Review on: refactor(state): move lazy-originals ZK_EVM branches into std/zkevm partials](https://github.com/NethermindEth/nethermind/pull/14534#pullrequestreview-5491770426) - 2026-10-12
 ## Q3 2026
 
 

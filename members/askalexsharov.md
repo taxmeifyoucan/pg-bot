@@ -220,6 +220,33 @@ Team: Erigon
 * [Review] [Review on: db/state: drop unused FlushWithCommitmentCallback, inline flushLocked into Flush](https://github.com/erigontech/erigon/pull/24767#pullrequestreview-5482372511) - 2026-10-11
 * [Review] [Review on: cmd/rpcdaemon: put /graphql behind HTTP admission control](https://github.com/erigontech/erigon/pull/24744#pullrequestreview-5482367939) - 2026-10-11
 * [Review] [Review on: rpc/jsonrpc: implement txpool_inspect](https://github.com/erigontech/erigon/pull/24738#pullrequestreview-5482369837) - 2026-10-11
+* [Review] [Review on: [r3.7] docs: update design spec reference path](https://github.com/erigontech/erigon/pull/24801#pullrequestreview-5498529376) - 2026-10-13
+* [Review] [Review on: [r3.7] db/integrity: make --failFast=false report a verdict, not just a log](https://github.com/erigontech/erigon/pull/24472#pullrequestreview-5498524960) - 2026-10-13
+* [Review] [Review on: [r3.7] cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24820#pullrequestreview-5498515685) - 2026-10-13
+* [Pull Request] [db/kv/mdbx, cmd, node: keep read txs lock-free in begin and rollback](https://github.com/erigontech/erigon/pull/24779) - 2026-10-12
+* [Review] [Review on: common/dbg: bracket Sys in TestMemUsageMatchesMemStats](https://github.com/erigontech/erigon/pull/24817#pullrequestreview-5498135333) - 2026-10-13
+* [Review] [Review on: rpc/jsonrpc: serve the current header through the header caches](https://github.com/erigontech/erigon/pull/24814#pullrequestreview-5498136403) - 2026-10-13
+* [Review] [Review on: execution: fix lost tip and stale balance read in fee writes](https://github.com/erigontech/erigon/pull/24041#pullrequestreview-5498706978) - 2026-10-13
+* [Review] [Review on: cmd: do not delete snapshots for empty step ranges](https://github.com/erigontech/erigon/pull/24796#pullrequestreview-5498699579) - 2026-10-13
+* [Pull Request] [execution/cache: back GenericCache with the lock-free byte-bounded layer](https://github.com/erigontech/erigon/pull/24792) - 2026-10-12
+* [Review] [Review on: docs(site): 3.6.1 disk sizes and sync times, x86-64-v2 CPU baseline, 3.7 upgrade notes](https://github.com/erigontech/erigon/pull/24436#pullrequestreview-5498544389) - 2026-10-13
+* [Review] [Review on: docs(site): document the plain commitment format and its migration paths](https://github.com/erigontech/erigon/pull/24437#pullrequestreview-5498543080) - 2026-10-13
+* [Review] [Review on: [r3.7] chore: drop a departing maintainer from the /docs/ code owners](https://github.com/erigontech/erigon/pull/24589#pullrequestreview-5498539086) - 2026-10-13
+* [Review] [Review on: docs(site): pin patched tinypool, katex and postcss-selector-parser](https://github.com/erigontech/erigon/pull/24700#pullrequestreview-5498538589) - 2026-10-13
+* [Review] [Review on: docs(site): move the docs toolchain to Node 24](https://github.com/erigontech/erigon/pull/24745#pullrequestreview-5498538225) - 2026-10-13
+* [Review] [Review on: [r3.7] docs(site): move the docs toolchain to Node 24](https://github.com/erigontech/erigon/pull/24746#pullrequestreview-5498537531) - 2026-10-13
+* [Review] [Review on: docs: update design spec reference path](https://github.com/erigontech/erigon/pull/24800#pullrequestreview-5498532904) - 2026-10-13
+* [Pull Request] [execution/cache: admit fills against an atomic snapshot instead of a read lock](https://github.com/erigontech/erigon/pull/24794) - 2026-10-12
+* [Pull Request] [rpc: log errored calls at trace level](https://github.com/erigontech/erigon/pull/24819) - 2026-10-13
+* [Review] [Review on: rpc: log errored calls at trace level](https://github.com/erigontech/erigon/pull/24819#pullrequestreview-5497670290) - 2026-10-13
+* [Pull Request] [execution/types/accounts: keep recently interned keys and addresses alive](https://github.com/erigontech/erigon/pull/24816) - 2026-10-12
+* [Review] [Review on: execution/types/accounts: keep recently interned keys and addresses alive](https://github.com/erigontech/erigon/pull/24816#pullrequestreview-5494947509) - 2026-10-12
+* [Review] [Review on: rpc/jsonrpc: reject unknown fields in trace_filter requests](https://github.com/erigontech/erigon/pull/24706#pullrequestreview-5498137515) - 2026-10-13
+* [Commit] [exec: a reused read set keeps its per-address slot maps (#24605)](https://github.com/erigontech/erigon/commit/b5f10dbd54655a4dff8ff7ed90ec26836c0ffcd0) - 2026-10-12
+* [Commit] [deps: update x/*, golangci-lint, bubbletea, pyroscope, prometheus, urfave/cli, mcp-go (#24763)](https://github.com/erigontech/erigon/commit/866368b47a04c31bac0173dcb25f13b0c2ae6aec) - 2026-10-12
+* [Commit] [exec: `codeCache` migrate `addrToCodeHash` to lock-free cache (#24775)](https://github.com/erigontech/erigon/commit/09a4e2e4dfd6bd9f8d9e070dbb6780038dc8b12d) - 2026-10-12
+* [Commit] [rpc: port geth's client options, IPC dial and reverse calls (#24764)](https://github.com/erigontech/erigon/commit/26ccbd6402f2839379231c9ded678bb504443ec0) - 2026-10-12
+* [Commit] [rpc: eth_call reuse a pooled `ibs` (#24601)](https://github.com/erigontech/erigon/commit/546790a6a7fce7865ef1bc54d64baab224f07cdf) - 2026-10-12
 ## Q3 2026
 
 

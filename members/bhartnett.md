@@ -30,6 +30,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Skip post execution BAL hashing](https://github.com/status-im/nimbus-eth1/pull/4955) - 2026-10-10
 * [Commit] [BAL tracker optimizations (#4940)](https://github.com/status-im/nimbus-eth1/commit/67a3885fd172536d12cdf25fd1a80afa44bbaaca) - 2026-10-10
 * [Commit] [Skip post execution BAL hashing (#4955)](https://github.com/status-im/nimbus-eth1/commit/b0b990f1e57243e1cdef2a786c3e6953f9ecd9dc) - 2026-10-11
+* [Pull Request] [Skip optimistic state prefetching for small blocks](https://github.com/status-im/nimbus-eth1/pull/4962) - 2026-10-12
+* [Review] [Review on: Build generate_makefile via a local wrapper, like eth2](https://github.com/status-im/nimbus-eth1/pull/4953#pullrequestreview-5492622908) - 2026-10-12
+* [Pull Request] [BAL builder per tx account ids](https://github.com/status-im/nimbus-eth1/pull/4961) - 2026-10-12
+* [Commit] [BAL builder per tx account ids (#4961)](https://github.com/status-im/nimbus-eth1/commit/4e7d3a0e94eea9e1e26a0344950c7aafc55394ad) - 2026-10-12
 ## Q3 2026
 
 

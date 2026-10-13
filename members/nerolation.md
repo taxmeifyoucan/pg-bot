@@ -27,6 +27,11 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8250: make keyed nonces single-use spent flags](https://github.com/ethereum/EIPs/pull/12467) - 2026-10-09
 * [Commit] [Add EIP: Ancestor-Indexed BALs](https://github.com/ethereum/EIPs/commit/a7b5980a55117611aa572531a30c97c709af8f4a) - 2026-10-09
 * [Commit] [Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/commit/1db69122ac55228c6c88995b260fded00ea6b90b) - 2026-10-09
+* [Pull Request] [Update EIP-8189: clarify snap ENR entry version signaling](https://github.com/ethereum/EIPs/pull/12493) - 2026-10-12
+* [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5492133578) - 2026-10-12
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 ## Q3 2026
 
 

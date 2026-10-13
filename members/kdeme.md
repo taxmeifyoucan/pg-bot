@@ -29,6 +29,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [snap: decode requests as flat field lists and always send the proof field](https://github.com/status-im/nimbus-eth1/pull/4960) - 2026-10-11
 * [Pull Request] [snap: send StorageRanges via snap/2 to peers that negotiated snap/2](https://github.com/status-im/nimbus-eth1/pull/4959) - 2026-10-11
 * [Commit] [snap: send StorageRanges via snap/2 to peers that negotiated snap/2 (#4959)](https://github.com/status-im/nimbus-eth1/commit/af9e318f80f28e2a591946e9802ae3984e7606a4) - 2026-10-11
+* [Commit] [snap: decode requests as flat field lists and always send the proof field (#4960)](https://github.com/status-im/nimbus-eth1/commit/0fccf38473f2901a0752fe4daa89d5843082b2ec) - 2026-10-12
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 ## Q3 2026
 
 

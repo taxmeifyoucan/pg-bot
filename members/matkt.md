@@ -41,6 +41,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Pay from the current address in the PAY opcode](https://github.com/besu-eth/besu/pull/11544#pullrequestreview-5470768267) - 2026-10-09
 * [Commit] [Raise the snap/2 world state request parallelism to 64 (#11541)](https://github.com/besu-eth/besu/commit/0cdb5f0a5d3e3e38c8335b84de5bf515a0deb313) - 2026-10-09
 * [Commit] [snap/2: log the world state download percentage in the heartbeat (#11548)](https://github.com/besu-eth/besu/commit/3cceaa69632869a5fc9bda4c6d4801754d848e6e) - 2026-10-09
+* [Review] [Review on: Skip operation tracer calls in the EVM loop when tracing is disabled](https://github.com/besu-eth/besu/pull/11566#pullrequestreview-5495197721) - 2026-10-12
+* [Review] [Review on: Revert "Replace custom `ByteUnits` utility with Storage-Units library…](https://github.com/besu-eth/besu/pull/11563#pullrequestreview-5491988687) - 2026-10-12
+* [Pull Request] [snap/2: keep world state requests in flight](https://github.com/besu-eth/besu/pull/11560) - 2026-10-12
+* [Review] [Review on: Schedule Amsterdam on Hoodi](https://github.com/besu-eth/besu/pull/11531#pullrequestreview-5487006113) - 2026-10-12
+* [Pull Request] [snap/2: fix missing trie node when applying BALs at pivot catch-up](https://github.com/besu-eth/besu/pull/11558) - 2026-10-12
 ## Q3 2026
 
 

@@ -49,6 +49,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Bump version to v1.7.0-beta.5](https://github.com/ethereum/consensus-specs/pull/5728) - 2026-10-09
 * [Review] [Review on: Set the IL deadline to 9s into the slot](https://github.com/ethereum/consensus-specs/pull/5727#pullrequestreview-5472985995) - 2026-10-09
 * [Commit] [Bump version to v1.7.0-beta.5 (#5728)](https://github.com/ethereum/consensus-specs/commit/9a8fdd0703d6ccc18e2c6c52eb08576cace262eb) - 2026-10-09
+* [Review] [Review on: Set the IL deadline to 9s into the slot](https://github.com/ethereum/consensus-specs/pull/5727#pullrequestreview-5492576560) - 2026-10-12
+* [Review] [Review on: Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733#pullrequestreview-5491464168) - 2026-10-12
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5732#pullrequestreview-5488258273) - 2026-10-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

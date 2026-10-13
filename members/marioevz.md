@@ -26,11 +26,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-forks,tests): fix latent base fee and blob transition bugs](https://github.com/ethereum/execution-specs/pull/3721#pullrequestreview-5445718370) - 2026-10-07
 * [Commit] [feat(test-types): relative balance and nonce post-state expectations (#3699)](https://github.com/ethereum/execution-specs/commit/3d544d73f2e01a9b68c2bb3faf6afb45f012758b) - 2026-10-07
 * [Review] [Review on: feat(spec-specs,tests): implement EIP-7906 transaction assertions](https://github.com/ethereum/execution-specs/pull/3730#pullrequestreview-5461061692) - 2026-10-08
+* [Review] [Review on: perf(test-fill, test-forks): cut per-test and collection overhead](https://github.com/ethereum/execution-specs/pull/3785#pullrequestreview-5496523110) - 2026-10-12
+* [Review] [Review on: feat(spec-specs,tests,test-forks,test-types,test-vm): implement EIP-8298 SETCODEFROM](https://github.com/ethereum/execution-specs/pull/3769#pullrequestreview-5494058894) - 2026-10-12
+* [Review] [Review on: feat(spec-specs,test-forks,tests): charge EIP-8250 keyed nonce access in intrinsic gas and the calldata floor](https://github.com/ethereum/execution-specs/pull/3756#pullrequestreview-5493581342) - 2026-10-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452#pullrequestreview-5444741406) - 2026-10-07
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #101, October 19, 2026](https://github.com/ethereum/pm/issues/2271) - 2026-10-12
 ## Q3 2026
 
 

@@ -109,6 +109,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.7] cl/beacon/handler: test the PTC aggregation order and skip it on a sync aggregate error](https://github.com/erigontech/erigon/pull/24726#pullrequestreview-5470690511) - 2026-10-09
 * [Review] [Review on: fix: include git commit in web3_clientVersion](https://github.com/erigontech/erigon/pull/24727#pullrequestreview-5469206647) - 2026-10-09
 * [Issue] [BAL mismatch on glamsterdam-devnet-8](https://github.com/erigontech/erigon/issues/24724) - 2026-10-09
+* [Review] [Review on: docs(site): pin patched tinypool, katex and postcss-selector-parser](https://github.com/erigontech/erigon/pull/24700#pullrequestreview-5495777255) - 2026-10-12
+* [Pull Request] [cl/transition: verify the payload withdrawals root before applying withdrawals](https://github.com/erigontech/erigon/pull/24803) - 2026-10-12
+* [Issue] [rpc/jsonrpc: eth_simulateV1 on a historical base drops a simulated write whose value equals the head value](https://github.com/erigontech/erigon/issues/24802) - 2026-10-12
+* [Commit] [rpc: cap the subscriptions one connection may hold (#24735)](https://github.com/erigontech/erigon/commit/9b81444e92cd5bbcac1a3d421a918d5679781392) - 2026-10-12
+* [Commit] [rpc: bound the request bytes held at once across HTTP bodies and websocket messages (#24737)](https://github.com/erigontech/erigon/commit/ba328dbda43d46d58112e47dff0c2da7d35359d1) - 2026-10-12
+* [Commit] [go.mod: bump snappy to 9ae09f520e93 (#24785)](https://github.com/erigontech/erigon/commit/7dd99e9e5e65d4eeb3e81c49ac2e46d70d104ae8) - 2026-10-12
+* [Commit] [execution: test catch-up crash recovery and fix forkchoice persistence (#24032)](https://github.com/erigontech/erigon/commit/c67d1a87fb9dd69e26624dbf0259d0c8472e22d4) - 2026-10-12
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

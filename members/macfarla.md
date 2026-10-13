@@ -67,6 +67,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Enable NullAway for services key-value storage](https://github.com/besu-eth/besu/pull/10948#pullrequestreview-5485697042) - 2026-10-12
 * [Review] [Review on: Reject transactions with an unrecoverable signature as invalid](https://github.com/besu-eth/besu/pull/11458#pullrequestreview-5485754598) - 2026-10-12
 * [Review] [Review on: Update finalized once per backward sync session](https://github.com/besu-eth/besu/pull/11457#pullrequestreview-5485742622) - 2026-10-12
+* [Review] [Review on: Keep evmtool t8n-server running until it is stopped](https://github.com/besu-eth/besu/pull/11555#pullrequestreview-5498638447) - 2026-10-13
+* [Pull Request] [ci: only write the Docker BuildKit cache on refs/heads/main](https://github.com/besu-eth/besu/pull/11569) - 2026-10-12
+* [Review] [Review on: include account-only accesses in eth_createAccessList](https://github.com/besu-eth/besu/pull/11175#pullrequestreview-5498007562) - 2026-10-13
+* [Pull Request] [default discovery mode back to V4 to be conservative](https://github.com/besu-eth/besu/pull/11559) - 2026-10-12
+* [Issue] [Snap sync livelocks on a large, actively-changing contract when the dynamic pivot advances mid-download (repeated invalid storage range proofs)](https://github.com/besu-eth/besu/issues/11557) - 2026-10-12
+* [Commit] [ci: only write the Docker BuildKit cache on refs/heads/main (#11569)](https://github.com/besu-eth/besu/commit/c91f347e7aa38b9da351bd6f840d6e4f83ecd3d2) - 2026-10-13
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

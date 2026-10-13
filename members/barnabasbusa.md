@@ -40,6 +40,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: fold EIP-8198 slot duration into Heze](https://github.com/ethpandaops/dora/pull/896) - 2026-10-09
 * [Pull Request] [feat: derive EIP-8198 slot duration from fork config](https://github.com/ethpandaops/dora/pull/895) - 2026-10-09
 * [Review] [Review on: feat: derive EIP-8198 slot duration from fork config](https://github.com/ethpandaops/dora/pull/895#pullrequestreview-5469464285) - 2026-10-09
+* [Review] [Review on: updates for spec `v1.7.0-beta.4`](https://github.com/ethpandaops/dora/pull/897#pullrequestreview-5494471002) - 2026-10-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -59,6 +60,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [fix: verify inclusion list signatures without batching](https://github.com/ChainSafe/lodestar/pull/10282) - 2026-10-06
 
+* [Pull Request] [ci: run consensus client interop through assertoor](https://github.com/ChainSafe/lodestar/pull/10365) - 2026-10-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
@@ -70,6 +72,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [fix: include git commit in web3_clientVersion](https://github.com/erigontech/erigon/pull/24727) - 2026-10-09
 * [Commit] [fix: include git commit in web3_clientVersion (#24727)](https://github.com/erigontech/erigon/commit/d5591444081a93bf1d9f3f5813765f382469a6b4) - 2026-10-09
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Reject slashed proposers when drawn in Heze](https://github.com/ethereum/consensus-specs/pull/5734) - 2026-10-12
+* [Pull Request] [Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733) - 2026-10-12
+* [Review] [Review on: Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733#pullrequestreview-5491875480) - 2026-10-12
 ## Q3 2026
 
 

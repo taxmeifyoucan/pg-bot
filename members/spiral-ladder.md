@@ -36,6 +36,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix(beacon-node): derive the sync aggregate size from the preset in serialized block offsets (#10334)](https://github.com/ChainSafe/lodestar/commit/9203d3d7da2b64a2114a940a5fb3390d4d151a99) - 2026-10-11
 * [Commit] [feat: remove `deposit` and `eth1data` fields (eip8015) (#10335)](https://github.com/ChainSafe/lodestar/commit/fe4e7408b4f3029262ac51ce2f0f168e0b58b281) - 2026-10-11
 * [Commit] [fix: reset pendingDeposits with the fork's list type at genesis (#10353)](https://github.com/ChainSafe/lodestar/commit/c24762bc60e53bd65db4a7d7b7875409527f2a39) - 2026-10-11
+* [Pull Request] [feat: allow running the native state transition until the Gloas fork](https://github.com/ChainSafe/lodestar/pull/10370) - 2026-10-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -57,6 +58,13 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat(metrics): add sub-second epoch transition histogram buckets (#759)](https://github.com/ChainSafe/lodestar-z/commit/bf96e24bceccf443f04162873fc4cc88b59fc680) - 2026-10-07
 * [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5466578489) - 2026-10-09
 * [Review] [Review on: perf: expose sync committee indices](https://github.com/ChainSafe/lodestar-z/pull/768#pullrequestreview-5482300377) - 2026-10-11
+* [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5488706452) - 2026-10-12
+* [Pull Request] [test: organize json test cases](https://github.com/ChainSafe/lodestar-z/pull/776) - 2026-10-12
+* [Review] [Review on: refactor: clarify progressive decode ownership](https://github.com/ChainSafe/lodestar-z/pull/771#pullrequestreview-5488632237) - 2026-10-12
+* [Review] [Review on: refactor: leave decode cleanup to callers](https://github.com/ChainSafe/lodestar-z/pull/761#pullrequestreview-5488626230) - 2026-10-12
+* [Review] [Review on: chore: bump spec test version to v1.7.0-beta.4](https://github.com/ChainSafe/lodestar-z/pull/756#pullrequestreview-5488181316) - 2026-10-12
+* [Commit] [feat: add `bench_ssz` step (#318)](https://github.com/ChainSafe/lodestar-z/commit/874de23c5f0c7937c3b15b09f97be7948922e9f8) - 2026-10-13
+* [Commit] [feat: verify EIP-8025 execution proofs through ere's C verifier (#760)](https://github.com/ChainSafe/lodestar-z/commit/f069a4dd5aaf24e2a10e7760bb95869528648dd2) - 2026-10-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

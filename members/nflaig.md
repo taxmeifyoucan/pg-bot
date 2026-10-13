@@ -210,6 +210,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reset pendingDeposits with the fork's list type at genesis](https://github.com/ChainSafe/lodestar/pull/10353#pullrequestreview-5482770708) - 2026-10-11
 * [Issue] [investigate how we pass focil tests without having focil code](https://github.com/ChainSafe/lodestar/issues/10354) - 2026-10-11
 * [Commit] [refactor: make slot timing fork-aware to prepare for slot duration changes (#10138)](https://github.com/ChainSafe/lodestar/commit/20062ed60e2e565a1578a9172082821104b8f205) - 2026-10-11
+* [Pull Request] [ci: add nightly mixed client interop workflow](https://github.com/ChainSafe/lodestar/pull/10361) - 2026-10-12
+* [Review] [Review on: ci: add nightly mixed client interop workflow](https://github.com/ChainSafe/lodestar/pull/10361#pullrequestreview-5496939579) - 2026-10-12
+* [Review] [Review on: fix: bound engine getBlobs retries and request blobs before newPayload](https://github.com/ChainSafe/lodestar/pull/10329#pullrequestreview-5495329268) - 2026-10-12
+* [Review] [Review on: perf: decode hex natively in nodejs fromHexInto](https://github.com/ChainSafe/lodestar/pull/10358#pullrequestreview-5493693604) - 2026-10-12
+* [Review] [Review on: feat: fromHexInto() api](https://github.com/ChainSafe/lodestar/pull/8275#pullrequestreview-5494794285) - 2026-10-12
+* [Review] [Review on: test: retry oapi spec download on failure](https://github.com/ChainSafe/lodestar/pull/10364#pullrequestreview-5492881791) - 2026-10-12
+* [Review] [Review on: test: pipe dev node output in voluntary exit from api e2e test](https://github.com/ChainSafe/lodestar/pull/10360#pullrequestreview-5490274347) - 2026-10-12
+* [Review] [Review on: feat: implement quick slots EIP-8198 in heze](https://github.com/ChainSafe/lodestar/pull/10355#pullrequestreview-5488289957) - 2026-10-12
+* [Review] [Review on: chore: merge v1.50.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/10362#pullrequestreview-5491034240) - 2026-10-12
+* [Review] [Review on: chore: v1.50.0 release](https://github.com/ChainSafe/lodestar/pull/10342#pullrequestreview-5490616024) - 2026-10-12
+* [Issue] [getAttesterDuties rejects epoch 1 before genesis because the clock epoch is negative](https://github.com/ChainSafe/lodestar/issues/10369) - 2026-10-12
+* [Issue] [produceAttestationData returns the next epoch's justified checkpoint as source after the epoch transition precompute in the last slot of an epoch](https://github.com/ChainSafe/lodestar/issues/10368) - 2026-10-12
+* [Issue] [Liveness marks block-included attesters live in the block's epoch instead of the attestation's epoch](https://github.com/ChainSafe/lodestar/issues/10367) - 2026-10-12
+* [Commit] [feat: implement quick slots EIP-8198 in heze (#10355)](https://github.com/ChainSafe/lodestar/commit/83da04fef38fc1ee18127d8ba72787472cf86f31) - 2026-10-12
+* [Commit] [test: enforce native spec assertions (#10344)](https://github.com/ChainSafe/lodestar/commit/4b00f7bf39c70bba7d6ede63aec6dc03ad99b211) - 2026-10-12
+* [Commit] [fix: separate engine response timings (#10349)](https://github.com/ChainSafe/lodestar/commit/09bef4706f1b6ca366f353a7ecf981592ab631c0) - 2026-10-12
+* [Commit] [perf: avoid importing sync committee maps (#10350)](https://github.com/ChainSafe/lodestar/commit/3430a7cf041d2823489cb8ee6f45c3147788b965) - 2026-10-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -229,9 +246,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Gloas: head with an EL-unvalidated payload is treated as execution-valid; block production only stopped by the EL](https://github.com/status-im/nimbus-eth2/issues/9203) - 2026-10-05
 
+* [Issue] [Validator client doppelganger detection trips on its own block proposal in the activation epoch](https://github.com/status-im/nimbus-eth2/issues/9278) - 2026-10-12
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [fix: align fork choice v2 with beacon api spec](https://github.com/OffchainLabs/prysm/pull/17636) - 2026-10-07
 
+* [Issue] [GET /eth/v1/validator/duties/proposer/{epoch} returns the current epoch's dependent root for the next epoch](https://github.com/OffchainLabs/prysm/issues/17681) - 2026-10-12
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [Blob transactions rarely reach the peer before inclusion on a two-node devnet](https://github.com/NethermindEth/nethermind/issues/14483) - 2026-10-09
 * [Issue] [engine_getBlobsV2 stops serving a transaction's blobs as soon as it is included](https://github.com/NethermindEth/nethermind/issues/14482) - 2026-10-09
@@ -251,6 +270,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [perf: bound proposer shuffle cache](https://github.com/ChainSafe/lodestar-z/pull/770) - 2026-10-11
 * [Commit] [fix: include commit in block timing (#767)](https://github.com/ChainSafe/lodestar-z/commit/88a968b0145cfb50e75fb45bbebf4aa4021fd014) - 2026-10-12
 * [Commit] [perf: expose sync committee indices (#768)](https://github.com/ChainSafe/lodestar-z/commit/79032c552fe11947876e42ae0a8dc2d315343313) - 2026-10-11
+
+* [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5490649326) - 2026-10-12
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026
 
 

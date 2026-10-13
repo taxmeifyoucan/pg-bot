@@ -15,6 +15,7 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Update EIP-8250: Have first byte of the nonce key indicate nonce type](https://github.com/ethereum/EIPs/pull/12352#pullrequestreview-5377642187) - 2026-10-01
 * [Review] [Review on: Update EIP-8250: Have first byte of the nonce key indicate nonce type](https://github.com/ethereum/EIPs/pull/12352#pullrequestreview-5422637991) - 2026-10-06
 * [Pull Request] [Update EIP-8250: Add nonce_type as a separate transaction field](https://github.com/ethereum/EIPs/pull/12441) - 2026-10-06
+* [Review] [Review on: Update EIP-8250: make keyed nonces single-use spent flags](https://github.com/ethereum/EIPs/pull/12467#pullrequestreview-5493227282) - 2026-10-12
 ## Q3 2026
 
 

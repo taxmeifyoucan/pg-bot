@@ -230,6 +230,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/14510#pullrequestreview-5485727719) - 2026-10-12
 * [Review] [Review on: Schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/14489#pullrequestreview-5485730569) - 2026-10-12
 * [Commit] [feat(consensus): abandon a block that takes longer than a configurable timeout to process (#14487)](https://github.com/NethermindEth/nethermind/commit/e6b1d77d233af1ca0d8c60a5eb694422fcd6b612) - 2026-10-11
+* [Review] [Review on: perf(logs): hash only receipts with matching logs](https://github.com/NethermindEth/nethermind/pull/14578#pullrequestreview-5496469391) - 2026-10-12
+* [Pull Request] [fix(flat): count spool writers under the lock](https://github.com/NethermindEth/nethermind/pull/14579) - 2026-10-12
+* [Pull Request] [perf(zkevm): run no Nethermind class constructors in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/14590) - 2026-10-12
+* [Pull Request] [perf(txpool): reject underpriced replacements before recovering signatures](https://github.com/NethermindEth/nethermind/pull/14577) - 2026-10-12
+* [Pull Request] [fix(discv4): match a pong on the pinged endpoint](https://github.com/NethermindEth/nethermind/pull/14576) - 2026-10-12
+* [Review] [Review on: refactor(state): move lazy-originals ZK_EVM branches into std/zkevm partials](https://github.com/NethermindEth/nethermind/pull/14534#pullrequestreview-5490770034) - 2026-10-12
+* [Commit] [fix(flat): count spool writers under the lock (#14579)](https://github.com/NethermindEth/nethermind/commit/ad0945acde7f77e57786ea32ffe28f3678c24a90) - 2026-10-13
+* [Commit] [perf(txpool): reject underpriced replacements before recovering signatures (#14577)](https://github.com/NethermindEth/nethermind/commit/dad583f44f3a3b1e8ebbd6db94690568b69629aa) - 2026-10-12
+* [Commit] [fix(discv4): match a pong on the pinged endpoint (#14576)](https://github.com/NethermindEth/nethermind/commit/3b0837513b964a029c61841c0e48f8b43bffd10c) - 2026-10-12
+* [Commit] [refactor(state): move lazy-originals ZK_EVM branches into std/zkevm partials (#14534)](https://github.com/NethermindEth/nethermind/commit/322758c7f4d100565d1c9d4dc5ddd74a3277dd7e) - 2026-10-12
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

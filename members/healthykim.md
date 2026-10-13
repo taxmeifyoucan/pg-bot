@@ -19,6 +19,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: eth/protocols/eth: limit getCells lookup](https://github.com/ethereum/go-ethereum/pull/35883#pullrequestreview-5441904710) - 2026-10-07
 * [Commit] [eth: fix cells response to use index major (#35860)](https://github.com/ethereum/go-ethereum/commit/4f9ca6d227546a8cd58ef58125e5daf17d6a104c) - 2026-10-07
 * [Review] [Review on: eth/protocols/eth: add size checks for receipts](https://github.com/ethereum/go-ethereum/pull/35904#pullrequestreview-5455581712) - 2026-10-08
+* [Commit] [cmd/devp2p: make readAnyFrom to store unused packet (#35902)](https://github.com/ethereum/go-ethereum/commit/6ee3baf4dc22b02ea7cd233450284ed05617d61b) - 2026-10-12
+* [Commit] [cmd/devp2p: explicitly corrupt the cells for `TestBlobTxWithInvalidCells` (#35901)](https://github.com/ethereum/go-ethereum/commit/2ab037050c587bae00cbd5f91f13aaa44b5debae) - 2026-10-12
 ## Q3 2026
 
 

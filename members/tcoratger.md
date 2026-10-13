@@ -93,6 +93,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(binary-field): gather ARM cubic coordinates with ordinary loads (#2423)](https://github.com/Plonky3/Plonky3/commit/f06a3ce8f50d511be94c7ecc267e37940d5c3e0a) - 2026-10-10
 * [Commit] [perf(binary-dft): try carryless ARM butterfly reductions (#2422)](https://github.com/Plonky3/Plonky3/commit/c90f7bda221ae02a8b78c56d7b59d51a59c3c6be) - 2026-10-10
 * [Commit] [fix(fri,merkle-tree): release the hiding RNG lock before parallel work (#2368)](https://github.com/Plonky3/Plonky3/commit/b4435233cf9eef5e06f6e4cf856ebeef6db3f519) - 2026-10-10
+* [Review] [Review on: perf: reduce binary-field and bus prover overhead](https://github.com/Plonky3/Plonky3/pull/2436#pullrequestreview-5496052400) - 2026-10-12
+* [Review] [Review on: perf(binary): faster binary-field zerocheck, ring-switch sumcheck, NTT and witness generation](https://github.com/Plonky3/Plonky3/pull/2425#pullrequestreview-5496120407) - 2026-10-12
+* [Review] [Review on: perf(multi-stark): skip bus interpolation at zero](https://github.com/Plonky3/Plonky3/pull/2435#pullrequestreview-5496052188) - 2026-10-12
+* [Review] [Review on: perf(symmetric): borrow serialized binary field bytes](https://github.com/Plonky3/Plonky3/pull/2432#pullrequestreview-5496045683) - 2026-10-12
+* [Review] [Review on: perf(keccak-air): transpose packed binary witness lanes](https://github.com/Plonky3/Plonky3/pull/2431#pullrequestreview-5496045424) - 2026-10-12
+* [Review] [Review on: ci: trim the slowest main-suite tests and run only affected slow regressions](https://github.com/Plonky3/Plonky3/pull/2427#pullrequestreview-5496041974) - 2026-10-12
+* [Review] [Review on: fix(field): reject wrong-sized vectorized basis coefficient slices](https://github.com/Plonky3/Plonky3/pull/2434#pullrequestreview-5496036726) - 2026-10-12
+* [Review] [Review on: fix(poseidon2): make the Python reference permutation reproduce the default instances](https://github.com/Plonky3/Plonky3/pull/2399#pullrequestreview-5496047991) - 2026-10-12
+* [Review] [Review on: test(binary-pcs): pin the Boolean backends' commit binding against their verifiers'](https://github.com/Plonky3/Plonky3/pull/2428#pullrequestreview-5496038572) - 2026-10-12
+* [Review] [Review on: fix(uni-stark)!: reject mis-shaped input in the public verifier helpers](https://github.com/Plonky3/Plonky3/pull/2401#pullrequestreview-5496048299) - 2026-10-12
+* [Review] [Review on: fix(field): reject mismatched lengths in the scaled slice add](https://github.com/Plonky3/Plonky3/pull/2430#pullrequestreview-5496036357) - 2026-10-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

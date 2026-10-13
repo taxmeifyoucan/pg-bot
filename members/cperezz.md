@@ -14,6 +14,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427#pullrequestreview-5420250048) - 2026-10-05
 
 * [Pull Request] [Update EIP-8298: close spec gaps found writing tests; assign opcode 0xA7](https://github.com/ethereum/EIPs/pull/12480) - 2026-10-11
+* [Commit] [Update EIP-8298: close spec gaps found writing tests; assign opcode 0xA7](https://github.com/ethereum/EIPs/commit/fa3915674078b4e79252df34ac9599d4195f11b1) - 2026-10-12
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [PBT migration: BAL follower stalls after an anchor import](https://github.com/NethermindEth/nethermind/issues/14259) - 2026-10-05
 
@@ -26,6 +27,9 @@ Github: [@cperezz](https://github.com/cperezz)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5482738375) - 2026-10-11
 * [Pull Request] [feat(spec-specs,tests,test-forks,test-types,test-vm): implement EIP-8298 SETCODEFROM](https://github.com/ethereum/execution-specs/pull/3769) - 2026-10-11
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 ## Q3 2026
 
 

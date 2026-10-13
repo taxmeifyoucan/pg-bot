@@ -72,6 +72,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: fix publication of self-built Gloas blocks and payloads (#24545)](https://github.com/erigontech/erigon/commit/b4b4dda5194cef78c08ce56d7ebb520938926bea) - 2026-10-10
 * [Pull Request] [cl/sentinel/handlers: return zero chunks for data column by-root misses](https://github.com/erigontech/erigon/pull/24772) - 2026-10-11
 * [Pull Request] [cl/phase1/forkchoice: reject attester slashings with no slashable validator, handle huge indices](https://github.com/erigontech/erigon/pull/24771) - 2026-10-11
+* [Review] [Review on: [r3.7] cl/beacon/handler: size attestation candidates by their new attesters](https://github.com/erigontech/erigon/pull/24812#pullrequestreview-5498218068) - 2026-10-13
+* [Pull Request] [[r3.7] cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24820) - 2026-10-13
+* [Review] [Review on: cl/clparams: use the gnosis data column request window on gnosis and chiado](https://github.com/erigontech/erigon/pull/24720#pullrequestreview-5489338761) - 2026-10-12
+* [Review] [Review on: cl: pack locally aggregated attestations into proposed blocks](https://github.com/erigontech/erigon/pull/24813#pullrequestreview-5498580679) - 2026-10-13
+* [Review] [Review on: cl/p2p: cap connections per /24 and /16 in the resource manager](https://github.com/erigontech/erigon/pull/24815#pullrequestreview-5498280123) - 2026-10-13
+* [Review] [Review on: cl/beacon/handler: answer 206 from node health while syncing](https://github.com/erigontech/erigon/pull/24719#pullrequestreview-5489333198) - 2026-10-12
+* [Review] [Review on: cl/phase1/forkchoice: build the next justified checkpoint state early](https://github.com/erigontech/erigon/pull/23981#pullrequestreview-5498360437) - 2026-10-13
+* [Review] [Review on: cl/beacon/handler: read historical proposer lookahead by epoch start slot](https://github.com/erigontech/erigon/pull/24666#pullrequestreview-5498289032) - 2026-10-13
+* [Review] [Review on: cl/transition: verify the payload withdrawals root before applying withdrawals](https://github.com/erigontech/erigon/pull/24803#pullrequestreview-5498187662) - 2026-10-13
+* [Pull Request] [cl/phase1/forkchoice, cl/phase1/network/services: ignore local block import errors and attester slashings that need an unavailable justified state](https://github.com/erigontech/erigon/pull/24821) - 2026-10-13
+* [Pull Request] [cl/phase1/network, cl/beacon/handler: handle gloas proposer preferences in the epoch before the fork](https://github.com/erigontech/erigon/pull/24809) - 2026-10-12
+* [Commit] [cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic (#24629)](https://github.com/erigontech/erigon/commit/faab4973a36a6b7cddd4878eda990ab2ba0ce3eb) - 2026-10-12
+* [Commit] [cl/phase1/network: defer the gloas checkpoint anchor when the checkpoint url cannot serve its child (#24708)](https://github.com/erigontech/erigon/commit/597ab645bd5344b3c0c1480ac4ff9a4eff96e00e) - 2026-10-12
+* [Commit] [cl/sentinel/handlers: return zero chunks for data column by-root misses (#24772)](https://github.com/erigontech/erigon/commit/9a3419c6a3e6bfa674325bdd94515b748714c1e3) - 2026-10-12
+* [Commit] [cl/phase1/forkchoice: reject attester slashings with no slashable validator, handle huge indices (#24771)](https://github.com/erigontech/erigon/commit/0dd54f41245733fb9aa978e7b87753f7711d390d) - 2026-10-12
+* [Commit] [cl/phase1/network/services: accept aggregates of a new epoch before its first block (#24766)](https://github.com/erigontech/erigon/commit/99d56b2d489eb4683d58b1fb33c3a67a3bea62b0) - 2026-10-12
 ## Q3 2026
 
 

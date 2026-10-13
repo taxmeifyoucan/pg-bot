@@ -71,6 +71,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Give each empty block its own creation timing (#11461)](https://github.com/besu-eth/besu/commit/5be8fe380e9ad9e95625eeb351f84ca3521bfffd) - 2026-10-09
 * [Commit] [Keep the wrapped account's analysed code in update tracking accounts (#11508)](https://github.com/besu-eth/besu/commit/62df7321110d24637b07352ed6241d40d0320308) - 2026-10-09
 * [Commit] [Pay from the current address in the PAY opcode (#11544)](https://github.com/besu-eth/besu/commit/a4dd220f7603f2d67db6e28ed9c98e302229081f) - 2026-10-09
+* [Review] [Review on: Fix layered txpool corruption on sparse promotion and late selection results](https://github.com/besu-eth/besu/pull/11462#pullrequestreview-5493814292) - 2026-10-12
+* [Pull Request] [Report a client hang-up during JSON-RPC streaming as a closed connection](https://github.com/besu-eth/besu/pull/11459) - 2026-10-12
+* [Pull Request] [Reject transactions with an unrecoverable signature as invalid](https://github.com/besu-eth/besu/pull/11458) - 2026-10-12
+* [Pull Request] [Update finalized once per backward sync session](https://github.com/besu-eth/besu/pull/11457) - 2026-10-12
+* [Commit] [Schedule Amsterdam on Hoodi (#11531)](https://github.com/besu-eth/besu/commit/059671c96877f20999a4902b6aeccaed59a2fa51) - 2026-10-12
+* [Commit] [Update finalized once per backward sync session (#11457)](https://github.com/besu-eth/besu/commit/80fbaad97ef7e983317e4a0c0d9d1d7009ebd41a) - 2026-10-12
+* [Commit] [Reject transactions with an unrecoverable signature as invalid (#11458)](https://github.com/besu-eth/besu/commit/418cce2e9a85bc113845e5dbf71f076d2f410a24) - 2026-10-12
+* [Commit] [Report a client hang-up during JSON-RPC streaming as a closed connection (#11459)](https://github.com/besu-eth/besu/commit/28527f3a8f5840ac996dcf8399f0c30ca4485da0) - 2026-10-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

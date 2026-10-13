@@ -167,6 +167,24 @@ Team: Reth
 * [Commit] [test(node): remove redundant e2e and unit tests (#27823)](https://github.com/paradigmxyz/reth/commit/8b5ec15783213b4e6d2ba90a02a60cb5ca29b546) - 2026-10-09
 * [Commit] [test(node): remove redundant arg and harness tests (#27820)](https://github.com/paradigmxyz/reth/commit/aab51ee174f9eb80f13f18374140de613a40d065) - 2026-10-09
 * [Review] [Review on: fix: fix the addresses for frame system contracts](https://github.com/paradigmxyz/reth/pull/27854#pullrequestreview-5481648807) - 2026-10-11
+* [Pull Request] [fix: evict low-tip nonce chains first](https://github.com/paradigmxyz/reth/pull/27871) - 2026-10-12
+* [Pull Request] [fix(net): cap peer authorization batches](https://github.com/paradigmxyz/reth/pull/27870) - 2026-10-12
+* [Pull Request] [fix(txpool): skip foreign-chain 7702 auths](https://github.com/paradigmxyz/reth/pull/27869) - 2026-10-12
+* [Pull Request] [fix(discv4): bind pong to pinged IP](https://github.com/paradigmxyz/reth/pull/27868) - 2026-10-12
+* [Review] [Review on: fix(rpc): reuse cached senders in transaction_by_hash](https://github.com/paradigmxyz/reth/pull/27816#pullrequestreview-5496731754) - 2026-10-12
+* [Review] [Review on: fix(ipc): keep truncated requests at the limit](https://github.com/paradigmxyz/reth/pull/27866#pullrequestreview-5495576013) - 2026-10-12
+* [Review] [Review on: fix(ipc): stop buffering oversized requests](https://github.com/paradigmxyz/reth/pull/27864#pullrequestreview-5495196141) - 2026-10-12
+* [Review] [Review on: perf(rpc): skip compression on loopback servers](https://github.com/paradigmxyz/reth/pull/27865#pullrequestreview-5495207759) - 2026-10-12
+* [Review] [Review on: perf(rpc): compress only large responses, fastest](https://github.com/paradigmxyz/reth/pull/27863#pullrequestreview-5495007132) - 2026-10-12
+* [Pull Request] [test(e2e): fix snap sync persistence flake](https://github.com/paradigmxyz/reth/pull/27862) - 2026-10-12
+* [Review] [Review on: refactor(snap-sync): keep compact reorg ancestry](https://github.com/paradigmxyz/reth/pull/27617#pullrequestreview-5494694662) - 2026-10-12
+* [Review] [Review on: chore: fix opcode number of 7906](https://github.com/paradigmxyz/reth/pull/27858#pullrequestreview-5494707221) - 2026-10-12
+* [Review] [Review on: ci: re-audit Cyclops-reviewed PRs on each push](https://github.com/paradigmxyz/reth/pull/27753#pullrequestreview-5494499915) - 2026-10-12
+* [Commit] [fix(txpool): skip foreign-chain 7702 auths (#27869)](https://github.com/paradigmxyz/reth/commit/fd63effaef0d90e1df89045c13c78e6d1c08f14a) - 2026-10-12
+* [Commit] [fix(discv4): bind pong to pinged IP (#27868)](https://github.com/paradigmxyz/reth/commit/de92a04697e88bc6fb8a7f41813f2a20c4f45eb4) - 2026-10-12
+* [Commit] [test(e2e): fix snap sync persistence flake (#27862)](https://github.com/paradigmxyz/reth/commit/bb1396c48c0a8c855b50de645ee803f4d092f9b1) - 2026-10-12
+* [Commit] [perf(ef-tests): share RocksDB across test cases (#27847)](https://github.com/paradigmxyz/reth/commit/a288cbb647f425a0d553a05e1becebd1d46fa469) - 2026-10-12
+* [Commit] [perf(ci): run ef-tests temp dirs on tmpfs (#27851)](https://github.com/paradigmxyz/reth/commit/e938109cc3b642a64725df3bd74aa703b4a21ffb) - 2026-10-12
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

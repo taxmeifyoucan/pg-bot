@@ -21,6 +21,9 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Report a missing block from the basic simulator instead of panicking](https://github.com/sigp/lighthouse/pull/10205#pullrequestreview-5436525455) - 2026-10-07
 * [Review] [Review on: Add SSZ response support for validator_balances endpoints](https://github.com/sigp/lighthouse/pull/10082#pullrequestreview-5435991605) - 2026-10-07
 * [Review] [Review on: Schedule Gloas on Hoodi](https://github.com/sigp/lighthouse/pull/10304#pullrequestreview-5485958275) - 2026-10-12
+* [Pull Request] [Propagate error for ``import_execution_payload_envelope``](https://github.com/sigp/lighthouse/pull/10332) - 2026-10-13
+* [Pull Request] [Reject future-slot blocks before writing to the `block_times_cache`](https://github.com/sigp/lighthouse/pull/10331) - 2026-10-13
+* [Pull Request] [Reject `SingleAttestation` with large index earlier](https://github.com/sigp/lighthouse/pull/10330) - 2026-10-13
 ## Q3 2026
 
 

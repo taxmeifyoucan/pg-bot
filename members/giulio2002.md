@@ -13,6 +13,9 @@ Team: Erigon
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [remove Giulio2002](https://github.com/protocolguild/documentation/pull/565) - 2026-10-06
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [go.mod: update go-eth-kzg](https://github.com/ethereum/go-ethereum/pull/35942) - 2026-10-12
 ## Q3 2026
 
 

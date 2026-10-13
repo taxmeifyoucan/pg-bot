@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [Revisit fork choice compliance test suite (compTests)](https://github.com/Consensys-Incorporated/teku/issues/11457) - 2026-10-09
 * [Issue] [Clear builder payment on slashing](https://github.com/Consensys-Incorporated/teku/issues/11456) - 2026-10-09
 * [Commit] [Bump ref test to beta3 (#11444)](https://github.com/Consensys-Incorporated/teku/commit/10e03bc6862c32f1bbfd11eea80dff5f61c1f1d1) - 2026-10-09
+* [Pull Request] [Fetch envelopes by range from canonical chain](https://github.com/Consensys-Incorporated/teku/pull/11477) - 2026-10-12
 ## Q3 2026
 
 

@@ -40,6 +40,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Settle the builder payment before processing parent execution requests (#17661)](https://github.com/OffchainLabs/prysm/commit/849e801d11b8e7a6b3a96172f16dcc24dd6557a1) - 2026-10-10
 * [Commit] [Schedule the Gloas fork on Hoodi (#17650)](https://github.com/OffchainLabs/prysm/commit/9cf66c5c4d15914a73f9097492d9d7d96d87b378) - 2026-10-10
 * [Commit] [Charge the envelopes by-range rate limit for the full count before reconstruction (#17655)](https://github.com/OffchainLabs/prysm/commit/9ed8d3804b78afa982a29487faa5c9ebd13de1fb) - 2026-10-10
+* [Review] [Review on: Use the target's shuffling dependent root in getRecentPreState](https://github.com/OffchainLabs/prysm/pull/17649#pullrequestreview-5493591803) - 2026-10-12
+* [Review] [Review on: Don't fire `chain_reorg` when only the Gloas payload status flips](https://github.com/OffchainLabs/prysm/pull/17534#pullrequestreview-5493605181) - 2026-10-12
+* [Review] [Review on: Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662#pullrequestreview-5492731905) - 2026-10-12
+* [Commit] [Dispatch data column gossip validation on the sidecar wire type (#17653)](https://github.com/OffchainLabs/prysm/commit/1e4b04d821b6f41bdd3608e0879e7645a0736b61) - 2026-10-13
+* [Commit] [Proposer: respect PTC blob data unavailable majority (#17537)](https://github.com/OffchainLabs/prysm/commit/c058bc3b784d94a5cf577de5c16ae60bf83e641a) - 2026-10-12
+* [Commit] [Read the head state under the same lock as the head root in GetAttestationData (#17654)](https://github.com/OffchainLabs/prysm/commit/70dd0d4fa8e2a799a16eb85092a66af361fb7415) - 2026-10-12
+* [Commit] [Clear every pending builder payment of a slashed proposer (#17662)](https://github.com/OffchainLabs/prysm/commit/8b2361ac4ae4054d38a470efcb1777b0da3bfbd9) - 2026-10-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

@@ -8,6 +8,11 @@ Team: [Research](https://github.com/luca-zanolini/research)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Change luca-zanolini weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/576) - 2026-10-12
 ## Q3 2026
 
 
