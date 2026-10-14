@@ -34,6 +34,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Handle restart when first slot of finalized epoch was missed](https://github.com/status-im/nimbus-eth2/pull/9276) - 2026-10-12
 * [Review] [Review on: Handle restart when first slot of finalized epoch was missed](https://github.com/status-im/nimbus-eth2/pull/9276#pullrequestreview-5496931363) - 2026-10-12
 * [Pull Request] [Add Dockerfile for OSS Scanner](https://github.com/status-im/nimbus-eth2/pull/9268) - 2026-10-12
+* [Pull Request] [Implement gossip rule to ignore multiple blocks from same proposer@slot](https://github.com/status-im/nimbus-eth2/pull/9280) - 2026-10-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

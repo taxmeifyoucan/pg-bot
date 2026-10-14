@@ -146,6 +146,20 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(aura): treat a failed withdrawals system call as an invalid block](https://github.com/NethermindEth/nethermind/pull/14530#pullrequestreview-5487764123) - 2026-10-12
 * [Review] [Review on: fix(sync): score proof-only snap storage replies as failed ranges](https://github.com/NethermindEth/nethermind/pull/14547#pullrequestreview-5487876502) - 2026-10-12
 * [Review] [Review on: fix(consensus): dequeue withdrawal and consolidation requests from the spec-configured contracts](https://github.com/NethermindEth/nethermind/pull/14515#pullrequestreview-5487423604) - 2026-10-12
+* [Pull Request] [fix(test-runner): keep traced nethtest stderr JSON-only and dispose state-test containers asynchronously](https://github.com/NethermindEth/nethermind/pull/14638) - 2026-10-14
+* [Pull Request] [fix(simulate): skip the stale canonical marker walk when resetting the overlay head](https://github.com/NethermindEth/nethermind/pull/14636) - 2026-10-14
+* [Pull Request] [fix(flat): fail fast with no-state when the persisted pointer outlives the snap-sync wipe](https://github.com/NethermindEth/nethermind/pull/14635) - 2026-10-14
+* [Pull Request] [chore: Update Dockerfiles to .NET 10.0.13](https://github.com/NethermindEth/nethermind/pull/14632) - 2026-10-13
+* [Review] [Review on: fix(bal): stop parallel validation once a transaction fails](https://github.com/NethermindEth/nethermind/pull/14605#pullrequestreview-5508322617) - 2026-10-13
+* [Review] [Review on: chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/14628#pullrequestreview-5508991159) - 2026-10-13
+* [Pull Request] [ci: download the renamed tests-frames-devnet@v1.0.0 fixture archive](https://github.com/NethermindEth/nethermind/pull/14621) - 2026-10-13
+* [Review] [Review on: chore(deps): update RocksDB package](https://github.com/NethermindEth/nethermind/pull/14617#pullrequestreview-5506744396) - 2026-10-13
+* [Issue] [Gnosis archive proofs: eth_getProof 'State proof ... unavailable' below ~block 1.3–1.6M despite full coverage](https://github.com/NethermindEth/nethermind/issues/14637) - 2026-10-14
+* [Commit] [fix(specs): use each chain's deposit contract in the Sepolia, Gnosis and Chiado fork schedules (#14506)](https://github.com/NethermindEth/nethermind/commit/f00cb32e0dac07f52fc4ce39f1297c7600652ff7) - 2026-10-14
+* [Commit] [fix(optimism): compute the Jovian base fee without mutating the parent header (#14537)](https://github.com/NethermindEth/nethermind/commit/557a27a0f508beb0620e42989bdb0798c32e461d) - 2026-10-14
+* [Commit] [fix(network): reject a stale remote fork id whose next fork does not match ours (#14521)](https://github.com/NethermindEth/nethermind/commit/44d7d4aebfa0bb45d1e18bd16093d19d6756a4b7) - 2026-10-13
+* [Commit] [fix(benchmark): chain BlockProcessingBenchmark scenario blocks to their parent header (#14477)](https://github.com/NethermindEth/nethermind/commit/78f8c34207ce1dddbef2586bd3312262a83e7fb2) - 2026-10-13
+* [Commit] [ci: download the renamed tests-frames-devnet@v1.0.0 fixture archive (#14621)](https://github.com/NethermindEth/nethermind/commit/2f387ee1fe7bfe512be1a3d28f734e2986a53282) - 2026-10-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

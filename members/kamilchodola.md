@@ -51,6 +51,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(rpc): report precompile failures with go-ethereum's error text (#14281)](https://github.com/NethermindEth/nethermind/commit/0213c60141ee37df619c8c10eb52a9aea2e083a8) - 2026-10-09
 * [Commit] [perf(validation): recover EIP-2780 senders in the block validator only when intrinsic gas needs them (#14468)](https://github.com/NethermindEth/nethermind/commit/4136ecc8d34ab8d8ecc4b2d9d31b78e2edebacbd) - 2026-10-09
 * [Commit] [Stop an idle mempool pre-warm session without waiting for it (#14467)](https://github.com/NethermindEth/nethermind/commit/83c4a905699dbbaddcf8efa4bbcfd5503e6760d5) - 2026-10-09
+* [Commit] [Warm the trie node a storage delete collapses into (#14495)](https://github.com/NethermindEth/nethermind/commit/d6f7370e39131794d4b7dc0629a3cbfc07c8e479) - 2026-10-13
 ## Q3 2026
 
 

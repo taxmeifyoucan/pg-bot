@@ -58,6 +58,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump nim-eth](https://github.com/status-im/nimbus-eth2/pull/9251) - 2026-10-10
 * [Pull Request] [near fork transitions, allow keeping peers unaware of upcoming transition](https://github.com/status-im/nimbus-eth2/pull/9279) - 2026-10-13
 * [Pull Request] [bump nim-secp256k1](https://github.com/status-im/nimbus-eth2/pull/9267) - 2026-10-12
+* [Pull Request] [record doppelganger activity upon block publishing](https://github.com/status-im/nimbus-eth2/pull/9281) - 2026-10-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

@@ -31,6 +31,15 @@ Team: Grandine
 * [Commit] [Don't emit out of sync error in validator client if there are no peers with newer head slot](https://github.com/grandinetech/grandine/commit/19c46a250799610d084203718c06b0a239ab0c51) - 2026-10-09
 * [Commit] [Check head epoch against current epoch before emitting out of sync error](https://github.com/grandinetech/grandine/commit/7b37c61a5eaf489a2e4f415b38a8195462340e5a) - 2026-10-09
 * [Commit] [Refine validator client beacon node out of sync message](https://github.com/grandinetech/grandine/commit/28658a8202bf5ac1211c4ec722f3f9586ec7bb07) - 2026-10-09
+* [Pull Request] [Update consensus-spec-tests to v1.7.0-beta.4](https://github.com/grandinetech/grandine/pull/983) - 2026-10-13
+* [Review] [Review on: AI setup for grandine](https://github.com/grandinetech/grandine/pull/981#pullrequestreview-5502808720) - 2026-10-13
+* [Review] [Review on: Optimize epoch processing for gloas](https://github.com/grandinetech/grandine/pull/957#pullrequestreview-5502615516) - 2026-10-13
+* [Pull Request] [Schedule Gloas fork activation on Hoodi](https://github.com/grandinetech/grandine/pull/980) - 2026-10-13
+* [Issue] [Update to consensus specs v1.7.0-beta.4](https://github.com/grandinetech/grandine/issues/978) - 2026-10-13
+* [Issue] [Cleanup log output](https://github.com/grandinetech/grandine/issues/982) - 2026-10-13
+* [Issue] [Schedule Gloas fork on Hoodi](https://github.com/grandinetech/grandine/issues/979) - 2026-10-13
+* [Commit] [Update consensus-spec-tests to v1.7.0-beta.3](https://github.com/grandinetech/grandine/commit/2393c3c3e52de776c7b3e56e56bf62b112ee9994) - 2026-10-13
+* [Commit] [Schedule Gloas fork activation on Hoodi](https://github.com/grandinetech/grandine/commit/9520d2e13876d7fc062029175a1a043c8d8534bc) - 2026-10-13
 ## Q3 2026
 
 

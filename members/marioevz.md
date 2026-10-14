@@ -29,6 +29,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: perf(test-fill, test-forks): cut per-test and collection overhead](https://github.com/ethereum/execution-specs/pull/3785#pullrequestreview-5496523110) - 2026-10-12
 * [Review] [Review on: feat(spec-specs,tests,test-forks,test-types,test-vm): implement EIP-8298 SETCODEFROM](https://github.com/ethereum/execution-specs/pull/3769#pullrequestreview-5494058894) - 2026-10-12
 * [Review] [Review on: feat(spec-specs,test-forks,tests): charge EIP-8250 keyed nonce access in intrinsic gas and the calldata floor](https://github.com/ethereum/execution-specs/pull/3756#pullrequestreview-5493581342) - 2026-10-12
+* [Review] [Review on: chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758#pullrequestreview-5511980390) - 2026-10-14
+* [Review] [Review on: perf(test-types): compute allocation state roots incrementally](https://github.com/ethereum/execution-specs/pull/3782#pullrequestreview-5511461401) - 2026-10-13
+* [Review] [Review on: fix(spec-specs, tests): handle the modexp base length overflow before Osaka](https://github.com/ethereum/execution-specs/pull/3806#pullrequestreview-5511077656) - 2026-10-13
+* [Review] [Review on: fix(spec-tests): create the json_loader fork cache at configure](https://github.com/ethereum/execution-specs/pull/3819#pullrequestreview-5510672582) - 2026-10-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

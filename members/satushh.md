@@ -34,6 +34,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Add `SaveBlindedExecutionPayloadEnvelope` with typed save outcomes](https://github.com/OffchainLabs/prysm/pull/17674) - 2026-10-12
 * [Review] [Review on: Backfill: Fix Gloas](https://github.com/OffchainLabs/prysm/pull/17632#pullrequestreview-5489175233) - 2026-10-12
 * [Commit] [Add Heze fork config placeholders (#17678)](https://github.com/OffchainLabs/prysm/commit/c64fc6611b9bb2769e03245cf8a6883c0b882cf7) - 2026-10-12
+* [Commit] [Bound RPC decoding by SSZ type size (#17660)](https://github.com/OffchainLabs/prysm/commit/fac5fcf25f09ada8dcc907fbecb6e8be03c302bf) - 2026-10-13
 ## Q3 2026
 
 

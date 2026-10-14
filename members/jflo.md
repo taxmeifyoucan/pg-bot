@@ -30,6 +30,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Validate batch size when using a stop condition](https://github.com/besu-eth/besu/pull/11479#pullrequestreview-5445560161) - 2026-10-07
 * [Pull Request] [Install the EIP-8141 expiry verifier when Bogota activates](https://github.com/besu-eth/besu/pull/11527) - 2026-10-08
 * [Pull Request] [test: close three silent coverage gaps in the evmtool fixture runners](https://github.com/besu-eth/besu/pull/11552) - 2026-10-09
+
+* [Pull Request] [feat: add an EIP-8141 public mempool for frame transactions](https://github.com/besu-eth/besu/pull/11582) - 2026-10-13
+* [Review] [Review on: test: close three silent coverage gaps in the evmtool fixture runners](https://github.com/besu-eth/besu/pull/11552#pullrequestreview-5507726919) - 2026-10-13
+* [Pull Request] [feat: render EIP-8141 frame transactions and receipts over JSON-RPC](https://github.com/besu-eth/besu/pull/11581) - 2026-10-13
+* [Review] [Review on: feat: render EIP-8141 frame transactions and receipts over JSON-RPC](https://github.com/besu-eth/besu/pull/11581#pullrequestreview-5507086443) - 2026-10-13
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026
 
 

@@ -79,6 +79,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Update finalized once per backward sync session (#11457)](https://github.com/besu-eth/besu/commit/80fbaad97ef7e983317e4a0c0d9d1d7009ebd41a) - 2026-10-12
 * [Commit] [Reject transactions with an unrecoverable signature as invalid (#11458)](https://github.com/besu-eth/besu/commit/418cce2e9a85bc113845e5dbf71f076d2f410a24) - 2026-10-12
 * [Commit] [Report a client hang-up during JSON-RPC streaming as a closed connection (#11459)](https://github.com/besu-eth/besu/commit/28527f3a8f5840ac996dcf8399f0c30ca4485da0) - 2026-10-12
+* [Review] [Review on: Introduce TransactionEventNotifier and notify plugins asynchronously](https://github.com/besu-eth/besu/pull/11574#pullrequestreview-5508283715) - 2026-10-13
+* [Review] [Review on: Fix a lost wake-up in AsyncOperationProcessor that can stall snap sync](https://github.com/besu-eth/besu/pull/11514#pullrequestreview-5503530494) - 2026-10-13
+* [Pull Request] [Keep block import going while the chain history downloads](https://github.com/besu-eth/besu/pull/11577) - 2026-10-13
+* [Pull Request] [Complete snap sync without the chain history and download it afterwards](https://github.com/besu-eth/besu/pull/11576) - 2026-10-13
+* [Pull Request] [Import snap sync blocks as their downloads complete](https://github.com/besu-eth/besu/pull/11575) - 2026-10-13
+* [Review] [Review on: Stop all snap sync download pipelines when one of them fails](https://github.com/besu-eth/besu/pull/11515#pullrequestreview-5503237098) - 2026-10-13
+* [Pull Request] [Check the closed state of a layered storage on its root](https://github.com/besu-eth/besu/pull/11573) - 2026-10-13
+* [Commit] [Fix a lost wake-up in AsyncOperationProcessor that can stall snap sync (#11514)](https://github.com/besu-eth/besu/commit/e68ad78eebd2f28081ef59d50266c79b9b1ac019) - 2026-10-13
+* [Commit] [Request the storage of an account only for the account range it belongs to (#11516)](https://github.com/besu-eth/besu/commit/6f72fbeca3f8547590296185ee64739fb0a28de4) - 2026-10-13
+* [Commit] [Stop all snap sync download pipelines when one of them fails (#11515)](https://github.com/besu-eth/besu/commit/209790f00ef66625b3aed59c800efe7cf4930b02) - 2026-10-13
+* [Commit] [Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade (#11364)](https://github.com/besu-eth/besu/commit/5056dc594e5fba50fa91403db838c81498692bd3) - 2026-10-13
+* [Commit] [Fix layered txpool corruption on sparse promotion and late selection results (#11462)](https://github.com/besu-eth/besu/commit/5349e088859f39d3a2a32f553242d0672f6f9773) - 2026-10-13
+* [Commit] [Serialize head world state writes in the world state provider (#11402)](https://github.com/besu-eth/besu/commit/25243b2ee814cdb930262f3f00f8644542da2242) - 2026-10-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

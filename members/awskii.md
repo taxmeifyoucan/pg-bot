@@ -75,6 +75,8 @@ Team: Erigon
 * [Review] [Review on: exec: restore the stateObject arena, the shared committed read and the SetCode code reuse](https://github.com/erigontech/erigon/pull/24687#pullrequestreview-5466886616) - 2026-10-09
 * [Review] [Review on: exec: `codeCache` migrate `addrToCodeHash` to lock-free cache](https://github.com/erigontech/erigon/pull/24775#pullrequestreview-5486701912) - 2026-10-12
 * [Issue] [db/state: commitment rebuild with history writes every step's history twice](https://github.com/erigontech/erigon/issues/24780) - 2026-10-12
+* [Pull Request] [execution/engineapi, execution/execmodule: download the missing segment when a forkchoice update hits a header gap](https://github.com/erigontech/erigon/pull/24865) - 2026-10-13
+* [Commit] [cl: recheck the head root in the cached-state fast path and test the head-copy paths (#23962)](https://github.com/erigontech/erigon/commit/02be1a7893e87cf3ec748aeb45796345ba48457f) - 2026-10-13
 ## Q3 2026
 
 

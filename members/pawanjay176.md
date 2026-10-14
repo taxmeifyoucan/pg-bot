@@ -19,6 +19,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Remove the Router and dispatch network events directly](https://github.com/sigp/lighthouse/pull/10122#pullrequestreview-5435222884) - 2026-10-06
 * [Pull Request] [Small cache fixes](https://github.com/sigp/lighthouse/pull/10259) - 2026-10-07
 * [Review] [Review on: Add `safe_block_hash` and `finalized_block_hash` to Payload Attributes event](https://github.com/sigp/lighthouse/pull/10244#pullrequestreview-5448610720) - 2026-10-07
+* [Review] [Review on: Remove the Router and dispatch network events directly](https://github.com/sigp/lighthouse/pull/10122#pullrequestreview-5511112644) - 2026-10-13
+* [Review] [Review on: refactor(network): group peer_manager RPC protocol match arms](https://github.com/sigp/lighthouse/pull/10297#pullrequestreview-5511520532) - 2026-10-14
+* [Review] [Review on: Drop PayloadVerificationStatus::is_optimistic](https://github.com/sigp/lighthouse/pull/10335#pullrequestreview-5508869534) - 2026-10-13
+* [Review] [Review on: Reject future-slot blocks before writing to the `block_times_cache`](https://github.com/sigp/lighthouse/pull/10331#pullrequestreview-5508976532) - 2026-10-13
+* [Review] [Review on: Propagate error for ``import_execution_payload_envelope``](https://github.com/sigp/lighthouse/pull/10332#pullrequestreview-5509061143) - 2026-10-13
+* [Review] [Review on: Reject `SingleAttestation` with large index earlier](https://github.com/sigp/lighthouse/pull/10330#pullrequestreview-5508899216) - 2026-10-13
+* [Review] [Review on: Add builder bid identity to the block event](https://github.com/sigp/lighthouse/pull/10333#pullrequestreview-5509020556) - 2026-10-13
+* [Review] [Review on: Limit commitments in partial data column header](https://github.com/sigp/lighthouse/pull/10334#pullrequestreview-5509046319) - 2026-10-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

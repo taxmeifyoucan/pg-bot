@@ -46,6 +46,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [snap/2: keep world state requests in flight](https://github.com/besu-eth/besu/pull/11560) - 2026-10-12
 * [Review] [Review on: Schedule Amsterdam on Hoodi](https://github.com/besu-eth/besu/pull/11531#pullrequestreview-5487006113) - 2026-10-12
 * [Pull Request] [snap/2: fix missing trie node when applying BALs at pivot catch-up](https://github.com/besu-eth/besu/pull/11558) - 2026-10-12
+* [Review] [Review on: Fix a lost wake-up in AsyncOperationProcessor that can stall snap sync](https://github.com/besu-eth/besu/pull/11514#pullrequestreview-5503127764) - 2026-10-13
+* [Review] [Review on: refactor: rerun failed parallel blocks on the same processor](https://github.com/besu-eth/besu/pull/11571#pullrequestreview-5504659696) - 2026-10-13
+* [Review] [Review on: Stop all snap sync download pipelines when one of them fails](https://github.com/besu-eth/besu/pull/11515#pullrequestreview-5503020669) - 2026-10-13
 ## Q3 2026
 
 

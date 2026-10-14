@@ -37,6 +37,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [EIP-8198: Make `SlotClock` aware of slot duration schedule](https://github.com/sigp/lighthouse/pull/10314) - 2026-10-12
 * [Review] [Review on: Gloas spec v1.7.0-beta.4](https://github.com/sigp/lighthouse/pull/10307#pullrequestreview-5486807683) - 2026-10-12
 * [Pull Request] [EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313) - 2026-10-12
+* [Review] [Review on: EIP-8198: Use slot duration schedule in timers and duty loops](https://github.com/sigp/lighthouse/pull/10316#pullrequestreview-5512579688) - 2026-10-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

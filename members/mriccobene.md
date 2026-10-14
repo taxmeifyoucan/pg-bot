@@ -24,6 +24,7 @@ Team: Erigon
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
 * [Review] [Review on: QA: generate the latest eth_call and mixed patterns at the tip in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/24663#pullrequestreview-5462009048) - 2026-10-08
+* [Commit] [qa-tests: add a deep workspace cleanup step to all workflows (#24841)](https://github.com/erigontech/erigon/commit/437bc1d1520c8a93a21ab0f0920a3793c290ccbe) - 2026-10-13
 ## Q3 2026
 
 

@@ -41,6 +41,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: derive EIP-8198 slot duration from fork config](https://github.com/ethpandaops/dora/pull/895) - 2026-10-09
 * [Review] [Review on: feat: derive EIP-8198 slot duration from fork config](https://github.com/ethpandaops/dora/pull/895#pullrequestreview-5469464285) - 2026-10-09
 * [Review] [Review on: updates for spec `v1.7.0-beta.4`](https://github.com/ethpandaops/dora/pull/897#pullrequestreview-5494471002) - 2026-10-12
+* [Review] [Review on: build(deps): bump the dependencies group with 6 updates](https://github.com/ethpandaops/dora/pull/898#pullrequestreview-5502381290) - 2026-10-13
+* [Review] [Review on: build(deps): bump the ui-package-dependencies group in /ui-package with 6 updates](https://github.com/ethpandaops/dora/pull/899#pullrequestreview-5502384754) - 2026-10-13
+* [Commit] [Merge pull request #899 from ethpandaops/dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e7c9cf5256](https://github.com/ethpandaops/dora/commit/b40b2706f085075efec664a5fda5401a3287e92e) - 2026-10-13
+* [Commit] [Merge branch 'master' into dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e7c9cf5256](https://github.com/ethpandaops/dora/commit/afa5ff35c3b60b729a8a7b7dad82970a576ca494) - 2026-10-13
+* [Commit] [Merge pull request #897 from ethpandaops/pk910/focil-devnet-2-prep](https://github.com/ethpandaops/dora/commit/3ab285580973694b3e9225cc05208c4d4473643a) - 2026-10-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -54,6 +59,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [inventory: keep genesis chain id within 32-bit range (#188)](https://github.com/ethpandaops/template-devnets/commit/4e6a5a04ea076d1b2629129d874cd4559259e9d9) - 2026-10-07
 * [Pull Request] [chore: bump sops to 3.13.3](https://github.com/ethpandaops/template-devnets/pull/196) - 2026-10-08
 * [Commit] [chore: bump sops to 3.13.3 (#196)](https://github.com/ethpandaops/template-devnets/commit/50365257e4b61f50a3587cd189c7677ed4dd6e04) - 2026-10-08
+* [Commit] [chore: run watchtower every 15 min with per-host staggered offset](https://github.com/ethpandaops/template-devnets/commit/e045b158886d827a465d206bfef993c6da15a686) - 2026-10-13
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 
@@ -77,6 +83,19 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Reject slashed proposers when drawn in Heze](https://github.com/ethereum/consensus-specs/pull/5734) - 2026-10-12
 * [Pull Request] [Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733) - 2026-10-12
 * [Review] [Review on: Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733#pullrequestreview-5491875480) - 2026-10-12
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [feat: add beacon API error check playbook](https://github.com/ethpandaops/assertoor/pull/241) - 2026-10-13
+* [Pull Request] [feat: aggregate and regex-match series in check_http_metrics](https://github.com/ethpandaops/assertoor/pull/240) - 2026-10-13
+* [Pull Request] [chore: bump go to 1.26](https://github.com/ethpandaops/assertoor/pull/243) - 2026-10-13
+* [Review] [Review on: chore: bump go to 1.26](https://github.com/ethpandaops/assertoor/pull/243#pullrequestreview-5504477490) - 2026-10-13
+* [Pull Request] [feat: report the last task status when a task times out](https://github.com/ethpandaops/assertoor/pull/239) - 2026-10-13
+* [Pull Request] [feat: check attestation stats per validator name pattern](https://github.com/ethpandaops/assertoor/pull/238) - 2026-10-13
+* [Pull Request] [ci: pin staticcheck to a release that supports go 1.25](https://github.com/ethpandaops/assertoor/pull/242) - 2026-10-13
+* [Commit] [Merge pull request #243 from ethpandaops/bbusa/go-1.26](https://github.com/ethpandaops/assertoor/commit/33f66278ba51fc7367f0286f0a444e4dd3b354a1) - 2026-10-13
+* [Commit] [ci: use go version from go.mod](https://github.com/ethpandaops/assertoor/commit/a2152774d945dede17c0a8555fe7713ca653ebc3) - 2026-10-13
+* [Commit] [chore: require go 1.26.9](https://github.com/ethpandaops/assertoor/commit/f27d3a3c5d739314cdbad07e0c67f50dd3afff9b) - 2026-10-13
+* [Commit] [chore: bump go to 1.26](https://github.com/ethpandaops/assertoor/commit/5b20c1df7a2db9a66e397862ae80b9d224d7e876) - 2026-10-13
 ## Q3 2026
 
 

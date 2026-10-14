@@ -18,6 +18,31 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Delete file](https://github.com/protocolguild/protocol-guild-site/commit/3481da281a851f5a70da26c5cd7d0ee398e706e3) - 2026-10-12
 * [Commit] [Add image](https://github.com/protocolguild/protocol-guild-site/commit/84b9492330e7beec9fb5aa844daf66e1802c13f5) - 2026-10-12
 * [Commit] [Create folder](https://github.com/protocolguild/protocol-guild-site/commit/83747f2b9977e245875e6d7d7c235a5be495a00d) - 2026-10-12
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Commit] [Merge pull request #577 from pgbot0101/fix-team-totals](https://github.com/protocolguild/documentation/commit/66458c7f972050b38375d54c6860be6d8b15f8e5) - 2026-10-13
+* [Commit] [Merge pull request #576 from luca-zanolini/update-luca-weight](https://github.com/protocolguild/documentation/commit/011de021bd6a9a4892830395b208120109239ba5) - 2026-10-13
+* [Commit] [Merge pull request #558 from ahamlat/update-amez-weight-02](https://github.com/protocolguild/documentation/commit/c1246a33f361aa8e71dc7d5435365b7b966884d9) - 2026-10-13
+* [Commit] [Merge branch 'main' into update-amez-weight-02](https://github.com/protocolguild/documentation/commit/f14f2d9387e2a4509b184af6a3c73b4f323a662c) - 2026-10-13
+* [Commit] [Merge pull request #557 from siladu/siladu-halftime](https://github.com/protocolguild/documentation/commit/dabdab24adf546184264b6dd81c3f45a56f97b34) - 2026-10-13
+* [Commit] [Merge pull request #574 from Carsons-Eels/remove_carson](https://github.com/protocolguild/documentation/commit/49b6a2f85c71f4755c3531e1e86ea2b1682a030f) - 2026-10-13
+* [Commit] [Merge pull request #571 from joshdavislight/patch-1](https://github.com/protocolguild/documentation/commit/a0e879f07d02b40b4d4075f3cbeded434ff0d0e5) - 2026-10-13
+* [Commit] [Merge pull request #570 from yperbasis/docs/remove-ilya-mikheev](https://github.com/protocolguild/documentation/commit/51eed487965f4f6c9faeafabcbafd7be1fdc72f0) - 2026-10-13
+* [Commit] [Merge pull request #569 from yperbasis/docs/remove-willian-mitsuda](https://github.com/protocolguild/documentation/commit/97796bd86433dccf3fecc9bb9bd1f8104ab5b41d) - 2026-10-13
+* [Commit] [Merge pull request #568 from mariosioannou-create/patch-1](https://github.com/protocolguild/documentation/commit/e69924869e366781faeebc096d1a48a11523d56a) - 2026-10-13
+* [Commit] [Merge pull request #567 from raulk/remove-raul-kripalani](https://github.com/protocolguild/documentation/commit/27693ea732ee70de7487dd5eddde0bfcd8a513e7) - 2026-10-13
+* [Commit] [Merge pull request #566 from pepyakin/docs/remove-sergei-shulepov](https://github.com/protocolguild/documentation/commit/a5e52f9392fdece4aea9b710523714f6b3495293) - 2026-10-13
+* [Commit] [Merge pull request #565 from Giulio2002/remove-giulio2002](https://github.com/protocolguild/documentation/commit/817e27d9e443a3de34c477db2b6ce5c11cd2fced) - 2026-10-13
+* [Commit] [Merge pull request #564 from Rjected/docs/remove-dan-cline](https://github.com/protocolguild/documentation/commit/3d565dd0464f17444dbc76f5a15daf8bc8d00e09) - 2026-10-13
+* [Commit] [Merge pull request #563 from SamWilsn/patch-3](https://github.com/protocolguild/documentation/commit/9f356d67e78c92d1f86de34cc759d079b01b1582) - 2026-10-13
+* [Commit] [Merge pull request #562 from shekhirin/docs/remove-alexey-shekhirin](https://github.com/protocolguild/documentation/commit/db047867f9dc8213abb96a143f4f70d99cf6cedf) - 2026-10-13
+* [Commit] [Merge pull request #555 from arantxazapico/patch-1](https://github.com/protocolguild/documentation/commit/9cbc74e080fc8ec9c4b892261bca46c9c38e3c03) - 2026-10-13
+* [Commit] [Merge branch 'main' into patch-1](https://github.com/protocolguild/documentation/commit/48caa4b57470d46ba4eb2eb58e3980309d2ae449) - 2026-10-13
+* [Commit] [Merge pull request #561 from mattsse/mattsse/remove-protocol-guild](https://github.com/protocolguild/documentation/commit/cf9f225b6dc36c64244af1c04921bf0cd2b47d0c) - 2026-10-13
+* [Commit] [Merge pull request #560 from jimmygchen/patch-4](https://github.com/protocolguild/documentation/commit/c3f26dea71a4aa733338d272357c00e2f6d21fdf) - 2026-10-13
+* [Commit] [Merge pull request #556 from 0xMushow/patch-2](https://github.com/protocolguild/documentation/commit/feefe3cd5717bed42075f59344ff32a311736455) - 2026-10-13
+* [Commit] [Merge pull request #554 from kasey/rm-kk](https://github.com/protocolguild/documentation/commit/f94cc7254f5613e5193dc6bb184a2158ab231e14) - 2026-10-13
+* [Commit] [Merge pull request #553 from morph-dev/remove_milos](https://github.com/protocolguild/documentation/commit/fc788f838f361830542aa9b6e10e7ccb71e76a35) - 2026-10-13
 ## Q3 2026
 
 

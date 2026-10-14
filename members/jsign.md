@@ -30,6 +30,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): generalized account proofs cases for reads that change no state](https://github.com/ethereum/execution-specs/pull/3780) - 2026-10-12
 * [Pull Request] [feat(zkevm): expect no SYSTEM_ADDRESS proof when unread](https://github.com/ethereum/execution-specs/pull/3779) - 2026-10-12
 * [Review] [Review on: feat(tests): EIP-8025 - require the SYSTEM_ADDRESS proof when a block reads it](https://github.com/ethereum/execution-specs/pull/3770#pullrequestreview-5493938562) - 2026-10-12
+* [Review] [Review on: feat(zkevm): require a delegation marker whose write was rolled back](https://github.com/ethereum/execution-specs/pull/3820#pullrequestreview-5510751344) - 2026-10-13
+* [Pull Request] [test(zkevm): trim the EIP-8025 witness tests and add three cases](https://github.com/ethereum/execution-specs/pull/3818) - 2026-10-13
+* [Review] [Review on: feat(zkevm): reject a witness with more headers than the SSZ list limit](https://github.com/ethereum/execution-specs/pull/3793#pullrequestreview-5508132545) - 2026-10-13
+* [Review] [Review on: feat(zkevm): reject witness headers that break the chain below the parent](https://github.com/ethereum/execution-specs/pull/3792#pullrequestreview-5507953693) - 2026-10-13
+* [Review] [Review on: feat(zkevm): require the delegate's code even when it is a single STOP](https://github.com/ethereum/execution-specs/pull/3791#pullrequestreview-5507923760) - 2026-10-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 
@@ -46,12 +51,14 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 * [Pull Request] [fix: restore Zesu with ere-guests v0.18.1](https://github.com/eth-act/zkevm-benchmark-workload/pull/319) - 2026-10-12
 * [Commit] [fix: restore Zesu with ere-guests v0.18.1 (#319)](https://github.com/eth-act/zkevm-benchmark-workload/commit/4a0ed18e73afb5c10f4f0f9dccb82d11652db274) - 2026-10-12
+* [Review] [Review on: fix: dedup EEST fixture names across files](https://github.com/eth-act/zkevm-benchmark-workload/pull/321#pullrequestreview-5507866002) - 2026-10-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
 
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Review] [Review on: fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448#pullrequestreview-5474051941) - 2026-10-09
 
+* [Issue] [`ServerContainer::new` leaks the container and its attach process when startup fails](https://github.com/eth-act/ere/issues/450) - 2026-10-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #09, October 14, 2026](https://github.com/ethereum/pm/issues/2269) - 2026-10-12
 ## Q3 2026

@@ -50,6 +50,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): run no Nethermind class constructors in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/14590#pullrequestreview-5496875537) - 2026-10-12
 * [Pull Request] [feat: support Windows on ARM64](https://github.com/NethermindEth/nethermind/pull/14572) - 2026-10-12
 * [Commit] [feat: support Windows on ARM64 (#14572)](https://github.com/NethermindEth/nethermind/commit/d2d5309cb38919b33d85bea849343d33754e3b9d) - 2026-10-12
+* [Review] [Review on: chore: Update Dockerfiles to .NET 10.0.13](https://github.com/NethermindEth/nethermind/pull/14632#pullrequestreview-5511235831) - 2026-10-13
+* [Review] [Review on: fix(bal): stop parallel validation once a transaction fails](https://github.com/NethermindEth/nethermind/pull/14605#pullrequestreview-5508189237) - 2026-10-13
+* [Review] [Review on: ci: log in to Docker Hub with OIDC instead of static credentials](https://github.com/NethermindEth/nethermind/pull/14619#pullrequestreview-5506690010) - 2026-10-13
+* [Pull Request] [chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/14628) - 2026-10-13
+* [Review] [Review on: perf(zkevm): run no Nethermind class constructors in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/14590#pullrequestreview-5507393576) - 2026-10-13
+* [Pull Request] [chore(deps): update RocksDB package](https://github.com/NethermindEth/nethermind/pull/14617) - 2026-10-13
+* [Commit] [chore(deps): update .NET packages (#14628)](https://github.com/NethermindEth/nethermind/commit/265dae8c2a8979a3216ef2263b9aa81c0821ae1d) - 2026-10-13
+* [Commit] [chore(deps): update RocksDB package (#14617)](https://github.com/NethermindEth/nethermind/commit/5054ed11ed28351f1418fd112169e5480c3178e5) - 2026-10-13
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

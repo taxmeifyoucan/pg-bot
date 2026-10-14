@@ -216,6 +216,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(consensus): remove the now-empty predeploy installer](https://github.com/NethermindEth/nethermind/pull/14484#pullrequestreview-5485700344) - 2026-10-12
 * [Review] [Review on: perf(evm): keep fused jump counts in dispatch](https://github.com/NethermindEth/nethermind/pull/14529#pullrequestreview-5485698827) - 2026-10-12
 * [Review] [Review on: Avoid eager original-value indexing for read-only storage](https://github.com/NethermindEth/nethermind/pull/14528#pullrequestreview-5484147942) - 2026-10-11
+* [Review] [Review on: chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/14628#pullrequestreview-5508765934) - 2026-10-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

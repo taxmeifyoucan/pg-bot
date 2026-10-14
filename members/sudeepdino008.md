@@ -14,6 +14,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [bsc: pascal / prague support](https://github.com/erigontech/erigon/pull/24506) - 2026-10-02
 * [Issue] [cmd: snapshots rm-state --step=N+ removes all state files when no file ends after step N](https://github.com/erigontech/erigon/issues/24778) - 2026-10-12
+* [Pull Request] [cmd/erigon, docs: ship a PGO profile for the erigon binary](https://github.com/erigontech/erigon/pull/24837) - 2026-10-13
 ## Q3 2026
 
 

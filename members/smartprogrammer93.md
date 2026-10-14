@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: chore(deps): update RocksDB package](https://github.com/NethermindEth/nethermind/pull/14617#pullrequestreview-5506636507) - 2026-10-13
 ## Q3 2026
 
 

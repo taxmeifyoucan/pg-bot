@@ -47,6 +47,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Proposer: respect PTC blob data unavailable majority (#17537)](https://github.com/OffchainLabs/prysm/commit/c058bc3b784d94a5cf577de5c16ae60bf83e641a) - 2026-10-12
 * [Commit] [Read the head state under the same lock as the head root in GetAttestationData (#17654)](https://github.com/OffchainLabs/prysm/commit/70dd0d4fa8e2a799a16eb85092a66af361fb7415) - 2026-10-12
 * [Commit] [Clear every pending builder payment of a slashed proposer (#17662)](https://github.com/OffchainLabs/prysm/commit/8b2361ac4ae4054d38a470efcb1777b0da3bfbd9) - 2026-10-12
+* [Review] [Review on: Bump consensus spec to v1.7.0-beta.4](https://github.com/OffchainLabs/prysm/pull/17664#pullrequestreview-5508282698) - 2026-10-13
+* [Commit] [Bump consensus spec to v1.7.0-beta.4 (#17664)](https://github.com/OffchainLabs/prysm/commit/27acf27717ce8191c307444ce1203b4363e2aa26) - 2026-10-13
+* [Commit] [Check LMD/FFG consistency for block and pool attestations (#17539)](https://github.com/OffchainLabs/prysm/commit/d8e8bf5499b7fa73347407f069adedbfd5fee33e) - 2026-10-13
+* [Commit] [Subtract same-payload withdrawals from the builder balance in the builders sweep (#17663)](https://github.com/OffchainLabs/prysm/commit/b99ba14676a00c4f37e41ded26f0010a56fec029) - 2026-10-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

@@ -227,6 +227,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: enforce native spec assertions (#10344)](https://github.com/ChainSafe/lodestar/commit/4b00f7bf39c70bba7d6ede63aec6dc03ad99b211) - 2026-10-12
 * [Commit] [fix: separate engine response timings (#10349)](https://github.com/ChainSafe/lodestar/commit/09bef4706f1b6ca366f353a7ecf981592ab631c0) - 2026-10-12
 * [Commit] [perf: avoid importing sync committee maps (#10350)](https://github.com/ChainSafe/lodestar/commit/3430a7cf041d2823489cb8ee6f45c3147788b965) - 2026-10-12
+* [Review] [Review on: perf: avoid array concat when deserializing ENR subnets](https://github.com/ChainSafe/lodestar/pull/10382#pullrequestreview-5511200566) - 2026-10-13
+* [Pull Request] [fix: check bid inclusion list bits against timely lists only](https://github.com/ChainSafe/lodestar/pull/10381) - 2026-10-13
+* [Review] [Review on: test: make data column range benchmarks report only](https://github.com/ChainSafe/lodestar/pull/10377#pullrequestreview-5509356629) - 2026-10-13
+* [Review] [Review on: test: raise the regression threshold for flaky benchmarks](https://github.com/ChainSafe/lodestar/pull/10378#pullrequestreview-5509374877) - 2026-10-13
+* [Review] [Review on: chore(deps): bump the actions group with 7 updates](https://github.com/ChainSafe/lodestar/pull/10376#pullrequestreview-5506968336) - 2026-10-13
+* [Review] [Review on: test: pin fake clock in prepareNextSlot slot offset test](https://github.com/ChainSafe/lodestar/pull/10373#pullrequestreview-5502859926) - 2026-10-13
+* [Review] [Review on: ci: add nightly mixed client interop workflow](https://github.com/ChainSafe/lodestar/pull/10361#pullrequestreview-5502300540) - 2026-10-13
+* [Review] [Review on: ci: wait for the REST re-probe before judging the engine interop EL restart](https://github.com/ChainSafe/lodestar/pull/10372#pullrequestreview-5501241907) - 2026-10-13
+* [Review] [Review on: feat: allow running the native state transition until the Gloas fork](https://github.com/ChainSafe/lodestar/pull/10370#pullrequestreview-5500583989) - 2026-10-13
+* [Review] [Review on: fix: serialize attestation slashing protection checks per validator](https://github.com/ChainSafe/lodestar/pull/10303#pullrequestreview-5500723555) - 2026-10-13
+* [Review] [Review on: fix: queue column reconstructions in event multiple come in before completion](https://github.com/ChainSafe/lodestar/pull/10331#pullrequestreview-5500570957) - 2026-10-13
+* [Issue] [Set the IL deadline to 9s into the slot](https://github.com/ChainSafe/lodestar/issues/10380) - 2026-10-13
+* [Commit] [ci: add nightly mixed client interop workflow (#10361)](https://github.com/ChainSafe/lodestar/commit/837363b8691b5412f48345bfa2c41f8349f1578d) - 2026-10-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -251,6 +264,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: align fork choice v2 with beacon api spec](https://github.com/OffchainLabs/prysm/pull/17636) - 2026-10-07
 
 * [Issue] [GET /eth/v1/validator/duties/proposer/{epoch} returns the current epoch's dependent root for the next epoch](https://github.com/OffchainLabs/prysm/issues/17681) - 2026-10-12
+* [Issue] [REST validator client re-requests attestation data at aggregation time instead of aggregating the data it signed](https://github.com/OffchainLabs/prysm/issues/17687) - 2026-10-13
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [Blob transactions rarely reach the peer before inclusion on a two-node devnet](https://github.com/NethermindEth/nethermind/issues/14483) - 2026-10-09
 * [Issue] [engine_getBlobsV2 stops serving a transaction's blobs as soon as it is included](https://github.com/NethermindEth/nethermind/issues/14482) - 2026-10-09

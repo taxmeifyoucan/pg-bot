@@ -14,6 +14,10 @@ Team: Grandine
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Grandine coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2257) - 2026-10-05
 * [Commit] [Add Grandine coordinators for Glamsterdam](https://github.com/ethereum/pm/commit/e8c48347c84b5a3feed29b1a025ba0ea4815fbda) - 2026-10-05
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Issue] [Upgrade networking](https://github.com/grandinetech/grandine/issues/977) - 2026-10-13
+* [Issue] [Implement missing ePBS configuration](https://github.com/grandinetech/grandine/issues/976) - 2026-10-13
 ## Q3 2026
 
 

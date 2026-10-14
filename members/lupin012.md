@@ -84,6 +84,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [common/dbg: bracket Sys in TestMemUsageMatchesMemStats (#24817)](https://github.com/erigontech/erigon/commit/595d4a99bf16ed10aba719d71f7d0ea0c7f47a6c) - 2026-10-13
 * [Commit] [rpc/jsonrpc: serve the current header through the header caches (#24814)](https://github.com/erigontech/erigon/commit/0cdbbf864411ee6020cecf1f789c7267718c1838) - 2026-10-13
 * [Commit] [QA: add an optional Nethermind run and a client comparison to RPC Performance Tests Latest (#24770)](https://github.com/erigontech/erigon/commit/010665de0a1b656cddef4f31655b568d58160814) - 2026-10-12
+* [Pull Request] [rpc/jsonrpc: return -32602 for unknown trace types](https://github.com/erigontech/erigon/pull/24872) - 2026-10-13
+* [Commit] [rpc/jsonrpc: reject unknown fields in trace_filter requests (#24706)](https://github.com/erigontech/erigon/commit/9e4019a7eadad8e022dcc5f37d63399bd4808ebc) - 2026-10-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -99,6 +101,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen: add eth_estimateGas, eth_gasPrice and eth_maxPriorityFeePerGas generators (#618)](https://github.com/erigontech/rpc-tests/commit/5184cd29d4c6892f5dc434c6eb735ced00e148f4) - 2026-10-12
 * [Commit] [rpc_perf: count empty results (#619)](https://github.com/erigontech/rpc-tests/commit/bf9322b11dc5e2f86d9a7abb46a219619cc9d15b) - 2026-10-12
 * [Commit] [rpc_pattern_gen: blocks=N profile option to draw a method from the most recent blocks (#620)](https://github.com/erigontech/rpc-tests/commit/d1eb83d906045957685fbe39fe993cbca761c3ca) - 2026-10-12
+* [Pull Request] [rpc_pattern_gen: eth_getLogs filters built from real logs, and an eth_getLogs command](https://github.com/erigontech/rpc-tests/pull/622) - 2026-10-13
+* [Pull Request] [rpc_perf: write at most --max-body-rsp bytes of each body to the binary file](https://github.com/erigontech/rpc-tests/pull/621) - 2026-10-13
 ## Q3 2026
 
 

@@ -47,6 +47,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Read the head state under the same lock as the head root in GetAttestationData](https://github.com/OffchainLabs/prysm/pull/17654#pullrequestreview-5492033974) - 2026-10-12
 * [Review] [Review on: Don't fire `chain_reorg` when only the Gloas payload status flips](https://github.com/OffchainLabs/prysm/pull/17534#pullrequestreview-5493655894) - 2026-10-12
 * [Review] [Review on: Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662#pullrequestreview-5491950029) - 2026-10-12
+* [Review] [Review on: Bump consensus spec to v1.7.0-beta.4](https://github.com/OffchainLabs/prysm/pull/17664#pullrequestreview-5507789579) - 2026-10-13
+* [Review] [Review on: Check LMD/FFG consistency for block and pool attestations](https://github.com/OffchainLabs/prysm/pull/17539#pullrequestreview-5506365455) - 2026-10-13
+* [Review] [Review on: Deprecate some flags](https://github.com/OffchainLabs/prysm/pull/17686#pullrequestreview-5503697835) - 2026-10-13
+* [Commit] [Gloas batch envelope binding (#17566)](https://github.com/OffchainLabs/prysm/commit/5dbd17496ab4cd81bff2398fb2b37eba4778eac4) - 2026-10-14
+* [Commit] [fix flakey tests (#17682)](https://github.com/OffchainLabs/prysm/commit/d230aa4d5f0f920544215bd4ad29dec9778a21f7) - 2026-10-13
 ## Q3 2026
 
 

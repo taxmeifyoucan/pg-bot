@@ -64,6 +64,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: decode hex natively in nodejs fromHexInto](https://github.com/ChainSafe/lodestar/pull/10358#pullrequestreview-5492939645) - 2026-10-12
 * [Review] [Review on: test: retry oapi spec download on failure](https://github.com/ChainSafe/lodestar/pull/10364#pullrequestreview-5492882304) - 2026-10-12
 * [Review] [Review on: test: pipe dev node output in voluntary exit from api e2e test](https://github.com/ChainSafe/lodestar/pull/10360#pullrequestreview-5492913221) - 2026-10-12
+* [Review] [Review on: perf: avoid array concat when deserializing ENR subnets](https://github.com/ChainSafe/lodestar/pull/10382#pullrequestreview-5511710848) - 2026-10-14
+* [Pull Request] [feat: integrate native beacon networking](https://github.com/ChainSafe/lodestar/pull/10375) - 2026-10-13
+* [Review] [Review on: test: make data column range benchmarks report only](https://github.com/ChainSafe/lodestar/pull/10377#pullrequestreview-5509699661) - 2026-10-13
+* [Review] [Review on: test: pin fake clock in prepareNextSlot slot offset test](https://github.com/ChainSafe/lodestar/pull/10373#pullrequestreview-5502956355) - 2026-10-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -82,10 +86,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(metrics): label state transitions by source](https://github.com/ChainSafe/lodestar-z/pull/772#pullrequestreview-5492252871) - 2026-10-12
 * [Review] [Review on: perf: vectorize shuffle swap loop](https://github.com/ChainSafe/lodestar-z/pull/769#pullrequestreview-5492191192) - 2026-10-12
 * [Review] [Review on: feat: verify EIP-8025 execution proofs through ere's C verifier](https://github.com/ChainSafe/lodestar-z/pull/760#pullrequestreview-5491768419) - 2026-10-12
+* [Pull Request] [feat: add native beacon networking](https://github.com/ChainSafe/lodestar-z/pull/782) - 2026-10-13
+* [Review] [Review on: feat: implement gloas state transition](https://github.com/ChainSafe/lodestar-z/pull/764#pullrequestreview-5507801941) - 2026-10-13
+* [Review] [Review on: perf: stream progressive tree construction](https://github.com/ChainSafe/lodestar-z/pull/746#pullrequestreview-5508740012) - 2026-10-13
+* [Review] [Review on: chore: add apache-2.0 license](https://github.com/ChainSafe/lodestar-z/pull/781#pullrequestreview-5506132421) - 2026-10-13
+* [Review] [Review on: feat: add struct progressive container](https://github.com/ChainSafe/lodestar-z/pull/777#pullrequestreview-5505071749) - 2026-10-13
+* [Issue] [Make cleanup after failed tree builds consistent](https://github.com/ChainSafe/lodestar-z/issues/783) - 2026-10-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06
 * [Commit] [Derive EIP-8198 slot timing from fork configuration (#5710)](https://github.com/ethereum/consensus-specs/commit/40bcb8c2b2ebd0f67705c1578c3d7bf76aee8176) - 2026-10-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/commit/9d27a4f2facf3b4536e61c4bb81ea996175aa07e) - 2026-10-14
 ## Q3 2026
 
 

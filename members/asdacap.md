@@ -35,6 +35,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(flat): count spool writers under the lock](https://github.com/NethermindEth/nethermind/pull/14579#pullrequestreview-5497193242) - 2026-10-12
 * [Review] [Review on: fix(pruning): treat a persistence interval below 1 as 1](https://github.com/NethermindEth/nethermind/pull/14558#pullrequestreview-5497196301) - 2026-10-12
 * [Review] [Review on: Advertise snap in the local ENR when serving snap](https://github.com/NethermindEth/nethermind/pull/14585#pullrequestreview-5497189245) - 2026-10-12
+* [Commit] [refactor(txpool): resolve ITxPool, ITxSender and ITransactionComparerProvider from DI (#14253)](https://github.com/NethermindEth/nethermind/commit/4ba96ba871c9264c92cd643ff7fc8a23cc3af041) - 2026-10-13
 ## Q3 2026
 
 

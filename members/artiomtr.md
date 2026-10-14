@@ -27,6 +27,15 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Add unblinding for blocks and envelopes](https://github.com/grandinetech/grandine/commit/248e7c3ff954d637fe663d1e9a3578518e4dc770) - 2026-10-09
 * [Commit] [Expose raw database access for encoded state values](https://github.com/grandinetech/grandine/commit/0e76524ce6e709186c0e8c6d6179918a307dbe84) - 2026-10-09
 * [Commit] [Implement SSZ serialization for `Option<T>`](https://github.com/grandinetech/grandine/commit/03b22c0ccf08508e9afe9b0c3758c78a4936d905) - 2026-10-09
+* [Review] [Review on: Add PTC state endpoint](https://github.com/grandinetech/grandine/pull/973#pullrequestreview-5503881284) - 2026-10-13
+* [Pull Request] [AI setup for grandine](https://github.com/grandinetech/grandine/pull/981) - 2026-10-13
+* [Review] [Review on: Add builder bid identity to the block event](https://github.com/grandinetech/grandine/pull/974#pullrequestreview-5502140076) - 2026-10-13
+* [Review] [Review on: docs: refresh cli_options network list and drop stale flags](https://github.com/grandinetech/grandine/pull/975#pullrequestreview-5502127128) - 2026-10-13
+* [Review] [Review on: Schedule Gloas fork activation on Hoodi](https://github.com/grandinetech/grandine/pull/980#pullrequestreview-5501782626) - 2026-10-13
+* [Commit] [Setup AGENTS.md](https://github.com/grandinetech/grandine/commit/89f5ea3e3371673c43a695e7d6cd73f5500f111d) - 2026-10-13
+* [Commit] [Configure AI automated review process](https://github.com/grandinetech/grandine/commit/7532935adb5f696e94d302bed03681d16f105d5b) - 2026-10-13
+* [Commit] [Cache shufflings obtained during PTC computation](https://github.com/grandinetech/grandine/commit/362e28d7a8d04ccd6d4d03340eb61d821ac644a1) - 2026-10-13
+* [Commit] [Optimize epoch processing for gloas](https://github.com/grandinetech/grandine/commit/57b197afa7e255eb467e30ebd66b62d7a5923cd3) - 2026-10-13
 ## Q3 2026
 
 

@@ -25,6 +25,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Import committed QBFT blocks without executing them again](https://github.com/besu-eth/besu/pull/11469#pullrequestreview-5488206843) - 2026-10-12
 * [Pull Request] [Skip operation tracer calls in the EVM loop when tracing is disabled](https://github.com/besu-eth/besu/pull/11566) - 2026-10-12
 * [Review] [Review on: Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade](https://github.com/besu-eth/besu/pull/11364#pullrequestreview-5487945406) - 2026-10-12
+* [Pull Request] [Skip NewBlock imports for blocks the QBFT round is already finalising](https://github.com/besu-eth/besu/pull/11583) - 2026-10-13
+* [Review] [Review on: Read the root and block hash of a cached block once, not per world state](https://github.com/besu-eth/besu/pull/11510#pullrequestreview-5502857540) - 2026-10-13
+* [Commit] [Skip operation tracer calls in the EVM loop when tracing is disabled (#11566)](https://github.com/besu-eth/besu/commit/bcc81b798b3b69d20bceea7c531340ddf041c6a4) - 2026-10-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

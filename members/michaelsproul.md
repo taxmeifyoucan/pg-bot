@@ -54,8 +54,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Pass ChainSpec to get_proposer_head instead of three threshold args](https://github.com/sigp/lighthouse/pull/10324#pullrequestreview-5497012395) - 2026-10-12
 * [Review] [Review on: Prune Gloas data columns past withheld payloads and on abandoned forks](https://github.com/sigp/lighthouse/pull/10286#pullrequestreview-5487426270) - 2026-10-12
 * [Review] [Review on: Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282#pullrequestreview-5487393456) - 2026-10-12
+* [Review] [Review on: Drop PayloadVerificationStatus::is_optimistic](https://github.com/sigp/lighthouse/pull/10335#pullrequestreview-5511539949) - 2026-10-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5510417310) - 2026-10-13
 ## Q3 2026
 
 

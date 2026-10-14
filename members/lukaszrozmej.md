@@ -240,6 +240,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(txpool): reject underpriced replacements before recovering signatures (#14577)](https://github.com/NethermindEth/nethermind/commit/dad583f44f3a3b1e8ebbd6db94690568b69629aa) - 2026-10-12
 * [Commit] [fix(discv4): match a pong on the pinged endpoint (#14576)](https://github.com/NethermindEth/nethermind/commit/3b0837513b964a029c61841c0e48f8b43bffd10c) - 2026-10-12
 * [Commit] [refactor(state): move lazy-originals ZK_EVM branches into std/zkevm partials (#14534)](https://github.com/NethermindEth/nethermind/commit/322758c7f4d100565d1c9d4dc5ddd74a3277dd7e) - 2026-10-12
+* [Pull Request] [fix(specs): don't apply the London fork-block rules at mainnet's block on other chains](https://github.com/NethermindEth/nethermind/pull/14634) - 2026-10-14
+* [Review] [Review on: fix(rpc): let a call's fields decide how it runs, and reject fields its fork lacks](https://github.com/NethermindEth/nethermind/pull/14212#pullrequestreview-5500166952) - 2026-10-13
+* [Pull Request] [perf(zkevm): use single-threaded collections in the guest](https://github.com/NethermindEth/nethermind/pull/14629) - 2026-10-13
+* [Review] [Review on: perf(zkevm): use single-threaded collections in the guest](https://github.com/NethermindEth/nethermind/pull/14629#pullrequestreview-5510982724) - 2026-10-13
+* [Review] [Review on: fix(bal): stop parallel validation once a transaction fails](https://github.com/NethermindEth/nethermind/pull/14605#pullrequestreview-5508553884) - 2026-10-13
+* [Review] [Review on: Fix documented config defaults that disagree with the implementation](https://github.com/NethermindEth/nethermind/pull/14582#pullrequestreview-5507286182) - 2026-10-13
+* [Review] [Review on: chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/14628#pullrequestreview-5508762743) - 2026-10-13
+* [Pull Request] [fix(evm): do not treat out-of-memory as a precompile failure](https://github.com/NethermindEth/nethermind/pull/14624) - 2026-10-13
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -253,6 +261,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: pal: reclaim ZisK accelerator scratch memory, halt on Rust OOM](https://github.com/NethermindEth/bflat-riscv64/pull/52#pullrequestreview-5469951970) - 2026-10-09
 * [Commit] [rhp: bump-allocate GC static bases and uninitialized arrays](https://github.com/NethermindEth/bflat-riscv64/commit/cf66b2fa6946018e5b3ee1aa4b844be880767e4e) - 2026-10-09
 * [Commit] [bflat: wide unaligned accesses for --libc openvm](https://github.com/NethermindEth/bflat-riscv64/commit/70178fc852a9ac773ceb52b229723b87a734ce76) - 2026-10-09
+* [Pull Request] [zisk_subst: integer IsPrime and CalcNumBuckets bodies; fail on inlined --wrap targets](https://github.com/NethermindEth/bflat-riscv64/pull/54) - 2026-10-13
+* [Pull Request] [zkvm_zisk: keep the stack clear of ZisK's SYS and OUTPUT areas; fix C allocator floor check](https://github.com/NethermindEth/bflat-riscv64/pull/53) - 2026-10-13
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
@@ -273,6 +283,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [fixup/11/upstream: perf-73..75 - zkVM array length via ld, INT parameters trusted extended, small parameters normalized once](https://github.com/NethermindEth/dotnet-riscv/pull/24) - 2026-10-08
 * [Pull Request] [fixup/11/upstream: perf-72 - devirtualize calls whose receiver classes all resolve to one method](https://github.com/NethermindEth/dotnet-riscv/pull/23) - 2026-10-08
 * [Pull Request] [fixup/11/upstream: perf-68..71 - RISC-V width fixups: lwu loads, non-negative zext as sext, zero-extending null-check probes, li via addi](https://github.com/NethermindEth/dotnet-riscv/pull/22) - 2026-10-08
+* [Pull Request] [test(riscv64): add regressions for boxing and TLS allocation fixes](https://github.com/NethermindEth/dotnet-riscv/pull/28) - 2026-10-13
+* [Pull Request] [fixup/10,11: perf-26 - size inline-allocated boxes with their MethodTable](https://github.com/NethermindEth/dotnet-riscv/pull/26) - 2026-10-13
+* [Pull Request] [fixup/10,11: riscv64 NEW_ARRAY_FAST - keep the size across the TLS call](https://github.com/NethermindEth/dotnet-riscv/pull/27) - 2026-10-13
+* [Commit] [fixup/11/upstream: perf-73..74 - cheaper first-use resolution of NativeAOT dispatch cells](https://github.com/NethermindEth/dotnet-riscv/commit/d9894841964c529ce6a530a2fcdcd9d18c52ec94) - 2026-10-13
+* [Commit] [fix(riscv64): bound shift alignment proofs by operand width](https://github.com/NethermindEth/dotnet-riscv/commit/e2a59027bde7b63cbd2e6a12e957b227491ab991) - 2026-10-13
+* [Commit] [fixup/11/upstream: perf-67 - strict alignment proves accesses through locals aligned](https://github.com/NethermindEth/dotnet-riscv/commit/6a7a3b403f5fefa20e4fb342304e51f1b5ba660b) - 2026-10-13
+* [Commit] [fixup/11/upstream: perf-72 - devirtualize calls whose receiver classes all resolve to one method](https://github.com/NethermindEth/dotnet-riscv/commit/54896d295dffc21d30687e79a9a4373a856a94b2) - 2026-10-13
+* [Commit] [fixup/11/upstream: perf-73..75 - zkVM array length via ld, INT parameters trusted extended, small parameters normalized once](https://github.com/NethermindEth/dotnet-riscv/commit/9754ee8f892fd1314f6675f36a407627e5753bfb) - 2026-10-13
+* [Commit] [fixup/11/upstream: perf-68..71 - RISC-V width fixups: lwu loads, non-negative zext as sext, zero-extending null-check probes, li via addi](https://github.com/NethermindEth/dotnet-riscv/commit/5d35c1d6d46794b14b10551a16a7efd599eca845) - 2026-10-13
+* [Commit] [fixup/10,11: perf-26 - size inline-allocated boxes with their MethodTable](https://github.com/NethermindEth/dotnet-riscv/commit/6e04cd48b02b92aec4eee677ffb253a7c2ba74d6) - 2026-10-13
+* [Commit] [fixup/10,11: riscv64 NEW_ARRAY_FAST - keep the size across the TLS call](https://github.com/NethermindEth/dotnet-riscv/commit/d97d170d3bedafb02bfbcbd5d973b150dec6a2bb) - 2026-10-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

@@ -19,6 +19,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(spec-specs,test-forks,tests): implement EIP-8272 recent roots for frame transactions](https://github.com/ethereum/execution-specs/pull/3740) - 2026-10-08
 * [Review] [Review on: refactor(test-forks,test-specs): remove the unused activation code install hook in EIP-8141](https://github.com/ethereum/execution-specs/pull/3735#pullrequestreview-5453794967) - 2026-10-08
 * [Pull Request] [docs(specs,tests): track the EIP-8141 frame mode set-membership wording](https://github.com/ethereum/execution-specs/pull/3739) - 2026-10-08
+* [Review] [Review on: feat(tests): pin TXPARAM's max cost with the EIP-8250 key cost](https://github.com/ethereum/execution-specs/pull/3803#pullrequestreview-5506623879) - 2026-10-13
+* [Review] [Review on: feat(tests): 8141 approval edge cases](https://github.com/ethereum/execution-specs/pull/3801#pullrequestreview-5505860467) - 2026-10-13
 ## Q3 2026
 
 

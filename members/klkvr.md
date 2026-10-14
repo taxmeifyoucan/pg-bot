@@ -17,6 +17,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(evm): stream native state updates to execution hooks](https://github.com/paradigmxyz/reth/pull/27849#pullrequestreview-5494995690) - 2026-10-12
 * [Review] [Review on: fix(witness): preserve parent-state code reads](https://github.com/paradigmxyz/reth/pull/27635#pullrequestreview-5495919804) - 2026-10-12
 * [Review] [Review on: fix(rpc): preserve absent accounts in empty state overrides](https://github.com/paradigmxyz/reth/pull/27745#pullrequestreview-5495608282) - 2026-10-12
+* [Pull Request] [perf(evm): borrow cached reads instead of copying them](https://github.com/paradigmxyz/reth/pull/27893) - 2026-10-13
+* [Pull Request] [fix(rpc): cache computed BALs without reparsing bytecode](https://github.com/paradigmxyz/reth/pull/27890) - 2026-10-13
+* [Pull Request] [fix(rpc): read chain ID before moving the EVM env in eth_createAccessList](https://github.com/paradigmxyz/reth/pull/27889) - 2026-10-13
+* [Review] [Review on: refactor: remove redundant trait bounds](https://github.com/paradigmxyz/reth/pull/27875#pullrequestreview-5499197506) - 2026-10-13
+* [Pull Request] [fix(rpc): exclude EIP-7702 authorities from generated access lists](https://github.com/paradigmxyz/reth/pull/27877) - 2026-10-13
 ## Q3 2026
 
 

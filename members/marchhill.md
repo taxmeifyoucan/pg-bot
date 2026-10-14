@@ -145,6 +145,21 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [feat: EIP-8116 replace cumulative receipt fields (#14272)](https://github.com/NethermindEth/nethermind/commit/5302886bf889ef9fc2cae976c8f0cba8a0d17d4e) - 2026-10-12
 * [Commit] [feat: EIP-8360 TCREATE opcode (#13933)](https://github.com/NethermindEth/nethermind/commit/498b6679892f5bbee2847caa39241d896596f910) - 2026-10-12
 * [Commit] [EIP-8151: account-code restricted ecRecover (#13959)](https://github.com/NethermindEth/nethermind/commit/0ddcc35c4824dd3ded7edf08c88f8272aed734d3) - 2026-10-12
+* [Pull Request] [fix(bal): stop parallel validation once a transaction fails](https://github.com/NethermindEth/nethermind/pull/14605) - 2026-10-13
+* [Review] [Review on: fix(bal): stop parallel validation once a transaction fails](https://github.com/NethermindEth/nethermind/pull/14605#pullrequestreview-5504541460) - 2026-10-13
+* [Pull Request] [fix(history): default the rolling history retention to the chain floor](https://github.com/NethermindEth/nethermind/pull/14622) - 2026-10-13
+* [Review] [Review on: fix(history): default the rolling history retention to the chain floor](https://github.com/NethermindEth/nethermind/pull/14622#pullrequestreview-5509192388) - 2026-10-13
+* [Pull Request] [feat(eip8198): Quick Slots - 5/48 base fee change and fork-aware slot schedule](https://github.com/NethermindEth/nethermind/pull/14606) - 2026-10-13
+* [Review] [Review on: feat(eip8198): Quick Slots - 5/48 base fee change and fork-aware slot schedule](https://github.com/NethermindEth/nethermind/pull/14606#pullrequestreview-5505376862) - 2026-10-13
+* [Review] [Review on: ci: download the renamed tests-frames-devnet@v1.0.0 fixture archive](https://github.com/NethermindEth/nethermind/pull/14621#pullrequestreview-5508131422) - 2026-10-13
+* [Pull Request] [fix(history): prune block access lists to the CL serving window by default](https://github.com/NethermindEth/nethermind/pull/14609) - 2026-10-13
+* [Review] [Review on: fix(history): prune block access lists to the CL serving window by default](https://github.com/NethermindEth/nethermind/pull/14609#pullrequestreview-5505684917) - 2026-10-13
+* [Pull Request] [test: cover EIP-8037, EIP-7708 and block access list edge cases on Amsterdam](https://github.com/NethermindEth/nethermind/pull/14596) - 2026-10-13
+* [Review] [Review on: test: cover EIP-8037, EIP-7708 and block access list edge cases on Amsterdam](https://github.com/NethermindEth/nethermind/pull/14596#pullrequestreview-5502440295) - 2026-10-13
+* [Pull Request] [fix(producer): don't let discarded transactions shift receipt indexes](https://github.com/NethermindEth/nethermind/pull/14614) - 2026-10-13
+* [Review] [Review on: fix(producer): don't let discarded transactions shift receipt indexes](https://github.com/NethermindEth/nethermind/pull/14614#pullrequestreview-5506184742) - 2026-10-13
+* [Pull Request] [test(bal): cover block access list decoding and production discards](https://github.com/NethermindEth/nethermind/pull/14602) - 2026-10-13
+* [Review] [Review on: test(bal): cover block access list decoding and production discards](https://github.com/NethermindEth/nethermind/pull/14602#pullrequestreview-5504036636) - 2026-10-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

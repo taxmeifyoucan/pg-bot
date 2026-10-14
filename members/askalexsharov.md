@@ -247,6 +247,53 @@ Team: Erigon
 * [Commit] [exec: `codeCache` migrate `addrToCodeHash` to lock-free cache (#24775)](https://github.com/erigontech/erigon/commit/09a4e2e4dfd6bd9f8d9e070dbb6780038dc8b12d) - 2026-10-12
 * [Commit] [rpc: port geth's client options, IPC dial and reverse calls (#24764)](https://github.com/erigontech/erigon/commit/26ccbd6402f2839379231c9ded678bb504443ec0) - 2026-10-12
 * [Commit] [rpc: eth_call reuse a pooled `ibs` (#24601)](https://github.com/erigontech/erigon/commit/546790a6a7fce7865ef1bc54d64baab224f07cdf) - 2026-10-12
+* [Review] [Review on: cl: verify direct-client blob hashes](https://github.com/erigontech/erigon/pull/24852#pullrequestreview-5512574376) - 2026-10-14
+* [Review] [Review on: ci: update execution-specs tests to v21.0.1](https://github.com/erigontech/erigon/pull/24848#pullrequestreview-5512529242) - 2026-10-14
+* [Review] [Review on: txnprovider/txpool: refresh state views before pool reload](https://github.com/erigontech/erigon/pull/24849#pullrequestreview-5512532166) - 2026-10-14
+* [Pull Request] [execution/stagedsync: repair the bad-block unwind path](https://github.com/erigontech/erigon/pull/24836) - 2026-10-13
+* [Review] [Review on: execution/stagedsync: repair the bad-block unwind path](https://github.com/erigontech/erigon/pull/24836#pullrequestreview-5502460724) - 2026-10-13
+* [Review] [Review on: execution/engineapi, execution/execmodule: download the missing segment when a forkchoice update hits a header gap](https://github.com/erigontech/erigon/pull/24865#pullrequestreview-5512569636) - 2026-10-14
+* [Review] [Review on: rpc/jsonrpc: reject max nonce sender in eth_simulateV1 without validation](https://github.com/erigontech/erigon/pull/24851#pullrequestreview-5512569490) - 2026-10-14
+* [Review] [Review on: cl/phase1/forkchoice: record gloas payload status when el validation is skipped](https://github.com/erigontech/erigon/pull/24878#pullrequestreview-5512569340) - 2026-10-14
+* [Review] [Review on: rpc/jsonrpc: return -32602 for unknown trace types](https://github.com/erigontech/erigon/pull/24872#pullrequestreview-5512563843) - 2026-10-14
+* [Pull Request] [cl/transition: ProcessSyncAggregate fails closed when the domain cannot be computed](https://github.com/erigontech/erigon/pull/24896) - 2026-10-14
+* [Pull Request] [cl/phase1/stages: chain-tip sync flushes the block collector with the stage context](https://github.com/erigontech/erigon/pull/24895) - 2026-10-14
+* [Review] [Review on: execution/state: re-read an account field whose cell appears during the record fallback](https://github.com/erigontech/erigon/pull/24874#pullrequestreview-5512536965) - 2026-10-14
+* [Review] [Review on: execution/state: invalidate committed field reads wiped by an in-range destruct](https://github.com/erigontech/erigon/pull/24866#pullrequestreview-5512536848) - 2026-10-14
+* [Review] [Review on: execution/cache: let a closed budgeted ByteLRU be collected](https://github.com/erigontech/erigon/pull/24867#pullrequestreview-5512536709) - 2026-10-14
+* [Review] [Review on: execution/state: zero the burned balance in CreateAccount's synthetic read](https://github.com/erigontech/erigon/pull/24876#pullrequestreview-5512522745) - 2026-10-14
+* [Review] [Review on: execution/stagedsync: credit both fees when the coinbase is the burnt-fee recipient](https://github.com/erigontech/erigon/pull/24879#pullrequestreview-5512522549) - 2026-10-14
+* [Review] [Review on: execution/state, execution/stagedsync: read an EIP-8246-preserved coinbase as live in calcFees](https://github.com/erigontech/erigon/pull/24880#pullrequestreview-5512522339) - 2026-10-14
+* [Pull Request] [cl/beacon/handler: expected_withdrawals answers 404 for a pruned block body](https://github.com/erigontech/erigon/pull/24894) - 2026-10-14
+* [Pull Request] [cl/beacon/handler: attestation_data answers 503 when the head cannot be read](https://github.com/erigontech/erigon/pull/24893) - 2026-10-14
+* [Pull Request] [cl: close the persistent block collector when the stage loop exits](https://github.com/erigontech/erigon/pull/24892) - 2026-10-14
+* [Pull Request] [cmd/rpctest: report lost writes of the record and error files](https://github.com/erigontech/erigon/pull/24890) - 2026-10-14
+* [Pull Request] [cl/beacon/handler: proposer_lookahead reads epoch data by slot](https://github.com/erigontech/erigon/pull/24891) - 2026-10-14
+* [Pull Request] [cmd/integration: read_domains reports an absent account instead of panicking](https://github.com/erigontech/erigon/pull/24889) - 2026-10-14
+* [Pull Request] [cmd/utils/app: seg rm-state-snapshots treats a nil cursor as no state key](https://github.com/erigontech/erigon/pull/24888) - 2026-10-14
+* [Pull Request] [common/estimate: honour the cgroup memory limit in hybrid mode](https://github.com/erigontech/erigon/pull/24885) - 2026-10-14
+* [Pull Request] [cmd/evm: t8n rejects an unsupported transaction type instead of panicking](https://github.com/erigontech/erigon/pull/24887) - 2026-10-14
+* [Pull Request] [rpc/jsonrpc: stop the witness block replay when the request is cancelled](https://github.com/erigontech/erigon/pull/24886) - 2026-10-14
+* [Pull Request] [exec: a written address serves repeat storage and code-size reads from the read set](https://github.com/erigontech/erigon/pull/24862) - 2026-10-13
+* [Review] [Review on: exec: a written address serves repeat storage and code-size reads from the read set](https://github.com/erigontech/erigon/pull/24862#pullrequestreview-5512331885) - 2026-10-14
+* [Pull Request] [rpc/jsonrpc: overlay_callConstructor rejects an address without a contract](https://github.com/erigontech/erigon/pull/24884) - 2026-10-14
+* [Pull Request] [exec: AddressPath write values live on the write set's arena](https://github.com/erigontech/erigon/pull/24863) - 2026-10-13
+* [Review] [Review on: exec: AddressPath write values live on the write set's arena](https://github.com/erigontech/erigon/pull/24863#pullrequestreview-5512332199) - 2026-10-14
+* [Pull Request] [execution/state, common/dbg: one record per address for versioned reads and writes, eth_call on it by default](https://github.com/erigontech/erigon/pull/24833) - 2026-10-13
+* [Review] [Review on: execution/state, common/dbg: one record per address for versioned reads and writes, eth_call on it by default](https://github.com/erigontech/erigon/pull/24833#pullrequestreview-5502893213) - 2026-10-13
+* [Pull Request] [tests: enable testifylint error-is-as and go-require](https://github.com/erigontech/erigon/pull/24883) - 2026-10-14
+* [Pull Request] [lint: report every issue so warm runs stop keeping a random subset](https://github.com/erigontech/erigon/pull/24882) - 2026-10-14
+* [Review] [Review on: rpc, cmd/rpcdaemon/cli: refuse cross-site GET calls and check websocket origins against the CORS list](https://github.com/erigontech/erigon/pull/24485#pullrequestreview-5511659573) - 2026-10-14
+* [Review] [Review on: cmd/mcp: verify JSON-RPC during auto-discovery](https://github.com/erigontech/erigon/pull/24584#pullrequestreview-5511577379) - 2026-10-14
+* [Review] [Review on: db/snapcfg: drop preverified names with no extension after the last separator](https://github.com/erigontech/erigon/pull/24446#pullrequestreview-5511577154) - 2026-10-14
+* [Issue] [cl: six defects from a linter audit (nil derefs, a leaked DB env, ignored cancels)](https://github.com/erigontech/erigon/issues/24881) - 2026-10-14
+* [Issue] [accounts.InternAddress: unique.Make weak-handle cost grows with 24-byte size-class density](https://github.com/erigontech/erigon/issues/24877) - 2026-10-13
+* [Issue] [engineapi: descendants rejected while the parent is in the bad-block cache leave a header gap](https://github.com/erigontech/erigon/issues/24845) - 2026-10-13
+* [Commit] [execution/stagedsync: repair the bad-block unwind path (#24836)](https://github.com/erigontech/erigon/commit/548629cd04a7817b9685ca1890d0db7c2284a839) - 2026-10-14
+* [Commit] [Revert "go.mod: otter with the replacement fix for a never-linked node (#24774)" (#24840)](https://github.com/erigontech/erigon/commit/3f4ebc218102fcc045c918baa65114aa54aa5692) - 2026-10-13
+* [Commit] [rpc: reduce `eth_getBalance` p99 by reading acc without address interning (#24795)](https://github.com/erigontech/erigon/commit/266706977a373fb57be33132f67c58e0c8241aec) - 2026-10-13
+* [Commit] [common/hexutil: hex encode/decode in simd (#24410)](https://github.com/erigontech/erigon/commit/1fea3cd6efd3cd55845a903e79603dc0f7c87573) - 2026-10-13
+* [Commit] [go.mod: otter with the replacement fix for a never-linked node (#24774)](https://github.com/erigontech/erigon/commit/a825c7214c77dca5b3c44d636e050b5ba28deb7d) - 2026-10-13
 ## Q3 2026
 
 

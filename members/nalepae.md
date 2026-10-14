@@ -42,6 +42,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Fix backfill service deadlock when waiting for completion](https://github.com/OffchainLabs/prysm/pull/17635#pullrequestreview-5490030820) - 2026-10-12
 * [Pull Request] [No responsive beacon node found](https://github.com/OffchainLabs/prysm/pull/17669) - 2026-10-12
 * [Commit] [Backfill: Fix Gloas (#17632)](https://github.com/OffchainLabs/prysm/commit/cdaa03be567bea04fd7efb83b0dc6745c75019e0) - 2026-10-12
+* [Pull Request] [ Prettify `--help` of `beacon-chain`, `validator`, `prysmctl` and `client-stats`](https://github.com/OffchainLabs/prysm/pull/17689) - 2026-10-13
+* [Pull Request] [[EIP-8025] Implement optional execution proofs](https://github.com/OffchainLabs/prysm/pull/17690) - 2026-10-13
+* [Review] [Review on: fix flakey tests](https://github.com/OffchainLabs/prysm/pull/17682#pullrequestreview-5500264449) - 2026-10-13
+* [Pull Request] [Deprecate some flags](https://github.com/OffchainLabs/prysm/pull/17686) - 2026-10-13
+* [Review] [Review on: Optimise partial data column flow](https://github.com/OffchainLabs/prysm/pull/17685#pullrequestreview-5500193952) - 2026-10-13
+* [Review] [Review on: Fix data column warm cache indexing on Windows](https://github.com/OffchainLabs/prysm/pull/17615#pullrequestreview-5500543635) - 2026-10-13
+* [Commit] [ Prettify `--help` of `beacon-chain`, `validator`, `prysmctl` and `client-stats` (#17689)](https://github.com/OffchainLabs/prysm/commit/df3edf40ae9e17291d668566dec01895dc2b1784) - 2026-10-13
+* [Commit] [Deprecate some flags (#17686)](https://github.com/OffchainLabs/prysm/commit/fd064c062d56641e54b78e95b49745d30c116cfd) - 2026-10-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 ## Q3 2026

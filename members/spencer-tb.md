@@ -51,6 +51,29 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `hegota-devnet@v1.0.0`](https://github.com/ethereum/execution-specs/issues/3788) - 2026-10-12
 * [Issue] [Test Release Tracker: `bogota-devnet@v1.1.0`](https://github.com/ethereum/execution-specs/issues/3773) - 2026-10-12
 * [Issue] [Test Release Tracker: `heze-devnet@v2.0.0`](https://github.com/ethereum/execution-specs/issues/3783) - 2026-10-12
+* [Pull Request] [fix(spec-specs, tests): handle the modexp base length overflow before Osaka](https://github.com/ethereum/execution-specs/pull/3806) - 2026-10-13
+* [Pull Request] [perf(ci, doc, test-fill): speed up PR checks](https://github.com/ethereum/execution-specs/pull/3813) - 2026-10-13
+* [Review] [Review on: feat(test-fill): add --formats flag to select fixture formats](https://github.com/ethereum/execution-specs/pull/3623#pullrequestreview-5509454170) - 2026-10-13
+* [Review] [Review on: fix(test-forks): keep base fee change gas within the parent gas limit](https://github.com/ethereum/execution-specs/pull/3760#pullrequestreview-5509376951) - 2026-10-13
+* [Pull Request] [chore(docs): remove the library reference](https://github.com/ethereum/execution-specs/pull/3817) - 2026-10-13
+* [Pull Request] [chore(test-fill, docs): remove the test case reference](https://github.com/ethereum/execution-specs/pull/3816) - 2026-10-13
+* [Review] [Review on: feat(tests): add subgroup checks and non-canonical field deserialization edge cases](https://github.com/ethereum/execution-specs/pull/3641#pullrequestreview-5508922929) - 2026-10-13
+* [Pull Request] [chore(test-fill, tests, docs): remove the EIP checklist framework](https://github.com/ethereum/execution-specs/pull/3815) - 2026-10-13
+* [Review] [Review on: feat(tests): extend EIP-8198 coverage](https://github.com/ethereum/execution-specs/pull/3812#pullrequestreview-5508273619) - 2026-10-13
+* [Review] [Review on: fix(test-client-clis): fail loudly when a t8n help probe fails](https://github.com/ethereum/execution-specs/pull/3734#pullrequestreview-5508277431) - 2026-10-13
+* [Review] [Review on: feat(tests): pin TXPARAM's max cost with the EIP-8250 key cost](https://github.com/ethereum/execution-specs/pull/3803#pullrequestreview-5508183211) - 2026-10-13
+* [Review] [Review on: fix(test-specs): resolve the state test chain id from ChainConfigDefaults](https://github.com/ethereum/execution-specs/pull/3810#pullrequestreview-5507884918) - 2026-10-13
+* [Review] [Review on: test(spec-tools): add unit tests for new fork codemods](https://github.com/ethereum/execution-specs/pull/3776#pullrequestreview-5507773546) - 2026-10-13
+* [Review] [Review on: chore(tests): remove fourteen consensus test skips](https://github.com/ethereum/execution-specs/pull/3795#pullrequestreview-5507114934) - 2026-10-13
+* [Review] [Review on: docs(spec-specs): name the calldata floor in the tx gas cap check](https://github.com/ethereum/execution-specs/pull/3809#pullrequestreview-5507202661) - 2026-10-13
+* [Pull Request] [perf(test-fill, test-fixtures, ci): speed up the end of release fills](https://github.com/ethereum/execution-specs/pull/3808) - 2026-10-13
+* [Review] [Review on: chore(tests): derive EIP-7918 reserve price base fees from fork params](https://github.com/ethereum/execution-specs/pull/3794#pullrequestreview-5505081759) - 2026-10-13
+* [Review] [Review on: fix(ci): fail a fixture release when a fork-range artifact is missing](https://github.com/ethereum/execution-specs/pull/3802#pullrequestreview-5506181850) - 2026-10-13
+* [Review] [Review on: fix(test-client-clis): support filling with Besu's t8n](https://github.com/ethereum/execution-specs/pull/3796#pullrequestreview-5505438814) - 2026-10-13
+* [Issue] [Docs Slimming Tracker: There is no checklist](https://github.com/ethereum/execution-specs/issues/3814) - 2026-10-13
+* [Issue] [Fill Performance Tracker: I feel the need, the need for speed](https://github.com/ethereum/execution-specs/issues/3798) - 2026-10-13
+* [Commit] [fix(spec-specs, tests): handle the modexp base length overflow before Osaka (#3806)](https://github.com/ethereum/execution-specs/commit/a6c4bcf4d850a00ee72953f44e60ad80921095d0) - 2026-10-13
+* [Commit] [perf(test-fill, test-forks): cut per-test and collection overhead (#3785)](https://github.com/ethereum/execution-specs/commit/439d154c3d860041e717b775ea1c61185ac8f242) - 2026-10-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

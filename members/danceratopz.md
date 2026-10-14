@@ -39,6 +39,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-client-clis): map ethrex's too-wide EIP-8250 nonce fields to TYPE_6_INVALID_FRAME_FORMAT](https://github.com/ethereum/execution-specs/pull/3762#pullrequestreview-5480686248) - 2026-10-10
 * [Review] [Review on: docs(tooling): document conventional commit format and prefixes in CONTRIBUTING.md](https://github.com/ethereum/execution-specs/pull/3759#pullrequestreview-5478242883) - 2026-10-10
 * [Commit] [fix(test-consume): count tests that stop in setup toward their client group (#3765)](https://github.com/ethereum/execution-specs/commit/e91a5058c477b0d4e4de939f9e5e8baaf57b6aed) - 2026-10-12
+* [Review] [Review on: chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758#pullrequestreview-5509913066) - 2026-10-13
+* [Pull Request] [fix(ci): fail a fixture release when a fork-range artifact is missing](https://github.com/ethereum/execution-specs/pull/3802) - 2026-10-13
+* [Commit] [fix(ci): fail a fixture release when a fork-range artifact is missing (#3802)](https://github.com/ethereum/execution-specs/commit/7a6f7ad623aae707bb91f15de6ba4e55439018b8) - 2026-10-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

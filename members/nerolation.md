@@ -30,6 +30,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8189: clarify snap ENR entry version signaling](https://github.com/ethereum/EIPs/pull/12493) - 2026-10-12
 * [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5492133578) - 2026-10-12
 
+* [Review] [Review on: Update EIP-8250: make keyed nonces single-use spent flags](https://github.com/ethereum/EIPs/pull/12467#pullrequestreview-5501172931) - 2026-10-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 ## Q3 2026

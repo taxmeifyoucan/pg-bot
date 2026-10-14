@@ -32,6 +32,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Pass ChainSpec to get_proposer_head instead of three threshold args](https://github.com/sigp/lighthouse/pull/10324) - 2026-10-12
 * [Review] [Review on: Use the Gloas min epochs for block requests as the backfill range](https://github.com/sigp/lighthouse/pull/10270#pullrequestreview-5488570840) - 2026-10-12
 * [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5488013704) - 2026-10-12
+* [Pull Request] [Drop PayloadVerificationStatus::is_optimistic](https://github.com/sigp/lighthouse/pull/10335) - 2026-10-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 ## Q3 2026

@@ -31,6 +31,21 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [snap: send StorageRanges via snap/2 to peers that negotiated snap/2 (#4959)](https://github.com/status-im/nimbus-eth1/commit/af9e318f80f28e2a591946e9802ae3984e7606a4) - 2026-10-11
 * [Commit] [snap: decode requests as flat field lists and always send the proof field (#4960)](https://github.com/status-im/nimbus-eth1/commit/0fccf38473f2901a0752fe4daa89d5843082b2ec) - 2026-10-12
 
+* [Pull Request] [snap: accept empty startingHash/limitHash in GetStorageRanges](https://github.com/status-im/nimbus-eth1/pull/4974) - 2026-10-13
+* [Pull Request] [json-rpc: keep accept loop running when a queued client resets](https://github.com/status-im/nimbus-eth1/pull/4973) - 2026-10-13
+* [Pull Request] [networking: cap incoming connections at two thirds of max-peers](https://github.com/status-im/nimbus-eth1/pull/4972) - 2026-10-13
+* [Pull Request] [networking: excl connectinNodes entry when dial is cancelled](https://github.com/status-im/nimbus-eth1/pull/4971) - 2026-10-13
+* [Pull Request] [networking: move peer removal into PeerPool](https://github.com/status-im/nimbus-eth1/pull/4970) - 2026-10-13
+* [Pull Request] [snap: serve GetBlockAccessLists with the eth/71 BAL handler](https://github.com/status-im/nimbus-eth1/pull/4968) - 2026-10-13
+* [Pull Request] [networking: remove dead p2pdump tracing](https://github.com/status-im/nimbus-eth1/pull/4967) - 2026-10-13
+* [Pull Request] [networking: move discovery and dialing out of peerpool](https://github.com/status-im/nimbus-eth1/pull/4966) - 2026-10-13
+* [Commit] [snap: accept empty startingHash/limitHash in GetStorageRanges (#4974)](https://github.com/status-im/nimbus-eth1/commit/3e15735322954d1bba53b023f5617be1c8248675) - 2026-10-13
+* [Commit] [json-rpc: keep accept loop running when a queued client resets (#4973)](https://github.com/status-im/nimbus-eth1/commit/ba252ab67836557724365fe7eff446ef77f16e6d) - 2026-10-13
+* [Commit] [networking: excl connectinNodes entry when dial is cancelled (#4971)](https://github.com/status-im/nimbus-eth1/commit/dc412be08d4766ed3b1b6eca64768ce84be5e8a8) - 2026-10-13
+* [Commit] [networking: move peer removal into PeerPool (#4970)](https://github.com/status-im/nimbus-eth1/commit/9c62723e419b45fd8f60de3964e8c052a50c5349) - 2026-10-13
+* [Commit] [snap: serve GetBlockAccessLists with the eth/71 BAL handler (#4968)](https://github.com/status-im/nimbus-eth1/commit/8c772f7d3b52d4c4d9ed13d036d64da9901d1e91) - 2026-10-13
+* [Commit] [networking: remove dead p2pdump tracing (#4967)](https://github.com/status-im/nimbus-eth1/commit/fcd9923bf67d0d7de6778a0b07b6dd8063566906) - 2026-10-13
+* [Commit] [networking: move discovery and dialing out of peerpool (#4966)](https://github.com/status-im/nimbus-eth1/commit/ee348b9203c62af8339dc7c58c7684b198ef14db) - 2026-10-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 ## Q3 2026

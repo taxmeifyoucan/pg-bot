@@ -88,6 +88,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/sentinel/handlers: return zero chunks for data column by-root misses (#24772)](https://github.com/erigontech/erigon/commit/9a3419c6a3e6bfa674325bdd94515b748714c1e3) - 2026-10-12
 * [Commit] [cl/phase1/forkchoice: reject attester slashings with no slashable validator, handle huge indices (#24771)](https://github.com/erigontech/erigon/commit/0dd54f41245733fb9aa978e7b87753f7711d390d) - 2026-10-12
 * [Commit] [cl/phase1/network/services: accept aggregates of a new epoch before its first block (#24766)](https://github.com/erigontech/erigon/commit/99d56b2d489eb4683d58b1fb33c3a67a3bea62b0) - 2026-10-12
+* [Review] [Review on: cl: verify direct-client blob hashes](https://github.com/erigontech/erigon/pull/24852#pullrequestreview-5510828028) - 2026-10-13
+* [Pull Request] [cl/phase1/forkchoice: record gloas payload status when el validation is skipped](https://github.com/erigontech/erigon/pull/24878) - 2026-10-14
+* [Review] [Review on: cl: refuse validator duties while the head lags behind imported blocks](https://github.com/erigontech/erigon/pull/24829#pullrequestreview-5510982928) - 2026-10-13
+* [Review] [Review on: cl: report why chain-tip blocks are not imported](https://github.com/erigontech/erigon/pull/24834#pullrequestreview-5510945307) - 2026-10-13
+* [Review] [Review on: cl: wait for a parked parent envelope before proposing](https://github.com/erigontech/erigon/pull/24832#pullrequestreview-5510880488) - 2026-10-13
+* [Review] [Review on: cl/das: fetch missing custody columns within the slot](https://github.com/erigontech/erigon/pull/24830#pullrequestreview-5510858322) - 2026-10-13
+* [Review] [Review on: cl/das: recover the blob rows of a block in parallel](https://github.com/erigontech/erigon/pull/24861#pullrequestreview-5510852635) - 2026-10-13
+* [Commit] [cl: verify proposer slashing signatures over the header and accept one per proposer (#24846)](https://github.com/erigontech/erigon/commit/22a864ce2195a18dbc0a461dbf87f9d5b71514f2) - 2026-10-13
+* [Commit] [cl/phase1/network, cl/beacon/handler: handle gloas proposer preferences in the epoch before the fork (#24809)](https://github.com/erigontech/erigon/commit/cf4c949cbc63ec4e3e4372d54e6922f444234c86) - 2026-10-13
+* [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: ignore local block import errors and attester slashings that need an unavailable justified state (#24821)](https://github.com/erigontech/erigon/commit/9305ed3b346f2440af498afbc9be84408b2ba06f) - 2026-10-13
 ## Q3 2026
 
 

@@ -32,6 +32,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Verify proposer preferences signature before advancing the dependent state](https://github.com/OffchainLabs/prysm/pull/17656) - 2026-10-08
 * [Review] [Review on: Serialize block gossip decode](https://github.com/OffchainLabs/prysm/pull/17647#pullrequestreview-5459095077) - 2026-10-08
 * [Review] [Review on: Optimize ExecutionPayload Transactions representation](https://github.com/OffchainLabs/prysm/pull/17584#pullrequestreview-5471666876) - 2026-10-09
+* [Review] [Review on: Gloas batch envelope binding](https://github.com/OffchainLabs/prysm/pull/17566#pullrequestreview-5508964311) - 2026-10-13
+* [Review] [Review on: Broadcast published envelopes without block checks at gossip validation level](https://github.com/OffchainLabs/prysm/pull/17520#pullrequestreview-5509782432) - 2026-10-13
+* [Review] [Review on: Limit Gloas payload envelope validation work](https://github.com/OffchainLabs/prysm/pull/17612#pullrequestreview-5508826023) - 2026-10-13
+* [Commit] [Verify proposer preferences signature before advancing the dependent state (#17656)](https://github.com/OffchainLabs/prysm/commit/87b5f3b4177d2d6904e4d1b22426dd5d10037aef) - 2026-10-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

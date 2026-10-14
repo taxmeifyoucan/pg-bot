@@ -49,6 +49,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Revert "Replace custom `ByteUnits` utility with Storage-Units library…](https://github.com/besu-eth/besu/pull/11563) - 2026-10-12
 * [Review] [Review on: Fix layered txpool corruption on sparse promotion and late selection results](https://github.com/besu-eth/besu/pull/11462#pullrequestreview-5492362521) - 2026-10-12
 * [Commit] [Revert "Replace custom `ByteUnits` utility with Storage-Units library (#11512)" (#11563)](https://github.com/besu-eth/besu/commit/f9822929b0a0da0c411b45651532f376fd7fc09a) - 2026-10-12
+* [Review] [Review on: add missing sources to make IDE gradle sync happy](https://github.com/besu-eth/besu/pull/11572#pullrequestreview-5500115855) - 2026-10-13
+* [Pull Request] [Introduce TransactionEventNotifier and notify plugins asynchronously](https://github.com/besu-eth/besu/pull/11574) - 2026-10-13
 ## Q3 2026
 
 

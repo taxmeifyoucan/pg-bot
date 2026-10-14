@@ -18,6 +18,7 @@ Team: Grandine
 * [Review] [Review on: Optional payload storage](https://github.com/grandinetech/grandine/pull/949#pullrequestreview-5443324861) - 2026-10-07
 * [Review] [Review on: Use response context bytes to determine the fork for RPC response size limits](https://github.com/grandinetech/grandine/pull/964#pullrequestreview-5471254666) - 2026-10-09
 * [Review] [Review on: tune max allowed empty slots](https://github.com/grandinetech/grandine/pull/946#pullrequestreview-5468335769) - 2026-10-09
+* [Review] [Review on: Update consensus-spec-tests to v1.7.0-beta.3](https://github.com/grandinetech/grandine/pull/962#pullrequestreview-5503796639) - 2026-10-13
 ## Q3 2026
 
 

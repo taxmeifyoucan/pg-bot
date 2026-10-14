@@ -65,6 +65,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: bump spec test version to v1.7.0-beta.4](https://github.com/ChainSafe/lodestar-z/pull/756#pullrequestreview-5488181316) - 2026-10-12
 * [Commit] [feat: add `bench_ssz` step (#318)](https://github.com/ChainSafe/lodestar-z/commit/874de23c5f0c7937c3b15b09f97be7948922e9f8) - 2026-10-13
 * [Commit] [feat: verify EIP-8025 execution proofs through ere's C verifier (#760)](https://github.com/ChainSafe/lodestar-z/commit/f069a4dd5aaf24e2a10e7760bb95869528648dd2) - 2026-10-12
+* [Review] [Review on: feat(ssz): add composite range reads](https://github.com/ChainSafe/lodestar-z/pull/779#pullrequestreview-5502380168) - 2026-10-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

@@ -39,9 +39,12 @@ Team: Reth
 * [Commit] [perf(rpc): skip compression on loopback servers (#27865)](https://github.com/paradigmxyz/reth/commit/fa94e1518457f3aef3d685e947fc8218de3ef16d) - 2026-10-12
 * [Commit] [fix(ipc): stop buffering oversized requests (#27864)](https://github.com/paradigmxyz/reth/commit/95bdbe747571b417246dac174052770f4cd0ffd4) - 2026-10-12
 * [Commit] [perf(rpc): compress only large responses, fastest (#27863)](https://github.com/paradigmxyz/reth/commit/81e7be6f543be69adb8e6d6eea6fb4f275a1239c) - 2026-10-12
+* [Pull Request] [perf(engine): reuse prewarm transaction results](https://github.com/paradigmxyz/reth/pull/27894) - 2026-10-13
+* [Review] [Review on: refactor: remove more bounds implied by supertraits](https://github.com/paradigmxyz/reth/pull/27892#pullrequestreview-5510103255) - 2026-10-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 
+* [Issue] [EIP-7702: delegated precompile address runs the precompile instead of the delegate code](https://github.com/bluealloy/revm/issues/3972) - 2026-10-13
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [fix(runtime): reject AOT mode without a store](https://github.com/paradigmxyz/revmc/pull/424) - 2026-10-10
 * [Pull Request] [docs(runtime): fix cache size and idle evict defaults](https://github.com/paradigmxyz/revmc/pull/423) - 2026-10-10

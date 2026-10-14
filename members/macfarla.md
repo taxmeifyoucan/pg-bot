@@ -73,6 +73,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [default discovery mode back to V4 to be conservative](https://github.com/besu-eth/besu/pull/11559) - 2026-10-12
 * [Issue] [Snap sync livelocks on a large, actively-changing contract when the dynamic pivot advances mid-download (repeated invalid storage range proofs)](https://github.com/besu-eth/besu/issues/11557) - 2026-10-12
 * [Commit] [ci: only write the Docker BuildKit cache on refs/heads/main (#11569)](https://github.com/besu-eth/besu/commit/c91f347e7aa38b9da351bd6f840d6e4f83ecd3d2) - 2026-10-13
+* [Pull Request] [add missing sources to make IDE gradle sync happy](https://github.com/besu-eth/besu/pull/11572) - 2026-10-13
+* [Review] [Review on: Enable NullAway for QBFT](https://github.com/besu-eth/besu/pull/11568#pullrequestreview-5509572285) - 2026-10-13
+* [Review] [Review on: Enable NullAway for QBFT core](https://github.com/besu-eth/besu/pull/11567#pullrequestreview-5509179176) - 2026-10-13
+* [Review] [Review on: feat(core): support explicit operation tracer in block processing](https://github.com/besu-eth/besu/pull/10862#pullrequestreview-5499626116) - 2026-10-13
+* [Commit] [add missing sources to make IDE gradle sync happy (#11572)](https://github.com/besu-eth/besu/commit/7c72ea43432b46870bf796e8bdcb7c033fece6f0) - 2026-10-13
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

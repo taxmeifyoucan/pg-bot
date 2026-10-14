@@ -41,6 +41,17 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [feat(skill): keep AI from updating the <fork> docstring until merges (#3749)](https://github.com/ethereum/execution-specs/commit/dc6d1a55cef60d45dbd5969c8d602610daecf604) - 2026-10-08
 * [Review] [Review on: fix(tests): skip inclusion-list variants whose entry cannot fit a list](https://github.com/ethereum/execution-specs/pull/3502#pullrequestreview-5476755226) - 2026-10-10
 * [Review] [Review on: feat(consume): check inclusionListSatisfied semantics and probe engine_getInclusionListV1](https://github.com/ethereum/execution-specs/pull/3410#pullrequestreview-5494274447) - 2026-10-12
+* [Pull Request] [feat(tests): FOCIL IL entry tests](https://github.com/ethereum/execution-specs/pull/3804) - 2026-10-13
+* [Pull Request] [fix(spec-tests): create the json_loader fork cache at configure](https://github.com/ethereum/execution-specs/pull/3819) - 2026-10-13
+* [Review] [Review on: fix(spec-tests): create the json_loader fork cache at configure](https://github.com/ethereum/execution-specs/pull/3819#pullrequestreview-5510742472) - 2026-10-13
+* [Review] [Review on: chore(tests): Remove hard-coded gas limits from system contract tests](https://github.com/ethereum/execution-specs/pull/3457#pullrequestreview-5509473604) - 2026-10-13
+* [Pull Request] [feat(tests): extend EIP-8198 coverage](https://github.com/ethereum/execution-specs/pull/3812) - 2026-10-13
+* [Pull Request] [feat(tests): pin TXPARAM's max cost with the EIP-8250 key cost](https://github.com/ethereum/execution-specs/pull/3803) - 2026-10-13
+* [Review] [Review on: feat(tests): pin TXPARAM's max cost with the EIP-8250 key cost](https://github.com/ethereum/execution-specs/pull/3803#pullrequestreview-5507388762) - 2026-10-13
+* [Pull Request] [docs(spec-specs): name the calldata floor in the tx gas cap check](https://github.com/ethereum/execution-specs/pull/3809) - 2026-10-13
+* [Pull Request] [feat(tests): 8141 approval edge cases](https://github.com/ethereum/execution-specs/pull/3801) - 2026-10-13
+* [Commit] [fix(spec-tests): create the json_loader fork cache at configure (#3819)](https://github.com/ethereum/execution-specs/commit/b9391f6ade0144e35f7a42c3fd1b6b6e85121954) - 2026-10-13
+* [Commit] [docs(spec-specs): name the calldata floor in the tx gas cap check (#3809)](https://github.com/ethereum/execution-specs/commit/eaca1cbc08e1673c1008fce35600fca481b05735) - 2026-10-13
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

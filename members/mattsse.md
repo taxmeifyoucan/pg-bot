@@ -185,6 +185,21 @@ Team: Reth
 * [Commit] [test(e2e): fix snap sync persistence flake (#27862)](https://github.com/paradigmxyz/reth/commit/bb1396c48c0a8c855b50de645ee803f4d092f9b1) - 2026-10-12
 * [Commit] [perf(ef-tests): share RocksDB across test cases (#27847)](https://github.com/paradigmxyz/reth/commit/a288cbb647f425a0d553a05e1becebd1d46fa469) - 2026-10-12
 * [Commit] [perf(ci): run ef-tests temp dirs on tmpfs (#27851)](https://github.com/paradigmxyz/reth/commit/e938109cc3b642a64725df3bd74aa703b4a21ffb) - 2026-10-12
+* [Review] [Review on: docs: add reth-rust-style agent skill](https://github.com/paradigmxyz/reth/pull/27897#pullrequestreview-5511634596) - 2026-10-14
+* [Review] [Review on: docs: add recurring review feedback to AGENTS.md](https://github.com/paradigmxyz/reth/pull/27896#pullrequestreview-5511501173) - 2026-10-14
+* [Pull Request] [fix(rpc): restore geth's oracle threshold](https://github.com/paradigmxyz/reth/pull/27895) - 2026-10-13
+* [Pull Request] [refactor: remove more bounds implied by supertraits](https://github.com/paradigmxyz/reth/pull/27892) - 2026-10-13
+* [Review] [Review on: fix: evict low-tip nonce chains first](https://github.com/paradigmxyz/reth/pull/27871#pullrequestreview-5509660794) - 2026-10-13
+* [Pull Request] [perf(e2e-test-utils): box futures of the eth API helpers](https://github.com/paradigmxyz/reth/pull/27891) - 2026-10-13
+* [Pull Request] [ci: build unit and integration tests without debuginfo](https://github.com/paradigmxyz/reth/pull/27884) - 2026-10-13
+* [Pull Request] [perf(e2e-test-utils): gate chain import behind a default feature](https://github.com/paradigmxyz/reth/pull/27886) - 2026-10-13
+* [Review] [Review on: fix(trie): bound dirty scans at cached paths](https://github.com/paradigmxyz/reth/pull/27651#pullrequestreview-5506095430) - 2026-10-13
+* [Review] [Review on: fix(storage): invalidate in-memory keys when reverting without trie changesets](https://github.com/paradigmxyz/reth/pull/27614#pullrequestreview-5506094590) - 2026-10-13
+* [Review] [Review on: refactor: remove redundant trait bounds](https://github.com/paradigmxyz/reth/pull/27876#pullrequestreview-5505905769) - 2026-10-13
+* [Commit] [refactor: remove more bounds implied by supertraits (#27892)](https://github.com/paradigmxyz/reth/commit/e8a1a41bb9f868177ad96df5c6618af0a0e356ca) - 2026-10-13
+* [Commit] [perf(e2e-test-utils): box futures of the eth API helpers (#27891)](https://github.com/paradigmxyz/reth/commit/5b6d9c89e0dae3642de501c68ad2ea0ef46be9d3) - 2026-10-13
+* [Commit] [ci: build unit and integration tests without debuginfo (#27884)](https://github.com/paradigmxyz/reth/commit/44958846936ed9ff4748ecfc1ac6d68af9e88af4) - 2026-10-13
+* [Commit] [perf(e2e-test-utils): gate chain import behind a default feature (#27886)](https://github.com/paradigmxyz/reth/commit/e8a06856f8a3258fbd1bedae80e6d85e8230ca15) - 2026-10-13
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

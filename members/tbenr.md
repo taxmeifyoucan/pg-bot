@@ -50,6 +50,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Keep block reorgs over payload reorgs when coalescing head events](https://github.com/Consensys-Incorporated/teku/pull/11460) - 2026-10-09
 * [Commit] [Keep block reorgs over payload reorgs when coalescing head events (#11460)](https://github.com/Consensys-Incorporated/teku/commit/43bd9e5c7be57490c2ee474bc8ff68d887564172) - 2026-10-11
 * [Commit] [Resolve discovered peer addresses against both local transports (#11464)](https://github.com/Consensys-Incorporated/teku/commit/53f2ff10564e64aff7b826a2934d04c2f6b03250) - 2026-10-11
+* [Pull Request] [Read SSZ byte lists in bulk instead of one element per tree walk](https://github.com/Consensys-Incorporated/teku/pull/11485) - 2026-10-13
+* [Pull Request] [Give each peer identity at most one connection slot per selection](https://github.com/Consensys-Incorporated/teku/pull/11484) - 2026-10-13
+* [Commit] [Read SSZ byte lists in bulk instead of one element per tree walk (#11485)](https://github.com/Consensys-Incorporated/teku/commit/fe243e1f9f9f509fecc6baffa1ed1de9db475b0b) - 2026-10-13
+* [Commit] [Give each peer identity at most one connection slot per selection (#11484)](https://github.com/Consensys-Incorporated/teku/commit/c152bd42fe1665cce187db7010e5a6a4aa7a033c) - 2026-10-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

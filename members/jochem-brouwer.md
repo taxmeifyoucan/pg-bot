@@ -39,6 +39,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Update EIP-8253: Add Mainnet prestate values + genesis/devnet alloc](https://github.com/ethereum/EIPs/commit/0cc66cb8a489925c5a56ff2df112cbcd1293c148) - 2026-10-12
 * [Commit] [Update EIP-8253: explicitly define Mainnet/testnet chain configs](https://github.com/ethereum/EIPs/commit/2b3e257fcb4e6c89fbe6d62bf0fabfb7649c2c3f) - 2026-10-12
 
+* [Review] [Review on: Add EIP: Frame Authenticator Signatures](https://github.com/ethereum/EIPs/pull/12244#pullrequestreview-5512368633) - 2026-10-14
+* [Review] [Review on: Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/pull/12093#pullrequestreview-5512316604) - 2026-10-14
+* [Review] [Review on: Add EIP: Transaction Validity Proofs](https://github.com/ethereum/EIPs/pull/12075#pullrequestreview-5512186337) - 2026-10-14
+* [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5503992879) - 2026-10-13
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

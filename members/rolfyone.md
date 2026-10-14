@@ -67,6 +67,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Recover Gloas payloads for state-only finalized checkpoints](https://github.com/Consensys-Incorporated/teku/pull/11450#pullrequestreview-5486955935) - 2026-10-12
 * [Pull Request] [Test inclusion list duties run once per slot](https://github.com/Consensys-Incorporated/teku/pull/11479) - 2026-10-12
 * [Pull Request] [Fix Heze block import reading removed deposits, cover gaps, drop dead code](https://github.com/Consensys-Incorporated/teku/pull/11478) - 2026-10-12
+* [Review] [Review on: Update discovery to 26.10.0](https://github.com/Consensys-Incorporated/teku/pull/11487#pullrequestreview-5512335926) - 2026-10-14
+* [Pull Request] [Merge master into heze-devnet-2](https://github.com/Consensys-Incorporated/teku/pull/11486) - 2026-10-14
+* [Review] [Review on: Recover Gloas payloads for state-only finalized checkpoints](https://github.com/Consensys-Incorporated/teku/pull/11450#pullrequestreview-5502200192) - 2026-10-13
+* [Review] [Review on: Add update gossip for light clients](https://github.com/Consensys-Incorporated/teku/pull/11451#pullrequestreview-5498506906) - 2026-10-13
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

@@ -19,6 +19,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Gloas bids built from `payload_attributes` are ignored when the PTC votes against a Full payload](https://github.com/sigp/lighthouse/issues/10226) - 2026-10-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Rejecting an invalid block takes 30-45s and allocates up to ~20 GB (`glamsterdam-devnet-8`)](https://github.com/paradigmxyz/reth/issues/27878) - 2026-10-13
 ## Q3 2026
 
 

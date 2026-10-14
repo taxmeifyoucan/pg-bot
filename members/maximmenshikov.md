@@ -19,6 +19,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0](https://github.com/NethermindEth/nethermind/pull/14456) - 2026-10-08
 * [Review] [Review on: chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0](https://github.com/NethermindEth/nethermind/pull/14456#pullrequestreview-5463400745) - 2026-10-08
 * [Commit] [chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0 (#14456)](https://github.com/NethermindEth/nethermind/commit/89afb8d0cf83425788712d8e13267305045d9ee7) - 2026-10-08
+* [Pull Request] [OpenVMGuest: Bump OpenVM runtime to 2.1.0.49](https://github.com/NethermindEth/nethermind/pull/14630) - 2026-10-13
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

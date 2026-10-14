@@ -47,6 +47,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: keep code hash in sync with code read from version map (#24432)](https://github.com/erigontech/erigon/commit/76167d7987af908e88391a40dfd054c275c6e04d) - 2026-10-09
 * [Commit] [execution/state: treat slots written by the destroying tx as wiped (#24742)](https://github.com/erigontech/erigon/commit/ec8ca9d0100fad1ff40324431e7dbecf42978d4c) - 2026-10-12
 * [Commit] [execution: don't revive a destroyed account with its old nonce or code hash (#24705)](https://github.com/erigontech/erigon/commit/d9bc27f368d3d9ba05adf3deb0c37ae264207946) - 2026-10-12
+* [Pull Request] [execution/state: re-read an account field whose cell appears during the record fallback](https://github.com/erigontech/erigon/pull/24874) - 2026-10-13
+* [Pull Request] [execution/state: invalidate committed field reads wiped by an in-range destruct](https://github.com/erigontech/erigon/pull/24866) - 2026-10-13
+* [Pull Request] [execution/cache: let a closed budgeted ByteLRU be collected](https://github.com/erigontech/erigon/pull/24867) - 2026-10-13
+* [Pull Request] [execution/state: zero the burned balance in CreateAccount's synthetic read](https://github.com/erigontech/erigon/pull/24876) - 2026-10-13
+* [Pull Request] [execution/stagedsync: credit both fees when the coinbase is the burnt-fee recipient](https://github.com/erigontech/erigon/pull/24879) - 2026-10-14
+* [Pull Request] [execution/state, execution/stagedsync: read an EIP-8246-preserved coinbase as live in calcFees](https://github.com/erigontech/erigon/pull/24880) - 2026-10-14
+* [Commit] [execution/state: let a code hash read of a fee-revived account pass validation (#24810)](https://github.com/erigontech/erigon/commit/8adf9ccd8763991419022f51d78685d4ff72c4fe) - 2026-10-13
+* [Commit] [execution/stagedsync: don't keep the incarnation of a removed empty account (#24806)](https://github.com/erigontech/erigon/commit/50313d2b85d25f65b6b9f032dd939e43d6097e7b) - 2026-10-13
+* [Commit] [execution/state: keep the cached account when a contract creation reverts (#24805)](https://github.com/erigontech/erigon/commit/927fdc7f4ff503248368a61d533f69f049388055) - 2026-10-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -79,6 +88,26 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [state: Read the system contract code through the State (#1756)](https://github.com/ipsilon/evmone/commit/201a8f3d8991d1fbbc9c530ed099f5c43fdf1ae6) - 2026-10-12
 * [Commit] [test: Apply the withdrawals before the block-end system calls (#1755)](https://github.com/ipsilon/evmone/commit/fff0e98245c558c1a98fd25ac8dcb945bf2faa93) - 2026-10-12
 * [Commit] [evm: Read the account also for a 0-byte EXTCODECOPY (#1753)](https://github.com/ipsilon/evmone/commit/c2d54b02f2ecb5e5340c018a943baf20e2614f4f) - 2026-10-12
+* [Pull Request] [t8n: Output the block access list](https://github.com/ipsilon/evmone/pull/1758) - 2026-10-13
+* [Review] [Review on: t8n: Output the block access list](https://github.com/ipsilon/evmone/pull/1758#pullrequestreview-5510118176) - 2026-10-13
+* [Pull Request] [state: Avoid the journal size division in rollback()](https://github.com/ipsilon/evmone/pull/1763) - 2026-10-13
+* [Pull Request] [state: Clear the create flags in the create rollback](https://github.com/ipsilon/evmone/pull/1762) - 2026-10-13
+* [Pull Request] [build: Drop the AppleClang 15 workarounds](https://github.com/ipsilon/evmone/pull/1764) - 2026-10-13
+* [Pull Request] [test: Cache the code hash in TestAccount](https://github.com/ipsilon/evmone/pull/1761) - 2026-10-13
+* [Pull Request] [state: Journal accounts by pointer](https://github.com/ipsilon/evmone/pull/1760) - 2026-10-13
+* [Pull Request] [test: Fuzz the execution-specs state tests](https://github.com/ipsilon/evmone/pull/1759) - 2026-10-13
+* [Review] [Review on: Implement EIP-7928: "Block-Level Access Lists"](https://github.com/ipsilon/evmone/pull/1752#pullrequestreview-5502828646) - 2026-10-13
+* [Review] [Review on: state: Warm accounts and storage slots without loading them](https://github.com/ipsilon/evmone/pull/1757#pullrequestreview-5500179437) - 2026-10-13
+* [Commit] [state: Avoid the journal size division in rollback() (#1763)](https://github.com/ipsilon/evmone/commit/273b09a809b1161d0ba05ef2a2698c9c84d8aace) - 2026-10-13
+* [Commit] [state: Clear the create flags in the create rollback (#1762)](https://github.com/ipsilon/evmone/commit/e18dd126b1375a6af8d10691f01b94e542ca3891) - 2026-10-13
+* [Commit] [build: Drop the AppleClang 15 workarounds (#1764)](https://github.com/ipsilon/evmone/commit/80f4e520f82d266d0e6bcb3ed8c56ed09e944ecb) - 2026-10-13
+* [Commit] [test: Cache the code hash in TestAccount (#1761)](https://github.com/ipsilon/evmone/commit/48be562838fcbf2a86a960d1ee429136422bf567) - 2026-10-13
+* [Commit] [state: Journal accounts by pointer (#1760)](https://github.com/ipsilon/evmone/commit/0b0551064b5228a527dddbf4a39fa52231301bc6) - 2026-10-13
+* [Commit] [Implement EIP-7928: "Block-Level Access Lists" (#1752)](https://github.com/ipsilon/evmone/commit/e0a1a725cae90081b9d213799a06fe1a83b6808d) - 2026-10-13
+* [Commit] [state: Warm accounts and storage slots without loading them (#1757)](https://github.com/ipsilon/evmone/commit/d5c371af821c4d00cea0c95aced748f38aa282d7) - 2026-10-13
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 ## Q3 2026
 
 

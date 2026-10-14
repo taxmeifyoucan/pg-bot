@@ -8,6 +8,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q4 2026
+
+
+[eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
+* [Pull Request] [fix: dedup EEST fixture names across files](https://github.com/eth-act/zkevm-benchmark-workload/pull/321) - 2026-10-13
+* [Pull Request] [feat: add zilkworm stateless validator client](https://github.com/eth-act/zkevm-benchmark-workload/pull/320) - 2026-10-13
+* [Commit] [fix: dedup EEST fixture names across files (#321)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c3b1308312cdc58f88c1735c035149798ad8f0f5) - 2026-10-13
 ## Q2 2026
 
 
