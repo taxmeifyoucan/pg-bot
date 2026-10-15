@@ -13,6 +13,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add top 10 current funders to README](https://github.com/protocolguild/documentation/pull/559) - 2026-10-05
+* [Pull Request] [Add Robinhood Chain donation address](https://github.com/protocolguild/documentation/pull/578) - 2026-10-14
+* [Commit] [Merge pull request #578 from protocolguild/add-robinhood-chain-donation-address](https://github.com/protocolguild/documentation/commit/ff3d3fe4028ff2af7beddff4b23df4041f484fdb) - 2026-10-14
+* [Commit] [Add Robinhood Chain donation address](https://github.com/protocolguild/documentation/commit/ab84e87373f087965cef004b7fe3928047a3feb5) - 2026-10-14
 ## Q3 2026
 
 

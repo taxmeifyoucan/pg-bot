@@ -35,11 +35,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: update consensus specs to v1.7.0-beta.4 (#10314)](https://github.com/ChainSafe/lodestar/commit/6155cf7acc9ba60ff319ff9da7304a4cfb991284) - 2026-10-09
 * [Review] [Review on: feat: implement quick slots EIP-8198 in heze](https://github.com/ChainSafe/lodestar/pull/10355#pullrequestreview-5487132448) - 2026-10-12
 * [Review] [Review on: fix: check bid inclusion list bits against timely lists only](https://github.com/ChainSafe/lodestar/pull/10381#pullrequestreview-5510538367) - 2026-10-13
+* [Pull Request] [refactor(api): drop unreachable genesis block root fallbacks from duty endpoints](https://github.com/ChainSafe/lodestar/pull/10394) - 2026-10-15
+* [Review] [Review on: chore: remove blob related code](https://github.com/ChainSafe/lodestar/pull/9957#pullrequestreview-5526453329) - 2026-10-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
+* [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14
 ## Q3 2026
 
 

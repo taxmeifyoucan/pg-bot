@@ -80,6 +80,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Read SSZ byte lists in bulk instead of one element per tree walk](https://github.com/Consensys-Incorporated/teku/pull/11485#pullrequestreview-5509351108) - 2026-10-13
 * [Review] [Review on: Give each peer identity at most one connection slot per selection](https://github.com/Consensys-Incorporated/teku/pull/11484#pullrequestreview-5507926463) - 2026-10-13
 * [Commit] [Update discovery to 26.10.0 (#11487)](https://github.com/Consensys-Incorporated/teku/commit/115ab400185bebee063ce13d0ab7f9f80b296c4e) - 2026-10-14
+* [Review] [Review on: Restore the "Slot Event" log line](https://github.com/Consensys-Incorporated/teku/pull/11494#pullrequestreview-5526212220) - 2026-10-14
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

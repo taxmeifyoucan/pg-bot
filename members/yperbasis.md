@@ -125,6 +125,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [chainspec, clparams: schedule Glamsterdam on Hoodi (#24847)](https://github.com/erigontech/erigon/commit/1e1045909bbddafba95b0b783676b7ac96475779) - 2026-10-13
 * [Commit] [rpc: cap the number of live filters and subscriptions (#24734)](https://github.com/erigontech/erigon/commit/38830997934214f44aef5112f3775d265e6d6376) - 2026-10-13
 * [Commit] [cl/transition: verify the payload withdrawals root before applying withdrawals (#24803)](https://github.com/erigontech/erigon/commit/c1252e5259ece20e717228ac4b68a7b4605474d0) - 2026-10-13
+* [Review] [Review on: exec: a written address serves repeat storage and code-size reads from the read set](https://github.com/erigontech/erigon/pull/24862#pullrequestreview-5518616725) - 2026-10-14
+* [Pull Request] [execution, cl: reject block access indices beyond len(transactions)+1](https://github.com/erigontech/erigon/pull/24908) - 2026-10-14
+* [Review] [Review on: cl: align consensus and fork choice with v1.7.0-beta.4](https://github.com/erigontech/erigon/pull/24831#pullrequestreview-5516446049) - 2026-10-14
+* [Review] [Review on: execution/stagedsync: credit both fees when the coinbase is the burnt-fee recipient](https://github.com/erigontech/erigon/pull/24879#pullrequestreview-5516727972) - 2026-10-14
+* [Review] [Review on: execution/cache: let a closed budgeted ByteLRU be collected](https://github.com/erigontech/erigon/pull/24867#pullrequestreview-5516569584) - 2026-10-14
+* [Review] [Review on: rpc/jsonrpc: eth_simulateV1 tracks block gas per EIP-8037 dimension, not receipt gas](https://github.com/erigontech/erigon/pull/24276#pullrequestreview-5516539138) - 2026-10-14
+* [Review] [Review on: execution/state: zero the burned balance in CreateAccount's synthetic read](https://github.com/erigontech/erigon/pull/24876#pullrequestreview-5516664900) - 2026-10-14
+* [Review] [Review on: ci: add EEZ CI gate for the EEZ development branches](https://github.com/erigontech/erigon/pull/24900#pullrequestreview-5516725773) - 2026-10-14
+* [Review] [Review on: execution/stagedsync: restore cached state during unwind](https://github.com/erigontech/erigon/pull/23298#pullrequestreview-5519212442) - 2026-10-14
+* [Review] [Review on: exec: small global lock-free `interning` cache](https://github.com/erigontech/erigon/pull/24816#pullrequestreview-5517896963) - 2026-10-14
+* [Review] [Review on: rpc, cmd/rpcdaemon/cli: refuse cross-site GET calls and check websocket origins against the CORS list](https://github.com/erigontech/erigon/pull/24485#pullrequestreview-5516261351) - 2026-10-14
+* [Review] [Review on: cl/phase1/forkchoice: bound the checkpoint state cache](https://github.com/erigontech/erigon/pull/24902#pullrequestreview-5518472586) - 2026-10-14
+* [Commit] [txnprovider/txpool: refresh state views before pool reload (#24849)](https://github.com/erigontech/erigon/commit/956bbfe53431760f47100b565d11d06012b416fe) - 2026-10-14
+* [Commit] [ci: update execution-specs tests to v21.0.1 (#24848)](https://github.com/erigontech/erigon/commit/54c03fc3907395c277a53fcdf44c45ec33c65c51) - 2026-10-14
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

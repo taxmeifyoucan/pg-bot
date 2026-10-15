@@ -217,6 +217,34 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): keep fused jump counts in dispatch](https://github.com/NethermindEth/nethermind/pull/14529#pullrequestreview-5485698827) - 2026-10-12
 * [Review] [Review on: Avoid eager original-value indexing for read-only storage](https://github.com/NethermindEth/nethermind/pull/14528#pullrequestreview-5484147942) - 2026-10-11
 * [Review] [Review on: chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/14628#pullrequestreview-5508765934) - 2026-10-13
+* [Review] [Review on: fix(rpc): keep the engine request body cap on additional and cloned engine URLs](https://github.com/NethermindEth/nethermind/pull/14526#pullrequestreview-5519002277) - 2026-10-14
+* [Review] [Review on: feat(rpc): accept optional file argument in debug_getBadBlocks](https://github.com/NethermindEth/nethermind/pull/14343#pullrequestreview-5519005587) - 2026-10-14
+* [Review] [Review on: fix(init): tolerate repeated ProcessingQueueEmpty during block tree review](https://github.com/NethermindEth/nethermind/pull/14513#pullrequestreview-5519003287) - 2026-10-14
+* [Review] [Review on: ci: fix hive eels simulator names, buildarg passing and silent zero-test runs](https://github.com/NethermindEth/nethermind/pull/14504#pullrequestreview-5519003792) - 2026-10-14
+* [Review] [Review on: fix(rpc): apply max request body size to websocket messages](https://github.com/NethermindEth/nethermind/pull/14554#pullrequestreview-5518984214) - 2026-10-14
+* [Review] [Review on: fix(sync): score proof-only snap storage replies as failed ranges](https://github.com/NethermindEth/nethermind/pull/14547#pullrequestreview-5518983868) - 2026-10-14
+* [Review] [Review on: fix(network): resubmit full blob txs whose hash was rejected with another sidecar](https://github.com/NethermindEth/nethermind/pull/14553#pullrequestreview-5518993806) - 2026-10-14
+* [Review] [Review on: fix(evm): resolve EIP-7702 delegations only when the fork enables them](https://github.com/NethermindEth/nethermind/pull/14569#pullrequestreview-5518989573) - 2026-10-14
+* [Review] [Review on: fix(config): never return sensitive items from GetRawValue](https://github.com/NethermindEth/nethermind/pull/14543#pullrequestreview-5518997532) - 2026-10-14
+* [Review] [Review on: fix(evm): keep the self-destruct storage wipe undoable in CallAndRestore](https://github.com/NethermindEth/nethermind/pull/14550#pullrequestreview-5518994842) - 2026-10-14
+* [Review] [Review on: fix(network): bound discv4 response backlog and require bond before tracking pinging nodes](https://github.com/NethermindEth/nethermind/pull/14546#pullrequestreview-5518995800) - 2026-10-14
+* [Review] [Review on: fix(optimism): write the Holocene extra data on every produced block](https://github.com/NethermindEth/nethermind/pull/14544#pullrequestreview-5518996988) - 2026-10-14
+* [Review] [Review on: fix(shutter): dispose block and key wait registrations outside the handler lock](https://github.com/NethermindEth/nethermind/pull/14533#pullrequestreview-5519000068) - 2026-10-14
+* [Review] [Review on: fix(trie): release stable-state locks when persisting fails](https://github.com/NethermindEth/nethermind/pull/14542#pullrequestreview-5518998137) - 2026-10-14
+* [Review] [Review on: fix(rpc): keep accepting IPC connections after an accept error](https://github.com/NethermindEth/nethermind/pull/14565#pullrequestreview-5518990916) - 2026-10-14
+* [Review] [Review on: fix(pruning): treat a persistence interval below 1 as 1](https://github.com/NethermindEth/nethermind/pull/14558#pullrequestreview-5518992616) - 2026-10-14
+* [Review] [Review on: fix(network): disconnect peers that broadcast blob transactions](https://github.com/NethermindEth/nethermind/pull/14563#pullrequestreview-5518991374) - 2026-10-14
+* [Review] [Review on: fix(consensus): validate parent beacon block root presence in headers](https://github.com/NethermindEth/nethermind/pull/14560#pullrequestreview-5518991906) - 2026-10-14
+* [Review] [Review on: fix(sync): match sparse block body replies by content in forward sync](https://github.com/NethermindEth/nethermind/pull/14556#pullrequestreview-5518993217) - 2026-10-14
+* [Review] [Review on: fix(specs): keep the last blob schedule entry when several share a timestamp](https://github.com/NethermindEth/nethermind/pull/14519#pullrequestreview-5519002783) - 2026-10-14
+* [Review] [Review on: fix(test-runner): keep traced nethtest stderr JSON-only and dispose state-test containers asynchronously](https://github.com/NethermindEth/nethermind/pull/14638#pullrequestreview-5517617896) - 2026-10-14
+* [Review] [Review on: fix(init): fail startup when a listener port is in use](https://github.com/NethermindEth/nethermind/pull/14571#pullrequestreview-5518988946) - 2026-10-14
+* [Review] [Review on: fix(core): create the generated jwt secret and node key readable by the owner only](https://github.com/NethermindEth/nethermind/pull/14552#pullrequestreview-5518994325) - 2026-10-14
+* [Review] [Review on: fix(network): apply discv4 per-ip inbound limit before the global one](https://github.com/NethermindEth/nethermind/pull/14548#pullrequestreview-5518995359) - 2026-10-14
+* [Review] [Review on: fix(rpc): reject log filters with more than four topic positions](https://github.com/NethermindEth/nethermind/pull/14545#pullrequestreview-5518996442) - 2026-10-14
+* [Review] [Review on: fix(txpool): restore tx hash cache size when a memory hint is set](https://github.com/NethermindEth/nethermind/pull/14538#pullrequestreview-5518998873) - 2026-10-14
+* [Review] [Review on: fix(xdc): report an unrecoverable certificate signature instead of throwing](https://github.com/NethermindEth/nethermind/pull/14535#pullrequestreview-5518999488) - 2026-10-14
+* [Review] [Review on: Read covered-block accounts from the parent state only](https://github.com/NethermindEth/nethermind/pull/14613#pullrequestreview-5517628717) - 2026-10-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

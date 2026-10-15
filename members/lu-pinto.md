@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962#pullrequestreview-5472724488) - 2026-10-09
 * [Pull Request] [Disable tracer for transaction selection in plugins](https://github.com/besu-eth/besu/pull/11564) - 2026-10-12
 * [Review] [Review on: Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482#pullrequestreview-5491522619) - 2026-10-12
+* [Review] [Review on: Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482#pullrequestreview-5521291005) - 2026-10-14
 ## Q3 2026
 
 

@@ -49,6 +49,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Fix a lost wake-up in AsyncOperationProcessor that can stall snap sync](https://github.com/besu-eth/besu/pull/11514#pullrequestreview-5503127764) - 2026-10-13
 * [Review] [Review on: refactor: rerun failed parallel blocks on the same processor](https://github.com/besu-eth/besu/pull/11571#pullrequestreview-5504659696) - 2026-10-13
 * [Review] [Review on: Stop all snap sync download pipelines when one of them fails](https://github.com/besu-eth/besu/pull/11515#pullrequestreview-5503020669) - 2026-10-13
+* [Review] [Review on: perf: make LayeredKeyValueStorage layer walks iterative to remove O(N²) isClosed overhead](https://github.com/besu-eth/besu/pull/11071#pullrequestreview-5513650200) - 2026-10-14
+* [Review] [Review on: Check the flat database ranges of the snap sync heal in parallel](https://github.com/besu-eth/besu/pull/11495#pullrequestreview-5517368523) - 2026-10-14
+* [Review] [Review on: perf: fix quadratic slowdown in LayeredKeyValueStorage reads on deep layer chains](https://github.com/besu-eth/besu/pull/11587#pullrequestreview-5516079189) - 2026-10-14
+* [Review] [Review on: refactor: rerun failed parallel blocks on the same processor](https://github.com/besu-eth/besu/pull/11571#pullrequestreview-5516066555) - 2026-10-14
 ## Q3 2026
 
 

@@ -21,6 +21,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: test(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5437626276) - 2026-10-07
 * [Review] [Review on: feat(test-evm-tools): derive fork-block activation from the transition schedule](https://github.com/ethereum/execution-specs/pull/3557#pullrequestreview-5455779638) - 2026-10-08
 * [Commit] [new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT (#3676)](https://github.com/ethereum/execution-specs/commit/6e84f8e28f9d74e1ddf335b7d205894446fefc8f) - 2026-10-09
+* [Review] [Review on: refactor(test-benchmark): keep `CALLDATALOAD` benchmark attack block stack-neutral](https://github.com/ethereum/execution-specs/pull/3771#pullrequestreview-5515157946) - 2026-10-14
+* [Pull Request] [feat(test-benchmark): add invalid-block benchmark with understated header gas](https://github.com/ethereum/execution-specs/pull/3822) - 2026-10-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02
@@ -43,6 +45,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/pull/12093#pullrequestreview-5512316604) - 2026-10-14
 * [Review] [Review on: Add EIP: Transaction Validity Proofs](https://github.com/ethereum/EIPs/pull/12075#pullrequestreview-5512186337) - 2026-10-14
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5503992879) - 2026-10-13
+* [Review] [Review on: Add EIP: Contract Storage Layout Descriptor Format](https://github.com/ethereum/EIPs/pull/12247#pullrequestreview-5526587437) - 2026-10-15
+* [Review] [Review on: Update EIP-7979: Move to Review](https://github.com/ethereum/EIPs/pull/12507#pullrequestreview-5526526193) - 2026-10-15
+* [Review] [Review on: Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/pull/12128#pullrequestreview-5526285529) - 2026-10-15
+* [Review] [Review on: Add EIP: Last-Written Block in PBT Leaves](https://github.com/ethereum/EIPs/pull/12420#pullrequestreview-5520983577) - 2026-10-14
+* [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5516921570) - 2026-10-14
+* [Review] [Review on: Update EIP-8173: Move to Review](https://github.com/ethereum/EIPs/pull/12500#pullrequestreview-5514943267) - 2026-10-14
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

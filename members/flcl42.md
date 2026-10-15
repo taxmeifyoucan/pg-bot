@@ -30,6 +30,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/14489) - 2026-10-09
 * [Review] [Review on: test(eels): update execution fixtures to v21.0.1](https://github.com/NethermindEth/nethermind/pull/14502#pullrequestreview-5479051448) - 2026-10-10
 * [Commit] [Schedule Hoodi Amsterdam fork (#14489)](https://github.com/NethermindEth/nethermind/commit/acde12e9fbb719436c32a128e2ee9aea62581a50) - 2026-10-12
+* [Pull Request] [feat(specs): migrate mainnet and Sepolia to geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14653) - 2026-10-14
+* [Review] [Review on: feat(specs): migrate mainnet and Sepolia to geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14653#pullrequestreview-5524178104) - 2026-10-14
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

@@ -160,6 +160,27 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(network): reject a stale remote fork id whose next fork does not match ours (#14521)](https://github.com/NethermindEth/nethermind/commit/44d7d4aebfa0bb45d1e18bd16093d19d6756a4b7) - 2026-10-13
 * [Commit] [fix(benchmark): chain BlockProcessingBenchmark scenario blocks to their parent header (#14477)](https://github.com/NethermindEth/nethermind/commit/78f8c34207ce1dddbef2586bd3312262a83e7fb2) - 2026-10-13
 * [Commit] [ci: download the renamed tests-frames-devnet@v1.0.0 fixture archive (#14621)](https://github.com/NethermindEth/nethermind/commit/2f387ee1fe7bfe512be1a3d28f734e2986a53282) - 2026-10-13
+* [Pull Request] [fix(receipts): do not cache receipts recovered without senders](https://github.com/NethermindEth/nethermind/pull/14668) - 2026-10-14
+* [Pull Request] [fix(simulate): treat children of post-merge blocks as post-merge](https://github.com/NethermindEth/nethermind/pull/14665) - 2026-10-14
+* [Issue] [eth_getTransactionReceipt / eth_getTransactionByHash return -32603 for the zero hash on nodes that backfilled old receipts](https://github.com/NethermindEth/nethermind/issues/14654) - 2026-10-14
+* [Commit] [fix(init): tolerate repeated ProcessingQueueEmpty during block tree review (#14513)](https://github.com/NethermindEth/nethermind/commit/93c06962f9d0439d29411799b1cf989ce9271da5) - 2026-10-15
+* [Commit] [fix(rpc): apply max request body size to websocket messages (#14554)](https://github.com/NethermindEth/nethermind/commit/8914faa703de4b20f2a712ac642f4605b6588581) - 2026-10-15
+* [Commit] [fix(network): resubmit full blob txs whose hash was rejected with another sidecar (#14553)](https://github.com/NethermindEth/nethermind/commit/6d0db7f0e22ab5dd2b9ed3743dcd55cf297082ec) - 2026-10-15
+* [Commit] [fix(config): never return sensitive items from GetRawValue (#14543)](https://github.com/NethermindEth/nethermind/commit/6bf8d666bc777bc66da4440c9509057b69249a8a) - 2026-10-15
+* [Commit] [fix(evm): keep the self-destruct storage wipe undoable in CallAndRestore (#14550)](https://github.com/NethermindEth/nethermind/commit/0e1d7bc3802f521c6fa38f19cbe679e0c3b1df17) - 2026-10-15
+* [Commit] [fix(trie): release stable-state locks when persisting fails (#14542)](https://github.com/NethermindEth/nethermind/commit/2b1c7fe181907d17e7c1f50eb3261f941654f9b8) - 2026-10-15
+* [Commit] [fix(rpc): keep accepting IPC connections after an accept error (#14565)](https://github.com/NethermindEth/nethermind/commit/eed2a9475f47bd7353467cd16f6ee52490bd7d7e) - 2026-10-14
+* [Commit] [fix(pruning): treat a persistence interval below 1 as 1 (#14558)](https://github.com/NethermindEth/nethermind/commit/b1c249d9225269834b250d410e05a53d0ea93629) - 2026-10-14
+* [Commit] [fix(sync): match sparse block body replies by content in forward sync (#14556)](https://github.com/NethermindEth/nethermind/commit/59515be07caa314c6d03bec7a65d3391669d45d3) - 2026-10-14
+* [Commit] [fix(network): apply discv4 per-ip inbound limit before the global one (#14548)](https://github.com/NethermindEth/nethermind/commit/c9116724571b25daac0a888635e25d1590ce66ed) - 2026-10-14
+* [Commit] [fix(rpc): reject log filters with more than four topic positions (#14545)](https://github.com/NethermindEth/nethermind/commit/f3105cc1e05258c1917644ced78ec90b5469af1d) - 2026-10-14
+* [Commit] [fix(txpool): restore tx hash cache size when a memory hint is set (#14538)](https://github.com/NethermindEth/nethermind/commit/70cf97e02ef742c7f22cb9c0c0172449116c1e74) - 2026-10-14
+* [Commit] [fix(xdc): report an unrecoverable certificate signature instead of throwing (#14535)](https://github.com/NethermindEth/nethermind/commit/e067b7adb025fd5cd8e3136bbb296f443c378216) - 2026-10-14
+* [Commit] [fix(shutter): keep the key receive loop alive on malformed gossip (#14532)](https://github.com/NethermindEth/nethermind/commit/000156d8ff201d01d90760b86effb1c9994bc395) - 2026-10-14
+* [Commit] [chore: Update Dockerfiles to .NET 10.0.13 (#14632)](https://github.com/NethermindEth/nethermind/commit/e4e66bd576b2462906f36db252b649b20358912b) - 2026-10-14
+* [Commit] [fix(flat): fail fast with no-state when the persisted pointer outlives the snap-sync wipe (#14635)](https://github.com/NethermindEth/nethermind/commit/b7f295c9886f2ec4f212359e085716ce97a9f90c) - 2026-10-14
+* [Commit] [fix(init): verify the receipts root before storing receipts downloaded by the receipt fix (#14531)](https://github.com/NethermindEth/nethermind/commit/663a0ec17a5d69470e9cc7996acccfd16ba41ef1) - 2026-10-14
+* [Commit] [fix(simulate): skip the stale canonical marker walk when resetting the overlay head (#14636)](https://github.com/NethermindEth/nethermind/commit/662db7d7761de91f640bd807b8fbca7b09c6b857) - 2026-10-14
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

@@ -77,6 +77,25 @@ Team: Erigon
 * [Issue] [db/state: commitment rebuild with history writes every step's history twice](https://github.com/erigontech/erigon/issues/24780) - 2026-10-12
 * [Pull Request] [execution/engineapi, execution/execmodule: download the missing segment when a forkchoice update hits a header gap](https://github.com/erigontech/erigon/pull/24865) - 2026-10-13
 * [Commit] [cl: recheck the head root in the cached-state fast path and test the head-copy paths (#23962)](https://github.com/erigontech/erigon/commit/02be1a7893e87cf3ec748aeb45796345ba48457f) - 2026-10-13
+* [Review] [Review on: lint: report every issue so warm runs stop keeping a random subset](https://github.com/erigontech/erigon/pull/24882#pullrequestreview-5516548706) - 2026-10-14
+* [Review] [Review on: exec: a written address serves repeat storage and code-size reads from the read set](https://github.com/erigontech/erigon/pull/24862#pullrequestreview-5516546062) - 2026-10-14
+* [Review] [Review on: cl/transition: ProcessSyncAggregate fails closed when the domain cannot be computed](https://github.com/erigontech/erigon/pull/24896#pullrequestreview-5516547987) - 2026-10-14
+* [Review] [Review on: exec: AddressPath write values live on the write set's arena](https://github.com/erigontech/erigon/pull/24863#pullrequestreview-5516545194) - 2026-10-14
+* [Review] [Review on: rpc/jsonstream: stream a large hex array a threshold at a time](https://github.com/erigontech/erigon/pull/24897#pullrequestreview-5516544676) - 2026-10-14
+* [Review] [Review on: cmd/rpctest: report lost writes of the record and error files](https://github.com/erigontech/erigon/pull/24890#pullrequestreview-5516544115) - 2026-10-14
+* [Review] [Review on: cl: close the persistent block collector when the stage loop exits](https://github.com/erigontech/erigon/pull/24892#pullrequestreview-5516546721) - 2026-10-14
+* [Review] [Review on: cl/phase1/stages: chain-tip sync flushes the block collector with the stage context](https://github.com/erigontech/erigon/pull/24895#pullrequestreview-5516546919) - 2026-10-14
+* [Review] [Review on: cl/beacon/handler: expected_withdrawals answers 404 for a pruned block body](https://github.com/erigontech/erigon/pull/24894#pullrequestreview-5516547785) - 2026-10-14
+* [Review] [Review on: cl/beacon/handler: attestation_data answers 503 when the head cannot be read](https://github.com/erigontech/erigon/pull/24893#pullrequestreview-5516547311) - 2026-10-14
+* [Review] [Review on: cl/das: recover the blob rows of a block in parallel](https://github.com/erigontech/erigon/pull/24861#pullrequestreview-5516543590) - 2026-10-14
+* [Review] [Review on: cl: wait for a parked parent envelope before proposing](https://github.com/erigontech/erigon/pull/24832#pullrequestreview-5516542729) - 2026-10-14
+* [Review] [Review on: common/estimate: honour the cgroup memory limit in hybrid mode](https://github.com/erigontech/erigon/pull/24885#pullrequestreview-5516545653) - 2026-10-14
+* [Review] [Review on: exec: small global lock-free `interning` cache](https://github.com/erigontech/erigon/pull/24816#pullrequestreview-5516545409) - 2026-10-14
+* [Review] [Review on: rpc/jsonrpc: overlay_callConstructor rejects an address without a contract](https://github.com/erigontech/erigon/pull/24884#pullrequestreview-5516546512) - 2026-10-14
+* [Review] [Review on: cmd/integration: read_domains reports an absent account instead of panicking](https://github.com/erigontech/erigon/pull/24889#pullrequestreview-5516548497) - 2026-10-14
+* [Review] [Review on: cmd/utils/app: seg rm-state-snapshots treats a nil cursor as no state key](https://github.com/erigontech/erigon/pull/24888#pullrequestreview-5516547529) - 2026-10-14
+* [Review] [Review on: cmd/evm: t8n rejects an unsupported transaction type instead of panicking](https://github.com/erigontech/erigon/pull/24887#pullrequestreview-5516548234) - 2026-10-14
+* [Commit] [execution/engineapi, execution/execmodule: download the missing segment when a forkchoice update hits a header gap (#24865)](https://github.com/erigontech/erigon/commit/4c8cd49d73816b85877b06c9b04e10798074f7cd) - 2026-10-14
 ## Q3 2026
 
 

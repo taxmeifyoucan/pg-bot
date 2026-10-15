@@ -18,6 +18,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442) - 2026-10-06
 * [Commit] [Update EIP-2780: Move to Last Call (#12442)](https://github.com/ethereum/EIPs/commit/5ef380124bd68d09c02fa90d0de0f2455f37d5ee) - 2026-10-06
+* [Review] [Review on: Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/pull/12128#pullrequestreview-5524181827) - 2026-10-14
+* [Commit] [Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/commit/7bc191736a30bd8a419546bec4e235486e11e03e) - 2026-10-15
+* [Commit] [Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/commit/6c6c83f427bb2f22beefe93f7cd83792794785a7) - 2026-10-15
 ## Q3 2026
 
 

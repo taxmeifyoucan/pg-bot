@@ -52,6 +52,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(validation): recover EIP-2780 senders in the block validator only when intrinsic gas needs them (#14468)](https://github.com/NethermindEth/nethermind/commit/4136ecc8d34ab8d8ecc4b2d9d31b78e2edebacbd) - 2026-10-09
 * [Commit] [Stop an idle mempool pre-warm session without waiting for it (#14467)](https://github.com/NethermindEth/nethermind/commit/83c4a905699dbbaddcf8efa4bbcfd5503e6760d5) - 2026-10-09
 * [Commit] [Warm the trie node a storage delete collapses into (#14495)](https://github.com/NethermindEth/nethermind/commit/d6f7370e39131794d4b7dc0629a3cbfc07c8e479) - 2026-10-13
+* [Review] [Review on: fix(receipts): do not cache receipts recovered without senders](https://github.com/NethermindEth/nethermind/pull/14668#pullrequestreview-5525815649) - 2026-10-14
+* [Review] [Review on: fix(simulate): treat children of post-merge blocks as post-merge](https://github.com/NethermindEth/nethermind/pull/14665#pullrequestreview-5525854426) - 2026-10-14
+* [Review] [Review on: fix(test-runner): keep traced nethtest stderr JSON-only and dispose state-test containers asynchronously](https://github.com/NethermindEth/nethermind/pull/14638#pullrequestreview-5525801677) - 2026-10-14
+* [Review] [Review on: fix(core): create the generated jwt secret and node key readable by the owner only](https://github.com/NethermindEth/nethermind/pull/14552#pullrequestreview-5525800232) - 2026-10-14
 ## Q3 2026
 
 

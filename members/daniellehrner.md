@@ -92,6 +92,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Versioned code storage [3/3] Add a subcommand to revert the code format and log how to downgrade (#11364)](https://github.com/besu-eth/besu/commit/5056dc594e5fba50fa91403db838c81498692bd3) - 2026-10-13
 * [Commit] [Fix layered txpool corruption on sparse promotion and late selection results (#11462)](https://github.com/besu-eth/besu/commit/5349e088859f39d3a2a32f553242d0672f6f9773) - 2026-10-13
 * [Commit] [Serialize head world state writes in the world state provider (#11402)](https://github.com/besu-eth/besu/commit/25243b2ee814cdb930262f3f00f8644542da2242) - 2026-10-13
+* [Review] [Review on: test: close three silent coverage gaps in the evmtool fixture runners](https://github.com/besu-eth/besu/pull/11552#pullrequestreview-5513582356) - 2026-10-14
+* [Review] [Review on: Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482#pullrequestreview-5522741183) - 2026-10-14
+* [Pull Request] [Roll the head world state in batches and move deep fork choices in the background](https://github.com/besu-eth/besu/pull/11585) - 2026-10-14
+* [Review] [Review on: Check the flat database ranges of the snap sync heal in parallel](https://github.com/besu-eth/besu/pull/11495#pullrequestreview-5517884469) - 2026-10-14
+* [Pull Request] [Make deep chain reorgs linear, bounded in memory and committed in chunks](https://github.com/besu-eth/besu/pull/11586) - 2026-10-14
+* [Issue] [Backward sync started by newPayload moves the canonical head onto a side branch](https://github.com/besu-eth/besu/issues/11597) - 2026-10-14
+* [Commit] [Add DUP1-16 and SWAP1-16 to EVM v2 (#11482)](https://github.com/besu-eth/besu/commit/47b084ca9dca56cb7b1740a2c0f26797935be69d) - 2026-10-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

@@ -20,6 +20,7 @@ Team: Nimbus
 * [Commit] [Code cosmetics, comments update, small fixes and updates (#4904)](https://github.com/status-im/nimbus-eth1/commit/99329500d397cfafa905941663aec2d2ea844a4e) - 2026-10-05
 * [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4925) - 2026-10-07
 * [Commit] [Snap2 sync maint update (#4925)](https://github.com/status-im/nimbus-eth1/commit/29c0cab3d7da1f486ec8c37a6eda3feafbab280b) - 2026-10-07
+* [Pull Request] [Snap2 asyncify some directives](https://github.com/status-im/nimbus-eth1/pull/4985) - 2026-10-14
 ## Q3 2026
 
 

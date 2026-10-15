@@ -38,6 +38,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas spec v1.7.0-beta.4](https://github.com/sigp/lighthouse/pull/10307#pullrequestreview-5486807683) - 2026-10-12
 * [Pull Request] [EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313) - 2026-10-12
 * [Review] [Review on: EIP-8198: Use slot duration schedule in timers and duty loops](https://github.com/sigp/lighthouse/pull/10316#pullrequestreview-5512579688) - 2026-10-14
+* [Review] [Review on: Implement Gloas light client type support](https://github.com/sigp/lighthouse/pull/9732#pullrequestreview-5516718715) - 2026-10-14
+* [Review] [Review on: Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189#pullrequestreview-5516781741) - 2026-10-14
+* [Review] [Review on: Implement `builder_pending_withdrawals` and `builder_pending_payments` state getter endpoints](https://github.com/sigp/lighthouse/pull/10285#pullrequestreview-5516427608) - 2026-10-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

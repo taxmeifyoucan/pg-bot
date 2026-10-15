@@ -54,6 +54,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Give each peer identity at most one connection slot per selection](https://github.com/Consensys-Incorporated/teku/pull/11484) - 2026-10-13
 * [Commit] [Read SSZ byte lists in bulk instead of one element per tree walk (#11485)](https://github.com/Consensys-Incorporated/teku/commit/fe243e1f9f9f509fecc6baffa1ed1de9db475b0b) - 2026-10-13
 * [Commit] [Give each peer identity at most one connection slot per selection (#11484)](https://github.com/Consensys-Incorporated/teku/commit/c152bd42fe1665cce187db7010e5a6a4aa7a033c) - 2026-10-13
+* [Pull Request] [Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11491) - 2026-10-14
+* [Pull Request] [Exclude pending dials from peer selection and reserve their slots](https://github.com/Consensys-Incorporated/teku/pull/11490) - 2026-10-14
+* [Pull Request] [Do not advertise a TCP port in the ENR when the TCP transport is disabled](https://github.com/Consensys-Incorporated/teku/pull/11489) - 2026-10-14
+* [Commit] [Resend forkChoiceUpdated when a reused block production result failed (#11491)](https://github.com/Consensys-Incorporated/teku/commit/b0fa65683005601188ae13b3a583ee49c712f486) - 2026-10-14
+* [Commit] [Do not advertise a TCP port in the ENR when the TCP transport is disabled (#11489)](https://github.com/Consensys-Incorporated/teku/commit/65cbbe34c9474a769790bd7f5928da25e97c96e8) - 2026-10-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

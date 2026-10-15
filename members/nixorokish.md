@@ -38,6 +38,10 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Merge branch 'master' into lighthouse-glamsterdam-coordinators](https://github.com/ethereum/pm/commit/0f3fd130c83c7cfadf87967090c033fa5a0726f9) - 2026-10-05
 * [Commit] [Merge pull request #2243 from lodekeeper/glamsterdam-incident-response-lodestar](https://github.com/ethereum/pm/commit/f4abff90e2f625ddce4b5a5dab3dc98033c70719) - 2026-10-05
 * [Pull Request] [schedule glamsterdam on hoodi](https://github.com/ethereum/pm/pull/2263) - 2026-10-07
+* [Commit] [Merge pull request #2263 from ethereum/nixorokish-patch-10](https://github.com/ethereum/pm/commit/549b3fc5e99985c7df0512b5b440b1aa593b32bc) - 2026-10-14
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Butta (EthCoordinate)](https://github.com/protocolguild/documentation/pull/579) - 2026-10-14
 ## Q3 2026
 
 

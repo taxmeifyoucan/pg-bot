@@ -31,6 +31,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [refactor: cleanup preprocessing function (#11412)](https://github.com/besu-eth/besu/commit/aa3760c7e1dc7177c96f35b02bc814b0ce913e53) - 2026-10-09
 * [Pull Request] [refactor: rerun failed parallel blocks on the same processor](https://github.com/besu-eth/besu/pull/11571) - 2026-10-13
 * [Commit] [refactor: simplify BlockProcessor signatures with BlockExecutionContext. (#11308)](https://github.com/besu-eth/besu/commit/fc80c5e58c0173f23c4c946f0d38f82fd25c8734) - 2026-10-12
+* [Pull Request] [feat(core): let a block execution supply its block access list factory,](https://github.com/besu-eth/besu/pull/11600) - 2026-10-15
+* [Pull Request] [refactor(rpc): run debug_executionWitness through the block processor](https://github.com/besu-eth/besu/pull/11598) - 2026-10-15
+* [Review] [Review on: refactor: rerun failed parallel blocks on the same processor](https://github.com/besu-eth/besu/pull/11571#pullrequestreview-5515917659) - 2026-10-14
+* [Commit] [refactor(rpc): re-execute debug_executionWitness blocks through the block processor (#11598)](https://github.com/besu-eth/besu/commit/8d26e2b45af39d227dee6808d14f587c2d7ba1e0) - 2026-10-15
+* [Commit] [feat(core): support an explicit block tracer in block processing (#10862)](https://github.com/besu-eth/besu/commit/54fda830f2f5f33070edd9304d70687e9a498912) - 2026-10-14
+* [Commit] [refactor: rerun failed parallel blocks on the same processor (#11571)](https://github.com/besu-eth/besu/commit/90a11434b5bdb2eac701f464e94edbe584c0e989) - 2026-10-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08

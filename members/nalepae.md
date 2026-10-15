@@ -50,8 +50,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Fix data column warm cache indexing on Windows](https://github.com/OffchainLabs/prysm/pull/17615#pullrequestreview-5500543635) - 2026-10-13
 * [Commit] [ Prettify `--help` of `beacon-chain`, `validator`, `prysmctl` and `client-stats` (#17689)](https://github.com/OffchainLabs/prysm/commit/df3edf40ae9e17291d668566dec01895dc2b1784) - 2026-10-13
 * [Commit] [Deprecate some flags (#17686)](https://github.com/OffchainLabs/prysm/commit/fd064c062d56641e54b78e95b49745d30c116cfd) - 2026-10-13
+* [Review] [Review on: Use Capella fork version for REST VC voluntary exits (EIP-7044)](https://github.com/OffchainLabs/prysm/pull/17692#pullrequestreview-5517671857) - 2026-10-14
+* [Review] [Review on: REST VC: Use the slot+1 epoch for sync subcommittee duties](https://github.com/OffchainLabs/prysm/pull/17699#pullrequestreview-5517459633) - 2026-10-14
+* [Pull Request] [Doppelganger: Remove the `enable-doppelganger` feature flag warning, log the startup check at info level, and log its duration when done.](https://github.com/OffchainLabs/prysm/pull/17696) - 2026-10-14
+* [Pull Request] [Create the validator database on slashing protection import if missing](https://github.com/OffchainLabs/prysm/pull/17700) - 2026-10-14
+* [Review] [Review on: VC: Reject keymanager API graffiti longer than 32 bytes with status 400](https://github.com/OffchainLabs/prysm/pull/17695#pullrequestreview-5515097235) - 2026-10-14
+* [Review] [Review on: REST VC: Pad or truncate the block graffiti to 32 bytes](https://github.com/OffchainLabs/prysm/pull/17693#pullrequestreview-5515015515) - 2026-10-14
+* [Commit] [Doppelganger: Remove the `enable-doppelganger` feature flag warning, log the startup check at info level, and log its duration when done. (#17696)](https://github.com/OffchainLabs/prysm/commit/36456341fbc04dfa9d28a81c2c9077093842ca64) - 2026-10-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Butta (EthCoordinate)](https://github.com/protocolguild/documentation/pull/579#pullrequestreview-5524553492) - 2026-10-14
 ## Q3 2026
 
 

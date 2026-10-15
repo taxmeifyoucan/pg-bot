@@ -33,8 +33,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Use the Gloas min epochs for block requests as the backfill range](https://github.com/sigp/lighthouse/pull/10270#pullrequestreview-5488570840) - 2026-10-12
 * [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5488013704) - 2026-10-12
 * [Pull Request] [Drop PayloadVerificationStatus::is_optimistic](https://github.com/sigp/lighthouse/pull/10335) - 2026-10-13
+* [Review] [Review on: Add proposer re-org tests for non-default spec thresholds](https://github.com/sigp/lighthouse/pull/10281#pullrequestreview-5514383601) - 2026-10-14
+* [Pull Request] [Don't ban peers whose finalized root is in failed_chains](https://github.com/sigp/lighthouse/pull/10346) - 2026-10-14
+* [Pull Request] [Add API getStateLeaves](https://github.com/sigp/lighthouse/pull/10347) - 2026-10-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
+
+[eth-act/zkboost](https://github.com/eth-act/zkboost)
+* [Pull Request] [feat: beacon state witness from the top-level state leaves](https://github.com/eth-act/zkboost/pull/89) - 2026-10-14
 ## Q3 2026
 
 

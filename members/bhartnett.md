@@ -34,6 +34,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: Build generate_makefile via a local wrapper, like eth2](https://github.com/status-im/nimbus-eth1/pull/4953#pullrequestreview-5492622908) - 2026-10-12
 * [Pull Request] [BAL builder per tx account ids](https://github.com/status-im/nimbus-eth1/pull/4961) - 2026-10-12
 * [Commit] [BAL builder per tx account ids (#4961)](https://github.com/status-im/nimbus-eth1/commit/4e7d3a0e94eea9e1e26a0344950c7aafc55394ad) - 2026-10-12
+* [Pull Request] [Update nim-eth](https://github.com/status-im/nimbus-eth1/pull/4983) - 2026-10-14
+* [Pull Request] [Sender recovery cache optimizations](https://github.com/status-im/nimbus-eth1/pull/4975) - 2026-10-14
+* [Commit] [Skip optimistic state prefetching for small blocks (#4962)](https://github.com/status-im/nimbus-eth1/commit/f7bb2582703e58d6e6f8e9591149755aa9e7b29b) - 2026-10-14
 ## Q3 2026
 
 

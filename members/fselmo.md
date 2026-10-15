@@ -17,6 +17,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5385380175) - 2026-10-01
 
 * [Commit] [Update EIP-8159: Match EIP-7928 BAL storage types](https://github.com/ethereum/EIPs/commit/59d4019f121a26f9efbd6b0bfc9c3b9fc0815855) - 2026-10-02
+* [Pull Request] [Update EIP-8131: count content by encoded size, cover frames](https://github.com/ethereum/EIPs/pull/12503) - 2026-10-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380765838) - 2026-10-01
 * [Pull Request] [fix(test-specs): keep a failing block's fixture to one defect](https://github.com/ethereum/execution-specs/pull/3698) - 2026-10-02
@@ -52,6 +53,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): 8141 approval edge cases](https://github.com/ethereum/execution-specs/pull/3801) - 2026-10-13
 * [Commit] [fix(spec-tests): create the json_loader fork cache at configure (#3819)](https://github.com/ethereum/execution-specs/commit/b9391f6ade0144e35f7a42c3fd1b6b6e85121954) - 2026-10-13
 * [Commit] [docs(spec-specs): name the calldata floor in the tx gas cap check (#3809)](https://github.com/ethereum/execution-specs/commit/eaca1cbc08e1673c1008fce35600fca481b05735) - 2026-10-13
+* [Review] [Review on: feat(tests): Increase coverage for EIP-7805 tests](https://github.com/ethereum/execution-specs/pull/3804#pullrequestreview-5526076680) - 2026-10-14
+* [Pull Request] [fix(spec-specs, tests): reject legacy chain ids over 64 bits](https://github.com/ethereum/execution-specs/pull/3828) - 2026-10-14
+* [Pull Request] [feat(tests): check gas allowance against canonical order](https://github.com/ethereum/execution-specs/pull/3827) - 2026-10-14
+* [Commit] [fix(spec-specs, tests): reject legacy chain ids over 64 bits (#3828)](https://github.com/ethereum/execution-specs/commit/067505d633f708809f03dda92034592395dd715e) - 2026-10-14
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 
@@ -60,6 +65,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/stagedsync: run a single exec worker when one is configured](https://github.com/erigontech/erigon/pull/24594) - 2026-10-05
 * [Commit] [execution/stagedsync: run a single exec worker when one is configured (#24594)](https://github.com/erigontech/erigon/commit/83e0334e1dad7ea949e1c3c87c6ff0d565df1bb1) - 2026-10-07
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640) - 2026-10-14
 ## Q3 2026
 
 

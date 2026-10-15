@@ -46,6 +46,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [snap: serve GetBlockAccessLists with the eth/71 BAL handler (#4968)](https://github.com/status-im/nimbus-eth1/commit/8c772f7d3b52d4c4d9ed13d036d64da9901d1e91) - 2026-10-13
 * [Commit] [networking: remove dead p2pdump tracing (#4967)](https://github.com/status-im/nimbus-eth1/commit/fcd9923bf67d0d7de6778a0b07b6dd8063566906) - 2026-10-13
 * [Commit] [networking: move discovery and dialing out of peerpool (#4966)](https://github.com/status-im/nimbus-eth1/commit/ee348b9203c62af8339dc7c58c7684b198ef14db) - 2026-10-13
+* [Pull Request] [networking: accept a disconnect that gives no reason](https://github.com/status-im/nimbus-eth1/pull/4982) - 2026-10-14
+* [Pull Request] [networking: ignore additional list elements in ENR eth entry](https://github.com/status-im/nimbus-eth1/pull/4981) - 2026-10-14
+* [Pull Request] [networking: report what actually failed on a protocol breach](https://github.com/status-im/nimbus-eth1/pull/4978) - 2026-10-14
+* [Pull Request] [networking: bound the disconnect message write](https://github.com/status-im/nimbus-eth1/pull/4976) - 2026-10-14
+* [Commit] [networking: accept a disconnect that gives no reason (#4982)](https://github.com/status-im/nimbus-eth1/commit/65cca25084d7bc921584c9be4de07558e2445160) - 2026-10-14
+* [Commit] [networking: ignore additional list elements in ENR eth entry (#4981)](https://github.com/status-im/nimbus-eth1/commit/fe1ea7e48d7dfd62493670ba0d3e5b0d2054f4a0) - 2026-10-14
+* [Commit] [networking: bound the disconnect message write (#4976)](https://github.com/status-im/nimbus-eth1/commit/75081f109915c67dc14da3642aacbf6301c78efb) - 2026-10-14
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 ## Q3 2026

@@ -28,6 +28,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: snap: decode requests as flat field lists and always send the proof field](https://github.com/status-im/nimbus-eth1/pull/4960#pullrequestreview-5487027397) - 2026-10-12
 * [Commit] [use own cache (#4953)](https://github.com/status-im/nimbus-eth1/commit/9fbe19142dac58b8d225648fa1727e490af5d2be) - 2026-10-12
 * [Review] [Review on: ci: fix nix checkout failures with fetch-depth: 0](https://github.com/status-im/nimbus-eth1/pull/4965#pullrequestreview-5500665629) - 2026-10-13
+* [Review] [Review on: fix: check tx gas limit against cumulative gas used before Amsterdam](https://github.com/status-im/nimbus-eth1/pull/4980#pullrequestreview-5525032959) - 2026-10-14
 ## Q3 2026
 
 

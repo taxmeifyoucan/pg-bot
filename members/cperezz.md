@@ -15,6 +15,7 @@ Github: [@cperezz](https://github.com/cperezz)
 
 * [Pull Request] [Update EIP-8298: close spec gaps found writing tests; assign opcode 0xA7](https://github.com/ethereum/EIPs/pull/12480) - 2026-10-11
 * [Commit] [Update EIP-8298: close spec gaps found writing tests; assign opcode 0xA7](https://github.com/ethereum/EIPs/commit/fa3915674078b4e79252df34ac9599d4195f11b1) - 2026-10-12
+* [Pull Request] [Update EIP-8347: drop internal consistency from a self-converter's dual-check](https://github.com/ethereum/EIPs/pull/12508) - 2026-10-14
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [PBT migration: BAL follower stalls after an anchor import](https://github.com/NethermindEth/nethermind/issues/14259) - 2026-10-05
 

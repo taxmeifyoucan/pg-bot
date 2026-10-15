@@ -61,6 +61,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [`ServerContainer::new` leaks the container and its attach process when startup fails](https://github.com/eth-act/ere/issues/450) - 2026-10-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #09, October 14, 2026](https://github.com/ethereum/pm/issues/2269) - 2026-10-12
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [fix(engine): advertise payloads/witness in SSZ-REST capabilities](https://github.com/NethermindEth/nethermind/pull/14669) - 2026-10-14
 ## Q3 2026
 
 

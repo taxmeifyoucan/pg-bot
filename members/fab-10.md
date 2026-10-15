@@ -51,6 +51,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Revert "Replace custom `ByteUnits` utility with Storage-Units library (#11512)" (#11563)](https://github.com/besu-eth/besu/commit/f9822929b0a0da0c411b45651532f376fd7fc09a) - 2026-10-12
 * [Review] [Review on: add missing sources to make IDE gradle sync happy](https://github.com/besu-eth/besu/pull/11572#pullrequestreview-5500115855) - 2026-10-13
 * [Pull Request] [Introduce TransactionEventNotifier and notify plugins asynchronously](https://github.com/besu-eth/besu/pull/11574) - 2026-10-13
+* [Review] [Review on: Give each plugin lifecycle phase its own context and tier the services by phase](https://github.com/besu-eth/besu/pull/11443#pullrequestreview-5520704370) - 2026-10-14
+* [Pull Request] [Enable CI for PRs on plugin-api-refactor branch](https://github.com/besu-eth/besu/pull/11595) - 2026-10-14
+* [Review] [Review on: Introduce TransactionEventNotifier and notify plugins asynchronously](https://github.com/besu-eth/besu/pull/11574#pullrequestreview-5515578505) - 2026-10-14
+* [Review] [Review on: Drop reconciled transactions too far in the future for the sender](https://github.com/besu-eth/besu/pull/11545#pullrequestreview-5515098111) - 2026-10-14
+* [Issue] [Notify the JSON-RPC pending transaction subscriptions and filters outside the transaction pool lock](https://github.com/besu-eth/besu/issues/11594) - 2026-10-14
+* [Issue] [Deliver transaction pool added and dropped events in the order they happened](https://github.com/besu-eth/besu/issues/11593) - 2026-10-14
+* [Issue] [Give each async transaction pool listener its own bounded notification queue](https://github.com/besu-eth/besu/issues/11592) - 2026-10-14
+* [Commit] [Enable CI for PRs on plugin-api-refactor branch (#11595)](https://github.com/besu-eth/besu/commit/f7deb446a84a1617554fb2f15ab2678293d3241a) - 2026-10-14
 ## Q3 2026
 
 

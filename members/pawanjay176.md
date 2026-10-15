@@ -27,6 +27,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Reject `SingleAttestation` with large index earlier](https://github.com/sigp/lighthouse/pull/10330#pullrequestreview-5508899216) - 2026-10-13
 * [Review] [Review on: Add builder bid identity to the block event](https://github.com/sigp/lighthouse/pull/10333#pullrequestreview-5509020556) - 2026-10-13
 * [Review] [Review on: Limit commitments in partial data column header](https://github.com/sigp/lighthouse/pull/10334#pullrequestreview-5509046319) - 2026-10-13
+* [Review] [Review on: EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313#pullrequestreview-5526776980) - 2026-10-15
+* [Review] [Review on: Preserve VC graffiti when client versions cannot be appended](https://github.com/sigp/lighthouse/pull/10352#pullrequestreview-5526233899) - 2026-10-14
+* [Review] [Review on: Don't ban peers whose finalized root is in failed_chains](https://github.com/sigp/lighthouse/pull/10346#pullrequestreview-5523607179) - 2026-10-14
+* [Review] [Review on: Update `rustls` to fix CI](https://github.com/sigp/lighthouse/pull/10355#pullrequestreview-5524845393) - 2026-10-14
+* [Issue] [Gloas circuit breaker refinements](https://github.com/sigp/lighthouse/issues/10361) - 2026-10-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

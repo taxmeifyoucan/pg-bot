@@ -16,6 +16,9 @@ Team: Reth
 
 * [Review] [Review on: feat(dst): add optimized builds and gate trie/MDBX checks](https://github.com/paradigmxyz/reth/pull/27819#pullrequestreview-5462679059) - 2026-10-08
 * [Review] [Review on: feat(dst): add Bedrock property macros](https://github.com/paradigmxyz/reth/pull/27837#pullrequestreview-5466501522) - 2026-10-09
+* [Pull Request] [feat(cli): add historical execution corpora](https://github.com/paradigmxyz/reth/pull/27920) - 2026-10-14
+* [Review] [Review on: chore(docker): enable nightly prewarm reuse](https://github.com/paradigmxyz/reth/pull/27917#pullrequestreview-5524046399) - 2026-10-14
+* [Review] [Review on: ci(bench): add a derek mempool argument](https://github.com/paradigmxyz/reth/pull/27908#pullrequestreview-5522388175) - 2026-10-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

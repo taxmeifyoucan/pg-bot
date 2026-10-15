@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Fix verification metadata for Gradle plugins](https://github.com/besu-eth/besu/pull/11430#pullrequestreview-5393305645) - 2026-10-02
 
+* [Review] [Review on: Enable CI for PRs on plugin-api-refactor branch](https://github.com/besu-eth/besu/pull/11595#pullrequestreview-5521918985) - 2026-10-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558#pullrequestreview-5432630857) - 2026-10-06
 

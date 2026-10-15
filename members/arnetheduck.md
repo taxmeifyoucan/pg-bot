@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Review] [Review on: json-rpc: keep accept loop running when a queued client resets](https://github.com/status-im/nimbus-eth1/pull/4973#pullrequestreview-5516000106) - 2026-10-14
 ## Q3 2026
 
 

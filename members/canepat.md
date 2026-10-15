@@ -15,6 +15,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [fix: dedup EEST fixture names across files](https://github.com/eth-act/zkevm-benchmark-workload/pull/321) - 2026-10-13
 * [Pull Request] [feat: add zilkworm stateless validator client](https://github.com/eth-act/zkevm-benchmark-workload/pull/320) - 2026-10-13
 * [Commit] [fix: dedup EEST fixture names across files (#321)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c3b1308312cdc58f88c1735c035149798ad8f0f5) - 2026-10-13
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [ci: add EEZ CI gate for the EEZ development branches](https://github.com/erigontech/erigon/pull/24900) - 2026-10-14
+* [Review] [Review on: ci: add EEZ CI gate for the EEZ development branches](https://github.com/erigontech/erigon/pull/24900#pullrequestreview-5517164841) - 2026-10-14
+* [Commit] [ci: add EEZ CI gate for the EEZ development branches (#24900)](https://github.com/erigontech/erigon/commit/28c6b59582ba49822021bb3629c0eec26817e168) - 2026-10-14
 ## Q2 2026
 
 

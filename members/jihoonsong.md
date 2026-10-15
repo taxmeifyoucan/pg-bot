@@ -29,6 +29,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Set the IL deadline to 9s into the slot](https://github.com/ethereum/consensus-specs/pull/5727) - 2026-10-09
 * [Review] [Review on: Avoid mutating the inclusion list store in read-only lookups](https://github.com/ethereum/consensus-specs/pull/5724#pullrequestreview-5477691550) - 2026-10-10
 * [Commit] [Set the IL deadline to 9s into the slot (#5727)](https://github.com/ethereum/consensus-specs/commit/07da7b8a49e4c9e46ca3a48c609041e3db6e5c59) - 2026-10-12
+* [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5522255442) - 2026-10-14
+* [Pull Request] [Make a proposer choose a bid with an inclusive bitlist with the best effort](https://github.com/ethereum/consensus-specs/pull/5740) - 2026-10-14
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 

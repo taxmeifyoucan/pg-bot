@@ -42,6 +42,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: upgrade geth and nethermind in sim tests (#10308)](https://github.com/ChainSafe/lodestar/commit/34984af797e5a7e310bd65bab2aa1d19489ebde9) - 2026-10-09
 * [Review] [Review on: test: cover Gloas builder payment cancellation and delayed withdrawals](https://github.com/ChainSafe/lodestar/pull/10351#pullrequestreview-5499529189) - 2026-10-13
 * [Review] [Review on: fix: serialize attestation slashing protection checks per validator](https://github.com/ChainSafe/lodestar/pull/10303#pullrequestreview-5499485272) - 2026-10-13
+* [Review] [Review on: fix: allow next epoch duties requests before genesis](https://github.com/ChainSafe/lodestar/pull/10383#pullrequestreview-5520287277) - 2026-10-14
+* [Review] [Review on: fix: retry getBlobs for triggers that arrived while a request was in flight](https://github.com/ChainSafe/lodestar/pull/10366#pullrequestreview-5520231814) - 2026-10-14
+* [Review] [Review on: feat: enable native gloas transitions](https://github.com/ChainSafe/lodestar/pull/10345#pullrequestreview-5519908752) - 2026-10-14
+* [Review] [Review on: test: raise the regression threshold for flaky benchmarks](https://github.com/ChainSafe/lodestar/pull/10378#pullrequestreview-5519797234) - 2026-10-14
+* [Review] [Review on: fix: serialize attestation slashing protection checks per validator](https://github.com/ChainSafe/lodestar/pull/10303#pullrequestreview-5519776815) - 2026-10-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -50,6 +55,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf(state-transition): diff-synced flat validator cache](https://github.com/ChainSafe/lodestar-z/pull/736#pullrequestreview-5393525722) - 2026-10-02
 * [Review] [Review on: feat(bindings): implement remaining rewards apis](https://github.com/ChainSafe/lodestar-z/pull/731#pullrequestreview-5413024331) - 2026-10-05
 * [Review] [Review on: test: verify allocation failure coverage with standard checks](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5440791887) - 2026-10-07
+* [Pull Request] [build: add AFL++ fuzzing image](https://github.com/ChainSafe/lodestar-z/pull/787) - 2026-10-14
+* [Review] [Review on: feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765#pullrequestreview-5520132266) - 2026-10-14
 ## Q3 2026
 
 

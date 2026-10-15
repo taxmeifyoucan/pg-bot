@@ -35,6 +35,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Backfill: Fix Gloas](https://github.com/OffchainLabs/prysm/pull/17632#pullrequestreview-5489175233) - 2026-10-12
 * [Commit] [Add Heze fork config placeholders (#17678)](https://github.com/OffchainLabs/prysm/commit/c64fc6611b9bb2769e03245cf8a6883c0b882cf7) - 2026-10-12
 * [Commit] [Bound RPC decoding by SSZ type size (#17660)](https://github.com/OffchainLabs/prysm/commit/fac5fcf25f09ada8dcc907fbecb6e8be03c302bf) - 2026-10-13
+* [Pull Request] [Read IPv6-specific tcp6/quic6 ENR ports when dialing IPv6 peer endpoints](https://github.com/OffchainLabs/prysm/pull/17704) - 2026-10-14
+* [Pull Request] [execution: options to serve getPayload and getBlobs in-process](https://github.com/OffchainLabs/prysm/pull/17702) - 2026-10-14
 ## Q3 2026
 
 

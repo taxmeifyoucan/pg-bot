@@ -41,6 +41,18 @@ Team: Reth
 * [Commit] [perf(rpc): compress only large responses, fastest (#27863)](https://github.com/paradigmxyz/reth/commit/81e7be6f543be69adb8e6d6eea6fb4f275a1239c) - 2026-10-12
 * [Pull Request] [perf(engine): reuse prewarm transaction results](https://github.com/paradigmxyz/reth/pull/27894) - 2026-10-13
 * [Review] [Review on: refactor: remove more bounds implied by supertraits](https://github.com/paradigmxyz/reth/pull/27892#pullrequestreview-5510103255) - 2026-10-13
+* [Review] [Review on: fix(docker): sync nightly engine defaults](https://github.com/paradigmxyz/reth/pull/27921#pullrequestreview-5527359442) - 2026-10-15
+* [Pull Request] [perf(engine): shorten the state root tail](https://github.com/paradigmxyz/reth/pull/27900) - 2026-10-14
+* [Pull Request] [perf(engine): reuse results of pool transactions](https://github.com/paradigmxyz/reth/pull/27904) - 2026-10-14
+* [Pull Request] [perf(db): prefetch mapped bytecode pages before decoding](https://github.com/paradigmxyz/reth/pull/27919) - 2026-10-14
+* [Review] [Review on: chore(docker): enable nightly prewarm reuse](https://github.com/paradigmxyz/reth/pull/27917#pullrequestreview-5524145671) - 2026-10-14
+* [Pull Request] [ci(bench): add a derek mempool argument](https://github.com/paradigmxyz/reth/pull/27908) - 2026-10-14
+* [Pull Request] [chore(deps): bump rustls to 0.23.46](https://github.com/paradigmxyz/reth/pull/27916) - 2026-10-14
+* [Commit] [perf(engine): reuse results of pool transactions (#27904)](https://github.com/paradigmxyz/reth/commit/130dd9d74fdd5ed9a3856de26a928247de10a51b) - 2026-10-14
+* [Commit] [perf(db): prefetch mapped bytecode pages before decoding (#27919)](https://github.com/paradigmxyz/reth/commit/26ab03645973794e9708a989fed38ef9dea1a643) - 2026-10-14
+* [Commit] [ci(bench): add a derek mempool argument (#27908)](https://github.com/paradigmxyz/reth/commit/831876fefb89f2a1effa8b13f367871455cce5c6) - 2026-10-14
+* [Commit] [perf(engine): reuse prewarm transaction results (#27894)](https://github.com/paradigmxyz/reth/commit/72e91287779896dc33a34f8905d709f578641d63) - 2026-10-14
+* [Commit] [chore(deps): bump rustls to 0.23.46 (#27916)](https://github.com/paradigmxyz/reth/commit/9fa1fe56717b29f00592b0d9366bb3d08946999c) - 2026-10-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

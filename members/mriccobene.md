@@ -20,11 +20,16 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen: blocks=N profile option to draw a method from the most recent blocks](https://github.com/erigontech/rpc-tests/pull/620#pullrequestreview-5484944321) - 2026-10-11
 * [Review] [Review on: rpc_perf: count empty results](https://github.com/erigontech/rpc-tests/pull/619#pullrequestreview-5484942650) - 2026-10-11
 * [Review] [Review on: rpc_pattern_gen: eth_estimateGas, eth_gasPrice and eth_maxPriorityFeePerGas](https://github.com/erigontech/rpc-tests/pull/618#pullrequestreview-5484941669) - 2026-10-11
+* [Review] [Review on: perf: trace the 50 most recent blocks in the mainnet mixed profile](https://github.com/erigontech/rpc-tests/pull/623#pullrequestreview-5524140886) - 2026-10-14
+* [Review] [Review on: rpc_pattern_gen: eth_getLogs filters built from real logs, and an eth_getLogs command](https://github.com/erigontech/rpc-tests/pull/622#pullrequestreview-5513568728) - 2026-10-14
+* [Review] [Review on: rpc_perf: write at most --max-body-rsp bytes of each body to the binary file](https://github.com/erigontech/rpc-tests/pull/621#pullrequestreview-5513571859) - 2026-10-14
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
 * [Review] [Review on: QA: generate the latest eth_call and mixed patterns at the tip in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/24663#pullrequestreview-5462009048) - 2026-10-08
 * [Commit] [qa-tests: add a deep workspace cleanup step to all workflows (#24841)](https://github.com/erigontech/erigon/commit/437bc1d1520c8a93a21ab0f0920a3793c290ccbe) - 2026-10-13
+* [Issue] [Wrong trie root on a BAL driven block on Sepolia](https://github.com/erigontech/erigon/issues/24899) - 2026-10-14
+* [Issue] [An error reported by Exec-from-Zero test](https://github.com/erigontech/erigon/issues/24901) - 2026-10-14
 ## Q3 2026
 
 

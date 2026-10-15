@@ -248,6 +248,31 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix documented config defaults that disagree with the implementation](https://github.com/NethermindEth/nethermind/pull/14582#pullrequestreview-5507286182) - 2026-10-13
 * [Review] [Review on: chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/14628#pullrequestreview-5508762743) - 2026-10-13
 * [Pull Request] [fix(evm): do not treat out-of-memory as a precompile failure](https://github.com/NethermindEth/nethermind/pull/14624) - 2026-10-13
+* [Review] [Review on: ci: fix hive eels simulator names, buildarg passing and silent zero-test runs](https://github.com/NethermindEth/nethermind/pull/14504#pullrequestreview-5515742733) - 2026-10-14
+* [Review] [Review on: fix(evm): resolve EIP-7702 delegations only when the fork enables them](https://github.com/NethermindEth/nethermind/pull/14569#pullrequestreview-5515461824) - 2026-10-14
+* [Review] [Review on: fix(config): never return sensitive items from GetRawValue](https://github.com/NethermindEth/nethermind/pull/14543#pullrequestreview-5515806038) - 2026-10-14
+* [Review] [Review on: fix(evm): keep the self-destruct storage wipe undoable in CallAndRestore](https://github.com/NethermindEth/nethermind/pull/14550#pullrequestreview-5515554516) - 2026-10-14
+* [Review] [Review on: fix(network): bound discv4 response backlog and require bond before tracking pinging nodes](https://github.com/NethermindEth/nethermind/pull/14546#pullrequestreview-5515834061) - 2026-10-14
+* [Review] [Review on: fix(optimism): write the Holocene extra data on every produced block](https://github.com/NethermindEth/nethermind/pull/14544#pullrequestreview-5515815657) - 2026-10-14
+* [Review] [Review on: fix(shutter): dispose block and key wait registrations outside the handler lock](https://github.com/NethermindEth/nethermind/pull/14533#pullrequestreview-5515781383) - 2026-10-14
+* [Review] [Review on: fix(network): disconnect peers that broadcast blob transactions](https://github.com/NethermindEth/nethermind/pull/14563#pullrequestreview-5515491514) - 2026-10-14
+* [Review] [Review on: fix(consensus): validate parent beacon block root presence in headers](https://github.com/NethermindEth/nethermind/pull/14560#pullrequestreview-5515521818) - 2026-10-14
+* [Review] [Review on: fix(init): fail startup when a listener port is in use](https://github.com/NethermindEth/nethermind/pull/14571#pullrequestreview-5515434994) - 2026-10-14
+* [Review] [Review on: fix(core): create the generated jwt secret and node key readable by the owner only](https://github.com/NethermindEth/nethermind/pull/14552#pullrequestreview-5515539345) - 2026-10-14
+* [Commit] [perf(state): inline the indexed-originals check, keep indexing out of line (#14536)](https://github.com/NethermindEth/nethermind/commit/230b9a9f2ea4d24b3cef15ac810d92ef06df593a) - 2026-10-14
+* [Commit] [perf(zkevm): keep the trie walks' depth and write-stack counters word-sized (#14441)](https://github.com/NethermindEth/nethermind/commit/a386ebfed5e576cf105e10fe59f337a8e82b430b) - 2026-10-14
+* [Commit] [fix(zkevm): keep EVM memory buffers that miss the frame cache instead of dropping them (#14592)](https://github.com/NethermindEth/nethermind/commit/8d65b27a9427eb1135e8d638e79a39ab3505bdf4) - 2026-10-14
+* [Commit] [fix(evm): do not treat out-of-memory as a precompile failure (#14624)](https://github.com/NethermindEth/nethermind/commit/a0696fb674912c8b0d68f0502c94bbf70c1d493e) - 2026-10-14
+* [Commit] [perf(zkevm): decode witness codes straight into executable code memory (#14424)](https://github.com/NethermindEth/nethermind/commit/2f7e5d499fa15666fce7dff9dd7fae5e1f28995d) - 2026-10-14
+* [Commit] [perf(zkvm): hash SSZ merkle pairs with OpenVM's SHA-256 compression directly (#14412)](https://github.com/NethermindEth/nethermind/commit/88adb18e4e091879e5067905a15b7d6d234630eb) - 2026-10-14
+* [Commit] [perf(zkvm): absorb aligned Keccak input with OpenVM's XORIN instruction (#14411)](https://github.com/NethermindEth/nethermind/commit/0f17a805a3fb7de4b1324d4160f50c26c8dc0424) - 2026-10-14
+* [Commit] [fix(rlp): bound RLP decoding by each item's declared length (#14594)](https://github.com/NethermindEth/nethermind/commit/1205cb1c23f509ae30c39d390e3dfc1b89f1478f) - 2026-10-14
+* [Commit] [fix(specs): don't apply the London fork-block rules at mainnet's block on other chains (#14634)](https://github.com/NethermindEth/nethermind/commit/1c77a8b3cac318b33c32022b514e76e79f188014) - 2026-10-14
+* [Commit] [refactor(zkvm): call SP1 precompiles through Nethermind.Zkvm.Abstractions (#14652)](https://github.com/NethermindEth/nethermind/commit/529b8991eb12add23215b363e8205e08bf1d4e01) - 2026-10-14
+* [Commit] [perf(zkevm): fold EIP-8279 metering out of the guest's transaction path (#14439)](https://github.com/NethermindEth/nethermind/commit/ec73cdea1ba1bf50cdf218d68174974ff5bab995) - 2026-10-14
+* [Commit] [perf(zkevm): drop 32-bit extensions from guest hot paths (#14440)](https://github.com/NethermindEth/nethermind/commit/642cd2854f254d10da6d2bee85853b5b959b0092) - 2026-10-14
+* [Commit] [perf(zkevm): use single-threaded collections in the guest (#14629)](https://github.com/NethermindEth/nethermind/commit/c951904fd3c2da2538d07d4eb8e601dfe90ef2d1) - 2026-10-14
+* [Commit] [perf(zkvm): run wide MUL on OpenVM's bigint extension (#14409)](https://github.com/NethermindEth/nethermind/commit/9c6d7f459c9056de6cd6b5cf27438e586b632c2a) - 2026-10-14
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -263,6 +288,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [bflat: wide unaligned accesses for --libc openvm](https://github.com/NethermindEth/bflat-riscv64/commit/70178fc852a9ac773ceb52b229723b87a734ce76) - 2026-10-09
 * [Pull Request] [zisk_subst: integer IsPrime and CalcNumBuckets bodies; fail on inlined --wrap targets](https://github.com/NethermindEth/bflat-riscv64/pull/54) - 2026-10-13
 * [Pull Request] [zkvm_zisk: keep the stack clear of ZisK's SYS and OUTPUT areas; fix C allocator floor check](https://github.com/NethermindEth/bflat-riscv64/pull/53) - 2026-10-13
+* [Commit] [fix(pal): return stack bounds in NativeAOT order](https://github.com/NethermindEth/bflat-riscv64/commit/841f1a4c92b28b563b212f5249bffa929a44559a) - 2026-10-14
+* [Commit] [pal: report the linker script's stack window from PalGetMaximumStackBounds](https://github.com/NethermindEth/bflat-riscv64/commit/40fc9bddfd8fe2ee87b07ef00a6a8a77658d8756) - 2026-10-14
+* [Commit] [pal: fail C allocations once the bump pointer is below the heap floor](https://github.com/NethermindEth/bflat-riscv64/commit/5d7ff650fd35e1553f999490e2ddcc6c886757ce) - 2026-10-14
+* [Commit] [zkvm_zisk: keep the stack and data clear of ZisK's SYS and OUTPUT areas](https://github.com/NethermindEth/bflat-riscv64/commit/357f16d785698ac9be357a8a53cf12a83db73f4e) - 2026-10-14
+* [Commit] [zisk_subst: integer IsPrime and CalcNumBuckets bodies; fail on inlined --wrap targets](https://github.com/NethermindEth/bflat-riscv64/commit/882598eb2c5ac51e6af55962ccaf337981971de8) - 2026-10-14
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02

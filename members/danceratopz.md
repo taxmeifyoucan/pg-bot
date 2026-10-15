@@ -45,6 +45,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621) - 2026-10-14
 ## Q3 2026
 
 

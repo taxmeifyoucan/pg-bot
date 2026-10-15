@@ -294,6 +294,22 @@ Team: Erigon
 * [Commit] [rpc: reduce `eth_getBalance` p99 by reading acc without address interning (#24795)](https://github.com/erigontech/erigon/commit/266706977a373fb57be33132f67c58e0c8241aec) - 2026-10-13
 * [Commit] [common/hexutil: hex encode/decode in simd (#24410)](https://github.com/erigontech/erigon/commit/1fea3cd6efd3cd55845a903e79603dc0f7c87573) - 2026-10-13
 * [Commit] [go.mod: otter with the replacement fix for a never-linked node (#24774)](https://github.com/erigontech/erigon/commit/a825c7214c77dca5b3c44d636e050b5ba28deb7d) - 2026-10-13
+* [Review] [Review on: lint: report every issue so warm runs stop keeping a random subset](https://github.com/erigontech/erigon/pull/24882#pullrequestreview-5517927411) - 2026-10-14
+* [Pull Request] [go.mod: otter main, with the in-place replacement of a live key](https://github.com/erigontech/erigon/pull/24914) - 2026-10-15
+* [Review] [Review on: exec: a written address serves repeat storage and code-size reads from the read set](https://github.com/erigontech/erigon/pull/24862#pullrequestreview-5517927726) - 2026-10-14
+* [Pull Request] [execution: benchmarks run on the versioned noMaterialize state, as eth_call does](https://github.com/erigontech/erigon/pull/24915) - 2026-10-15
+* [Pull Request] [rpc: stream websocket and IPC answers a threshold at a time](https://github.com/erigontech/erigon/pull/24898) - 2026-10-14
+* [Pull Request] [rpc/jsonstream: stream a large hex array a threshold at a time](https://github.com/erigontech/erigon/pull/24897) - 2026-10-14
+* [Review] [Review on: rpc/jsonstream: stream a large hex array a threshold at a time](https://github.com/erigontech/erigon/pull/24897#pullrequestreview-5517926225) - 2026-10-14
+* [Review] [Review on: cmd/rpctest: report lost writes of the record and error files](https://github.com/erigontech/erigon/pull/24890#pullrequestreview-5517926973) - 2026-10-14
+* [Review] [Review on: cl: close the persistent block collector when the stage loop exits](https://github.com/erigontech/erigon/pull/24892#pullrequestreview-5517926608) - 2026-10-14
+* [Commit] [exec: small global lock-free `interning` cache (#24816)](https://github.com/erigontech/erigon/commit/f4f23988389756accf7b144aa1d6d9a0cec151f6) - 2026-10-14
+* [Commit] [common/estimate: honour the cgroup memory limit in hybrid mode (#24885)](https://github.com/erigontech/erigon/commit/a757fdcdf926cc66298e7e5607b38566afd34b8c) - 2026-10-14
+* [Commit] [rpc/jsonrpc: overlay_callConstructor rejects an address without a contract (#24884)](https://github.com/erigontech/erigon/commit/beadf5dfa858a22e91a8ad7a2c5ceea3955a971b) - 2026-10-14
+* [Commit] [cmd/utils/app: seg rm-state-snapshots treats a nil cursor as no state key (#24888)](https://github.com/erigontech/erigon/commit/73e9f7a98a56ffcadf095f3a1eacec761e7e5128) - 2026-10-14
+* [Commit] [cmd/evm: t8n rejects an unsupported transaction type instead of panicking (#24887)](https://github.com/erigontech/erigon/commit/7de60a2e2c0b9c2b0dcb3ddf7c14d173f52588ce) - 2026-10-14
+* [Commit] [cmd/integration: read_domains reports an absent account instead of panicking (#24889)](https://github.com/erigontech/erigon/commit/4e4352b928cf7e8bdfb834c4e44965a35706345f) - 2026-10-14
+* [Commit] [tests: enable testifylint error-is-as and go-require (#24883)](https://github.com/erigontech/erigon/commit/004dc74de864b925340e18d73caeae1289a1a97c) - 2026-10-14
 ## Q3 2026
 
 

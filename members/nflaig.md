@@ -240,6 +240,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: queue column reconstructions in event multiple come in before completion](https://github.com/ChainSafe/lodestar/pull/10331#pullrequestreview-5500570957) - 2026-10-13
 * [Issue] [Set the IL deadline to 9s into the slot](https://github.com/ChainSafe/lodestar/issues/10380) - 2026-10-13
 * [Commit] [ci: add nightly mixed client interop workflow (#10361)](https://github.com/ChainSafe/lodestar/commit/837363b8691b5412f48345bfa2c41f8349f1578d) - 2026-10-13
+* [Review] [Review on: refactor(api): drop unreachable genesis block root fallbacks from duty endpoints](https://github.com/ChainSafe/lodestar/pull/10394#pullrequestreview-5527425921) - 2026-10-15
+* [Pull Request] [fix: skip buffering unknown-root gossip messages from expired slots](https://github.com/ChainSafe/lodestar/pull/10388) - 2026-10-14
+* [Review] [Review on: feat(types): add EIP-8025 execution proof SSZ types](https://github.com/ChainSafe/lodestar/pull/10391#pullrequestreview-5522333975) - 2026-10-14
+* [Pull Request] [perf: improve transactions derserialization](https://github.com/ChainSafe/lodestar/pull/10392) - 2026-10-14
+* [Review] [Review on: feat: enable native gloas transitions](https://github.com/ChainSafe/lodestar/pull/10345#pullrequestreview-5520188934) - 2026-10-14
+* [Pull Request] [fix: expire held gossip messages for blocks that were seen but never imported](https://github.com/ChainSafe/lodestar/pull/10389) - 2026-10-14
+* [Review] [Review on: fix: expire held gossip messages for blocks that were seen but never imported](https://github.com/ChainSafe/lodestar/pull/10389#pullrequestreview-5519387057) - 2026-10-14
+* [Review] [Review on: fix: record source state clone count](https://github.com/ChainSafe/lodestar/pull/10348#pullrequestreview-5517388968) - 2026-10-14
+* [Pull Request] [fix: isolate selection proof failures per validator](https://github.com/ChainSafe/lodestar/pull/10387) - 2026-10-14
+* [Pull Request] [fix: remove signer from validator store if its index is known](https://github.com/ChainSafe/lodestar/pull/10386) - 2026-10-14
+* [Commit] [fix: skip buffering unknown-root gossip messages from expired slots (#10388)](https://github.com/ChainSafe/lodestar/commit/17f78227c7434606b5307f2ebe36d32b3439d29c) - 2026-10-15
+* [Commit] [fix: serialize attestation slashing protection checks per validator (#10303)](https://github.com/ChainSafe/lodestar/commit/38410b466e1ac65692ad74023fd2db7a0447cc16) - 2026-10-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -249,6 +261,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5450195100) - 2026-10-08
 * [Review] [Review on: Add tests for proposer and attester slashings in one block](https://github.com/ethereum/consensus-specs/pull/5720#pullrequestreview-5450152376) - 2026-10-08
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5484352852) - 2026-10-11
+* [Pull Request] [Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741) - 2026-10-14
+* [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5522415581) - 2026-10-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
@@ -286,6 +300,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [perf: expose sync committee indices (#768)](https://github.com/ChainSafe/lodestar-z/commit/79032c552fe11947876e42ae0a8dc2d315343313) - 2026-10-11
 
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5490649326) - 2026-10-12
+* [Review] [Review on: feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765#pullrequestreview-5520188525) - 2026-10-14
+* [Review] [Review on: feat: implement gloas state transition](https://github.com/ChainSafe/lodestar-z/pull/764#pullrequestreview-5517014427) - 2026-10-14
+* [Review] [Review on: fix: include histogram upper bounds](https://github.com/ChainSafe/lodestar-z/pull/766#pullrequestreview-5517016295) - 2026-10-14
+* [Commit] [fix: include histogram upper bounds (#766)](https://github.com/ChainSafe/lodestar-z/commit/f6fbe2069c209643a69bf1893ee399d5f64f22f4) - 2026-10-14
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026

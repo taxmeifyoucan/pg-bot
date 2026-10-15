@@ -25,6 +25,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: define the validation prefix and execution body under Behavior](https://github.com/ethereum/EIPs/pull/12471#pullrequestreview-5472979360) - 2026-10-09
 * [Review] [Review on: Update EIP-8141: name the TXPARAM, FRAMEPARAM and SIGPARAM params](https://github.com/ethereum/EIPs/pull/12469#pullrequestreview-5471742594) - 2026-10-09
 * [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5494082658) - 2026-10-12
+* [Pull Request] [Update EIP-8141: commit to elided signature lengths](https://github.com/ethereum/EIPs/pull/12502) - 2026-10-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 
@@ -39,6 +40,9 @@ Team: Geth
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5521806399) - 2026-10-14
 ## Q3 2026
 
 

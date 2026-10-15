@@ -52,6 +52,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Deprecate some flags](https://github.com/OffchainLabs/prysm/pull/17686#pullrequestreview-5503697835) - 2026-10-13
 * [Commit] [Gloas batch envelope binding (#17566)](https://github.com/OffchainLabs/prysm/commit/5dbd17496ab4cd81bff2398fb2b37eba4778eac4) - 2026-10-14
 * [Commit] [fix flakey tests (#17682)](https://github.com/OffchainLabs/prysm/commit/d230aa4d5f0f920544215bd4ad29dec9778a21f7) - 2026-10-13
+* [Review] [Review on: Limit Gloas payload envelope validation work](https://github.com/OffchainLabs/prysm/pull/17612#pullrequestreview-5523584244) - 2026-10-14
+* [Commit] [remove tracing from e2e (#17683)](https://github.com/OffchainLabs/prysm/commit/7e71942a7cb9d3324d45fe08d8c5960ea08a673c) - 2026-10-14
 ## Q3 2026
 
 

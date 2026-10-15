@@ -40,6 +40,8 @@ Team: Grandine
 * [Issue] [Schedule Gloas fork on Hoodi](https://github.com/grandinetech/grandine/issues/979) - 2026-10-13
 * [Commit] [Update consensus-spec-tests to v1.7.0-beta.3](https://github.com/grandinetech/grandine/commit/2393c3c3e52de776c7b3e56e56bf62b112ee9994) - 2026-10-13
 * [Commit] [Schedule Gloas fork activation on Hoodi](https://github.com/grandinetech/grandine/commit/9520d2e13876d7fc062029175a1a043c8d8534bc) - 2026-10-13
+* [Pull Request] [Update `min_epochs_for_block_requests` for Gloas](https://github.com/grandinetech/grandine/pull/984) - 2026-10-14
+* [Commit] [Update consensus-spec-tests to v1.7.0-beta.4](https://github.com/grandinetech/grandine/commit/d940f70acc865fb368d750f3303b0cf0664bc74e) - 2026-10-14
 ## Q3 2026
 
 

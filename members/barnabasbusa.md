@@ -16,6 +16,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903) - 2026-10-05
 * [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5439347978) - 2026-10-07
+* [Pull Request] [fix: check tx gas limit against cumulative gas used before Amsterdam](https://github.com/status-im/nimbus-eth1/pull/4980) - 2026-10-14
+* [Issue] [Pre-Amsterdam: tx gas limit is checked against the floor-less execution gas, so nimbus builds and accepts over-limit blocks](https://github.com/status-im/nimbus-eth1/issues/4979) - 2026-10-14
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat: show why inclusion list transactions were omitted](https://github.com/ethpandaops/dora/pull/884) - 2026-10-01
 
@@ -46,6 +48,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #899 from ethpandaops/dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e7c9cf5256](https://github.com/ethpandaops/dora/commit/b40b2706f085075efec664a5fda5401a3287e92e) - 2026-10-13
 * [Commit] [Merge branch 'master' into dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e7c9cf5256](https://github.com/ethpandaops/dora/commit/afa5ff35c3b60b729a8a7b7dad82970a576ca494) - 2026-10-13
 * [Commit] [Merge pull request #897 from ethpandaops/pk910/focil-devnet-2-prep](https://github.com/ethpandaops/dora/commit/3ab285580973694b3e9225cc05208c4d4473643a) - 2026-10-13
+* [Pull Request] [fix: serve cached pages and queue briefly before returning too many requests](https://github.com/ethpandaops/dora/pull/902) - 2026-10-14
+* [Pull Request] [fix: show bid seen counts in popover when per-client details are gone](https://github.com/ethpandaops/dora/pull/901) - 2026-10-14
+* [Review] [Review on: fix: seed indexer finalization position only after a finality checkpoint is known](https://github.com/ethpandaops/dora/pull/903#pullrequestreview-5515978804) - 2026-10-14
+* [Commit] [fix: serve cached pages and queue briefly before returning too many requests](https://github.com/ethpandaops/dora/commit/aeac09f004c9920b8d07ac69dedaa33df351a1ab) - 2026-10-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 

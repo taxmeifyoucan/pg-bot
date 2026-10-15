@@ -98,6 +98,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: verify proposer slashing signatures over the header and accept one per proposer (#24846)](https://github.com/erigontech/erigon/commit/22a864ce2195a18dbc0a461dbf87f9d5b71514f2) - 2026-10-13
 * [Commit] [cl/phase1/network, cl/beacon/handler: handle gloas proposer preferences in the epoch before the fork (#24809)](https://github.com/erigontech/erigon/commit/cf4c949cbc63ec4e3e4372d54e6922f444234c86) - 2026-10-13
 * [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: ignore local block import errors and attester slashings that need an unavailable justified state (#24821)](https://github.com/erigontech/erigon/commit/9305ed3b346f2440af498afbc9be84408b2ba06f) - 2026-10-13
+* [Pull Request] [cl/phase1/forkchoice: fix the anchor checkpoint epoch for a mid-epoch block post-state](https://github.com/erigontech/erigon/pull/24913) - 2026-10-15
+* [Review] [Review on: cl/das: recover the blob rows of a block in parallel](https://github.com/erigontech/erigon/pull/24861#pullrequestreview-5516227172) - 2026-10-14
+* [Pull Request] [cl/phase1/forkchoice: bound the checkpoint state cache](https://github.com/erigontech/erigon/pull/24902) - 2026-10-14
+* [Commit] [cl/phase1/forkchoice: record gloas payload status when el validation is skipped (#24878)](https://github.com/erigontech/erigon/commit/1be6e403f50b32367b28087535bfa6a0ec8124fb) - 2026-10-14
 ## Q3 2026
 
 

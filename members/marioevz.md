@@ -33,6 +33,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: perf(test-types): compute allocation state roots incrementally](https://github.com/ethereum/execution-specs/pull/3782#pullrequestreview-5511461401) - 2026-10-13
 * [Review] [Review on: fix(spec-specs, tests): handle the modexp base length overflow before Osaka](https://github.com/ethereum/execution-specs/pull/3806#pullrequestreview-5511077656) - 2026-10-13
 * [Review] [Review on: fix(spec-tests): create the json_loader fork cache at configure](https://github.com/ethereum/execution-specs/pull/3819#pullrequestreview-5510672582) - 2026-10-13
+* [Review] [Review on: feat(tests): Increase coverage for EIP-7805 tests](https://github.com/ethereum/execution-specs/pull/3804#pullrequestreview-5525186333) - 2026-10-14
+* [Review] [Review on: fix(spec-specs, tests): reject legacy chain ids over 64 bits](https://github.com/ethereum/execution-specs/pull/3828#pullrequestreview-5525888067) - 2026-10-14
+* [Pull Request] [feat(test-specs): Test function receives fork's genesis pre-alloc](https://github.com/ethereum/execution-specs/pull/3830) - 2026-10-14
+* [Review] [Review on: feat(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5523518828) - 2026-10-14
+* [Pull Request] [chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758) - 2026-10-14
+* [Commit] [chore(tests): THE BIG ported-static pre-alloc groups reduction (#3758)](https://github.com/ethereum/execution-specs/commit/6610d7eb0feb2b23d53a9ea2fe19e78468ecfb53) - 2026-10-14
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

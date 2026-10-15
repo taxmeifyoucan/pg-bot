@@ -36,6 +36,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Configure AI automated review process](https://github.com/grandinetech/grandine/commit/7532935adb5f696e94d302bed03681d16f105d5b) - 2026-10-13
 * [Commit] [Cache shufflings obtained during PTC computation](https://github.com/grandinetech/grandine/commit/362e28d7a8d04ccd6d4d03340eb61d821ac644a1) - 2026-10-13
 * [Commit] [Optimize epoch processing for gloas](https://github.com/grandinetech/grandine/commit/57b197afa7e255eb467e30ebd66b62d7a5923cd3) - 2026-10-13
+* [Review] [Review on: Update consensus-spec-tests to v1.7.0-beta.4](https://github.com/grandinetech/grandine/pull/983#pullrequestreview-5515455042) - 2026-10-14
 ## Q3 2026
 
 

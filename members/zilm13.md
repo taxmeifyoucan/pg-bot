@@ -13,6 +13,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5499816859) - 2026-10-13
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: VC warn when no head events arrive from a beacon node](https://github.com/Consensys-Incorporated/teku/pull/11329#pullrequestreview-5520003628) - 2026-10-14
+* [Review] [Review on: Exclude pending dials from peer selection and reserve their slots](https://github.com/Consensys-Incorporated/teku/pull/11490#pullrequestreview-5521697856) - 2026-10-14
+* [Review] [Review on: Do not advertise a TCP port in the ENR when the TCP transport is disabled](https://github.com/Consensys-Incorporated/teku/pull/11489#pullrequestreview-5520574831) - 2026-10-14
 ## Q3 2026
 
 

@@ -66,6 +66,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: track circuit breaker metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/10318#pullrequestreview-5488259944) - 2026-10-12
 * [Commit] [chore: fix Builder API queries per slot panel (#10357)](https://github.com/ChainSafe/lodestar/commit/03c05fa09adb7ff01c7d4c495451596c9cecedd8) - 2026-10-12
 * [Commit] [perf: allocate once when serializing execution requests (#10356)](https://github.com/ChainSafe/lodestar/commit/c785f2463ae49f1b547cb6fb3c14f993a394fbf5) - 2026-10-12
+* [Review] [Review on: fix: skip buffering unknown-root gossip messages from expired slots](https://github.com/ChainSafe/lodestar/pull/10388#pullrequestreview-5527209069) - 2026-10-15
+* [Review] [Review on: perf: avoid array concat when deserializing ENR subnets](https://github.com/ChainSafe/lodestar/pull/10382#pullrequestreview-5512816022) - 2026-10-14
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026
 
 

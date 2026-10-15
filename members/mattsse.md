@@ -200,6 +200,28 @@ Team: Reth
 * [Commit] [perf(e2e-test-utils): box futures of the eth API helpers (#27891)](https://github.com/paradigmxyz/reth/commit/5b6d9c89e0dae3642de501c68ad2ea0ef46be9d3) - 2026-10-13
 * [Commit] [ci: build unit and integration tests without debuginfo (#27884)](https://github.com/paradigmxyz/reth/commit/44958846936ed9ff4748ecfc1ac6d68af9e88af4) - 2026-10-13
 * [Commit] [perf(e2e-test-utils): gate chain import behind a default feature (#27886)](https://github.com/paradigmxyz/reth/commit/e8a06856f8a3258fbd1bedae80e6d85e8230ca15) - 2026-10-13
+* [Review] [Review on: fix(net): parse port 80 in TrustedPeer enodes](https://github.com/paradigmxyz/reth/pull/27764#pullrequestreview-5527411420) - 2026-10-15
+* [Review] [Review on: fix(node): skip JWT secret when auth server is disabled](https://github.com/paradigmxyz/reth/pull/27899#pullrequestreview-5527410710) - 2026-10-15
+* [Review] [Review on: perf(engine): reuse results of pool transactions](https://github.com/paradigmxyz/reth/pull/27904#pullrequestreview-5523462626) - 2026-10-14
+* [Pull Request] [fix(rpc): bound simulateV1 request parsing](https://github.com/paradigmxyz/reth/pull/27918) - 2026-10-14
+* [Review] [Review on: perf(db): prefetch mapped bytecode pages before decoding](https://github.com/paradigmxyz/reth/pull/27919#pullrequestreview-5525547209) - 2026-10-14
+* [Review] [Review on: feat(metrics): support gzip encoding](https://github.com/paradigmxyz/reth/pull/27766#pullrequestreview-5525744172) - 2026-10-14
+* [Review] [Review on: fix(discv5): pair TCP port with session family](https://github.com/paradigmxyz/reth/pull/27735#pullrequestreview-5525675352) - 2026-10-14
+* [Review] [Review on: test(snap): execute blocks above the pivot](https://github.com/paradigmxyz/reth/pull/27855#pullrequestreview-5523904757) - 2026-10-14
+* [Review] [Review on: feat(net): advertise snap/2 in the ENR](https://github.com/paradigmxyz/reth/pull/27861#pullrequestreview-5523862335) - 2026-10-14
+* [Review] [Review on: fix(trie): propagate walker initialization errors](https://github.com/paradigmxyz/reth/pull/27737#pullrequestreview-5523854568) - 2026-10-14
+* [Review] [Review on: chore: update bogota devnet branch](https://github.com/paradigmxyz/reth/pull/27913#pullrequestreview-5523046463) - 2026-10-14
+* [Review] [Review on: perf(engine): reuse prewarm transaction results](https://github.com/paradigmxyz/reth/pull/27894#pullrequestreview-5513251160) - 2026-10-14
+* [Pull Request] [fix(engine): acknowledge terminate after the tree is dropped](https://github.com/paradigmxyz/reth/pull/27909) - 2026-10-14
+* [Pull Request] [test: remove redundant node smoke tests](https://github.com/paradigmxyz/reth/pull/27914) - 2026-10-14
+* [Pull Request] [fix(rpc): interrupt JS tracers on timeout and drop](https://github.com/paradigmxyz/reth/pull/27903) - 2026-10-14
+* [Pull Request] [fix(tasks): clear busy state before waking](https://github.com/paradigmxyz/reth/pull/27906) - 2026-10-14
+* [Pull Request] [test: wait for proof and node teardown](https://github.com/paradigmxyz/reth/pull/27907) - 2026-10-14
+* [Commit] [fix(engine): acknowledge terminate after the tree is dropped (#27909)](https://github.com/paradigmxyz/reth/commit/fb58073cd96e5d29cf21267acab683cb8922b056) - 2026-10-14
+* [Commit] [test: remove redundant node smoke tests (#27914)](https://github.com/paradigmxyz/reth/commit/14b9cb9646e549ce1b173e1081e0d077aeed74aa) - 2026-10-14
+* [Commit] [fix(tasks): clear busy state before waking (#27906)](https://github.com/paradigmxyz/reth/commit/753db1e1a9d1e6a9ca23c14e700a358dbafbe9c5) - 2026-10-14
+* [Commit] [test: wait for proof and node teardown (#27907)](https://github.com/paradigmxyz/reth/commit/87770991c1cbe0561549c42046bd1dfeb9cf7c95) - 2026-10-14
+* [Commit] [fix(rpc): interrupt JS tracers on timeout and drop (#27903)](https://github.com/paradigmxyz/reth/commit/57825d41dce8b1b9af1410258066757b80e5fc18) - 2026-10-14
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

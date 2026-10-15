@@ -71,6 +71,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Merge master into heze-devnet-2](https://github.com/Consensys-Incorporated/teku/pull/11486) - 2026-10-14
 * [Review] [Review on: Recover Gloas payloads for state-only finalized checkpoints](https://github.com/Consensys-Incorporated/teku/pull/11450#pullrequestreview-5502200192) - 2026-10-13
 * [Review] [Review on: Add update gossip for light clients](https://github.com/Consensys-Incorporated/teku/pull/11451#pullrequestreview-5498506906) - 2026-10-13
+* [Pull Request] [Stop fetching execution payload envelopes on every block import](https://github.com/Consensys-Incorporated/teku/pull/11497) - 2026-10-15
+* [Pull Request] [Set Fulu genesis deposit_requests_start_index to deposit count](https://github.com/Consensys-Incorporated/teku/pull/11496) - 2026-10-15
+* [Pull Request] [Re-enable Gloas upgrade acceptance test](https://github.com/Consensys-Incorporated/teku/pull/11495) - 2026-10-15
+* [Pull Request] [Restore the "Slot Event" log line](https://github.com/Consensys-Incorporated/teku/pull/11494) - 2026-10-14
+* [Pull Request] [Re-pin block production after a failed attempt for the same slot](https://github.com/Consensys-Incorporated/teku/pull/11492) - 2026-10-14
+* [Pull Request] [Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11488) - 2026-10-14
+* [Review] [Review on: Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11488#pullrequestreview-5515227128) - 2026-10-14
+* [Review] [Review on: Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11491#pullrequestreview-5523712468) - 2026-10-14
+* [Issue] [Consider reusing an in-progress block production pin before Heze](https://github.com/Consensys-Incorporated/teku/issues/11493) - 2026-10-14
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

@@ -37,6 +37,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat: remove `deposit` and `eth1data` fields (eip8015) (#10335)](https://github.com/ChainSafe/lodestar/commit/fe4e7408b4f3029262ac51ce2f0f168e0b58b281) - 2026-10-11
 * [Commit] [fix: reset pendingDeposits with the fork's list type at genesis (#10353)](https://github.com/ChainSafe/lodestar/commit/c24762bc60e53bd65db4a7d7b7875409527f2a39) - 2026-10-11
 * [Pull Request] [feat: allow running the native state transition until the Gloas fork](https://github.com/ChainSafe/lodestar/pull/10370) - 2026-10-13
+* [Pull Request] [feat(types): add EIP-8025 execution proof SSZ types](https://github.com/ChainSafe/lodestar/pull/10391) - 2026-10-14
+* [Pull Request] [feat: eip-8025](https://github.com/ChainSafe/lodestar/pull/10384) - 2026-10-14
+* [Review] [Review on: fix: record source state clone count](https://github.com/ChainSafe/lodestar/pull/10348#pullrequestreview-5517774649) - 2026-10-14
+* [Commit] [feat(types): add EIP-8025 execution proof SSZ types (#10391)](https://github.com/ChainSafe/lodestar/commit/fd649df9859e8e25f03223626325fa97a76a6e59) - 2026-10-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -66,6 +70,14 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat: add `bench_ssz` step (#318)](https://github.com/ChainSafe/lodestar-z/commit/874de23c5f0c7937c3b15b09f97be7948922e9f8) - 2026-10-13
 * [Commit] [feat: verify EIP-8025 execution proofs through ere's C verifier (#760)](https://github.com/ChainSafe/lodestar-z/commit/f069a4dd5aaf24e2a10e7760bb95869528648dd2) - 2026-10-12
 * [Review] [Review on: feat(ssz): add composite range reads](https://github.com/ChainSafe/lodestar-z/pull/779#pullrequestreview-5502380168) - 2026-10-13
+* [Review] [Review on: perf: support chunked progressive lists](https://github.com/ChainSafe/lodestar-z/pull/773#pullrequestreview-5515379041) - 2026-10-14
+* [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5514895168) - 2026-10-14
+* [Review] [Review on: perf: stream progressive tree construction](https://github.com/ChainSafe/lodestar-z/pull/746#pullrequestreview-5514218871) - 2026-10-14
+* [Pull Request] [docs: bench with the baseline cpu like release bindings](https://github.com/ChainSafe/lodestar-z/pull/786) - 2026-10-14
+* [Pull Request] [docs: use ReleaseSafe in bench run instructions](https://github.com/ChainSafe/lodestar-z/pull/785) - 2026-10-14
+* [Review] [Review on: fix: include histogram upper bounds](https://github.com/ChainSafe/lodestar-z/pull/766#pullrequestreview-5517723004) - 2026-10-14
+* [Commit] [docs: bench with the baseline cpu like release bindings (#786)](https://github.com/ChainSafe/lodestar-z/commit/0b36087874cf566b931a101cb692c2cf32206ae9) - 2026-10-14
+* [Commit] [docs: use ReleaseSafe in bench run instructions (#785)](https://github.com/ChainSafe/lodestar-z/commit/b1751bf0fb8a9f0f3ac574da68a987acdd335952) - 2026-10-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

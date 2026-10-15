@@ -160,6 +160,19 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(producer): don't let discarded transactions shift receipt indexes](https://github.com/NethermindEth/nethermind/pull/14614#pullrequestreview-5506184742) - 2026-10-13
 * [Pull Request] [test(bal): cover block access list decoding and production discards](https://github.com/NethermindEth/nethermind/pull/14602) - 2026-10-13
 * [Review] [Review on: test(bal): cover block access list decoding and production discards](https://github.com/NethermindEth/nethermind/pull/14602#pullrequestreview-5504036636) - 2026-10-13
+* [Review] [Review on: Read covered-block accounts from the parent state only](https://github.com/NethermindEth/nethermind/pull/14613#pullrequestreview-5516807121) - 2026-10-14
+* [Review] [Review on: fix(eip-8141): charge APPROVE memory expansion before refusal and create an emptied sender](https://github.com/NethermindEth/nethermind/pull/14639#pullrequestreview-5522380027) - 2026-10-14
+* [Pull Request] [perf(state): apply independent BAL storage batches in parallel](https://github.com/NethermindEth/nethermind/pull/14667) - 2026-10-14
+* [Review] [Review on: feat(eip-8250): charge the keyed nonce access cost](https://github.com/NethermindEth/nethermind/pull/14600#pullrequestreview-5522389158) - 2026-10-14
+* [Commit] [test(rpc): drain deferred block writes before checking the hashes-only reader (#14659)](https://github.com/NethermindEth/nethermind/commit/1cd7c4e9fabbf92cdf10b5601d5750e313540701) - 2026-10-14
+* [Commit] [Fix flaky newPayload verdict test wall-clock limit (#14573)](https://github.com/NethermindEth/nethermind/commit/75c9ebf1c7863d5a9b3806ab93c64e116ad4985a) - 2026-10-14
+* [Commit] [fix(history): fix master build after #14623 and #14631 (#14664)](https://github.com/NethermindEth/nethermind/commit/c4b4c2796b3be722641136d8e520a49052daeed9) - 2026-10-14
+* [Commit] [fix(network): return a new receipts message for an empty response (#14648)](https://github.com/NethermindEth/nethermind/commit/128d03b567f881b34d8f8eb034ac4e72532b3255) - 2026-10-14
+* [Commit] [fix(specs): forward interface-default members in ReleaseSpecDecorator (#14497)](https://github.com/NethermindEth/nethermind/commit/3534a949b887656e2af52a512c2a3b4413cb7a5d) - 2026-10-14
+* [Commit] [fix(bal): tighten handling of fetched and stored block access lists (#14597)](https://github.com/NethermindEth/nethermind/commit/efb977ae8a34e7d02e310ecda1a8c5b518eb328d) - 2026-10-14
+* [Commit] [fix(rpc): serve code written by SETCODEFROM and EIP-7702 through code overrides (#13967)](https://github.com/NethermindEth/nethermind/commit/f59ec7e22aab6e2227e73fb63d03eaffe0d4e1b5) - 2026-10-14
+* [Commit] [feat: EIP-5920 PAY opcode (#13930)](https://github.com/NethermindEth/nethermind/commit/c32aaf6ac253afc9c9fe32a95f1f0faf3644a285) - 2026-10-14
+* [Commit] [chore: add code owners for Nethermind.Specs (#14650)](https://github.com/NethermindEth/nethermind/commit/8158ba478c91c6f2775f8cd2abfd684774890dea) - 2026-10-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -178,6 +191,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8141: clarify transient storage and deploy targets in trace rules](https://github.com/ethereum/EIPs/pull/12494) - 2026-10-12
 * [Review] [Review on: Update EIP-8141: clarify transient storage and deploy targets in trace rules](https://github.com/ethereum/EIPs/pull/12494#pullrequestreview-5497875733) - 2026-10-13
 
+* [Pull Request] [Update EIP-8141: Check signer key authority](https://github.com/ethereum/EIPs/pull/12505) - 2026-10-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

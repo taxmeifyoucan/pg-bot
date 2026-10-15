@@ -48,6 +48,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4957) - 2026-10-10
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4956) - 2026-10-10
 * [Commit] [Bump nim-eth (#4957)](https://github.com/status-im/nimbus-eth1/commit/97d1f982c67fcff9b7f18b74e075179d9d5a7df1) - 2026-10-11
+* [Commit] [Use RLP consumeList API for lists allowing additional elements (#4958)](https://github.com/status-im/nimbus-eth1/commit/18aa49c6c66b6f5ce0db2c2166b64b4eddaa5731) - 2026-10-14
 ## Q3 2026
 
 

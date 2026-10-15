@@ -40,6 +40,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(spec-specs,tests): implement EIP-7906 transaction assertions](https://github.com/ethereum/execution-specs/pull/3730#pullrequestreview-5452812315) - 2026-10-08
 * [Commit] [refactor(tests): EIP-2537 BLS unhardcode gas (#3772)](https://github.com/ethereum/execution-specs/commit/0303cbc225fbd941c75728954a4f8abd14df780a) - 2026-10-12
 * [Pull Request] [refactor(tests): build EIP-8141 frame transaction from helper](https://github.com/ethereum/execution-specs/pull/3799) - 2026-10-13
+* [Pull Request] [feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823) - 2026-10-14
+* [Pull Request] [refactor(test-benchmark): keep `CALLDATALOAD` benchmark attack block stack-neutral](https://github.com/ethereum/execution-specs/pull/3771) - 2026-10-14
+* [Commit] [refactor: resolve calldataload stack limit issue (#3771)](https://github.com/ethereum/execution-specs/commit/e4bee0cb6aa6d3a0a997056bd62f668e044de91b) - 2026-10-14
 ## Q3 2026
 
 

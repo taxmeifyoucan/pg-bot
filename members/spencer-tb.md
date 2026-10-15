@@ -74,6 +74,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Fill Performance Tracker: I feel the need, the need for speed](https://github.com/ethereum/execution-specs/issues/3798) - 2026-10-13
 * [Commit] [fix(spec-specs, tests): handle the modexp base length overflow before Osaka (#3806)](https://github.com/ethereum/execution-specs/commit/a6c4bcf4d850a00ee72953f44e60ad80921095d0) - 2026-10-13
 * [Commit] [perf(test-fill, test-forks): cut per-test and collection overhead (#3785)](https://github.com/ethereum/execution-specs/commit/439d154c3d860041e717b775ea1c61185ac8f242) - 2026-10-13
+* [Review] [Review on: chore(test-client-clis): update Reth Frames error mappings](https://github.com/ethereum/execution-specs/pull/3826#pullrequestreview-5519074644) - 2026-10-14
+* [Review] [Review on: chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758#pullrequestreview-5516772370) - 2026-10-14
+* [Commit] [perf(test-types): compute allocation state roots incrementally (#3782)](https://github.com/ethereum/execution-specs/commit/f35860194c0b2321e84644d4af112633a7187d3f) - 2026-10-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

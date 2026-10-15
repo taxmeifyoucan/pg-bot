@@ -56,6 +56,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: let a code hash read of a fee-revived account pass validation (#24810)](https://github.com/erigontech/erigon/commit/8adf9ccd8763991419022f51d78685d4ff72c4fe) - 2026-10-13
 * [Commit] [execution/stagedsync: don't keep the incarnation of a removed empty account (#24806)](https://github.com/erigontech/erigon/commit/50313d2b85d25f65b6b9f032dd939e43d6097e7b) - 2026-10-13
 * [Commit] [execution/state: keep the cached account when a contract creation reverts (#24805)](https://github.com/erigontech/erigon/commit/927fdc7f4ff503248368a61d533f69f049388055) - 2026-10-13
+* [Issue] [Parallel exec: keep a same-transaction create + SELFDESTRUCT internal to the transaction](https://github.com/erigontech/erigon/issues/24906) - 2026-10-14
+* [Commit] [execution/stagedsync: credit both fees when the coinbase is the burnt-fee recipient (#24879)](https://github.com/erigontech/erigon/commit/362e903341f1bd32f4bbbc5150e716808d93393e) - 2026-10-14
+* [Commit] [execution/cache: let a closed budgeted ByteLRU be collected (#24867)](https://github.com/erigontech/erigon/commit/6132d85b1bda91f1961e60bbd93ec440e8b46cfe) - 2026-10-14
+* [Commit] [execution/state: zero the burned balance in CreateAccount's synthetic read (#24876)](https://github.com/erigontech/erigon/commit/e9fe8e7c3b95ec2c8127e9614ad650b3614ea457) - 2026-10-14
+* [Commit] [execution/state: invalidate committed field reads wiped by an in-range destruct (#24866)](https://github.com/erigontech/erigon/commit/020dfe2caf33e1ca706777d23cad2b6d5003490c) - 2026-10-14
+* [Commit] [execution/state, execution/stagedsync: read an EIP-8246-preserved coinbase as live in calcFees (#24880)](https://github.com/erigontech/erigon/commit/f572b3b2ac5dc0429cd84045cd6896ef67cd4b93) - 2026-10-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -106,6 +112,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Implement EIP-7928: "Block-Level Access Lists" (#1752)](https://github.com/ipsilon/evmone/commit/e0a1a725cae90081b9d213799a06fe1a83b6808d) - 2026-10-13
 * [Commit] [state: Warm accounts and storage slots without loading them (#1757)](https://github.com/ipsilon/evmone/commit/d5c371af821c4d00cea0c95aced748f38aa282d7) - 2026-10-13
 
+* [Pull Request] [bench: Add shift benchmarks with mainnet shift amounts](https://github.com/ipsilon/evmone/pull/1768) - 2026-10-14
+* [Pull Request] [changelog: List changes for the 0.25.0 release](https://github.com/ipsilon/evmone/pull/1766) - 2026-10-14
+* [Review] [Review on: changelog: List changes for the 0.25.0 release](https://github.com/ipsilon/evmone/pull/1766#pullrequestreview-5515906436) - 2026-10-14
+* [Pull Request] [state: Keep the block-end system calls diff on a request failure](https://github.com/ipsilon/evmone/pull/1767) - 2026-10-14
+* [Review] [Review on: t8n: Output the block access list](https://github.com/ipsilon/evmone/pull/1758#pullrequestreview-5513887835) - 2026-10-14
+* [Issue] [state: a failed block-end system call keeps its state changes in the returned diff](https://github.com/ipsilon/evmone/issues/1765) - 2026-10-14
+* [Commit] [evmone 0.25.0](https://github.com/ipsilon/evmone/commit/e675712b0ce3c908f873dcc4e8944efbaedd0d07) - 2026-10-14
+* [Commit] [changelog: List changes for the 0.25.0 release (#1766)](https://github.com/ipsilon/evmone/commit/3de543645fb71e25d669a407bff9ea3f1a946638) - 2026-10-14
+* [Commit] [t8n: Output the block access list (#1758)](https://github.com/ipsilon/evmone/commit/c084c0bcf9bb78ab27f824c689d0fcde48fccfc5) - 2026-10-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 ## Q3 2026
