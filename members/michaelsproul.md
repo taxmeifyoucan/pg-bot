@@ -57,6 +57,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Drop PayloadVerificationStatus::is_optimistic](https://github.com/sigp/lighthouse/pull/10335#pullrequestreview-5511539949) - 2026-10-14
 * [Review] [Review on: Implement `GET beacon/proposer_preferences` endpoint](https://github.com/sigp/lighthouse/pull/10268#pullrequestreview-5513440105) - 2026-10-14
 * [Issue] [Handle `latest_valid_hash` equivocations during payload invalidation](https://github.com/sigp/lighthouse/issues/10362) - 2026-10-15
+* [Review] [Review on: Fix validator is not aggregator when VC is in DVT mode involving middleware](https://github.com/sigp/lighthouse/pull/9947#pullrequestreview-5528306594) - 2026-10-15
+* [Review] [Review on: Implement `GET beacon/proposer_preferences` endpoint](https://github.com/sigp/lighthouse/pull/10268#pullrequestreview-5527675775) - 2026-10-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

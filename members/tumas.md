@@ -19,6 +19,9 @@ Team: Grandine
 * [Review] [Review on: Use response context bytes to determine the fork for RPC response size limits](https://github.com/grandinetech/grandine/pull/964#pullrequestreview-5471254666) - 2026-10-09
 * [Review] [Review on: tune max allowed empty slots](https://github.com/grandinetech/grandine/pull/946#pullrequestreview-5468335769) - 2026-10-09
 * [Review] [Review on: Update consensus-spec-tests to v1.7.0-beta.3](https://github.com/grandinetech/grandine/pull/962#pullrequestreview-5503796639) - 2026-10-13
+* [Pull Request] [Update `rustls` where possible, correct audit.toml ignores](https://github.com/grandinetech/grandine/pull/985) - 2026-10-15
+* [Review] [Review on: Update `min_epochs_for_block_requests` for Gloas](https://github.com/grandinetech/grandine/pull/984#pullrequestreview-5533531753) - 2026-10-15
+* [Commit] [Update `rustls` where possible, correct audit.toml ignores](https://github.com/grandinetech/grandine/commit/79e8215f1459a2616812bc6cf18118fe672f6c46) - 2026-10-15
 ## Q3 2026
 
 

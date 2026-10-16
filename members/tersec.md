@@ -19,6 +19,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5437282875) - 2026-10-07
 * [Review] [Review on: Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637#pullrequestreview-5424539686) - 2026-10-06
 * [Review] [Review on: use the chronos race() instead of one()](https://github.com/status-im/nimbus-eth1/pull/4936#pullrequestreview-5466578408) - 2026-10-09
+* [Pull Request] [Revert "Update nim-eth"](https://github.com/status-im/nimbus-eth1/pull/4990) - 2026-10-15
+* [Commit] [Revert "Update nim-eth to latest (#4983)" (#4990)](https://github.com/status-im/nimbus-eth1/commit/e26cedc325252972f014f20f3e8cd8267ebdf6bd) - 2026-10-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01

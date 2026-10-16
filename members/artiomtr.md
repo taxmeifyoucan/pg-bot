@@ -37,6 +37,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Cache shufflings obtained during PTC computation](https://github.com/grandinetech/grandine/commit/362e28d7a8d04ccd6d4d03340eb61d821ac644a1) - 2026-10-13
 * [Commit] [Optimize epoch processing for gloas](https://github.com/grandinetech/grandine/commit/57b197afa7e255eb467e30ebd66b62d7a5923cd3) - 2026-10-13
 * [Review] [Review on: Update consensus-spec-tests to v1.7.0-beta.4](https://github.com/grandinetech/grandine/pull/983#pullrequestreview-5515455042) - 2026-10-14
+* [Commit] [Enable nethermind integration in stable releases](https://github.com/grandinetech/grandine/commit/72441c81aeea4fe8ce2bb12208ad8dcdb8dc6cca) - 2026-10-15
+* [Commit] [Make pre-release tags published as unstable](https://github.com/grandinetech/grandine/commit/6944c417843382730f1c6a7496d97544c4ebeaeb) - 2026-10-15
 ## Q3 2026
 
 

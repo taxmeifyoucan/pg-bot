@@ -102,6 +102,29 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/das: recover the blob rows of a block in parallel](https://github.com/erigontech/erigon/pull/24861#pullrequestreview-5516227172) - 2026-10-14
 * [Pull Request] [cl/phase1/forkchoice: bound the checkpoint state cache](https://github.com/erigontech/erigon/pull/24902) - 2026-10-14
 * [Commit] [cl/phase1/forkchoice: record gloas payload status when el validation is skipped (#24878)](https://github.com/erigontech/erigon/commit/1be6e403f50b32367b28087535bfa6a0ec8124fb) - 2026-10-14
+* [Review] [Review on: cl/phase1/stages: chain-tip sync flushes the block collector with the stage context](https://github.com/erigontech/erigon/pull/24895#pullrequestreview-5528904718) - 2026-10-15
+* [Review] [Review on: cl/beacon/handler: expected_withdrawals answers 404 for a pruned block body](https://github.com/erigontech/erigon/pull/24894#pullrequestreview-5529113024) - 2026-10-15
+* [Review] [Review on: cl/beacon/handler: proposer_lookahead reads epoch data by slot](https://github.com/erigontech/erigon/pull/24891#pullrequestreview-5541487121) - 2026-10-16
+* [Pull Request] [cl/beacon/handler: accept SSZ in POST /eth/v2/validator/aggregate_and_proofs](https://github.com/erigontech/erigon/pull/24927) - 2026-10-15
+* [Pull Request] [cl/das: fetch missing custody columns seconds after the block, not minutes](https://github.com/erigontech/erigon/pull/24947) - 2026-10-15
+* [Pull Request] [cl/phase1/network/services: process attestations and aggregates whose block arrives later](https://github.com/erigontech/erigon/pull/24949) - 2026-10-15
+* [Pull Request] [cl/beacon/handler: serve next-epoch PTC duties while the head is in the previous epoch](https://github.com/erigontech/erigon/pull/24929) - 2026-10-15
+* [Pull Request] [cl/beacon: declare application/json on JSON error responses](https://github.com/erigontech/erigon/pull/24928) - 2026-10-15
+* [Pull Request] [cl/beacon/handler: collect unprepared Gloas payloads at a third of the attestation window](https://github.com/erigontech/erigon/pull/24948) - 2026-10-15
+* [Review] [Review on: cl/beacon/handler: collect unprepared Gloas payloads at a third of the attestation window](https://github.com/erigontech/erigon/pull/24948#pullrequestreview-5540369790) - 2026-10-15
+* [Review] [Review on: execution/execmodule: wait for idle in TestForkchoiceMissingSegmentReportsMissingHeader](https://github.com/erigontech/erigon/pull/24942#pullrequestreview-5538078407) - 2026-10-15
+* [Pull Request] [cl/phase1/forkchoice: remove per-step trace logs from parent payload status](https://github.com/erigontech/erigon/pull/24940) - 2026-10-15
+* [Review] [Review on: cl/p2p, cmd/utils, docs: follow-ups to the Caplin IP block limits](https://github.com/erigontech/erigon/pull/24922#pullrequestreview-5533062397) - 2026-10-15
+* [Pull Request] [cl/phase1/forkchoice: compute attesting indices from the target shuffling](https://github.com/erigontech/erigon/pull/24807) - 2026-10-15
+* [Commit] [cl/phase1/network/services: process attestations and aggregates whose block arrives later (#24949)](https://github.com/erigontech/erigon/commit/7af7e8747f8e1993298e7b5e1be27f4ce4a05980) - 2026-10-15
+* [Commit] [cl/beacon/handler: serve next-epoch PTC duties while the head is in the previous epoch (#24929)](https://github.com/erigontech/erigon/commit/8f750baefed8d5386728c45b4a86fbfbd1a6c58d) - 2026-10-15
+* [Commit] [cl/beacon: declare application/json on JSON error responses (#24928)](https://github.com/erigontech/erigon/commit/c01c5c7d951972d11ae96d7cf7152df8ff2080e1) - 2026-10-15
+* [Commit] [cl/phase1/forkchoice: remove per-step trace logs from parent payload status (#24940)](https://github.com/erigontech/erigon/commit/39cd621455a4b69c9e9f2474e2726f8e7b5b7a29) - 2026-10-15
+* [Commit] [cl/phase1/forkchoice: compute attesting indices from the target shuffling (#24807)](https://github.com/erigontech/erigon/commit/cfa9abb0749c0093ce676ded5305463b4e668ac6) - 2026-10-15
+* [Commit] [cl/phase1/forkchoice: fix the anchor checkpoint epoch for a mid-epoch block post-state (#24913)](https://github.com/erigontech/erigon/commit/f682a2e54f946e122b072f599cd7c1ab38255831) - 2026-10-15
+* [Commit] [cl/phase1/forkchoice: bound the checkpoint state cache (#24902)](https://github.com/erigontech/erigon/commit/5ba61f988ae51a7a80e668ff1549e945626b1d0a) - 2026-10-15
+* [Commit] [cl/phase1/network/services: reject aggregates whose aggregation bits have the wrong length (#24903)](https://github.com/erigontech/erigon/commit/fc07a5c089562674df763639aecedb1e7a6d3396) - 2026-10-15
+* [Commit] [cl: align consensus and fork choice with v1.7.0-beta.4 (#24831)](https://github.com/erigontech/erigon/commit/1bd2775e0e6b3eb7f29e074fabad6b9ecc133d21) - 2026-10-15
 ## Q3 2026
 
 

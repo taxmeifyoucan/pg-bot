@@ -53,10 +53,17 @@ Team: Reth
 * [Commit] [ci(bench): add a derek mempool argument (#27908)](https://github.com/paradigmxyz/reth/commit/831876fefb89f2a1effa8b13f367871455cce5c6) - 2026-10-14
 * [Commit] [perf(engine): reuse prewarm transaction results (#27894)](https://github.com/paradigmxyz/reth/commit/72e91287779896dc33a34f8905d709f578641d63) - 2026-10-14
 * [Commit] [chore(deps): bump rustls to 0.23.46 (#27916)](https://github.com/paradigmxyz/reth/commit/9fa1fe56717b29f00592b0d9366bb3d08946999c) - 2026-10-14
+* [Pull Request] [deps: bump libmdbx to latest v0.13 LTS](https://github.com/paradigmxyz/reth/pull/27942) - 2026-10-16
+* [Pull Request] [deps: bump libmdbx to v0.14.4](https://github.com/paradigmxyz/reth/pull/27936) - 2026-10-15
+* [Review] [Review on: feat(db): enable safe-no-sync in nightly images](https://github.com/paradigmxyz/reth/pull/27938#pullrequestreview-5540350901) - 2026-10-15
+* [Pull Request] [perf(db): default MDBX to safe-no-sync](https://github.com/paradigmxyz/reth/pull/27934) - 2026-10-15
+* [Review] [Review on: fix(bench): preserve BALs in historical replay](https://github.com/paradigmxyz/reth/pull/27928#pullrequestreview-5539292492) - 2026-10-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 
 * [Issue] [EIP-7702: delegated precompile address runs the precompile instead of the delegate code](https://github.com/bluealloy/revm/issues/3972) - 2026-10-13
+* [Pull Request] [perf(precompile): use GLV for arkworks bn254 mul](https://github.com/bluealloy/revm/pull/3976) - 2026-10-15
+* [Commit] [perf(precompile): use GLV for arkworks bn254 mul (#3976)](https://github.com/bluealloy/revm/commit/95463eb2b14158ad44a3f219eea11ca68ba704b6) - 2026-10-15
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [fix(runtime): reject AOT mode without a store](https://github.com/paradigmxyz/revmc/pull/424) - 2026-10-10
 * [Pull Request] [docs(runtime): fix cache size and idle evict defaults](https://github.com/paradigmxyz/revmc/pull/423) - 2026-10-10

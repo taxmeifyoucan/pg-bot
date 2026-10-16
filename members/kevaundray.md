@@ -16,6 +16,9 @@ Team: Consensus R&D (EF)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(spec): Abstract py-ecc implementation detail from EIP-2537 (#2384)](https://github.com/ethereum/execution-specs/commit/64cbead5981236d0fd6f5d172c1ac5dbfb5998f3) - 2026-10-09
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Commit] [feat(hegota): Implement 7709 (#12742)](https://github.com/NethermindEth/nethermind/commit/9288ff7546479d0e66d72f0e67dc175d8273269f) - 2026-10-15
 ## Q3 2026
 
 

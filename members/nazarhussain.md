@@ -47,6 +47,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: enable native gloas transitions](https://github.com/ChainSafe/lodestar/pull/10345#pullrequestreview-5519908752) - 2026-10-14
 * [Review] [Review on: test: raise the regression threshold for flaky benchmarks](https://github.com/ChainSafe/lodestar/pull/10378#pullrequestreview-5519797234) - 2026-10-14
 * [Review] [Review on: fix: serialize attestation slashing protection checks per validator](https://github.com/ChainSafe/lodestar/pull/10303#pullrequestreview-5519776815) - 2026-10-14
+* [Review] [Review on: test: cover Gloas builder payment cancellation and delayed withdrawals](https://github.com/ChainSafe/lodestar/pull/10351#pullrequestreview-5530486559) - 2026-10-15
+* [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5532880679) - 2026-10-15
+* [Review] [Review on: fix: allow next epoch duties requests before genesis](https://github.com/ChainSafe/lodestar/pull/10383#pullrequestreview-5530463571) - 2026-10-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

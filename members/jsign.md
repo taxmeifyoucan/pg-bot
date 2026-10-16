@@ -55,6 +55,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
 
+* [Pull Request] [Add Alexander Hicks from Formal Verification (EF)](https://github.com/protocolguild/documentation/pull/583) - 2026-10-15
+* [Pull Request] [Add Derek Sorensen from Formal Verification (EF)](https://github.com/protocolguild/documentation/pull/582) - 2026-10-15
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Review] [Review on: fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448#pullrequestreview-5474051941) - 2026-10-09
 
@@ -64,6 +66,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(engine): advertise payloads/witness in SSZ-REST capabilities](https://github.com/NethermindEth/nethermind/pull/14669) - 2026-10-14
+* [Commit] [fix(engine): return a witness when newPayloadWithWitness gets an already-known VALID payload (#14722)](https://github.com/NethermindEth/nethermind/commit/61b101b1af6df3342953517cf5de43fd6a4cbc62) - 2026-10-15
 ## Q3 2026
 
 

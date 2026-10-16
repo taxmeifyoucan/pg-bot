@@ -14,6 +14,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Yee/decentralized checkpoint http consumer](https://github.com/sigp/lighthouse/pull/10140#pullrequestreview-5377554369) - 2026-10-01
 
+* [Review] [Review on: Add full-spec LightClientEpochData types (decentralized CL sync, Phase 1b)](https://github.com/sigp/lighthouse/pull/10208#pullrequestreview-5530359790) - 2026-10-15
+* [Review] [Review on: Lc historical backfill](https://github.com/sigp/lighthouse/pull/10050#pullrequestreview-5529970360) - 2026-10-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Store full finalized_checkpoint in CachedLightClientData](https://github.com/status-im/nimbus-eth2/pull/9161) - 2026-10-01
 * [Review] [Review on: Preserve negative peer score across reconnections](https://github.com/status-im/nimbus-eth2/pull/8446#pullrequestreview-5379557227) - 2026-10-01
@@ -35,6 +37,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Handle restart when first slot of finalized epoch was missed](https://github.com/status-im/nimbus-eth2/pull/9276#pullrequestreview-5496931363) - 2026-10-12
 * [Pull Request] [Add Dockerfile for OSS Scanner](https://github.com/status-im/nimbus-eth2/pull/9268) - 2026-10-12
 * [Pull Request] [Implement gossip rule to ignore multiple blocks from same proposer@slot](https://github.com/status-im/nimbus-eth2/pull/9280) - 2026-10-13
+* [Pull Request] [Avoid deprecated 'callsite'](https://github.com/status-im/nimbus-eth2/pull/9294) - 2026-10-15
+* [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth2/pull/9293) - 2026-10-15
+* [Pull Request] [Implement proposer lookahead check in ExecutionPayloadBid gossip](https://github.com/status-im/nimbus-eth2/pull/9286) - 2026-10-15
+* [Pull Request] [Use correct fork for sending ProposerPreferences at transition](https://github.com/status-im/nimbus-eth2/pull/9289) - 2026-10-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -49,6 +55,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4956) - 2026-10-10
 * [Commit] [Bump nim-eth (#4957)](https://github.com/status-im/nimbus-eth1/commit/97d1f982c67fcff9b7f18b74e075179d9d5a7df1) - 2026-10-11
 * [Commit] [Use RLP consumeList API for lists allowing additional elements (#4958)](https://github.com/status-im/nimbus-eth1/commit/18aa49c6c66b6f5ce0db2c2166b64b4eddaa5731) - 2026-10-14
+* [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4999) - 2026-10-15
+* [Commit] [Bump nim-eth (#4999)](https://github.com/status-im/nimbus-eth1/commit/9a36e8bea4a4980302cacce68b404882dd120064) - 2026-10-15
 ## Q3 2026
 
 

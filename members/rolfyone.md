@@ -80,6 +80,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11488#pullrequestreview-5515227128) - 2026-10-14
 * [Review] [Review on: Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11491#pullrequestreview-5523712468) - 2026-10-14
 * [Issue] [Consider reusing an in-progress block production pin before Heze](https://github.com/Consensys-Incorporated/teku/issues/11493) - 2026-10-14
+* [Pull Request] [Bound memory held by gossip blocks waiting for validation](https://github.com/Consensys-Incorporated/teku/pull/11503) - 2026-10-15
+* [Review] [Review on: Update CHANGELOG.md after 26.10.1 release](https://github.com/Consensys-Incorporated/teku/pull/11502#pullrequestreview-5540655853) - 2026-10-15
+* [Pull Request] [Set Gloas attestation index from fork choice payload status](https://github.com/Consensys-Incorporated/teku/pull/11498) - 2026-10-15
+* [Issue] [prepare for merging heze branch to master](https://github.com/Consensys-Incorporated/teku/issues/11504) - 2026-10-16
+* [Issue] [Follow-up peer scoring improvements in multipeer range sync](https://github.com/Consensys-Incorporated/teku/issues/11499) - 2026-10-15
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

@@ -57,6 +57,14 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(spec-specs, tests): reject legacy chain ids over 64 bits](https://github.com/ethereum/execution-specs/pull/3828) - 2026-10-14
 * [Pull Request] [feat(tests): check gas allowance against canonical order](https://github.com/ethereum/execution-specs/pull/3827) - 2026-10-14
 * [Commit] [fix(spec-specs, tests): reject legacy chain ids over 64 bits (#3828)](https://github.com/ethereum/execution-specs/commit/067505d633f708809f03dda92034592395dd715e) - 2026-10-14
+* [Pull Request] [feat(tests): pin withdrawals before request system calls](https://github.com/ethereum/execution-specs/pull/3835) - 2026-10-15
+* [Review] [Review on: feat(tests): pin withdrawals before request system calls](https://github.com/ethereum/execution-specs/pull/3835#pullrequestreview-5540337967) - 2026-10-15
+* [Review] [Review on: feat(test-specs): Test function receives fork's genesis pre-alloc](https://github.com/ethereum/execution-specs/pull/3830#pullrequestreview-5537860774) - 2026-10-15
+* [Pull Request] [chore(skill): correct stale facts in the repo skills](https://github.com/ethereum/execution-specs/pull/3838) - 2026-10-15
+* [Pull Request] [fix(tests): align intrinsic gas cases with the threshold that binds](https://github.com/ethereum/execution-specs/pull/3837) - 2026-10-15
+* [Review] [Review on: chore(test-client-clis): map Reth gas limit errors in heze devnet](https://github.com/ethereum/execution-specs/pull/3833#pullrequestreview-5533920820) - 2026-10-15
+* [Commit] [feat(tests): check gas allowance against canonical order (#3827)](https://github.com/ethereum/execution-specs/commit/f5f512f6b9f2adf4f56a36fee4299a9488c52410) - 2026-10-15
+* [Commit] [feat(tests): pin withdrawals before request system calls (#3835)](https://github.com/ethereum/execution-specs/commit/8505829bace053684d174f23dfe16aa44bd1ac5a) - 2026-10-15
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

@@ -310,6 +310,13 @@ Team: Erigon
 * [Commit] [cmd/evm: t8n rejects an unsupported transaction type instead of panicking (#24887)](https://github.com/erigontech/erigon/commit/7de60a2e2c0b9c2b0dcb3ddf7c14d173f52588ce) - 2026-10-14
 * [Commit] [cmd/integration: read_domains reports an absent account instead of panicking (#24889)](https://github.com/erigontech/erigon/commit/4e4352b928cf7e8bdfb834c4e44965a35706345f) - 2026-10-14
 * [Commit] [tests: enable testifylint error-is-as and go-require (#24883)](https://github.com/erigontech/erigon/commit/004dc74de864b925340e18d73caeae1289a1a97c) - 2026-10-14
+* [Review] [Review on: execution: benchmarks run on the versioned noMaterialize state, as eth_call does](https://github.com/erigontech/erigon/pull/24915#pullrequestreview-5542420894) - 2026-10-16
+* [Review] [Review on: cl/phase1/stages: chain-tip sync flushes the block collector with the stage context](https://github.com/erigontech/erigon/pull/24895#pullrequestreview-5529280324) - 2026-10-15
+* [Review] [Review on: cl/beacon/handler: expected_withdrawals answers 404 for a pruned block body](https://github.com/erigontech/erigon/pull/24894#pullrequestreview-5529307275) - 2026-10-15
+* [Review] [Review on: cmd/rpctest: report lost writes of the record and error files](https://github.com/erigontech/erigon/pull/24890#pullrequestreview-5542348631) - 2026-10-16
+* [Review] [Review on: go.mod: otter main, with the in-place replacement of a live key](https://github.com/erigontech/erigon/pull/24914#pullrequestreview-5529257947) - 2026-10-15
+* [Commit] [exec: AddressPath write values live on the write set's arena (#24863)](https://github.com/erigontech/erigon/commit/32faf9abd7a7e8e560895096168dda5a94e7b1bd) - 2026-10-15
+* [Commit] [lint: report every issue so warm runs stop keeping a random subset (#24882)](https://github.com/erigontech/erigon/commit/8125b73d222cc91406e673ad2025c51c4fe60850) - 2026-10-15
 ## Q3 2026
 
 

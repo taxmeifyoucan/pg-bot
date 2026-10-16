@@ -21,6 +21,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: eth/protocols/eth: add size checks for receipts](https://github.com/ethereum/go-ethereum/pull/35904#pullrequestreview-5455581712) - 2026-10-08
 * [Commit] [cmd/devp2p: make readAnyFrom to store unused packet (#35902)](https://github.com/ethereum/go-ethereum/commit/6ee3baf4dc22b02ea7cd233450284ed05617d61b) - 2026-10-12
 * [Commit] [cmd/devp2p: explicitly corrupt the cells for `TestBlobTxWithInvalidCells` (#35901)](https://github.com/ethereum/go-ethereum/commit/2ab037050c587bae00cbd5f91f13aaa44b5debae) - 2026-10-12
+* [Pull Request] [p2p, eth: add support for browser connection in quic](https://github.com/ethereum/go-ethereum/pull/35950) - 2026-10-15
 ## Q3 2026
 
 

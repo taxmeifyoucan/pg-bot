@@ -37,6 +37,7 @@ Team: Geth
 * [Pull Request] [core, core/state, core/vm: read frame logs through vm.StateDB](https://github.com/ethereum/go-ethereum/pull/35887) - 2026-10-06
 * [Pull Request] [core/txpool: reject frame transactions carrying blob hashes](https://github.com/ethereum/go-ethereum/pull/35886) - 2026-10-06
 * [Review] [Review on: core, core/txpool, eth: add a dedicated frame transaction pool](https://github.com/ethereum/go-ethereum/pull/35891#pullrequestreview-5472035758) - 2026-10-09
+* [Review] [Review on: eth/filters: resolve earliest toBlock when creating log filters](https://github.com/ethereum/go-ethereum/pull/35933#pullrequestreview-5540825559) - 2026-10-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05

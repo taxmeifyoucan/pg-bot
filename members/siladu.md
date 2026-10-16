@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: ci: only write the Docker BuildKit cache on refs/heads/main](https://github.com/besu-eth/besu/pull/11569#pullrequestreview-5497494773) - 2026-10-13
 * [Review] [Review on: Import committed QBFT blocks without executing them again](https://github.com/besu-eth/besu/pull/11469#pullrequestreview-5487092497) - 2026-10-12
 * [Review] [Review on: Schedule Amsterdam on Hoodi](https://github.com/besu-eth/besu/pull/11531#pullrequestreview-5487012980) - 2026-10-12
+* [Review] [Review on: codeowners for github dir](https://github.com/besu-eth/besu/pull/11612#pullrequestreview-5541788751) - 2026-10-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557) - 2026-10-04
 ## Q3 2026

@@ -173,6 +173,23 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix(rpc): serve code written by SETCODEFROM and EIP-7702 through code overrides (#13967)](https://github.com/NethermindEth/nethermind/commit/f59ec7e22aab6e2227e73fb63d03eaffe0d4e1b5) - 2026-10-14
 * [Commit] [feat: EIP-5920 PAY opcode (#13930)](https://github.com/NethermindEth/nethermind/commit/c32aaf6ac253afc9c9fe32a95f1f0faf3644a285) - 2026-10-14
 * [Commit] [chore: add code owners for Nethermind.Specs (#14650)](https://github.com/NethermindEth/nethermind/commit/8158ba478c91c6f2775f8cd2abfd684774890dea) - 2026-10-14
+* [Pull Request] [fix(merge): carry a missing empty block as null and wait for the improvement](https://github.com/NethermindEth/nethermind/pull/14726) - 2026-10-15
+* [Review] [Review on: fix(crypto): compare legacy v against the chain id without overflow](https://github.com/NethermindEth/nethermind/pull/14649#pullrequestreview-5534957773) - 2026-10-15
+* [Review] [Review on: perf(prewarmer): reuse a worker's scope across the jobs of a block](https://github.com/NethermindEth/nethermind/pull/14677#pullrequestreview-5531313077) - 2026-10-15
+* [Review] [Review on: perf(zkevm): encode receipts for the receipts root in one pass](https://github.com/NethermindEth/nethermind/pull/14695#pullrequestreview-5534451444) - 2026-10-15
+* [Review] [Review on: perf(txpool): track per-sender worst values in an indexed heap](https://github.com/NethermindEth/nethermind/pull/14700#pullrequestreview-5534450800) - 2026-10-15
+* [Review] [Review on: perf(network)!: remove per-peer allocations from tx announcements and broadcast](https://github.com/NethermindEth/nethermind/pull/14698#pullrequestreview-5534452572) - 2026-10-15
+* [Review] [Review on: perf(txpool): skip decoding gossiped transactions the pool already knows](https://github.com/NethermindEth/nethermind/pull/14682#pullrequestreview-5534531415) - 2026-10-15
+* [Pull Request] [fix(state): keep the original exception when a BAL storage batch fails](https://github.com/NethermindEth/nethermind/pull/14704) - 2026-10-15
+* [Review] [Review on: fix(state): keep the original exception when a BAL storage batch fails](https://github.com/NethermindEth/nethermind/pull/14704#pullrequestreview-5541258786) - 2026-10-15
+* [Commit] [fix(merge): keep the payload getPayload handed out when a late build finishes (#14661)](https://github.com/NethermindEth/nethermind/commit/8254da5d19a4ad6c5644e16078a0dcfea99311a1) - 2026-10-15
+* [Commit] [fix(bal): enforce the block access list item limit on every processing path (#14646)](https://github.com/NethermindEth/nethermind/commit/dcae3998b8bb16612514b1c4416186cbd08566d6) - 2026-10-15
+* [Commit] [fix(sync): skip peers that answered empty when fetching BALs for healing (#14657)](https://github.com/NethermindEth/nethermind/commit/7b708ea6bd7e309502ac720f942f810531176dfc) - 2026-10-15
+* [Commit] [test(core): wait for each McsLock waiter to queue instead of sleeping (#14680)](https://github.com/NethermindEth/nethermind/commit/cf9244a95bcee4db00c8dc10a8c375e71ea826c3) - 2026-10-15
+* [Commit] [perf(state): apply independent BAL storage batches in parallel (#14667)](https://github.com/NethermindEth/nethermind/commit/44d0bcdf74e9d9c4c334c766d7fd60151c04cb48) - 2026-10-15
+* [Commit] [fix(sync): recover catch-up receipt senders and rank receipt/BAL requests by their own speed (#14662)](https://github.com/NethermindEth/nethermind/commit/a429a7c32436afea9d0914104149cc59cbca7264) - 2026-10-15
+* [Commit] [fix(producer): don't let discarded transactions shift receipt indexes (#14614)](https://github.com/NethermindEth/nethermind/commit/3ec801de3ea03d231974699ef26b9651253fd69b) - 2026-10-15
+* [Commit] [ci: run parallel BAL variants on Amsterdam transition fixtures (#14612)](https://github.com/NethermindEth/nethermind/commit/950f841df53482d28e45e5dbf39ee278be27f39b) - 2026-10-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -192,6 +209,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Update EIP-8141: clarify transient storage and deploy targets in trace rules](https://github.com/ethereum/EIPs/pull/12494#pullrequestreview-5497875733) - 2026-10-13
 
 * [Pull Request] [Update EIP-8141: Check signer key authority](https://github.com/ethereum/EIPs/pull/12505) - 2026-10-14
+* [Pull Request] [Update EIP-8288: move benchmark protocols to an asset](https://github.com/ethereum/EIPs/pull/12524) - 2026-10-15
+* [Pull Request] [Update EIP-8288: reserve the zero data_hash for the signature hash](https://github.com/ethereum/EIPs/pull/12518) - 2026-10-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

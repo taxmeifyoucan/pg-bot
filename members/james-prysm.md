@@ -54,6 +54,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fix flakey tests (#17682)](https://github.com/OffchainLabs/prysm/commit/d230aa4d5f0f920544215bd4ad29dec9778a21f7) - 2026-10-13
 * [Review] [Review on: Limit Gloas payload envelope validation work](https://github.com/OffchainLabs/prysm/pull/17612#pullrequestreview-5523584244) - 2026-10-14
 * [Commit] [remove tracing from e2e (#17683)](https://github.com/OffchainLabs/prysm/commit/7e71942a7cb9d3324d45fe08d8c5960ea08a673c) - 2026-10-14
+* [Review] [Review on: Remove non-standard `validator_count` beacon API, leave it as Prysm-specific](https://github.com/OffchainLabs/prysm/pull/16525#pullrequestreview-5536229144) - 2026-10-15
+* [Review] [Review on: Decrement Gloas shared field reference count (No functional change)](https://github.com/OffchainLabs/prysm/pull/17710#pullrequestreview-5539280528) - 2026-10-15
+* [Review] [Review on: Web3signer: Keep status-specific errors when the request dump fails](https://github.com/OffchainLabs/prysm/pull/17708#pullrequestreview-5538690853) - 2026-10-15
+* [Review] [Review on: Spectests: Add missing light client tests](https://github.com/OffchainLabs/prysm/pull/17645#pullrequestreview-5539239645) - 2026-10-15
+* [Review] [Review on: Spectests: Add Gloas networking custody](https://github.com/OffchainLabs/prysm/pull/17639#pullrequestreview-5538708501) - 2026-10-15
+* [Pull Request] [HeadState to HeadStateReadonly](https://github.com/OffchainLabs/prysm/pull/17716) - 2026-10-15
+* [Pull Request] [check beacon blocks by range max](https://github.com/OffchainLabs/prysm/pull/17717) - 2026-10-15
+* [Review] [Review on: Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714#pullrequestreview-5536772247) - 2026-10-15
+* [Pull Request] [deposit limit check](https://github.com/OffchainLabs/prysm/pull/17715) - 2026-10-15
+* [Review] [Review on: Some more optimisations for the partial columns flow](https://github.com/OffchainLabs/prysm/pull/17709#pullrequestreview-5534437551) - 2026-10-15
+* [Commit] [HeadState to HeadStateReadonly (#17716)](https://github.com/OffchainLabs/prysm/commit/92d7413ec24d17219899b11db8ebf8dfedbca6b4) - 2026-10-15
+* [Commit] [deposit limit check (#17715)](https://github.com/OffchainLabs/prysm/commit/e204f972f81b2b7f31fa7685fdb2eb5d75437932) - 2026-10-15
 ## Q3 2026
 
 

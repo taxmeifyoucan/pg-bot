@@ -43,6 +43,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823) - 2026-10-14
 * [Pull Request] [refactor(test-benchmark): keep `CALLDATALOAD` benchmark attack block stack-neutral](https://github.com/ethereum/execution-specs/pull/3771) - 2026-10-14
 * [Commit] [refactor: resolve calldataload stack limit issue (#3771)](https://github.com/ethereum/execution-specs/commit/e4bee0cb6aa6d3a0a997056bd62f668e044de91b) - 2026-10-14
+* [Review] [Review on: chore(test-client-clis): map Reth gas limit errors in heze devnet](https://github.com/ethereum/execution-specs/pull/3833#pullrequestreview-5533878808) - 2026-10-15
 ## Q3 2026
 
 

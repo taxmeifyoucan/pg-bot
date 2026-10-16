@@ -53,6 +53,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733#pullrequestreview-5491464168) - 2026-10-12
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5732#pullrequestreview-5488258273) - 2026-10-12
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5502028830) - 2026-10-13
+* [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5531610118) - 2026-10-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

@@ -11,6 +11,8 @@ Github: [@misilva73](https://github.com/misilva73)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/pull/12401#pullrequestreview-5389384659) - 2026-10-02
+* [Pull Request] [Update EIP-8038: Expand gas estimation methodology and add supporting reports](https://github.com/ethereum/EIPs/pull/12517) - 2026-10-15
+* [Commit] [Update EIP-8038: Expand gas estimation methodology and add supporting reports](https://github.com/ethereum/EIPs/commit/8b1cae50601fb194452db0ed857f4c237ca62c1f) - 2026-10-15
 ## Q3 2026
 
 

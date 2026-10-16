@@ -43,6 +43,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #556 from 0xMushow/patch-2](https://github.com/protocolguild/documentation/commit/feefe3cd5717bed42075f59344ff32a311736455) - 2026-10-13
 * [Commit] [Merge pull request #554 from kasey/rm-kk](https://github.com/protocolguild/documentation/commit/f94cc7254f5613e5193dc6bb184a2158ab231e14) - 2026-10-13
 * [Commit] [Merge pull request #553 from morph-dev/remove_milos](https://github.com/protocolguild/documentation/commit/fc788f838f361830542aa9b6e10e7ccb71e76a35) - 2026-10-13
+* [Commit] [Merge pull request #581 from pgbot0101/fix-alumni-order](https://github.com/protocolguild/documentation/commit/54a4f231f23c6ebdead4baf3b06a29a5932cac25) - 2026-10-15
+* [Commit] [Merge pull request #580 from felix314159/remove-member-felix](https://github.com/protocolguild/documentation/commit/e05a3dbb3ff9c035845d3bf2183b30b7a1a189b7) - 2026-10-15
+* [Commit] [Merge pull request #572 from yperbasis/docs/add-oleksandr-lystopad](https://github.com/protocolguild/documentation/commit/216b98c295fec369e85b8624e4b9906921f807e4) - 2026-10-15
+* [Commit] [Merge pull request #575 from lightclient/add-kamilsa](https://github.com/protocolguild/documentation/commit/e51983244f354d45edd6c4609beeecb3b4c51bf7) - 2026-10-15
+* [Commit] [Merge pull request #573 from jsign/propose-fv-team](https://github.com/protocolguild/documentation/commit/5b5173c179aee4da0e1c8599dc28e922ea5707e5) - 2026-10-15
 ## Q3 2026
 
 

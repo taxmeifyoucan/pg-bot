@@ -21,6 +21,8 @@ Team: Nimbus
 * [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4925) - 2026-10-07
 * [Commit] [Snap2 sync maint update (#4925)](https://github.com/status-im/nimbus-eth1/commit/29c0cab3d7da1f486ec8c37a6eda3feafbab280b) - 2026-10-07
 * [Pull Request] [Snap2 asyncify some directives](https://github.com/status-im/nimbus-eth1/pull/4985) - 2026-10-14
+* [Pull Request] [Snap2 asyncify some directives v2](https://github.com/status-im/nimbus-eth1/pull/4994) - 2026-10-15
+* [Commit] [Snap2 asyncify some directives v2 (#4994)](https://github.com/status-im/nimbus-eth1/commit/f974948338cc9ee1b91899f69e9926546e0d02f0) - 2026-10-15
 ## Q3 2026
 
 

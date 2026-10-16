@@ -37,6 +37,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [refactor(rpc): re-execute debug_executionWitness blocks through the block processor (#11598)](https://github.com/besu-eth/besu/commit/8d26e2b45af39d227dee6808d14f587c2d7ba1e0) - 2026-10-15
 * [Commit] [feat(core): support an explicit block tracer in block processing (#10862)](https://github.com/besu-eth/besu/commit/54fda830f2f5f33070edd9304d70687e9a498912) - 2026-10-14
 * [Commit] [refactor: rerun failed parallel blocks on the same processor (#11571)](https://github.com/besu-eth/besu/commit/90a11434b5bdb2eac701f464e94edbe584c0e989) - 2026-10-14
+* [Pull Request] [feat(rpc): support debug_executionWitness for pre-Amsterdam blocks](https://github.com/besu-eth/besu/pull/11605) - 2026-10-15
+* [Review] [Review on: feat(rpc): support debug_executionWitness for pre-Amsterdam blocks](https://github.com/besu-eth/besu/pull/11605#pullrequestreview-5541629604) - 2026-10-16
+* [Pull Request] [fix(core): record 7702 authorities without state gas](https://github.com/besu-eth/besu/pull/11606) - 2026-10-15
+* [Commit] [feat(core): let a block execution supply its block access list factory, (#11600)](https://github.com/besu-eth/besu/commit/e3021c6228d8647bdd627944d5f4df3b5701e1be) - 2026-10-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08

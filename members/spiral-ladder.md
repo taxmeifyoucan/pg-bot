@@ -41,6 +41,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: eip-8025](https://github.com/ChainSafe/lodestar/pull/10384) - 2026-10-14
 * [Review] [Review on: fix: record source state clone count](https://github.com/ChainSafe/lodestar/pull/10348#pullrequestreview-5517774649) - 2026-10-14
 * [Commit] [feat(types): add EIP-8025 execution proof SSZ types (#10391)](https://github.com/ChainSafe/lodestar/commit/fd649df9859e8e25f03223626325fa97a76a6e59) - 2026-10-14
+* [Review] [Review on: chore: keep current slot duration in heze](https://github.com/ChainSafe/lodestar/pull/10398#pullrequestreview-5532036988) - 2026-10-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

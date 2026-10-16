@@ -53,6 +53,12 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Check the flat database ranges of the snap sync heal in parallel](https://github.com/besu-eth/besu/pull/11495#pullrequestreview-5517368523) - 2026-10-14
 * [Review] [Review on: perf: fix quadratic slowdown in LayeredKeyValueStorage reads on deep layer chains](https://github.com/besu-eth/besu/pull/11587#pullrequestreview-5516079189) - 2026-10-14
 * [Review] [Review on: refactor: rerun failed parallel blocks on the same processor](https://github.com/besu-eth/besu/pull/11571#pullrequestreview-5516066555) - 2026-10-14
+* [Review] [Review on: feat(rpc): support debug_executionWitness for pre-Amsterdam blocks](https://github.com/besu-eth/besu/pull/11605#pullrequestreview-5529743874) - 2026-10-15
+* [Pull Request] [Store the Bonsai world state keys per trie branch](https://github.com/besu-eth/besu/pull/11603) - 2026-10-15
+* [Review] [Review on: Store the Bonsai world state keys per trie branch](https://github.com/besu-eth/besu/pull/11603#pullrequestreview-5535101173) - 2026-10-15
+* [Review] [Review on: Read the root and block hash of a cached block once, not per world state](https://github.com/besu-eth/besu/pull/11510#pullrequestreview-5528550074) - 2026-10-15
+* [Pull Request] [Hold the Bonsai account storage root in a storage root strategy](https://github.com/besu-eth/besu/pull/11607) - 2026-10-15
+* [Commit] [Store the Bonsai world state keys per trie branch (#11603)](https://github.com/besu-eth/besu/commit/af374597f84084eb1944ab0494239ca60e2d8ad7) - 2026-10-15
 ## Q3 2026
 
 

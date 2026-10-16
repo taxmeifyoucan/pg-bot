@@ -181,6 +181,14 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(flat): fail fast with no-state when the persisted pointer outlives the snap-sync wipe (#14635)](https://github.com/NethermindEth/nethermind/commit/b7f295c9886f2ec4f212359e085716ce97a9f90c) - 2026-10-14
 * [Commit] [fix(init): verify the receipts root before storing receipts downloaded by the receipt fix (#14531)](https://github.com/NethermindEth/nethermind/commit/663a0ec17a5d69470e9cc7996acccfd16ba41ef1) - 2026-10-14
 * [Commit] [fix(simulate): skip the stale canonical marker walk when resetting the overlay head (#14636)](https://github.com/NethermindEth/nethermind/commit/662db7d7761de91f640bd807b8fbca7b09c6b857) - 2026-10-14
+* [Review] [Review on: fix(archive-proofs): record the child views of a composed node captured at the tip](https://github.com/NethermindEth/nethermind/pull/14745#pullrequestreview-5541595674) - 2026-10-16
+* [Review] [Review on: fix(archive-proofs): take a composed node's empty children from their rows](https://github.com/NethermindEth/nethermind/pull/14741#pullrequestreview-5541141872) - 2026-10-15
+* [Commit] [ci: run PR validation jobs in parallel and reduce repeated setup (#14475)](https://github.com/NethermindEth/nethermind/commit/fcf195a966640ca730dcf7b5d5016cfc5a186a48) - 2026-10-15
+* [Commit] [ci(hive): tolerate the eth_simulateV1 logIndex fixture until execution-apis#881 lands (#14688)](https://github.com/NethermindEth/nethermind/commit/b204da465c94e4340a7a5a6cf5c0f051217bcec7) - 2026-10-15
+* [Commit] [feat(rpc): accept optional file argument in debug_getBadBlocks (#14343)](https://github.com/NethermindEth/nethermind/commit/ec711f034dc5b162c6319ad8403bd779abf405cd) - 2026-10-15
+* [Commit] [feat(jsonrpc): include caller address in debug request logs (#14316)](https://github.com/NethermindEth/nethermind/commit/6b0c63f80f1c4ca3f53494bef2b5cfa3ce5a6cc1) - 2026-10-15
+* [Commit] [fix(test-runner): keep traced nethtest stderr JSON-only and dispose state-test containers asynchronously (#14638)](https://github.com/NethermindEth/nethermind/commit/15715773db8e73eaa8a306761ee33446735436b1) - 2026-10-15
+* [Commit] [fix(simulate): treat children of post-merge blocks as post-merge (#14665)](https://github.com/NethermindEth/nethermind/commit/8091c588b1616c9f6af60eaf6d5fed01ef3edd53) - 2026-10-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

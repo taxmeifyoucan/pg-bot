@@ -77,6 +77,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(test-client-clis): update Reth Frames error mappings](https://github.com/ethereum/execution-specs/pull/3826#pullrequestreview-5519074644) - 2026-10-14
 * [Review] [Review on: chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758#pullrequestreview-5516772370) - 2026-10-14
 * [Commit] [perf(test-types): compute allocation state roots incrementally (#3782)](https://github.com/ethereum/execution-specs/commit/f35860194c0b2321e84644d4af112633a7187d3f) - 2026-10-14
+* [Commit] [perf(test-fill, test-evm-tools): count opcodes only for benchmark tests (#3790)](https://github.com/ethereum/execution-specs/commit/14d6b15c63624b97e8de5762751749124b4f5528) - 2026-10-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

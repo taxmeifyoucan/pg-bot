@@ -59,6 +59,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(deps): update .NET packages (#14628)](https://github.com/NethermindEth/nethermind/commit/265dae8c2a8979a3216ef2263b9aa81c0821ae1d) - 2026-10-13
 * [Commit] [chore(deps): update RocksDB package (#14617)](https://github.com/NethermindEth/nethermind/commit/5054ed11ed28351f1418fd112169e5480c3178e5) - 2026-10-13
 * [Review] [Review on: fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640#pullrequestreview-5524706278) - 2026-10-14
+* [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions (#14734)](https://github.com/NethermindEth/nethermind/commit/6ee97c79106ed7e6177809c93d96b318585c3ac2) - 2026-10-15
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

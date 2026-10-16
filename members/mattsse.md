@@ -222,6 +222,10 @@ Team: Reth
 * [Commit] [fix(tasks): clear busy state before waking (#27906)](https://github.com/paradigmxyz/reth/commit/753db1e1a9d1e6a9ca23c14e700a358dbafbe9c5) - 2026-10-14
 * [Commit] [test: wait for proof and node teardown (#27907)](https://github.com/paradigmxyz/reth/commit/87770991c1cbe0561549c42046bd1dfeb9cf7c95) - 2026-10-14
 * [Commit] [fix(rpc): interrupt JS tracers on timeout and drop (#27903)](https://github.com/paradigmxyz/reth/commit/57825d41dce8b1b9af1410258066757b80e5fc18) - 2026-10-14
+* [Review] [Review on: refactor(trie): restructure proof task workers and modules](https://github.com/paradigmxyz/reth/pull/27929#pullrequestreview-5538908959) - 2026-10-15
+* [Review] [Review on: refactor(trie): simplify proof worker flow](https://github.com/paradigmxyz/reth/pull/27927#pullrequestreview-5538914451) - 2026-10-15
+* [Review] [Review on: docs: fix dead links in database design doc](https://github.com/paradigmxyz/reth/pull/27831#pullrequestreview-5528507286) - 2026-10-15
+* [Review] [Review on: fix(net): install RLPx subprotocols after the eth Status handshake](https://github.com/paradigmxyz/reth/pull/27898#pullrequestreview-5527996043) - 2026-10-15
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

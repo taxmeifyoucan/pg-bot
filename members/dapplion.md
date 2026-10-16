@@ -36,6 +36,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Add proposer re-org tests for non-default spec thresholds](https://github.com/sigp/lighthouse/pull/10281#pullrequestreview-5514383601) - 2026-10-14
 * [Pull Request] [Don't ban peers whose finalized root is in failed_chains](https://github.com/sigp/lighthouse/pull/10346) - 2026-10-14
 * [Pull Request] [Add API getStateLeaves](https://github.com/sigp/lighthouse/pull/10347) - 2026-10-14
+* [Pull Request] [Route the range sync catch-all through the shared block error classifier](https://github.com/sigp/lighthouse/pull/10367) - 2026-10-15
+* [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5529512360) - 2026-10-15
+* [Pull Request] [Set the proposer boost only after the block is added to fork choice](https://github.com/sigp/lighthouse/pull/10366) - 2026-10-15
+* [Issue] [Builder diversity tiebreak: on near-equal bids, prefer the lower-share builder](https://github.com/sigp/lighthouse/issues/10369) - 2026-10-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 

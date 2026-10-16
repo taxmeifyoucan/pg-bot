@@ -99,6 +99,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Make deep chain reorgs linear, bounded in memory and committed in chunks](https://github.com/besu-eth/besu/pull/11586) - 2026-10-14
 * [Issue] [Backward sync started by newPayload moves the canonical head onto a side branch](https://github.com/besu-eth/besu/issues/11597) - 2026-10-14
 * [Commit] [Add DUP1-16 and SWAP1-16 to EVM v2 (#11482)](https://github.com/besu-eth/besu/commit/47b084ca9dca56cb7b1740a2c0f26797935be69d) - 2026-10-14
+* [Review] [Review on: Store the Bonsai world state keys per trie branch](https://github.com/besu-eth/besu/pull/11603#pullrequestreview-5534379330) - 2026-10-15
+* [Pull Request] [Bound the in-memory Bonsai layers of blocks imported without a fork choice](https://github.com/besu-eth/besu/pull/11601) - 2026-10-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

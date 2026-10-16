@@ -56,6 +56,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(simulate): treat children of post-merge blocks as post-merge](https://github.com/NethermindEth/nethermind/pull/14665#pullrequestreview-5525854426) - 2026-10-14
 * [Review] [Review on: fix(test-runner): keep traced nethtest stderr JSON-only and dispose state-test containers asynchronously](https://github.com/NethermindEth/nethermind/pull/14638#pullrequestreview-5525801677) - 2026-10-14
 * [Review] [Review on: fix(core): create the generated jwt secret and node key readable by the owner only](https://github.com/NethermindEth/nethermind/pull/14552#pullrequestreview-5525800232) - 2026-10-14
+* [Commit] [Mark the prewarm handoff's transaction processor through its registration (#14331)](https://github.com/NethermindEth/nethermind/commit/139e60357d1c8d2c5e299dfcdbbd4899e4716774) - 2026-10-15
+* [Commit] [perf(blockchain): write a suggested block's header off the engine API path (#14466)](https://github.com/NethermindEth/nethermind/commit/b9b63b0e292bd748802a34deb58e5a7497544da5) - 2026-10-15
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026
 
 

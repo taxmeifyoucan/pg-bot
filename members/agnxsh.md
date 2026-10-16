@@ -14,6 +14,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [partial column peering mechanics](https://github.com/status-im/nimbus-eth2/pull/9230) - 2026-10-07
 * [Pull Request] [bump nim-web3 to `6f045f54466248d2ab216e2f88d905044956c90d`](https://github.com/status-im/nimbus-eth2/pull/9229) - 2026-10-07
 * [Review] [Review on: Adopt compute_max_data_column_sidecar_size](https://github.com/status-im/nimbus-eth2/pull/9237#pullrequestreview-5454662629) - 2026-10-08
+* [Pull Request] [add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285) - 2026-10-15
 ## Q3 2026
 
 

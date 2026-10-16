@@ -22,6 +22,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix(rpc): read chain ID before moving the EVM env in eth_createAccessList](https://github.com/paradigmxyz/reth/pull/27889) - 2026-10-13
 * [Review] [Review on: refactor: remove redundant trait bounds](https://github.com/paradigmxyz/reth/pull/27875#pullrequestreview-5499197506) - 2026-10-13
 * [Pull Request] [fix(rpc): exclude EIP-7702 authorities from generated access lists](https://github.com/paradigmxyz/reth/pull/27877) - 2026-10-13
+* [Pull Request] [fix(rpc): remove existing accounts emptied by state overrides](https://github.com/paradigmxyz/reth/pull/27932) - 2026-10-15
 ## Q3 2026
 
 

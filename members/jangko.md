@@ -40,6 +40,15 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: rpc: return the created code from a contract creation call](https://github.com/status-im/nimbus-eth1/pull/4950#pullrequestreview-5486782376) - 2026-10-12
 * [Review] [Review on: rpc: return the created code from a contract creation call](https://github.com/status-im/nimbus-eth1/pull/4950#pullrequestreview-5526612012) - 2026-10-15
 * [Pull Request] [Reimplement EIP-2929 access list](https://github.com/status-im/nimbus-eth1/pull/4977) - 2026-10-14
+* [Review] [Review on: proxy: hash the Amsterdam header fields in convHeader](https://github.com/status-im/nimbus-eth1/pull/4984#pullrequestreview-5527705766) - 2026-10-15
+* [Pull Request] [Remove duplicate libplum configuration from .gitmodules](https://github.com/status-im/nimbus-eth1/pull/4997) - 2026-10-15
+* [Pull Request] [Improves evmstate and eest_t8n test tools](https://github.com/status-im/nimbus-eth1/pull/4988) - 2026-10-15
+* [Pull Request] [Prepare EVM for Bogota opcodes](https://github.com/status-im/nimbus-eth1/pull/4989) - 2026-10-15
+* [Commit] [Remove duplicate libplum configuration from .gitmodules (#4997)](https://github.com/status-im/nimbus-eth1/commit/b32932259237ad38cee48843d8f1902f9786f7cd) - 2026-10-16
+* [Commit] [Improves evmstate and eest_t8n test tools (#4988)](https://github.com/status-im/nimbus-eth1/commit/b899f1997e28befcf8e99e82823068e13479e8c8) - 2026-10-15
+* [Commit] [Prepare EVM for Bogota opcodes (#4989)](https://github.com/status-im/nimbus-eth1/commit/e9b55167e727db0ec59504d80334318d7d942832) - 2026-10-15
+* [Commit] [Remove kvt TxFrame (#4637)](https://github.com/status-im/nimbus-eth1/commit/ef58caee30746bfd6b8b3979736e183664c41d52) - 2026-10-15
+* [Commit] [Reimplement EIP-2929 access list (#4977)](https://github.com/status-im/nimbus-eth1/commit/3d739a69b6796e0f510eb3a1eca0eb53f886de0f) - 2026-10-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

@@ -26,6 +26,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: add engine_getInclusionListV1](https://github.com/erigontech/erigon/pull/24693#pullrequestreview-5458129482) - 2026-10-08
 * [Pull Request] [txnprovider: check execution gas inclusion contributions](https://github.com/erigontech/erigon/pull/24685) - 2026-10-08
 * [Commit] [txnprovider: check execution gas inclusion contributions (#24685)](https://github.com/erigontech/erigon/commit/ce02b4b6b110991ab319db6f9cfc70920b51ecea) - 2026-10-08
+* [Commit] [execution: remove stale BAL RLP decoding size based checks (#24684)](https://github.com/erigontech/erigon/commit/77454e42d3bfd0fcf7e7c455a567183cabc94db8) - 2026-10-15
 ## Q3 2026
 
 

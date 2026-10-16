@@ -37,6 +37,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Update nim-eth](https://github.com/status-im/nimbus-eth1/pull/4983) - 2026-10-14
 * [Pull Request] [Sender recovery cache optimizations](https://github.com/status-im/nimbus-eth1/pull/4975) - 2026-10-14
 * [Commit] [Skip optimistic state prefetching for small blocks (#4962)](https://github.com/status-im/nimbus-eth1/commit/f7bb2582703e58d6e6f8e9591149755aa9e7b29b) - 2026-10-14
+* [Pull Request] [Store valid jumpdest positions instead of invalid](https://github.com/status-im/nimbus-eth1/pull/4998) - 2026-10-15
+* [Pull Request] [Route ledger code access through core_apps helpers](https://github.com/status-im/nimbus-eth1/pull/4996) - 2026-10-15
+* [Commit] [Route ledger code access through core_apps helpers (#4996)](https://github.com/status-im/nimbus-eth1/commit/438d396cad3e2ba781715461a5301df194353122) - 2026-10-15
+* [Commit] [Update nim-eth to latest (#4983)](https://github.com/status-im/nimbus-eth1/commit/ac13e63389f7428369760165d76649a7df377a68) - 2026-10-15
 ## Q3 2026
 
 

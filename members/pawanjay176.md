@@ -32,6 +32,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Don't ban peers whose finalized root is in failed_chains](https://github.com/sigp/lighthouse/pull/10346#pullrequestreview-5523607179) - 2026-10-14
 * [Review] [Review on: Update `rustls` to fix CI](https://github.com/sigp/lighthouse/pull/10355#pullrequestreview-5524845393) - 2026-10-14
 * [Issue] [Gloas circuit breaker refinements](https://github.com/sigp/lighthouse/issues/10361) - 2026-10-14
+* [Review] [Review on: Preserve VC graffiti when client versions cannot be appended](https://github.com/sigp/lighthouse/pull/10352#pullrequestreview-5540354495) - 2026-10-15
+* [Review] [Review on: Route the range sync catch-all through the shared block error classifier](https://github.com/sigp/lighthouse/pull/10367#pullrequestreview-5540408103) - 2026-10-15
+* [Review] [Review on: EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313#pullrequestreview-5539231011) - 2026-10-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

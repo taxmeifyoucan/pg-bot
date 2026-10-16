@@ -59,6 +59,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Do not advertise a TCP port in the ENR when the TCP transport is disabled](https://github.com/Consensys-Incorporated/teku/pull/11489) - 2026-10-14
 * [Commit] [Resend forkChoiceUpdated when a reused block production result failed (#11491)](https://github.com/Consensys-Incorporated/teku/commit/b0fa65683005601188ae13b3a583ee49c712f486) - 2026-10-14
 * [Commit] [Do not advertise a TCP port in the ENR when the TCP transport is disabled (#11489)](https://github.com/Consensys-Incorporated/teku/commit/65cbbe34c9474a769790bd7f5928da25e97c96e8) - 2026-10-14
+* [Review] [Review on: VC warn when no head events arrive from a beacon node](https://github.com/Consensys-Incorporated/teku/pull/11329#pullrequestreview-5536870815) - 2026-10-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

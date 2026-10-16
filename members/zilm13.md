@@ -18,6 +18,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: VC warn when no head events arrive from a beacon node](https://github.com/Consensys-Incorporated/teku/pull/11329#pullrequestreview-5520003628) - 2026-10-14
 * [Review] [Review on: Exclude pending dials from peer selection and reserve their slots](https://github.com/Consensys-Incorporated/teku/pull/11490#pullrequestreview-5521697856) - 2026-10-14
 * [Review] [Review on: Do not advertise a TCP port in the ENR when the TCP transport is disabled](https://github.com/Consensys-Incorporated/teku/pull/11489#pullrequestreview-5520574831) - 2026-10-14
+* [Pull Request] [Reuse block post-state for payload attestation votes](https://github.com/Consensys-Incorporated/teku/pull/11501) - 2026-10-15
+* [Review] [Review on: Reuse block post-state for payload attestation votes](https://github.com/Consensys-Incorporated/teku/pull/11501#pullrequestreview-5539724714) - 2026-10-15
+* [Issue] [Cover BeaconChainController with tests](https://github.com/Consensys-Incorporated/teku/issues/11500) - 2026-10-15
+* [Commit] [Reuse block post-state for payload attestation votes (#11501)](https://github.com/Consensys-Incorporated/teku/commit/4f87c3acfa123f6198c1a6d34cd283d79b857ac3) - 2026-10-15
+* [Commit] [VC warn when no head events arrive from a beacon node (#11329)](https://github.com/Consensys-Incorporated/teku/commit/f91019989bef205bf2ded0f5a81453140e9d4c9a) - 2026-10-15
 ## Q3 2026
 
 

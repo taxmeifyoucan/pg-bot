@@ -252,6 +252,32 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: remove signer from validator store if its index is known](https://github.com/ChainSafe/lodestar/pull/10386) - 2026-10-14
 * [Commit] [fix: skip buffering unknown-root gossip messages from expired slots (#10388)](https://github.com/ChainSafe/lodestar/commit/17f78227c7434606b5307f2ebe36d32b3439d29c) - 2026-10-15
 * [Commit] [fix: serialize attestation slashing protection checks per validator (#10303)](https://github.com/ChainSafe/lodestar/commit/38410b466e1ac65692ad74023fd2db7a0447cc16) - 2026-10-14
+* [Review] [Review on: docs: add builder CLI to CLI reference page](https://github.com/ChainSafe/lodestar/pull/10414#pullrequestreview-5541494160) - 2026-10-16
+* [Pull Request] [fix: prepare the next slot payload on the variant the proposer builds on](https://github.com/ChainSafe/lodestar/pull/10410) - 2026-10-15
+* [Review] [Review on: fix(docs): skip unknown defaults when comparing legacy CLI references](https://github.com/ChainSafe/lodestar/pull/10412#pullrequestreview-5540761509) - 2026-10-15
+* [Pull Request] [fix(docs): skip unknown defaults when comparing legacy CLI references](https://github.com/ChainSafe/lodestar/pull/10411) - 2026-10-15
+* [Review] [Review on: fix(docs): skip unknown defaults when comparing legacy CLI references](https://github.com/ChainSafe/lodestar/pull/10411#pullrequestreview-5540704934) - 2026-10-15
+* [Pull Request] [fix: use the block root for the genesis dependent root fallback](https://github.com/ChainSafe/lodestar/pull/10409) - 2026-10-15
+* [Review] [Review on: fix: prune queued messages by bufferred roots in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10395#pullrequestreview-5538824628) - 2026-10-15
+* [Review] [Review on: fix: resolve builder pubkeys in a single pass in getStateBuilders](https://github.com/ChainSafe/lodestar/pull/10408#pullrequestreview-5536277800) - 2026-10-15
+* [Review] [Review on: docs: document when to assert doppelganger safety](https://github.com/ChainSafe/lodestar/pull/10397#pullrequestreview-5531638348) - 2026-10-15
+* [Pull Request] [chore: keep current slot duration in heze](https://github.com/ChainSafe/lodestar/pull/10398) - 2026-10-15
+* [Review] [Review on: chore: keep current slot duration in heze](https://github.com/ChainSafe/lodestar/pull/10398#pullrequestreview-5531191752) - 2026-10-15
+* [Review] [Review on: fix: assert doppelganger safety only for messages counted in liveness](https://github.com/ChainSafe/lodestar/pull/10396#pullrequestreview-5528012192) - 2026-10-15
+* [Review] [Review on: refactor(api): drop unreachable genesis block root fallbacks from duty endpoints](https://github.com/ChainSafe/lodestar/pull/10394#pullrequestreview-5527505872) - 2026-10-15
+* [Issue] [Verify execution clients rebuild the payload when the inclusion lists in forkchoiceUpdated change](https://github.com/ChainSafe/lodestar/issues/10406) - 2026-10-15
+* [Issue] [Verify the inclusion list deadline fallback publishes lists in time](https://github.com/ChainSafe/lodestar/issues/10403) - 2026-10-15
+* [Issue] [Add engine_getInclusionListV1 to the REST engine API](https://github.com/ChainSafe/lodestar/issues/10407) - 2026-10-15
+* [Issue] [Enforce per-method timeouts on engine API calls](https://github.com/ChainSafe/lodestar/issues/10405) - 2026-10-15
+* [Issue] [Revisit building the inclusion list after the slot's payload is imported](https://github.com/ChainSafe/lodestar/issues/10404) - 2026-10-15
+* [Issue] [Several validators on the same inclusion list committee sign the same list](https://github.com/ChainSafe/lodestar/issues/10402) - 2026-10-15
+* [Issue] [Record the inclusion list verdict when a payload turns VALID on forkchoiceUpdated](https://github.com/ChainSafe/lodestar/issues/10401) - 2026-10-15
+* [Issue] [Revisit payload preparation timing against the inclusion list deadline](https://github.com/ChainSafe/lodestar/issues/10400) - 2026-10-15
+* [Commit] [fix: use the block root for the genesis dependent root fallback (#10409)](https://github.com/ChainSafe/lodestar/commit/e22f67e7bc41c28fc37e2e2e48bcddad4129bd67) - 2026-10-15
+* [Commit] [fix: isolate selection proof failures per validator (#10387)](https://github.com/ChainSafe/lodestar/commit/ac99151b96b92ea9cdae6cb8418f8be371958d68) - 2026-10-15
+* [Commit] [fix: remove signer from validator store if its index is known (#10386)](https://github.com/ChainSafe/lodestar/commit/c6e566f9155eb2a0ee98e73a02811cee713c827f) - 2026-10-15
+* [Commit] [fix: record source state clone count (#10348)](https://github.com/ChainSafe/lodestar/commit/2b933d3b9a4c8f6cfa04287d81c93426c5bdcbee) - 2026-10-15
+* [Commit] [chore: keep current slot duration in heze (#10398)](https://github.com/ChainSafe/lodestar/commit/99edacec5247cfa3bc8c10a8f8e64ef243cfe6c8) - 2026-10-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -263,6 +289,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5484352852) - 2026-10-11
 * [Pull Request] [Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741) - 2026-10-14
 * [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5522415581) - 2026-10-14
+* [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5531544772) - 2026-10-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

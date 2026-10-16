@@ -78,9 +78,23 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Enable NullAway for QBFT core](https://github.com/besu-eth/besu/pull/11567#pullrequestreview-5509179176) - 2026-10-13
 * [Review] [Review on: feat(core): support explicit operation tracer in block processing](https://github.com/besu-eth/besu/pull/10862#pullrequestreview-5499626116) - 2026-10-13
 * [Commit] [add missing sources to make IDE gradle sync happy (#11572)](https://github.com/besu-eth/besu/commit/7c72ea43432b46870bf796e8bdcb7c033fece6f0) - 2026-10-13
+* [Review] [Review on: Fail loudly when account code cannot be read](https://github.com/besu-eth/besu/pull/11456#pullrequestreview-5542322158) - 2026-10-16
+* [Review] [Review on: Return BLOCK_NOT_FOUND from debug_traceBlockByNumber for unknown block numbers](https://github.com/besu-eth/besu/pull/11437#pullrequestreview-5542244047) - 2026-10-16
+* [Review] [Review on: Disconnect peers whose task response fails to decode](https://github.com/besu-eth/besu/pull/11451#pullrequestreview-5542065272) - 2026-10-16
+* [Review] [Review on: Reject maxFeePerBlobGas without blob hashes in calls and trace calls](https://github.com/besu-eth/besu/pull/11556#pullrequestreview-5542043716) - 2026-10-16
+* [Review] [Review on: Implement `debug_getModifiedAccounts*`](https://github.com/besu-eth/besu/pull/11323#pullrequestreview-5541993925) - 2026-10-16
+* [Pull Request] [ci workflow to run on release* branch](https://github.com/besu-eth/besu/pull/11613) - 2026-10-16
+* [Pull Request] [codeowners for github dir](https://github.com/besu-eth/besu/pull/11612) - 2026-10-16
+* [Review] [Review on: Fix/sync signal reporting bugs](https://github.com/besu-eth/besu/pull/11262#pullrequestreview-5541606159) - 2026-10-16
+* [Pull Request] [CHANGELOG: list the GHSAs in 26.x releases](https://github.com/besu-eth/besu/pull/11608) - 2026-10-15
+* [Review] [Review on: feat(core): let a block execution supply its block access list factory,](https://github.com/besu-eth/besu/pull/11600#pullrequestreview-5528124452) - 2026-10-15
+* [Commit] [codeowners for github dir (#11612)](https://github.com/besu-eth/besu/commit/cd634800d7909dd3c46a54f3beb3c2aacdd5e023) - 2026-10-16
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Pull Request] [fix(ci): correct release-branch condition for gradle publish](https://github.com/besu-eth/besu-native/pull/323) - 2026-10-15
 ## Q3 2026
 
 

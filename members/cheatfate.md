@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Sync: Fix rare SyncQueue got stuck with low peers count.](https://github.com/status-im/nimbus-eth2/pull/9207) - 2026-10-05
 * [Pull Request] [Sync: Fix requests columns by root should not exceed max blocks requirement.](https://github.com/status-im/nimbus-eth2/pull/9206) - 2026-10-05
 * [Pull Request] [Syncing: Refactor endless loop detection without time measurements.](https://github.com/status-im/nimbus-eth2/pull/9249) - 2026-10-09
+* [Pull Request] [Syncing: Fix sidecars queue start window should move while not started yet.](https://github.com/status-im/nimbus-eth2/pull/9291) - 2026-10-15
 ## Q3 2026
 
 

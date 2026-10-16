@@ -39,6 +39,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5523518828) - 2026-10-14
 * [Pull Request] [chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758) - 2026-10-14
 * [Commit] [chore(tests): THE BIG ported-static pre-alloc groups reduction (#3758)](https://github.com/ethereum/execution-specs/commit/6610d7eb0feb2b23d53a9ea2fe19e78468ecfb53) - 2026-10-14
+* [Review] [Review on: feat(tests): check gas allowance against canonical order](https://github.com/ethereum/execution-specs/pull/3827#pullrequestreview-5540526830) - 2026-10-15
+* [Review] [Review on: feat(tests): pin withdrawals before request system calls](https://github.com/ethereum/execution-specs/pull/3835#pullrequestreview-5540323725) - 2026-10-15
+* [Review] [Review on: feat(tests): check tx gas limit against floor-inclusive block gas used](https://github.com/ethereum/execution-specs/pull/3832#pullrequestreview-5537859372) - 2026-10-15
+* [Review] [Review on: perf(test-fill, test-evm-tools): count opcodes only for benchmark tests](https://github.com/ethereum/execution-specs/pull/3790#pullrequestreview-5535750717) - 2026-10-15
+* [Review] [Review on: chore(test-client-clis): map Reth gas limit errors in heze devnet [backport forks/bogota]](https://github.com/ethereum/execution-specs/pull/3834#pullrequestreview-5535324904) - 2026-10-15
+* [Commit] [feat(test-specs): Test function receives fork's genesis pre-alloc (#3830)](https://github.com/ethereum/execution-specs/commit/e9f61531e7254279068961c64be2e7a5070cc10e) - 2026-10-15
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

@@ -81,6 +81,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Give each peer identity at most one connection slot per selection](https://github.com/Consensys-Incorporated/teku/pull/11484#pullrequestreview-5507926463) - 2026-10-13
 * [Commit] [Update discovery to 26.10.0 (#11487)](https://github.com/Consensys-Incorporated/teku/commit/115ab400185bebee063ce13d0ab7f9f80b296c4e) - 2026-10-14
 * [Review] [Review on: Restore the "Slot Event" log line](https://github.com/Consensys-Incorporated/teku/pull/11494#pullrequestreview-5526212220) - 2026-10-14
+* [Pull Request] [Update CHANGELOG.md after 26.10.1 release](https://github.com/Consensys-Incorporated/teku/pull/11502) - 2026-10-15
+* [Review] [Review on: Reuse block post-state for payload attestation votes](https://github.com/Consensys-Incorporated/teku/pull/11501#pullrequestreview-5540319219) - 2026-10-15
+* [Commit] [Update CHANGELOG.md to after 26.10.1 release (#11502)](https://github.com/Consensys-Incorporated/teku/commit/1ec6ded513b87c6f6f74c044285c44ddfc455483) - 2026-10-15
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

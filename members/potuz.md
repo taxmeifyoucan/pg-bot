@@ -39,6 +39,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Clear every pending builder payment of a slashed proposer](https://github.com/OffchainLabs/prysm/pull/17662#pullrequestreview-5490447265) - 2026-10-12
 * [Review] [Review on: Settle the builder payment before processing parent execution requests](https://github.com/OffchainLabs/prysm/pull/17661#pullrequestreview-5490401505) - 2026-10-12
 * [Commit] [Use the target's shuffling dependent root in getRecentPreState (#17649)](https://github.com/OffchainLabs/prysm/commit/7fa9877e68522f44923251875b9115465c96b7f9) - 2026-10-12
+* [Pull Request] [Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714) - 2026-10-15
+* [Review] [Review on: Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714#pullrequestreview-5535664289) - 2026-10-15
+* [Commit] [Keep relay links observed while dropping inactive builders (#17714)](https://github.com/OffchainLabs/prysm/commit/e1fcb06edc150f6744bf7b7be06cbd03269b7a42) - 2026-10-15
 ## Q3 2026
 
 

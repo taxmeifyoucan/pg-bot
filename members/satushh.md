@@ -37,6 +37,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Bound RPC decoding by SSZ type size (#17660)](https://github.com/OffchainLabs/prysm/commit/fac5fcf25f09ada8dcc907fbecb6e8be03c302bf) - 2026-10-13
 * [Pull Request] [Read IPv6-specific tcp6/quic6 ENR ports when dialing IPv6 peer endpoints](https://github.com/OffchainLabs/prysm/pull/17704) - 2026-10-14
 * [Pull Request] [execution: options to serve getPayload and getBlobs in-process](https://github.com/OffchainLabs/prysm/pull/17702) - 2026-10-14
+* [Review] [Review on: Implement EIP-8365: disallow new 0x00 validators](https://github.com/OffchainLabs/prysm/pull/17679#pullrequestreview-5532002841) - 2026-10-15
 ## Q3 2026
 
 

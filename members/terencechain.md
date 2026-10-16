@@ -51,6 +51,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Bump consensus spec to v1.7.0-beta.4 (#17664)](https://github.com/OffchainLabs/prysm/commit/27acf27717ce8191c307444ce1203b4363e2aa26) - 2026-10-13
 * [Commit] [Check LMD/FFG consistency for block and pool attestations (#17539)](https://github.com/OffchainLabs/prysm/commit/d8e8bf5499b7fa73347407f069adedbfd5fee33e) - 2026-10-13
 * [Commit] [Subtract same-payload withdrawals from the builder balance in the builders sweep (#17663)](https://github.com/OffchainLabs/prysm/commit/b99ba14676a00c4f37e41ded26f0010a56fec029) - 2026-10-13
+* [Review] [Review on: HeadState to HeadStateReadonly](https://github.com/OffchainLabs/prysm/pull/17716#pullrequestreview-5539584407) - 2026-10-15
+* [Review] [Review on: Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714#pullrequestreview-5536545343) - 2026-10-15
+* [Review] [Review on: Optimise Gloas fetches](https://github.com/OffchainLabs/prysm/pull/17712#pullrequestreview-5534049622) - 2026-10-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

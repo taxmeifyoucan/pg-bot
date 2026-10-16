@@ -18,6 +18,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5439347978) - 2026-10-07
 * [Pull Request] [fix: check tx gas limit against cumulative gas used before Amsterdam](https://github.com/status-im/nimbus-eth1/pull/4980) - 2026-10-14
 * [Issue] [Pre-Amsterdam: tx gas limit is checked against the floor-less execution gas, so nimbus builds and accepts over-limit blocks](https://github.com/status-im/nimbus-eth1/issues/4979) - 2026-10-14
+* [Commit] [fix: check tx gas limit against cumulative gas used before Amsterdam (#4980)](https://github.com/status-im/nimbus-eth1/commit/bb47dad7b38a763e950e25f3b2882ba7245f72f2) - 2026-10-15
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat: show why inclusion list transactions were omitted](https://github.com/ethpandaops/dora/pull/884) - 2026-10-01
 
@@ -52,10 +53,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: show bid seen counts in popover when per-client details are gone](https://github.com/ethpandaops/dora/pull/901) - 2026-10-14
 * [Review] [Review on: fix: seed indexer finalization position only after a finality checkpoint is known](https://github.com/ethpandaops/dora/pull/903#pullrequestreview-5515978804) - 2026-10-14
 * [Commit] [fix: serve cached pages and queue briefly before returning too many requests](https://github.com/ethpandaops/dora/commit/aeac09f004c9920b8d07ac69dedaa33df351a1ab) - 2026-10-14
+* [Review] [Review on: fix: keep fork id of re-processed fork leaf blocks and reject nil block bodies](https://github.com/ethpandaops/dora/pull/904#pullrequestreview-5528483955) - 2026-10-15
+* [Review] [Review on: fix: seed the finality checkpoint before the first justification](https://github.com/ethpandaops/dora/pull/906#pullrequestreview-5535598486) - 2026-10-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
 * [Review] [Review on: Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442#pullrequestreview-5434683771) - 2026-10-06
+* [Pull Request] [Update EIP-8365: gate activation instead of rejecting 0x00 deposits](https://github.com/ethereum/EIPs/pull/12513) - 2026-10-15
+* [Pull Request] [Update EIP-8433: retire 0x00 validators at fork activation](https://github.com/ethereum/EIPs/pull/12514) - 2026-10-15
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
@@ -73,6 +78,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: verify inclusion list signatures without batching](https://github.com/ChainSafe/lodestar/pull/10282) - 2026-10-06
 
 * [Pull Request] [ci: run consensus client interop through assertoor](https://github.com/ChainSafe/lodestar/pull/10365) - 2026-10-12
+* [Review] [Review on: fix: resolve builder pubkeys in a single pass in getStateBuilders](https://github.com/ChainSafe/lodestar/pull/10408#pullrequestreview-5534155424) - 2026-10-15
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
@@ -90,6 +96,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733) - 2026-10-12
 * [Review] [Review on: Reject slashed proposers when drawn instead of pre-filtering them](https://github.com/ethereum/consensus-specs/pull/5733#pullrequestreview-5491875480) - 2026-10-12
 
+* [Pull Request] [Do not activate 0x00 validators](https://github.com/ethereum/consensus-specs/pull/5744) - 2026-10-15
+* [Pull Request] [Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743) - 2026-10-15
+* [Pull Request] [Rebind cached functions in copies of the spec](https://github.com/ethereum/consensus-specs/pull/5742) - 2026-10-15
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add beacon API error check playbook](https://github.com/ethpandaops/assertoor/pull/241) - 2026-10-13
 * [Pull Request] [feat: aggregate and regex-match series in check_http_metrics](https://github.com/ethpandaops/assertoor/pull/240) - 2026-10-13
@@ -102,6 +111,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [ci: use go version from go.mod](https://github.com/ethpandaops/assertoor/commit/a2152774d945dede17c0a8555fe7713ca653ebc3) - 2026-10-13
 * [Commit] [chore: require go 1.26.9](https://github.com/ethpandaops/assertoor/commit/f27d3a3c5d739314cdbad07e0c67f50dd3afff9b) - 2026-10-13
 * [Commit] [chore: bump go to 1.26](https://github.com/ethpandaops/assertoor/commit/5b20c1df7a2db9a66e397862ae80b9d224d7e876) - 2026-10-13
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): check tx gas limit against floor-inclusive block gas used](https://github.com/ethereum/execution-specs/pull/3832) - 2026-10-15
+* [Commit] [feat(tests): check tx gas limit against floor-inclusive block gas used (#3832)](https://github.com/ethereum/execution-specs/commit/172160ee6e05f635b1bbcbd0ef03ebf5d9ccffad) - 2026-10-15
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [fix: stop penalizing peers for data columns of invalid or unclaimed blocks](https://github.com/status-im/nimbus-eth2/pull/9288) - 2026-10-15
+* [Issue] [feat: implement missing beacon-APIs v5.0.0-beta.0 endpoints](https://github.com/status-im/nimbus-eth2/issues/9290) - 2026-10-15
+* [Issue] [Invalid blocks with blobs make nimbus disconnect honest peers via by-root column sync](https://github.com/status-im/nimbus-eth2/issues/9287) - 2026-10-15
 ## Q3 2026
 
 

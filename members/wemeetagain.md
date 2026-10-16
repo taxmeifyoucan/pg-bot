@@ -69,6 +69,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: make data column range benchmarks report only](https://github.com/ChainSafe/lodestar/pull/10377#pullrequestreview-5509699661) - 2026-10-13
 * [Review] [Review on: test: pin fake clock in prepareNextSlot slot offset test](https://github.com/ChainSafe/lodestar/pull/10373#pullrequestreview-5502956355) - 2026-10-13
 * [Review] [Review on: feat(types): add EIP-8025 execution proof SSZ types](https://github.com/ChainSafe/lodestar/pull/10391#pullrequestreview-5526208621) - 2026-10-14
+* [Review] [Review on: fix: use the block root for the genesis dependent root fallback](https://github.com/ChainSafe/lodestar/pull/10409#pullrequestreview-5539785413) - 2026-10-15
+* [Review] [Review on: fix: retry getBlobs for triggers that arrived while a request was in flight](https://github.com/ChainSafe/lodestar/pull/10366#pullrequestreview-5538987500) - 2026-10-15
+* [Review] [Review on: fix: isolate selection proof failures per validator](https://github.com/ChainSafe/lodestar/pull/10387#pullrequestreview-5538832933) - 2026-10-15
+* [Review] [Review on: fix: remove signer from validator store if its index is known](https://github.com/ChainSafe/lodestar/pull/10386#pullrequestreview-5538787187) - 2026-10-15
+* [Review] [Review on: fix: record source state clone count](https://github.com/ChainSafe/lodestar/pull/10348#pullrequestreview-5538722134) - 2026-10-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

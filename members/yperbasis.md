@@ -139,6 +139,29 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/phase1/forkchoice: bound the checkpoint state cache](https://github.com/erigontech/erigon/pull/24902#pullrequestreview-5518472586) - 2026-10-14
 * [Commit] [txnprovider/txpool: refresh state views before pool reload (#24849)](https://github.com/erigontech/erigon/commit/956bbfe53431760f47100b565d11d06012b416fe) - 2026-10-14
 * [Commit] [ci: update execution-specs tests to v21.0.1 (#24848)](https://github.com/erigontech/erigon/commit/54c03fc3907395c277a53fcdf44c45ec33c65c51) - 2026-10-14
+* [Pull Request] [cl/beacon: use Gloas preferences for proposer fee recipients](https://github.com/erigontech/erigon/pull/24937) - 2026-10-15
+* [Review] [Review on: cl/beacon: use Gloas preferences for proposer fee recipients](https://github.com/erigontech/erigon/pull/24937#pullrequestreview-5539053414) - 2026-10-15
+* [Pull Request] [cl/phase1/forkchoice: export GLOAS weights in debug fork choice](https://github.com/erigontech/erigon/pull/24936) - 2026-10-15
+* [Pull Request] [txnprovider/txpool: allow retries after NonceTooDistant eviction](https://github.com/erigontech/erigon/pull/24931) - 2026-10-15
+* [Pull Request] [cl, execution: complete payload preparation coverage and hardening](https://github.com/erigontech/erigon/pull/24939) - 2026-10-15
+* [Pull Request] [cl: enable Gloas FULL-parent payload preparation](https://github.com/erigontech/erigon/pull/24938) - 2026-10-15
+* [Pull Request] [ci: re-enable Glamsterdam stability check](https://github.com/erigontech/erigon/pull/24935) - 2026-10-15
+* [Review] [Review on: cl/phase1/forkchoice: compute attesting indices from the target shuffling](https://github.com/erigontech/erigon/pull/24807#pullrequestreview-5531328378) - 2026-10-15
+* [Review] [Review on: execution: remove stale BAL RLP decoding size based checks](https://github.com/erigontech/erigon/pull/24684#pullrequestreview-5532127867) - 2026-10-15
+* [Pull Request] [db, execution: validate the block access list of a block resumed mid-block](https://github.com/erigontech/erigon/pull/24925) - 2026-10-15
+* [Review] [Review on: db, execution: validate the block access list of a block resumed mid-block](https://github.com/erigontech/erigon/pull/24925#pullrequestreview-5532278185) - 2026-10-15
+* [Pull Request] [execution/state: consistent existence verdict for a destroyed account](https://github.com/erigontech/erigon/pull/24921) - 2026-10-15
+* [Review] [Review on: execution/state: consistent existence verdict for a destroyed account](https://github.com/erigontech/erigon/pull/24921#pullrequestreview-5530397036) - 2026-10-15
+* [Review] [Review on: cl/phase1/forkchoice, cl/spectest: assert Gloas PTC fork-choice steps and votes, run the remaining ssz_static vectors](https://github.com/erigontech/erigon/pull/24859#pullrequestreview-5533405882) - 2026-10-15
+* [Review] [Review on: cl/phase1/forkchoice: fix the anchor checkpoint epoch for a mid-epoch block post-state](https://github.com/erigontech/erigon/pull/24913#pullrequestreview-5530866925) - 2026-10-15
+* [Review] [Review on: execution/exec: report a BAL commitment warmup error once, not once per worker](https://github.com/erigontech/erigon/pull/24919#pullrequestreview-5530856889) - 2026-10-15
+* [Review] [Review on: cl/phase1/forkchoice: keep fork-choice store time in milliseconds](https://github.com/erigontech/erigon/pull/24875#pullrequestreview-5532468542) - 2026-10-15
+* [Issue] [txnprovider/txpool: allow retries after other state-dependent evictions](https://github.com/erigontech/erigon/issues/24934) - 2026-10-15
+* [Issue] [txnprovider/txpool: remove activity entries when sender IDs are cleaned up](https://github.com/erigontech/erigon/issues/24946) - 2026-10-15
+* [Issue] [txnprovider/txpool: avoid punishing local senders for remote echoes](https://github.com/erigontech/erigon/issues/24945) - 2026-10-15
+* [Issue] [txnprovider/txpool: allow P2P retries through body deduplication](https://github.com/erigontech/erigon/issues/24944) - 2026-10-15
+* [Commit] [ci: re-enable Glamsterdam stability check (#24935)](https://github.com/erigontech/erigon/commit/142a48feb9cd8c5b0a1979d6b62e29ad1fb18f13) - 2026-10-15
+* [Commit] [execution, cl: reject block access indices beyond len(transactions)+1 (#24908)](https://github.com/erigontech/erigon/commit/796e008804cd7de3691ec2210f51d455f9a4e9f3) - 2026-10-15
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

@@ -42,6 +42,18 @@ Team: Grandine
 * [Commit] [Schedule Gloas fork activation on Hoodi](https://github.com/grandinetech/grandine/commit/9520d2e13876d7fc062029175a1a043c8d8534bc) - 2026-10-13
 * [Pull Request] [Update `min_epochs_for_block_requests` for Gloas](https://github.com/grandinetech/grandine/pull/984) - 2026-10-14
 * [Commit] [Update consensus-spec-tests to v1.7.0-beta.4](https://github.com/grandinetech/grandine/commit/d940f70acc865fb368d750f3303b0cf0664bc74e) - 2026-10-14
+* [Review] [Review on: Update `rustls` where possible, correct audit.toml ignores](https://github.com/grandinetech/grandine/pull/985#pullrequestreview-5533373806) - 2026-10-15
+* [Review] [Review on: Enable nethermind integration in stable releases](https://github.com/grandinetech/grandine/pull/959#pullrequestreview-5532917335) - 2026-10-15
+* [Review] [Review on: Count BPO forks in ENR next_fork_epoch](https://github.com/grandinetech/grandine/pull/944#pullrequestreview-5533171625) - 2026-10-15
+* [Review] [Review on: Remove `GET /eth/v1/validator/execution_payload_bids/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/966#pullrequestreview-5533032528) - 2026-10-15
+* [Review] [Review on: Make pre-release tags published as unstable](https://github.com/grandinetech/grandine/pull/958#pullrequestreview-5532978992) - 2026-10-15
+* [Review] [Review on: Extend support for `GET /eth/v1/beacon/pool/payload_attestations`](https://github.com/grandinetech/grandine/pull/967#pullrequestreview-5532709377) - 2026-10-15
+* [Review] [Review on: Serialize pending lists on beacon state endpoints without copying](https://github.com/grandinetech/grandine/pull/968#pullrequestreview-5532558401) - 2026-10-15
+* [Review] [Review on: Update Gloas attestation and slashing endpoints](https://github.com/grandinetech/grandine/pull/969#pullrequestreview-5532501520) - 2026-10-15
+* [Review] [Review on: Update `payload_attributes` event data for post-gloas](https://github.com/grandinetech/grandine/pull/970#pullrequestreview-5530520880) - 2026-10-15
+* [Review] [Review on: Add proposer preferences endpoint](https://github.com/grandinetech/grandine/pull/972#pullrequestreview-5530423503) - 2026-10-15
+* [Review] [Review on: docs: refresh cli_options network list and drop stale flags](https://github.com/grandinetech/grandine/pull/975#pullrequestreview-5529833439) - 2026-10-15
+* [Commit] [Update `min_epochs_for_block_requests` for Gloas](https://github.com/grandinetech/grandine/commit/6530f9e02d7adeea616129b277fb687b7fc0d901) - 2026-10-15
 ## Q3 2026
 
 

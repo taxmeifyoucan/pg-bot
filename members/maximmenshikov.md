@@ -21,6 +21,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [chore(zkvm): bump Nethermind.Sp1.Runtime to 1.0.0-preview.5 and the SP1 runner to v6.6.0 (#14456)](https://github.com/NethermindEth/nethermind/commit/89afb8d0cf83425788712d8e13267305045d9ee7) - 2026-10-08
 * [Pull Request] [OpenVMGuest: Bump OpenVM runtime to 2.1.0.49](https://github.com/NethermindEth/nethermind/pull/14630) - 2026-10-13
 * [Pull Request] [Stateless: bump bflat, ZisK 1.3.2-alpha and the SP1 and OpenVM runners](https://github.com/NethermindEth/nethermind/pull/14670) - 2026-10-14
+* [Commit] [build(zkevm): bump the bflat RISC-V64 image to b7f3eba (#14730)](https://github.com/NethermindEth/nethermind/commit/bc69f148a614506a742ab7f08aee9f1e7c7455f4) - 2026-10-15
+* [Commit] [Stateless: bump bflat, ZisK 1.3.2-alpha and the SP1 and OpenVM runners (#14670)](https://github.com/NethermindEth/nethermind/commit/973ed6060d14d84925dfe557219729e1cc63264e) - 2026-10-15
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -70,6 +72,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: bundle the 2026-10-13 dotnet-riscv runtime releases](https://github.com/NethermindEth/bflat-riscv64/commit/07740486775be81201b33eba9848db052eacaf2b) - 2026-10-14
 * [Commit] [ci: push the Docker images outside the docker-hub environment](https://github.com/NethermindEth/bflat-riscv64/commit/74f58f6d939c0ea253d0660b0ce37328be58dc4c) - 2026-10-14
 * [Commit] [ci: log in to Docker Hub with OIDC from the docker-hub environment](https://github.com/NethermindEth/bflat-riscv64/commit/581145cfa3b38a12b5d50acf5bf8c03dbe5c360b) - 2026-10-14
+* [Review] [Review on: perf(zkvm): link a 64-bit memmove and memset into the sp1 and openvm guests](https://github.com/NethermindEth/bflat-riscv64/pull/58#pullrequestreview-5532629490) - 2026-10-15
 ## Q3 2026
 
 

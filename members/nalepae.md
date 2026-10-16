@@ -57,6 +57,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: VC: Reject keymanager API graffiti longer than 32 bytes with status 400](https://github.com/OffchainLabs/prysm/pull/17695#pullrequestreview-5515097235) - 2026-10-14
 * [Review] [Review on: REST VC: Pad or truncate the block graffiti to 32 bytes](https://github.com/OffchainLabs/prysm/pull/17693#pullrequestreview-5515015515) - 2026-10-14
 * [Commit] [Doppelganger: Remove the `enable-doppelganger` feature flag warning, log the startup check at info level, and log its duration when done. (#17696)](https://github.com/OffchainLabs/prysm/commit/36456341fbc04dfa9d28a81c2c9077093842ca64) - 2026-10-14
+* [Review] [Review on: Some more optimisations for the partial columns flow](https://github.com/OffchainLabs/prysm/pull/17709#pullrequestreview-5534330116) - 2026-10-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 
