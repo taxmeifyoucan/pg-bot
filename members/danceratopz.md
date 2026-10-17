@@ -48,6 +48,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621) - 2026-10-14
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 ## Q3 2026
 
 

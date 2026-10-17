@@ -46,6 +46,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14
+* [Pull Request] [Update EIP-8365: guard deposit requests and grandfather pending deposits](https://github.com/ethereum/EIPs/pull/12533) - 2026-10-16
 ## Q3 2026
 
 

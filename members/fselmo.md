@@ -65,6 +65,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(test-client-clis): map Reth gas limit errors in heze devnet](https://github.com/ethereum/execution-specs/pull/3833#pullrequestreview-5533920820) - 2026-10-15
 * [Commit] [feat(tests): check gas allowance against canonical order (#3827)](https://github.com/ethereum/execution-specs/commit/f5f512f6b9f2adf4f56a36fee4299a9488c52410) - 2026-10-15
 * [Commit] [feat(tests): pin withdrawals before request system calls (#3835)](https://github.com/ethereum/execution-specs/commit/8505829bace053684d174f23dfe16aa44bd1ac5a) - 2026-10-15
+* [Pull Request] [docs(consume): describe the client test runner interface](https://github.com/ethereum/execution-specs/pull/3846) - 2026-10-16
+* [Review] [Review on: docs(consume): describe the client test runner interface](https://github.com/ethereum/execution-specs/pull/3846#pullrequestreview-5553604541) - 2026-10-16
+* [Commit] [chore(skill): correct stale facts in the repo skills (#3838)](https://github.com/ethereum/execution-specs/commit/7653fb643eb5c5028fe975bf999d5776788f9cd1) - 2026-10-16
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

@@ -26,6 +26,9 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: name the TXPARAM, FRAMEPARAM and SIGPARAM params](https://github.com/ethereum/EIPs/pull/12469#pullrequestreview-5471742594) - 2026-10-09
 * [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5494082658) - 2026-10-12
 * [Pull Request] [Update EIP-8141: commit to elided signature lengths](https://github.com/ethereum/EIPs/pull/12502) - 2026-10-14
+* [Pull Request] [Update EIP-7906: 7906 remove txdiff](https://github.com/ethereum/EIPs/pull/12530) - 2026-10-16
+* [Pull Request] [Update EIP-7906: rename POST_TX to ASSERT](https://github.com/ethereum/EIPs/pull/12528) - 2026-10-16
+* [Commit] [Update EIP-7906: rename POST_TX to ASSERT](https://github.com/ethereum/EIPs/commit/5930e94b0cdb7b88f8c96c75555cf4fc2b3cb3b0) - 2026-10-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 
@@ -38,10 +41,14 @@ Team: Geth
 * [Pull Request] [core/txpool: reject frame transactions carrying blob hashes](https://github.com/ethereum/go-ethereum/pull/35886) - 2026-10-06
 * [Review] [Review on: core, core/txpool, eth: add a dedicated frame transaction pool](https://github.com/ethereum/go-ethereum/pull/35891#pullrequestreview-5472035758) - 2026-10-09
 * [Review] [Review on: eth/filters: resolve earliest toBlock when creating log filters](https://github.com/ethereum/go-ethereum/pull/35933#pullrequestreview-5540825559) - 2026-10-15
+* [Pull Request] [internal/ethapi: fix ChaindbProperty doc comment](https://github.com/ethereum/go-ethereum/pull/35958) - 2026-10-16
+* [Review] [Review on: docs: correct debug RPC endpoint documentation](https://github.com/ethereum/go-ethereum/pull/35885#pullrequestreview-5551956681) - 2026-10-16
+* [Review] [Review on: cmd/utils: decouple the transaction history from archive mode](https://github.com/ethereum/go-ethereum/pull/35907#pullrequestreview-5551302196) - 2026-10-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05
 
+* [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5549528427) - 2026-10-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5521806399) - 2026-10-14
 ## Q3 2026

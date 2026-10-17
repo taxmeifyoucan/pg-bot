@@ -20,6 +20,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [ci: add EEZ CI gate for the EEZ development branches](https://github.com/erigontech/erigon/pull/24900) - 2026-10-14
 * [Review] [Review on: ci: add EEZ CI gate for the EEZ development branches](https://github.com/erigontech/erigon/pull/24900#pullrequestreview-5517164841) - 2026-10-14
 * [Commit] [ci: add EEZ CI gate for the EEZ development branches (#24900)](https://github.com/erigontech/erigon/commit/28c6b59582ba49822021bb3629c0eec26817e168) - 2026-10-14
+* [Pull Request] [eez/protocol: protocol library for core-protocol 855fe06](https://github.com/erigontech/erigon/pull/24971) - 2026-10-16
 ## Q2 2026
 
 

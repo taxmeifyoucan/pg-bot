@@ -226,6 +226,49 @@ Team: Reth
 * [Review] [Review on: refactor(trie): simplify proof worker flow](https://github.com/paradigmxyz/reth/pull/27927#pullrequestreview-5538914451) - 2026-10-15
 * [Review] [Review on: docs: fix dead links in database design doc](https://github.com/paradigmxyz/reth/pull/27831#pullrequestreview-5528507286) - 2026-10-15
 * [Review] [Review on: fix(net): install RLPx subprotocols after the eth Status handshake](https://github.com/paradigmxyz/reth/pull/27898#pullrequestreview-5527996043) - 2026-10-15
+* [Review] [Review on: fix(provider): preserve empty receipt ranges](https://github.com/paradigmxyz/reth/pull/27966#pullrequestreview-5549599904) - 2026-10-16
+* [Review] [Review on: feat(download): let the full preset include RocksDB indices](https://github.com/paradigmxyz/reth/pull/27940#pullrequestreview-5551482575) - 2026-10-16
+* [Review] [Review on: fix(download): set history prune checkpoints to the retained window start](https://github.com/paradigmxyz/reth/pull/27939#pullrequestreview-5551480872) - 2026-10-16
+* [Review] [Review on: refactor(trie): centralize multiproof v2 logic](https://github.com/paradigmxyz/reth/pull/27945#pullrequestreview-5551166557) - 2026-10-16
+* [Review] [Review on: fix(cli): requeue failed download pieces instead of restarting the archive](https://github.com/paradigmxyz/reth/pull/27935#pullrequestreview-5550794598) - 2026-10-16
+* [Review] [Review on: fix(cli): retry download range probe before falling back to sequential](https://github.com/paradigmxyz/reth/pull/27933#pullrequestreview-5550240110) - 2026-10-16
+* [Pull Request] [fix(net): recheck outbound session admission](https://github.com/paradigmxyz/reth/pull/27953) - 2026-10-16
+* [Review] [Review on: chore: updated and fixed heze hardfork for FOCIL ](https://github.com/paradigmxyz/reth/pull/27967#pullrequestreview-5549675008) - 2026-10-16
+* [Pull Request] [fix(net): avoid unauthenticated identity penalties](https://github.com/paradigmxyz/reth/pull/27951) - 2026-10-16
+* [Pull Request] [fix(net): invalidate superseded dial events](https://github.com/paradigmxyz/reth/pull/27950) - 2026-10-16
+* [Pull Request] [fix(net): reserve outbound dial capacity](https://github.com/paradigmxyz/reth/pull/27946) - 2026-10-16
+* [Pull Request] [fix(net): restore persisted peer trust](https://github.com/paradigmxyz/reth/pull/27949) - 2026-10-16
+* [Review] [Review on: fix(net): restore persisted peer trust](https://github.com/paradigmxyz/reth/pull/27949#pullrequestreview-5547639012) - 2026-10-16
+* [Pull Request] [fix(rpc): enforce websocket origin allowlists](https://github.com/paradigmxyz/reth/pull/27952) - 2026-10-16
+* [Pull Request] [fix(net): always revoke trusted peer membership](https://github.com/paradigmxyz/reth/pull/27948) - 2026-10-16
+* [Pull Request] [fix(net): preserve longer peer bans](https://github.com/paradigmxyz/reth/pull/27947) - 2026-10-16
+* [Pull Request] [test(trie): share one provider factory across fuzz cases](https://github.com/paradigmxyz/reth/pull/27962) - 2026-10-16
+* [Pull Request] [test: avoid the KZG trusted setup in blob tests that don't verify proofs](https://github.com/paradigmxyz/reth/pull/27964) - 2026-10-16
+* [Pull Request] [test: let e2e tests pick the database release timeout on stop](https://github.com/paradigmxyz/reth/pull/27961) - 2026-10-16
+* [Pull Request] [test: replace fixed sleeps in libmdbx and session tests](https://github.com/paradigmxyz/reth/pull/27960) - 2026-10-16
+* [Pull Request] [test: load KZG settings lazily on e2e test nodes](https://github.com/paradigmxyz/reth/pull/27959) - 2026-10-16
+* [Pull Request] [perf: build crypto C libraries with optimizations in dev](https://github.com/paradigmxyz/reth/pull/27958) - 2026-10-16
+* [Pull Request] [perf(trie): use BTreeMap ranges in mock cursors](https://github.com/paradigmxyz/reth/pull/27957) - 2026-10-16
+* [Review] [Review on: refactor(trie): split V2 calculator module](https://github.com/paradigmxyz/reth/pull/27956#pullrequestreview-5547576052) - 2026-10-16
+* [Pull Request] [fix(net): retain blob fetch fallbacks](https://github.com/paradigmxyz/reth/pull/27955) - 2026-10-16
+* [Pull Request] [fix(cli): honor custom gas oracle defaults](https://github.com/paradigmxyz/reth/pull/27954) - 2026-10-16
+* [Review] [Review on: fix(downloaders): validate a sync target above the head](https://github.com/paradigmxyz/reth/pull/27937#pullrequestreview-5546569898) - 2026-10-16
+* [Commit] [fix(net): avoid unauthenticated identity penalties (#27951)](https://github.com/paradigmxyz/reth/commit/d00f4475120051dafc70c94aeb7336ccb684c8ef) - 2026-10-16
+* [Commit] [fix(net): invalidate superseded dial events (#27950)](https://github.com/paradigmxyz/reth/commit/b056ebac03144a0bcd89f10e4ae522c3a01de63d) - 2026-10-16
+* [Commit] [fix(net): reserve outbound dial capacity (#27946)](https://github.com/paradigmxyz/reth/commit/7fa176a2adfc332d9ff3a1cb5f92908a93427724) - 2026-10-16
+* [Commit] [fix(net): restore persisted peer trust (#27949)](https://github.com/paradigmxyz/reth/commit/3eeaf4931ca998fb192fd5ba5a097ba82a3c9054) - 2026-10-16
+* [Commit] [fix(rpc): enforce websocket origin allowlists (#27952)](https://github.com/paradigmxyz/reth/commit/ff26576000a31f391558517e1391d4dcbb15c864) - 2026-10-16
+* [Commit] [fix(net): always revoke trusted peer membership (#27948)](https://github.com/paradigmxyz/reth/commit/f9858796a53be55d5861b13e0eb6b22d8af85f9e) - 2026-10-16
+* [Commit] [fix(net): preserve longer peer bans (#27947)](https://github.com/paradigmxyz/reth/commit/292a7eeccf93107386354ab121ff73c161e816fc) - 2026-10-16
+* [Commit] [test(trie): share one provider factory across fuzz cases (#27962)](https://github.com/paradigmxyz/reth/commit/2a4d9de27786859da6798efe998cd0dbfeda3a21) - 2026-10-16
+* [Commit] [test: avoid the KZG trusted setup in blob tests that don't verify proofs (#27964)](https://github.com/paradigmxyz/reth/commit/137dea173553c34b4cda6668c71d8a3f38dcd66d) - 2026-10-16
+* [Commit] [test: let e2e tests pick the database release timeout on stop (#27961)](https://github.com/paradigmxyz/reth/commit/f725104fce8bd092cc75dc6c0425b0365c89c5d4) - 2026-10-16
+* [Commit] [test: replace fixed sleeps in libmdbx and session tests (#27960)](https://github.com/paradigmxyz/reth/commit/3248d75233652d6ce66a64ad37d1234ccd542155) - 2026-10-16
+* [Commit] [test: load KZG settings lazily on e2e test nodes (#27959)](https://github.com/paradigmxyz/reth/commit/4939845a19d54e1c363fc3f4c70fcf36c2f547ca) - 2026-10-16
+* [Commit] [perf: build crypto C libraries with optimizations in dev (#27958)](https://github.com/paradigmxyz/reth/commit/2929a02203a7813d6cb58bc3999df2c436b64520) - 2026-10-16
+* [Commit] [perf(trie): use BTreeMap ranges in mock cursors (#27957)](https://github.com/paradigmxyz/reth/commit/cbfee041eeee1c2349cc6b096483fc146f4454c6) - 2026-10-16
+* [Commit] [fix(rpc): restore geth's oracle threshold (#27895)](https://github.com/paradigmxyz/reth/commit/a64dec124ade8402a1c9ca49851760591439916a) - 2026-10-16
+* [Commit] [fix(cli): honor custom gas oracle defaults (#27954)](https://github.com/paradigmxyz/reth/commit/bb71dd4f8904f03486f91d81fc23b36792cd6c01) - 2026-10-16
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

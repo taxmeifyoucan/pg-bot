@@ -8,6 +8,11 @@ Team: Robust Incentives Group (RIG)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update Caspar Schwarz-Schilling's weight from 1 to 0.5](https://github.com/protocolguild/documentation/pull/586) - 2026-10-16
 ## Q2 2026
 
 

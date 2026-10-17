@@ -41,6 +41,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: feat(rpc): support debug_executionWitness for pre-Amsterdam blocks](https://github.com/besu-eth/besu/pull/11605#pullrequestreview-5541629604) - 2026-10-16
 * [Pull Request] [fix(core): record 7702 authorities without state gas](https://github.com/besu-eth/besu/pull/11606) - 2026-10-15
 * [Commit] [feat(core): let a block execution supply its block access list factory, (#11600)](https://github.com/besu-eth/besu/commit/e3021c6228d8647bdd627944d5f4df3b5701e1be) - 2026-10-15
+* [Review] [Review on: feat(rpc): support debug_executionWitness for pre-Amsterdam blocks](https://github.com/besu-eth/besu/pull/11605#pullrequestreview-5547311699) - 2026-10-16
+* [Commit] [fix(core): record 7702 authorities without state gas (#11606)](https://github.com/besu-eth/besu/commit/cae991006f46a196d33f438a0c7d8963db3f1851) - 2026-10-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08

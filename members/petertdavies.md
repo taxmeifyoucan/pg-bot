@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Peter Miller](https://github.com/protocolguild/documentation/pull/588) - 2026-10-16
 ## Q2 2026
 
 

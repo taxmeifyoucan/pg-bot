@@ -96,6 +96,29 @@ Team: Erigon
 * [Review] [Review on: cmd/utils/app: seg rm-state-snapshots treats a nil cursor as no state key](https://github.com/erigontech/erigon/pull/24888#pullrequestreview-5516547529) - 2026-10-14
 * [Review] [Review on: cmd/evm: t8n rejects an unsupported transaction type instead of panicking](https://github.com/erigontech/erigon/pull/24887#pullrequestreview-5516548234) - 2026-10-14
 * [Commit] [execution/engineapi, execution/execmodule: download the missing segment when a forkchoice update hits a header gap (#24865)](https://github.com/erigontech/erigon/commit/4c8cd49d73816b85877b06c9b04e10798074f7cd) - 2026-10-14
+* [Review] [Review on: exec: to not intern transient storage key ](https://github.com/erigontech/erigon/pull/24968#pullrequestreview-5555466890) - 2026-10-17
+* [Review] [Review on: cl/das, cl/phase1/stages: backfill custody columns of forward-synced blocks](https://github.com/erigontech/erigon/pull/24967#pullrequestreview-5555466750) - 2026-10-17
+* [Pull Request] [cl/phase1/forkchoice: keep pre-Gloas get_head vote weights across calls](https://github.com/erigontech/erigon/pull/24985) - 2026-10-17
+* [Review] [Review on: cl/phase1/execution_client: back off the direct payload build retry from 10 ms](https://github.com/erigontech/erigon/pull/24965#pullrequestreview-5550927933) - 2026-10-16
+* [Review] [Review on: cl/phase1/forkchoice, cl/spectest: assert Gloas PTC fork-choice steps and votes, run the remaining ssz_static vectors](https://github.com/erigontech/erigon/pull/24859#pullrequestreview-5542876785) - 2026-10-16
+* [Pull Request] [db/snapshotsync: fix stale RemoveOverlaps .tmp note on DumpCaplinState](https://github.com/erigontech/erigon/pull/24979) - 2026-10-16
+* [Review] [Review on: cl/phase1/network/registry: let one peer forward a whole PTC's votes at once](https://github.com/erigontech/erigon/pull/24973#pullrequestreview-5550928521) - 2026-10-16
+* [Review] [Review on: cl/phase1/network/registry: scale the attestation gossip budget with expected traffic](https://github.com/erigontech/erigon/pull/24970#pullrequestreview-5550928180) - 2026-10-16
+* [Review] [Review on: node: buffer gzip output before the response writer](https://github.com/erigontech/erigon/pull/24963#pullrequestreview-5550927685) - 2026-10-16
+* [Review] [Review on: rpc: calls with state overrides run on the versioned state path](https://github.com/erigontech/erigon/pull/24960#pullrequestreview-5550927290) - 2026-10-16
+* [Review] [Review on: execution/state: setCreatedCode reads the created account's code writes once](https://github.com/erigontech/erigon/pull/24957#pullrequestreview-5550927042) - 2026-10-16
+* [Review] [Review on: txnprovider/txpool: allow retries after NonceTooDistant eviction](https://github.com/erigontech/erigon/pull/24931#pullrequestreview-5550926697) - 2026-10-16
+* [Review] [Review on: execution/state: consistent existence verdict for a destroyed account](https://github.com/erigontech/erigon/pull/24921#pullrequestreview-5550926406) - 2026-10-16
+* [Review] [Review on: rpc: the replay methods (eth_callMany, eth_callBundle, debug_traceBlock*, debug_traceCallMany, debug_traceTransaction) use eth_call's state path](https://github.com/erigontech/erigon/pull/24920#pullrequestreview-5550926167) - 2026-10-16
+* [Review] [Review on: cl/phase1/forkchoice: keep fork-choice store time in milliseconds](https://github.com/erigontech/erigon/pull/24875#pullrequestreview-5542848077) - 2026-10-16
+* [Review] [Review on: cl/beacon/handler: collect unprepared Gloas payloads at a third of the attestation window](https://github.com/erigontech/erigon/pull/24948#pullrequestreview-5542961825) - 2026-10-16
+* [Review] [Review on: execution/state: keep BlockStateCache accounts and storage decoded](https://github.com/erigontech/erigon/pull/24505#pullrequestreview-5543981043) - 2026-10-16
+* [Review] [Review on: cl/beacon/handler: accept SSZ in POST /eth/v2/validator/aggregate_and_proofs](https://github.com/erigontech/erigon/pull/24927#pullrequestreview-5542911318) - 2026-10-16
+* [Pull Request] [db/kv/mdbx: SafeNoSync flushes from the poller, not inside the commit](https://github.com/erigontech/erigon/pull/24953) - 2026-10-16
+* [Issue] [db/snapshotsync: EL RemoveOverlaps reports caplin overlaps to the seeder, dropping their torrents while the files stay](https://github.com/erigontech/erigon/issues/24986) - 2026-10-17
+* [Commit] [db/kv/mdbx: SafeNoSync flushes from the poller, not inside the commit (#24953)](https://github.com/erigontech/erigon/commit/0c2261d79ed7995d0f2e9e1ca3e599fe8609bb7f) - 2026-10-16
+* [Commit] [commitment: build the ModeParallel prefix trie off the execution thread (#24252)](https://github.com/erigontech/erigon/commit/6efe84c762966f81d275108d92e1cd3bb9a323ca) - 2026-10-16
+* [Commit] [db/integrity, cmd/utils/app: detect RCache holes in empty blocks (#24400)](https://github.com/erigontech/erigon/commit/8c248136cfe847e2513af5c3cf96d319a7cb1746) - 2026-10-16
 ## Q3 2026
 
 

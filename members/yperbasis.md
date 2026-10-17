@@ -162,6 +162,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [txnprovider/txpool: allow P2P retries through body deduplication](https://github.com/erigontech/erigon/issues/24944) - 2026-10-15
 * [Commit] [ci: re-enable Glamsterdam stability check (#24935)](https://github.com/erigontech/erigon/commit/142a48feb9cd8c5b0a1979d6b62e29ad1fb18f13) - 2026-10-15
 * [Commit] [execution, cl: reject block access indices beyond len(transactions)+1 (#24908)](https://github.com/erigontech/erigon/commit/796e008804cd7de3691ec2210f51d455f9a4e9f3) - 2026-10-15
+* [Review] [Review on: cl/phase1/network/registry: let one peer forward a whole PTC's votes at once](https://github.com/erigontech/erigon/pull/24973#pullrequestreview-5549936583) - 2026-10-16
+* [Pull Request] [p2p/netutil, p2p/discover: count endpoint statements per network and expire them in order](https://github.com/erigontech/erigon/pull/24975) - 2026-10-16
+* [Pull Request] [p2p/sentry: bound queued bytes per peer for outbound messages](https://github.com/erigontech/erigon/pull/24977) - 2026-10-16
+* [Review] [Review on: cl/beacon: use Gloas preferences for proposer fee recipients](https://github.com/erigontech/erigon/pull/24937#pullrequestreview-5547031460) - 2026-10-16
+* [Commit] [cl/beacon: use Gloas preferences for proposer fee recipients (#24937)](https://github.com/erigontech/erigon/commit/40fa2dcad7de8eef4a34fb08dfd00b7af66ff426) - 2026-10-16
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

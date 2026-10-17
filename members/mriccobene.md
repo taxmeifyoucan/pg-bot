@@ -30,6 +30,7 @@ Team: Erigon
 * [Commit] [qa-tests: add a deep workspace cleanup step to all workflows (#24841)](https://github.com/erigontech/erigon/commit/437bc1d1520c8a93a21ab0f0920a3793c290ccbe) - 2026-10-13
 * [Issue] [Wrong trie root on a BAL driven block on Sepolia](https://github.com/erigontech/erigon/issues/24899) - 2026-10-14
 * [Issue] [An error reported by Exec-from-Zero test](https://github.com/erigontech/erigon/issues/24901) - 2026-10-14
+* [Review] [Review on: .github/workflows: pass --process-name rpcdaemon to rpc_perf only for erigon](https://github.com/erigontech/erigon/pull/24974#pullrequestreview-5550179662) - 2026-10-16
 ## Q3 2026
 
 

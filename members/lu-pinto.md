@@ -26,6 +26,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Disable tracer for transaction selection in plugins](https://github.com/besu-eth/besu/pull/11564) - 2026-10-12
 * [Review] [Review on: Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482#pullrequestreview-5491522619) - 2026-10-12
 * [Review] [Review on: Add DUP1-16 and SWAP1-16 to EVM v2](https://github.com/besu-eth/besu/pull/11482#pullrequestreview-5521291005) - 2026-10-14
+* [Review] [Review on: raise jmh forks to five](https://github.com/besu-eth/besu/pull/11620#pullrequestreview-5548029532) - 2026-10-16
+* [Review] [Review on: Saturate the Osaka MODEXP multiplication complexity instead of wrapping](https://github.com/besu-eth/besu/pull/11599#pullrequestreview-5545807569) - 2026-10-16
 ## Q3 2026
 
 

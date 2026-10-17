@@ -27,6 +27,13 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Serialize pending lists on beacon state endpoints without copying](https://github.com/grandinetech/grandine/pull/968) - 2026-10-10
 * [Pull Request] [Extend support for `GET /eth/v1/beacon/pool/payload_attestations`](https://github.com/grandinetech/grandine/pull/967) - 2026-10-10
 * [Pull Request] [Remove `GET /eth/v1/validator/execution_payload_bids/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/966) - 2026-10-10
+* [Commit] [Add PTC state endpoint](https://github.com/grandinetech/grandine/commit/d5eeacfca9da981ed283fb0d0691689177b63d1d) - 2026-10-16
+* [Commit] [Add builder bid identity to the block event](https://github.com/grandinetech/grandine/commit/7211f9fbe5778feee56fe11dd5975b619b286948) - 2026-10-16
+* [Commit] [Update Gloas attestation and slashing endpoints](https://github.com/grandinetech/grandine/commit/33247373f9c1ccbe52662929a98a182d4c59229c) - 2026-10-16
+* [Commit] [Extend support for `GET /eth/v1/beacon/pool/payload_attestations`](https://github.com/grandinetech/grandine/commit/ee7db48aa0d3058f4bd9e6c41d365980eb385827) - 2026-10-16
+* [Commit] [Serialize pending state lists without copying](https://github.com/grandinetech/grandine/commit/93ea53af9c6537f08ebbccebcc4db87f0af0720e) - 2026-10-16
+* [Commit] [Update `payload_attributes` event data for post-gloas](https://github.com/grandinetech/grandine/commit/2609b731821b04a597577f45b0e17741916e2188) - 2026-10-16
+* [Commit] [Remove `GET /eth/v1/validator/execution_payload_bids/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/commit/834aceb64ddfc021ced5cc7374fb4768f2dd976b) - 2026-10-16
 ## Q3 2026
 
 

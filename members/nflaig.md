@@ -278,6 +278,21 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: remove signer from validator store if its index is known (#10386)](https://github.com/ChainSafe/lodestar/commit/c6e566f9155eb2a0ee98e73a02811cee713c827f) - 2026-10-15
 * [Commit] [fix: record source state clone count (#10348)](https://github.com/ChainSafe/lodestar/commit/2b933d3b9a4c8f6cfa04287d81c93426c5bdcbee) - 2026-10-15
 * [Commit] [chore: keep current slot duration in heze (#10398)](https://github.com/ChainSafe/lodestar/commit/99edacec5247cfa3bc8c10a8f8e64ef243cfe6c8) - 2026-10-15
+* [Pull Request] [fix: reject index-1 attestations to an engine-invalidated payload](https://github.com/ChainSafe/lodestar/pull/10426) - 2026-10-16
+* [Review] [Review on: fix: reject index-1 attestations to an engine-invalidated payload](https://github.com/ChainSafe/lodestar/pull/10426#pullrequestreview-5554148331) - 2026-10-16
+* [Pull Request] [feat: make the builder bid deadline configurable](https://github.com/ChainSafe/lodestar/pull/10422) - 2026-10-16
+* [Review] [Review on: feat: make the builder bid deadline configurable](https://github.com/ChainSafe/lodestar/pull/10422#pullrequestreview-5550565157) - 2026-10-16
+* [Pull Request] [feat: delay and repeat builder bid requests per proposal](https://github.com/ChainSafe/lodestar/pull/10425) - 2026-10-16
+* [Review] [Review on: feat: delay and repeat builder bid requests per proposal](https://github.com/ChainSafe/lodestar/pull/10425#pullrequestreview-5551756822) - 2026-10-16
+* [Pull Request] [fix: check the parent payload before importing a repeat proposal in gloas](https://github.com/ChainSafe/lodestar/pull/10424) - 2026-10-16
+* [Review] [Review on: fix: check the parent payload before importing a repeat proposal in gloas](https://github.com/ChainSafe/lodestar/pull/10424#pullrequestreview-5551324572) - 2026-10-16
+* [Pull Request] [feat: do not wait for the bid deadline when no bid can be selected](https://github.com/ChainSafe/lodestar/pull/10423) - 2026-10-16
+* [Pull Request] [fix: ignore known payload envelopes before deserializing them](https://github.com/ChainSafe/lodestar/pull/10419) - 2026-10-16
+* [Pull Request] [fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420) - 2026-10-16
+* [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5549212596) - 2026-10-16
+* [Review] [Review on: test: run heze spec tests with the vector's slot duration schedule](https://github.com/ChainSafe/lodestar/pull/10418#pullrequestreview-5548089725) - 2026-10-16
+* [Pull Request] [fix: scale heze rewards and churn relative to SLOT_DURATION_MS](https://github.com/ChainSafe/lodestar/pull/10417) - 2026-10-16
+* [Pull Request] [fix: do not prefer an unsatisfied payload as head during its own slot](https://github.com/ChainSafe/lodestar/pull/10416) - 2026-10-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -290,6 +305,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741) - 2026-10-14
 * [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5522415581) - 2026-10-14
 * [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5531544772) - 2026-10-15
+* [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5547788291) - 2026-10-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
@@ -331,6 +347,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: implement gloas state transition](https://github.com/ChainSafe/lodestar-z/pull/764#pullrequestreview-5517014427) - 2026-10-14
 * [Review] [Review on: fix: include histogram upper bounds](https://github.com/ChainSafe/lodestar-z/pull/766#pullrequestreview-5517016295) - 2026-10-14
 * [Commit] [fix: include histogram upper bounds (#766)](https://github.com/ChainSafe/lodestar-z/commit/f6fbe2069c209643a69bf1893ee399d5f64f22f4) - 2026-10-14
+* [Pull Request] [feat: add gnosis preset](https://github.com/ChainSafe/lodestar-z/pull/791) - 2026-10-16
+* [Commit] [feat: add gnosis preset (#791)](https://github.com/ChainSafe/lodestar-z/commit/ba4f89e967bdb498f1d856f699f1ba2b863be330) - 2026-10-16
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026

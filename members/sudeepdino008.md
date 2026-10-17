@@ -15,6 +15,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [bsc: pascal / prague support](https://github.com/erigontech/erigon/pull/24506) - 2026-10-02
 * [Issue] [cmd: snapshots rm-state --step=N+ removes all state files when no file ends after step N](https://github.com/erigontech/erigon/issues/24778) - 2026-10-12
 * [Pull Request] [cmd/erigon, docs: ship a PGO profile for the erigon binary](https://github.com/erigontech/erigon/pull/24837) - 2026-10-13
+* [Pull Request] [db/seg: fix compressor hang on superstrings send after ctx cancel](https://github.com/erigontech/erigon/pull/24962) - 2026-10-16
 ## Q3 2026
 
 

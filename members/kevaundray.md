@@ -19,6 +19,9 @@ Team: Consensus R&D (EF)
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Commit] [feat(hegota): Implement 7709 (#12742)](https://github.com/NethermindEth/nethermind/commit/9288ff7546479d0e66d72f0e67dc175d8273269f) - 2026-10-15
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Do not activate 0x00 validators](https://github.com/ethereum/consensus-specs/pull/5744#pullrequestreview-5554508764) - 2026-10-16
 ## Q3 2026
 
 

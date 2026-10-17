@@ -30,6 +30,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Skip operation tracer calls in the EVM loop when tracing is disabled (#11566)](https://github.com/besu-eth/besu/commit/bcc81b798b3b69d20bceea7c531340ddf041c6a4) - 2026-10-13
 * [Review] [Review on: Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962#pullrequestreview-5515784187) - 2026-10-14
 * [Pull Request] [Log BFT block pending count after the pool removes confirmed txs](https://github.com/besu-eth/besu/pull/11609) - 2026-10-15
+* [Review] [Review on: raise jmh forks to five](https://github.com/besu-eth/besu/pull/11620#pullrequestreview-5549978242) - 2026-10-16
+* [Pull Request] [Revert "Fail loudly when account code cannot be read (#11456)"](https://github.com/besu-eth/besu/pull/11630) - 2026-10-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

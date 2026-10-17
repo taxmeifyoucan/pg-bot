@@ -22,6 +22,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Impose size limit on seenCache in LibP2PGossipNetworkBuilder](https://github.com/Consensys-Incorporated/teku/pull/11445#pullrequestreview-5449928991) - 2026-10-08
 * [Commit] [Subscribe to head_v2 events once gloas is scheduled (#11416)](https://github.com/Consensys-Incorporated/teku/commit/4b32943ea80f7b202d497fa1b5ed19ad0458c776) - 2026-10-07
 * [Review] [Review on: Impose size limit on seenCache in LibP2PGossipNetworkBuilder](https://github.com/Consensys-Incorporated/teku/pull/11445#pullrequestreview-5485465894) - 2026-10-11
+* [Review] [Review on: Set Fulu genesis deposit_requests_start_index to deposit count](https://github.com/Consensys-Incorporated/teku/pull/11496#pullrequestreview-5542512624) - 2026-10-16
 ## Q3 2026
 
 

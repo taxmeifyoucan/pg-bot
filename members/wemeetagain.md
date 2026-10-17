@@ -74,6 +74,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: isolate selection proof failures per validator](https://github.com/ChainSafe/lodestar/pull/10387#pullrequestreview-5538832933) - 2026-10-15
 * [Review] [Review on: fix: remove signer from validator store if its index is known](https://github.com/ChainSafe/lodestar/pull/10386#pullrequestreview-5538787187) - 2026-10-15
 * [Review] [Review on: fix: record source state clone count](https://github.com/ChainSafe/lodestar/pull/10348#pullrequestreview-5538722134) - 2026-10-15
+* [Review] [Review on: chore: upgrade js-libp2p to 3.4.0](https://github.com/ChainSafe/lodestar/pull/10427#pullrequestreview-5555488392) - 2026-10-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -102,6 +103,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: use ReleaseSafe in bench run instructions](https://github.com/ChainSafe/lodestar-z/pull/785#pullrequestreview-5518856126) - 2026-10-14
 * [Commit] [perf: stream progressive tree reads (#745)](https://github.com/ChainSafe/lodestar-z/commit/5fbb0e23a64c9a3e3670135787dd750f573630ec) - 2026-10-15
 * [Commit] [perf: stream progressive tree construction (#746)](https://github.com/ChainSafe/lodestar-z/commit/41fa6dde7d560c9c673fcf1621fef4a76ed3c152) - 2026-10-14
+* [Review] [Review on: build: add AFL++ fuzzing image](https://github.com/ChainSafe/lodestar-z/pull/787#pullrequestreview-5555469663) - 2026-10-17
+* [Review] [Review on: feat: add gnosis preset](https://github.com/ChainSafe/lodestar-z/pull/791#pullrequestreview-5548007977) - 2026-10-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

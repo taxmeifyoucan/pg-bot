@@ -332,6 +332,79 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(engine): derive advertised SSZ-REST fork-scoped endpoints from the routing table (#14674)](https://github.com/NethermindEth/nethermind/commit/d8414d184a81c749bfa6885ef572e75a15057b3a) - 2026-10-15
 * [Commit] [perf(zkevm): look up zero subtree pairs in ZisK SSZ merkleization (#14428)](https://github.com/NethermindEth/nethermind/commit/35643f59a4d8503a7640651c1690e9bdb68b1e90) - 2026-10-15
 * [Commit] [fix(bal): record system-address reads made by system contract code (#14641)](https://github.com/NethermindEth/nethermind/commit/8883439f6a744fc343c5425102dba310732b6639) - 2026-10-15
+* [Pull Request] [perf(rpc): scan eth_getLogs ranges in ordered chunks instead of PLINQ](https://github.com/NethermindEth/nethermind/pull/14824) - 2026-10-17
+* [Pull Request] [perf(zkvm): read dispatch tables and opcode bytes without SP1 alignment tests](https://github.com/NethermindEth/nethermind/pull/14822) - 2026-10-17
+* [Pull Request] [perf(rpc): read struct-log stack words straight from the evm slots](https://github.com/NethermindEth/nethermind/pull/14821) - 2026-10-17
+* [Pull Request] [perf(state): coalesce account updates within a snapshot](https://github.com/NethermindEth/nethermind/pull/14819) - 2026-10-16
+* [Pull Request] [perf(evm): test BN254 G2 subgroup membership with the psi endomorphism](https://github.com/NethermindEth/nethermind/pull/14817) - 2026-10-16
+* [Pull Request] [perf(evm): drop zero-scalar terms from BLS12-381 MSM after validation](https://github.com/NethermindEth/nethermind/pull/14815) - 2026-10-16
+* [Review] [Review on: perf(evm): drop zero-scalar terms from BLS12-381 MSM after validation](https://github.com/NethermindEth/nethermind/pull/14815#pullrequestreview-5553230690) - 2026-10-16
+* [Pull Request] [perf(evm): check BN254 G2 subgroup membership once in the pairing precompile](https://github.com/NethermindEth/nethermind/pull/14816) - 2026-10-16
+* [Pull Request] [perf(tracing): keep JavaScript tracer log objects stable across steps](https://github.com/NethermindEth/nethermind/pull/14811) - 2026-10-16
+* [Review] [Review on: perf(tracing): keep JavaScript tracer log objects stable across steps](https://github.com/NethermindEth/nethermind/pull/14811#pullrequestreview-5553255886) - 2026-10-16
+* [Pull Request] [perf(tracing): skip action input copies for vmTrace-only parity traces](https://github.com/NethermindEth/nethermind/pull/14812) - 2026-10-16
+* [Pull Request] [perf(zkevm): run ZisK's 256-bit arithmetic precompiles as CSR writes](https://github.com/NethermindEth/nethermind/pull/14774) - 2026-10-16
+* [Review] [Review on: perf(zkevm): run ZisK's 256-bit arithmetic precompiles as CSR writes](https://github.com/NethermindEth/nethermind/pull/14774#pullrequestreview-5545213855) - 2026-10-16
+* [Pull Request] [perf(evm): return shared result arrays from the pairing check precompiles](https://github.com/NethermindEth/nethermind/pull/14814) - 2026-10-16
+* [Pull Request] [perf(rpc): read a single receipt for transaction lookups](https://github.com/NethermindEth/nethermind/pull/14769) - 2026-10-16
+* [Review] [Review on: perf(rpc): read a single receipt for transaction lookups](https://github.com/NethermindEth/nethermind/pull/14769#pullrequestreview-5543577940) - 2026-10-16
+* [Pull Request] [refactor(zkevm): reach ZisK's arithmetic and JUMPDEST precompiles through Nethermind.Zkvm.Abstractions](https://github.com/NethermindEth/nethermind/pull/14782) - 2026-10-16
+* [Review] [Review on: refactor(zkevm): reach ZisK's arithmetic and JUMPDEST precompiles through Nethermind.Zkvm.Abstractions](https://github.com/NethermindEth/nethermind/pull/14782#pullrequestreview-5549358219) - 2026-10-16
+* [Pull Request] [perf(rpc): write eth_getLogs json straight from receipts](https://github.com/NethermindEth/nethermind/pull/14790) - 2026-10-16
+* [Review] [Review on: perf(rpc): write eth_getLogs json straight from receipts](https://github.com/NethermindEth/nethermind/pull/14790#pullrequestreview-5549424884) - 2026-10-16
+* [Pull Request] [perf(state): overwrite an unobserved account update in place](https://github.com/NethermindEth/nethermind/pull/14793) - 2026-10-16
+* [Pull Request] [fix(engine): align SSZ REST invalid-params status and empty BAL handling with spec](https://github.com/NethermindEth/nethermind/pull/14806) - 2026-10-16
+* [Review] [Review on: fix(engine): align SSZ REST invalid-params status and empty BAL handling with spec](https://github.com/NethermindEth/nethermind/pull/14806#pullrequestreview-5551975019) - 2026-10-16
+* [Pull Request] [fix(flat): observe caller cancellation directly in WarmReadPool](https://github.com/NethermindEth/nethermind/pull/14792) - 2026-10-16
+* [Review] [Review on: refactor(network): remove peripheral DotNetty usages and add an RLPx round-trip benchmark](https://github.com/NethermindEth/nethermind/pull/14728#pullrequestreview-5552078773) - 2026-10-16
+* [Pull Request] [test(tracing): judge storage-map reuse by the cheapest tx, not the average](https://github.com/NethermindEth/nethermind/pull/14810) - 2026-10-16
+* [Pull Request] [fix(blocktree): keep lookups overlapping a deletion from re-caching deleted blocks](https://github.com/NethermindEth/nethermind/pull/14797) - 2026-10-16
+* [Review] [Review on: fix(blocktree): keep lookups overlapping a deletion from re-caching deleted blocks](https://github.com/NethermindEth/nethermind/pull/14797#pullrequestreview-5549431110) - 2026-10-16
+* [Pull Request] [perf(zkvm): run SP1 and OpenVM MUL in a frameless native handler](https://github.com/NethermindEth/nethermind/pull/14784) - 2026-10-16
+* [Commit] [perf(zkevm): charge fused guest steps in one gas test (#14760)](https://github.com/NethermindEth/nethermind/commit/cd336c4ccce9526d5f775ea857851a94e13e60a9) - 2026-10-16
+* [Commit] [perf(rpc): grow eth_getLogs result list on demand instead of renting max capacity (#14751)](https://github.com/NethermindEth/nethermind/commit/ce93457f0abde6daa78877ab3756c0002e33208d) - 2026-10-16
+* [Commit] [perf(zkvm): run SP1 and OpenVM MUL in a frameless native handler (#14784)](https://github.com/NethermindEth/nethermind/commit/00bf33b7afa7565e05f60b7fdb6aec4ee9f9cfa3) - 2026-10-16
+* [Commit] [perf(rpc): count block transactions and uncles from hashes-only blocks (#14767)](https://github.com/NethermindEth/nethermind/commit/76cd72e145a198be3f08c2c6f8a9329dd1581641) - 2026-10-16
+* [Commit] [fix(rpc): stop disposing JsonRpcContext in the allocation harness (#14807)](https://github.com/NethermindEth/nethermind/commit/567c4a924c63867a38f76ae35f857a2d4d7352d9) - 2026-10-16
+* [Commit] [perf(rpc): reuse one response writer per socket connection (#14768)](https://github.com/NethermindEth/nethermind/commit/f8a939db811c3606e24b2eed5966f81d3ce2063d) - 2026-10-16
+* [Commit] [perf(rpc): load trace_filter block bodies lazily (#14766)](https://github.com/NethermindEth/nethermind/commit/94b960eb2f624bf7c50ab95207fbf1265b5f11a5) - 2026-10-16
+* [Commit] [perf(rpc): skip receipts and unread logs in trace replays (#14776)](https://github.com/NethermindEth/nethermind/commit/9cbff27953857445d80c79863743ec0158194052) - 2026-10-16
+* [Commit] [perf(rpc): write receipt logs through one log entry per thread (#14778)](https://github.com/NethermindEth/nethermind/commit/c68146f7b3dc1a57646b3e6224dc186bb68534e6) - 2026-10-16
+* [Commit] [perf(rpc): take tx senders from stored receipts instead of ecrecover (#14763)](https://github.com/NethermindEth/nethermind/commit/d425a1aff48f37a81c09e0e4322440a84fef6a16) - 2026-10-16
+* [Commit] [perf(rpc): cut call tracer allocations per frame and per transaction (#14752)](https://github.com/NethermindEth/nethermind/commit/6820c446dc5576f743f29a4f2d2c7a0fd66c44c8) - 2026-10-16
+* [Commit] [perf(rpc): read fee history gas used without decoding full receipts (#14761)](https://github.com/NethermindEth/nethermind/commit/dc8851134b887cf74d441be7a7f00d095d0c561d) - 2026-10-16
+* [Commit] [perf(rpc): scan small eth_getLogs ranges without PLINQ (#14762)](https://github.com/NethermindEth/nethermind/commit/d5eb4a4acefee36d0b7b61be61b59c323ec1767f) - 2026-10-16
+* [Commit] [perf(rpc): publish the request context without an async-local write (#14788)](https://github.com/NethermindEth/nethermind/commit/f1c5160ed1846b930528dee535e51acbed06e024) - 2026-10-16
+* [Commit] [perf(rpc): return scoped timeout sources to the pool instead of disposing them (#14750)](https://github.com/NethermindEth/nethermind/commit/375364bac57537f5ff6151835389f23c71308393) - 2026-10-16
+* [Commit] [perf(rpc): reuse one transaction copy across gas estimation runs (#14749)](https://github.com/NethermindEth/nethermind/commit/edb15793a79c392987006bca0c904d383a93ca8c) - 2026-10-16
+* [Commit] [perf(rpc): write stored parity traces without materializing per-action items (#14744)](https://github.com/NethermindEth/nethermind/commit/d88a4df37afb865133f60566207096cc0583097b) - 2026-10-16
+* [Commit] [test(network): fix static-node flake and DotNetty log spam (#14739)](https://github.com/NethermindEth/nethermind/commit/6639c69b37430b066866c793324c9d7829bc2e4e) - 2026-10-16
+* [Commit] [perf(zkevm): unseal a trie write's ancestors at once (#14733)](https://github.com/NethermindEth/nethermind/commit/f876c042f70e55c3fe980aa60a1d1ef8f4b9861a) - 2026-10-16
+* [Commit] [perf(ssz): keep list decode loops free of per-item zeroing and reloads (#14731)](https://github.com/NethermindEth/nethermind/commit/876ec39b3d5c7a79f68aa804ff9937e9ab060808) - 2026-10-16
+* [Commit] [perf(network)!: remove per-peer allocations from tx announcements and broadcast (#14698)](https://github.com/NethermindEth/nethermind/commit/2ddc69839c6bf1170d7a8d9c89db6bcd47b2f0dd) - 2026-10-16
+* [Commit] [perf(rpc): rent available exclusive modules as cached completed tasks (#14754)](https://github.com/NethermindEth/nethermind/commit/4f04f1ab8d54e80f23d4a47277906cb78df15281) - 2026-10-16
+* [Commit] [perf(state): reuse the commit trace dictionaries across traced commits (#14780)](https://github.com/NethermindEth/nethermind/commit/d7bca23de53cd3d335642e2e2e92ac7065c3185c) - 2026-10-16
+* [Commit] [perf(rpc): clone the call header once per eth_call, estimateGas and createAccessList (#14779)](https://github.com/NethermindEth/nethermind/commit/4007a09f91992af1ee0f3caabd8e7b9b68593cf1) - 2026-10-16
+* [Commit] [perf(tracing): reuse the per-transaction cancellation tracer during replays (#14772)](https://github.com/NethermindEth/nethermind/commit/31876b59d6b71d41db9ce07917f1c7ba1ad661a8) - 2026-10-16
+* [Commit] [perf(rpc): recycle parity transaction tracers when streaming a block traced in parallel (#14771)](https://github.com/NethermindEth/nethermind/commit/3603b69a858002f011d75592713e20668e24ce1e) - 2026-10-16
+* [Commit] [perf(zkevm): carry the stack's top slot through the guest dispatch chain (#14759)](https://github.com/NethermindEth/nethermind/commit/c40b479064fd235e42a09ddbb3a885f91d56b082) - 2026-10-16
+* [Commit] [perf(core): share the bloom when cloning a block header (#14753)](https://github.com/NethermindEth/nethermind/commit/66ee7120623096c02bcdac76827ffdfecd7be636) - 2026-10-16
+* [Commit] [perf(rpc): return synchronous eth results without a task wrapper (#14777)](https://github.com/NethermindEth/nethermind/commit/7385582bd5477cd4f6a8a3e95828b9118b3637d1) - 2026-10-16
+* [Commit] [perf(state): build the account struct directly in TryGetAccount (#14775)](https://github.com/NethermindEth/nethermind/commit/b04c7e2331438df935266e302fcf2d15e45542ed) - 2026-10-16
+* [Commit] [perf(rpc): return struct-log storage maps to the pool between transactions (#14781)](https://github.com/NethermindEth/nethermind/commit/fb78bd7d0dc36b5e273fde6007b5b8ac91955fb4) - 2026-10-16
+* [Commit] [test(rpc): add an end-to-end allocation harness for JSON-RPC methods (#14783)](https://github.com/NethermindEth/nethermind/commit/8d66f8ce02d19e5fa09c9ebb0dd54683a73d591f) - 2026-10-16
+* [Commit] [perf(rpc): reference transaction data in callTracer frames instead of copying (#14787)](https://github.com/NethermindEth/nethermind/commit/20b41eae824e67bc048851d1849ce86a1589d042) - 2026-10-16
+* [Commit] [perf(zkevm): encode accounts straight into their array (#14737)](https://github.com/NethermindEth/nethermind/commit/ec57c22aad8051a3240642c531389c2c98ed31e4) - 2026-10-16
+* [Commit] [perf(zkevm): splice changed children into a sparse branch's previous RLP (#14732)](https://github.com/NethermindEth/nethermind/commit/28abff93c72c0c47423e184dc142f479de709675) - 2026-10-16
+* [Commit] [perf(rpc): share one empty access list wrapper for typed transactions (#14756)](https://github.com/NethermindEth/nethermind/commit/e83103aee981b29fdd4ef19f7a9284b4eab02070) - 2026-10-16
+* [Commit] [perf(rpc): load only the header in debug_getRawHeader (#14758)](https://github.com/NethermindEth/nethermind/commit/7217f616f6655cd361cc018ffa98fb429ddd0c64) - 2026-10-16
+* [Commit] [perf(rlp): compute compact-decoded receipt blooms lazily (#14755)](https://github.com/NethermindEth/nethermind/commit/5da0a320bb9a24a2d4b655e5cf130a80e56d159e) - 2026-10-16
+* [Commit] [perf(json): parse 0x-prefixed long/ulong strings without allocating (#14765)](https://github.com/NethermindEth/nethermind/commit/10752ac6a4ca6a20aa1999bd5087b32741808b81) - 2026-10-16
+* [Commit] [perf(rpc): reuse the result wrapper for the first response instead of cloning it (#14742)](https://github.com/NethermindEth/nethermind/commit/97da401a9f92d129223ade58540b5b37c5d72468) - 2026-10-16
+* [Commit] [perf(rpc): reuse the response Utf8JsonWriter per thread (#14747)](https://github.com/NethermindEth/nethermind/commit/f1d1055405791f2f95efcb33df90ad3b45dd42d7) - 2026-10-16
+* [Commit] [perf(zkevm): walk a trie write's key by offset and index its stack by word (#14736)](https://github.com/NethermindEth/nethermind/commit/470c6c51a3d8af4b1e228adcc701a9a8f04708b7) - 2026-10-16
+* [Commit] [build(zkevm): drop the SP1 guest's own memcpy for the bflat image's (#14735)](https://github.com/NethermindEth/nethermind/commit/abd3b0aebcc3a5f616b99f145e58bfa4484254d7) - 2026-10-16
+* [Commit] [perf(zkevm): trim the keccak glue around witness and commit hashing (#14729)](https://github.com/NethermindEth/nethermind/commit/1045f3636daf36ecee3cfa00ce37c9025961c363) - 2026-10-16
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -356,6 +429,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [perf(zkvm): link a 64-bit memcpy into the sp1 and openvm guests](https://github.com/NethermindEth/bflat-riscv64/pull/57) - 2026-10-15
 * [Commit] [perf(zkvm): link a 64-bit memmove and memset into the sp1 and openvm guests](https://github.com/NethermindEth/bflat-riscv64/commit/b7f3eba323e22952101cbc03291e10a3a9e28079) - 2026-10-15
 * [Commit] [perf(zkvm): link a 64-bit memcpy into the sp1 and openvm guests](https://github.com/NethermindEth/bflat-riscv64/commit/74d12e11831b0580cfeb9eb09ead69c8ca87cb98) - 2026-10-15
+* [Pull Request] [perf(zisk): emit the arith256, arith256_mod and JUMPDEST bitmap precompiles as CSR writes](https://github.com/NethermindEth/bflat-riscv64/pull/59) - 2026-10-16
+* [Pull Request] [fix(zisk): end the guest RAM below ZisK 1.4's library RAM](https://github.com/NethermindEth/bflat-riscv64/pull/60) - 2026-10-16
+* [Commit] [perf(zisk): emit the arith256, arith256_mod and JUMPDEST bitmap precompiles as CSR writes](https://github.com/NethermindEth/bflat-riscv64/commit/e10cdcb7e02f9a165bd4b992c1b6afbcad5689e6) - 2026-10-16
+* [Commit] [fix(zisk): end the guest RAM below ZisK 1.4's library RAM](https://github.com/NethermindEth/bflat-riscv64/commit/fae25099cdf8c374842e9ce060bf24738afc75f2) - 2026-10-16
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
@@ -389,6 +466,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fixup/10,11: riscv64 NEW_ARRAY_FAST - keep the size across the TLS call](https://github.com/NethermindEth/dotnet-riscv/commit/d97d170d3bedafb02bfbcbd5d973b150dec6a2bb) - 2026-10-13
 * [Commit] [test(riscv64): cover allocation sizes across TLS calls](https://github.com/NethermindEth/dotnet-riscv/commit/99b89a411cad8ee5f0c38b4a34e1f3fa37c19f25) - 2026-10-15
 * [Commit] [test(jit): cover inline boxing header corruption](https://github.com/NethermindEth/dotnet-riscv/commit/0423d426371b35b36a55e439795e58daf7d72e76) - 2026-10-15
+* [Pull Request] [fixup/11/upstream: perf-76 - strict alignment keeps the aligned path to the test and the access](https://github.com/NethermindEth/dotnet-riscv/pull/29) - 2026-10-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

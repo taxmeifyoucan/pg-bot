@@ -125,6 +125,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/forkchoice: bound the checkpoint state cache (#24902)](https://github.com/erigontech/erigon/commit/5ba61f988ae51a7a80e668ff1549e945626b1d0a) - 2026-10-15
 * [Commit] [cl/phase1/network/services: reject aggregates whose aggregation bits have the wrong length (#24903)](https://github.com/erigontech/erigon/commit/fc07a5c089562674df763639aecedb1e7a6d3396) - 2026-10-15
 * [Commit] [cl: align consensus and fork choice with v1.7.0-beta.4 (#24831)](https://github.com/erigontech/erigon/commit/1bd2775e0e6b3eb7f29e074fabad6b9ecc133d21) - 2026-10-15
+* [Review] [Review on: cl/phase1/forkchoice, cl/spectest: assert Gloas PTC fork-choice steps and votes, run the remaining ssz_static vectors](https://github.com/erigontech/erigon/pull/24859#pullrequestreview-5552103919) - 2026-10-16
+* [Pull Request] [cl/beacon/handler: use the head root as the dependent root for slots after the head](https://github.com/erigontech/erigon/pull/24980) - 2026-10-16
+* [Pull Request] [cl/phase1/network/registry: scale the attestation gossip budget with expected traffic](https://github.com/erigontech/erigon/pull/24970) - 2026-10-16
+* [Pull Request] [cl/phase1/forkchoice: keep fork-choice store time in milliseconds](https://github.com/erigontech/erigon/pull/24875) - 2026-10-16
+* [Review] [Review on: cl/beacon: use Gloas preferences for proposer fee recipients](https://github.com/erigontech/erigon/pull/24937#pullrequestreview-5543417845) - 2026-10-16
+* [Review] [Review on: cl/aggregation: count each committee member's vote once](https://github.com/erigontech/erigon/pull/24955#pullrequestreview-5546604891) - 2026-10-16
+* [Review] [Review on: cl/beacon/handler: verify the selected attestations against the proposal state](https://github.com/erigontech/erigon/pull/24959#pullrequestreview-5546547011) - 2026-10-16
+* [Review] [Review on: cl: close the persistent block collector when the stage loop exits](https://github.com/erigontech/erigon/pull/24892#pullrequestreview-5543281048) - 2026-10-16
+* [Commit] [cl/phase1/forkchoice: keep fork-choice store time in milliseconds (#24875)](https://github.com/erigontech/erigon/commit/d8243bd18a024ed424684a63961305a98ca2b8a5) - 2026-10-16
+* [Commit] [cl/beacon/handler: collect unprepared Gloas payloads at a third of the attestation window (#24948)](https://github.com/erigontech/erigon/commit/1f4a9bb8f228ec2761d97565973a0b6bdb28cdd4) - 2026-10-16
+* [Commit] [cl/beacon/handler: accept SSZ in POST /eth/v2/validator/aggregate_and_proofs (#24927)](https://github.com/erigontech/erigon/commit/4e19586edc44f7202e18afdb749196434b97179c) - 2026-10-16
 ## Q3 2026
 
 

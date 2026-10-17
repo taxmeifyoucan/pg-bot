@@ -8,6 +8,12 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Fix fork choice compliance test runner failure](https://github.com/ethereum/consensus-specs/pull/5747) - 2026-10-16
+* [Commit] [Fix fork choice compliance test runner failure (#5747)](https://github.com/ethereum/consensus-specs/commit/460fd37c3a58f6baf8a9a285d2adf71c4f818929) - 2026-10-16
 ## Q3 2026
 
 

@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: refactor: simplify BlockProcessor signatures with BlockExecutionContext.](https://github.com/besu-eth/besu/pull/11308#pullrequestreview-5497028319) - 2026-10-12
 * [Pull Request] [perf: fix quadratic slowdown in LayeredKeyValueStorage reads on deep layer chains](https://github.com/besu-eth/besu/pull/11587) - 2026-10-14
 * [Commit] [perf: check base storage directly in LayeredKeyValueStorage.isClosed() (#11587)](https://github.com/besu-eth/besu/commit/4942495f71cbea17a1321d27868ef8d96231419b) - 2026-10-14
+* [Issue] [Snap sync: peers returning empty receipts are reselected repeatedly and stall the chain download](https://github.com/besu-eth/besu/issues/11615) - 2026-10-16
 ## Q3 2026
 
 

@@ -251,6 +251,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(network)!: remove per-peer allocations from tx announcements and broadcast](https://github.com/NethermindEth/nethermind/pull/14698#pullrequestreview-5537960937) - 2026-10-15
 * [Review] [Review on: perf(txpool): skip decoding gossiped transactions the pool already knows](https://github.com/NethermindEth/nethermind/pull/14682#pullrequestreview-5537957651) - 2026-10-15
 * [Review] [Review on: refactor(bal): share BAL-to-state deltas between catch-up and healing](https://github.com/NethermindEth/nethermind/pull/14660#pullrequestreview-5534163943) - 2026-10-15
+* [Review] [Review on: fix(history): default the rolling history retention to the chain floor](https://github.com/NethermindEth/nethermind/pull/14622#pullrequestreview-5547778745) - 2026-10-16
+* [Review] [Review on: perf(zkevm): charge fused guest steps in one gas test](https://github.com/NethermindEth/nethermind/pull/14760#pullrequestreview-5546236237) - 2026-10-16
+* [Review] [Review on: perf(rpc): grow eth_getLogs result list on demand instead of renting max capacity](https://github.com/NethermindEth/nethermind/pull/14751#pullrequestreview-5546282071) - 2026-10-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

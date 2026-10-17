@@ -55,6 +55,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: serve cached pages and queue briefly before returning too many requests](https://github.com/ethpandaops/dora/commit/aeac09f004c9920b8d07ac69dedaa33df351a1ab) - 2026-10-14
 * [Review] [Review on: fix: keep fork id of re-processed fork leaf blocks and reject nil block bodies](https://github.com/ethpandaops/dora/pull/904#pullrequestreview-5528483955) - 2026-10-15
 * [Review] [Review on: fix: seed the finality checkpoint before the first justification](https://github.com/ethpandaops/dora/pull/906#pullrequestreview-5535598486) - 2026-10-15
+* [Pull Request] [feat: show self-built bid value from payload priority fees](https://github.com/ethpandaops/dora/pull/909) - 2026-10-16
+* [Pull Request] [fix: bump docker go to 1.26.8 and check it against go.mod in CI](https://github.com/ethpandaops/dora/pull/910) - 2026-10-16
+* [Review] [Review on: Execution proofs: index, interpret and verify EIP-8025 proofs; crash-safe unfinalized metadata](https://github.com/ethpandaops/dora/pull/905#pullrequestreview-5544490070) - 2026-10-16
+* [Review] [Review on: fix: prefer scheduled forks in the spec majority; fix validator pager](https://github.com/ethpandaops/dora/pull/907#pullrequestreview-5544856951) - 2026-10-16
+* [Commit] [Merge pull request #905 from ethpandaops/pk910/execution-proofs-index](https://github.com/ethpandaops/dora/commit/69668258289139b4d99405c80f6c80b828238128) - 2026-10-16
+* [Commit] [Merge branch 'master' into pk910/execution-proofs-index](https://github.com/ethpandaops/dora/commit/ff6d00acc18a7c61032b931c62dd5f432ef29297) - 2026-10-16
+* [Commit] [Merge pull request #907 from ethpandaops/pk910/specs-prefer-scheduled-fork](https://github.com/ethpandaops/dora/commit/08bf0d4504e1cc335b3441112cfb18ba104030b8) - 2026-10-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -79,6 +86,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [ci: run consensus client interop through assertoor](https://github.com/ChainSafe/lodestar/pull/10365) - 2026-10-12
 * [Review] [Review on: fix: resolve builder pubkeys in a single pass in getStateBuilders](https://github.com/ChainSafe/lodestar/pull/10408#pullrequestreview-5534155424) - 2026-10-15
+* [Pull Request] [test: run heze spec tests with the vector's slot duration schedule](https://github.com/ChainSafe/lodestar/pull/10418) - 2026-10-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
@@ -120,6 +128,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: stop penalizing peers for data columns of invalid or unclaimed blocks](https://github.com/status-im/nimbus-eth2/pull/9288) - 2026-10-15
 * [Issue] [feat: implement missing beacon-APIs v5.0.0-beta.0 endpoints](https://github.com/status-im/nimbus-eth2/issues/9290) - 2026-10-15
 * [Issue] [Invalid blocks with blobs make nimbus disconnect honest peers via by-root column sync](https://github.com/status-im/nimbus-eth2/issues/9287) - 2026-10-15
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275) - 2026-10-16
 ## Q3 2026
 
 

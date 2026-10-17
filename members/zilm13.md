@@ -23,6 +23,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Cover BeaconChainController with tests](https://github.com/Consensys-Incorporated/teku/issues/11500) - 2026-10-15
 * [Commit] [Reuse block post-state for payload attestation votes (#11501)](https://github.com/Consensys-Incorporated/teku/commit/4f87c3acfa123f6198c1a6d34cd283d79b857ac3) - 2026-10-15
 * [Commit] [VC warn when no head events arrive from a beacon node (#11329)](https://github.com/Consensys-Incorporated/teku/commit/f91019989bef205bf2ded0f5a81453140e9d4c9a) - 2026-10-15
+* [Pull Request] [DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508) - 2026-10-16
+* [Review] [Review on: DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508#pullrequestreview-5552785323) - 2026-10-16
+* [Pull Request] [Send payload attestations when the payload is available](https://github.com/Consensys-Incorporated/teku/pull/11509) - 2026-10-16
+* [Commit] [Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns (#11250)](https://github.com/Consensys-Incorporated/teku/commit/e59e16e32aea108df97ca40a9e68df582735e8da) - 2026-10-16
 ## Q3 2026
 
 

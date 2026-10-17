@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Sync: Fix requests columns by root should not exceed max blocks requirement.](https://github.com/status-im/nimbus-eth2/pull/9206) - 2026-10-05
 * [Pull Request] [Syncing: Refactor endless loop detection without time measurements.](https://github.com/status-im/nimbus-eth2/pull/9249) - 2026-10-09
 * [Pull Request] [Syncing: Fix sidecars queue start window should move while not started yet.](https://github.com/status-im/nimbus-eth2/pull/9291) - 2026-10-15
+* [Commit] [Fix sidecars queue should be updated with start_slot too until it is not running. (#9291)](https://github.com/status-im/nimbus-eth2/commit/c84505a2a01fca34dd22ae67aeec67ad45b694b2) - 2026-10-16
 ## Q3 2026
 
 

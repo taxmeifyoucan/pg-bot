@@ -42,6 +42,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714) - 2026-10-15
 * [Review] [Review on: Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714#pullrequestreview-5535664289) - 2026-10-15
 * [Commit] [Keep relay links observed while dropping inactive builders (#17714)](https://github.com/OffchainLabs/prysm/commit/e1fcb06edc150f6744bf7b7be06cbd03269b7a42) - 2026-10-15
+* [Pull Request] [Allow multiple builder bid requests per Gloas proposal](https://github.com/OffchainLabs/prysm/pull/17723) - 2026-10-16
 ## Q3 2026
 
 

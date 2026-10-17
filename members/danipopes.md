@@ -58,6 +58,10 @@ Team: Reth
 * [Review] [Review on: feat(db): enable safe-no-sync in nightly images](https://github.com/paradigmxyz/reth/pull/27938#pullrequestreview-5540350901) - 2026-10-15
 * [Pull Request] [perf(db): default MDBX to safe-no-sync](https://github.com/paradigmxyz/reth/pull/27934) - 2026-10-15
 * [Review] [Review on: fix(bench): preserve BALs in historical replay](https://github.com/paradigmxyz/reth/pull/27928#pullrequestreview-5539292492) - 2026-10-15
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 2 updates](https://github.com/paradigmxyz/reth/pull/27973#pullrequestreview-5555176811) - 2026-10-17
+* [Review] [Review on: fix(ci): buffer the action update cooldown](https://github.com/paradigmxyz/reth/pull/27972#pullrequestreview-5553967511) - 2026-10-16
+* [Pull Request] [perf(trie): hash trie nodes and state keys in SIMD batches](https://github.com/paradigmxyz/reth/pull/27970) - 2026-10-16
+* [Pull Request] [perf: skip log collection where logs are unused](https://github.com/paradigmxyz/reth/pull/27968) - 2026-10-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

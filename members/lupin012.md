@@ -91,6 +91,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/jsonrpc: reject max nonce sender in eth_simulateV1 without validation](https://github.com/erigontech/erigon/pull/24851#pullrequestreview-5539190796) - 2026-10-15
 * [Pull Request] [db/kv/stream, db/kv/mdbx: Intersect and Union skip ahead with Seek](https://github.com/erigontech/erigon/pull/24924) - 2026-10-15
 * [Pull Request] [db/kv/rawdbv3: TxNums2BlockNums searches from the current block](https://github.com/erigontech/erigon/pull/24933) - 2026-10-15
+* [Pull Request] [.github/workflows: pass --process-name rpcdaemon to rpc_perf only for erigon](https://github.com/erigontech/erigon/pull/24974) - 2026-10-16
+* [Pull Request] [rpc: require a JSON content type on GET calls](https://github.com/erigontech/erigon/pull/24969) - 2026-10-16
+* [Pull Request] [rpc/jsonrpc: bound the authorization list of trace_rawTransaction before decoding](https://github.com/erigontech/erigon/pull/24966) - 2026-10-16
+* [Review] [Review on: db/kv/stream, db/kv/mdbx: Intersect and Union skip ahead with Seek](https://github.com/erigontech/erigon/pull/24924#pullrequestreview-5544260598) - 2026-10-16
+* [Pull Request] [rpc/jsonrpc: require the code argument of overlay_callConstructor](https://github.com/erigontech/erigon/pull/24961) - 2026-10-16
+* [Pull Request] [rpc/jsonrpc: report blob transactions in txpool_content, contentFrom and inspect](https://github.com/erigontech/erigon/pull/24958) - 2026-10-16
+* [Commit] [db/kv/stream, db/kv/mdbx: Intersect and Union skip ahead with Seek (#24924)](https://github.com/erigontech/erigon/commit/6ddc94700f037f033d07018636620dfcf0e5d82b) - 2026-10-16
+* [Commit] [db/kv/rawdbv3: TxNums2BlockNums searches from the current block (#24933)](https://github.com/erigontech/erigon/commit/8c2befe1c931fbb73f8d64ff1d7dead8968e847f) - 2026-10-16
+* [Commit] [rpc/gasprice, rpc/jsonrpc: check the gas price tip cache without reading the head header (#24871)](https://github.com/erigontech/erigon/commit/4386fd29ddbcae081cd7636eaafd83d21cc59049) - 2026-10-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

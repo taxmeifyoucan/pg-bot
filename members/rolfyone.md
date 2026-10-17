@@ -85,6 +85,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Set Gloas attestation index from fork choice payload status](https://github.com/Consensys-Incorporated/teku/pull/11498) - 2026-10-15
 * [Issue] [prepare for merging heze branch to master](https://github.com/Consensys-Incorporated/teku/issues/11504) - 2026-10-16
 * [Issue] [Follow-up peer scoring improvements in multipeer range sync](https://github.com/Consensys-Incorporated/teku/issues/11499) - 2026-10-15
+* [Pull Request] [Verify validator deposit signatures lazily at Gloas builder onboarding](https://github.com/Consensys-Incorporated/teku/pull/11511) - 2026-10-16
+* [Pull Request] [Check head payload_status in fork choice reference tests](https://github.com/Consensys-Incorporated/teku/pull/11505) - 2026-10-16
+* [Review] [Review on: Set Fulu genesis deposit_requests_start_index to deposit count](https://github.com/Consensys-Incorporated/teku/pull/11496#pullrequestreview-5543112702) - 2026-10-16
+* [Issue] [look into consensus specs -builder deposits at upgrade](https://github.com/Consensys-Incorporated/teku/issues/11510) - 2026-10-16
+* [Commit] [Check head payload_status in fork choice reference tests (#11505)](https://github.com/Consensys-Incorporated/teku/commit/60286f605d444064dd335aff1e025342aa81e5d3) - 2026-10-16
+* [Commit] [Set Fulu genesis deposit_requests_start_index to deposit count (#11496)](https://github.com/Consensys-Incorporated/teku/commit/07e391dee9cadf5d5fe40095139a353fb34e9520) - 2026-10-16
+* [Commit] [Bound memory held by gossip blocks waiting for validation (#11503)](https://github.com/Consensys-Incorporated/teku/commit/2d3a7789353a163fe4f1c74e8be4a4a2f549b75b) - 2026-10-16
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

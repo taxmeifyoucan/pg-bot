@@ -33,6 +33,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Review] [Review on: Update EIP-8250: make keyed nonces single-use spent flags](https://github.com/ethereum/EIPs/pull/12467#pullrequestreview-5501172931) - 2026-10-13
 * [Pull Request] [Update EIP-8250: mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/EIPs/pull/12511) - 2026-10-15
 * [Review] [Review on: Update EIP-8250: mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/EIPs/pull/12511#pullrequestreview-5532849515) - 2026-10-15
+* [Pull Request] [Update EIP-8279: Remove unsafe storage-value refund](https://github.com/ethereum/EIPs/pull/12526) - 2026-10-16
+* [Review] [Review on: Update EIP-8250: mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/EIPs/pull/12511#pullrequestreview-5545257946) - 2026-10-16
+* [Commit] [Update EIP-8250: mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/EIPs/commit/56b645be8a4c7830ee3ea94aa7eda1e3b5ed7fe7) - 2026-10-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 ## Q3 2026

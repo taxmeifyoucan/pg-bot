@@ -101,6 +101,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Add DUP1-16 and SWAP1-16 to EVM v2 (#11482)](https://github.com/besu-eth/besu/commit/47b084ca9dca56cb7b1740a2c0f26797935be69d) - 2026-10-14
 * [Review] [Review on: Store the Bonsai world state keys per trie branch](https://github.com/besu-eth/besu/pull/11603#pullrequestreview-5534379330) - 2026-10-15
 * [Pull Request] [Bound the in-memory Bonsai layers of blocks imported without a fork choice](https://github.com/besu-eth/besu/pull/11601) - 2026-10-15
+* [Review] [Review on: ci workflow to run on release* branch](https://github.com/besu-eth/besu/pull/11613#pullrequestreview-5543025962) - 2026-10-16
+* [Review] [Review on: Revert "Fail loudly when account code cannot be read (#11456)"](https://github.com/besu-eth/besu/pull/11630#pullrequestreview-5549997335) - 2026-10-16
+* [Review] [Review on: SNAP2: Remove the snap/2 world state download behind --Xsnap2-enabled](https://github.com/besu-eth/besu/pull/11618#pullrequestreview-5547113773) - 2026-10-16
+* [Pull Request] [Only move the chain head to blocks fork choice selected in backward sync](https://github.com/besu-eth/besu/pull/11616) - 2026-10-16
+* [Review] [Review on: Only move the chain head to blocks fork choice selected in backward sync](https://github.com/besu-eth/besu/pull/11616#pullrequestreview-5546612077) - 2026-10-16
+* [Review] [Review on: SNAP2: Add the request scheduler](https://github.com/besu-eth/besu/pull/11621#pullrequestreview-5547753008) - 2026-10-16
+* [Review] [Review on: SNAP2: Add batch writes that skip the conflict checks of a transaction](https://github.com/besu-eth/besu/pull/11617#pullrequestreview-5546842749) - 2026-10-16
+* [Review] [Review on: Hold the Bonsai account storage root in a storage root strategy](https://github.com/besu-eth/besu/pull/11607#pullrequestreview-5544968867) - 2026-10-16
+* [Pull Request] [fix: reuse the ethstats WebSocket client across reconnects](https://github.com/besu-eth/besu/pull/11614) - 2026-10-16
+* [Commit] [fix: reuse the ethstats WebSocket client across reconnects (#11614)](https://github.com/besu-eth/besu/commit/b5344a13662aec328fe68a6f142845196092f0a2) - 2026-10-16
+* [Commit] [Fail loudly when account code cannot be read (#11456)](https://github.com/besu-eth/besu/commit/7325f180893bd8db7a25c5d8c1f2eb0dda92b637) - 2026-10-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 ## Q3 2026

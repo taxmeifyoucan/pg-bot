@@ -59,6 +59,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Mark the prewarm handoff's transaction processor through its registration (#14331)](https://github.com/NethermindEth/nethermind/commit/139e60357d1c8d2c5e299dfcdbbd4899e4716774) - 2026-10-15
 * [Commit] [perf(blockchain): write a suggested block's header off the engine API path (#14466)](https://github.com/NethermindEth/nethermind/commit/b9b63b0e292bd748802a34deb58e5a7497544da5) - 2026-10-15
 
+* [Pull Request] [feat(evm): extend plugin execution hooks](https://github.com/NethermindEth/nethermind/pull/14820) - 2026-10-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

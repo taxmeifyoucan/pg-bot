@@ -58,6 +58,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: REST VC: Pad or truncate the block graffiti to 32 bytes](https://github.com/OffchainLabs/prysm/pull/17693#pullrequestreview-5515015515) - 2026-10-14
 * [Commit] [Doppelganger: Remove the `enable-doppelganger` feature flag warning, log the startup check at info level, and log its duration when done. (#17696)](https://github.com/OffchainLabs/prysm/commit/36456341fbc04dfa9d28a81c2c9077093842ca64) - 2026-10-14
 * [Review] [Review on: Some more optimisations for the partial columns flow](https://github.com/OffchainLabs/prysm/pull/17709#pullrequestreview-5534330116) - 2026-10-15
+* [Review] [Review on: Read the latest payload header only for pre-Gloas states in batch import](https://github.com/OffchainLabs/prysm/pull/17698#pullrequestreview-5548067166) - 2026-10-16
+* [Pull Request] [Implement on top of Heze](https://github.com/OffchainLabs/prysm/pull/17726) - 2026-10-16
+* [Review] [Review on: Heze boilerplate](https://github.com/OffchainLabs/prysm/pull/17721#pullrequestreview-5547385727) - 2026-10-16
+* [Review] [Review on: Encode Gloas state `ptc_window` JSON as an array of arrays](https://github.com/OffchainLabs/prysm/pull/17719#pullrequestreview-5545341331) - 2026-10-16
+* [Review] [Review on: Emit `PayloadAttributesV4` in the `payload_attributes` event from Gloas](https://github.com/OffchainLabs/prysm/pull/17720#pullrequestreview-5545384283) - 2026-10-16
+* [Review] [Review on: Make `committee_index` optional for `attestation_data` at every fork](https://github.com/OffchainLabs/prysm/pull/17718#pullrequestreview-5545393806) - 2026-10-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

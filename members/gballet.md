@@ -13,6 +13,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Commit] [params: add chainspecs support (#35585)](https://github.com/ethereum/go-ethereum/commit/d68cf359f9876a58fa41c1beab28cd05bc9df9a0) - 2026-10-06
+* [Review] [Review on: core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955#pullrequestreview-5545225535) - 2026-10-16
 ## Q3 2026
 
 

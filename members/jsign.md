@@ -35,6 +35,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): reject a witness with more headers than the SSZ list limit](https://github.com/ethereum/execution-specs/pull/3793#pullrequestreview-5508132545) - 2026-10-13
 * [Review] [Review on: feat(zkevm): reject witness headers that break the chain below the parent](https://github.com/ethereum/execution-specs/pull/3792#pullrequestreview-5507953693) - 2026-10-13
 * [Review] [Review on: feat(zkevm): require the delegate's code even when it is a single STOP](https://github.com/ethereum/execution-specs/pull/3791#pullrequestreview-5507923760) - 2026-10-13
+* [Pull Request] [fix(zkevm): skip witness fixtures that REST+SSZ cannot encode](https://github.com/ethereum/execution-specs/pull/3843) - 2026-10-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 

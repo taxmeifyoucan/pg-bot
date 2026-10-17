@@ -23,6 +23,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Stateless: bump bflat, ZisK 1.3.2-alpha and the SP1 and OpenVM runners](https://github.com/NethermindEth/nethermind/pull/14670) - 2026-10-14
 * [Commit] [build(zkevm): bump the bflat RISC-V64 image to b7f3eba (#14730)](https://github.com/NethermindEth/nethermind/commit/bc69f148a614506a742ab7f08aee9f1e7c7455f4) - 2026-10-15
 * [Commit] [Stateless: bump bflat, ZisK 1.3.2-alpha and the SP1 and OpenVM runners (#14670)](https://github.com/NethermindEth/nethermind/commit/973ed6060d14d84925dfe557219729e1cc63264e) - 2026-10-15
+* [Commit] [build(zkevm): bump bflat to e10cdcb7, ZiskOS.Runtime to 1.3.2-alpha.147, Zkvm.Abstractions to 1.0.0-preview.8 (#14800)](https://github.com/NethermindEth/nethermind/commit/2dbc814b15f07429b7a0a2dd8898bee5cad70a83) - 2026-10-16
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

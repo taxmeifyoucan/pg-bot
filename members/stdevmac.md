@@ -189,6 +189,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [feat(jsonrpc): include caller address in debug request logs (#14316)](https://github.com/NethermindEth/nethermind/commit/6b0c63f80f1c4ca3f53494bef2b5cfa3ce5a6cc1) - 2026-10-15
 * [Commit] [fix(test-runner): keep traced nethtest stderr JSON-only and dispose state-test containers asynchronously (#14638)](https://github.com/NethermindEth/nethermind/commit/15715773db8e73eaa8a306761ee33446735436b1) - 2026-10-15
 * [Commit] [fix(simulate): treat children of post-merge blocks as post-merge (#14665)](https://github.com/NethermindEth/nethermind/commit/8091c588b1616c9f6af60eaf6d5fed01ef3edd53) - 2026-10-15
+* [Pull Request] [ci(hive): tolerate the new eth_simulateV1 -32602 override fixtures until simulate rejects them](https://github.com/NethermindEth/nethermind/pull/14802) - 2026-10-16
+* [Issue] [Snapshot streaming: range probe with bytes=0-0 gets 200 from our Cloudflare host, so downloads fall back to a single non-resumable stream](https://github.com/NethermindEth/nethermind/issues/14770) - 2026-10-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

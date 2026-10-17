@@ -190,6 +190,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix(sync): recover catch-up receipt senders and rank receipt/BAL requests by their own speed (#14662)](https://github.com/NethermindEth/nethermind/commit/a429a7c32436afea9d0914104149cc59cbca7264) - 2026-10-15
 * [Commit] [fix(producer): don't let discarded transactions shift receipt indexes (#14614)](https://github.com/NethermindEth/nethermind/commit/3ec801de3ea03d231974699ef26b9651253fd69b) - 2026-10-15
 * [Commit] [ci: run parallel BAL variants on Amsterdam transition fixtures (#14612)](https://github.com/NethermindEth/nethermind/commit/950f841df53482d28e45e5dbf39ee278be27f39b) - 2026-10-15
+* [Review] [Review on: fix(history): default the rolling history retention to the chain floor](https://github.com/NethermindEth/nethermind/pull/14622#pullrequestreview-5553679828) - 2026-10-16
+* [Review] [Review on: perf(zkevm): run ZisK's 256-bit arithmetic precompiles as CSR writes](https://github.com/NethermindEth/nethermind/pull/14774#pullrequestreview-5546998694) - 2026-10-16
+* [Review] [Review on: perf(zkvm): run SP1 and OpenVM MUL in a frameless native handler](https://github.com/NethermindEth/nethermind/pull/14784#pullrequestreview-5546998139) - 2026-10-16
+* [Commit] [refactor(bal): share BAL-to-state deltas between catch-up and healing (#14660)](https://github.com/NethermindEth/nethermind/commit/953184962c6b5e39e8e40da6be3d565434563a81) - 2026-10-16
+* [Commit] [fix(crypto): compare legacy v against the chain id without overflow (#14649)](https://github.com/NethermindEth/nethermind/commit/60518b8183ed7e0b81252edad8e48573f891dfba) - 2026-10-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -214,6 +219,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: add EIP-8288 inclusion list proof methods](https://github.com/ethereum/execution-apis/pull/945) - 2026-10-16
 ## Q3 2026
 
 

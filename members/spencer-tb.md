@@ -78,6 +78,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758#pullrequestreview-5516772370) - 2026-10-14
 * [Commit] [perf(test-types): compute allocation state roots incrementally (#3782)](https://github.com/ethereum/execution-specs/commit/f35860194c0b2321e84644d4af112633a7187d3f) - 2026-10-14
 * [Commit] [perf(test-fill, test-evm-tools): count opcodes only for benchmark tests (#3790)](https://github.com/ethereum/execution-specs/commit/14d6b15c63624b97e8de5762751749124b4f5528) - 2026-10-15
+* [Pull Request] [feat(spec-tools,test-forks): build unscheduled features on the latest fork](https://github.com/ethereum/execution-specs/pull/3841) - 2026-10-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -102,6 +103,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update EIP-7906: name the TXTRACE and TXDIFF params](https://github.com/ethereum/EIPs/commit/7d3570401baf6d9eac25c4f8fccf26d05de37032) - 2026-10-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5462620440) - 2026-10-08
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550138498) - 2026-10-16
 ## Q3 2026
 
 

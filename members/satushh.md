@@ -38,6 +38,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Read IPv6-specific tcp6/quic6 ENR ports when dialing IPv6 peer endpoints](https://github.com/OffchainLabs/prysm/pull/17704) - 2026-10-14
 * [Pull Request] [execution: options to serve getPayload and getBlobs in-process](https://github.com/OffchainLabs/prysm/pull/17702) - 2026-10-14
 * [Review] [Review on: Implement EIP-8365: disallow new 0x00 validators](https://github.com/OffchainLabs/prysm/pull/17679#pullrequestreview-5532002841) - 2026-10-15
+* [Commit] [Verify payload attestation signatures on RPC submission (#17363)](https://github.com/OffchainLabs/prysm/commit/948f8d2052432ebae3f6e2194c83b35f46566a99) - 2026-10-16
 ## Q3 2026
 
 

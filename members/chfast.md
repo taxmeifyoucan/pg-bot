@@ -123,6 +123,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [t8n: Output the block access list (#1758)](https://github.com/ipsilon/evmone/commit/c084c0bcf9bb78ab27f824c689d0fcde48fccfc5) - 2026-10-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 ## Q3 2026
 
 

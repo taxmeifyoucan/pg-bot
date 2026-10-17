@@ -39,6 +39,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Update consensus-spec-tests to v1.7.0-beta.4](https://github.com/grandinetech/grandine/pull/983#pullrequestreview-5515455042) - 2026-10-14
 * [Commit] [Enable nethermind integration in stable releases](https://github.com/grandinetech/grandine/commit/72441c81aeea4fe8ce2bb12208ad8dcdb8dc6cca) - 2026-10-15
 * [Commit] [Make pre-release tags published as unstable](https://github.com/grandinetech/grandine/commit/6944c417843382730f1c6a7496d97544c4ebeaeb) - 2026-10-15
+* [Pull Request] [Optimize ProgressivePersistentList](https://github.com/grandinetech/grandine/pull/986) - 2026-10-16
+* [Review] [Review on: Add PTC state endpoint](https://github.com/grandinetech/grandine/pull/973#pullrequestreview-5546519017) - 2026-10-16
+* [Issue] [Investigate why lighthouse disconnects grandine nodes in local kurtosis runs](https://github.com/grandinetech/grandine/issues/987) - 2026-10-16
+* [Commit] [Added bundles for PersistentProgressiveList](https://github.com/grandinetech/grandine/commit/e60be4773c0c87648ad399df58a8fdafa38b1cdd) - 2026-10-16
 ## Q3 2026
 
 

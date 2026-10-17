@@ -41,6 +41,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth2/pull/9293) - 2026-10-15
 * [Pull Request] [Implement proposer lookahead check in ExecutionPayloadBid gossip](https://github.com/status-im/nimbus-eth2/pull/9286) - 2026-10-15
 * [Pull Request] [Use correct fork for sending ProposerPreferences at transition](https://github.com/status-im/nimbus-eth2/pull/9289) - 2026-10-15
+* [Pull Request] [Use proper Xcode SDK path for Github macos-latest](https://github.com/status-im/nimbus-eth2/pull/9295) - 2026-10-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

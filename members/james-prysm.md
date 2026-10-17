@@ -66,6 +66,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Some more optimisations for the partial columns flow](https://github.com/OffchainLabs/prysm/pull/17709#pullrequestreview-5534437551) - 2026-10-15
 * [Commit] [HeadState to HeadStateReadonly (#17716)](https://github.com/OffchainLabs/prysm/commit/92d7413ec24d17219899b11db8ebf8dfedbca6b4) - 2026-10-15
 * [Commit] [deposit limit check (#17715)](https://github.com/OffchainLabs/prysm/commit/e204f972f81b2b7f31fa7685fdb2eb5d75437932) - 2026-10-15
+* [Pull Request] [changelog for v7.3.0](https://github.com/OffchainLabs/prysm/pull/17727) - 2026-10-16
+* [Pull Request] [skip peers with unknown state](https://github.com/OffchainLabs/prysm/pull/17728) - 2026-10-16
+* [Pull Request] [make sure gas-limit flag overwrote everything](https://github.com/OffchainLabs/prysm/pull/17725) - 2026-10-16
+* [Review] [Review on: Read the latest payload header only for pre-Gloas states in batch import](https://github.com/OffchainLabs/prysm/pull/17698#pullrequestreview-5549430863) - 2026-10-16
+* [Review] [Review on: Spectests: Add `epoch_processing` tests](https://github.com/OffchainLabs/prysm/pull/17646#pullrequestreview-5549414625) - 2026-10-16
+* [Review] [Review on: Spectests: Add missing light client tests](https://github.com/OffchainLabs/prysm/pull/17645#pullrequestreview-5543281062) - 2026-10-16
 ## Q3 2026
 
 

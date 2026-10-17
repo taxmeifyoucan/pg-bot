@@ -89,6 +89,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [CHANGELOG: list the GHSAs in 26.x releases](https://github.com/besu-eth/besu/pull/11608) - 2026-10-15
 * [Review] [Review on: feat(core): let a block execution supply its block access list factory,](https://github.com/besu-eth/besu/pull/11600#pullrequestreview-5528124452) - 2026-10-15
 * [Commit] [codeowners for github dir (#11612)](https://github.com/besu-eth/besu/commit/cd634800d7909dd3c46a54f3beb3c2aacdd5e023) - 2026-10-16
+* [Pull Request] [Reconciliation: merge release-26.10.0 into main](https://github.com/besu-eth/besu/pull/11623) - 2026-10-16
+* [Review] [Review on: Apply the calldata floor to the total gas used before refunds](https://github.com/besu-eth/besu/pull/11580#pullrequestreview-5543334655) - 2026-10-16
+* [Review] [Review on: Lift the execution gas cap in eth_simulateV1 without validation](https://github.com/besu-eth/besu/pull/11579#pullrequestreview-5543283126) - 2026-10-16
+* [Review] [Review on: fix(rpc): remove precompile from simulation registry when code is overridden](https://github.com/besu-eth/besu/pull/11604#pullrequestreview-5543020248) - 2026-10-16
+* [Commit] [ci workflow to run on release* branch (#11613)](https://github.com/besu-eth/besu/commit/8c5ce6ac38364d1f0d13006de41c861f2dc4df1a) - 2026-10-17
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

@@ -45,6 +45,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: perf(test-fill, test-evm-tools): count opcodes only for benchmark tests](https://github.com/ethereum/execution-specs/pull/3790#pullrequestreview-5535750717) - 2026-10-15
 * [Review] [Review on: chore(test-client-clis): map Reth gas limit errors in heze devnet [backport forks/bogota]](https://github.com/ethereum/execution-specs/pull/3834#pullrequestreview-5535324904) - 2026-10-15
 * [Commit] [feat(test-specs): Test function receives fork's genesis pre-alloc (#3830)](https://github.com/ethereum/execution-specs/commit/e9f61531e7254279068961c64be2e7a5070cc10e) - 2026-10-15
+* [Pull Request] [fix(specs): Add touched addresses to the BAL in an invalid-transaction test](https://github.com/ethereum/execution-specs/pull/3848) - 2026-10-16
+* [Review] [Review on: fix(test-cli): make `evm_bytes` output re-encode to the input bytecode](https://github.com/ethereum/execution-specs/pull/3844#pullrequestreview-5553903385) - 2026-10-16
+* [Review] [Review on: docs(consume): describe the client test runner interface](https://github.com/ethereum/execution-specs/pull/3846#pullrequestreview-5553327177) - 2026-10-16
+* [Review] [Review on: perf(test-fill, test-fixtures, ci): speed up the end of release fills](https://github.com/ethereum/execution-specs/pull/3808#pullrequestreview-5552525383) - 2026-10-16
+* [Review] [Review on: perf(ci, doc, test-fill): speed up PR checks](https://github.com/ethereum/execution-specs/pull/3813#pullrequestreview-5550984381) - 2026-10-16
+* [Review] [Review on: fix(test-execute): accept a hex value for --eoa-start](https://github.com/ethereum/execution-specs/pull/3839#pullrequestreview-5549693664) - 2026-10-16
+* [Review] [Review on: chore(skill): correct stale facts in the repo skills](https://github.com/ethereum/execution-specs/pull/3838#pullrequestreview-5549753702) - 2026-10-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

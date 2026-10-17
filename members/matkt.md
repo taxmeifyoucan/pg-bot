@@ -59,6 +59,21 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Read the root and block hash of a cached block once, not per world state](https://github.com/besu-eth/besu/pull/11510#pullrequestreview-5528550074) - 2026-10-15
 * [Pull Request] [Hold the Bonsai account storage root in a storage root strategy](https://github.com/besu-eth/besu/pull/11607) - 2026-10-15
 * [Commit] [Store the Bonsai world state keys per trie branch (#11603)](https://github.com/besu-eth/besu/commit/af374597f84084eb1944ab0494239ca60e2d8ad7) - 2026-10-15
+* [Pull Request] [SNAP2: Add the range proofs and the ascending collapse Patricia trie](https://github.com/besu-eth/besu/pull/11626) - 2026-10-16
+* [Pull Request] [SNAP2: Remove the snap/2 world state download behind --Xsnap2-enabled](https://github.com/besu-eth/besu/pull/11618) - 2026-10-16
+* [Review] [Review on: SNAP2: Remove the snap/2 world state download behind --Xsnap2-enabled](https://github.com/besu-eth/besu/pull/11618#pullrequestreview-5547170841) - 2026-10-16
+* [Pull Request] [Pass the block hash to the world state check of eth_getProof](https://github.com/besu-eth/besu/pull/11619) - 2026-10-16
+* [Pull Request] [SNAP2: Add the sync storage and the storage trie updates](https://github.com/besu-eth/besu/pull/11625) - 2026-10-16
+* [Pull Request] [SNAP2: Add the request scheduler](https://github.com/besu-eth/besu/pull/11621) - 2026-10-16
+* [Pull Request] [SNAP2: Add batch writes that skip the conflict checks of a transaction](https://github.com/besu-eth/besu/pull/11617) - 2026-10-16
+* [Review] [Review on: SNAP2: Add batch writes that skip the conflict checks of a transaction](https://github.com/besu-eth/besu/pull/11617#pullrequestreview-5546932945) - 2026-10-16
+* [Review] [Review on: feat(rpc): support debug_executionWitness for pre-Amsterdam blocks](https://github.com/besu-eth/besu/pull/11605#pullrequestreview-5547070835) - 2026-10-16
+* [Pull Request] [Split the Patricia code out of the state root committers](https://github.com/besu-eth/besu/pull/11624) - 2026-10-16
+* [Pull Request] [Download the Pyroscope agent with retries instead of a Dockerfile ADD](https://github.com/besu-eth/besu/pull/11622) - 2026-10-16
+* [Review] [Review on: Hold the Bonsai account storage root in a storage root strategy](https://github.com/besu-eth/besu/pull/11607#pullrequestreview-5546117548) - 2026-10-16
+* [Commit] [SNAP2: Remove the snap/2 world state download behind --Xsnap2-enabled (#11618)](https://github.com/besu-eth/besu/commit/2f7b3232c524362663090d3e10c1be515fee2bad) - 2026-10-16
+* [Commit] [SNAP2: Add batch writes that skip the conflict checks of a transaction (#11617)](https://github.com/besu-eth/besu/commit/0776d82f33edf30012ebb8774fd231b8fc2fd9a1) - 2026-10-16
+* [Commit] [Hold the Bonsai account storage root in a storage root strategy (#11607)](https://github.com/besu-eth/besu/commit/05584e82dd22182a1895b24f7937043d0cbd2069) - 2026-10-16
 ## Q3 2026
 
 
