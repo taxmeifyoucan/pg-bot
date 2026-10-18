@@ -20,6 +20,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: Split `http_api` tests by preset](https://github.com/sigp/lighthouse/pull/10284#pullrequestreview-5471457410) - 2026-10-09
 * [Review] [Review on: Convert `network` and `lighthouse_network` tests to Spec](https://github.com/sigp/lighthouse/pull/10290#pullrequestreview-5521252622) - 2026-10-14
 * [Review] [Review on: Convert `beacon_node` crate tests to Spec](https://github.com/sigp/lighthouse/pull/10291#pullrequestreview-5530389151) - 2026-10-15
+
+[sigp/enr](https://github.com/sigp/enr)
+* [Review] [Review on: Replace Decodable impl with Enr::decode returning enr::Error](https://github.com/sigp/enr/pull/93#pullrequestreview-5557791526) - 2026-10-17
 ## Q3 2026
 
 

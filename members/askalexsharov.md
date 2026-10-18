@@ -340,6 +340,24 @@ Team: Erigon
 * [Commit] [cl/phase1/stages: chain-tip sync flushes the block collector with the stage context (#24895)](https://github.com/erigontech/erigon/commit/0b03d262a16b8fd2e74b3e900e08063e059a1f25) - 2026-10-16
 * [Commit] [cl/transition: ProcessSyncAggregate fails closed when the domain cannot be computed (#24896)](https://github.com/erigontech/erigon/commit/b7837ee3f6a3da51d3fdeca7ab02e3923cc39ea3) - 2026-10-16
 * [Commit] [exec: a written address serves repeat storage and code-size reads from the read set (#24862)](https://github.com/erigontech/erigon/commit/a7175878ed35f59e1877de431d32675d9b64c2e7) - 2026-10-16
+* [Pull Request] [vm: avoid redundant zeroing when copying log data](https://github.com/erigontech/erigon/pull/25009) - 2026-10-18
+* [Review] [Review on: execution/protocol: run system calls with the block's coinbase](https://github.com/erigontech/erigon/pull/24912#pullrequestreview-5556850912) - 2026-10-17
+* [Review] [Review on: cmd: remove unreachable snapshot deletion branch](https://github.com/erigontech/erigon/pull/24999#pullrequestreview-5558072742) - 2026-10-17
+* [Review] [Review on: db/snapshotsync: fix stale RemoveOverlaps .tmp note on DumpCaplinState](https://github.com/erigontech/erigon/pull/24979#pullrequestreview-5558063249) - 2026-10-17
+* [Review] [Review on: db/snapshotsync: scope RemoveOverlaps to the collection's own types](https://github.com/erigontech/erigon/pull/24998#pullrequestreview-5558057168) - 2026-10-17
+* [Review] [Review on: [r3.8] cl/phase1/network/registry: scale the attestation gossip budget with expected traffic](https://github.com/erigontech/erigon/pull/25000#pullrequestreview-5558049969) - 2026-10-17
+* [Review] [Review on: db/integrity, cmd/utils/app: preserve integrity failures](https://github.com/erigontech/erigon/pull/24993#pullrequestreview-5557462966) - 2026-10-17
+* [Review] [Review on: build(deps): bump actions/create-github-app-token from 3.2.0 to 3.3.0](https://github.com/erigontech/erigon/pull/24988#pullrequestreview-5556839424) - 2026-10-17
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.91.3 to 0.92.0](https://github.com/erigontech/erigon/pull/24989#pullrequestreview-5556839990) - 2026-10-17
+* [Review] [Review on: [r3.8] cl/phase1/network/registry: let one peer forward a whole PTC's votes at once](https://github.com/erigontech/erigon/pull/24981#pullrequestreview-5556841887) - 2026-10-17
+* [Review] [Review on: [r3.8] .claude/rules: update branch-naming.md for the release/3.8 fork](https://github.com/erigontech/erigon/pull/24983#pullrequestreview-5556841153) - 2026-10-17
+* [Pull Request] [rpc: the replay methods (eth_callMany, eth_callBundle, debug_traceBlock*, debug_traceCallMany, debug_traceTransaction) use eth_call's state path](https://github.com/erigontech/erigon/pull/24920) - 2026-10-17
+* [Review] [Review on: [r3.7] execution/state, execution/tests: keep the nonce of a self-destructed account across a revert (#24701)](https://github.com/erigontech/erigon/pull/24864#pullrequestreview-5555865428) - 2026-10-17
+* [Review] [Review on: db/version, ChangeLog.md: bump to 3.9.0-dev](https://github.com/erigontech/erigon/pull/24984#pullrequestreview-5555782626) - 2026-10-17
+* [Commit] [rpc: calls with state overrides run on the versioned state path (#24960)](https://github.com/erigontech/erigon/commit/a6f86b5eb57f5ef74c29f920875e6f5681652e25) - 2026-10-17
+* [Commit] [execution/state: setCreatedCode reads the created account's code writes once (#24957)](https://github.com/erigontech/erigon/commit/6540ff4718d3d7285a76fed017c092d581c19e98) - 2026-10-17
+* [Commit] [rpc: the replay methods (eth_callMany, eth_callBundle, debug_traceBlock*, debug_traceCallMany, debug_traceTransaction) use eth_call's state path (#24920)](https://github.com/erigontech/erigon/commit/0f2a2f211306574e2fe548e162464f42695498c7) - 2026-10-17
+* [Commit] [node: buffer gzip output before the response writer (#24963)](https://github.com/erigontech/erigon/commit/3ddb8a4868a7880f7f7fa0f28e38564142c8af95) - 2026-10-17
 ## Q3 2026
 
 

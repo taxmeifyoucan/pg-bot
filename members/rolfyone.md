@@ -92,6 +92,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Check head payload_status in fork choice reference tests (#11505)](https://github.com/Consensys-Incorporated/teku/commit/60286f605d444064dd335aff1e025342aa81e5d3) - 2026-10-16
 * [Commit] [Set Fulu genesis deposit_requests_start_index to deposit count (#11496)](https://github.com/Consensys-Incorporated/teku/commit/07e391dee9cadf5d5fe40095139a353fb34e9520) - 2026-10-16
 * [Commit] [Bound memory held by gossip blocks waiting for validation (#11503)](https://github.com/Consensys-Incorporated/teku/commit/2d3a7789353a163fe4f1c74e8be4a4a2f549b75b) - 2026-10-16
+* [Review] [Review on: Send payload attestations when the payload is available](https://github.com/Consensys-Incorporated/teku/pull/11509#pullrequestreview-5560654995) - 2026-10-17
+* [Pull Request] [Implement EIP-8198 quick slots in Heze](https://github.com/Consensys-Incorporated/teku/pull/11514) - 2026-10-17
+* [Pull Request] [Fix Heze slot processor advancing the node slot twice per slot](https://github.com/Consensys-Incorporated/teku/pull/11515) - 2026-10-17
+* [Pull Request] [Reject slot duration changes in SLOT_DURATION_SCHEDULE](https://github.com/Consensys-Incorporated/teku/pull/11513) - 2026-10-17
+* [Pull Request] [Reject Heze slot duration changes until EIP-8198 is supported](https://github.com/Consensys-Incorporated/teku/pull/11512) - 2026-10-17
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

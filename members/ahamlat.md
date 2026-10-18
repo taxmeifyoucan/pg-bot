@@ -32,6 +32,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Log BFT block pending count after the pool removes confirmed txs](https://github.com/besu-eth/besu/pull/11609) - 2026-10-15
 * [Review] [Review on: raise jmh forks to five](https://github.com/besu-eth/besu/pull/11620#pullrequestreview-5549978242) - 2026-10-16
 * [Pull Request] [Revert "Fail loudly when account code cannot be read (#11456)"](https://github.com/besu-eth/besu/pull/11630) - 2026-10-16
+* [Commit] [Revert "Fail loudly when account code cannot be read (#11456)" (#11630)](https://github.com/besu-eth/besu/commit/d45e3a33fa40cea59efe6d2ed409b54e82693966) - 2026-10-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

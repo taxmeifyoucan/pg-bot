@@ -62,6 +62,7 @@ Team: Reth
 * [Review] [Review on: fix(ci): buffer the action update cooldown](https://github.com/paradigmxyz/reth/pull/27972#pullrequestreview-5553967511) - 2026-10-16
 * [Pull Request] [perf(trie): hash trie nodes and state keys in SIMD batches](https://github.com/paradigmxyz/reth/pull/27970) - 2026-10-16
 * [Pull Request] [perf: skip log collection where logs are unused](https://github.com/paradigmxyz/reth/pull/27968) - 2026-10-16
+* [Review] [Review on: chore: allow Git dependency sources](https://github.com/paradigmxyz/reth/pull/27976#pullrequestreview-5556869569) - 2026-10-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

@@ -104,6 +104,16 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: test(binary-pcs): pin the Boolean backends' commit binding against their verifiers'](https://github.com/Plonky3/Plonky3/pull/2428#pullrequestreview-5496038572) - 2026-10-12
 * [Review] [Review on: fix(uni-stark)!: reject mis-shaped input in the public verifier helpers](https://github.com/Plonky3/Plonky3/pull/2401#pullrequestreview-5496048299) - 2026-10-12
 * [Review] [Review on: fix(field): reject mismatched lengths in the scaled slice add](https://github.com/Plonky3/Plonky3/pull/2430#pullrequestreview-5496036357) - 2026-10-12
+* [Review] [Review on: fix(matrix, util): harden packed rows and transpose representations](https://github.com/Plonky3/Plonky3/pull/2446#pullrequestreview-5559489170) - 2026-10-17
+* [Review] [Review on: feat(binary-pcs): support extension challenges and lower multiplication peak memory](https://github.com/Plonky3/Plonky3/pull/2451#pullrequestreview-5559471123) - 2026-10-17
+* [Review] [Review on: fix(whir): account for MMCS payloads and expose hiding query diagnostics](https://github.com/Plonky3/Plonky3/pull/2450#pullrequestreview-5559484667) - 2026-10-17
+* [Review] [Review on: perf(whir): optimize encoding, sumcheck, and Merkle verification](https://github.com/Plonky3/Plonky3/pull/2439#pullrequestreview-5559484970) - 2026-10-17
+* [Review] [Review on: ci: recover test coverage and select heavy suites by dependency impact](https://github.com/Plonky3/Plonky3/pull/2452#pullrequestreview-5559475910) - 2026-10-17
+* [Review] [Review on: fix(verifier)!: validate helper shapes and batch Circle quotient inversions](https://github.com/Plonky3/Plonky3/pull/2447#pullrequestreview-5559479519) - 2026-10-17
+* [Review] [Review on: perf(bus, multi-stark): reuse clock witnesses and symbolic assessments](https://github.com/Plonky3/Plonky3/pull/2449#pullrequestreview-5559473058) - 2026-10-17
+* [Review] [Review on: feat(hash-air): validate Poseidon1 shapes and expose BLAKE3 compression inputs](https://github.com/Plonky3/Plonky3/pull/2448#pullrequestreview-5559470911) - 2026-10-17
+* [Review] [Review on: feat(binary-pcs): add zero-knowledge current-row AIR proofs](https://github.com/Plonky3/Plonky3/pull/2445#pullrequestreview-5559493852) - 2026-10-17
+* [Review] [Review on: refactor!: cleanup keccak air, remove unused public helpers](https://github.com/Plonky3/Plonky3/pull/2444#pullrequestreview-5559446681) - 2026-10-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

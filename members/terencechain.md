@@ -54,6 +54,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: HeadState to HeadStateReadonly](https://github.com/OffchainLabs/prysm/pull/17716#pullrequestreview-5539584407) - 2026-10-15
 * [Review] [Review on: Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714#pullrequestreview-5536545343) - 2026-10-15
 * [Review] [Review on: Optimise Gloas fetches](https://github.com/OffchainLabs/prysm/pull/17712#pullrequestreview-5534049622) - 2026-10-15
+* [Review] [Review on: make sure gas-limit flag overwrote everything](https://github.com/OffchainLabs/prysm/pull/17725#pullrequestreview-5555969159) - 2026-10-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

@@ -72,6 +72,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Read the latest payload header only for pre-Gloas states in batch import](https://github.com/OffchainLabs/prysm/pull/17698#pullrequestreview-5549430863) - 2026-10-16
 * [Review] [Review on: Spectests: Add `epoch_processing` tests](https://github.com/OffchainLabs/prysm/pull/17646#pullrequestreview-5549414625) - 2026-10-16
 * [Review] [Review on: Spectests: Add missing light client tests](https://github.com/OffchainLabs/prysm/pull/17645#pullrequestreview-5543281062) - 2026-10-16
+* [Commit] [make sure gas-limit flag overwrote everything (#17725)](https://github.com/OffchainLabs/prysm/commit/120bdea8a5d74b3d8da7359a44ddcd89ce4476cb) - 2026-10-17
 ## Q3 2026
 
 

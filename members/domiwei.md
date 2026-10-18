@@ -136,6 +136,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/forkchoice: keep fork-choice store time in milliseconds (#24875)](https://github.com/erigontech/erigon/commit/d8243bd18a024ed424684a63961305a98ca2b8a5) - 2026-10-16
 * [Commit] [cl/beacon/handler: collect unprepared Gloas payloads at a third of the attestation window (#24948)](https://github.com/erigontech/erigon/commit/1f4a9bb8f228ec2761d97565973a0b6bdb28cdd4) - 2026-10-16
 * [Commit] [cl/beacon/handler: accept SSZ in POST /eth/v2/validator/aggregate_and_proofs (#24927)](https://github.com/erigontech/erigon/commit/4e19586edc44f7202e18afdb749196434b97179c) - 2026-10-16
+* [Pull Request] [cl/phase1/network/gossip, cl/p2p: subscribe to the persistent attestation subnets](https://github.com/erigontech/erigon/pull/25007) - 2026-10-17
+* [Pull Request] [cl/validator/committee_subscription: subscribe to the duty subnet only for aggregators](https://github.com/erigontech/erigon/pull/25008) - 2026-10-17
+* [Pull Request] [[r3.8] cl/phase1/execution_client: back off the direct payload build retry from 10 ms](https://github.com/erigontech/erigon/pull/25005) - 2026-10-17
+* [Pull Request] [cl/phase1/forkchoice: take execution payload event fields from the block](https://github.com/erigontech/erigon/pull/25002) - 2026-10-17
+* [Pull Request] [db/downloader: check done without receiving in the kept-seeding join tests](https://github.com/erigontech/erigon/pull/25001) - 2026-10-17
+* [Pull Request] [[r3.8] cl/phase1/network/registry: scale the attestation gossip budget with expected traffic](https://github.com/erigontech/erigon/pull/25000) - 2026-10-17
+* [Review] [Review on: cl/das, cl/phase1/stages: backfill custody columns of forward-synced blocks](https://github.com/erigontech/erigon/pull/24967#pullrequestreview-5557724363) - 2026-10-17
+* [Pull Request] [[r3.8] cl/rpc: skip column peers that answered a by-root request with no sidecars](https://github.com/erigontech/erigon/pull/24996) - 2026-10-17
+* [Pull Request] [[r3.8] cl/beacon/handler: use the head root as the dependent root for slots after the head](https://github.com/erigontech/erigon/pull/24995) - 2026-10-17
+* [Pull Request] [cl/rpc: skip column peers that answered a by-root request with no sidecars](https://github.com/erigontech/erigon/pull/24992) - 2026-10-17
+* [Commit] [cl/phase1/network/registry: scale the attestation gossip budget with expected traffic (#24970)](https://github.com/erigontech/erigon/commit/93831b4d0e1de0ed6f3bc505bbda10a4c3f8397b) - 2026-10-17
 ## Q3 2026
 
 

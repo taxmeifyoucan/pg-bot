@@ -167,6 +167,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [p2p/sentry: bound queued bytes per peer for outbound messages](https://github.com/erigontech/erigon/pull/24977) - 2026-10-16
 * [Review] [Review on: cl/beacon: use Gloas preferences for proposer fee recipients](https://github.com/erigontech/erigon/pull/24937#pullrequestreview-5547031460) - 2026-10-16
 * [Commit] [cl/beacon: use Gloas preferences for proposer fee recipients (#24937)](https://github.com/erigontech/erigon/commit/40fa2dcad7de8eef4a34fb08dfd00b7af66ff426) - 2026-10-16
+* [Review] [Review on: cl/phase1/network/registry: scale the attestation gossip budget with expected traffic](https://github.com/erigontech/erigon/pull/24970#pullrequestreview-5557214029) - 2026-10-17
+* [Pull Request] [db/integrity, cmd/utils/app: preserve integrity failures](https://github.com/erigontech/erigon/pull/24993) - 2026-10-17
+* [Commit] [txnprovider/txpool: allow retries after NonceTooDistant eviction (#24931)](https://github.com/erigontech/erigon/commit/c7c6a5f0f92bafc1776241d4fbb3b4b7fe81ef85) - 2026-10-17
+* [Commit] [db/integrity, cmd/utils/app: preserve integrity failures (#24993)](https://github.com/erigontech/erigon/commit/23172203ed3886752063ce2041ca6097f28924f2) - 2026-10-17
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

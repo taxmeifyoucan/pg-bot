@@ -79,6 +79,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [perf(test-types): compute allocation state roots incrementally (#3782)](https://github.com/ethereum/execution-specs/commit/f35860194c0b2321e84644d4af112633a7187d3f) - 2026-10-14
 * [Commit] [perf(test-fill, test-evm-tools): count opcodes only for benchmark tests (#3790)](https://github.com/ethereum/execution-specs/commit/14d6b15c63624b97e8de5762751749124b4f5528) - 2026-10-15
 * [Pull Request] [feat(spec-tools,test-forks): build unscheduled features on the latest fork](https://github.com/ethereum/execution-specs/pull/3841) - 2026-10-16
+* [Review] [Review on: feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators](https://github.com/ethereum/execution-specs/pull/3572#pullrequestreview-5558939289) - 2026-10-17
+* [Pull Request] [feat(test-specs, test-execution, tests): add a mempool_test suite for the EIP-8141 public mempool rules](https://github.com/ethereum/execution-specs/pull/3856) - 2026-10-17
+* [Pull Request] [feat(ci): auto-label pull requests and fix their titles](https://github.com/ethereum/execution-specs/pull/3855) - 2026-10-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

@@ -20,6 +20,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Commit] [Update EIP-8141: roll back the approval context when a call reverts](https://github.com/ethereum/EIPs/commit/af80fc1c4122c4990b8c84bfd10be60c6e343bb2) - 2026-10-08
 * [Review] [Review on: Update EIP-7805: Profile 2 inclusion claims and per-list VERIFY budget](https://github.com/ethereum/EIPs/pull/12394#pullrequestreview-5478430723) - 2026-10-10
 * [Review] [Review on: Update EIP-8250: mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/EIPs/pull/12511#pullrequestreview-5544985225) - 2026-10-16
+* [Pull Request] [Update EIP-8141: explain gas refunds and block limits](https://github.com/ethereum/EIPs/pull/12537) - 2026-10-17
 ## Q3 2026
 
 

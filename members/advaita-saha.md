@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: ci: fix nix checkout failures with fetch-depth: 0](https://github.com/status-im/nimbus-eth1/pull/4965#pullrequestreview-5500665629) - 2026-10-13
 * [Review] [Review on: fix: check tx gas limit against cumulative gas used before Amsterdam](https://github.com/status-im/nimbus-eth1/pull/4980#pullrequestreview-5525032959) - 2026-10-14
 * [Pull Request] [batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991) - 2026-10-15
+* [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5556827533) - 2026-10-17
 ## Q3 2026
 
 

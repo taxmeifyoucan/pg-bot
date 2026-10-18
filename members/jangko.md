@@ -49,6 +49,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Prepare EVM for Bogota opcodes (#4989)](https://github.com/status-im/nimbus-eth1/commit/e9b55167e727db0ec59504d80334318d7d942832) - 2026-10-15
 * [Commit] [Remove kvt TxFrame (#4637)](https://github.com/status-im/nimbus-eth1/commit/ef58caee30746bfd6b8b3979736e183664c41d52) - 2026-10-15
 * [Commit] [Reimplement EIP-2929 access list (#4977)](https://github.com/status-im/nimbus-eth1/commit/3d739a69b6796e0f510eb3a1eca0eb53f886de0f) - 2026-10-15
+* [Pull Request] [EIP-8141: Frame Transaction](https://github.com/status-im/nimbus-eth1/pull/5002) - 2026-10-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

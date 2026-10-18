@@ -21,6 +21,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: use the chronos race() instead of one()](https://github.com/status-im/nimbus-eth1/pull/4936#pullrequestreview-5466578408) - 2026-10-09
 * [Pull Request] [Revert "Update nim-eth"](https://github.com/status-im/nimbus-eth1/pull/4990) - 2026-10-15
 * [Commit] [Revert "Update nim-eth to latest (#4983)" (#4990)](https://github.com/status-im/nimbus-eth1/commit/e26cedc325252972f014f20f3e8cd8267ebdf6bd) - 2026-10-15
+* [Pull Request] [bump eth2 to v26.10.1](https://github.com/status-im/nimbus-eth1/pull/5001) - 2026-10-17
+* [Commit] [version v0.4.3](https://github.com/status-im/nimbus-eth1/commit/6e4d83c1949ca0c78782dd70b87fa9dcc9c17397) - 2026-10-17
+* [Commit] [bump eth2 to v26.10.1 (#5001)](https://github.com/status-im/nimbus-eth1/commit/eab13c60fcbadd9716c24011c2c46f1a81ec0a26) - 2026-10-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
@@ -62,6 +65,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump nim-secp256k1](https://github.com/status-im/nimbus-eth2/pull/9267) - 2026-10-12
 * [Pull Request] [record doppelganger activity upon block publishing](https://github.com/status-im/nimbus-eth2/pull/9281) - 2026-10-13
 * [Commit] [version v26.10.1](https://github.com/status-im/nimbus-eth2/commit/963756c91c19b7824cea57e7aab5857ce2c776c7) - 2026-10-16
+* [Review] [Review on: implement getStatePtc endpoint](https://github.com/status-im/nimbus-eth2/pull/9304#pullrequestreview-5560977082) - 2026-10-18
+* [Review] [Review on: add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285#pullrequestreview-5561066658) - 2026-10-18
+* [Pull Request] [don't re-request already-extant envelopes](https://github.com/status-im/nimbus-eth2/pull/9300) - 2026-10-17
+* [Pull Request] [store columns which arrive after DA achieved](https://github.com/status-im/nimbus-eth2/pull/9299) - 2026-10-17
+* [Review] [Review on: store columns which arrive after DA achieved](https://github.com/status-im/nimbus-eth2/pull/9299#pullrequestreview-5558530532) - 2026-10-17
+* [Review] [Review on: Add beacon-API submitBuilderPreferences](https://github.com/status-im/nimbus-eth2/pull/9292#pullrequestreview-5557413808) - 2026-10-17
+* [Review] [Review on: fix(era): parse filenames for hyphenated network names](https://github.com/status-im/nimbus-eth2/pull/9188#pullrequestreview-5557173116) - 2026-10-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

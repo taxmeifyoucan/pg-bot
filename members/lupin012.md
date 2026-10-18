@@ -100,6 +100,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [db/kv/stream, db/kv/mdbx: Intersect and Union skip ahead with Seek (#24924)](https://github.com/erigontech/erigon/commit/6ddc94700f037f033d07018636620dfcf0e5d82b) - 2026-10-16
 * [Commit] [db/kv/rawdbv3: TxNums2BlockNums searches from the current block (#24933)](https://github.com/erigontech/erigon/commit/8c2befe1c931fbb73f8d64ff1d7dead8968e847f) - 2026-10-16
 * [Commit] [rpc/gasprice, rpc/jsonrpc: check the gas price tip cache without reading the head header (#24871)](https://github.com/erigontech/erigon/commit/4386fd29ddbcae081cd7636eaafd83d21cc59049) - 2026-10-16
+* [Review] [Review on: rpc/ethapi, rpc/jsonrpc: reject maxFeePerBlobGas without blob hashes in calls](https://github.com/erigontech/erigon/pull/24990#pullrequestreview-5559963097) - 2026-10-17
+* [Review] [Review on: rpc/jsonrpc: bound the authorization list of trace_rawTransaction before decoding](https://github.com/erigontech/erigon/pull/24966#pullrequestreview-5560094594) - 2026-10-17
+* [Review] [Review on: rpc/jsonrpc: report blob transactions in txpool_content, contentFrom and inspect](https://github.com/erigontech/erigon/pull/24958#pullrequestreview-5560041514) - 2026-10-17
+* [Pull Request] [QA: update rpc test version](https://github.com/erigontech/erigon/pull/24994) - 2026-10-17
+* [Pull Request] [execution/types, rpc/jsonrpc: match a one-value eth_getLogs filter without a map lookup](https://github.com/erigontech/erigon/pull/24991) - 2026-10-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -121,6 +126,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [perf: trace the 50 most recent blocks in the mainnet mixed profile (#623)](https://github.com/erigontech/rpc-tests/commit/d4efbb770f8eeb86926488e276871dff877d5a7d) - 2026-10-14
 * [Commit] [rpc_pattern_gen: eth_getLogs filters built from real logs, and an eth_getLogs command (#622)](https://github.com/erigontech/rpc-tests/commit/97d7413868f835bad0d88be240087b48117df2ac) - 2026-10-14
 * [Commit] [rpc_perf: write at most --max-body-rsp bytes of each body to the binary file (#621)](https://github.com/erigontech/rpc-tests/commit/cd401ebd0624df8478ff6474f5645f0c7a5e364b) - 2026-10-14
+* [Pull Request] [rpc_pattern_gen: build the or-list values of a block once](https://github.com/erigontech/rpc-tests/pull/626) - 2026-10-17
+* [Pull Request] [rpc_pattern_gen: read a block range, optionally sampled at random](https://github.com/erigontech/rpc-tests/pull/627) - 2026-10-17
+* [Pull Request] [rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624) - 2026-10-17
+* [Pull Request] [rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625) - 2026-10-17
+* [Commit] [rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window (#624)](https://github.com/erigontech/rpc-tests/commit/34e0178d1a162c3a761425b7be0762651a9746ec) - 2026-10-17
+* [Commit] [rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz (#625)](https://github.com/erigontech/rpc-tests/commit/8cea6c6c166580b31790e4bdab6b1020dbcd143d) - 2026-10-17
 ## Q3 2026
 
 

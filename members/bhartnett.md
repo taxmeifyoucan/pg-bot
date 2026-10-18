@@ -42,6 +42,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Route ledger code access through core_apps helpers (#4996)](https://github.com/status-im/nimbus-eth1/commit/438d396cad3e2ba781715461a5301df194353122) - 2026-10-15
 * [Commit] [Update nim-eth to latest (#4983)](https://github.com/status-im/nimbus-eth1/commit/ac13e63389f7428369760165d76649a7df377a68) - 2026-10-15
 * [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5548013961) - 2026-10-16
+* [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5557835683) - 2026-10-17
 ## Q3 2026
 
 

@@ -293,6 +293,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: run heze spec tests with the vector's slot duration schedule](https://github.com/ChainSafe/lodestar/pull/10418#pullrequestreview-5548089725) - 2026-10-16
 * [Pull Request] [fix: scale heze rewards and churn relative to SLOT_DURATION_MS](https://github.com/ChainSafe/lodestar/pull/10417) - 2026-10-16
 * [Pull Request] [fix: do not prefer an unsatisfied payload as head during its own slot](https://github.com/ChainSafe/lodestar/pull/10416) - 2026-10-16
+* [Pull Request] [feat: make validation of published execution payload bids opt-in](https://github.com/ChainSafe/lodestar/pull/10429) - 2026-10-17
+* [Pull Request] [fix: route pending deposits by withdrawal credentials at the gloas fork](https://github.com/ChainSafe/lodestar/pull/10428) - 2026-10-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -349,6 +351,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: include histogram upper bounds (#766)](https://github.com/ChainSafe/lodestar-z/commit/f6fbe2069c209643a69bf1893ee399d5f64f22f4) - 2026-10-14
 * [Pull Request] [feat: add gnosis preset](https://github.com/ChainSafe/lodestar-z/pull/791) - 2026-10-16
 * [Commit] [feat: add gnosis preset (#791)](https://github.com/ChainSafe/lodestar-z/commit/ba4f89e967bdb498f1d856f699f1ba2b863be330) - 2026-10-16
+* [Review] [Review on: feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765#pullrequestreview-5558981713) - 2026-10-17
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026

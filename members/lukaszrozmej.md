@@ -405,6 +405,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): walk a trie write's key by offset and index its stack by word (#14736)](https://github.com/NethermindEth/nethermind/commit/470c6c51a3d8af4b1e228adcc701a9a8f04708b7) - 2026-10-16
 * [Commit] [build(zkevm): drop the SP1 guest's own memcpy for the bflat image's (#14735)](https://github.com/NethermindEth/nethermind/commit/abd3b0aebcc3a5f616b99f145e58bfa4484254d7) - 2026-10-16
 * [Commit] [perf(zkevm): trim the keccak glue around witness and commit hashing (#14729)](https://github.com/NethermindEth/nethermind/commit/1045f3636daf36ecee3cfa00ce37c9025961c363) - 2026-10-16
+* [Pull Request] [perf(zkevm): keep SP1 witness codes in the consumed input](https://github.com/NethermindEth/nethermind/pull/14855) - 2026-10-18
+* [Pull Request] [fix(processing): run invalid block diagnostics off the processing pipeline](https://github.com/NethermindEth/nethermind/pull/14837) - 2026-10-17
+* [Review] [Review on: fix(processing): run invalid block diagnostics off the processing pipeline](https://github.com/NethermindEth/nethermind/pull/14837#pullrequestreview-5557545999) - 2026-10-17
+* [Pull Request] [perf(tracing): keep VM output arrays in parity action results instead of copying](https://github.com/NethermindEth/nethermind/pull/14849) - 2026-10-17
+* [Pull Request] [perf(zkevm): encode hashed trie branches into reused scratch on SP1](https://github.com/NethermindEth/nethermind/pull/14853) - 2026-10-17
+* [Pull Request] [test(shutter): cache header copies so the head header lookup is deterministic](https://github.com/NethermindEth/nethermind/pull/14852) - 2026-10-17
+* [Review] [Review on: perf(rpc): scan eth_getLogs ranges in ordered chunks instead of PLINQ](https://github.com/NethermindEth/nethermind/pull/14824#pullrequestreview-5558732638) - 2026-10-17
+* [Pull Request] [perf(rpc): test eth_getLogs header blooms without decoding headers](https://github.com/NethermindEth/nethermind/pull/14826) - 2026-10-17
+* [Pull Request] [perf(flat): cut per-scope resource pool rent/return bookkeeping](https://github.com/NethermindEth/nethermind/pull/14833) - 2026-10-17
+* [Review] [Review on: perf(flat): cut per-scope resource pool rent/return bookkeeping](https://github.com/NethermindEth/nethermind/pull/14833#pullrequestreview-5558745782) - 2026-10-17
+* [Pull Request] [perf(rpc): write receipts and their logs through generated JSON writers](https://github.com/NethermindEth/nethermind/pull/14843) - 2026-10-17
+* [Review] [Review on: perf(rpc): write receipts and their logs through generated JSON writers](https://github.com/NethermindEth/nethermind/pull/14843#pullrequestreview-5560439630) - 2026-10-17
+* [Pull Request] [perf(rpc): execute consecutive eth_call batch items concurrently](https://github.com/NethermindEth/nethermind/pull/14845) - 2026-10-17
+* [Review] [Review on: perf(rpc): execute consecutive eth_call batch items concurrently](https://github.com/NethermindEth/nethermind/pull/14845#pullrequestreview-5560467884) - 2026-10-17
+* [Pull Request] [perf(rpc): write callTracer frame fields through their converters](https://github.com/NethermindEth/nethermind/pull/14847) - 2026-10-17
+* [Pull Request] [perf(rpc): write callTracer logs directly in the frame converter](https://github.com/NethermindEth/nethermind/pull/14844) - 2026-10-17
+* [Pull Request] [perf(evm): report single-byte stack pushes and memory changes without allocating](https://github.com/NethermindEth/nethermind/pull/14848) - 2026-10-17
+* [Commit] [perf(rpc): read a single receipt and transaction for transaction lookups (#14769)](https://github.com/NethermindEth/nethermind/commit/c1cf3ee81f63e441eb7745fffa2dbea3e134cb51) - 2026-10-17
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -433,6 +451,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [fix(zisk): end the guest RAM below ZisK 1.4's library RAM](https://github.com/NethermindEth/bflat-riscv64/pull/60) - 2026-10-16
 * [Commit] [perf(zisk): emit the arith256, arith256_mod and JUMPDEST bitmap precompiles as CSR writes](https://github.com/NethermindEth/bflat-riscv64/commit/e10cdcb7e02f9a165bd4b992c1b6afbcad5689e6) - 2026-10-16
 * [Commit] [fix(zisk): end the guest RAM below ZisK 1.4's library RAM](https://github.com/NethermindEth/bflat-riscv64/commit/fae25099cdf8c374842e9ce060bf24738afc75f2) - 2026-10-16
+* [Pull Request] [perf(sp1): unroll memcpy's doubleword loops to 64 bytes](https://github.com/NethermindEth/bflat-riscv64/pull/61) - 2026-10-17
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
@@ -467,6 +486,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test(riscv64): cover allocation sizes across TLS calls](https://github.com/NethermindEth/dotnet-riscv/commit/99b89a411cad8ee5f0c38b4a34e1f3fa37c19f25) - 2026-10-15
 * [Commit] [test(jit): cover inline boxing header corruption](https://github.com/NethermindEth/dotnet-riscv/commit/0423d426371b35b36a55e439795e58daf7d72e76) - 2026-10-15
 * [Pull Request] [fixup/11/upstream: perf-76 - strict alignment keeps the aligned path to the test and the access](https://github.com/NethermindEth/dotnet-riscv/pull/29) - 2026-10-17
+* [Pull Request] [fixup/11/upstream: perf-80 - strict alignment tests a base once for a run of accesses through it](https://github.com/NethermindEth/dotnet-riscv/pull/31) - 2026-10-17
+* [Pull Request] [fixup/11/upstream: perf-77..79 - zkVM 8-byte stack homes for small integer locals, word loads of object INT fields, 64-bit array length store](https://github.com/NethermindEth/dotnet-riscv/pull/30) - 2026-10-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

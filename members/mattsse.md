@@ -269,6 +269,46 @@ Team: Reth
 * [Commit] [perf(trie): use BTreeMap ranges in mock cursors (#27957)](https://github.com/paradigmxyz/reth/commit/cbfee041eeee1c2349cc6b096483fc146f4454c6) - 2026-10-16
 * [Commit] [fix(rpc): restore geth's oracle threshold (#27895)](https://github.com/paradigmxyz/reth/commit/a64dec124ade8402a1c9ca49851760591439916a) - 2026-10-16
 * [Commit] [fix(cli): honor custom gas oracle defaults (#27954)](https://github.com/paradigmxyz/reth/commit/bb71dd4f8904f03486f91d81fc23b36792cd6c01) - 2026-10-16
+* [Pull Request] [fix(p2p): summarize block logs](https://github.com/paradigmxyz/reth/pull/27991) - 2026-10-17
+* [Pull Request] [fix: avoid Etherscan and IPC payload dumps](https://github.com/paradigmxyz/reth/pull/27990) - 2026-10-17
+* [Pull Request] [fix(engine): avoid full payload logs in utilities](https://github.com/paradigmxyz/reth/pull/27989) - 2026-10-17
+* [Pull Request] [fix(engine): avoid formatting full invalid blocks in logs](https://github.com/paradigmxyz/reth/pull/27988) - 2026-10-17
+* [Pull Request] [fix(snap-sync): check generation roots against headers](https://github.com/paradigmxyz/reth/pull/27987) - 2026-10-17
+* [Review] [Review on: fix(snap-sync): check generation roots against headers](https://github.com/paradigmxyz/reth/pull/27987#pullrequestreview-5558218420) - 2026-10-17
+* [Pull Request] [fix(snap-sync): classify fatal errors explicitly](https://github.com/paradigmxyz/reth/pull/27986) - 2026-10-17
+* [Review] [Review on: fix(snap-sync): classify fatal errors explicitly](https://github.com/paradigmxyz/reth/pull/27986#pullrequestreview-5558207632) - 2026-10-17
+* [Pull Request] [fix(snap-sync): propagate finalized lookup errors](https://github.com/paradigmxyz/reth/pull/27985) - 2026-10-17
+* [Pull Request] [fix(cli): error on unloadable config and missing enode key](https://github.com/paradigmxyz/reth/pull/27982) - 2026-10-17
+* [Review] [Review on: fix(cli): error on unloadable config and missing enode key](https://github.com/paradigmxyz/reth/pull/27982#pullrequestreview-5557856452) - 2026-10-17
+* [Pull Request] [fix(cli): surface init-state worker and header read errors](https://github.com/paradigmxyz/reth/pull/27984) - 2026-10-17
+* [Pull Request] [fix(cli): validate manifest input and fail closed on symlink check](https://github.com/paradigmxyz/reth/pull/27983) - 2026-10-17
+* [Pull Request] [fix(cli): harden re-execute args and error handling](https://github.com/paradigmxyz/reth/pull/27981) - 2026-10-17
+* [Pull Request] [fix(cli): validate stage run and dump arguments](https://github.com/paradigmxyz/reth/pull/27980) - 2026-10-17
+* [Pull Request] [fix(cli): surface db read and subkey parse errors](https://github.com/paradigmxyz/reth/pull/27979) - 2026-10-17
+* [Pull Request] [fix(cli): propagate migrate-v2 read errors and rollback failures](https://github.com/paradigmxyz/reth/pull/27978) - 2026-10-17
+* [Review] [Review on: feat(cli): take --rpc.txfeecap default from DefaultRpcServerArgs](https://github.com/paradigmxyz/reth/pull/27926#pullrequestreview-5556532837) - 2026-10-17
+* [Review] [Review on: feat(net): support dual-stack discovery and bootnode seeds](https://github.com/paradigmxyz/reth/pull/26402#pullrequestreview-5557346027) - 2026-10-17
+* [Review] [Review on: fix(rpc): reject max sender nonce in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/27881#pullrequestreview-5557320185) - 2026-10-17
+* [Review] [Review on: fix(rpc): return Amsterdam payload fields from testing_buildBlockV1](https://github.com/paradigmxyz/reth/pull/27883#pullrequestreview-5557223245) - 2026-10-17
+* [Review] [Review on: fix(rpc): lift execution gas cap and fix default gas in eth_simulateV1 after Amsterdam](https://github.com/paradigmxyz/reth/pull/27882#pullrequestreview-5557200204) - 2026-10-17
+* [Pull Request] [fix(cli): honor configurable argument defaults](https://github.com/paradigmxyz/reth/pull/27975) - 2026-10-17
+* [Pull Request] [test: close the node database in test_engine_graceful_shutdown](https://github.com/paradigmxyz/reth/pull/27974) - 2026-10-17
+* [Commit] [fix(p2p): summarize block logs (#27991)](https://github.com/paradigmxyz/reth/commit/e667968725ff553f65dfecf161e63f6eab96fcc2) - 2026-10-17
+* [Commit] [fix: avoid Etherscan and IPC payload dumps (#27990)](https://github.com/paradigmxyz/reth/commit/6386788f335c780f399d071fc0e5c5104faffbcd) - 2026-10-17
+* [Commit] [fix(engine): avoid full payload logs in utilities (#27989)](https://github.com/paradigmxyz/reth/commit/0d33120336b5597691918439e2a868cc6682b29d) - 2026-10-17
+* [Commit] [fix(engine): avoid formatting full invalid blocks in logs (#27988)](https://github.com/paradigmxyz/reth/commit/7376799d20cf7bdb9d7d185aad5667b3a7eee882) - 2026-10-17
+* [Commit] [fix(snap-sync): check generation roots against headers (#27987)](https://github.com/paradigmxyz/reth/commit/702da82ea9aabce0b67e9f188cdbc5ae79c3bb82) - 2026-10-17
+* [Commit] [fix(snap-sync): classify fatal errors explicitly (#27986)](https://github.com/paradigmxyz/reth/commit/379d02c70fb0499d4181ea9b85b585853412778c) - 2026-10-17
+* [Commit] [fix(snap-sync): propagate finalized lookup errors (#27985)](https://github.com/paradigmxyz/reth/commit/95370b57103d1956c1d84aba5cfb5496cff1158e) - 2026-10-17
+* [Commit] [fix(cli): error on unloadable config and missing enode key (#27982)](https://github.com/paradigmxyz/reth/commit/3124d23a4f4fb607e4220f9420d96fbd6a1d1822) - 2026-10-17
+* [Commit] [fix(cli): surface init-state worker and header read errors (#27984)](https://github.com/paradigmxyz/reth/commit/0683de2f36496613138d28762ac708f2bbcc5de8) - 2026-10-17
+* [Commit] [fix(cli): validate manifest input and fail closed on symlink check (#27983)](https://github.com/paradigmxyz/reth/commit/e453252d0841ad7eddbb2f9d67fe5acfce640bff) - 2026-10-17
+* [Commit] [fix(cli): harden re-execute args and error handling (#27981)](https://github.com/paradigmxyz/reth/commit/a6e4bb942c307d9f845525bd72a988ce21145553) - 2026-10-17
+* [Commit] [fix(cli): validate stage run and dump arguments (#27980)](https://github.com/paradigmxyz/reth/commit/0e06753172e8cf84b03225141c1929516d2e54d7) - 2026-10-17
+* [Commit] [fix(cli): surface db read and subkey parse errors (#27979)](https://github.com/paradigmxyz/reth/commit/9da6c4d37ed3ebd21d22d3445c9d25101585a1d9) - 2026-10-17
+* [Commit] [fix(cli): propagate migrate-v2 read errors and rollback failures (#27978)](https://github.com/paradigmxyz/reth/commit/1ce3294ae824a67a90ceb234df94cccd02de1199) - 2026-10-17
+* [Commit] [fix(cli): honor configurable argument defaults (#27975)](https://github.com/paradigmxyz/reth/commit/86ec896d2437321873aaf47f6e071fb30efb137d) - 2026-10-17
+* [Commit] [test: close the node database in test_engine_graceful_shutdown (#27974)](https://github.com/paradigmxyz/reth/commit/0e052cbff6ac94460dd40ddd014750fc73dbf5a8) - 2026-10-17
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -55,6 +55,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [networking: bound the disconnect message write (#4976)](https://github.com/status-im/nimbus-eth1/commit/75081f109915c67dc14da3642aacbf6301c78efb) - 2026-10-14
 * [Pull Request] [Bump nim-eth to v0.9.3](https://github.com/status-im/nimbus-eth1/pull/4995) - 2026-10-15
 * [Pull Request] [snap: consume the full account body list when decoding](https://github.com/status-im/nimbus-eth1/pull/4992) - 2026-10-15
+* [Pull Request] [Bump nim-eth and use replaceNode in DeleteEnr endpoints](https://github.com/status-im/nimbus-eth1/pull/5004) - 2026-10-17
+* [Commit] [snap: consume the full account body list when decoding (#4992)](https://github.com/status-im/nimbus-eth1/commit/9e6324cdea08a9c4a1949ed84ead000651cd1a6f) - 2026-10-17
+* [Commit] [Bump nim-eth and use replaceNode in DeleteEnr endpoints (#5004)](https://github.com/status-im/nimbus-eth1/commit/b5f081e50df164ed523d374997f3e87715c56234) - 2026-10-17
+* [Commit] [networking: cap incoming connections at two thirds of max-peers (#4972)](https://github.com/status-im/nimbus-eth1/commit/05d91cbd12b9fdbfd5b082d10597e3c0bdbf812e) - 2026-10-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 ## Q3 2026
