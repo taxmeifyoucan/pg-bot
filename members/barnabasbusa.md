@@ -62,6 +62,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #905 from ethpandaops/pk910/execution-proofs-index](https://github.com/ethpandaops/dora/commit/69668258289139b4d99405c80f6c80b828238128) - 2026-10-16
 * [Commit] [Merge branch 'master' into pk910/execution-proofs-index](https://github.com/ethpandaops/dora/commit/ff6d00acc18a7c61032b931c62dd5f432ef29297) - 2026-10-16
 * [Commit] [Merge pull request #907 from ethpandaops/pk910/specs-prefer-scheduled-fork](https://github.com/ethpandaops/dora/commit/08bf0d4504e1cc335b3441112cfb18ba104030b8) - 2026-10-16
+* [Review] [Review on: fix(frontend): protect the pprof endpoint with a pre-shared key](https://github.com/ethpandaops/dora/pull/912#pullrequestreview-5564905700) - 2026-10-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -120,6 +121,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: require go 1.26.9](https://github.com/ethpandaops/assertoor/commit/f27d3a3c5d739314cdbad07e0c67f50dd3afff9b) - 2026-10-13
 * [Commit] [chore: bump go to 1.26](https://github.com/ethpandaops/assertoor/commit/5b20c1df7a2db9a66e397862ae80b9d224d7e876) - 2026-10-13
 
+* [Review] [Review on: fix(web): gate pprof behind the login](https://github.com/ethpandaops/assertoor/pull/245#pullrequestreview-5564907131) - 2026-10-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): check tx gas limit against floor-inclusive block gas used](https://github.com/ethereum/execution-specs/pull/3832) - 2026-10-15
 * [Commit] [feat(tests): check tx gas limit against floor-inclusive block gas used (#3832)](https://github.com/ethereum/execution-specs/commit/172160ee6e05f635b1bbcbd0ef03ebf5d9ccffad) - 2026-10-15

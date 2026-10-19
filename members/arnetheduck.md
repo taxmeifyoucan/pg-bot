@@ -13,6 +13,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: json-rpc: keep accept loop running when a queued client resets](https://github.com/status-im/nimbus-eth1/pull/4973#pullrequestreview-5516000106) - 2026-10-14
+* [Commit] [import: add --with-state-root option (#4853)](https://github.com/status-im/nimbus-eth1/commit/0d29d39c674dc86e7ac92addeb7ea0325ad0ff8f) - 2026-10-18
 ## Q3 2026
 
 

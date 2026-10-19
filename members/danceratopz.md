@@ -42,6 +42,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(tests): THE BIG ported-static pre-alloc groups reduction](https://github.com/ethereum/execution-specs/pull/3758#pullrequestreview-5509913066) - 2026-10-13
 * [Pull Request] [fix(ci): fail a fixture release when a fork-range artifact is missing](https://github.com/ethereum/execution-specs/pull/3802) - 2026-10-13
 * [Commit] [fix(ci): fail a fixture release when a fork-range artifact is missing (#3802)](https://github.com/ethereum/execution-specs/commit/7a6f7ad623aae707bb91f15de6ba4e55439018b8) - 2026-10-13
+* [Commit] [feat(test-fill): make engine_x fixtures consumable via devp2p sync (#3364)](https://github.com/ethereum/execution-specs/commit/19d4a72a059a15e618c2dab2614b512099dcf215) - 2026-10-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

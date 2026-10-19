@@ -147,6 +147,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.8] cl/beacon/handler: use the head root as the dependent root for slots after the head](https://github.com/erigontech/erigon/pull/24995) - 2026-10-17
 * [Pull Request] [cl/rpc: skip column peers that answered a by-root request with no sidecars](https://github.com/erigontech/erigon/pull/24992) - 2026-10-17
 * [Commit] [cl/phase1/network/registry: scale the attestation gossip budget with expected traffic (#24970)](https://github.com/erigontech/erigon/commit/93831b4d0e1de0ed6f3bc505bbda10a4c3f8397b) - 2026-10-17
+* [Pull Request] [cl/phase1/forkchoice, cl/phase1/stages: take the fork-choice lock before the synced-data lock](https://github.com/erigontech/erigon/pull/25011) - 2026-10-18
+* [Review] [Review on: execution: add engine_newPayloadV6](https://github.com/erigontech/erigon/pull/25004#pullrequestreview-5563882331) - 2026-10-18
+* [Review] [Review on: cl: copy each new head into a reused beacon state instead of allocating one](https://github.com/erigontech/erigon/pull/25003#pullrequestreview-5563844238) - 2026-10-18
+* [Review] [Review on: cl/phase1/forkchoice: keep pre-Gloas get_head vote weights across calls](https://github.com/erigontech/erigon/pull/24985#pullrequestreview-5563827907) - 2026-10-18
+* [Pull Request] [[r3.7] cl: look up execution bodies by block hash in standalone Caplin](https://github.com/erigontech/erigon/pull/25028) - 2026-10-18
+* [Pull Request] [[r3.8] cl: look up execution bodies by block hash in standalone Caplin](https://github.com/erigontech/erigon/pull/25021) - 2026-10-18
+* [Pull Request] [cl: look up execution bodies by block hash in standalone Caplin](https://github.com/erigontech/erigon/pull/25020) - 2026-10-18
+* [Pull Request] [[r3.8] cl/phase1/forkchoice, cl/phase1/stages: take the fork-choice lock before the synced-data lock](https://github.com/erigontech/erigon/pull/25019) - 2026-10-18
+* [Pull Request] [[r3.7] cl/phase1/forkchoice, cl/phase1/stages: take the fork-choice lock before the synced-data lock](https://github.com/erigontech/erigon/pull/25015) - 2026-10-18
+* [Commit] [cl/phase1/forkchoice, cl/phase1/stages: take the fork-choice lock before the synced-data lock (#25011)](https://github.com/erigontech/erigon/commit/3b184f9855ef0b088e11bee32fb66980eda55bdc) - 2026-10-18
+* [Commit] [cl/validator/committee_subscription: subscribe to the duty subnet only for aggregators (#25008)](https://github.com/erigontech/erigon/commit/dee8abdf73e3b5072c2f9e292596e099cd9fa5d7) - 2026-10-18
+* [Commit] [cl/phase1/network/gossip, cl/p2p: subscribe to the persistent attestation subnets (#25007)](https://github.com/erigontech/erigon/commit/32d24f9d8ba8ff3ba10ac3e0a20879f065744cd1) - 2026-10-18
 ## Q3 2026
 
 

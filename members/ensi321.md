@@ -40,6 +40,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: keep current slot duration in heze](https://github.com/ChainSafe/lodestar/pull/10398#pullrequestreview-5531014478) - 2026-10-15
 * [Commit] [feat: implement FOCIL EIP-7805 in heze (#10312)](https://github.com/ChainSafe/lodestar/commit/a1662c7de79d9739a2867121c556d6797b13c635) - 2026-10-15
 * [Commit] [refactor(api): drop unreachable genesis block root fallbacks from duty endpoints (#10394)](https://github.com/ChainSafe/lodestar/commit/1b1888604ef7809bf7b4c2c4a96fa48fc65fb58d) - 2026-10-15
+* [Review] [Review on: fix: ignore known payload envelopes before deserializing them](https://github.com/ChainSafe/lodestar/pull/10419#pullrequestreview-5565781291) - 2026-10-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
@@ -47,6 +48,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14
 * [Pull Request] [Update EIP-8365: guard deposit requests and grandfather pending deposits](https://github.com/ethereum/EIPs/pull/12533) - 2026-10-16
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: feat: add heze timing configuration](https://github.com/ChainSafe/lodestar-z/pull/794#pullrequestreview-5566079587) - 2026-10-19
 ## Q3 2026
 
 

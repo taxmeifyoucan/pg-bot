@@ -23,6 +23,8 @@ Team: Erigon
 * [Review] [Review on: perf: trace the 50 most recent blocks in the mainnet mixed profile](https://github.com/erigontech/rpc-tests/pull/623#pullrequestreview-5524140886) - 2026-10-14
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filters built from real logs, and an eth_getLogs command](https://github.com/erigontech/rpc-tests/pull/622#pullrequestreview-5513568728) - 2026-10-14
 * [Review] [Review on: rpc_perf: write at most --max-body-rsp bytes of each body to the binary file](https://github.com/erigontech/rpc-tests/pull/621#pullrequestreview-5513571859) - 2026-10-14
+* [Review] [Review on: rpc_pattern_gen: read a block range, optionally sampled at random](https://github.com/erigontech/rpc-tests/pull/627#pullrequestreview-5563483323) - 2026-10-18
+* [Review] [Review on: rpc_pattern_gen: build the or-list values of a block once](https://github.com/erigontech/rpc-tests/pull/626#pullrequestreview-5563481362) - 2026-10-18
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

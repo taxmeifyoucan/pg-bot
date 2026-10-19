@@ -97,6 +97,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Fix Heze slot processor advancing the node slot twice per slot](https://github.com/Consensys-Incorporated/teku/pull/11515) - 2026-10-17
 * [Pull Request] [Reject slot duration changes in SLOT_DURATION_SCHEDULE](https://github.com/Consensys-Incorporated/teku/pull/11513) - 2026-10-17
 * [Pull Request] [Reject Heze slot duration changes until EIP-8198 is supported](https://github.com/Consensys-Incorporated/teku/pull/11512) - 2026-10-17
+* [Pull Request] [Add end-to-end test for inclusion lists by indices RPC](https://github.com/Consensys-Incorporated/teku/pull/11523) - 2026-10-19
+* [Review] [Review on: Fetch envelopes by range from canonical chain](https://github.com/Consensys-Incorporated/teku/pull/11477#pullrequestreview-5566129686) - 2026-10-19
+* [Pull Request] [Record fcU inclusion list satisfaction on the fork choice thread](https://github.com/Consensys-Incorporated/teku/pull/11522) - 2026-10-18
+* [Pull Request] [Route engine_getInclusionListV1 through the engine method resolver](https://github.com/Consensys-Incorporated/teku/pull/11521) - 2026-10-18
+* [Pull Request] [Register inclusion lists by indices RPC and fix Heze IL wiring](https://github.com/Consensys-Incorporated/teku/pull/11520) - 2026-10-18
+* [Review] [Review on: Faster gossip signature verification: batch gathering and same-message grouping](https://github.com/Consensys-Incorporated/teku/pull/11507#pullrequestreview-5565367683) - 2026-10-18
+* [Review] [Review on: Updated source headers to match new entity name](https://github.com/Consensys-Incorporated/teku/pull/11517#pullrequestreview-5565115266) - 2026-10-18
+* [Issue] [Fetch missing inclusion lists via InclusionListsByIndices when proposing](https://github.com/Consensys-Incorporated/teku/issues/11524) - 2026-10-19
+* [Commit] [Verify validator deposit signatures lazily at Gloas builder onboarding (#11511)](https://github.com/Consensys-Incorporated/teku/commit/bbe013cad6d42d7123a52ff5e3b0589169af38cb) - 2026-10-18
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

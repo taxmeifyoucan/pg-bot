@@ -112,8 +112,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [fix: reuse the ethstats WebSocket client across reconnects](https://github.com/besu-eth/besu/pull/11614) - 2026-10-16
 * [Commit] [fix: reuse the ethstats WebSocket client across reconnects (#11614)](https://github.com/besu-eth/besu/commit/b5344a13662aec328fe68a6f142845196092f0a2) - 2026-10-16
 * [Commit] [Fail loudly when account code cannot be read (#11456)](https://github.com/besu-eth/besu/commit/7325f180893bd8db7a25c5d8c1f2eb0dda92b637) - 2026-10-16
+* [Review] [Review on: Bound the cost of jump destination analysis](https://github.com/besu-eth/besu/pull/11400#pullrequestreview-5564747856) - 2026-10-18
+* [Commit] [Bound the cost of jump destination analysis (#11400)](https://github.com/besu-eth/besu/commit/c9b07536ccc4de5fc2dbf26c8d43bc3ea5870d83) - 2026-10-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Pull Request] [Add a native secp256k1 ECDH key agreement](https://github.com/besu-eth/besu-native/pull/324) - 2026-10-18
+* [Review] [Review on: Add a native secp256k1 ECDH key agreement](https://github.com/besu-eth/besu-native/pull/324#pullrequestreview-5562892998) - 2026-10-18
 ## Q3 2026
 
 

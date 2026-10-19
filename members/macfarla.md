@@ -94,6 +94,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Lift the execution gas cap in eth_simulateV1 without validation](https://github.com/besu-eth/besu/pull/11579#pullrequestreview-5543283126) - 2026-10-16
 * [Review] [Review on: fix(rpc): remove precompile from simulation registry when code is overridden](https://github.com/besu-eth/besu/pull/11604#pullrequestreview-5543020248) - 2026-10-16
 * [Commit] [ci workflow to run on release* branch (#11613)](https://github.com/besu-eth/besu/commit/8c5ce6ac38364d1f0d13006de41c861f2dc4df1a) - 2026-10-17
+* [Pull Request] [Reconcile 26.10.0 into main (clean merge from post-revert main)](https://github.com/besu-eth/besu/pull/11642) - 2026-10-18
+* [Commit] [Reconcile 26.10.0 into main (clean merge from post-revert main) (#11642)](https://github.com/besu-eth/besu/commit/f45a601da4665b962c9580857a15da450f933e5f) - 2026-10-18
+* [Commit] [Reconcile 26.10.0 into main](https://github.com/besu-eth/besu/commit/c3f6b432ba8663f1a7eaea23d6331131a86c408c) - 2026-10-18
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

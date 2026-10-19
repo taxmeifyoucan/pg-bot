@@ -352,6 +352,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add gnosis preset](https://github.com/ChainSafe/lodestar-z/pull/791) - 2026-10-16
 * [Commit] [feat: add gnosis preset (#791)](https://github.com/ChainSafe/lodestar-z/commit/ba4f89e967bdb498f1d856f699f1ba2b863be330) - 2026-10-16
 * [Review] [Review on: feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765#pullrequestreview-5558981713) - 2026-10-17
+* [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/793#pullrequestreview-5562446032) - 2026-10-18
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026

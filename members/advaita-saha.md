@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: fix: check tx gas limit against cumulative gas used before Amsterdam](https://github.com/status-im/nimbus-eth1/pull/4980#pullrequestreview-5525032959) - 2026-10-14
 * [Pull Request] [batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991) - 2026-10-15
 * [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5556827533) - 2026-10-17
+* [Commit] [batch delete in kvt (#4991)](https://github.com/status-im/nimbus-eth1/commit/4faab0115fa80ce728454a3dfca49d69fe21f7e8) - 2026-10-18
 ## Q3 2026
 
 

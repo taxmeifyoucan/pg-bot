@@ -31,12 +31,31 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(proto): regenerate pkg/proto/clickhouse and check it in CI (#903)](https://github.com/ethpandaops/xatu/commit/2c244086e6a05628f773432be0cdb900c03b2cc3) - 2026-10-08
 
 * [Review] [Review on: feat(sentry): fetch Gloas-aware v2 debug fork choice](https://github.com/ethpandaops/xatu/pull/900#pullrequestreview-5451415673) - 2026-10-08
+* [Pull Request] [feat(cannon): read bundle format v2 and serve gloas envelopes from block-archiver bundles](https://github.com/ethpandaops/xatu/pull/909) - 2026-10-19
+* [Pull Request] [feat(cannon): serve finalized beacon blocks from block-archiver bundles](https://github.com/ethpandaops/xatu/pull/908) - 2026-10-19
+* [Pull Request] [feat(cannon): beacon block graffiti deriver](https://github.com/ethpandaops/xatu/pull/905) - 2026-10-19
+* [Pull Request] [fix(rpcbootstrap): schedule Hoodi Amsterdam in the EL fork id](https://github.com/ethpandaops/xatu/pull/904) - 2026-10-19
+* [Pull Request] [chore(deps): go 1.26.9 and golang.org/x/net v0.60.0](https://github.com/ethpandaops/xatu/pull/907) - 2026-10-19
+* [Pull Request] [chore(deps): patch govulncheck findings](https://github.com/ethpandaops/xatu/pull/906) - 2026-10-19
+* [Commit] [feat(cannon): serve finalized beacon blocks from block-archiver bundles (#908)](https://github.com/ethpandaops/xatu/commit/bc6e9b61fc612d98a6147f65c205c7f2c8e55153) - 2026-10-19
+* [Commit] [feat(cannon): beacon block graffiti deriver (#905)](https://github.com/ethpandaops/xatu/commit/3c00de7cb51d990fac906b59ffb7c6cec8255f73) - 2026-10-19
+* [Commit] [fix(rpcbootstrap): schedule Hoodi Amsterdam in the EL fork id (#904)](https://github.com/ethpandaops/xatu/commit/f26d7f8e6f3c086355d33acd029896d679f0eb1d) - 2026-10-19
+* [Commit] [chore(deps): go 1.26.9 and golang.org/x/net v0.60.0 (#907)](https://github.com/ethpandaops/xatu/commit/90ff8c8724367ba971575f171979c0b82920d462) - 2026-10-19
+* [Commit] [chore(deps): patch govulncheck findings (#906)](https://github.com/ethpandaops/xatu/commit/c87497417e1274bb7aa0a6558b00cda0a47440c0) - 2026-10-19
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
 
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Pull Request] [feat(hoodi): add tysm v1.1.3 to gloas min client versions](https://github.com/ethpandaops/cartographoor/pull/116) - 2026-10-19
+* [Pull Request] [feat(hoodi): schedule gloas at epoch 132352](https://github.com/ethpandaops/cartographoor/pull/115) - 2026-10-19
+* [Pull Request] [fix(validatorranges): derive inventory path and client tags from data](https://github.com/ethpandaops/cartographoor/pull/114) - 2026-10-18
+* [Commit] [feat(hoodi): add tysm v1.1.3 to gloas min client versions (#116)](https://github.com/ethpandaops/cartographoor/commit/b0a3a1f158a474c03b3fdddc67ba9e2f0eaca560) - 2026-10-19
+* [Commit] [feat(hoodi): schedule gloas at epoch 132352 (#115)](https://github.com/ethpandaops/cartographoor/commit/abd913cac647331933def554a954f6fcfcfaf1bb) - 2026-10-19
+* [Commit] [fix(validatorranges): derive inventory path and client tags from data (#114)](https://github.com/ethpandaops/cartographoor/commit/5ed30d317f0d96507afdb143443bd2acbf07e281) - 2026-10-18
 ## Q3 2026
 
 

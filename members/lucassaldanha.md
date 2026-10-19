@@ -85,6 +85,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Reuse block post-state for payload attestation votes](https://github.com/Consensys-Incorporated/teku/pull/11501#pullrequestreview-5540319219) - 2026-10-15
 * [Commit] [Update CHANGELOG.md to after 26.10.1 release (#11502)](https://github.com/Consensys-Incorporated/teku/commit/1ec6ded513b87c6f6f74c044285c44ddfc455483) - 2026-10-15
 * [Review] [Review on: Bound memory held by gossip blocks waiting for validation](https://github.com/Consensys-Incorporated/teku/pull/11503#pullrequestreview-5542974504) - 2026-10-16
+* [Pull Request] [Restore nightly Trivy scan of Docker images](https://github.com/Consensys-Incorporated/teku/pull/11519) - 2026-10-18
+* [Pull Request] [Updated source headers to match new entity name](https://github.com/Consensys-Incorporated/teku/pull/11517) - 2026-10-18
+* [Review] [Review on: Verify validator deposit signatures lazily at Gloas builder onboarding](https://github.com/Consensys-Incorporated/teku/pull/11511#pullrequestreview-5564970725) - 2026-10-18
+* [Pull Request] [Updated source headers to match new entity name](https://github.com/Consensys-Incorporated/teku/pull/11516) - 2026-10-18
+* [Issue] [Fee recipient from `proposer_preferences` is cached without a signature check](https://github.com/Consensys-Incorporated/teku/issues/11518) - 2026-10-18
+* [Commit] [Updated source headers to match new entity name (#11517)](https://github.com/Consensys-Incorporated/teku/commit/7cbed66bc868e2205cb390a820d4bd72def92304) - 2026-10-18
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

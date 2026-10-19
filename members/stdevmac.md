@@ -191,6 +191,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(simulate): treat children of post-merge blocks as post-merge (#14665)](https://github.com/NethermindEth/nethermind/commit/8091c588b1616c9f6af60eaf6d5fed01ef3edd53) - 2026-10-15
 * [Pull Request] [ci(hive): tolerate the new eth_simulateV1 -32602 override fixtures until simulate rejects them](https://github.com/NethermindEth/nethermind/pull/14802) - 2026-10-16
 * [Issue] [Snapshot streaming: range probe with bytes=0-0 gets 200 from our Cloudflare host, so downloads fall back to a single non-resumable stream](https://github.com/NethermindEth/nethermind/issues/14770) - 2026-10-16
+* [Pull Request] [ci(release): verify signed tags, publish signed checksums and attestations, make packages reproducible](https://github.com/NethermindEth/nethermind/pull/14893) - 2026-10-19
+* [Pull Request] [ci(ai-review): drop needs-human-review label and keep infra failures green](https://github.com/NethermindEth/nethermind/pull/14892) - 2026-10-19
+* [Review] [Review on: fix(core): create the generated jwt secret and node key readable by the owner only](https://github.com/NethermindEth/nethermind/pull/14552#pullrequestreview-5566183223) - 2026-10-19
+* [Commit] [fix(core): create the generated jwt secret and node key readable by the owner only (#14552)](https://github.com/NethermindEth/nethermind/commit/ae5d3742fe32a3c9e412b3722456c878450e96fd) - 2026-10-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

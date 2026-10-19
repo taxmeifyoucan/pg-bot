@@ -48,6 +48,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #572 from yperbasis/docs/add-oleksandr-lystopad](https://github.com/protocolguild/documentation/commit/216b98c295fec369e85b8624e4b9906921f807e4) - 2026-10-15
 * [Commit] [Merge pull request #575 from lightclient/add-kamilsa](https://github.com/protocolguild/documentation/commit/e51983244f354d45edd6c4609beeecb3b4c51bf7) - 2026-10-15
 * [Commit] [Merge pull request #573 from jsign/propose-fv-team](https://github.com/protocolguild/documentation/commit/5b5173c179aee4da0e1c8599dc28e922ea5707e5) - 2026-10-15
+* [Commit] [Merge pull request #588 from petertdavies/remove-peter-miller](https://github.com/protocolguild/documentation/commit/9f7363aca498ae64a824568118a27999a1861029) - 2026-10-18
+* [Commit] [Merge pull request #586 from casparschwa/caspar-partial-weight](https://github.com/protocolguild/documentation/commit/1dba75b06cb0cd6a51eccb15056412c871bc176d) - 2026-10-18
+* [Commit] [Merge pull request #584 from kamilchodola/patch-4](https://github.com/protocolguild/documentation/commit/cb49319d5b4af5e9a363989cc911db7311423be5) - 2026-10-18
 ## Q3 2026
 
 

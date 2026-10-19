@@ -114,6 +114,22 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(hash-air): validate Poseidon1 shapes and expose BLAKE3 compression inputs](https://github.com/Plonky3/Plonky3/pull/2448#pullrequestreview-5559470911) - 2026-10-17
 * [Review] [Review on: feat(binary-pcs): add zero-knowledge current-row AIR proofs](https://github.com/Plonky3/Plonky3/pull/2445#pullrequestreview-5559493852) - 2026-10-17
 * [Review] [Review on: refactor!: cleanup keccak air, remove unused public helpers](https://github.com/Plonky3/Plonky3/pull/2444#pullrequestreview-5559446681) - 2026-10-17
+* [Review] [Review on: perf(whir): reuse base-field transforms and evaluate masks cheaply](https://github.com/Plonky3/Plonky3/pull/2460#pullrequestreview-5563442276) - 2026-10-18
+* [Review] [Review on: perf(hashing): reduce Merkle scratch churn and optimize NEON tails](https://github.com/Plonky3/Plonky3/pull/2456#pullrequestreview-5563444005) - 2026-10-18
+* [Review] [Review on: perf(binary-pcs)!: batch hybrid openings and transpose dense coordinates](https://github.com/Plonky3/Plonky3/pull/2465#pullrequestreview-5563453754) - 2026-10-18
+* [Review] [Review on: perf(fields): reduce Mersenne-31 and BN254 multiplication overhead](https://github.com/Plonky3/Plonky3/pull/2455#pullrequestreview-5563461242) - 2026-10-18
+* [Review] [Review on: perf(lookup): materialize retained rows and stream LogUp terms](https://github.com/Plonky3/Plonky3/pull/2461#pullrequestreview-5563466586) - 2026-10-18
+* [Review] [Review on: perf(circle, uni-stark): reuse selector and quotient work](https://github.com/Plonky3/Plonky3/pull/2453#pullrequestreview-5563439284) - 2026-10-18
+* [Review] [Review on: perf(binary): optimize wide mixed dots and bit ring-switch equality](https://github.com/Plonky3/Plonky3/pull/2457#pullrequestreview-5563470979) - 2026-10-18
+* [Review] [Review on: perf(multilinear): tile short prefix contractions by output](https://github.com/Plonky3/Plonky3/pull/2458#pullrequestreview-5563468915) - 2026-10-18
+* [Review] [Review on: perf(dft): skip known-zero layers in padded transforms](https://github.com/Plonky3/Plonky3/pull/2459#pullrequestreview-5563433266) - 2026-10-18
+* [Review] [Review on: perf(stir): keep query arithmetic in the base field and release codewords](https://github.com/Plonky3/Plonky3/pull/2462#pullrequestreview-5563429191) - 2026-10-18
+* [Review] [Review on: perf(word-backend): omit absent relations and release completed tables](https://github.com/Plonky3/Plonky3/pull/2464#pullrequestreview-5563427927) - 2026-10-18
+* [Review] [Review on: perf(hash-air): specialize trace generation and packed arithmetic](https://github.com/Plonky3/Plonky3/pull/2463#pullrequestreview-5563470419) - 2026-10-18
+* [Review] [Review on: feat(binary-pcs): add zero-knowledge current-row AIR proofs](https://github.com/Plonky3/Plonky3/pull/2445#pullrequestreview-5563448951) - 2026-10-18
+* [Review] [Review on: perf(util): parallelize narrow portable transposes by row bands](https://github.com/Plonky3/Plonky3/pull/2466#pullrequestreview-5563473734) - 2026-10-18
+* [Review] [Review on: perf(provers): release temporary buffers and omit unused row planes](https://github.com/Plonky3/Plonky3/pull/2454#pullrequestreview-5563440382) - 2026-10-18
+* [Review] [Review on: chore: fix lint warnings](https://github.com/Plonky3/Plonky3/pull/2467#pullrequestreview-5563405513) - 2026-10-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

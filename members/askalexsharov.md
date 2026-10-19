@@ -358,6 +358,19 @@ Team: Erigon
 * [Commit] [execution/state: setCreatedCode reads the created account's code writes once (#24957)](https://github.com/erigontech/erigon/commit/6540ff4718d3d7285a76fed017c092d581c19e98) - 2026-10-17
 * [Commit] [rpc: the replay methods (eth_callMany, eth_callBundle, debug_traceBlock*, debug_traceCallMany, debug_traceTransaction) use eth_call's state path (#24920)](https://github.com/erigontech/erigon/commit/0f2a2f211306574e2fe548e162464f42695498c7) - 2026-10-17
 * [Commit] [node: buffer gzip output before the response writer (#24963)](https://github.com/erigontech/erigon/commit/3ddb8a4868a7880f7f7fa0f28e38564142c8af95) - 2026-10-17
+* [Pull Request] [types/ethutils: batch timestamped receipt log allocations](https://github.com/erigontech/erigon/pull/25026) - 2026-10-18
+* [Pull Request] [execution/vm: evaluate powers of minus one from exponent parity](https://github.com/erigontech/erigon/pull/25038) - 2026-10-19
+* [Pull Request] [execution/vm: cache successful expensive precompile results](https://github.com/erigontech/erigon/pull/25037) - 2026-10-19
+* [Pull Request] [execution/vm: window dense uint256 modular exponents](https://github.com/erigontech/erigon/pull/25036) - 2026-10-19
+* [Pull Request] [execution/vm: reuse adjacent validated BLS points in MSM](https://github.com/erigontech/erigon/pull/25035) - 2026-10-19
+* [Pull Request] [execution/vm: reuse address words within a call frame](https://github.com/erigontech/erigon/pull/25034) - 2026-10-19
+* [Pull Request] [rpc/transactions: skip unused BAL recording during traces](https://github.com/erigontech/erigon/pull/25022) - 2026-10-18
+* [Pull Request] [types/ethutils: reuse the cached sender in receipt responses](https://github.com/erigontech/erigon/pull/25025) - 2026-10-18
+* [Pull Request] [types: reuse cached Keccak hashes for bloom construction](https://github.com/erigontech/erigon/pull/25024) - 2026-10-18
+* [Pull Request] [vm: use word arithmetic for small EXP results](https://github.com/erigontech/erigon/pull/25023) - 2026-10-18
+* [Review] [Review on: .github/workflows: bump hive and execution-apis refs for rpc-compat](https://github.com/erigontech/erigon/pull/25016#pullrequestreview-5563115341) - 2026-10-18
+* [Review] [Review on: txnprovider/txpool: clean up unused sender activity](https://github.com/erigontech/erigon/pull/24997#pullrequestreview-5562305881) - 2026-10-18
+* [Pull Request] [tools: upgrade golangci-lint from v2.14.0 to v2.15.0](https://github.com/erigontech/erigon/pull/25012) - 2026-10-18
 ## Q3 2026
 
 

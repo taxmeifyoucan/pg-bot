@@ -36,6 +36,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(pruning): treat a persistence interval below 1 as 1](https://github.com/NethermindEth/nethermind/pull/14558#pullrequestreview-5497196301) - 2026-10-12
 * [Review] [Review on: Advertise snap in the local ENR when serving snap](https://github.com/NethermindEth/nethermind/pull/14585#pullrequestreview-5497189245) - 2026-10-12
 * [Commit] [refactor(txpool): resolve ITxPool, ITxSender and ITransactionComparerProvider from DI (#14253)](https://github.com/NethermindEth/nethermind/commit/4ba96ba871c9264c92cd643ff7fc8a23cc3af041) - 2026-10-13
+* [Review] [Review on: fix(core): guard ServiceStopper registrations against concurrent init steps](https://github.com/NethermindEth/nethermind/pull/14738#pullrequestreview-5566224376) - 2026-10-19
+* [Review] [Review on: perf(flat): warm the trie with more workers on machines with few cores](https://github.com/NethermindEth/nethermind/pull/14773#pullrequestreview-5566222417) - 2026-10-19
+* [Review] [Review on: perf(state): overwrite an unobserved account update in place](https://github.com/NethermindEth/nethermind/pull/14793#pullrequestreview-5566218599) - 2026-10-19
+* [Review] [Review on: test(benchmarks): use NullLogManager instead of LimboLogs in benchmark projects](https://github.com/NethermindEth/nethermind/pull/14831#pullrequestreview-5566209906) - 2026-10-19
+* [Review] [Review on: ci: chunk Nethermind.Runner.Test on macOS and Windows runners](https://github.com/NethermindEth/nethermind/pull/14871#pullrequestreview-5566204078) - 2026-10-19
 ## Q3 2026
 
 

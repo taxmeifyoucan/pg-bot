@@ -195,6 +195,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(zkvm): run SP1 and OpenVM MUL in a frameless native handler](https://github.com/NethermindEth/nethermind/pull/14784#pullrequestreview-5546998139) - 2026-10-16
 * [Commit] [refactor(bal): share BAL-to-state deltas between catch-up and healing (#14660)](https://github.com/NethermindEth/nethermind/commit/953184962c6b5e39e8e40da6be3d565434563a81) - 2026-10-16
 * [Commit] [fix(crypto): compare legacy v against the chain id without overflow (#14649)](https://github.com/NethermindEth/nethermind/commit/60518b8183ed7e0b81252edad8e48573f891dfba) - 2026-10-16
+* [Commit] [fix(tracing): prestate diff mode deletes the self-destructed account, not the beneficiary (#14580)](https://github.com/NethermindEth/nethermind/commit/d771190e6764251dc17ea12b2fba3f6c5e7301c0) - 2026-10-18
+* [Commit] [test: cover EIP-8037, EIP-7708 and block access list edge cases on Amsterdam (#14596)](https://github.com/NethermindEth/nethermind/commit/1e4fda28f48cf4a5fe922627520f52c43af56bc6) - 2026-10-18
+* [Commit] [fix(history): default the rolling history retention to the chain floor (#14622)](https://github.com/NethermindEth/nethermind/commit/69012665d99e7bfb9be65b33d4d3db2b8ffda4a3) - 2026-10-18
+* [Commit] [fix(state): keep the original exception when a BAL storage batch fails (#14704)](https://github.com/NethermindEth/nethermind/commit/1a1c5dff76909f764936d68208f15323ebb399a5) - 2026-10-18
+* [Commit] [fix(merge): carry a missing empty block as null and wait for the improvement (#14726)](https://github.com/NethermindEth/nethermind/commit/7cce68d8dc8c6db1fdde7d020ef79406f47de353) - 2026-10-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

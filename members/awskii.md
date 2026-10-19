@@ -124,6 +124,9 @@ Team: Erigon
 * [Pull Request] [[r3.7] execution/state, execution/tests: keep the nonce of a self-destructed account across a revert (#24701)](https://github.com/erigontech/erigon/pull/24864) - 2026-10-17
 * [Commit] [db/snapshotsync: fix stale RemoveOverlaps .tmp note on DumpCaplinState (#24979)](https://github.com/erigontech/erigon/commit/d4e0b8a8b00612f6c1b44361c96beed8b7df9101) - 2026-10-17
 * [Commit] [db/snapshotsync: scope RemoveOverlaps to the collection's own types (#24998)](https://github.com/erigontech/erigon/commit/c9f0ca49d5bde1cfc7a5357a919b26215cde951e) - 2026-10-17
+* [Pull Request] [db/snapshotsync: open caplin segments like EL so covered ones can be unlinked](https://github.com/erigontech/erigon/pull/25013) - 2026-10-18
+* [Pull Request] [execution/stagedsync: defer same-sender successors until validation](https://github.com/erigontech/erigon/pull/24500) - 2026-10-18
+* [Commit] [execution/stagedsync: defer same-sender successors until validation (#24500)](https://github.com/erigontech/erigon/commit/ed0ac514694c8be68a7cd056e3d3899ea3ce8c2c) - 2026-10-18
 ## Q3 2026
 
 

@@ -73,6 +73,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: prune queued messages by bufferred roots in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10395#pullrequestreview-5527907467) - 2026-10-15
 * [Pull Request] [fix: model Transactions as SerializedList types](https://github.com/ChainSafe/lodestar/pull/10399) - 2026-10-15
 * [Commit] [fix: prune queued messages by bufferred roots in NetworkProcessor (#10395)](https://github.com/ChainSafe/lodestar/commit/01f0b664cd02b68114b67c6bf74a36120d3e4dcb) - 2026-10-15
+* [Review] [Review on: fix: drop finalized block hash from payload id cache key](https://github.com/ChainSafe/lodestar/pull/10432#pullrequestreview-5566294592) - 2026-10-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

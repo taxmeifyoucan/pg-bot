@@ -309,6 +309,22 @@ Team: Reth
 * [Commit] [fix(cli): propagate migrate-v2 read errors and rollback failures (#27978)](https://github.com/paradigmxyz/reth/commit/1ce3294ae824a67a90ceb234df94cccd02de1199) - 2026-10-17
 * [Commit] [fix(cli): honor configurable argument defaults (#27975)](https://github.com/paradigmxyz/reth/commit/86ec896d2437321873aaf47f6e071fb30efb137d) - 2026-10-17
 * [Commit] [test: close the node database in test_engine_graceful_shutdown (#27974)](https://github.com/paradigmxyz/reth/commit/0e052cbff6ac94460dd40ddd014750fc73dbf5a8) - 2026-10-17
+* [Review] [Review on: fix(pipeline): floor detached unwinds at genesis](https://github.com/paradigmxyz/reth/pull/27888#pullrequestreview-5562108629) - 2026-10-18
+* [Review] [Review on: test(snap): expand e2e coverage](https://github.com/paradigmxyz/reth/pull/27853#pullrequestreview-5562108366) - 2026-10-18
+* [Pull Request] [fix(exex): retain failed WAL deletions](https://github.com/paradigmxyz/reth/pull/28007) - 2026-10-18
+* [Pull Request] [fix(exex): reject zero backfill stream limits](https://github.com/paradigmxyz/reth/pull/28006) - 2026-10-18
+* [Pull Request] [refactor(exex)!: encapsulate event submission](https://github.com/paradigmxyz/reth/pull/28005) - 2026-10-18
+* [Pull Request] [fix(era): validate archive stream completion](https://github.com/paradigmxyz/reth/pull/27994) - 2026-10-18
+* [Pull Request] [fix(era)!: enforce ERE construction invariants](https://github.com/paradigmxyz/reth/pull/27995) - 2026-10-18
+* [Pull Request] [fix(era): share strict Snappy RLP decoding](https://github.com/paradigmxyz/reth/pull/27997) - 2026-10-18
+* [Pull Request] [perf(era): share fetched file list metadata](https://github.com/paradigmxyz/reth/pull/28004) - 2026-10-18
+* [Pull Request] [fix(era)!: preserve download failures](https://github.com/paradigmxyz/reth/pull/28002) - 2026-10-18
+* [Pull Request] [fix(era)!: offload local checksum verification](https://github.com/paradigmxyz/reth/pull/28003) - 2026-10-18
+* [Pull Request] [fix(era)!: enforce import runtime requirements](https://github.com/paradigmxyz/reth/pull/27999) - 2026-10-18
+* [Pull Request] [refactor(era): clarify file and slot contracts](https://github.com/paradigmxyz/reth/pull/27996) - 2026-10-18
+* [Pull Request] [refactor(era): simplify tuple bookkeeping](https://github.com/paradigmxyz/reth/pull/27998) - 2026-10-18
+* [Pull Request] [refactor(era): stream accumulator records](https://github.com/paradigmxyz/reth/pull/28001) - 2026-10-18
+* [Pull Request] [fix(era): preserve export storage failures](https://github.com/paradigmxyz/reth/pull/28000) - 2026-10-18
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

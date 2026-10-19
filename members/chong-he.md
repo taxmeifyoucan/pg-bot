@@ -26,6 +26,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Reject `SingleAttestation` with large index earlier](https://github.com/sigp/lighthouse/pull/10330) - 2026-10-13
 * [Review] [Review on: Implement `GET v2/debug/fork_choice` endpoint](https://github.com/sigp/lighthouse/pull/10215#pullrequestreview-5545551592) - 2026-10-16
 * [Review] [Review on: Fix --enr-address flag name in networking docs](https://github.com/sigp/lighthouse/pull/10274#pullrequestreview-5542689030) - 2026-10-16
+* [Pull Request] [Update `zip` crate to fix CI audit failure](https://github.com/sigp/lighthouse/pull/10378) - 2026-10-19
 ## Q3 2026
 
 

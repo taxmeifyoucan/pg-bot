@@ -423,6 +423,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [perf(rpc): write callTracer logs directly in the frame converter](https://github.com/NethermindEth/nethermind/pull/14844) - 2026-10-17
 * [Pull Request] [perf(evm): report single-byte stack pushes and memory changes without allocating](https://github.com/NethermindEth/nethermind/pull/14848) - 2026-10-17
 * [Commit] [perf(rpc): read a single receipt and transaction for transaction lookups (#14769)](https://github.com/NethermindEth/nethermind/commit/c1cf3ee81f63e441eb7745fffa2dbea3e134cb51) - 2026-10-17
+* [Pull Request] [ci: chunk Nethermind.Runner.Test on macOS and Windows runners](https://github.com/NethermindEth/nethermind/pull/14871) - 2026-10-18
+* [Review] [Review on: perf(txpool): decode blob batches directly](https://github.com/NethermindEth/nethermind/pull/14796#pullrequestreview-5563223758) - 2026-10-18
+* [Review] [Review on: perf(db): decode chain-level batches directly](https://github.com/NethermindEth/nethermind/pull/14818#pullrequestreview-5563223968) - 2026-10-18
+* [Commit] [test(core): keep SeqlockCache concurrency test below one sequence cycle per cache (#14842)](https://github.com/NethermindEth/nethermind/commit/da7150b21aad643ec5924241563f81b9761f4389) - 2026-10-18
+* [Commit] [perf(zkevm): tune the SP1 guest's JIT codegen for fewer executed instructions (#14828)](https://github.com/NethermindEth/nethermind/commit/3f3e9641286ac68c9c169d2203a4d6589ccf1856) - 2026-10-18
+* [Commit] [fix(processing): run invalid block diagnostics off the processing pipeline (#14837)](https://github.com/NethermindEth/nethermind/commit/4fb371b4a5fe9faac19ebde82c842d454c989559) - 2026-10-18
+* [Commit] [test(shutter): cache header copies so the head header lookup is deterministic (#14852)](https://github.com/NethermindEth/nethermind/commit/14ce404bff9eee953573d09853ef62940f72045e) - 2026-10-18
+* [Commit] [feat(engine): bound the SSZ execution witness per execution-apis#885 (#14785)](https://github.com/NethermindEth/nethermind/commit/285fb38844cc086cbf80a83d2b3eca2b92c1f431) - 2026-10-18
+* [Commit] [perf(bal): stop applying the block access list once the block is rejected (#14840)](https://github.com/NethermindEth/nethermind/commit/a5c79fb6da8646e52b6131e9d1631e9667e07333) - 2026-10-18
+* [Commit] [test(evm): bound the reused tracer's minimum per-tx allocation, not the mean (#14859)](https://github.com/NethermindEth/nethermind/commit/cd3d6244e1635a963be0cc7d25343b72af58b6bd) - 2026-10-18
+* [Commit] [perf(rpc): write callTracer logs directly in the frame converter (#14844)](https://github.com/NethermindEth/nethermind/commit/24698c0174dbe466eb2134ddc66371ec58f25473) - 2026-10-18
+* [Commit] [perf(tracing): keep VM output arrays in parity action results instead of copying (#14849)](https://github.com/NethermindEth/nethermind/commit/159862be46aa4ea5b57ec60148f1a13909865a7c) - 2026-10-18
+* [Commit] [perf(evm): report single-byte stack pushes and memory changes without allocating (#14848)](https://github.com/NethermindEth/nethermind/commit/4610bebfd84bb60ade59ce1f5620c32374ea2920) - 2026-10-18
+* [Commit] [fix(bal): reject an invalid block access list without re-executing sequentially (#14836)](https://github.com/NethermindEth/nethermind/commit/c712ba2c4343a5a4a4382605b70c3b5b0b2e6085) - 2026-10-18
+* [Commit] [perf(zkvm): move word-aligned EVM memory words whole on SP1 (#14830)](https://github.com/NethermindEth/nethermind/commit/9d1cc7a78b3aac7e4d74942f978b80b560bd193c) - 2026-10-18
+* [Commit] [perf(rpc): write eth_getLogs json straight from receipts (#14790)](https://github.com/NethermindEth/nethermind/commit/a838130bd922b0f23ac229698239ae805826128a) - 2026-10-18
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -495,6 +511,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540122239) - 2026-10-15
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5563292730) - 2026-10-18
 ## Q3 2026
 
 

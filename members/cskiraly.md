@@ -27,6 +27,9 @@ Team: Codex DAS
 * [Pull Request] [triedb/pathdb: fix the reactivation after a state sync](https://github.com/ethereum/go-ethereum/pull/35936) - 2026-10-10
 * [Commit] [triedb/pathdb: fix the reactivation after a state sync (#35936)](https://github.com/ethereum/go-ethereum/commit/32fea34c44eb9f280b2b8bdbbf344c8ff5ef63cf) - 2026-10-12
 * [Commit] [core/rawdb: keep the freezer metadata at a fixed size (#35939)](https://github.com/ethereum/go-ethereum/commit/640194fb96e58698babf990fe9c8b48f871f1de2) - 2026-10-12
+* [Pull Request] [internal/build: ask git for the commit, with fallback to reading .git](https://github.com/ethereum/go-ethereum/pull/35965) - 2026-10-18
+* [Pull Request] [core/txpool/legacypool: count pending transactions as the lists change](https://github.com/ethereum/go-ethereum/pull/35966) - 2026-10-18
+* [Review] [Review on: beacon/light/request: emit soft timeout event under lock](https://github.com/ethereum/go-ethereum/pull/35957#pullrequestreview-5562094858) - 2026-10-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08
