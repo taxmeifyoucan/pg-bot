@@ -42,6 +42,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Import the payload envelope of an unaligned checkpoint anchor](https://github.com/sigp/lighthouse/pull/10189#pullrequestreview-5516781741) - 2026-10-14
 * [Review] [Review on: Implement `builder_pending_withdrawals` and `builder_pending_payments` state getter endpoints](https://github.com/sigp/lighthouse/pull/10285#pullrequestreview-5516427608) - 2026-10-14
 * [Review] [Review on: EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313#pullrequestreview-5529109542) - 2026-10-15
+* [Pull Request] [Add gloas support to custody column backfill](https://github.com/sigp/lighthouse/pull/10385) - 2026-10-19
+* [Pull Request] [Heze devnet 2](https://github.com/sigp/lighthouse/pull/10388) - 2026-10-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

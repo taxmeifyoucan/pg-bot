@@ -61,6 +61,17 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Implement `GET beacon/proposer_preferences` endpoint](https://github.com/sigp/lighthouse/pull/10268#pullrequestreview-5527675775) - 2026-10-15
 * [Review] [Review on: Update `zip` crate to fix CI audit failure](https://github.com/sigp/lighthouse/pull/10378#pullrequestreview-5566431072) - 2026-10-19
 * [Issue] [Fake pre-Gloas blocks as "full" for SSE](https://github.com/sigp/lighthouse/issues/10377) - 2026-10-18
+* [Pull Request] [Exclude slashed validators in FCR's get_proposer_score](https://github.com/sigp/lighthouse/pull/10380) - 2026-10-19
+* [Pull Request] [Flesh out CODEOWNERS a bit more](https://github.com/sigp/lighthouse/pull/10394) - 2026-10-20
+* [Pull Request] [Use available time rather than observed for reorgs](https://github.com/sigp/lighthouse/pull/10382) - 2026-10-19
+* [Pull Request] [Back merge 8.3.0](https://github.com/sigp/lighthouse/pull/10387) - 2026-10-19
+* [Pull Request] [Release v8.3.0](https://github.com/sigp/lighthouse/pull/10386) - 2026-10-19
+* [Pull Request] [Add v8.3.0 to database schema version tables](https://github.com/sigp/lighthouse/pull/10383) - 2026-10-19
+* [Issue] [FCR optimisation plan ( :robot: )](https://github.com/sigp/lighthouse/issues/10389) - 2026-10-19
+* [Commit] [Release v8.3.0](https://github.com/sigp/lighthouse/commit/014ba06b56514d383426f2c727e7233dad973e0d) - 2026-10-19
+* [Commit] [Skip unslashable proposer slashings](https://github.com/sigp/lighthouse/commit/6e36491a9bcf5b1f01aa82be0db9962893cb9dd3) - 2026-10-19
+* [Commit] [Processor limits](https://github.com/sigp/lighthouse/commit/e31b5d0ca196641a0b0c70a0c074037980d63982) - 2026-10-19
+* [Commit] [Limit requests at request time instead of response time](https://github.com/sigp/lighthouse/commit/b7a6e64066d3a04ac5974c2236d30f5a33b61d30) - 2026-10-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

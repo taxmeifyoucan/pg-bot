@@ -112,6 +112,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [execution/types, rpc: stop copying each eth_getLogs result log to stamp its block timestamp](https://github.com/erigontech/erigon/pull/25010) - 2026-10-18
 * [Commit] [.github/workflows: bump hive and execution-apis refs for rpc-compat (#25016)](https://github.com/erigontech/erigon/commit/c6bfd55da6e3c38f80eb18e5dde1b39d64ce29a4) - 2026-10-18
 * [Commit] [.github/workflows: pass --process-name rpcdaemon to rpc_perf only for erigon (#24974)](https://github.com/erigontech/erigon/commit/8e2473c6f7f54009052c9a347acbebe4f404284e) - 2026-10-18
+* [Review] [Review on: rpc/jsonrpc: reject unknown override keys in eth_simulateV1](https://github.com/erigontech/erigon/pull/25018#pullrequestreview-5576201179) - 2026-10-19
+* [Commit] [rpc/jsonrpc: bound the authorization list of trace_rawTransaction before decoding (#24966)](https://github.com/erigontech/erigon/commit/a0253c04e43e2ce79bb536e247b368ef329ed8b6) - 2026-10-20
+* [Commit] [rpc/jsonrpc: require the code argument of overlay_callConstructor (#24961)](https://github.com/erigontech/erigon/commit/51a0445191d07a9ae658fe7698d611dee186ea8c) - 2026-10-20
+* [Commit] [rpc/jsonrpc: reject a difficulty override after the merge in eth_simulateV1 (#25017)](https://github.com/erigontech/erigon/commit/36eaa3ccb018eab652c046545b1f58d49fa0b5d7) - 2026-10-20
+* [Commit] [rpc/jsonrpc: report blob transactions in txpool_content, contentFrom and inspect (#24958)](https://github.com/erigontech/erigon/commit/87657caa5926d88c540a1189921d7ae08cf9f35e) - 2026-10-19
+* [Commit] [rpc: require a JSON content type on GET calls (#24969)](https://github.com/erigontech/erigon/commit/0732e36f5ba2bf41443841e11431af09392ccd3c) - 2026-10-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -142,6 +148,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [eth_simulateV1: drop override keys that the spec does not define](https://github.com/erigontech/rpc-tests/pull/630) - 2026-10-18
 * [Pull Request] [eth_simulateV1: expect a difficulty override after the merge to be rejected](https://github.com/erigontech/rpc-tests/pull/629) - 2026-10-18
 * [Pull Request] [eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628) - 2026-10-18
+* [Pull Request] [rpc_pattern_gen: --per-block takes N random txs or logs of each block](https://github.com/erigontech/rpc-tests/pull/632) - 2026-10-19
+* [Commit] [eth_simulateV1: expect a difficulty override after the merge to be rejected (#629)](https://github.com/erigontech/rpc-tests/commit/9bb31d70343d17b852753d81e8c5d79038cc81ca) - 2026-10-19
+* [Commit] [eth_simulateV1: expect nonce has max value for a max-nonce sender without validation (#628)](https://github.com/erigontech/rpc-tests/commit/c1011a502114b1f68632e97de8f51e23248bee0e) - 2026-10-19
+* [Commit] [rpc_pattern_gen: read a block range, optionally sampled at random (#627)](https://github.com/erigontech/rpc-tests/commit/d244410fa96f2972d630e2e019dc7deb1b389c17) - 2026-10-19
+* [Commit] [rpc_pattern_gen: build the or-list values of a block once (#626)](https://github.com/erigontech/rpc-tests/commit/4c4fb386d941502d804e9ad2f4b277df741c1713) - 2026-10-19
 ## Q3 2026
 
 

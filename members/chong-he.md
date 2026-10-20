@@ -27,6 +27,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Implement `GET v2/debug/fork_choice` endpoint](https://github.com/sigp/lighthouse/pull/10215#pullrequestreview-5545551592) - 2026-10-16
 * [Review] [Review on: Fix --enr-address flag name in networking docs](https://github.com/sigp/lighthouse/pull/10274#pullrequestreview-5542689030) - 2026-10-16
 * [Pull Request] [Update `zip` crate to fix CI audit failure](https://github.com/sigp/lighthouse/pull/10378) - 2026-10-19
+* [Review] [Review on: Add v8.3.0 to database schema version tables](https://github.com/sigp/lighthouse/pull/10383#pullrequestreview-5568169153) - 2026-10-19
+* [Commit] [Update `zip` crate to fix CI audit failure (#10378)](https://github.com/sigp/lighthouse/commit/ec1072379af7cc386d9f01ac003fc1d18e7abe5d) - 2026-10-19
 ## Q3 2026
 
 

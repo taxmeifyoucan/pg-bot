@@ -63,6 +63,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge branch 'master' into pk910/execution-proofs-index](https://github.com/ethpandaops/dora/commit/ff6d00acc18a7c61032b931c62dd5f432ef29297) - 2026-10-16
 * [Commit] [Merge pull request #907 from ethpandaops/pk910/specs-prefer-scheduled-fork](https://github.com/ethpandaops/dora/commit/08bf0d4504e1cc335b3441112cfb18ba104030b8) - 2026-10-16
 * [Review] [Review on: fix(frontend): protect the pprof endpoint with a pre-shared key](https://github.com/ethpandaops/dora/pull/912#pullrequestreview-5564905700) - 2026-10-18
+* [Review] [Review on: feat: name builders with the validator names key syntax](https://github.com/ethpandaops/dora/pull/908#pullrequestreview-5571178948) - 2026-10-19
+* [Review] [Review on: feat: show self-built bid value from indexed payload fees](https://github.com/ethpandaops/dora/pull/911#pullrequestreview-5570614301) - 2026-10-19
+* [Review] [Review on: build(deps): bump the dependencies group across 1 directory with 9 updates](https://github.com/ethpandaops/dora/pull/914#pullrequestreview-5570952453) - 2026-10-19
+* [Commit] [Merge branch 'master' into pk910/builder-names](https://github.com/ethpandaops/dora/commit/34c1e9cf43ba4cc75b60eeede8aaf0338ad2a8f3) - 2026-10-19
+* [Commit] [Merge pull request #914 from ethpandaops/dependabot/go_modules/dependencies-07156ccd57](https://github.com/ethpandaops/dora/commit/932656aefaf58712c4699a74c8acc8198c995b03) - 2026-10-19
+* [Commit] [Merge branch 'master' into dependabot/go_modules/dependencies-07156ccd57](https://github.com/ethpandaops/dora/commit/f5ee80d2eb24d940e8bd2e700582724bd6809e33) - 2026-10-19
+* [Commit] [Merge pull request #896 from ethpandaops/bbusa/heze-eip8198](https://github.com/ethpandaops/dora/commit/7eb22e650a3e74ae5a2f0ac2b72654356f4a3aeb) - 2026-10-19
+* [Commit] [Merge branch 'master' into bbusa/heze-eip8198](https://github.com/ethpandaops/dora/commit/0e86843760d035b6d32d373035568660d65801a1) - 2026-10-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 

@@ -13,6 +13,9 @@ Team: Robust Incentives Group (RIG)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(spec-specs,test-forks,tests): implement EIP-8198 quick slots](https://github.com/ethereum/execution-specs/pull/3703) - 2026-10-04
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Update EIP-8198: target 10-second slots and align with the reference specs](https://github.com/ethereum/EIPs/commit/0ce679f4654ba4d120c97113626f320475e22fa9) - 2026-10-19
 ## Q3 2026
 
 

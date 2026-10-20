@@ -130,9 +130,12 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(util): parallelize narrow portable transposes by row bands](https://github.com/Plonky3/Plonky3/pull/2466#pullrequestreview-5563473734) - 2026-10-18
 * [Review] [Review on: perf(provers): release temporary buffers and omit unused row planes](https://github.com/Plonky3/Plonky3/pull/2454#pullrequestreview-5563440382) - 2026-10-18
 * [Review] [Review on: chore: fix lint warnings](https://github.com/Plonky3/Plonky3/pull/2467#pullrequestreview-5563405513) - 2026-10-18
+* [Review] [Review on: fix(fri)!: require hiding MMCSs in HidingFriPcs](https://github.com/Plonky3/Plonky3/pull/2438#pullrequestreview-5578857290) - 2026-10-19
+* [Review] [Review on: docs(util): correct bit-reversal dimensions and transpose safety requirements](https://github.com/Plonky3/Plonky3/pull/2468#pullrequestreview-5578865427) - 2026-10-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 
+* [Pull Request] [Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/pull/12550) - 2026-10-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 ## Q3 2026

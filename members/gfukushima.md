@@ -20,6 +20,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [Clear builder payment on slashing](https://github.com/Consensys-Incorporated/teku/issues/11456) - 2026-10-09
 * [Commit] [Bump ref test to beta3 (#11444)](https://github.com/Consensys-Incorporated/teku/commit/10e03bc6862c32f1bbfd11eea80dff5f61c1f1d1) - 2026-10-09
 * [Pull Request] [Fetch envelopes by range from canonical chain](https://github.com/Consensys-Incorporated/teku/pull/11477) - 2026-10-12
+* [Review] [Review on: Fetch envelopes by range from canonical chain](https://github.com/Consensys-Incorporated/teku/pull/11477#pullrequestreview-5567203019) - 2026-10-19
+* [Commit] [Fetch envelopes by range from canonical chain (#11477)](https://github.com/Consensys-Incorporated/teku/commit/848037b682185f4a256f940d4aa7ef544f579798) - 2026-10-19
 ## Q3 2026
 
 

@@ -68,6 +68,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [docs(consume): describe the client test runner interface](https://github.com/ethereum/execution-specs/pull/3846) - 2026-10-16
 * [Review] [Review on: docs(consume): describe the client test runner interface](https://github.com/ethereum/execution-specs/pull/3846#pullrequestreview-5553604541) - 2026-10-16
 * [Commit] [chore(skill): correct stale facts in the repo skills (#3838)](https://github.com/ethereum/execution-specs/commit/7653fb643eb5c5028fe975bf999d5776788f9cd1) - 2026-10-16
+* [Review] [Review on: ✨ feat(tests): Extend focil test coverage](https://github.com/ethereum/execution-specs/pull/3868#pullrequestreview-5577711086) - 2026-10-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

@@ -65,6 +65,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: pass reference assemblies to NuGet publishing via workflow artifact](https://github.com/NethermindEth/nethermind/pull/14809#pullrequestreview-5551986654) - 2026-10-16
 * [Review] [Review on: refactor(network): remove peripheral DotNetty usages and add an RLPx round-trip benchmark](https://github.com/NethermindEth/nethermind/pull/14728#pullrequestreview-5550342319) - 2026-10-16
 * [Commit] [ci: pass reference assemblies to NuGet publishing via workflow artifact (#14809)](https://github.com/NethermindEth/nethermind/commit/9d39bf22c6dd7fa810da264198c534983ea6e7a3) - 2026-10-18
+* [Pull Request] [ci(zkevm): release guest ELFs with ere verification keys](https://github.com/NethermindEth/nethermind/pull/14931) - 2026-10-19
+* [Review] [Review on: ci(zkevm): release guest ELFs with ere verification keys](https://github.com/NethermindEth/nethermind/pull/14931#pullrequestreview-5577631976) - 2026-10-19
+* [Pull Request] [ci(release)!: sign one SHA256SUMS and attest the packages instead of signing each](https://github.com/NethermindEth/nethermind/pull/14932) - 2026-10-19
+* [Review] [Review on: ci(release)!: sign one SHA256SUMS and attest the packages instead of signing each](https://github.com/NethermindEth/nethermind/pull/14932#pullrequestreview-5577632378) - 2026-10-19
+* [Commit] [refactor(network): remove peripheral DotNetty usages and add an RLPx round-trip benchmark (#14728)](https://github.com/NethermindEth/nethermind/commit/628dea630bfd2614b21664e67b4e545e69e5166e) - 2026-10-19
+* [Commit] [chore(deps): update MCL package (#14912)](https://github.com/NethermindEth/nethermind/commit/a1c69bbeb6f224e36d269a80ea618747d68d1003) - 2026-10-19
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

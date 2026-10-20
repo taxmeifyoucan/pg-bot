@@ -200,6 +200,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix(history): default the rolling history retention to the chain floor (#14622)](https://github.com/NethermindEth/nethermind/commit/69012665d99e7bfb9be65b33d4d3db2b8ffda4a3) - 2026-10-18
 * [Commit] [fix(state): keep the original exception when a BAL storage batch fails (#14704)](https://github.com/NethermindEth/nethermind/commit/1a1c5dff76909f764936d68208f15323ebb399a5) - 2026-10-18
 * [Commit] [fix(merge): carry a missing empty block as null and wait for the improvement (#14726)](https://github.com/NethermindEth/nethermind/commit/7cce68d8dc8c6db1fdde7d020ef79406f47de353) - 2026-10-18
+* [Review] [Review on: feat(eip8198): Quick Slots - 5/48 base fee change and fork-aware slot schedule](https://github.com/NethermindEth/nethermind/pull/14606#pullrequestreview-5572124224) - 2026-10-19
+* [Pull Request] [fix(history): harden BAL retention and delayed sync responses](https://github.com/NethermindEth/nethermind/pull/14915) - 2026-10-19
+* [Commit] [fix: payload preparation, BAL apply and history pruning review follow-ups (#14890)](https://github.com/NethermindEth/nethermind/commit/0b7b7465cab98ae66bfe8a52a8a89a5ad4b036fb) - 2026-10-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

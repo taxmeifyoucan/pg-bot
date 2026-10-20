@@ -25,6 +25,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [perf: check base storage directly in LayeredKeyValueStorage.isClosed() (#11587)](https://github.com/besu-eth/besu/commit/4942495f71cbea17a1321d27868ef8d96231419b) - 2026-10-14
 * [Issue] [Snap sync: peers returning empty receipts are reselected repeatedly and stall the chain download](https://github.com/besu-eth/besu/issues/11615) - 2026-10-16
 * [Review] [Review on: Reconcile 26.10.0 into main (clean merge from post-revert main)](https://github.com/besu-eth/besu/pull/11642#pullrequestreview-5565546815) - 2026-10-18
+* [Review] [Review on: SNAP2: Add the request scheduler](https://github.com/besu-eth/besu/pull/11621#pullrequestreview-5566518384) - 2026-10-19
+* [Review] [Review on: Pass the block hash to the world state check of eth_getProof](https://github.com/besu-eth/besu/pull/11619#pullrequestreview-5567227539) - 2026-10-19
 ## Q3 2026
 
 

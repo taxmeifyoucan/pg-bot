@@ -41,6 +41,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(state): overwrite an unobserved account update in place](https://github.com/NethermindEth/nethermind/pull/14793#pullrequestreview-5566218599) - 2026-10-19
 * [Review] [Review on: test(benchmarks): use NullLogManager instead of LimboLogs in benchmark projects](https://github.com/NethermindEth/nethermind/pull/14831#pullrequestreview-5566209906) - 2026-10-19
 * [Review] [Review on: ci: chunk Nethermind.Runner.Test on macOS and Windows runners](https://github.com/NethermindEth/nethermind/pull/14871#pullrequestreview-5566204078) - 2026-10-19
+* [Review] [Review on: perf(sync): extend plugin processing and peer notification mechanisms](https://github.com/NethermindEth/nethermind/pull/14940#pullrequestreview-5579311663) - 2026-10-20
+* [Commit] [fix(consensus): set zero parent beacon root in NethDev blocks after Cancun (#14575)](https://github.com/NethermindEth/nethermind/commit/b62bec26782220d636d025a988a182a9a4f04335) - 2026-10-19
+* [Commit] [feat(flat): trie node-dedup log in front of the trie columns (#14140)](https://github.com/NethermindEth/nethermind/commit/f5c6414a350ddee63307e2bc57923015fd03d68b) - 2026-10-19
 ## Q3 2026
 
 

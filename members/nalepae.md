@@ -65,6 +65,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Emit `PayloadAttributesV4` in the `payload_attributes` event from Gloas](https://github.com/OffchainLabs/prysm/pull/17720#pullrequestreview-5545384283) - 2026-10-16
 * [Review] [Review on: Make `committee_index` optional for `attestation_data` at every fork](https://github.com/OffchainLabs/prysm/pull/17718#pullrequestreview-5545393806) - 2026-10-16
 * [Pull Request] [Fix some CI flaky tests](https://github.com/OffchainLabs/prysm/pull/17730) - 2026-10-18
+* [Commit] [Fix some CI flaky tests (#17730)](https://github.com/OffchainLabs/prysm/commit/9bd09da2a7106b28ad1253df75f6d66db97b0648) - 2026-10-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

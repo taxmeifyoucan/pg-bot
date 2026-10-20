@@ -15,6 +15,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #115, October 07, 2026](https://github.com/ethereum/pm/issues/2259) - 2026-10-05
 * [Pull Request] [Create Glamsterdam Ecosystem ReadinessChecklist](https://github.com/ethereum/pm/pull/2266) - 2026-10-08
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #116, October 14, 2026](https://github.com/ethereum/pm/issues/2270) - 2026-10-12
+* [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #117, October 20, 2026](https://github.com/ethereum/pm/issues/2278) - 2026-10-19
 ## Q3 2026
 
 

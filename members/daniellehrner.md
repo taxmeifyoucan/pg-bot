@@ -114,12 +114,24 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Fail loudly when account code cannot be read (#11456)](https://github.com/besu-eth/besu/commit/7325f180893bd8db7a25c5d8c1f2eb0dda92b637) - 2026-10-16
 * [Review] [Review on: Bound the cost of jump destination analysis](https://github.com/besu-eth/besu/pull/11400#pullrequestreview-5564747856) - 2026-10-18
 * [Commit] [Bound the cost of jump destination analysis (#11400)](https://github.com/besu-eth/besu/commit/c9b07536ccc4de5fc2dbf26c8d43bc3ea5870d83) - 2026-10-18
+* [Review] [Review on: SNAP2: Add the range proofs and the ascending collapse Patricia trie](https://github.com/besu-eth/besu/pull/11626#pullrequestreview-5570069172) - 2026-10-19
+* [Review] [Review on: CHANGELOG: list the GHSAs in 26.x releases](https://github.com/besu-eth/besu/pull/11608#pullrequestreview-5569935398) - 2026-10-19
+* [Pull Request] [Use the native secp256k1 ECDH key agreement from besu-native 2.1.0](https://github.com/besu-eth/besu/pull/11648) - 2026-10-19
+* [Review] [Review on: Check the BAL item budget per transaction without copying the list](https://github.com/besu-eth/besu/pull/11454#pullrequestreview-5572309403) - 2026-10-19
+* [Review] [Review on: SNAP2: Add the sync storage and the storage trie updates](https://github.com/besu-eth/besu/pull/11625#pullrequestreview-5572234112) - 2026-10-19
+* [Review] [Review on: EIP-8070: Recover a blob from half of its cells](https://github.com/besu-eth/besu/pull/11543#pullrequestreview-5570026636) - 2026-10-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [Add a native secp256k1 ECDH key agreement](https://github.com/besu-eth/besu-native/pull/324) - 2026-10-18
 * [Review] [Review on: Add a native secp256k1 ECDH key agreement](https://github.com/besu-eth/besu-native/pull/324#pullrequestreview-5562892998) - 2026-10-18
+* [Pull Request] [changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326) - 2026-10-19
+* [Review] [Review on: Add a native secp256k1 ECDH key agreement](https://github.com/besu-eth/besu-native/pull/324#pullrequestreview-5566871003) - 2026-10-19
+* [Pull Request] [changelog and version bump for release 2.1.0](https://github.com/besu-eth/besu-native/pull/325) - 2026-10-19
+* [Commit] [changelog and version bump post release 2.1.0 (#326)](https://github.com/besu-eth/besu-native/commit/be1d9669c0183615728cdf9bdd8e87b62a327806) - 2026-10-19
+* [Commit] [changelog and version bump for release 2.1.0 (#325)](https://github.com/besu-eth/besu-native/commit/c93d44cf5ac985bba40f0ce02cc0d5c1412acf6f) - 2026-10-19
+* [Commit] [Add a native secp256k1 ECDH key agreement (#324)](https://github.com/besu-eth/besu-native/commit/7327369c81543928868eb94ce45f0420f67c087f) - 2026-10-19
 ## Q3 2026
 
 

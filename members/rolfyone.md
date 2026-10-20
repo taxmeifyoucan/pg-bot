@@ -106,6 +106,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Updated source headers to match new entity name](https://github.com/Consensys-Incorporated/teku/pull/11517#pullrequestreview-5565115266) - 2026-10-18
 * [Issue] [Fetch missing inclusion lists via InclusionListsByIndices when proposing](https://github.com/Consensys-Incorporated/teku/issues/11524) - 2026-10-19
 * [Commit] [Verify validator deposit signatures lazily at Gloas builder onboarding (#11511)](https://github.com/Consensys-Incorporated/teku/commit/bbe013cad6d42d7123a52ff5e3b0589169af38cb) - 2026-10-18
+* [Review] [Review on: Set Gloas attestation index from fork choice payload status](https://github.com/Consensys-Incorporated/teku/pull/11498#pullrequestreview-5580167969) - 2026-10-20
+* [Review] [Review on: Correctly handle payload invalidation after optimistic sync](https://github.com/Consensys-Incorporated/teku/pull/11506#pullrequestreview-5567361127) - 2026-10-19
+* [Pull Request] [Keep inclusion list error details in fork choice notifier and REST API](https://github.com/Consensys-Incorporated/teku/pull/11536) - 2026-10-19
+* [Pull Request] [Add validator client inclusion list duty tests](https://github.com/Consensys-Incorporated/teku/pull/11532) - 2026-10-19
+* [Pull Request] [Add Gloas and Heze ForkChoiceNotifier tests](https://github.com/Consensys-Incorporated/teku/pull/11534) - 2026-10-19
+* [Pull Request] [Add ValidatorApiHandler inclusion list tests](https://github.com/Consensys-Incorporated/teku/pull/11533) - 2026-10-19
+* [Pull Request] [Add Heze engine newPayloadV6 and forkChoiceUpdatedV5 tests](https://github.com/Consensys-Incorporated/teku/pull/11530) - 2026-10-19
+* [Pull Request] [Add Heze inclusion list gossip tests](https://github.com/Consensys-Incorporated/teku/pull/11531) - 2026-10-19
+* [Pull Request] [Keep inclusion list gossip across Heze BPO forks and reject pre-Heze ILs](https://github.com/Consensys-Incorporated/teku/pull/11529) - 2026-10-19
+* [Pull Request] [Remove inclusion list dead code and resolved TODOs](https://github.com/Consensys-Incorporated/teku/pull/11528) - 2026-10-19
+* [Pull Request] [Share the inclusion list store key lookup](https://github.com/Consensys-Incorporated/teku/pull/11527) - 2026-10-19
+* [Pull Request] [Quieten inclusion list payload attributes refresh](https://github.com/Consensys-Incorporated/teku/pull/11526) - 2026-10-19
+* [Pull Request] [Anchor implemented Heze specrefs](https://github.com/Consensys-Incorporated/teku/pull/11525) - 2026-10-19
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

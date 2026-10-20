@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [execution/state: versioned-state foundation (1/2, split of #23967) (#24132)](https://github.com/erigontech/erigon/commit/6551cef51685508cb231d70ed64c455aa5183466) - 2026-10-20
 ## Q3 2026
 
 

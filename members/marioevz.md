@@ -52,6 +52,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: perf(ci, doc, test-fill): speed up PR checks](https://github.com/ethereum/execution-specs/pull/3813#pullrequestreview-5550984381) - 2026-10-16
 * [Review] [Review on: fix(test-execute): accept a hex value for --eoa-start](https://github.com/ethereum/execution-specs/pull/3839#pullrequestreview-5549693664) - 2026-10-16
 * [Review] [Review on: chore(skill): correct stale facts in the repo skills](https://github.com/ethereum/execution-specs/pull/3838#pullrequestreview-5549753702) - 2026-10-16
+* [Review] [Review on: fix(spec-specs, tests): reject empty and 0xff-prefixed transaction bytes](https://github.com/ethereum/execution-specs/pull/3861#pullrequestreview-5575158379) - 2026-10-19
+* [Review] [Review on: feat(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5575311622) - 2026-10-19
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

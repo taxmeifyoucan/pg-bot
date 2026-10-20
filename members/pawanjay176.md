@@ -36,6 +36,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Route the range sync catch-all through the shared block error classifier](https://github.com/sigp/lighthouse/pull/10367#pullrequestreview-5540408103) - 2026-10-15
 * [Review] [Review on: EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313#pullrequestreview-5539231011) - 2026-10-15
 * [Review] [Review on: Add CLI parameters for ePBS builder configuration (#10185)](https://github.com/sigp/lighthouse/pull/10374#pullrequestreview-5554195728) - 2026-10-16
+* [Review] [Review on: Small cache fixes](https://github.com/sigp/lighthouse/pull/10259#pullrequestreview-5579233250) - 2026-10-20
+* [Review] [Review on: Add gloas support to custody column backfill](https://github.com/sigp/lighthouse/pull/10385#pullrequestreview-5576154189) - 2026-10-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

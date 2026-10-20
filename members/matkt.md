@@ -74,6 +74,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Remove the snap/2 world state download behind --Xsnap2-enabled (#11618)](https://github.com/besu-eth/besu/commit/2f7b3232c524362663090d3e10c1be515fee2bad) - 2026-10-16
 * [Commit] [SNAP2: Add batch writes that skip the conflict checks of a transaction (#11617)](https://github.com/besu-eth/besu/commit/0776d82f33edf30012ebb8774fd231b8fc2fd9a1) - 2026-10-16
 * [Commit] [Hold the Bonsai account storage root in a storage root strategy (#11607)](https://github.com/besu-eth/besu/commit/05584e82dd22182a1895b24f7937043d0cbd2069) - 2026-10-16
+* [Review] [Review on: SNAP2: Add the range proofs and the ascending collapse Patricia trie](https://github.com/besu-eth/besu/pull/11626#pullrequestreview-5570313854) - 2026-10-19
+* [Review] [Review on: feat(rpc): support debug_executionWitness for pre-Amsterdam blocks](https://github.com/besu-eth/besu/pull/11605#pullrequestreview-5569993336) - 2026-10-19
+* [Review] [Review on: SNAP2: Add the request scheduler](https://github.com/besu-eth/besu/pull/11621#pullrequestreview-5567353803) - 2026-10-19
+* [Review] [Review on: Check the BAL item budget per transaction without copying the list](https://github.com/besu-eth/besu/pull/11454#pullrequestreview-5571908221) - 2026-10-19
+* [Review] [Review on: Pass the block hash to the world state check of eth_getProof](https://github.com/besu-eth/besu/pull/11619#pullrequestreview-5567320762) - 2026-10-19
+* [Commit] [SNAP2: Add the request scheduler (#11621)](https://github.com/besu-eth/besu/commit/4521758a2a6a0513b98b7f41892c3f153c738f6b) - 2026-10-19
+* [Commit] [Pass the block hash to the world state check of eth_getProof (#11619)](https://github.com/besu-eth/besu/commit/2147ebdebd84b1c6b411e3a13931e4e8851c8199) - 2026-10-19
 ## Q3 2026
 
 

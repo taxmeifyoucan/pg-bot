@@ -73,6 +73,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Spectests: Add `epoch_processing` tests](https://github.com/OffchainLabs/prysm/pull/17646#pullrequestreview-5549414625) - 2026-10-16
 * [Review] [Review on: Spectests: Add missing light client tests](https://github.com/OffchainLabs/prysm/pull/17645#pullrequestreview-5543281062) - 2026-10-16
 * [Commit] [make sure gas-limit flag overwrote everything (#17725)](https://github.com/OffchainLabs/prysm/commit/120bdea8a5d74b3d8da7359a44ddcd89ce4476cb) - 2026-10-17
+* [Review] [Review on: Send the aggregated attestation event when an aggregate is submitted through the API](https://github.com/OffchainLabs/prysm/pull/17713#pullrequestreview-5579814795) - 2026-10-20
+* [Review] [Review on: Add nil checks to block converters for all forks](https://github.com/OffchainLabs/prysm/pull/17737#pullrequestreview-5579824821) - 2026-10-20
+* [Review] [Review on: Fix some CI flaky tests](https://github.com/OffchainLabs/prysm/pull/17730#pullrequestreview-5573821854) - 2026-10-19
+* [Pull Request] [data column hardening for gloas](https://github.com/OffchainLabs/prysm/pull/17736) - 2026-10-19
+* [Pull Request] [gloas: attempting to fix restart stall](https://github.com/OffchainLabs/prysm/pull/17735) - 2026-10-19
+* [Review] [Review on: gloas: attempting to fix restart stall](https://github.com/OffchainLabs/prysm/pull/17735#pullrequestreview-5575847485) - 2026-10-19
+* [Review] [Review on: Rework on `spectest-report.sh`](https://github.com/OffchainLabs/prysm/pull/16996#pullrequestreview-5574711513) - 2026-10-19
+* [Review] [Review on: fix: validate wall clock when submitting a voluntary exit message](https://github.com/OffchainLabs/prysm/pull/14720#pullrequestreview-5573499732) - 2026-10-19
+* [Review] [Review on: Send the `ExitReceived` event from the REST voluntary exit handler](https://github.com/OffchainLabs/prysm/pull/17711#pullrequestreview-5573126010) - 2026-10-19
+* [Review] [Review on: Remove the one-slot attestation clock disparity hack from FCR spectests](https://github.com/OffchainLabs/prysm/pull/17670#pullrequestreview-5572746107) - 2026-10-19
+* [Commit] [skip peers with unknown state (#17728)](https://github.com/OffchainLabs/prysm/commit/64c1dfc98abaf55d1d091049afc3f479385be6bc) - 2026-10-19
+* [Commit] [changelog for v7.3.0 (#17727)](https://github.com/OffchainLabs/prysm/commit/2bb5d509111a02f05360940e3cfb1866a85195d6) - 2026-10-19
 ## Q3 2026
 
 

@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8198: target 10-second slots and align with the reference specs](https://github.com/ethereum/EIPs/pull/12217#pullrequestreview-5577599061) - 2026-10-19
 ## Q3 2026
 
 

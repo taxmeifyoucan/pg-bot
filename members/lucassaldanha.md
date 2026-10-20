@@ -91,6 +91,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Updated source headers to match new entity name](https://github.com/Consensys-Incorporated/teku/pull/11516) - 2026-10-18
 * [Issue] [Fee recipient from `proposer_preferences` is cached without a signature check](https://github.com/Consensys-Incorporated/teku/issues/11518) - 2026-10-18
 * [Commit] [Updated source headers to match new entity name (#11517)](https://github.com/Consensys-Incorporated/teku/commit/7cbed66bc868e2205cb390a820d4bd72def92304) - 2026-10-18
+* [Review] [Review on: Keymanager-API changes for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11537#pullrequestreview-5579106080) - 2026-10-19
+* [Pull Request] [Only pay Gloas fee recipients that came from signed proposer preferences](https://github.com/Consensys-Incorporated/teku/pull/11535) - 2026-10-19
+* [Review] [Review on: Only pay Gloas fee recipients that came from signed proposer preferences](https://github.com/Consensys-Incorporated/teku/pull/11535#pullrequestreview-5568308166) - 2026-10-19
+* [Review] [Review on: Ptc signature batch verify](https://github.com/Consensys-Incorporated/teku/pull/11538#pullrequestreview-5579023226) - 2026-10-19
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

@@ -42,6 +42,21 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(rpcbootstrap): schedule Hoodi Amsterdam in the EL fork id (#904)](https://github.com/ethpandaops/xatu/commit/f26d7f8e6f3c086355d33acd029896d679f0eb1d) - 2026-10-19
 * [Commit] [chore(deps): go 1.26.9 and golang.org/x/net v0.60.0 (#907)](https://github.com/ethpandaops/xatu/commit/90ff8c8724367ba971575f171979c0b82920d462) - 2026-10-19
 * [Commit] [chore(deps): patch govulncheck findings (#906)](https://github.com/ethpandaops/xatu/commit/c87497417e1274bb7aa0a6558b00cda0a47440c0) - 2026-10-19
+* [Pull Request] [fix(cannon): Heze deposits and gas price](https://github.com/ethpandaops/xatu/pull/917) - 2026-10-20
+* [Pull Request] [fix(cannon): unstick four stalled backfill derivers](https://github.com/ethpandaops/xatu/pull/914) - 2026-10-20
+* [Pull Request] [fix(cannon): floor four_byte_counts EL backfill at block 1](https://github.com/ethpandaops/xatu/pull/916) - 2026-10-20
+* [Pull Request] [feat(libp2p): capture gossipsub partial data column messages](https://github.com/ethpandaops/xatu/pull/915) - 2026-10-20
+* [Pull Request] [feat(cannon): batch backfill epochs per write](https://github.com/ethpandaops/xatu/pull/913) - 2026-10-20
+* [Pull Request] [fix(cannon): derive pre-Bellatrix beacon blocks again](https://github.com/ethpandaops/xatu/pull/912) - 2026-10-19
+* [Pull Request] [feat(cannon): serve finalized blocks from CL era files instead of block-archiver bundles](https://github.com/ethpandaops/xatu/pull/911) - 2026-10-19
+* [Pull Request] [fix(cannon): honour backfill.toEpoch for phase0 derivers](https://github.com/ethpandaops/xatu/pull/910) - 2026-10-19
+* [Commit] [fix(cannon): unstick four stalled backfill derivers (#914)](https://github.com/ethpandaops/xatu/commit/81bb024ff63f834789ed659df44e01fc9fe9a97b) - 2026-10-20
+* [Commit] [feat(libp2p): capture gossipsub partial data column messages (#915)](https://github.com/ethpandaops/xatu/commit/26d512fba81f005fb5d32442ff07ff38bcb8975c) - 2026-10-20
+* [Commit] [feat(cannon): batch backfill epochs per write (#913)](https://github.com/ethpandaops/xatu/commit/72467b7900c5920c40499ac96798214b27fab144) - 2026-10-20
+* [Commit] [fix(cannon): derive pre-Bellatrix beacon blocks again (#912)](https://github.com/ethpandaops/xatu/commit/8ec7f40f938c50878abd20ec94bcbae6c7d77f94) - 2026-10-19
+* [Commit] [feat(cannon): serve finalized blocks from CL era files instead of block-archiver bundles (#911)](https://github.com/ethpandaops/xatu/commit/a88030343e1700114a0b306cf8ba92c79c8585bb) - 2026-10-19
+* [Commit] [fix(cannon): honour backfill.toEpoch for phase0 derivers (#910)](https://github.com/ethpandaops/xatu/commit/6c770622998005a7c47aa5cab1b364796592274c) - 2026-10-19
+* [Commit] [feat(cannon): read block-archiver bundle format v2 and serve gloas envelopes from bundles (#909)](https://github.com/ethpandaops/xatu/commit/741f007a2844c39650b542f21208485e21921959) - 2026-10-19
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -56,6 +71,20 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(hoodi): add tysm v1.1.3 to gloas min client versions (#116)](https://github.com/ethpandaops/cartographoor/commit/b0a3a1f158a474c03b3fdddc67ba9e2f0eaca560) - 2026-10-19
 * [Commit] [feat(hoodi): schedule gloas at epoch 132352 (#115)](https://github.com/ethpandaops/cartographoor/commit/abd913cac647331933def554a954f6fcfcfaf1bb) - 2026-10-19
 * [Commit] [fix(validatorranges): derive inventory path and client tags from data (#114)](https://github.com/ethpandaops/cartographoor/commit/5ed30d317f0d96507afdb143443bd2acbf07e281) - 2026-10-18
+
+* [Pull Request] [feat(validatorranges): take on-chain ranges from the network config service](https://github.com/ethpandaops/cartographoor/pull/117) - 2026-10-19
+* [Commit] [feat(validatorranges): take on-chain ranges from the network config service (#117)](https://github.com/ethpandaops/cartographoor/commit/93e737862c3f55f06d08243c97812c7b59bf6b19) - 2026-10-19
+[ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
+* [Pull Request] [fix(agent): record blocks at their own slot, never at an empty slot after them](https://github.com/ethpandaops/tracoor/pull/70) - 2026-10-19
+* [Pull Request] [fix(agent): retry late gloas envelopes and outages instead of dropping them](https://github.com/ethpandaops/tracoor/pull/69) - 2026-10-19
+* [Commit] [fix(agent): record blocks at their own slot, never at an empty slot after them (#70)](https://github.com/ethpandaops/tracoor/commit/3217340453f79939b635385af60856bd3c006321) - 2026-10-19
+* [Commit] [fix(agent): retry late gloas envelopes and outages instead of dropping them (#69)](https://github.com/ethpandaops/tracoor/commit/666008952f3c9d101a16756f5af4b1d2e3240a31) - 2026-10-19
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [feat(slots): proposer client card on the slot page](https://github.com/ethpandaops/lab/pull/450) - 2026-10-20
+* [Pull Request] [feat(ethereum): proposer clients page from block graffiti](https://github.com/ethpandaops/lab/pull/449) - 2026-10-19
+* [Commit] [feat(slots): proposer client card on the slot page (#450)](https://github.com/ethpandaops/lab/commit/35feb67330bfc4515a5328258b5b263f00fb26c6) - 2026-10-20
+* [Commit] [feat(ethereum): proposer clients page from block graffiti (#449)](https://github.com/ethpandaops/lab/commit/ebe05248a937c069ecaddca5dc3e98db6fffb4d9) - 2026-10-19
 ## Q3 2026
 
 

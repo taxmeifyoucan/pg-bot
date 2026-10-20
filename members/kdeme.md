@@ -62,6 +62,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [networking: keep only the disconnect workarounds currently seen](https://github.com/status-im/nimbus-eth1/pull/5007) - 2026-10-18
 * [Review] [Review on: networking: keep only the disconnect workarounds currently seen](https://github.com/status-im/nimbus-eth1/pull/5007#pullrequestreview-5563066011) - 2026-10-18
 * [Commit] [networking: keep only the disconnect workarounds currently seen (#5007)](https://github.com/status-im/nimbus-eth1/commit/46ce468bdc98ef31dc687c54f05258acf7e8e8a9) - 2026-10-18
+* [Pull Request] [json-rpc: back off when accept fails with too many open files](https://github.com/status-im/nimbus-eth1/pull/5008) - 2026-10-19
+* [Review] [Review on: json-rpc: keep accept loop running when a queued client resets](https://github.com/status-im/nimbus-eth1/pull/4973#pullrequestreview-5569325515) - 2026-10-19
+* [Commit] [json-rpc: back off when accept fails with too many open files (#5008)](https://github.com/status-im/nimbus-eth1/commit/4df52efd2ffda8df24e5d7360d464e2aa2a67808) - 2026-10-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 ## Q3 2026

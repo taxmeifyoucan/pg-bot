@@ -325,6 +325,14 @@ Team: Reth
 * [Pull Request] [refactor(era): simplify tuple bookkeeping](https://github.com/paradigmxyz/reth/pull/27998) - 2026-10-18
 * [Pull Request] [refactor(era): stream accumulator records](https://github.com/paradigmxyz/reth/pull/28001) - 2026-10-18
 * [Pull Request] [fix(era): preserve export storage failures](https://github.com/paradigmxyz/reth/pull/28000) - 2026-10-18
+* [Review] [Review on: feat(evm): customize executor in block builder](https://github.com/paradigmxyz/reth/pull/28011#pullrequestreview-5572282330) - 2026-10-19
+* [Pull Request] [fix(rpc): interrupt built-in and batch traces](https://github.com/paradigmxyz/reth/pull/28024) - 2026-10-19
+* [Review] [Review on: perf(trie): reuse known storage roots in proofs](https://github.com/paradigmxyz/reth/pull/28016#pullrequestreview-5572373288) - 2026-10-19
+* [Review] [Review on: refactor(trie): centralize multiproof v2 logic](https://github.com/paradigmxyz/reth/pull/27945#pullrequestreview-5570559738) - 2026-10-19
+* [Pull Request] [fix(engine): report payload job start errors](https://github.com/paradigmxyz/reth/pull/28015) - 2026-10-19
+* [Commit] [fix(engine): report payload job start errors (#28015)](https://github.com/paradigmxyz/reth/commit/186af6d36aa49b2c40e96e4e11177816f842cb04) - 2026-10-19
+* [Commit] [fix(era): share strict Snappy RLP decoding (#27997)](https://github.com/paradigmxyz/reth/commit/3c9260d66382398b5d50d594a0e26dcceaffcaa9) - 2026-10-19
+* [Commit] [perf(era): share fetched file list metadata (#28004)](https://github.com/paradigmxyz/reth/commit/e633bdcb1ab5f1172517622a125b9bb2f3d212fb) - 2026-10-19
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -16,6 +16,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [cmd: snapshots rm-state --step=N+ removes all state files when no file ends after step N](https://github.com/erigontech/erigon/issues/24778) - 2026-10-12
 * [Pull Request] [cmd/erigon, docs: ship a PGO profile for the erigon binary](https://github.com/erigontech/erigon/pull/24837) - 2026-10-13
 * [Pull Request] [db/seg: fix compressor hang on superstrings send after ctx cancel](https://github.com/erigontech/erigon/pull/24962) - 2026-10-16
+* [Pull Request] [[tiering v2 - 13] db/state, execution/stagedsync, node: background demotion of cold commitment files](https://github.com/erigontech/erigon/pull/25055) - 2026-10-19
+* [Commit] [db/seg: fix compressor hang on superstrings send after ctx cancel (#24962)](https://github.com/erigontech/erigon/commit/b2f3fb11d2bc11cddf4194c46193a1b095f87035) - 2026-10-19
 ## Q3 2026
 
 

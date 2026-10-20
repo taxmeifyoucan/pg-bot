@@ -38,6 +38,13 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8250: mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/EIPs/commit/56b645be8a4c7830ee3ea94aa7eda1e3b5ed7fe7) - 2026-10-16
 * [Pull Request] [Update EIP-8250: exempt single-use sequence from data pricing](https://github.com/ethereum/EIPs/pull/12534) - 2026-10-17
 * [Pull Request] [Update EIP-8411: separate bal](https://github.com/ethereum/EIPs/pull/12535) - 2026-10-17
+* [Review] [Review on: Update EIP-8250: exempt single-use sequence from data pricing](https://github.com/ethereum/EIPs/pull/12534#pullrequestreview-5573974519) - 2026-10-19
+* [Pull Request] [Update EIP-8288: move the recursive STARK into the execution payload](https://github.com/ethereum/EIPs/pull/12549) - 2026-10-19
+* [Pull Request] [Update EIP-8279: Settle floor on actual BAL bytes](https://github.com/ethereum/EIPs/pull/12548) - 2026-10-19
+* [Pull Request] [Update EIP-8159: follow the EIP-7928 BAL retention change](https://github.com/ethereum/EIPs/pull/12546) - 2026-10-19
+* [Pull Request] [Update EIP-7928: Fix block size figure and polish wording](https://github.com/ethereum/EIPs/pull/12545) - 2026-10-19
+* [Commit] [Update EIP-8250: exempt single-use sequence from data pricing](https://github.com/ethereum/EIPs/commit/1a086d5c67cdcf3a134cc571eb4bb4b9bed6fb02) - 2026-10-19
+* [Commit] [Update EIP-7928: Fix block size figure and polish wording](https://github.com/ethereum/EIPs/commit/41a838decba33325d01bd99b1cd6072c51214fac) - 2026-10-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 ## Q3 2026

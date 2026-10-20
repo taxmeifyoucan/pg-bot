@@ -43,6 +43,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update nim-eth to latest (#4983)](https://github.com/status-im/nimbus-eth1/commit/ac13e63389f7428369760165d76649a7df377a68) - 2026-10-15
 * [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5548013961) - 2026-10-16
 * [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5557835683) - 2026-10-17
+* [Commit] [Increase BAL retention window (#4815)](https://github.com/status-im/nimbus-eth1/commit/2c8eabf13ad9896e870ca5e990e185b920f91125) - 2026-10-20
 ## Q3 2026
 
 

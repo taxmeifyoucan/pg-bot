@@ -64,6 +64,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns](https://github.com/Consensys-Incorporated/teku/pull/11250#pullrequestreview-5547800542) - 2026-10-16
 * [Review] [Review on: Check head payload_status in fork choice reference tests](https://github.com/Consensys-Incorporated/teku/pull/11505#pullrequestreview-5547750053) - 2026-10-16
 * [Pull Request] [Correctly handle payload invalidation after optimistic sync](https://github.com/Consensys-Incorporated/teku/pull/11506) - 2026-10-16
+* [Review] [Review on: Set Gloas attestation index from fork choice payload status](https://github.com/Consensys-Incorporated/teku/pull/11498#pullrequestreview-5578171449) - 2026-10-19
+* [Pull Request] [Ptc signature batch verify](https://github.com/Consensys-Incorporated/teku/pull/11538) - 2026-10-19
+* [Review] [Review on: Faster gossip signature verification: batch gathering and same-message grouping](https://github.com/Consensys-Incorporated/teku/pull/11507#pullrequestreview-5573606086) - 2026-10-19
+* [Review] [Review on: Correctly handle payload invalidation after optimistic sync](https://github.com/Consensys-Incorporated/teku/pull/11506#pullrequestreview-5571432867) - 2026-10-19
+* [Review] [Review on: Use proposer config for Gloas block proposal](https://github.com/Consensys-Incorporated/teku/pull/11376#pullrequestreview-5570100627) - 2026-10-19
+* [Commit] [Faster gossip signature verification: batch gathering and same-message grouping (#11507)](https://github.com/Consensys-Incorporated/teku/commit/3a56845d57c1e7cda9739482641d54ab0ee4280a) - 2026-10-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

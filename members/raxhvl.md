@@ -8,6 +8,11 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [✨ feat(tests): Extend focil test coverage](https://github.com/ethereum/execution-specs/pull/3868) - 2026-10-19
 ## Q3 2026
 
 

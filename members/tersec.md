@@ -73,6 +73,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add beacon-API submitBuilderPreferences](https://github.com/status-im/nimbus-eth2/pull/9292#pullrequestreview-5557413808) - 2026-10-17
 * [Review] [Review on: fix(era): parse filenames for hyphenated network names](https://github.com/status-im/nimbus-eth2/pull/9188#pullrequestreview-5557173116) - 2026-10-17
 * [Review] [Review on: implement getStatePtc endpoint](https://github.com/status-im/nimbus-eth2/pull/9304#pullrequestreview-5561306227) - 2026-10-18
+* [Review] [Review on: ci(macos): compute NPROC on agent and make discovery tests port configurable](https://github.com/status-im/nimbus-eth2/pull/9315#pullrequestreview-5573169482) - 2026-10-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

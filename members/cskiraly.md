@@ -34,6 +34,7 @@ Team: Codex DAS
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08
 * [Commit] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/commit/d298b6d416a233e9369a7c705a5abf0a246d6124) - 2026-10-08
+* [Pull Request] [Add EIP: Engine API proposal lookahead](https://github.com/ethereum/EIPs/pull/12547) - 2026-10-19
 ## Q3 2026
 
 

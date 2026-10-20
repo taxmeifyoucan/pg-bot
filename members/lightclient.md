@@ -45,11 +45,14 @@ Team: Geth
 * [Review] [Review on: docs: correct debug RPC endpoint documentation](https://github.com/ethereum/go-ethereum/pull/35885#pullrequestreview-5551956681) - 2026-10-16
 * [Review] [Review on: cmd/utils: decouple the transaction history from archive mode](https://github.com/ethereum/go-ethereum/pull/35907#pullrequestreview-5551302196) - 2026-10-16
 * [Commit] [internal/ethapi: fix ChaindbProperty doc comment (#35958)](https://github.com/ethereum/go-ethereum/commit/ffb9e230b6ae6cb29bdd08864a1f13f1fa8d339b) - 2026-10-19
+* [Review] [Review on: core, params: schedule amsterdam fork on hoodi](https://github.com/ethereum/go-ethereum/pull/35974#pullrequestreview-5578617826) - 2026-10-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05
 
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5549528427) - 2026-10-16
+* [Pull Request] [fix Hoodi Glamsterdam unix timestamp](https://github.com/ethereum/pm/pull/2279) - 2026-10-19
+* [Commit] [fix Hoodi Glamsterdam unix timestamp](https://github.com/ethereum/pm/commit/6f0b48a3f227dbe0c3357678047a3ccea5bfc0d2) - 2026-10-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5521806399) - 2026-10-14
 ## Q3 2026

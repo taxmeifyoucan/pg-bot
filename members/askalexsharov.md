@@ -371,6 +371,37 @@ Team: Erigon
 * [Review] [Review on: .github/workflows: bump hive and execution-apis refs for rpc-compat](https://github.com/erigontech/erigon/pull/25016#pullrequestreview-5563115341) - 2026-10-18
 * [Review] [Review on: txnprovider/txpool: clean up unused sender activity](https://github.com/erigontech/erigon/pull/24997#pullrequestreview-5562305881) - 2026-10-18
 * [Pull Request] [tools: upgrade golangci-lint from v2.14.0 to v2.15.0](https://github.com/erigontech/erigon/pull/25012) - 2026-10-18
+* [Review] [Review on: cl/clparams, cl/rpc, cl/sentinel: bound req/resp chunks by MAX_PAYLOAD_SIZE and max_compressed_len](https://github.com/erigontech/erigon/pull/25079#pullrequestreview-5579860140) - 2026-10-20
+* [Review] [Review on: [r3.8] cl/validator/committee_subscription: subscribe to the duty subnet only for aggregators](https://github.com/erigontech/erigon/pull/25053#pullrequestreview-5579876241) - 2026-10-20
+* [Review] [Review on: rpc/jsonrpc: bound the authorization list of trace_rawTransaction before decoding](https://github.com/erigontech/erigon/pull/24966#pullrequestreview-5579716566) - 2026-10-20
+* [Review] [Review on: rpc/jsonrpc: require the code argument of overlay_callConstructor](https://github.com/erigontech/erigon/pull/24961#pullrequestreview-5579718982) - 2026-10-20
+* [Review] [Review on: rpc/jsonrpc: reject a difficulty override after the merge in eth_simulateV1](https://github.com/erigontech/erigon/pull/25017#pullrequestreview-5579714059) - 2026-10-20
+* [Review] [Review on: .github/workflows: list both manual steps after creating a release branch](https://github.com/erigontech/erigon/pull/25084#pullrequestreview-5579903754) - 2026-10-20
+* [Review] [Review on: cmd/utils: parse --netrestrict as a CIDR list in NewP2PConfig](https://github.com/erigontech/erigon/pull/25050#pullrequestreview-5579910150) - 2026-10-20
+* [Review] [Review on: cl/gossip, cl/p2p: enforce per-topic gossip payload bounds and spec size limits](https://github.com/erigontech/erigon/pull/25078#pullrequestreview-5579865742) - 2026-10-20
+* [Pull Request] [rpc: replays memoize committed reads across transactions](https://github.com/erigontech/erigon/pull/25085) - 2026-10-19
+* [Pull Request] [execution/cache: bind addr to the codeHash entry, skip hashing the code](https://github.com/erigontech/erigon/pull/25072) - 2026-10-19
+* [Pull Request] [vm: run CALLVALUE on the fast path](https://github.com/erigontech/erigon/pull/25089) - 2026-10-20
+* [Pull Request] [vm: run MCOPY on the fast path when memory need not grow](https://github.com/erigontech/erigon/pull/25071) - 2026-10-19
+* [Review] [Review on: [r3.8] docs, db/version: prepare 3.8.0 Watery Whiskers](https://github.com/erigontech/erigon/pull/25065#pullrequestreview-5571922283) - 2026-10-19
+* [Pull Request] [execution/stagedsync: schedule transfers after recipient validation](https://github.com/erigontech/erigon/pull/25040) - 2026-10-19
+* [Issue] [stagedsync: cover explicit dependencies during resumed execution](https://github.com/erigontech/erigon/issues/25070) - 2026-10-19
+* [Commit] [exec: to not intern transient storage key  (#24968)](https://github.com/erigontech/erigon/commit/5d0ff09b7854b4e81e9c44f5c9fb4a7b0b90f2d8) - 2026-10-20
+* [Commit] [vm: reuse address words within a call frame (#25034)](https://github.com/erigontech/erigon/commit/c535c12729509e24f4eca4f5e3d055b16fd9be5f) - 2026-10-19
+* [Commit] [execution/stagedsync: schedule transfers after recipient validation (#25040)](https://github.com/erigontech/erigon/commit/0fc232637cb8c814379663f3e8e2bac5f8ad7c0d) - 2026-10-19
+* [Commit] [vm: evaluate powers of minus one from exponent parity (#25038)](https://github.com/erigontech/erigon/commit/faf33f3f2c527d4b1dd47c30188754d00775996d) - 2026-10-19
+* [Commit] [types/ethutils: batch timestamped receipt log allocations (#25026)](https://github.com/erigontech/erigon/commit/947f65c113d1e97b80703365e9b0e71e02593646) - 2026-10-19
+* [Commit] [vm: use word arithmetic for small EXP results (#25023)](https://github.com/erigontech/erigon/commit/6f95064a2027cd51e9a36106751cc1cc5b029c54) - 2026-10-19
+* [Commit] [vm: reuse adjacent validated BLS points in MSM (#25035)](https://github.com/erigontech/erigon/commit/57824b34890370616c9b6736e0e8ffc6822e11d9) - 2026-10-19
+* [Commit] [rpc/transactions: skip unused BAL recording during traces (#25022)](https://github.com/erigontech/erigon/commit/703a2e5d95af90c6906a534262e4364928b7f8e1) - 2026-10-19
+* [Commit] [types/ethutils: reuse the cached sender in receipt responses (#25025)](https://github.com/erigontech/erigon/commit/cc5217c7fc9b2cdf7b1ae6ca2745d67c0fa1fdfa) - 2026-10-19
+* [Commit] [types: reuse cached Keccak hashes for bloom construction (#25024)](https://github.com/erigontech/erigon/commit/85c6f025cc49ce14a28c664409fab89b8fa3b947) - 2026-10-19
+* [Commit] [tools: upgrade golangci-lint from v2.14.0 to v2.15.0 (#25012)](https://github.com/erigontech/erigon/commit/7de61e0b9d4ec909c4d0867bc07dbacbc83e3d75) - 2026-10-19
+* [Commit] [vm: avoid redundant zeroing when copying log data (#25009)](https://github.com/erigontech/erigon/commit/f668ce550185e50ecef6a5fc4ce691220dc6ec01) - 2026-10-19
+* [Commit] [execution/stagedsync: stop validation at the first result that cannot commit (#24976)](https://github.com/erigontech/erigon/commit/8f372531f9a84a878412c60d8ab7c00e004c4ee3) - 2026-10-19
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026
 
 

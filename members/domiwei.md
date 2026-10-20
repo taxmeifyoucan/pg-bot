@@ -159,6 +159,30 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/forkchoice, cl/phase1/stages: take the fork-choice lock before the synced-data lock (#25011)](https://github.com/erigontech/erigon/commit/3b184f9855ef0b088e11bee32fb66980eda55bdc) - 2026-10-18
 * [Commit] [cl/validator/committee_subscription: subscribe to the duty subnet only for aggregators (#25008)](https://github.com/erigontech/erigon/commit/dee8abdf73e3b5072c2f9e292596e099cd9fa5d7) - 2026-10-18
 * [Commit] [cl/phase1/network/gossip, cl/p2p: subscribe to the persistent attestation subnets (#25007)](https://github.com/erigontech/erigon/commit/32d24f9d8ba8ff3ba10ac3e0a20879f065744cd1) - 2026-10-18
+* [Pull Request] [cl/clparams, cl/rpc, cl/sentinel: bound req/resp chunks by MAX_PAYLOAD_SIZE and max_compressed_len](https://github.com/erigontech/erigon/pull/25079) - 2026-10-19
+* [Review] [Review on: cl/beacon/handler: snapshot head slot for node syncing response](https://github.com/erigontech/erigon/pull/25088#pullrequestreview-5580045008) - 2026-10-20
+* [Pull Request] [[r3.8] cl/validator/committee_subscription: subscribe to the duty subnet only for aggregators](https://github.com/erigontech/erigon/pull/25053) - 2026-10-19
+* [Pull Request] [cl/phase1/network/gossip: keep sync subnets and duties across fork-digest changes](https://github.com/erigontech/erigon/pull/25086) - 2026-10-19
+* [Pull Request] [cl/gossip, cl/p2p: enforce per-topic gossip payload bounds and spec size limits](https://github.com/erigontech/erigon/pull/25078) - 2026-10-19
+* [Pull Request] [[r3.8] cl/phase1/forkchoice, cl/spectest: assert Gloas PTC fork-choice steps and votes, run the remaining ssz_static vectors](https://github.com/erigontech/erigon/pull/25090) - 2026-10-20
+* [Review] [Review on: cl, execution: complete payload preparation coverage and hardening](https://github.com/erigontech/erigon/pull/24939#pullrequestreview-5578231518) - 2026-10-19
+* [Review] [Review on: cl/beacon/handler: don't let a stalled /eth/v1/events client block the event emitters](https://github.com/erigontech/erigon/pull/24447#pullrequestreview-5575683369) - 2026-10-19
+* [Review] [Review on: cl: enable Gloas FULL-parent payload preparation](https://github.com/erigontech/erigon/pull/24938#pullrequestreview-5577767786) - 2026-10-19
+* [Review] [Review on: [r3.8] cl: keep a wider sync contribution window and publish only accepted contributions](https://github.com/erigontech/erigon/pull/25075#pullrequestreview-5576633377) - 2026-10-19
+* [Review] [Review on: cl/phase1/network/services: keep the head above zero in the sync committee slot test](https://github.com/erigontech/erigon/pull/25069#pullrequestreview-5576410952) - 2026-10-19
+* [Pull Request] [cl/beacon/handler: serve fork-epoch PTC duties once the clock reaches the fork](https://github.com/erigontech/erigon/pull/25087) - 2026-10-19
+* [Pull Request] [execution/builder, txnprovider: stop waiting for the parent block once a payload is collected](https://github.com/erigontech/erigon/pull/25082) - 2026-10-19
+* [Pull Request] [cl/phase1/forkchoice, cl/spectest: assert Gloas PTC fork-choice steps and votes, run the remaining ssz_static vectors](https://github.com/erigontech/erigon/pull/24859) - 2026-10-19
+* [Review] [Review on: [r3.8] docs, db/version: prepare 3.8.0 Watery Whiskers](https://github.com/erigontech/erigon/pull/25065#pullrequestreview-5572735990) - 2026-10-19
+* [Review] [Review on: cl: keep a wider sync contribution window and publish only accepted contributions](https://github.com/erigontech/erigon/pull/25056#pullrequestreview-5571915722) - 2026-10-19
+* [Issue] [execution/engineapi: a forkchoiceUpdated that waits for a busy execution module can be applied after a later one](https://github.com/erigontech/erigon/issues/25083) - 2026-10-19
+* [Commit] [cl/clparams, cl/rpc, cl/sentinel: bound req/resp chunks by MAX_PAYLOAD_SIZE and max_compressed_len (#25079)](https://github.com/erigontech/erigon/commit/deeea17f6cf6db2cab7030c934873811e0a580c5) - 2026-10-20
+* [Commit] [cl/phase1/forkchoice, cl/spectest: assert Gloas PTC fork-choice steps and votes, run the remaining ssz_static vectors (#24859)](https://github.com/erigontech/erigon/commit/c2bc318a13a8d0d6c0643452517044b7eed19cef) - 2026-10-19
+* [Commit] [cl: look up execution bodies by block hash in standalone Caplin (#25020)](https://github.com/erigontech/erigon/commit/00c7963d89d5fb03373b3385f47759c0215e0b69) - 2026-10-19
+* [Commit] [cl/beacon/handler: use the head root as the dependent root for slots after the head (#24980)](https://github.com/erigontech/erigon/commit/da55df806ce9dc72c7da506bc887f6a86f5d821d) - 2026-10-19
+* [Commit] [cl/rpc: skip column peers that answered a by-root request with no sidecars (#24992)](https://github.com/erigontech/erigon/commit/8fa3de349a92525ec6fe01bbe7092ab0c5436854) - 2026-10-19
+* [Commit] [cl/phase1/forkchoice: take execution payload event fields from the block (#25002)](https://github.com/erigontech/erigon/commit/5f345265f1db7e75b2ff2f18ef8872469eadc0ef) - 2026-10-19
+* [Commit] [db/downloader: check done without receiving in the kept-seeding join tests (#25001)](https://github.com/erigontech/erigon/commit/525b1a7cbce8ec119073a3e867573d42386d8b8f) - 2026-10-19
 ## Q3 2026
 
 

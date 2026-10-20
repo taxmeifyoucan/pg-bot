@@ -82,6 +82,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators](https://github.com/ethereum/execution-specs/pull/3572#pullrequestreview-5558939289) - 2026-10-17
 * [Pull Request] [feat(test-specs, test-execution, tests): add a mempool_test suite for the EIP-8141 public mempool rules](https://github.com/ethereum/execution-specs/pull/3856) - 2026-10-17
 * [Pull Request] [feat(ci): auto-label pull requests and fix their titles](https://github.com/ethereum/execution-specs/pull/3855) - 2026-10-17
+* [Pull Request] [feat(test-execution, test-specs, test-rpc, test-types): run transaction, blob and mempool tests through one mempool admission format](https://github.com/ethereum/execution-specs/pull/3865) - 2026-10-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -109,6 +110,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550138498) - 2026-10-16
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [ci: run the eels hive simulators from the published execution-specs images](https://github.com/erigontech/erigon/pull/25061) - 2026-10-19
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5570601532) - 2026-10-19
+* [Review] [Review on: clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621#pullrequestreview-5568415058) - 2026-10-19
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020) - 2026-10-19
+* [Pull Request] [chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021) - 2026-10-19
 ## Q3 2026
 
 

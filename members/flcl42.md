@@ -33,6 +33,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [feat(specs): migrate mainnet and Sepolia to geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14653) - 2026-10-14
 * [Review] [Review on: feat(specs): migrate mainnet and Sepolia to geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14653#pullrequestreview-5524178104) - 2026-10-14
 * [Review] [Review on: refactor(network): remove peripheral DotNetty usages and add an RLPx round-trip benchmark](https://github.com/NethermindEth/nethermind/pull/14728#pullrequestreview-5544679935) - 2026-10-16
+* [Review] [Review on: fix(eip8288): do not treat a native verifier error as an invalid proof](https://github.com/NethermindEth/nethermind/pull/14897#pullrequestreview-5579775928) - 2026-10-20
+* [Review] [Review on: test(rpc): hand the tracking timeout to the test's own request](https://github.com/NethermindEth/nethermind/pull/14909#pullrequestreview-5579574897) - 2026-10-20
+* [Review] [Review on: fix(jsonrpc): return the accessed list from eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/14910#pullrequestreview-5578471597) - 2026-10-19
+* [Commit] [fix(consensus): reject invalid typed transaction parity unconditionally (#14713)](https://github.com/NethermindEth/nethermind/commit/a6f1357dce4e1ca9bb37e5c92bad50eb4fd8c231) - 2026-10-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

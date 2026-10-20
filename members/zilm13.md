@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns (#11250)](https://github.com/Consensys-Incorporated/teku/commit/e59e16e32aea108df97ca40a9e68df582735e8da) - 2026-10-16
 * [Review] [Review on: Send payload attestations when the payload is available](https://github.com/Consensys-Incorporated/teku/pull/11509#pullrequestreview-5557931394) - 2026-10-17
 * [Review] [Review on: Impose size limit on seenCache in LibP2PGossipNetworkBuilder](https://github.com/Consensys-Incorporated/teku/pull/11445#pullrequestreview-5558657954) - 2026-10-17
+* [Review] [Review on: Only pay Gloas fee recipients that came from signed proposer preferences](https://github.com/Consensys-Incorporated/teku/pull/11535#pullrequestreview-5576729774) - 2026-10-19
 ## Q3 2026
 
 

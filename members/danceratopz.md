@@ -43,6 +43,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(ci): fail a fixture release when a fork-range artifact is missing](https://github.com/ethereum/execution-specs/pull/3802) - 2026-10-13
 * [Commit] [fix(ci): fail a fixture release when a fork-range artifact is missing (#3802)](https://github.com/ethereum/execution-specs/commit/7a6f7ad623aae707bb91f15de6ba4e55439018b8) - 2026-10-13
 * [Commit] [feat(test-fill): make engine_x fixtures consumable via devp2p sync (#3364)](https://github.com/ethereum/execution-specs/commit/19d4a72a059a15e618c2dab2614b512099dcf215) - 2026-10-18
+* [Review] [Review on: feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators](https://github.com/ethereum/execution-specs/pull/3572#pullrequestreview-5567785245) - 2026-10-19
+* [Issue] [chore(test-consume): remove the deprecated fixtures and branch hive build arguments (due 2027-01-19)](https://github.com/ethereum/execution-specs/issues/3866) - 2026-10-19
+* [Issue] [feat(ci): clean up old hive simulator images in ghcr](https://github.com/ethereum/execution-specs/issues/3864) - 2026-10-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -51,8 +54,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621) - 2026-10-14
 
 * [Commit] [internal/libhive: support simulator build configurations via --config (#1607)](https://github.com/ethereum/hive/commit/ccf3f4630b0eed78988cd1d21ec81cb3872b5b16) - 2026-10-17
+* [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5571176798) - 2026-10-19
+* [Commit] [clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer (#1621)](https://github.com/ethereum/hive/commit/70c8df269bbda7ac9649da1d1738286f271a4ea3) - 2026-10-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [params: allow BPO forks to activate after Amsterdam](https://github.com/ethereum/go-ethereum/pull/35975) - 2026-10-19
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/status-im/nimbus-eth1/pull/5012) - 2026-10-19
 ## Q3 2026
 
 

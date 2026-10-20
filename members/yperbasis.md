@@ -171,6 +171,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/integrity, cmd/utils/app: preserve integrity failures](https://github.com/erigontech/erigon/pull/24993) - 2026-10-17
 * [Commit] [txnprovider/txpool: allow retries after NonceTooDistant eviction (#24931)](https://github.com/erigontech/erigon/commit/c7c6a5f0f92bafc1776241d4fbb3b4b7fe81ef85) - 2026-10-17
 * [Commit] [db/integrity, cmd/utils/app: preserve integrity failures (#24993)](https://github.com/erigontech/erigon/commit/23172203ed3886752063ce2041ca6097f28924f2) - 2026-10-17
+* [Pull Request] [[r3.8] docs: address 3.8.0 release note review](https://github.com/erigontech/erigon/pull/25076) - 2026-10-19
+* [Pull Request] [db/state, execution/commitment: don't cache branches read through a view older than the last commit](https://github.com/erigontech/erigon/pull/25049) - 2026-10-19
+* [Review] [Review on: db/state, execution/commitment: don't cache branches read through a view older than the last commit](https://github.com/erigontech/erigon/pull/25049#pullrequestreview-5569695807) - 2026-10-19
+* [Review] [Review on: exec: to not intern transient storage key ](https://github.com/erigontech/erigon/pull/24968#pullrequestreview-5570881060) - 2026-10-19
+* [Review] [Review on: vm: reuse address words within a call frame](https://github.com/erigontech/erigon/pull/25034#pullrequestreview-5570535876) - 2026-10-19
+* [Review] [Review on: cl/phase1/forkchoice, cl/spectest: assert Gloas PTC fork-choice steps and votes, run the remaining ssz_static vectors](https://github.com/erigontech/erigon/pull/24859#pullrequestreview-5569681162) - 2026-10-19
+* [Review] [Review on: [r3.8] docs(site): prepare release/3.8 to become the docs deploy branch](https://github.com/erigontech/erigon/pull/25066#pullrequestreview-5571609461) - 2026-10-19
+* [Pull Request] [[r3.8] docs, db/version: prepare 3.8.0 Watery Whiskers](https://github.com/erigontech/erigon/pull/25065) - 2026-10-19
+* [Review] [Review on: execution/stagedsync: schedule transfers after recipient validation](https://github.com/erigontech/erigon/pull/25040#pullrequestreview-5570518004) - 2026-10-19
+* [Pull Request] [ci: add peer redundancy to the Pectra testnet](https://github.com/erigontech/erigon/pull/25073) - 2026-10-19
+* [Issue] [rpc, db: unify historical read positions and availability checks](https://github.com/erigontech/erigon/issues/25074) - 2026-10-19
+* [Issue] [txnprovider/txpool: mined blob cache cannot resurrect unwound blob txns and is corrupted after a same-height reorg](https://github.com/erigontech/erigon/issues/25054) - 2026-10-19
+* [Commit] [p2p: throttle historical BAL re-execution (#24613)](https://github.com/erigontech/erigon/commit/1948455779fa5f085a93c470ebd7c66117ecacbe) - 2026-10-19
+* [Commit] [p2p/sentry: bound queued bytes per peer for outbound messages (#24977)](https://github.com/erigontech/erigon/commit/6fb929e72791f0270d60e6ffe8b95ab55ad30be0) - 2026-10-19
+* [Commit] [execution/state: consistent existence verdict for a destroyed account (#24921)](https://github.com/erigontech/erigon/commit/b77689af7176321c1bdc0228f63a9ffcc63c2db1) - 2026-10-19
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

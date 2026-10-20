@@ -127,6 +127,9 @@ Team: Erigon
 * [Pull Request] [db/snapshotsync: open caplin segments like EL so covered ones can be unlinked](https://github.com/erigontech/erigon/pull/25013) - 2026-10-18
 * [Pull Request] [execution/stagedsync: defer same-sender successors until validation](https://github.com/erigontech/erigon/pull/24500) - 2026-10-18
 * [Commit] [execution/stagedsync: defer same-sender successors until validation (#24500)](https://github.com/erigontech/erigon/commit/ed0ac514694c8be68a7cd056e3d3899ea3ce8c2c) - 2026-10-18
+* [Review] [Review on: exec: to not intern transient storage key ](https://github.com/erigontech/erigon/pull/24968#pullrequestreview-5566721147) - 2026-10-19
+* [Review] [Review on: vm: reuse address words within a call frame](https://github.com/erigontech/erigon/pull/25034#pullrequestreview-5566723185) - 2026-10-19
+* [Issue] [cl/beacon/handler: validator_identities serves GET without an id filter; the spec defines POST](https://github.com/erigontech/erigon/issues/25041) - 2026-10-19
 ## Q3 2026
 
 

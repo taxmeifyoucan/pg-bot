@@ -97,6 +97,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Reconcile 26.10.0 into main (clean merge from post-revert main)](https://github.com/besu-eth/besu/pull/11642) - 2026-10-18
 * [Commit] [Reconcile 26.10.0 into main (clean merge from post-revert main) (#11642)](https://github.com/besu-eth/besu/commit/f45a601da4665b962c9580857a15da450f933e5f) - 2026-10-18
 * [Commit] [Reconcile 26.10.0 into main](https://github.com/besu-eth/besu/commit/c3f6b432ba8663f1a7eaea23d6331131a86c408c) - 2026-10-18
+* [Review] [Review on: CHANGELOG: list the GHSAs in 26.x releases](https://github.com/besu-eth/besu/pull/11608#pullrequestreview-5566731563) - 2026-10-19
+* [Review] [Review on: fix: stop JSON-RPC active-connection counter leaks](https://github.com/besu-eth/besu/pull/11453#pullrequestreview-5567968028) - 2026-10-19
+* [Pull Request] [ci: stop caching the Trivy vulnerability DB in the Actions cache](https://github.com/besu-eth/besu/pull/11650) - 2026-10-19
+* [Pull Request] [ci: stop caching Docker BuildKit layers in the Actions cache](https://github.com/besu-eth/besu/pull/11649) - 2026-10-19
+* [Review] [Review on: include account-only accesses in eth_createAccessList](https://github.com/besu-eth/besu/pull/11175#pullrequestreview-5568273313) - 2026-10-19
+* [Commit] [CHANGELOG: list the GHSAs in 26.x releases (#11608)](https://github.com/besu-eth/besu/commit/f06bf03e4189bdaebb86c9e72c1a57b542dd39e0) - 2026-10-20
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

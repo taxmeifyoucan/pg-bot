@@ -62,6 +62,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: zero the burned balance in CreateAccount's synthetic read (#24876)](https://github.com/erigontech/erigon/commit/e9fe8e7c3b95ec2c8127e9614ad650b3614ea457) - 2026-10-14
 * [Commit] [execution/state: invalidate committed field reads wiped by an in-range destruct (#24866)](https://github.com/erigontech/erigon/commit/020dfe2caf33e1ca706777d23cad2b6d5003490c) - 2026-10-14
 * [Commit] [execution/state, execution/stagedsync: read an EIP-8246-preserved coinbase as live in calcFees (#24880)](https://github.com/erigontech/erigon/commit/f572b3b2ac5dc0429cd84045cd6896ef67cd4b93) - 2026-10-14
+* [Review] [Review on: execution/stagedsync: schedule transfers after recipient validation](https://github.com/erigontech/erigon/pull/25040#pullrequestreview-5570865955) - 2026-10-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -124,6 +125,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
+* [Commit] [feat(test-benchmark): add stacked storage commit benchmark (#3811)](https://github.com/ethereum/execution-specs/commit/30418b707cf32ce03823224a5717f4d09da6eaef) - 2026-10-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 ## Q3 2026

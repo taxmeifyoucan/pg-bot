@@ -50,6 +50,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: cover Gloas builder payment cancellation and delayed withdrawals](https://github.com/ChainSafe/lodestar/pull/10351#pullrequestreview-5530486559) - 2026-10-15
 * [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5532880679) - 2026-10-15
 * [Review] [Review on: fix: allow next epoch duties requests before genesis](https://github.com/ChainSafe/lodestar/pull/10383#pullrequestreview-5530463571) - 2026-10-15
+* [Review] [Review on: feat: add flag to disable validation of published execution payload bids](https://github.com/ChainSafe/lodestar/pull/10429#pullrequestreview-5570204724) - 2026-10-19
+* [Pull Request] [test: use fake timers instead of Date.now spies](https://github.com/ChainSafe/lodestar/pull/10440) - 2026-10-19
+* [Review] [Review on: fix: do not prefer an unsatisfied payload as head during its own slot](https://github.com/ChainSafe/lodestar/pull/10416#pullrequestreview-5569999817) - 2026-10-19
+* [Review] [Review on: fix: reject index-1 attestations to an engine-invalidated payload](https://github.com/ChainSafe/lodestar/pull/10426#pullrequestreview-5570550037) - 2026-10-19
+* [Review] [Review on: fix: check the parent payload before importing a repeat proposal in gloas](https://github.com/ChainSafe/lodestar/pull/10424#pullrequestreview-5570337125) - 2026-10-19
+* [Commit] [test: use fake timers instead of Date.now spies (#10440)](https://github.com/ChainSafe/lodestar/commit/ab56d90f0c0964da6bd7a66d0b38bd54cbe42dbd) - 2026-10-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

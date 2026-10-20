@@ -15,6 +15,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 
 * [Pull Request] [Update EIP-8081: Decisions from ACDE247](https://github.com/ethereum/EIPs/pull/12460) - 2026-10-08
 * [Commit] [Update EIP-8081: Decisions from ACDE247](https://github.com/ethereum/EIPs/commit/f154af816c4e3467ea3a86e064e4d3493ab2a8e0) - 2026-10-08
+* [Review] [Review on: Update EIP-8081: add Sepolia and Hoodi dates](https://github.com/ethereum/EIPs/pull/12522#pullrequestreview-5574497021) - 2026-10-19
+* [Review] [Review on: Update EIP-8081: decisions from ACDC 189](https://github.com/ethereum/EIPs/pull/12521#pullrequestreview-5574484064) - 2026-10-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Lodestar incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2243#pullrequestreview-5417157912) - 2026-10-05
 * [Commit] [Merge pull request #2261 from benjaminion/master](https://github.com/ethereum/pm/commit/1b2d30fd58b69b81a5374012350313d3ba727d1a) - 2026-10-05
@@ -40,6 +42,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Pull Request] [schedule glamsterdam on hoodi](https://github.com/ethereum/pm/pull/2263) - 2026-10-07
 * [Commit] [Merge pull request #2263 from ethereum/nixorokish-patch-10](https://github.com/ethereum/pm/commit/549b3fc5e99985c7df0512b5b440b1aa593b32bc) - 2026-10-14
 
+* [Commit] [Merge pull request #2279 from lightclient/glamsterdam-hoodi-unix](https://github.com/ethereum/pm/commit/14e24a015779fa11af69a6b2d85d5c19d3433ca0) - 2026-10-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Butta (EthCoordinate)](https://github.com/protocolguild/documentation/pull/579) - 2026-10-14
 ## Q3 2026

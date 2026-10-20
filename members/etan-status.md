@@ -44,6 +44,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use proper Xcode SDK path for Github macos-latest](https://github.com/status-im/nimbus-eth2/pull/9295) - 2026-10-16
 * [Pull Request] [Check p2pProtocol state types with a generated 'when'](https://github.com/status-im/nimbus-eth2/pull/9306) - 2026-10-18
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth2/pull/9307) - 2026-10-18
+* [Pull Request] [Look up the libp2pProtocol pragma with findPragma](https://github.com/status-im/nimbus-eth2/pull/9322) - 2026-10-19
+* [Review] [Review on: Look up the libp2pProtocol pragma with findPragma](https://github.com/status-im/nimbus-eth2/pull/9322#pullrequestreview-5575619443) - 2026-10-19
+* [Pull Request] [Drop unused p2pProtocol DSL helpers](https://github.com/status-im/nimbus-eth2/pull/9316) - 2026-10-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -61,6 +64,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4999) - 2026-10-15
 * [Commit] [Bump nim-eth (#4999)](https://github.com/status-im/nimbus-eth1/commit/9a36e8bea4a4980302cacce68b404882dd120064) - 2026-10-15
 * [Pull Request] [Fix comparison in verified proxy test backend](https://github.com/status-im/nimbus-eth1/pull/5006) - 2026-10-18
+* [Pull Request] [Fix comparison in verified proxy test backend](https://github.com/status-im/nimbus-eth1/pull/5009) - 2026-10-19
 ## Q3 2026
 
 

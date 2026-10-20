@@ -295,6 +295,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: do not prefer an unsatisfied payload as head during its own slot](https://github.com/ChainSafe/lodestar/pull/10416) - 2026-10-16
 * [Pull Request] [feat: make validation of published execution payload bids opt-in](https://github.com/ChainSafe/lodestar/pull/10429) - 2026-10-17
 * [Pull Request] [fix: route pending deposits by withdrawal credentials at the gloas fork](https://github.com/ChainSafe/lodestar/pull/10428) - 2026-10-17
+* [Review] [Review on: feat: add flag to disable validation of published execution payload bids](https://github.com/ChainSafe/lodestar/pull/10429#pullrequestreview-5570301975) - 2026-10-19
+* [Review] [Review on: test: use fake timers instead of Date.now spies](https://github.com/ChainSafe/lodestar/pull/10440#pullrequestreview-5575024382) - 2026-10-19
+* [Review] [Review on: chore(deps): bump the actions group with 3 updates](https://github.com/ChainSafe/lodestar/pull/10439#pullrequestreview-5575191257) - 2026-10-19
+* [Pull Request] [test: make promise duration checks deterministic](https://github.com/ChainSafe/lodestar/pull/10434) - 2026-10-19
+* [Pull Request] [fix: invalidate the parent payload chain on a gloas envelope INVALID verdict](https://github.com/ChainSafe/lodestar/pull/10437) - 2026-10-19
+* [Pull Request] [feat: reject gloas attestations and blocks on an invalidated payload](https://github.com/ChainSafe/lodestar/pull/10438) - 2026-10-19
+* [Review] [Review on: feat: reject gloas attestations and blocks on an invalidated payload](https://github.com/ChainSafe/lodestar/pull/10438#pullrequestreview-5572399927) - 2026-10-19
+* [Pull Request] [fix: apply forkchoiceUpdated verdicts to fork choice](https://github.com/ChainSafe/lodestar/pull/10436) - 2026-10-19
+* [Review] [Review on: fix: apply forkchoiceUpdated verdicts to fork choice](https://github.com/ChainSafe/lodestar/pull/10436#pullrequestreview-5572150398) - 2026-10-19
+* [Review] [Review on: fix: model Transactions as SerializedList types](https://github.com/ChainSafe/lodestar/pull/10399#pullrequestreview-5571402761) - 2026-10-19
+* [Review] [Review on: fix: reject index-1 attestations to an engine-invalidated payload](https://github.com/ChainSafe/lodestar/pull/10426#pullrequestreview-5570612768) - 2026-10-19
+* [Review] [Review on: fix: drop finalized block hash from payload id cache key](https://github.com/ChainSafe/lodestar/pull/10432#pullrequestreview-5569373470) - 2026-10-19
+* [Issue] [scale heze rewards and churn relative to SLOT_DURATION_MS](https://github.com/ChainSafe/lodestar/issues/10435) - 2026-10-19
+* [Commit] [test: make promise duration checks deterministic (#10434)](https://github.com/ChainSafe/lodestar/commit/e91a5043ed77fe82d1f9e3bde55d25d021fca0be) - 2026-10-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -311,6 +325,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
+* [Commit] [Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/commit/068e50ad2afa94c3bd967ce584867fb27d371c01) - 2026-10-19
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: core: better caching for jumpdest analysis](https://github.com/ethereum/go-ethereum/pull/35881#pullrequestreview-5418545030) - 2026-10-05
 
@@ -353,6 +368,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add gnosis preset (#791)](https://github.com/ChainSafe/lodestar-z/commit/ba4f89e967bdb498f1d856f699f1ba2b863be330) - 2026-10-16
 * [Review] [Review on: feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765#pullrequestreview-5558981713) - 2026-10-17
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/793#pullrequestreview-5562446032) - 2026-10-18
+* [Pull Request] [fix: support serialized transaction lists](https://github.com/ChainSafe/lodestar-z/pull/796) - 2026-10-19
+* [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/793#pullrequestreview-5569282993) - 2026-10-19
+* [Review] [Review on: feat: add heze timing configuration](https://github.com/ChainSafe/lodestar-z/pull/794#pullrequestreview-5569144503) - 2026-10-19
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026

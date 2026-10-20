@@ -55,6 +55,8 @@ Team: Grandine
 * [Review] [Review on: docs: refresh cli_options network list and drop stale flags](https://github.com/grandinetech/grandine/pull/975#pullrequestreview-5529833439) - 2026-10-15
 * [Commit] [Update `min_epochs_for_block_requests` for Gloas](https://github.com/grandinetech/grandine/commit/6530f9e02d7adeea616129b277fb687b7fc0d901) - 2026-10-15
 * [Review] [Review on: Optimize ProgressivePersistentList](https://github.com/grandinetech/grandine/pull/986#pullrequestreview-5547140317) - 2026-10-16
+* [Pull Request] [Handle optimistic heads in Gloas](https://github.com/grandinetech/grandine/pull/991) - 2026-10-19
+* [Review] [Review on: Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/pull/992#pullrequestreview-5571106890) - 2026-10-19
 ## Q3 2026
 
 

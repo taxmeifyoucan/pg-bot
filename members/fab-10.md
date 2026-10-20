@@ -59,6 +59,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Issue] [Deliver transaction pool added and dropped events in the order they happened](https://github.com/besu-eth/besu/issues/11593) - 2026-10-14
 * [Issue] [Give each async transaction pool listener its own bounded notification queue](https://github.com/besu-eth/besu/issues/11592) - 2026-10-14
 * [Commit] [Enable CI for PRs on plugin-api-refactor branch (#11595)](https://github.com/besu-eth/besu/commit/f7deb446a84a1617554fb2f15ab2678293d3241a) - 2026-10-14
+* [Review] [Review on: Split the Patricia code out of the state root committers](https://github.com/besu-eth/besu/pull/11624#pullrequestreview-5572821124) - 2026-10-19
+* [Pull Request] [EIP-8070: Add the eth/72 GetCells and Cells messages](https://github.com/besu-eth/besu/pull/11644) - 2026-10-19
+* [Pull Request] [EIP-8070: Recover a blob from half of its cells](https://github.com/besu-eth/besu/pull/11543) - 2026-10-19
+* [Review] [Review on: Start plugins before the external services open their ports (#11359) ](https://github.com/besu-eth/besu/pull/11638#pullrequestreview-5569780619) - 2026-10-19
+* [Commit] [EIP-8070: Recover a blob from half of its cells (#11543)](https://github.com/besu-eth/besu/commit/2fd0724b93104cb58ab94324fc0cdc8b84e620eb) - 2026-10-19
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 ## Q3 2026
 
 

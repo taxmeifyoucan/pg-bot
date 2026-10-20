@@ -195,6 +195,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [ci(ai-review): drop needs-human-review label and keep infra failures green](https://github.com/NethermindEth/nethermind/pull/14892) - 2026-10-19
 * [Review] [Review on: fix(core): create the generated jwt secret and node key readable by the owner only](https://github.com/NethermindEth/nethermind/pull/14552#pullrequestreview-5566183223) - 2026-10-19
 * [Commit] [fix(core): create the generated jwt secret and node key readable by the owner only (#14552)](https://github.com/NethermindEth/nethermind/commit/ae5d3742fe32a3c9e412b3722456c878450e96fd) - 2026-10-19
+* [Review] [Review on: ci: size nethtest chunks for about 6 minutes of tests](https://github.com/NethermindEth/nethermind/pull/14941#pullrequestreview-5579349626) - 2026-10-20
+* [Review] [Review on: ci: drop the NuGet cache from the E2E workflow](https://github.com/NethermindEth/nethermind/pull/14938#pullrequestreview-5579348116) - 2026-10-20
+* [Review] [Review on: ci: run nethtest with server GC and size the EF-test trie node cache](https://github.com/NethermindEth/nethermind/pull/14935#pullrequestreview-5579345899) - 2026-10-20
+* [Commit] [ci(ai-review): drop needs-human-review label and keep infra failures green (#14892)](https://github.com/NethermindEth/nethermind/commit/9bb5a5bcf1f68b47c9203c96f511697275aec69f) - 2026-10-19
+* [Commit] [fix(receipts): do not cache receipts recovered without senders (#14668)](https://github.com/NethermindEth/nethermind/commit/bdc4fc9fb6e387cbaa2d69bdfe13c15515d8dd82) - 2026-10-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

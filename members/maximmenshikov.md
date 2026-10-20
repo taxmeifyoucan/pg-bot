@@ -24,6 +24,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [build(zkevm): bump the bflat RISC-V64 image to b7f3eba (#14730)](https://github.com/NethermindEth/nethermind/commit/bc69f148a614506a742ab7f08aee9f1e7c7455f4) - 2026-10-15
 * [Commit] [Stateless: bump bflat, ZisK 1.3.2-alpha and the SP1 and OpenVM runners (#14670)](https://github.com/NethermindEth/nethermind/commit/973ed6060d14d84925dfe557219729e1cc63264e) - 2026-10-15
 * [Commit] [build(zkevm): bump bflat to e10cdcb7, ZiskOS.Runtime to 1.3.2-alpha.147, Zkvm.Abstractions to 1.0.0-preview.8 (#14800)](https://github.com/NethermindEth/nethermind/commit/2dbc814b15f07429b7a0a2dd8898bee5cad70a83) - 2026-10-16
+* [Pull Request] [build(zkevm): bump bflat to 321edc64 (.NET 11.0.100), ZiskOS.Runtime to 1.3.2-alpha.148](https://github.com/NethermindEth/nethermind/pull/14946) - 2026-10-20
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -52,6 +53,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [CI: Add optional runtime tests job run under qemu-user](https://github.com/NethermindEth/dotnet-riscv/commit/8c9a01e23cc37d0e9c1c25e594f4d7a5cd3f7db0) - 2026-10-06
 * [Commit] [fixup/11/upstream: split A detection and --assume-no-concurrency out](https://github.com/NethermindEth/dotnet-riscv/commit/545a22d28ae7d70e824c3296d4f40d4daf256417) - 2026-10-06
 * [Commit] [CI: add a suffix to the run name and release tag](https://github.com/NethermindEth/dotnet-riscv/commit/5d87a2e4ba90419cfa29d2b99509427436df2151) - 2026-10-06
+* [Commit] [CI: pin the runners to ubuntu-24.04](https://github.com/NethermindEth/dotnet-riscv/commit/5e58cad0dffd1a3f31f52f63d12543bc32afe209) - 2026-10-19
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -74,6 +76,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [ci: push the Docker images outside the docker-hub environment](https://github.com/NethermindEth/bflat-riscv64/commit/74f58f6d939c0ea253d0660b0ce37328be58dc4c) - 2026-10-14
 * [Commit] [ci: log in to Docker Hub with OIDC from the docker-hub environment](https://github.com/NethermindEth/bflat-riscv64/commit/581145cfa3b38a12b5d50acf5bf8c03dbe5c360b) - 2026-10-14
 * [Review] [Review on: perf(zkvm): link a 64-bit memmove and memset into the sp1 and openvm guests](https://github.com/NethermindEth/bflat-riscv64/pull/58#pullrequestreview-5532629490) - 2026-10-15
+* [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/commit/321edc6406497fbd6c6e09f717307e82df47bb90) - 2026-10-19
 ## Q3 2026
 
 

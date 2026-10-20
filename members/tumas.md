@@ -22,6 +22,7 @@ Team: Grandine
 * [Pull Request] [Update `rustls` where possible, correct audit.toml ignores](https://github.com/grandinetech/grandine/pull/985) - 2026-10-15
 * [Review] [Review on: Update `min_epochs_for_block_requests` for Gloas](https://github.com/grandinetech/grandine/pull/984#pullrequestreview-5533531753) - 2026-10-15
 * [Commit] [Update `rustls` where possible, correct audit.toml ignores](https://github.com/grandinetech/grandine/commit/79e8215f1459a2616812bc6cf18118fe672f6c46) - 2026-10-15
+* [Pull Request] [Ignore `zip` advisories RUSTSEC-2026-0367, 0368 and 0369 until zkm-sd…](https://github.com/grandinetech/grandine/pull/993) - 2026-10-19
 ## Q3 2026
 
 

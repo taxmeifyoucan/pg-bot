@@ -41,6 +41,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: implement FOCIL EIP-7805 in heze (#10312)](https://github.com/ChainSafe/lodestar/commit/a1662c7de79d9739a2867121c556d6797b13c635) - 2026-10-15
 * [Commit] [refactor(api): drop unreachable genesis block root fallbacks from duty endpoints (#10394)](https://github.com/ChainSafe/lodestar/commit/1b1888604ef7809bf7b4c2c4a96fa48fc65fb58d) - 2026-10-15
 * [Review] [Review on: fix: ignore known payload envelopes before deserializing them](https://github.com/ChainSafe/lodestar/pull/10419#pullrequestreview-5565781291) - 2026-10-19
+* [Pull Request] [fix: cap payload DA wait at the slot duration of the payload's fork](https://github.com/ChainSafe/lodestar/pull/10433) - 2026-10-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 

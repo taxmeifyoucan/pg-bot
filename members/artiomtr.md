@@ -43,6 +43,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Add PTC state endpoint](https://github.com/grandinetech/grandine/pull/973#pullrequestreview-5546519017) - 2026-10-16
 * [Issue] [Investigate why lighthouse disconnects grandine nodes in local kurtosis runs](https://github.com/grandinetech/grandine/issues/987) - 2026-10-16
 * [Commit] [Added bundles for PersistentProgressiveList](https://github.com/grandinetech/grandine/commit/e60be4773c0c87648ad399df58a8fdafa38b1cdd) - 2026-10-16
+* [Pull Request] [Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/pull/992) - 2026-10-19
+* [Commit] [Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/commit/1262751bc87a953e6506285ef5d3334982f24eb2) - 2026-10-19
 ## Q3 2026
 
 

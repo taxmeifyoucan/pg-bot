@@ -17,6 +17,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: VoluntaryExitGossipManager fork validation fix](https://github.com/Consensys-Incorporated/teku/pull/11392#pullrequestreview-5389975419) - 2026-10-02
 * [Commit] [Hidden option to disable considering p2p bids for block proposal (#11386)](https://github.com/Consensys-Incorporated/teku/commit/0898861dd0d38a16ee968c330900e62535ed361d) - 2026-10-05
 * [Review] [Review on: Use proposer config for Gloas block proposal](https://github.com/Consensys-Incorporated/teku/pull/11376#pullrequestreview-5532387066) - 2026-10-15
+* [Pull Request] [Keymanager-API changes for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11537) - 2026-10-19
+* [Review] [Review on: Keymanager-API changes for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11537#pullrequestreview-5579791462) - 2026-10-20
+* [Commit] [Use proposer config for Gloas block proposal (#11376)](https://github.com/Consensys-Incorporated/teku/commit/5773fc8d5402eb1841794f01a6022342ae471e38) - 2026-10-19
 ## Q3 2026
 
 
