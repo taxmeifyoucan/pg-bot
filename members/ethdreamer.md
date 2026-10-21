@@ -25,6 +25,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Review] [Review on: Implement optional proofs with fork-choice optimistic](https://github.com/sigp/lighthouse/pull/10198#pullrequestreview-5446362575) - 2026-10-07
 * [Review] [Review on: Allow beacon node with EL to relay execution proofs](https://github.com/sigp/lighthouse/pull/10271#pullrequestreview-5471889974) - 2026-10-09
 * [Review] [Review on: Allow beacon node with EL to relay execution proofs](https://github.com/sigp/lighthouse/pull/10271#pullrequestreview-5508149465) - 2026-10-13
+* [Review] [Review on: Flesh out CODEOWNERS a bit more](https://github.com/sigp/lighthouse/pull/10394#pullrequestreview-5589237754) - 2026-10-20
 ## Q3 2026
 
 

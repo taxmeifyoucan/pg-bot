@@ -22,6 +22,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Fetch envelopes by range from canonical chain](https://github.com/Consensys-Incorporated/teku/pull/11477) - 2026-10-12
 * [Review] [Review on: Fetch envelopes by range from canonical chain](https://github.com/Consensys-Incorporated/teku/pull/11477#pullrequestreview-5567203019) - 2026-10-19
 * [Commit] [Fetch envelopes by range from canonical chain (#11477)](https://github.com/Consensys-Incorporated/teku/commit/848037b682185f4a256f940d4aa7ef544f579798) - 2026-10-19
+* [Review] [Review on: Keymanager-API changes for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11537#pullrequestreview-5581536215) - 2026-10-20
+* [Review] [Review on: Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot](https://github.com/Consensys-Incorporated/teku/pull/11540#pullrequestreview-5593775246) - 2026-10-21
+* [Pull Request] [Envelopes by range follow ups](https://github.com/Consensys-Incorporated/teku/pull/11551) - 2026-10-21
+* [Review] [Review on: Update discovery to 26.10.1](https://github.com/Consensys-Incorporated/teku/pull/11541#pullrequestreview-5582177676) - 2026-10-20
 ## Q3 2026
 
 

@@ -13,6 +13,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Sam Wilson from membership list](https://github.com/protocolguild/documentation/pull/563) - 2026-10-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update CONTRIBUTING.md with new contributor guidelines](https://github.com/ethereum/EIPs/pull/12149#pullrequestreview-5588511018) - 2026-10-20
+* [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5588496733) - 2026-10-20
 ## Q3 2026
 
 

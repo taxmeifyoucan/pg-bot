@@ -46,6 +46,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators](https://github.com/ethereum/execution-specs/pull/3572#pullrequestreview-5567785245) - 2026-10-19
 * [Issue] [chore(test-consume): remove the deprecated fixtures and branch hive build arguments (due 2027-01-19)](https://github.com/ethereum/execution-specs/issues/3866) - 2026-10-19
 * [Issue] [feat(ci): clean up old hive simulator images in ghcr](https://github.com/ethereum/execution-specs/issues/3864) - 2026-10-19
+* [Review] [Review on: feat(ci): auto-label pull requests and fix their titles](https://github.com/ethereum/execution-specs/pull/3855#pullrequestreview-5587307016) - 2026-10-20
+* [Pull Request] [feat(test-consume): start a fresh ethrex enginex client after a deep chain](https://github.com/ethereum/execution-specs/pull/3872) - 2026-10-20
+* [Commit] [fix(test-consume): start a fresh ethrex enginex client after a deep chain (#3872)](https://github.com/ethereum/execution-specs/commit/958b1424097f91591852052a6dc948ff05602505) - 2026-10-20
+* [Commit] [feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators (#3572)](https://github.com/ethereum/execution-specs/commit/6d46697bd0c054967c692d95600ea5a3de5b121c) - 2026-10-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -56,6 +60,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [internal/libhive: support simulator build configurations via --config (#1607)](https://github.com/ethereum/hive/commit/ccf3f4630b0eed78988cd1d21ec81cb3872b5b16) - 2026-10-17
 * [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5571176798) - 2026-10-19
 * [Commit] [clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer (#1621)](https://github.com/ethereum/hive/commit/70c8df269bbda7ac9649da1d1738286f271a4ea3) - 2026-10-19
+* [Pull Request] [hiveproxy: probe client readiness at shorter intervals](https://github.com/ethereum/hive/pull/1627) - 2026-10-20
+* [Pull Request] [hive: select --sim simulators from the inventory with --config](https://github.com/ethereum/hive/pull/1624) - 2026-10-20
+* [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5585676683) - 2026-10-20
+* [Commit] [hive: select --sim simulators from the inventory with --config (#1624)](https://github.com/ethereum/hive/commit/ece8bcb0a1236aa530a4f145cf8aa0d28c568ae6) - 2026-10-20
+* [Commit] [simulators/ethereum/eels: run from published execution-specs images (#1609)](https://github.com/ethereum/hive/commit/11864a701d331535f4ed487e4d538bead457d760) - 2026-10-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 

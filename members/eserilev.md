@@ -44,6 +44,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313#pullrequestreview-5529109542) - 2026-10-15
 * [Pull Request] [Add gloas support to custody column backfill](https://github.com/sigp/lighthouse/pull/10385) - 2026-10-19
 * [Pull Request] [Heze devnet 2](https://github.com/sigp/lighthouse/pull/10388) - 2026-10-19
+* [Pull Request] [Apply validator custody from genesis on pre-genesis registration](https://github.com/sigp/lighthouse/pull/10404) - 2026-10-20
+* [Review] [Review on: Fetch columns for blocks published via HTTP without blob data](https://github.com/sigp/lighthouse/pull/10396#pullrequestreview-5588458493) - 2026-10-20
+* [Pull Request] [Fix light client headers at fork boundaries](https://github.com/sigp/lighthouse/pull/10401) - 2026-10-20
+* [Review] [Review on: Implement Gloas light client type support](https://github.com/sigp/lighthouse/pull/9732#pullrequestreview-5588323227) - 2026-10-20
+* [Pull Request] [Mark pre-Gloas builder settings in help text and docs](https://github.com/sigp/lighthouse/pull/10395) - 2026-10-20
+* [Review] [Review on: Mark pre-Gloas builder settings in help text and docs](https://github.com/sigp/lighthouse/pull/10395#pullrequestreview-5584911724) - 2026-10-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

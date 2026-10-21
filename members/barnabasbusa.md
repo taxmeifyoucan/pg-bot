@@ -77,6 +77,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442#pullrequestreview-5434683771) - 2026-10-06
 * [Pull Request] [Update EIP-8365: gate activation instead of rejecting 0x00 deposits](https://github.com/ethereum/EIPs/pull/12513) - 2026-10-15
 * [Pull Request] [Update EIP-8433: retire 0x00 validators at fork activation](https://github.com/ethereum/EIPs/pull/12514) - 2026-10-15
+* [Pull Request] [Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552) - 2026-10-20
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
@@ -134,6 +135,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(tests): check tx gas limit against floor-inclusive block gas used](https://github.com/ethereum/execution-specs/pull/3832) - 2026-10-15
 * [Commit] [feat(tests): check tx gas limit against floor-inclusive block gas used (#3832)](https://github.com/ethereum/execution-specs/commit/172160ee6e05f635b1bbcbd0ef03ebf5d9ccffad) - 2026-10-15
 
+* [Pull Request] [feat(spec-specs,test-forks,tests): derive the Bogota base fee change from slot spacing](https://github.com/ethereum/execution-specs/pull/3873) - 2026-10-20
+* [Pull Request] [fix(spec-specs,tests): keep the blob schedule unchanged at Bogota](https://github.com/ethereum/execution-specs/pull/3871) - 2026-10-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix: stop penalizing peers for data columns of invalid or unclaimed blocks](https://github.com/status-im/nimbus-eth2/pull/9288) - 2026-10-15
 * [Issue] [feat: implement missing beacon-APIs v5.0.0-beta.0 endpoints](https://github.com/status-im/nimbus-eth2/issues/9290) - 2026-10-15

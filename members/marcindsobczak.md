@@ -52,6 +52,8 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [perf(flat): warm the trie with more workers on machines with few cores](https://github.com/NethermindEth/nethermind/pull/14773) - 2026-10-16
 * [Pull Request] [test(runner): keep the smoke test's port probes open until every port is picked](https://github.com/NethermindEth/nethermind/pull/14934) - 2026-10-19
 * [Review] [Review on: perf(db): decode chain-level batches directly](https://github.com/NethermindEth/nethermind/pull/14818#pullrequestreview-5571040749) - 2026-10-19
+* [Commit] [perf(prewarm): start a block's warm workers without waiting for the mempool runs (#14803)](https://github.com/NethermindEth/nethermind/commit/4c700670b2514c291f2b394f6bd6ab7e34d4aaa0) - 2026-10-20
+* [Commit] [perf(prewarm): read ahead the storage of the transaction block processing is executing (#14693)](https://github.com/NethermindEth/nethermind/commit/1d871b81bd92ad074adab24ae145922f00e999e7) - 2026-10-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

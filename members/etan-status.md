@@ -47,6 +47,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Look up the libp2pProtocol pragma with findPragma](https://github.com/status-im/nimbus-eth2/pull/9322) - 2026-10-19
 * [Review] [Review on: Look up the libp2pProtocol pragma with findPragma](https://github.com/status-im/nimbus-eth2/pull/9322#pullrequestreview-5575619443) - 2026-10-19
 * [Pull Request] [Drop unused p2pProtocol DSL helpers](https://github.com/status-im/nimbus-eth2/pull/9316) - 2026-10-19
+* [Review] [Review on: New size-bounded string type for JSON and SSZ](https://github.com/status-im/nimbus-eth2/pull/9324#pullrequestreview-5583000280) - 2026-10-20
+* [Pull Request] [Compare identifier with eqIdent instead of ==](https://github.com/status-im/nimbus-eth2/pull/9327) - 2026-10-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

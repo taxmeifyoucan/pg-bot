@@ -183,6 +183,30 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/rpc: skip column peers that answered a by-root request with no sidecars (#24992)](https://github.com/erigontech/erigon/commit/8fa3de349a92525ec6fe01bbe7092ab0c5436854) - 2026-10-19
 * [Commit] [cl/phase1/forkchoice: take execution payload event fields from the block (#25002)](https://github.com/erigontech/erigon/commit/5f345265f1db7e75b2ff2f18ef8872469eadc0ef) - 2026-10-19
 * [Commit] [db/downloader: check done without receiving in the kept-seeding join tests (#25001)](https://github.com/erigontech/erigon/commit/525b1a7cbce8ec119073a3e867573d42386d8b8f) - 2026-10-19
+* [Pull Request] [cl/transition/impl/eth2/statechange: avoid contended and no-op dirty marks in epoch processing](https://github.com/erigontech/erigon/pull/25144) - 2026-10-20
+* [Pull Request] [cl/phase1/core/caches, cl/phase1/core/state, cl/phase1/stages, cl/transition: share lookahead shuffles and active sets across state copies](https://github.com/erigontech/erigon/pull/25143) - 2026-10-20
+* [Review] [Review on: cl, execution: complete payload preparation coverage and hardening](https://github.com/erigontech/erigon/pull/24939#pullrequestreview-5583769019) - 2026-10-20
+* [Pull Request] [cl/phase1/forkchoice, cl/transition/impl/eth2: verify the Gloas envelope builder signature once](https://github.com/erigontech/erigon/pull/25134) - 2026-10-20
+* [Pull Request] [cl/cltypes/solid, cl/phase1/core/state/raw: cache Gloas balances and inactivity scores roots incrementally](https://github.com/erigontech/erigon/pull/25102) - 2026-10-20
+* [Pull Request] [cl/cltypes/solid, cl/merkle_tree: build the validator Merkle tree in parallel on cold rebuilds](https://github.com/erigontech/erigon/pull/25101) - 2026-10-20
+* [Pull Request] [cl/phase1/forkchoice: check header presence instead of loading a state for pending envelopes](https://github.com/erigontech/erigon/pull/25098) - 2026-10-20
+* [Pull Request] [[r3.8] cl/gossip, cl/p2p, cl/rpc, cl/sentinel: keep sync subnets across fork-digest changes and enforce spec payload limits](https://github.com/erigontech/erigon/pull/25119) - 2026-10-20
+* [Review] [Review on: execution/builder, txnprovider: stop waiting for the parent block once a payload is collected](https://github.com/erigontech/erigon/pull/25082#pullrequestreview-5590601743) - 2026-10-20
+* [Review] [Review on: cl/beacon/handler: don't let a stalled /eth/v1/events client block the event emitters](https://github.com/erigontech/erigon/pull/24447#pullrequestreview-5588610168) - 2026-10-20
+* [Pull Request] [cl/phase1/network/services: run cheap proposer preferences checks before loading the dependent state](https://github.com/erigontech/erigon/pull/25096) - 2026-10-20
+* [Pull Request] [cl/phase1/network/registry, cl/phase1/network/services: relay the proposer preferences lookahead window without amplifying state loads](https://github.com/erigontech/erigon/pull/24776) - 2026-10-20
+* [Review] [Review on: cl/phase1/forkchoice: build the next justified checkpoint state early](https://github.com/erigontech/erigon/pull/23981#pullrequestreview-5581507546) - 2026-10-20
+* [Review] [Review on: cl/beacon/handler: report sync committee messages from validators outside the committee](https://github.com/erigontech/erigon/pull/25115#pullrequestreview-5584082941) - 2026-10-20
+* [Review] [Review on: cl/beacon/handler: derive sync committee subscription subnets from the requested indices](https://github.com/erigontech/erigon/pull/25117#pullrequestreview-5584083406) - 2026-10-20
+* [Issue] [Caplin: Gloas performance at Hoodi/mainnet scale](https://github.com/erigontech/erigon/issues/25120) - 2026-10-20
+* [Issue] [Caplin: the global total active balance cache can give a state another branch's total](https://github.com/erigontech/erigon/issues/25138) - 2026-10-20
+* [Issue] [cl/phase1/network/services: proposer preferences validation loads the dependent state under the fork-choice lock for every message](https://github.com/erigontech/erigon/issues/25112) - 2026-10-20
+* [Issue] [Caplin: the epoch transition takes ~1 s under the fork-choice lock and runs on several paths](https://github.com/erigontech/erigon/issues/25136) - 2026-10-20
+* [Issue] [cl/phase1/forkchoice: race on the fork graph's shared current state between block import and head-state readers](https://github.com/erigontech/erigon/issues/25111) - 2026-10-20
+* [Commit] [cl/beacon/handler: serve fork-epoch PTC duties once the clock reaches the fork (#25087)](https://github.com/erigontech/erigon/commit/ec01a338c69d81330c0f81952ac693b0a7f819c7) - 2026-10-20
+* [Commit] [cl/phase1/network/registry, cl/phase1/network/services: relay the proposer preferences lookahead window without amplifying state loads (#24776)](https://github.com/erigontech/erigon/commit/e3a1e45e73a2b1103a6d8a490b5a4739a8a8e0ab) - 2026-10-20
+* [Commit] [cl/gossip, cl/p2p: enforce per-topic gossip payload bounds and spec size limits (#25078)](https://github.com/erigontech/erigon/commit/a03376175eb42fde6b4266402bba3db535a35657) - 2026-10-20
+* [Commit] [cl/phase1/network/gossip: keep sync subnets and duties across fork-digest changes (#25086)](https://github.com/erigontech/erigon/commit/43ba98b18a50722757216a8c38536c36187d4293) - 2026-10-20
 ## Q3 2026
 
 

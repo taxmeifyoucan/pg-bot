@@ -16,11 +16,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 * [Review] [Review on: Enable CI for PRs on plugin-api-refactor branch](https://github.com/besu-eth/besu/pull/11595#pullrequestreview-5521918985) - 2026-10-14
 * [Review] [Review on: Revert "Fail loudly when account code cannot be read (#11456)"](https://github.com/besu-eth/besu/pull/11630#pullrequestreview-5549974239) - 2026-10-16
+* [Review] [Review on: build: add Maven Central as a plugin-resolution fallback](https://github.com/besu-eth/besu/pull/11652#pullrequestreview-5592397351) - 2026-10-20
+* [Review] [Review on: Rotate changelog for 26.10.0](https://github.com/besu-eth/besu/pull/11653#pullrequestreview-5589117093) - 2026-10-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558#pullrequestreview-5432630857) - 2026-10-06
 
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Review] [Review on: Add partitioned binary trie](https://github.com/besu-eth/besu-stateless/pull/92#pullrequestreview-5448352329) - 2026-10-07
+* [Review] [Review on: Add partitioned binary trie](https://github.com/besu-eth/besu-stateless/pull/92#pullrequestreview-5592778431) - 2026-10-20
 ## Q3 2026
 
 

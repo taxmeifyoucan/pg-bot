@@ -79,6 +79,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: include histogram upper bounds](https://github.com/ChainSafe/lodestar-z/pull/766#pullrequestreview-5517723004) - 2026-10-14
 * [Commit] [docs: bench with the baseline cpu like release bindings (#786)](https://github.com/ChainSafe/lodestar-z/commit/0b36087874cf566b931a101cb692c2cf32206ae9) - 2026-10-14
 * [Commit] [docs: use ReleaseSafe in bench run instructions (#785)](https://github.com/ChainSafe/lodestar-z/commit/b1751bf0fb8a9f0f3ac574da68a987acdd335952) - 2026-10-14
+* [Review] [Review on: perf: select shuffle sha256 at runtime](https://github.com/ChainSafe/lodestar-z/pull/774#pullrequestreview-5594245494) - 2026-10-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

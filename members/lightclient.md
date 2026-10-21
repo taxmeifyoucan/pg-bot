@@ -29,6 +29,7 @@ Team: Geth
 * [Pull Request] [Update EIP-7906: 7906 remove txdiff](https://github.com/ethereum/EIPs/pull/12530) - 2026-10-16
 * [Pull Request] [Update EIP-7906: rename POST_TX to ASSERT](https://github.com/ethereum/EIPs/pull/12528) - 2026-10-16
 * [Commit] [Update EIP-7906: rename POST_TX to ASSERT](https://github.com/ethereum/EIPs/commit/5930e94b0cdb7b88f8c96c75555cf4fc2b3cb3b0) - 2026-10-16
+* [Commit] [Update EIP-7906: 7906 remove txdiff](https://github.com/ethereum/EIPs/commit/899bef0ae0f9358f246e6fe833fe580b0564fbb2) - 2026-10-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 

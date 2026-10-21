@@ -28,6 +28,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17
+* [Review] [Review on: rpc_pattern_gen: --per-block takes N random txs or logs of each block](https://github.com/erigontech/rpc-tests/pull/632#pullrequestreview-5582736393) - 2026-10-20
+* [Review] [Review on: eth_simulateV1: drop override keys that the spec does not define](https://github.com/erigontech/rpc-tests/pull/630#pullrequestreview-5582734390) - 2026-10-20
 ## Q2 2026
 
 

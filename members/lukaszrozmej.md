@@ -489,6 +489,50 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(evm): return shared result arrays from the pairing check precompiles (#14814)](https://github.com/NethermindEth/nethermind/commit/8636fc37642e4337d775df21deaa621d83a425b8) - 2026-10-19
 * [Commit] [perf(tracing): skip action input copies for vmTrace-only parity traces (#14812)](https://github.com/NethermindEth/nethermind/commit/4853741390af114a7157222ad2402703fac50815) - 2026-10-19
 * [Commit] [perf(tracing): keep JavaScript tracer log objects stable across steps (#14811)](https://github.com/NethermindEth/nethermind/commit/182b5f5a06903737ae66195085ec51b7fabdedc8) - 2026-10-19
+* [Pull Request] [perf(core): skip empty receipt blooms and widen the scalar Bytes.Or](https://github.com/NethermindEth/nethermind/pull/14996) - 2026-10-20
+* [Review] [Review on: perf(core): skip empty receipt blooms and widen the scalar Bytes.Or](https://github.com/NethermindEth/nethermind/pull/14996#pullrequestreview-5593385008) - 2026-10-21
+* [Pull Request] [perf(zkevm): write trie values by raw key and build leaves in hex-prefix form](https://github.com/NethermindEth/nethermind/pull/14998) - 2026-10-21
+* [Review] [Review on: perf(zkevm): write trie values by raw key and build leaves in hex-prefix form](https://github.com/NethermindEth/nethermind/pull/14998#pullrequestreview-5593385470) - 2026-10-21
+* [Pull Request] [perf(zkevm): read trie values by raw key and keep leaf keys in hex-prefix form](https://github.com/NethermindEth/nethermind/pull/14994) - 2026-10-20
+* [Review] [Review on: perf(zkevm): read trie values by raw key and keep leaf keys in hex-prefix form](https://github.com/NethermindEth/nethermind/pull/14994#pullrequestreview-5593383995) - 2026-10-21
+* [Pull Request] [perf(zkevm): trim loop and spill overhead around keccak absorption](https://github.com/NethermindEth/nethermind/pull/14995) - 2026-10-20
+* [Review] [Review on: feat(plugins): extend execution and synchronization support](https://github.com/NethermindEth/nethermind/pull/14820#pullrequestreview-5582841106) - 2026-10-20
+* [Review] [Review on: test: check geth genesis supports every fork the Parity chainspec does](https://github.com/NethermindEth/nethermind/pull/14970#pullrequestreview-5586453783) - 2026-10-20
+* [Pull Request] [fix(rpc): fall back to buffered tracing for malformed native configs in all block traces](https://github.com/NethermindEth/nethermind/pull/14991) - 2026-10-20
+* [Review] [Review on: fix(rpc)!: align eth_getProof with execution-apis](https://github.com/NethermindEth/nethermind/pull/14987#pullrequestreview-5591642453) - 2026-10-20
+* [Review] [Review on: fix(rpc): return Geth's filter not found error for unknown filter ids](https://github.com/NethermindEth/nethermind/pull/14914#pullrequestreview-5584623363) - 2026-10-20
+* [Review] [Review on: fix(history): harden BAL retention and delayed sync responses](https://github.com/NethermindEth/nethermind/pull/14915#pullrequestreview-5586456184) - 2026-10-20
+* [Review] [Review on: feat(evm): EIP-4758 deactivate SELFDESTRUCT (SENDALL)](https://github.com/NethermindEth/nethermind/pull/12231#pullrequestreview-5586370201) - 2026-10-20
+* [Review] [Review on: feat(eez): execution profiles, follower, attester and sequencer](https://github.com/NethermindEth/nethermind/pull/13867#pullrequestreview-5584168700) - 2026-10-20
+* [Review] [Review on: fix(sync): reuse validated forward header windows before peer allocation](https://github.com/NethermindEth/nethermind/pull/14986#pullrequestreview-5591800297) - 2026-10-20
+* [Pull Request] [test(merge): stop the invalid-hash sender-recovery test racing its cancellation](https://github.com/NethermindEth/nethermind/pull/14983) - 2026-10-20
+* [Review] [Review on: fix(debug): recover per-transaction JavaScript errors in block traces](https://github.com/NethermindEth/nethermind/pull/14921#pullrequestreview-5582287594) - 2026-10-20
+* [Pull Request] [test(runner): raise the runner test timeout above Windows CI stalls](https://github.com/NethermindEth/nethermind/pull/14990) - 2026-10-20
+* [Review] [Review on: feat(evm): experimental frame code runner extension point](https://github.com/NethermindEth/nethermind/pull/14798#pullrequestreview-5582841568) - 2026-10-20
+* [Commit] [test(merge): stop the invalid-hash sender-recovery test racing its cancellation (#14983)](https://github.com/NethermindEth/nethermind/commit/6087e207202fbcf9700887872087ae6a21fc535f) - 2026-10-20
+* [Commit] [test(runner): raise the runner test timeout above Windows CI stalls (#14990)](https://github.com/NethermindEth/nethermind/commit/a89ebd54ab2c725929f599bcf08343df7a453195) - 2026-10-20
+* [Commit] [fix(merge): reject payloads with more transactions than the parent gas limit allows (#14942)](https://github.com/NethermindEth/nethermind/commit/32037e11e7465d905f82cc5d6b1df42aa1cb90ea) - 2026-10-20
+* [Commit] [test(rpc): fix flaky Delete_slice_after_rewind_below_advanced_pivot (#14979)](https://github.com/NethermindEth/nethermind/commit/cc6c73f6ceae0217685cdad5a0418722b35075a4) - 2026-10-20
+* [Commit] [test: drop out-of-chunk tests from the tree instead of ignoring them (#14982)](https://github.com/NethermindEth/nethermind/commit/3ed2bde47bfe393f65c71f85dc3983eda7f33a33) - 2026-10-20
+* [Commit] [fix(engine): revert "report only validated ancestors as latestValidHash" (#14706) (#14980)](https://github.com/NethermindEth/nethermind/commit/477e82231eae52537b964c629ade699b9552d93b) - 2026-10-20
+* [Commit] [perf(consensus): hash sender signing payloads from the payload's encoded transactions (#14957)](https://github.com/NethermindEth/nethermind/commit/6f8652cb5c1988c43ccff16f219deb07d95d2377) - 2026-10-20
+* [Commit] [test(rpc): inject the trace_get replay failure instead of racing a zero timeout (#14947)](https://github.com/NethermindEth/nethermind/commit/dad36e49bf3658907063f4176cb5d3749dcfd42c) - 2026-10-20
+* [Commit] [perf(rpc): decode parameters after module admission (#14953)](https://github.com/NethermindEth/nethermind/commit/9ace935630b6e3eb3143091ce2352c0cf61e0bae) - 2026-10-20
+* [Commit] [test(rpc): hand the tracking timeout to the test's own request (#14909)](https://github.com/NethermindEth/nethermind/commit/319d886a14257c57ee03c50fa9934f8c325a8a10) - 2026-10-20
+* [Commit] [perf(rpc): stream txpool_content and txpool_inspect from the pool snapshot (#14963)](https://github.com/NethermindEth/nethermind/commit/7f1bb15bd5066febdce580da3a48e178b9025e99) - 2026-10-20
+* [Commit] [perf(rpc): serialize each newHeads payload once under concurrent subscribers (#14966)](https://github.com/NethermindEth/nethermind/commit/07ab00fb6b7a737bba6fdfacacbcd3098b2470f5) - 2026-10-20
+* [Commit] [perf(rpc): estimate only the fee defaults eth_fillTransaction uses (#14962)](https://github.com/NethermindEth/nethermind/commit/3813fe95e0083de733980143bb204a1cb4bb1469) - 2026-10-20
+* [Commit] [perf(rpc): queue pending-transaction notifications without closures or the transaction (#14965)](https://github.com/NethermindEth/nethermind/commit/030997324e828e33be02a1af265c27017d6ed319) - 2026-10-20
+* [Commit] [perf(zkevm): skip the code memo-hit counter in the guest (#14961)](https://github.com/NethermindEth/nethermind/commit/de30724253aec495f1d27b88f82b3a6ca7b1d57f) - 2026-10-20
+* [Commit] [perf(engine): build payload blocks without copying the transaction and withdrawal arrays (#14958)](https://github.com/NethermindEth/nethermind/commit/6a3df91373db3889336c156f1402e6258b26e83c) - 2026-10-20
+* [Commit] [perf(rpc): compute fee history rewards only when percentiles are requested (#14967)](https://github.com/NethermindEth/nethermind/commit/c2ab80d11ddead37607e8372d339767ded6a254d) - 2026-10-20
+* [Commit] [perf(rpc): coalesce WebSocket response frames (#14964)](https://github.com/NethermindEth/nethermind/commit/688ed67a5844cfd8d35ba2ca53c705ad29708195) - 2026-10-20
+* [Commit] [fix(network): bound per-block receipts by block transaction limit (#14960)](https://github.com/NethermindEth/nethermind/commit/e55b3e43f397dcff38e3daf88e18295daa178dff) - 2026-10-20
+* [Commit] [perf(engine): decode payload inclusion lists borrowing the request buffers (#14959)](https://github.com/NethermindEth/nethermind/commit/f39a09beac8af2b7af97b2750f7dd0511ac32971) - 2026-10-20
+* [Commit] [perf(rpc): serialize receipt transaction index without a string round-trip (#14954)](https://github.com/NethermindEth/nethermind/commit/c6fd838ffd43e2caf07692c29f761428c8a10b32) - 2026-10-20
+* [Commit] [perf(zkevm): keep witness bucket lengths in the bucket heads (#14949)](https://github.com/NethermindEth/nethermind/commit/9310200e39e1cf0e1a693efcfa9ccedf75aaa212) - 2026-10-20
+* [Commit] [test(discovery): reserve the IPv4 port in the widened-bind fallback test (#14948)](https://github.com/NethermindEth/nethermind/commit/221cf1da708e5c3e52114dd93fe4fad7837c42f7) - 2026-10-20
+* [Commit] [fix(validation): reject blocks whose transactions cannot fit the gas limit before executing them (#14944)](https://github.com/NethermindEth/nethermind/commit/6c027b8e358be71fee5c552d24612250f0d1d3f7) - 2026-10-20
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

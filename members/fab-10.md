@@ -65,8 +65,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Start plugins before the external services open their ports (#11359) ](https://github.com/besu-eth/besu/pull/11638#pullrequestreview-5569780619) - 2026-10-19
 * [Commit] [EIP-8070: Recover a blob from half of its cells (#11543)](https://github.com/besu-eth/besu/commit/2fd0724b93104cb58ab94324fc0cdc8b84e620eb) - 2026-10-19
 
+* [Pull Request] [Move future BPO forks after Amsterdam](https://github.com/besu-eth/besu/pull/11662) - 2026-10-20
+* [Commit] [Move future BPO forks after Amsterdam (#11662)](https://github.com/besu-eth/besu/commit/dd076606a33574449e4a377ba565ced3a20c19b7) - 2026-10-20
+* [Commit] [Introduce TransactionEventNotifier and notify plugins asynchronously (#11574)](https://github.com/besu-eth/besu/commit/6cac8eba83ef24f0381af66e46796045122afed7) - 2026-10-20
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5589116627) - 2026-10-20
 ## Q3 2026
 
 

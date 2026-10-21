@@ -74,6 +74,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix(era): parse filenames for hyphenated network names](https://github.com/status-im/nimbus-eth2/pull/9188#pullrequestreview-5557173116) - 2026-10-17
 * [Review] [Review on: implement getStatePtc endpoint](https://github.com/status-im/nimbus-eth2/pull/9304#pullrequestreview-5561306227) - 2026-10-18
 * [Review] [Review on: ci(macos): compute NPROC on agent and make discovery tests port configurable](https://github.com/status-im/nimbus-eth2/pull/9315#pullrequestreview-5573169482) - 2026-10-19
+* [Review] [Review on: New size-bounded string type for JSON and SSZ](https://github.com/status-im/nimbus-eth2/pull/9324#pullrequestreview-5581434985) - 2026-10-20
+* [Review] [Review on: Allow using builder bid for block production on getPayload no result or timeout](https://github.com/status-im/nimbus-eth2/pull/9284#pullrequestreview-5580658364) - 2026-10-20
+* [Review] [Review on: implement getStateBuilders endpoint](https://github.com/status-im/nimbus-eth2/pull/9325#pullrequestreview-5581291298) - 2026-10-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

@@ -130,6 +130,20 @@ Team: Erigon
 * [Review] [Review on: exec: to not intern transient storage key ](https://github.com/erigontech/erigon/pull/24968#pullrequestreview-5566721147) - 2026-10-19
 * [Review] [Review on: vm: reuse address words within a call frame](https://github.com/erigontech/erigon/pull/25034#pullrequestreview-5566723185) - 2026-10-19
 * [Issue] [cl/beacon/handler: validator_identities serves GET without an id filter; the spec defines POST](https://github.com/erigontech/erigon/issues/25041) - 2026-10-19
+* [Review] [Review on: execution/cache: faster code-cache fill when loading cold contracts](https://github.com/erigontech/erigon/pull/25072#pullrequestreview-5582191536) - 2026-10-20
+* [Review] [Review on: cl/beacon/handler: serve fork-epoch PTC duties once the clock reaches the fork](https://github.com/erigontech/erigon/pull/25087#pullrequestreview-5582192506) - 2026-10-20
+* [Review] [Review on: execution/types, rpc/jsonrpc: match a one-value eth_getLogs filter without a map lookup](https://github.com/erigontech/erigon/pull/24991#pullrequestreview-5583565849) - 2026-10-20
+* [Review] [Review on: cl, execution: complete payload preparation coverage and hardening](https://github.com/erigontech/erigon/pull/24939#pullrequestreview-5582194630) - 2026-10-20
+* [Review] [Review on: vm: run CALLVALUE on the fast path](https://github.com/erigontech/erigon/pull/25089#pullrequestreview-5582192793) - 2026-10-20
+* [Review] [Review on: execution/builder, txnprovider: stop waiting for the parent block once a payload is collected](https://github.com/erigontech/erigon/pull/25082#pullrequestreview-5582192153) - 2026-10-20
+* [Review] [Review on: db/state, execution/commitment: don't cache branches read through a view older than the last commit](https://github.com/erigontech/erigon/pull/25049#pullrequestreview-5582190962) - 2026-10-20
+* [Pull Request] [db/datadir/reset: clear chaindata, patch bad files, guard renames](https://github.com/erigontech/erigon/pull/25104) - 2026-10-20
+* [Review] [Review on: db/snapshotsync: open caplin segments like EL so covered ones can be unlinked](https://github.com/erigontech/erigon/pull/25013#pullrequestreview-5581837395) - 2026-10-20
+* [Issue] [cl/phase1/forkchoice: onTickPerSlot skips update_checkpoints while highestSeen lags the clock](https://github.com/erigontech/erigon/issues/25128) - 2026-10-20
+* [Commit] [cl/phase1/forkchoice: build the next justified checkpoint state early (#23981)](https://github.com/erigontech/erigon/commit/292d8363347cb0665c083bf7c2123c11c70a7845) - 2026-10-20
+* [Commit] [execution/state: keep BlockStateCache accounts and storage decoded (#24505)](https://github.com/erigontech/erigon/commit/276fb0ad738abcbc6dff9b878baa843b24854891) - 2026-10-20
+* [Commit] [cl: copy each new head into a reused beacon state instead of allocating one (#25003)](https://github.com/erigontech/erigon/commit/ac0b33d2ff936a80ab0fc9292f20d807d221015d) - 2026-10-20
+* [Commit] [cl/phase1/network/registry: sweep idle peer limiters inside acquire (#25039)](https://github.com/erigontech/erigon/commit/9c3af7b596c13deb279181b2dcb2fef4c50e2cf3) - 2026-10-20
 ## Q3 2026
 
 

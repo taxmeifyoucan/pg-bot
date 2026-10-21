@@ -18,6 +18,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 * [Commit] [Update EIP-8159: Match EIP-7928 BAL storage types](https://github.com/ethereum/EIPs/commit/59d4019f121a26f9efbd6b0bfc9c3b9fc0815855) - 2026-10-02
 * [Pull Request] [Update EIP-8131: count content by encoded size, cover frames](https://github.com/ethereum/EIPs/pull/12503) - 2026-10-14
+* [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5589444618) - 2026-10-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380765838) - 2026-10-01
 * [Pull Request] [fix(test-specs): keep a failing block's fixture to one defect](https://github.com/ethereum/execution-specs/pull/3698) - 2026-10-02
@@ -69,6 +70,12 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: docs(consume): describe the client test runner interface](https://github.com/ethereum/execution-specs/pull/3846#pullrequestreview-5553604541) - 2026-10-16
 * [Commit] [chore(skill): correct stale facts in the repo skills (#3838)](https://github.com/ethereum/execution-specs/commit/7653fb643eb5c5028fe975bf999d5776788f9cd1) - 2026-10-16
 * [Review] [Review on: ✨ feat(tests): Extend focil test coverage](https://github.com/ethereum/execution-specs/pull/3868#pullrequestreview-5577711086) - 2026-10-19
+* [Pull Request] [feat(tests): cover invalid fee caps, block numbers and BAL edge cases](https://github.com/ethereum/execution-specs/pull/3875) - 2026-10-20
+* [Pull Request] [fix(test-client-clis): detect client CLIs by their tool name](https://github.com/ethereum/execution-specs/pull/3874) - 2026-10-20
+* [Review] [Review on: fix(spec-specs,tests): keep the blob schedule unchanged at Bogota](https://github.com/ethereum/execution-specs/pull/3871#pullrequestreview-5591681570) - 2026-10-20
+* [Review] [Review on: fix(specs): Add touched addresses to the BAL in an invalid-transaction test](https://github.com/ethereum/execution-specs/pull/3848#pullrequestreview-5591563930) - 2026-10-20
+* [Commit] [fix(test-client-clis): detect client CLIs by their tool name (#3874)](https://github.com/ethereum/execution-specs/commit/b9014925f67c6ceb7e32e4724c302d3c3a4799cb) - 2026-10-20
+* [Commit] [fix(tests): align intrinsic gas cases with the threshold that binds (#3837)](https://github.com/ethereum/execution-specs/commit/33f74a6bbf2c09e897c621e1a7a4c4fa00f45d02) - 2026-10-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

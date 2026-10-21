@@ -44,6 +44,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(sync): extend plugin processing and peer notification mechanisms](https://github.com/NethermindEth/nethermind/pull/14940#pullrequestreview-5579311663) - 2026-10-20
 * [Commit] [fix(consensus): set zero parent beacon root in NethDev blocks after Cancun (#14575)](https://github.com/NethermindEth/nethermind/commit/b62bec26782220d636d025a988a182a9a4f04335) - 2026-10-19
 * [Commit] [feat(flat): trie node-dedup log in front of the trie columns (#14140)](https://github.com/NethermindEth/nethermind/commit/f5c6414a350ddee63307e2bc57923015fd03d68b) - 2026-10-19
+* [Pull Request] [perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952) - 2026-10-20
+* [Pull Request] [test(merge): wait longer for the queued early sender recovery](https://github.com/NethermindEth/nethermind/pull/14993) - 2026-10-20
 ## Q3 2026
 
 

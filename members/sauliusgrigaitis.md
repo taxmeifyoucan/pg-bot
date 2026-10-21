@@ -18,6 +18,8 @@ Team: Grandine
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Upgrade networking](https://github.com/grandinetech/grandine/issues/977) - 2026-10-13
 * [Issue] [Implement missing ePBS configuration](https://github.com/grandinetech/grandine/issues/976) - 2026-10-13
+* [Issue] [Make embeddable Grandine suitable to be embedded in non ELs too.](https://github.com/grandinetech/grandine/issues/999) - 2026-10-20
+* [Issue] [Keep fallback ELs updated](https://github.com/grandinetech/grandine/issues/998) - 2026-10-20
 ## Q3 2026
 
 

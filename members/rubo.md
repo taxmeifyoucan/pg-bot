@@ -71,6 +71,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(release)!: sign one SHA256SUMS and attest the packages instead of signing each](https://github.com/NethermindEth/nethermind/pull/14932#pullrequestreview-5577632378) - 2026-10-19
 * [Commit] [refactor(network): remove peripheral DotNetty usages and add an RLPx round-trip benchmark (#14728)](https://github.com/NethermindEth/nethermind/commit/628dea630bfd2614b21664e67b4e545e69e5166e) - 2026-10-19
 * [Commit] [chore(deps): update MCL package (#14912)](https://github.com/NethermindEth/nethermind/commit/a1c69bbeb6f224e36d269a80ea618747d68d1003) - 2026-10-19
+* [Commit] [chore(deps): update Int256 package (#14985)](https://github.com/NethermindEth/nethermind/commit/eb2673fe61957e0a481e3bd5ac6f29c6fa2c5844) - 2026-10-20
+* [Commit] [ci(release)!: sign one SHA256SUMS and attest the packages instead of signing each (#14932)](https://github.com/NethermindEth/nethermind/commit/71db4322529e4801c017dad4372f56430c0a153e) - 2026-10-20
+* [Commit] [ci(zkevm): release guest ELFs with ere verification keys (#14931)](https://github.com/NethermindEth/nethermind/commit/34ed4b87e57af79ba4e274b71ecb6cbc7611857e) - 2026-10-20
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

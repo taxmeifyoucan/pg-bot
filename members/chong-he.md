@@ -29,6 +29,10 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Update `zip` crate to fix CI audit failure](https://github.com/sigp/lighthouse/pull/10378) - 2026-10-19
 * [Review] [Review on: Add v8.3.0 to database schema version tables](https://github.com/sigp/lighthouse/pull/10383#pullrequestreview-5568169153) - 2026-10-19
 * [Commit] [Update `zip` crate to fix CI audit failure (#10378)](https://github.com/sigp/lighthouse/commit/ec1072379af7cc386d9f01ac003fc1d18e7abe5d) - 2026-10-19
+* [Pull Request] [Fix CI audit failure](https://github.com/sigp/lighthouse/pull/10407) - 2026-10-21
+* [Review] [Review on: Fix CI audit failure](https://github.com/sigp/lighthouse/pull/10407#pullrequestreview-5594064506) - 2026-10-21
+* [Pull Request] [Fix commit hash not showing in release build](https://github.com/sigp/lighthouse/pull/10406) - 2026-10-21
+* [Review] [Review on: Mark pre-Gloas builder settings in help text and docs](https://github.com/sigp/lighthouse/pull/10395#pullrequestreview-5584102249) - 2026-10-20
 ## Q3 2026
 
 

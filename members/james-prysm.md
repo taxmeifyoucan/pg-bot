@@ -85,6 +85,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Remove the one-slot attestation clock disparity hack from FCR spectests](https://github.com/OffchainLabs/prysm/pull/17670#pullrequestreview-5572746107) - 2026-10-19
 * [Commit] [skip peers with unknown state (#17728)](https://github.com/OffchainLabs/prysm/commit/64c1dfc98abaf55d1d091049afc3f479385be6bc) - 2026-10-19
 * [Commit] [changelog for v7.3.0 (#17727)](https://github.com/OffchainLabs/prysm/commit/2bb5d509111a02f05360940e3cfb1866a85195d6) - 2026-10-19
+* [Pull Request] [improve fulu to gloas batch sync](https://github.com/OffchainLabs/prysm/pull/17747) - 2026-10-20
+* [Pull Request] [update go to 1.26.10](https://github.com/OffchainLabs/prysm/pull/17746) - 2026-10-20
+* [Pull Request] [sync contribution bug fix](https://github.com/OffchainLabs/prysm/pull/17745) - 2026-10-20
+* [Review] [Review on: Reject Gloas fork epoch PTC duties before the fork](https://github.com/OffchainLabs/prysm/pull/17743#pullrequestreview-5585940578) - 2026-10-20
+* [Commit] [sync contribution bug fix (#17745)](https://github.com/OffchainLabs/prysm/commit/9c7f9f9b711f00c9ce933812f26a7252897658f2) - 2026-10-20
+* [Commit] [data column hardening for gloas (#17736)](https://github.com/OffchainLabs/prysm/commit/0653008428f18d851dddae31322222155aa36117) - 2026-10-20
+* [Commit] [check beacon blocks by range max (#17717)](https://github.com/OffchainLabs/prysm/commit/17ddb950938748389c1402b71796e34a7d30d925) - 2026-10-20
 ## Q3 2026
 
 

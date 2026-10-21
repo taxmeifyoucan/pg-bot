@@ -52,6 +52,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [EIP-8141: Frame Transaction](https://github.com/status-im/nimbus-eth1/pull/5002) - 2026-10-17
 * [Pull Request] [bogota-devnet-1](https://github.com/status-im/nimbus-eth1/pull/5005) - 2026-10-18
 * [Pull Request] [Focil staging](https://github.com/status-im/nimbus-eth1/pull/5013) - 2026-10-19
+* [Review] [Review on: evm: fix OverflowDefect in revert reason decoding](https://github.com/status-im/nimbus-eth1/pull/5025#pullrequestreview-5594401987) - 2026-10-21
+* [Review] [Review on: rpc: fix sign/send transaction crash on missing from](https://github.com/status-im/nimbus-eth1/pull/5023#pullrequestreview-5594357345) - 2026-10-21
+* [Pull Request] [[hegota-devnet-1] EIP-8298: SETCODEFROM Code Reuse Instruction](https://github.com/status-im/nimbus-eth1/pull/5020) - 2026-10-20
+* [Pull Request] [Leverage restore-keys to enable EEST/llvm-mingw cache lookup fallback](https://github.com/status-im/nimbus-eth1/pull/5014) - 2026-10-20
+* [Pull Request] [heze-devnet-2](https://github.com/status-im/nimbus-eth1/pull/5015) - 2026-10-20
+* [Commit] [Leverage restore-keys to enable EEST/llvm-mingw cache lookup fallback (#5014)](https://github.com/status-im/nimbus-eth1/commit/91daa6b03295c2aa127852adeb90d3b7dfd5e292) - 2026-10-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

@@ -120,6 +120,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Check the BAL item budget per transaction without copying the list](https://github.com/besu-eth/besu/pull/11454#pullrequestreview-5572309403) - 2026-10-19
 * [Review] [Review on: SNAP2: Add the sync storage and the storage trie updates](https://github.com/besu-eth/besu/pull/11625#pullrequestreview-5572234112) - 2026-10-19
 * [Review] [Review on: EIP-8070: Recover a blob from half of its cells](https://github.com/besu-eth/besu/pull/11543#pullrequestreview-5570026636) - 2026-10-19
+* [Review] [Review on: SNAP2: Add the final trie build](https://github.com/besu-eth/besu/pull/11661#pullrequestreview-5586645104) - 2026-10-20
+* [Review] [Review on: SNAP2: Add the header fetcher](https://github.com/besu-eth/besu/pull/11660#pullrequestreview-5585690650) - 2026-10-20
+* [Review] [Review on: Bonsai: cache committed trie nodes, stop re-hashing preloaded ones](https://github.com/besu-eth/besu/pull/11382#pullrequestreview-5584256687) - 2026-10-20
+* [Pull Request] [Update discovery library to 26.10.1 and the dependency versions it requires](https://github.com/besu-eth/besu/pull/11671) - 2026-10-20
+* [Pull Request] [Reuse the EVM v2 stack of each call depth per thread](https://github.com/besu-eth/besu/pull/11664) - 2026-10-20
+* [Review] [Review on: Move future BPO forks after Amsterdam](https://github.com/besu-eth/besu/pull/11662#pullrequestreview-5588804099) - 2026-10-20
+* [Issue] [discv5 signature verification and ephemeral ECDH are a large share of allocation and CPU](https://github.com/besu-eth/besu/issues/11670) - 2026-10-20
+* [Issue] [Generate RLPx ephemeral key pairs with native secp256k1](https://github.com/besu-eth/besu/issues/11669) - 2026-10-20
+* [Commit] [EVM v2 MEGA PR (#11524)](https://github.com/besu-eth/besu/commit/90d559a2bde8ba261f07cb9a47dea1ffc93a5edc) - 2026-10-20
+* [Commit] [Check the BAL item budget per transaction without copying the list (#11454)](https://github.com/besu-eth/besu/commit/d5ffc9059c89a08e0025358aac1e69177e9f9134) - 2026-10-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

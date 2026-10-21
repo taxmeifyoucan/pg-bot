@@ -44,6 +44,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5548013961) - 2026-10-16
 * [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5557835683) - 2026-10-17
 * [Commit] [Increase BAL retention window (#4815)](https://github.com/status-im/nimbus-eth1/commit/2c8eabf13ad9896e870ca5e990e185b920f91125) - 2026-10-20
+* [Review] [Review on: kvt: fix multiGet assert on empty key list](https://github.com/status-im/nimbus-eth1/pull/5022#pullrequestreview-5594187025) - 2026-10-21
+* [Review] [Review on: [hegota-devnet-1] EIP-8298: SETCODEFROM Code Reuse Instruction](https://github.com/status-im/nimbus-eth1/pull/5020#pullrequestreview-5586371995) - 2026-10-20
+* [Commit] [Store valid jumpdest positions instead of invalid (#4998)](https://github.com/status-im/nimbus-eth1/commit/50920787a725e7bde11922044a83ade30f1bda85) - 2026-10-20
 ## Q3 2026
 
 

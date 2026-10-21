@@ -43,6 +43,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714#pullrequestreview-5535664289) - 2026-10-15
 * [Commit] [Keep relay links observed while dropping inactive builders (#17714)](https://github.com/OffchainLabs/prysm/commit/e1fcb06edc150f6744bf7b7be06cbd03269b7a42) - 2026-10-15
 * [Pull Request] [Allow multiple builder bid requests per Gloas proposal](https://github.com/OffchainLabs/prysm/pull/17723) - 2026-10-16
+
+* [Review] [Review on: Return the bid interface from the block body getter (Heze preparation)](https://github.com/OffchainLabs/prysm/pull/17739#pullrequestreview-5584398480) - 2026-10-20
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
+* [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20
 ## Q3 2026
 
 

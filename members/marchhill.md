@@ -203,6 +203,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: feat(eip8198): Quick Slots - 5/48 base fee change and fork-aware slot schedule](https://github.com/NethermindEth/nethermind/pull/14606#pullrequestreview-5572124224) - 2026-10-19
 * [Pull Request] [fix(history): harden BAL retention and delayed sync responses](https://github.com/NethermindEth/nethermind/pull/14915) - 2026-10-19
 * [Commit] [fix: payload preparation, BAL apply and history pruning review follow-ups (#14890)](https://github.com/NethermindEth/nethermind/commit/0b7b7465cab98ae66bfe8a52a8a89a5ad4b036fb) - 2026-10-19
+* [Review] [Review on: feat(sync): track executed BAL catch-up blocks](https://github.com/NethermindEth/nethermind/pull/14899#pullrequestreview-5584029282) - 2026-10-20
+* [Pull Request] [test: check geth genesis supports every fork the Parity chainspec does](https://github.com/NethermindEth/nethermind/pull/14970) - 2026-10-20
+* [Review] [Review on: test: check geth genesis supports every fork the Parity chainspec does](https://github.com/NethermindEth/nethermind/pull/14970#pullrequestreview-5586789116) - 2026-10-20
+* [Review] [Review on: fix(history): harden BAL retention and delayed sync responses](https://github.com/NethermindEth/nethermind/pull/14915#pullrequestreview-5584140813) - 2026-10-20
+* [Review] [Review on: perf(flat): keep the in-memory tail across a clean restart instead of re-executing it](https://github.com/NethermindEth/nethermind/pull/14900#pullrequestreview-5584064963) - 2026-10-20
+* [Review] [Review on: feat(evm): EIP-4758 deactivate SELFDESTRUCT (SENDALL)](https://github.com/NethermindEth/nethermind/pull/12231#pullrequestreview-5586774969) - 2026-10-20
+* [Review] [Review on: test(merge): stop the invalid-hash sender-recovery test racing its cancellation](https://github.com/NethermindEth/nethermind/pull/14983#pullrequestreview-5587016778) - 2026-10-20
+* [Commit] [fix(sync): disable finalized BAL catch-up by default (#14976)](https://github.com/NethermindEth/nethermind/commit/97a483cf1786a387e7760066cbdd9b522d54511e) - 2026-10-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -224,6 +232,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8141: Check signer key authority](https://github.com/ethereum/EIPs/pull/12505) - 2026-10-14
 * [Pull Request] [Update EIP-8288: move benchmark protocols to an asset](https://github.com/ethereum/EIPs/pull/12524) - 2026-10-15
 * [Pull Request] [Update EIP-8288: reserve the zero data_hash for the signature hash](https://github.com/ethereum/EIPs/pull/12518) - 2026-10-15
+* [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5587550301) - 2026-10-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

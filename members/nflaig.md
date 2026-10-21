@@ -309,6 +309,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: drop finalized block hash from payload id cache key](https://github.com/ChainSafe/lodestar/pull/10432#pullrequestreview-5569373470) - 2026-10-19
 * [Issue] [scale heze rewards and churn relative to SLOT_DURATION_MS](https://github.com/ChainSafe/lodestar/issues/10435) - 2026-10-19
 * [Commit] [test: make promise duration checks deterministic (#10434)](https://github.com/ChainSafe/lodestar/commit/e91a5043ed77fe82d1f9e3bde55d25d021fca0be) - 2026-10-19
+* [Review] [Review on: feat(builder): minimal wiring, bidding and revealing](https://github.com/ChainSafe/lodestar/pull/10379#pullrequestreview-5590377753) - 2026-10-20
+* [Pull Request] [fix: skip legacy column scans during startup](https://github.com/ChainSafe/lodestar/pull/10449) - 2026-10-20
+* [Review] [Review on: refactor: re-export builder bid cutoff from beacon-node](https://github.com/ChainSafe/lodestar/pull/10448#pullrequestreview-5591986323) - 2026-10-20
+* [Review] [Review on: fix: avoid legacy column scans during archiving](https://github.com/ChainSafe/lodestar/pull/10447#pullrequestreview-5592056913) - 2026-10-20
+* [Review] [Review on: fix: harden validator client shutdown](https://github.com/ChainSafe/lodestar/pull/10441#pullrequestreview-5582828403) - 2026-10-20
+* [Review] [Review on: feat: enable native gloas transitions](https://github.com/ChainSafe/lodestar/pull/10345#pullrequestreview-5586751658) - 2026-10-20
+* [Review] [Review on: refactor: use gossip validation for execution payload bids published via api](https://github.com/ChainSafe/lodestar/pull/10444#pullrequestreview-5585933868) - 2026-10-20
+* [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5583739649) - 2026-10-20
+* [Issue] [Unknown payload sync retries never-revealed payload roots until finalization](https://github.com/ChainSafe/lodestar/issues/10445) - 2026-10-20
+* [Commit] [fix: check the parent payload before importing a repeat proposal in gloas (#10424)](https://github.com/ChainSafe/lodestar/commit/312812503e5c9fe95ccb661193b55658f85a510b) - 2026-10-20
+* [Commit] [feat: enable native gloas transitions (#10345)](https://github.com/ChainSafe/lodestar/commit/fe53cec080a37fa21c4b2e5e916c0eb9fc1447d8) - 2026-10-20
+* [Commit] [feat: add flag to disable validation of published execution payload bids (#10429)](https://github.com/ChainSafe/lodestar/commit/808c9f25d961c419afeffbc82baec42701edf6a8) - 2026-10-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -371,6 +383,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: support serialized transaction lists](https://github.com/ChainSafe/lodestar-z/pull/796) - 2026-10-19
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/793#pullrequestreview-5569282993) - 2026-10-19
 * [Review] [Review on: feat: add heze timing configuration](https://github.com/ChainSafe/lodestar-z/pull/794#pullrequestreview-5569144503) - 2026-10-19
+* [Review] [Review on: perf: select shuffle sha256 at runtime](https://github.com/ChainSafe/lodestar-z/pull/774#pullrequestreview-5590813161) - 2026-10-20
+* [Review] [Review on: chore: release 2.1.0](https://github.com/ChainSafe/lodestar-z/pull/757#pullrequestreview-5586168136) - 2026-10-20
+* [Pull Request] [perf: store shuffling indices as u32](https://github.com/ChainSafe/lodestar-z/pull/797) - 2026-10-20
+* [Review] [Review on: fix: support serialized transaction lists](https://github.com/ChainSafe/lodestar-z/pull/796#pullrequestreview-5582690561) - 2026-10-20
+* [Issue] [Apply Gloas progressive SSZ limits](https://github.com/ChainSafe/lodestar-z/issues/798) - 2026-10-20
+* [Commit] [perf: store shuffling indices as u32 (#797)](https://github.com/ChainSafe/lodestar-z/commit/c17d1328587505473d302918e0862616382d75a0) - 2026-10-20
+* [Commit] [feat: add gloas state transition (#764)](https://github.com/ChainSafe/lodestar-z/commit/f7493b715041b5493ffdfaa8cc168de077b2e20c) - 2026-10-20
+* [Commit] [fix: support serialized transaction lists (#796)](https://github.com/ChainSafe/lodestar-z/commit/24c5630788944b8c2f4a229bbc404375b5b8a54f) - 2026-10-20
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026

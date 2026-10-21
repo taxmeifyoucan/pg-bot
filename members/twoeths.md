@@ -77,6 +77,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: ignore known payload envelopes before deserializing them](https://github.com/ChainSafe/lodestar/pull/10419#pullrequestreview-5566581284) - 2026-10-19
 * [Review] [Review on: fix: model Transactions as SerializedList types](https://github.com/ChainSafe/lodestar/pull/10399#pullrequestreview-5566587347) - 2026-10-19
 * [Commit] [fix: model Transactions as SerializedList types (#10399)](https://github.com/ChainSafe/lodestar/commit/bdcac30ee0b035ece13cac7e44437cbe407be6c4) - 2026-10-19
+* [Pull Request] [refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442) - 2026-10-20
+* [Pull Request] [fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443) - 2026-10-20
+* [Review] [Review on: fix: apply forkchoiceUpdated verdicts to fork choice](https://github.com/ChainSafe/lodestar/pull/10436#pullrequestreview-5580767529) - 2026-10-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

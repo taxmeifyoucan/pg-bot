@@ -57,6 +57,32 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(cannon): serve finalized blocks from CL era files instead of block-archiver bundles (#911)](https://github.com/ethpandaops/xatu/commit/a88030343e1700114a0b306cf8ba92c79c8585bb) - 2026-10-19
 * [Commit] [fix(cannon): honour backfill.toEpoch for phase0 derivers (#910)](https://github.com/ethpandaops/xatu/commit/6c770622998005a7c47aa5cab1b364796592274c) - 2026-10-19
 * [Commit] [feat(cannon): read block-archiver bundle format v2 and serve gloas envelopes from bundles (#909)](https://github.com/ethpandaops/xatu/commit/741f007a2844c39650b542f21208485e21921959) - 2026-10-19
+* [Pull Request] [fix(processor): export the last partial batch on shutdown](https://github.com/ethpandaops/xatu/pull/924) - 2026-10-20
+* [Review] [Review on: fix(processor): export the last partial batch on shutdown](https://github.com/ethpandaops/xatu/pull/924#pullrequestreview-5584329340) - 2026-10-20
+* [Pull Request] [fix(sentry): retry execution watcher starts, stop them cleanly, and handle SIGTERM](https://github.com/ethpandaops/xatu/pull/922) - 2026-10-20
+* [Review] [Review on: fix(sentry): retry execution watcher starts, stop them cleanly, and handle SIGTERM](https://github.com/ethpandaops/xatu/pull/922#pullrequestreview-5584332795) - 2026-10-20
+* [Pull Request] [fix(clickhouse): key structlog synthetic rows apart from their CALL row](https://github.com/ethpandaops/xatu/pull/927) - 2026-10-20
+* [Pull Request] [perf(clmimicry): memoize sharder topic config lookups](https://github.com/ethpandaops/xatu/pull/928) - 2026-10-20
+* [Pull Request] [fix(clickhouse): renumber the four_byte_counts rebuild to migration 022](https://github.com/ethpandaops/xatu/pull/926) - 2026-10-20
+* [Pull Request] [fix(clickhouse): rebuild four_byte_counts keyed on signature and size](https://github.com/ethpandaops/xatu/pull/925) - 2026-10-20
+* [Pull Request] [feat(cannon): attestation payload votes, EIP-7702 authorizations, execution block header parity](https://github.com/ethpandaops/xatu/pull/918) - 2026-10-20
+* [Pull Request] [feat(clickhouse): document change-point structlog return_data](https://github.com/ethpandaops/xatu/pull/923) - 2026-10-20
+* [Pull Request] [fix(config): decode every plugin config defaults-first so explicit values hold](https://github.com/ethpandaops/xatu/pull/921) - 2026-10-20
+* [Pull Request] [fix(sentry): apply sub-config defaults that were silently dropped](https://github.com/ethpandaops/xatu/pull/920) - 2026-10-20
+* [Pull Request] [fix(cannon): build cryo with a uint256-tolerant EIP-7702 authorization chain_id](https://github.com/ethpandaops/xatu/pull/919) - 2026-10-20
+* [Commit] [fix(processor): export the last partial batch on shutdown (#924)](https://github.com/ethpandaops/xatu/commit/719b24d7c94916dae3d984314674be3cac2abdd2) - 2026-10-20
+* [Commit] [fix(sentry): retry execution watcher starts, stop them cleanly, and handle SIGTERM (#922)](https://github.com/ethpandaops/xatu/commit/81ddf16ebf2adc0586182a08edcd83674f8008b3) - 2026-10-20
+* [Commit] [fix(clickhouse): key structlog synthetic rows apart from their CALL row (#927)](https://github.com/ethpandaops/xatu/commit/142003cb5608317c5d75bba3f2f7d524771fdca3) - 2026-10-20
+* [Commit] [perf(clmimicry): memoize sharder topic config lookups (#928)](https://github.com/ethpandaops/xatu/commit/3b0f6d068d6abcbcc898596d2c415cd0536b3bf0) - 2026-10-20
+* [Commit] [fix(clickhouse): renumber the four_byte_counts rebuild to migration 022 (#926)](https://github.com/ethpandaops/xatu/commit/53d83606f7cfb6aaeb17196f6d3993e58cc8bba0) - 2026-10-20
+* [Commit] [fix(clickhouse): rebuild four_byte_counts keyed on signature and size (#925)](https://github.com/ethpandaops/xatu/commit/d464598f71939787e098e529e7a73239d3a8e157) - 2026-10-20
+* [Commit] [feat(cannon): attestation payload votes, EIP-7702 authorizations, execution block header parity (#918)](https://github.com/ethpandaops/xatu/commit/b25269aa51b49c9104052998b2827f88fe2f423f) - 2026-10-20
+* [Commit] [feat(clickhouse): document change-point structlog return_data (#923)](https://github.com/ethpandaops/xatu/commit/2a53db1490c48ce15038afa99fffd66247feffb3) - 2026-10-20
+* [Commit] [fix(config): decode every plugin config defaults-first so explicit values hold (#921)](https://github.com/ethpandaops/xatu/commit/e0a9e9145ec38927be4c96d5e611bf5a096d92d6) - 2026-10-20
+* [Commit] [fix(sentry): apply sub-config defaults that were silently dropped (#920)](https://github.com/ethpandaops/xatu/commit/002a057281a8606cc5980b65d95ae5348c10b04b) - 2026-10-20
+* [Commit] [fix(cannon): Heze blocks have no deposits and price gas from the envelope (#917)](https://github.com/ethpandaops/xatu/commit/40b44596edccf503d724f87884b18dfef71dd565) - 2026-10-20
+* [Commit] [fix(cannon): build cryo with a uint256-tolerant EIP-7702 authorization chain_id (#919)](https://github.com/ethpandaops/xatu/commit/b2743fcfbd2080b8d9d73c0e8ed536765af477ff) - 2026-10-20
+* [Commit] [fix(cannon): floor four_byte_counts EL backfill at block 1 (#916)](https://github.com/ethpandaops/xatu/commit/18934e5e219ff86c376d4311a69b2e062602de4a) - 2026-10-20
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -85,6 +111,20 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(ethereum): proposer clients page from block graffiti](https://github.com/ethpandaops/lab/pull/449) - 2026-10-19
 * [Commit] [feat(slots): proposer client card on the slot page (#450)](https://github.com/ethpandaops/lab/commit/35feb67330bfc4515a5328258b5b263f00fb26c6) - 2026-10-20
 * [Commit] [feat(ethereum): proposer clients page from block graffiti (#449)](https://github.com/ethpandaops/lab/commit/ebe05248a937c069ecaddca5dc3e98db6fffb4d9) - 2026-10-19
+* [Pull Request] [fix: correct four display values on entity, fork, validator and probe pages](https://github.com/ethpandaops/lab/pull/457) - 2026-10-20
+* [Pull Request] [refactor(copy): add the clean-copy skill and apply it across every page](https://github.com/ethpandaops/lab/pull/456) - 2026-10-20
+* [Pull Request] [feat(network-select): group networks into sections with devnet family subheaders](https://github.com/ethpandaops/lab/pull/455) - 2026-10-20
+* [Pull Request] [feat(data-availability): partial columns page for gossipsub partial messages](https://github.com/ethpandaops/lab/pull/454) - 2026-10-20
+* [Pull Request] [fix(clients): fit the Lido entity group label in the filter](https://github.com/ethpandaops/lab/pull/453) - 2026-10-20
+* [Pull Request] [feat(clients): filter the proposer clients page by entity and client](https://github.com/ethpandaops/lab/pull/452) - 2026-10-20
+* [Pull Request] [feat(slots): proposer clients as fields in the slot information section](https://github.com/ethpandaops/lab/pull/451) - 2026-10-20
+* [Commit] [fix: correct four display values on entity, fork, validator and probe pages (#457)](https://github.com/ethpandaops/lab/commit/907779b0b1fa5723c59981e39a9290f7ee860d9e) - 2026-10-20
+* [Commit] [refactor(copy): add the clean-copy skill and apply it across every page (#456)](https://github.com/ethpandaops/lab/commit/a2480d04e9cd6236c881302406283638095e42dd) - 2026-10-20
+* [Commit] [feat(network-select): group networks into sections with devnet family subheaders (#455)](https://github.com/ethpandaops/lab/commit/408923baf64e80680b0735bf0f090b66cc534a36) - 2026-10-20
+* [Commit] [feat(data-availability): partial columns page for gossipsub partial messages (#454)](https://github.com/ethpandaops/lab/commit/831fe7d86301528a76dcd81ce0a545304e825e38) - 2026-10-20
+* [Commit] [fix(clients): fit the Lido entity group label in the filter (#453)](https://github.com/ethpandaops/lab/commit/0d339a183db6090998d023d50c2da971230b390c) - 2026-10-20
+* [Commit] [feat(clients): filter the proposer clients page by entity and client (#452)](https://github.com/ethpandaops/lab/commit/a9ea0c2164d1585b7d6563bfaec00b454dd097ba) - 2026-10-20
+* [Commit] [feat(slots): proposer clients as fields in the slot information section (#451)](https://github.com/ethpandaops/lab/commit/713caf5ba02407b4021baa2bc52e61a154b50d6a) - 2026-10-20
 ## Q3 2026
 
 

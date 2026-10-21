@@ -45,6 +45,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Added bundles for PersistentProgressiveList](https://github.com/grandinetech/grandine/commit/e60be4773c0c87648ad399df58a8fdafa38b1cdd) - 2026-10-16
 * [Pull Request] [Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/pull/992) - 2026-10-19
 * [Commit] [Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/commit/1262751bc87a953e6506285ef5d3334982f24eb2) - 2026-10-19
+* [Pull Request] [Bump C# plugin dependencies](https://github.com/grandinetech/grandine/pull/996) - 2026-10-20
+* [Commit] [Bump C# plugin dependencies](https://github.com/grandinetech/grandine/commit/0ce8ca45ff8c2abae3916867a95bd90dbfb5ba4a) - 2026-10-20
 ## Q3 2026
 
 

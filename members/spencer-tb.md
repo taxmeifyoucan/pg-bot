@@ -83,6 +83,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-specs, test-execution, tests): add a mempool_test suite for the EIP-8141 public mempool rules](https://github.com/ethereum/execution-specs/pull/3856) - 2026-10-17
 * [Pull Request] [feat(ci): auto-label pull requests and fix their titles](https://github.com/ethereum/execution-specs/pull/3855) - 2026-10-17
 * [Pull Request] [feat(test-execution, test-specs, test-rpc, test-types): run transaction, blob and mempool tests through one mempool admission format](https://github.com/ethereum/execution-specs/pull/3865) - 2026-10-19
+* [Review] [Review on: feat(test-consume): start a fresh ethrex enginex client after a deep chain](https://github.com/ethereum/execution-specs/pull/3872#pullrequestreview-5586743860) - 2026-10-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -118,9 +119,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5570601532) - 2026-10-19
 * [Review] [Review on: clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621#pullrequestreview-5568415058) - 2026-10-19
 
+* [Review] [Review on: hive: select --sim simulators from the inventory with --config](https://github.com/ethereum/hive/pull/1624#pullrequestreview-5587105280) - 2026-10-20
+* [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5585060708) - 2026-10-20
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020) - 2026-10-19
 * [Pull Request] [chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021) - 2026-10-19
+* [Commit] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs (#28020)](https://github.com/paradigmxyz/reth/commit/fd936f92556167b25dce5899c2d52384c6c60d0f) - 2026-10-20
 ## Q3 2026
 
 

@@ -45,6 +45,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7928: Fix block size figure and polish wording](https://github.com/ethereum/EIPs/pull/12545) - 2026-10-19
 * [Commit] [Update EIP-8250: exempt single-use sequence from data pricing](https://github.com/ethereum/EIPs/commit/1a086d5c67cdcf3a134cc571eb4bb4b9bed6fb02) - 2026-10-19
 * [Commit] [Update EIP-7928: Fix block size figure and polish wording](https://github.com/ethereum/EIPs/commit/41a838decba33325d01bd99b1cd6072c51214fac) - 2026-10-19
+* [Pull Request] [Add EIP: eth/73 - Recursive STARK Exchange](https://github.com/ethereum/EIPs/pull/12551) - 2026-10-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 ## Q3 2026

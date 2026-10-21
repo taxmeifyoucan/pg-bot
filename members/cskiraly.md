@@ -30,6 +30,9 @@ Team: Codex DAS
 * [Pull Request] [internal/build: ask git for the commit, with fallback to reading .git](https://github.com/ethereum/go-ethereum/pull/35965) - 2026-10-18
 * [Pull Request] [core/txpool/legacypool: count pending transactions as the lists change](https://github.com/ethereum/go-ethereum/pull/35966) - 2026-10-18
 * [Review] [Review on: beacon/light/request: emit soft timeout event under lock](https://github.com/ethereum/go-ethereum/pull/35957#pullrequestreview-5562094858) - 2026-10-18
+* [Pull Request] [core/types: fix effective tip comparison below the base fee](https://github.com/ethereum/go-ethereum/pull/35988) - 2026-10-21
+* [Commit] [core/types: fix effective tip comparison below the base fee (#35988)](https://github.com/ethereum/go-ethereum/commit/780e72b134b2528c89db2bf63a9b6fe452dd4dc9) - 2026-10-21
+* [Commit] [core/filtermaps: start the log index at a history cutoff past the last checkpoint (#35875)](https://github.com/ethereum/go-ethereum/commit/f9211ed30edbb7ed012236527cb86799c0911e19) - 2026-10-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08

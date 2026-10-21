@@ -55,11 +55,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5502028830) - 2026-10-13
 * [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5531610118) - 2026-10-15
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5748#pullrequestreview-5571404719) - 2026-10-19
+* [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5586625420) - 2026-10-20
+* [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5585315172) - 2026-10-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Recurring periods of late block imports](https://github.com/Consensys-Incorporated/teku/issues/11465) - 2026-10-09
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7773: Correct Glamsterdam activation tables in EIP-7773 and EIP-8081](https://github.com/ethereum/EIPs/pull/12557#pullrequestreview-5592165688) - 2026-10-20
 ## Q3 2026
 
 

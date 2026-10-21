@@ -333,6 +333,15 @@ Team: Reth
 * [Commit] [fix(engine): report payload job start errors (#28015)](https://github.com/paradigmxyz/reth/commit/186af6d36aa49b2c40e96e4e11177816f842cb04) - 2026-10-19
 * [Commit] [fix(era): share strict Snappy RLP decoding (#27997)](https://github.com/paradigmxyz/reth/commit/3c9260d66382398b5d50d594a0e26dcceaffcaa9) - 2026-10-19
 * [Commit] [perf(era): share fetched file list metadata (#28004)](https://github.com/paradigmxyz/reth/commit/e633bdcb1ab5f1172517622a125b9bb2f3d212fb) - 2026-10-19
+* [Review] [Review on: fix(trie): complete range changesets](https://github.com/paradigmxyz/reth/pull/27615#pullrequestreview-5583850722) - 2026-10-20
+* [Pull Request] [perf(rpc): overlap eth_getLogs range fetching with log matching](https://github.com/paradigmxyz/reth/pull/28041) - 2026-10-20
+* [Review] [Review on: chore: release 2.8.0](https://github.com/paradigmxyz/reth/pull/28039#pullrequestreview-5583619060) - 2026-10-20
+* [Pull Request] [perf(rpc): avoid loading full blocks for tx-by-index, counts and headers](https://github.com/paradigmxyz/reth/pull/28038) - 2026-10-20
+* [Pull Request] [perf(rpc): test the header bloom before loading receipts for blockHash getLogs](https://github.com/paradigmxyz/reth/pull/28040) - 2026-10-20
+* [Pull Request] [chore(deps): check Alloy main compatibility](https://github.com/paradigmxyz/reth/pull/28035) - 2026-10-20
+* [Pull Request] [chore(deps): bump revm-inspectors to 0.44.3](https://github.com/paradigmxyz/reth/pull/28034) - 2026-10-20
+* [Review] [Review on: chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020#pullrequestreview-5581527951) - 2026-10-20
+* [Commit] [chore(deps): bump revm-inspectors to 0.44.3 (#28034)](https://github.com/paradigmxyz/reth/commit/f3fd194ce2c68d57b672212c4346b59734ea3692) - 2026-10-20
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

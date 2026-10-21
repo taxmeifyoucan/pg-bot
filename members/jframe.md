@@ -27,6 +27,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Reconcile 26.10.0 into main (clean merge from post-revert main)](https://github.com/besu-eth/besu/pull/11642#pullrequestreview-5565546815) - 2026-10-18
 * [Review] [Review on: SNAP2: Add the request scheduler](https://github.com/besu-eth/besu/pull/11621#pullrequestreview-5566518384) - 2026-10-19
 * [Review] [Review on: Pass the block hash to the world state check of eth_getProof](https://github.com/besu-eth/besu/pull/11619#pullrequestreview-5567227539) - 2026-10-19
+* [Review] [Review on: Close storage instances in KeyValueStorageProvider.close()](https://github.com/besu-eth/besu/pull/11391#pullrequestreview-5592996239) - 2026-10-20
+* [Review] [Review on: SNAP2: Add the final trie build](https://github.com/besu-eth/besu/pull/11661#pullrequestreview-5593907965) - 2026-10-21
+* [Review] [Review on: SNAP2: Add the header fetcher](https://github.com/besu-eth/besu/pull/11660#pullrequestreview-5593737328) - 2026-10-21
+* [Review] [Review on: Bonsai: cache committed trie nodes, stop re-hashing preloaded ones](https://github.com/besu-eth/besu/pull/11382#pullrequestreview-5580848209) - 2026-10-20
 ## Q3 2026
 
 

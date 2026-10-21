@@ -23,6 +23,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): 8141 approval edge cases](https://github.com/ethereum/execution-specs/pull/3801#pullrequestreview-5505860467) - 2026-10-13
 * [Review] [Review on: feat(test-types,tests): test blob-carrying EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3824#pullrequestreview-5532319536) - 2026-10-15
 * [Review] [Review on: feat(tests): test blob-carrying EIP-8250 keyed frame transactions in their network wrapper](https://github.com/ethereum/execution-specs/pull/3825#pullrequestreview-5546085404) - 2026-10-16
+* [Review] [Review on: refactor(tests): build EIP-8141 frame transaction from helper](https://github.com/ethereum/execution-specs/pull/3799#pullrequestreview-5583103675) - 2026-10-20
+* [Review] [Review on: feat(test-specs): benchmark verification module](https://github.com/ethereum/execution-specs/pull/2640#pullrequestreview-5582974385) - 2026-10-20
 ## Q3 2026
 
 

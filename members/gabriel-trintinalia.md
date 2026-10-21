@@ -45,6 +45,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [fix(core): record 7702 authorities without state gas (#11606)](https://github.com/besu-eth/besu/commit/cae991006f46a196d33f438a0c7d8963db3f1851) - 2026-10-16
 * [Pull Request] [chore: bump  witness tests to v21.0.6](https://github.com/besu-eth/besu/pull/11651) - 2026-10-19
 * [Commit] [chore: bump  witness tests to v21.0.6 (#11651)](https://github.com/besu-eth/besu/commit/078744cc0cffa556bdd59b07f6ef4a880368ce88) - 2026-10-20
+* [Pull Request] [feat: transaction-level code access events](https://github.com/besu-eth/besu/pull/11676) - 2026-10-21
+* [Pull Request] [feat(evm): code access tracer and opcode events](https://github.com/besu-eth/besu/pull/11675) - 2026-10-21
+* [Commit] [feat(rpc): support debug_executionWitness for pre-Amsterdam blocks (#11605)](https://github.com/besu-eth/besu/commit/84552a9af7e1d2c78c6f1b1b2ff9d0097f03ea3d) - 2026-10-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08

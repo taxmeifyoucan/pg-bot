@@ -55,6 +55,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Keep relay links observed while dropping inactive builders](https://github.com/OffchainLabs/prysm/pull/17714#pullrequestreview-5536545343) - 2026-10-15
 * [Review] [Review on: Optimise Gloas fetches](https://github.com/OffchainLabs/prysm/pull/17712#pullrequestreview-5534049622) - 2026-10-15
 * [Review] [Review on: make sure gas-limit flag overwrote everything](https://github.com/OffchainLabs/prysm/pull/17725#pullrequestreview-5555969159) - 2026-10-17
+* [Review] [Review on: Return the bid interface from the block body getter (Heze preparation)](https://github.com/OffchainLabs/prysm/pull/17739#pullrequestreview-5592093282) - 2026-10-20
+* [Review] [Review on: sync contribution bug fix](https://github.com/OffchainLabs/prysm/pull/17745#pullrequestreview-5590241226) - 2026-10-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

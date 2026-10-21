@@ -72,6 +72,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Skip unslashable proposer slashings](https://github.com/sigp/lighthouse/commit/6e36491a9bcf5b1f01aa82be0db9962893cb9dd3) - 2026-10-19
 * [Commit] [Processor limits](https://github.com/sigp/lighthouse/commit/e31b5d0ca196641a0b0c70a0c074037980d63982) - 2026-10-19
 * [Commit] [Limit requests at request time instead of response time](https://github.com/sigp/lighthouse/commit/b7a6e64066d3a04ac5974c2236d30f5a33b61d30) - 2026-10-19
+* [Review] [Review on: Fix CI audit failure](https://github.com/sigp/lighthouse/pull/10407#pullrequestreview-5593954339) - 2026-10-21
+* [Review] [Review on: Report pre-Gloas head_v2 SSE events as full](https://github.com/sigp/lighthouse/pull/10402#pullrequestreview-5592628329) - 2026-10-20
+* [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-5593907772) - 2026-10-21
+* [Review] [Review on: Optimize `libp2p` and `discv5` logging](https://github.com/sigp/lighthouse/pull/9356#pullrequestreview-5581607346) - 2026-10-20
+* [Review] [Review on: Set the proposer boost only after the block is added to fork choice](https://github.com/sigp/lighthouse/pull/10366#pullrequestreview-5580361037) - 2026-10-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

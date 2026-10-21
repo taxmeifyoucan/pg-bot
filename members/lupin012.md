@@ -118,6 +118,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: reject a difficulty override after the merge in eth_simulateV1 (#25017)](https://github.com/erigontech/erigon/commit/36eaa3ccb018eab652c046545b1f58d49fa0b5d7) - 2026-10-20
 * [Commit] [rpc/jsonrpc: report blob transactions in txpool_content, contentFrom and inspect (#24958)](https://github.com/erigontech/erigon/commit/87657caa5926d88c540a1189921d7ae08cf9f35e) - 2026-10-19
 * [Commit] [rpc: require a JSON content type on GET calls (#24969)](https://github.com/erigontech/erigon/commit/0732e36f5ba2bf41443841e11431af09392ccd3c) - 2026-10-19
+* [Pull Request] [.github/workflows: set rpc-compat max-allowed-failures back to 0](https://github.com/erigontech/erigon/pull/25133) - 2026-10-20
+* [Pull Request] [cmd/rpctest: also write the bench requests as a JSONL pattern](https://github.com/erigontech/erigon/pull/25105) - 2026-10-20
+* [Review] [Review on: cmd/rpctest: also write the bench requests as a JSONL pattern](https://github.com/erigontech/erigon/pull/25105#pullrequestreview-5585149813) - 2026-10-20
+* [Review] [Review on: rpc/jsonrpc: null reward localization, no vmTrace idx, -32001 for unknown trace blocks](https://github.com/erigontech/erigon/pull/25030#pullrequestreview-5585980458) - 2026-10-20
+* [Commit] [execution/types, rpc/jsonrpc: match a one-value eth_getLogs filter without a map lookup (#24991)](https://github.com/erigontech/erigon/commit/f09720558edd6c7b4f427a220c7abbd73c33e688) - 2026-10-20
+* [Commit] [.github/workflows: set rpc-compat max-allowed-failures back to 0 (#25133)](https://github.com/erigontech/erigon/commit/7d4ffbca5918d0f8968f7fed3fca69a38a38f8b9) - 2026-10-20
+* [Commit] [cmd/rpctest: also write the bench requests as a JSONL pattern (#25105)](https://github.com/erigontech/erigon/commit/b0aabf5184df3ffaed3fe52b16b9a93470afc322) - 2026-10-20
+* [Commit] [QA: update rpc test version (#24994)](https://github.com/erigontech/erigon/commit/a4d366e8ef8f6612781d108d3e6a4b050633f02b) - 2026-10-20
+* [Commit] [rpc/jsonrpc: reject unknown override keys in eth_simulateV1 (#25018)](https://github.com/erigontech/erigon/commit/63fdfc0ee5805a1005efb428c1962ff302bda398) - 2026-10-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -153,6 +162,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [eth_simulateV1: expect nonce has max value for a max-nonce sender without validation (#628)](https://github.com/erigontech/rpc-tests/commit/c1011a502114b1f68632e97de8f51e23248bee0e) - 2026-10-19
 * [Commit] [rpc_pattern_gen: read a block range, optionally sampled at random (#627)](https://github.com/erigontech/rpc-tests/commit/d244410fa96f2972d630e2e019dc7deb1b389c17) - 2026-10-19
 * [Commit] [rpc_pattern_gen: build the or-list values of a block once (#626)](https://github.com/erigontech/rpc-tests/commit/4c4fb386d941502d804e9ad2f4b277df741c1713) - 2026-10-19
+* [Review] [Review on: test: drop vmTrace idx and null reward transaction fields in trace fixtures](https://github.com/erigontech/rpc-tests/pull/631#pullrequestreview-5585833154) - 2026-10-20
+* [Pull Request] [rpc_pattern_convert: convert Vegeta patterns to JSONL](https://github.com/erigontech/rpc-tests/pull/634) - 2026-10-20
+* [Pull Request] [rpc_pattern_gen, rpc_perf: write and replay JSONL patterns](https://github.com/erigontech/rpc-tests/pull/633) - 2026-10-20
+* [Commit] [rpc_pattern_gen: --per-block takes N random txs or logs of each block (#632)](https://github.com/erigontech/rpc-tests/commit/fb1cf8e52bf8f4f99e05e594b819f775d76403c3) - 2026-10-20
+* [Commit] [eth_simulateV1: drop override keys that the spec does not define (#630)](https://github.com/erigontech/rpc-tests/commit/d576fbbacad5fbeebf98dfa1d96827e0e0841da1) - 2026-10-20
 ## Q3 2026
 
 

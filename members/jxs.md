@@ -22,6 +22,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: Convert `beacon_node` crate tests to Spec](https://github.com/sigp/lighthouse/pull/10291#pullrequestreview-5530389151) - 2026-10-15
 
 * [Pull Request] [enable dial9 support](https://github.com/sigp/lighthouse/pull/10391) - 2026-10-19
+* [Review] [Review on: Flesh out CODEOWNERS a bit more](https://github.com/sigp/lighthouse/pull/10394#pullrequestreview-5588023858) - 2026-10-20
+* [Pull Request] [Remove `AppRequestId` in favor of `Option<SyncRequestId>`](https://github.com/sigp/lighthouse/pull/10398) - 2026-10-20
+* [Review] [Review on: Remove `AppRequestId` in favor of `Option<SyncRequestId>`](https://github.com/sigp/lighthouse/pull/10398#pullrequestreview-5589194943) - 2026-10-20
 [sigp/enr](https://github.com/sigp/enr)
 * [Review] [Review on: Replace Decodable impl with Enr::decode returning enr::Error](https://github.com/sigp/enr/pull/93#pullrequestreview-5557791526) - 2026-10-17
 ## Q3 2026

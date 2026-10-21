@@ -30,6 +30,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Send payload attestations when the payload is available](https://github.com/Consensys-Incorporated/teku/pull/11509#pullrequestreview-5557931394) - 2026-10-17
 * [Review] [Review on: Impose size limit on seenCache in LibP2PGossipNetworkBuilder](https://github.com/Consensys-Incorporated/teku/pull/11445#pullrequestreview-5558657954) - 2026-10-17
 * [Review] [Review on: Only pay Gloas fee recipients that came from signed proposer preferences](https://github.com/Consensys-Incorporated/teku/pull/11535#pullrequestreview-5576729774) - 2026-10-19
+* [Review] [Review on: Only pay Gloas fee recipients that came from signed proposer preferences](https://github.com/Consensys-Incorporated/teku/pull/11535#pullrequestreview-5585779164) - 2026-10-20
+* [Review] [Review on: Keep imported slashing protection from being overwritten by cache](https://github.com/Consensys-Incorporated/teku/pull/11539#pullrequestreview-5588380634) - 2026-10-20
+* [Pull Request] [Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544) - 2026-10-20
+* [Pull Request] [Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548) - 2026-10-20
+* [Issue] [Beacon API endpoints declare `406 Not Acceptable` but never return it](https://github.com/Consensys-Incorporated/teku/issues/11546) - 2026-10-20
 ## Q3 2026
 
 

@@ -400,6 +400,22 @@ Team: Erigon
 * [Commit] [vm: avoid redundant zeroing when copying log data (#25009)](https://github.com/erigontech/erigon/commit/f668ce550185e50ecef6a5fc4ce691220dc6ec01) - 2026-10-19
 * [Commit] [execution/stagedsync: stop validation at the first result that cannot commit (#24976)](https://github.com/erigontech/erigon/commit/8f372531f9a84a878412c60d8ab7c00e004c4ee3) - 2026-10-19
 
+* [Review] [Review on: execution/cache: faster code-cache fill when loading cold contracts](https://github.com/erigontech/erigon/pull/25072#pullrequestreview-5580817706) - 2026-10-20
+* [Pull Request] [execution/engineapi: answer a re-sent validated payload before InsertBlocks](https://github.com/erigontech/erigon/pull/25116) - 2026-10-20
+* [Pull Request] [execution/execmodule: answer a re-sent validated side-fork payload](https://github.com/erigontech/erigon/pull/25109) - 2026-10-20
+* [Review] [Review on: execution/execmodule: answer a re-sent validated side-fork payload](https://github.com/erigontech/erigon/pull/25109#pullrequestreview-5582929008) - 2026-10-20
+* [Pull Request] [rpc/ethapi: decode the call access list with fastjson](https://github.com/erigontech/erigon/pull/25145) - 2026-10-21
+* [Pull Request] [execution/vm: reuse the MULMOD reciprocal for a repeated modulus](https://github.com/erigontech/erigon/pull/25146) - 2026-10-21
+* [Pull Request] [vm: 2.5x faster JUMPDEST analysis of code without PUSH opcodes](https://github.com/erigontech/erigon/pull/25118) - 2026-10-20
+* [Pull Request] [exec: bump evmone_precompiles to v0.25.0 ](https://github.com/erigontech/erigon/pull/25100) - 2026-10-20
+* [Review] [Review on: cmd/rpctest: also write the bench requests as a JSONL pattern](https://github.com/erigontech/erigon/pull/25105#pullrequestreview-5583050007) - 2026-10-20
+* [Review] [Review on: docs: port release/3.8 changelog updates to main](https://github.com/erigontech/erigon/pull/25108#pullrequestreview-5582577546) - 2026-10-20
+* [Commit] [execution/execmodule: answer a re-sent validated side-fork payload (#25109)](https://github.com/erigontech/erigon/commit/2babc1dfb81ac28d92f564f9be5b5548ca40b16a) - 2026-10-21
+* [Commit] [vm: run CALLVALUE on the fast path (#25089)](https://github.com/erigontech/erigon/commit/32b630c929779b54016be1b9048a2866c8b94958) - 2026-10-20
+* [Commit] [exec: bump evmone_precompiles to v0.25.0  (#25100)](https://github.com/erigontech/erigon/commit/d0695be4b68dcc40396db08444bd7952c2db749f) - 2026-10-20
+* [Commit] [execution/state: increase logArena limits (#25103)](https://github.com/erigontech/erigon/commit/99f636297b1916fc2aee88173c7194c83866c061) - 2026-10-20
+* [Commit] [execution/cache: no copy for a state-cache fill that is refused (#25091)](https://github.com/erigontech/erigon/commit/4276fc4e62d89c8c85b36832935d3f831fe9f922) - 2026-10-20
+* [Commit] [vm: run MCOPY on the fast path when memory need not grow (#25071)](https://github.com/erigontech/erigon/commit/a71c3c2dc1ff06cf05590c58d70f4a01add6c638) - 2026-10-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

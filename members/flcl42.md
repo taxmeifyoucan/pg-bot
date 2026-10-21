@@ -37,11 +37,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test(rpc): hand the tracking timeout to the test's own request](https://github.com/NethermindEth/nethermind/pull/14909#pullrequestreview-5579574897) - 2026-10-20
 * [Review] [Review on: fix(jsonrpc): return the accessed list from eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/14910#pullrequestreview-5578471597) - 2026-10-19
 * [Commit] [fix(consensus): reject invalid typed transaction parity unconditionally (#14713)](https://github.com/NethermindEth/nethermind/commit/a6f1357dce4e1ca9bb37e5c92bad50eb4fd8c231) - 2026-10-19
+* [Review] [Review on: fix(debug): validate precompile moves before traceCall fees](https://github.com/NethermindEth/nethermind/pull/14834#pullrequestreview-5583834214) - 2026-10-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core/txpool/blobpool, cmd/devp2p: avoid blaming unrelated cell suppliers](https://github.com/ethereum/go-ethereum/pull/35984) - 2026-10-20
 ## Q3 2026
 
 

@@ -81,6 +81,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Pass the block hash to the world state check of eth_getProof](https://github.com/besu-eth/besu/pull/11619#pullrequestreview-5567320762) - 2026-10-19
 * [Commit] [SNAP2: Add the request scheduler (#11621)](https://github.com/besu-eth/besu/commit/4521758a2a6a0513b98b7f41892c3f153c738f6b) - 2026-10-19
 * [Commit] [Pass the block hash to the world state check of eth_getProof (#11619)](https://github.com/besu-eth/besu/commit/2147ebdebd84b1c6b411e3a13931e4e8851c8199) - 2026-10-19
+* [Pull Request] [SNAP2: Add the final trie build](https://github.com/besu-eth/besu/pull/11661) - 2026-10-20
+* [Pull Request] [SNAP2: Add the header fetcher](https://github.com/besu-eth/besu/pull/11660) - 2026-10-20
+* [Review] [Review on: Read cleared Bonsai storage as zero after commit](https://github.com/besu-eth/besu/pull/11647#pullrequestreview-5585228357) - 2026-10-20
+* [Commit] [SNAP2: Add the block access list fetcher (#11658)](https://github.com/besu-eth/besu/commit/e384273881ddfa8f11aafd9d5ed6639b2a89738f) - 2026-10-20
+* [Commit] [SNAP2: Add the forkchoice head tracker (#11657)](https://github.com/besu-eth/besu/commit/267eb396fdb0135bc20938405f429dda7840c603) - 2026-10-20
+* [Commit] [SNAP2: Add the sync storage and the storage trie updates (#11625)](https://github.com/besu-eth/besu/commit/21b9f15003ab3ce5e433220400aed37ed508de88) - 2026-10-20
+* [Commit] [SNAP2: Add the range proofs and the ascending collapse Patricia trie (#11626)](https://github.com/besu-eth/besu/commit/2361f7f87fbc7443f3161d2600b099bf1d1b8234) - 2026-10-20
 ## Q3 2026
 
 

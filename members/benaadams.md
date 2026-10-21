@@ -254,6 +254,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(history): default the rolling history retention to the chain floor](https://github.com/NethermindEth/nethermind/pull/14622#pullrequestreview-5547778745) - 2026-10-16
 * [Review] [Review on: perf(zkevm): charge fused guest steps in one gas test](https://github.com/NethermindEth/nethermind/pull/14760#pullrequestreview-5546236237) - 2026-10-16
 * [Review] [Review on: perf(rpc): grow eth_getLogs result list on demand instead of renting max capacity](https://github.com/NethermindEth/nethermind/pull/14751#pullrequestreview-5546282071) - 2026-10-16
+* [Review] [Review on: feat(sync): track executed BAL catch-up blocks](https://github.com/NethermindEth/nethermind/pull/14899#pullrequestreview-5589906029) - 2026-10-20
+* [Review] [Review on: fix(xdc): accept a plain JSON number for XDPoS epoch arguments](https://github.com/NethermindEth/nethermind/pull/14666#pullrequestreview-5589901924) - 2026-10-20
+* [Review] [Review on: test: check geth genesis supports every fork the Parity chainspec does](https://github.com/NethermindEth/nethermind/pull/14970#pullrequestreview-5586105489) - 2026-10-20
+* [Review] [Review on: fix(rpc): return Geth's filter not found error for unknown filter ids](https://github.com/NethermindEth/nethermind/pull/14914#pullrequestreview-5589903687) - 2026-10-20
+* [Review] [Review on: fix(history): harden BAL retention and delayed sync responses](https://github.com/NethermindEth/nethermind/pull/14915#pullrequestreview-5586105069) - 2026-10-20
+* [Review] [Review on: fix(focil): correct inclusion-list appendability checks](https://github.com/NethermindEth/nethermind/pull/14916#pullrequestreview-5589905686) - 2026-10-20
+* [Review] [Review on: fix(debug): recover per-transaction JavaScript errors in block traces](https://github.com/NethermindEth/nethermind/pull/14921#pullrequestreview-5589904086) - 2026-10-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

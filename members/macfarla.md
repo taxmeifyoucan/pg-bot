@@ -103,6 +103,18 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [ci: stop caching Docker BuildKit layers in the Actions cache](https://github.com/besu-eth/besu/pull/11649) - 2026-10-19
 * [Review] [Review on: include account-only accesses in eth_createAccessList](https://github.com/besu-eth/besu/pull/11175#pullrequestreview-5568273313) - 2026-10-19
 * [Commit] [CHANGELOG: list the GHSAs in 26.x releases (#11608)](https://github.com/besu-eth/besu/commit/f06bf03e4189bdaebb86c9e72c1a57b542dd39e0) - 2026-10-20
+* [Review] [Review on: Serialize null block fields of pending transactions again](https://github.com/besu-eth/besu/pull/11427#pullrequestreview-5594118827) - 2026-10-21
+* [Review] [Review on: rpc: apply the log filter address cap to eth_getLogs and GraphQL logs](https://github.com/besu-eth/besu/pull/11667#pullrequestreview-5593066777) - 2026-10-20
+* [Review] [Review on: Align eth_getProof storage keys and errors with execution-apis](https://github.com/besu-eth/besu/pull/11668#pullrequestreview-5592756325) - 2026-10-20
+* [Pull Request] [Propagate Bonsai account proof failures instead of returning empty](https://github.com/besu-eth/besu/pull/11673) - 2026-10-20
+* [Pull Request] [build: add Maven Central as a plugin-resolution fallback](https://github.com/besu-eth/besu/pull/11652) - 2026-10-20
+* [Review] [Review on: build: add Maven Central as a plugin-resolution fallback](https://github.com/besu-eth/besu/pull/11652#pullrequestreview-5581447615) - 2026-10-20
+* [Pull Request] [Rotate changelog for 26.10.0](https://github.com/besu-eth/besu/pull/11653) - 2026-10-20
+* [Review] [Review on: Read cleared Bonsai storage as zero after commit](https://github.com/besu-eth/besu/pull/11647#pullrequestreview-5592153630) - 2026-10-20
+* [Commit] [build: add Maven Central as a plugin-resolution fallback (#11652)](https://github.com/besu-eth/besu/commit/bcf50593db5eafe7c6037bf4740fe6fba3e0d54a) - 2026-10-20
+* [Commit] [ci: stop caching Docker BuildKit layers in the Actions cache (#11649)](https://github.com/besu-eth/besu/commit/0bae6f39fdcb902d91a2c578e5c43d1b9237530d) - 2026-10-20
+* [Commit] [Rotate changelog for 26.10.0 (#11653)](https://github.com/besu-eth/besu/commit/67d7148e0901e8d6ffea805adca34ab4cc19e82e) - 2026-10-20
+* [Commit] [ci: stop caching the Trivy vuln DB in the GHA cache (#11650)](https://github.com/besu-eth/besu/commit/4f265d7da6d7db4179d3348a46fd5ff0f09d6a38) - 2026-10-20
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

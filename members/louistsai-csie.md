@@ -46,6 +46,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(test-client-clis): map Reth gas limit errors in heze devnet](https://github.com/ethereum/execution-specs/pull/3833#pullrequestreview-5533878808) - 2026-10-15
 * [Review] [Review on: fix(tests): align intrinsic gas cases with the threshold that binds](https://github.com/ethereum/execution-specs/pull/3837#pullrequestreview-5569270816) - 2026-10-19
 * [Review] [Review on: feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811#pullrequestreview-5569731252) - 2026-10-19
+* [Review] [Review on: fix(tests): align intrinsic gas cases with the threshold that binds](https://github.com/ethereum/execution-specs/pull/3837#pullrequestreview-5581159244) - 2026-10-20
 ## Q3 2026
 
 

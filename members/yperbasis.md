@@ -186,6 +186,30 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [p2p: throttle historical BAL re-execution (#24613)](https://github.com/erigontech/erigon/commit/1948455779fa5f085a93c470ebd7c66117ecacbe) - 2026-10-19
 * [Commit] [p2p/sentry: bound queued bytes per peer for outbound messages (#24977)](https://github.com/erigontech/erigon/commit/6fb929e72791f0270d60e6ffe8b95ab55ad30be0) - 2026-10-19
 * [Commit] [execution/state: consistent existence verdict for a destroyed account (#24921)](https://github.com/erigontech/erigon/commit/b77689af7176321c1bdc0228f63a9ffcc63c2db1) - 2026-10-19
+* [Review] [Review on: execution/cache: faster code-cache fill when loading cold contracts](https://github.com/erigontech/erigon/pull/25072#pullrequestreview-5584057901) - 2026-10-20
+* [Review] [Review on: execution/execmodule: answer a re-sent validated side-fork payload](https://github.com/erigontech/erigon/pull/25109#pullrequestreview-5583782942) - 2026-10-20
+* [Review] [Review on: cl, execution: complete payload preparation coverage and hardening](https://github.com/erigontech/erigon/pull/24939#pullrequestreview-5582843649) - 2026-10-20
+* [Review] [Review on: vm: run CALLVALUE on the fast path](https://github.com/erigontech/erigon/pull/25089#pullrequestreview-5583836100) - 2026-10-20
+* [Review] [Review on: execution/builder, txnprovider: stop waiting for the parent block once a payload is collected](https://github.com/erigontech/erigon/pull/25082#pullrequestreview-5584798525) - 2026-10-20
+* [Review] [Review on: exec: bump evmone_precompiles to v0.25.0 ](https://github.com/erigontech/erigon/pull/25100#pullrequestreview-5582964518) - 2026-10-20
+* [Review] [Review on: cl/phase1/network/registry, cl/phase1/network/services: relay the proposer preferences lookahead window without amplifying state loads](https://github.com/erigontech/erigon/pull/24776#pullrequestreview-5584303925) - 2026-10-20
+* [Pull Request] [docs: port release/3.8 changelog updates to main](https://github.com/erigontech/erigon/pull/25108) - 2026-10-20
+* [Review] [Review on: [r3.8] cl/beacon/handler: report sync committee messages from validators outside the committee](https://github.com/erigontech/erigon/pull/25131#pullrequestreview-5587602904) - 2026-10-20
+* [Review] [Review on: Makefile: pass -Wno-unknown-warning-option to cgo only for clang](https://github.com/erigontech/erigon/pull/25127#pullrequestreview-5587524965) - 2026-10-20
+* [Review] [Review on: [r3.8] cl/beacon/handler: derive sync committee subscription subnets from the requested indices](https://github.com/erigontech/erigon/pull/25130#pullrequestreview-5587700162) - 2026-10-20
+* [Review] [Review on: [r3.8] docs(site): add 3.7 to 3.8 upgrade notes and fix the upgrading page](https://github.com/erigontech/erigon/pull/25125#pullrequestreview-5587107495) - 2026-10-20
+* [Review] [Review on: execution/state: preserve EIP-8246 balance reads after selfdestruct](https://github.com/erigontech/erigon/pull/24096#pullrequestreview-5587164352) - 2026-10-20
+* [Issue] [ci: make the Lighthouse Glamsterdam storage-refund workload execute successfully](https://github.com/erigontech/erigon/issues/25142) - 2026-10-20
+* [Issue] [cl: update the execution head after accepting a Gloas payload envelope](https://github.com/erigontech/erigon/issues/25141) - 2026-10-20
+* [Issue] [EIP-8246: account-existence validation rejects a preserved balance from an earlier transaction](https://github.com/erigontech/erigon/issues/25132) - 2026-10-20
+* [Issue] [Reach bronze (third place) in ethPandaOps execution timings](https://github.com/erigontech/erigon/issues/25129) - 2026-10-20
+* [Commit] [db/state, execution/commitment: don't cache branches read through a view older than the last commit (#25049)](https://github.com/erigontech/erigon/commit/c2141ae2e0fa44947eb53976f5a1748d99485638) - 2026-10-20
+* [Commit] [docs: port release/3.8 changelog updates to main (#25108)](https://github.com/erigontech/erigon/commit/1c75c1dd8f8c8c185d789b7c7a7312e49bc741a6) - 2026-10-20
+* [Commit] [cl/sentinel: check cancellation before returning responses (#25110)](https://github.com/erigontech/erigon/commit/abf8f0b2ddc4cef5949c55a0c0ae0081be11a99c) - 2026-10-20
+* [Commit] [p2p/netutil, p2p/discover: count endpoint statements per network and expire them in order (#24975)](https://github.com/erigontech/erigon/commit/dbf08dc7d38ab2aaa3f64eaabb1052db28251005) - 2026-10-20
+* [Commit] [cl/phase1/forkchoice: export GLOAS weights in v1 debug fork choice (#24936)](https://github.com/erigontech/erigon/commit/92a4ee2706c266f7b861d61aef0425f83d89b6e1) - 2026-10-20
+* [Commit] [rpc, db: gate historical requests by physical availability (#23776)](https://github.com/erigontech/erigon/commit/d98ef74e98d8a159fe6025c2b47c67bc717eac29) - 2026-10-20
+* [Commit] [ci: add peer redundancy to the Pectra testnet (#25073)](https://github.com/erigontech/erigon/commit/758fe5812fdc8ad94e4fba8c101f23328ed5fcd8) - 2026-10-20
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

@@ -119,6 +119,20 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Share the inclusion list store key lookup](https://github.com/Consensys-Incorporated/teku/pull/11527) - 2026-10-19
 * [Pull Request] [Quieten inclusion list payload attributes refresh](https://github.com/Consensys-Incorporated/teku/pull/11526) - 2026-10-19
 * [Pull Request] [Anchor implemented Heze specrefs](https://github.com/Consensys-Incorporated/teku/pull/11525) - 2026-10-19
+* [Review] [Review on: Add light client Req/Resp methods](https://github.com/Consensys-Incorporated/teku/pull/11542#pullrequestreview-5592011769) - 2026-10-20
+* [Pull Request] [Make batch gather window test independent of submission timing](https://github.com/Consensys-Incorporated/teku/pull/11550) - 2026-10-20
+* [Pull Request] [Keep imported slashing protection from being overwritten by cache](https://github.com/Consensys-Incorporated/teku/pull/11539) - 2026-10-20
+* [Pull Request] [Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot](https://github.com/Consensys-Incorporated/teku/pull/11540) - 2026-10-20
+* [Review] [Review on: Envelopes by range follow ups](https://github.com/Consensys-Incorporated/teku/pull/11551#pullrequestreview-5593701705) - 2026-10-21
+* [Review] [Review on: Allow reorg during sync](https://github.com/Consensys-Incorporated/teku/pull/9268#pullrequestreview-5593559948) - 2026-10-21
+* [Review] [Review on: Seed the Gloas genesis execution payload only for a genesis anchor committing to it](https://github.com/Consensys-Incorporated/teku/pull/11543#pullrequestreview-5593440741) - 2026-10-21
+* [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5593045648) - 2026-10-20
+* [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5592909306) - 2026-10-20
+* [Review] [Review on: Key the gossip seen cache by a cheap SHA-256 fast id](https://github.com/Consensys-Incorporated/teku/pull/11549#pullrequestreview-5592554228) - 2026-10-20
+* [Review] [Review on: Recover Gloas payloads for state-only finalized checkpoints](https://github.com/Consensys-Incorporated/teku/pull/11450#pullrequestreview-5583982156) - 2026-10-20
+* [Review] [Review on: Correctly handle payload invalidation after optimistic sync](https://github.com/Consensys-Incorporated/teku/pull/11506#pullrequestreview-5581620486) - 2026-10-20
+* [Commit] [Make batch gather window test independent of submission timing (#11550)](https://github.com/Consensys-Incorporated/teku/commit/32f5f9090cf36c78f5fd81f8c2bbf92ecc12d46e) - 2026-10-21
+* [Commit] [Set Gloas attestation index from fork choice payload status (#11498)](https://github.com/Consensys-Incorporated/teku/commit/f1c8bfbe7383de418f4ecc72558b92923d9d6ede) - 2026-10-20
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

@@ -51,6 +51,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Last-Written Block in PBT Leaves](https://github.com/ethereum/EIPs/pull/12420#pullrequestreview-5520983577) - 2026-10-14
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5516921570) - 2026-10-14
 * [Review] [Review on: Update EIP-8173: Move to Review](https://github.com/ethereum/EIPs/pull/12500#pullrequestreview-5514943267) - 2026-10-14
+* [Commit] [Update EIP-7870: update Glamsterdam min r/w spec (#12491)](https://github.com/ethereum/EIPs/commit/e5337f8cd00eb02eaaebf8ca1e157e6e0cd945bc) - 2026-10-20
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

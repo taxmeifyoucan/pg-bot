@@ -18,6 +18,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Remove the "experimental" status from the `--enable-state-diff` flag.](https://github.com/OffchainLabs/prysm/pull/17657#pullrequestreview-5467988818) - 2026-10-09
 * [Pull Request] [integrate setLevelWithData into SetAnchor](https://github.com/OffchainLabs/prysm/pull/17671) - 2026-10-12
 * [Pull Request] [Gloas light client header construction.](https://github.com/OffchainLabs/prysm/pull/17672) - 2026-10-12
+* [Commit] [Gloas light client header construction. (#17672)](https://github.com/OffchainLabs/prysm/commit/636c6e86001434370cac3a32100ab1f56e5a2c4e) - 2026-10-20
 ## Q3 2026
 
 

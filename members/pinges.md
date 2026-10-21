@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Serialize head world state writes in the world state provider](https://github.com/besu-eth/besu/pull/11402#pullrequestreview-5498991670) - 2026-10-13
 * [Commit] [Fix/sync signal reporting bugs (#11262)](https://github.com/besu-eth/besu/commit/3ec0b6bf6681c4f0a745a0a03a2379562e9640e6) - 2026-10-16
 * [Review] [Review on: chore: bump  witness tests to v21.0.6](https://github.com/besu-eth/besu/pull/11651#pullrequestreview-5579170468) - 2026-10-19
+* [Pull Request] [Fix/snap storage root refresh](https://github.com/besu-eth/besu/pull/11654) - 2026-10-20
 ## Q3 2026
 
 

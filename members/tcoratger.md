@@ -132,6 +132,19 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: chore: fix lint warnings](https://github.com/Plonky3/Plonky3/pull/2467#pullrequestreview-5563405513) - 2026-10-18
 * [Review] [Review on: fix(fri)!: require hiding MMCSs in HidingFriPcs](https://github.com/Plonky3/Plonky3/pull/2438#pullrequestreview-5578857290) - 2026-10-19
 * [Review] [Review on: docs(util): correct bit-reversal dimensions and transpose safety requirements](https://github.com/Plonky3/Plonky3/pull/2468#pullrequestreview-5578865427) - 2026-10-19
+* [Pull Request] [feat(flock): Boolean circuits as batched R1CS](https://github.com/Plonky3/Plonky3/pull/2486) - 2026-10-20
+* [Pull Request] [perf(flock): fold the lincheck witness in one run of tiles per worker](https://github.com/Plonky3/Plonky3/pull/2485) - 2026-10-20
+* [Pull Request] [perf(flock): word-level witness generators for the hash gadgets](https://github.com/Plonky3/Plonky3/pull/2484) - 2026-10-20
+* [Pull Request] [perf(flock)!: open through WHIR's first fold and commit the witness in place](https://github.com/Plonky3/Plonky3/pull/2483) - 2026-10-20
+* [Pull Request] [perf(flock): faster and 128-bit composed bit commitment](https://github.com/Plonky3/Plonky3/pull/2482) - 2026-10-20
+* [Pull Request] [feat(flock): bind public ports](https://github.com/Plonky3/Plonky3/pull/2481) - 2026-10-20
+* [Pull Request] [feat(flock): hash compression gadgets](https://github.com/Plonky3/Plonky3/pull/2479) - 2026-10-20
+* [Pull Request] [feat(flock): lincheck, quirky ring switch, WHIR opening and the full proof](https://github.com/Plonky3/Plonky3/pull/2478) - 2026-10-20
+* [Pull Request] [feat(flock): zerocheck of one circuit batch with a univariate skip](https://github.com/Plonky3/Plonky3/pull/2477) - 2026-10-20
+* [Pull Request] [feat(flock): Boolean circuits as structured CCS operators](https://github.com/Plonky3/Plonky3/pull/2475) - 2026-10-20
+* [Pull Request] [feat(ccs): prove against a committed witness](https://github.com/Plonky3/Plonky3/pull/2474) - 2026-10-20
+* [Pull Request] [feat(ccs): structured customizable constraint systems](https://github.com/Plonky3/Plonky3/pull/2473) - 2026-10-20
+* [Pull Request] [ci: never cancel a run of the same commit mid-plan](https://github.com/Plonky3/Plonky3/pull/2480) - 2026-10-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

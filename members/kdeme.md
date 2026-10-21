@@ -65,6 +65,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [json-rpc: back off when accept fails with too many open files](https://github.com/status-im/nimbus-eth1/pull/5008) - 2026-10-19
 * [Review] [Review on: json-rpc: keep accept loop running when a queued client resets](https://github.com/status-im/nimbus-eth1/pull/4973#pullrequestreview-5569325515) - 2026-10-19
 * [Commit] [json-rpc: back off when accept fails with too many open files (#5008)](https://github.com/status-im/nimbus-eth1/commit/4df52efd2ffda8df24e5d7360d464e2aa2a67808) - 2026-10-19
+* [Pull Request] [evm: fix OverflowDefect in revert reason decoding](https://github.com/status-im/nimbus-eth1/pull/5025) - 2026-10-20
+* [Pull Request] [rpc: fix sign/send transaction crash on missing from](https://github.com/status-im/nimbus-eth1/pull/5023) - 2026-10-20
+* [Pull Request] [kvt: fix multiGet assert on empty key list](https://github.com/status-im/nimbus-eth1/pull/5022) - 2026-10-20
+* [Pull Request] [stateless: add SP1 as a second zkVM target](https://github.com/status-im/nimbus-eth1/pull/5019) - 2026-10-20
+* [Commit] [stateless: add SP1 as a second zkVM target (#5019)](https://github.com/status-im/nimbus-eth1/commit/d08ef2b4acddb945deb95d390022ad13d32b1115) - 2026-10-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 ## Q3 2026

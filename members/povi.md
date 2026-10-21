@@ -57,6 +57,8 @@ Team: Grandine
 * [Review] [Review on: Optimize ProgressivePersistentList](https://github.com/grandinetech/grandine/pull/986#pullrequestreview-5547140317) - 2026-10-16
 * [Pull Request] [Handle optimistic heads in Gloas](https://github.com/grandinetech/grandine/pull/991) - 2026-10-19
 * [Review] [Review on: Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/pull/992#pullrequestreview-5571106890) - 2026-10-19
+* [Review] [Review on: Bump C# plugin dependencies](https://github.com/grandinetech/grandine/pull/996#pullrequestreview-5583804616) - 2026-10-20
+* [Review] [Review on: Ignore `zip` advisories RUSTSEC-2026-0367, 0368 and 0369 until zkm-sd…](https://github.com/grandinetech/grandine/pull/993#pullrequestreview-5583839442) - 2026-10-20
 ## Q3 2026
 
 

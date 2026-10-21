@@ -28,6 +28,8 @@ Team: Erigon
 * [Review] [Review on: eth_simulateV1: expect a difficulty override after the merge to be rejected](https://github.com/erigontech/rpc-tests/pull/629#pullrequestreview-5570525987) - 2026-10-19
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5570523503) - 2026-10-19
 * [Review] [Review on: rpc_pattern_gen: build the or-list values of a block once](https://github.com/erigontech/rpc-tests/pull/626#pullrequestreview-5570519028) - 2026-10-19
+* [Review] [Review on: rpc_pattern_gen: --per-block takes N random txs or logs of each block](https://github.com/erigontech/rpc-tests/pull/632#pullrequestreview-5582697013) - 2026-10-20
+* [Review] [Review on: eth_simulateV1: drop override keys that the spec does not define](https://github.com/erigontech/rpc-tests/pull/630#pullrequestreview-5582701180) - 2026-10-20
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

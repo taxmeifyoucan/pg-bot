@@ -56,6 +56,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject index-1 attestations to an engine-invalidated payload](https://github.com/ChainSafe/lodestar/pull/10426#pullrequestreview-5570550037) - 2026-10-19
 * [Review] [Review on: fix: check the parent payload before importing a repeat proposal in gloas](https://github.com/ChainSafe/lodestar/pull/10424#pullrequestreview-5570337125) - 2026-10-19
 * [Commit] [test: use fake timers instead of Date.now spies (#10440)](https://github.com/ChainSafe/lodestar/commit/ab56d90f0c0964da6bd7a66d0b38bd54cbe42dbd) - 2026-10-19
+* [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5588266928) - 2026-10-20
+* [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5588095817) - 2026-10-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
