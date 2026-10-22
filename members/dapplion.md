@@ -40,9 +40,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5529512360) - 2026-10-15
 * [Pull Request] [Set the proposer boost only after the block is added to fork choice](https://github.com/sigp/lighthouse/pull/10366) - 2026-10-15
 * [Issue] [Builder diversity tiebreak: on near-equal bids, prefer the lower-share builder](https://github.com/sigp/lighthouse/issues/10369) - 2026-10-15
+* [Pull Request] [Dedup gossip payload envelopes against fork choice after a restart](https://github.com/sigp/lighthouse/pull/10414) - 2026-10-21
+* [Pull Request] [Blame only the peer that served a column for a skipped slot](https://github.com/sigp/lighthouse/pull/10417) - 2026-10-21
+* [Pull Request] [Charge a faulty batch to the peer that served the faulty part](https://github.com/sigp/lighthouse/pull/10416) - 2026-10-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 
+* [Pull Request] [Derive the EIP-8025 public input from the committed bid](https://github.com/ethereum/consensus-specs/pull/5753) - 2026-10-21
 [eth-act/zkboost](https://github.com/eth-act/zkboost)
 * [Pull Request] [feat: beacon state witness from the top-level state leaves](https://github.com/eth-act/zkboost/pull/89) - 2026-10-14
 ## Q3 2026

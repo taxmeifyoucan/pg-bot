@@ -48,6 +48,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [feat: transaction-level code access events](https://github.com/besu-eth/besu/pull/11676) - 2026-10-21
 * [Pull Request] [feat(evm): code access tracer and opcode events](https://github.com/besu-eth/besu/pull/11675) - 2026-10-21
 * [Commit] [feat(rpc): support debug_executionWitness for pre-Amsterdam blocks (#11605)](https://github.com/besu-eth/besu/commit/84552a9af7e1d2c78c6f1b1b2ff9d0097f03ea3d) - 2026-10-20
+* [Pull Request] [chore: set Amsterdam spec as finalised](https://github.com/besu-eth/besu/pull/11696) - 2026-10-21
+* [Review] [Review on: eth_simulateV1 - reject unknown account overrides](https://github.com/besu-eth/besu/pull/11695#pullrequestreview-5606835503) - 2026-10-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a shared 7702 delegation marker](https://github.com/ethereum/execution-specs/pull/3737) - 2026-10-07
 * [Pull Request] [feat(tests): EIP-8025 - witness codes for a same-tx CREATE of a pre-state code hash](https://github.com/ethereum/execution-specs/pull/3741) - 2026-10-08

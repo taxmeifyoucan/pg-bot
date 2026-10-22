@@ -43,6 +43,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: ignore known payload envelopes before deserializing them](https://github.com/ChainSafe/lodestar/pull/10419#pullrequestreview-5565781291) - 2026-10-19
 * [Pull Request] [fix: cap payload DA wait at the slot duration of the payload's fork](https://github.com/ChainSafe/lodestar/pull/10433) - 2026-10-19
 * [Pull Request] [feat: add slot-relative timing metrics and a portable slot timing dashboard](https://github.com/ChainSafe/lodestar/pull/10446) - 2026-10-20
+* [Pull Request] [fix: stop flooring the import-time seen timestamp of a block](https://github.com/ChainSafe/lodestar/pull/10453) - 2026-10-21
+* [Pull Request] [fix: floor slot component durations as the spec does](https://github.com/ChainSafe/lodestar/pull/10456) - 2026-10-21
+* [Pull Request] [refactor: carry milliseconds through the fork choice timeliness API](https://github.com/ChainSafe/lodestar/pull/10455) - 2026-10-21
+* [Issue] [Dashboards hard-code the 12s slot and 384s epoch](https://github.com/ChainSafe/lodestar/issues/10451) - 2026-10-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
@@ -53,6 +57,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: add heze timing configuration](https://github.com/ChainSafe/lodestar-z/pull/794#pullrequestreview-5566079587) - 2026-10-19
+* [Pull Request] [fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801) - 2026-10-21
 ## Q3 2026
 
 

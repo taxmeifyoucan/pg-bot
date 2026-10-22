@@ -145,10 +145,76 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(ccs): prove against a committed witness](https://github.com/Plonky3/Plonky3/pull/2474) - 2026-10-20
 * [Pull Request] [feat(ccs): structured customizable constraint systems](https://github.com/Plonky3/Plonky3/pull/2473) - 2026-10-20
 * [Pull Request] [ci: never cancel a run of the same commit mid-plan](https://github.com/Plonky3/Plonky3/pull/2480) - 2026-10-20
+* [Pull Request] [perf(gkr): packed lanes and in-place folds in the radix-four prover](https://github.com/Plonky3/Plonky3/pull/2519) - 2026-10-21
+* [Pull Request] [feat(gkr): batched tables and caller-proved bottom layers](https://github.com/Plonky3/Plonky3/pull/2514) - 2026-10-21
+* [Pull Request] [refactor(flock): prove a batch against a region of a shared commitment](https://github.com/Plonky3/Plonky3/pull/2513) - 2026-10-21
+* [Pull Request] [perf(bitz): low-entropy grand-product rounds off the packed bits](https://github.com/Plonky3/Plonky3/pull/2521) - 2026-10-21
+* [Review] [Review on: perf(bitz): low-entropy grand-product rounds off the packed bits](https://github.com/Plonky3/Plonky3/pull/2521#pullrequestreview-5607217100) - 2026-10-21
+* [Pull Request] [feat(bitz): linear claims on committed bits through a grand product in the exponent](https://github.com/Plonky3/Plonky3/pull/2518) - 2026-10-21
+* [Review] [Review on: feat(bitz): linear claims on committed bits through a grand product in the exponent](https://github.com/Plonky3/Plonky3/pull/2518#pullrequestreview-5607411196) - 2026-10-21
+* [Pull Request] [refactor(binary-pcs): share Flock's bit commitment, fold and byte slices](https://github.com/Plonky3/Plonky3/pull/2512) - 2026-10-21
+* [Review] [Review on: refactor(binary-pcs): share Flock's bit commitment, fold and byte slices](https://github.com/Plonky3/Plonky3/pull/2512#pullrequestreview-5607216582) - 2026-10-21
+* [Pull Request] [refactor(gkr): move the batched product GKR out of the bus](https://github.com/Plonky3/Plonky3/pull/2511) - 2026-10-21
+* [Pull Request] [feat(field): powers of a fixed base from windowed tables](https://github.com/Plonky3/Plonky3/pull/2509) - 2026-10-21
+* [Review] [Review on: feat(field): powers of a fixed base from windowed tables](https://github.com/Plonky3/Plonky3/pull/2509#pullrequestreview-5607410880) - 2026-10-21
+* [Review] [Review on: perf(flock): word-level witness generators for the hash gadgets](https://github.com/Plonky3/Plonky3/pull/2484#pullrequestreview-5597151996) - 2026-10-21
+* [Review] [Review on: perf(flock)!: open through WHIR's first fold and commit the witness in place](https://github.com/Plonky3/Plonky3/pull/2483#pullrequestreview-5597151257) - 2026-10-21
+* [Review] [Review on: perf(flock): faster and 128-bit composed bit commitment](https://github.com/Plonky3/Plonky3/pull/2482#pullrequestreview-5597150440) - 2026-10-21
+* [Pull Request] [chore(merkle-tree): allow chunks_exact_to_as_chunks where the lane count is generic](https://github.com/Plonky3/Plonky3/pull/2500) - 2026-10-21
+* [Pull Request] [perf(multi-stark): fuse fractional GKR rounds in pairs and build the tree two levels per pass](https://github.com/Plonky3/Plonky3/pull/2522) - 2026-10-21
+* [Review] [Review on: feat(flock): zerocheck of one circuit batch with a univariate skip](https://github.com/Plonky3/Plonky3/pull/2477#pullrequestreview-5597149689) - 2026-10-21
+* [Review] [Review on: feat(air): add scalar and packed evaluator comparison helpers](https://github.com/Plonky3/Plonky3/pull/2523#pullrequestreview-5605916203) - 2026-10-21
+* [Review] [Review on: feat(air): lower arithmetic captures with shared traversal state](https://github.com/Plonky3/Plonky3/pull/2524#pullrequestreview-5605906051) - 2026-10-21
+* [Review] [Review on: feat(air): validate concrete builders against explicit layouts](https://github.com/Plonky3/Plonky3/pull/2525#pullrequestreview-5605893999) - 2026-10-21
+* [Pull Request] [perf(multilinear-util): build Point equality weights with the tensor builder](https://github.com/Plonky3/Plonky3/pull/2497) - 2026-10-21
+* [Review] [Review on: perf(multilinear-util): build Point equality weights with the tensor builder](https://github.com/Plonky3/Plonky3/pull/2497#pullrequestreview-5605762984) - 2026-10-21
+* [Pull Request] [perf(binary-field): transpose 64-bit bit matrices with byte shuffles and GFNI](https://github.com/Plonky3/Plonky3/pull/2496) - 2026-10-21
+* [Review] [Review on: perf(binary-field): transpose 64-bit bit matrices with byte shuffles and GFNI](https://github.com/Plonky3/Plonky3/pull/2496#pullrequestreview-5605835454) - 2026-10-21
+* [Pull Request] [perf(binary-pcs): commit WHIR trees at the bare root](https://github.com/Plonky3/Plonky3/pull/2495) - 2026-10-21
+* [Review] [Review on: perf(binary-pcs): commit WHIR trees at the bare root](https://github.com/Plonky3/Plonky3/pull/2495#pullrequestreview-5605770580) - 2026-10-21
+* [Pull Request] [fix(challenger): grind for the smallest proof-of-work witness](https://github.com/Plonky3/Plonky3/pull/2517) - 2026-10-21
+* [Pull Request] [perf(binary-dft): cut the LCH schedule to cache budgets, not to the worker count](https://github.com/Plonky3/Plonky3/pull/2494) - 2026-10-21
+* [Pull Request] [perf(bus): fuse product GKR rounds in pairs over packed lanes](https://github.com/Plonky3/Plonky3/pull/2503) - 2026-10-21
+* [Pull Request] [perf(blake2s): hand-schedule the two-group AVX-512 compression](https://github.com/Plonky3/Plonky3/pull/2502) - 2026-10-21
+* [Pull Request] [perf(util): AVX-512 register tiles for 8-byte transposes and cheaper edge strips](https://github.com/Plonky3/Plonky3/pull/2501) - 2026-10-21
+* [Pull Request] [perf(binary-field): select the 512-bit GF(2^192) mul4 and mixed dot from avx512f](https://github.com/Plonky3/Plonky3/pull/2499) - 2026-10-21
+* [Pull Request] [fix(field): panic on overflow in extension and packed zero_vec instead of wrapping](https://github.com/Plonky3/Plonky3/pull/2498) - 2026-10-21
+* [Review] [Review on: perf(maybe-rayon): cut loops into pieces up front and wake helpers as a tree](https://github.com/Plonky3/Plonky3/pull/2389#pullrequestreview-5597254520) - 2026-10-21
+* [Review] [Review on: ci: never cancel a run of the same commit mid-plan](https://github.com/Plonky3/Plonky3/pull/2480#pullrequestreview-5597756024) - 2026-10-21
+* [Review] [Review on: feat(air): add opt-in arithmetic-preserving symbolic capture](https://github.com/Plonky3/Plonky3/pull/2493#pullrequestreview-5599918803) - 2026-10-21
+* [Review] [Review on: feat(air): add memoized symbolic traversal and extension resolution](https://github.com/Plonky3/Plonky3/pull/2491#pullrequestreview-5599834199) - 2026-10-21
+* [Review] [Review on: feat(air): add lightweight constraint layout and degree analysis](https://github.com/Plonky3/Plonky3/pull/2490#pullrequestreview-5599830818) - 2026-10-21
+* [Review] [Review on: feat(air): expose owned symbolic capture results](https://github.com/Plonky3/Plonky3/pull/2489#pullrequestreview-5599813865) - 2026-10-21
+* [Pull Request] [[experiment, do not merge] feat(modular): prime fields with a run-time modulus](https://github.com/Plonky3/Plonky3/pull/2510) - 2026-10-21
+* [Pull Request] [refactor(flock): prove a batch against a region of a shared commitment](https://github.com/Plonky3/Plonky3/pull/2508) - 2026-10-21
+* [Pull Request] [refactor(binary-pcs): share Flock's bit commitment, fold and byte slices](https://github.com/Plonky3/Plonky3/pull/2507) - 2026-10-21
+* [Pull Request] [refactor(gkr): move the batched product GKR out of the bus](https://github.com/Plonky3/Plonky3/pull/2506) - 2026-10-21
+* [Pull Request] [feat(modular): prime fields with a run-time modulus](https://github.com/Plonky3/Plonky3/pull/2505) - 2026-10-21
+* [Pull Request] [feat(field): powers of a fixed base from windowed tables](https://github.com/Plonky3/Plonky3/pull/2504) - 2026-10-21
+* [Review] [Review on: feat(flock): Boolean circuits as batched R1CS](https://github.com/Plonky3/Plonky3/pull/2486#pullrequestreview-5597149001) - 2026-10-21
+* [Review] [Review on: refactor(errors)!: make public error enums non-exhaustive](https://github.com/Plonky3/Plonky3/pull/2488#pullrequestreview-5599801310) - 2026-10-21
+* [Review] [Review on: fix(merkle-tree)!: bind every matrix to capped commitments](https://github.com/Plonky3/Plonky3/pull/2471#pullrequestreview-5597080652) - 2026-10-21
+* [Review] [Review on: fix(multilinear-util): zero the output for an empty batch in overwrite mode](https://github.com/Plonky3/Plonky3/pull/2470#pullrequestreview-5597052863) - 2026-10-21
+* [Commit] [feat(flock): bind public ports (#2481)](https://github.com/Plonky3/Plonky3/commit/1abcaa0795bc30ded29d54d0bc2cf495b6a20c2f) - 2026-10-22
+* [Commit] [chore(merkle-tree): allow chunks_exact_to_as_chunks where the lane count is generic (#2500)](https://github.com/Plonky3/Plonky3/commit/4897d1ef247300dd734d209d52b1a838fc79cbb9) - 2026-10-21
+* [Commit] [perf(multi-stark): fuse fractional GKR rounds in pairs and build the tree two levels per pass (#2522)](https://github.com/Plonky3/Plonky3/commit/6247c7ace92198db45d134444032786df0958a66) - 2026-10-21
+* [Commit] [feat(flock): hash compression gadgets (#2479)](https://github.com/Plonky3/Plonky3/commit/2eefca5f25b3d8ddab7d36948a3d1591d00da717) - 2026-10-21
+* [Commit] [feat(flock): lincheck, quirky ring switch, WHIR opening and the full proof (#2478)](https://github.com/Plonky3/Plonky3/commit/0bfc28c752e46a38e98c237922f3f6e8a6523b91) - 2026-10-21
+* [Commit] [feat(flock): zerocheck of one circuit batch with a univariate skip (#2477)](https://github.com/Plonky3/Plonky3/commit/efc041a1cf89f8de077f4407c42970dd3af909d7) - 2026-10-21
+* [Commit] [perf(binary-dft): cut the LCH schedule to cache budgets, not to the worker count (#2494)](https://github.com/Plonky3/Plonky3/commit/73ce3e0211af6ce792cd8a48fa7dcd5bd6b38df2) - 2026-10-21
+* [Commit] [perf(bus): fuse product GKR rounds in pairs over packed lanes (#2503)](https://github.com/Plonky3/Plonky3/commit/be2bda737080d7ec4d39c02d04794da91514849a) - 2026-10-21
+* [Commit] [perf(blake2s): hand-schedule the two-group AVX-512 compression (#2502)](https://github.com/Plonky3/Plonky3/commit/04af4b147b766ee02269571825ca6e66b24b17eb) - 2026-10-21
+* [Commit] [perf(util): AVX-512 register tiles for 8-byte transposes and cheaper edge strips (#2501)](https://github.com/Plonky3/Plonky3/commit/08811794632641c24793a3d9c39508362dc8bbf2) - 2026-10-21
+* [Commit] [perf(binary-field): select the 512-bit GF(2^192) mul4 and mixed dot from avx512f (#2499)](https://github.com/Plonky3/Plonky3/commit/728707c1940bb34bdb67f87c589ca7858ec438bd) - 2026-10-21
+* [Commit] [fix(field): panic on overflow in extension and packed zero_vec instead of wrapping (#2498)](https://github.com/Plonky3/Plonky3/commit/e234f07ebb05dba8cb5dbfd08a1bd2172edeffa2) - 2026-10-21
+* [Commit] [perf(maybe-rayon): cut loops into pieces up front and wake helpers as a tree (#2389)](https://github.com/Plonky3/Plonky3/commit/86db5da24a2ea4f4e4cb681644811c3aa3097a1f) - 2026-10-21
+* [Commit] [ci: never cancel a run of the same commit mid-plan (#2480)](https://github.com/Plonky3/Plonky3/commit/88704896792cd69e7b2e853873266a780e5a3bb5) - 2026-10-21
+* [Commit] [feat(flock): Boolean circuits as batched R1CS (#2486)](https://github.com/Plonky3/Plonky3/commit/0d90ac2abb8e742752108f8400d6bf39fc6a53d4) - 2026-10-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 
 * [Pull Request] [Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/pull/12550) - 2026-10-19
+* [Commit] [Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/commit/9a2db97d1834e01767dafbf55d245d3806663ab6) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 ## Q3 2026

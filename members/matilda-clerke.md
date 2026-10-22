@@ -23,6 +23,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Commit] [Subscribe to head_v2 events once gloas is scheduled (#11416)](https://github.com/Consensys-Incorporated/teku/commit/4b32943ea80f7b202d497fa1b5ed19ad0458c776) - 2026-10-07
 * [Review] [Review on: Impose size limit on seenCache in LibP2PGossipNetworkBuilder](https://github.com/Consensys-Incorporated/teku/pull/11445#pullrequestreview-5485465894) - 2026-10-11
 * [Review] [Review on: Set Fulu genesis deposit_requests_start_index to deposit count](https://github.com/Consensys-Incorporated/teku/pull/11496#pullrequestreview-5542512624) - 2026-10-16
+* [Review] [Review on: Temporarily disable greclipse while download.eclipse.org is down](https://github.com/Consensys-Incorporated/teku/pull/11561#pullrequestreview-5607277117) - 2026-10-21
+* [Pull Request] [Save unknown block attestation gossip for future only after validation](https://github.com/Consensys-Incorporated/teku/pull/11554) - 2026-10-21
 ## Q3 2026
 
 

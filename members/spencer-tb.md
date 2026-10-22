@@ -84,6 +84,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(ci): auto-label pull requests and fix their titles](https://github.com/ethereum/execution-specs/pull/3855) - 2026-10-17
 * [Pull Request] [feat(test-execution, test-specs, test-rpc, test-types): run transaction, blob and mempool tests through one mempool admission format](https://github.com/ethereum/execution-specs/pull/3865) - 2026-10-19
 * [Review] [Review on: feat(test-consume): start a fresh ethrex enginex client after a deep chain](https://github.com/ethereum/execution-specs/pull/3872#pullrequestreview-5586743860) - 2026-10-20
+* [Pull Request] [feat(tooling,ci): announce releases to hive-tests after publishing their images](https://github.com/ethereum/execution-specs/pull/3883) - 2026-10-21
+* [Pull Request] [feat(ci,doc): add a contribution policy and a new contributor gate](https://github.com/ethereum/execution-specs/pull/3881) - 2026-10-21
+* [Review] [Review on: chore(tooling): require uv 0.13.4 and bump setup-uv to v10.3.0](https://github.com/ethereum/execution-specs/pull/3880#pullrequestreview-5602341730) - 2026-10-21
+* [Review] [Review on: chore(test-forks): add descriptive Amsterdam BPO test scenarios](https://github.com/ethereum/execution-specs/pull/3597#pullrequestreview-5602555260) - 2026-10-21
+* [Review] [Review on: fix(test-consume): end each hive test only once](https://github.com/ethereum/execution-specs/pull/3879#pullrequestreview-5601127840) - 2026-10-21
+* [Commit] [perf(ci, doc, test-fill): speed up PR checks (#3813)](https://github.com/ethereum/execution-specs/commit/890a4ed0b724fa0ec4073d6a2946ff3d160f4409) - 2026-10-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

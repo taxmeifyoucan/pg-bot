@@ -13,6 +13,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [✨ feat(tests): Extend focil test coverage](https://github.com/ethereum/execution-specs/pull/3868) - 2026-10-19
+* [Review] [Review on: feat(ci,doc): add a contribution policy and a new contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5604208829) - 2026-10-21
 ## Q3 2026
 
 

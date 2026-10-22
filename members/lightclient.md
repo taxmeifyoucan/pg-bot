@@ -30,6 +30,9 @@ Team: Geth
 * [Pull Request] [Update EIP-7906: rename POST_TX to ASSERT](https://github.com/ethereum/EIPs/pull/12528) - 2026-10-16
 * [Commit] [Update EIP-7906: rename POST_TX to ASSERT](https://github.com/ethereum/EIPs/commit/5930e94b0cdb7b88f8c96c75555cf4fc2b3cb3b0) - 2026-10-16
 * [Commit] [Update EIP-7906: 7906 remove txdiff](https://github.com/ethereum/EIPs/commit/899bef0ae0f9358f246e6fe833fe580b0564fbb2) - 2026-10-20
+* [Review] [Review on: Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/pull/12550#pullrequestreview-5601576122) - 2026-10-21
+* [Commit] [Update EIP-8141: commit to elided signature lengths (#12502)](https://github.com/ethereum/EIPs/commit/46005d745a5d921702f12d64a1b85e712e2b6051) - 2026-10-22
+* [Commit] [Update EIP-5069: add concept of associate editors](https://github.com/ethereum/EIPs/commit/dbf75397edf6299ba5d549c5eb0883c0fa83b037) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 
@@ -56,6 +59,7 @@ Team: Geth
 * [Commit] [fix Hoodi Glamsterdam unix timestamp](https://github.com/ethereum/pm/commit/6f0b48a3f227dbe0c3357678047a3ccea5bfc0d2) - 2026-10-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5521806399) - 2026-10-14
+* [Review] [Review on: engine: add ethlambda (LA) to ClientCode list](https://github.com/ethereum/execution-apis/pull/922#pullrequestreview-5600400673) - 2026-10-21
 ## Q3 2026
 
 

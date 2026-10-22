@@ -46,6 +46,11 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8250: exempt single-use sequence from data pricing](https://github.com/ethereum/EIPs/commit/1a086d5c67cdcf3a134cc571eb4bb4b9bed6fb02) - 2026-10-19
 * [Commit] [Update EIP-7928: Fix block size figure and polish wording](https://github.com/ethereum/EIPs/commit/41a838decba33325d01bd99b1cd6072c51214fac) - 2026-10-19
 * [Pull Request] [Add EIP: eth/73 - Recursive STARK Exchange](https://github.com/ethereum/EIPs/pull/12551) - 2026-10-20
+* [Pull Request] [Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561) - 2026-10-21
+* [Pull Request] [Update EIP-8279: check the floor against the execution-gas budget](https://github.com/ethereum/EIPs/pull/12560) - 2026-10-21
+* [Pull Request] [Update EIP-8141: price frame and signature entries at the floor](https://github.com/ethereum/EIPs/pull/12559) - 2026-10-21
+* [Commit] [Update EIP-8279: check the floor against the execution-gas budget](https://github.com/ethereum/EIPs/commit/5a4387b9574508c1d1f70ad9ce079e92478f2e45) - 2026-10-21
+* [Commit] [Update EIP-8279: Remove unsafe storage-value refund](https://github.com/ethereum/EIPs/commit/100c82ba5f21b2661736c79a89ecf8904ffbcc36) - 2026-10-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 ## Q3 2026

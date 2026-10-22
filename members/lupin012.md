@@ -127,6 +127,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [cmd/rpctest: also write the bench requests as a JSONL pattern (#25105)](https://github.com/erigontech/erigon/commit/b0aabf5184df3ffaed3fe52b16b9a93470afc322) - 2026-10-20
 * [Commit] [QA: update rpc test version (#24994)](https://github.com/erigontech/erigon/commit/a4d366e8ef8f6612781d108d3e6a4b050633f02b) - 2026-10-20
 * [Commit] [rpc/jsonrpc: reject unknown override keys in eth_simulateV1 (#25018)](https://github.com/erigontech/erigon/commit/63fdfc0ee5805a1005efb428c1962ff302bda398) - 2026-10-20
+* [Commit] [execution/types: allocate the stamped eth_getLogs log copies of a receipt at once (#25010)](https://github.com/erigontech/erigon/commit/1260471ba7e9d1565ff7949239caab14da2c9766) - 2026-10-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -167,6 +168,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_pattern_gen, rpc_perf: write and replay JSONL patterns](https://github.com/erigontech/rpc-tests/pull/633) - 2026-10-20
 * [Commit] [rpc_pattern_gen: --per-block takes N random txs or logs of each block (#632)](https://github.com/erigontech/rpc-tests/commit/fb1cf8e52bf8f4f99e05e594b819f775d76403c3) - 2026-10-20
 * [Commit] [eth_simulateV1: drop override keys that the spec does not define (#630)](https://github.com/erigontech/rpc-tests/commit/d576fbbacad5fbeebf98dfa1d96827e0e0841da1) - 2026-10-20
+* [Pull Request] [.claude/skills: add perf-pattern-add, rpc-perf-run and rpc-int-run](https://github.com/erigontech/rpc-tests/pull/637) - 2026-10-21
+* [Pull Request] [rpc_perf: -i prints the results of each request id](https://github.com/erigontech/rpc-tests/pull/636) - 2026-10-21
+* [Pull Request] [rpc_pattern_gen: build eth_call requests from a list of txs](https://github.com/erigontech/rpc-tests/pull/635) - 2026-10-21
 ## Q3 2026
 
 

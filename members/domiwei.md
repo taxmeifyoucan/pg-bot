@@ -207,6 +207,43 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/network/registry, cl/phase1/network/services: relay the proposer preferences lookahead window without amplifying state loads (#24776)](https://github.com/erigontech/erigon/commit/e3a1e45e73a2b1103a6d8a490b5a4739a8a8e0ab) - 2026-10-20
 * [Commit] [cl/gossip, cl/p2p: enforce per-topic gossip payload bounds and spec size limits (#25078)](https://github.com/erigontech/erigon/commit/a03376175eb42fde6b4266402bba3db535a35657) - 2026-10-20
 * [Commit] [cl/phase1/network/gossip: keep sync subnets and duties across fork-digest changes (#25086)](https://github.com/erigontech/erigon/commit/43ba98b18a50722757216a8c38536c36187d4293) - 2026-10-20
+* [Review] [Review on: [r3.8] cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25174#pullrequestreview-5599299103) - 2026-10-21
+* [Review] [Review on: db/snapshotsync: open caplin segments like EL so covered ones can be unlinked](https://github.com/erigontech/erigon/pull/25013#pullrequestreview-5595950797) - 2026-10-21
+* [Review] [Review on: cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25173#pullrequestreview-5599298889) - 2026-10-21
+* [Review] [Review on: cl/phase1/forkchoice: keep pre-Gloas get_head vote weights across calls](https://github.com/erigontech/erigon/pull/24985#pullrequestreview-5595425418) - 2026-10-21
+* [Pull Request] [cl/phase1/network/services, cl/phase1/forkchoice: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25208) - 2026-10-21
+* [Pull Request] [cl/transition/impl/eth2/statechange: apply rewards and penalties per delta set as in the spec](https://github.com/erigontech/erigon/pull/25150) - 2026-10-21
+* [Pull Request] [cl/phase1/core/caches, cl/phase1/core/state, cl/phase1/stages, cl/transition/impl/eth2/statechange: stop sharing the total active balance across branches](https://github.com/erigontech/erigon/pull/25172) - 2026-10-21
+* [Pull Request] [cl, cmd: make beacon state copies cheap and keep the fork graph's current state inside fork choice](https://github.com/erigontech/erigon/pull/25151) - 2026-10-21
+* [Review] [Review on: [r3.8] ci: exercise Caplin Glamsterdam under transaction load](https://github.com/erigontech/erigon/pull/25178#pullrequestreview-5598615373) - 2026-10-21
+* [Pull Request] [cl: batch-verify gossip PTC signatures and re-check failed batches in parallel](https://github.com/erigontech/erigon/pull/25198) - 2026-10-21
+* [Pull Request] [cl/antiquary, cl/persistence, db: store the Gloas PTC window once per epoch](https://github.com/erigontech/erigon/pull/25201) - 2026-10-21
+* [Pull Request] [cl/cltypes/solid, cl/phase1/forkchoice: cache Gloas payload roots and hash them outside the fork-choice lock](https://github.com/erigontech/erigon/pull/25193) - 2026-10-21
+* [Pull Request] [cl/transition, cl/phase1/core/state: verify Gloas bid and payload attestation signatures in the block batch](https://github.com/erigontech/erigon/pull/25192) - 2026-10-21
+* [Pull Request] [cl/cltypes: cache the Gloas block body root by its encoding](https://github.com/erigontech/erigon/pull/25191) - 2026-10-21
+* [Pull Request] [[r3.8] cl: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25197) - 2026-10-21
+* [Pull Request] [cl/phase1/network, cl/phase1/stages, cl/beacon/handler: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25189) - 2026-10-21
+* [Pull Request] [cl: batch-verify gossip PTC signatures](https://github.com/erigontech/erigon/pull/25203) - 2026-10-21
+* [Pull Request] [[r3.8] cl: persist the highest custody group count across restarts](https://github.com/erigontech/erigon/pull/25196) - 2026-10-21
+* [Pull Request] [[r3.8] cl: learn attached validators from subscriptions and proposer preferences](https://github.com/erigontech/erigon/pull/25195) - 2026-10-21
+* [Pull Request] [[r3.8] cl/beacon/handler: format node identity metadata as the Beacon API spec requires](https://github.com/erigontech/erigon/pull/25194) - 2026-10-21
+* [Pull Request] [cl/das, cl/persistence/beacon_indicies, cl/phase1/forkchoice: persist the highest custody group count across restarts](https://github.com/erigontech/erigon/pull/25187) - 2026-10-21
+* [Pull Request] [cl: learn attached validators from subscriptions and proposer preferences](https://github.com/erigontech/erigon/pull/25183) - 2026-10-21
+* [Pull Request] [cl/beacon/handler: format node identity metadata as the Beacon API spec requires](https://github.com/erigontech/erigon/pull/25179) - 2026-10-21
+* [Pull Request] [[r3.8] cl: cache Gloas balances and inactivity scores roots incrementally](https://github.com/erigontech/erigon/pull/25175) - 2026-10-21
+* [Pull Request] [[r3.8] cl: speed up Gloas envelope checks and cold validator tree rebuilds](https://github.com/erigontech/erigon/pull/25202) - 2026-10-21
+* [Issue] [cl/persistence: historical Gloas participation flags miss the payload-match rule](https://github.com/erigontech/erigon/issues/25199) - 2026-10-21
+* [Issue] [cl/antiquary: Gloas builder diffs lose changes in historical states](https://github.com/erigontech/erigon/issues/25205) - 2026-10-21
+* [Issue] [cl/persistence: historical Gloas states between the fork and the next dump slot cannot be read](https://github.com/erigontech/erigon/issues/25200) - 2026-10-21
+* [Commit] [cl/transition/impl/eth2/statechange: apply rewards and penalties per delta set as in the spec (#25150)](https://github.com/erigontech/erigon/commit/9ae848a480116bab5a89f7a53a9809c392a69b43) - 2026-10-21
+* [Commit] [cl/phase1/core/caches, cl/phase1/core/state, cl/phase1/stages, cl/transition/impl/eth2/statechange: stop sharing the total active balance across branches (#25172)](https://github.com/erigontech/erigon/commit/300bc620db976f9d36d4dca2326fadbbfdbc5567) - 2026-10-21
+* [Commit] [cl, cmd: make beacon state copies cheap and keep the fork graph's current state inside fork choice (#25151)](https://github.com/erigontech/erigon/commit/3839807c5bf88b6c44b0ec3ee09552ae2d43f027) - 2026-10-21
+* [Commit] [cl/cltypes/solid, cl/phase1/core/state/raw: cache Gloas balances and inactivity scores roots incrementally (#25102)](https://github.com/erigontech/erigon/commit/ebbde81b4f63a69408187ec769e9eeef33b33a9b) - 2026-10-21
+* [Commit] [cl/transition/impl/eth2/statechange: avoid contended and no-op dirty marks in epoch processing (#25144)](https://github.com/erigontech/erigon/commit/92542b1542e1e17981d49073607b0ad5f0315299) - 2026-10-21
+* [Commit] [cl/phase1/forkchoice: check header presence instead of loading a state for pending envelopes (#25098)](https://github.com/erigontech/erigon/commit/39132bbcbfdcb96877421dd0d59cd8e4327c26d5) - 2026-10-21
+* [Commit] [cl/cltypes/solid, cl/merkle_tree: build the validator Merkle tree in parallel on cold rebuilds (#25101)](https://github.com/erigontech/erigon/commit/ce661298a6e23441befc47089116567fcca038a2) - 2026-10-21
+* [Commit] [cl/phase1/forkchoice, cl/transition/impl/eth2: verify the Gloas envelope builder signature once (#25134)](https://github.com/erigontech/erigon/commit/b96efa6afd7738888c5e6e04e145e32db0ab19f0) - 2026-10-21
+* [Commit] [cl/phase1/core/caches, cl/phase1/core/state, cl/phase1/stages, cl/transition: share lookahead shuffles and active sets across state copies (#25143)](https://github.com/erigontech/erigon/commit/f4170c209829c7e65ec94413e156701071dec8e1) - 2026-10-21
 ## Q3 2026
 
 

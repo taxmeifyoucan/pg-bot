@@ -59,6 +59,9 @@ Team: Grandine
 * [Review] [Review on: Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/pull/992#pullrequestreview-5571106890) - 2026-10-19
 * [Review] [Review on: Bump C# plugin dependencies](https://github.com/grandinetech/grandine/pull/996#pullrequestreview-5583804616) - 2026-10-20
 * [Review] [Review on: Ignore `zip` advisories RUSTSEC-2026-0367, 0368 and 0369 until zkm-sd…](https://github.com/grandinetech/grandine/pull/993#pullrequestreview-5583839442) - 2026-10-20
+* [Review] [Review on: Add proposer preferences endpoint](https://github.com/grandinetech/grandine/pull/972#pullrequestreview-5601066979) - 2026-10-21
+* [Review] [Review on: Bump `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/997#pullrequestreview-5596024278) - 2026-10-21
+* [Commit] [Handle optimistic heads in Gloas](https://github.com/grandinetech/grandine/commit/817c5eb8b1619ef64fec0b3614d0243e827f850e) - 2026-10-21
 ## Q3 2026
 
 

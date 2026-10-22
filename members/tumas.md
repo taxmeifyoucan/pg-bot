@@ -25,6 +25,10 @@ Team: Grandine
 * [Pull Request] [Ignore `zip` advisories RUSTSEC-2026-0367, 0368 and 0369 until zkm-sd…](https://github.com/grandinetech/grandine/pull/993) - 2026-10-19
 * [Pull Request] [Bump `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/997) - 2026-10-20
 * [Commit] [Ignore `zip` advisories RUSTSEC-2026-0367, 0368 and 0369 until zkm-sdk drops `ethers` 2.0](https://github.com/grandinetech/grandine/commit/e962cb4254a01a4d40274d1432a79da5ac939231) - 2026-10-20
+* [Review] [Review on: Prune invalid execution payload envelopes from cache and storage](https://github.com/grandinetech/grandine/pull/963#pullrequestreview-5599580204) - 2026-10-21
+* [Pull Request] [Update `rustls-webpki` & `webpki-roots` where possible, ignore RUSTSE…](https://github.com/grandinetech/grandine/pull/1001) - 2026-10-21
+* [Commit] [Update `rustls-webpki` & `webpki-roots` where possible, ignore RUSTSEC-2026-0381 and 0382 for zkVM backends](https://github.com/grandinetech/grandine/commit/892f85db85d381a2182cd93024b3d32095d147ec) - 2026-10-21
+* [Commit] [Bump `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/ea0c159557b37b8a47de5fcce7a1fb373940eb52) - 2026-10-21
 ## Q3 2026
 
 

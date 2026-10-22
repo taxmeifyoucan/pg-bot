@@ -20,6 +20,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Pull Request] [Add Armada x Protocol Guild Space to resources](https://github.com/protocolguild/documentation/pull/587) - 2026-10-16
 * [Commit] [Merge pull request #587 from tvanepps/add-armada-space-oct-2026](https://github.com/protocolguild/documentation/commit/a1c17968c2f767ee505209259e14481b750c11a2) - 2026-10-16
 * [Commit] [Add Armada x Protocol Guild Space to resources](https://github.com/protocolguild/documentation/commit/c773670be692a3c9f984f23c767bdc8f4e3876e9) - 2026-10-16
+* [Commit] [Add EF livestream to resources](https://github.com/protocolguild/documentation/commit/0c96260ffefce6a072df0d0873233c9fe5816c64) - 2026-10-21
 ## Q3 2026
 
 

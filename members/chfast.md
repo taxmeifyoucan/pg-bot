@@ -63,6 +63,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: invalidate committed field reads wiped by an in-range destruct (#24866)](https://github.com/erigontech/erigon/commit/020dfe2caf33e1ca706777d23cad2b6d5003490c) - 2026-10-14
 * [Commit] [execution/state, execution/stagedsync: read an EIP-8246-preserved coinbase as live in calcFees (#24880)](https://github.com/erigontech/erigon/commit/f572b3b2ac5dc0429cd84045cd6896ef67cd4b93) - 2026-10-14
 * [Review] [Review on: execution/stagedsync: schedule transfers after recipient validation](https://github.com/erigontech/erigon/pull/25040#pullrequestreview-5570865955) - 2026-10-19
+* [Review] [Review on: execution/vm: reuse the MULMOD reciprocal for a repeated modulus](https://github.com/erigontech/erigon/pull/25146#pullrequestreview-5596571744) - 2026-10-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -122,6 +123,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evmone 0.25.0](https://github.com/ipsilon/evmone/commit/e675712b0ce3c908f873dcc4e8944efbaedd0d07) - 2026-10-14
 * [Commit] [changelog: List changes for the 0.25.0 release (#1766)](https://github.com/ipsilon/evmone/commit/3de543645fb71e25d669a407bff9ea3f1a946638) - 2026-10-14
 * [Commit] [t8n: Output the block access list (#1758)](https://github.com/ipsilon/evmone/commit/c084c0bcf9bb78ab27f824c689d0fcde48fccfc5) - 2026-10-14
+* [Pull Request] [keccak: Use Armv8.2 SHA3 instructions on Apple silicon](https://github.com/ipsilon/evmone/pull/1773) - 2026-10-21
+* [Pull Request] [ci: Add native riscv64 build on GitHub Actions](https://github.com/ipsilon/evmone/pull/1772) - 2026-10-21
+* [Pull Request] [keccak: Compute theta column parities inside chi](https://github.com/ipsilon/evmone/pull/1771) - 2026-10-21
+* [Pull Request] [evm: Pass the execution context to execute()](https://github.com/ipsilon/evmone/pull/1770) - 2026-10-21
+* [Commit] [Convert keccak.c to C++ (#1696)](https://github.com/ipsilon/evmone/commit/e0bb527ef10d0c078b3f8c9593a9ce5136edb04d) - 2026-10-21
+* [Commit] [keccak: Compute theta column parities inside chi (#1771)](https://github.com/ipsilon/evmone/commit/7699a50c637f67ef696c6b9eac3c7131d1f2642a) - 2026-10-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

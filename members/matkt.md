@@ -88,6 +88,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Add the forkchoice head tracker (#11657)](https://github.com/besu-eth/besu/commit/267eb396fdb0135bc20938405f429dda7840c603) - 2026-10-20
 * [Commit] [SNAP2: Add the sync storage and the storage trie updates (#11625)](https://github.com/besu-eth/besu/commit/21b9f15003ab3ce5e433220400aed37ed508de88) - 2026-10-20
 * [Commit] [SNAP2: Add the range proofs and the ascending collapse Patricia trie (#11626)](https://github.com/besu-eth/besu/commit/2361f7f87fbc7443f3161d2600b099bf1d1b8234) - 2026-10-20
+* [Review] [Review on: Cache block access lists as RLP in a size-bounded cache](https://github.com/besu-eth/besu/pull/11455#pullrequestreview-5600456493) - 2026-10-21
+* [Pull Request] [SNAP2: Stop a single peer from raising the best peer height](https://github.com/besu-eth/besu/pull/11677) - 2026-10-21
+* [Review] [Review on: SNAP2: Add the header fetcher](https://github.com/besu-eth/besu/pull/11660#pullrequestreview-5595527226) - 2026-10-21
+* [Review] [Review on: Avoid eager code loading on account metadata and EXTCODEHASH reads](https://github.com/besu-eth/besu/pull/11679#pullrequestreview-5600822894) - 2026-10-21
+* [Commit] [SNAP2: Add the header fetcher (#11660)](https://github.com/besu-eth/besu/commit/0a4e7b19b7a62306453cee564e202557a7e28a21) - 2026-10-21
 ## Q3 2026
 
 

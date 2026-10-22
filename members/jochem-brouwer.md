@@ -23,6 +23,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT (#3676)](https://github.com/ethereum/execution-specs/commit/6e84f8e28f9d74e1ddf335b7d205894446fefc8f) - 2026-10-09
 * [Review] [Review on: refactor(test-benchmark): keep `CALLDATALOAD` benchmark attack block stack-neutral](https://github.com/ethereum/execution-specs/pull/3771#pullrequestreview-5515157946) - 2026-10-14
 * [Pull Request] [feat(test-benchmark): add invalid-block benchmark with understated header gas](https://github.com/ethereum/execution-specs/pull/3822) - 2026-10-14
+* [Review] [Review on: feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535#pullrequestreview-5607980197) - 2026-10-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02
@@ -52,6 +53,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5516921570) - 2026-10-14
 * [Review] [Review on: Update EIP-8173: Move to Review](https://github.com/ethereum/EIPs/pull/12500#pullrequestreview-5514943267) - 2026-10-14
 * [Commit] [Update EIP-7870: update Glamsterdam min r/w spec (#12491)](https://github.com/ethereum/EIPs/commit/e5337f8cd00eb02eaaebf8ca1e157e6e0cd945bc) - 2026-10-20
+* [Review] [Review on: Add EIP: eth/73 - Indexed Cell Requests](https://github.com/ethereum/EIPs/pull/12287#pullrequestreview-5604860040) - 2026-10-21
+* [Review] [Review on: Update EIP-5069: Update EIP Coordinators' responsibilities](https://github.com/ethereum/EIPs/pull/12565#pullrequestreview-5604383948) - 2026-10-21
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

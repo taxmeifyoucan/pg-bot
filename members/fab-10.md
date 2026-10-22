@@ -68,6 +68,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Move future BPO forks after Amsterdam](https://github.com/besu-eth/besu/pull/11662) - 2026-10-20
 * [Commit] [Move future BPO forks after Amsterdam (#11662)](https://github.com/besu-eth/besu/commit/dd076606a33574449e4a377ba565ced3a20c19b7) - 2026-10-20
 * [Commit] [Introduce TransactionEventNotifier and notify plugins asynchronously (#11574)](https://github.com/besu-eth/besu/commit/6cac8eba83ef24f0381af66e46796045122afed7) - 2026-10-20
+* [Pull Request] [Notify the sequenced pool transaction events in the order they happen](https://github.com/besu-eth/besu/pull/11685) - 2026-10-21
+* [Review] [Review on: Notify the sequenced pool transaction events in the order they happen](https://github.com/besu-eth/besu/pull/11685#pullrequestreview-5602070790) - 2026-10-21
+* [Pull Request] [Notify the layered pool transaction added before making space for it](https://github.com/besu-eth/besu/pull/11688) - 2026-10-21
+* [Pull Request] [Notify the JSON-RPC pending transaction listeners outside the pool lock](https://github.com/besu-eth/besu/pull/11689) - 2026-10-21
+* [Review] [Review on: Notify the JSON-RPC pending transaction listeners outside the pool lock](https://github.com/besu-eth/besu/pull/11689#pullrequestreview-5602906472) - 2026-10-21
+* [Review] [Review on: Allow sequenced TX pool to only retain transactions for a short period of time (i.e. < the current 1 hour minimum)](https://github.com/besu-eth/besu/pull/11588#pullrequestreview-5599410466) - 2026-10-21
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

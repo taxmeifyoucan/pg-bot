@@ -54,6 +54,15 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: perf(db): decode chain-level batches directly](https://github.com/NethermindEth/nethermind/pull/14818#pullrequestreview-5571040749) - 2026-10-19
 * [Commit] [perf(prewarm): start a block's warm workers without waiting for the mempool runs (#14803)](https://github.com/NethermindEth/nethermind/commit/4c700670b2514c291f2b394f6bd6ab7e34d4aaa0) - 2026-10-20
 * [Commit] [perf(prewarm): read ahead the storage of the transaction block processing is executing (#14693)](https://github.com/NethermindEth/nethermind/commit/1d871b81bd92ad074adab24ae145922f00e999e7) - 2026-10-20
+* [Pull Request] [test(blockchain): fix flaky Blockchain tests](https://github.com/NethermindEth/nethermind/pull/15044) - 2026-10-22
+* [Review] [Review on: test(blockchain): fix flaky Blockchain tests](https://github.com/NethermindEth/nethermind/pull/15044#pullrequestreview-5608077853) - 2026-10-22
+* [Pull Request] [test(network): fix flaky Network tests](https://github.com/NethermindEth/nethermind/pull/15043) - 2026-10-22
+* [Review] [Review on: test(network): fix flaky Network tests](https://github.com/NethermindEth/nethermind/pull/15043#pullrequestreview-5607981431) - 2026-10-22
+* [Pull Request] [test(merge): fix flaky Merge.Plugin tests](https://github.com/NethermindEth/nethermind/pull/15039) - 2026-10-21
+* [Pull Request] [test(rpc): fix flaky JsonRpc tests](https://github.com/NethermindEth/nethermind/pull/15038) - 2026-10-21
+* [Review] [Review on: test(rpc): fix flaky JsonRpc tests](https://github.com/NethermindEth/nethermind/pull/15038#pullrequestreview-5607469527) - 2026-10-21
+* [Pull Request] [test(txpool): fix flaky TxPool tests](https://github.com/NethermindEth/nethermind/pull/15032) - 2026-10-21
+* [Review] [Review on: test(network): cover privileged-peer socket reset handling](https://github.com/NethermindEth/nethermind/pull/14974#pullrequestreview-5598897589) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

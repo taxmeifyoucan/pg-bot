@@ -70,6 +70,21 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [kvt: fix multiGet assert on empty key list](https://github.com/status-im/nimbus-eth1/pull/5022) - 2026-10-20
 * [Pull Request] [stateless: add SP1 as a second zkVM target](https://github.com/status-im/nimbus-eth1/pull/5019) - 2026-10-20
 * [Commit] [stateless: add SP1 as a second zkVM target (#5019)](https://github.com/status-im/nimbus-eth1/commit/d08ef2b4acddb945deb95d390022ad13d32b1115) - 2026-10-20
+* [Pull Request] [stateless: fail when the witness lacks a storage root node](https://github.com/status-im/nimbus-eth1/pull/5036) - 2026-10-21
+* [Pull Request] [stateless: require the account proof for a zero credit](https://github.com/status-im/nimbus-eth1/pull/5034) - 2026-10-21
+* [Pull Request] [stateless: update EEST zkevm test fixtures to v21.0.6](https://github.com/status-im/nimbus-eth1/pull/5031) - 2026-10-21
+* [Pull Request] [stateless: keep branch node that is also the child of an extension](https://github.com/status-im/nimbus-eth1/pull/5030) - 2026-10-21
+* [Pull Request] [fix rejection of tx signatures with s == secp256k1n/2](https://github.com/status-im/nimbus-eth1/pull/5028) - 2026-10-21
+* [Review] [Review on: kvt: fix multiGet assert on empty key list](https://github.com/status-im/nimbus-eth1/pull/5022#pullrequestreview-5596827154) - 2026-10-21
+* [Pull Request] [beacon sync: fix unchecked hash of header fetched by hash](https://github.com/status-im/nimbus-eth1/pull/5029) - 2026-10-21
+* [Review] [Review on: evm: fix OverflowDefect in revert reason decoding](https://github.com/status-im/nimbus-eth1/pull/5025#pullrequestreview-5596600655) - 2026-10-21
+* [Commit] [stateless: require the account proof for a zero credit (#5034)](https://github.com/status-im/nimbus-eth1/commit/de162cc27c15d973ae6180c98e34265fcd75ec7f) - 2026-10-21
+* [Commit] [stateless: update EEST zkevm test fixtures to v21.0.6 (#5031)](https://github.com/status-im/nimbus-eth1/commit/019044259a940df3d54ca4dc08c6f474063ee5d6) - 2026-10-21
+* [Commit] [stateless: keep branch node that is also the child of an extension (#5030)](https://github.com/status-im/nimbus-eth1/commit/0b5a32dc6657ed6c8011fd69b26b0c553519cdbe) - 2026-10-21
+* [Commit] [fix rejection of tx signatures with s == secp256k1n/2 (#5028)](https://github.com/status-im/nimbus-eth1/commit/cf99a4706161fc3b157df055b62daaa7171419d8) - 2026-10-21
+* [Commit] [kvt: fix multiGet assert on empty key list (#5022)](https://github.com/status-im/nimbus-eth1/commit/79d4caa72f0f4245a61343740a5a87ab2ae85039) - 2026-10-21
+* [Commit] [evm: fix OverflowDefect in revert reason decoding (#5025)](https://github.com/status-im/nimbus-eth1/commit/843430d95829c3dea5cb9e8e1b93381872bab9a8) - 2026-10-21
+* [Commit] [rpc: fix sign/send transaction crash on missing from (#5023)](https://github.com/status-im/nimbus-eth1/commit/67d3d3c203ca10a7c934b63550108f9b32421ba0) - 2026-10-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 ## Q3 2026

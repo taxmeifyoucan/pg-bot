@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aanto
 * [Pull Request] [Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282) - 2026-10-09
 * [Pull Request] [Build Linux binaries natively instead of with cross](https://github.com/sigp/lighthouse/pull/10283) - 2026-10-09
 * [Review] [Review on: Move release builds to GitHub-hosted runners](https://github.com/sigp/lighthouse/pull/10282#pullrequestreview-5487225458) - 2026-10-12
+* [Review] [Review on: Fix commit hash not showing in release build](https://github.com/sigp/lighthouse/pull/10406#pullrequestreview-5595181125) - 2026-10-21
 ## Q3 2026
 
 

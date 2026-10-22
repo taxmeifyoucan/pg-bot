@@ -74,6 +74,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(deps): update Int256 package (#14985)](https://github.com/NethermindEth/nethermind/commit/eb2673fe61957e0a481e3bd5ac6f29c6fa2c5844) - 2026-10-20
 * [Commit] [ci(release)!: sign one SHA256SUMS and attest the packages instead of signing each (#14932)](https://github.com/NethermindEth/nethermind/commit/71db4322529e4801c017dad4372f56430c0a153e) - 2026-10-20
 * [Commit] [ci(zkevm): release guest ELFs with ere verification keys (#14931)](https://github.com/NethermindEth/nethermind/commit/34ed4b87e57af79ba4e274b71ecb6cbc7611857e) - 2026-10-20
+* [Pull Request] [ci: simplify the PR template and derive labels from the title only](https://github.com/NethermindEth/nethermind/pull/15020) - 2026-10-21
+* [Pull Request] [feat(zkevm): adopt tests-zkevm@v21.0.6](https://github.com/NethermindEth/nethermind/pull/15031) - 2026-10-21
+* [Pull Request] [test(zkevm): run the guest trie write tests serially](https://github.com/NethermindEth/nethermind/pull/15034) - 2026-10-21
+* [Pull Request] [refactor(tools): move multi-project tools into per-tool directories](https://github.com/NethermindEth/nethermind/pull/15022) - 2026-10-21
+* [Commit] [test(zkevm): run the guest trie write tests serially (#15034)](https://github.com/NethermindEth/nethermind/commit/88b7de00e1def2f699c908ffaadedcdf8c22cde6) - 2026-10-21
+* [Commit] [refactor(tools): move multi-project tools into per-tool directories (#15022)](https://github.com/NethermindEth/nethermind/commit/e6f60492b7577232edfb59d2917827d812c03f69) - 2026-10-21
+* [Commit] [ci(zkevm): generate guest verification keys with ere 0.19.3 (#15023)](https://github.com/NethermindEth/nethermind/commit/7aa160726f37a5f1fc5d1d66a559ef087166f3a0) - 2026-10-21
+* [Commit] [fix(zkevm): recover the block access list in StatelessInputGen and re-pin guest inputs (#15016)](https://github.com/NethermindEth/nethermind/commit/968d5e69e651ee0b53e2c200035c4656a89b9a84) - 2026-10-21
+* [Commit] [chore: revise CODEOWNERS (#15012)](https://github.com/NethermindEth/nethermind/commit/d9fe0fe10a87245d576d9b965a96b542c36048b1) - 2026-10-21
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

@@ -57,9 +57,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5748#pullrequestreview-5571404719) - 2026-10-19
 * [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5586625420) - 2026-10-20
 * [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5585315172) - 2026-10-20
+* [Review] [Review on: Require uv 0.13.4 or newer to avoid a compromised root CA](https://github.com/ethereum/consensus-specs/pull/5752#pullrequestreview-5602369828) - 2026-10-21
+* [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5599735193) - 2026-10-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 
+* [Issue] [All Core Devs - Testing (ACDT) #102 October 26, 2026](https://github.com/ethereum/pm/issues/2281) - 2026-10-21
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Recurring periods of late block imports](https://github.com/Consensys-Incorporated/teku/issues/11465) - 2026-10-09
 

@@ -133,6 +133,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Correctly handle payload invalidation after optimistic sync](https://github.com/Consensys-Incorporated/teku/pull/11506#pullrequestreview-5581620486) - 2026-10-20
 * [Commit] [Make batch gather window test independent of submission timing (#11550)](https://github.com/Consensys-Incorporated/teku/commit/32f5f9090cf36c78f5fd81f8c2bbf92ecc12d46e) - 2026-10-21
 * [Commit] [Set Gloas attestation index from fork choice payload status (#11498)](https://github.com/Consensys-Incorporated/teku/commit/f1c8bfbe7383de418f4ecc72558b92923d9d6ede) - 2026-10-20
+* [Review] [Review on: Refactor state data BEACON-API endpoints](https://github.com/Consensys-Incorporated/teku/pull/11558#pullrequestreview-5608653097) - 2026-10-22
+* [Pull Request] [Keep the finalized anchor DAS tracker alive while its payload is recovered](https://github.com/Consensys-Incorporated/teku/pull/11553) - 2026-10-21
+* [Review] [Review on: Keep the finalized anchor DAS tracker alive while its payload is recovered](https://github.com/Consensys-Incorporated/teku/pull/11553#pullrequestreview-5607514260) - 2026-10-21
+* [Review] [Review on: Verify attestation signatures before saving them for future processing](https://github.com/Consensys-Incorporated/teku/pull/11560#pullrequestreview-5608576253) - 2026-10-22
+* [Review] [Review on: FCR nit comment fix](https://github.com/Consensys-Incorporated/teku/pull/11559#pullrequestreview-5605808102) - 2026-10-21
+* [Review] [Review on: Temporarily disable greclipse while download.eclipse.org is down](https://github.com/Consensys-Incorporated/teku/pull/11561#pullrequestreview-5607266045) - 2026-10-21
+* [Pull Request] [Merge master into heze-devnet-2](https://github.com/Consensys-Incorporated/teku/pull/11562) - 2026-10-21
+* [Review] [Review on: Ptc signature batch verify](https://github.com/Consensys-Incorporated/teku/pull/11538#pullrequestreview-5598836203) - 2026-10-21
+* [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5599176803) - 2026-10-21
+* [Review] [Review on: Key the gossip seen cache by a cheap SHA-256 fast id](https://github.com/Consensys-Incorporated/teku/pull/11549#pullrequestreview-5598573791) - 2026-10-21
+* [Commit] [Keep imported slashing protection from being overwritten by cache (#11539)](https://github.com/Consensys-Incorporated/teku/commit/1274c4ced21a54ea47ce11d5bf167ebbd6ce813d) - 2026-10-21
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

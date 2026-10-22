@@ -69,6 +69,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Fix backfill service deadlock when waiting for completion](https://github.com/OffchainLabs/prysm/pull/17635#pullrequestreview-5590023351) - 2026-10-20
 * [Review] [Review on: fix(sync): stop data column logging on service cancellation](https://github.com/OffchainLabs/prysm/pull/17738#pullrequestreview-5586078752) - 2026-10-20
 * [Review] [Review on: Implement EIP-8365: disallow new 0x00 validators](https://github.com/OffchainLabs/prysm/pull/17679#pullrequestreview-5584030558) - 2026-10-20
+* [Review] [Review on: fix flaky tests](https://github.com/OffchainLabs/prysm/pull/17756#pullrequestreview-5606981292) - 2026-10-21
+* [Review] [Review on: FOCIL: Add types and config](https://github.com/OffchainLabs/prysm/pull/17741#pullrequestreview-5602073109) - 2026-10-21
+* [Review] [Review on: Create the validator database on slashing protection import if missing](https://github.com/OffchainLabs/prysm/pull/17700#pullrequestreview-5600717829) - 2026-10-21
+* [Review] [Review on: chore: cleanup dependecies](https://github.com/OffchainLabs/prysm/pull/17752#pullrequestreview-5600604500) - 2026-10-21
+* [Review] [Review on: Use and advertise IPV6 ports for TCP and QUIC](https://github.com/OffchainLabs/prysm/pull/17740#pullrequestreview-5597715184) - 2026-10-21
+* [Pull Request] [Ask block to peer sending us an attestation for it.](https://github.com/OffchainLabs/prysm/pull/17754) - 2026-10-21
+* [Pull Request] [Validator client: put the auth token in the wallet directory by default](https://github.com/OffchainLabs/prysm/pull/17750) - 2026-10-21
+* [Commit] [Validator client: put the auth token in the wallet directory by default (#17750)](https://github.com/OffchainLabs/prysm/commit/026d47a9178af7a65f1e2b832dbe41acbb2c7ac6) - 2026-10-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

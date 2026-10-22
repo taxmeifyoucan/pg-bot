@@ -144,6 +144,44 @@ Team: Erigon
 * [Commit] [execution/state: keep BlockStateCache accounts and storage decoded (#24505)](https://github.com/erigontech/erigon/commit/276fb0ad738abcbc6dff9b878baa843b24854891) - 2026-10-20
 * [Commit] [cl: copy each new head into a reused beacon state instead of allocating one (#25003)](https://github.com/erigontech/erigon/commit/ac0b33d2ff936a80ab0fc9292f20d807d221015d) - 2026-10-20
 * [Commit] [cl/phase1/network/registry: sweep idle peer limiters inside acquire (#25039)](https://github.com/erigontech/erigon/commit/9c3af7b596c13deb279181b2dcb2fef4c50e2cf3) - 2026-10-20
+* [Pull Request] [execution/vm: load PUSH3-32 immediates as one masked 32-byte window](https://github.com/erigontech/erigon/pull/25210) - 2026-10-22
+* [Pull Request] [execution/execmodule: test import when the coinbase is the burnt-fee contract](https://github.com/erigontech/erigon/pull/25168) - 2026-10-21
+* [Review] [Review on: db/datadir/reset: clear chaindata, patch bad files, guard renames](https://github.com/erigontech/erigon/pull/25104#pullrequestreview-5595018519) - 2026-10-21
+* [Review] [Review on: execution/state: emit no writes for an account created and destroyed in one tx](https://github.com/erigontech/erigon/pull/25160#pullrequestreview-5603366368) - 2026-10-21
+* [Pull Request] [[r3.8] cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25174) - 2026-10-21
+* [Review] [Review on: execution/vm: run cheap context, bitwise, DUP9-16 and SWAP5-16 ops inline](https://github.com/erigontech/erigon/pull/25164#pullrequestreview-5603366662) - 2026-10-21
+* [Review] [Review on: db/snapshotsync: open caplin segments like EL so covered ones can be unlinked](https://github.com/erigontech/erigon/pull/25013#pullrequestreview-5602802958) - 2026-10-21
+* [Pull Request] [execution/execmodule: test fork choice recovery after an invalid safe hash](https://github.com/erigontech/erigon/pull/25167) - 2026-10-21
+* [Pull Request] [cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25173) - 2026-10-21
+* [Pull Request] [cl/antiquary: call RemoveOverlaps for caplin blocks and blobs](https://github.com/erigontech/erigon/pull/25124) - 2026-10-22
+* [Review] [Review on: execution/vm: reuse the MULMOD reciprocal for a repeated modulus](https://github.com/erigontech/erigon/pull/25146#pullrequestreview-5603365484) - 2026-10-21
+* [Review] [Review on: Makefile: build C++ cgo deps without NDEBUG](https://github.com/erigontech/erigon/pull/25181#pullrequestreview-5603368566) - 2026-10-21
+* [Review] [Review on: cl: enable Gloas FULL-parent payload preparation](https://github.com/erigontech/erigon/pull/24938#pullrequestreview-5603365201) - 2026-10-21
+* [Review] [Review on: cl/transition/impl/eth2/statechange: apply rewards and penalties per delta set as in the spec](https://github.com/erigontech/erigon/pull/25150#pullrequestreview-5603372277) - 2026-10-21
+* [Review] [Review on: cl/phase1/core/caches, cl/phase1/core/state, cl/phase1/stages, cl/transition/impl/eth2/statechange: stop sharing the total active balance across branches](https://github.com/erigontech/erigon/pull/25172#pullrequestreview-5603366988) - 2026-10-21
+* [Review] [Review on: cl, cmd: make beacon state copies cheap and keep the fork graph's current state inside fork choice](https://github.com/erigontech/erigon/pull/25151#pullrequestreview-5603365857) - 2026-10-21
+* [Review] [Review on: [r3.8] ci: exercise Caplin Glamsterdam under transaction load](https://github.com/erigontech/erigon/pull/25178#pullrequestreview-5603367593) - 2026-10-21
+* [Review] [Review on: execution/cache: drain otter before checking the code cache size in RespectCap](https://github.com/erigontech/erigon/pull/25190#pullrequestreview-5603369584) - 2026-10-21
+* [Review] [Review on: cl: batch-verify gossip PTC signatures and re-check failed batches in parallel](https://github.com/erigontech/erigon/pull/25198#pullrequestreview-5603371942) - 2026-10-21
+* [Review] [Review on: [r3.8] cl, execution: complete payload preparation coverage and hardening](https://github.com/erigontech/erigon/pull/25180#pullrequestreview-5603368250) - 2026-10-21
+* [Review] [Review on: cl/cltypes/solid, cl/phase1/forkchoice: cache Gloas payload roots and hash them outside the fork-choice lock](https://github.com/erigontech/erigon/pull/25193#pullrequestreview-5603370644) - 2026-10-21
+* [Review] [Review on: cl/transition, cl/phase1/core/state: verify Gloas bid and payload attestation signatures in the block batch](https://github.com/erigontech/erigon/pull/25192#pullrequestreview-5603370302) - 2026-10-21
+* [Review] [Review on: cl/cltypes: cache the Gloas block body root by its encoding](https://github.com/erigontech/erigon/pull/25191#pullrequestreview-5603369996) - 2026-10-21
+* [Review] [Review on: [r3.8] cl: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25197#pullrequestreview-5603516461) - 2026-10-21
+* [Review] [Review on: cl/phase1/network, cl/phase1/stages, cl/beacon/handler: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25189#pullrequestreview-5603516044) - 2026-10-21
+* [Review] [Review on: [r3.8] cl: persist the highest custody group count across restarts](https://github.com/erigontech/erigon/pull/25196#pullrequestreview-5603371596) - 2026-10-21
+* [Review] [Review on: [r3.8] cl: learn attached validators from subscriptions and proposer preferences](https://github.com/erigontech/erigon/pull/25195#pullrequestreview-5603371283) - 2026-10-21
+* [Review] [Review on: [r3.8] cl/beacon/handler: format node identity metadata as the Beacon API spec requires](https://github.com/erigontech/erigon/pull/25194#pullrequestreview-5603370992) - 2026-10-21
+* [Review] [Review on: cl/das, cl/persistence/beacon_indicies, cl/phase1/forkchoice: persist the highest custody group count across restarts](https://github.com/erigontech/erigon/pull/25187#pullrequestreview-5603369261) - 2026-10-21
+* [Review] [Review on: cl: learn attached validators from subscriptions and proposer preferences](https://github.com/erigontech/erigon/pull/25183#pullrequestreview-5603368920) - 2026-10-21
+* [Review] [Review on: cl/beacon/handler: format node identity metadata as the Beacon API spec requires](https://github.com/erigontech/erigon/pull/25179#pullrequestreview-5603367950) - 2026-10-21
+* [Review] [Review on: [r3.8] cl: cache Gloas balances and inactivity scores roots incrementally](https://github.com/erigontech/erigon/pull/25175#pullrequestreview-5603367325) - 2026-10-21
+* [Review] [Review on: execution/vm: pin MCOPY fast-path bounds, copied bytes and dispatch](https://github.com/erigontech/erigon/pull/25156#pullrequestreview-5603366093) - 2026-10-21
+* [Pull Request] [vm: run ADDRESS, ORIGIN, CALLER and GASPRICE on the fast path](https://github.com/erigontech/erigon/pull/25162) - 2026-10-21
+* [Commit] [execution/execmodule: test import when the coinbase is the burnt-fee contract (#25168)](https://github.com/erigontech/erigon/commit/195f12b3c29f23b812eab6be95204df4bc08c7a8) - 2026-10-22
+* [Commit] [db/datadir/reset: clear chaindata, patch bad files, guard renames (#25104)](https://github.com/erigontech/erigon/commit/052b41b023358e585b4717a7a9de9513914f7cfa) - 2026-10-22
+* [Commit] [execution/vm: write PREVRANDAO straight into its stack slot (#25185)](https://github.com/erigontech/erigon/commit/f54c28bbc98e38ac16b552e03099e68d9e240f10) - 2026-10-21
+* [Commit] [execution/vm: copy cached address words onto the stack without a memmove call on amd64 (#25186)](https://github.com/erigontech/erigon/commit/f2b2260bd8653cc87319ca9d37731e0c1303eeed) - 2026-10-21
 ## Q3 2026
 
 

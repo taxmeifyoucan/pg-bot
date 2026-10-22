@@ -71,6 +71,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge branch 'master' into dependabot/go_modules/dependencies-07156ccd57](https://github.com/ethpandaops/dora/commit/f5ee80d2eb24d940e8bd2e700582724bd6809e33) - 2026-10-19
 * [Commit] [Merge pull request #896 from ethpandaops/bbusa/heze-eip8198](https://github.com/ethpandaops/dora/commit/7eb22e650a3e74ae5a2f0ac2b72654356f4a3aeb) - 2026-10-19
 * [Commit] [Merge branch 'master' into bbusa/heze-eip8198](https://github.com/ethpandaops/dora/commit/0e86843760d035b6d32d373035568660d65801a1) - 2026-10-19
+* [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916) - 2026-10-21
+* [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#916)](https://github.com/ethpandaops/dora/commit/bcbff3eb4b9165348d69fb3c3c37b4a140c317a7) - 2026-10-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -78,6 +80,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-8365: gate activation instead of rejecting 0x00 deposits](https://github.com/ethereum/EIPs/pull/12513) - 2026-10-15
 * [Pull Request] [Update EIP-8433: retire 0x00 validators at fork activation](https://github.com/ethereum/EIPs/pull/12514) - 2026-10-15
 * [Pull Request] [Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552) - 2026-10-20
+* [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5599362661) - 2026-10-21
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
@@ -91,6 +94,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 
+* [Pull Request] [Fix restart of a Gloas-at-genesis node before finalization](https://github.com/Consensys-Incorporated/teku/pull/11556) - 2026-10-21
+* [Issue] [Teku fails to start after restart on Gloas-at-genesis chain before finalization](https://github.com/Consensys-Incorporated/teku/issues/11555) - 2026-10-21
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [fix: verify inclusion list signatures without batching](https://github.com/ChainSafe/lodestar/pull/10282) - 2026-10-06
 
@@ -131,6 +136,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: bump go to 1.26](https://github.com/ethpandaops/assertoor/commit/5b20c1df7a2db9a66e397862ae80b9d224d7e876) - 2026-10-13
 
 * [Review] [Review on: fix(web): gate pprof behind the login](https://github.com/ethpandaops/assertoor/pull/245#pullrequestreview-5564907131) - 2026-10-18
+* [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/pull/246) - 2026-10-21
+* [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/commit/068c102446300b8d6d6b427779977cacbb96d861) - 2026-10-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): check tx gas limit against floor-inclusive block gas used](https://github.com/ethereum/execution-specs/pull/3832) - 2026-10-15
 * [Commit] [feat(tests): check tx gas limit against floor-inclusive block gas used (#3832)](https://github.com/ethereum/execution-specs/commit/172160ee6e05f635b1bbcbd0ef03ebf5d9ccffad) - 2026-10-15
@@ -144,6 +151,28 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275) - 2026-10-16
+
+[ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
+* [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/tracoor/pull/71) - 2026-10-21
+* [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#71)](https://github.com/ethpandaops/tracoor/commit/f5c51ae9fef3ff4c2d53f99d17219ab8a2465af7) - 2026-10-21
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/pull/929) - 2026-10-21
+* [Commit] [Merge pull request #929 from ethpandaops/bbusa/emudhra-ca-fix](https://github.com/ethpandaops/xatu/commit/2ea91a78ee2f84fff6930f3ec25395e620282f98) - 2026-10-21
+* [Commit] [fix: build release binaries with goreleaser-cross v1.27.3](https://github.com/ethpandaops/xatu/commit/e6404f365d2dd9239017fc442e247698ede0b351) - 2026-10-21
+* [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/commit/ba7eceec8b1ebfaff2f59606f288caf3d40121ab) - 2026-10-21
+
+[ethpandaops/pandafuzz](https://github.com/ethpandaops/pandafuzz)
+* [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/pandafuzz/pull/9) - 2026-10-21
+* [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#9)](https://github.com/ethpandaops/pandafuzz/commit/284c1ef39f2d381520d722089c87ddf7019cb117) - 2026-10-21
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/contributoor/pull/258) - 2026-10-21
+* [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#258)](https://github.com/ethpandaops/contributoor/commit/ca807acddd94d5e3f2b4fd08f58668c32521622e) - 2026-10-21
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118) - 2026-10-21
+* [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#118)](https://github.com/ethpandaops/cartographoor/commit/05ec1ee135c79097bb7acd72a44778d73505c8c0) - 2026-10-21
 ## Q3 2026
 
 

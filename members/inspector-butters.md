@@ -19,6 +19,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [integrate setLevelWithData into SetAnchor](https://github.com/OffchainLabs/prysm/pull/17671) - 2026-10-12
 * [Pull Request] [Gloas light client header construction.](https://github.com/OffchainLabs/prysm/pull/17672) - 2026-10-12
 * [Commit] [Gloas light client header construction. (#17672)](https://github.com/OffchainLabs/prysm/commit/636c6e86001434370cac3a32100ab1f56e5a2c4e) - 2026-10-20
+* [Review] [Review on: `BeaconState`: Rename proto to container](https://github.com/OffchainLabs/prysm/pull/17666#pullrequestreview-5600000808) - 2026-10-21
+* [Review] [Review on: `BeaconState`: Add generic functions instead of hand-written constructors/extractors](https://github.com/OffchainLabs/prysm/pull/17659#pullrequestreview-5600340794) - 2026-10-21
+* [Pull Request] [Lc gloas db](https://github.com/OffchainLabs/prysm/pull/17755) - 2026-10-21
+* [Pull Request] [Gloas light client update construction.](https://github.com/OffchainLabs/prysm/pull/17753) - 2026-10-21
 ## Q3 2026
 
 

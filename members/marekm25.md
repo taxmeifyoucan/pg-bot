@@ -17,6 +17,11 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5545583863) - 2026-10-16
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [chore(agents): add EIP implementation, review, and fork-creation skills](https://github.com/NethermindEth/nethermind/pull/10709) - 2026-10-21
+* [Commit] [chore(agents): add EIP implementation, review, and fork-creation skills (#10709)](https://github.com/NethermindEth/nethermind/commit/31279eef4835a0fd35c9e880645956acea862c9e) - 2026-10-21
+* [Commit] [feat(evm): EIP-4758 deactivate SELFDESTRUCT (SENDALL) (#12231)](https://github.com/NethermindEth/nethermind/commit/1eff445f2b98c22a8649c04e3ceb1c882b706645) - 2026-10-21
 ## Q3 2026
 
 

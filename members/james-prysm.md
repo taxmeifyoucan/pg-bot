@@ -92,6 +92,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [sync contribution bug fix (#17745)](https://github.com/OffchainLabs/prysm/commit/9c7f9f9b711f00c9ce933812f26a7252897658f2) - 2026-10-20
 * [Commit] [data column hardening for gloas (#17736)](https://github.com/OffchainLabs/prysm/commit/0653008428f18d851dddae31322222155aa36117) - 2026-10-20
 * [Commit] [check beacon blocks by range max (#17717)](https://github.com/OffchainLabs/prysm/commit/17ddb950938748389c1402b71796e34a7d30d925) - 2026-10-20
+* [Pull Request] [fix flaky tests](https://github.com/OffchainLabs/prysm/pull/17756) - 2026-10-21
+* [Commit] [update go to 1.26.10 (#17746)](https://github.com/OffchainLabs/prysm/commit/59d56353d3314b66c9a6cbcc05807dc18b663972) - 2026-10-21
 ## Q3 2026
 
 

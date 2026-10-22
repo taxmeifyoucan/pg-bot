@@ -20,6 +20,7 @@ Team: Grandine
 * [Issue] [Implement missing ePBS configuration](https://github.com/grandinetech/grandine/issues/976) - 2026-10-13
 * [Issue] [Make embeddable Grandine suitable to be embedded in non ELs too.](https://github.com/grandinetech/grandine/issues/999) - 2026-10-20
 * [Issue] [Keep fallback ELs updated](https://github.com/grandinetech/grandine/issues/998) - 2026-10-20
+* [Pull Request] [Updated documentation](https://github.com/grandinetech/grandine/pull/1002) - 2026-10-21
 ## Q3 2026
 
 

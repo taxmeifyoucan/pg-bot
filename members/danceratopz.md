@@ -50,6 +50,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-consume): start a fresh ethrex enginex client after a deep chain](https://github.com/ethereum/execution-specs/pull/3872) - 2026-10-20
 * [Commit] [fix(test-consume): start a fresh ethrex enginex client after a deep chain (#3872)](https://github.com/ethereum/execution-specs/commit/958b1424097f91591852052a6dc948ff05602505) - 2026-10-20
 * [Commit] [feat(tooling,ci): publish ready-to-run docker images for the eels hive simulators (#3572)](https://github.com/ethereum/execution-specs/commit/6d46697bd0c054967c692d95600ea5a3de5b121c) - 2026-10-20
+* [Review] [Review on: refactor(tests): THE BIG ported-static call-chain tests collapse](https://github.com/ethereum/execution-specs/pull/3876#pullrequestreview-5599168616) - 2026-10-21
+* [Pull Request] [chore(tooling): require uv 0.13.4 and bump setup-uv to v10.3.0](https://github.com/ethereum/execution-specs/pull/3880) - 2026-10-21
+* [Pull Request] [fix(test-consume): end each hive test only once](https://github.com/ethereum/execution-specs/pull/3879) - 2026-10-21
+* [Review] [Review on: perf(ci, doc, test-fill): speed up PR checks](https://github.com/ethereum/execution-specs/pull/3813#pullrequestreview-5601034165) - 2026-10-21
+* [Pull Request] [feat(test-specs): fill frame_tx variants as engine_x fixtures](https://github.com/ethereum/execution-specs/pull/3877) - 2026-10-21
+* [Commit] [chore(tooling): require uv 0.13.4 and bump setup-uv to v10.3.0 (#3880)](https://github.com/ethereum/execution-specs/commit/fffef2efe27c9000942452e7f763f236bd8b9b98) - 2026-10-21
+* [Commit] [fix(test-consume): end each hive test only once (#3879)](https://github.com/ethereum/execution-specs/commit/921c0796af9ab7759440eb24436b6ac96fd5bea0) - 2026-10-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -71,11 +78,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [params: allow BPO forks to activate after Amsterdam](https://github.com/ethereum/go-ethereum/pull/35975) - 2026-10-19
 
+* [Commit] [params: allow BPO forks to activate after Amsterdam (#35975)](https://github.com/ethereum/go-ethereum/commit/748cca24b5ece979f709f38b311f0cb993e10838) - 2026-10-21
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/status-im/nimbus-eth1/pull/5012) - 2026-10-19
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Require uv 0.13.4 or newer to avoid a compromised root CA](https://github.com/ethereum/consensus-specs/pull/5752) - 2026-10-21
+* [Commit] [Require uv 0.13.4 or newer to avoid a compromised root CA (#5752)](https://github.com/ethereum/consensus-specs/commit/75428da3274397af7254f40814c00e243f792d3d) - 2026-10-21
 ## Q3 2026
 
 

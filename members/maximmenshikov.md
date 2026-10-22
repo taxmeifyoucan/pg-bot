@@ -54,6 +54,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [fixup/11/upstream: split A detection and --assume-no-concurrency out](https://github.com/NethermindEth/dotnet-riscv/commit/545a22d28ae7d70e824c3296d4f40d4daf256417) - 2026-10-06
 * [Commit] [CI: add a suffix to the run name and release tag](https://github.com/NethermindEth/dotnet-riscv/commit/5d87a2e4ba90419cfa29d2b99509427436df2151) - 2026-10-06
 * [Commit] [CI: pin the runners to ubuntu-24.04](https://github.com/NethermindEth/dotnet-riscv/commit/5e58cad0dffd1a3f31f52f63d12543bc32afe209) - 2026-10-19
+* [Review] [Review on: fixup/11/upstream: perf-83 - opt-in JitZkNoGcMustInit drops GC-only prolog zeroing](https://github.com/NethermindEth/dotnet-riscv/pull/34#pullrequestreview-5596511499) - 2026-10-21
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -77,6 +78,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [ci: log in to Docker Hub with OIDC from the docker-hub environment](https://github.com/NethermindEth/bflat-riscv64/commit/581145cfa3b38a12b5d50acf5bf8c03dbe5c360b) - 2026-10-14
 * [Review] [Review on: perf(zkvm): link a 64-bit memmove and memset into the sp1 and openvm guests](https://github.com/NethermindEth/bflat-riscv64/pull/58#pullrequestreview-5532629490) - 2026-10-15
 * [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/commit/321edc6406497fbd6c6e09f717307e82df47bb90) - 2026-10-19
+* [Pull Request] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf.r396](https://github.com/NethermindEth/bflat-riscv64/pull/63) - 2026-10-21
 ## Q3 2026
 
 

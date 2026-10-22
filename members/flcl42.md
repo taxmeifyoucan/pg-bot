@@ -38,6 +38,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(jsonrpc): return the accessed list from eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/14910#pullrequestreview-5578471597) - 2026-10-19
 * [Commit] [fix(consensus): reject invalid typed transaction parity unconditionally (#14713)](https://github.com/NethermindEth/nethermind/commit/a6f1357dce4e1ca9bb37e5c92bad50eb4fd8c231) - 2026-10-19
 * [Review] [Review on: fix(debug): validate precompile moves before traceCall fees](https://github.com/NethermindEth/nethermind/pull/14834#pullrequestreview-5583834214) - 2026-10-20
+* [Review] [Review on: perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952#pullrequestreview-5604746198) - 2026-10-21
+* [Review] [Review on: feat(abi): add a Span-based ABI encoder and decoder](https://github.com/NethermindEth/nethermind/pull/14999#pullrequestreview-5606138556) - 2026-10-21
+* [Review] [Review on: fix(rpc): align four JSON-RPC behaviours with execution-apis](https://github.com/NethermindEth/nethermind/pull/14978#pullrequestreview-5604606425) - 2026-10-21
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

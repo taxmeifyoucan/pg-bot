@@ -47,6 +47,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Advertise payload bodies by range APIs](https://github.com/grandinetech/grandine/commit/1262751bc87a953e6506285ef5d3334982f24eb2) - 2026-10-19
 * [Pull Request] [Bump C# plugin dependencies](https://github.com/grandinetech/grandine/pull/996) - 2026-10-20
 * [Commit] [Bump C# plugin dependencies](https://github.com/grandinetech/grandine/commit/0ce8ca45ff8c2abae3916867a95bd90dbfb5ba4a) - 2026-10-20
+* [Review] [Review on: Handle optimistic heads in Gloas](https://github.com/grandinetech/grandine/pull/991#pullrequestreview-5599365170) - 2026-10-21
+* [Review] [Review on: Implement Gloas builder flow from beacon-APIs](https://github.com/grandinetech/grandine/pull/948#pullrequestreview-5598272487) - 2026-10-21
+* [Review] [Review on: Update `rustls-webpki` & `webpki-roots` where possible, ignore RUSTSE…](https://github.com/grandinetech/grandine/pull/1001#pullrequestreview-5598845821) - 2026-10-21
 ## Q3 2026
 
 

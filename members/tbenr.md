@@ -79,6 +79,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Recover Gloas payloads for state-only finalized checkpoints (#11450)](https://github.com/Consensys-Incorporated/teku/commit/1855d511153220a3436cb9d95c718d09760ecd46) - 2026-10-20
 * [Commit] [Update discovery to 26.10.1 (#11541)](https://github.com/Consensys-Incorporated/teku/commit/ddd05510d1cd047d4b8faf4fbe6b557edcf0b1ef) - 2026-10-20
 * [Commit] [Correctly handle payload invalidation after optimistic sync (#11506)](https://github.com/Consensys-Incorporated/teku/commit/78812c00a9e649e3b39bd198ebd3a3a579d8df7e) - 2026-10-20
+* [Review] [Review on: Keep the finalized anchor DAS tracker alive while its payload is recovered](https://github.com/Consensys-Incorporated/teku/pull/11553#pullrequestreview-5600112611) - 2026-10-21
+* [Review] [Review on: Ptc signature batch verify](https://github.com/Consensys-Incorporated/teku/pull/11538#pullrequestreview-5595861507) - 2026-10-21
+* [Pull Request] [Make the Gloas genesis block EMPTY and drop the synthetic genesis payload](https://github.com/Consensys-Incorporated/teku/pull/11557) - 2026-10-21
+* [Review] [Review on: Key the gossip seen cache by a cheap SHA-256 fast id](https://github.com/Consensys-Incorporated/teku/pull/11549#pullrequestreview-5596703687) - 2026-10-21
+* [Commit] [Make the Gloas genesis block EMPTY and drop the synthetic genesis payload (#11557)](https://github.com/Consensys-Incorporated/teku/commit/00a4177020adb7bfe71e65791d5c19ece0cf3a62) - 2026-10-21
+* [Commit] [Seed the Gloas genesis execution payload only for a genesis anchor committing to it (#11543)](https://github.com/Consensys-Incorporated/teku/commit/b785b7b6ddc9a687c5bb8ac65b440ea00a39d05e) - 2026-10-21
+* [Commit] [Ptc signature batch verify (#11538)](https://github.com/Consensys-Incorporated/teku/commit/5909fd2fa89d8e7b657627ead36ac5f22ce45f6f) - 2026-10-21
+* [Commit] [Key the gossip seen cache by a cheap SHA-256 fast id (#11549)](https://github.com/Consensys-Incorporated/teku/commit/a8e1b4146ced3b500658c822873d7658b1d8738e) - 2026-10-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 
@@ -92,6 +100,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Use the JDK's intrinsified SHA-256 for pubsub message digests](https://github.com/libp2p/jvm-libp2p/pull/544) - 2026-10-20
 * [Pull Request] [Notify only peers with new RPC parts on flush instead of every draining peer](https://github.com/libp2p/jvm-libp2p/pull/543) - 2026-10-20
 * [Commit] [Fix slow-peer pressure tracking above 256 peers (#541)](https://github.com/libp2p/jvm-libp2p/commit/441a94f374e27f4cdaaf9065be4ed2a1e0c1642a) - 2026-10-20
+* [Review] [Review on: Gossip score: cache the per-peer sum of topic scores (breaking: topicParams is read-only)](https://github.com/libp2p/jvm-libp2p/pull/542#pullrequestreview-5596518310) - 2026-10-21
+* [Review] [Review on: Use the JDK's intrinsified SHA-256 for pubsub message digests](https://github.com/libp2p/jvm-libp2p/pull/544#pullrequestreview-5596467657) - 2026-10-21
+* [Commit] [Notify only peers with new RPC parts on flush instead of every draining peer (#543)](https://github.com/libp2p/jvm-libp2p/commit/77570129c4d06689a1dd2b5ff31b6fcb0fb35e54) - 2026-10-22
+* [Commit] [Seen cache: one entry per message, single-probe duplicate lookups (#545)](https://github.com/libp2p/jvm-libp2p/commit/a470b38938d17f8a19134f35de9d42931a968051) - 2026-10-22
+* [Commit] [Gossip score: cache the per-peer sum of topic scores (breaking: topicParams is read-only) (#542)](https://github.com/libp2p/jvm-libp2p/commit/86addbe49b7fae68580291066a37fedc875f4f59) - 2026-10-21
+* [Commit] [Use the JDK's intrinsified SHA-256 for pubsub message digests (#544)](https://github.com/libp2p/jvm-libp2p/commit/4658f22ff4e54c15a854f487031bcfa17e450b7f) - 2026-10-21
 ## Q3 2026
 
 

@@ -17,6 +17,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update CONTRIBUTING.md with new contributor guidelines](https://github.com/ethereum/EIPs/pull/12149#pullrequestreview-5588511018) - 2026-10-20
 * [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5588496733) - 2026-10-20
+* [Pull Request] [Update EIP-5069: Update EIP Coordinators' responsibilities](https://github.com/ethereum/EIPs/pull/12565) - 2026-10-21
 ## Q3 2026
 
 

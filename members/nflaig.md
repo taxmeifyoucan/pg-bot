@@ -321,6 +321,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: check the parent payload before importing a repeat proposal in gloas (#10424)](https://github.com/ChainSafe/lodestar/commit/312812503e5c9fe95ccb661193b55658f85a510b) - 2026-10-20
 * [Commit] [feat: enable native gloas transitions (#10345)](https://github.com/ChainSafe/lodestar/commit/fe53cec080a37fa21c4b2e5e916c0eb9fc1447d8) - 2026-10-20
 * [Commit] [feat: add flag to disable validation of published execution payload bids (#10429)](https://github.com/ChainSafe/lodestar/commit/808c9f25d961c419afeffbc82baec42701edf6a8) - 2026-10-20
+* [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5597580283) - 2026-10-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

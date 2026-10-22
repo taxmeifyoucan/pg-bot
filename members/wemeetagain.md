@@ -82,6 +82,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: enable native gloas transitions](https://github.com/ChainSafe/lodestar/pull/10345#pullrequestreview-5587010483) - 2026-10-20
 * [Review] [Review on: feat: add flag to disable validation of published execution payload bids](https://github.com/ChainSafe/lodestar/pull/10429#pullrequestreview-5585403234) - 2026-10-20
 * [Commit] [fix: deduplicate incomplete payload sync at the payload deadline (#10289)](https://github.com/ChainSafe/lodestar/commit/02c5a19f35d8107f28bb8115d52e593689364601) - 2026-10-20
+* [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5597617604) - 2026-10-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -118,6 +119,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Generate SSZ fixture schemas from upstream types](https://github.com/ChainSafe/lodestar-z/issues/795) - 2026-10-19
 * [Review] [Review on: perf: store shuffling indices as u32](https://github.com/ChainSafe/lodestar-z/pull/797#pullrequestreview-5585963665) - 2026-10-20
 * [Review] [Review on: fix: support serialized transaction lists](https://github.com/ChainSafe/lodestar-z/pull/796#pullrequestreview-5583151193) - 2026-10-20
+* [Review] [Review on: fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801#pullrequestreview-5608472284) - 2026-10-22
+* [Review] [Review on: perf: speed up sync committee rotation](https://github.com/ChainSafe/lodestar-z/pull/778#pullrequestreview-5608461660) - 2026-10-22
+* [Pull Request] [feat: add basic heze support](https://github.com/ChainSafe/lodestar-z/pull/799) - 2026-10-21
+* [Review] [Review on: perf: select shuffle sha256 at runtime](https://github.com/ChainSafe/lodestar-z/pull/774#pullrequestreview-5598222972) - 2026-10-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

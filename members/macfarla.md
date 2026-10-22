@@ -115,6 +115,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [ci: stop caching Docker BuildKit layers in the Actions cache (#11649)](https://github.com/besu-eth/besu/commit/0bae6f39fdcb902d91a2c578e5c43d1b9237530d) - 2026-10-20
 * [Commit] [Rotate changelog for 26.10.0 (#11653)](https://github.com/besu-eth/besu/commit/67d7148e0901e8d6ffea805adca34ab4cc19e82e) - 2026-10-20
 * [Commit] [ci: stop caching the Trivy vuln DB in the GHA cache (#11650)](https://github.com/besu-eth/besu/commit/4f265d7da6d7db4179d3348a46fd5ff0f09d6a38) - 2026-10-20
+* [Review] [Review on: Reject invalid transactions in eth_createAccessList](https://github.com/besu-eth/besu/pull/11631#pullrequestreview-5595041315) - 2026-10-21
+* [Review] [Review on: Use spec error messages for eth_simulateV1 call errors](https://github.com/besu-eth/besu/pull/11635#pullrequestreview-5595135191) - 2026-10-21
+* [Review] [Review on: Bound and space out block retrieval retries](https://github.com/besu-eth/besu/pull/11674#pullrequestreview-5608250378) - 2026-10-22
+* [Review] [Review on: Make SnapProtocolVersion an enum](https://github.com/besu-eth/besu/pull/11513#pullrequestreview-5608194420) - 2026-10-22
+* [Review] [Review on: EIP-8070: Add the eth/72 GetCells and Cells messages](https://github.com/besu-eth/besu/pull/11644#pullrequestreview-5608115558) - 2026-10-22
+* [Review] [Review on: chore: set Amsterdam spec as finalised](https://github.com/besu-eth/besu/pull/11696#pullrequestreview-5607839272) - 2026-10-22
+* [Pull Request] [eth_simulateV1 - reject unknown account overrides](https://github.com/besu-eth/besu/pull/11695) - 2026-10-21
+* [Review] [Review on: feat(rpc): accept the trace_filter mode member](https://github.com/besu-eth/besu/pull/11436#pullrequestreview-5595982054) - 2026-10-21
+* [Review] [Review on: fix(rpc): default the trace_callMany block to latest](https://github.com/besu-eth/besu/pull/11440#pullrequestreview-5596233242) - 2026-10-21
+* [Review] [Review on: Apply the calldata floor to the total gas used before refunds](https://github.com/besu-eth/besu/pull/11580#pullrequestreview-5606727142) - 2026-10-21
+* [Pull Request] [bump plugins baseline for 26.10.0](https://github.com/besu-eth/besu/pull/11693) - 2026-10-21
+* [Review] [Review on: bump plugins baseline for 26.10.0](https://github.com/besu-eth/besu/pull/11693#pullrequestreview-5605512522) - 2026-10-21
+* [Review] [Review on: Notify the sequenced pool transaction events in the order they happen](https://github.com/besu-eth/besu/pull/11685#pullrequestreview-5605093435) - 2026-10-21
+* [Review] [Review on: Notify the layered pool transaction added before making space for it](https://github.com/besu-eth/besu/pull/11688#pullrequestreview-5604985921) - 2026-10-21
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

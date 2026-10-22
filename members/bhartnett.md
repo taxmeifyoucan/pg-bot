@@ -47,6 +47,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: kvt: fix multiGet assert on empty key list](https://github.com/status-im/nimbus-eth1/pull/5022#pullrequestreview-5594187025) - 2026-10-21
 * [Review] [Review on: [hegota-devnet-1] EIP-8298: SETCODEFROM Code Reuse Instruction](https://github.com/status-im/nimbus-eth1/pull/5020#pullrequestreview-5586371995) - 2026-10-20
 * [Commit] [Store valid jumpdest positions instead of invalid (#4998)](https://github.com/status-im/nimbus-eth1/commit/50920787a725e7bde11922044a83ade30f1bda85) - 2026-10-20
+* [Pull Request] [Remove unneeded kvt putMove functions](https://github.com/status-im/nimbus-eth1/pull/5033) - 2026-10-21
+* [Pull Request] [Run Amsterdam benchmark fixtures in eest_benchmark_test](https://github.com/status-im/nimbus-eth1/pull/5035) - 2026-10-21
+* [Pull Request] [Keep the block hash resolver on parent frames](https://github.com/status-im/nimbus-eth1/pull/5032) - 2026-10-21
+* [Review] [Review on: kvt: fix multiGet assert on empty key list](https://github.com/status-im/nimbus-eth1/pull/5022#pullrequestreview-5599728111) - 2026-10-21
+* [Commit] [Remove unneeded kvt putMove functions (#5033)](https://github.com/status-im/nimbus-eth1/commit/50dc1b90a55ca265447804d2515387ceef0bc37b) - 2026-10-21
+* [Commit] [Keep the block hash resolver on parent frames (#5032)](https://github.com/status-im/nimbus-eth1/commit/9dfb04a6de17230b9a546d566a918fd5c3f7012c) - 2026-10-21
 ## Q3 2026
 
 

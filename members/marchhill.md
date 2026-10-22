@@ -211,6 +211,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: feat(evm): EIP-4758 deactivate SELFDESTRUCT (SENDALL)](https://github.com/NethermindEth/nethermind/pull/12231#pullrequestreview-5586774969) - 2026-10-20
 * [Review] [Review on: test(merge): stop the invalid-hash sender-recovery test racing its cancellation](https://github.com/NethermindEth/nethermind/pull/14983#pullrequestreview-5587016778) - 2026-10-20
 * [Commit] [fix(sync): disable finalized BAL catch-up by default (#14976)](https://github.com/NethermindEth/nethermind/commit/97a483cf1786a387e7760066cbdd9b522d54511e) - 2026-10-20
+* [Pull Request] [test: address fork and BAL benchmark review feedback](https://github.com/NethermindEth/nethermind/pull/15004) - 2026-10-21
+* [Review] [Review on: test: address fork and BAL benchmark review feedback](https://github.com/NethermindEth/nethermind/pull/15004#pullrequestreview-5598403155) - 2026-10-21
+* [Commit] [perf(flat): keep the in-memory tail across a clean restart instead of re-executing it (#14900)](https://github.com/NethermindEth/nethermind/commit/a89546cdc033286d8ba7c65d8f8cb8a90d5dc73a) - 2026-10-21
+* [Commit] [fix(history): harden BAL retention and delayed sync responses (#14915)](https://github.com/NethermindEth/nethermind/commit/4c7e864da830bb04c3e4ea1bf2ad0ec9dbef3158) - 2026-10-21
+* [Commit] [perf(bench): BAL catch-up benchmark on synthetic, on-disk and real-block segments (#14901)](https://github.com/NethermindEth/nethermind/commit/c7388f08086f5e164a91e7d076e97a5d9cb0deeb) - 2026-10-21
+* [Commit] [test: check geth genesis supports every fork the Parity chainspec does (#14970)](https://github.com/NethermindEth/nethermind/commit/4133fc93ef668926a6608f4b72526e0663567a96) - 2026-10-21
+* [Commit] [fix(focil): correct inclusion-list appendability checks (#14916)](https://github.com/NethermindEth/nethermind/commit/ab153d0eda2a44b33fe27ebdaf3440cc5deffe67) - 2026-10-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

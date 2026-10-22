@@ -76,6 +76,12 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: fix(specs): Add touched addresses to the BAL in an invalid-transaction test](https://github.com/ethereum/execution-specs/pull/3848#pullrequestreview-5591563930) - 2026-10-20
 * [Commit] [fix(test-client-clis): detect client CLIs by their tool name (#3874)](https://github.com/ethereum/execution-specs/commit/b9014925f67c6ceb7e32e4724c302d3c3a4799cb) - 2026-10-20
 * [Commit] [fix(tests): align intrinsic gas cases with the threshold that binds (#3837)](https://github.com/ethereum/execution-specs/commit/33f74a6bbf2c09e897c621e1a7a4c4fa00f45d02) - 2026-10-20
+* [Review] [Review on: fix(test-evm-tools): number t8n output by accepted txs](https://github.com/ethereum/execution-specs/pull/3849#pullrequestreview-5602784605) - 2026-10-21
+* [Pull Request] [fix(tooling): build the docker images on uv's trixie base](https://github.com/ethereum/execution-specs/pull/3882) - 2026-10-21
+* [Review] [Review on:  fix(test-evm-tools): encode accepted transactions in t8n body](https://github.com/ethereum/execution-specs/pull/3361#pullrequestreview-5603897691) - 2026-10-21
+* [Review] [Review on: feat(spec-specs,tests): derive Bogota base fee from slot spacing (EIPs#12552)](https://github.com/ethereum/execution-specs/pull/3873#pullrequestreview-5603293353) - 2026-10-21
+* [Review] [Review on: chore(tooling): require uv 0.13.4 and bump setup-uv to v10.3.0](https://github.com/ethereum/execution-specs/pull/3880#pullrequestreview-5601709434) - 2026-10-21
+* [Commit] [fix(tooling): build the docker images on uv's trixie base (#3882)](https://github.com/ethereum/execution-specs/commit/ffcd76e982e5e5064231257234ee852a24f612c7) - 2026-10-21
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

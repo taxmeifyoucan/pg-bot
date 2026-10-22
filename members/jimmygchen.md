@@ -17,6 +17,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 * [Pull Request] [Report nightly test failures in GitHub issues](https://github.com/sigp/lighthouse/pull/10222) - 2026-10-06
 * [Issue] [Gloas bids built from `payload_attributes` are ignored when the PTC votes against a Full payload](https://github.com/sigp/lighthouse/issues/10226) - 2026-10-06
+* [Pull Request] [Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418) - 2026-10-21
+* [Review] [Review on: Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418#pullrequestreview-5608601076) - 2026-10-22
+* [Issue] [Log the selected Gloas payload bid and relax builder flag requirements](https://github.com/sigp/lighthouse/issues/10412) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
 

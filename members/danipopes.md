@@ -65,6 +65,7 @@ Team: Reth
 * [Review] [Review on: chore: allow Git dependency sources](https://github.com/paradigmxyz/reth/pull/27976#pullrequestreview-5556869569) - 2026-10-17
 * [Review] [Review on: chore(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0 in the ci-weekly group](https://github.com/paradigmxyz/reth/pull/28014#pullrequestreview-5570669667) - 2026-10-19
 * [Pull Request] [perf(libmdbx): remove transaction mutex and Sync](https://github.com/paradigmxyz/reth/pull/28042) - 2026-10-20
+* [Pull Request] [perf: read the keccak cache without locking](https://github.com/paradigmxyz/reth/pull/28055) - 2026-10-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

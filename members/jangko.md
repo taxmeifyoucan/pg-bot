@@ -58,6 +58,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Leverage restore-keys to enable EEST/llvm-mingw cache lookup fallback](https://github.com/status-im/nimbus-eth1/pull/5014) - 2026-10-20
 * [Pull Request] [heze-devnet-2](https://github.com/status-im/nimbus-eth1/pull/5015) - 2026-10-20
 * [Commit] [Leverage restore-keys to enable EEST/llvm-mingw cache lookup fallback (#5014)](https://github.com/status-im/nimbus-eth1/commit/91daa6b03295c2aa127852adeb90d3b7dfd5e292) - 2026-10-20
+* [Review] [Review on: fix FC deadlock](https://github.com/status-im/nimbus-eth1/pull/5027#pullrequestreview-5601707877) - 2026-10-21
+* [Review] [Review on: fix rejection of tx signatures with s == secp256k1n/2](https://github.com/status-im/nimbus-eth1/pull/5028#pullrequestreview-5600605669) - 2026-10-21
+* [Pull Request] [Prevent branches from creating new cache if fallback available](https://github.com/status-im/nimbus-eth1/pull/5026) - 2026-10-21
+* [Commit] [Prevent branch from creating new cache if fallback available (#5026)](https://github.com/status-im/nimbus-eth1/commit/0861b2284545700d63a044dd74f77a7a33ad89c4) - 2026-10-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

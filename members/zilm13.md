@@ -35,6 +35,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544) - 2026-10-20
 * [Pull Request] [Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548) - 2026-10-20
 * [Issue] [Beacon API endpoints declare `406 Not Acceptable` but never return it](https://github.com/Consensys-Incorporated/teku/issues/11546) - 2026-10-20
+* [Pull Request] [Refactor state data BEACON-API endpoints](https://github.com/Consensys-Incorporated/teku/pull/11558) - 2026-10-21
+* [Pull Request] [Verify attestation signatures before saving them for future processing](https://github.com/Consensys-Incorporated/teku/pull/11560) - 2026-10-21
+* [Pull Request] [FCR nit comment fix](https://github.com/Consensys-Incorporated/teku/pull/11559) - 2026-10-21
+* [Review] [Review on: Keep imported slashing protection from being overwritten by cache](https://github.com/Consensys-Incorporated/teku/pull/11539#pullrequestreview-5601252495) - 2026-10-21
+* [Review] [Review on: Make the Gloas genesis block EMPTY and drop the synthetic genesis payload](https://github.com/Consensys-Incorporated/teku/pull/11557#pullrequestreview-5602774482) - 2026-10-21
+* [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5599890729) - 2026-10-21
+* [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5600031852) - 2026-10-21
+* [Commit] [nit comment fix (#11559)](https://github.com/Consensys-Incorporated/teku/commit/42408b645055cdd7538d4c79d3401f12b88b8411) - 2026-10-22
 ## Q3 2026
 
 

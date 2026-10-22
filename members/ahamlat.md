@@ -36,6 +36,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Bound the cost of jump destination analysis](https://github.com/besu-eth/besu/pull/11400#pullrequestreview-5563228138) - 2026-10-18
 * [Commit] [Log BFT block pending count after the pool removes confirmed txs (#11609)](https://github.com/besu-eth/besu/commit/f7a02b4098be25479a83e1c283f606f1a081d36b) - 2026-10-19
 * [Commit] [Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2 (#10962)](https://github.com/besu-eth/besu/commit/cb3afcbabde0f45cbc9f5b00f7ddd3bca857219b) - 2026-10-18
+* [Pull Request] [Avoid eager code loading on account metadata and EXTCODEHASH reads](https://github.com/besu-eth/besu/pull/11679) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

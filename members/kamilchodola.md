@@ -68,6 +68,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(evm): experimental frame code runner extension point](https://github.com/NethermindEth/nethermind/pull/14798) - 2026-10-20
 * [Commit] [feat(evm): experimental frame code runner extension point (#14798)](https://github.com/NethermindEth/nethermind/commit/81a03d9dc462718b5a9c4ea33b13135c00c40b8d) - 2026-10-20
 * [Commit] [fix(sync): extend plugin processing and peer notification mechanisms (#14940)](https://github.com/NethermindEth/nethermind/commit/fe16164485929416012132d6b910d1dab2f7b1ec) - 2026-10-20
+* [Commit] [fix(sync): reuse validated forward header windows before peer allocation (#14986)](https://github.com/NethermindEth/nethermind/commit/2d8875db01f5cf25158f850fc7651f9d47ab249d) - 2026-10-21
+* [Commit] [Extend plugin protocol request lifecycle handling (#14951)](https://github.com/NethermindEth/nethermind/commit/53bef5c02220405a40b26f15b9b1cd512f4c627f) - 2026-10-21
+* [Commit] [fix(logging): extend plugin adapter exception diagnostics (#14943)](https://github.com/NethermindEth/nethermind/commit/6535eac16d8c357240e59ed715ea75e0bf388d66) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

@@ -22,6 +22,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(state): move lazy-originals ZK_EVM branches into std/zkevm partials](https://github.com/NethermindEth/nethermind/pull/14534#pullrequestreview-5491770426) - 2026-10-12
 * [Review] [Review on: feat(eip-8250): charge the keyed nonce access cost](https://github.com/NethermindEth/nethermind/pull/14600#pullrequestreview-5515516292) - 2026-10-14
 * [Review] [Review on: perf(db): decode chain-level batches directly](https://github.com/NethermindEth/nethermind/pull/14818#pullrequestreview-5572072433) - 2026-10-19
+* [Review] [Review on: fix(simulate): apply beacon root and withdrawal overrides](https://github.com/NethermindEth/nethermind/pull/14712#pullrequestreview-5601821330) - 2026-10-21
 ## Q3 2026
 
 

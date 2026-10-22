@@ -99,6 +99,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Ptc signature batch verify](https://github.com/Consensys-Incorporated/teku/pull/11538#pullrequestreview-5593728540) - 2026-10-21
 * [Issue] [Imported slashing protection for a loaded key is overwritten by the cached signing record](https://github.com/Consensys-Incorporated/teku/issues/11552) - 2026-10-21
 * [Commit] [Only pay Gloas fee recipients that came from signed proposer preferences (#11535)](https://github.com/Consensys-Incorporated/teku/commit/32e74321b8c9bde61d4320c50005291459788715) - 2026-10-21
+* [Review] [Review on: FCR nit comment fix](https://github.com/Consensys-Incorporated/teku/pull/11559#pullrequestreview-5607554896) - 2026-10-21
+* [Pull Request] [Temporarily disable greclipse while download.eclipse.org is down](https://github.com/Consensys-Incorporated/teku/pull/11561) - 2026-10-21
+* [Review] [Review on: Ptc signature batch verify](https://github.com/Consensys-Incorporated/teku/pull/11538#pullrequestreview-5597721728) - 2026-10-21
+* [Commit] [Temporarily disable greclipse while download.eclipse.org is down (#11561)](https://github.com/Consensys-Incorporated/teku/commit/5f55b6d844169cc3c663c8ac6264776e3044b7b9) - 2026-10-21
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01
@@ -119,6 +123,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Wait a backoff slack before re-GRAFTing a pruned peer (#538)](https://github.com/libp2p/jvm-libp2p/commit/9d40f1c9c58b32e30619d8e2cf297bdc2338ac21) - 2026-10-05
 * [Review] [Review on: Gossip score: cache the per-peer sum of topic scores](https://github.com/libp2p/jvm-libp2p/pull/542#pullrequestreview-5593284759) - 2026-10-20
 * [Review] [Review on: Fix slow-peer pressure tracking above 256 peers](https://github.com/libp2p/jvm-libp2p/pull/541#pullrequestreview-5592927022) - 2026-10-20
+* [Review] [Review on: Notify only peers with new RPC parts on flush instead of every draining peer](https://github.com/libp2p/jvm-libp2p/pull/543#pullrequestreview-5607988112) - 2026-10-22
+* [Review] [Review on: Use the JDK's intrinsified SHA-256 for pubsub message digests](https://github.com/libp2p/jvm-libp2p/pull/544#pullrequestreview-5594802500) - 2026-10-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Teku incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2251) - 2026-10-04
 ## Q3 2026

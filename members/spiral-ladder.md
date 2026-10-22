@@ -42,6 +42,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: record source state clone count](https://github.com/ChainSafe/lodestar/pull/10348#pullrequestreview-5517774649) - 2026-10-14
 * [Commit] [feat(types): add EIP-8025 execution proof SSZ types (#10391)](https://github.com/ChainSafe/lodestar/commit/fd649df9859e8e25f03223626325fa97a76a6e59) - 2026-10-14
 * [Review] [Review on: chore: keep current slot duration in heze](https://github.com/ChainSafe/lodestar/pull/10398#pullrequestreview-5532036988) - 2026-10-15
+* [Review] [Review on: test: reuse mocked envelope repository in block archiver tests](https://github.com/ChainSafe/lodestar/pull/10452#pullrequestreview-5598496538) - 2026-10-21
+* [Commit] [fix(archive): rework pruning for non-canonical block variants (#10022)](https://github.com/ChainSafe/lodestar/commit/23bc3d7be9e301110912ce4e8af6aae9623c3248) - 2026-10-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

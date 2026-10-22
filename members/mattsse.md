@@ -342,6 +342,8 @@ Team: Reth
 * [Pull Request] [chore(deps): bump revm-inspectors to 0.44.3](https://github.com/paradigmxyz/reth/pull/28034) - 2026-10-20
 * [Review] [Review on: chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020#pullrequestreview-5581527951) - 2026-10-20
 * [Commit] [chore(deps): bump revm-inspectors to 0.44.3 (#28034)](https://github.com/paradigmxyz/reth/commit/f3fd194ce2c68d57b672212c4346b59734ea3692) - 2026-10-20
+* [Review] [Review on: fix(heze): update fixtures, Hive and TLS roots](https://github.com/paradigmxyz/reth/pull/28052#pullrequestreview-5601569114) - 2026-10-21
+* [Pull Request] [fix(storage): state-import slots and history lookups](https://github.com/paradigmxyz/reth/pull/28053) - 2026-10-21
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

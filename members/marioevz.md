@@ -59,6 +59,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-client-clis): detect client CLIs by their tool name](https://github.com/ethereum/execution-specs/pull/3874#pullrequestreview-5591999973) - 2026-10-20
 * [Review] [Review on: feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535#pullrequestreview-5587821804) - 2026-10-20
 * [Commit] [fix(specs): Add touched addresses to the BAL in an invalid-transaction test (#3848)](https://github.com/ethereum/execution-specs/commit/b6ab296ce601c7c4a309c96b5a9b734e4c9fad28) - 2026-10-20
+* [Review] [Review on: refactor(tests): THE BIG ported-static call-chain tests collapse](https://github.com/ethereum/execution-specs/pull/3876#pullrequestreview-5600026465) - 2026-10-21
+* [Review] [Review on: feat(test-client-clis): print traces as a compact table](https://github.com/ethereum/execution-specs/pull/3869#pullrequestreview-5606784554) - 2026-10-21
+* [Review] [Review on: fix(tooling): build the docker images on uv's trixie base](https://github.com/ethereum/execution-specs/pull/3882#pullrequestreview-5605858903) - 2026-10-21
+* [Review] [Review on: feat(ci,doc): add a contribution policy and a new contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5603974895) - 2026-10-21
+* [Commit] [refactor(tests): THE BIG ported-static call-chain tests collapse (#3876)](https://github.com/ethereum/execution-specs/commit/268ed5487361e4e76c131ff7ef18d18a12d1a34f) - 2026-10-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

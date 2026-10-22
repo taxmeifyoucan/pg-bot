@@ -83,6 +83,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(cannon): Heze blocks have no deposits and price gas from the envelope (#917)](https://github.com/ethpandaops/xatu/commit/40b44596edccf503d724f87884b18dfef71dd565) - 2026-10-20
 * [Commit] [fix(cannon): build cryo with a uint256-tolerant EIP-7702 authorization chain_id (#919)](https://github.com/ethpandaops/xatu/commit/b2743fcfbd2080b8d9d73c0e8ed536765af477ff) - 2026-10-20
 * [Commit] [fix(cannon): floor four_byte_counts EL backfill at block 1 (#916)](https://github.com/ethpandaops/xatu/commit/18934e5e219ff86c376d4311a69b2e062602de4a) - 2026-10-20
+* [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/pull/929#pullrequestreview-5596796575) - 2026-10-21
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -90,6 +91,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 
+* [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/contributoor/pull/258#pullrequestreview-5596854590) - 2026-10-21
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(hoodi): add tysm v1.1.3 to gloas min client versions](https://github.com/ethpandaops/cartographoor/pull/116) - 2026-10-19
 * [Pull Request] [feat(hoodi): schedule gloas at epoch 132352](https://github.com/ethpandaops/cartographoor/pull/115) - 2026-10-19
@@ -100,12 +102,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [feat(validatorranges): take on-chain ranges from the network config service](https://github.com/ethpandaops/cartographoor/pull/117) - 2026-10-19
 * [Commit] [feat(validatorranges): take on-chain ranges from the network config service (#117)](https://github.com/ethpandaops/cartographoor/commit/93e737862c3f55f06d08243c97812c7b59bf6b19) - 2026-10-19
+* [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118#pullrequestreview-5596801854) - 2026-10-21
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [fix(agent): record blocks at their own slot, never at an empty slot after them](https://github.com/ethpandaops/tracoor/pull/70) - 2026-10-19
 * [Pull Request] [fix(agent): retry late gloas envelopes and outages instead of dropping them](https://github.com/ethpandaops/tracoor/pull/69) - 2026-10-19
 * [Commit] [fix(agent): record blocks at their own slot, never at an empty slot after them (#70)](https://github.com/ethpandaops/tracoor/commit/3217340453f79939b635385af60856bd3c006321) - 2026-10-19
 * [Commit] [fix(agent): retry late gloas envelopes and outages instead of dropping them (#69)](https://github.com/ethpandaops/tracoor/commit/666008952f3c9d101a16756f5af4b1d2e3240a31) - 2026-10-19
 
+* [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/tracoor/pull/71#pullrequestreview-5596800962) - 2026-10-21
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(slots): proposer client card on the slot page](https://github.com/ethpandaops/lab/pull/450) - 2026-10-20
 * [Pull Request] [feat(ethereum): proposer clients page from block graffiti](https://github.com/ethpandaops/lab/pull/449) - 2026-10-19
@@ -125,6 +129,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(clients): fit the Lido entity group label in the filter (#453)](https://github.com/ethpandaops/lab/commit/0d339a183db6090998d023d50c2da971230b390c) - 2026-10-20
 * [Commit] [feat(clients): filter the proposer clients page by entity and client (#452)](https://github.com/ethpandaops/lab/commit/a9ea0c2164d1585b7d6563bfaec00b454dd097ba) - 2026-10-20
 * [Commit] [feat(slots): proposer clients as fields in the slot information section (#451)](https://github.com/ethpandaops/lab/commit/713caf5ba02407b4021baa2bc52e61a154b50d6a) - 2026-10-20
+
+* [Pull Request] [style: design system polish (cards, radius, controls, type, surfaces, charts)](https://github.com/ethpandaops/lab/pull/458) - 2026-10-21
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/pull/246#pullrequestreview-5596802760) - 2026-10-21
+
+[ethpandaops/pandafuzz](https://github.com/ethpandaops/pandafuzz)
+* [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/pandafuzz/pull/9#pullrequestreview-5596810817) - 2026-10-21
 ## Q3 2026
 
 

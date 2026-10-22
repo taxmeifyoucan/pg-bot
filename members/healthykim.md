@@ -22,6 +22,10 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [cmd/devp2p: make readAnyFrom to store unused packet (#35902)](https://github.com/ethereum/go-ethereum/commit/6ee3baf4dc22b02ea7cd233450284ed05617d61b) - 2026-10-12
 * [Commit] [cmd/devp2p: explicitly corrupt the cells for `TestBlobTxWithInvalidCells` (#35901)](https://github.com/ethereum/go-ethereum/commit/2ab037050c587bae00cbd5f91f13aaa44b5debae) - 2026-10-12
 * [Pull Request] [p2p, eth: add support for browser connection in quic](https://github.com/ethereum/go-ethereum/pull/35950) - 2026-10-15
+* [Pull Request] [version: release go-ethereum v1.17.9 stable](https://github.com/ethereum/go-ethereum/pull/35990) - 2026-10-21
+* [Pull Request] [version: start release cycle v1.17.10](https://github.com/ethereum/go-ethereum/pull/35991) - 2026-10-21
+* [Commit] [version: start release cycle v1.17.10 (#35991)](https://github.com/ethereum/go-ethereum/commit/ad4a0876d980675bea945b3bd75c94d90da02e28) - 2026-10-21
+* [Commit] [version: release go-ethereum v1.17.9 stable (#35990)](https://github.com/ethereum/go-ethereum/commit/9dffe6e976cbbb87a84c5fd395448f0950290def) - 2026-10-21
 ## Q3 2026
 
 

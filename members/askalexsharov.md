@@ -416,6 +416,32 @@ Team: Erigon
 * [Commit] [execution/state: increase logArena limits (#25103)](https://github.com/erigontech/erigon/commit/99f636297b1916fc2aee88173c7194c83866c061) - 2026-10-20
 * [Commit] [execution/cache: no copy for a state-cache fill that is refused (#25091)](https://github.com/erigontech/erigon/commit/4276fc4e62d89c8c85b36832935d3f831fe9f922) - 2026-10-20
 * [Commit] [vm: run MCOPY on the fast path when memory need not grow (#25071)](https://github.com/erigontech/erigon/commit/a71c3c2dc1ff06cf05590c58d70f4a01add6c638) - 2026-10-20
+* [Pull Request] [execution/stagedsync: queue a tx for dependency-order validation only when its result arrives](https://github.com/erigontech/erigon/pull/25209) - 2026-10-22
+* [Review] [Review on: execution/execmodule: test import when the coinbase is the burnt-fee contract](https://github.com/erigontech/erigon/pull/25168#pullrequestreview-5608173895) - 2026-10-22
+* [Review] [Review on: db/datadir/reset: clear chaindata, patch bad files, guard renames](https://github.com/erigontech/erigon/pull/25104#pullrequestreview-5608164035) - 2026-10-22
+* [Pull Request] [execution/state: emit no writes for an account created and destroyed in one tx](https://github.com/erigontech/erigon/pull/25160) - 2026-10-21
+* [Review] [Review on: execution/state: emit no writes for an account created and destroyed in one tx](https://github.com/erigontech/erigon/pull/25160#pullrequestreview-5597156916) - 2026-10-21
+* [Review] [Review on: execution/state: force versionMap⟺noMaterialize + dep-wait cache-invalidation](https://github.com/erigontech/erigon/pull/24844#pullrequestreview-5608487186) - 2026-10-22
+* [Review] [Review on: [r3.8] cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25174#pullrequestreview-5608154629) - 2026-10-22
+* [Review] [Review on: execution: recover senders while newPayload decodes the payload](https://github.com/erigontech/erigon/pull/24033#pullrequestreview-5608007447) - 2026-10-22
+* [Pull Request] [execution: charge the sender at validation, allow same-sender txs run in parallel](https://github.com/erigontech/erigon/pull/25204) - 2026-10-21
+* [Review] [Review on: execution: charge the sender at validation, allow same-sender txs run in parallel](https://github.com/erigontech/erigon/pull/25204#pullrequestreview-5608227935) - 2026-10-22
+* [Pull Request] [execution/vm: run cheap context, bitwise, DUP9-16 and SWAP5-16 ops inline](https://github.com/erigontech/erigon/pull/25164) - 2026-10-21
+* [Review] [Review on: execution/vm: run cheap context, bitwise, DUP9-16 and SWAP5-16 ops inline](https://github.com/erigontech/erigon/pull/25164#pullrequestreview-5598300929) - 2026-10-21
+* [Review] [Review on: execution/execmodule: test fork choice recovery after an invalid safe hash](https://github.com/erigontech/erigon/pull/25167#pullrequestreview-5608162219) - 2026-10-22
+* [Review] [Review on: cl/antiquary: call RemoveOverlaps for caplin blocks and blobs](https://github.com/erigontech/erigon/pull/25124#pullrequestreview-5608152708) - 2026-10-22
+* [Pull Request] [execution/stagedsync: recover senders of BAL blocks in exec workers during fork validation](https://github.com/erigontech/erigon/pull/25161) - 2026-10-21
+* [Review] [Review on: execution/stagedsync: recover senders of BAL blocks in exec workers during fork validation](https://github.com/erigontech/erigon/pull/25161#pullrequestreview-5600649983) - 2026-10-21
+* [Pull Request] [Makefile: build C++ cgo deps without NDEBUG](https://github.com/erigontech/erigon/pull/25181) - 2026-10-21
+* [Pull Request] [execution/vm: pin MCOPY fast-path bounds, copied bytes and dispatch](https://github.com/erigontech/erigon/pull/25156) - 2026-10-21
+* [Review] [Review on: execution/vm: pin MCOPY fast-path bounds, copied bytes and dispatch](https://github.com/erigontech/erigon/pull/25156#pullrequestreview-5600561388) - 2026-10-21
+* [Commit] [execution/state: emit no writes for an account created and destroyed in one tx (#25160)](https://github.com/erigontech/erigon/commit/93913421f6a862f27eac6a591edd737af8588985) - 2026-10-22
+* [Commit] [Makefile: build C++ cgo deps without NDEBUG (#25181)](https://github.com/erigontech/erigon/commit/d3bb5bae9950b2ad64a9d48e1fa7b3473767d8ee) - 2026-10-21
+* [Commit] [execution/vm: reuse an output buffer for the identity precompile (#25155)](https://github.com/erigontech/erigon/commit/eaac457a317acdc8f5e3208aac6ce84fdd0758a9) - 2026-10-21
+* [Commit] [execution/types: keep BAL storage reads as raw hashes (#25153)](https://github.com/erigontech/erigon/commit/dc362b93e97c034032dd168e8ca03446f5fb5565) - 2026-10-21
+* [Commit] [execution/engineapi: answer a re-sent validated payload before InsertBlocks (#25116)](https://github.com/erigontech/erigon/commit/7bce7e99a14d21eb9f25845623d9669564097b62) - 2026-10-21
+* [Commit] [vm: 2.5x faster JUMPDEST analysis of code without PUSH opcodes (#25118)](https://github.com/erigontech/erigon/commit/517e96ca06ce7ff821a34ec3e947ce0beb6046ec) - 2026-10-21
+* [Commit] [rpc/ethapi: _call json decode access list (#25145)](https://github.com/erigontech/erigon/commit/e3df0edd940d045a3e3fa87b308ec1a9541a136e) - 2026-10-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

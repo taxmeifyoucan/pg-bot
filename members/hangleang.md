@@ -34,6 +34,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Serialize pending state lists without copying](https://github.com/grandinetech/grandine/commit/93ea53af9c6537f08ebbccebcc4db87f0af0720e) - 2026-10-16
 * [Commit] [Update `payload_attributes` event data for post-gloas](https://github.com/grandinetech/grandine/commit/2609b731821b04a597577f45b0e17741916e2188) - 2026-10-16
 * [Commit] [Remove `GET /eth/v1/validator/execution_payload_bids/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/commit/834aceb64ddfc021ced5cc7374fb4768f2dd976b) - 2026-10-16
+* [Review] [Review on: Implement Gloas builder flow from beacon-APIs](https://github.com/grandinetech/grandine/pull/948#pullrequestreview-5599073997) - 2026-10-21
 ## Q3 2026
 
 

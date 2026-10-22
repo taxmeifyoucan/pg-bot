@@ -210,6 +210,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/forkchoice: export GLOAS weights in v1 debug fork choice (#24936)](https://github.com/erigontech/erigon/commit/92a4ee2706c266f7b861d61aef0425f83d89b6e1) - 2026-10-20
 * [Commit] [rpc, db: gate historical requests by physical availability (#23776)](https://github.com/erigontech/erigon/commit/d98ef74e98d8a159fe6025c2b47c67bc717eac29) - 2026-10-20
 * [Commit] [ci: add peer redundancy to the Pectra testnet (#25073)](https://github.com/erigontech/erigon/commit/758fe5812fdc8ad94e4fba8c101f23328ed5fcd8) - 2026-10-20
+* [Review] [Review on: execution/state: emit no writes for an account created and destroyed in one tx](https://github.com/erigontech/erigon/pull/25160#pullrequestreview-5598402123) - 2026-10-21
+* [Review] [Review on: cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25173#pullrequestreview-5598502605) - 2026-10-21
+* [Review] [Review on: execution/vm: reuse the MULMOD reciprocal for a repeated modulus](https://github.com/erigontech/erigon/pull/25146#pullrequestreview-5596496887) - 2026-10-21
+* [Review] [Review on: cl/transition/impl/eth2/statechange: apply rewards and penalties per delta set as in the spec](https://github.com/erigontech/erigon/pull/25150#pullrequestreview-5605505314) - 2026-10-21
+* [Review] [Review on: cl/phase1/core/caches, cl/phase1/core/state, cl/phase1/stages, cl/transition/impl/eth2/statechange: stop sharing the total active balance across branches](https://github.com/erigontech/erigon/pull/25172#pullrequestreview-5605210894) - 2026-10-21
+* [Pull Request] [[r3.8] ci: exercise Caplin Glamsterdam under transaction load](https://github.com/erigontech/erigon/pull/25178) - 2026-10-21
+* [Pull Request] [[r3.8] cl, execution: complete payload preparation coverage and hardening](https://github.com/erigontech/erigon/pull/25180) - 2026-10-21
+* [Review] [Review on: execution/vm: pin MCOPY fast-path bounds, copied bytes and dispatch](https://github.com/erigontech/erigon/pull/25156#pullrequestreview-5598910363) - 2026-10-21
+* [Commit] [cl, execution: complete payload preparation coverage and hardening (#24939)](https://github.com/erigontech/erigon/commit/81244a81739c2db015e6ba55986e27525d6d32ea) - 2026-10-21
+* [Commit] [ci: exercise Caplin Glamsterdam under transaction load (#25123)](https://github.com/erigontech/erigon/commit/a0674a65ac0befbe107243dce45a638a7dc63e31) - 2026-10-21
+* [Commit] [execution/engineapi: reject null required parameters (#25122)](https://github.com/erigontech/erigon/commit/9ec56b5569508a014b479f5e8386056dd4bc8547) - 2026-10-21
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

@@ -267,6 +267,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427#pullrequestreview-5426520224) - 2026-10-06
 
+* [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5599610048) - 2026-10-21
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: pal: reclaim ZisK accelerator scratch memory, halt on Rust OOM](https://github.com/NethermindEth/bflat-riscv64/pull/52#pullrequestreview-5464545346) - 2026-10-09
 

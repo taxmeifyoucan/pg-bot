@@ -38,6 +38,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Verify proposer preferences signature before advancing the dependent state (#17656)](https://github.com/OffchainLabs/prysm/commit/87b5f3b4177d2d6904e4d1b22426dd5d10037aef) - 2026-10-13
 * [Review] [Review on: Limit Gloas payload envelope validation work](https://github.com/OffchainLabs/prysm/pull/17612#pullrequestreview-5534869464) - 2026-10-15
 * [Review] [Review on: update go to 1.26.10](https://github.com/OffchainLabs/prysm/pull/17746#pullrequestreview-5591259021) - 2026-10-20
+* [Review] [Review on: Bump the go_modules group across 1 directory with 5 updates](https://github.com/OffchainLabs/prysm/pull/17757#pullrequestreview-5606697237) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

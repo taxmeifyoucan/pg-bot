@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [Fix/sync signal reporting bugs (#11262)](https://github.com/besu-eth/besu/commit/3ec0b6bf6681c4f0a745a0a03a2379562e9640e6) - 2026-10-16
 * [Review] [Review on: chore: bump  witness tests to v21.0.6](https://github.com/besu-eth/besu/pull/11651#pullrequestreview-5579170468) - 2026-10-19
 * [Pull Request] [Fix/snap storage root refresh](https://github.com/besu-eth/besu/pull/11654) - 2026-10-20
+* [Review] [Review on: Disconnect peers whose task response fails to decode](https://github.com/besu-eth/besu/pull/11451#pullrequestreview-5595659208) - 2026-10-21
 ## Q3 2026
 
 
