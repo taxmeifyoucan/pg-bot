@@ -77,6 +77,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Ask block to peer sending us an attestation for it.](https://github.com/OffchainLabs/prysm/pull/17754) - 2026-10-21
 * [Pull Request] [Validator client: put the auth token in the wallet directory by default](https://github.com/OffchainLabs/prysm/pull/17750) - 2026-10-21
 * [Commit] [Validator client: put the auth token in the wallet directory by default (#17750)](https://github.com/OffchainLabs/prysm/commit/026d47a9178af7a65f1e2b832dbe41acbb2c7ac6) - 2026-10-21
+* [Pull Request] [Revamp `CONTRIBUTING.md` and require external contributors to be assigned to the issue their PR fixes.](https://github.com/OffchainLabs/prysm/pull/17764) - 2026-10-22
+* [Pull Request] [Data column storage: write the filesystem cache to disk at graceful shutdown, and load it at the next startup instead of walking the whole data column storage.](https://github.com/OffchainLabs/prysm/pull/17762) - 2026-10-22
+* [Review] [Review on: Ask block to peer sending us an attestation for it.](https://github.com/OffchainLabs/prysm/pull/17754#pullrequestreview-5613753648) - 2026-10-22
+* [Review] [Review on: FOCIL: Add types and config](https://github.com/OffchainLabs/prysm/pull/17741#pullrequestreview-5612070204) - 2026-10-22
+* [Pull Request] [Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759) - 2026-10-22
+* [Issue] [Dropping incoming partial RPC flood](https://github.com/OffchainLabs/prysm/issues/17761) - 2026-10-22
+* [Commit] [Ask block to peer sending us an attestation for it. (#17754)](https://github.com/OffchainLabs/prysm/commit/4f4b6be477c64ca504b2ef7545ca03fd0cac6b32) - 2026-10-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

@@ -79,6 +79,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Review] [Review on: perf(zkvm): link a 64-bit memmove and memset into the sp1 and openvm guests](https://github.com/NethermindEth/bflat-riscv64/pull/58#pullrequestreview-5532629490) - 2026-10-15
 * [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/commit/321edc6406497fbd6c6e09f717307e82df47bb90) - 2026-10-19
 * [Pull Request] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf.r396](https://github.com/NethermindEth/bflat-riscv64/pull/63) - 2026-10-21
+* [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf.r396](https://github.com/NethermindEth/bflat-riscv64/commit/c2c0faa32dbbbdfed6120eea0041b28cbff4debd) - 2026-10-22
 ## Q3 2026
 
 

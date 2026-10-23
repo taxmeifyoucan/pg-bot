@@ -182,6 +182,17 @@ Team: Erigon
 * [Commit] [db/datadir/reset: clear chaindata, patch bad files, guard renames (#25104)](https://github.com/erigontech/erigon/commit/052b41b023358e585b4717a7a9de9513914f7cfa) - 2026-10-22
 * [Commit] [execution/vm: write PREVRANDAO straight into its stack slot (#25185)](https://github.com/erigontech/erigon/commit/f54c28bbc98e38ac16b552e03099e68d9e240f10) - 2026-10-21
 * [Commit] [execution/vm: copy cached address words onto the stack without a memmove call on amd64 (#25186)](https://github.com/erigontech/erigon/commit/f2b2260bd8653cc87319ca9d37731e0c1303eeed) - 2026-10-21
+* [Pull Request] [cl/phase1/stages: index caplin segments before the history download](https://github.com/erigontech/erigon/pull/25224) - 2026-10-22
+* [Review] [Review on: cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25173#pullrequestreview-5611812047) - 2026-10-22
+* [Review] [Review on: cl/persistence, cl/antiquary: store builders history as a per-index diff](https://github.com/erigontech/erigon/pull/25231#pullrequestreview-5618679856) - 2026-10-22
+* [Review] [Review on: cl/persistence, cl/antiquary: store builder pending payments history as epoch base plus deltas](https://github.com/erigontech/erigon/pull/25234#pullrequestreview-5618680145) - 2026-10-22
+* [Review] [Review on: [r3.8] execution/engineapi: look up a new payload's header by hash and number](https://github.com/erigontech/erigon/pull/25242#pullrequestreview-5618538051) - 2026-10-22
+* [Review] [Review on: [r3.8] cl/beacon/handler: retry payload preparation within the post-PTC window](https://github.com/erigontech/erigon/pull/25246#pullrequestreview-5618538366) - 2026-10-22
+* [Review] [Review on: cl/phase1/network/registry: let one peer forward a slot's aggregates at once](https://github.com/erigontech/erigon/pull/25236#pullrequestreview-5618537500) - 2026-10-22
+* [Review] [Review on: cl: hand the post-fork-choice head state to synced data without copying it](https://github.com/erigontech/erigon/pull/25237#pullrequestreview-5618537843) - 2026-10-22
+* [Commit] [execution: invalidate a balance read that a fee re-credit rewrote in place (#24041)](https://github.com/erigontech/erigon/commit/aa37a4abdef2ce176313eb5e28df28fc2eb9c638) - 2026-10-23
+* [Commit] [execution/execmodule: test fork choice recovery after an invalid safe hash (#25167)](https://github.com/erigontech/erigon/commit/19bd3785846e07240c21e2daa4dccfc9d0231d15) - 2026-10-22
+* [Commit] [cl/phase1/forkchoice: keep pre-Gloas get_head vote weights across calls (#24985)](https://github.com/erigontech/erigon/commit/b27fb9e0fe3442af5269a0039976a3fb4d92a964) - 2026-10-22
 ## Q3 2026
 
 

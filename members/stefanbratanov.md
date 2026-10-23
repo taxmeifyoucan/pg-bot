@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Use proposer config for Gloas block proposal (#11376)](https://github.com/Consensys-Incorporated/teku/commit/5773fc8d5402eb1841794f01a6022342ae471e38) - 2026-10-19
 * [Review] [Review on: Keymanager-API changes for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11537#pullrequestreview-5580484097) - 2026-10-20
 * [Commit] [Keymanager-API changes for Gloas (#11537)](https://github.com/Consensys-Incorporated/teku/commit/966f5d6ea314f1d3f1c042227f93c7767ffadb65) - 2026-10-22
+* [Pull Request] [Unhide builder options and add p2p specific ones](https://github.com/Consensys-Incorporated/teku/pull/11563) - 2026-10-22
 ## Q3 2026
 
 

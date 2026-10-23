@@ -442,6 +442,25 @@ Team: Erigon
 * [Commit] [execution/engineapi: answer a re-sent validated payload before InsertBlocks (#25116)](https://github.com/erigontech/erigon/commit/7bce7e99a14d21eb9f25845623d9669564097b62) - 2026-10-21
 * [Commit] [vm: 2.5x faster JUMPDEST analysis of code without PUSH opcodes (#25118)](https://github.com/erigontech/erigon/commit/517e96ca06ce7ff821a34ec3e947ce0beb6046ec) - 2026-10-21
 * [Commit] [rpc/ethapi: _call json decode access list (#25145)](https://github.com/erigontech/erigon/commit/e3df0edd940d045a3e3fa87b308ec1a9541a136e) - 2026-10-21
+* [Review] [Review on: [r3.8] cl: cache Gloas block body and progressive list roots](https://github.com/erigontech/erigon/pull/25255#pullrequestreview-5623030359) - 2026-10-23
+* [Review] [Review on: [r3.8] cl: fix Gloas historical state reads and storage formats](https://github.com/erigontech/erigon/pull/25256#pullrequestreview-5623029845) - 2026-10-23
+* [Pull Request] [execution/stagedsync, execution/exec: recover BAL-block senders in the exec workers](https://github.com/erigontech/erigon/pull/25223) - 2026-10-22
+* [Review] [Review on: execution/stagedsync, execution/exec: recover BAL-block senders in the exec workers](https://github.com/erigontech/erigon/pull/25223#pullrequestreview-5623189812) - 2026-10-23
+* [Pull Request] [execution/stagedsync: fold each BAL-block tx as it is published, not at block end](https://github.com/erigontech/erigon/pull/25232) - 2026-10-22
+* [Review] [Review on: execution/stagedsync: fold each BAL-block tx as it is published, not at block end](https://github.com/erigontech/erigon/pull/25232#pullrequestreview-5623211929) - 2026-10-23
+* [Pull Request] [execution/stagedsync: BAL blocks dispatch a bounded window and skip the post-valid wait](https://github.com/erigontech/erigon/pull/25225) - 2026-10-22
+* [Review] [Review on: execution/stagedsync: BAL blocks dispatch a bounded window and skip the post-valid wait](https://github.com/erigontech/erigon/pull/25225#pullrequestreview-5623197951) - 2026-10-23
+* [Pull Request] [execution/vm: shift on DIV by a power of two](https://github.com/erigontech/erigon/pull/25226) - 2026-10-22
+* [Pull Request] [execution/state: revert logs by snapshot count, not per-log journal entries](https://github.com/erigontech/erigon/pull/25227) - 2026-10-22
+* [Pull Request] [exec: cut serial BAL work around exec](https://github.com/erigontech/erigon/pull/25220) - 2026-10-22
+* [Review] [Review on: eez: run Erigon as an EEZ follower](https://github.com/erigontech/erigon/pull/25154#pullrequestreview-5623186293) - 2026-10-23
+* [Pull Request] [execution/stagedsync: a burnt contract that self-destructs loses the burn of its tx](https://github.com/erigontech/erigon/pull/25263) - 2026-10-23
+* [Review] [Review on: [r3.8] cl: fix torn beacon state copies and make copies cheap](https://github.com/erigontech/erigon/pull/25257#pullrequestreview-5623033897) - 2026-10-23
+* [Review] [Review on: [r3.8] execution/builder, txnprovider: stop waiting for the parent block once a payload is collected](https://github.com/erigontech/erigon/pull/25254#pullrequestreview-5623030861) - 2026-10-23
+* [Pull Request] [ci: cap the Pectra assertoor tests at 10 minutes](https://github.com/erigontech/erigon/pull/25262) - 2026-10-23
+* [Pull Request] [tools: split the stable EEST blocktest shards by fork](https://github.com/erigontech/erigon/pull/25261) - 2026-10-23
+* [Commit] [execution/cache: faster code-cache fill when loading cold contracts (#25072)](https://github.com/erigontech/erigon/commit/ab8dc42297e53ce2e453c0d0aaac2e33b8c7de2b) - 2026-10-22
+* [Commit] [execution: charge the sender at validation, allow same-sender txs run in parallel (#25204)](https://github.com/erigontech/erigon/commit/494f18892c55ec1a6c466b5b228c9c1094b075c3) - 2026-10-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

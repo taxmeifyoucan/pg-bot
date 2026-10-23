@@ -16,6 +16,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Review] [Review on: Add full-spec LightClientEpochData types (decentralized CL sync, Phase 1b)](https://github.com/sigp/lighthouse/pull/10208#pullrequestreview-5530359790) - 2026-10-15
 * [Review] [Review on: Lc historical backfill](https://github.com/sigp/lighthouse/pull/10050#pullrequestreview-5529970360) - 2026-10-15
+* [Review] [Review on: Phase3 trusted block root](https://github.com/sigp/lighthouse/pull/9917#pullrequestreview-5618837274) - 2026-10-22
+* [Review] [Review on: Fix lc finality zero check clean](https://github.com/sigp/lighthouse/pull/9816#pullrequestreview-5618805330) - 2026-10-22
+* [Review] [Review on: Fix: use empty finalized header when finalized_block_root is zero](https://github.com/sigp/lighthouse/pull/9865#pullrequestreview-5618671991) - 2026-10-22
+* [Review] [Review on: fix lc_is_latest](https://github.com/sigp/lighthouse/pull/9903#pullrequestreview-5618566818) - 2026-10-22
+* [Review] [Review on: Add light client data collection ef test handler (draft)](https://github.com/sigp/lighthouse/pull/9666#pullrequestreview-5615306025) - 2026-10-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Store full finalized_checkpoint in CachedLightClientData](https://github.com/status-im/nimbus-eth2/pull/9161) - 2026-10-01
 * [Review] [Review on: Preserve negative peer score across reconnections](https://github.com/status-im/nimbus-eth2/pull/8446#pullrequestreview-5379557227) - 2026-10-01
@@ -49,6 +54,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Drop unused p2pProtocol DSL helpers](https://github.com/status-im/nimbus-eth2/pull/9316) - 2026-10-19
 * [Review] [Review on: New size-bounded string type for JSON and SSZ](https://github.com/status-im/nimbus-eth2/pull/9324#pullrequestreview-5583000280) - 2026-10-20
 * [Pull Request] [Compare identifier with eqIdent instead of ==](https://github.com/status-im/nimbus-eth2/pull/9327) - 2026-10-20
+* [Pull Request] [Tag SSZ ByteLists with correct type](https://github.com/status-im/nimbus-eth2/pull/9356) - 2026-10-22
+* [Pull Request] [Cache PTC in EpochRef](https://github.com/status-im/nimbus-eth2/pull/9341) - 2026-10-22
+* [Pull Request] [Remove unused std/macros imports](https://github.com/status-im/nimbus-eth2/pull/9337) - 2026-10-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -57,6 +65,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Update EIP-8116: Define gasUsed and RPC cumulativeGasUsed](https://github.com/ethereum/EIPs/pull/12430#pullrequestreview-5420739697) - 2026-10-05
 * [Pull Request] [Update EIP-7773: Add EIP-7495 and EIP-7916 to Glamsterdam](https://github.com/ethereum/EIPs/pull/12449) - 2026-10-07
 
+* [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5613519186) - 2026-10-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Use RLP consumeList API for lists allowing additional elements](https://github.com/status-im/nimbus-eth1/pull/4958) - 2026-10-11
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4957) - 2026-10-10
@@ -67,6 +76,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump nim-eth (#4999)](https://github.com/status-im/nimbus-eth1/commit/9a36e8bea4a4980302cacce68b404882dd120064) - 2026-10-15
 * [Pull Request] [Fix comparison in verified proxy test backend](https://github.com/status-im/nimbus-eth1/pull/5006) - 2026-10-18
 * [Pull Request] [Fix comparison in verified proxy test backend](https://github.com/status-im/nimbus-eth1/pull/5009) - 2026-10-19
+* [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/5053) - 2026-10-22
+* [Pull Request] [Build fork activation lists with staticFor](https://github.com/status-im/nimbus-eth1/pull/5048) - 2026-10-22
+* [Commit] [Build fork activation lists with staticFor (#5048)](https://github.com/status-im/nimbus-eth1/commit/13c105f635c640b6cc469eb0d2badc91c3e20ac7) - 2026-10-22
+* [Commit] [Fix comparison in verified proxy test backend (#5009)](https://github.com/status-im/nimbus-eth1/commit/5f29129e1f59e79b05babe128de5ee2778dd0299) - 2026-10-22
 ## Q3 2026
 
 

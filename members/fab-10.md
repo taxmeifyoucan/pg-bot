@@ -74,6 +74,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Notify the JSON-RPC pending transaction listeners outside the pool lock](https://github.com/besu-eth/besu/pull/11689) - 2026-10-21
 * [Review] [Review on: Notify the JSON-RPC pending transaction listeners outside the pool lock](https://github.com/besu-eth/besu/pull/11689#pullrequestreview-5602906472) - 2026-10-21
 * [Review] [Review on: Allow sequenced TX pool to only retain transactions for a short period of time (i.e. < the current 1 hour minimum)](https://github.com/besu-eth/besu/pull/11588#pullrequestreview-5599410466) - 2026-10-21
+* [Review] [Review on: Run EVM v1 and v2 tests in the same jobs; devnet tests on ubuntu-16](https://github.com/besu-eth/besu/pull/11703#pullrequestreview-5613656380) - 2026-10-22
+* [Pull Request] [Run CI on rebase, ci and ds branches only on demand](https://github.com/besu-eth/besu/pull/11724) - 2026-10-22
+* [Pull Request] [Run full CI on pushes to rebase branches](https://github.com/besu-eth/besu/pull/11704) - 2026-10-22
+* [Pull Request] [Run CI on rebase, ci and ds branches](https://github.com/besu-eth/besu/pull/11702) - 2026-10-22
+* [Review] [Review on: Run CI on rebase, ci and ds branches](https://github.com/besu-eth/besu/pull/11702#pullrequestreview-5611891608) - 2026-10-22
+* [Issue] [Gas estimation standardization effort](https://github.com/besu-eth/besu/issues/11701) - 2026-10-22
+* [Commit] [Run full CI on pushes to rebase branches (#11704)](https://github.com/besu-eth/besu/commit/aca841e93080e10b28c535f35c8ce83679b56e17) - 2026-10-22
+* [Commit] [Run CI on rebase, ci and ds branches (#11702)](https://github.com/besu-eth/besu/commit/257f9055f7844b3120421a20f9ad45cfd3ee94eb) - 2026-10-22
+* [Commit] [Make SnapProtocolVersion an enum (#11513)](https://github.com/besu-eth/besu/commit/571172044a167c8c58ea7ff24dcf522e8405967e) - 2026-10-22
+* [Commit] [Notify the layered pool transaction added before making space for it (#11688)](https://github.com/besu-eth/besu/commit/c9dfe7495f2ab1f6a3779adc35b33bda27aadb20) - 2026-10-22
+* [Commit] [Notify the sequenced pool transaction events in the order they happen (#11685)](https://github.com/besu-eth/besu/commit/bbccb85dc0959c00a66874b2349224ae13c73612) - 2026-10-22
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

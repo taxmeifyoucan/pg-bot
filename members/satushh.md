@@ -40,6 +40,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Implement EIP-8365: disallow new 0x00 validators](https://github.com/OffchainLabs/prysm/pull/17679#pullrequestreview-5532002841) - 2026-10-15
 * [Commit] [Verify payload attestation signatures on RPC submission (#17363)](https://github.com/OffchainLabs/prysm/commit/948f8d2052432ebae3f6e2194c83b35f46566a99) - 2026-10-16
 * [Review] [Review on: changelog for v7.3.0](https://github.com/OffchainLabs/prysm/pull/17727#pullrequestreview-5571998357) - 2026-10-19
+* [Review] [Review on: Unschedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17760#pullrequestreview-5617105135) - 2026-10-22
 ## Q3 2026
 
 

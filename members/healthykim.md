@@ -26,6 +26,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [version: start release cycle v1.17.10](https://github.com/ethereum/go-ethereum/pull/35991) - 2026-10-21
 * [Commit] [version: start release cycle v1.17.10 (#35991)](https://github.com/ethereum/go-ethereum/commit/ad4a0876d980675bea945b3bd75c94d90da02e28) - 2026-10-21
 * [Commit] [version: release go-ethereum v1.17.9 stable (#35990)](https://github.com/ethereum/go-ethereum/commit/9dffe6e976cbbb87a84c5fd395448f0950290def) - 2026-10-21
+* [Review] [Review on:  eth: add request-latency peer-drop protection](https://github.com/ethereum/go-ethereum/pull/34771#pullrequestreview-5617224200) - 2026-10-22
 ## Q3 2026
 
 

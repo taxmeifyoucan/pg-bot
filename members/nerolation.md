@@ -51,6 +51,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8141: price frame and signature entries at the floor](https://github.com/ethereum/EIPs/pull/12559) - 2026-10-21
 * [Commit] [Update EIP-8279: check the floor against the execution-gas budget](https://github.com/ethereum/EIPs/commit/5a4387b9574508c1d1f70ad9ce079e92478f2e45) - 2026-10-21
 * [Commit] [Update EIP-8279: Remove unsafe storage-value refund](https://github.com/ethereum/EIPs/commit/100c82ba5f21b2661736c79a89ecf8904ffbcc36) - 2026-10-21
+* [Commit] [Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs (#12561)](https://github.com/ethereum/EIPs/commit/f1ade090fd315895461fc3e249cb1a675aeb55a9) - 2026-10-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 ## Q3 2026

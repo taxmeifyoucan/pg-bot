@@ -57,6 +57,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-specs): fill frame_tx variants as engine_x fixtures](https://github.com/ethereum/execution-specs/pull/3877) - 2026-10-21
 * [Commit] [chore(tooling): require uv 0.13.4 and bump setup-uv to v10.3.0 (#3880)](https://github.com/ethereum/execution-specs/commit/fffef2efe27c9000942452e7f763f236bd8b9b98) - 2026-10-21
 * [Commit] [fix(test-consume): end each hive test only once (#3879)](https://github.com/ethereum/execution-specs/commit/921c0796af9ab7759440eb24436b6ac96fd5bea0) - 2026-10-21
+* [Pull Request] [perf(test-consume): show the hive reproduce steps only for failed tests](https://github.com/ethereum/execution-specs/pull/3894) - 2026-10-22
+* [Review] [Review on: feat(tooling,ci): announce releases to hive-tests after publishing their images](https://github.com/ethereum/execution-specs/pull/3883#pullrequestreview-5617236686) - 2026-10-22
+* [Commit] [perf(test-consume): show the hive reproduce steps only for failed tests (#3894)](https://github.com/ethereum/execution-specs/commit/aaae5abd382b6c0612add96bd8400d6fa4eb0617) - 2026-10-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -72,6 +75,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5585676683) - 2026-10-20
 * [Commit] [hive: select --sim simulators from the inventory with --config (#1624)](https://github.com/ethereum/hive/commit/ece8bcb0a1236aa530a4f145cf8aa0d28c568ae6) - 2026-10-20
 * [Commit] [simulators/ethereum/eels: run from published execution-specs images (#1609)](https://github.com/ethereum/hive/commit/11864a701d331535f4ed487e4d538bead457d760) - 2026-10-20
+* [Pull Request] [clients/nimbus-el: map HIVE_SYNC_LOOP_INTERVAL_MS to the beacon sync loop interval](https://github.com/ethereum/hive/pull/1635) - 2026-10-22
+* [Pull Request] [cmd/hiveview, cmd/hq: add run end time to listing](https://github.com/ethereum/hive/pull/1634) - 2026-10-22
+* [Commit] [hiveproxy: probe client readiness at shorter intervals (#1627)](https://github.com/ethereum/hive/commit/e1ad81006c63555915e05a121df3e68953fa9138) - 2026-10-22
+* [Commit] [cmd/hiveview, cmd/hq: add run end time to listing (#1634)](https://github.com/ethereum/hive/commit/7dbf2ac372a48796d1309dd0101883a5a5225508) - 2026-10-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -85,6 +92,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/status-im/nimbus-eth1/pull/5012) - 2026-10-19
 
+* [Pull Request] [beacon sync: start the daemon promptly and replay a dropped CL head](https://github.com/status-im/nimbus-eth1/pull/5042) - 2026-10-22
+* [Pull Request] [beacon sync: cancel the session when the last sync peer serves an invalid block](https://github.com/status-im/nimbus-eth1/pull/5041) - 2026-10-22
+* [Pull Request] [beacon sync: add a hidden option to set the sync loop interval for testing](https://github.com/status-im/nimbus-eth1/pull/5040) - 2026-10-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Require uv 0.13.4 or newer to avoid a compromised root CA](https://github.com/ethereum/consensus-specs/pull/5752) - 2026-10-21
 * [Commit] [Require uv 0.13.4 or newer to avoid a compromised root CA (#5752)](https://github.com/ethereum/consensus-specs/commit/75428da3274397af7254f40814c00e243f792d3d) - 2026-10-21

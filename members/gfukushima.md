@@ -28,6 +28,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Update discovery to 26.10.1](https://github.com/Consensys-Incorporated/teku/pull/11541#pullrequestreview-5582177676) - 2026-10-20
 * [Review] [Review on: Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot](https://github.com/Consensys-Incorporated/teku/pull/11540#pullrequestreview-5607973886) - 2026-10-22
 * [Review] [Review on: Envelopes by range follow ups](https://github.com/Consensys-Incorporated/teku/pull/11551#pullrequestreview-5594720101) - 2026-10-21
+* [Pull Request] [Move payload bodies request to a separate EL request queue ](https://github.com/Consensys-Incorporated/teku/pull/11564) - 2026-10-22
+* [Review] [Review on: Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot](https://github.com/Consensys-Incorporated/teku/pull/11540#pullrequestreview-5608874796) - 2026-10-22
+* [Commit] [Envelopes by range follow ups (#11551)](https://github.com/Consensys-Incorporated/teku/commit/ea67f37ded49fe768237e8f4da29a9dd39203362) - 2026-10-22
 ## Q3 2026
 
 

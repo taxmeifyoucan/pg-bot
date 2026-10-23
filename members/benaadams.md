@@ -261,6 +261,43 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(history): harden BAL retention and delayed sync responses](https://github.com/NethermindEth/nethermind/pull/14915#pullrequestreview-5586105069) - 2026-10-20
 * [Review] [Review on: fix(focil): correct inclusion-list appendability checks](https://github.com/NethermindEth/nethermind/pull/14916#pullrequestreview-5589905686) - 2026-10-20
 * [Review] [Review on: fix(debug): recover per-transaction JavaScript errors in block traces](https://github.com/NethermindEth/nethermind/pull/14921#pullrequestreview-5589904086) - 2026-10-20
+* [Review] [Review on: perf(rpc): read eth_getStorageValues slots with one state read per account](https://github.com/NethermindEth/nethermind/pull/15099#pullrequestreview-5618857907) - 2026-10-22
+* [Review] [Review on: perf(network): encode fork hashes from stack spans](https://github.com/NethermindEth/nethermind/pull/15120#pullrequestreview-5618858307) - 2026-10-22
+* [Review] [Review on: perf(debug): stop debug_traceCall after the call](https://github.com/NethermindEth/nethermind/pull/15127#pullrequestreview-5623106579) - 2026-10-23
+* [Review] [Review on: perf(network): decode header selectors as spans](https://github.com/NethermindEth/nethermind/pull/15130#pullrequestreview-5623106355) - 2026-10-23
+* [Review] [Review on: perf(tracing): write prestate numbers directly](https://github.com/NethermindEth/nethermind/pull/15131#pullrequestreview-5623106134) - 2026-10-23
+* [Review] [Review on: perf(sync): decode storage roots without accounts](https://github.com/NethermindEth/nethermind/pull/15132#pullrequestreview-5623105898) - 2026-10-23
+* [Review] [Review on: perf(network): decode receipt roots from spans](https://github.com/NethermindEth/nethermind/pull/15133#pullrequestreview-5623105676) - 2026-10-23
+* [Review] [Review on: perf(tracing): probe prestate slots once](https://github.com/NethermindEth/nethermind/pull/15134#pullrequestreview-5623105429) - 2026-10-23
+* [Review] [Review on: perf(rpc): execute consecutive native-tracer debug_traceCall batch items concurrently](https://github.com/NethermindEth/nethermind/pull/15128#pullrequestreview-5623105112) - 2026-10-23
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/15135#pullrequestreview-5623045840) - 2026-10-23
+* [Review] [Review on: perf(rpc): share serialized logs and receipts among subscriptions that can reuse them](https://github.com/NethermindEth/nethermind/pull/15018#pullrequestreview-5619280279) - 2026-10-22
+* [Review] [Review on: fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15056#pullrequestreview-5619261031) - 2026-10-22
+* [Review] [Review on: perf(json): write hash keys as UTF-8](https://github.com/NethermindEth/nethermind/pull/15111#pullrequestreview-5618857447) - 2026-10-22
+* [Review] [Review on: perf(consensus): take the suggested chargeable BAL reads from the stored total](https://github.com/NethermindEth/nethermind/pull/15089#pullrequestreview-5618861384) - 2026-10-22
+* [Review] [Review on: perf(consensus): keep one execution requests processor per pooled BAL processor](https://github.com/NethermindEth/nethermind/pull/15088#pullrequestreview-5618861587) - 2026-10-22
+* [Review] [Review on: perf(blockchain): keep the block RLP length from validation to RPC](https://github.com/NethermindEth/nethermind/pull/15071#pullrequestreview-5618858097) - 2026-10-22
+* [Review] [Review on: perf(taiko): estimate a transaction's compressed size once per batch boundary](https://github.com/NethermindEth/nethermind/pull/15100#pullrequestreview-5618862471) - 2026-10-22
+* [Review] [Review on: fix(state): treat storage roots in a trie-less scope as not authoritative](https://github.com/NethermindEth/nethermind/pull/15123#pullrequestreview-5618857091) - 2026-10-22
+* [Review] [Review on: feat(rpc): add debug_storageRangeAt](https://github.com/NethermindEth/nethermind/pull/15061#pullrequestreview-5619281355) - 2026-10-22
+* [Review] [Review on: feat(rpc): add allowed hosts for JSON-RPC and Engine API](https://github.com/NethermindEth/nethermind/pull/15059#pullrequestreview-5619282832) - 2026-10-22
+* [Review] [Review on: feat(log-index): halve default backfill parallelism and document the settings](https://github.com/NethermindEth/nethermind/pull/15053#pullrequestreview-5619277769) - 2026-10-22
+* [Review] [Review on: test(network): cover privileged-peer socket reset handling](https://github.com/NethermindEth/nethermind/pull/14974#pullrequestreview-5619284929) - 2026-10-22
+* [Review] [Review on: fix(nethdev): do not produce empty blocks for txs the producer cannot include](https://github.com/NethermindEth/nethermind/pull/15065#pullrequestreview-5619273599) - 2026-10-22
+* [Review] [Review on: perf(zkevm): hash whole SSZ merkle trees in one ZisK SHA-256 loop](https://github.com/NethermindEth/nethermind/pull/15103#pullrequestreview-5619272279) - 2026-10-22
+* [Review] [Review on: fix(docgen): document response members written as null](https://github.com/NethermindEth/nethermind/pull/15058#pullrequestreview-5619277043) - 2026-10-22
+* [Review] [Review on: test(merge): fix flaky Merge.Plugin tests](https://github.com/NethermindEth/nethermind/pull/15039#pullrequestreview-5619284170) - 2026-10-22
+* [Review] [Review on: Use one trace module instance per logical processor](https://github.com/NethermindEth/nethermind/pull/15000#pullrequestreview-5619283525) - 2026-10-22
+* [Review] [Review on: fix(runner): sign each startup warmup request with a new token](https://github.com/NethermindEth/nethermind/pull/15035#pullrequestreview-5619276344) - 2026-10-22
+* [Review] [Review on: fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070#pullrequestreview-5619275697) - 2026-10-22
+* [Review] [Review on: fix(rpc): report the argument and reason for invalid params](https://github.com/NethermindEth/nethermind/pull/15090#pullrequestreview-5619274969) - 2026-10-22
+* [Review] [Review on: refactor(rpc): enable JavaScript error capture in the block-trace path](https://github.com/NethermindEth/nethermind/pull/15029#pullrequestreview-5619274257) - 2026-10-22
+* [Review] [Review on: perf(zkevm): convert big-endian 256-bit integers a word at a time](https://github.com/NethermindEth/nethermind/pull/15101#pullrequestreview-5619270807) - 2026-10-22
+* [Review] [Review on: fix(debug): classify transaction native tracer configuration errors](https://github.com/NethermindEth/nethermind/pull/14727#pullrequestreview-5619270200) - 2026-10-22
+* [Review] [Review on: perf(zkevm): remove memory copies on storage, keccak memo and call paths](https://github.com/NethermindEth/nethermind/pull/15102#pullrequestreview-5619269414) - 2026-10-22
+* [Review] [Review on: fix(rpc): report eth_createAccessList EVM failures with Geth's text](https://github.com/NethermindEth/nethermind/pull/15076#pullrequestreview-5619268744) - 2026-10-22
+* [Review] [Review on: fix(rpc): sort eth_createAccessList output ascending](https://github.com/NethermindEth/nethermind/pull/15073#pullrequestreview-5619267351) - 2026-10-22
+* [Review] [Review on: test(network): give the first peer fill more time on slow runners](https://github.com/NethermindEth/nethermind/pull/15036#pullrequestreview-5619266524) - 2026-10-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

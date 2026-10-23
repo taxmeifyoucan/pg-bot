@@ -62,6 +62,10 @@ Team: Grandine
 * [Review] [Review on: Add proposer preferences endpoint](https://github.com/grandinetech/grandine/pull/972#pullrequestreview-5601066979) - 2026-10-21
 * [Review] [Review on: Bump `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/997#pullrequestreview-5596024278) - 2026-10-21
 * [Commit] [Handle optimistic heads in Gloas](https://github.com/grandinetech/grandine/commit/817c5eb8b1619ef64fec0b3614d0243e827f850e) - 2026-10-21
+* [Pull Request] [Add beacon attestation rewards endpoint](https://github.com/grandinetech/grandine/pull/1004) - 2026-10-22
+* [Pull Request] [Configurable builder header timeout](https://github.com/grandinetech/grandine/pull/1005) - 2026-10-22
+* [Review] [Review on: Add builder pending withdrawals and payments endpoints](https://github.com/grandinetech/grandine/pull/971#pullrequestreview-5611457043) - 2026-10-22
+* [Review] [Review on: Updated documentation](https://github.com/grandinetech/grandine/pull/1002#pullrequestreview-5610164508) - 2026-10-22
 ## Q3 2026
 
 

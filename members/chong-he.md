@@ -39,6 +39,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Release v8.3.1](https://github.com/sigp/lighthouse/pull/10420#pullrequestreview-5608492592) - 2026-10-22
 * [Review] [Review on: Add CLI parameters for ePBS builder configuration (#10185)](https://github.com/sigp/lighthouse/pull/10374#pullrequestreview-5597433936) - 2026-10-21
 * [Commit] [Fix CI audit failure (#10407)](https://github.com/sigp/lighthouse/commit/73cbd6d4dc24f6266244060a17390042743068d5) - 2026-10-22
+* [Review] [Review on: Add gzip compression to HTTP metrics endpoints](https://github.com/sigp/lighthouse/pull/10338#pullrequestreview-5610813792) - 2026-10-22
 ## Q3 2026
 
 

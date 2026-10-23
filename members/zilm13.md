@@ -43,6 +43,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5599890729) - 2026-10-21
 * [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5600031852) - 2026-10-21
 * [Commit] [nit comment fix (#11559)](https://github.com/Consensys-Incorporated/teku/commit/42408b645055cdd7538d4c79d3401f12b88b8411) - 2026-10-22
+* [Commit] [Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat… (#11544)](https://github.com/Consensys-Incorporated/teku/commit/f52bbcda96a332e56bf429ee594c8f10def61433) - 2026-10-22
 ## Q3 2026
 
 

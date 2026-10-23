@@ -210,11 +210,53 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(maybe-rayon): cut loops into pieces up front and wake helpers as a tree (#2389)](https://github.com/Plonky3/Plonky3/commit/86db5da24a2ea4f4e4cb681644811c3aa3097a1f) - 2026-10-21
 * [Commit] [ci: never cancel a run of the same commit mid-plan (#2480)](https://github.com/Plonky3/Plonky3/commit/88704896792cd69e7b2e853873266a780e5a3bb5) - 2026-10-21
 * [Commit] [feat(flock): Boolean circuits as batched R1CS (#2486)](https://github.com/Plonky3/Plonky3/commit/0d90ac2abb8e742752108f8400d6bf39fc6a53d4) - 2026-10-21
+* [Pull Request] [[recursion lab] native generic recursion (tracking, do not merge yet)](https://github.com/Plonky3/Plonky3/pull/2533) - 2026-10-22
+* [Pull Request] [fix(binary-field): state how BinaryChallenger reads the sub-byte levels](https://github.com/Plonky3/Plonky3/pull/2549) - 2026-10-22
+* [Pull Request] [fix(binary-field): fold the rows past the last whole stripe in fold_rows](https://github.com/Plonky3/Plonky3/pull/2548) - 2026-10-22
+* [Pull Request] [fix(mersenne-31): bound the dot product length its accumulator relies on](https://github.com/Plonky3/Plonky3/pull/2540) - 2026-10-22
+* [Pull Request] [docs(mersenne-31): state the checked conversion ranges the code implements](https://github.com/Plonky3/Plonky3/pull/2538) - 2026-10-22
+* [Pull Request] [fix(mersenne-31): accept the documented range in from_canonical_unchecked](https://github.com/Plonky3/Plonky3/pull/2537) - 2026-10-22
+* [Pull Request] [fix(goldilocks): check the dot product length without truncating it](https://github.com/Plonky3/Plonky3/pull/2535) - 2026-10-22
+* [Pull Request] [docs(mersenne-31): correct the cubic complex extension's DTH_ROOT formula](https://github.com/Plonky3/Plonky3/pull/2539) - 2026-10-22
+* [Pull Request] [fix(mersenne-31): reduce the full sum in Sum::sum](https://github.com/Plonky3/Plonky3/pull/2536) - 2026-10-22
+* [Pull Request] [fix(goldilocks): document the conversion ranges the code implements](https://github.com/Plonky3/Plonky3/pull/2534) - 2026-10-22
+* [Pull Request] [fix(monty-31): require PRIME > 2^30 where inversion and 96-bit reduction rely on it](https://github.com/Plonky3/Plonky3/pull/2532) - 2026-10-22
+* [Review] [Review on: perf(matrix): initialize allocated transposes once](https://github.com/Plonky3/Plonky3/pull/2547#pullrequestreview-5617976089) - 2026-10-22
+* [Review] [Review on: perf(fri): specialize arity-four and arity-eight verifier folds](https://github.com/Plonky3/Plonky3/pull/2546#pullrequestreview-5617969945) - 2026-10-22
+* [Review] [Review on: feat(merkle-tree): estimate digest storage before commitment](https://github.com/Plonky3/Plonky3/pull/2543#pullrequestreview-5617979289) - 2026-10-22
+* [Review] [Review on: feat(blake3): expose raw scalar and packed compression](https://github.com/Plonky3/Plonky3/pull/2544#pullrequestreview-5617975974) - 2026-10-22
+* [Review] [Review on: feat(goldilocks): add optional constant-time canonicalization](https://github.com/Plonky3/Plonky3/pull/2541#pullrequestreview-5617973650) - 2026-10-22
+* [Review] [Review on: feat(security): account for once-per-proof lookup fractions](https://github.com/Plonky3/Plonky3/pull/2542#pullrequestreview-5617972197) - 2026-10-22
+* [Review] [Review on: perf(fri): bound denominator construction scratch](https://github.com/Plonky3/Plonky3/pull/2545#pullrequestreview-5617970686) - 2026-10-22
+* [Review] [Review on: feat(bitz): linear claims on committed bits through a grand product in the exponent](https://github.com/Plonky3/Plonky3/pull/2518#pullrequestreview-5617942214) - 2026-10-22
+* [Pull Request] [perf(circuit,fri): one Merkle row per level and fused ALU rows](https://github.com/Plonky3/Plonky3/pull/2531) - 2026-10-22
+* [Pull Request] [feat(circuit): aggregate proofs into one recursive proof](https://github.com/Plonky3/Plonky3/pull/2530) - 2026-10-22
+* [Pull Request] [feat(circuit): verify Plonky3 proofs inside a fixed table machine](https://github.com/Plonky3/Plonky3/pull/2528) - 2026-10-22
+* [Pull Request] [refactor(fri,uni-stark,batch-stark)!: write each verifier once over an abstract arithmetic](https://github.com/Plonky3/Plonky3/pull/2527) - 2026-10-22
+* [Commit] [docs(mersenne-31): correct the cubic complex extension's DTH_ROOT formula (#2539)](https://github.com/Plonky3/Plonky3/commit/90280500fc44d52c381dc7d760fb94ada3bb1929) - 2026-10-22
+* [Commit] [fix(mersenne-31): reduce the full sum in Sum::sum (#2536)](https://github.com/Plonky3/Plonky3/commit/0d13e3a87b6c3bf2a6d832f25be8a23b737f8dbd) - 2026-10-22
+* [Commit] [fix(goldilocks): document the conversion ranges the code implements (#2534)](https://github.com/Plonky3/Plonky3/commit/98a3fd2dfa5673e3fa057063114cc61de4ff8884) - 2026-10-22
+* [Commit] [fix(monty-31): require PRIME > 2^30 where inversion and 96-bit reduction rely on it (#2532)](https://github.com/Plonky3/Plonky3/commit/3ffe78d381a5e6b79821d0177128acbf85c1c970) - 2026-10-22
+* [Commit] [feat(gkr): batched tables and caller-proved bottom layers (#2514)](https://github.com/Plonky3/Plonky3/commit/208b64744cf56fe8eeb6afcb7be37ed669d9d6eb) - 2026-10-22
+* [Commit] [feat(field): powers of a fixed base from windowed tables (#2509)](https://github.com/Plonky3/Plonky3/commit/85724d28e5c105f415cda8cd017a1bd9f297bf9f) - 2026-10-22
+* [Commit] [perf(gkr): packed lanes and in-place folds in the radix-four prover (#2519)](https://github.com/Plonky3/Plonky3/commit/7ccbf5cf47004b7ddc4aaf0eb493c0032b0f1854) - 2026-10-22
+* [Commit] [refactor(flock): prove a batch against a region of a shared commitment (#2513)](https://github.com/Plonky3/Plonky3/commit/fbe3add489a9a90876431a4bfc38a049218655d6) - 2026-10-22
+* [Commit] [refactor(binary-pcs): share Flock's bit commitment, fold and byte slices (#2512)](https://github.com/Plonky3/Plonky3/commit/fc997783a9b72125b9c9d2fdabece1eeb2b80e7e) - 2026-10-22
+* [Commit] [refactor(gkr): move the batched product GKR out of the bus (#2511)](https://github.com/Plonky3/Plonky3/commit/bb8ab7bcb25e87b7d7d7ee6cd009f58aef21b617) - 2026-10-22
+* [Commit] [perf(flock): fold the lincheck witness in one run of tiles per worker (#2485)](https://github.com/Plonky3/Plonky3/commit/f6a73499cd06317a8ae9d9001b14fc9c0dc8cf42) - 2026-10-22
+* [Commit] [perf(flock): word-level witness generators for the hash gadgets (#2484)](https://github.com/Plonky3/Plonky3/commit/f4980b17ea464c9174bdd8af1c1fc9b665eb16e8) - 2026-10-22
+* [Commit] [perf(flock)!: open through WHIR's first fold and commit the witness in place (#2483)](https://github.com/Plonky3/Plonky3/commit/13a466c3a36231359b16c688320800a8544585c1) - 2026-10-22
+* [Commit] [perf(binary-field): transpose 64-bit bit matrices with byte shuffles and GFNI (#2496)](https://github.com/Plonky3/Plonky3/commit/7bba8df95786b9bceeb1d167a00e55902130f5a0) - 2026-10-22
+* [Commit] [perf(binary-pcs): commit WHIR trees at the bare root (#2495)](https://github.com/Plonky3/Plonky3/commit/c9769185d695ad5a33e10e4a6cac78b20765915d) - 2026-10-22
+* [Commit] [perf(multilinear-util): build Point equality weights with the tensor builder (#2497)](https://github.com/Plonky3/Plonky3/commit/abaa778dfc67fd7cfbd8d0245e9558f9b8b5f855) - 2026-10-22
+* [Commit] [fix(challenger): grind for the smallest proof-of-work witness (#2517)](https://github.com/Plonky3/Plonky3/commit/8abbf90f4ccfe99d3404d8fba598a57f918f6349) - 2026-10-22
+* [Commit] [perf(flock): faster and 128-bit composed bit commitment (#2482)](https://github.com/Plonky3/Plonky3/commit/c141355a26edc76e184920544f3bb68ce1f804f6) - 2026-10-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 
 * [Pull Request] [Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/pull/12550) - 2026-10-19
 * [Commit] [Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/commit/9a2db97d1834e01767dafbf55d245d3806663ab6) - 2026-10-21
+* [Review] [Review on: Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/pull/12550#pullrequestreview-5610842707) - 2026-10-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 ## Q3 2026

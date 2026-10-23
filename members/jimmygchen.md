@@ -20,6 +20,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418) - 2026-10-21
 * [Review] [Review on: Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418#pullrequestreview-5608601076) - 2026-10-22
 * [Issue] [Log the selected Gloas payload bid and relax builder flag requirements](https://github.com/sigp/lighthouse/issues/10412) - 2026-10-21
+* [Review] [Review on: Release v8.3.2](https://github.com/sigp/lighthouse/pull/10433#pullrequestreview-5622120806) - 2026-10-22
+* [Review] [Review on: Release v8.4.0-rc.0](https://github.com/sigp/lighthouse/pull/10428#pullrequestreview-5613668998) - 2026-10-22
+* [Issue] [Empty `auth_data` in `builder_definitions.yml` drops the builder at proposal time instead of failing at startup](https://github.com/sigp/lighthouse/issues/10434) - 2026-10-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
 

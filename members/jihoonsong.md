@@ -32,6 +32,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5522255442) - 2026-10-14
 * [Pull Request] [Make a proposer choose a bid with an inclusive bitlist with the best effort](https://github.com/ethereum/consensus-specs/pull/5740) - 2026-10-14
 * [Review] [Review on: Prevent output directory overwrites in the spec generation](https://github.com/ethereum/consensus-specs/pull/5731#pullrequestreview-5604363828) - 2026-10-21
+* [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5619631989) - 2026-10-22
+* [Review] [Review on: Apply config overrides to cached spec functions](https://github.com/ethereum/consensus-specs/pull/5742#pullrequestreview-5618356440) - 2026-10-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 

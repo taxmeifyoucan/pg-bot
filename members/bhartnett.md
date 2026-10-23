@@ -53,6 +53,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: kvt: fix multiGet assert on empty key list](https://github.com/status-im/nimbus-eth1/pull/5022#pullrequestreview-5599728111) - 2026-10-21
 * [Commit] [Remove unneeded kvt putMove functions (#5033)](https://github.com/status-im/nimbus-eth1/commit/50dc1b90a55ca265447804d2515387ceef0bc37b) - 2026-10-21
 * [Commit] [Keep the block hash resolver on parent frames (#5032)](https://github.com/status-im/nimbus-eth1/commit/9dfb04a6de17230b9a546d566a918fd5c3f7012c) - 2026-10-21
+* [Pull Request] [Skip initcode hashing and code cache lookup for CREATE](https://github.com/status-im/nimbus-eth1/pull/5058) - 2026-10-22
+* [Review] [Review on: Run Amsterdam benchmark fixtures in eest_benchmark_test](https://github.com/status-im/nimbus-eth1/pull/5035#pullrequestreview-5613762050) - 2026-10-22
+* [Commit] [Run Amsterdam benchmark fixtures in eest_benchmark_test (#5035)](https://github.com/status-im/nimbus-eth1/commit/b0e9bbfc524dfa764a5f8e4abb098c42e55003ce) - 2026-10-22
 ## Q3 2026
 
 

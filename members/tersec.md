@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version v0.4.3](https://github.com/status-im/nimbus-eth1/commit/6e4d83c1949ca0c78782dd70b87fa9dcc9c17397) - 2026-10-17
 * [Commit] [bump eth2 to v26.10.1 (#5001)](https://github.com/status-im/nimbus-eth1/commit/eab13c60fcbadd9716c24011c2c46f1a81ec0a26) - 2026-10-17
 * [Review] [Review on: evm: fix OverflowDefect in revert reason decoding](https://github.com/status-im/nimbus-eth1/pull/5025#pullrequestreview-5595262185) - 2026-10-21
+* [Review] [Review on: Run Amsterdam benchmark fixtures in eest_benchmark_test](https://github.com/status-im/nimbus-eth1/pull/5035#pullrequestreview-5610888405) - 2026-10-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
@@ -79,6 +80,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Allow using builder bid for block production on getPayload no result or timeout](https://github.com/status-im/nimbus-eth2/pull/9284#pullrequestreview-5580658364) - 2026-10-20
 * [Review] [Review on: implement getStateBuilders endpoint](https://github.com/status-im/nimbus-eth2/pull/9325#pullrequestreview-5581291298) - 2026-10-20
 * [Review] [Review on: New size-bounded string type for JSON and SSZ](https://github.com/status-im/nimbus-eth2/pull/9324#pullrequestreview-5607684762) - 2026-10-22
+* [Pull Request] [bump nim-bearssl to v0.3.1](https://github.com/status-im/nimbus-eth2/pull/9352) - 2026-10-22
+* [Pull Request] [unschedule Hoodi Glamsterdam activation](https://github.com/status-im/nimbus-eth2/pull/9350) - 2026-10-22
+* [Pull Request] [Revert "don't re-request already-extant envelopes"](https://github.com/status-im/nimbus-eth2/pull/9347) - 2026-10-22
+* [Pull Request] [Revert "Bump nim-eth"](https://github.com/status-im/nimbus-eth2/pull/9348) - 2026-10-22
+* [Review] [Review on: add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285#pullrequestreview-5610845924) - 2026-10-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

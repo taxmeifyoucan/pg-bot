@@ -45,9 +45,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Allow multiple builder bid requests per Gloas proposal](https://github.com/OffchainLabs/prysm/pull/17723) - 2026-10-16
 
 * [Review] [Review on: Return the bid interface from the block body getter (Heze preparation)](https://github.com/OffchainLabs/prysm/pull/17739#pullrequestreview-5584398480) - 2026-10-20
+* [Review] [Review on: Unschedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17760#pullrequestreview-5616652522) - 2026-10-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
 * [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20
+* [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5613484827) - 2026-10-22
 ## Q3 2026
 
 

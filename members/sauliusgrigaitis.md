@@ -21,6 +21,9 @@ Team: Grandine
 * [Issue] [Make embeddable Grandine suitable to be embedded in non ELs too.](https://github.com/grandinetech/grandine/issues/999) - 2026-10-20
 * [Issue] [Keep fallback ELs updated](https://github.com/grandinetech/grandine/issues/998) - 2026-10-20
 * [Pull Request] [Updated documentation](https://github.com/grandinetech/grandine/pull/1002) - 2026-10-21
+* [Pull Request] [Revert "Schedule Gloas fork activation on Hoodi"](https://github.com/grandinetech/grandine/pull/1006) - 2026-10-22
+* [Commit] [Revert "Schedule Gloas fork activation on Hoodi"](https://github.com/grandinetech/grandine/commit/70f01e0906d369a9269f73df94ae6d7de10e23e8) - 2026-10-22
+* [Commit] [Updated documentation](https://github.com/grandinetech/grandine/commit/d7ca055e822bba1586238ebf11ef43fc3f8d8803) - 2026-10-22
 ## Q3 2026
 
 

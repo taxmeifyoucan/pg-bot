@@ -16,6 +16,9 @@ Team: Erigon
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [go.mod: update go-eth-kzg](https://github.com/ethereum/go-ethereum/pull/35942) - 2026-10-12
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5613575948) - 2026-10-22
 ## Q3 2026
 
 

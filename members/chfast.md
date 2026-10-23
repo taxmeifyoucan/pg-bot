@@ -64,6 +64,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state, execution/stagedsync: read an EIP-8246-preserved coinbase as live in calcFees (#24880)](https://github.com/erigontech/erigon/commit/f572b3b2ac5dc0429cd84045cd6896ef67cd4b93) - 2026-10-14
 * [Review] [Review on: execution/stagedsync: schedule transfers after recipient validation](https://github.com/erigontech/erigon/pull/25040#pullrequestreview-5570865955) - 2026-10-19
 * [Review] [Review on: execution/vm: reuse the MULMOD reciprocal for a repeated modulus](https://github.com/erigontech/erigon/pull/25146#pullrequestreview-5596571744) - 2026-10-21
+* [Review] [Review on: execution/bal, execution/stagedsync: validate the block access list of a block resumed mid-block](https://github.com/erigontech/erigon/pull/25169#pullrequestreview-5621689307) - 2026-10-22
+* [Review] [Review on: execution/engineapi, execution/protocol/mdgas: reject a payload with more transactions than its gas limit allows](https://github.com/erigontech/erigon/pull/25176#pullrequestreview-5616935113) - 2026-10-22
+* [Pull Request] [execution/exec, execution/state, execution/tests: remove a touched empty account before the next tx](https://github.com/erigontech/erigon/pull/25240) - 2026-10-22
+* [Issue] [execution/stagedsync: the fee re-merge rewrites the coinbase balance cell at an unchanged version](https://github.com/erigontech/erigon/issues/25229) - 2026-10-22
+* [Issue] [execution/state: the validator accepts a MapRead record on version equality alone](https://github.com/erigontech/erigon/issues/25228) - 2026-10-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -129,6 +134,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [evm: Pass the execution context to execute()](https://github.com/ipsilon/evmone/pull/1770) - 2026-10-21
 * [Commit] [Convert keccak.c to C++ (#1696)](https://github.com/ipsilon/evmone/commit/e0bb527ef10d0c078b3f8c9593a9ce5136edb04d) - 2026-10-21
 * [Commit] [keccak: Compute theta column parities inside chi (#1771)](https://github.com/ipsilon/evmone/commit/7699a50c637f67ef696c6b9eac3c7131d1f2642a) - 2026-10-21
+* [Pull Request] [keccak: Use shared int_bytes.hpp helpers and constexpr dispatch](https://github.com/ipsilon/evmone/pull/1775) - 2026-10-22
+* [Pull Request] [keccak: Use std::rotl](https://github.com/ipsilon/evmone/pull/1774) - 2026-10-22
+* [Commit] [keccak: Use shared int_bytes.hpp helpers and constexpr dispatch (#1775)](https://github.com/ipsilon/evmone/commit/04128677cc460742a13057c83d68e132c8b212ee) - 2026-10-22
+* [Commit] [keccak: Use Armv8.2 SHA3 instructions on Apple silicon (#1773)](https://github.com/ipsilon/evmone/commit/763bb899d8d2088cc2f346f4c4be6c6e69dde94e) - 2026-10-22
+* [Commit] [keccak: Use std::rotl (#1774)](https://github.com/ipsilon/evmone/commit/2e98da43913a02f467956e8ac3099d87edd136bf) - 2026-10-22
+* [Commit] [ci: Add native riscv64 build on GitHub Actions (#1772)](https://github.com/ipsilon/evmone/commit/f977b199657957577c8370427342a52b719b8ce1) - 2026-10-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

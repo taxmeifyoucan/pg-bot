@@ -90,6 +90,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(test-forks): add descriptive Amsterdam BPO test scenarios](https://github.com/ethereum/execution-specs/pull/3597#pullrequestreview-5602555260) - 2026-10-21
 * [Review] [Review on: fix(test-consume): end each hive test only once](https://github.com/ethereum/execution-specs/pull/3879#pullrequestreview-5601127840) - 2026-10-21
 * [Commit] [perf(ci, doc, test-fill): speed up PR checks (#3813)](https://github.com/ethereum/execution-specs/commit/890a4ed0b724fa0ec4073d6a2946ff3d160f4409) - 2026-10-21
+* [Review] [Review on: feat(spec-specs,test-forks,test-types,tests): implement EIP-8151 account code restricted ecrecover](https://github.com/ethereum/execution-specs/pull/3860#pullrequestreview-5619594349) - 2026-10-22
+* [Pull Request] [feat(spec-specs,tests): rebase EIP-4758 onto EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3896) - 2026-10-22
+* [Review] [Review on: perf(test-consume): show the hive reproduce steps only for failed tests](https://github.com/ethereum/execution-specs/pull/3894#pullrequestreview-5621997984) - 2026-10-22
+* [Pull Request] [feat(spec-specs,test-specs,test-types,tests): apply the EIP-8141 changes for `bogota-devnet-2`](https://github.com/ethereum/execution-specs/pull/3892) - 2026-10-22
+* [Pull Request] [feat(spec-specs,test-forks,test-vm,test-client-clis,tests): apply the EIP-7906 changes for `bogota-devnet-2`](https://github.com/ethereum/execution-specs/pull/3895) - 2026-10-22
+* [Pull Request] [feat(spec-specs,test-types,test-forks,tests): rebase EIP-8250 onto the EIP-8141 max_fee budget](https://github.com/ethereum/execution-specs/pull/3893) - 2026-10-22
+* [Review] [Review on: feat(specs,tests): select the account nonce with the empty EIP-8250 key set and mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/execution-specs/pull/3842#pullrequestreview-5621218602) - 2026-10-22
+* [Review] [Review on: feat(ci,doc): add a contribution policy and a new contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5612512789) - 2026-10-22
+* [Issue] [Test Release Tracker: `heze-devnet@v3.0.0`](https://github.com/ethereum/execution-specs/issues/3891) - 2026-10-22
+* [Issue] [EIP-8151 Implementation Tracker: Account Code Restricted ecRecover](https://github.com/ethereum/execution-specs/issues/3890) - 2026-10-22
+* [Commit] [feat(tooling,ci): announce releases to hive-tests after publishing their images (#3883)](https://github.com/ethereum/execution-specs/commit/a72c272b2f9a24b0f90fd39b696e6be9a57038eb) - 2026-10-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -112,6 +123,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update EIP-8141: define the validation prefix and execution body under Behavior](https://github.com/ethereum/EIPs/commit/af3a7802c8ea516f717c6013e27d0f529046f007) - 2026-10-09
 * [Commit] [Update EIP-8141: name the TXPARAM, FRAMEPARAM and SIGPARAM params](https://github.com/ethereum/EIPs/commit/7752622050d9d77c46b578351eba9cfb5125f087) - 2026-10-09
 * [Commit] [Update EIP-7906: name the TXTRACE and TXDIFF params](https://github.com/ethereum/EIPs/commit/7d3570401baf6d9eac25c4f8fccf26d05de37032) - 2026-10-09
+* [Pull Request] [Update EIP-8141: specify GASPRICE under the max_fee budget](https://github.com/ethereum/EIPs/pull/12569) - 2026-10-22
+* [Review] [Review on: Update EIP-8298: Add adoption guidance to Security Considerations](https://github.com/ethereum/EIPs/pull/12564#pullrequestreview-5618801855) - 2026-10-22
+* [Commit] [Update EIP-8141: specify GASPRICE under the max_fee budget](https://github.com/ethereum/EIPs/commit/f1bcca1b56ee91fe115d2a8d8fd731fd6ca38bb3) - 2026-10-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5462620440) - 2026-10-08
 
@@ -127,6 +141,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Review] [Review on: hive: select --sim simulators from the inventory with --config](https://github.com/ethereum/hive/pull/1624#pullrequestreview-5587105280) - 2026-10-20
 * [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5585060708) - 2026-10-20
+* [Review] [Review on: hiveproxy: probe client readiness at shorter intervals](https://github.com/ethereum/hive/pull/1627#pullrequestreview-5620432960) - 2026-10-22
+* [Review] [Review on: clients/nimbus-el: map HIVE_SYNC_LOOP_INTERVAL_MS to the beacon sync loop interval](https://github.com/ethereum/hive/pull/1635#pullrequestreview-5612593887) - 2026-10-22
+* [Review] [Review on: cmd/hiveview, cmd/hq: add run end time to listing](https://github.com/ethereum/hive/pull/1634#pullrequestreview-5612307956) - 2026-10-22
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020) - 2026-10-19
 * [Pull Request] [chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021) - 2026-10-19

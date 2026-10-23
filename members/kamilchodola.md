@@ -71,6 +71,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(sync): reuse validated forward header windows before peer allocation (#14986)](https://github.com/NethermindEth/nethermind/commit/2d8875db01f5cf25158f850fc7651f9d47ab249d) - 2026-10-21
 * [Commit] [Extend plugin protocol request lifecycle handling (#14951)](https://github.com/NethermindEth/nethermind/commit/53bef5c02220405a40b26f15b9b1cd512f4c627f) - 2026-10-21
 * [Commit] [fix(logging): extend plugin adapter exception diagnostics (#14943)](https://github.com/NethermindEth/nethermind/commit/6535eac16d8c357240e59ed715ea75e0bf388d66) - 2026-10-21
+* [Review] [Review on: chore: update Directory.Build.props for 2.2.1](https://github.com/NethermindEth/nethermind/pull/15126#pullrequestreview-5619331040) - 2026-10-22
+* [Commit] [test(network): cover privileged-peer socket reset handling (#14974)](https://github.com/NethermindEth/nethermind/commit/5940ce2b67cbe11b9572de6e4cea36c1c5f08381) - 2026-10-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

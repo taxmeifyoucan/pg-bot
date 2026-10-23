@@ -41,6 +41,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952#pullrequestreview-5604746198) - 2026-10-21
 * [Review] [Review on: feat(abi): add a Span-based ABI encoder and decoder](https://github.com/NethermindEth/nethermind/pull/14999#pullrequestreview-5606138556) - 2026-10-21
 * [Review] [Review on: fix(rpc): align four JSON-RPC behaviours with execution-apis](https://github.com/NethermindEth/nethermind/pull/14978#pullrequestreview-5604606425) - 2026-10-21
+* [Review] [Review on: perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952#pullrequestreview-5609111630) - 2026-10-22
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

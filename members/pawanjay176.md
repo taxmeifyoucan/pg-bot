@@ -41,6 +41,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: EIP-8198: Add the slot duration schedule to ChainSpec](https://github.com/sigp/lighthouse/pull/10313#pullrequestreview-5593566695) - 2026-10-21
 * [Review] [Review on: Remove `AppRequestId` in favor of `Option<SyncRequestId>`](https://github.com/sigp/lighthouse/pull/10398#pullrequestreview-5589760455) - 2026-10-20
 * [Review] [Review on: Lower inbound limiter `MAX_REQUEST_DELAY` to `RESP_TIMEOUT`](https://github.com/sigp/lighthouse/pull/10400#pullrequestreview-5589598012) - 2026-10-20
+* [Pull Request] [Release v8.3.2](https://github.com/sigp/lighthouse/pull/10433) - 2026-10-22
+* [Review] [Review on: Unschedule Gloas on Hoodi](https://github.com/sigp/lighthouse/pull/10430#pullrequestreview-5618703171) - 2026-10-22
+* [Commit] [Release v8.3.2 (#10433)](https://github.com/sigp/lighthouse/commit/a376defa30470923556d91bdeb15a802e297f31f) - 2026-10-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

@@ -93,6 +93,16 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: SNAP2: Add the header fetcher](https://github.com/besu-eth/besu/pull/11660#pullrequestreview-5595527226) - 2026-10-21
 * [Review] [Review on: Avoid eager code loading on account metadata and EXTCODEHASH reads](https://github.com/besu-eth/besu/pull/11679#pullrequestreview-5600822894) - 2026-10-21
 * [Commit] [SNAP2: Add the header fetcher (#11660)](https://github.com/besu-eth/besu/commit/0a4e7b19b7a62306453cee564e202557a7e28a21) - 2026-10-21
+* [Review] [Review on: SNAP2: Add the final trie build](https://github.com/besu-eth/besu/pull/11661#pullrequestreview-5609851759) - 2026-10-22
+* [Review] [Review on: Avoid eager code loading on account metadata and EXTCODEHASH reads](https://github.com/besu-eth/besu/pull/11679#pullrequestreview-5609970705) - 2026-10-22
+* [Pull Request] [SNAP2: Store the chain of a sync in batches](https://github.com/besu-eth/besu/pull/11705) - 2026-10-22
+* [Pull Request] [SNAP2: Add the header back-fill](https://github.com/besu-eth/besu/pull/11707) - 2026-10-22
+* [Pull Request] [SNAP2: Add the block ranges and the modes of the body back-fill](https://github.com/besu-eth/besu/pull/11706) - 2026-10-22
+* [Review] [Review on: SNAP2: Stop a single peer from raising the best peer height](https://github.com/besu-eth/besu/pull/11677#pullrequestreview-5610722922) - 2026-10-22
+* [Review] [Review on: Use the native secp256k1 ECDH key agreement from besu-native 2.1.0](https://github.com/besu-eth/besu/pull/11648#pullrequestreview-5613710350) - 2026-10-22
+* [Pull Request] [SNAP2: Add the key ranges and storage tasks of the state download](https://github.com/besu-eth/besu/pull/11700) - 2026-10-22
+* [Review] [Review on: SNAP2: Add the key ranges and storage tasks of the state download](https://github.com/besu-eth/besu/pull/11700#pullrequestreview-5610900392) - 2026-10-22
+* [Commit] [SNAP2: Stop a single peer from raising the best peer height (#11677)](https://github.com/besu-eth/besu/commit/c645c67c36696a1d57dbc0a212430af978132b57) - 2026-10-22
 ## Q3 2026
 
 

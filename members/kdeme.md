@@ -85,8 +85,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [kvt: fix multiGet assert on empty key list (#5022)](https://github.com/status-im/nimbus-eth1/commit/79d4caa72f0f4245a61343740a5a87ab2ae85039) - 2026-10-21
 * [Commit] [evm: fix OverflowDefect in revert reason decoding (#5025)](https://github.com/status-im/nimbus-eth1/commit/843430d95829c3dea5cb9e8e1b93381872bab9a8) - 2026-10-21
 * [Commit] [rpc: fix sign/send transaction crash on missing from (#5023)](https://github.com/status-im/nimbus-eth1/commit/67d3d3c203ca10a7c934b63550108f9b32421ba0) - 2026-10-21
+* [Pull Request] [stateless: serve code written in the block that was not persisted](https://github.com/status-im/nimbus-eth1/pull/5057) - 2026-10-22
+* [Pull Request] [nimbus: map the consensus QUIC port in the shared NAT setup](https://github.com/status-im/nimbus-eth1/pull/5052) - 2026-10-22
+* [Pull Request] [stateless: require the sibling node of a collapsed branch](https://github.com/status-im/nimbus-eth1/pull/5047) - 2026-10-22
+* [Commit] [stateless: serve code written in the block that was not persisted (#5057)](https://github.com/status-im/nimbus-eth1/commit/2f607506e931b6dce82d3dbe9bbc313a855e97ce) - 2026-10-22
+* [Commit] [nimbus: map the consensus QUIC port in the shared NAT setup (#5052)](https://github.com/status-im/nimbus-eth1/commit/17ea13fe35a214f563d5a6542057a80026ae5270) - 2026-10-22
+* [Commit] [stateless: require the sibling node of a collapsed branch (#5047)](https://github.com/status-im/nimbus-eth1/commit/f81f4259880cd8cb960b5f3dbd4deca8ae1de039) - 2026-10-22
+* [Commit] [beacon sync: fix unchecked hash of header fetched by hash (#5029)](https://github.com/status-im/nimbus-eth1/commit/2397e92d8e4759bfb75c38eb15a554620e61fa0a) - 2026-10-22
+* [Commit] [stateless: fail when the witness lacks a storage root node (#5036)](https://github.com/status-im/nimbus-eth1/commit/f5d2155e75cd6e167182ef53592e7ff7a80cc11d) - 2026-10-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
+* [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22
 ## Q3 2026
 
 

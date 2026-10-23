@@ -83,6 +83,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci(zkevm): generate guest verification keys with ere 0.19.3 (#15023)](https://github.com/NethermindEth/nethermind/commit/7aa160726f37a5f1fc5d1d66a559ef087166f3a0) - 2026-10-21
 * [Commit] [fix(zkevm): recover the block access list in StatelessInputGen and re-pin guest inputs (#15016)](https://github.com/NethermindEth/nethermind/commit/968d5e69e651ee0b53e2c200035c4656a89b9a84) - 2026-10-21
 * [Commit] [chore: revise CODEOWNERS (#15012)](https://github.com/NethermindEth/nethermind/commit/d9fe0fe10a87245d576d9b965a96b542c36048b1) - 2026-10-21
+* [Pull Request] [fix(zkevm): pass BLS12-381 points to SP1 v6.9.0 in the standard layout](https://github.com/NethermindEth/nethermind/pull/15125) - 2026-10-22
+* [Commit] [ci: simplify the PR template and derive labels from the title only (#15020)](https://github.com/NethermindEth/nethermind/commit/48d1006ab4b27f857eeba8b47451b9c99fbd51fb) - 2026-10-22
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

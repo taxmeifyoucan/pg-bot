@@ -33,6 +33,10 @@ Team: Geth
 * [Review] [Review on: Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/pull/12550#pullrequestreview-5601576122) - 2026-10-21
 * [Commit] [Update EIP-8141: commit to elided signature lengths (#12502)](https://github.com/ethereum/EIPs/commit/46005d745a5d921702f12d64a1b85e712e2b6051) - 2026-10-22
 * [Commit] [Update EIP-5069: add concept of associate editors](https://github.com/ethereum/EIPs/commit/dbf75397edf6299ba5d549c5eb0883c0fa83b037) - 2026-10-21
+* [Review] [Review on: Update EIP-8141: specify GASPRICE under the max_fee budget](https://github.com/ethereum/EIPs/pull/12569#pullrequestreview-5621518101) - 2026-10-22
+* [Review] [Review on: Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/pull/12236#pullrequestreview-5619841378) - 2026-10-22
+* [Review] [Review on: Update EIP-7773: Clear postponed Hoodi activation](https://github.com/ethereum/EIPs/pull/12568#pullrequestreview-5619571645) - 2026-10-22
+* [Commit] [Update EIP-8141: use max_fee to bound cost (#12414)](https://github.com/ethereum/EIPs/commit/e19c2a871c0762eaee5429c2e264b66433d2e8be) - 2026-10-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 

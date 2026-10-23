@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Stop rejecting slashings for offences in an earlier fork at the gossip topic layer](https://github.com/Consensys-Incorporated/teku/pull/11393#pullrequestreview-5390154820) - 2026-10-02
 * [Commit] [fix execution payload gossip validation concurrency (#11394)](https://github.com/Consensys-Incorporated/teku/commit/16f0bb5c1175718c0b2272641be434d7955a7ca8) - 2026-10-02
 * [Pull Request] [create inclusion list at the beginning of a the slot](https://github.com/Consensys-Incorporated/teku/pull/11404) - 2026-10-05
+* [Review] [Review on: Unschedule Gloas fork on Hoodi](https://github.com/Consensys-Incorporated/teku/pull/11566#pullrequestreview-5616065827) - 2026-10-22
 ## Q3 2026
 
 

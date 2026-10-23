@@ -42,6 +42,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Snap sync restarted mid-download can permanently lose contract bytecode → later stateroot mismatch](https://github.com/besu-eth/besu/issues/11633) - 2026-10-16
 * [Review] [Review on: FOCIL: Support inclusion list transactions in block creation](https://github.com/besu-eth/besu/pull/11549#pullrequestreview-5600462329) - 2026-10-21
 * [Review] [Review on: feat: add vertx options in ThreadBesuNodeRunner constructor](https://github.com/besu-eth/besu/pull/11678#pullrequestreview-5600229659) - 2026-10-21
+* [Pull Request] [Hoodi Hardfork delay](https://github.com/besu-eth/besu/pull/11710) - 2026-10-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026

@@ -62,6 +62,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: fix rejection of tx signatures with s == secp256k1n/2](https://github.com/status-im/nimbus-eth1/pull/5028#pullrequestreview-5600605669) - 2026-10-21
 * [Pull Request] [Prevent branches from creating new cache if fallback available](https://github.com/status-im/nimbus-eth1/pull/5026) - 2026-10-21
 * [Commit] [Prevent branch from creating new cache if fallback available (#5026)](https://github.com/status-im/nimbus-eth1/commit/0861b2284545700d63a044dd74f77a7a33ad89c4) - 2026-10-21
+* [Pull Request] [heze-devnet-3](https://github.com/status-im/nimbus-eth1/pull/5055) - 2026-10-22
+* [Pull Request] [Unschedule Hoodi Glamsterdam activation](https://github.com/status-im/nimbus-eth1/pull/5059) - 2026-10-23
+* [Pull Request] [evmstate handle tx decode exception](https://github.com/status-im/nimbus-eth1/pull/5037) - 2026-10-22
+* [Commit] [evmstate handle tx decode exception (#5037)](https://github.com/status-im/nimbus-eth1/commit/c1ea5b11c67d8c336675a868f22780834416e933) - 2026-10-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

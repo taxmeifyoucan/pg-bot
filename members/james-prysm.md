@@ -94,6 +94,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [check beacon blocks by range max (#17717)](https://github.com/OffchainLabs/prysm/commit/17ddb950938748389c1402b71796e34a7d30d925) - 2026-10-20
 * [Pull Request] [fix flaky tests](https://github.com/OffchainLabs/prysm/pull/17756) - 2026-10-21
 * [Commit] [update go to 1.26.10 (#17746)](https://github.com/OffchainLabs/prysm/commit/59d56353d3314b66c9a6cbcc05807dc18b663972) - 2026-10-21
+* [Commit] [fix flaky tests (#17756)](https://github.com/OffchainLabs/prysm/commit/6a65531728987ae94673b7a5efbc5694395865ef) - 2026-10-22
 ## Q3 2026
 
 

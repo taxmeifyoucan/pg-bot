@@ -171,6 +171,16 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [.claude/skills: add perf-pattern-add, rpc-perf-run and rpc-int-run](https://github.com/erigontech/rpc-tests/pull/637) - 2026-10-21
 * [Pull Request] [rpc_perf: -i prints the results of each request id](https://github.com/erigontech/rpc-tests/pull/636) - 2026-10-21
 * [Pull Request] [rpc_pattern_gen: build eth_call requests from a list of txs](https://github.com/erigontech/rpc-tests/pull/635) - 2026-10-21
+* [Pull Request] [perf/pattern: list --top-gas of tx-list in the flags table](https://github.com/erigontech/rpc-tests/pull/641) - 2026-10-22
+* [Pull Request] [perf, .claude/skills: fix the success rate wording, list the typical tx lists](https://github.com/erigontech/rpc-tests/pull/638) - 2026-10-22
+* [Pull Request] [rpc_pattern_gen: tx-list writes the txs that use the most gas as a tx list](https://github.com/erigontech/rpc-tests/pull/639) - 2026-10-22
+* [Pull Request] [rpc_perf: report the rate and the latencies of the OK responses](https://github.com/erigontech/rpc-tests/pull/640) - 2026-10-22
+* [Commit] [perf, .claude/skills: fix the success rate wording, list the typical tx lists (#638)](https://github.com/erigontech/rpc-tests/commit/ac60916d0620be6ac8a65a0b0a78be3a2f675b03) - 2026-10-22
+* [Commit] [rpc_pattern_gen: tx-list writes the txs that use the most gas as a tx list (#639)](https://github.com/erigontech/rpc-tests/commit/61814a21eb99a9bbd3f63d47d6e27e291aff6de6) - 2026-10-22
+* [Commit] [rpc_perf: report the rate and the latencies of the OK responses (#640)](https://github.com/erigontech/rpc-tests/commit/b188c8b88cfd7303ff7ed380e1b3899cdb9a50b0) - 2026-10-22
+* [Commit] [rpc_pattern_gen: build eth_call requests from a list of txs (#635)](https://github.com/erigontech/rpc-tests/commit/75344cd809db20f0600c748b05a898f57dc88f44) - 2026-10-22
+* [Commit] [rpc_pattern_gen, rpc_perf: write and replay JSONL patterns (#633)](https://github.com/erigontech/rpc-tests/commit/c1ec692b602fdfeee64ec3e5e3db5d5267f9812c) - 2026-10-22
+* [Commit] [rpc_pattern_convert: convert Vegeta patterns to JSONL (#634)](https://github.com/erigontech/rpc-tests/commit/fc4a0c6a944361446bddcd9549d5f2359f95436a) - 2026-10-22
 ## Q3 2026
 
 

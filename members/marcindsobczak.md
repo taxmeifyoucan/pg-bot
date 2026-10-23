@@ -63,6 +63,24 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: test(rpc): fix flaky JsonRpc tests](https://github.com/NethermindEth/nethermind/pull/15038#pullrequestreview-5607469527) - 2026-10-21
 * [Pull Request] [test(txpool): fix flaky TxPool tests](https://github.com/NethermindEth/nethermind/pull/15032) - 2026-10-21
 * [Review] [Review on: test(network): cover privileged-peer socket reset handling](https://github.com/NethermindEth/nethermind/pull/14974#pullrequestreview-5598897589) - 2026-10-21
+* [Review] [Review on: perf(rpc): share serialized logs and receipts among subscriptions that can reuse them](https://github.com/NethermindEth/nethermind/pull/15018#pullrequestreview-5612923271) - 2026-10-22
+* [Review] [Review on: feat(rpc): let plugins observe streamed response results](https://github.com/NethermindEth/nethermind/pull/15013#pullrequestreview-5612914381) - 2026-10-22
+* [Review] [Review on: fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15056#pullrequestreview-5618991685) - 2026-10-22
+* [Review] [Review on: feat(rpc): add debug_storageRangeAt](https://github.com/NethermindEth/nethermind/pull/15061#pullrequestreview-5620874159) - 2026-10-22
+* [Review] [Review on: feat(rpc): add allowed hosts for JSON-RPC and Engine API](https://github.com/NethermindEth/nethermind/pull/15059#pullrequestreview-5620873550) - 2026-10-22
+* [Review] [Review on: feat(log-index): halve default backfill parallelism and document the settings](https://github.com/NethermindEth/nethermind/pull/15053#pullrequestreview-5620873083) - 2026-10-22
+* [Review] [Review on: fix(nethdev): do not produce empty blocks for txs the producer cannot include](https://github.com/NethermindEth/nethermind/pull/15065#pullrequestreview-5620773452) - 2026-10-22
+* [Review] [Review on: perf(zkevm): hash whole SSZ merkle trees in one ZisK SHA-256 loop](https://github.com/NethermindEth/nethermind/pull/15103#pullrequestreview-5620772630) - 2026-10-22
+* [Review] [Review on: fix(docgen): document response members written as null](https://github.com/NethermindEth/nethermind/pull/15058#pullrequestreview-5619373437) - 2026-10-22
+* [Review] [Review on: fix(runner): sign each startup warmup request with a new token](https://github.com/NethermindEth/nethermind/pull/15035#pullrequestreview-5615887312) - 2026-10-22
+* [Review] [Review on: refactor(rpc): enable JavaScript error capture in the block-trace path](https://github.com/NethermindEth/nethermind/pull/15029#pullrequestreview-5614992077) - 2026-10-22
+* [Review] [Review on: test(network): give the first peer fill more time on slow runners](https://github.com/NethermindEth/nethermind/pull/15036#pullrequestreview-5617305114) - 2026-10-22
+* [Commit] [test(network): fix flaky Network tests (#15043)](https://github.com/NethermindEth/nethermind/commit/190cf5aa6e00ce5c8d910a1e1a8364eb925349b6) - 2026-10-22
+* [Commit] [test(sync): fix flaky Synchronization tests (#15049)](https://github.com/NethermindEth/nethermind/commit/77090708e0e5e27818bc329dd8b295be8c93ec34) - 2026-10-22
+* [Commit] [test(blockchain): fix flaky Blockchain tests (#15044)](https://github.com/NethermindEth/nethermind/commit/6f33b649b92d282373f08d6ae110f5f359b32968) - 2026-10-22
+* [Commit] [test(txpool): fix flaky TxPool tests (#15032)](https://github.com/NethermindEth/nethermind/commit/8bceee84a233bd69b1ede7b6864658b35504add2) - 2026-10-22
+* [Commit] [test(rpc): fix flaky JsonRpc tests (#15038)](https://github.com/NethermindEth/nethermind/commit/69e22bcbc468a6959c77f3f1af5d0c259a2c8553) - 2026-10-22
+* [Commit] [test: fix flaky Shutter and Runner tests (#15050)](https://github.com/NethermindEth/nethermind/commit/c407e8ddcae17336e0de302da867884799750e5c) - 2026-10-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

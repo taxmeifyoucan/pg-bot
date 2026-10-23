@@ -30,6 +30,14 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen: build the or-list values of a block once](https://github.com/erigontech/rpc-tests/pull/626#pullrequestreview-5570519028) - 2026-10-19
 * [Review] [Review on: rpc_pattern_gen: --per-block takes N random txs or logs of each block](https://github.com/erigontech/rpc-tests/pull/632#pullrequestreview-5582697013) - 2026-10-20
 * [Review] [Review on: eth_simulateV1: drop override keys that the spec does not define](https://github.com/erigontech/rpc-tests/pull/630#pullrequestreview-5582701180) - 2026-10-20
+* [Review] [Review on: perf, .claude/skills: fix the success rate wording, list the typical tx lists](https://github.com/erigontech/rpc-tests/pull/638#pullrequestreview-5620017680) - 2026-10-22
+* [Review] [Review on: rpc_pattern_gen: tx-list writes the txs that use the most gas as a tx list](https://github.com/erigontech/rpc-tests/pull/639#pullrequestreview-5620020571) - 2026-10-22
+* [Review] [Review on: rpc_perf: report the rate and the latencies of the OK responses](https://github.com/erigontech/rpc-tests/pull/640#pullrequestreview-5620023306) - 2026-10-22
+* [Review] [Review on: rpc_pattern_gen: build eth_call requests from a list of txs](https://github.com/erigontech/rpc-tests/pull/635#pullrequestreview-5610387310) - 2026-10-22
+* [Review] [Review on: rpc_perf: -i prints the results of each request id](https://github.com/erigontech/rpc-tests/pull/636#pullrequestreview-5610388849) - 2026-10-22
+* [Review] [Review on: rpc_pattern_gen, rpc_perf: write and replay JSONL patterns](https://github.com/erigontech/rpc-tests/pull/633#pullrequestreview-5610384006) - 2026-10-22
+* [Review] [Review on: rpc_pattern_convert: convert Vegeta patterns to JSONL](https://github.com/erigontech/rpc-tests/pull/634#pullrequestreview-5610385542) - 2026-10-22
+* [Review] [Review on: .claude/skills: add perf-pattern-add, rpc-perf-run and rpc-int-run](https://github.com/erigontech/rpc-tests/pull/637#pullrequestreview-5610390993) - 2026-10-22
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -38,6 +46,7 @@ Team: Erigon
 * [Issue] [Wrong trie root on a BAL driven block on Sepolia](https://github.com/erigontech/erigon/issues/24899) - 2026-10-14
 * [Issue] [An error reported by Exec-from-Zero test](https://github.com/erigontech/erigon/issues/24901) - 2026-10-14
 * [Review] [Review on: .github/workflows: pass --process-name rpcdaemon to rpc_perf only for erigon](https://github.com/erigontech/erigon/pull/24974#pullrequestreview-5550179662) - 2026-10-16
+* [Commit] [qa-tests: upgrade lighthouse version to v8.3.0 (#25157)](https://github.com/erigontech/erigon/commit/1012dbba65f03127391a48314ea0ab5a9598f221) - 2026-10-22
 ## Q3 2026
 
 

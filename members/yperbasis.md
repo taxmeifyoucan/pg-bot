@@ -221,6 +221,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl, execution: complete payload preparation coverage and hardening (#24939)](https://github.com/erigontech/erigon/commit/81244a81739c2db015e6ba55986e27525d6d32ea) - 2026-10-21
 * [Commit] [ci: exercise Caplin Glamsterdam under transaction load (#25123)](https://github.com/erigontech/erigon/commit/a0674a65ac0befbe107243dce45a638a7dc63e31) - 2026-10-21
 * [Commit] [execution/engineapi: reject null required parameters (#25122)](https://github.com/erigontech/erigon/commit/9ec56b5569508a014b479f5e8386056dd4bc8547) - 2026-10-21
+* [Review] [Review on: execution/state: re-read an account field whose cell appears during a fallback probe](https://github.com/erigontech/erigon/pull/24874#pullrequestreview-5619085336) - 2026-10-22
+* [Review] [Review on: execution/bal, execution/stagedsync: validate the block access list of a block resumed mid-block](https://github.com/erigontech/erigon/pull/25169#pullrequestreview-5612390532) - 2026-10-22
+* [Review] [Review on: execution/exec, execution/state, execution/tests: remove a touched empty account before the next tx](https://github.com/erigontech/erigon/pull/25240#pullrequestreview-5615334757) - 2026-10-22
+* [Review] [Review on: cl: enable Gloas FULL-parent payload preparation](https://github.com/erigontech/erigon/pull/24938#pullrequestreview-5613392044) - 2026-10-22
+* [Pull Request] [chainspec, clparams: unschedule Glamsterdam on Hoodi](https://github.com/erigontech/erigon/pull/25249) - 2026-10-22
+* [Review] [Review on: cmd/capcli, freezeblocks: don't freeze holes over good blob segments](https://github.com/erigontech/erigon/pull/25173#pullrequestreview-5613185508) - 2026-10-22
+* [Pull Request] [execution, txpool: replace AA with EIP-8141 frames](https://github.com/erigontech/erigon/pull/25243) - 2026-10-22
+* [Review] [Review on: cl: hand the post-fork-choice head state to synced data without copying it](https://github.com/erigontech/erigon/pull/25237#pullrequestreview-5614069787) - 2026-10-22
+* [Issue] [tests: enable Bogota devnet EEST suites after bogota-devnet-1 support](https://github.com/erigontech/erigon/issues/25241) - 2026-10-22
+* [Issue] [txnprovider/txpool: add canonical EIP-8141 paymaster support](https://github.com/erigontech/erigon/issues/25252) - 2026-10-22
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

@@ -25,6 +25,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: merge v1.50.0 back to unstable (#10362)](https://github.com/ChainSafe/lodestar/commit/2593063a82560cf82345f9973e78676fc639bc0e) - 2026-10-12
 * [Commit] [chore: v1.50.0 release (#10342)](https://github.com/ChainSafe/lodestar/commit/003bd66543fa65b5c1e954eec9e8077054c226dc) - 2026-10-12
 * [Review] [Review on: feat: allow running the native state transition until the Gloas fork](https://github.com/ChainSafe/lodestar/pull/10370#pullrequestreview-5500250838) - 2026-10-13
+* [Pull Request] [chore: merge v1.50.1 back to unstable](https://github.com/ChainSafe/lodestar/pull/10463) - 2026-10-22
+* [Review] [Review on: chore: refresh Node.js runtimes for builds](https://github.com/ChainSafe/lodestar/pull/10459#pullrequestreview-5617209154) - 2026-10-22
+* [Review] [Review on: chore: unschedule Gloas fork and 200M gas limit on Hoodi](https://github.com/ChainSafe/lodestar/pull/10461#pullrequestreview-5617156995) - 2026-10-22
+* [Pull Request] [chore: v1.50.1 release](https://github.com/ChainSafe/lodestar/pull/10462) - 2026-10-22
+* [Commit] [chore: merge v1.50.1 back to unstable (#10463)](https://github.com/ChainSafe/lodestar/commit/782eaff74dc57c83da685bc12f0cc48821e05bc9) - 2026-10-22
+* [Commit] [chore: v1.50.1 release (#10462)](https://github.com/ChainSafe/lodestar/commit/56cf1ab7b16a2805a985e104f2e7fcbaad98a22b) - 2026-10-22
+* [Commit] [chore: bump package versions to 1.50.1](https://github.com/ChainSafe/lodestar/commit/94287df951794f855549351ea75f177cf8929646) - 2026-10-22
 ## Q3 2026
 
 

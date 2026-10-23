@@ -31,6 +31,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: SNAP2: Add the final trie build](https://github.com/besu-eth/besu/pull/11661#pullrequestreview-5593907965) - 2026-10-21
 * [Review] [Review on: SNAP2: Add the header fetcher](https://github.com/besu-eth/besu/pull/11660#pullrequestreview-5593737328) - 2026-10-21
 * [Review] [Review on: Bonsai: cache committed trie nodes, stop re-hashing preloaded ones](https://github.com/besu-eth/besu/pull/11382#pullrequestreview-5580848209) - 2026-10-20
+* [Review] [Review on: changelog for 26.10.1](https://github.com/besu-eth/besu/pull/11725#pullrequestreview-5622223768) - 2026-10-22
+* [Review] [Review on: SNAP2: Add the key ranges and storage tasks of the state download](https://github.com/besu-eth/besu/pull/11700#pullrequestreview-5610540457) - 2026-10-22
 ## Q3 2026
 
 

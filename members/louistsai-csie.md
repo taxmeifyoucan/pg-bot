@@ -47,6 +47,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(tests): align intrinsic gas cases with the threshold that binds](https://github.com/ethereum/execution-specs/pull/3837#pullrequestreview-5569270816) - 2026-10-19
 * [Review] [Review on: feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811#pullrequestreview-5569731252) - 2026-10-19
 * [Review] [Review on: fix(tests): align intrinsic gas cases with the threshold that binds](https://github.com/ethereum/execution-specs/pull/3837#pullrequestreview-5581159244) - 2026-10-20
+* [Review] [Review on: feat(ci,doc): add a contribution policy and a new contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5609629020) - 2026-10-22
+* [Pull Request] [feat(test-execution): verify transaction receipts against the network](https://github.com/ethereum/execution-specs/pull/3886) - 2026-10-22
+* [Pull Request] [refactor(tests): derive amsterdam mainnet test gas limits, add EIP-7778/8070](https://github.com/ethereum/execution-specs/pull/3884) - 2026-10-22
+* [Commit] [feat(test-specs): benchmark verification module (#2640)](https://github.com/ethereum/execution-specs/commit/05420bce40492ca7ff11bc79cf3feb24778dce83) - 2026-10-22
 ## Q3 2026
 
 

@@ -579,6 +579,31 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(core): skip empty receipt blooms and widen the scalar Bytes.Or (#14996)](https://github.com/NethermindEth/nethermind/commit/6e9e4d86f1d84bfa9df1823a40916ff9a5e664e3) - 2026-10-21
 * [Commit] [perf(zkevm): read trie values by raw key and keep leaf keys in hex-prefix form (#14994)](https://github.com/NethermindEth/nethermind/commit/20d9ce89fdd469e3342ee04aeceb7e4d428f189a) - 2026-10-21
 * [Commit] [fix(rpc): fall back to buffered tracing for malformed native configs in all block traces (#14991)](https://github.com/NethermindEth/nethermind/commit/58d9d8ba46c923fa8a60f2c4201ea445454ce2ad) - 2026-10-21
+* [Review] [Review on: perf(rpc): share serialized logs and receipts among subscriptions that can reuse them](https://github.com/NethermindEth/nethermind/pull/15018#pullrequestreview-5613500352) - 2026-10-22
+* [Review] [Review on: feat(rpc): let plugins observe streamed response results](https://github.com/NethermindEth/nethermind/pull/15013#pullrequestreview-5614598704) - 2026-10-22
+* [Pull Request] [fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15056) - 2026-10-22
+* [Review] [Review on: fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15056#pullrequestreview-5612273628) - 2026-10-22
+* [Pull Request] [feat(rpc): add debug_storageRangeAt](https://github.com/NethermindEth/nethermind/pull/15061) - 2026-10-22
+* [Review] [Review on: feat(rpc): add debug_storageRangeAt](https://github.com/NethermindEth/nethermind/pull/15061#pullrequestreview-5612579124) - 2026-10-22
+* [Pull Request] [feat(rpc): add allowed hosts for JSON-RPC and Engine API](https://github.com/NethermindEth/nethermind/pull/15059) - 2026-10-22
+* [Review] [Review on: feat(rpc): add allowed hosts for JSON-RPC and Engine API](https://github.com/NethermindEth/nethermind/pull/15059#pullrequestreview-5612212622) - 2026-10-22
+* [Pull Request] [feat(log-index): halve default backfill parallelism and document the settings](https://github.com/NethermindEth/nethermind/pull/15053) - 2026-10-22
+* [Review] [Review on: feat(log-index): halve default backfill parallelism and document the settings](https://github.com/NethermindEth/nethermind/pull/15053#pullrequestreview-5612161990) - 2026-10-22
+* [Pull Request] [fix(nethdev): do not produce empty blocks for txs the producer cannot include](https://github.com/NethermindEth/nethermind/pull/15065) - 2026-10-22
+* [Review] [Review on: fix(nethdev): do not produce empty blocks for txs the producer cannot include](https://github.com/NethermindEth/nethermind/pull/15065#pullrequestreview-5613556641) - 2026-10-22
+* [Pull Request] [perf(zkevm): hash whole SSZ merkle trees in one ZisK SHA-256 loop](https://github.com/NethermindEth/nethermind/pull/15103) - 2026-10-22
+* [Review] [Review on: fix(zkevm): pass BLS12-381 points to SP1 v6.9.0 in the standard layout](https://github.com/NethermindEth/nethermind/pull/15125#pullrequestreview-5620156053) - 2026-10-22
+* [Pull Request] [fix(docgen): document response members written as null](https://github.com/NethermindEth/nethermind/pull/15058) - 2026-10-22
+* [Review] [Review on: fix(docgen): document response members written as null](https://github.com/NethermindEth/nethermind/pull/15058#pullrequestreview-5612492348) - 2026-10-22
+* [Review] [Review on: feat(abi): add a Span-based ABI encoder and decoder](https://github.com/NethermindEth/nethermind/pull/14999#pullrequestreview-5612959692) - 2026-10-22
+* [Review] [Review on: refactor(rpc): enable JavaScript error capture in the block-trace path](https://github.com/NethermindEth/nethermind/pull/15029#pullrequestreview-5615587365) - 2026-10-22
+* [Pull Request] [perf(zkevm): convert big-endian 256-bit integers a word at a time](https://github.com/NethermindEth/nethermind/pull/15101) - 2026-10-22
+* [Pull Request] [perf(zkevm): remove memory copies on storage, keccak memo and call paths](https://github.com/NethermindEth/nethermind/pull/15102) - 2026-10-22
+* [Commit] [fix(rpc): fill missing gas and fees in eth_sendTransaction (#15062)](https://github.com/NethermindEth/nethermind/commit/c4a53856cf8ec85fcf1491769b18430c59d0f7af) - 2026-10-22
+* [Commit] [fix(taiko): accept anchorV4WithSignalSlots only on Surge chains (#15060)](https://github.com/NethermindEth/nethermind/commit/efc33848fe6e8d5b8d2c0340e9eb436c1b369526) - 2026-10-22
+* [Commit] [fix(init): start JSON-RPC and network while unprocessed blocks are processed at startup (#15054)](https://github.com/NethermindEth/nethermind/commit/c489c44f91f8d3608acc0ecb6eeecb195e368be7) - 2026-10-22
+* [Commit] [test(flat-history): take the minimum of repeated allocation measurements (#15019)](https://github.com/NethermindEth/nethermind/commit/68f7cb687ad8aee631b00424e065afd0b48a36c2) - 2026-10-22
+* [Commit] [fix(docgen): document the request parameter forms the parsers accept (#15055)](https://github.com/NethermindEth/nethermind/commit/8266735ff1b97deb8d5aecdca70595e432c1a17a) - 2026-10-22
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -668,6 +693,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5563292730) - 2026-10-18
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Replace the eager secured-trie path walk with a node-local check and a lazy check](https://github.com/ethereum/execution-specs/issues/3885) - 2026-10-22
 ## Q3 2026
 
 

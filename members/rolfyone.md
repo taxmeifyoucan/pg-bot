@@ -144,6 +144,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5599176803) - 2026-10-21
 * [Review] [Review on: Key the gossip seen cache by a cheap SHA-256 fast id](https://github.com/Consensys-Incorporated/teku/pull/11549#pullrequestreview-5598573791) - 2026-10-21
 * [Commit] [Keep imported slashing protection from being overwritten by cache (#11539)](https://github.com/Consensys-Incorporated/teku/commit/1274c4ced21a54ea47ce11d5bf167ebbd6ce813d) - 2026-10-21
+* [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5623373461) - 2026-10-23
+* [Review] [Review on: Verify attestation signatures before saving them for future processing](https://github.com/Consensys-Incorporated/teku/pull/11560#pullrequestreview-5609092146) - 2026-10-22
+* [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5608776720) - 2026-10-22
+* [Commit] [Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot (#11540)](https://github.com/Consensys-Incorporated/teku/commit/b036e2ba6d75fda0b6de45aefd5f334786c80802) - 2026-10-22
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

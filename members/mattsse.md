@@ -344,6 +344,14 @@ Team: Reth
 * [Commit] [chore(deps): bump revm-inspectors to 0.44.3 (#28034)](https://github.com/paradigmxyz/reth/commit/f3fd194ce2c68d57b672212c4346b59734ea3692) - 2026-10-20
 * [Review] [Review on: fix(heze): update fixtures, Hive and TLS roots](https://github.com/paradigmxyz/reth/pull/28052#pullrequestreview-5601569114) - 2026-10-21
 * [Pull Request] [fix(storage): state-import slots and history lookups](https://github.com/paradigmxyz/reth/pull/28053) - 2026-10-21
+* [Pull Request] [refactor: drop alloy-evm and revm](https://github.com/paradigmxyz/reth/pull/28079) - 2026-10-22
+* [Pull Request] [fix: resolve conflicts for evm2 migration](https://github.com/paradigmxyz/reth/pull/28077) - 2026-10-22
+* [Review] [Review on: fix(rpc): treat absent coinbase as zero in bundle simulation](https://github.com/paradigmxyz/reth/pull/28073#pullrequestreview-5615190777) - 2026-10-22
+* [Pull Request] [fix(stages): resume interrupted pipeline unwinds](https://github.com/paradigmxyz/reth/pull/28067) - 2026-10-22
+* [Pull Request] [fix(stages): bound execution unwind batches](https://github.com/paradigmxyz/reth/pull/28068) - 2026-10-22
+* [Review] [Review on: fix: align snapshot block counts and downloads](https://github.com/paradigmxyz/reth/pull/28058#pullrequestreview-5611820497) - 2026-10-22
+* [Pull Request] [fix(storage): propagate static-file read errors](https://github.com/paradigmxyz/reth/pull/28064) - 2026-10-22
+* [Commit] [fix(storage): propagate static-file read errors (#28064)](https://github.com/paradigmxyz/reth/commit/95679ace275e524c238038bd392b6996ba11ec20) - 2026-10-22
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

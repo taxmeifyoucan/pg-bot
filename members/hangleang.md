@@ -35,6 +35,22 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Update `payload_attributes` event data for post-gloas](https://github.com/grandinetech/grandine/commit/2609b731821b04a597577f45b0e17741916e2188) - 2026-10-16
 * [Commit] [Remove `GET /eth/v1/validator/execution_payload_bids/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/commit/834aceb64ddfc021ced5cc7374fb4768f2dd976b) - 2026-10-16
 * [Review] [Review on: Implement Gloas builder flow from beacon-APIs](https://github.com/grandinetech/grandine/pull/948#pullrequestreview-5599073997) - 2026-10-21
+* [Commit] [Publish Gloas beacon block before data column sidecars](https://github.com/grandinetech/grandine/commit/c6d914c9c334517a21fd7fe7e6ae4c2f4025b424) - 2026-10-22
+* [Commit] [Add builder pending withdrawals and payments endpoints](https://github.com/grandinetech/grandine/commit/560642c665b401c14f70fe766cfe818f14daeb5e) - 2026-10-22
+* [Commit] [Add proposer preferences endpoint](https://github.com/grandinetech/grandine/commit/cf7d2d7e57e57fce37fc32a1a694b3171a40e47e) - 2026-10-22
+* [Commit] [Address Artiom's comments](https://github.com/grandinetech/grandine/commit/03475fcd44647fed8bfee64fa695996e08ae1b8a) - 2026-10-22
+* [Commit] [Update block_producer/src/block_producer.rs](https://github.com/grandinetech/grandine/commit/2df39753d44ddb7904e3060258999c8f5d71427c) - 2026-10-22
+* [Commit] [Address Artiom's comments](https://github.com/grandinetech/grandine/commit/62bb279d50c057b4ba1a602e2906fcee297d2ae5) - 2026-10-22
+* [Commit] [Implement the Gloas builder API client](https://github.com/grandinetech/grandine/commit/cdec36bf444207bc7afd89ed8f7d33c2400cd737) - 2026-10-22
+* [Commit] [Request builder bids and submit builder preferences from the built-in validator](https://github.com/grandinetech/grandine/commit/268cc304ee9e8a94b3c6fb68b317efe220c60051) - 2026-10-22
+* [Commit] [Add per-key builder configuration to the keymanager](https://github.com/grandinetech/grandine/commit/29802947270848b0bc7360df79bf201ff8526636) - 2026-10-22
+* [Commit] [Add BuilderRequestAuth signing and default auth data](https://github.com/grandinetech/grandine/commit/503281e481668463c705a4502b491fd9599c7f61) - 2026-10-22
+* [Commit] [Add submitBuilderPreferences endpoint](https://github.com/grandinetech/grandine/commit/ccaf7c5d1b089c75801580ecc970d720beaee885) - 2026-10-22
+* [Commit] [Forward beacon block to builder in publish_block_v2](https://github.com/grandinetech/grandine/commit/e66a11f36db2bc12c841e234447e9d41d26a799c) - 2026-10-22
+* [Commit] [Add Gloas builder API bid flow](https://github.com/grandinetech/grandine/commit/da7d95dcaee6ba5c7eb202913b2a806cf565cab7) - 2026-10-22
+* [Commit] [Update produceBlockV4 to POST request endpoint](https://github.com/grandinetech/grandine/commit/a0f8b59361c987de268c31dfc98b4342bb48fad4) - 2026-10-22
+* [Commit] [Add Gloas builder containers from beacon API](https://github.com/grandinetech/grandine/commit/f7d9da45988391c0d989d937c53e7a0daaa7a1f9) - 2026-10-22
+* [Commit] [Stop registering validators with the builder after the Gloas fork](https://github.com/grandinetech/grandine/commit/560ea61fb2bbc92242821c243b4ee21e565681c6) - 2026-10-22
 ## Q3 2026
 
 

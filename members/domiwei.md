@@ -244,6 +244,39 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/cltypes/solid, cl/merkle_tree: build the validator Merkle tree in parallel on cold rebuilds (#25101)](https://github.com/erigontech/erigon/commit/ce661298a6e23441befc47089116567fcca038a2) - 2026-10-21
 * [Commit] [cl/phase1/forkchoice, cl/transition/impl/eth2: verify the Gloas envelope builder signature once (#25134)](https://github.com/erigontech/erigon/commit/b96efa6afd7738888c5e6e04e145e32db0ab19f0) - 2026-10-21
 * [Commit] [cl/phase1/core/caches, cl/phase1/core/state, cl/phase1/stages, cl/transition: share lookahead shuffles and active sets across state copies (#25143)](https://github.com/erigontech/erigon/commit/f4170c209829c7e65ec94413e156701071dec8e1) - 2026-10-21
+* [Pull Request] [[r3.8] cl: cache Gloas block body and progressive list roots](https://github.com/erigontech/erigon/pull/25255) - 2026-10-22
+* [Pull Request] [[r3.8] cl: fix Gloas historical state reads and storage formats](https://github.com/erigontech/erigon/pull/25256) - 2026-10-22
+* [Review] [Review on: chainspec, clparams: unschedule Glamsterdam on Hoodi](https://github.com/erigontech/erigon/pull/25249#pullrequestreview-5620375828) - 2026-10-22
+* [Pull Request] [[r3.8] cl: fix torn beacon state copies and make copies cheap](https://github.com/erigontech/erigon/pull/25257) - 2026-10-22
+* [Pull Request] [[r3.8] execution/builder, txnprovider: stop waiting for the parent block once a payload is collected](https://github.com/erigontech/erigon/pull/25254) - 2026-10-22
+* [Review] [Review on: execution: add engine_newPayloadV6](https://github.com/erigontech/erigon/pull/25004#pullrequestreview-5621231687) - 2026-10-22
+* [Pull Request] [cl/phase1/network/services, cmd/caplin: republish queued execution payload envelopes](https://github.com/erigontech/erigon/pull/25259) - 2026-10-22
+* [Pull Request] [cl/phase1/stages: publish a fork choice head that moved at the slot start](https://github.com/erigontech/erigon/pull/25258) - 2026-10-22
+* [Pull Request] [cl: validate boundary blocks without a state copy](https://github.com/erigontech/erigon/pull/25253) - 2026-10-22
+* [Pull Request] [cl/persistence, cl/antiquary: store builders history as a per-index diff](https://github.com/erigontech/erigon/pull/25231) - 2026-10-22
+* [Review] [Review on: cl/persistence, cl/antiquary: store builders history as a per-index diff](https://github.com/erigontech/erigon/pull/25231#pullrequestreview-5613954600) - 2026-10-22
+* [Pull Request] [cl/persistence, cl/antiquary: store builder pending payments history as epoch base plus deltas](https://github.com/erigontech/erigon/pull/25234) - 2026-10-22
+* [Review] [Review on: all: remove unused function parameters and dead code](https://github.com/erigontech/erigon/pull/25248#pullrequestreview-5620899539) - 2026-10-22
+* [Review] [Review on: [r3.8] cl/phase1/network/registry: let one peer forward a slot's aggregates at once](https://github.com/erigontech/erigon/pull/25250#pullrequestreview-5620472195) - 2026-10-22
+* [Pull Request] [cl/persistence, cl/antiquary: back off when historical replay cannot find a parent block root](https://github.com/erigontech/erigon/pull/25244) - 2026-10-22
+* [Pull Request] [cl/phase1/forkchoice/fork_graph: stop fsyncing fork-graph dump files](https://github.com/erigontech/erigon/pull/25251) - 2026-10-22
+* [Pull Request] [cl: hand the post-fork-choice head state to synced data without copying it](https://github.com/erigontech/erigon/pull/25237) - 2026-10-22
+* [Issue] [cl/antiquary: back off instead of failing init when historical replay cannot find a parent block root](https://github.com/erigontech/erigon/issues/25239) - 2026-10-22
+* [Commit] [cl/persistence, cl/antiquary: store builders history as a per-index diff (#25231)](https://github.com/erigontech/erigon/commit/36e65012a9f8348bdc17daddeb809a17014a3902) - 2026-10-22
+* [Commit] [cl: hand the post-fork-choice head state to synced data without copying it (#25237)](https://github.com/erigontech/erigon/commit/c6e00294b958949638e92588bf1012faa27e8aa2) - 2026-10-22
+* [Commit] [cl/persistence, cl/antiquary: write queue diffs from the longest overlap (#25230)](https://github.com/erigontech/erigon/commit/21fc1c3c5f1c9d47f791d02641a117fb754b5232) - 2026-10-22
+* [Commit] [cl/persistence, cl/antiquary: apply Gloas payload match in historical participation replay (#25211)](https://github.com/erigontech/erigon/commit/10c520407735a02a6374f3078242f0fd06c9fbe9) - 2026-10-22
+* [Commit] [cl/beacon/handler: format node identity metadata as the Beacon API spec requires (#25179)](https://github.com/erigontech/erigon/commit/de6c5350167ad978b84dbb4872e08d64501155ac) - 2026-10-22
+* [Commit] [cl/antiquary, cl/persistence, db: store the Gloas PTC window once per epoch (#25201)](https://github.com/erigontech/erigon/commit/4bb45244423ecc9b9b3f41fa3d45c9ff81c32793) - 2026-10-22
+* [Commit] [cl/cltypes/solid: cache progressive list roots across state copies (#25216)](https://github.com/erigontech/erigon/commit/f2df55e1df5cee0884b19ee61ef0fe916ff796e7) - 2026-10-22
+* [Commit] [cl/persistence: read Gloas queues before the first Gloas dump (#25212)](https://github.com/erigontech/erigon/commit/0ce9d76d466cfca9326453a22d58d738960f8413) - 2026-10-22
+* [Commit] [execution/builder, txnprovider: stop waiting for the parent block once a payload is collected (#25082)](https://github.com/erigontech/erigon/commit/1762279fa3f43d9bd1fa6772b63787de02c8f7b7) - 2026-10-22
+* [Commit] [cl/das, cl/persistence/beacon_indicies, cl/phase1/forkchoice: persist the highest custody group count across restarts (#25187)](https://github.com/erigontech/erigon/commit/f1c09dc78911e9d5683db336356a13754ac66480) - 2026-10-22
+* [Commit] [cl: learn attached validators from subscriptions and proposer preferences (#25183)](https://github.com/erigontech/erigon/commit/988262a83b02dc08076caf6a5aadb125706263a0) - 2026-10-22
+* [Commit] [cl/cltypes: cache the Gloas block body root by its encoding (#25191)](https://github.com/erigontech/erigon/commit/2890edece61cf4f68f11b6fea8188ad9a4435841) - 2026-10-22
+* [Commit] [cl/cltypes/solid, cl/phase1/forkchoice: cache Gloas payload roots and hash them outside the fork-choice lock (#25193)](https://github.com/erigontech/erigon/commit/974fd9d5baa8ac7bcdc33aeb13b6b15e0cb0f7c0) - 2026-10-22
+* [Commit] [cl: batch-verify gossip PTC signatures and re-check failed batches in parallel (#25198)](https://github.com/erigontech/erigon/commit/6309470951fa6bcd26f43202ca3f4af582a7d1bb) - 2026-10-22
+* [Commit] [cl/transition, cl/phase1/core/state: verify Gloas bid and payload attestation signatures in the block batch (#25192)](https://github.com/erigontech/erigon/commit/43bcd0ed3a38df843c068a054c1d1006ed751e43) - 2026-10-22
 ## Q3 2026
 
 

@@ -66,6 +66,16 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0 in the ci-weekly group](https://github.com/paradigmxyz/reth/pull/28014#pullrequestreview-5570669667) - 2026-10-19
 * [Pull Request] [perf(libmdbx): remove transaction mutex and Sync](https://github.com/paradigmxyz/reth/pull/28042) - 2026-10-20
 * [Pull Request] [perf: read the keccak cache without locking](https://github.com/paradigmxyz/reth/pull/28055) - 2026-10-21
+* [Review] [Review on: chore(deps): bump docker/bake-action from 7.4.0 to 7.5.0 in the ci-weekly group across 1 directory](https://github.com/paradigmxyz/reth/pull/28071#pullrequestreview-5616668106) - 2026-10-22
+* [Review] [Review on: fix(rpc): remove existing accounts emptied by state overrides](https://github.com/paradigmxyz/reth/pull/27932#pullrequestreview-5614886916) - 2026-10-22
+* [Pull Request] [fix(rpc): treat absent coinbase as zero in bundle simulation](https://github.com/paradigmxyz/reth/pull/28073) - 2026-10-22
+* [Pull Request] [fix: resolve conflicts for evm2 migration](https://github.com/paradigmxyz/reth/pull/28082) - 2026-10-22
+* [Pull Request] [fix(rpc): mirror call fee fixes to the evm2 request conversion](https://github.com/paradigmxyz/reth/pull/28083) - 2026-10-22
+* [Review] [Review on: chore: update bun](https://github.com/paradigmxyz/reth/pull/28081#pullrequestreview-5614983362) - 2026-10-22
+* [Pull Request] [fix(evm): install full segment version in big blocks](https://github.com/paradigmxyz/reth/pull/28072) - 2026-10-22
+* [Pull Request] [fix(rpc): restore eth_simulateV1 validation error codes](https://github.com/paradigmxyz/reth/pull/28074) - 2026-10-22
+* [Pull Request] [fix(rpc): include overrides in simulated roots](https://github.com/paradigmxyz/reth/pull/28076) - 2026-10-22
+* [Issue] [rpc: state override semantics for empty accounts differ from geth](https://github.com/paradigmxyz/reth/issues/28086) - 2026-10-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

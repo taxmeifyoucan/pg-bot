@@ -23,6 +23,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: `BeaconState`: Add generic functions instead of hand-written constructors/extractors](https://github.com/OffchainLabs/prysm/pull/17659#pullrequestreview-5600340794) - 2026-10-21
 * [Pull Request] [Lc gloas db](https://github.com/OffchainLabs/prysm/pull/17755) - 2026-10-21
 * [Pull Request] [Gloas light client update construction.](https://github.com/OffchainLabs/prysm/pull/17753) - 2026-10-21
+* [Commit] [Gloas light client update construction. (#17753)](https://github.com/OffchainLabs/prysm/commit/8771ae8baaff410192fdf786cdba9f0b46963f6a) - 2026-10-22
 ## Q3 2026
 
 

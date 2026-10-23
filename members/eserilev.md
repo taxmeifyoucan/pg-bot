@@ -50,6 +50,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Implement Gloas light client type support](https://github.com/sigp/lighthouse/pull/9732#pullrequestreview-5588323227) - 2026-10-20
 * [Pull Request] [Mark pre-Gloas builder settings in help text and docs](https://github.com/sigp/lighthouse/pull/10395) - 2026-10-20
 * [Review] [Review on: Mark pre-Gloas builder settings in help text and docs](https://github.com/sigp/lighthouse/pull/10395#pullrequestreview-5584911724) - 2026-10-20
+* [Pull Request] [Unschedule Gloas on Hoodi](https://github.com/sigp/lighthouse/pull/10430) - 2026-10-22
+* [Pull Request] [Release v8.4.0-rc.0](https://github.com/sigp/lighthouse/pull/10428) - 2026-10-22
+* [Review] [Review on: Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418#pullrequestreview-5612840506) - 2026-10-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

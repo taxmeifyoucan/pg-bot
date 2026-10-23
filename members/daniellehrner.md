@@ -140,6 +140,27 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Reuse the EVM v2 stack of each call depth per thread (#11664)](https://github.com/besu-eth/besu/commit/7590302efff454d500f0f602304423d1a2ca3b51) - 2026-10-21
 * [Commit] [Check the flat database ranges of the snap sync heal in parallel (#11495)](https://github.com/besu-eth/besu/commit/9ee560f7649561e5456ad111755c45bc41be5f19) - 2026-10-21
 * [Commit] [Bonsai: cache committed trie nodes, stop re-hashing preloaded ones (#11382)](https://github.com/besu-eth/besu/commit/e539fdec4c0e41116d196ad69a630f9262648c5a) - 2026-10-21
+* [Review] [Review on: chore: set Amsterdam spec as finalised](https://github.com/besu-eth/besu/pull/11696#pullrequestreview-5610961886) - 2026-10-22
+* [Pull Request] [Unschedule Amsterdam on Hoodi](https://github.com/besu-eth/besu/pull/11709) - 2026-10-22
+* [Review] [Review on: SNAP2: Store the chain of a sync in batches](https://github.com/besu-eth/besu/pull/11705#pullrequestreview-5616206418) - 2026-10-22
+* [Review] [Review on: Run full CI on pushes to rebase branches](https://github.com/besu-eth/besu/pull/11704#pullrequestreview-5614653980) - 2026-10-22
+* [Review] [Review on: SNAP2: Stop a single peer from raising the best peer height](https://github.com/besu-eth/besu/pull/11677#pullrequestreview-5613400530) - 2026-10-22
+* [Issue] [Store EVM v1 operand stack entries in an Object[]](https://github.com/besu-eth/besu/issues/11723) - 2026-10-22
+* [Issue] [EVM v2: run PUSH2 and a following JUMP or JUMPI as one step](https://github.com/besu-eth/besu/issues/11722) - 2026-10-22
+* [Issue] [EVM v2: let JUMP and JUMPI run the JUMPDEST they land on](https://github.com/besu-eth/besu/issues/11721) - 2026-10-22
+* [Issue] [Leave accounts a block only read out of the state commit](https://github.com/besu-eth/besu/issues/11720) - 2026-10-22
+* [Issue] [Read accounts through stacked updaters without throwaway trackers](https://github.com/besu-eth/besu/issues/11719) - 2026-10-22
+* [Issue] [EVM v2: run DIV, MOD, ADDMOD and MULMOD without allocating UInt256 objects](https://github.com/besu-eth/besu/issues/11718) - 2026-10-22
+* [Issue] [UInt256: take the 64-bit MUL path when either operand fits in 64 bits](https://github.com/besu-eth/besu/issues/11717) - 2026-10-22
+* [Issue] [EVM v2: move MLOAD and MSTORE words directly between the stack and memory](https://github.com/besu-eth/besu/issues/11716) - 2026-10-22
+* [Issue] [EVM v2: read CALLDATALOAD words from a byte array on the frame](https://github.com/besu-eth/besu/issues/11715) - 2026-10-22
+* [Issue] [EVM v2: keep slot values in the warm-slot set](https://github.com/besu-eth/besu/issues/11714) - 2026-10-22
+* [Issue] [Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/issues/11713) - 2026-10-22
+* [Issue] [Reduce optimistic parallel processing conflicts in pre-Amsterdam blocks](https://github.com/besu-eth/besu/issues/11712) - 2026-10-22
+* [Issue] [Keep young GCs out of block imports with a larger initial heap](https://github.com/besu-eth/besu/issues/11711) - 2026-10-22
+* [Commit] [Unschedule Amsterdam on Hoodi (#11709)](https://github.com/besu-eth/besu/commit/d96c15a8d2f0dc4b36c418bfb8fbec33800af301) - 2026-10-22
+* [Commit] [Update discovery library to 26.10.1 and the dependency versions it requires (#11671)](https://github.com/besu-eth/besu/commit/c78983bab686e46e130c350e1a38469776275a8e) - 2026-10-22
+* [Commit] [Check Gradle build scripts with Spotless built-in steps (#11699)](https://github.com/besu-eth/besu/commit/85da9188ed4980173b6370fc8793f4fb36d0dc93) - 2026-10-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

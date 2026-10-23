@@ -29,6 +29,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: raise jmh forks to five](https://github.com/besu-eth/besu/pull/11620#pullrequestreview-5548029532) - 2026-10-16
 * [Review] [Review on: Saturate the Osaka MODEXP multiplication complexity instead of wrapping](https://github.com/besu-eth/besu/pull/11599#pullrequestreview-5545807569) - 2026-10-16
 * [Commit] [Implement Push and Pop opcodes in EVM v2 (#11116)](https://github.com/besu-eth/besu/commit/166de1f3d729995401f80f2820e1316b198538ae) - 2026-10-19
+* [Review] [Review on: EVM v2: split the loop to keep it within C2's inlining budget](https://github.com/besu-eth/besu/pull/11687#pullrequestreview-5613033189) - 2026-10-22
+* [Review] [Review on: Saturate the Osaka MODEXP multiplication complexity instead of wrapping](https://github.com/besu-eth/besu/pull/11599#pullrequestreview-5613129362) - 2026-10-22
 ## Q3 2026
 
 

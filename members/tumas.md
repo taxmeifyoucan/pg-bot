@@ -29,6 +29,10 @@ Team: Grandine
 * [Pull Request] [Update `rustls-webpki` & `webpki-roots` where possible, ignore RUSTSE…](https://github.com/grandinetech/grandine/pull/1001) - 2026-10-21
 * [Commit] [Update `rustls-webpki` & `webpki-roots` where possible, ignore RUSTSEC-2026-0381 and 0382 for zkVM backends](https://github.com/grandinetech/grandine/commit/892f85db85d381a2182cd93024b3d32095d147ec) - 2026-10-21
 * [Commit] [Bump `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/ea0c159557b37b8a47de5fcce7a1fb373940eb52) - 2026-10-21
+* [Review] [Review on: Add beacon attestation rewards endpoint](https://github.com/grandinetech/grandine/pull/1004#pullrequestreview-5616498150) - 2026-10-22
+* [Review] [Review on: Revert "Schedule Gloas fork activation on Hoodi"](https://github.com/grandinetech/grandine/pull/1006#pullrequestreview-5616260844) - 2026-10-22
+* [Review] [Review on: Configurable builder header timeout](https://github.com/grandinetech/grandine/pull/1005#pullrequestreview-5615654619) - 2026-10-22
+* [Commit] [Run the validator client against remote beacon nodes with the new vc and bn commands](https://github.com/grandinetech/grandine/commit/862980653395bdad70f8a015aaf941c85fa67a41) - 2026-10-22
 ## Q3 2026
 
 

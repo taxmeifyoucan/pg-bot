@@ -129,6 +129,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: bump plugins baseline for 26.10.0](https://github.com/besu-eth/besu/pull/11693#pullrequestreview-5605512522) - 2026-10-21
 * [Review] [Review on: Notify the sequenced pool transaction events in the order they happen](https://github.com/besu-eth/besu/pull/11685#pullrequestreview-5605093435) - 2026-10-21
 * [Review] [Review on: Notify the layered pool transaction added before making space for it](https://github.com/besu-eth/besu/pull/11688#pullrequestreview-5604985921) - 2026-10-21
+* [Pull Request] [changelog for 26.10.1](https://github.com/besu-eth/besu/pull/11725) - 2026-10-22
+* [Pull Request] [Run EVM v1 and v2 tests in the same jobs; devnet tests on ubuntu-16](https://github.com/besu-eth/besu/pull/11703) - 2026-10-22
+* [Review] [Review on: Run CI on rebase, ci and ds branches only on demand](https://github.com/besu-eth/besu/pull/11724#pullrequestreview-5621936291) - 2026-10-22
+* [Review] [Review on: Align eth_getProof storage keys and errors with execution-apis](https://github.com/besu-eth/besu/pull/11668#pullrequestreview-5609232544) - 2026-10-22
+* [Review] [Review on: Run CI on rebase, ci and ds branches](https://github.com/besu-eth/besu/pull/11702#pullrequestreview-5613188710) - 2026-10-22
+* [Commit] [changelog for 26.10.1 (#11725)](https://github.com/besu-eth/besu/commit/497c6c643d39ffd1ca961d976c32194c8692a4ff) - 2026-10-23
+* [Commit] [eth_simulateV1 - reject unknown account overrides (#11695)](https://github.com/besu-eth/besu/commit/fc768cdb447a7328bd99363cce5e4e5ed4e33b98) - 2026-10-22
+* [Commit] [Limit eth_getProof to 1024 storage keys (#11697)](https://github.com/besu-eth/besu/commit/53d27d4103b15a25074e0456a8ea331c9624ba76) - 2026-10-22
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

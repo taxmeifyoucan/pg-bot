@@ -17,8 +17,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [fix FC deadlock](https://github.com/status-im/nimbus-eth1/pull/5027) - 2026-10-21
 * [Review] [Review on: fix FC deadlock](https://github.com/status-im/nimbus-eth1/pull/5027#pullrequestreview-5603722079) - 2026-10-21
+* [Pull Request] [fc: duration metrics](https://github.com/status-im/nimbus-eth1/pull/5056) - 2026-10-22
+* [Review] [Review on: Implement dynamic adjustment of ForkedChain persistBatchSize](https://github.com/status-im/nimbus-eth1/pull/3750#pullrequestreview-5614840557) - 2026-10-22
+* [Commit] [fix FC deadlock (#5027)](https://github.com/status-im/nimbus-eth1/commit/6fc503ec6a05ce6848d009dc7eccd893f9fb4cd7) - 2026-10-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
+* [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22
 ## Q3 2026
 
 

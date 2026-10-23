@@ -50,6 +50,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Handle optimistic heads in Gloas](https://github.com/grandinetech/grandine/pull/991#pullrequestreview-5599365170) - 2026-10-21
 * [Review] [Review on: Implement Gloas builder flow from beacon-APIs](https://github.com/grandinetech/grandine/pull/948#pullrequestreview-5598272487) - 2026-10-21
 * [Review] [Review on: Update `rustls-webpki` & `webpki-roots` where possible, ignore RUSTSE…](https://github.com/grandinetech/grandine/pull/1001#pullrequestreview-5598845821) - 2026-10-21
+* [Review] [Review on: Publish Gloas beacon block before data column sidecars](https://github.com/grandinetech/grandine/pull/844#pullrequestreview-5611701307) - 2026-10-22
+* [Review] [Review on: Add builder pending withdrawals and payments endpoints](https://github.com/grandinetech/grandine/pull/971#pullrequestreview-5611683674) - 2026-10-22
 ## Q3 2026
 
 

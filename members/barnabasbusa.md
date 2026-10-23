@@ -122,6 +122,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Do not activate 0x00 validators](https://github.com/ethereum/consensus-specs/pull/5744) - 2026-10-15
 * [Pull Request] [Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743) - 2026-10-15
 * [Pull Request] [Rebind cached functions in copies of the spec](https://github.com/ethereum/consensus-specs/pull/5742) - 2026-10-15
+* [Commit] [Apply config overrides to cached spec functions (#5742)](https://github.com/ethereum/consensus-specs/commit/065bcd5c6ad96186cd2c0ac1c435f620a0b25373) - 2026-10-22
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add beacon API error check playbook](https://github.com/ethpandaops/assertoor/pull/241) - 2026-10-13
 * [Pull Request] [feat: aggregate and regex-match series in check_http_metrics](https://github.com/ethpandaops/assertoor/pull/240) - 2026-10-13

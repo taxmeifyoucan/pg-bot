@@ -14,6 +14,10 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [✨ feat(tests): Extend focil test coverage](https://github.com/ethereum/execution-specs/pull/3868) - 2026-10-19
 * [Review] [Review on: feat(ci,doc): add a contribution policy and a new contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5604208829) - 2026-10-21
+
+* [Review] [Review on: feat(tests): cover invalid fee caps, block numbers and BAL edge cases](https://github.com/ethereum/execution-specs/pull/3875#pullrequestreview-5610931220) - 2026-10-22
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
 ## Q3 2026
 
 
