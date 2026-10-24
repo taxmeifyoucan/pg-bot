@@ -52,6 +52,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Update `rustls-webpki` & `webpki-roots` where possible, ignore RUSTSE…](https://github.com/grandinetech/grandine/pull/1001#pullrequestreview-5598845821) - 2026-10-21
 * [Review] [Review on: Publish Gloas beacon block before data column sidecars](https://github.com/grandinetech/grandine/pull/844#pullrequestreview-5611701307) - 2026-10-22
 * [Review] [Review on: Add builder pending withdrawals and payments endpoints](https://github.com/grandinetech/grandine/pull/971#pullrequestreview-5611683674) - 2026-10-22
+* [Commit] [Increase balance and inactivity score lists bundle](https://github.com/grandinetech/grandine/commit/4ff6dcaf444ea1c8a408db6d01344946a2a71ba4) - 2026-10-23
+* [Commit] [Avoid payload construction, when engine is null](https://github.com/grandinetech/grandine/commit/7d85f89e66b9462706a597a3f9851b77e5aef828) - 2026-10-23
+* [Commit] [Avoid collecting attesting indices twice](https://github.com/grandinetech/grandine/commit/b2c6ffc14d441d576382c77de1f36a925d32117b) - 2026-10-23
+* [Commit] [Parallelize slice shuffling](https://github.com/grandinetech/grandine/commit/ec002eda1b25bdccb851af691d1b9383f8f72541) - 2026-10-23
 ## Q3 2026
 
 

@@ -85,6 +85,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: revise CODEOWNERS (#15012)](https://github.com/NethermindEth/nethermind/commit/d9fe0fe10a87245d576d9b965a96b542c36048b1) - 2026-10-21
 * [Pull Request] [fix(zkevm): pass BLS12-381 points to SP1 v6.9.0 in the standard layout](https://github.com/NethermindEth/nethermind/pull/15125) - 2026-10-22
 * [Commit] [ci: simplify the PR template and derive labels from the title only (#15020)](https://github.com/NethermindEth/nethermind/commit/48d1006ab4b27f857eeba8b47451b9c99fbd51fb) - 2026-10-22
+* [Review] [Review on: feat(config)!: embed built-in configs as resources](https://github.com/NethermindEth/nethermind/pull/15171#pullrequestreview-5630502156) - 2026-10-23
+* [Review] [Review on: fix(docgen): document eth_config fields and members omitted from the wire](https://github.com/NethermindEth/nethermind/pull/15177#pullrequestreview-5632232320) - 2026-10-23
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

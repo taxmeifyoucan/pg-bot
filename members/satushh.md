@@ -41,6 +41,10 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Verify payload attestation signatures on RPC submission (#17363)](https://github.com/OffchainLabs/prysm/commit/948f8d2052432ebae3f6e2194c83b35f46566a99) - 2026-10-16
 * [Review] [Review on: changelog for v7.3.0](https://github.com/OffchainLabs/prysm/pull/17727#pullrequestreview-5571998357) - 2026-10-19
 * [Review] [Review on: Unschedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17760#pullrequestreview-5617105135) - 2026-10-22
+* [Review] [Review on: Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759#pullrequestreview-5628009430) - 2026-10-23
+* [Review] [Review on: Update changelog for v7.3.1](https://github.com/OffchainLabs/prysm/pull/17766#pullrequestreview-5626090704) - 2026-10-23
+* [Review] [Review on: Upgrade libp2p](https://github.com/OffchainLabs/prysm/pull/17769#pullrequestreview-5628764127) - 2026-10-23
+* [Review] [Review on: Fix flaky `TestDataColumnSidecarsByRangeRPCHandler`](https://github.com/OffchainLabs/prysm/pull/17767#pullrequestreview-5627173576) - 2026-10-23
 ## Q3 2026
 
 

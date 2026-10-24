@@ -20,6 +20,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [fix execution payload gossip validation concurrency (#11394)](https://github.com/Consensys-Incorporated/teku/commit/16f0bb5c1175718c0b2272641be434d7955a7ca8) - 2026-10-02
 * [Pull Request] [create inclusion list at the beginning of a the slot](https://github.com/Consensys-Incorporated/teku/pull/11404) - 2026-10-05
 * [Review] [Review on: Unschedule Gloas fork on Hoodi](https://github.com/Consensys-Incorporated/teku/pull/11566#pullrequestreview-5616065827) - 2026-10-22
+* [Issue] [Sign inclusion lists with the inclusion list epoch's fork version](https://github.com/Consensys-Incorporated/teku/issues/11571) - 2026-10-23
+* [Issue] [Set the IL deadline to 9s into the slot](https://github.com/Consensys-Incorporated/teku/issues/11570) - 2026-10-23
 ## Q3 2026
 
 

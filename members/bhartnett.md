@@ -56,6 +56,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Skip initcode hashing and code cache lookup for CREATE](https://github.com/status-im/nimbus-eth1/pull/5058) - 2026-10-22
 * [Review] [Review on: Run Amsterdam benchmark fixtures in eest_benchmark_test](https://github.com/status-im/nimbus-eth1/pull/5035#pullrequestreview-5613762050) - 2026-10-22
 * [Commit] [Run Amsterdam benchmark fixtures in eest_benchmark_test (#5035)](https://github.com/status-im/nimbus-eth1/commit/b0e9bbfc524dfa764a5f8e4abb098c42e55003ce) - 2026-10-22
+* [Pull Request] [Apply BAL during parallel tx execution](https://github.com/status-im/nimbus-eth1/pull/5067) - 2026-10-23
+* [Commit] [Apply BAL during parallel tx execution (#5067)](https://github.com/status-im/nimbus-eth1/commit/09fdf51c74a6ffdb4c3694ffa68fc69fa11839c3) - 2026-10-23
+* [Commit] [Skip initcode hashing and code cache lookup for CREATE (#5058)](https://github.com/status-im/nimbus-eth1/commit/1d9ca13a3bb26fd0963277ea1726ec8ce62b9749) - 2026-10-23
 ## Q3 2026
 
 

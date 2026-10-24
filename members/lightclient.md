@@ -37,6 +37,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/pull/12236#pullrequestreview-5619841378) - 2026-10-22
 * [Review] [Review on: Update EIP-7773: Clear postponed Hoodi activation](https://github.com/ethereum/EIPs/pull/12568#pullrequestreview-5619571645) - 2026-10-22
 * [Commit] [Update EIP-8141: use max_fee to bound cost (#12414)](https://github.com/ethereum/EIPs/commit/e19c2a871c0762eaee5429c2e264b66433d2e8be) - 2026-10-22
+* [Pull Request] [Update EIP-7906: remove reference to txparam 0x06](https://github.com/ethereum/EIPs/pull/12576) - 2026-10-23
+* [Commit] [Update EIP-7906: remove reference to txparam 0x06](https://github.com/ethereum/EIPs/commit/25ac2920ea3a958911e380498bb7c8fbca201542) - 2026-10-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 
@@ -54,6 +56,11 @@ Team: Geth
 * [Review] [Review on: cmd/utils: decouple the transaction history from archive mode](https://github.com/ethereum/go-ethereum/pull/35907#pullrequestreview-5551302196) - 2026-10-16
 * [Commit] [internal/ethapi: fix ChaindbProperty doc comment (#35958)](https://github.com/ethereum/go-ethereum/commit/ffb9e230b6ae6cb29bdd08864a1f13f1fa8d339b) - 2026-10-19
 * [Review] [Review on: core, params: schedule amsterdam fork on hoodi](https://github.com/ethereum/go-ethereum/pull/35974#pullrequestreview-5578617826) - 2026-10-19
+* [Review] [Review on: eth/tracers: add Parity trace RPC namespace](https://github.com/ethereum/go-ethereum/pull/35791#pullrequestreview-5631331043) - 2026-10-23
+* [Review] [Review on: version: start v1.17.11 cycle](https://github.com/ethereum/go-ethereum/pull/36005#pullrequestreview-5628018884) - 2026-10-23
+* [Review] [Review on: version: release 1.17.10](https://github.com/ethereum/go-ethereum/pull/36002#pullrequestreview-5627564007) - 2026-10-23
+* [Review] [Review on: cmd/evm/testdata: fix test](https://github.com/ethereum/go-ethereum/pull/36004#pullrequestreview-5627710336) - 2026-10-23
+* [Review] [Review on: core/types: improve transaction field validation](https://github.com/ethereum/go-ethereum/pull/36003#pullrequestreview-5627519209) - 2026-10-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05
@@ -64,6 +71,7 @@ Team: Geth
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5521806399) - 2026-10-14
 * [Review] [Review on: engine: add ethlambda (LA) to ClientCode list](https://github.com/ethereum/execution-apis/pull/922#pullrequestreview-5600400673) - 2026-10-21
+* [Review] [Review on: feat(trace): Parity trace methods and output schemas](https://github.com/ethereum/execution-apis/pull/895#pullrequestreview-5632275750) - 2026-10-23
 ## Q3 2026
 
 

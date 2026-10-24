@@ -91,6 +91,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: carry milliseconds through the fork choice timeliness API](https://github.com/ChainSafe/lodestar/pull/10455#pullrequestreview-5608831444) - 2026-10-22
 * [Commit] [chore: refresh Node.js runtimes for builds (#10459)](https://github.com/ChainSafe/lodestar/commit/bc6954628876566ff783cbbbecec12aa221df8e7) - 2026-10-22
 * [Commit] [chore: refresh Node.js runtimes for builds (#10459)](https://github.com/ChainSafe/lodestar/commit/e95d4a80f2765db9563a4124a9ca9b55188c4fe4) - 2026-10-22
+* [Review] [Review on: fix: round slot component durations](https://github.com/ChainSafe/lodestar/pull/10466#pullrequestreview-5631476336) - 2026-10-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -131,6 +132,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: speed up sync committee rotation](https://github.com/ChainSafe/lodestar-z/pull/778#pullrequestreview-5608461660) - 2026-10-22
 * [Pull Request] [feat: add basic heze support](https://github.com/ChainSafe/lodestar-z/pull/799) - 2026-10-21
 * [Review] [Review on: perf: select shuffle sha256 at runtime](https://github.com/ChainSafe/lodestar-z/pull/774#pullrequestreview-5598222972) - 2026-10-21
+* [Review] [Review on: fix: use sha256 wrapper in sync committee rotation](https://github.com/ChainSafe/lodestar-z/pull/802#pullrequestreview-5626226215) - 2026-10-23
+* [Commit] [feat: add basic heze support (#799)](https://github.com/ChainSafe/lodestar-z/commit/5cbf8db38b07660cfac1105b12b9390683596140) - 2026-10-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

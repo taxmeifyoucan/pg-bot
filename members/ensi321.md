@@ -49,6 +49,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Dashboards hard-code the 12s slot and 384s epoch](https://github.com/ChainSafe/lodestar/issues/10451) - 2026-10-21
 * [Commit] [fix: floor slot component durations as the spec does (#10456)](https://github.com/ChainSafe/lodestar/commit/ef81c9f0a5b2d7a3819b7710094167f1d6219eb5) - 2026-10-22
 * [Commit] [refactor: carry milliseconds through the fork choice timeliness API (#10455)](https://github.com/ChainSafe/lodestar/commit/ec493d509d9f202eb1245a77b305add14a603a88) - 2026-10-22
+* [Issue] [Fork-union types break when a fork removes or retypes container fields](https://github.com/ChainSafe/lodestar/issues/10465) - 2026-10-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
@@ -61,6 +62,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add heze timing configuration](https://github.com/ChainSafe/lodestar-z/pull/794#pullrequestreview-5566079587) - 2026-10-19
 * [Pull Request] [fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801) - 2026-10-21
 * [Pull Request] [fix: use sha256 wrapper in sync committee rotation](https://github.com/ChainSafe/lodestar-z/pull/802) - 2026-10-22
+* [Commit] [fix: use sha256 wrapper in sync committee rotation (#802)](https://github.com/ChainSafe/lodestar-z/commit/9989f297805a81291c1bed653869f2294272e7be) - 2026-10-23
 ## Q3 2026
 
 

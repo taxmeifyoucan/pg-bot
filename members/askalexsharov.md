@@ -461,6 +461,21 @@ Team: Erigon
 * [Pull Request] [tools: split the stable EEST blocktest shards by fork](https://github.com/erigontech/erigon/pull/25261) - 2026-10-23
 * [Commit] [execution/cache: faster code-cache fill when loading cold contracts (#25072)](https://github.com/erigontech/erigon/commit/ab8dc42297e53ce2e453c0d0aaac2e33b8c7de2b) - 2026-10-22
 * [Commit] [execution: charge the sender at validation, allow same-sender txs run in parallel (#25204)](https://github.com/erigontech/erigon/commit/494f18892c55ec1a6c466b5b228c9c1094b075c3) - 2026-10-22
+* [Review] [Review on: execution/stagedsync, execution/exec: recover BAL-block senders in the exec workers](https://github.com/erigontech/erigon/pull/25223#pullrequestreview-5623723348) - 2026-10-23
+* [Pull Request] [node/eth: limit embedded MCP to --http.api namespaces](https://github.com/erigontech/erigon/pull/25264) - 2026-10-23
+* [Review] [Review on: node/eth: limit embedded MCP to --http.api namespaces](https://github.com/erigontech/erigon/pull/25264#pullrequestreview-5623750125) - 2026-10-23
+* [Pull Request] [go.mod: bump mcp-go, x/tools, gqlparser, gqlgen, go-echarts, chi](https://github.com/erigontech/erigon/pull/25290) - 2026-10-23
+* [Review] [Review on: execution/stagedsync: fold each BAL-block tx as it is published, not at block end](https://github.com/erigontech/erigon/pull/25232#pullrequestreview-5628949890) - 2026-10-23
+* [Pull Request] [reduce size of agents.md](https://github.com/erigontech/erigon/pull/25272) - 2026-10-23
+* [Review] [Review on: db/state: include the files-end txNum in a descending IdxRange](https://github.com/erigontech/erigon/pull/25284#pullrequestreview-5628058060) - 2026-10-23
+* [Review] [Review on: execution/stagedsync: BAL blocks dispatch a bounded window and skip the post-valid wait](https://github.com/erigontech/erigon/pull/25225#pullrequestreview-5624808541) - 2026-10-23
+* [Pull Request] [[r3.8] db/state/statecfg: bump rcache history .v/.vi to v3.2/v1.2, name the step in RCacheNoDups errors](https://github.com/erigontech/erigon/pull/25271) - 2026-10-23
+* [Pull Request] [execution/vm: inline fast path for CODECOPY, CALLDATACOPY and RETURNDATACOPY](https://github.com/erigontech/erigon/pull/25291) - 2026-10-23
+* [Review] [Review on: execution/stagedsync: a burnt contract that self-destructs loses the burn of its tx](https://github.com/erigontech/erigon/pull/25263#pullrequestreview-5624779957) - 2026-10-23
+* [Commit] [go.mod: bump mcp-go, x/tools, gqlparser, gqlgen, go-echarts, chi (#25290)](https://github.com/erigontech/erigon/commit/49132bd11aaca3fccbc5c73d0fcc8fd91dc400d2) - 2026-10-23
+* [Commit] [reduce size of agents.md (#25272)](https://github.com/erigontech/erigon/commit/de21c3d520e59297da54cf6a7f57a57ee95b02bb) - 2026-10-23
+* [Commit] [execution/vm: pin MCOPY fast-path bounds, copied bytes and dispatch (#25156)](https://github.com/erigontech/erigon/commit/2c25716b2f2b620cd386a418562cfe7548f20aff) - 2026-10-23
+* [Commit] [execution/vm: run cheap context, bitwise, DUP9-16 and SWAP5-16 ops inline (#25164)](https://github.com/erigontech/erigon/commit/e507491c0081a132083db1f1dd0b997f5ce93b12) - 2026-10-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

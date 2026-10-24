@@ -277,6 +277,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/cltypes/solid, cl/phase1/forkchoice: cache Gloas payload roots and hash them outside the fork-choice lock (#25193)](https://github.com/erigontech/erigon/commit/974fd9d5baa8ac7bcdc33aeb13b6b15e0cb0f7c0) - 2026-10-22
 * [Commit] [cl: batch-verify gossip PTC signatures and re-check failed batches in parallel (#25198)](https://github.com/erigontech/erigon/commit/6309470951fa6bcd26f43202ca3f4af582a7d1bb) - 2026-10-22
 * [Commit] [cl/transition, cl/phase1/core/state: verify Gloas bid and payload attestation signatures in the block batch (#25192)](https://github.com/erigontech/erigon/commit/43bcd0ed3a38df843c068a054c1d1006ed751e43) - 2026-10-22
+* [Pull Request] [cl/persistence: read the stored epoch-0 randao mix for epoch-2 seeds](https://github.com/erigontech/erigon/pull/25296) - 2026-10-23
+* [Pull Request] [cl/phase1/stages: publish a head that moved during a fork choice pass at the tip](https://github.com/erigontech/erigon/pull/25294) - 2026-10-23
+* [Review] [Review on: cl/phase1/stages: index caplin segments before the history download](https://github.com/erigontech/erigon/pull/25224#pullrequestreview-5624772296) - 2026-10-23
+* [Pull Request] [[r3.8] cl: stop fsyncing fork-graph dumps, validate boundary blocks without a state copy, and republish moved heads and queued envelopes](https://github.com/erigontech/erigon/pull/25287) - 2026-10-23
+* [Pull Request] [cl/beacon, cl/phase1/stages: emit the Gloas payload_attributes event](https://github.com/erigontech/erigon/pull/25292) - 2026-10-23
+* [Review] [Review on: cl/phase1/network, cl/phase1/stages, cl/beacon/handler: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25189#pullrequestreview-5626569298) - 2026-10-23
+* [Pull Request] [cl/phase1/forkchoice, cl/phase1/network/services: apply block attestations in OnBlock](https://github.com/erigontech/erigon/pull/25281) - 2026-10-23
+* [Review] [Review on: cl/phase1/network/services, cl/phase1/forkchoice: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25208#pullrequestreview-5626568299) - 2026-10-23
+* [Pull Request] [cl/phase1/stages: send forkchoice update after a Gloas payload envelope is imported](https://github.com/erigontech/erigon/pull/25282) - 2026-10-23
+* [Review] [Review on: [r3.8] cl: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25213#pullrequestreview-5626568617) - 2026-10-23
+* [Review] [Review on: [r3.8] cl: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25197#pullrequestreview-5626570010) - 2026-10-23
+* [Issue] [txnprovider/txpool: the startup reload can block payload builds and does not restore the persisted pool](https://github.com/erigontech/erigon/issues/25273) - 2026-10-23
+* [Commit] [cl/phase1/forkchoice/fork_graph: stop fsyncing fork-graph dump files (#25251)](https://github.com/erigontech/erigon/commit/ff982437f94475bbd1140d2039447f57195ebab3) - 2026-10-23
+* [Commit] [cl: validate boundary blocks without a state copy (#25253)](https://github.com/erigontech/erigon/commit/598ba62530ff34f62df663bc3afaff30923fdfbe) - 2026-10-23
+* [Commit] [cl/phase1/network/services, cmd/caplin: republish queued execution payload envelopes (#25259)](https://github.com/erigontech/erigon/commit/43dc482075ade1572457c963c75066f5c35aa8bd) - 2026-10-23
 ## Q3 2026
 
 

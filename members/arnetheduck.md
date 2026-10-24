@@ -20,9 +20,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fc: duration metrics](https://github.com/status-im/nimbus-eth1/pull/5056) - 2026-10-22
 * [Review] [Review on: Implement dynamic adjustment of ForkedChain persistBatchSize](https://github.com/status-im/nimbus-eth1/pull/3750#pullrequestreview-5614840557) - 2026-10-22
 * [Commit] [fix FC deadlock (#5027)](https://github.com/status-im/nimbus-eth1/commit/6fc503ec6a05ce6848d009dc7eccd893f9fb4cd7) - 2026-10-22
+* [Pull Request] [vendor: check/bump](https://github.com/status-im/nimbus-eth1/pull/5069) - 2026-10-23
+* [Pull Request] [stats: import script fixes](https://github.com/status-im/nimbus-eth1/pull/5060) - 2026-10-23
+* [Commit] [fc: duration metrics (#5056)](https://github.com/status-im/nimbus-eth1/commit/188d577b00bbfa260c309cedd005f73aa109ac73) - 2026-10-23
+* [Commit] [stats: import script fixes (#5060)](https://github.com/status-im/nimbus-eth1/commit/8a8e2dd73c9da2a5bafa1dcb58664a3f3a460f91) - 2026-10-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22
+* [Pull Request] [mdbook: bump](https://github.com/status-im/nimbus-eth2/pull/9360) - 2026-10-23
 ## Q3 2026
 
 

@@ -352,6 +352,20 @@ Team: Reth
 * [Review] [Review on: fix: align snapshot block counts and downloads](https://github.com/paradigmxyz/reth/pull/28058#pullrequestreview-5611820497) - 2026-10-22
 * [Pull Request] [fix(storage): propagate static-file read errors](https://github.com/paradigmxyz/reth/pull/28064) - 2026-10-22
 * [Commit] [fix(storage): propagate static-file read errors (#28064)](https://github.com/paradigmxyz/reth/commit/95679ace275e524c238038bd392b6996ba11ec20) - 2026-10-22
+* [Review] [Review on: refactor!: replace revm with evm2](https://github.com/paradigmxyz/reth/pull/25002#pullrequestreview-5631246196) - 2026-10-23
+* [Pull Request] [fix(rpc): preserve fee-free gas estimation](https://github.com/paradigmxyz/reth/pull/28103) - 2026-10-23
+* [Pull Request] [fix(rpc): distinguish failed calls from explicit reverts](https://github.com/paradigmxyz/reth/pull/28102) - 2026-10-23
+* [Pull Request] [fix(rpc): preserve fee-free call balance semantics](https://github.com/paradigmxyz/reth/pull/28100) - 2026-10-23
+* [Pull Request] [fix(deps): bump tokio to 1.53.3](https://github.com/paradigmxyz/reth/pull/28101) - 2026-10-23
+* [Review] [Review on: fix(stages): honor execution unwind limits](https://github.com/paradigmxyz/reth/pull/28068#pullrequestreview-5623936749) - 2026-10-23
+* [Review] [Review on: chore: bump version to 2.8.1](https://github.com/paradigmxyz/reth/pull/28095#pullrequestreview-5626926457) - 2026-10-23
+* [Review] [Review on: fix(docker): include contrib in Docker build context](https://github.com/paradigmxyz/reth/pull/28092#pullrequestreview-5626931975) - 2026-10-23
+* [Review] [Review on: fix(stages): resume interrupted pipeline unwinds](https://github.com/paradigmxyz/reth/pull/28067#pullrequestreview-5623936475) - 2026-10-23
+* [Commit] [fix(deps): bump tokio to 1.53.3 (#28101)](https://github.com/paradigmxyz/reth/commit/98a1169a195c67dd56c7b9eac21f346a98e193aa) - 2026-10-23
+* [Commit] [fix(stages): resume interrupted pipeline unwinds (#28067)](https://github.com/paradigmxyz/reth/commit/a2499b60d4b2e27a2b3b7bc7127f026036b5b772) - 2026-10-23
+* [Commit] [fix(storage): state-import slots and history lookups (#28053)](https://github.com/paradigmxyz/reth/commit/9186ab6cf6e3507e7032caecb0bea7b8eb52dc15) - 2026-10-23
+* [Commit] [fix: unschedule Hoodi Amsterdam activation (#28089)](https://github.com/paradigmxyz/reth/commit/4418b95f618c7d34a3a3845b07c404b08e22506b) - 2026-10-23
+* [Commit] [fix(rpc): align proof responses with execution-apis (#28091)](https://github.com/paradigmxyz/reth/commit/75fd53124f014c9d3daa32c82dcc3b8cdc05fe34) - 2026-10-23
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

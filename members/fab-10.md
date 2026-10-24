@@ -85,6 +85,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Make SnapProtocolVersion an enum (#11513)](https://github.com/besu-eth/besu/commit/571172044a167c8c58ea7ff24dcf522e8405967e) - 2026-10-22
 * [Commit] [Notify the layered pool transaction added before making space for it (#11688)](https://github.com/besu-eth/besu/commit/c9dfe7495f2ab1f6a3779adc35b33bda27aadb20) - 2026-10-22
 * [Commit] [Notify the sequenced pool transaction events in the order they happen (#11685)](https://github.com/besu-eth/besu/commit/bbccb85dc0959c00a66874b2349224ae13c73612) - 2026-10-22
+* [Commit] [Run CI on rebase, ci and ds branches only on demand (#11724)](https://github.com/besu-eth/besu/commit/d09b4d83c45717fce2300aeb694a3b3cce92cd42) - 2026-10-23
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

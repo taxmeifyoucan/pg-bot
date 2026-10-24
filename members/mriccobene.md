@@ -47,6 +47,7 @@ Team: Erigon
 * [Issue] [An error reported by Exec-from-Zero test](https://github.com/erigontech/erigon/issues/24901) - 2026-10-14
 * [Review] [Review on: .github/workflows: pass --process-name rpcdaemon to rpc_perf only for erigon](https://github.com/erigontech/erigon/pull/24974#pullrequestreview-5550179662) - 2026-10-16
 * [Commit] [qa-tests: upgrade lighthouse version to v8.3.0 (#25157)](https://github.com/erigontech/erigon/commit/1012dbba65f03127391a48314ea0ab5a9598f221) - 2026-10-22
+* [Review] [Review on: Update LIGHTHOUSE_VERSION to v8.3.2](https://github.com/erigontech/erigon/pull/25247#pullrequestreview-5626685302) - 2026-10-23
 ## Q3 2026
 
 

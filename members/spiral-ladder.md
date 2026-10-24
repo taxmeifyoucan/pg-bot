@@ -82,6 +82,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [docs: bench with the baseline cpu like release bindings (#786)](https://github.com/ChainSafe/lodestar-z/commit/0b36087874cf566b931a101cb692c2cf32206ae9) - 2026-10-14
 * [Commit] [docs: use ReleaseSafe in bench run instructions (#785)](https://github.com/ChainSafe/lodestar-z/commit/b1751bf0fb8a9f0f3ac574da68a987acdd335952) - 2026-10-14
 * [Review] [Review on: perf: select shuffle sha256 at runtime](https://github.com/ChainSafe/lodestar-z/pull/774#pullrequestreview-5594245494) - 2026-10-21
+* [Pull Request] [test: remove assertion-free sanity tests](https://github.com/ChainSafe/lodestar-z/pull/803) - 2026-10-23
+* [Review] [Review on: fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801#pullrequestreview-5624845638) - 2026-10-23
+* [Commit] [test: remove assertion-free sanity tests (#803)](https://github.com/ChainSafe/lodestar-z/commit/268208de4f5aa559e2fb542fd3643e534d81004c) - 2026-10-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

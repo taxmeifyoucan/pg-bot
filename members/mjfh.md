@@ -28,6 +28,8 @@ Team: Nimbus
 * [Pull Request] [Snap2 updates and small fixes](https://github.com/status-im/nimbus-eth1/pull/5021) - 2026-10-20
 * [Commit] [Snap2 updates and small fixes (#5021)](https://github.com/status-im/nimbus-eth1/commit/2f56a33e879c08cb108453a7166c7155cdad88a2) - 2026-10-20
 * [Review] [Review on: beacon sync: fix unchecked hash of header fetched by hash](https://github.com/status-im/nimbus-eth1/pull/5029#pullrequestreview-5612896911) - 2026-10-22
+* [Pull Request] [Snap2 refactor partial storage download](https://github.com/status-im/nimbus-eth1/pull/5062) - 2026-10-23
+* [Commit] [Snap2 refactor partial storage download (#5062)](https://github.com/status-im/nimbus-eth1/commit/ba0eb097c3762ffdfc411c44cbe796033ab861a7) - 2026-10-23
 ## Q3 2026
 
 

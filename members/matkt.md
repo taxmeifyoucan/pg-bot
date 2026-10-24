@@ -103,6 +103,22 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [SNAP2: Add the key ranges and storage tasks of the state download](https://github.com/besu-eth/besu/pull/11700) - 2026-10-22
 * [Review] [Review on: SNAP2: Add the key ranges and storage tasks of the state download](https://github.com/besu-eth/besu/pull/11700#pullrequestreview-5610900392) - 2026-10-22
 * [Commit] [SNAP2: Stop a single peer from raising the best peer height (#11677)](https://github.com/besu-eth/besu/commit/c645c67c36696a1d57dbc0a212430af978132b57) - 2026-10-22
+* [Review] [Review on: SNAP2: Add the header back-fill](https://github.com/besu-eth/besu/pull/11707#pullrequestreview-5629083410) - 2026-10-23
+* [Pull Request] [SNAP2: Add the body back-fill](https://github.com/besu-eth/besu/pull/11734) - 2026-10-23
+* [Pull Request] [SNAP2: Abort only the batches whose commit has not started](https://github.com/besu-eth/besu/pull/11733) - 2026-10-23
+* [Review] [Review on: SNAP2: Abort only the batches whose commit has not started](https://github.com/besu-eth/besu/pull/11733#pullrequestreview-5628224675) - 2026-10-23
+* [Pull Request] [SNAP2: Add the account, storage and bytecode requests of the state download](https://github.com/besu-eth/besu/pull/11731) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the account, storage and bytecode requests of the state download](https://github.com/besu-eth/besu/pull/11731#pullrequestreview-5627347435) - 2026-10-23
+* [Pull Request] [SNAP2: Add the state diffs of the pivot moves](https://github.com/besu-eth/besu/pull/11730) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the state diffs of the pivot moves](https://github.com/besu-eth/besu/pull/11730#pullrequestreview-5627180707) - 2026-10-23
+* [Review] [Review on: SNAP2: Store the chain of a sync in batches](https://github.com/besu-eth/besu/pull/11705#pullrequestreview-5624905267) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the key ranges and storage tasks of the state download](https://github.com/besu-eth/besu/pull/11700#pullrequestreview-5624547029) - 2026-10-23
+* [Commit] [SNAP2: Add the account, storage and bytecode requests of the state download (#11731)](https://github.com/besu-eth/besu/commit/781a7e1df7c4e1c426d5b19201e8431dc366b72c) - 2026-10-23
+* [Commit] [SNAP2: Add the state diffs of the pivot moves (#11730)](https://github.com/besu-eth/besu/commit/9af7d75d0ebe0aafbf136d5b8cb63c0185e4f4cf) - 2026-10-23
+* [Commit] [SNAP2: Add the block ranges of the body back-fill (#11706)](https://github.com/besu-eth/besu/commit/7f8c13d73a9ad157ad1cc4b50a504d3460c16dca) - 2026-10-23
+* [Commit] [SNAP2: Store the chain of a sync in batches (#11705)](https://github.com/besu-eth/besu/commit/d03005781aba76dcd0c355c427632874218427e7) - 2026-10-23
+* [Commit] [SNAP2: Add the key ranges and storage tasks of the state download (#11700)](https://github.com/besu-eth/besu/commit/2ac480e1ae88d4420c28b5abea960308856eb6a4) - 2026-10-23
+* [Commit] [SNAP2: Add the final trie build (#11661)](https://github.com/besu-eth/besu/commit/ace55a1819de94f9dc3aeea3c3fa4beed066102d) - 2026-10-23
 ## Q3 2026
 
 

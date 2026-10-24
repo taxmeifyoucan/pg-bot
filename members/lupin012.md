@@ -128,6 +128,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [QA: update rpc test version (#24994)](https://github.com/erigontech/erigon/commit/a4d366e8ef8f6612781d108d3e6a4b050633f02b) - 2026-10-20
 * [Commit] [rpc/jsonrpc: reject unknown override keys in eth_simulateV1 (#25018)](https://github.com/erigontech/erigon/commit/63fdfc0ee5805a1005efb428c1962ff302bda398) - 2026-10-20
 * [Commit] [execution/types: allocate the stamped eth_getLogs log copies of a receipt at once (#25010)](https://github.com/erigontech/erigon/commit/1260471ba7e9d1565ff7949239caab14da2c9766) - 2026-10-21
+* [Pull Request] [QA: add an optional Reth run to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25288) - 2026-10-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -181,6 +182,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen: build eth_call requests from a list of txs (#635)](https://github.com/erigontech/rpc-tests/commit/75344cd809db20f0600c748b05a898f57dc88f44) - 2026-10-22
 * [Commit] [rpc_pattern_gen, rpc_perf: write and replay JSONL patterns (#633)](https://github.com/erigontech/rpc-tests/commit/c1ec692b602fdfeee64ec3e5e3db5d5267f9812c) - 2026-10-22
 * [Commit] [rpc_pattern_convert: convert Vegeta patterns to JSONL (#634)](https://github.com/erigontech/rpc-tests/commit/fc4a0c6a944361446bddcd9549d5f2359f95436a) - 2026-10-22
+* [Commit] [perf/pattern: describe the directories and the historical patterns, add heavy_parent.jsonl and eth_call_2000000.jsonl (#641)](https://github.com/erigontech/rpc-tests/commit/cf4e29d016f6747153d388c1ebe249aed491dfee) - 2026-10-23
 ## Q3 2026
 
 

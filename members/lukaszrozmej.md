@@ -604,6 +604,73 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(init): start JSON-RPC and network while unprocessed blocks are processed at startup (#15054)](https://github.com/NethermindEth/nethermind/commit/c489c44f91f8d3608acc0ecb6eeecb195e368be7) - 2026-10-22
 * [Commit] [test(flat-history): take the minimum of repeated allocation measurements (#15019)](https://github.com/NethermindEth/nethermind/commit/68f7cb687ad8aee631b00424e065afd0b48a36c2) - 2026-10-22
 * [Commit] [fix(docgen): document the request parameter forms the parsers accept (#15055)](https://github.com/NethermindEth/nethermind/commit/8266735ff1b97deb8d5aecdca70595e432c1a17a) - 2026-10-22
+* [Pull Request] [feat(evm): prototype EIP-8998 per-frame state-gas allowance](https://github.com/NethermindEth/nethermind/pull/15187) - 2026-10-24
+* [Pull Request] [feat(evm): prototype deferred state-gas settlement](https://github.com/NethermindEth/nethermind/pull/15184) - 2026-10-23
+* [Pull Request] [refactor(consensus): remove IRewardCalculatorSource](https://github.com/NethermindEth/nethermind/pull/15165) - 2026-10-23
+* [Pull Request] [fix(rpc): send pending responses after an IPC client closes its send side](https://github.com/NethermindEth/nethermind/pull/15162) - 2026-10-23
+* [Review] [Review on: fix(rpc): send pending responses after an IPC client closes its send side](https://github.com/NethermindEth/nethermind/pull/15162#pullrequestreview-5628296183) - 2026-10-23
+* [Pull Request] [refactor(monitoring): make Nethermind.Monitoring a plugin](https://github.com/NethermindEth/nethermind/pull/15174) - 2026-10-23
+* [Review] [Review on: refactor(monitoring): make Nethermind.Monitoring a plugin](https://github.com/NethermindEth/nethermind/pull/15174#pullrequestreview-5630390203) - 2026-10-23
+* [Pull Request] [feat(config)!: embed built-in configs as resources](https://github.com/NethermindEth/nethermind/pull/15171) - 2026-10-23
+* [Review] [Review on: feat(config)!: embed built-in configs as resources](https://github.com/NethermindEth/nethermind/pull/15171#pullrequestreview-5630484877) - 2026-10-23
+* [Pull Request] [feat(rpc): report snap sync progress in eth_syncing](https://github.com/NethermindEth/nethermind/pull/15176) - 2026-10-23
+* [Pull Request] [refactor(init): remove Init.MemoryHint and use fixed memory defaults](https://github.com/NethermindEth/nethermind/pull/15154) - 2026-10-23
+* [Review] [Review on: refactor(init): remove Init.MemoryHint and use fixed memory defaults](https://github.com/NethermindEth/nethermind/pull/15154#pullrequestreview-5627246455) - 2026-10-23
+* [Pull Request] [fix(docgen): document eth_config fields and members omitted from the wire](https://github.com/NethermindEth/nethermind/pull/15177) - 2026-10-23
+* [Pull Request] [refactor(network)!: remove Discovery.Bootnodes](https://github.com/NethermindEth/nethermind/pull/15167) - 2026-10-23
+* [Review] [Review on: refactor(network)!: remove Discovery.Bootnodes](https://github.com/NethermindEth/nethermind/pull/15167#pullrequestreview-5630553728) - 2026-10-23
+* [Pull Request] [feat(evm): prototype EIP-8037 reservoir-only refills and legacy share](https://github.com/NethermindEth/nethermind/pull/15186) - 2026-10-23
+* [Pull Request] [fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15178) - 2026-10-23
+* [Pull Request] [feat(logging): add option to mask IP addresses and enodes in logs](https://github.com/NethermindEth/nethermind/pull/15168) - 2026-10-23
+* [Review] [Review on: feat(logging): add option to mask IP addresses and enodes in logs](https://github.com/NethermindEth/nethermind/pull/15168#pullrequestreview-5630260496) - 2026-10-23
+* [Pull Request] [fix(snapshot): probe range support with bytes=0-1](https://github.com/NethermindEth/nethermind/pull/15164) - 2026-10-23
+* [Review] [Review on: fix(snapshot): probe range support with bytes=0-1](https://github.com/NethermindEth/nethermind/pull/15164#pullrequestreview-5628682703) - 2026-10-23
+* [Review] [Review on: fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15056#pullrequestreview-5625453586) - 2026-10-23
+* [Review] [Review on: perf(tracing): skip stack push reports for a prestate trace](https://github.com/NethermindEth/nethermind/pull/15183#pullrequestreview-5634291474) - 2026-10-23
+* [Review] [Review on: perf(tracing): apply debug_traceCall state overrides at the call without merkleizing them](https://github.com/NethermindEth/nethermind/pull/15182#pullrequestreview-5634273388) - 2026-10-23
+* [Pull Request] [fix(merge): return the payload id before the empty block is built](https://github.com/NethermindEth/nethermind/pull/15180) - 2026-10-23
+* [Review] [Review on: perf(evm): resolve the per-opcode gas cost tracers once per transaction](https://github.com/NethermindEth/nethermind/pull/15185#pullrequestreview-5634319681) - 2026-10-23
+* [Review] [Review on: perf(tracing): look up a prestate account once](https://github.com/NethermindEth/nethermind/pull/15160#pullrequestreview-5627222874) - 2026-10-23
+* [Review] [Review on: perf(rpc): execute consecutive native-tracer debug_traceCall batch items concurrently](https://github.com/NethermindEth/nethermind/pull/15128#pullrequestreview-5625518461) - 2026-10-23
+* [Review] [Review on: perf(merge): do not re-encode beacon-synced headers to link them](https://github.com/NethermindEth/nethermind/pull/15074#pullrequestreview-5624872197) - 2026-10-23
+* [Review] [Review on: perf(tracing): check a prestate call target's delegation once per transaction](https://github.com/NethermindEth/nethermind/pull/15169#pullrequestreview-5628888408) - 2026-10-23
+* [Review] [Review on: perf(zkevm): hash whole SSZ merkle trees in one ZisK SHA-256 loop](https://github.com/NethermindEth/nethermind/pull/15103#pullrequestreview-5625134666) - 2026-10-23
+* [Pull Request] [fix(network): fetch full blobs when too few eth/72 peers to sample](https://github.com/NethermindEth/nethermind/pull/15179) - 2026-10-23
+* [Review] [Review on: perf(consensus): check an inclusion-list sender's delegation by the held code hash](https://github.com/NethermindEth/nethermind/pull/15082#pullrequestreview-5624945244) - 2026-10-23
+* [Pull Request] [feat(network): treat nodes at configured hosts as static peers](https://github.com/NethermindEth/nethermind/pull/15170) - 2026-10-23
+* [Review] [Review on: feat(network): treat nodes at configured hosts as static peers](https://github.com/NethermindEth/nethermind/pull/15170#pullrequestreview-5630711190) - 2026-10-23
+* [Review] [Review on: perf(rpc): recover a block's receipts once per block in eth_getLogs](https://github.com/NethermindEth/nethermind/pull/15084#pullrequestreview-5624990291) - 2026-10-23
+* [Review] [Review on: perf(sync): read account paths without copies](https://github.com/NethermindEth/nethermind/pull/15116#pullrequestreview-5625451126) - 2026-10-23
+* [Pull Request] [feat(rpc): add overlay_getLogs and overlay_callConstructor](https://github.com/NethermindEth/nethermind/pull/15181) - 2026-10-23
+* [Review] [Review on: perf(rpc): skip unused simulation output copies](https://github.com/NethermindEth/nethermind/pull/15107#pullrequestreview-5625399748) - 2026-10-23
+* [Review] [Review on: perf(tracing): write file output as UTF-8](https://github.com/NethermindEth/nethermind/pull/15117#pullrequestreview-5625457193) - 2026-10-23
+* [Review] [Review on: fix(rpc)!: drop totalDifficulty on merging chains and return 0x for unknown raw tx](https://github.com/NethermindEth/nethermind/pull/15066#pullrequestreview-5626527662) - 2026-10-23
+* [Review] [Review on: fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070#pullrequestreview-5626733068) - 2026-10-23
+* [Review] [Review on: test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143#pullrequestreview-5626790242) - 2026-10-23
+* [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5626874468) - 2026-10-23
+* [Commit] [fix(snapshot): probe range support with bytes=0-1 (#15164)](https://github.com/NethermindEth/nethermind/commit/7b8036f15b8827fd5cb4ae3413a3a772ddd28a17) - 2026-10-23
+* [Commit] [fix(docgen): document block transactions as hashes or full objects (#15056)](https://github.com/NethermindEth/nethermind/commit/60dd4e0227bcccaab95b14b5d53610bd0b37268e) - 2026-10-23
+* [Commit] [test(network): assert the pong timeout window from the disconnect time (#15166)](https://github.com/NethermindEth/nethermind/commit/dd21c4f5127d4dbd59f37ed56540451e787fe3ab) - 2026-10-23
+* [Commit] [fix(discovery): wait for the listener state to clear when the pool stops (#15161)](https://github.com/NethermindEth/nethermind/commit/ec1e76d832f689f3a347d468ff74d2cc73a1df43) - 2026-10-23
+* [Commit] [fix(docgen): document wire shapes written by class-level converters (#15057)](https://github.com/NethermindEth/nethermind/commit/52dc503a3001c3f4d769207d0c27c0ae738fd652) - 2026-10-23
+* [Commit] [fix(sockets): log WebSocket failures on aborted connections at trace level (#15158)](https://github.com/NethermindEth/nethermind/commit/9e61bfea8e0acb47f1f9b77c1f243c453123d5a5) - 2026-10-23
+* [Commit] [fix(rpc): search the block itself when eth_getLogs targets a block hash (#15051)](https://github.com/NethermindEth/nethermind/commit/bcc67b662c2954e987201f026404e00bdf4105ac) - 2026-10-23
+* [Commit] [fix(network): stop restoring eth/72 cell providers that never answer (#15159)](https://github.com/NethermindEth/nethermind/commit/24ad224c973db5dcc458d69bcedc56e2871a0539) - 2026-10-23
+* [Commit] [fix(sync): log invalid peer responses at debug level without a stack trace (#15052)](https://github.com/NethermindEth/nethermind/commit/9b3f6711ee569efee7363001815a45c2d80c1928) - 2026-10-23
+* [Commit] [fix(t8n): match geth's t8n CLI, state transition and output (#15048)](https://github.com/NethermindEth/nethermind/commit/07eadbdec2bbc8b54283dcac913a2249c28a740a) - 2026-10-23
+* [Commit] [test(core): check the rate limiter backlog instead of a stall-sensitive minimum rate (#15046)](https://github.com/NethermindEth/nethermind/commit/f22afe459735745c1e4f784f0f0d8d2b7da6b772) - 2026-10-23
+* [Commit] [ci: skip analyzers in the macOS and Windows in-job test builds (#15040)](https://github.com/NethermindEth/nethermind/commit/f49c824941190b5e2e0c62448767fe1c5e4ec3e1) - 2026-10-23
+* [Commit] [test(network): give each peer fill more time on slow runners (#15036)](https://github.com/NethermindEth/nethermind/commit/fb84b8669fcfa1f0cf5dbb55ebe33bf6f75f7325) - 2026-10-23
+* [Commit] [fix(docgen): document response members written as null (#15058)](https://github.com/NethermindEth/nethermind/commit/4fe3f95a076f100e75b5004e6457169faa9aa855) - 2026-10-23
+* [Commit] [feat(rpc): add allowed hosts for JSON-RPC and Engine API (#15059)](https://github.com/NethermindEth/nethermind/commit/d17517fa46d8949c2e5452113063f6082c6289ab) - 2026-10-23
+* [Commit] [feat(log-index): halve default backfill parallelism and document the settings (#15053)](https://github.com/NethermindEth/nethermind/commit/ed60cac670c0a8fba78a25cde76c0b3fd7882d4c) - 2026-10-23
+* [Commit] [perf(rpc): share serialized logs and receipts among subscriptions that can reuse them (#15018)](https://github.com/NethermindEth/nethermind/commit/fd7b15e622a4d683cf14380730445b9d218612da) - 2026-10-23
+* [Commit] [fix(blockchain): keep only headers of invalid blocks in memory (#15156)](https://github.com/NethermindEth/nethermind/commit/662a9df8e72edc6c3d793eaeaf52519b1f7ada62) - 2026-10-23
+* [Commit] [perf(zkevm): hash whole SSZ merkle trees in one ZisK SHA-256 loop (#15103)](https://github.com/NethermindEth/nethermind/commit/c39bcd20a4cb4f2d5918080a320996c9a6c6d2b3) - 2026-10-23
+* [Commit] [perf(zkevm): remove memory copies on storage, keccak memo and call paths (#15102)](https://github.com/NethermindEth/nethermind/commit/9182446b6cad9c47ef245352d78e0f39616e361c) - 2026-10-23
+* [Commit] [perf(zkevm): convert big-endian 256-bit integers a word at a time (#15101)](https://github.com/NethermindEth/nethermind/commit/04952cdc8b85a6a9747298a300755c9a4d227b0b) - 2026-10-23
+* [Commit] [fix(nethdev): do not produce empty blocks for txs the producer cannot include (#15065)](https://github.com/NethermindEth/nethermind/commit/dc6a2de36f322b426d908066b930828d7e9e83ab) - 2026-10-23
+* [Commit] [feat(rpc): add debug_storageRangeAt (#15061)](https://github.com/NethermindEth/nethermind/commit/9d3685d2f95c0a26f9778719c77a2e6b19a1fdc9) - 2026-10-23
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -694,6 +761,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: add payload witness endpoint to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/885#pullrequestreview-5563292730) - 2026-10-18
 
+* [Pull Request] [schemas: add optional blockAccessList to BadBlock](https://github.com/ethereum/execution-apis/pull/955) - 2026-10-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Replace the eager secured-trie path walk with a node-local check and a lazy check](https://github.com/ethereum/execution-specs/issues/3885) - 2026-10-22
 ## Q3 2026

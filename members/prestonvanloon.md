@@ -41,6 +41,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Bump the go_modules group across 1 directory with 5 updates](https://github.com/OffchainLabs/prysm/pull/17757#pullrequestreview-5606697237) - 2026-10-21
 * [Pull Request] [Update changelog for v7.3.1](https://github.com/OffchainLabs/prysm/pull/17766) - 2026-10-22
 * [Review] [Review on: Unschedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17760#pullrequestreview-5617133980) - 2026-10-22
+* [Pull Request] [Add .oss-scanner/ for Anthropic OSS Scanner enrollment](https://github.com/OffchainLabs/prysm/pull/17775) - 2026-10-23
+* [Review] [Review on: Revamp `CONTRIBUTING.md` and require external contributors to be assigned to the issue their PR fixes.](https://github.com/OffchainLabs/prysm/pull/17764#pullrequestreview-5629773012) - 2026-10-23
+* [Commit] [Add .oss-scanner/ for Anthropic OSS Scanner enrollment (#17775)](https://github.com/OffchainLabs/prysm/commit/8815a65658c28dd51c20233c311dd4dbca18abdb) - 2026-10-23
+* [Commit] [Update changelog for v7.3.1 (#17766)](https://github.com/OffchainLabs/prysm/commit/373c32bdc7383497b588f2a24c01fd1285e9672f) - 2026-10-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

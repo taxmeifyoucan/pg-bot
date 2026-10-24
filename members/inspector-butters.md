@@ -24,6 +24,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Lc gloas db](https://github.com/OffchainLabs/prysm/pull/17755) - 2026-10-21
 * [Pull Request] [Gloas light client update construction.](https://github.com/OffchainLabs/prysm/pull/17753) - 2026-10-21
 * [Commit] [Gloas light client update construction. (#17753)](https://github.com/OffchainLabs/prysm/commit/8771ae8baaff410192fdf786cdba9f0b46963f6a) - 2026-10-22
+* [Pull Request] [Lc gloas api](https://github.com/OffchainLabs/prysm/pull/17772) - 2026-10-23
+* [Pull Request] [p2p](https://github.com/OffchainLabs/prysm/pull/17773) - 2026-10-23
+* [Commit] [Lc gloas db (#17755)](https://github.com/OffchainLabs/prysm/commit/fbd54f2f3ff08b82b0e0580120be35fe845c41ea) - 2026-10-23
 ## Q3 2026
 
 

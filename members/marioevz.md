@@ -64,6 +64,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tooling): build the docker images on uv's trixie base](https://github.com/ethereum/execution-specs/pull/3882#pullrequestreview-5605858903) - 2026-10-21
 * [Review] [Review on: feat(ci,doc): add a contribution policy and a new contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5603974895) - 2026-10-21
 * [Commit] [refactor(tests): THE BIG ported-static call-chain tests collapse (#3876)](https://github.com/ethereum/execution-specs/commit/268ed5487361e4e76c131ff7ef18d18a12d1a34f) - 2026-10-21
+* [Review] [Review on: feat(test-execution): verify transaction receipts against the network](https://github.com/ethereum/execution-specs/pull/3886#pullrequestreview-5635286402) - 2026-10-23
+* [Pull Request] [feat(test-cli): `evaluate` command](https://github.com/ethereum/execution-specs/pull/3905) - 2026-10-23
+* [Review] [Review on: feat(test-client-clis): print traces as a compact table](https://github.com/ethereum/execution-specs/pull/3869#pullrequestreview-5634455605) - 2026-10-23
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

@@ -322,6 +322,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: enable native gloas transitions (#10345)](https://github.com/ChainSafe/lodestar/commit/fe53cec080a37fa21c4b2e5e916c0eb9fc1447d8) - 2026-10-20
 * [Commit] [feat: add flag to disable validation of published execution payload bids (#10429)](https://github.com/ChainSafe/lodestar/commit/808c9f25d961c419afeffbc82baec42701edf6a8) - 2026-10-20
 * [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5597580283) - 2026-10-21
+* [Pull Request] [fix: round slot component durations](https://github.com/ChainSafe/lodestar/pull/10466) - 2026-10-23
+* [Pull Request] [fix: use the correct PTC duties dependent root for the Gloas fork epoch](https://github.com/ChainSafe/lodestar/pull/10468) - 2026-10-23
+* [Review] [Review on: chore: refresh Node.js runtimes for builds](https://github.com/ChainSafe/lodestar/pull/10459#pullrequestreview-5628206966) - 2026-10-23
+* [Review] [Review on: feat: activate Gloas on Ephemery iteration 165](https://github.com/ChainSafe/lodestar/pull/10457#pullrequestreview-5628414637) - 2026-10-23
+* [Review] [Review on: refactor: carry milliseconds through the fork choice timeliness API](https://github.com/ChainSafe/lodestar/pull/10455#pullrequestreview-5628153640) - 2026-10-23
+* [Review] [Review on: fix: floor slot component durations as the spec does](https://github.com/ChainSafe/lodestar/pull/10456#pullrequestreview-5627257126) - 2026-10-23
+* [Commit] [fix: round slot component durations (#10466)](https://github.com/ChainSafe/lodestar/commit/4e12403e398cd09c6e8819265f1684ed386c2ec7) - 2026-10-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -335,10 +342,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5522415581) - 2026-10-14
 * [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5531544772) - 2026-10-15
 * [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5547788291) - 2026-10-16
+* [Pull Request] [Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756) - 2026-10-23
+* [Commit] [Round slot component durations to the nearest millisecond (#5756)](https://github.com/ethereum/consensus-specs/commit/3dad3d5183756fc64c51e73d8b21026dd2330f22) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
 * [Commit] [Update EIP-7928: align BAL retention with the history expiry window](https://github.com/ethereum/EIPs/commit/068e50ad2afa94c3bd967ce584867fb27d371c01) - 2026-10-19
+* [Review] [Review on: Update EIP-7732: fix fork-choice tiebreak summary and describe the fork transition](https://github.com/ethereum/EIPs/pull/12574#pullrequestreview-5629573678) - 2026-10-23
+* [Review] [Review on: Update EIP-8282: require the builder credential prefix and document locked funds](https://github.com/ethereum/EIPs/pull/12572#pullrequestreview-5630699799) - 2026-10-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: core: better caching for jumpdest analysis](https://github.com/ethereum/go-ethereum/pull/35881#pullrequestreview-5418545030) - 2026-10-05
 
@@ -392,6 +403,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [perf: store shuffling indices as u32 (#797)](https://github.com/ChainSafe/lodestar-z/commit/c17d1328587505473d302918e0862616382d75a0) - 2026-10-20
 * [Commit] [feat: add gloas state transition (#764)](https://github.com/ChainSafe/lodestar-z/commit/f7493b715041b5493ffdfaa8cc168de077b2e20c) - 2026-10-20
 * [Commit] [fix: support serialized transaction lists (#796)](https://github.com/ChainSafe/lodestar-z/commit/24c5630788944b8c2f4a229bbc404375b5b8a54f) - 2026-10-20
+* [Review] [Review on: fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801#pullrequestreview-5627524246) - 2026-10-23
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 ## Q3 2026

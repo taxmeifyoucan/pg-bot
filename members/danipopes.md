@@ -76,6 +76,21 @@ Team: Reth
 * [Pull Request] [fix(rpc): restore eth_simulateV1 validation error codes](https://github.com/paradigmxyz/reth/pull/28074) - 2026-10-22
 * [Pull Request] [fix(rpc): include overrides in simulated roots](https://github.com/paradigmxyz/reth/pull/28076) - 2026-10-22
 * [Issue] [rpc: state override semantics for empty accounts differ from geth](https://github.com/paradigmxyz/reth/issues/28086) - 2026-10-22
+* [Pull Request] [perf(cli): avoid per-table monomorphization in db commands](https://github.com/paradigmxyz/reth/pull/28111) - 2026-10-23
+* [Pull Request] [perf(tasks): type-erase spawned futures](https://github.com/paradigmxyz/reth/pull/28112) - 2026-10-23
+* [Review] [Review on: refactor!: replace revm with evm2](https://github.com/paradigmxyz/reth/pull/25002#pullrequestreview-5631312073) - 2026-10-23
+* [Pull Request] [perf(deps): drop unused rocksdb codecs and unused deps](https://github.com/paradigmxyz/reth/pull/28109) - 2026-10-23
+* [Pull Request] [perf(deps): build OTLP only with the otlp feature](https://github.com/paradigmxyz/reth/pull/28108) - 2026-10-23
+* [Pull Request] [perf: build librocksdb-sys without debug info in dev](https://github.com/paradigmxyz/reth/pull/28110) - 2026-10-23
+* [Pull Request] [perf(deps): use revm subcrates in trie-common and storage-errors](https://github.com/paradigmxyz/reth/pull/28107) - 2026-10-23
+* [Pull Request] [fix(evm): remove empty accounts in DAO fork drain](https://github.com/paradigmxyz/reth/pull/28106) - 2026-10-23
+* [Pull Request] [fix: bundle extend reverts and evm2 base fee parity](https://github.com/paradigmxyz/reth/pull/28104) - 2026-10-23
+* [Review] [Review on: fix(rpc): preserve fee-free gas estimation](https://github.com/paradigmxyz/reth/pull/28103#pullrequestreview-5632095150) - 2026-10-23
+* [Review] [Review on: fix(rpc): distinguish failed calls from explicit reverts](https://github.com/paradigmxyz/reth/pull/28102#pullrequestreview-5632075259) - 2026-10-23
+* [Review] [Review on: fix(rpc): preserve fee-free call balance semantics](https://github.com/paradigmxyz/reth/pull/28100#pullrequestreview-5631621997) - 2026-10-23
+* [Pull Request] [refactor: own bundle state and drop revm](https://github.com/paradigmxyz/reth/pull/28098) - 2026-10-23
+* [Pull Request] [perf(rpc): hash simulated block changes once](https://github.com/paradigmxyz/reth/pull/28094) - 2026-10-23
+* [Pull Request] [fix(rpc): convert call request once](https://github.com/paradigmxyz/reth/pull/28097) - 2026-10-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

@@ -73,6 +73,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge branch 'master' into bbusa/heze-eip8198](https://github.com/ethpandaops/dora/commit/0e86843760d035b6d32d373035568660d65801a1) - 2026-10-19
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#916)](https://github.com/ethpandaops/dora/commit/bcbff3eb4b9165348d69fb3c3c37b4a140c317a7) - 2026-10-21
+* [Pull Request] [fix: apply EIP-8198 slot duration scaling in the state transition](https://github.com/ethpandaops/dora/pull/921) - 2026-10-23
+* [Review] [Review on: perf: split count from page queries, cache deposit queue anchor, async debug page stats](https://github.com/ethpandaops/dora/pull/919#pullrequestreview-5629558145) - 2026-10-23
+* [Review] [Review on: Make all page models SSZ compatible for the frontend cache](https://github.com/ethpandaops/dora/pull/915#pullrequestreview-5629546125) - 2026-10-23
+* [Pull Request] [fix: use sized integers in the inclusion list view so it caches as SSZ](https://github.com/ethpandaops/dora/pull/922) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -81,6 +85,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-8433: retire 0x00 validators at fork activation](https://github.com/ethereum/EIPs/pull/12514) - 2026-10-15
 * [Pull Request] [Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552) - 2026-10-20
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5599362661) - 2026-10-21
+* [Pull Request] [Update EIP-7723: Allow SFI decisions on ACDT](https://github.com/ethereum/EIPs/pull/12570) - 2026-10-23
+* [Review] [Review on: Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452#pullrequestreview-5625636554) - 2026-10-23
+* [Commit] [Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/commit/7d2a68f2b62ad73bd2a5dc2de647d7229aa0d2e1) - 2026-10-23
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
@@ -157,6 +164,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/tracoor/pull/71) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#71)](https://github.com/ethpandaops/tracoor/commit/f5c51ae9fef3ff4c2d53f99d17219ab8a2465af7) - 2026-10-21
 
+* [Pull Request] [fix: follow the Heze slot duration in the agent wallclock](https://github.com/ethpandaops/tracoor/pull/72) - 2026-10-23
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/pull/929) - 2026-10-21
 * [Commit] [Merge pull request #929 from ethpandaops/bbusa/emudhra-ca-fix](https://github.com/ethpandaops/xatu/commit/2ea91a78ee2f84fff6930f3ec25395e620282f98) - 2026-10-21
@@ -174,6 +182,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#118)](https://github.com/ethpandaops/cartographoor/commit/05ec1ee135c79097bb7acd72a44778d73505c8c0) - 2026-10-21
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [miner: `forkchoiceUpdatedV5` executes the inclusion list before returning, CL proposes with a stale payload id](https://github.com/ethereum/go-ethereum/issues/36006) - 2026-10-23
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [`engine_forkchoiceUpdatedV5` blocks on executing the inclusion list, CL proposes with a stale payload id](https://github.com/NethermindEth/nethermind/issues/15172) - 2026-10-23
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(docker): include contrib in Docker build context](https://github.com/paradigmxyz/reth/pull/28092) - 2026-10-23
+* [Commit] [fix(docker): include contrib in Docker build context (#28092)](https://github.com/paradigmxyz/reth/commit/21ee0fc8603b5c25ae8a2ffc6f29589ef4b90906) - 2026-10-23
 ## Q3 2026
 
 

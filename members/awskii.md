@@ -193,6 +193,13 @@ Team: Erigon
 * [Commit] [execution: invalidate a balance read that a fee re-credit rewrote in place (#24041)](https://github.com/erigontech/erigon/commit/aa37a4abdef2ce176313eb5e28df28fc2eb9c638) - 2026-10-23
 * [Commit] [execution/execmodule: test fork choice recovery after an invalid safe hash (#25167)](https://github.com/erigontech/erigon/commit/19bd3785846e07240c21e2daa4dccfc9d0231d15) - 2026-10-22
 * [Commit] [cl/phase1/forkchoice: keep pre-Gloas get_head vote weights across calls (#24985)](https://github.com/erigontech/erigon/commit/b27fb9e0fe3442af5269a0039976a3fb4d92a964) - 2026-10-22
+* [Pull Request] [cmd/utils/app, db/state: step-rebase merges files on a step-size increase](https://github.com/erigontech/erigon/pull/25295) - 2026-10-23
+* [Review] [Review on: cl/phase1/stages: index caplin segments before the history download](https://github.com/erigontech/erigon/pull/25224#pullrequestreview-5628528343) - 2026-10-23
+* [Pull Request] [db/state: stop collate from walking the whole DupSort table for each step](https://github.com/erigontech/erigon/pull/25293) - 2026-10-23
+* [Review] [Review on: cl/phase1/network, cl/phase1/stages, cl/beacon/handler: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25189#pullrequestreview-5624165948) - 2026-10-23
+* [Review] [Review on: cl/phase1/network/services, cl/phase1/forkchoice: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25208#pullrequestreview-5624165747) - 2026-10-23
+* [Review] [Review on: [r3.8] cl: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25213#pullrequestreview-5624164823) - 2026-10-23
+* [Review] [Review on: [r3.8] cl: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25197#pullrequestreview-5624166155) - 2026-10-23
 ## Q3 2026
 
 

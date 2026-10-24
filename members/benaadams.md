@@ -298,6 +298,26 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(rpc): report eth_createAccessList EVM failures with Geth's text](https://github.com/NethermindEth/nethermind/pull/15076#pullrequestreview-5619268744) - 2026-10-22
 * [Review] [Review on: fix(rpc): sort eth_createAccessList output ascending](https://github.com/NethermindEth/nethermind/pull/15073#pullrequestreview-5619267351) - 2026-10-22
 * [Review] [Review on: test(network): give the first peer fill more time on slow runners](https://github.com/NethermindEth/nethermind/pull/15036#pullrequestreview-5619266524) - 2026-10-22
+* [Review] [Review on: refactor(consensus): remove IRewardCalculatorSource](https://github.com/NethermindEth/nethermind/pull/15165#pullrequestreview-5632399462) - 2026-10-23
+* [Review] [Review on: fix(rpc): send pending responses after an IPC client closes its send side](https://github.com/NethermindEth/nethermind/pull/15162#pullrequestreview-5632400689) - 2026-10-23
+* [Review] [Review on: refactor(monitoring): make Nethermind.Monitoring a plugin](https://github.com/NethermindEth/nethermind/pull/15174#pullrequestreview-5632397204) - 2026-10-23
+* [Review] [Review on: feat(rpc): report snap sync progress in eth_syncing](https://github.com/NethermindEth/nethermind/pull/15176#pullrequestreview-5632396164) - 2026-10-23
+* [Review] [Review on: fix(docgen): document eth_config fields and members omitted from the wire](https://github.com/NethermindEth/nethermind/pull/15177#pullrequestreview-5632395652) - 2026-10-23
+* [Review] [Review on: refactor(network)!: remove Discovery.Bootnodes](https://github.com/NethermindEth/nethermind/pull/15167#pullrequestreview-5632398866) - 2026-10-23
+* [Review] [Review on: fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15178#pullrequestreview-5632395126) - 2026-10-23
+* [Review] [Review on: feat(logging): add option to mask IP addresses and enodes in logs](https://github.com/NethermindEth/nethermind/pull/15168#pullrequestreview-5632398369) - 2026-10-23
+* [Review] [Review on: fix(snapshot): probe range support with bytes=0-1](https://github.com/NethermindEth/nethermind/pull/15164#pullrequestreview-5632400097) - 2026-10-23
+* [Review] [Review on: perf(tracing): look up a prestate account once](https://github.com/NethermindEth/nethermind/pull/15160#pullrequestreview-5632401139) - 2026-10-23
+* [Review] [Review on: feat(network): treat nodes at configured hosts as static peers](https://github.com/NethermindEth/nethermind/pull/15170#pullrequestreview-5632397756) - 2026-10-23
+* [Review] [Review on: EIP-8253: read the targeted account list from the chain configuration](https://github.com/NethermindEth/nethermind/pull/15175#pullrequestreview-5632396718) - 2026-10-23
+* [Review] [Review on: perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121#pullrequestreview-5632403550) - 2026-10-23
+* [Review] [Review on: fix(debug): classify transaction native tracer configuration errors](https://github.com/NethermindEth/nethermind/pull/14727#pullrequestreview-5632407911) - 2026-10-23
+* [Review] [Review on: fix(rpc)!: drop totalDifficulty on merging chains and return 0x for unknown raw tx](https://github.com/NethermindEth/nethermind/pull/15066#pullrequestreview-5632406513) - 2026-10-23
+* [Review] [Review on: fix(rpc): list only opcode-named addresses in eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/15086#pullrequestreview-5632405552) - 2026-10-23
+* [Review] [Review on: fix(rpc): name the failing argument in -32602 errors, as Geth does](https://github.com/NethermindEth/nethermind/pull/15093#pullrequestreview-5632403994) - 2026-10-23
+* [Review] [Review on: test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143#pullrequestreview-5632403123) - 2026-10-23
+* [Review] [Review on: perf(merge): write the newPayload Received line after the block is queued](https://github.com/NethermindEth/nethermind/pull/15153#pullrequestreview-5632402648) - 2026-10-23
+* [Commit] [ci: introduce C# script validation and migrate solution reference tests (#15136)](https://github.com/NethermindEth/nethermind/commit/f5b55c73a4d90f3fd2b37aa3ff024549b49cbeb1) - 2026-10-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

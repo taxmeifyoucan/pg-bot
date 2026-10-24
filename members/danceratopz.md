@@ -60,6 +60,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [perf(test-consume): show the hive reproduce steps only for failed tests](https://github.com/ethereum/execution-specs/pull/3894) - 2026-10-22
 * [Review] [Review on: feat(tooling,ci): announce releases to hive-tests after publishing their images](https://github.com/ethereum/execution-specs/pull/3883#pullrequestreview-5617236686) - 2026-10-22
 * [Commit] [perf(test-consume): show the hive reproduce steps only for failed tests (#3894)](https://github.com/ethereum/execution-specs/commit/aaae5abd382b6c0612add96bd8400d6fa4eb0617) - 2026-10-22
+* [Commit] [feat(test-forks): generate BPO increase and decrease scenarios for every fork from Amsterdam (#3597)](https://github.com/ethereum/execution-specs/commit/369cd54c7f3a79f2f088368f566f480750ff03cd) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

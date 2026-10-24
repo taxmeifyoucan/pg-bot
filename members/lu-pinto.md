@@ -31,6 +31,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Implement Push and Pop opcodes in EVM v2 (#11116)](https://github.com/besu-eth/besu/commit/166de1f3d729995401f80f2820e1316b198538ae) - 2026-10-19
 * [Review] [Review on: EVM v2: split the loop to keep it within C2's inlining budget](https://github.com/besu-eth/besu/pull/11687#pullrequestreview-5613033189) - 2026-10-22
 * [Review] [Review on: Saturate the Osaka MODEXP multiplication complexity instead of wrapping](https://github.com/besu-eth/besu/pull/11599#pullrequestreview-5613129362) - 2026-10-22
+* [Review] [Review on: EVM v2: split the loop to keep it within C2's inlining budget](https://github.com/besu-eth/besu/pull/11687#pullrequestreview-5628907058) - 2026-10-23
+* [Pull Request] [32bit hash lanes](https://github.com/besu-eth/besu/pull/11748) - 2026-10-24
 ## Q3 2026
 
 

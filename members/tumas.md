@@ -33,6 +33,8 @@ Team: Grandine
 * [Review] [Review on: Revert "Schedule Gloas fork activation on Hoodi"](https://github.com/grandinetech/grandine/pull/1006#pullrequestreview-5616260844) - 2026-10-22
 * [Review] [Review on: Configurable builder header timeout](https://github.com/grandinetech/grandine/pull/1005#pullrequestreview-5615654619) - 2026-10-22
 * [Commit] [Run the validator client against remote beacon nodes with the new vc and bn commands](https://github.com/grandinetech/grandine/commit/862980653395bdad70f8a015aaf941c85fa67a41) - 2026-10-22
+* [Review] [Review on: Update crate](https://github.com/grandinetech/grandine/pull/1007#pullrequestreview-5630327904) - 2026-10-23
+* [Review] [Review on: Optimize trusted state transition function](https://github.com/grandinetech/grandine/pull/920#pullrequestreview-5627127487) - 2026-10-23
 ## Q3 2026
 
 

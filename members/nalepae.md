@@ -84,6 +84,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759) - 2026-10-22
 * [Issue] [Dropping incoming partial RPC flood](https://github.com/OffchainLabs/prysm/issues/17761) - 2026-10-22
 * [Commit] [Ask block to peer sending us an attestation for it. (#17754)](https://github.com/OffchainLabs/prysm/commit/4f4b6be477c64ca504b2ef7545ca03fd0cac6b32) - 2026-10-22
+* [Review] [Review on: Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759#pullrequestreview-5633063200) - 2026-10-23
+* [Pull Request] [Share the expected proposer computation across all data column sideca…](https://github.com/OffchainLabs/prysm/pull/17776) - 2026-10-23
+* [Review] [Review on: Create the validator database on slashing protection import if missing](https://github.com/OffchainLabs/prysm/pull/17700#pullrequestreview-5626237291) - 2026-10-23
+* [Review] [Review on: Upgrade libp2p](https://github.com/OffchainLabs/prysm/pull/17769#pullrequestreview-5628497935) - 2026-10-23
+* [Pull Request] [Do not send by range requests (blocks, payload envelopes, blob and data column sidecars) to peers whose advertised earliest available slot is above the requested start slot.](https://github.com/OffchainLabs/prysm/pull/17770) - 2026-10-23
+* [Pull Request] [Fix flaky `TestDataColumnSidecarsByRangeRPCHandler`](https://github.com/OffchainLabs/prysm/pull/17767) - 2026-10-23
+* [Issue] [Activating partial data columns (aka NOT using `--disable-partial-data-columns`) increases the DA waiting time and bad head vote](https://github.com/OffchainLabs/prysm/issues/17774) - 2026-10-23
+* [Commit] [Create the validator database on slashing protection import if missing (#17700)](https://github.com/OffchainLabs/prysm/commit/44a15554c9a158f08240562ce6dd3e4575ff3142) - 2026-10-23
+* [Commit] [Revamp `CONTRIBUTING.md` and require external contributors to be assigned to the issue their PR fixes. (#17764)](https://github.com/OffchainLabs/prysm/commit/7f7038f654be520669c75e6c9a3b654be9120443) - 2026-10-23
+* [Commit] [Fix flaky `TestDataColumnSidecarsByRangeRPCHandler` (#17767)](https://github.com/OffchainLabs/prysm/commit/be3d5889ad7caf47a3aeace3b2937f680b9f5260) - 2026-10-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

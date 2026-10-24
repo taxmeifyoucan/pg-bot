@@ -44,6 +44,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5600031852) - 2026-10-21
 * [Commit] [nit comment fix (#11559)](https://github.com/Consensys-Incorporated/teku/commit/42408b645055cdd7538d4c79d3401f12b88b8411) - 2026-10-22
 * [Commit] [Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat… (#11544)](https://github.com/Consensys-Incorporated/teku/commit/f52bbcda96a332e56bf429ee594c8f10def61433) - 2026-10-22
+* [Review] [Review on: DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508#pullrequestreview-5633380304) - 2026-10-23
+* [Review] [Review on: Close inbound RPC streams whose response cannot be written](https://github.com/Consensys-Incorporated/teku/pull/11569#pullrequestreview-5632801199) - 2026-10-23
+* [Commit] [Add GET proposer_preferences endpoint (#11548)](https://github.com/Consensys-Incorporated/teku/commit/2dc799fc736f8851be3ae19efd30a11dca58a411) - 2026-10-23
+* [Commit] [Refactor state data BEACON-API endpoints (#11558)](https://github.com/Consensys-Incorporated/teku/commit/3fa2f69e3b5a6ff8821955fe8e595b3a27fe31e9) - 2026-10-23
 ## Q3 2026
 
 

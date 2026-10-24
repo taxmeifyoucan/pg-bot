@@ -29,6 +29,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(test-specs): fill frame_tx variants as engine_x fixtures](https://github.com/ethereum/execution-specs/pull/3877#pullrequestreview-5596812950) - 2026-10-21
 * [Review] [Review on: refactor(tests): build EIP-8141 frame transaction from helper](https://github.com/ethereum/execution-specs/pull/3799#pullrequestreview-5610071321) - 2026-10-22
 * [Issue] [Test Release Tracker: `bogota-devnet@v2.0.0`](https://github.com/ethereum/execution-specs/issues/3889) - 2026-10-22
+* [Pull Request] [fix(tests,test-client-clis,test-evm-tools): address the EIP-8141 merge review](https://github.com/ethereum/execution-specs/pull/3901) - 2026-10-23
+* [Review] [Review on: feat(spec-specs,test-specs,test-types,tests): apply the EIP-8141 changes for `bogota-devnet-2`](https://github.com/ethereum/execution-specs/pull/3892#pullrequestreview-5625967117) - 2026-10-23
 ## Q3 2026
 
 

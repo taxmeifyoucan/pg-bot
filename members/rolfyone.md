@@ -148,6 +148,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Verify attestation signatures before saving them for future processing](https://github.com/Consensys-Incorporated/teku/pull/11560#pullrequestreview-5609092146) - 2026-10-22
 * [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5608776720) - 2026-10-22
 * [Commit] [Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot (#11540)](https://github.com/Consensys-Incorporated/teku/commit/b036e2ba6d75fda0b6de45aefd5f334786c80802) - 2026-10-22
+* [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5625184901) - 2026-10-23
+* [Review] [Review on: Refactor state data BEACON-API endpoints](https://github.com/Consensys-Incorporated/teku/pull/11558#pullrequestreview-5623395014) - 2026-10-23
+* [Commit] [Keep the finalized anchor DAS tracker alive while its payload is recovered (#11553)](https://github.com/Consensys-Incorporated/teku/commit/18f4166890c7fc0afdc07c737205eb6288b1f0b0) - 2026-10-23
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

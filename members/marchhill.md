@@ -225,6 +225,17 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: feat(rpc): add allowed hosts for JSON-RPC and Engine API](https://github.com/NethermindEth/nethermind/pull/15059#pullrequestreview-5612765711) - 2026-10-22
 * [Review] [Review on: fix(docgen): document response members written as null](https://github.com/NethermindEth/nethermind/pull/15058#pullrequestreview-5612765479) - 2026-10-22
 * [Commit] [test: address fork and BAL benchmark review feedback (#15004)](https://github.com/NethermindEth/nethermind/commit/b6c4e36204bfad2b569475baf66a1e4690361e02) - 2026-10-22
+* [Review] [Review on: refactor(consensus): remove IRewardCalculatorSource](https://github.com/NethermindEth/nethermind/pull/15165#pullrequestreview-5628871496) - 2026-10-23
+* [Review] [Review on: fix(rpc): send pending responses after an IPC client closes its send side](https://github.com/NethermindEth/nethermind/pull/15162#pullrequestreview-5628871941) - 2026-10-23
+* [Review] [Review on: refactor(init): remove Init.MemoryHint and use fixed memory defaults](https://github.com/NethermindEth/nethermind/pull/15154#pullrequestreview-5626739469) - 2026-10-23
+* [Review] [Review on: refactor(network)!: remove Discovery.Bootnodes](https://github.com/NethermindEth/nethermind/pull/15167#pullrequestreview-5628870932) - 2026-10-23
+* [Review] [Review on: feat(logging): add option to mask IP addresses and enodes in logs](https://github.com/NethermindEth/nethermind/pull/15168#pullrequestreview-5628870697) - 2026-10-23
+* [Review] [Review on: fix(snapshot): probe range support with bytes=0-1](https://github.com/NethermindEth/nethermind/pull/15164#pullrequestreview-5628871748) - 2026-10-23
+* [Review] [Review on: perf(tracing): check a prestate call target's delegation once per transaction](https://github.com/NethermindEth/nethermind/pull/15169#pullrequestreview-5628911268) - 2026-10-23
+* [Review] [Review on: perf(zkevm): hash whole SSZ merkle trees in one ZisK SHA-256 loop](https://github.com/NethermindEth/nethermind/pull/15103#pullrequestreview-5626825130) - 2026-10-23
+* [Review] [Review on: fix(rpc): name the failing argument in -32602 errors, as Geth does](https://github.com/NethermindEth/nethermind/pull/15093#pullrequestreview-5628912851) - 2026-10-23
+* [Review] [Review on: test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143#pullrequestreview-5628912080) - 2026-10-23
+* [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5628900503) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

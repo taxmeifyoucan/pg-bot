@@ -73,6 +73,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(logging): extend plugin adapter exception diagnostics (#14943)](https://github.com/NethermindEth/nethermind/commit/6535eac16d8c357240e59ed715ea75e0bf388d66) - 2026-10-21
 * [Review] [Review on: chore: update Directory.Build.props for 2.2.1](https://github.com/NethermindEth/nethermind/pull/15126#pullrequestreview-5619331040) - 2026-10-22
 * [Commit] [test(network): cover privileged-peer socket reset handling (#14974)](https://github.com/NethermindEth/nethermind/commit/5940ce2b67cbe11b9572de6e4cea36c1c5f08381) - 2026-10-22
+* [Pull Request] [perf(tracing): skip stack push reports for a prestate trace](https://github.com/NethermindEth/nethermind/pull/15183) - 2026-10-23
+* [Review] [Review on: perf(tracing): skip stack push reports for a prestate trace](https://github.com/NethermindEth/nethermind/pull/15183#pullrequestreview-5632979908) - 2026-10-23
+* [Pull Request] [perf(tracing): apply debug_traceCall state overrides at the call without merkleizing them](https://github.com/NethermindEth/nethermind/pull/15182) - 2026-10-23
+* [Review] [Review on: perf(tracing): apply debug_traceCall state overrides at the call without merkleizing them](https://github.com/NethermindEth/nethermind/pull/15182#pullrequestreview-5633034741) - 2026-10-23
+* [Pull Request] [perf(evm): resolve the per-opcode gas cost tracers once per transaction](https://github.com/NethermindEth/nethermind/pull/15185) - 2026-10-23
+* [Pull Request] [perf(tracing): check a prestate call target's delegation once per transaction](https://github.com/NethermindEth/nethermind/pull/15169) - 2026-10-23
+* [Commit] [perf(evm): resolve the per-opcode gas cost tracers once per transaction (#15185)](https://github.com/NethermindEth/nethermind/commit/568a02ebfa32ac39357d09678df81b1068561139) - 2026-10-23
+* [Commit] [perf(tracing): check a prestate call target's delegation once per transaction (#15169)](https://github.com/NethermindEth/nethermind/commit/7192e7f344d7b4516db02d0140bd5ecd83532caf) - 2026-10-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

@@ -18,6 +18,9 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Review] [Review on: feat(tests): cover invalid fee caps, block numbers and BAL edge cases](https://github.com/ethereum/execution-specs/pull/3875#pullrequestreview-5610931220) - 2026-10-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956) - 2026-10-23
 ## Q3 2026
 
 

@@ -231,6 +231,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: hand the post-fork-choice head state to synced data without copying it](https://github.com/erigontech/erigon/pull/25237#pullrequestreview-5614069787) - 2026-10-22
 * [Issue] [tests: enable Bogota devnet EEST suites after bogota-devnet-1 support](https://github.com/erigontech/erigon/issues/25241) - 2026-10-22
 * [Issue] [txnprovider/txpool: add canonical EIP-8141 paymaster support](https://github.com/erigontech/erigon/issues/25252) - 2026-10-22
+* [Review] [Review on: execution/engineapi, execution/protocol/mdgas: reject a payload with more transactions than its gas limit allows](https://github.com/erigontech/erigon/pull/25176#pullrequestreview-5627720320) - 2026-10-23
+* [Review] [Review on: cl/phase1/stages: publish a fork choice head that moved at the slot start](https://github.com/erigontech/erigon/pull/25258#pullrequestreview-5627770064) - 2026-10-23
+* [Review] [Review on: go.mod: bump mcp-go, x/tools, gqlparser, gqlgen, go-echarts, chi](https://github.com/erigontech/erigon/pull/25290#pullrequestreview-5627462663) - 2026-10-23
+* [Review] [Review on: cl/phase1/forkchoice/fork_graph: stop fsyncing fork-graph dump files](https://github.com/erigontech/erigon/pull/25251#pullrequestreview-5625869066) - 2026-10-23
+* [Review] [Review on: cl: validate boundary blocks without a state copy](https://github.com/erigontech/erigon/pull/25253#pullrequestreview-5626125983) - 2026-10-23
+* [Pull Request] [[r3.8] docs, db/version: prepare 3.8.1](https://github.com/erigontech/erigon/pull/25286) - 2026-10-23
+* [Review] [Review on: reduce size of agents.md](https://github.com/erigontech/erigon/pull/25272#pullrequestreview-5626821421) - 2026-10-23
+* [Review] [Review on: cl/phase1/network/services, cmd/caplin: republish queued execution payload envelopes](https://github.com/erigontech/erigon/pull/25259#pullrequestreview-5627584491) - 2026-10-23
+* [Review] [Review on: [r3.8] cl: stop fsyncing fork-graph dumps, validate boundary blocks without a state copy, and republish moved heads and queued envelopes](https://github.com/erigontech/erigon/pull/25287#pullrequestreview-5627288545) - 2026-10-23
+* [Pull Request] [[r3.8] execution/state: re-read an account field whose cell appears during a fallback probe](https://github.com/erigontech/erigon/pull/25289) - 2026-10-23
+* [Review] [Review on: cl/phase1/forkchoice, cl/phase1/network/services: apply block attestations in OnBlock](https://github.com/erigontech/erigon/pull/25281#pullrequestreview-5627213249) - 2026-10-23
+* [Review] [Review on: docs(site): bump react to 19.3.1 and apply in-range npm audit fixes](https://github.com/erigontech/erigon/pull/25267#pullrequestreview-5626221958) - 2026-10-23
+* [Review] [Review on: [r3.8] docs(site): bump react to 19.3.1 and apply in-range npm audit fixes](https://github.com/erigontech/erigon/pull/25268#pullrequestreview-5626244710) - 2026-10-23
+* [Pull Request] [[r3.8] chainspec, clparams: unschedule Glamsterdam on Hoodi](https://github.com/erigontech/erigon/pull/25269) - 2026-10-23
+* [Issue] [cl: use the canonical Gloas execution hash during block publication](https://github.com/erigontech/erigon/issues/25285) - 2026-10-23
+* [Issue] [execmodule: READ_AHEAD_WAIT deadlocks fork validation that needs an unwind](https://github.com/erigontech/erigon/issues/25275) - 2026-10-23
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

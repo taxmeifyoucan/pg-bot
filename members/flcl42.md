@@ -50,6 +50,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/txpool/blobpool, cmd/devp2p: avoid blaming unrelated cell suppliers](https://github.com/ethereum/go-ethereum/pull/35984) - 2026-10-20
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7732: fix fork-choice tiebreak summary and describe the fork transition](https://github.com/ethereum/EIPs/pull/12574) - 2026-10-23
+* [Pull Request] [Update EIP-7928: specify BAL integer encoding](https://github.com/ethereum/EIPs/pull/12571) - 2026-10-23
+* [Pull Request] [Update EIP-8061: fix activation cap unit and align constant name with the spec](https://github.com/ethereum/EIPs/pull/12575) - 2026-10-23
+* [Pull Request] [Update EIP-8282: require the builder credential prefix and document locked funds](https://github.com/ethereum/EIPs/pull/12572) - 2026-10-23
+* [Pull Request] [Update EIP-8037: document gas returning before settlement and reservoir forwarding](https://github.com/ethereum/EIPs/pull/12573) - 2026-10-23
 ## Q3 2026
 
 

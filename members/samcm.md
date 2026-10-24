@@ -90,6 +90,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
 
+* [Review] [Review on: fix: bump pip to 26.2.2 and certifi for the eMudhra CA compromise](https://github.com/ethpandaops/template-devnets/pull/198#pullrequestreview-5624044874) - 2026-10-23
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 

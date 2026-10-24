@@ -93,9 +93,21 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: require the sibling node of a collapsed branch (#5047)](https://github.com/status-im/nimbus-eth1/commit/f81f4259880cd8cb960b5f3dbd4deca8ae1de039) - 2026-10-22
 * [Commit] [beacon sync: fix unchecked hash of header fetched by hash (#5029)](https://github.com/status-im/nimbus-eth1/commit/2397e92d8e4759bfb75c38eb15a554620e61fa0a) - 2026-10-22
 * [Commit] [stateless: fail when the witness lacks a storage root node (#5036)](https://github.com/status-im/nimbus-eth1/commit/f5d2155e75cd6e167182ef53592e7ff7a80cc11d) - 2026-10-22
+* [Pull Request] [stateless: add only the collapse sibling's node to the witness](https://github.com/status-im/nimbus-eth1/pull/5068) - 2026-10-23
+* [Pull Request] [stateless: add code to the witness only for pre-state reads](https://github.com/status-im/nimbus-eth1/pull/5064) - 2026-10-23
+* [Pull Request] [bump vendor/nim-bearssl to v0.3.1](https://github.com/status-im/nimbus-eth1/pull/5063) - 2026-10-23
+* [Pull Request] [Fix ReadOnlyLedger slot access list check + assert witness header limit](https://github.com/status-im/nimbus-eth1/pull/5061) - 2026-10-23
+* [Commit] [stateless: add only the collapse sibling's node to the witness (#5068)](https://github.com/status-im/nimbus-eth1/commit/1efc7e4db6acea328352bb93df510f938782999e) - 2026-10-23
+* [Commit] [stateless: add code to the witness only for pre-state reads (#5064)](https://github.com/status-im/nimbus-eth1/commit/f704f9fca2e142bebf707cc02bed605a7d612dfd) - 2026-10-23
+* [Commit] [bump vendor/nim-bearssl to v0.3.1 (#5063)](https://github.com/status-im/nimbus-eth1/commit/f12854fdec792ec79ebb025e4248c34acd76eb83) - 2026-10-23
+* [Commit] [Fix ReadOnlyLedger slot access list check + assert witness header limit (#5061)](https://github.com/status-im/nimbus-eth1/commit/6386480166687230d0290b45fb3c39fb60c7ede2) - 2026-10-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22
+
+* [Review] [Review on: Tag SSZ ByteLists with correct type](https://github.com/status-im/nimbus-eth2/pull/9356#pullrequestreview-5625913910) - 2026-10-23
+[ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
+* [Review] [Review on: Fix relative links in legacy specs and the uTP link](https://github.com/ethereum/portal-network-specs/pull/417#pullrequestreview-5626026347) - 2026-10-23
 ## Q3 2026
 
 

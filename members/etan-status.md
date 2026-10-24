@@ -57,6 +57,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Tag SSZ ByteLists with correct type](https://github.com/status-im/nimbus-eth2/pull/9356) - 2026-10-22
 * [Pull Request] [Cache PTC in EpochRef](https://github.com/status-im/nimbus-eth2/pull/9341) - 2026-10-22
 * [Pull Request] [Remove unused std/macros imports](https://github.com/status-im/nimbus-eth2/pull/9337) - 2026-10-22
+* [Review] [Review on: mdbook: bump](https://github.com/status-im/nimbus-eth2/pull/9360#pullrequestreview-5632466882) - 2026-10-23
+* [Pull Request] [Avoid packing aggregates at infinity](https://github.com/status-im/nimbus-eth2/pull/9359) - 2026-10-23
+* [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5626233271) - 2026-10-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

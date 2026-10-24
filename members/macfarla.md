@@ -137,6 +137,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [changelog for 26.10.1 (#11725)](https://github.com/besu-eth/besu/commit/497c6c643d39ffd1ca961d976c32194c8692a4ff) - 2026-10-23
 * [Commit] [eth_simulateV1 - reject unknown account overrides (#11695)](https://github.com/besu-eth/besu/commit/fc768cdb447a7328bd99363cce5e4e5ed4e33b98) - 2026-10-22
 * [Commit] [Limit eth_getProof to 1024 storage keys (#11697)](https://github.com/besu-eth/besu/commit/53d27d4103b15a25074e0456a8ea331c9624ba76) - 2026-10-22
+* [Review] [Review on: Check eth_simulateV1 precompile moves against the simulated block's fork](https://github.com/besu-eth/besu/pull/11692#pullrequestreview-5624361154) - 2026-10-23
+* [Pull Request] [Keep the wrapped processor's config in SimulationMessageCallProcessor](https://github.com/besu-eth/besu/pull/11732) - 2026-10-23
+* [Review] [Review on: Bound and space out block retrieval retries](https://github.com/besu-eth/besu/pull/11674#pullrequestreview-5624144726) - 2026-10-23
+* [Review] [Review on: Default an omitted block parameter to latest in eth_simulateV1](https://github.com/besu-eth/besu/pull/11446#pullrequestreview-5623724108) - 2026-10-23
+* [Commit] [bump plugins baseline for 26.10.0 (#11693)](https://github.com/besu-eth/besu/commit/bdb9e5c3d3d3b25a72dd259d8fb824c10ddcc4fa) - 2026-10-23
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

@@ -11,6 +11,7 @@ Github: [@wolovim](https://github.com/wolovim)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Frame Transaction Breakout #7, Oct 20, 2026](https://github.com/ethereum/pm/issues/2272) - 2026-10-13
+* [Commit] [acdbot: acdt duration bump](https://github.com/ethereum/pm/commit/70990a43aaa4490d56faf2eb57e10415d73892c9) - 2026-10-23
 ## Q3 2026
 
 

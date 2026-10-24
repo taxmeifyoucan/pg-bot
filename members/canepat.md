@@ -31,6 +31,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc_pattern_gen: --per-block takes N random txs or logs of each block](https://github.com/erigontech/rpc-tests/pull/632#pullrequestreview-5582736393) - 2026-10-20
 * [Review] [Review on: eth_simulateV1: drop override keys that the spec does not define](https://github.com/erigontech/rpc-tests/pull/630#pullrequestreview-5582734390) - 2026-10-20
 * [Review] [Review on: rpc_pattern_gen, rpc_perf: write and replay JSONL patterns](https://github.com/erigontech/rpc-tests/pull/633#pullrequestreview-5616846864) - 2026-10-22
+* [Review] [Review on: perf/pattern: describe the directories and the historical patterns, add heavy_parent.jsonl and eth_call_2000000.jsonl](https://github.com/erigontech/rpc-tests/pull/641#pullrequestreview-5626076779) - 2026-10-23
 ## Q2 2026
 
 

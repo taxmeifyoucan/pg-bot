@@ -34,6 +34,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Prevent output directory overwrites in the spec generation](https://github.com/ethereum/consensus-specs/pull/5731#pullrequestreview-5604363828) - 2026-10-21
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5619631989) - 2026-10-22
 * [Review] [Review on: Apply config overrides to cached spec functions](https://github.com/ethereum/consensus-specs/pull/5742#pullrequestreview-5618356440) - 2026-10-22
+* [Review] [Review on: Fix EIP number in `get_consolidation_churn_limit` docstrings](https://github.com/ethereum/consensus-specs/pull/5758#pullrequestreview-5633885370) - 2026-10-23
+* [Pull Request] [Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757) - 2026-10-23
+* [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5631957595) - 2026-10-23
+* [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5627110774) - 2026-10-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 

@@ -51,6 +51,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #588 from petertdavies/remove-peter-miller](https://github.com/protocolguild/documentation/commit/9f7363aca498ae64a824568118a27999a1861029) - 2026-10-18
 * [Commit] [Merge pull request #586 from casparschwa/caspar-partial-weight](https://github.com/protocolguild/documentation/commit/1dba75b06cb0cd6a51eccb15056412c871bc176d) - 2026-10-18
 * [Commit] [Merge pull request #584 from kamilchodola/patch-4](https://github.com/protocolguild/documentation/commit/cb49319d5b4af5e9a363989cc911db7311423be5) - 2026-10-18
+* [Commit] [Merge pull request #583 from jsign/jsign-propose-alex](https://github.com/protocolguild/documentation/commit/d3c4219a6d5e0415a220f5bd65e105b6ed987cb7) - 2026-10-23
+* [Commit] [Merge pull request #582 from jsign/jsign-propose-derek](https://github.com/protocolguild/documentation/commit/910d54a179626f0a316659f9883ae8ea8298a7f7) - 2026-10-23
+* [Commit] [Merge pull request #579 from nixorokish/main](https://github.com/protocolguild/documentation/commit/953466226997668066299d98e9722a04355236a1) - 2026-10-23
 ## Q3 2026
 
 

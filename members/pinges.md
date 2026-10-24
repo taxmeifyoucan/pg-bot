@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: chore: bump  witness tests to v21.0.6](https://github.com/besu-eth/besu/pull/11651#pullrequestreview-5579170468) - 2026-10-19
 * [Pull Request] [Fix/snap storage root refresh](https://github.com/besu-eth/besu/pull/11654) - 2026-10-20
 * [Review] [Review on: Disconnect peers whose task response fails to decode](https://github.com/besu-eth/besu/pull/11451#pullrequestreview-5595659208) - 2026-10-21
+* [Review] [Review on: Keep the wrapped processor's config in SimulationMessageCallProcessor](https://github.com/besu-eth/besu/pull/11732#pullrequestreview-5625522708) - 2026-10-23
 ## Q3 2026
 
 

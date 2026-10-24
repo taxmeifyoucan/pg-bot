@@ -161,6 +161,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Unschedule Amsterdam on Hoodi (#11709)](https://github.com/besu-eth/besu/commit/d96c15a8d2f0dc4b36c418bfb8fbec33800af301) - 2026-10-22
 * [Commit] [Update discovery library to 26.10.1 and the dependency versions it requires (#11671)](https://github.com/besu-eth/besu/commit/c78983bab686e46e130c350e1a38469776275a8e) - 2026-10-22
 * [Commit] [Check Gradle build scripts with Spotless built-in steps (#11699)](https://github.com/besu-eth/besu/commit/85da9188ed4980173b6370fc8793f4fb36d0dc93) - 2026-10-22
+* [Review] [Review on: SNAP2: Add the header back-fill](https://github.com/besu-eth/besu/pull/11707#pullrequestreview-5628032907) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the body back-fill](https://github.com/besu-eth/besu/pull/11734#pullrequestreview-5628483534) - 2026-10-23
+* [Review] [Review on: SNAP2: Abort only the batches whose commit has not started](https://github.com/besu-eth/besu/pull/11733#pullrequestreview-5628114646) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the account, storage and bytecode requests of the state download](https://github.com/besu-eth/besu/pull/11731#pullrequestreview-5625948164) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the state diffs of the pivot moves](https://github.com/besu-eth/besu/pull/11730#pullrequestreview-5625733497) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the block ranges of the body back-fill](https://github.com/besu-eth/besu/pull/11706#pullrequestreview-5625602213) - 2026-10-23
+* [Issue] [Move per-block receipt and root work off the importing thread](https://github.com/besu-eth/besu/issues/11747) - 2026-10-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

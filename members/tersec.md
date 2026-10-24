@@ -26,6 +26,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump eth2 to v26.10.1 (#5001)](https://github.com/status-im/nimbus-eth1/commit/eab13c60fcbadd9716c24011c2c46f1a81ec0a26) - 2026-10-17
 * [Review] [Review on: evm: fix OverflowDefect in revert reason decoding](https://github.com/status-im/nimbus-eth1/pull/5025#pullrequestreview-5595262185) - 2026-10-21
 * [Review] [Review on: Run Amsterdam benchmark fixtures in eest_benchmark_test](https://github.com/status-im/nimbus-eth1/pull/5035#pullrequestreview-5610888405) - 2026-10-22
+* [Pull Request] [rm dependabot-bait](https://github.com/status-im/nimbus-eth1/pull/5073) - 2026-10-23
+* [Pull Request] [bump eth2 to v26.10.2](https://github.com/status-im/nimbus-eth1/pull/5065) - 2026-10-23
+* [Pull Request] [test with Nim 2.4](https://github.com/status-im/nimbus-eth1/pull/5066) - 2026-10-23
+* [Commit] [rm dependabot-bait (#5073)](https://github.com/status-im/nimbus-eth1/commit/49d70c859ee702193120dd90e368dcc8aaff16c4) - 2026-10-23
+* [Commit] [bump eth2 to v26.10.2 (#5065)](https://github.com/status-im/nimbus-eth1/commit/f673a5fc30eb16d42b080dc1def0b1dd97ddcf5e) - 2026-10-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
@@ -85,6 +90,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "don't re-request already-extant envelopes"](https://github.com/status-im/nimbus-eth2/pull/9347) - 2026-10-22
 * [Pull Request] [Revert "Bump nim-eth"](https://github.com/status-im/nimbus-eth2/pull/9348) - 2026-10-22
 * [Review] [Review on: add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285#pullrequestreview-5610845924) - 2026-10-22
+* [Commit] [version v26.10.2](https://github.com/status-im/nimbus-eth2/commit/0abc0dd0fc0750a8875c49089d074f7d7197b62c) - 2026-10-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

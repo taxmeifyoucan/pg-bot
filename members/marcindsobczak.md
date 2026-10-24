@@ -81,6 +81,28 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [test(txpool): fix flaky TxPool tests (#15032)](https://github.com/NethermindEth/nethermind/commit/8bceee84a233bd69b1ede7b6864658b35504add2) - 2026-10-22
 * [Commit] [test(rpc): fix flaky JsonRpc tests (#15038)](https://github.com/NethermindEth/nethermind/commit/69e22bcbc468a6959c77f3f1af5d0c259a2c8553) - 2026-10-22
 * [Commit] [test: fix flaky Shutter and Runner tests (#15050)](https://github.com/NethermindEth/nethermind/commit/c407e8ddcae17336e0de302da867884799750e5c) - 2026-10-22
+* [Review] [Review on: refactor(consensus): remove IRewardCalculatorSource](https://github.com/NethermindEth/nethermind/pull/15165#pullrequestreview-5632769225) - 2026-10-23
+* [Review] [Review on: fix(rpc): send pending responses after an IPC client closes its send side](https://github.com/NethermindEth/nethermind/pull/15162#pullrequestreview-5633243275) - 2026-10-23
+* [Review] [Review on: refactor(monitoring): make Nethermind.Monitoring a plugin](https://github.com/NethermindEth/nethermind/pull/15174#pullrequestreview-5633389471) - 2026-10-23
+* [Review] [Review on: feat(config)!: embed built-in configs as resources](https://github.com/NethermindEth/nethermind/pull/15171#pullrequestreview-5633379844) - 2026-10-23
+* [Review] [Review on: feat(rpc): report snap sync progress in eth_syncing](https://github.com/NethermindEth/nethermind/pull/15176#pullrequestreview-5632647204) - 2026-10-23
+* [Review] [Review on: refactor(network)!: remove Discovery.Bootnodes](https://github.com/NethermindEth/nethermind/pull/15167#pullrequestreview-5630243488) - 2026-10-23
+* [Review] [Review on: fix(docgen): document block transactions as hashes or full objects](https://github.com/NethermindEth/nethermind/pull/15178#pullrequestreview-5634334305) - 2026-10-23
+* [Review] [Review on: feat(logging): add option to mask IP addresses and enodes in logs](https://github.com/NethermindEth/nethermind/pull/15168#pullrequestreview-5632672118) - 2026-10-23
+* [Review] [Review on: fix(snapshot): probe range support with bytes=0-1](https://github.com/NethermindEth/nethermind/pull/15164#pullrequestreview-5630191750) - 2026-10-23
+* [Review] [Review on: perf(tracing): skip stack push reports for a prestate trace](https://github.com/NethermindEth/nethermind/pull/15183#pullrequestreview-5634344090) - 2026-10-23
+* [Review] [Review on: perf(tracing): apply debug_traceCall state overrides at the call without merkleizing them](https://github.com/NethermindEth/nethermind/pull/15182#pullrequestreview-5634326968) - 2026-10-23
+* [Review] [Review on: fix(merge): return the payload id before the empty block is built](https://github.com/NethermindEth/nethermind/pull/15180#pullrequestreview-5635257434) - 2026-10-23
+* [Review] [Review on: perf(evm): resolve the per-opcode gas cost tracers once per transaction](https://github.com/NethermindEth/nethermind/pull/15185#pullrequestreview-5634348250) - 2026-10-23
+* [Review] [Review on: fix(network): fetch full blobs when too few eth/72 peers to sample](https://github.com/NethermindEth/nethermind/pull/15179#pullrequestreview-5634356290) - 2026-10-23
+* [Review] [Review on: EIP-8253: read the targeted account list from the chain configuration](https://github.com/NethermindEth/nethermind/pull/15175#pullrequestreview-5632665804) - 2026-10-23
+* [Review] [Review on: perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121#pullrequestreview-5632695514) - 2026-10-23
+* [Pull Request] [test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143) - 2026-10-23
+* [Pull Request] [perf(merge): write the newPayload Received line after the block is queued](https://github.com/NethermindEth/nethermind/pull/15153) - 2026-10-23
+* [Review] [Review on: perf(merge): write the newPayload Received line after the block is queued](https://github.com/NethermindEth/nethermind/pull/15153#pullrequestreview-5628302813) - 2026-10-23
+* [Pull Request] [fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155) - 2026-10-23
+* [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5626733893) - 2026-10-23
+* [Commit] [test(prewarm): fix flaky ConsumerScope_Opening pre-warmer tests (#15144)](https://github.com/NethermindEth/nethermind/commit/2da902d4fd1255e842d1629948e7ce3474981577) - 2026-10-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

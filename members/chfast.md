@@ -69,6 +69,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [execution/exec, execution/state, execution/tests: remove a touched empty account before the next tx](https://github.com/erigontech/erigon/pull/25240) - 2026-10-22
 * [Issue] [execution/stagedsync: the fee re-merge rewrites the coinbase balance cell at an unchanged version](https://github.com/erigontech/erigon/issues/25229) - 2026-10-22
 * [Issue] [execution/state: the validator accepts a MapRead record on version equality alone](https://github.com/erigontech/erigon/issues/25228) - 2026-10-22
+* [Pull Request] [execution/engineapi: check the payload header against its parent before the transaction work](https://github.com/erigontech/erigon/pull/25299) - 2026-10-24
+* [Pull Request] [execution/engineapi, execution/protocol/mdgas: reject a payload with more transactions than its gas limit allows](https://github.com/erigontech/erigon/pull/25176) - 2026-10-24
+* [Pull Request] [execution/bal, execution/stagedsync: validate the block access list of a block resumed mid-block](https://github.com/erigontech/erigon/pull/25169) - 2026-10-23
+* [Review] [Review on: execution/exec, execution/state, execution/tests: remove a touched empty account before the next tx](https://github.com/erigontech/erigon/pull/25240#pullrequestreview-5630490382) - 2026-10-23
+* [Commit] [execution/engineapi, execution/protocol/mdgas: reject a payload with more transactions than its gas limit allows (#25176)](https://github.com/erigontech/erigon/commit/5be144180858a8da5537f3037b212a74961d0711) - 2026-10-23
+* [Commit] [execution/bal, execution/stagedsync: validate the block access list of a block resumed mid-block (#25169)](https://github.com/erigontech/erigon/commit/0a7733e2a8d4d5b4f4353e11fe09871a97577004) - 2026-10-23
+* [Commit] [execution/state: re-read an account field whose cell appears during a fallback probe (#24874)](https://github.com/erigontech/erigon/commit/c50745e7159117d3124c7076e028b400feb13044) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -140,6 +147,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [keccak: Use Armv8.2 SHA3 instructions on Apple silicon (#1773)](https://github.com/ipsilon/evmone/commit/763bb899d8d2088cc2f346f4c4be6c6e69dde94e) - 2026-10-22
 * [Commit] [keccak: Use std::rotl (#1774)](https://github.com/ipsilon/evmone/commit/2e98da43913a02f467956e8ac3099d87edd136bf) - 2026-10-22
 * [Commit] [ci: Add native riscv64 build on GitHub Actions (#1772)](https://github.com/ipsilon/evmone/commit/f977b199657957577c8370427342a52b719b8ce1) - 2026-10-22
+* [Pull Request] [cmake: Build with -fcf-protection=return on Linux x86-64](https://github.com/ipsilon/evmone/pull/649) - 2026-10-23
+* [Commit] [cmake: Build with -fcf-protection=return on Linux x86-64 (#649)](https://github.com/ipsilon/evmone/commit/ffb01f26a0c29e7a7e88e598f4fcd94c8460fb6f) - 2026-10-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

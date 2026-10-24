@@ -33,6 +33,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Bonsai: cache committed trie nodes, stop re-hashing preloaded ones](https://github.com/besu-eth/besu/pull/11382#pullrequestreview-5580848209) - 2026-10-20
 * [Review] [Review on: changelog for 26.10.1](https://github.com/besu-eth/besu/pull/11725#pullrequestreview-5622223768) - 2026-10-22
 * [Review] [Review on: SNAP2: Add the key ranges and storage tasks of the state download](https://github.com/besu-eth/besu/pull/11700#pullrequestreview-5610540457) - 2026-10-22
+* [Review] [Review on: fix(eth): reject unordered pooled transaction responses](https://github.com/besu-eth/besu/pull/11551#pullrequestreview-5624879418) - 2026-10-23
+* [Pull Request] [refactor(bonsai-archive): build archive components via BonsaiArchiveFactory](https://github.com/besu-eth/besu/pull/11729) - 2026-10-23
 ## Q3 2026
 
 

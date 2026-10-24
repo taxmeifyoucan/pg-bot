@@ -24,6 +24,8 @@ Team: Grandine
 * [Pull Request] [Revert "Schedule Gloas fork activation on Hoodi"](https://github.com/grandinetech/grandine/pull/1006) - 2026-10-22
 * [Commit] [Revert "Schedule Gloas fork activation on Hoodi"](https://github.com/grandinetech/grandine/commit/70f01e0906d369a9269f73df94ae6d7de10e23e8) - 2026-10-22
 * [Commit] [Updated documentation](https://github.com/grandinetech/grandine/commit/d7ca055e822bba1586238ebf11ef43fc3f8d8803) - 2026-10-22
+* [Pull Request] [Update crate](https://github.com/grandinetech/grandine/pull/1007) - 2026-10-23
+* [Commit] [Update crate](https://github.com/grandinetech/grandine/commit/a63876249043020d8ebe3d410c5cf31b19be1cc2) - 2026-10-23
 ## Q3 2026
 
 

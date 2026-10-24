@@ -59,6 +59,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5585315172) - 2026-10-20
 * [Review] [Review on: Require uv 0.13.4 or newer to avoid a compromised root CA](https://github.com/ethereum/consensus-specs/pull/5752#pullrequestreview-5602369828) - 2026-10-21
 * [Review] [Review on: Add a note about `ExecutionRequests` change](https://github.com/ethereum/consensus-specs/pull/5703#pullrequestreview-5599735193) - 2026-10-21
+* [Pull Request] [Fix EIP number in `get_consolidation_churn_limit` docstrings](https://github.com/ethereum/consensus-specs/pull/5758) - 2026-10-23
+* [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5629673834) - 2026-10-23
+* [Review] [Review on: Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756#pullrequestreview-5629559546) - 2026-10-23
+* [Commit] [Fix EIP number in `get_consolidation_churn_limit` docstrings (#5758)](https://github.com/ethereum/consensus-specs/commit/b834fa8411cb2152563e8835c5b72c28f7503e7a) - 2026-10-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 
@@ -68,6 +72,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Correct Glamsterdam activation tables in EIP-7773 and EIP-8081](https://github.com/ethereum/EIPs/pull/12557#pullrequestreview-5592165688) - 2026-10-20
+* [Review] [Review on: Update EIP-8061: fix activation cap unit and align constant name with the spec](https://github.com/ethereum/EIPs/pull/12575#pullrequestreview-5630699655) - 2026-10-23
+* [Review] [Review on: Update EIP-8282: require the builder credential prefix and document locked funds](https://github.com/ethereum/EIPs/pull/12572#pullrequestreview-5630644214) - 2026-10-23
 ## Q3 2026
 
 

@@ -66,6 +66,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Unschedule Hoodi Glamsterdam activation](https://github.com/status-im/nimbus-eth1/pull/5059) - 2026-10-23
 * [Pull Request] [evmstate handle tx decode exception](https://github.com/status-im/nimbus-eth1/pull/5037) - 2026-10-22
 * [Commit] [evmstate handle tx decode exception (#5037)](https://github.com/status-im/nimbus-eth1/commit/c1ea5b11c67d8c336675a868f22780834416e933) - 2026-10-22
+* [Review] [Review on: [hegota-devnet-1] EIP-8298: SETCODEFROM Code Reuse Instruction](https://github.com/status-im/nimbus-eth1/pull/5020#pullrequestreview-5623492929) - 2026-10-23
+* [Commit] [Unschedule Hoodi Glamsterdam activation (#5059)](https://github.com/status-im/nimbus-eth1/commit/dca7bb98920169300378603b3ade38df5a16c171) - 2026-10-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

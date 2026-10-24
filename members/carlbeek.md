@@ -13,6 +13,7 @@ Team: Consensus R&D (EF)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8198: target 10-second slots and align with the reference specs](https://github.com/ethereum/EIPs/pull/12217#pullrequestreview-5577599061) - 2026-10-19
+* [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5628565011) - 2026-10-23
 ## Q3 2026
 
 

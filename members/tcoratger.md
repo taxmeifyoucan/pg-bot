@@ -251,6 +251,61 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(multilinear-util): build Point equality weights with the tensor builder (#2497)](https://github.com/Plonky3/Plonky3/commit/abaa778dfc67fd7cfbd8d0245e9558f9b8b5f855) - 2026-10-22
 * [Commit] [fix(challenger): grind for the smallest proof-of-work witness (#2517)](https://github.com/Plonky3/Plonky3/commit/8abbf90f4ccfe99d3404d8fba598a57f918f6349) - 2026-10-22
 * [Commit] [perf(flock): faster and 128-bit composed bit commitment (#2482)](https://github.com/Plonky3/Plonky3/commit/c141355a26edc76e184920544f3bb68ce1f804f6) - 2026-10-22
+* [Pull Request] [fix(commit): name the panic when the selector coset meets the subgroup](https://github.com/Plonky3/Plonky3/pull/2568) - 2026-10-23
+* [Pull Request] [fix(challenger): reject a multi-field sponge too small to squeeze a sample](https://github.com/Plonky3/Plonky3/pull/2569) - 2026-10-23
+* [Pull Request] [fix(symmetric): pad a full final block of the cross-field sponge before permuting it](https://github.com/Plonky3/Plonky3/pull/2563) - 2026-10-23
+* [Pull Request] [fix(whir, keccak-air, binary-pcs, batch-stark): folded domains, query PoW, Keccak AIR field requirement, overflowing mixed-table widths, selectors in lookup counts](https://github.com/Plonky3/Plonky3/pull/2577) - 2026-10-23
+* [Pull Request] [fix(matrix): check the row length when packing a row](https://github.com/Plonky3/Plonky3/pull/2561) - 2026-10-23
+* [Pull Request] [fix(matrix): keep stacked pair reads inside both matrices](https://github.com/Plonky3/Plonky3/pull/2560) - 2026-10-23
+* [Review] [Review on: fix(matrix): keep stacked pair reads inside both matrices](https://github.com/Plonky3/Plonky3/pull/2560#pullrequestreview-5629345705) - 2026-10-23
+* [Pull Request] [fix(zk-codes): reject query positions outside the codeword in the simulator](https://github.com/Plonky3/Plonky3/pull/2565) - 2026-10-23
+* [Pull Request] [fix(binary): explicit binary-DFT domains of 64 or more dimensions](https://github.com/Plonky3/Plonky3/pull/2576) - 2026-10-23
+* [Pull Request] [fix(stark)!: lookups over periodic columns, and the selector values the STARK uses](https://github.com/Plonky3/Plonky3/pull/2575) - 2026-10-23
+* [Pull Request] [fix(pcs, stark, binary)!: STIR soundness pricing, prover panics, FRI zero-point openings, periodic-column lookups, selector values, wide binary-DFT domains](https://github.com/Plonky3/Plonky3/pull/2574) - 2026-10-23
+* [Pull Request] [fix(sumcheck): check the point width before splitting off a claim's Boolean prefix](https://github.com/Plonky3/Plonky3/pull/2573) - 2026-10-23
+* [Pull Request] [fix(multilinear-util): scale the constant shortcuts of the factored table](https://github.com/Plonky3/Plonky3/pull/2571) - 2026-10-23
+* [Pull Request] [fix(multilinear-util): check the point arity when evaluating a polynomial](https://github.com/Plonky3/Plonky3/pull/2570) - 2026-10-23
+* [Pull Request] [fix(air): count every transition factor in the constraint degree](https://github.com/Plonky3/Plonky3/pull/2566) - 2026-10-23
+* [Review] [Review on: fix(air): count every transition factor in the constraint degree](https://github.com/Plonky3/Plonky3/pull/2566#pullrequestreview-5631811574) - 2026-10-23
+* [Pull Request] [fix(dft): ignore values past the last row in the small-batch transforms](https://github.com/Plonky3/Plonky3/pull/2564) - 2026-10-23
+* [Pull Request] [fix(security): decide compute_upper_m's strict bound in integers](https://github.com/Plonky3/Plonky3/pull/2555) - 2026-10-23
+* [Review] [Review on: fix(security): decide compute_upper_m's strict bound in integers](https://github.com/Plonky3/Plonky3/pull/2555#pullrequestreview-5629293241) - 2026-10-23
+* [Pull Request] [docs(security): the DEEP list-size choice can set the reported level](https://github.com/Plonky3/Plonky3/pull/2557) - 2026-10-23
+* [Review] [Review on: docs(security): the DEEP list-size choice can set the reported level](https://github.com/Plonky3/Plonky3/pull/2557#pullrequestreview-5629584824) - 2026-10-23
+* [Pull Request] [fix(matrix): handle matrices with no columns and batches with no vectors](https://github.com/Plonky3/Plonky3/pull/2562) - 2026-10-23
+* [Pull Request] [fix(matrix): reject overflowing sizes and out-of-range rows](https://github.com/Plonky3/Plonky3/pull/2553) - 2026-10-23
+* [Review] [Review on: fix(matrix): reject overflowing sizes and out-of-range rows](https://github.com/Plonky3/Plonky3/pull/2553#pullrequestreview-5626983977) - 2026-10-23
+* [Pull Request] [fix(commit): make the trivial PCS meet the PCS contract](https://github.com/Plonky3/Plonky3/pull/2567) - 2026-10-23
+* [Pull Request] [fix(dft): harden transforms against edge-case inputs](https://github.com/Plonky3/Plonky3/pull/2552) - 2026-10-23
+* [Review] [Review on: fix(dft): harden transforms against edge-case inputs](https://github.com/Plonky3/Plonky3/pull/2552#pullrequestreview-5626992332) - 2026-10-23
+* [Pull Request] [fix(security): size the WHIR fold PoW against the sum of both fold errors](https://github.com/Plonky3/Plonky3/pull/2556) - 2026-10-23
+* [Pull Request] [docs(security): justify the list-decoding FRI bounds by their theorems](https://github.com/Plonky3/Plonky3/pull/2558) - 2026-10-23
+* [Review] [Review on: docs(security): justify the list-decoding FRI bounds by their theorems](https://github.com/Plonky3/Plonky3/pull/2558#pullrequestreview-5629544352) - 2026-10-23
+* [Review] [Review on: chore: deprecate selected crates in v0.9.0](https://github.com/Plonky3/Plonky3/pull/2559#pullrequestreview-5627488195) - 2026-10-23
+* [Pull Request] [test(keccak): check Keccak-256 against an independent implementation, and every SIMD lane against the scalar permutation](https://github.com/Plonky3/Plonky3/pull/2572) - 2026-10-23
+* [Review] [Review on: fix(binary-field): fold the rows past the last whole stripe in fold_rows](https://github.com/Plonky3/Plonky3/pull/2548#pullrequestreview-5627018493) - 2026-10-23
+* [Pull Request] [docs(dft): correct stale and incomplete transform docs](https://github.com/Plonky3/Plonky3/pull/2554) - 2026-10-23
+* [Pull Request] [fix(dft): enforce butterfly row contracts](https://github.com/Plonky3/Plonky3/pull/2551) - 2026-10-23
+* [Commit] [fix(commit): name the panic when the selector coset meets the subgroup (#2568)](https://github.com/Plonky3/Plonky3/commit/071b7314e318447dda9e8cdfa58f36f651e84055) - 2026-10-24
+* [Commit] [fix(challenger): reject a multi-field sponge too small to squeeze a sample (#2569)](https://github.com/Plonky3/Plonky3/commit/9c4650602d9c658eee8f072318c94376c2354d6f) - 2026-10-24
+* [Commit] [fix(symmetric): pad a full final block of the cross-field sponge before permuting it (#2563)](https://github.com/Plonky3/Plonky3/commit/bf00f6278e0fde4725520bb726d28df4cb0a3e58) - 2026-10-23
+* [Commit] [fix(matrix): check the row length when packing a row (#2561)](https://github.com/Plonky3/Plonky3/commit/470764616c7f1df54aab0fefeadb9e0789ec2fa0) - 2026-10-23
+* [Commit] [fix(matrix): keep stacked pair reads inside both matrices (#2560)](https://github.com/Plonky3/Plonky3/commit/ee639af82453931ff86f614b9a835b60227893fc) - 2026-10-23
+* [Commit] [fix(zk-codes): reject query positions outside the codeword in the simulator (#2565)](https://github.com/Plonky3/Plonky3/commit/dc89afa5258580fef71daa44f928c116b624a351) - 2026-10-23
+* [Commit] [fix(matrix): reject overflowing sizes and out-of-range rows (#2553)](https://github.com/Plonky3/Plonky3/commit/4ff9271ba5260a61e4d95b25661c65bc5a6dfb3a) - 2026-10-23
+* [Commit] [fix(dft): harden transforms against edge-case inputs (#2552)](https://github.com/Plonky3/Plonky3/commit/bed45106488b3bda6ab831cced48f3ebe4cbbef6) - 2026-10-23
+* [Commit] [fix(mersenne-31): bound the dot product length its accumulator relies on (#2540)](https://github.com/Plonky3/Plonky3/commit/b730366c00cf7481985b2899f1f479ceea0f35d3) - 2026-10-23
+* [Commit] [fix(security): size the WHIR fold PoW against the sum of both fold errors (#2556)](https://github.com/Plonky3/Plonky3/commit/8f92a386a285a29bbaa7d3f416117e8bc8b8ad9a) - 2026-10-23
+* [Commit] [docs(security): justify the list-decoding FRI bounds by their theorems (#2558)](https://github.com/Plonky3/Plonky3/commit/c292ce1e12f617bf65c9c9ff49f4bea7e84f58e7) - 2026-10-23
+* [Commit] [fix(binary-field): fold the rows past the last whole stripe in fold_rows (#2548)](https://github.com/Plonky3/Plonky3/commit/33c6345ba73fd8b48b686426d22d82bf5df98d1b) - 2026-10-23
+* [Commit] [docs(dft): correct stale and incomplete transform docs (#2554)](https://github.com/Plonky3/Plonky3/commit/0571a851d96b164162fb617a3b1ba5c9b0388d78) - 2026-10-23
+* [Commit] [fix(dft): enforce butterfly row contracts (#2551)](https://github.com/Plonky3/Plonky3/commit/e416f330151ad2ce544e77aa45a2243d3963e23d) - 2026-10-23
+* [Commit] [perf(bitz): low-entropy grand-product rounds off the packed bits (#2521)](https://github.com/Plonky3/Plonky3/commit/7d86ed0890f8fa228692d63d9f8615540d2a594c) - 2026-10-23
+* [Commit] [feat(bitz): linear claims on committed bits through a grand product in the exponent (#2518)](https://github.com/Plonky3/Plonky3/commit/906ed7a3978e40de1e46e094c4469fb728ca042d) - 2026-10-23
+* [Commit] [fix(binary-field): state how BinaryChallenger reads the sub-byte levels (#2549)](https://github.com/Plonky3/Plonky3/commit/927ab2374206d742d7f7cd827f8359af07825afd) - 2026-10-23
+* [Commit] [docs(mersenne-31): state the checked conversion ranges the code implements (#2538)](https://github.com/Plonky3/Plonky3/commit/7a438edb4eeeb2c64655d8dfd75157f269c193af) - 2026-10-23
+* [Commit] [fix(mersenne-31): accept the documented range in from_canonical_unchecked (#2537)](https://github.com/Plonky3/Plonky3/commit/a1ff1b14e5fb26eb46a0b840432a4326092fb197) - 2026-10-23
+* [Commit] [fix(goldilocks): check the dot product length without truncating it (#2535)](https://github.com/Plonky3/Plonky3/commit/005b16f55d25fc2509c26416852e5c16b3a86204) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

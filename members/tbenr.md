@@ -91,6 +91,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [upgrade libp2p to 1.4.0](https://github.com/Consensys-Incorporated/teku/pull/11565) - 2026-10-22
 * [Commit] [Unschedule Gloas fork on Hoodi (#11566)](https://github.com/Consensys-Incorporated/teku/commit/041ee3740db683d6d175154c557af8e6ac64b49b) - 2026-10-22
 * [Commit] [upgrade libp2p to 1.4.0 (#11565)](https://github.com/Consensys-Incorporated/teku/commit/77aa8f474bc5c4515182323ed2d510690656136a) - 2026-10-22
+* [Review] [Review on: DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508#pullrequestreview-5626576677) - 2026-10-23
+* [Pull Request] [Close inbound RPC streams whose response cannot be written](https://github.com/Consensys-Incorporated/teku/pull/11569) - 2026-10-23
+* [Review] [Review on: Keep the finalized anchor DAS tracker alive while its payload is recovered](https://github.com/Consensys-Incorporated/teku/pull/11553#pullrequestreview-5625236772) - 2026-10-23
+* [Issue] [Gloas: EL-invalid envelope blocks the correct envelope for the same block](https://github.com/Consensys-Incorporated/teku/issues/11568) - 2026-10-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 
@@ -111,6 +115,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Gossip score: cache the per-peer sum of topic scores (breaking: topicParams is read-only) (#542)](https://github.com/libp2p/jvm-libp2p/commit/86addbe49b7fae68580291066a37fedc875f4f59) - 2026-10-21
 * [Commit] [Use the JDK's intrinsified SHA-256 for pubsub message digests (#544)](https://github.com/libp2p/jvm-libp2p/commit/4658f22ff4e54c15a854f487031bcfa17e450b7f) - 2026-10-21
 * [Review] [Review on: Release 1.4.0](https://github.com/libp2p/jvm-libp2p/pull/546#pullrequestreview-5610800578) - 2026-10-22
+* [Pull Request] [Close a QUIC stream once both sides have finished writing](https://github.com/libp2p/jvm-libp2p/pull/548) - 2026-10-23
 ## Q3 2026
 
 

@@ -26,6 +26,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(era): keep stored headers consistent when importing era files](https://github.com/NethermindEth/nethermind/pull/15092#pullrequestreview-5615715726) - 2026-10-22
 * [Review] [Review on: perf(blockchain): keep the block RLP length from validation to RPC](https://github.com/NethermindEth/nethermind/pull/15071#pullrequestreview-5615855720) - 2026-10-22
 * [Review] [Review on: perf(taiko): estimate a transaction's compressed size once per batch boundary](https://github.com/NethermindEth/nethermind/pull/15100#pullrequestreview-5615665720) - 2026-10-22
+* [Review] [Review on: refactor(init): remove Init.MemoryHint and use fixed memory defaults](https://github.com/NethermindEth/nethermind/pull/15154#pullrequestreview-5627521742) - 2026-10-23
 ## Q3 2026
 
 

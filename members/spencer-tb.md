@@ -101,6 +101,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `heze-devnet@v3.0.0`](https://github.com/ethereum/execution-specs/issues/3891) - 2026-10-22
 * [Issue] [EIP-8151 Implementation Tracker: Account Code Restricted ecRecover](https://github.com/ethereum/execution-specs/issues/3890) - 2026-10-22
 * [Commit] [feat(tooling,ci): announce releases to hive-tests after publishing their images (#3883)](https://github.com/ethereum/execution-specs/commit/a72c272b2f9a24b0f90fd39b696e6be9a57038eb) - 2026-10-22
+* [Pull Request] [feat(tests): test EIP-8298 against EIP-4758 and EIP-8151](https://github.com/ethereum/execution-specs/pull/3903) - 2026-10-23
+* [Pull Request] [feat(tests): test EIP-4758 SENDALL in EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3904) - 2026-10-23
+* [Review] [Review on: feat(test-forks): generate BPO increase and decrease scenarios for every fork from Amsterdam](https://github.com/ethereum/execution-specs/pull/3597#pullrequestreview-5635289838) - 2026-10-23
+* [Review] [Review on: fix(tests,test-client-clis,test-evm-tools): address the EIP-8141 merge review](https://github.com/ethereum/execution-specs/pull/3901#pullrequestreview-5634007508) - 2026-10-23
+* [Pull Request] [feat(tests): adapt the EIP-8250 tests to the rebased EIP-8141 branch](https://github.com/ethereum/execution-specs/pull/3897) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -126,6 +131,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-8141: specify GASPRICE under the max_fee budget](https://github.com/ethereum/EIPs/pull/12569) - 2026-10-22
 * [Review] [Review on: Update EIP-8298: Add adoption guidance to Security Considerations](https://github.com/ethereum/EIPs/pull/12564#pullrequestreview-5618801855) - 2026-10-22
 * [Commit] [Update EIP-8141: specify GASPRICE under the max_fee budget](https://github.com/ethereum/EIPs/commit/f1bcca1b56ee91fe115d2a8d8fd731fd6ca38bb3) - 2026-10-22
+* [Review] [Review on: Update EIP-7723: Allow SFI decisions on ACDT](https://github.com/ethereum/EIPs/pull/12570#pullrequestreview-5628326435) - 2026-10-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5462620440) - 2026-10-08
 

@@ -18,6 +18,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/seg: fix compressor hang on superstrings send after ctx cancel](https://github.com/erigontech/erigon/pull/24962) - 2026-10-16
 * [Pull Request] [[tiering v2 - 13] db/state, execution/stagedsync, node: background demotion of cold commitment files](https://github.com/erigontech/erigon/pull/25055) - 2026-10-19
 * [Commit] [db/seg: fix compressor hang on superstrings send after ctx cancel (#24962)](https://github.com/erigontech/erigon/commit/b2f3fb11d2bc11cddf4194c46193a1b095f87035) - 2026-10-19
+* [Pull Request] [[tiering v2 - 14.1]  pre-EIP-8246 (remove selfdestruct burn) BAL burn fix and offline-BAL store repair](https://github.com/erigontech/erigon/pull/25266) - 2026-10-23
 ## Q3 2026
 
 
