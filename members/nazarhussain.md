@@ -58,6 +58,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: use fake timers instead of Date.now spies (#10440)](https://github.com/ChainSafe/lodestar/commit/ab56d90f0c0964da6bd7a66d0b38bd54cbe42dbd) - 2026-10-19
 * [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5588266928) - 2026-10-20
 * [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5588095817) - 2026-10-20
+* [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-5722602598) - 2026-10-31
+* [Review] [Review on: fix(api): keep timeout signals local to retry attempts](https://github.com/ChainSafe/lodestar/pull/10526#pullrequestreview-5722526370) - 2026-10-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

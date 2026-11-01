@@ -202,6 +202,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(receipts): do not cache receipts recovered without senders (#14668)](https://github.com/NethermindEth/nethermind/commit/bdc4fc9fb6e387cbaa2d69bdfe13c15515d8dd82) - 2026-10-19
 * [Pull Request] [chore: update Directory.Build.props for 2.2.1](https://github.com/NethermindEth/nethermind/pull/15126) - 2026-10-22
 * [Commit] [fix(specs): deschedule Hoodi Amsterdam fork (#15110)](https://github.com/NethermindEth/nethermind/commit/6e1ada8873d1c620c34b75327c5cbf3624237153) - 2026-10-22
+* [Pull Request] [test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416) - 2026-11-01
+* [Review] [Review on: test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416#pullrequestreview-5721102089) - 2026-10-31
+* [Commit] [test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip (#15416)](https://github.com/NethermindEth/nethermind/commit/36a931cee42383e939093ea1a91aae03640db0e2) - 2026-11-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

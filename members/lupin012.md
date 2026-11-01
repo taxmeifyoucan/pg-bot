@@ -183,6 +183,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen, rpc_perf: write and replay JSONL patterns (#633)](https://github.com/erigontech/rpc-tests/commit/c1ec692b602fdfeee64ec3e5e3db5d5267f9812c) - 2026-10-22
 * [Commit] [rpc_pattern_convert: convert Vegeta patterns to JSONL (#634)](https://github.com/erigontech/rpc-tests/commit/fc4a0c6a944361446bddcd9549d5f2359f95436a) - 2026-10-22
 * [Commit] [perf/pattern: describe the directories and the historical patterns, add heavy_parent.jsonl and eth_call_2000000.jsonl (#641)](https://github.com/erigontech/rpc-tests/commit/cf4e29d016f6747153d388c1ebe249aed491dfee) - 2026-10-23
+* [Pull Request] [rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile](https://github.com/erigontech/rpc-tests/pull/645) - 2026-10-31
+* [Pull Request] [rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644) - 2026-10-31
+* [Commit] [rpc_pattern_gen: generate debug_traceBlockByNumber requests (#644)](https://github.com/erigontech/rpc-tests/commit/31e3bd31e8ae1df6fcb8cad4b4323c16801f3c0c) - 2026-10-31
 ## Q3 2026
 
 

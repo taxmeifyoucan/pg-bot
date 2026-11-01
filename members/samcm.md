@@ -86,6 +86,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/pull/929#pullrequestreview-5596796575) - 2026-10-21
 * [Pull Request] [fix(consumoor): retry transient ClickHouse write failures in place instead of nacking](https://github.com/ethpandaops/xatu/pull/930) - 2026-10-23
 * [Commit] [fix(consumoor): retry transient ClickHouse write failures in place instead of nacking (#930)](https://github.com/ethpandaops/xatu/commit/0f39220df8384985b618ee7f36ea3de57be6604b) - 2026-10-23
+* [Pull Request] [perf(cannon): run phase0 reward backfill batches with parallel workers](https://github.com/ethpandaops/xatu/pull/937) - 2026-10-31
+* [Commit] [perf(cannon): run phase0 reward backfill batches with parallel workers (#937)](https://github.com/ethpandaops/xatu/commit/fca771c89e4bf3db71768c14193308bdf5a3fd60) - 2026-10-31
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -135,6 +137,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [style: design system polish (cards, radius, controls, type, surfaces, charts)](https://github.com/ethpandaops/lab/pull/458) - 2026-10-21
 * [Commit] [style: design system polish (cards, radius, controls, type, surfaces, charts) (#458)](https://github.com/ethpandaops/lab/commit/a1819fb1df7dfd2d4a676a638e1cabe4a211d60a) - 2026-10-22
+* [Pull Request] [feat(clients): show every client with its logo and colour, including legends](https://github.com/ethpandaops/lab/pull/466) - 2026-10-31
+* [Commit] [feat(clients): show every client with its logo and colour, including legends (#466)](https://github.com/ethpandaops/lab/commit/3ac237949bf4a8fc79383355043e76119f7cc867) - 2026-10-31
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

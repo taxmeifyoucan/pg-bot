@@ -200,6 +200,19 @@ Team: Erigon
 * [Review] [Review on: cl/phase1/network/services, cl/phase1/forkchoice: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25208#pullrequestreview-5624165747) - 2026-10-23
 * [Review] [Review on: [r3.8] cl: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25213#pullrequestreview-5624164823) - 2026-10-23
 * [Review] [Review on: [r3.8] cl: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25197#pullrequestreview-5624166155) - 2026-10-23
+* [Review] [Review on: rpc/jsonrpc: return block-level log indexes from erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/25573#pullrequestreview-5722567312) - 2026-10-31
+* [Review] [Review on: cmd/evm: enginextest --fgprof survives a request shorter than one sample](https://github.com/erigontech/erigon/pull/25610#pullrequestreview-5722100367) - 2026-10-31
+* [Review] [Review on: execution: charge the sender of a value call or creation at validation](https://github.com/erigontech/erigon/pull/25601#pullrequestreview-5722086726) - 2026-10-31
+* [Review] [Review on: cl/das, cl/rpc: ban peers serving invalid columns and blocks below the grace threshold](https://github.com/erigontech/erigon/pull/25557#pullrequestreview-5722058690) - 2026-10-31
+* [Pull Request] [txpool, engineapi: reuse validation-time KZG cells in getBlobsV4](https://github.com/erigontech/erigon/pull/25628) - 2026-10-31
+* [Pull Request] [execution/stagedsync: widen the BAL dispatch window from 32 to 128](https://github.com/erigontech/erigon/pull/25620) - 2026-10-31
+* [Review] [Review on: execution/stagedsync: skip arrival validation when no lower tx wrote since the worker validated](https://github.com/erigontech/erigon/pull/25559#pullrequestreview-5723016755) - 2026-10-31
+* [Issue] [execution/commitment: HexPatriciaHashed returns the empty root on an absent delete with a single leaf](https://github.com/erigontech/erigon/issues/25625) - 2026-10-31
+* [Issue] [execution/state: MarkWritesValidated demotes BAL-seeded Done cells to Validated](https://github.com/erigontech/erigon/issues/25623) - 2026-10-31
+* [Commit] [cl/phase1/network: keep block ranges in flight in the backward beacon downloader (#25417)](https://github.com/erigontech/erigon/commit/b1d7c412b2b200a2e990236f3f38e0bf091dd909) - 2026-10-31
+* [Commit] [execution/p2p: reload header walk peers when all are exhausted and keep header ranges in flight (#25414)](https://github.com/erigontech/erigon/commit/5d33ddddb66d313a4a69d366ee310817ae142428) - 2026-10-31
+* [Commit] [db/snapshotsync: take caplin SegmentsMax from the visible set, as EL does (#25487)](https://github.com/erigontech/erigon/commit/f3dc056a1217dd1b68bec46a7ccedde20300e377) - 2026-10-31
+* [Commit] [db/state, cmd/integration: step-aligned commitment rebuild that writes whole steps to files (#25517)](https://github.com/erigontech/erigon/commit/19927231ca586699bc6d4e2bfc38f4df33c7ea74) - 2026-10-31
 ## Q3 2026
 
 

@@ -168,6 +168,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: SNAP2: Add the state diffs of the pivot moves](https://github.com/besu-eth/besu/pull/11730#pullrequestreview-5625733497) - 2026-10-23
 * [Review] [Review on: SNAP2: Add the block ranges of the body back-fill](https://github.com/besu-eth/besu/pull/11706#pullrequestreview-5625602213) - 2026-10-23
 * [Issue] [Move per-block receipt and root work off the importing thread](https://github.com/besu-eth/besu/issues/11747) - 2026-10-23
+* [Pull Request] [Check gasUsed of empty Amsterdam blocks in light body validation](https://github.com/besu-eth/besu/pull/11800) - 2026-10-31
+* [Pull Request] [Cut the overhead of importing large BAL blocks of transfers](https://github.com/besu-eth/besu/pull/11821) - 2026-10-31
+* [Commit] [Check gasUsed of empty Amsterdam blocks in light body validation (#11800)](https://github.com/besu-eth/besu/commit/1a2ef1b759daf4573f1eec1591a7e7c6b6352be7) - 2026-10-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

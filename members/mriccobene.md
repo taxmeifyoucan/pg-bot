@@ -38,6 +38,7 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen, rpc_perf: write and replay JSONL patterns](https://github.com/erigontech/rpc-tests/pull/633#pullrequestreview-5610384006) - 2026-10-22
 * [Review] [Review on: rpc_pattern_convert: convert Vegeta patterns to JSONL](https://github.com/erigontech/rpc-tests/pull/634#pullrequestreview-5610385542) - 2026-10-22
 * [Review] [Review on: .claude/skills: add perf-pattern-add, rpc-perf-run and rpc-int-run](https://github.com/erigontech/rpc-tests/pull/637#pullrequestreview-5610390993) - 2026-10-22
+* [Review] [Review on: rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644#pullrequestreview-5722002226) - 2026-10-31
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -48,6 +49,7 @@ Team: Erigon
 * [Review] [Review on: .github/workflows: pass --process-name rpcdaemon to rpc_perf only for erigon](https://github.com/erigontech/erigon/pull/24974#pullrequestreview-5550179662) - 2026-10-16
 * [Commit] [qa-tests: upgrade lighthouse version to v8.3.0 (#25157)](https://github.com/erigontech/erigon/commit/1012dbba65f03127391a48314ea0ab5a9598f221) - 2026-10-22
 * [Review] [Review on: Update LIGHTHOUSE_VERSION to v8.3.2](https://github.com/erigontech/erigon/pull/25247#pullrequestreview-5626685302) - 2026-10-23
+* [Commit] [qa-tests: simplifiy and improve rpc perf test workflow (#25616)](https://github.com/erigontech/erigon/commit/3f3d25765ebae14a4a883f136384482f054c22ce) - 2026-10-31
 ## Q3 2026
 
 

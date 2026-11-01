@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix: use empty finalized header when finalized_block_root is zero](https://github.com/sigp/lighthouse/pull/9865#pullrequestreview-5618671991) - 2026-10-22
 * [Review] [Review on: fix lc_is_latest](https://github.com/sigp/lighthouse/pull/9903#pullrequestreview-5618566818) - 2026-10-22
 * [Review] [Review on: Add light client data collection ef test handler (draft)](https://github.com/sigp/lighthouse/pull/9666#pullrequestreview-5615306025) - 2026-10-22
+* [Review] [Review on: Add light client data collection ef test handler (draft)](https://github.com/sigp/lighthouse/pull/9666#pullrequestreview-5721709947) - 2026-10-31
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Store full finalized_checkpoint in CachedLightClientData](https://github.com/status-im/nimbus-eth2/pull/9161) - 2026-10-01
 * [Review] [Review on: Preserve negative peer score across reconnections](https://github.com/status-im/nimbus-eth2/pull/8446#pullrequestreview-5379557227) - 2026-10-01

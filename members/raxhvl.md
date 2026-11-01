@@ -19,6 +19,8 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
 
+* [Pull Request] [Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/pull/12603) - 2026-10-31
+* [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5723209718) - 2026-10-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956) - 2026-10-23
 ## Q3 2026

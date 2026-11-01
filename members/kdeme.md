@@ -101,6 +101,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: add code to the witness only for pre-state reads (#5064)](https://github.com/status-im/nimbus-eth1/commit/f704f9fca2e142bebf707cc02bed605a7d612dfd) - 2026-10-23
 * [Commit] [bump vendor/nim-bearssl to v0.3.1 (#5063)](https://github.com/status-im/nimbus-eth1/commit/f12854fdec792ec79ebb025e4248c34acd76eb83) - 2026-10-23
 * [Commit] [Fix ReadOnlyLedger slot access list check + assert witness header limit (#5061)](https://github.com/status-im/nimbus-eth1/commit/6386480166687230d0290b45fb3c39fb60c7ede2) - 2026-10-23
+* [Pull Request] [stateless: Move the stateless collapse checks out of the ledger](https://github.com/status-im/nimbus-eth1/pull/5122) - 2026-10-31
+* [Commit] [stateless: Move the stateless collapse checks out of the ledger (#5122)](https://github.com/status-im/nimbus-eth1/commit/1bdd9f2256a11edd3a946c657bbbab1caa57fd75) - 2026-11-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

@@ -151,6 +151,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5625184901) - 2026-10-23
 * [Review] [Review on: Refactor state data BEACON-API endpoints](https://github.com/Consensys-Incorporated/teku/pull/11558#pullrequestreview-5623395014) - 2026-10-23
 * [Commit] [Keep the finalized anchor DAS tracker alive while its payload is recovered (#11553)](https://github.com/Consensys-Incorporated/teku/commit/18f4166890c7fc0afdc07c737205eb6288b1f0b0) - 2026-10-23
+* [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5721366715) - 2026-10-31
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

@@ -38,6 +38,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757) - 2026-10-23
 * [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5631957595) - 2026-10-23
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5627110774) - 2026-10-23
+* [Pull Request] [Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792) - 2026-10-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 
