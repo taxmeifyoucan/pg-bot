@@ -99,6 +99,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: Add the riscv32 target](https://github.com/NethermindEth/bflat-riscv64/commit/9141fed9dcd172d744d772f0c016f05b3003a4bb) - 2026-10-31
 * [Commit] [manifest: riscv32 platforms, platforms without unwind tables, flat images](https://github.com/NethermindEth/bflat-riscv64/commit/ec2eb529174105ce809efc7124dabaa07b1ff747) - 2026-10-31
 * [Commit] [modules: Build every module for riscv32 too](https://github.com/NethermindEth/bflat-riscv64/commit/c08d8ed4c13bf9b8edd7451abfaff7e9afd21f8b) - 2026-10-31
+* [Commit] [ci: Run bflat-ts on zk-testing with the image of a pull request](https://github.com/NethermindEth/bflat-riscv64/commit/d6985d62ee907a81c249a4a1120b80a718f4036e) - 2026-11-01
 ## Q3 2026
 
 

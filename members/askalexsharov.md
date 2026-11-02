@@ -508,6 +508,51 @@ Team: Erigon
 * [Commit] [execution: charge the sender of a zero-value creation at validation (#25599)](https://github.com/erigontech/erigon/commit/153dda90c47a23ee9c77be39815de2b10d697fe3) - 2026-10-31
 * [Commit] [lint: enable more bug-finding checks; fix IPv6 listeners (#25549)](https://github.com/erigontech/erigon/commit/1d1ebaa7509141db2532559a8ad6f6f8708fba83) - 2026-10-31
 * [Commit] [execution/protocol: decide the service-tx fee exemption per application, not on the message (#25558)](https://github.com/erigontech/erigon/commit/b1e8ca261542839ed7387113875adcd3753989e6) - 2026-10-31
+* [Pull Request] [db/kv: remote KV pages repeat last item; Range leaks iterator and mmap slices; unknown table reads GC](https://github.com/erigontech/erigon/pull/25664) - 2026-11-02
+* [Review] [Review on: db/kv: remote KV pages repeat last item; Range leaks iterator and mmap slices; unknown table reads GC](https://github.com/erigontech/erigon/pull/25664#pullrequestreview-5731685771) - 2026-11-02
+* [Pull Request] [db/state: fix HistoryRange -1 bounds and desc IdxRange at files end](https://github.com/erigontech/erigon/pull/25662) - 2026-11-02
+* [Pull Request] [execution/state: skip the base read when the BAL proves an account non-empty](https://github.com/erigontech/erigon/pull/25640) - 2026-11-01
+* [Review] [Review on: execution/state: skip the base read when the BAL proves an account non-empty](https://github.com/erigontech/erigon/pull/25640#pullrequestreview-5731493594) - 2026-11-02
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.93.0 to 1.0.1](https://github.com/erigontech/erigon/pull/25611#pullrequestreview-5731621847) - 2026-11-02
+* [Pull Request] [node/privateapi: run AA validation on NoMaterialize](https://github.com/erigontech/erigon/pull/25672) - 2026-11-02
+* [Review] [Review on: node/privateapi: run AA validation on NoMaterialize](https://github.com/erigontech/erigon/pull/25672#pullrequestreview-5731841884) - 2026-11-02
+* [Pull Request] [db/state: IteratePrefix after Unwind hides keys re-written in the overlay](https://github.com/erigontech/erigon/pull/25667) - 2026-11-02
+* [Pull Request] [rpc/jsonrpc, execution/exec: run ots tracer and TraceWorker on NoMaterialize](https://github.com/erigontech/erigon/pull/25671) - 2026-11-02
+* [Review] [Review on: execution/execmodule/chainreader: don't panic in FrozenBlocks when the caller's context is cancelled](https://github.com/erigontech/erigon/pull/25661#pullrequestreview-5731524342) - 2026-11-02
+* [Pull Request] [db/state: merge after Retire claims retired history range; merged history never seeded](https://github.com/erigontech/erigon/pull/25663) - 2026-11-02
+* [Review] [Review on: db/state: merge after Retire claims retired history range; merged history never seeded](https://github.com/erigontech/erigon/pull/25663#pullrequestreview-5731683878) - 2026-11-02
+* [Pull Request] [common/crypto: prefault the keccak cache pages at startup](https://github.com/erigontech/erigon/pull/25669) - 2026-11-02
+* [Pull Request] [db/migrations, db/integrity, node: migration marked done before commit; integrity loses problems on timeout; renames before datadir lock](https://github.com/erigontech/erigon/pull/25665) - 2026-11-02
+* [Review] [Review on: db/migrations, db/integrity, node: migration marked done before commit; integrity loses problems on timeout; renames before datadir lock](https://github.com/erigontech/erigon/pull/25665#pullrequestreview-5731687685) - 2026-11-02
+* [Pull Request] [db: delete dead code](https://github.com/erigontech/erigon/pull/25668) - 2026-11-02
+* [Pull Request] [db: temp files, goroutines and segments leaked on error paths; malformed preverified toml panics](https://github.com/erigontech/erigon/pull/25666) - 2026-11-02
+* [Review] [Review on: db: temp files, goroutines and segments leaked on error paths; malformed preverified toml panics](https://github.com/erigontech/erigon/pull/25666#pullrequestreview-5731689052) - 2026-11-02
+* [Review] [Review on: db/kv/remotedb, db/kv/remotedbserver, node: run IndexJoin on the KV server](https://github.com/erigontech/erigon/pull/25632#pullrequestreview-5731558002) - 2026-11-02
+* [Review] [Review on: common/hexutil, rpc/jsonstream: format hex quantities without strconv](https://github.com/erigontech/erigon/pull/25635#pullrequestreview-5731556962) - 2026-11-02
+* [Review] [Review on: rpc/gasprice, rpc/jsonrpc: eth_gasPrice reads the base fee from the tip's head](https://github.com/erigontech/erigon/pull/25612#pullrequestreview-5731561825) - 2026-11-02
+* [Pull Request] [db/state: read-only txs of one snapshot share the inverted index's last DB txNum](https://github.com/erigontech/erigon/pull/25655) - 2026-11-01
+* [Pull Request] [execution/protocol/misc: reuse the last blob gas price for the same inputs](https://github.com/erigontech/erigon/pull/25653) - 2026-11-01
+* [Pull Request] [execution: recover a SetCode tx's authorities once for all its executions](https://github.com/erigontech/erigon/pull/25641) - 2026-11-01
+* [Review] [Review on: execution: recover a SetCode tx's authorities once for all its executions](https://github.com/erigontech/erigon/pull/25641#pullrequestreview-5727165508) - 2026-11-01
+* [Review] [Review on: node/app, execution/stagedsync: release locks on error returns](https://github.com/erigontech/erigon/pull/25639#pullrequestreview-5726977935) - 2026-11-01
+* [Pull Request] [execution/stagedsync: re-check only readers of the written paths](https://github.com/erigontech/erigon/pull/25590) - 2026-11-02
+* [Review] [Review on: execution/stagedsync: re-check only readers of the written paths](https://github.com/erigontech/erigon/pull/25590#pullrequestreview-5727863864) - 2026-11-01
+* [Review] [Review on: rpc/jsonrpc: return block-level log indexes from erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/25573#pullrequestreview-5731162594) - 2026-11-02
+* [Review] [Review on: execution/execmodule: stop reporting unexecuted canonical blocks as VALID](https://github.com/erigontech/erigon/pull/25566#pullrequestreview-5731140303) - 2026-11-02
+* [Review] [Review on: txnprovider/txpool: return mined blob txns with blobs after a reorg](https://github.com/erigontech/erigon/pull/25563#pullrequestreview-5727881984) - 2026-11-01
+* [Review] [Review on: execution/tracing/tracers/logger: reuse a stack slot's hex while its value is unchanged](https://github.com/erigontech/erigon/pull/25613#pullrequestreview-5727404505) - 2026-11-01
+* [Commit] [execution: recover a SetCode tx's authorities once for all its executions (#25641)](https://github.com/erigontech/erigon/commit/377bea3096c6619e8ecedc90114c6d27d9539e3c) - 2026-11-02
+* [Commit] [node/app, execution/stagedsync: release locks on error returns (#25639)](https://github.com/erigontech/erigon/commit/b52252f7ebcc568b5fc979bc6fff56b37378a0b3) - 2026-11-02
+* [Commit] [execution/stagedsync: re-check only readers of the written paths (#25590)](https://github.com/erigontech/erigon/commit/d0d46f1cc8303e19faa224a18a7988e3a56abbbd) - 2026-11-02
+* [Commit] [execution: credit a code-less recipient of a value transfer at validation (#25609)](https://github.com/erigontech/erigon/commit/f07a39b0e3bb3b40de5e102f1ace1028c2c6cc32) - 2026-11-01
+* [Commit] [execution/state, execution/stagedsync: no-bump for fresh creates and at commit, test the apply-loop drain (#25637)](https://github.com/erigontech/erigon/commit/0757c082e71ea0c15f23a45e5b9bc7e67fd6b66c) - 2026-11-01
+* [Commit] [execution/state: notify balance and nonce writes from their keys, not their resolved values (#25633)](https://github.com/erigontech/erigon/commit/6631d311a9ca73dab594cc0e608df08d934c34d6) - 2026-11-01
+* [Commit] [execution/state: back VersionMap account and origin-account lookups with xsync.Map (#25627)](https://github.com/erigontech/erigon/commit/15a8dab13d7adc6e9a6c768426a412a925cf888f) - 2026-11-01
+* [Commit] [lint: enable the remaining gosec rules with no findings (#25553)](https://github.com/erigontech/erigon/commit/5688772ed691e78ac4e7fb03e2af146c85b8c809) - 2026-11-01
+* [Commit] [go.mod: bump anacrolix/torrent (#25642)](https://github.com/erigontech/erigon/commit/b19ef9c6ec90fb9012b35dfa9714caa6c2265d94) - 2026-11-01
+* [Commit] [docs/site: bump docs deps (#25643)](https://github.com/erigontech/erigon/commit/34fd4facf47dbb748a4bb0d9e9091a7f8bc4b39b) - 2026-11-01
+* [Commit] [cmd/evm: enginextest --fgprof survives a request shorter than one sample (#25610)](https://github.com/erigontech/erigon/commit/c30e94c80d3c1174bfabf362e6f183da149e3101) - 2026-11-01
+* [Commit] [lint: enable wastedassign, gomoddirectives, revive bug rules, testifylint nil-compare (#25552)](https://github.com/erigontech/erigon/commit/8d966680cb6ef0bc9ae62ef11eed0337c0ed6286) - 2026-11-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

@@ -672,6 +672,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(nethdev): do not produce empty blocks for txs the producer cannot include (#15065)](https://github.com/NethermindEth/nethermind/commit/dc6a2de36f322b426d908066b930828d7e9e83ab) - 2026-10-23
 * [Commit] [feat(rpc): add debug_storageRangeAt (#15061)](https://github.com/NethermindEth/nethermind/commit/9d3685d2f95c0a26f9778719c77a2e6b19a1fdc9) - 2026-10-23
 * [Pull Request] [perf(zkevm): call memmove directly and write the first Keccak block lane by lane on OpenVM](https://github.com/NethermindEth/nethermind/pull/15451) - 2026-10-31
+* [Pull Request] [perf(zkevm): re-encode only the branch slots that writes reached on the SP1 guest](https://github.com/NethermindEth/nethermind/pull/15457) - 2026-11-01
+* [Pull Request] [refactor(rlp): replace the old RLP core with FluentRlp](https://github.com/NethermindEth/nethermind/pull/15458) - 2026-11-01
+* [Pull Request] [perf(zkevm): hold the SP1 guest's paired handlers in 32 bits](https://github.com/NethermindEth/nethermind/pull/15455) - 2026-11-01
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

@@ -63,6 +63,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5629673834) - 2026-10-23
 * [Review] [Review on: Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756#pullrequestreview-5629559546) - 2026-10-23
 * [Commit] [Fix EIP number in `get_consolidation_churn_limit` docstrings (#5758)](https://github.com/ethereum/consensus-specs/commit/b834fa8411cb2152563e8835c5b72c28f7503e7a) - 2026-10-23
+* [Review] [Review on: Add initial fork choice specs for decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791#pullrequestreview-5726311466) - 2026-11-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

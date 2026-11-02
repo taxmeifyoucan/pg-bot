@@ -366,6 +366,13 @@ Team: Reth
 * [Commit] [fix(storage): state-import slots and history lookups (#28053)](https://github.com/paradigmxyz/reth/commit/9186ab6cf6e3507e7032caecb0bea7b8eb52dc15) - 2026-10-23
 * [Commit] [fix: unschedule Hoodi Amsterdam activation (#28089)](https://github.com/paradigmxyz/reth/commit/4418b95f618c7d34a3a3845b07c404b08e22506b) - 2026-10-23
 * [Commit] [fix(rpc): align proof responses with execution-apis (#28091)](https://github.com/paradigmxyz/reth/commit/75fd53124f014c9d3daa32c82dcc3b8cdc05fe34) - 2026-10-23
+* [Review] [Review on: ci: pin nightly to 2026-10-31](https://github.com/paradigmxyz/reth/pull/28220#pullrequestreview-5727958460) - 2026-11-01
+* [Pull Request] [feat(discv4): limit table entries per subnet](https://github.com/paradigmxyz/reth/pull/28223) - 2026-11-01
+* [Pull Request] [feat(net): limit pending dials per IP](https://github.com/paradigmxyz/reth/pull/28224) - 2026-11-01
+* [Pull Request] [fix(era): handle multibyte separator in era index listing](https://github.com/paradigmxyz/reth/pull/28222) - 2026-11-01
+* [Review] [Review on: fix(rpc): report mev_simBundle refundable value before payouts](https://github.com/paradigmxyz/reth/pull/28218#pullrequestreview-5727006746) - 2026-11-01
+* [Pull Request] [fix(engine): retain parent spans for payload tasks](https://github.com/paradigmxyz/reth/pull/28221) - 2026-11-01
+* [Commit] [fix(era): handle multibyte separator in era index listing (#28222)](https://github.com/paradigmxyz/reth/commit/79d222b795b0eb0d5a80067cc1451b68b443d269) - 2026-11-01
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

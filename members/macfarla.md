@@ -150,6 +150,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Stop sync target retries from keeping every attempt in memory](https://github.com/besu-eth/besu/pull/11760#pullrequestreview-5722150716) - 2026-10-31
 * [Review] [Review on: fix(rpc): reject malformed trace_filter members and legacy calls for another chain](https://github.com/besu-eth/besu/pull/11439#pullrequestreview-5721674855) - 2026-10-31
 * [Review] [Review on: fix(rpc): reject precompile moves to the same address](https://github.com/besu-eth/besu/pull/11820#pullrequestreview-5721499521) - 2026-10-31
+* [Pull Request] [update snappy version to 1.1.10.9](https://github.com/besu-eth/besu/pull/11841) - 2026-11-02
+* [Review] [Review on: update snappy version to 1.1.10.9](https://github.com/besu-eth/besu/pull/11841#pullrequestreview-5731770664) - 2026-11-02
+* [Review] [Review on: Scope OpenTelemetry counter and timer caches by category](https://github.com/besu-eth/besu/pull/11829#pullrequestreview-5730830087) - 2026-11-01
+* [Review] [Review on: fix RPCWS options to read the truststore files when set on config](https://github.com/besu-eth/besu/pull/11839#pullrequestreview-5730807116) - 2026-11-01
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

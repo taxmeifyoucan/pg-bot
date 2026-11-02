@@ -21,6 +21,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 * [Pull Request] [Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/pull/12603) - 2026-10-31
 * [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5723209718) - 2026-10-31
+* [Commit] [Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/commit/dc5d5fa688b7fe87b95a907fcc128b4fde2f4d2f) - 2026-11-01
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956) - 2026-10-23
 ## Q3 2026

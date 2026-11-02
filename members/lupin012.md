@@ -129,6 +129,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: reject unknown override keys in eth_simulateV1 (#25018)](https://github.com/erigontech/erigon/commit/63fdfc0ee5805a1005efb428c1962ff302bda398) - 2026-10-20
 * [Commit] [execution/types: allocate the stamped eth_getLogs log copies of a receipt at once (#25010)](https://github.com/erigontech/erigon/commit/1260471ba7e9d1565ff7949239caab14da2c9766) - 2026-10-21
 * [Pull Request] [QA: add an optional Reth run to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25288) - 2026-10-23
+* [Review] [Review on: .github/workflows: add debug_traceBlockByNumber to the RPC performance latest test, generate latest patterns as jsonl](https://github.com/erigontech/erigon/pull/25614#pullrequestreview-5728186559) - 2026-11-01
+* [Pull Request] [execution/tracing/tracers/logger: reuse a stack slot's hex while its value is unchanged](https://github.com/erigontech/erigon/pull/25613) - 2026-11-01
+* [Commit] [execution/tracing/tracers/logger: reuse a stack slot's hex while its value is unchanged (#25613)](https://github.com/erigontech/erigon/commit/5ddcd87a99e1c604e3b451a738b775e74079d777) - 2026-11-01
+* [Commit] [node, cmd/rpcdaemon, cmd/utils: skip HTTP-RPC compression for loopback clients (#25626)](https://github.com/erigontech/erigon/commit/36e89159ce7a1bb96dd54fef69e62b4cb17a89ec) - 2026-11-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -186,6 +190,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile](https://github.com/erigontech/rpc-tests/pull/645) - 2026-10-31
 * [Pull Request] [rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644) - 2026-10-31
 * [Commit] [rpc_pattern_gen: generate debug_traceBlockByNumber requests (#644)](https://github.com/erigontech/rpc-tests/commit/31e3bd31e8ae1df6fcb8cad4b4323c16801f3c0c) - 2026-10-31
+* [Pull Request] [rpc_pattern_gen: generate eth_createAccessList requests](https://github.com/erigontech/rpc-tests/pull/646) - 2026-11-01
 ## Q3 2026
 
 

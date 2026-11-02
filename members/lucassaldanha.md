@@ -105,6 +105,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Temporarily disable greclipse while download.eclipse.org is down (#11561)](https://github.com/Consensys-Incorporated/teku/commit/5f55b6d844169cc3c663c8ac6264776e3044b7b9) - 2026-10-21
 * [Review] [Review on: upgrade libp2p to 1.4.0](https://github.com/Consensys-Incorporated/teku/pull/11565#pullrequestreview-5611586777) - 2026-10-22
 * [Issue] [Concurrent-access slashing protector swallows IOException on record read and signs against an empty history](https://github.com/Consensys-Incorporated/teku/issues/11605) - 2026-10-31
+* [Issue] [Auto-generated Engine API JWT secret file is created world-readable](https://github.com/Consensys-Incorporated/teku/issues/11608) - 2026-11-02
+* [Issue] [Builder bid with a gas limit outside the EIP-1559 bound is accepted and the slot is missed](https://github.com/Consensys-Incorporated/teku/issues/11607) - 2026-11-02
+* [Issue] [Interchange import of a future attestation `source_epoch` permanently wedges all attestations](https://github.com/Consensys-Incorporated/teku/issues/11606) - 2026-11-02
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

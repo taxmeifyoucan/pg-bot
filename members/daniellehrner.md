@@ -171,6 +171,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Check gasUsed of empty Amsterdam blocks in light body validation](https://github.com/besu-eth/besu/pull/11800) - 2026-10-31
 * [Pull Request] [Cut the overhead of importing large BAL blocks of transfers](https://github.com/besu-eth/besu/pull/11821) - 2026-10-31
 * [Commit] [Check gasUsed of empty Amsterdam blocks in light body validation (#11800)](https://github.com/besu-eth/besu/commit/1a2ef1b759daf4573f1eec1591a7e7c6b6352be7) - 2026-10-31
+* [Pull Request] [Use the AES cipher of the JDK for RLPx frames](https://github.com/besu-eth/besu/pull/11823) - 2026-11-01
+* [Pull Request] [Stop the default JVM options from starting JFR's event log](https://github.com/besu-eth/besu/pull/11824) - 2026-11-01
+* [Pull Request] [Start transaction announcement batches empty](https://github.com/besu-eth/besu/pull/11827) - 2026-11-01
+* [Pull Request] [Read RLP item metadata from the input bytes without a lambda](https://github.com/besu-eth/besu/pull/11826) - 2026-11-01
+* [Pull Request] [Keep fee oracle samples of recent blocks between chain heads](https://github.com/besu-eth/besu/pull/11825) - 2026-11-01
+* [Review] [Review on: Keep reverted parallel results and simplify the conflict check](https://github.com/besu-eth/besu/pull/11806#pullrequestreview-5726717491) - 2026-11-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

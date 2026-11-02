@@ -82,6 +82,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(spec-specs,tests): derive Bogota base fee from slot spacing (EIPs#12552)](https://github.com/ethereum/execution-specs/pull/3873#pullrequestreview-5603293353) - 2026-10-21
 * [Review] [Review on: chore(tooling): require uv 0.13.4 and bump setup-uv to v10.3.0](https://github.com/ethereum/execution-specs/pull/3880#pullrequestreview-5601709434) - 2026-10-21
 * [Commit] [fix(tooling): build the docker images on uv's trixie base (#3882)](https://github.com/ethereum/execution-specs/commit/ffcd76e982e5e5064231257234ee852a24f612c7) - 2026-10-21
+* [Review] [Review on: feat(test-consume): ask clients for a fast KZG setup](https://github.com/ethereum/execution-specs/pull/3949#pullrequestreview-5728496443) - 2026-11-01
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 
@@ -93,6 +94,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640) - 2026-10-14
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [feat(ef-tests): add the Osaka, BPO and Amsterdam transition networks](https://github.com/paradigmxyz/reth/pull/28226) - 2026-11-01
 ## Q3 2026
 
 

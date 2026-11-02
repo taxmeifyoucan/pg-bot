@@ -61,6 +61,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tooling,ci): announce releases to hive-tests after publishing their images](https://github.com/ethereum/execution-specs/pull/3883#pullrequestreview-5617236686) - 2026-10-22
 * [Commit] [perf(test-consume): show the hive reproduce steps only for failed tests (#3894)](https://github.com/ethereum/execution-specs/commit/aaae5abd382b6c0612add96bd8400d6fa4eb0617) - 2026-10-22
 * [Commit] [feat(test-forks): generate BPO increase and decrease scenarios for every fork from Amsterdam (#3597)](https://github.com/ethereum/execution-specs/commit/369cd54c7f3a79f2f088368f566f480750ff03cd) - 2026-10-23
+* [Pull Request] [feat(test-consume): ask clients for a fast KZG setup](https://github.com/ethereum/execution-specs/pull/3949) - 2026-11-01
+* [Pull Request] [fix(test-tests): reset the default chain id around every unit test](https://github.com/ethereum/execution-specs/pull/3950) - 2026-11-01
+* [Commit] [feat(test-consume): ask clients for a fast KZG setup (#3949)](https://github.com/ethereum/execution-specs/commit/fd9298410ec7218838c8348f69c1eb633f1797dc) - 2026-11-01
+* [Commit] [fix(test-tests): reset the default chain id around every unit test (#3950)](https://github.com/ethereum/execution-specs/commit/9a9e1e49c11268e326544d62033151d1ba53b2bc) - 2026-11-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -80,6 +84,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [cmd/hiveview, cmd/hq: add run end time to listing](https://github.com/ethereum/hive/pull/1634) - 2026-10-22
 * [Commit] [hiveproxy: probe client readiness at shorter intervals (#1627)](https://github.com/ethereum/hive/commit/e1ad81006c63555915e05a121df3e68953fa9138) - 2026-10-22
 * [Commit] [cmd/hiveview, cmd/hq: add run end time to listing (#1634)](https://github.com/ethereum/hive/commit/7dbf2ac372a48796d1309dd0101883a5a5225508) - 2026-10-22
+* [Pull Request] [clients/go-ethereum: initialize the KZG library on first use when HIVE_KZG_FAST_SETUP is set](https://github.com/ethereum/hive/pull/1647) - 2026-11-01
+* [Commit] [clients/go-ethereum: initialize the KZG library on first use when HIVE_KZG_FAST_SETUP is set (#1647)](https://github.com/ethereum/hive/commit/3d26047788251bba5beb7ffcf84d05be9cf3e4bb) - 2026-11-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -87,6 +93,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [params: allow BPO forks to activate after Amsterdam](https://github.com/ethereum/go-ethereum/pull/35975) - 2026-10-19
 
 * [Commit] [params: allow BPO forks to activate after Amsterdam (#35975)](https://github.com/ethereum/go-ethereum/commit/748cca24b5ece979f709f38b311f0cb993e10838) - 2026-10-21
+* [Pull Request] [cmd/geth, cmd/utils, crypto/kzg4844: add --crypto.kzg.lazy](https://github.com/ethereum/go-ethereum/pull/36025) - 2026-11-01
+* [Commit] [cmd/geth, cmd/utils, crypto/kzg4844: add --crypto.kzg.lazy (#36025)](https://github.com/ethereum/go-ethereum/commit/5f7750c60a41fb7df3342283c5d4484c537694d4) - 2026-11-01
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
 

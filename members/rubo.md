@@ -87,6 +87,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci: simplify the PR template and derive labels from the title only (#15020)](https://github.com/NethermindEth/nethermind/commit/48d1006ab4b27f857eeba8b47451b9c99fbd51fb) - 2026-10-22
 * [Review] [Review on: feat(config)!: embed built-in configs as resources](https://github.com/NethermindEth/nethermind/pull/15171#pullrequestreview-5630502156) - 2026-10-23
 * [Review] [Review on: fix(docgen): document eth_config fields and members omitted from the wire](https://github.com/NethermindEth/nethermind/pull/15177#pullrequestreview-5632232320) - 2026-10-23
+* [Pull Request] [refactor(network)!: serialize eth status and new block messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15445) - 2026-11-01
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/15454#pullrequestreview-5728065407) - 2026-11-01
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/15453#pullrequestreview-5728061778) - 2026-11-01
+* [Commit] [refactor(network)!: serialize eth status and new block messages into spans instead of DotNetty buffers (#15445)](https://github.com/NethermindEth/nethermind/commit/76d74ba001c9e36044d1c0703b77d80bb30e3374) - 2026-11-01
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

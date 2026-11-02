@@ -292,6 +292,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/forkchoice/fork_graph: stop fsyncing fork-graph dump files (#25251)](https://github.com/erigontech/erigon/commit/ff982437f94475bbd1140d2039447f57195ebab3) - 2026-10-23
 * [Commit] [cl: validate boundary blocks without a state copy (#25253)](https://github.com/erigontech/erigon/commit/598ba62530ff34f62df663bc3afaff30923fdfbe) - 2026-10-23
 * [Commit] [cl/phase1/network/services, cmd/caplin: republish queued execution payload envelopes (#25259)](https://github.com/erigontech/erigon/commit/43dc482075ade1572457c963c75066f5c35aa8bd) - 2026-10-23
+* [Review] [Review on: cl: serve historical Gloas execution payload envelopes](https://github.com/erigontech/erigon/pull/25437#pullrequestreview-5727928963) - 2026-11-01
+* [Pull Request] [cl/cltypes/solid, cl/phase1/core/state: allocate the phase0 inclusion-delay sidecar lazily](https://github.com/erigontech/erigon/pull/25647) - 2026-11-01
+* [Pull Request] [cl/spectest: fail on fixture directories without a handler, run three Gloas gossip suites](https://github.com/erigontech/erigon/pull/25657) - 2026-11-01
+* [Pull Request] [cl/beacon/handler: encode head validators off the head-state lock](https://github.com/erigontech/erigon/pull/25660) - 2026-11-01
+* [Review] [Review on: cl/beacon/handler: filter validators and balances by id through a set](https://github.com/erigontech/erigon/pull/25619#pullrequestreview-5730090402) - 2026-11-01
+* [Review] [Review on: cl/beacon/handler: return 404 for a validator index past the registry](https://github.com/erigontech/erigon/pull/25585#pullrequestreview-5730079894) - 2026-11-01
+* [Review] [Review on: cl/beacon/builder: fix admission test maximum counter](https://github.com/erigontech/erigon/pull/25656#pullrequestreview-5730034645) - 2026-11-01
+* [Review] [Review on: cl/phase1/network/services: relay valid Fulu data column sidecars outside custody](https://github.com/erigontech/erigon/pull/25587#pullrequestreview-5730176941) - 2026-11-01
+* [Review] [Review on: cl/antiquary: merge beaconblocks into 100k segments with EL's Merger](https://github.com/erigontech/erigon/pull/25519#pullrequestreview-5730182703) - 2026-11-01
+* [Commit] [cl, cmd/caplin: precompute the next-epoch state off the fork-choice lock (#25473)](https://github.com/erigontech/erigon/commit/30be251f8a652f37cbeabed831818977b653edcd) - 2026-11-01
+* [Commit] [txnprovider/txpool: delete pool DB rows that validateTx rejects on reload (#25598)](https://github.com/erigontech/erigon/commit/c2536e4b783ad430501f6c64853282521c4d6fd8) - 2026-11-01
+* [Commit] [cl/phase1/forkchoice/fork_graph: skip re-dumping an already dumped head state (#25539)](https://github.com/erigontech/erigon/commit/3d7abd924010619895130098ecfe128eca39723d) - 2026-11-01
+* [Commit] [cl/utils/bls: aggregate public keys with blst batch addition (#25542)](https://github.com/erigontech/erigon/commit/5d38a046a29e899db139dd44f7c83691e5ca5244) - 2026-11-01
 ## Q3 2026
 
 

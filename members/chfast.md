@@ -149,6 +149,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Add native riscv64 build on GitHub Actions (#1772)](https://github.com/ipsilon/evmone/commit/f977b199657957577c8370427342a52b719b8ce1) - 2026-10-22
 * [Pull Request] [cmake: Build with -fcf-protection=return on Linux x86-64](https://github.com/ipsilon/evmone/pull/649) - 2026-10-23
 * [Commit] [cmake: Build with -fcf-protection=return on Linux x86-64 (#649)](https://github.com/ipsilon/evmone/commit/ffb01f26a0c29e7a7e88e598f4fcd94c8460fb6f) - 2026-10-23
+* [Pull Request] [ci: Run CodSpeed with GCC 15 on Ubuntu 26.04](https://github.com/ipsilon/evmone/pull/1798) - 2026-11-01
+* [Pull Request] [AGENTS: Keep compiler behavior out of doc comments](https://github.com/ipsilon/evmone/pull/1802) - 2026-11-01
+* [Pull Request] [crypto: Refactor RIPEMD-160 functions for inlining](https://github.com/ipsilon/evmone/pull/1800) - 2026-11-01
+* [Pull Request] [evm: Push 64-bit values to the stack without a temporary](https://github.com/ipsilon/evmone/pull/1799) - 2026-11-01
+* [Pull Request] [crypto: Fix the modexp AMM comment and explain the bound](https://github.com/ipsilon/evmone/pull/1797) - 2026-11-01
+* [Issue] [modexp: GCC 15 and 16 keep the addmul() product in a stack slot](https://github.com/ipsilon/evmone/issues/1801) - 2026-11-01
+* [Commit] [crypto: Refactor RIPEMD-160 functions for inlining (#1800)](https://github.com/ipsilon/evmone/commit/8411c60e9c70d4c36653f8d1f2886cd3adcacac6) - 2026-11-01
+* [Commit] [evm: Push 64-bit values to the stack without a temporary (#1799)](https://github.com/ipsilon/evmone/commit/f73ca7745d41f1668d0bb36bfc0e1aa08b5e6ef4) - 2026-11-01
+* [Commit] [crypto: Fix the modexp AMM comment and explain the bound (#1797)](https://github.com/ipsilon/evmone/commit/1775e4d5f3fed19a94b37343b5a9bf2ef21b6b7e) - 2026-11-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

@@ -213,6 +213,17 @@ Team: Erigon
 * [Commit] [execution/p2p: reload header walk peers when all are exhausted and keep header ranges in flight (#25414)](https://github.com/erigontech/erigon/commit/5d33ddddb66d313a4a69d366ee310817ae142428) - 2026-10-31
 * [Commit] [db/snapshotsync: take caplin SegmentsMax from the visible set, as EL does (#25487)](https://github.com/erigontech/erigon/commit/f3dc056a1217dd1b68bec46a7ccedde20300e377) - 2026-10-31
 * [Commit] [db/state, cmd/integration: step-aligned commitment rebuild that writes whole steps to files (#25517)](https://github.com/erigontech/erigon/commit/19927231ca586699bc6d4e2bfc38f4df33c7ea74) - 2026-10-31
+* [Pull Request] [execution/execmodule/chainreader: don't panic in FrozenBlocks when the caller's context is cancelled](https://github.com/erigontech/erigon/pull/25661) - 2026-11-02
+* [Review] [Review on: execution: recover a SetCode tx's authorities once for all its executions](https://github.com/erigontech/erigon/pull/25641#pullrequestreview-5727644532) - 2026-11-01
+* [Review] [Review on: node/app, execution/stagedsync: release locks on error returns](https://github.com/erigontech/erigon/pull/25639#pullrequestreview-5727644442) - 2026-11-01
+* [Review] [Review on: execution/stagedsync: re-check only readers of the written paths](https://github.com/erigontech/erigon/pull/25590#pullrequestreview-5727644091) - 2026-11-01
+* [Review] [Review on: txpool, engineapi: reuse validation-time KZG cells in getBlobsV4](https://github.com/erigontech/erigon/pull/25628#pullrequestreview-5729082340) - 2026-11-01
+* [Review] [Review on: rpc/jsonrpc: return block-level log indexes from erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/25573#pullrequestreview-5729083922) - 2026-11-01
+* [Review] [Review on: execution/execmodule: stop reporting unexecuted canonical blocks as VALID](https://github.com/erigontech/erigon/pull/25566#pullrequestreview-5729087721) - 2026-11-01
+* [Review] [Review on: cmd/evm: keep enginextest profile file names under the filesystem limit](https://github.com/erigontech/erigon/pull/25622#pullrequestreview-5727644247) - 2026-11-01
+* [Commit] [execution/execmodule/chainreader: don't panic in FrozenBlocks when the caller's context is cancelled (#25661)](https://github.com/erigontech/erigon/commit/00672366ada2b19bb3b0ca7e05648350eee4a091) - 2026-11-02
+* [Commit] [execution, cmd/utils/app: drop CSV metrics tracing from the commitment trie (#23924)](https://github.com/erigontech/erigon/commit/692549698d4a09a8a981a09b035d8e3c4fea7d7f) - 2026-11-01
+* [Commit] [execution/stagedsync: run txs on a pause-free worker pool that owns its read txs (#25560)](https://github.com/erigontech/erigon/commit/60d44e1523773cc17013c9ec60e62576f2aaa725) - 2026-11-01
 ## Q3 2026
 
 

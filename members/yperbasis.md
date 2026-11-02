@@ -248,6 +248,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [cl: use the canonical Gloas execution hash during block publication](https://github.com/erigontech/erigon/issues/25285) - 2026-10-23
 * [Issue] [execmodule: READ_AHEAD_WAIT deadlocks fork validation that needs an unwind](https://github.com/erigontech/erigon/issues/25275) - 2026-10-23
 * [Commit] [db, execution: keep embedded state-cache reads on the selected view (#23485)](https://github.com/erigontech/erigon/commit/198678df9c2250d7c6bada1611a7a8659d49db28) - 2026-10-31
+* [Review] [Review on: execution/stagedsync: re-check only readers of the written paths](https://github.com/erigontech/erigon/pull/25590#pullrequestreview-5727589933) - 2026-11-01
+* [Pull Request] [cl/beacon/builder: fix admission test maximum counter](https://github.com/erigontech/erigon/pull/25656) - 2026-11-01
+* [Commit] [cl/beacon/builder: fix admission test maximum counter (#25656)](https://github.com/erigontech/erigon/commit/774c4379239282a6959ce695f194434e175dd5ae) - 2026-11-01
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
