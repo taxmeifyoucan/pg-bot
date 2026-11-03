@@ -224,6 +224,13 @@ Team: Erigon
 * [Commit] [execution/execmodule/chainreader: don't panic in FrozenBlocks when the caller's context is cancelled (#25661)](https://github.com/erigontech/erigon/commit/00672366ada2b19bb3b0ca7e05648350eee4a091) - 2026-11-02
 * [Commit] [execution, cmd/utils/app: drop CSV metrics tracing from the commitment trie (#23924)](https://github.com/erigontech/erigon/commit/692549698d4a09a8a981a09b035d8e3c4fea7d7f) - 2026-11-01
 * [Commit] [execution/stagedsync: run txs on a pause-free worker pool that owns its read txs (#25560)](https://github.com/erigontech/erigon/commit/60d44e1523773cc17013c9ec60e62576f2aaa725) - 2026-11-01
+* [Review] [Review on: docs/site: override serve-handler's minimatch to 11.0.4](https://github.com/erigontech/erigon/pull/25686#pullrequestreview-5746758938) - 2026-11-03
+* [Review] [Review on: execution/receipts, rpc/jsonrpc/receipts, execution/stagedsync: derive receipts on NoMaterialize](https://github.com/erigontech/erigon/pull/25675#pullrequestreview-5746790295) - 2026-11-03
+* [Review] [Review on: db: delete dead code](https://github.com/erigontech/erigon/pull/25668#pullrequestreview-5746790130) - 2026-11-03
+* [Review] [Review on: db/state: IteratePrefix after Unwind hides keys re-written in the overlay](https://github.com/erigontech/erigon/pull/25667#pullrequestreview-5746790006) - 2026-11-03
+* [Review] [Review on: db/kv: remote KV pages repeat last item; Range leaks iterator and mmap slices; unknown table reads GC](https://github.com/erigontech/erigon/pull/25664#pullrequestreview-5732432341) - 2026-11-02
+* [Review] [Review on: execution/execmodule: stop reporting unexecuted canonical blocks as VALID](https://github.com/erigontech/erigon/pull/25566#pullrequestreview-5746789524) - 2026-11-03
+* [Review] [Review on: db/state: fix merge range after Retire, seed merged history, retire each file once](https://github.com/erigontech/erigon/pull/25663#pullrequestreview-5732433222) - 2026-11-02
 ## Q3 2026
 
 

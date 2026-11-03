@@ -177,6 +177,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Read RLP item metadata from the input bytes without a lambda](https://github.com/besu-eth/besu/pull/11826) - 2026-11-01
 * [Pull Request] [Keep fee oracle samples of recent blocks between chain heads](https://github.com/besu-eth/besu/pull/11825) - 2026-11-01
 * [Review] [Review on: Keep reverted parallel results and simplify the conflict check](https://github.com/besu-eth/besu/pull/11806#pullrequestreview-5726717491) - 2026-11-01
+* [Pull Request] [Cache block access lists as RLP, bounded by bytes](https://github.com/besu-eth/besu/pull/11455) - 2026-11-02
+* [Pull Request] [[5/5] snap/2 sorted ingest: write the downloaded state as sorted files](https://github.com/besu-eth/besu/pull/11856) - 2026-11-02
+* [Pull Request] [[4/5] snap/2 sorted ingest: write the downloaded accounts and slots as sorted files](https://github.com/besu-eth/besu/pull/11855) - 2026-11-02
+* [Pull Request] [[3/5] snap/2 sorted ingest: merge the small bottom-level files a RocksDB bulk load leaves](https://github.com/besu-eth/besu/pull/11854) - 2026-11-02
+* [Pull Request] [[2/5] snap/2 sorted ingest: hold back RocksDB compaction during a bulk load](https://github.com/besu-eth/besu/pull/11853) - 2026-11-02
+* [Pull Request] [[1/5] snap/2 sorted ingest: let RocksDB add sorted files to a segment](https://github.com/besu-eth/besu/pull/11852) - 2026-11-02
+* [Commit] [Start transaction announcement batches empty (#11827)](https://github.com/besu-eth/besu/commit/26b26fc5df642798e36fa1356fb7b54664004a3d) - 2026-11-02
+* [Commit] [Cache block access lists as RLP, bounded by bytes (#11455)](https://github.com/besu-eth/besu/commit/bad1248d9848d685c385462ac84b814f5beaeeb8) - 2026-11-02
+* [Commit] [Use the AES cipher of the JDK for RLPx frames (#11823)](https://github.com/besu-eth/besu/commit/343842503d51d9b2027260a808c197ec1aaa1232) - 2026-11-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

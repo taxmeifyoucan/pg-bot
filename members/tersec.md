@@ -92,6 +92,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285#pullrequestreview-5610845924) - 2026-10-22
 * [Commit] [version v26.10.2](https://github.com/status-im/nimbus-eth2/commit/0abc0dd0fc0750a8875c49089d074f7d7197b62c) - 2026-10-23
 * [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5726283625) - 2026-11-01
+* [Review] [Review on: Speedup attestation key aggregation with cached committee sums](https://github.com/status-im/nimbus-eth2/pull/9420#pullrequestreview-5735223337) - 2026-11-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

@@ -28,6 +28,11 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [version: release go-ethereum v1.17.9 stable (#35990)](https://github.com/ethereum/go-ethereum/commit/9dffe6e976cbbb87a84c5fd395448f0950290def) - 2026-10-21
 * [Review] [Review on:  eth: add request-latency peer-drop protection](https://github.com/ethereum/go-ethereum/pull/34771#pullrequestreview-5617224200) - 2026-10-22
 * [Review] [Review on: core, params: revert schedule amsterdam fork on hoodi](https://github.com/ethereum/go-ethereum/pull/36001#pullrequestreview-5626049645) - 2026-10-23
+* [Review] [Review on: core/txpool/blobpool: extend fully-fetched blob transactions to the full cell set](https://github.com/ethereum/go-ethereum/pull/35531#pullrequestreview-5741316990) - 2026-11-02
+* [Review] [Review on: p2p: don't launch AllowBrowser protocols on node-to-node connections](https://github.com/ethereum/go-ethereum/pull/36061#pullrequestreview-5741044600) - 2026-11-02
+* [Pull Request] [eth, cmd/devp2p: revert index major cells response](https://github.com/ethereum/go-ethereum/pull/36047) - 2026-11-02
+* [Commit] [eth, cmd/devp2p: revert index major cells response (#36047)](https://github.com/ethereum/go-ethereum/commit/13362a0d4b7e81ba9abb1ff1fae3334d0a2dfe57) - 2026-11-02
+* [Commit] [p2p, eth: experimental support for browser tx submit with quic (#35950)](https://github.com/ethereum/go-ethereum/commit/a5643f143432e6b12494f10139256397e86cd7b6) - 2026-11-02
 ## Q3 2026
 
 

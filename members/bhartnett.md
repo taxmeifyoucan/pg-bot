@@ -59,6 +59,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Apply BAL during parallel tx execution](https://github.com/status-im/nimbus-eth1/pull/5067) - 2026-10-23
 * [Commit] [Apply BAL during parallel tx execution (#5067)](https://github.com/status-im/nimbus-eth1/commit/09fdf51c74a6ffdb4c3694ffa68fc69fa11839c3) - 2026-10-23
 * [Commit] [Skip initcode hashing and code cache lookup for CREATE (#5058)](https://github.com/status-im/nimbus-eth1/commit/1d9ca13a3bb26fd0963277ea1726ec8ce62b9749) - 2026-10-23
+* [Pull Request] [Time out rlpx transport sendMsg](https://github.com/status-im/nimbus-eth1/pull/5124) - 2026-11-02
+* [Commit] [Time out rlpx transport sendMsg (#5124)](https://github.com/status-im/nimbus-eth1/commit/a66ea6134f1aca5b31a223415a164e49a517e782) - 2026-11-02
 ## Q3 2026
 
 

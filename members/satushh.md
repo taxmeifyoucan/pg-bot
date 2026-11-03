@@ -45,6 +45,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Update changelog for v7.3.1](https://github.com/OffchainLabs/prysm/pull/17766#pullrequestreview-5626090704) - 2026-10-23
 * [Review] [Review on: Upgrade libp2p](https://github.com/OffchainLabs/prysm/pull/17769#pullrequestreview-5628764127) - 2026-10-23
 * [Review] [Review on: Fix flaky `TestDataColumnSidecarsByRangeRPCHandler`](https://github.com/OffchainLabs/prysm/pull/17767#pullrequestreview-5627173576) - 2026-10-23
+* [Review] [Review on: `--disable-ephemeral-log-file`: Fix help message](https://github.com/OffchainLabs/prysm/pull/17807#pullrequestreview-5739766766) - 2026-11-02
+* [Review] [Review on: Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759#pullrequestreview-5735460873) - 2026-11-02
 ## Q3 2026
 
 

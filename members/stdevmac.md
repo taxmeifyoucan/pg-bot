@@ -205,6 +205,42 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416) - 2026-11-01
 * [Review] [Review on: test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416#pullrequestreview-5721102089) - 2026-10-31
 * [Commit] [test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip (#15416)](https://github.com/NethermindEth/nethermind/commit/36a931cee42383e939093ea1a91aae03640db0e2) - 2026-11-01
+* [Review] [Review on: perf(state): look up each dirty account once when applying storage roots](https://github.com/NethermindEth/nethermind/pull/15483#pullrequestreview-5745297724) - 2026-11-03
+* [Pull Request] [fix(tracing): report pre-execution opcode failures from the JavaScript step, as in Geth](https://github.com/NethermindEth/nethermind/pull/15495) - 2026-11-03
+* [Review] [Review on: fix(tracing): report pre-execution opcode failures from the JavaScript step, as in Geth](https://github.com/NethermindEth/nethermind/pull/15495#pullrequestreview-5746865268) - 2026-11-03
+* [Pull Request] [fix(txpool): raise EvictedPending for txs the head bucket update drops](https://github.com/NethermindEth/nethermind/pull/15494) - 2026-11-03
+* [Review] [Review on: fix(txpool): raise EvictedPending for txs the head bucket update drops](https://github.com/NethermindEth/nethermind/pull/15494#pullrequestreview-5746658358) - 2026-11-03
+* [Pull Request] [fix(rpc): reject conflicting storage overrides in call, estimate and simulate](https://github.com/NethermindEth/nethermind/pull/15493) - 2026-11-03
+* [Review] [Review on: perf(consensus)!: pass the next block's base fee to the tx filters with the call](https://github.com/NethermindEth/nethermind/pull/15442#pullrequestreview-5741083916) - 2026-11-02
+* [Review] [Review on: build(zkevm): build the Airbender guest in the published bflat riscv32 image](https://github.com/NethermindEth/nethermind/pull/15469#pullrequestreview-5745310409) - 2026-11-03
+* [Pull Request] [fix(tracing): expose the effective gas tip as the JavaScript tracer's ctx.gasPrice](https://github.com/NethermindEth/nethermind/pull/15492) - 2026-11-03
+* [Pull Request] [fix(snapshot): retry HTTP 408 responses during snapshot download](https://github.com/NethermindEth/nethermind/pull/15490) - 2026-11-03
+* [Review] [Review on: perf(rpc): check the header bloom once per logs subscription event](https://github.com/NethermindEth/nethermind/pull/15487#pullrequestreview-5745198113) - 2026-11-03
+* [Review] [Review on: perf(sync): write snap bytecodes to the batch from the response span](https://github.com/NethermindEth/nethermind/pull/15488#pullrequestreview-5745296543) - 2026-11-03
+* [Review] [Review on: fix(sync): cap the GetNodeData response size](https://github.com/NethermindEth/nethermind/pull/15467#pullrequestreview-5740799711) - 2026-11-02
+* [Review] [Review on: fix(optimism): fill eth_sendTransaction nonces on a node that forwards to the sequencer](https://github.com/NethermindEth/nethermind/pull/15446#pullrequestreview-5740846141) - 2026-11-02
+* [Review] [Review on: perf(flat): reuse static metric labels on snapshot persist](https://github.com/NethermindEth/nethermind/pull/15480#pullrequestreview-5745309286) - 2026-11-03
+* [Review] [Review on: refactor(rlp): replace the old RLP core with FluentRlp](https://github.com/NethermindEth/nethermind/pull/15458#pullrequestreview-5745304787) - 2026-11-03
+* [Review] [Review on: perf(merge): read the parent block info once per newPayload when no wait happens](https://github.com/NethermindEth/nethermind/pull/15484#pullrequestreview-5745300855) - 2026-11-03
+* [Review] [Review on: perf(merge): track queued newPayload copies in one array](https://github.com/NethermindEth/nethermind/pull/15476#pullrequestreview-5745299831) - 2026-11-03
+* [Review] [Review on: perf(receipts): skip block load when only receipt senders are missing](https://github.com/NethermindEth/nethermind/pull/15481#pullrequestreview-5745298761) - 2026-11-03
+* [Review] [Review on: perf(trie): avoid closure allocation in CachedTrieStore lookup](https://github.com/NethermindEth/nethermind/pull/15485#pullrequestreview-5745297017) - 2026-11-03
+* [Review] [Review on: refactor(network)!: serialize eth request and response messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15470#pullrequestreview-5745295336) - 2026-11-03
+* [Review] [Review on: perf(rlp): compute chain level info lengths once per encode](https://github.com/NethermindEth/nethermind/pull/15475#pullrequestreview-5745294162) - 2026-11-03
+* [Review] [Review on: perf(rlp): drop unreachable zero r/s check in SignatureBuilder](https://github.com/NethermindEth/nethermind/pull/15479#pullrequestreview-5745293133) - 2026-11-03
+* [Review] [Review on: perf(rpc): execute buffered transaction traces of a batch concurrently](https://github.com/NethermindEth/nethermind/pull/15474#pullrequestreview-5745291976) - 2026-11-03
+* [Review] [Review on: perf(rpc): typed subscription sends without a closure per event](https://github.com/NethermindEth/nethermind/pull/15478#pullrequestreview-5745290763) - 2026-11-03
+* [Review] [Review on: perf(rpc): write eth_getLogs topics without allocating hashes](https://github.com/NethermindEth/nethermind/pull/15489#pullrequestreview-5745289638) - 2026-11-03
+* [Review] [Review on: fix(network): skip sync-serve work when the peer outbound buffer is full](https://github.com/NethermindEth/nethermind/pull/15472#pullrequestreview-5745196919) - 2026-11-03
+* [Review] [Review on: fix(network): limit the sync-serve requests in flight for each peer](https://github.com/NethermindEth/nethermind/pull/15471#pullrequestreview-5745195826) - 2026-11-03
+* [Review] [Review on: perf(core): make Keccak.EmptyTreeHash static readonly](https://github.com/NethermindEth/nethermind/pull/15477#pullrequestreview-5745194686) - 2026-11-03
+* [Review] [Review on: fix(network)!: use blob-major cell order in eth/72 Cells](https://github.com/NethermindEth/nethermind/pull/15486#pullrequestreview-5745169727) - 2026-11-03
+* [Review] [Review on: fix(rpc): render JavaScript tracer results without recursion](https://github.com/NethermindEth/nethermind/pull/15482#pullrequestreview-5745168490) - 2026-11-03
+* [Review] [Review on: fix(txpool): let another copy replace a blob tx rejected for its sidecar](https://github.com/NethermindEth/nethermind/pull/15466#pullrequestreview-5740806812) - 2026-11-02
+* [Review] [Review on: refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks](https://github.com/NethermindEth/nethermind/pull/15407#pullrequestreview-5740882360) - 2026-11-02
+* [Review] [Review on: fix(tracing): omit storage on struct-log steps where SSTORE fails](https://github.com/NethermindEth/nethermind/pull/15465#pullrequestreview-5740797882) - 2026-11-02
+* [Review] [Review on: refactor(json-rpc): decouple deferred errors and test batch item rollback](https://github.com/NethermindEth/nethermind/pull/15335#pullrequestreview-5740884123) - 2026-11-02
+* [Review] [Review on: perf(zkevm): replace the eager witness path walk with node-local and lazy checks](https://github.com/NethermindEth/nethermind/pull/15063#pullrequestreview-5741225345) - 2026-11-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

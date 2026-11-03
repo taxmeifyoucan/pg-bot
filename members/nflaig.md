@@ -335,6 +335,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: let Lerna publish the native wrapper package](https://github.com/ChainSafe/lodestar/pull/10527) - 2026-10-31
 * [Commit] [chore(ci): key the Zig cache by host glibc and kernel (#10528)](https://github.com/ChainSafe/lodestar/commit/8d8efcbf5fab80e26f2700d1197154541e1d2f9f) - 2026-10-31
 * [Commit] [chore: let Lerna publish the native wrapper package (#10527)](https://github.com/ChainSafe/lodestar/commit/9bcbf1838a2c166c52b79c0bbf222a8db6e07db9) - 2026-10-31
+* [Issue] [Docker image build compiles @lodestar/native from source instead of using the prebuilt binary](https://github.com/ChainSafe/lodestar/issues/10533) - 2026-11-02
+* [Commit] [chore(ci): build release binary bindings for an explicit glibc target (#10529)](https://github.com/ChainSafe/lodestar/commit/c0ed1935bcd72060f118254ccb45eb76e9d6c3e9) - 2026-11-02
+* [Commit] [chore: resolve pnpm catalog dependencies when publishing (#10530)](https://github.com/ChainSafe/lodestar/commit/bb16085c5ea5c1d0c0fba64d454f49954641baf1) - 2026-11-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -360,6 +363,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: core: better caching for jumpdest analysis](https://github.com/ethereum/go-ethereum/pull/35881#pullrequestreview-5418545030) - 2026-10-05
 
 * [Issue] [Blob transactions are not propagated to the peer before inclusion on a two-node devnet](https://github.com/ethereum/go-ethereum/issues/35921) - 2026-10-09
+* [Issue] [p2p: geth to geth sessions dropped after exactly 10s with read timeout since #35950](https://github.com/ethereum/go-ethereum/issues/36060) - 2026-11-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Gloas: head with an EL-unvalidated payload is treated as execution-valid; block production only stopped by the EL](https://github.com/status-im/nimbus-eth2/issues/9203) - 2026-10-05
 

@@ -675,6 +675,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [perf(zkevm): re-encode only the branch slots that writes reached on the SP1 guest](https://github.com/NethermindEth/nethermind/pull/15457) - 2026-11-01
 * [Pull Request] [refactor(rlp): replace the old RLP core with FluentRlp](https://github.com/NethermindEth/nethermind/pull/15458) - 2026-11-01
 * [Pull Request] [perf(zkevm): hold the SP1 guest's paired handlers in 32 bits](https://github.com/NethermindEth/nethermind/pull/15455) - 2026-11-01
+* [Review] [Review on: perf(consensus)!: pass the next block's base fee to the tx filters with the call](https://github.com/NethermindEth/nethermind/pull/15442#pullrequestreview-5742598043) - 2026-11-02
+* [Pull Request] [fix(sync): cap the GetNodeData response size](https://github.com/NethermindEth/nethermind/pull/15467) - 2026-11-02
+* [Review] [Review on: fix(optimism): fill eth_sendTransaction nonces on a node that forwards to the sequencer](https://github.com/NethermindEth/nethermind/pull/15446#pullrequestreview-5734236652) - 2026-11-02
+* [Review] [Review on: refactor(rlp): replace the old RLP core with FluentRlp](https://github.com/NethermindEth/nethermind/pull/15458#pullrequestreview-5735539878) - 2026-11-02
+* [Pull Request] [fix(network): skip sync-serve work when the peer outbound buffer is full](https://github.com/NethermindEth/nethermind/pull/15472) - 2026-11-02
+* [Pull Request] [fix(network): limit the sync-serve requests in flight for each peer](https://github.com/NethermindEth/nethermind/pull/15471) - 2026-11-02
+* [Pull Request] [fix(txpool): let another copy replace a blob tx rejected for its sidecar](https://github.com/NethermindEth/nethermind/pull/15466) - 2026-11-02
+* [Review] [Review on: refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks](https://github.com/NethermindEth/nethermind/pull/15407#pullrequestreview-5734332027) - 2026-11-02
+* [Review] [Review on: feat(zkevm): add an Airbender (RV32IM) stateless guest](https://github.com/NethermindEth/nethermind/pull/15278#pullrequestreview-5735981686) - 2026-11-02
+* [Review] [Review on: perf(evm): trace only inspected opcodes in the frame validation prefix](https://github.com/NethermindEth/nethermind/pull/15448#pullrequestreview-5733960764) - 2026-11-02
+* [Review] [Review on: refactor(json-rpc): decouple deferred errors and test batch item rollback](https://github.com/NethermindEth/nethermind/pull/15335#pullrequestreview-5734188986) - 2026-11-02
+* [Commit] [perf(zkevm): hold the SP1 guest's paired handlers in 32 bits (#15455)](https://github.com/NethermindEth/nethermind/commit/fed4a63a23b78f4bc8b6eef312182bd8299ba3ac) - 2026-11-02
+* [Commit] [perf(zkevm): call memmove directly and write the first Keccak block lane by lane on OpenVM (#15451)](https://github.com/NethermindEth/nethermind/commit/74d28f8d9c194b8927891f82c8f859d773ae7546) - 2026-11-02
+* [Commit] [perf(zkevm): run calls without value through a guest handler that reads their operands in place (#15404)](https://github.com/NethermindEth/nethermind/commit/f26e5bb8bc6b4c7f6e0c73715175a0bbdd0a6ed4) - 2026-11-02
+* [Commit] [perf(zkevm): read the bloom index bits big-endian on the guest (#15400)](https://github.com/NethermindEth/nethermind/commit/a02ddbeeac6b71dd09c5fd6ea63dede06b59e0b2) - 2026-11-02
+* [Commit] [perf(zkevm): write RLP hashes as aligned words on strict-alignment guests (#15399)](https://github.com/NethermindEth/nethermind/commit/63bacd0b837bd71b77b731b6299449502bf0e0ae) - 2026-11-02
+* [Commit] [perf(zkevm): run CODECOPY through the guest data-copy handler (#15398)](https://github.com/NethermindEth/nethermind/commit/f66bf4060360746b205bc3e6e7494d53578eb2df) - 2026-11-02
+* [Commit] [perf(sync): download block access lists for executed blocks in full sync (#15378)](https://github.com/NethermindEth/nethermind/commit/265a8302a3021f2e045c372e9397b99dc6b7450d) - 2026-11-02
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

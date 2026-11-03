@@ -52,6 +52,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Add Gloas builder containers from beacon API](https://github.com/grandinetech/grandine/commit/f7d9da45988391c0d989d937c53e7a0daaa7a1f9) - 2026-10-22
 * [Commit] [Stop registering validators with the builder after the Gloas fork](https://github.com/grandinetech/grandine/commit/560ea61fb2bbc92242821c243b4ee21e565681c6) - 2026-10-22
 * [Pull Request] [Query parent payload envelope from cache and storage in block production](https://github.com/grandinetech/grandine/pull/1023) - 2026-10-31
+* [Review] [Review on: Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020#pullrequestreview-5735310562) - 2026-11-02
 ## Q3 2026
 
 

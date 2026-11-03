@@ -48,6 +48,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Close inbound RPC streams whose response cannot be written](https://github.com/Consensys-Incorporated/teku/pull/11569#pullrequestreview-5632801199) - 2026-10-23
 * [Commit] [Add GET proposer_preferences endpoint (#11548)](https://github.com/Consensys-Incorporated/teku/commit/2dc799fc736f8851be3ae19efd30a11dca58a411) - 2026-10-23
 * [Commit] [Refactor state data BEACON-API endpoints (#11558)](https://github.com/Consensys-Incorporated/teku/commit/3fa2f69e3b5a6ff8821955fe8e595b3a27fe31e9) - 2026-10-23
+* [Pull Request] [Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609) - 2026-11-02
+* [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-5739630473) - 2026-11-02
 ## Q3 2026
 
 

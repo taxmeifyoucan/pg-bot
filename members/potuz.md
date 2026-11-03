@@ -47,11 +47,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Return the bid interface from the block body getter (Heze preparation)](https://github.com/OffchainLabs/prysm/pull/17739#pullrequestreview-5584398480) - 2026-10-20
 * [Review] [Review on: Unschedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17760#pullrequestreview-5616652522) - 2026-10-22
 * [Review] [Review on: Use randomized aggregation for same-message signature batches](https://github.com/OffchainLabs/prysm/pull/17763#pullrequestreview-5729879465) - 2026-11-01
+* [Pull Request] [Improve proposer filtering of packed attestations](https://github.com/OffchainLabs/prysm/pull/17805) - 2026-11-02
+* [Commit] [Improve proposer filtering of packed attestations (#17805)](https://github.com/OffchainLabs/prysm/commit/900b80313e775b686dac5bc4f91f1a0bbc3e3dc8) - 2026-11-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
 * [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5613484827) - 2026-10-22
 
+* [Pull Request] [Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609) - 2026-11-02
+* [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5739961053) - 2026-11-02
+* [Pull Request] [Update EIP-8148: change request type to 0x06](https://github.com/ethereum/EIPs/pull/12608) - 2026-11-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5631371289) - 2026-10-23
 ## Q3 2026

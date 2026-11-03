@@ -153,6 +153,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Keep the finalized anchor DAS tracker alive while its payload is recovered (#11553)](https://github.com/Consensys-Incorporated/teku/commit/18f4166890c7fc0afdc07c737205eb6288b1f0b0) - 2026-10-23
 * [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5721366715) - 2026-10-31
 * [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5731583671) - 2026-11-02
+* [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5745279962) - 2026-11-03
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

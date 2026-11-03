@@ -51,6 +51,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070) - 2026-10-22
 * [Review] [Review on: perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121#pullrequestreview-5627759834) - 2026-10-23
 * [Review] [Review on: fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070#pullrequestreview-5627901951) - 2026-10-23
+* [Review] [Review on: perf(flat): drop per-key buffer wrapper and lists in trie warm-up](https://github.com/NethermindEth/nethermind/pull/15498#pullrequestreview-5747413020) - 2026-11-03
+* [Pull Request] [refactor(flat): write flat-import trie nodes on the traversal threads](https://github.com/NethermindEth/nethermind/pull/15499) - 2026-11-03
+* [Pull Request] [perf(flat): visit tries by following node record pointers](https://github.com/NethermindEth/nethermind/pull/15491) - 2026-11-03
+* [Review] [Review on: perf(flat): visit tries by following node record pointers](https://github.com/NethermindEth/nethermind/pull/15491#pullrequestreview-5745774571) - 2026-11-03
+* [Pull Request] [refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks](https://github.com/NethermindEth/nethermind/pull/15407) - 2026-11-02
+* [Commit] [refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks (#15407)](https://github.com/NethermindEth/nethermind/commit/bbf9b1a5955b9e9190cef07a3b5e9a92638c1c21) - 2026-11-02
+* [Commit] [test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines (#15376)](https://github.com/NethermindEth/nethermind/commit/cb4a7807e46d8434d3d8044b612f1bc18ba2702d) - 2026-11-02
 ## Q3 2026
 
 

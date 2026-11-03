@@ -305,6 +305,28 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txnprovider/txpool: delete pool DB rows that validateTx rejects on reload (#25598)](https://github.com/erigontech/erigon/commit/c2536e4b783ad430501f6c64853282521c4d6fd8) - 2026-11-01
 * [Commit] [cl/phase1/forkchoice/fork_graph: skip re-dumping an already dumped head state (#25539)](https://github.com/erigontech/erigon/commit/3d7abd924010619895130098ecfe128eca39723d) - 2026-11-01
 * [Commit] [cl/utils/bls: aggregate public keys with blst batch addition (#25542)](https://github.com/erigontech/erigon/commit/5d38a046a29e899db139dd44f7c83691e5ca5244) - 2026-11-01
+* [Review] [Review on: cl: serve historical Gloas execution payload envelopes](https://github.com/erigontech/erigon/pull/25437#pullrequestreview-5741304411) - 2026-11-02
+* [Pull Request] [[r3.8] cl/phase1/forkchoice: keep vote weights across get_head calls and apply votes when recorded](https://github.com/erigontech/erigon/pull/25711) - 2026-11-03
+* [Pull Request] [[r3.8] cl/persistence, cl/phase1, db/kv: persist Gloas execution payload envelope signatures](https://github.com/erigontech/erigon/pull/25706) - 2026-11-02
+* [Pull Request] [[r3.8] cl: reduce head latency and fork-choice lock hold time](https://github.com/erigontech/erigon/pull/25704) - 2026-11-02
+* [Pull Request] [[r3.8] cl, db: backport CL correctness fixes and test deflakes](https://github.com/erigontech/erigon/pull/25703) - 2026-11-02
+* [Pull Request] [[r3.8] cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict](https://github.com/erigontech/erigon/pull/25701) - 2026-11-02
+* [Pull Request] [cl/beacon/handler: publish a POSTed Gloas envelope's columns before storing them](https://github.com/erigontech/erigon/pull/25710) - 2026-11-03
+* [Review] [Review on: cl/phase1/network/services: sync committee follow-ups to #25605](https://github.com/erigontech/erigon/pull/25679#pullrequestreview-5739782259) - 2026-11-02
+* [Review] [Review on: cl/phase1/network/services: check the expected proposer of Fulu data column sidecars](https://github.com/erigontech/erigon/pull/25684#pullrequestreview-5739763909) - 2026-11-02
+* [Issue] [cl/spectest: run the consensus-spec suites registered as UnimplementedHandler (812 mainnet cases)](https://github.com/erigontech/erigon/issues/25698) - 2026-11-02
+* [Issue] [cl/phase1: penalize peers that serve invalid execution payload envelopes](https://github.com/erigontech/erigon/issues/25696) - 2026-11-02
+* [Issue] [cl/phase1/forkchoice: envelope index rows can be lost when a prune races an envelope apply without payload validation](https://github.com/erigontech/erigon/issues/25685) - 2026-11-02
+* [Commit] [cl/beacon/handler: encode head validators off the head-state lock (#25660)](https://github.com/erigontech/erigon/commit/e5a82dc38c3d643cef4257b46834b014aba80595) - 2026-11-02
+* [Commit] [cl/phase1/network, cl/phase1/stages: validate envelopes fetched from peers (#25530)](https://github.com/erigontech/erigon/commit/a0b9341dd7d4cf9015769dd03d271397a7bf2233) - 2026-11-02
+* [Commit] [cl/cltypes/solid, cl/phase1/core/state: allocate the phase0 inclusion-delay sidecar lazily (#25647)](https://github.com/erigontech/erigon/commit/74ff6e96cf27e33bb2909bd6a209eda8b8b25c5a) - 2026-11-02
+* [Commit] [cl/phase1/forkchoice: index a freshly applied envelope when the fork graph prunes it before the repair write (#25521)](https://github.com/erigontech/erigon/commit/17ace962e20d4ec2767d1f1c9b985f6cc8509d1b) - 2026-11-02
+* [Commit] [cl/cltypes/solid, cl/phase1/core/state/raw: hash participation subtrees in parallel (#25596)](https://github.com/erigontech/erigon/commit/fd598852a2dc4549bd823f52d91460b4c2852598) - 2026-11-02
+* [Commit] [cl/phase1/forkchoice: build the PTC validation context from a state view (#25646)](https://github.com/erigontech/erigon/commit/147c959a7230466cbd7dc2f3713f85a6abd9b562) - 2026-11-02
+* [Commit] [cl/phase1/forkchoice: apply fork-choice votes when they are recorded (#25595)](https://github.com/erigontech/erigon/commit/1f662b3ab42b5a24a812c96d57298deba96b2a6f) - 2026-11-02
+* [Commit] [db/state/execctx: add regression tests for code-cache hash pairing (#25423)](https://github.com/erigontech/erigon/commit/a4aed5ba3be65354fd1cb155deaf0ff1411211ae) - 2026-11-02
+* [Commit] [cl/beacon/handler, cl/das: store only custody columns of self-built blocks after OnBlock (#25540)](https://github.com/erigontech/erigon/commit/a367c72829e6aa8ef39329d8c0679a92f05ed482) - 2026-11-02
+* [Commit] [cl/phase1/stages, cl/phase1/forkchoice: emit head events before the head-state copy (#25543)](https://github.com/erigontech/erigon/commit/2d25a9b80358d3aafe64c5d6b5d1ce725906e782) - 2026-11-02
 ## Q3 2026
 
 

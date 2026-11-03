@@ -251,6 +251,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/stagedsync: re-check only readers of the written paths](https://github.com/erigontech/erigon/pull/25590#pullrequestreview-5727589933) - 2026-11-01
 * [Pull Request] [cl/beacon/builder: fix admission test maximum counter](https://github.com/erigontech/erigon/pull/25656) - 2026-11-01
 * [Commit] [cl/beacon/builder: fix admission test maximum counter (#25656)](https://github.com/erigontech/erigon/commit/774c4379239282a6959ce695f194434e175dd5ae) - 2026-11-01
+* [Review] [Review on: cl: serve historical Gloas execution payload envelopes](https://github.com/erigontech/erigon/pull/25437#pullrequestreview-5736256795) - 2026-11-02
+* [Review] [Review on: rpc/jsonrpc: resolve historical simulation writes against the simulated view](https://github.com/erigontech/erigon/pull/25687#pullrequestreview-5737194741) - 2026-11-02
+* [Review] [Review on: execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/25688#pullrequestreview-5738462133) - 2026-11-02
+* [Review] [Review on: cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386#pullrequestreview-5734306702) - 2026-11-02
+* [Pull Request] [db/downloader: isolate peer manifest downloads](https://github.com/erigontech/erigon/pull/25693) - 2026-11-02
+* [Review] [Review on: db/downloader: isolate peer manifest downloads](https://github.com/erigontech/erigon/pull/25693#pullrequestreview-5739740060) - 2026-11-02
+* [Pull Request] [rpc: preserve keyed frame transactions in txpool responses](https://github.com/erigontech/erigon/pull/25702) - 2026-11-02
+* [Pull Request] [ci: update execution-specs tests to v21.0.2](https://github.com/erigontech/erigon/pull/25689) - 2026-11-02
+* [Review] [Review on: ci: update execution-specs tests to v21.0.2](https://github.com/erigontech/erigon/pull/25689#pullrequestreview-5738036599) - 2026-11-02
+* [Issue] [txpool: simplify transaction lifecycle, account refresh, and admission batches](https://github.com/erigontech/erigon/issues/25682) - 2026-11-02
+* [Issue] [cl/das: schedule blob recovery after partial EL column imports in archive mode](https://github.com/erigontech/erigon/issues/25680) - 2026-11-02
+* [Issue] [engineapi: reduce SSZ response allocations and measure transport performance](https://github.com/erigontech/erigon/issues/25677) - 2026-11-02
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -266,6 +278,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [docs: remove Willian Mitsuda from active membership](https://github.com/protocolguild/documentation/pull/569) - 2026-10-07
 * [Pull Request] [docs: remove Ilya Mikheev from active membership](https://github.com/protocolguild/documentation/pull/570) - 2026-10-07
 * [Pull Request] [Add Oleksandr Lystopad from Erigon](https://github.com/protocolguild/documentation/pull/572) - 2026-10-08
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Issue] [libdocker, libhive: short container ID collision hangs test cleanup](https://github.com/ethereum/hive/issues/1654) - 2026-11-02
 ## Q3 2026
 
 

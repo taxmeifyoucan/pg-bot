@@ -43,6 +43,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(rpc): align four JSON-RPC behaviours with execution-apis](https://github.com/NethermindEth/nethermind/pull/14978#pullrequestreview-5604606425) - 2026-10-21
 * [Review] [Review on: perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952#pullrequestreview-5609111630) - 2026-10-22
 * [Review] [Review on: Add Light Client](https://github.com/NethermindEth/nethermind/pull/14457#pullrequestreview-5729954173) - 2026-11-01
+* [Review] [Review on: perf(consensus)!: pass the next block's base fee to the tx filters with the call](https://github.com/NethermindEth/nethermind/pull/15442#pullrequestreview-5739838636) - 2026-11-02
+* [Review] [Review on: ci(docs): author docs commits as the GitHub app](https://github.com/NethermindEth/nethermind/pull/15473#pullrequestreview-5743621936) - 2026-11-02
+* [Commit] [fix(network)!: use blob-major cell order in eth/72 Cells (#15439)](https://github.com/NethermindEth/nethermind/commit/45a695b01abf3a280a0d06621a7fe51a0bb2f6de) - 2026-11-02
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

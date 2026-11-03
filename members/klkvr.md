@@ -23,6 +23,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: refactor: remove redundant trait bounds](https://github.com/paradigmxyz/reth/pull/27875#pullrequestreview-5499197506) - 2026-10-13
 * [Pull Request] [fix(rpc): exclude EIP-7702 authorities from generated access lists](https://github.com/paradigmxyz/reth/pull/27877) - 2026-10-13
 * [Pull Request] [fix(rpc): remove existing accounts emptied by state overrides](https://github.com/paradigmxyz/reth/pull/27932) - 2026-10-15
+* [Pull Request] [feat(engine): add executed block ext and persistence hook](https://github.com/paradigmxyz/reth/pull/28242) - 2026-11-03
 ## Q3 2026
 
 

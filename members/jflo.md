@@ -55,6 +55,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [[behaviour change: opcode table of unscheduled forks] Frame execution support in the EVM (v1 + v2)](https://github.com/besu-eth/besu/pull/11738) - 2026-10-23
 * [Pull Request] [[neutral: unscheduled forks] Frame receipts (EIP-8141)](https://github.com/besu-eth/besu/pull/11737) - 2026-10-23
 * [Pull Request] [[behaviour change: byte 0x06 maps to FRAME] Frame transaction model and wire codec (EIP-8141 + EIP-8250)](https://github.com/besu-eth/besu/pull/11736) - 2026-10-23
+* [Pull Request] [ci(codeql): skip unchanged trees and compile without build cache](https://github.com/besu-eth/besu/pull/11850) - 2026-11-02
+* [Review] [Review on: ci(codeql): skip unchanged trees and compile without build cache](https://github.com/besu-eth/besu/pull/11850#pullrequestreview-5739247270) - 2026-11-02
+* [Review] [Review on: Rotate CHANGELOG for 26.11.0](https://github.com/besu-eth/besu/pull/11849#pullrequestreview-5738993822) - 2026-11-02
+* [Commit] [ci(codeql): skip unchanged trees and compile without build cache (#11850)](https://github.com/besu-eth/besu/commit/74aa869bc9dfd90d79b5b90497a31cc9241e650e) - 2026-11-02
+* [Commit] [Reject trailing data on compacted receipts from a peer (GHSA-mp5j-q856-vvx7) (#233)](https://github.com/besu-eth/besu/commit/d266aa87139fe226b17fe9f579e2b19e2ca1ed59) - 2026-11-02
+* [Commit] [Bound per-account EIP-7928 slot tracking against chosen-hash collisions (#144)](https://github.com/besu-eth/besu/commit/51e31dfe95de0752b6c02cb34a80d0ee91ff0a6b) - 2026-11-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026

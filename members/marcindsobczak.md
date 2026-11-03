@@ -103,6 +103,16 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155) - 2026-10-23
 * [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5626733893) - 2026-10-23
 * [Commit] [test(prewarm): fix flaky ConsumerScope_Opening pre-warmer tests (#15144)](https://github.com/NethermindEth/nethermind/commit/2da902d4fd1255e842d1629948e7ce3474981577) - 2026-10-23
+* [Review] [Review on: perf(consensus)!: pass the next block's base fee to the tx filters with the call](https://github.com/NethermindEth/nethermind/pull/15442#pullrequestreview-5744404615) - 2026-11-02
+* [Review] [Review on: fix(sync): cap the GetNodeData response size](https://github.com/NethermindEth/nethermind/pull/15467#pullrequestreview-5742060737) - 2026-11-02
+* [Review] [Review on: refactor(network)!: serialize eth request and response messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15470#pullrequestreview-5744236766) - 2026-11-02
+* [Pull Request] [fix(rpc): render JavaScript tracer results without recursion](https://github.com/NethermindEth/nethermind/pull/15482) - 2026-11-02
+* [Review] [Review on: fix(txpool): let another copy replace a blob tx rejected for its sidecar](https://github.com/NethermindEth/nethermind/pull/15466#pullrequestreview-5742036979) - 2026-11-02
+* [Review] [Review on: perf(evm): trace only inspected opcodes in the frame validation prefix](https://github.com/NethermindEth/nethermind/pull/15448#pullrequestreview-5734168335) - 2026-11-02
+* [Review] [Review on: refactor(json-rpc): decouple deferred errors and test batch item rollback](https://github.com/NethermindEth/nethermind/pull/15335#pullrequestreview-5743218804) - 2026-11-02
+* [Commit] [perf(producers): format the block-production picker's gas and nonce skip reasons only when read (#15444)](https://github.com/NethermindEth/nethermind/commit/3e7effa9c7fcd58771cc9b19972042d918985b1f) - 2026-11-02
+* [Commit] [test(state-tests): check the fixture's logs hash next to the post-state root (#15443)](https://github.com/NethermindEth/nethermind/commit/c6d0763370b54526f3d9a752f2267367de44942f) - 2026-11-02
+* [Commit] [test(merge): wait for commits in the V7 empty-block helper and bound WaitForCommitted by the test timeout (#15441)](https://github.com/NethermindEth/nethermind/commit/2e7b78b737ee7fb29f849d4c58dc29db450429b6) - 2026-11-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

@@ -65,6 +65,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-tests): reset the default chain id around every unit test](https://github.com/ethereum/execution-specs/pull/3950) - 2026-11-01
 * [Commit] [feat(test-consume): ask clients for a fast KZG setup (#3949)](https://github.com/ethereum/execution-specs/commit/fd9298410ec7218838c8348f69c1eb633f1797dc) - 2026-11-01
 * [Commit] [fix(test-tests): reset the default chain id around every unit test (#3950)](https://github.com/ethereum/execution-specs/commit/9a9e1e49c11268e326544d62033151d1ba53b2bc) - 2026-11-01
+* [Pull Request] [feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952) - 2026-11-02
+* [Review] [Review on: feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952#pullrequestreview-5736437303) - 2026-11-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -86,6 +88,20 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [cmd/hiveview, cmd/hq: add run end time to listing (#1634)](https://github.com/ethereum/hive/commit/7dbf2ac372a48796d1309dd0101883a5a5225508) - 2026-10-22
 * [Pull Request] [clients/go-ethereum: initialize the KZG library on first use when HIVE_KZG_FAST_SETUP is set](https://github.com/ethereum/hive/pull/1647) - 2026-11-01
 * [Commit] [clients/go-ethereum: initialize the KZG library on first use when HIVE_KZG_FAST_SETUP is set (#1647)](https://github.com/ethereum/hive/commit/3d26047788251bba5beb7ffcf84d05be9cf3e4bb) - 2026-11-01
+* [Pull Request] [clients/go-ethereum: only enable HIVE_EXPECT_DEEP_REORGS and HIVE_KZG_FAST_SETUP when set to 1](https://github.com/ethereum/hive/pull/1655) - 2026-11-02
+* [Pull Request] [clients: map and dump the genesis in one jq pass](https://github.com/ethereum/hive/pull/1652) - 2026-11-02
+* [Pull Request] [clients/nimbus-el: strip empty genesis values in one pass](https://github.com/ethereum/hive/pull/1651) - 2026-11-02
+* [Pull Request] [internal/libdocker: start containers only once the output attach is established](https://github.com/ethereum/hive/pull/1649) - 2026-11-02
+* [Pull Request] [internal/libdocker: remove anonymous volumes along with containers](https://github.com/ethereum/hive/pull/1650) - 2026-11-02
+* [Pull Request] [clients/reth: list /blocks only when it exists](https://github.com/ethereum/hive/pull/1653) - 2026-11-02
+* [Pull Request] [clients/nethermind: turn off dynamic PGO](https://github.com/ethereum/hive/pull/1646) - 2026-11-02
+* [Pull Request] [clients/ethrex: always pass --http.api](https://github.com/ethereum/hive/pull/1648) - 2026-11-02
+* [Commit] [clients/nimbus-el: strip empty genesis values in one pass (#1651)](https://github.com/ethereum/hive/commit/64d7af92c63962779d0c9bbf404bb58733bd1b05) - 2026-11-02
+* [Commit] [internal/libdocker: start containers only once the output attach is established (#1649)](https://github.com/ethereum/hive/commit/f6f3559f554f310a0ca8c1dec03c31e2397857ab) - 2026-11-02
+* [Commit] [internal/libdocker: remove anonymous volumes along with containers (#1650)](https://github.com/ethereum/hive/commit/09fbd89a758047b2fc23b592a7df41351157ec06) - 2026-11-02
+* [Commit] [clients/reth: list /blocks only when it exists (#1653)](https://github.com/ethereum/hive/commit/c7c4e13ccfe54dfeb7b3606c28d61c7956154900) - 2026-11-02
+* [Commit] [clients/nethermind: turn off dynamic PGO (#1646)](https://github.com/ethereum/hive/commit/490a7ab4de0f6424f9cca0c4a08c1f0f625c6ad2) - 2026-11-02
+* [Commit] [clients/ethrex: always pass --http.api (#1648)](https://github.com/ethereum/hive/commit/1870b1b21d1093e8d8fc3b5aadec470e30df527f) - 2026-11-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -107,6 +123,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Require uv 0.13.4 or newer to avoid a compromised root CA](https://github.com/ethereum/consensus-specs/pull/5752) - 2026-10-21
 * [Commit] [Require uv 0.13.4 or newer to avoid a compromised root CA (#5752)](https://github.com/ethereum/consensus-specs/commit/75428da3274397af7254f40814c00e243f792d3d) - 2026-10-21
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386) - 2026-11-02
+* [Review] [Review on: cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386#pullrequestreview-5736056022) - 2026-11-02
+* [Commit] [cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file (#25386)](https://github.com/erigontech/erigon/commit/bd67c11944515fb1f00784ab87bfcacefa4d184e) - 2026-11-02
 ## Q3 2026
 
 

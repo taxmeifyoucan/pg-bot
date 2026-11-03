@@ -91,6 +91,10 @@ Team: Reth
 * [Pull Request] [refactor: own bundle state and drop revm](https://github.com/paradigmxyz/reth/pull/28098) - 2026-10-23
 * [Pull Request] [perf(rpc): hash simulated block changes once](https://github.com/paradigmxyz/reth/pull/28094) - 2026-10-23
 * [Pull Request] [fix(rpc): convert call request once](https://github.com/paradigmxyz/reth/pull/28097) - 2026-10-23
+* [Pull Request] [refactor(evm): run Ethereum blocks on evm2::block](https://github.com/paradigmxyz/reth/pull/28238) - 2026-11-02
+* [Pull Request] [fix(prune): run bodies pruning before tx lookup](https://github.com/paradigmxyz/reth/pull/28240) - 2026-11-02
+* [Pull Request] [fix(download): reject link entries in snapshot archives](https://github.com/paradigmxyz/reth/pull/28239) - 2026-11-02
+* [Review] [Review on: fix(examples): keep custom precompile after Prague](https://github.com/paradigmxyz/reth/pull/28237#pullrequestreview-5735931812) - 2026-11-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

@@ -158,6 +158,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Refactor RIPEMD-160 functions for inlining (#1800)](https://github.com/ipsilon/evmone/commit/8411c60e9c70d4c36653f8d1f2886cd3adcacac6) - 2026-11-01
 * [Commit] [evm: Push 64-bit values to the stack without a temporary (#1799)](https://github.com/ipsilon/evmone/commit/f73ca7745d41f1668d0bb36bfc0e1aa08b5e6ef4) - 2026-11-01
 * [Commit] [crypto: Fix the modexp AMM comment and explain the bound (#1797)](https://github.com/ipsilon/evmone/commit/1775e4d5f3fed19a94b37343b5a9bf2ef21b6b7e) - 2026-11-01
+* [Pull Request] [crypto: Use unsigned __int128 in multiply-accumulate with GCC](https://github.com/ipsilon/evmone/pull/1803) - 2026-11-02
+* [Commit] [AGENTS: Extend review, writing, commit and build guidelines (#1802)](https://github.com/ipsilon/evmone/commit/e0ce62b0f7bdbeffb61ca3d58c13de17257a2fe6) - 2026-11-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

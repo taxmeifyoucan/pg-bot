@@ -553,6 +553,42 @@ Team: Erigon
 * [Commit] [docs/site: bump docs deps (#25643)](https://github.com/erigontech/erigon/commit/34fd4facf47dbb748a4bb0d9e9091a7f8bc4b39b) - 2026-11-01
 * [Commit] [cmd/evm: enginextest --fgprof survives a request shorter than one sample (#25610)](https://github.com/erigontech/erigon/commit/c30e94c80d3c1174bfabf362e6f183da149e3101) - 2026-11-01
 * [Commit] [lint: enable wastedassign, gomoddirectives, revive bug rules, testifylint nil-compare (#25552)](https://github.com/erigontech/erigon/commit/8d966680cb6ef0bc9ae62ef11eed0337c0ed6286) - 2026-11-01
+* [Review] [Review on: [r3.8] cl/persistence, cl/phase1, db/kv: persist Gloas execution payload envelope signatures](https://github.com/erigontech/erigon/pull/25706#pullrequestreview-5745996368) - 2026-11-03
+* [Review] [Review on: [r3.8] cl, db: backport CL correctness fixes and test deflakes](https://github.com/erigontech/erigon/pull/25703#pullrequestreview-5746003140) - 2026-11-03
+* [Pull Request] [execution/stagedsync: the commitment calculator loads a first-touched account from the block's origin accounts](https://github.com/erigontech/erigon/pull/25691) - 2026-11-02
+* [Review] [Review on: execution/stagedsync: the commitment calculator loads a first-touched account from the block's origin accounts](https://github.com/erigontech/erigon/pull/25691#pullrequestreview-5746018688) - 2026-11-03
+* [Pull Request] [execution/commitment: derive hashed keys of decoded cells on first read](https://github.com/erigontech/erigon/pull/25699) - 2026-11-02
+* [Pull Request] [execution/stagedsync: fold only keys dirtied after a mid-block step checkpoint](https://github.com/erigontech/erigon/pull/25705) - 2026-11-02
+* [Review] [Review on: cl/phase1/network/services: sync committee follow-ups to #25605](https://github.com/erigontech/erigon/pull/25679#pullrequestreview-5736072958) - 2026-11-02
+* [Review] [Review on: cl/phase1/network/services: check the expected proposer of Fulu data column sidecars](https://github.com/erigontech/erigon/pull/25684#pullrequestreview-5736073270) - 2026-11-02
+* [Pull Request] [execution/protocol, execution/abi/bind/backends: run ExecuteBlockEphemerally and the simulated backend on NoMaterialize](https://github.com/erigontech/erigon/pull/25678) - 2026-11-02
+* [Review] [Review on: execution/protocol, execution/abi/bind/backends: run ExecuteBlockEphemerally and the simulated backend on NoMaterialize](https://github.com/erigontech/erigon/pull/25678#pullrequestreview-5734711015) - 2026-11-02
+* [Pull Request] [execution/receipts, rpc/jsonrpc/receipts, execution/stagedsync: derive receipts on NoMaterialize](https://github.com/erigontech/erigon/pull/25675) - 2026-11-02
+* [Review] [Review on: execution/receipts, rpc/jsonrpc/receipts, execution/stagedsync: derive receipts on NoMaterialize](https://github.com/erigontech/erigon/pull/25675#pullrequestreview-5733718777) - 2026-11-02
+* [Review] [Review on: db: temp files, goroutines and segments leaked on error paths; malformed preverified toml panics](https://github.com/erigontech/erigon/pull/25666#pullrequestreview-5734819971) - 2026-11-02
+* [Review] [Review on: execution/execmodule: stop reporting unexecuted canonical blocks as VALID](https://github.com/erigontech/erigon/pull/25566#pullrequestreview-5735711229) - 2026-11-02
+* [Pull Request] [execution/stagedsync, execution/state, execution/vm: restore parallelism of blocks that call contracts deployed in the same block](https://github.com/erigontech/erigon/pull/25694) - 2026-11-02
+* [Review] [Review on: execution/stagedsync, execution/state, execution/vm: restore parallelism of blocks that call contracts deployed in the same block](https://github.com/erigontech/erigon/pull/25694#pullrequestreview-5745936029) - 2026-11-03
+* [Pull Request] [rpc, execution/protocol/rules: move rpc.API to rpc/rpccfg so the consensus interface does not import rpc](https://github.com/erigontech/erigon/pull/25709) - 2026-11-03
+* [Review] [Review on: execution/exec: read a BAL block's cold file pages in io_uring batches](https://github.com/erigontech/erigon/pull/25486#pullrequestreview-5745757983) - 2026-11-03
+* [Pull Request] [execution/protocol/rules: drop Engine.APIs, the consensus interface no longer imports rpc](https://github.com/erigontech/erigon/pull/25708) - 2026-11-03
+* [Pull Request] [rpc/jsonrpc: resolve historical simulation writes against the simulated view](https://github.com/erigontech/erigon/pull/25687) - 2026-11-02
+* [Review] [Review on: rpc/jsonrpc: resolve historical simulation writes against the simulated view](https://github.com/erigontech/erigon/pull/25687#pullrequestreview-5736605598) - 2026-11-02
+* [Pull Request] [execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/25688) - 2026-11-02
+* [Review] [Review on: execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/25688#pullrequestreview-5736928579) - 2026-11-02
+* [Review] [Review on: rlp: advance byte-backed Stream by offset](https://github.com/erigontech/erigon/pull/25659#pullrequestreview-5746181024) - 2026-11-03
+* [Pull Request] [execution/exec, execution/state: warmup reads storage slots without interning them](https://github.com/erigontech/erigon/pull/25695) - 2026-11-02
+* [Commit] [rpc/jsonrpc: resolve historical simulation writes against the simulated view (#25687)](https://github.com/erigontech/erigon/commit/0d5c830b7f4b04458254902896bbc2242fa6fb48) - 2026-11-03
+* [Commit] [execution/state: skip the self-destruct storage walk when the address has no account (#25688)](https://github.com/erigontech/erigon/commit/191413a743b11a08273cd5ffd07760ba29bd8d08) - 2026-11-03
+* [Commit] [execution/vm: reuse a MULMOD modulus's reciprocal while the modulus repeats (#25648)](https://github.com/erigontech/erigon/commit/f105e5b741b0754491f5ad29a4ba820c524acccf) - 2026-11-02
+* [Commit] [common/crypto: prefault the keccak cache pages at startup (#25669)](https://github.com/erigontech/erigon/commit/9a918c2ed7a1fb11106d65c94a03457bae16b64d) - 2026-11-02
+* [Commit] [rpc/jsonrpc, execution/exec: run pre-BAL eth_simulateV1 and HistoricalTraceWorker on NoMaterialize (#25673)](https://github.com/erigontech/erigon/commit/136d75fd3c9c6ddeaa78ee01fb7504f4da64adbf) - 2026-11-02
+* [Commit] [execution/protocol/misc: reuse the last blob gas price for the same inputs (#25653)](https://github.com/erigontech/erigon/commit/5c2dda5a741ea243d206a20c7bb76ecdcedf4ba7) - 2026-11-02
+* [Commit] [db/state: fix HistoryRange -1 bounds and desc IdxRange at files end (#25662)](https://github.com/erigontech/erigon/commit/66ca97264c493f7950389b002ada184beb0e327c) - 2026-11-02
+* [Commit] [db/migrations, db/integrity, node: migration marked done before commit; integrity loses problems on timeout; renames before datadir lock (#25665)](https://github.com/erigontech/erigon/commit/948e1adb521068fc62b23687e4ec94af0ff9e774) - 2026-11-02
+* [Commit] [execution/vm: run PUSH0 in the hot fast-path switch and CLZ in the cold one (#25645)](https://github.com/erigontech/erigon/commit/805af3ea042125132d706345411ef4ed08306670) - 2026-11-02
+* [Commit] [lint: revive unreachable-code/defer, govet enable-all, shadow in node/ txnprovider/; fix shutter race (#25652)](https://github.com/erigontech/erigon/commit/bf501fb64de8f1b149eaf5d006d7a959cb77d227) - 2026-11-02
+* [Commit] [rpc/jsonrpc, execution/exec: run ots tracer and TraceWorker on NoMaterialize (#25671)](https://github.com/erigontech/erigon/commit/1104716ac79558d73cdc571439cda85eed130ac2) - 2026-11-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

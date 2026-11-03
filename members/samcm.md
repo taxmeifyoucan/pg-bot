@@ -94,6 +94,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(clickhouse): keep Prysm's agent commit in remote_agent_platform (#940)](https://github.com/ethpandaops/xatu/commit/6fb9f2ca1b8ff6f9ac58b2b464d321c0ecfdeb9e) - 2026-11-02
 * [Commit] [perf(cannon): run reward deriver backfill batches with parallel workers (#938)](https://github.com/ethpandaops/xatu/commit/7a8a1fafa22154a0dd3073c3e80d972934cb6196) - 2026-11-02
 * [Commit] [refactor: use ethcore's client detection (#939)](https://github.com/ethpandaops/xatu/commit/e33c18c713910691d251495060afa919d1b09d00) - 2026-11-02
+* [Pull Request] [ci: fix cryo and Go build cache misses in PR workflows](https://github.com/ethpandaops/xatu/pull/941) - 2026-11-03
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -159,6 +160,44 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(ethereum): add the ethlambda consensus client (#468)](https://github.com/ethpandaops/lab/commit/4f01de625c643fe2ec9d95bc37c27c6b6da096a4) - 2026-11-02
 * [Commit] [fix(performance): handle networks without reference nodes and missing resource gas (#469)](https://github.com/ethpandaops/lab/commit/344fbc95a6cc3ed6cb15eb8466adc4a51f08bc89) - 2026-11-02
 * [Commit] [feat(validators): show only real data on the validators pages (#467)](https://github.com/ethpandaops/lab/commit/bdb4c348da06d39aee463b61f96258014905d7f9) - 2026-11-02
+* [Pull Request] [feat: add llms.txt describing the Lab API for agents](https://github.com/ethpandaops/lab/pull/492) - 2026-11-03
+* [Pull Request] [fix(clients): filtered blocks never sit beside network-wide peers; angles get their own colours](https://github.com/ethpandaops/lab/pull/491) - 2026-11-03
+* [Pull Request] [feat(clients): version page weighs P2P peers and Xatu nodes like blocks](https://github.com/ethpandaops/lab/pull/490) - 2026-11-03
+* [Pull Request] [fix(clients): partner performance table fits its card](https://github.com/ethpandaops/lab/pull/489) - 2026-11-02
+* [Pull Request] [feat(clients): unified overview, partner breakdowns, scroll preservation and redesign](https://github.com/ethpandaops/lab/pull/488) - 2026-11-02
+* [Pull Request] [feat: every value follows its page's time range; entities overview](https://github.com/ethpandaops/lab/pull/484) - 2026-11-02
+* [Pull Request] [fix(clients): version page waits for entity counts before showing blocks](https://github.com/ethpandaops/lab/pull/487) - 2026-11-02
+* [Pull Request] [fix(clients): exact Xatu node counts on the Releases tab at long windows](https://github.com/ethpandaops/lab/pull/486) - 2026-11-02
+* [Pull Request] [fix(clients): version and releases pages follow the page range](https://github.com/ethpandaops/lab/pull/485) - 2026-11-02
+* [Pull Request] [feat(clients): versions, proposer behaviour, attestations and P2P census from xatu-cbt](https://github.com/ethpandaops/lab/pull/483) - 2026-11-02
+* [Pull Request] [feat(slots,epochs): filterable, sortable slot and epoch lists](https://github.com/ethpandaops/lab/pull/482) - 2026-11-02
+* [Pull Request] [feat(gas-profiler): filterable, paginated transaction lists on block and simulate pages](https://github.com/ethpandaops/lab/pull/481) - 2026-11-02
+* [Pull Request] [feat(sidebar): flyout for nav items with nested pages](https://github.com/ethpandaops/lab/pull/480) - 2026-11-02
+* [Pull Request] [feat(clients,entities): filterable, paged block tables](https://github.com/ethpandaops/lab/pull/479) - 2026-11-02
+* [Pull Request] [feat(blocks): filterable, sortable, paged block lists on partial columns and locally built blocks](https://github.com/ethpandaops/lab/pull/478) - 2026-11-02
+* [Pull Request] [chore(deps): bump vite 7.3.1 → 7.3.7](https://github.com/ethpandaops/lab/pull/475) - 2026-11-02
+* [Pull Request] [fix(clients): drop diversity stats the list order already shows](https://github.com/ethpandaops/lab/pull/477) - 2026-11-02
+* [Pull Request] [feat(clients): labelled diversity bars, entity version charts, clearer client links](https://github.com/ethpandaops/lab/pull/476) - 2026-11-02
+* [Pull Request] [fix(clients): label every value, Xatu nodes, full history, client-based outdated check](https://github.com/ethpandaops/lab/pull/474) - 2026-11-02
+* [Commit] [feat: add llms.txt describing the Lab API for agents (#492)](https://github.com/ethpandaops/lab/commit/a4a832900b0d7708de99100cf1dd6c32234a0dfa) - 2026-11-03
+* [Commit] [fix(clients): filtered blocks never sit beside network-wide peers; angles get their own colours (#491)](https://github.com/ethpandaops/lab/commit/d2a1f1dc19e6dd68215c7742621f0ae94553567b) - 2026-11-03
+* [Commit] [feat(clients): version page weighs P2P peers and Xatu nodes like blocks (#490)](https://github.com/ethpandaops/lab/commit/fbd4cbe50d60ba5f6014ad27f52ded5de0b04dd3) - 2026-11-03
+* [Commit] [fix(clients): partner performance table fits its card (#489)](https://github.com/ethpandaops/lab/commit/b60c927f31f53523987ae278951e078aa36b5a19) - 2026-11-02
+* [Commit] [feat(clients): unified overview, partner breakdowns, scroll preservation and redesign (#488)](https://github.com/ethpandaops/lab/commit/676341ff34a193ea9b828f68c3740b5aa902558a) - 2026-11-02
+* [Commit] [feat: every value follows its page's time range; entities overview (#484)](https://github.com/ethpandaops/lab/commit/fccca8d9d96344cc3500732d378729b6bcf3e978) - 2026-11-02
+* [Commit] [fix(clients): version page waits for entity counts before showing blocks (#487)](https://github.com/ethpandaops/lab/commit/05a4f377585a1a30830a81ee04c188899ae65745) - 2026-11-02
+* [Commit] [fix(clients): exact Xatu node counts on the Releases tab at long windows (#486)](https://github.com/ethpandaops/lab/commit/dce225e6a7b9a96e9f49bfa0ccabff6ebcea7adf) - 2026-11-02
+* [Commit] [fix(clients): version and releases pages follow the page range (#485)](https://github.com/ethpandaops/lab/commit/3a470bfaf76fedd3beb3ce56fe906f92c98b603c) - 2026-11-02
+* [Commit] [feat(clients): versions, proposer behaviour, attestations and P2P census from xatu-cbt (#483)](https://github.com/ethpandaops/lab/commit/437266f36b340d1a8959f30650fba4957df6b1ff) - 2026-11-02
+* [Commit] [feat(slots,epochs): filterable, sortable slot and epoch lists (#482)](https://github.com/ethpandaops/lab/commit/b1a33e46c79ea6c46d2a9b26f105637794db2666) - 2026-11-02
+* [Commit] [feat(gas-profiler): filterable, paginated transaction lists on block and simulate pages (#481)](https://github.com/ethpandaops/lab/commit/42936fa1995bffd6e5f78df7690092f9d28bef67) - 2026-11-02
+* [Commit] [feat(sidebar): flyout for nav items with nested pages (#480)](https://github.com/ethpandaops/lab/commit/9c9ac5b480aafcf08eb6b16017bbb969cfcd6e61) - 2026-11-02
+* [Commit] [feat(blocks): filterable, sortable, paged block lists on partial columns and locally built blocks (#478)](https://github.com/ethpandaops/lab/commit/118f68d9c1931a7eb246ad7a4fc596f577ac8870) - 2026-11-02
+* [Commit] [feat(clients,entities): filterable, paged block tables (#479)](https://github.com/ethpandaops/lab/commit/d4db1a577fed63db6728af76726bef8321056824) - 2026-11-02
+* [Commit] [chore(deps): bump vite 7.3.1 → 7.3.7 (#475)](https://github.com/ethpandaops/lab/commit/ba53fb6dbce7c714490ed7c92427f448003289ae) - 2026-11-02
+* [Commit] [fix(clients): drop diversity stats the list order already shows (#477)](https://github.com/ethpandaops/lab/commit/4c81b095980906818e4a32a90bf97de7521de49f) - 2026-11-02
+* [Commit] [feat(clients): labelled diversity bars, entity version charts, clearer client links (#476)](https://github.com/ethpandaops/lab/commit/6ee8aa642e8926a8e1a6cbc77ebf027065a86437) - 2026-11-02
+* [Commit] [fix(clients): label every value, Xatu nodes, full history, client-based outdated check (#474)](https://github.com/ethpandaops/lab/commit/478da5fb861f631fc9c2b257314d53f7b89e7180) - 2026-11-02
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

@@ -154,6 +154,18 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: update snappy version to 1.1.10.9](https://github.com/besu-eth/besu/pull/11841#pullrequestreview-5731770664) - 2026-11-02
 * [Review] [Review on: Scope OpenTelemetry counter and timer caches by category](https://github.com/besu-eth/besu/pull/11829#pullrequestreview-5730830087) - 2026-11-01
 * [Review] [Review on: fix RPCWS options to read the truststore files when set on config](https://github.com/besu-eth/besu/pull/11839#pullrequestreview-5730807116) - 2026-11-01
+* [Pull Request] [Upgrade Guava to 33.8.0-jre (CVE-2026-118042)](https://github.com/besu-eth/besu/pull/11860) - 2026-11-03
+* [Pull Request] [upgrade open telemetry to 1.67.0](https://github.com/besu-eth/besu/pull/11859) - 2026-11-03
+* [Review] [Review on: Resolve finalized and safe newestBlock in eth_feeHistory](https://github.com/besu-eth/besu/pull/11857#pullrequestreview-5745769053) - 2026-11-03
+* [Review] [Review on: Resolve safe and finalized tags in admin_logsRemoveCache](https://github.com/besu-eth/besu/pull/11844#pullrequestreview-5745540367) - 2026-11-03
+* [Review] [Review on: ci(codeql): skip unchanged trees and compile without build cache](https://github.com/besu-eth/besu/pull/11850#pullrequestreview-5740292101) - 2026-11-02
+* [Pull Request] [bump plugins baseline for 26.11.0](https://github.com/besu-eth/besu/pull/11851) - 2026-11-02
+* [Commit] [update snappy version to 1.1.10.9 (#11841)](https://github.com/besu-eth/besu/commit/f58f962e18aadb909491e6a291b42db96d081121) - 2026-11-02
+* [Commit] [Bound JSON-RPC request parsing cost to the configured body limit (#174) (#188)](https://github.com/besu-eth/besu/commit/4d8849fc2fb38f533fc5622aab9b6132a8437211) - 2026-11-02
+* [Commit] [[Amsterdam] Bound BadBlockManager BAL caches by item weight (#215)](https://github.com/besu-eth/besu/commit/f47306abbde0a5e1d705870476c9519f1f9e4b94) - 2026-11-02
+* [Commit] [Reject BFT messages whose signature does not recover to an author (new finding) (#192)](https://github.com/besu-eth/besu/commit/4b87df824a9a004598f9c2f722259da96effe47a) - 2026-11-02
+* [Commit] [Reject a Clique block whose proposer seal has no recoverable address (GHSA-4c5c, #132) (#184)](https://github.com/besu-eth/besu/commit/5d207f8127251fed58065320b81f9e1ce5d110d7) - 2026-11-02
+* [Commit] [Reject a BFT block with commit seal with unrecoverable address (GHSA-pvgm)](https://github.com/besu-eth/besu/commit/7af5074735b3290992f5f7fa0ed8bba66b93058e) - 2026-11-02
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

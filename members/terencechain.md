@@ -62,6 +62,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Unschedule the Gloas fork on Hoodi (#17760)](https://github.com/OffchainLabs/prysm/commit/c4e939f38dc8ae798b3938853c2aefef82b8dcba) - 2026-10-22
 * [Review] [Review on: Add .oss-scanner/ for Anthropic OSS Scanner enrollment](https://github.com/OffchainLabs/prysm/pull/17775#pullrequestreview-5632607760) - 2026-10-23
 * [Review] [Review on: Return one blob per versioned hash on repeated commitments](https://github.com/OffchainLabs/prysm/pull/17802#pullrequestreview-5727865629) - 2026-11-01
+* [Review] [Review on: Improve proposer filtering of packed attestations](https://github.com/OffchainLabs/prysm/pull/17805#pullrequestreview-5732920738) - 2026-11-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

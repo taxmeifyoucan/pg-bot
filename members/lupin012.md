@@ -133,6 +133,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [execution/tracing/tracers/logger: reuse a stack slot's hex while its value is unchanged](https://github.com/erigontech/erigon/pull/25613) - 2026-11-01
 * [Commit] [execution/tracing/tracers/logger: reuse a stack slot's hex while its value is unchanged (#25613)](https://github.com/erigontech/erigon/commit/5ddcd87a99e1c604e3b451a738b775e74079d777) - 2026-11-01
 * [Commit] [node, cmd/rpcdaemon, cmd/utils: skip HTTP-RPC compression for loopback clients (#25626)](https://github.com/erigontech/erigon/commit/36e89159ce7a1bb96dd54fef69e62b4cb17a89ec) - 2026-11-01
+* [Pull Request] [.github/workflows: add debug_traceBlockByNumber, eth_createAccessList and eth_getLogs latest to the RPC performance latest test, summarize the client comparison](https://github.com/erigontech/erigon/pull/25614) - 2026-11-03
+* [Review] [Review on: .github/workflows: add debug_traceBlockByNumber, eth_createAccessList and eth_getLogs latest to the RPC performance latest test, summarize the client comparison](https://github.com/erigontech/erigon/pull/25614#pullrequestreview-5742449532) - 2026-11-02
+* [Review] [Review on: rpc/mcp: stop log scans at the requested match limit](https://github.com/erigontech/erigon/pull/25591#pullrequestreview-5744105622) - 2026-11-02
+* [Review] [Review on: cmd/rpcdaemon/graphql: return null for an unknown block](https://github.com/erigontech/erigon/pull/25586#pullrequestreview-5744384438) - 2026-11-02
+* [Commit] [.github/workflows: add debug_traceBlockByNumber, eth_createAccessList and eth_getLogs latest to the RPC performance latest test, summarize the client comparison (#25614)](https://github.com/erigontech/erigon/commit/8ae90f4f09a9a01a55a979d07860c5f40225c52b) - 2026-11-02
+* [Commit] [db/kv/remotedb, db/kv/remotedbserver, node: run IndexJoin on the KV server (#25632)](https://github.com/erigontech/erigon/commit/197033d0f87a61e552e0da8827a6e8f68b1b380e) - 2026-11-02
+* [Commit] [common/hexutil, rpc/jsonstream: format hex quantities without strconv (#25635)](https://github.com/erigontech/erigon/commit/a88bf272efa0a4f324eddb9116239217c52b0de3) - 2026-11-02
+* [Commit] [rpc/gasprice, rpc/jsonrpc: eth_gasPrice reads the base fee from the tip's head (#25612)](https://github.com/erigontech/erigon/commit/2ba40fd9ae24be7e2ea90eb8dc2a1c135cf7eaaf) - 2026-11-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -191,6 +199,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644) - 2026-10-31
 * [Commit] [rpc_pattern_gen: generate debug_traceBlockByNumber requests (#644)](https://github.com/erigontech/rpc-tests/commit/31e3bd31e8ae1df6fcb8cad4b4323c16801f3c0c) - 2026-10-31
 * [Pull Request] [rpc_pattern_gen: generate eth_createAccessList requests](https://github.com/erigontech/rpc-tests/pull/646) - 2026-11-01
+* [Pull Request] [perf/pattern: add the debug_traceBlockByNumber callTracer and structLog profiles](https://github.com/erigontech/rpc-tests/pull/647) - 2026-11-02
+* [Commit] [perf/pattern: add the debug_traceBlockByNumber callTracer and structLog profiles (#647)](https://github.com/erigontech/rpc-tests/commit/39cf0666640ef5e9adb16e5d12709468b653b1f1) - 2026-11-02
+* [Commit] [rpc_pattern_gen: generate eth_createAccessList requests (#646)](https://github.com/erigontech/rpc-tests/commit/cb6e0b22f8897027041d42ebe9ad3e40be3417bf) - 2026-11-02
+* [Commit] [rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile (#645)](https://github.com/erigontech/rpc-tests/commit/67835340039958228c71179f8408317c8ea4cd37) - 2026-11-02
 ## Q3 2026
 
 

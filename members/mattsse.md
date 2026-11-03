@@ -373,6 +373,8 @@ Team: Reth
 * [Review] [Review on: fix(rpc): report mev_simBundle refundable value before payouts](https://github.com/paradigmxyz/reth/pull/28218#pullrequestreview-5727006746) - 2026-11-01
 * [Pull Request] [fix(engine): retain parent spans for payload tasks](https://github.com/paradigmxyz/reth/pull/28221) - 2026-11-01
 * [Commit] [fix(era): handle multibyte separator in era index listing (#28222)](https://github.com/paradigmxyz/reth/commit/79d222b795b0eb0d5a80067cc1451b68b443d269) - 2026-11-01
+* [Review] [Review on: chore(deps): bump python-dateutil from 2.9.0.post0 to 3.0.0 in /scripts/bench-reth-charts](https://github.com/paradigmxyz/reth/pull/28236#pullrequestreview-5734706085) - 2026-11-02
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/28235#pullrequestreview-5734643348) - 2026-11-02
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -120,6 +120,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Add the key ranges and storage tasks of the state download (#11700)](https://github.com/besu-eth/besu/commit/2ac480e1ae88d4420c28b5abea960308856eb6a4) - 2026-10-23
 * [Commit] [SNAP2: Add the final trie build (#11661)](https://github.com/besu-eth/besu/commit/ace55a1819de94f9dc3aeea3c3fa4beed066102d) - 2026-10-23
 * [Pull Request] [SNAP2: Refuse a paginated receipts answer that brings no receipt](https://github.com/besu-eth/besu/pull/11822) - 2026-10-31
+* [Commit] [Refuse a paginated receipts answer that brings no receipt (#11822)](https://github.com/besu-eth/besu/commit/546da087bfb88b93cfa7039a83ea2593a86c106d) - 2026-11-02
 ## Q3 2026
 
 

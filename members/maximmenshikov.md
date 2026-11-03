@@ -26,6 +26,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [build(zkevm): bump bflat to e10cdcb7, ZiskOS.Runtime to 1.3.2-alpha.147, Zkvm.Abstractions to 1.0.0-preview.8 (#14800)](https://github.com/NethermindEth/nethermind/commit/2dbc814b15f07429b7a0a2dd8898bee5cad70a83) - 2026-10-16
 * [Pull Request] [build(zkevm): bump bflat to 321edc64 (.NET 11.0.100), ZiskOS.Runtime to 1.3.2-alpha.148](https://github.com/NethermindEth/nethermind/pull/14946) - 2026-10-20
 * [Commit] [build(zkevm): bump bflat to c2c0faa3 (no GC-only prolog zeroing) (#15098)](https://github.com/NethermindEth/nethermind/commit/a4576524382553decf07d54e05bb3dc614f61111) - 2026-10-23
+* [Pull Request] [build(zkevm): build the Airbender guest in the published bflat riscv32 image](https://github.com/NethermindEth/nethermind/pull/15469) - 2026-11-02
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

@@ -16,6 +16,8 @@ Team: EthereumJS
 * [Commit] [deps: resolve Dependabot alerts (source-map-js, sprintf-js, markdown-it, brace-expansion) (#4386)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/45afa367379f5c4e1edc4d216fd6d04d943cacfa) - 2026-10-12
 * [Review] [Review on: fix(devp2p): handle initial DNS lookup failures](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4379#pullrequestreview-5505070673) - 2026-10-13
 * [Review] [Review on: Do not leak locks on MPT mutations](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4381#pullrequestreview-5504899877) - 2026-10-13
+* [Pull Request] [deps: resolve Dependabot alerts (follow-redirects, vite, vitest, markdown-it)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4427) - 2026-11-02
+* [Commit] [deps: resolve Dependabot alerts (follow-redirects, vite, vitest, markdown-it) (#4427)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/94bb808c266e9b5e14d58cb16f5f7e9be57aba9c) - 2026-11-02
 ## Q3 2026
 
 

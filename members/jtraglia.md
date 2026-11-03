@@ -64,6 +64,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756#pullrequestreview-5629559546) - 2026-10-23
 * [Commit] [Fix EIP number in `get_consolidation_churn_limit` docstrings (#5758)](https://github.com/ethereum/consensus-specs/commit/b834fa8411cb2152563e8835c5b72c28f7503e7a) - 2026-10-23
 * [Review] [Review on: Add initial fork choice specs for decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791#pullrequestreview-5726311466) - 2026-11-01
+* [Review] [Review on: Add post-quantum consensus key registry (EIP-8450)](https://github.com/ethereum/consensus-specs/pull/5782#pullrequestreview-5732359101) - 2026-11-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 
@@ -75,6 +76,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update EIP-7773: Correct Glamsterdam activation tables in EIP-7773 and EIP-8081](https://github.com/ethereum/EIPs/pull/12557#pullrequestreview-5592165688) - 2026-10-20
 * [Review] [Review on: Update EIP-8061: fix activation cap unit and align constant name with the spec](https://github.com/ethereum/EIPs/pull/12575#pullrequestreview-5630699655) - 2026-10-23
 * [Review] [Review on: Update EIP-8282: require the builder credential prefix and document locked funds](https://github.com/ethereum/EIPs/pull/12572#pullrequestreview-5630644214) - 2026-10-23
+* [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5739919749) - 2026-11-02
 ## Q3 2026
 
 

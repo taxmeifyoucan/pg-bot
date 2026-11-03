@@ -94,6 +94,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Create the validator database on slashing protection import if missing (#17700)](https://github.com/OffchainLabs/prysm/commit/44a15554c9a158f08240562ce6dd3e4575ff3142) - 2026-10-23
 * [Commit] [Revamp `CONTRIBUTING.md` and require external contributors to be assigned to the issue their PR fixes. (#17764)](https://github.com/OffchainLabs/prysm/commit/7f7038f654be520669c75e6c9a3b654be9120443) - 2026-10-23
 * [Commit] [Fix flaky `TestDataColumnSidecarsByRangeRPCHandler` (#17767)](https://github.com/OffchainLabs/prysm/commit/be3d5889ad7caf47a3aeace3b2937f680b9f5260) - 2026-10-23
+* [Pull Request] [Disable the partial data columns (cell-level PeerDAS dissemination) by default.](https://github.com/OffchainLabs/prysm/pull/17810) - 2026-11-02
+* [Pull Request] [`--disable-ephemeral-log-file`: Fix help message](https://github.com/OffchainLabs/prysm/pull/17807) - 2026-11-02
+* [Pull Request] [Fix ` bazel test //beacon-chain/sync:go_default_test --@io_bazel_rules_go//go/config:race`](https://github.com/OffchainLabs/prysm/pull/17809) - 2026-11-02
+* [Pull Request] [Backfill: request again the blocks a peer did not send](https://github.com/OffchainLabs/prysm/pull/17808) - 2026-11-02
+* [Pull Request] [Fix various active-active REST VC issues](https://github.com/OffchainLabs/prysm/pull/17806) - 2026-11-02
+* [Commit] [Disable the partial data columns (cell-level PeerDAS dissemination) by default. (#17810)](https://github.com/OffchainLabs/prysm/commit/643f16bdd80a68c1eb85847789c05a3b9e1be72c) - 2026-11-02
+* [Commit] [`--disable-ephemeral-log-file`: Fix help message (#17807)](https://github.com/OffchainLabs/prysm/commit/667242f83efcb04ad5602551f0f5d7b9bff2b839) - 2026-11-02
+* [Commit] [Validator Exit: Detect the network from the beacon node for the beaconcha.in links. (#17759)](https://github.com/OffchainLabs/prysm/commit/d92fd32641d5f8b80136f2481d7600fe1b9339b6) - 2026-11-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 
