@@ -50,6 +50,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Refactor state data BEACON-API endpoints (#11558)](https://github.com/Consensys-Incorporated/teku/commit/3fa2f69e3b5a6ff8821955fe8e595b3a27fe31e9) - 2026-10-23
 * [Pull Request] [Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609) - 2026-11-02
 * [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-5739630473) - 2026-11-02
+* [Review] [Review on: Route pending deposits by credentials at Gloas builder onboarding](https://github.com/Consensys-Incorporated/teku/pull/11582#pullrequestreview-5753545368) - 2026-11-03
+* [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5749693671) - 2026-11-03
 ## Q3 2026
 
 

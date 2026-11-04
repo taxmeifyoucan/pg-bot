@@ -327,6 +327,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state/execctx: add regression tests for code-cache hash pairing (#25423)](https://github.com/erigontech/erigon/commit/a4aed5ba3be65354fd1cb155deaf0ff1411211ae) - 2026-11-02
 * [Commit] [cl/beacon/handler, cl/das: store only custody columns of self-built blocks after OnBlock (#25540)](https://github.com/erigontech/erigon/commit/a367c72829e6aa8ef39329d8c0679a92f05ed482) - 2026-11-02
 * [Commit] [cl/phase1/stages, cl/phase1/forkchoice: emit head events before the head-state copy (#25543)](https://github.com/erigontech/erigon/commit/2d25a9b80358d3aafe64c5d6b5d1ce725906e782) - 2026-11-02
+* [Pull Request] [cl/beacon/handler: publish a POSTed Gloas envelope before its columns in gossip mode](https://github.com/erigontech/erigon/pull/25718) - 2026-11-03
+* [Review] [Review on: cl/beacon/handler: publish a POSTed Gloas envelope before its columns in gossip mode](https://github.com/erigontech/erigon/pull/25718#pullrequestreview-5762810897) - 2026-11-04
+* [Review] [Review on: cl/beacon/handler: publish a POSTed Gloas envelope's columns before storing them, verify blob bundles per blob in parallel](https://github.com/erigontech/erigon/pull/25710#pullrequestreview-5763012356) - 2026-11-04
+* [Review] [Review on: cl/phase1/stages: drop redundant work from the same-root Gloas fork-choice pass](https://github.com/erigontech/erigon/pull/25690#pullrequestreview-5762468753) - 2026-11-04
+* [Pull Request] [execution/state/genesiswrite: accept nil-vs-0 PoW-era fork differences that select nothing](https://github.com/erigontech/erigon/pull/25727) - 2026-11-03
+* [Review] [Review on: execution/state/genesiswrite: accept nil-vs-0 PoW-era fork differences that select nothing](https://github.com/erigontech/erigon/pull/25727#pullrequestreview-5762470043) - 2026-11-04
+* [Review] [Review on: cl/phase1/forkchoice: read column availability before taking the fork-choice lock](https://github.com/erigontech/erigon/pull/25594#pullrequestreview-5753028707) - 2026-11-03
+* [Issue] [cl/sentinel: rate-limited and partial req/resp answers use error codes that requesters punish](https://github.com/erigontech/erigon/issues/25720) - 2026-11-03
 ## Q3 2026
 
 

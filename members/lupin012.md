@@ -141,6 +141,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [db/kv/remotedb, db/kv/remotedbserver, node: run IndexJoin on the KV server (#25632)](https://github.com/erigontech/erigon/commit/197033d0f87a61e552e0da8827a6e8f68b1b380e) - 2026-11-02
 * [Commit] [common/hexutil, rpc/jsonstream: format hex quantities without strconv (#25635)](https://github.com/erigontech/erigon/commit/a88bf272efa0a4f324eddb9116239217c52b0de3) - 2026-11-02
 * [Commit] [rpc/gasprice, rpc/jsonrpc: eth_gasPrice reads the base fee from the tip's head (#25612)](https://github.com/erigontech/erigon/commit/2ba40fd9ae24be7e2ea90eb8dc2a1c135cf7eaaf) - 2026-11-02
+* [Pull Request] [[WIP] execution/state, execution/cache, execution/execmodule, rpc/jsonrpc: RPC replays share committed code by hash](https://github.com/erigontech/erigon/pull/25743) - 2026-11-03
+* [Review] [Review on: rlp: advance byte-backed Stream by offset](https://github.com/erigontech/erigon/pull/25659#pullrequestreview-5756705842) - 2026-11-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -203,6 +205,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [perf/pattern: add the debug_traceBlockByNumber callTracer and structLog profiles (#647)](https://github.com/erigontech/rpc-tests/commit/39cf0666640ef5e9adb16e5d12709468b653b1f1) - 2026-11-02
 * [Commit] [rpc_pattern_gen: generate eth_createAccessList requests (#646)](https://github.com/erigontech/rpc-tests/commit/cb6e0b22f8897027041d42ebe9ad3e40be3417bf) - 2026-11-02
 * [Commit] [rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile (#645)](https://github.com/erigontech/rpc-tests/commit/67835340039958228c71179f8408317c8ea4cd37) - 2026-11-02
+* [Pull Request] [perf: describe a JSONL pattern in an optional header line](https://github.com/erigontech/rpc-tests/pull/649) - 2026-11-03
 ## Q3 2026
 
 

@@ -95,6 +95,9 @@ Team: Reth
 * [Pull Request] [fix(prune): run bodies pruning before tx lookup](https://github.com/paradigmxyz/reth/pull/28240) - 2026-11-02
 * [Pull Request] [fix(download): reject link entries in snapshot archives](https://github.com/paradigmxyz/reth/pull/28239) - 2026-11-02
 * [Review] [Review on: fix(examples): keep custom precompile after Prague](https://github.com/paradigmxyz/reth/pull/28237#pullrequestreview-5735931812) - 2026-11-02
+* [Review] [Review on: fix(ci): let bench-txgen read the engine JWT secret](https://github.com/paradigmxyz/reth/pull/28265#pullrequestreview-5759830822) - 2026-11-03
+* [Review] [Review on: fix(trie): tighten iterator seek boundary](https://github.com/paradigmxyz/reth/pull/28264#pullrequestreview-5759058297) - 2026-11-03
+* [Pull Request] [ci(bench): default derek bench slack to never](https://github.com/paradigmxyz/reth/pull/28263) - 2026-11-03
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

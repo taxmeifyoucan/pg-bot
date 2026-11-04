@@ -338,6 +338,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Docker image build compiles @lodestar/native from source instead of using the prebuilt binary](https://github.com/ChainSafe/lodestar/issues/10533) - 2026-11-02
 * [Commit] [chore(ci): build release binary bindings for an explicit glibc target (#10529)](https://github.com/ChainSafe/lodestar/commit/c0ed1935bcd72060f118254ccb45eb76e9d6c3e9) - 2026-11-02
 * [Commit] [chore: resolve pnpm catalog dependencies when publishing (#10530)](https://github.com/ChainSafe/lodestar/commit/bb16085c5ea5c1d0c0fba64d454f49954641baf1) - 2026-11-02
+* [Pull Request] [fix: add additional checks before block packing](https://github.com/ChainSafe/lodestar/pull/10536) - 2026-11-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

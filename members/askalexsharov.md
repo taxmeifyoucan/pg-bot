@@ -589,8 +589,38 @@ Team: Erigon
 * [Commit] [execution/vm: run PUSH0 in the hot fast-path switch and CLZ in the cold one (#25645)](https://github.com/erigontech/erigon/commit/805af3ea042125132d706345411ef4ed08306670) - 2026-11-02
 * [Commit] [lint: revive unreachable-code/defer, govet enable-all, shadow in node/ txnprovider/; fix shutter race (#25652)](https://github.com/erigontech/erigon/commit/bf501fb64de8f1b149eaf5d006d7a959cb77d227) - 2026-11-02
 * [Commit] [rpc/jsonrpc, execution/exec: run ots tracer and TraceWorker on NoMaterialize (#25671)](https://github.com/erigontech/erigon/commit/1104716ac79558d73cdc571439cda85eed130ac2) - 2026-11-02
+* [Pull Request] [execution/exec: gate the BAL trie prefetch, prefetch on by default](https://github.com/erigontech/erigon/pull/25746) - 2026-11-04
+* [Review] [Review on: execution/stagedsync, execution/state: fold commitment from the version map; delete calcState](https://github.com/erigontech/erigon/pull/25491#pullrequestreview-5749510622) - 2026-11-03
+* [Pull Request] [[r3.8] rpc/jsonrpc: resolve historical simulation writes against the simulated view](https://github.com/erigontech/erigon/pull/25716) - 2026-11-03
+* [Review] [Review on: [r3.8] rpc/jsonrpc: resolve historical simulation writes against the simulated view](https://github.com/erigontech/erigon/pull/25716#pullrequestreview-5748753421) - 2026-11-03
+* [Review] [Review on: cl: verify direct-client blob hashes](https://github.com/erigontech/erigon/pull/24852#pullrequestreview-5761949575) - 2026-11-04
+* [Review] [Review on: rpc: align frame transaction JSON with execution-apis](https://github.com/erigontech/erigon/pull/25697#pullrequestreview-5761878892) - 2026-11-04
+* [Review] [Review on: stagedsync: test full-pipeline branch recovery](https://github.com/erigontech/erigon/pull/24850#pullrequestreview-5761837051) - 2026-11-04
+* [Review] [Review on: p2p/sentry: isolate slow upload requests by peer](https://github.com/erigontech/erigon/pull/25735#pullrequestreview-5761817913) - 2026-11-04
+* [Pull Request] [execution/state: mark created accounts Done under the read lock](https://github.com/erigontech/erigon/pull/25734) - 2026-11-03
+* [Review] [Review on: execution: strengthen block-end log indexing regression tests](https://github.com/erigontech/erigon/pull/24098#pullrequestreview-5747471688) - 2026-11-03
+* [Review] [Review on: execution/exec, execution/state: warmup reads storage slots without interning them](https://github.com/erigontech/erigon/pull/25695#pullrequestreview-5750024219) - 2026-11-03
+* [Review] [Review on: execution/state: mark committed writes Done under the entry's read lock](https://github.com/erigontech/erigon/pull/25631#pullrequestreview-5747561741) - 2026-11-03
+* [Pull Request] [rpc/jsonrpc: dedupe touched keys of a repeated historical state override](https://github.com/erigontech/erigon/pull/25721) - 2026-11-03
+* [Review] [Review on: rpc/jsonrpc: dedupe touched keys of a repeated historical state override](https://github.com/erigontech/erigon/pull/25721#pullrequestreview-5749691880) - 2026-11-03
+* [Pull Request] [execution/exec, execution/builder: build every block on NoMaterialize](https://github.com/erigontech/erigon/pull/25717) - 2026-11-03
+* [Review] [Review on: execution/exec, execution/builder: build every block on NoMaterialize](https://github.com/erigontech/erigon/pull/25717#pullrequestreview-5748722284) - 2026-11-03
+* [Review] [Review on: execution/execmodule: stop reporting unexecuted canonical blocks as VALID](https://github.com/erigontech/erigon/pull/25566#pullrequestreview-5747598845) - 2026-11-03
+* [Issue] [execution/state: a self-destructing fee recipient can serve a stale value between MarkWritesValidated and the seal](https://github.com/erigontech/erigon/issues/25733) - 2026-11-03
+* [Commit] [execution/exec, execution/state: warmup reads storage slots without interning them (#25695)](https://github.com/erigontech/erigon/commit/c0ffa31bc40d98211936ba63bf3a12d51cefeaae) - 2026-11-03
+* [Commit] [execution/state: mark committed writes Done under the entry's read lock (#25631)](https://github.com/erigontech/erigon/commit/080b2fabc5bfe97d1291979b9739396ccdbd6b3e) - 2026-11-03
+* [Commit] [rpc/jsonrpc: dedupe touched keys of a repeated historical state override (#25721)](https://github.com/erigontech/erigon/commit/03b3fb34c5b1cbac7ca4e20b5c63930b2b8d9341) - 2026-11-03
+* [Commit] [execution/commitment: derive hashed keys of decoded cells on first read (#25699)](https://github.com/erigontech/erigon/commit/87130680925d2f223ae1f97d4b9983dd779fb0fe) - 2026-11-03
+* [Commit] [execution/protocol, execution/abi/bind/backends: run ExecuteBlockEphemerally and the simulated backend on NoMaterialize (#25678)](https://github.com/erigontech/erigon/commit/fc4843a2cfcb91efc516094e4e5d2e30cc2510b0) - 2026-11-03
+* [Commit] [execution/receipts, rpc/jsonrpc/receipts, execution/stagedsync: derive receipts on NoMaterialize (#25675)](https://github.com/erigontech/erigon/commit/60077699271a3f16b2ad602a705deb2d0ce713d8) - 2026-11-03
+* [Commit] [db: temp files, goroutines and segments leaked on error paths; malformed preverified toml panics (#25666)](https://github.com/erigontech/erigon/commit/05f046f70c50f14f0f184f794f028ad5415539e5) - 2026-11-03
+* [Commit] [db: delete dead code (#25668)](https://github.com/erigontech/erigon/commit/b69d115a7ba03428135901c579a651fd56a0e963) - 2026-11-03
+* [Commit] [db/kv: remote KV pages repeat last item; Range leaks iterator and mmap slices; unknown table reads GC (#25664)](https://github.com/erigontech/erigon/commit/13993fedcedc270c200df3835b379e4cd9eb29fd) - 2026-11-03
+* [Commit] [db/state: IteratePrefix after Unwind hides keys re-written in the overlay (#25667)](https://github.com/erigontech/erigon/commit/408bb0b83aee0a73c21d1e0814c0f708d8b16542) - 2026-11-03
+* [Commit] [db/state: fix merge range after Retire, seed merged history, retire each file once (#25663)](https://github.com/erigontech/erigon/commit/598651fd42d29416173520e7923e5545a7b85fd2) - 2026-11-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
+* [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03
 ## Q3 2026
 
 

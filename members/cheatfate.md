@@ -20,6 +20,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Syncing: Fix sidecars queue start window should move while not started yet.](https://github.com/status-im/nimbus-eth2/pull/9291) - 2026-10-15
 * [Commit] [Fix sidecars queue should be updated with start_slot too until it is not running. (#9291)](https://github.com/status-im/nimbus-eth2/commit/c84505a2a01fca34dd22ae67aeec67ad45b694b2) - 2026-10-16
 * [Pull Request] [Fix, remove sync assertion on debug statement.](https://github.com/status-im/nimbus-eth2/pull/9425) - 2026-11-02
+* [Pull Request] [Fix issue when peers get penalized for empty response on unknown roots.](https://github.com/status-im/nimbus-eth2/pull/9427) - 2026-11-03
 ## Q3 2026
 
 

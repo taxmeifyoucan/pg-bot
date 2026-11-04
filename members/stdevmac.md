@@ -241,6 +241,81 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(tracing): omit storage on struct-log steps where SSTORE fails](https://github.com/NethermindEth/nethermind/pull/15465#pullrequestreview-5740797882) - 2026-11-02
 * [Review] [Review on: refactor(json-rpc): decouple deferred errors and test batch item rollback](https://github.com/NethermindEth/nethermind/pull/15335#pullrequestreview-5740884123) - 2026-11-02
 * [Review] [Review on: perf(zkevm): replace the eager witness path walk with node-local and lazy checks](https://github.com/NethermindEth/nethermind/pull/15063#pullrequestreview-5741225345) - 2026-11-02
+* [Review] [Review on: perf(rpc): skip non-matching log index chunks when intersecting](https://github.com/NethermindEth/nethermind/pull/15550#pullrequestreview-5755101859) - 2026-11-03
+* [Review] [Review on: fix(tracing): release an abandoned deadline before replacement](https://github.com/NethermindEth/nethermind/pull/15336#pullrequestreview-5755091179) - 2026-11-03
+* [Review] [Review on: fix(ci): open flaky-test fix PRs without the issues permission and label](https://github.com/NethermindEth/nethermind/pull/15590#pullrequestreview-5762343008) - 2026-11-04
+* [Review] [Review on: feat(evm): EIP-7851 code-controlled EOA delegation (SETSELFDELEGATE)](https://github.com/NethermindEth/nethermind/pull/12239#pullrequestreview-5762264465) - 2026-11-04
+* [Review] [Review on: fix(eip8288): preload the 8141 expiry verifier and 8250 nonce manager in the Daisugi genesis](https://github.com/NethermindEth/nethermind/pull/15588#pullrequestreview-5762197317) - 2026-11-04
+* [Review] [Review on: feat(engine): EIP-8146 block access list sidecars (EL side)](https://github.com/NethermindEth/nethermind/pull/12261#pullrequestreview-5762105523) - 2026-11-04
+* [Pull Request] [fix(blockchain): serve only descendants of a side-chain origin in FindHeaders](https://github.com/NethermindEth/nethermind/pull/15530) - 2026-11-03
+* [Review] [Review on: perf(evm): check the destroy list before the EIP-8037 flag in PayFees](https://github.com/NethermindEth/nethermind/pull/15564#pullrequestreview-5761739319) - 2026-11-04
+* [Pull Request] [fix(txpool): judge head drops against one head and read each sender's nonce once](https://github.com/NethermindEth/nethermind/pull/15562) - 2026-11-03
+* [Review] [Review on: feat(eip8198): derive the base fee change from block spacing (EIPs#12552)](https://github.com/NethermindEth/nethermind/pull/14984#pullrequestreview-5762026468) - 2026-11-04
+* [Pull Request] [fix(keystore): match unlock accounts by address value](https://github.com/NethermindEth/nethermind/pull/15571) - 2026-11-03
+* [Pull Request] [fix(txpool): surface transactions the fork revalidation pass drops as evicted](https://github.com/NethermindEth/nethermind/pull/15560) - 2026-11-03
+* [Review] [Review on: test(network): isolate the reused eth/68 announcement test and run the eth/72 allocation test in Release only](https://github.com/NethermindEth/nethermind/pull/15587#pullrequestreview-5761456763) - 2026-11-04
+* [Pull Request] [fix(rpc): answer unsupported ids with -32600 and echo non-integer numeric ids](https://github.com/NethermindEth/nethermind/pull/15584) - 2026-11-03
+* [Review] [Review on: refactor(shutter)!: remove plugin and unused support code](https://github.com/NethermindEth/nethermind/pull/15345#pullrequestreview-5761862416) - 2026-11-04
+* [Pull Request] [fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash](https://github.com/NethermindEth/nethermind/pull/15515) - 2026-11-03
+* [Review] [Review on: [PROTOTYPE] EIP-8297 partitioned binary tree (PBT) state backend](https://github.com/NethermindEth/nethermind/pull/12573#pullrequestreview-5761797069) - 2026-11-04
+* [Pull Request] [fix(config): keep exact digits of JSON integers beyond Int64](https://github.com/NethermindEth/nethermind/pull/15559) - 2026-11-03
+* [Pull Request] [perf(ci): shorten the PR critical path and fix GCP runner teardown](https://github.com/NethermindEth/nethermind/pull/15565) - 2026-11-03
+* [Pull Request] [fix(era): reject era headers whose number differs from their slot](https://github.com/NethermindEth/nethermind/pull/15523) - 2026-11-03
+* [Pull Request] [fix(crypto): keep protection keys under the resolved keystore directory](https://github.com/NethermindEth/nethermind/pull/15572) - 2026-11-03
+* [Review] [Review on: feat(daisugi-devnet): require explicit chain ID, private mnemonic and disjoint validator keys for shared networks](https://github.com/NethermindEth/nethermind/pull/15589#pullrequestreview-5761659856) - 2026-11-04
+* [Pull Request] [perf(flat): serve snap ranges with readahead iterators that skip the block cache](https://github.com/NethermindEth/nethermind/pull/15521) - 2026-11-03
+* [Review] [Review on: fix(leanbench): sync #14220 with feature/eip8288-lean](https://github.com/NethermindEth/nethermind/pull/14988#pullrequestreview-5761596564) - 2026-11-04
+* [Review] [Review on: fix(rpc): default a missing from to the zero address in eth_fillTransaction](https://github.com/NethermindEth/nethermind/pull/15563#pullrequestreview-5761594866) - 2026-11-04
+* [Review] [Review on: test(flat): make allocation tests independent of one-off runtime allocations](https://github.com/NethermindEth/nethermind/pull/15578#pullrequestreview-5761555517) - 2026-11-04
+* [Review] [Review on: perf(flat): use stable metric labels for static flat-db labels](https://github.com/NethermindEth/nethermind/pull/15561#pullrequestreview-5761501741) - 2026-11-04
+* [Review] [Review on: perf(history): read the next-block change by exact key before seeking](https://github.com/NethermindEth/nethermind/pull/15556#pullrequestreview-5761499122) - 2026-11-04
+* [Pull Request] [fix(blockchain): delete every descendant of an invalid block](https://github.com/NethermindEth/nethermind/pull/15529) - 2026-11-03
+* [Review] [Review on: perf(zkevm): run ADDMOD and MULMOD in their stack slots with less work on the guests](https://github.com/NethermindEth/nethermind/pull/15567#pullrequestreview-5761462295) - 2026-11-04
+* [Review] [Review on: refactor(network)!: serialize eth68-72 messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15586#pullrequestreview-5761459068) - 2026-11-04
+* [Review] [Review on: test(network): isolate the transactions serializer tests that read pooled objects back](https://github.com/NethermindEth/nethermind/pull/15581#pullrequestreview-5761434900) - 2026-11-04
+* [Review] [Review on: perf(network): add each static peer to the candidate list once](https://github.com/NethermindEth/nethermind/pull/15579#pullrequestreview-5761432538) - 2026-11-04
+* [Pull Request] [fix(rpc): do not answer JSON-RPC notifications](https://github.com/NethermindEth/nethermind/pull/15585) - 2026-11-03
+* [Review] [Review on: fix(rpc): do not answer JSON-RPC notifications](https://github.com/NethermindEth/nethermind/pull/15585#pullrequestreview-5759722654) - 2026-11-03
+* [Pull Request] [fix(blockchain): lower BestKnownNumber after deleting a chain slice](https://github.com/NethermindEth/nethermind/pull/15531) - 2026-11-03
+* [Pull Request] [fix(rpc): return -32601 for methods in a disabled namespace](https://github.com/NethermindEth/nethermind/pull/15583) - 2026-11-03
+* [Issue] [DeleteChainSlice leaves BestKnownNumber at the deleted height](https://github.com/NethermindEth/nethermind/issues/15519) - 2026-11-03
+* [Issue] [JSON-RPC: by-name or scalar params are silently ignored, and the jsonrpc member is not validated](https://github.com/NethermindEth/nethermind/issues/15577) - 2026-11-03
+* [Issue] [JSON-RPC: calling a method in a disabled namespace returns -32600 instead of -32601](https://github.com/NethermindEth/nethermind/issues/15576) - 2026-11-03
+* [Issue] [JSON-RPC: invalid or non-integer ids return -32700 parse error instead of being handled](https://github.com/NethermindEth/nethermind/issues/15575) - 2026-11-03
+* [Issue] [JSON-RPC: notifications (requests without id) are answered, including inside batches](https://github.com/NethermindEth/nethermind/issues/15574) - 2026-11-03
+* [Issue] [forkchoiceUpdated accepts a null withdrawal entry in payload attributes and returns a payloadId that cannot be built](https://github.com/NethermindEth/nethermind/issues/15502) - 2026-11-03
+* [Issue] [Shutter: per-slot wait dictionaries keep an empty entry for every slot whose wait times out or is cancelled](https://github.com/NethermindEth/nethermind/issues/15503) - 2026-11-03
+* [Issue] [Flaky test: HistoryAvailabilityTests.RootMatches_ReadsTheMarkerWithoutAllocating](https://github.com/NethermindEth/nethermind/issues/15554) - 2026-11-03
+* [Issue] [EraE remote import with to=0 reports failure when the last remote epoch is partial](https://github.com/NethermindEth/nethermind/issues/15508) - 2026-11-03
+* [Issue] [TxPool.HashCacheSize config setting is never read](https://github.com/NethermindEth/nethermind/issues/15504) - 2026-11-03
+* [Issue] [ProcessExitSource.Exit leaves ExitTask incomplete when a cancellation callback throws](https://github.com/NethermindEth/nethermind/issues/15541) - 2026-11-03
+* [Issue] [KeyStore.UnlockAccounts entries without 0x never find their password](https://github.com/NethermindEth/nethermind/issues/15540) - 2026-11-03
+* [Issue] [DataProtection protection_keys folder is resolved against the working directory, not the keystore directory](https://github.com/NethermindEth/nethermind/issues/15539) - 2026-11-03
+* [Issue] [Critical startup errors are written to <exec>/logs/nethermind.log instead of the configured log file](https://github.com/NethermindEth/nethermind/issues/15538) - 2026-11-03
+* [Issue] [Startup hangs silently when a required init step throws TaskCanceledException without shutdown](https://github.com/NethermindEth/nethermind/issues/15537) - 2026-11-03
+* [Issue] [--db-dir is ignored when --data-dir is set, and gets db appended on its own](https://github.com/NethermindEth/nethermind/issues/15536) - 2026-11-03
+* [Issue] [Log index is not updated on reorgs, so eth_getLogs misses logs of the new canonical blocks](https://github.com/NethermindEth/nethermind/issues/15533) - 2026-11-03
+* [Issue] [JSON config integers above Int64 break ulong options and get exponent text](https://github.com/NethermindEth/nethermind/issues/15528) - 2026-11-03
+* [Issue] [Geth genesis: absent pre-merge forks are activated at genesis instead of never](https://github.com/NethermindEth/nethermind/issues/15527) - 2026-11-03
+* [Issue] [Geth genesis: constantinopleBlock without petersburgBlock enables EIP-1283](https://github.com/NethermindEth/nethermind/issues/15526) - 2026-11-03
+* [Issue] [eth_config/debug_config omit P256VERIFY on RIP-7212 chains and report constant beacon-roots/history addresses](https://github.com/NethermindEth/nethermind/issues/15525) - 2026-11-03
+* [Issue] [Era VerifyContent throws NullReferenceException or index errors when a header number does not match its slot](https://github.com/NethermindEth/nethermind/issues/15520) - 2026-11-03
+* [Issue] [GetBlockHeaders by hash returns canonical headers for a non-canonical origin](https://github.com/NethermindEth/nethermind/issues/15518) - 2026-11-03
+* [Issue] [DeleteInvalidBlock leaves other descendants of an invalid block in the tree](https://github.com/NethermindEth/nethermind/issues/15517) - 2026-11-03
+* [Issue] [xdc: Apothem fork rules out of date since block 83,600,000 (Gas2500x, Prague height, v2 config round 27400500, tiered and proportional rewards)](https://github.com/NethermindEth/nethermind/issues/15511) - 2026-11-03
+* [Issue] [Era1/EraE: a second export into the same directory rewrites the checksum manifests with only the new range](https://github.com/NethermindEth/nethermind/issues/15510) - 2026-11-03
+* [Issue] [engine_forkchoiceUpdatedV3+ accepts null or missing forkchoiceState hashes instead of returning -32602](https://github.com/NethermindEth/nethermind/issues/15501) - 2026-11-03
+* [Commit] [fix(blockchain): lower BestKnownNumber after deleting a chain slice (#15531)](https://github.com/NethermindEth/nethermind/commit/3f880f1e4134566f8a3099f6288ec6b3d780fe17) - 2026-11-03
+* [Commit] [ci: remove the sync metrics Pages dashboard (#15566)](https://github.com/NethermindEth/nethermind/commit/22897ab0ce506da4cb31deddbdd3002eaab8698c) - 2026-11-03
+* [Commit] [fix(consensus): reject payload attributes with a null withdrawal entry (#15516)](https://github.com/NethermindEth/nethermind/commit/19a02541b65471a0374698acd6dedebf4ec7d17f) - 2026-11-03
+* [Commit] [fix(shutter): drop a slot's wait entry once its last wait ends (#15505)](https://github.com/NethermindEth/nethermind/commit/46349e99f1f0532d89c2bcbcdd716598bada1636) - 2026-11-03
+* [Commit] [fix(era): stop auto-ranged EraE import at the real end of a partial last remote epoch (#15509)](https://github.com/NethermindEth/nethermind/commit/4a5d0a2a248914430296bf71d41bf76acad61dd8) - 2026-11-03
+* [Commit] [fix(merge): return null from engine_getBlobsV2/V3 while the node is behind the head (#15507)](https://github.com/NethermindEth/nethermind/commit/cd81033045c84398a3c5201a8d8482e9f882b15f) - 2026-11-03
+* [Commit] [fix(txpool): size the known tx hash cache from TxPool.HashCacheSize (#15506)](https://github.com/NethermindEth/nethermind/commit/d1579eaa204fcb960724901dbd3ccdd38f18a82a) - 2026-11-03
+* [Commit] [fix(txpool): raise EvictedPending for txs the head bucket update drops (#15494)](https://github.com/NethermindEth/nethermind/commit/54c2ce60e5748cfcaa5c402a34b4a2075592ebf2) - 2026-11-03
+* [Commit] [fix(rpc): reject conflicting storage overrides in call, estimate and simulate (#15493)](https://github.com/NethermindEth/nethermind/commit/de57e546a80392f524682b651c5220fa4ea27688) - 2026-11-03
+* [Commit] [fix(tracing): expose the effective gas tip as the JavaScript tracer's ctx.gasPrice (#15492)](https://github.com/NethermindEth/nethermind/commit/419b786911931b74e3b0b4438fd36336b45e69f5) - 2026-11-03
+* [Commit] [fix(snapshot): retry HTTP 408 responses during snapshot download (#15490)](https://github.com/NethermindEth/nethermind/commit/33843f9b71c5e8758173c8ccd16978449ad8fe3d) - 2026-11-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

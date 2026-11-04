@@ -141,6 +141,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [ci: run the eels hive simulators from the published execution-specs images](https://github.com/erigontech/erigon/pull/25061) - 2026-10-19
 
+* [Commit] [ci: run the eels hive simulators from the published execution-specs images (#25061)](https://github.com/erigontech/erigon/commit/e045716ad961c85cbbb7797a78642b0ed670fd0f) - 2026-11-03
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/eels: run from published execution-specs images](https://github.com/ethereum/hive/pull/1609#pullrequestreview-5570601532) - 2026-10-19
 * [Review] [Review on: clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621#pullrequestreview-5568415058) - 2026-10-19

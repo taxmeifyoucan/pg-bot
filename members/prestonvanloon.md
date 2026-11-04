@@ -46,6 +46,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Add .oss-scanner/ for Anthropic OSS Scanner enrollment (#17775)](https://github.com/OffchainLabs/prysm/commit/8815a65658c28dd51c20233c311dd4dbca18abdb) - 2026-10-23
 * [Commit] [Update changelog for v7.3.1 (#17766)](https://github.com/OffchainLabs/prysm/commit/373c32bdc7383497b588f2a24c01fd1285e9672f) - 2026-10-23
 * [Review] [Review on: Disable the partial data columns (cell-level PeerDAS dissemination) by default.](https://github.com/OffchainLabs/prysm/pull/17810#pullrequestreview-5740090154) - 2026-11-02
+* [Review] [Review on: Harden filesystem slashing-protection decoding and persistence](https://github.com/OffchainLabs/prysm/pull/17790#pullrequestreview-5759618547) - 2026-11-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

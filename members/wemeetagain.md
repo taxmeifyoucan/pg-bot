@@ -95,6 +95,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(ci): key the Zig cache by host glibc and kernel](https://github.com/ChainSafe/lodestar/pull/10528#pullrequestreview-5721970323) - 2026-10-31
 * [Review] [Review on: chore(ci): build release binary bindings for an explicit glibc target](https://github.com/ChainSafe/lodestar/pull/10529#pullrequestreview-5736223743) - 2026-11-02
 * [Review] [Review on: chore: resolve pnpm catalog dependencies when publishing](https://github.com/ChainSafe/lodestar/pull/10530#pullrequestreview-5735960423) - 2026-11-02
+* [Review] [Review on: fix: add additional checks before block packing](https://github.com/ChainSafe/lodestar/pull/10536#pullrequestreview-5748726822) - 2026-11-03
+* [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5749039092) - 2026-11-03
+* [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5749152129) - 2026-11-03
+* [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-5748867200) - 2026-11-03
+* [Review] [Review on: fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443#pullrequestreview-5748908925) - 2026-11-03
+* [Review] [Review on: fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485#pullrequestreview-5748818278) - 2026-11-03
+* [Review] [Review on: chore(docker): fix native build times in Dockerfile.dev](https://github.com/ChainSafe/lodestar/pull/10534#pullrequestreview-5748753397) - 2026-11-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

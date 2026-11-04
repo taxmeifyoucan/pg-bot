@@ -375,6 +375,28 @@ Team: Reth
 * [Commit] [fix(era): handle multibyte separator in era index listing (#28222)](https://github.com/paradigmxyz/reth/commit/79d222b795b0eb0d5a80067cc1451b68b443d269) - 2026-11-01
 * [Review] [Review on: chore(deps): bump python-dateutil from 2.9.0.post0 to 3.0.0 in /scripts/bench-reth-charts](https://github.com/paradigmxyz/reth/pull/28236#pullrequestreview-5734706085) - 2026-11-02
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/28235#pullrequestreview-5734643348) - 2026-11-02
+* [Pull Request] [fix(node): suffix auth ipc path with instance](https://github.com/paradigmxyz/reth/pull/28257) - 2026-11-03
+* [Pull Request] [fix(etc): create docker jwt secret with owner-only permissions](https://github.com/paradigmxyz/reth/pull/28258) - 2026-11-03
+* [Pull Request] [fix: borrow parent spans in detached trie and overlay tasks](https://github.com/paradigmxyz/reth/pull/28259) - 2026-11-03
+* [Pull Request] [fix(libmdbx): avoid lock inversion in read tx timeout monitor](https://github.com/paradigmxyz/reth/pull/28254) - 2026-11-03
+* [Pull Request] [fix(cli): reject download output paths that escape the datadir](https://github.com/paradigmxyz/reth/pull/28247) - 2026-11-03
+* [Pull Request] [fix(txpool): clear pending blob delete mark on re-insert](https://github.com/paradigmxyz/reth/pull/28248) - 2026-11-03
+* [Pull Request] [fix(node): create jwt secret file with 0600 permissions](https://github.com/paradigmxyz/reth/pull/28246) - 2026-11-03
+* [Review] [Review on: fix(rpc): bound eth_callBundle work](https://github.com/paradigmxyz/reth/pull/28253#pullrequestreview-5752751273) - 2026-11-03
+* [Review] [Review on: fix(rpc): stop pending block build on cancellation](https://github.com/paradigmxyz/reth/pull/28251#pullrequestreview-5752747901) - 2026-11-03
+* [Pull Request] [fix(trie): drop anchor-relative nodes from prefix-set overlays](https://github.com/paradigmxyz/reth/pull/28249) - 2026-11-03
+* [Review] [Review on: fix(net): ignore extra fields in p2p Hello](https://github.com/paradigmxyz/reth/pull/28180#pullrequestreview-5751714299) - 2026-11-03
+* [Review] [Review on: fix(discv4): ignore extra fields in ENRResponse](https://github.com/paradigmxyz/reth/pull/28232#pullrequestreview-5751714025) - 2026-11-03
+* [Review] [Review on: feat(net): limit pending dials per IP](https://github.com/paradigmxyz/reth/pull/28224#pullrequestreview-5751500076) - 2026-11-03
+* [Pull Request] [fix(net): keep trusted ids that fail startup DNS](https://github.com/paradigmxyz/reth/pull/28202) - 2026-11-03
+* [Review] [Review on: fix(net): keep trusted ids that fail startup DNS](https://github.com/paradigmxyz/reth/pull/28202#pullrequestreview-5751050938) - 2026-11-03
+* [Review] [Review on: fix(rpc): return 0x data for empty reverts](https://github.com/paradigmxyz/reth/pull/28243#pullrequestreview-5750843693) - 2026-11-03
+* [Commit] [fix: borrow parent spans in detached trie and overlay tasks (#28259)](https://github.com/paradigmxyz/reth/commit/0c9696998a4d3c0f1be298885a6d3512b0868ddd) - 2026-11-03
+* [Commit] [fix(cli): reject download output paths that escape the datadir (#28247)](https://github.com/paradigmxyz/reth/commit/92f03539baa7fb810b3dc0c428bc341073e962a9) - 2026-11-03
+* [Commit] [fix(node): create jwt secret file with 0600 permissions (#28246)](https://github.com/paradigmxyz/reth/commit/824dc1c897e35c3093674421d59322f4d5cef703) - 2026-11-03
+* [Commit] [fix(trie): drop anchor-relative nodes from prefix-set overlays (#28249)](https://github.com/paradigmxyz/reth/commit/92041a4aeca4910067b1a1238f6cfd24130e424e) - 2026-11-03
+* [Commit] [fix(net): keep trusted ids that fail startup DNS (#28202)](https://github.com/paradigmxyz/reth/commit/7b7d95bf98a3b2b2421809cf664cc627e96b1b6c) - 2026-11-03
+* [Commit] [fix(engine): retain parent spans for payload tasks (#28221)](https://github.com/paradigmxyz/reth/commit/bbb3e3ba3a4dc35f55c77d7a0c2337238da99eb8) - 2026-11-03
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

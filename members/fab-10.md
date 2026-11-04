@@ -91,6 +91,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Rotate CHANGELOG for 26.11.0](https://github.com/besu-eth/besu/pull/11849) - 2026-11-02
 * [Commit] [Rotate CHANGELOG for 26.11.0 (#11849)](https://github.com/besu-eth/besu/commit/781f2e524f3ebbe302065ed2d27e3fbf36550735) - 2026-11-02
 * [Commit] [Stop newPayload signature precomputation once the payload is executed (#223)](https://github.com/besu-eth/besu/commit/21d488e5cb26fef700f97001cab47a18bcd699db) - 2026-11-02
+* [Pull Request] [Represent the chain id with a shared ChainId value object](https://github.com/besu-eth/besu/pull/11866) - 2026-11-03
+* [Pull Request] [EIP-8070: Announce which cells of a blob transaction this node holds](https://github.com/besu-eth/besu/pull/11864) - 2026-11-03
+* [Review] [Review on: Give the acceptance-test bootnode an ephemeral JSON-RPC port](https://github.com/besu-eth/besu/pull/11862#pullrequestreview-5751141974) - 2026-11-03
+* [Pull Request] [EIP-8070: Serve pooled blob transactions with their blobs elided](https://github.com/besu-eth/besu/pull/11763) - 2026-11-03
+* [Review] [Review on: Penalise transactions not successfully selected within the block period (sequenced pool only)](https://github.com/besu-eth/besu/pull/11681#pullrequestreview-5750902716) - 2026-11-03
+* [Commit] [EIP-8070: Serve pooled blob transactions with their blobs elided (#11763)](https://github.com/besu-eth/besu/commit/cfe1794a7d238092556d12499d90bf152a567340) - 2026-11-03
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

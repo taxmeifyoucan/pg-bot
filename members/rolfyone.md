@@ -154,6 +154,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5721366715) - 2026-10-31
 * [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5731583671) - 2026-11-02
 * [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5745279962) - 2026-11-03
+* [Review] [Review on: Skip aggregates whose signature is the point at infinity](https://github.com/Consensys-Incorporated/teku/pull/11610#pullrequestreview-5750065575) - 2026-11-03
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

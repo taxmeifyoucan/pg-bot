@@ -113,6 +113,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [perf(producers): format the block-production picker's gas and nonce skip reasons only when read (#15444)](https://github.com/NethermindEth/nethermind/commit/3e7effa9c7fcd58771cc9b19972042d918985b1f) - 2026-11-02
 * [Commit] [test(state-tests): check the fixture's logs hash next to the post-state root (#15443)](https://github.com/NethermindEth/nethermind/commit/c6d0763370b54526f3d9a752f2267367de44942f) - 2026-11-02
 * [Commit] [test(merge): wait for commits in the V7 empty-block helper and bound WaitForCommitted by the test timeout (#15441)](https://github.com/NethermindEth/nethermind/commit/2e7b78b737ee7fb29f849d4c58dc29db450429b6) - 2026-11-02
+* [Review] [Review on: fix(tracing): report pre-execution opcode failures from the JavaScript step, as in Geth](https://github.com/NethermindEth/nethermind/pull/15495#pullrequestreview-5753304994) - 2026-11-03
+* [Review] [Review on: fix(txpool): judge head drops against one head and read each sender's nonce once](https://github.com/NethermindEth/nethermind/pull/15562#pullrequestreview-5757960841) - 2026-11-03
+* [Review] [Review on: fix(txpool): surface transactions the fork revalidation pass drops as evicted](https://github.com/NethermindEth/nethermind/pull/15560#pullrequestreview-5758883748) - 2026-11-03
+* [Review] [Review on: fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash](https://github.com/NethermindEth/nethermind/pull/15515#pullrequestreview-5756447952) - 2026-11-03
+* [Review] [Review on: fix(era): reject era headers whose number differs from their slot](https://github.com/NethermindEth/nethermind/pull/15523#pullrequestreview-5758856016) - 2026-11-03
+* [Review] [Review on: perf(flat): serve snap ranges with readahead iterators that skip the block cache](https://github.com/NethermindEth/nethermind/pull/15521#pullrequestreview-5757985746) - 2026-11-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

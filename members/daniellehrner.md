@@ -186,6 +186,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Start transaction announcement batches empty (#11827)](https://github.com/besu-eth/besu/commit/26b26fc5df642798e36fa1356fb7b54664004a3d) - 2026-11-02
 * [Commit] [Cache block access lists as RLP, bounded by bytes (#11455)](https://github.com/besu-eth/besu/commit/bad1248d9848d685c385462ac84b814f5beaeeb8) - 2026-11-02
 * [Commit] [Use the AES cipher of the JDK for RLPx frames (#11823)](https://github.com/besu-eth/besu/commit/343842503d51d9b2027260a808c197ec1aaa1232) - 2026-11-02
+* [Pull Request] [Run a child frame on its parent's EVM and reject mismatched frames](https://github.com/besu-eth/besu/pull/11867) - 2026-11-03
+* [Pull Request] [Choose the EVM explicitly in the v1/v2 tests and CI jobs](https://github.com/besu-eth/besu/pull/11865) - 2026-11-03
+* [Review] [Review on: EIP-8070: Announce which cells of a blob transaction this node holds](https://github.com/besu-eth/besu/pull/11864#pullrequestreview-5754426198) - 2026-11-03
+* [Review] [Review on: Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/pull/11759#pullrequestreview-5753801717) - 2026-11-03
+* [Pull Request] [Give the acceptance-test bootnode an ephemeral JSON-RPC port](https://github.com/besu-eth/besu/pull/11862) - 2026-11-03
+* [Review] [Review on: Keep the fees of recent blocks between chain heads in the fee oracle](https://github.com/besu-eth/besu/pull/11825#pullrequestreview-5750623159) - 2026-11-03
+* [Commit] [Choose the EVM explicitly in the v1/v2 tests and CI jobs (#11865)](https://github.com/besu-eth/besu/commit/f13ef3bcab39bed3177887ebcea60cd85aecd7c7) - 2026-11-03
+* [Commit] [Give the acceptance-test bootnode an ephemeral JSON-RPC port (#11862)](https://github.com/besu-eth/besu/commit/836d5287d065958f3e5002b9caca4a274d0464e4) - 2026-11-03
+* [Commit] [Stop the default JVM options from starting JFR's event log (#11824)](https://github.com/besu-eth/besu/commit/9931d0acd5ea24cb860e1171ce7f9e33d54af022) - 2026-11-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

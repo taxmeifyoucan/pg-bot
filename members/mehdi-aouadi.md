@@ -22,6 +22,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Unschedule Gloas fork on Hoodi](https://github.com/Consensys-Incorporated/teku/pull/11566#pullrequestreview-5616065827) - 2026-10-22
 * [Issue] [Sign inclusion lists with the inclusion list epoch's fork version](https://github.com/Consensys-Incorporated/teku/issues/11571) - 2026-10-23
 * [Issue] [Set the IL deadline to 9s into the slot](https://github.com/Consensys-Incorporated/teku/issues/11570) - 2026-10-23
+* [Review] [Review on: Point the CLA document at Consensys Incorporated.](https://github.com/Consensys-Incorporated/teku/pull/11612#pullrequestreview-5759940127) - 2026-11-03
+* [Pull Request] [Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611) - 2026-11-03
+* [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5756246570) - 2026-11-03
 ## Q3 2026
 
 

@@ -60,6 +60,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Review] [Review on: fixup/11/upstream: perf-84 - strict alignment proves accesses through fields of promoted structs aligned](https://github.com/NethermindEth/dotnet-riscv/pull/37#pullrequestreview-5724971874) - 2026-10-31
 * [Pull Request] [riscv32: The RV32IM target for the Airbender zkVM](https://github.com/NethermindEth/dotnet-riscv/pull/38) - 2026-10-31
 * [Commit] [Merge pull request #38 from NethermindEth/feature/riscv32-clean](https://github.com/NethermindEth/dotnet-riscv/commit/69b95a916c60473ac73cdd67ca938ca017e7febd) - 2026-10-31
+* [Pull Request] [musl: Fall back to mirrors of the release tarball](https://github.com/NethermindEth/dotnet-riscv/pull/39) - 2026-11-03
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -101,6 +102,17 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [manifest: riscv32 platforms, platforms without unwind tables, flat images](https://github.com/NethermindEth/bflat-riscv64/commit/ec2eb529174105ce809efc7124dabaa07b1ff747) - 2026-10-31
 * [Commit] [modules: Build every module for riscv32 too](https://github.com/NethermindEth/bflat-riscv64/commit/c08d8ed4c13bf9b8edd7451abfaff7e9afd21f8b) - 2026-10-31
 * [Commit] [ci: Run bflat-ts on zk-testing with the image of a pull request](https://github.com/NethermindEth/bflat-riscv64/commit/d6985d62ee907a81c249a4a1120b80a718f4036e) - 2026-11-01
+* [Pull Request] [docs: Update the documentation and add the Targets page](https://github.com/NethermindEth/bflat-riscv64/pull/73) - 2026-11-03
+* [Pull Request] [ci: run the Airbender guests with the airbender-runner image](https://github.com/NethermindEth/bflat-riscv64/pull/72) - 2026-11-03
+* [Pull Request] [tls: Add the DTP_OFFSET of RISC-V to the offset of __tls_get_addr](https://github.com/NethermindEth/bflat-riscv64/pull/71) - 2026-11-03
+* [Commit] [docs: Write the pages in ASD-STE100 style](https://github.com/NethermindEth/bflat-riscv64/commit/c6a55a39a60bfc4a5fd4ee829297c7156c66e24f) - 2026-11-03
+* [Commit] [modules, bflat: Correct stale comments](https://github.com/NethermindEth/bflat-riscv64/commit/0952dcb2c8f3944177d0d950afc65251f64a5d09) - 2026-11-03
+* [Commit] [samples: Describe the targets that this fork builds](https://github.com/NethermindEth/bflat-riscv64/commit/11f812239e2966443f380c4f85897f37997a348a) - 2026-11-03
+* [Commit] [docs: Bring the site up to date and add the Targets page](https://github.com/NethermindEth/bflat-riscv64/commit/940f600cecb4c1aa78d8f58216cba06981864ab4) - 2026-11-03
+* [Commit] [README, BUILDING: Describe the five platforms and the current build](https://github.com/NethermindEth/bflat-riscv64/commit/a4c4a47b6a1ba41dabe06afa79c93841cadedc64) - 2026-11-03
+* [Commit] [ci: run the Airbender guests with the airbender-runner image (#72)](https://github.com/NethermindEth/bflat-riscv64/commit/c8f6294cca505f5118590e7fd23fdb408264f8dc) - 2026-11-03
+* [Commit] [Merge pull request #71 from NethermindEth/fix/tls-dtp-offset](https://github.com/NethermindEth/bflat-riscv64/commit/08364f7bf222e7597b5d546666d3f76f47665372) - 2026-11-03
+* [Commit] [tls: Add the DTP_OFFSET of RISC-V to the offset of __tls_get_addr](https://github.com/NethermindEth/bflat-riscv64/commit/377faf80a58fde41b16622b6701e7663671d6df1) - 2026-11-03
 ## Q3 2026
 
 

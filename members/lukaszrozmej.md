@@ -693,6 +693,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): write RLP hashes as aligned words on strict-alignment guests (#15399)](https://github.com/NethermindEth/nethermind/commit/63bacd0b837bd71b77b731b6299449502bf0e0ae) - 2026-11-02
 * [Commit] [perf(zkevm): run CODECOPY through the guest data-copy handler (#15398)](https://github.com/NethermindEth/nethermind/commit/f66bf4060360746b205bc3e6e7494d53578eb2df) - 2026-11-02
 * [Commit] [perf(sync): download block access lists for executed blocks in full sync (#15378)](https://github.com/NethermindEth/nethermind/commit/265a8302a3021f2e045c372e9397b99dc6b7450d) - 2026-11-02
+* [Review] [Review on: perf(rpc): skip non-matching log index chunks when intersecting](https://github.com/NethermindEth/nethermind/pull/15550#pullrequestreview-5754528992) - 2026-11-03
+* [Review] [Review on: fix(txpool): judge head drops against one head and read each sender's nonce once](https://github.com/NethermindEth/nethermind/pull/15562#pullrequestreview-5756281302) - 2026-11-03
+* [Review] [Review on: fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash](https://github.com/NethermindEth/nethermind/pull/15515#pullrequestreview-5754952670) - 2026-11-03
+* [Pull Request] [perf(zkevm): run ADDMOD and MULMOD in their stack slots with less work on the guests](https://github.com/NethermindEth/nethermind/pull/15567) - 2026-11-03
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -788,6 +792,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [schemas: add optional blockAccessList to BadBlock](https://github.com/ethereum/execution-apis/pull/955) - 2026-10-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Replace the eager secured-trie path walk with a node-local check and a lazy check](https://github.com/ethereum/execution-specs/issues/3885) - 2026-10-22
+* [Review] [Review on: feat(zkevm): check witness trie nodes only when the block reaches them](https://github.com/ethereum/execution-specs/pull/3934#pullrequestreview-5755661276) - 2026-11-03
 ## Q3 2026
 
 

@@ -94,6 +94,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(network)!: serialize eth request and response messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15470) - 2026-11-02
 * [Pull Request] [ci(docs): author docs commits as the GitHub app](https://github.com/NethermindEth/nethermind/pull/15473) - 2026-11-02
 * [Commit] [ci(docs): author docs commits as the GitHub app (#15473)](https://github.com/NethermindEth/nethermind/commit/aac2cf196ba22929346387a3565cf47bafdcfe2c) - 2026-11-02
+* [Pull Request] [refactor(network)!: serialize eth68-72 messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15586) - 2026-11-03
+* [Commit] [refactor(network)!: serialize eth request and response messages into spans instead of DotNetty buffers (#15470)](https://github.com/NethermindEth/nethermind/commit/e2a614090d9439a170c8f90b9d98e6ce1356abe6) - 2026-11-03
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

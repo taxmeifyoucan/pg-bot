@@ -82,6 +82,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: apply forkchoiceUpdated verdicts to fork choice](https://github.com/ChainSafe/lodestar/pull/10436#pullrequestreview-5580767529) - 2026-10-20
 * [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5597381799) - 2026-10-21
 * [Pull Request] [feat: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/10464) - 2026-10-23
+* [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5762860083) - 2026-11-04
+* [Commit] [fix: harden assertPeerRelevance (#10443)](https://github.com/ChainSafe/lodestar/commit/14a10bec65d1dcbd939e57d5a59405c98e411d55) - 2026-11-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

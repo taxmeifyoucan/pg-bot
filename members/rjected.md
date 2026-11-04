@@ -16,6 +16,11 @@ Team: Reth
 
 * [Review] [Review on: feat(cli): allow CPU core count overrides](https://github.com/paradigmxyz/reth/pull/27765#pullrequestreview-5446189811) - 2026-10-07
 * [Pull Request] [fix(prune): delete static file jars after commit](https://github.com/paradigmxyz/reth/pull/28241) - 2026-11-02
+* [Pull Request] [test(snap): stop the engine before the reorg restart](https://github.com/paradigmxyz/reth/pull/28267) - 2026-11-03
+* [Pull Request] [fix(ci): let bench-txgen read the engine JWT secret](https://github.com/paradigmxyz/reth/pull/28265) - 2026-11-03
+* [Pull Request] [fix(trie): tighten iterator seek boundary](https://github.com/paradigmxyz/reth/pull/28264) - 2026-11-03
+* [Commit] [fix(ci): let bench-txgen read the engine JWT secret (#28265)](https://github.com/paradigmxyz/reth/commit/ddb0331e0df1bc3831dfe7d5195df7c6f464497d) - 2026-11-03
+* [Commit] [fix(trie): tighten iterator seek boundary (#28264)](https://github.com/paradigmxyz/reth/commit/8572c88fe04fb2213d86f020ed9e72e612abb097) - 2026-11-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

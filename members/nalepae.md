@@ -102,6 +102,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Disable the partial data columns (cell-level PeerDAS dissemination) by default. (#17810)](https://github.com/OffchainLabs/prysm/commit/643f16bdd80a68c1eb85847789c05a3b9e1be72c) - 2026-11-02
 * [Commit] [`--disable-ephemeral-log-file`: Fix help message (#17807)](https://github.com/OffchainLabs/prysm/commit/667242f83efcb04ad5602551f0f5d7b9bff2b839) - 2026-11-02
 * [Commit] [Validator Exit: Detect the network from the beacon node for the beaconcha.in links. (#17759)](https://github.com/OffchainLabs/prysm/commit/d92fd32641d5f8b80136f2481d7600fe1b9339b6) - 2026-11-02
+* [Review] [Review on: Validate sync committee messages before broadcast](https://github.com/OffchainLabs/prysm/pull/17792#pullrequestreview-5755752792) - 2026-11-03
+* [Review] [Review on: Harden filesystem slashing-protection decoding and persistence](https://github.com/OffchainLabs/prysm/pull/17790#pullrequestreview-5751159492) - 2026-11-03
+* [Review] [Review on: Remove no-op `features.InitWithReset(&features.Flags{})` calls](https://github.com/OffchainLabs/prysm/pull/17793#pullrequestreview-5755689696) - 2026-11-03
+* [Review] [Review on: Remove legacy go build tags](https://github.com/OffchainLabs/prysm/pull/17797#pullrequestreview-5755606250) - 2026-11-03
+* [Review] [Review on: Ignore head-state-dependent voluntary exit gossip failures](https://github.com/OffchainLabs/prysm/pull/17798#pullrequestreview-5755015031) - 2026-11-03
+* [Review] [Review on: Optimization by pubkey subtraction for aggregated pubkeys](https://github.com/OffchainLabs/prysm/pull/17799#pullrequestreview-5753688902) - 2026-11-03
+* [Review] [Review on: Optimise DA wait times for partial columns in the worst case of (super node + backfill + EL dropping blobs)](https://github.com/OffchainLabs/prysm/pull/17791#pullrequestreview-5751973337) - 2026-11-03
+* [Pull Request] [Fix `sync: negative WaitGroup counter` panic in `TestStatusRPCRequest_BadPeerHandshake` when the status stream handler is invoked more than once.](https://github.com/OffchainLabs/prysm/pull/17813) - 2026-11-03
+* [Issue] [`Could not notify event feed of new chain head{_v2}` errors at checkpoint sync startup](https://github.com/OffchainLabs/prysm/issues/17812) - 2026-11-03
+* [Commit] [Fix `sync: negative WaitGroup counter` panic in `TestStatusRPCRequest_BadPeerHandshake` when the status stream handler is invoked more than once. (#17813)](https://github.com/OffchainLabs/prysm/commit/d4ae5049586a05a6a45051acdb35d78fdd4a328d) - 2026-11-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

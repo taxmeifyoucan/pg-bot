@@ -108,6 +108,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Auto-generated Engine API JWT secret file is created world-readable](https://github.com/Consensys-Incorporated/teku/issues/11608) - 2026-11-02
 * [Issue] [Builder bid with a gas limit outside the EIP-1559 bound is accepted and the slot is missed](https://github.com/Consensys-Incorporated/teku/issues/11607) - 2026-11-02
 * [Issue] [Interchange import of a future attestation `source_epoch` permanently wedges all attestations](https://github.com/Consensys-Incorporated/teku/issues/11606) - 2026-11-02
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11613#pullrequestreview-5761563874) - 2026-11-04
+* [Review] [Review on: Skip aggregates whose signature is the point at infinity](https://github.com/Consensys-Incorporated/teku/pull/11610#pullrequestreview-5750218472) - 2026-11-03
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

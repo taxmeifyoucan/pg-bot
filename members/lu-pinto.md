@@ -33,6 +33,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Saturate the Osaka MODEXP multiplication complexity instead of wrapping](https://github.com/besu-eth/besu/pull/11599#pullrequestreview-5613129362) - 2026-10-22
 * [Review] [Review on: EVM v2: split the loop to keep it within C2's inlining budget](https://github.com/besu-eth/besu/pull/11687#pullrequestreview-5628907058) - 2026-10-23
 * [Pull Request] [32bit hash lanes](https://github.com/besu-eth/besu/pull/11748) - 2026-10-24
+* [Review] [Review on: Apply the calldata floor to the total gas used before refunds](https://github.com/besu-eth/besu/pull/11580#pullrequestreview-5751858365) - 2026-11-03
+* [Review] [Review on: Choose the EVM explicitly in the v1/v2 tests and CI jobs](https://github.com/besu-eth/besu/pull/11865#pullrequestreview-5754691752) - 2026-11-03
 ## Q3 2026
 
 

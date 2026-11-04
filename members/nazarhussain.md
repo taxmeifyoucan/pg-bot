@@ -60,6 +60,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5588095817) - 2026-10-20
 * [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-5722602598) - 2026-10-31
 * [Review] [Review on: fix(api): keep timeout signals local to retry attempts](https://github.com/ChainSafe/lodestar/pull/10526#pullrequestreview-5722526370) - 2026-10-31
+* [Pull Request] [fix: discount pending parent support in fast confirmation empty slots](https://github.com/ChainSafe/lodestar/pull/10539) - 2026-11-03
+* [Review] [Review on: fix: use runtime genesis metadata for ephemery](https://github.com/ChainSafe/lodestar/pull/10278#pullrequestreview-5751707499) - 2026-11-03
+* [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5751691517) - 2026-11-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -72,6 +75,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765#pullrequestreview-5520132266) - 2026-10-14
 * [Issue] [fuzz: SIGILL crashes in ssz_containers and ssz_bitvector on fuzzer-01](https://github.com/ChainSafe/lodestar-z/issues/792) - 2026-10-16
 * [Commit] [build: add AFL++ fuzzing image (#787)](https://github.com/ChainSafe/lodestar-z/commit/efec11d2ed928be17d87f464b05e54b58d7df5e4) - 2026-10-17
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789#pullrequestreview-5751955155) - 2026-11-03
 ## Q3 2026
 
 

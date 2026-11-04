@@ -15,6 +15,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Pull Request] [ci: log in to Docker Hub with OIDC instead of static credentials](https://github.com/NethermindEth/nethermind/pull/14619) - 2026-10-13
 * [Review] [Review on: ci: log in to Docker Hub with OIDC instead of static credentials](https://github.com/NethermindEth/nethermind/pull/14619#pullrequestreview-5506758136) - 2026-10-13
 * [Commit] [ci: log in to Docker Hub with OIDC instead of static credentials (#14619)](https://github.com/NethermindEth/nethermind/commit/dd27c6db40495805a14a08888a72840752de4b42) - 2026-10-13
+* [Commit] [ci: require CI owner sign-off for CI definition changes (#15361)](https://github.com/NethermindEth/nethermind/commit/a14b4dd26a76e9efeaabd2213b2a6cebefffbb52) - 2026-11-03
 ## Q3 2026
 
 

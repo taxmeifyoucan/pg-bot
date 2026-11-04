@@ -166,6 +166,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Reject BFT messages whose signature does not recover to an author (new finding) (#192)](https://github.com/besu-eth/besu/commit/4b87df824a9a004598f9c2f722259da96effe47a) - 2026-11-02
 * [Commit] [Reject a Clique block whose proposer seal has no recoverable address (GHSA-4c5c, #132) (#184)](https://github.com/besu-eth/besu/commit/5d207f8127251fed58065320b81f9e1ce5d110d7) - 2026-11-02
 * [Commit] [Reject a BFT block with commit seal with unrecoverable address (GHSA-pvgm)](https://github.com/besu-eth/besu/commit/7af5074735b3290992f5f7fa0ed8bba66b93058e) - 2026-11-02
+* [Review] [Review on: Fix/snap storage root refresh](https://github.com/besu-eth/besu/pull/11654#pullrequestreview-5761671447) - 2026-11-04
+* [Review] [Review on: Move JSON-RPC error detail from data to message](https://github.com/besu-eth/besu/pull/11861#pullrequestreview-5761562919) - 2026-11-04
+* [Review] [Review on: Stop the default JVM options from starting JFR's event log](https://github.com/besu-eth/besu/pull/11824#pullrequestreview-5749731757) - 2026-11-03
+* [Commit] [upgrade open telemetry to 1.67.0 (#11859)](https://github.com/besu-eth/besu/commit/7993ec1ddfb331696203c60a85de897948afd1f9) - 2026-11-03
+* [Commit] [bump plugins baseline for 26.11.0 (#11851)](https://github.com/besu-eth/besu/commit/318dbd09713b1a1bb5cb32281c0b9ea257645f05) - 2026-11-03
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

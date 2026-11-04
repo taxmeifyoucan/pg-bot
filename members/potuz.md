@@ -49,6 +49,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Use randomized aggregation for same-message signature batches](https://github.com/OffchainLabs/prysm/pull/17763#pullrequestreview-5729879465) - 2026-11-01
 * [Pull Request] [Improve proposer filtering of packed attestations](https://github.com/OffchainLabs/prysm/pull/17805) - 2026-11-02
 * [Commit] [Improve proposer filtering of packed attestations (#17805)](https://github.com/OffchainLabs/prysm/commit/900b80313e775b686dac5bc4f91f1a0bbc3e3dc8) - 2026-11-02
+* [Review] [Review on: Verify execution block hashes of gossiped payloads locally](https://github.com/OffchainLabs/prysm/pull/17786#pullrequestreview-5749436510) - 2026-11-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
 * [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20

@@ -57,6 +57,13 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: eth/73 - Indexed Cell Requests](https://github.com/ethereum/EIPs/pull/12287#pullrequestreview-5604860040) - 2026-10-21
 * [Review] [Review on: Update EIP-5069: Update EIP Coordinators' responsibilities](https://github.com/ethereum/EIPs/pull/12565#pullrequestreview-5604383948) - 2026-10-21
 * [Review] [Review on: Add EIP: Quantum Freeze and Account Recovery](https://github.com/ethereum/EIPs/pull/12383#pullrequestreview-5636464806) - 2026-10-24
+* [Review] [Review on: Add EIP: Transaction Events View](https://github.com/ethereum/EIPs/pull/12218#pullrequestreview-5760704059) - 2026-11-03
+* [Review] [Review on: Add EIP: Stateless Accounts](https://github.com/ethereum/EIPs/pull/12221#pullrequestreview-5760706083) - 2026-11-03
+* [Review] [Review on: Add EIP: Engine API Proposal Lookahead](https://github.com/ethereum/EIPs/pull/12547#pullrequestreview-5760822984) - 2026-11-03
+* [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-5760703030) - 2026-11-03
+* [Review] [Review on: Add EIP: Batched KZG Point Evaluation via EIP-2537](https://github.com/ethereum/EIPs/pull/12589#pullrequestreview-5757952307) - 2026-11-03
+* [Review] [Review on: Add EIP: Permanent EOA Delegation Opt-Out](https://github.com/ethereum/EIPs/pull/12600#pullrequestreview-5758251741) - 2026-11-03
+* [Review] [Review on: Add EIP: Transaction Validity Proofs](https://github.com/ethereum/EIPs/pull/12075#pullrequestreview-5756664213) - 2026-11-03
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

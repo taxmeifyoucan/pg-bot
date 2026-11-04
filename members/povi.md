@@ -68,6 +68,9 @@ Team: Grandine
 * [Review] [Review on: Updated documentation](https://github.com/grandinetech/grandine/pull/1002#pullrequestreview-5610164508) - 2026-10-22
 * [Commit] [Add beacon attestation rewards endpoint](https://github.com/grandinetech/grandine/commit/3b3046ef0368af54dbf145ae58d5c3f7e0d767e5) - 2026-10-23
 * [Commit] [Configurable builder header timeout](https://github.com/grandinetech/grandine/commit/2f49384bbf9db38713855b1aaa97eb0f6942195b) - 2026-10-23
+* [Pull Request] [Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020) - 2026-11-03
+* [Review] [Review on: Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020#pullrequestreview-5755014418) - 2026-11-03
+* [Commit] [Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/commit/0ea729e6ab1bcc2cf128279cef3544326d0729eb) - 2026-11-03
 ## Q3 2026
 
 

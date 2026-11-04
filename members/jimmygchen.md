@@ -23,6 +23,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Release v8.3.2](https://github.com/sigp/lighthouse/pull/10433#pullrequestreview-5622120806) - 2026-10-22
 * [Review] [Review on: Release v8.4.0-rc.0](https://github.com/sigp/lighthouse/pull/10428#pullrequestreview-5613668998) - 2026-10-22
 * [Issue] [Empty `auth_data` in `builder_definitions.yml` drops the builder at proposal time instead of failing at startup](https://github.com/sigp/lighthouse/issues/10434) - 2026-10-23
+* [Review] [Review on: Fix light client headers at fork boundaries](https://github.com/sigp/lighthouse/pull/10401#pullrequestreview-5762952639) - 2026-11-04
+* [Review] [Review on: Don't drop EL blobs for imported Gloas blocks without payload](https://github.com/sigp/lighthouse/pull/10488#pullrequestreview-5762713421) - 2026-11-04
+* [Pull Request] [Remove MDBX slasher backend](https://github.com/sigp/lighthouse/pull/10521) - 2026-11-03
+* [Pull Request] [Build slasher tests as C17 to fix mdbx on GCC 15](https://github.com/sigp/lighthouse/pull/10518) - 2026-11-03
+* [Pull Request] [Add an event topic for attestation weight per block](https://github.com/sigp/lighthouse/pull/10517) - 2026-11-03
+* [Review] [Review on: Add missing gossip check for Gloas blocks built on Empty](https://github.com/sigp/lighthouse/pull/10491#pullrequestreview-5751928147) - 2026-11-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
 

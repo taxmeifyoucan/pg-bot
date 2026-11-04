@@ -231,6 +231,28 @@ Team: Erigon
 * [Review] [Review on: db/kv: remote KV pages repeat last item; Range leaks iterator and mmap slices; unknown table reads GC](https://github.com/erigontech/erigon/pull/25664#pullrequestreview-5732432341) - 2026-11-02
 * [Review] [Review on: execution/execmodule: stop reporting unexecuted canonical blocks as VALID](https://github.com/erigontech/erigon/pull/25566#pullrequestreview-5746789524) - 2026-11-03
 * [Review] [Review on: db/state: fix merge range after Retire, seed merged history, retire each file once](https://github.com/erigontech/erigon/pull/25663#pullrequestreview-5732433222) - 2026-11-02
+* [Pull Request] [db/snapshotsync: index missing caplin segments with EL's buildMissedIndices](https://github.com/erigontech/erigon/pull/25740) - 2026-11-03
+* [Review] [Review on: cl/antiquary: merge beaconblocks into 100k segments with EL's Merger](https://github.com/erigontech/erigon/pull/25519#pullrequestreview-5749131142) - 2026-11-03
+* [Review] [Review on: txpool, engineapi: reuse validation-time KZG cells in getBlobsV4](https://github.com/erigontech/erigon/pull/25628#pullrequestreview-5763133311) - 2026-11-04
+* [Review] [Review on: cl/beacon/handler: publish a POSTed Gloas envelope before its columns in gossip mode](https://github.com/erigontech/erigon/pull/25718#pullrequestreview-5752031156) - 2026-11-03
+* [Review] [Review on: cl/beacon/handler: publish a POSTed Gloas envelope's columns before storing them, verify blob bundles per blob in parallel](https://github.com/erigontech/erigon/pull/25710#pullrequestreview-5751892868) - 2026-11-03
+* [Review] [Review on: cmd/integration, db/state: fast PBT convert, manifest attach and resume](https://github.com/erigontech/erigon/pull/25467#pullrequestreview-5756697619) - 2026-11-03
+* [Review] [Review on: db/state: persist the hex shadow stop in the datadir](https://github.com/erigontech/erigon/pull/25554#pullrequestreview-5756701467) - 2026-11-03
+* [Review] [Review on: execution/stagedsync, execution/state: fold commitment from the version map; delete calcState](https://github.com/erigontech/erigon/pull/25491#pullrequestreview-5748279288) - 2026-11-03
+* [Review] [Review on: [r3.8] rpc/jsonrpc: resolve historical simulation writes against the simulated view](https://github.com/erigontech/erigon/pull/25716#pullrequestreview-5752064712) - 2026-11-03
+* [Review] [Review on: cl/phase1/stages: drop redundant work from the same-root Gloas fork-choice pass](https://github.com/erigontech/erigon/pull/25690#pullrequestreview-5751803356) - 2026-11-03
+* [Review] [Review on: [r3.8] cl/phase1/forkchoice: keep vote weights across get_head calls and apply votes when recorded](https://github.com/erigontech/erigon/pull/25711#pullrequestreview-5751925127) - 2026-11-03
+* [Review] [Review on: cl/phase1/forkchoice: read column availability before taking the fork-choice lock](https://github.com/erigontech/erigon/pull/25594#pullrequestreview-5751681638) - 2026-11-03
+* [Pull Request] [execution/execmodule: answer a re-sent domain-ahead fork choice with TooFarAway](https://github.com/erigontech/erigon/pull/25741) - 2026-11-03
+* [Review] [Review on: cl/beacon/handler: subscribe an event stream only to the feeds of its topics, each into its own buffer](https://github.com/erigontech/erigon/pull/25700#pullrequestreview-5751831470) - 2026-11-03
+* [Review] [Review on: execution/exec, execution/state: warmup reads storage slots without interning them](https://github.com/erigontech/erigon/pull/25695#pullrequestreview-5751814475) - 2026-11-03
+* [Review] [Review on: rpc/jsonrpc: dedupe touched keys of a repeated historical state override](https://github.com/erigontech/erigon/pull/25721#pullrequestreview-5752065134) - 2026-11-03
+* [Review] [Review on: execution/commitment: derive hashed keys of decoded cells on first read](https://github.com/erigontech/erigon/pull/25699#pullrequestreview-5751831136) - 2026-11-03
+* [Review] [Review on: execution/exec, execution/builder: build every block on NoMaterialize](https://github.com/erigontech/erigon/pull/25717#pullrequestreview-5752003311) - 2026-11-03
+* [Issue] [rpc/jsonrpc: historical eth_simulateV1 retains blocks x slots touched keys for a repeated state override](https://github.com/erigontech/erigon/issues/25713) - 2026-11-03
+* [Issue] [execution/state, execution/stagedsync: follow-ups from the #25491 review](https://github.com/erigontech/erigon/issues/25736) - 2026-11-03
+* [Issue] [execution/stagedsync: BAL compute-ahead keeps an EIP-161-empty account a 0-value tx touches](https://github.com/erigontech/erigon/issues/25715) - 2026-11-03
+* [Commit] [db/snapshotsync: open every caplin segment as EL does (#25488)](https://github.com/erigontech/erigon/commit/e64067670d4833ae7050ab2f53f8f49faf278224) - 2026-11-03
 ## Q3 2026
 
 

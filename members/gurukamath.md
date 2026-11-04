@@ -34,6 +34,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(test-forks,tests): list the EIP-7906 instructions as valid opcodes from Bogota](https://github.com/ethereum/execution-specs/pull/3923#pullrequestreview-5725638522) - 2026-11-01
 * [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5723804062) - 2026-10-31
 * [Review] [Review on: feat(tests): add EIP-8141 VERIFY-frame static context and transient storage tests](https://github.com/ethereum/execution-specs/pull/3939#pullrequestreview-5721284198) - 2026-10-31
+* [Review] [Review on: 🧹 chore(tests): Remove duplicate frame tx coverage](https://github.com/ethereum/execution-specs/pull/3946#pullrequestreview-5748317932) - 2026-11-03
 ## Q3 2026
 
 

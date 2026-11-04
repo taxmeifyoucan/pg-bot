@@ -39,11 +39,14 @@ Team: Codex DAS
 * [Review] [Review on: version: release 1.17.10](https://github.com/ethereum/go-ethereum/pull/36002#pullrequestreview-5626684154) - 2026-10-23
 * [Review] [Review on: core, params: revert schedule amsterdam fork on hoodi](https://github.com/ethereum/go-ethereum/pull/36001#pullrequestreview-5626179469) - 2026-10-23
 * [Review] [Review on: core: compute the state root alongside the block's other digests](https://github.com/ethereum/go-ethereum/pull/36040#pullrequestreview-5724361651) - 2026-10-31
+* [Pull Request] [triedb/pathdb: revert storage tries concurrently](https://github.com/ethereum/go-ethereum/pull/36067) - 2026-11-04
+* [Pull Request] [triedb/pathdb: merge state histories in deep rollbacks](https://github.com/ethereum/go-ethereum/pull/36068) - 2026-11-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08
 * [Commit] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/commit/d298b6d416a233e9369a7c705a5abf0a246d6124) - 2026-10-08
 * [Pull Request] [Add EIP: Engine API proposal lookahead](https://github.com/ethereum/EIPs/pull/12547) - 2026-10-19
+* [Commit] [Add EIP: Engine API Proposal Lookahead](https://github.com/ethereum/EIPs/commit/46976b2a9bf99f727fb87dc8c809e3a3cdc6b445) - 2026-11-03
 ## Q3 2026
 
 

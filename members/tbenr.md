@@ -97,6 +97,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Gloas: EL-invalid envelope blocks the correct envelope for the same block](https://github.com/Consensys-Incorporated/teku/issues/11568) - 2026-10-23
 * [Pull Request] [Buffer pending RPC bytes in a single growable buffer](https://github.com/Consensys-Incorporated/teku/pull/11589) - 2026-11-03
 * [Commit] [Buffer pending RPC bytes in a single growable buffer (#11589)](https://github.com/Consensys-Incorporated/teku/commit/b23a950993decdaa296949dee48afe179b2d7cc6) - 2026-11-03
+* [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-5750922703) - 2026-11-03
+* [Pull Request] [Skip aggregates whose signature is the point at infinity](https://github.com/Consensys-Incorporated/teku/pull/11610) - 2026-11-03
+* [Commit] [Skip aggregates whose signature is the point at infinity (#11610)](https://github.com/Consensys-Incorporated/teku/commit/f78ecce75bd5828589262f00797f93ab1d4c910c) - 2026-11-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

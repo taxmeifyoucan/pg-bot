@@ -263,6 +263,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [txpool: simplify transaction lifecycle, account refresh, and admission batches](https://github.com/erigontech/erigon/issues/25682) - 2026-11-02
 * [Issue] [cl/das: schedule blob recovery after partial EL column imports in archive mode](https://github.com/erigontech/erigon/issues/25680) - 2026-11-02
 * [Issue] [engineapi: reduce SSZ response allocations and measure transport performance](https://github.com/erigontech/erigon/issues/25677) - 2026-11-02
+* [Review] [Review on: execution/state/genesiswrite: accept nil-vs-0 PoW-era fork differences that select nothing](https://github.com/erigontech/erigon/pull/25727#pullrequestreview-5752550045) - 2026-11-03
+* [Pull Request] [p2p/sentry: isolate slow upload requests by peer](https://github.com/erigontech/erigon/pull/25735) - 2026-11-03
+* [Review] [Review on: rpc: reject out-of-range historical transaction indices](https://github.com/erigontech/erigon/pull/24388#pullrequestreview-5752218654) - 2026-11-03
+* [Pull Request] [rpc: keep debug state reads and trace setup on one database view](https://github.com/erigontech/erigon/pull/25739) - 2026-11-03
+* [Pull Request] [p2p/sentry: rate-limit inbound header requests](https://github.com/erigontech/erigon/pull/25732) - 2026-11-03
+* [Review] [Review on: ci: run the eels hive simulators from the published execution-specs images](https://github.com/erigontech/erigon/pull/25061#pullrequestreview-5754921754) - 2026-11-03
+* [Review] [Review on: execution: strengthen block-end log indexing regression tests](https://github.com/erigontech/erigon/pull/24098#pullrequestreview-5754115624) - 2026-11-03
+* [Review] [Review on: db/downloader: isolate peer manifest downloads](https://github.com/erigontech/erigon/pull/25693#pullrequestreview-5749596253) - 2026-11-03
+* [Review] [Review on: execution/exec, execution/state: warmup reads storage slots without interning them](https://github.com/erigontech/erigon/pull/25695#pullrequestreview-5749999559) - 2026-11-03
+* [Review] [Review on: p2p/protocols/eth: bound GetReceipts re-execution with a deadline](https://github.com/erigontech/erigon/pull/25569#pullrequestreview-5754325578) - 2026-11-03
+* [Review] [Review on: execution/exec, execution/builder: build every block on NoMaterialize](https://github.com/erigontech/erigon/pull/25717#pullrequestreview-5750559423) - 2026-11-03
+* [Issue] [execution, rpc: centralize receipt construction and log ownership](https://github.com/erigontech/erigon/issues/25738) - 2026-11-03
+* [Issue] [execution, rpc: make execution policy explicit and share historical replay](https://github.com/erigontech/erigon/issues/25737) - 2026-11-03
+* [Issue] [ci: use consume-wirex to speed up post-Merge Hive tests](https://github.com/erigontech/erigon/issues/25731) - 2026-11-03
+* [Issue] [rpc: honor explicit transaction indices when tracing the head block](https://github.com/erigontech/erigon/issues/25726) - 2026-11-03
+* [Commit] [execution: strengthen block-end log indexing regression tests (#24098)](https://github.com/erigontech/erigon/commit/257981bc104731f6dc82a18ba3ca05e01abd0f1c) - 2026-11-03
+* [Commit] [ci: update execution-specs tests to v21.0.2 (#25689)](https://github.com/erigontech/erigon/commit/158562553f5c960df9b361abe972a73a93a626de) - 2026-11-03
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -281,6 +298,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Issue] [libdocker, libhive: short container ID collision hangs test cleanup](https://github.com/ethereum/hive/issues/1654) - 2026-11-02
+
+* [Issue] [consume-enginex: legacy chain-ID tests reject INVALID_CHAINID responses](https://github.com/ethereum/hive/issues/1656) - 2026-11-03
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648) - 2026-11-03
+* [Commit] [mainnet/debug_accountAt: expect an out-of-range index error (#648)](https://github.com/erigontech/rpc-tests/commit/73a88b4c120c30637b74b953537eb97cfced8a78) - 2026-11-03
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Gloas: deferred payload envelope waits a full slot after block import](https://github.com/sigp/lighthouse/issues/10519) - 2026-11-03
 ## Q3 2026
 
 
