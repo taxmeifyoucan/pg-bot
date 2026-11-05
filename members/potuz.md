@@ -58,6 +58,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609) - 2026-11-02
 * [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5739961053) - 2026-11-02
 * [Pull Request] [Update EIP-8148: change request type to 0x06](https://github.com/ethereum/EIPs/pull/12608) - 2026-11-02
+* [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5779228542) - 2026-11-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5631371289) - 2026-10-23
 ## Q3 2026

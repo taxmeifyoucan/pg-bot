@@ -102,6 +102,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443#pullrequestreview-5748908925) - 2026-11-03
 * [Review] [Review on: fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485#pullrequestreview-5748818278) - 2026-11-03
 * [Review] [Review on: chore(docker): fix native build times in Dockerfile.dev](https://github.com/ChainSafe/lodestar/pull/10534#pullrequestreview-5748753397) - 2026-11-03
+* [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5766073262) - 2026-11-04
+* [Review] [Review on: refactor: import fs/promises functions by name](https://github.com/ChainSafe/lodestar/pull/10552#pullrequestreview-5766100711) - 2026-11-04
+* [Review] [Review on: chore: drop unused node-gyp devDependency](https://github.com/ChainSafe/lodestar/pull/10551#pullrequestreview-5766124519) - 2026-11-04
+* [Review] [Review on: chore: replace rimraf with fs.rm](https://github.com/ChainSafe/lodestar/pull/10541#pullrequestreview-5764543254) - 2026-11-04
+* [Review] [Review on: perf: select proposers before shuffle join](https://github.com/ChainSafe/lodestar/pull/10535#pullrequestreview-5764343632) - 2026-11-04
+* [Review] [Review on: fix: check best bid before state regen in bid gossip validation](https://github.com/ChainSafe/lodestar/pull/10547#pullrequestreview-5764393731) - 2026-11-04
+* [Review] [Review on: fix: omit version and commit from libp2p Identify](https://github.com/ChainSafe/lodestar/pull/10538#pullrequestreview-5764421926) - 2026-11-04
+* [Pull Request] [feat: use native LevelDB for database and peer storage](https://github.com/ChainSafe/lodestar/pull/10546) - 2026-11-04
+* [Review] [Review on: fix: add additional checks before block packing](https://github.com/ChainSafe/lodestar/pull/10536#pullrequestreview-5764056570) - 2026-11-04
+* [Review] [Review on: chore: use classic-level prebuilds instead of compiling on install](https://github.com/ChainSafe/lodestar/pull/10543#pullrequestreview-5763966238) - 2026-11-04
+* [Pull Request] [chore(ci): pin native portability to Ubuntu 24.04](https://github.com/ChainSafe/lodestar/pull/10542) - 2026-11-04
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

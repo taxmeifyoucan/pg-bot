@@ -68,6 +68,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952) - 2026-11-02
 * [Review] [Review on: feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952#pullrequestreview-5736437303) - 2026-11-02
 * [Review] [Review on: fix(tests): allow INVALID_CHAINID for legacy chain IDs over 64 bits](https://github.com/ethereum/execution-specs/pull/3935#pullrequestreview-5754746586) - 2026-11-03
+* [Commit] [feat(test-consume): start the next client while the current group runs in enginex and wirex (#3952)](https://github.com/ethereum/execution-specs/commit/a7dbafac0c0ec82e7b2e20959cc7c00ce958442a) - 2026-11-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -103,6 +104,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients/reth: list /blocks only when it exists (#1653)](https://github.com/ethereum/hive/commit/c7c4e13ccfe54dfeb7b3606c28d61c7956154900) - 2026-11-02
 * [Commit] [clients/nethermind: turn off dynamic PGO (#1646)](https://github.com/ethereum/hive/commit/490a7ab4de0f6424f9cca0c4a08c1f0f625c6ad2) - 2026-11-02
 * [Commit] [clients/ethrex: always pass --http.api (#1648)](https://github.com/ethereum/hive/commit/1870b1b21d1093e8d8fc3b5aadec470e30df527f) - 2026-11-02
+* [Pull Request] [clients/besu: load the KZG trusted setup in the background when HIVE_KZG_FAST_SETUP is 1](https://github.com/ethereum/hive/pull/1659) - 2026-11-04
+* [Commit] [clients/besu: load the KZG trusted setup in the background when HIVE_KZG_FAST_SETUP is 1 (#1659)](https://github.com/ethereum/hive/commit/1820201029eeee7fc89aa5e7f16433bc420cb05d) - 2026-11-04
+* [Commit] [clients/go-ethereum: only enable HIVE_EXPECT_DEEP_REORGS and HIVE_KZG_FAST_SETUP when set to 1 (#1655)](https://github.com/ethereum/hive/commit/b18037f2c010471b3d58aade4f165d510de59162) - 2026-11-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -115,6 +119,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
 
+* [Pull Request] [Load the KZG trusted setup in the background behind an opt-in flag](https://github.com/besu-eth/besu/pull/11813) - 2026-11-04
+* [Commit] [Load the KZG trusted setup in the background behind an opt-in flag (#11813)](https://github.com/besu-eth/besu/commit/29abdb4de530dcc4e59a200be0bc1309f29be34d) - 2026-11-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/status-im/nimbus-eth1/pull/5012) - 2026-10-19
 

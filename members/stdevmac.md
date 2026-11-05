@@ -316,6 +316,64 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(rpc): reject conflicting storage overrides in call, estimate and simulate (#15493)](https://github.com/NethermindEth/nethermind/commit/de57e546a80392f524682b651c5220fa4ea27688) - 2026-11-03
 * [Commit] [fix(tracing): expose the effective gas tip as the JavaScript tracer's ctx.gasPrice (#15492)](https://github.com/NethermindEth/nethermind/commit/419b786911931b74e3b0b4438fd36336b45e69f5) - 2026-11-03
 * [Commit] [fix(snapshot): retry HTTP 408 responses during snapshot download (#15490)](https://github.com/NethermindEth/nethermind/commit/33843f9b71c5e8758173c8ccd16978449ad8fe3d) - 2026-11-03
+* [Review] [Review on: Enforce reached deadlines for every named native tracer graph](https://github.com/NethermindEth/nethermind/pull/15627#pullrequestreview-5779972620) - 2026-11-05
+* [Review] [Review on: fix(debug): include required results in named block-trace errors](https://github.com/NethermindEth/nethermind/pull/15615#pullrequestreview-5775637288) - 2026-11-04
+* [Review] [Review on: test(runner): isolate cleanup cancellation](https://github.com/NethermindEth/nethermind/pull/15626#pullrequestreview-5779943920) - 2026-11-05
+* [Review] [Review on: Register generated JSON metadata for traceCallMany result arrays](https://github.com/NethermindEth/nethermind/pull/15630#pullrequestreview-5779942252) - 2026-11-05
+* [Review] [Review on: Preserve named block pruning, temporary status and genesis lookup precedence](https://github.com/NethermindEth/nethermind/pull/15628#pullrequestreview-5779898037) - 2026-11-05
+* [Pull Request] [fix(ci): restore GCP runner teardown and sync script builds](https://github.com/NethermindEth/nethermind/pull/15629) - 2026-11-04
+* [Review] [Review on: fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595#pullrequestreview-5776190130) - 2026-11-04
+* [Review] [Review on: fix(network): skip sync-serve work when the peer outbound buffer is full](https://github.com/NethermindEth/nethermind/pull/15472#pullrequestreview-5775344263) - 2026-11-04
+* [Review] [Review on: fix(network): limit the sync-serve requests in flight for each peer](https://github.com/NethermindEth/nethermind/pull/15471#pullrequestreview-5775231499) - 2026-11-04
+* [Pull Request] [fix(init): fail startup on a step cancelled without shutdown and unblock its dependents](https://github.com/NethermindEth/nethermind/pull/15568) - 2026-11-04
+* [Review] [Review on: fix(txpool): surface transactions the fork revalidation pass drops as evicted](https://github.com/NethermindEth/nethermind/pull/15560#pullrequestreview-5776902096) - 2026-11-04
+* [Review] [Review on: test(debug): preserve specified-block JS deadline and token witnesses](https://github.com/NethermindEth/nethermind/pull/15623#pullrequestreview-5775543795) - 2026-11-04
+* [Review] [Review on: fix(debug): distinguish unavailable ByNumber trace tags](https://github.com/NethermindEth/nethermind/pull/15608#pullrequestreview-5776047061) - 2026-11-04
+* [Review] [Review on: fix(era): reject era headers whose number differs from their slot](https://github.com/NethermindEth/nethermind/pull/15523#pullrequestreview-5776891801) - 2026-11-04
+* [Review] [Review on: fix(crypto): keep protection keys under the resolved keystore directory](https://github.com/NethermindEth/nethermind/pull/15572#pullrequestreview-5776906700) - 2026-11-04
+* [Pull Request] [docs(debug): document that debug_traceCallMany traces calls independently without overrides](https://github.com/NethermindEth/nethermind/pull/15551) - 2026-11-04
+* [Review] [Review on: fix(keystore): match unlock accounts by address value](https://github.com/NethermindEth/nethermind/pull/15571#pullrequestreview-5776905921) - 2026-11-04
+* [Review] [Review on: fix(config): keep exact digits of JSON integers beyond Int64](https://github.com/NethermindEth/nethermind/pull/15559#pullrequestreview-5776901108) - 2026-11-04
+* [Pull Request] [fix(evm): pay a destroyed gas beneficiary before destruction regardless of EIP-7708](https://github.com/NethermindEth/nethermind/pull/15598) - 2026-11-04
+* [Pull Request] [fix(era): keep earlier manifest entries when exporting into a directory with an earlier export](https://github.com/NethermindEth/nethermind/pull/15532) - 2026-11-04
+* [Review] [Review on: fix(era): keep earlier manifest entries when exporting into a directory with an earlier export](https://github.com/NethermindEth/nethermind/pull/15532#pullrequestreview-5776896372) - 2026-11-04
+* [Pull Request] [fix(logindex): index only canonical blocks at or below the finalized block](https://github.com/NethermindEth/nethermind/pull/15549) - 2026-11-04
+* [Review] [Review on: fix(logindex): index only canonical blocks at or below the finalized block](https://github.com/NethermindEth/nethermind/pull/15549#pullrequestreview-5776897878) - 2026-11-04
+* [Review] [Review on: fix(txpool): judge head drops against one head and read each sender's nonce once](https://github.com/NethermindEth/nethermind/pull/15562#pullrequestreview-5776903607) - 2026-11-04
+* [Review] [Review on: perf(flat): serve snap ranges with readahead iterators that skip the block cache](https://github.com/NethermindEth/nethermind/pull/15521#pullrequestreview-5776891078) - 2026-11-04
+* [Review] [Review on: fix(blockchain): serve only descendants of a side-chain origin in FindHeaders](https://github.com/NethermindEth/nethermind/pull/15530#pullrequestreview-5776893274) - 2026-11-04
+* [Review] [Review on: fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash](https://github.com/NethermindEth/nethermind/pull/15515#pullrequestreview-5776889402) - 2026-11-04
+* [Pull Request] [fix(rpc): report the active P256VERIFY and system contract addresses in eth_config](https://github.com/NethermindEth/nethermind/pull/15557) - 2026-11-04
+* [Review] [Review on: fix(rpc): report the active P256VERIFY and system contract addresses in eth_config](https://github.com/NethermindEth/nethermind/pull/15557#pullrequestreview-5776900267) - 2026-11-04
+* [Review] [Review on: fix(blockchain): delete every descendant of an invalid block](https://github.com/NethermindEth/nethermind/pull/15529#pullrequestreview-5776892563) - 2026-11-04
+* [Review] [Review on: fix(rpc): answer unsupported ids with -32600 and echo non-integer numeric ids](https://github.com/NethermindEth/nethermind/pull/15584#pullrequestreview-5776908461) - 2026-11-04
+* [Review] [Review on: refactor(network)!: serialize snap messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15614#pullrequestreview-5775132437) - 2026-11-04
+* [Review] [Review on: fix(receipts): resume the receipt tx-hash pass below the ancient barrier](https://github.com/NethermindEth/nethermind/pull/15591#pullrequestreview-5775569348) - 2026-11-04
+* [Review] [Review on: perf(flat): clear changed slots in one pass](https://github.com/NethermindEth/nethermind/pull/15604#pullrequestreview-5775549723) - 2026-11-04
+* [Review] [Review on: perf(trace): reuse unchanged prestate code](https://github.com/NethermindEth/nethermind/pull/15605#pullrequestreview-5776192785) - 2026-11-04
+* [Review] [Review on: perf(history): cache the next stream block](https://github.com/NethermindEth/nethermind/pull/15606#pullrequestreview-5775584421) - 2026-11-04
+* [Commit] [fix(ci): restore GCP runner teardown and sync script builds (#15629)](https://github.com/NethermindEth/nethermind/commit/447d2a34639964fbb941627b0f7ef41677fbd264) - 2026-11-05
+* [Commit] [fix(init): fail startup on a step cancelled without shutdown and unblock its dependents (#15568)](https://github.com/NethermindEth/nethermind/commit/d9b8f33c82de60ff4b1ee3c0af9d896bf23a85dd) - 2026-11-04
+* [Commit] [fix(era): reject era headers whose number differs from their slot (#15523)](https://github.com/NethermindEth/nethermind/commit/98cef1a4b616848687d567d317ef909e5a5e1faa) - 2026-11-04
+* [Commit] [fix(crypto): keep protection keys under the resolved keystore directory (#15572)](https://github.com/NethermindEth/nethermind/commit/96da698bf04b6886aab4c428ca954039d3a5a15e) - 2026-11-04
+* [Commit] [docs(debug): document that debug_traceCallMany traces calls independently without overrides (#15551)](https://github.com/NethermindEth/nethermind/commit/60b88538d416689a5afaeec1911426d9cab31544) - 2026-11-04
+* [Commit] [fix(keystore): match unlock accounts by address value (#15571)](https://github.com/NethermindEth/nethermind/commit/bc1f2336ad6d735b7b6827639b33a682a59eae27) - 2026-11-04
+* [Commit] [fix(config): keep exact digits of JSON integers beyond Int64 (#15559)](https://github.com/NethermindEth/nethermind/commit/19175a6ff41016eb839a322457b1113b11dffc81) - 2026-11-04
+* [Commit] [fix(rpc): do not answer JSON-RPC notifications (#15585)](https://github.com/NethermindEth/nethermind/commit/b0d34e4bb8f20f28f31983914bb4a6832e46bb18) - 2026-11-04
+* [Commit] [fix(era): keep earlier manifest entries when exporting into a directory with an earlier export (#15532)](https://github.com/NethermindEth/nethermind/commit/65e17cb20c176701560a9ea31ea5dcbf96fe6c46) - 2026-11-04
+* [Commit] [fix(logindex): index only canonical blocks at or below the finalized block (#15549)](https://github.com/NethermindEth/nethermind/commit/552f264c38ed2d1bba0456d4969652ff88071d73) - 2026-11-04
+* [Commit] [fix(txpool): judge head drops against one head and read each sender's nonce once (#15562)](https://github.com/NethermindEth/nethermind/commit/ee7e0d9c45abf7a006bc83b19e0c9522bfd13503) - 2026-11-04
+* [Commit] [perf(flat): serve snap ranges with readahead iterators that skip the block cache (#15521)](https://github.com/NethermindEth/nethermind/commit/712fe02cf35afefae3458fbf8075afcdf6761990) - 2026-11-04
+* [Commit] [fix(blockchain): serve only descendants of a side-chain origin in FindHeaders (#15530)](https://github.com/NethermindEth/nethermind/commit/b4324f15d75e652d28be48ab301da36e85dc1a17) - 2026-11-04
+* [Commit] [fix(tracing): report pre-execution opcode failures from the JavaScript step, as in Geth (#15495)](https://github.com/NethermindEth/nethermind/commit/1fe34084bd96794ee0bd0c6a1b4d78937660c7c8) - 2026-11-04
+* [Commit] [fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash (#15515)](https://github.com/NethermindEth/nethermind/commit/5537caa11d0e59414b81688b3e71bf666afcb488) - 2026-11-04
+* [Commit] [fix(rpc): report the active P256VERIFY and system contract addresses in eth_config (#15557)](https://github.com/NethermindEth/nethermind/commit/29a9280fb9b9a830b256b913e2e82f360a96f697) - 2026-11-04
+* [Commit] [fix(blockchain): delete every descendant of an invalid block (#15529)](https://github.com/NethermindEth/nethermind/commit/88b9a04fd78822e914c01919c9dfc382376fabb9) - 2026-11-04
+* [Commit] [fix(rpc): answer unsupported ids with -32600 and echo non-integer numeric ids (#15584)](https://github.com/NethermindEth/nethermind/commit/24e9885751c7a8a479917a45460810376174d495) - 2026-11-04
+* [Commit] [fix(specs): default the geth genesis Petersburg block to Constantinople (#15558)](https://github.com/NethermindEth/nethermind/commit/4d7ddec20d6a36b667501a79904c1ee6974462e8) - 2026-11-04
+* [Commit] [fix(config): complete process exit even when a cancellation callback throws (#15573)](https://github.com/NethermindEth/nethermind/commit/b15c4ad8aa47576322a357e77d31a9c6aa9dd388) - 2026-11-04
+* [Commit] [fix(rpc): return -32601 for methods in a disabled namespace (#15583)](https://github.com/NethermindEth/nethermind/commit/297b55b620d89f8d2e369d652cc555725ef29a1d) - 2026-11-04
+* [Commit] [fix(runner): log critical errors to the configured log file (#15570)](https://github.com/NethermindEth/nethermind/commit/0c66882235ccd0680c8532b4c08564deba6e4375) - 2026-11-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

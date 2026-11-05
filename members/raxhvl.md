@@ -18,6 +18,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Review] [Review on: feat(tests): cover invalid fee caps, block numbers and BAL edge cases](https://github.com/ethereum/execution-specs/pull/3875#pullrequestreview-5610931220) - 2026-10-22
 * [Pull Request] [✨ feat(tests): EIP-8141 Extend expiry flag coverage](https://github.com/ethereum/execution-specs/pull/3954) - 2026-11-03
 * [Pull Request] [🧹 chore(tests): Remove duplicate frame tx coverage](https://github.com/ethereum/execution-specs/pull/3946) - 2026-11-03
+* [Pull Request] [✨ feat(tests): EIP-8141 extend secp r coverage](https://github.com/ethereum/execution-specs/pull/3956) - 2026-11-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
 
@@ -29,6 +30,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [✨ feat(clients/etherex): Local dockerfile](https://github.com/ethereum/hive/pull/1657) - 2026-11-03
+* [Commit] [✨ feat(clients/etherex): Local dockerfile (#1657)](https://github.com/ethereum/hive/commit/da717d611b0b4bac61a02006d6ee9e7a00c736ce) - 2026-11-04
 ## Q3 2026
 
 

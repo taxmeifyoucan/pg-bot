@@ -54,6 +54,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs (#12561)](https://github.com/ethereum/EIPs/commit/f1ade090fd315895461fc3e249cb1a675aeb55a9) - 2026-10-22
 * [Review] [Review on: Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/pull/12603#pullrequestreview-5723408967) - 2026-10-31
 * [Review] [Review on: Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/pull/12603#pullrequestreview-5727814574) - 2026-11-01
+* [Pull Request] [Update EIP-8141: exclude calldata cost from MAX_VERIFY_GAS](https://github.com/ethereum/EIPs/pull/12617) - 2026-11-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 * [Pull Request] [feat(tests): add a deployed-idiom invariant corpus](https://github.com/ethereum/execution-specs/pull/3948) - 2026-11-01

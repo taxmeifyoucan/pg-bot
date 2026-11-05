@@ -46,6 +46,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(consensus)!: pass the next block's base fee to the tx filters with the call](https://github.com/NethermindEth/nethermind/pull/15442#pullrequestreview-5739838636) - 2026-11-02
 * [Review] [Review on: ci(docs): author docs commits as the GitHub app](https://github.com/NethermindEth/nethermind/pull/15473#pullrequestreview-5743621936) - 2026-11-02
 * [Commit] [fix(network)!: use blob-major cell order in eth/72 Cells (#15439)](https://github.com/NethermindEth/nethermind/commit/45a695b01abf3a280a0d06621a7fe51a0bb2f6de) - 2026-11-02
+* [Review] [Review on: feat: Multi-model PR review](https://github.com/NethermindEth/nethermind/pull/12470#pullrequestreview-5779325966) - 2026-11-05
+* [Review] [Review on: perf(receipts): read transaction-index entries through releasable spans](https://github.com/NethermindEth/nethermind/pull/15352#pullrequestreview-5778913292) - 2026-11-05
+* [Review] [Review on: fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595#pullrequestreview-5778266721) - 2026-11-05
+* [Review] [Review on: fix(runner): use --db-dir as the database directory over the data dir default](https://github.com/NethermindEth/nethermind/pull/15569#pullrequestreview-5777447691) - 2026-11-04
+* [Review] [Review on: perf(flat): clear changed slots in one pass](https://github.com/NethermindEth/nethermind/pull/15604#pullrequestreview-5773195498) - 2026-11-04
+* [Review] [Review on: perf(trace): reuse unchanged prestate code](https://github.com/NethermindEth/nethermind/pull/15605#pullrequestreview-5776614914) - 2026-11-04
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 
@@ -61,6 +67,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Update EIP-8061: fix activation cap unit and align constant name with the spec](https://github.com/ethereum/EIPs/pull/12575) - 2026-10-23
 * [Pull Request] [Update EIP-8282: require the builder credential prefix and document locked funds](https://github.com/ethereum/EIPs/pull/12572) - 2026-10-23
 * [Pull Request] [Update EIP-8037: document gas returning before settlement and reservoir forwarding](https://github.com/ethereum/EIPs/pull/12573) - 2026-10-23
+* [Pull Request] [Update EIP-2780: correct the floor reference and state the delegation-target warming rule](https://github.com/ethereum/EIPs/pull/12622) - 2026-11-04
+* [Pull Request] [Update EIP-7778: remove the contradictory restore-to-original discount example](https://github.com/ethereum/EIPs/pull/12625) - 2026-11-04
+* [Pull Request] [Update EIP-8037: correct statements contradicted by the specification](https://github.com/ethereum/EIPs/pull/12624) - 2026-11-04
+* [Pull Request] [Update EIP-7843: state the header position and the consensus-layer check for slotNumber](https://github.com/ethereum/EIPs/pull/12621) - 2026-11-04
+* [Pull Request] [Update EIP-8038: qualify the ACCOUNT_WRITE rule and the worst-case-client claim](https://github.com/ethereum/EIPs/pull/12626) - 2026-11-04
+* [Pull Request] [Update EIP-7708: fix gas figures and state the creation-transaction and gas rules](https://github.com/ethereum/EIPs/pull/12623) - 2026-11-04
+* [Pull Request] [Update EIP-7928: align per-field recording rules and pseudocode with the change rule](https://github.com/ethereum/EIPs/pull/12620) - 2026-11-04
 ## Q3 2026
 
 

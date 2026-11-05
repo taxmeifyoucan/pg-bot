@@ -63,6 +63,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Add .oss-scanner/ for Anthropic OSS Scanner enrollment](https://github.com/OffchainLabs/prysm/pull/17775#pullrequestreview-5632607760) - 2026-10-23
 * [Review] [Review on: Return one blob per versioned hash on repeated commitments](https://github.com/OffchainLabs/prysm/pull/17802#pullrequestreview-5727865629) - 2026-11-01
 * [Review] [Review on: Improve proposer filtering of packed attestations](https://github.com/OffchainLabs/prysm/pull/17805#pullrequestreview-5732920738) - 2026-11-02
+* [Review] [Review on: Use cached fork tip states to validate proposer preferences](https://github.com/OffchainLabs/prysm/pull/17788#pullrequestreview-5767022583) - 2026-11-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 ## Q3 2026

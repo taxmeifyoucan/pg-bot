@@ -58,6 +58,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks](https://github.com/NethermindEth/nethermind/pull/15407) - 2026-11-02
 * [Commit] [refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks (#15407)](https://github.com/NethermindEth/nethermind/commit/bbf9b1a5955b9e9190cef07a3b5e9a92638c1c21) - 2026-11-02
 * [Commit] [test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines (#15376)](https://github.com/NethermindEth/nethermind/commit/cb4a7807e46d8434d3d8044b612f1bc18ba2702d) - 2026-11-02
+* [Review] [Review on: fix(init): fail startup on a step cancelled without shutdown and unblock its dependents](https://github.com/NethermindEth/nethermind/pull/15568#pullrequestreview-5777434274) - 2026-11-04
+* [Commit] [refactor(flat): write flat-import trie nodes on the traversal threads (#15499)](https://github.com/NethermindEth/nethermind/commit/a4a1da43dae2245d00e2409ca1e26968d81abec7) - 2026-11-04
+* [Commit] [perf(flat): visit tries by following node record pointers (#15491)](https://github.com/NethermindEth/nethermind/commit/3312138d2411d7c222d748a9bdfb54fe16780912) - 2026-11-04
 ## Q3 2026
 
 

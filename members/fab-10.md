@@ -97,6 +97,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [EIP-8070: Serve pooled blob transactions with their blobs elided](https://github.com/besu-eth/besu/pull/11763) - 2026-11-03
 * [Review] [Review on: Penalise transactions not successfully selected within the block period (sequenced pool only)](https://github.com/besu-eth/besu/pull/11681#pullrequestreview-5750902716) - 2026-11-03
 * [Commit] [EIP-8070: Serve pooled blob transactions with their blobs elided (#11763)](https://github.com/besu-eth/besu/commit/cfe1794a7d238092556d12499d90bf152a567340) - 2026-11-03
+* [Review] [Review on: Upgrade Guava to 33.8.0-jre (CVE-2026-118042)](https://github.com/besu-eth/besu/pull/11860#pullrequestreview-5765589794) - 2026-11-04
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

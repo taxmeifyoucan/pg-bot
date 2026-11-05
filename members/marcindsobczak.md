@@ -119,6 +119,19 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash](https://github.com/NethermindEth/nethermind/pull/15515#pullrequestreview-5756447952) - 2026-11-03
 * [Review] [Review on: fix(era): reject era headers whose number differs from their slot](https://github.com/NethermindEth/nethermind/pull/15523#pullrequestreview-5758856016) - 2026-11-03
 * [Review] [Review on: perf(flat): serve snap ranges with readahead iterators that skip the block cache](https://github.com/NethermindEth/nethermind/pull/15521#pullrequestreview-5757985746) - 2026-11-03
+* [Review] [Review on: refactor(rlp): replace the old RLP core with FluentRlp](https://github.com/NethermindEth/nethermind/pull/15458#pullrequestreview-5769231431) - 2026-11-04
+* [Review] [Review on: fix(sync): keep old bodies sync open until the barrier block is inserted](https://github.com/NethermindEth/nethermind/pull/15348#pullrequestreview-5766947893) - 2026-11-04
+* [Review] [Review on: fix(era): reject era headers whose number differs from their slot](https://github.com/NethermindEth/nethermind/pull/15523#pullrequestreview-5765919866) - 2026-11-04
+* [Review] [Review on: fix(crypto): keep protection keys under the resolved keystore directory](https://github.com/NethermindEth/nethermind/pull/15572#pullrequestreview-5774573749) - 2026-11-04
+* [Review] [Review on: fix(era): keep earlier manifest entries when exporting into a directory with an earlier export](https://github.com/NethermindEth/nethermind/pull/15532#pullrequestreview-5767935996) - 2026-11-04
+* [Review] [Review on: fix(logindex): index only canonical blocks at or below the finalized block](https://github.com/NethermindEth/nethermind/pull/15549#pullrequestreview-5771785197) - 2026-11-04
+* [Review] [Review on: perf(flat): serve snap ranges with readahead iterators that skip the block cache](https://github.com/NethermindEth/nethermind/pull/15521#pullrequestreview-5765903736) - 2026-11-04
+* [Review] [Review on: fix(blockchain): serve only descendants of a side-chain origin in FindHeaders](https://github.com/NethermindEth/nethermind/pull/15530#pullrequestreview-5767329753) - 2026-11-04
+* [Review] [Review on: fix(rpc): report the active P256VERIFY and system contract addresses in eth_config](https://github.com/NethermindEth/nethermind/pull/15557#pullrequestreview-5771496540) - 2026-11-04
+* [Review] [Review on: fix(receipts): resume the receipt tx-hash pass below the ancient barrier](https://github.com/NethermindEth/nethermind/pull/15591#pullrequestreview-5774564758) - 2026-11-04
+* [Commit] [test(rpc): expect a cyclic JavaScript mux result to fail the block trace (#15616)](https://github.com/NethermindEth/nethermind/commit/8a49ab720159c2cb80d45c7247bade70d061b455) - 2026-11-04
+* [Commit] [fix(db): count a native-slice read once (#15610)](https://github.com/NethermindEth/nethermind/commit/231db6f882d4b6b8a1e3458f1d2313a51b581b0b) - 2026-11-04
+* [Commit] [fix(rpc): render JavaScript tracer results without recursion (#15482)](https://github.com/NethermindEth/nethermind/commit/d1d3b326a3a7bf599a4478833f3a0f7719a6f683) - 2026-11-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

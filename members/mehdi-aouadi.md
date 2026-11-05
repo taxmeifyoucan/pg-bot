@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Point the CLA document at Consensys Incorporated.](https://github.com/Consensys-Incorporated/teku/pull/11612#pullrequestreview-5759940127) - 2026-11-03
 * [Pull Request] [Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611) - 2026-11-03
 * [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5756246570) - 2026-11-03
+* [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5772214700) - 2026-11-04
 ## Q3 2026
 
 

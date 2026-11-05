@@ -27,6 +27,14 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Lc gloas api](https://github.com/OffchainLabs/prysm/pull/17772) - 2026-10-23
 * [Pull Request] [p2p](https://github.com/OffchainLabs/prysm/pull/17773) - 2026-10-23
 * [Commit] [Lc gloas db (#17755)](https://github.com/OffchainLabs/prysm/commit/fbd54f2f3ff08b82b0e0580120be35fe845c41ea) - 2026-10-23
+* [Review] [Review on: Do not send by range requests (blocks, payload envelopes, blob and data column sidecars) to peers whose advertised earliest available slot is above the requested start slot.](https://github.com/OffchainLabs/prysm/pull/17770#pullrequestreview-5771692453) - 2026-11-04
+* [Pull Request] [fix light client flag bug](https://github.com/OffchainLabs/prysm/pull/17824) - 2026-11-04
+* [Pull Request] [fix light client rpc bug](https://github.com/OffchainLabs/prysm/pull/17821) - 2026-11-04
+* [Review] [Review on: Share the expected proposer computation across all data column sidecars of a block, instead of retrieving a verifying state for each sidecar.](https://github.com/OffchainLabs/prysm/pull/17776#pullrequestreview-5771868277) - 2026-11-04
+* [Pull Request] [fix light client fork boundary digest bug](https://github.com/OffchainLabs/prysm/pull/17801) - 2026-11-04
+* [Commit] [fix light client flag bug (#17824)](https://github.com/OffchainLabs/prysm/commit/0b3b69d242dd9e1e439e975fefa34f0327918faa) - 2026-11-04
+* [Commit] [fix light client rpc bug (#17821)](https://github.com/OffchainLabs/prysm/commit/c482e68eb7dc4bfd42fed3258555c4dbfdb185b5) - 2026-11-04
+* [Commit] [fix light client fork boundary digest bug (#17801)](https://github.com/OffchainLabs/prysm/commit/a64ff3857918ee8392944542e0957c92d389396d) - 2026-11-04
 ## Q3 2026
 
 

@@ -253,6 +253,13 @@ Team: Erigon
 * [Issue] [execution/state, execution/stagedsync: follow-ups from the #25491 review](https://github.com/erigontech/erigon/issues/25736) - 2026-11-03
 * [Issue] [execution/stagedsync: BAL compute-ahead keeps an EIP-161-empty account a 0-value tx touches](https://github.com/erigontech/erigon/issues/25715) - 2026-11-03
 * [Commit] [db/snapshotsync: open every caplin segment as EL does (#25488)](https://github.com/erigontech/erigon/commit/e64067670d4833ae7050ab2f53f8f49faf278224) - 2026-11-03
+* [Review] [Review on: execution/state: read BAL-marked accounts from origin](https://github.com/erigontech/erigon/pull/25751#pullrequestreview-5767283001) - 2026-11-04
+* [Pull Request] [cmd/utils: rename --exec.no-prune to --debug.exec.no-prune](https://github.com/erigontech/erigon/pull/25772) - 2026-11-04
+* [Issue] [commitment v3: verify, regime tool and committer follow-ups from #24304](https://github.com/erigontech/erigon/issues/25773) - 2026-11-04
+* [Commit] [txpool, engineapi: reuse validation-time KZG cells in getBlobsV4 (#25628)](https://github.com/erigontech/erigon/commit/27e20b9fa23ac1480bc9c759bd68bda746c0b55b) - 2026-11-04
+* [Commit] [execution/stagedsync: skip arrival validation when no lower tx wrote since the worker validated (#25559)](https://github.com/erigontech/erigon/commit/c0afe3bf782d83701ce29af32a49be93b950d71f) - 2026-11-04
+* [Commit] [execution/execmodule: answer a re-sent domain-ahead fork choice with TooFarAway (#25741)](https://github.com/erigontech/erigon/commit/5ba32e438b4de3125dded20ed624d4680ba592ef) - 2026-11-04
+* [Commit] [cl/antiquary: merge beaconblocks into 100k segments with EL's Merger (#25519)](https://github.com/erigontech/erigon/commit/c82acff6c93cf5ef9f98585e02ba68c204ee2d32) - 2026-11-04
 ## Q3 2026
 
 

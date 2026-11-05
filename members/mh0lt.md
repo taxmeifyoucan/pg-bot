@@ -15,6 +15,8 @@ Team: Erigon
 * [Commit] [execution/state: versioned-state foundation (1/2, split of #23967) (#24132)](https://github.com/erigontech/erigon/commit/6551cef51685508cb231d70ed64c455aa5183466) - 2026-10-20
 * [Pull Request] [execution/state, execution/stagedsync: parallel-exec follow-up — scope BAL cold-read exemption, version+valStatus validation, test coverage](https://github.com/erigontech/erigon/pull/25330) - 2026-11-01
 * [Commit] [execution/state, execution/stagedsync: parallel-exec follow-up — scope BAL cold-read exemption, version+valStatus validation, test coverage (#25330)](https://github.com/erigontech/erigon/commit/333b26329283bd5a914e31920ee6baeb1f6bb17f) - 2026-11-01
+* [Pull Request] [execution/stagedsync, execution/state: fold commitment from the version map; delete calcState](https://github.com/erigontech/erigon/pull/25491) - 2026-11-05
+* [Commit] [execution/stagedsync, execution/state: fold commitment from the version map; delete calcState (#25491)](https://github.com/erigontech/erigon/commit/6ac9c93bbeb499238be7a74b589a2f86fd8f7440) - 2026-11-05
 ## Q3 2026
 
 

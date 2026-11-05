@@ -61,6 +61,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [ci(codeql): skip unchanged trees and compile without build cache (#11850)](https://github.com/besu-eth/besu/commit/74aa869bc9dfd90d79b5b90497a31cc9241e650e) - 2026-11-02
 * [Commit] [Reject trailing data on compacted receipts from a peer (GHSA-mp5j-q856-vvx7) (#233)](https://github.com/besu-eth/besu/commit/d266aa87139fe226b17fe9f579e2b19e2ca1ed59) - 2026-11-02
 * [Commit] [Bound per-account EIP-7928 slot tracking against chosen-hash collisions (#144)](https://github.com/besu-eth/besu/commit/51e31dfe95de0752b6c02cb34a80d0ee91ff0a6b) - 2026-11-02
+* [Issue] [Flaky acceptance test: BftMiningAcceptanceTest_Part3.shouldStillMineWhenANonProposerNodeFailsAndHasSufficientValidators](https://github.com/besu-eth/besu/issues/11869) - 2026-11-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026

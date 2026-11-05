@@ -39,6 +39,7 @@ Team: Geth
 * [Commit] [Update EIP-8141: use max_fee to bound cost (#12414)](https://github.com/ethereum/EIPs/commit/e19c2a871c0762eaee5429c2e264b66433d2e8be) - 2026-10-22
 * [Pull Request] [Update EIP-7906: remove reference to txparam 0x06](https://github.com/ethereum/EIPs/pull/12576) - 2026-10-23
 * [Commit] [Update EIP-7906: remove reference to txparam 0x06](https://github.com/ethereum/EIPs/commit/25ac2920ea3a958911e380498bb7c8fbca201542) - 2026-10-23
+* [Pull Request] [Update EIP-8141: add lean sphincs](https://github.com/ethereum/EIPs/pull/12616) - 2026-11-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 

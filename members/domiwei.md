@@ -335,6 +335,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/state/genesiswrite: accept nil-vs-0 PoW-era fork differences that select nothing](https://github.com/erigontech/erigon/pull/25727#pullrequestreview-5762470043) - 2026-11-04
 * [Review] [Review on: cl/phase1/forkchoice: read column availability before taking the fork-choice lock](https://github.com/erigontech/erigon/pull/25594#pullrequestreview-5753028707) - 2026-11-03
 * [Issue] [cl/sentinel: rate-limited and partial req/resp answers use error codes that requesters punish](https://github.com/erigontech/erigon/issues/25720) - 2026-11-03
+* [Commit] [cl/spectest: fail on fixture directories without a handler, run three Gloas gossip suites (#25657)](https://github.com/erigontech/erigon/commit/426cdfcf06eed415efedb56bf7a38d01ea549dc1) - 2026-11-05
+* [Commit] [cl/phase1/network: let forward sync range requests cross fork boundaries (#25749)](https://github.com/erigontech/erigon/commit/696cab13b3a407433b5b17addf354812cd552bab) - 2026-11-04
+* [Commit] [cl/rpc, cl/phase1/stages: fetch the missing ancestors of a chain-tip orphan from the peer that served it (#25765)](https://github.com/erigontech/erigon/commit/e75fce3c25edc4fbbc003ef94a81eead6deb29e4) - 2026-11-04
+* [Commit] [cl/beacon/beaconevents, cl/das, cl/persistence/blob_storage, cl/phase1/network/services: retry a Fulu block when its custody columns are stored (#25654)](https://github.com/erigontech/erigon/commit/a9ef6b141bbc4ef8d72cea394d7b719392717906) - 2026-11-04
+* [Commit] [cl: serve historical Gloas execution payload envelopes (#25437)](https://github.com/erigontech/erigon/commit/79e4ec8b0bd116397bad4e98ef1d5e97bd9849f0) - 2026-11-04
+* [Commit] [cl/phase1/stages: drop redundant work from the same-root Gloas fork-choice pass (#25690)](https://github.com/erigontech/erigon/commit/29c54cb9971ecd0d8dadea53cb57fe7026053875) - 2026-11-04
+* [Commit] [execution/state/genesiswrite: accept nil-vs-0 PoW-era fork differences that select nothing (#25727)](https://github.com/erigontech/erigon/commit/bf0c8ad23ac7eef3b687a697da19f942438c1d2d) - 2026-11-04
+* [Commit] [cl/phase1/forkchoice: read column availability before taking the fork-choice lock (#25594)](https://github.com/erigontech/erigon/commit/2671048b160532d19f05e6568ea5e12d5799b6c5) - 2026-11-04
+* [Commit] [cl/gossip, cl/p2p: use the spec gossipsub mesh degree (D/Dlo/Dhi 8/6/12) (#25674)](https://github.com/erigontech/erigon/commit/8dcc6fdec567c3a60614a7b65a67639fdb1477e4) - 2026-11-04
 ## Q3 2026
 
 

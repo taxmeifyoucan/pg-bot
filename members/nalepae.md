@@ -112,6 +112,28 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Fix `sync: negative WaitGroup counter` panic in `TestStatusRPCRequest_BadPeerHandshake` when the status stream handler is invoked more than once.](https://github.com/OffchainLabs/prysm/pull/17813) - 2026-11-03
 * [Issue] [`Could not notify event feed of new chain head{_v2}` errors at checkpoint sync startup](https://github.com/OffchainLabs/prysm/issues/17812) - 2026-11-03
 * [Commit] [Fix `sync: negative WaitGroup counter` panic in `TestStatusRPCRequest_BadPeerHandshake` when the status stream handler is invoked more than once. (#17813)](https://github.com/OffchainLabs/prysm/commit/d4ae5049586a05a6a45051acdb35d78fdd4a328d) - 2026-11-03
+* [Pull Request] [Derive the node ID from the private key](https://github.com/OffchainLabs/prysm/pull/17816) - 2026-11-04
+* [Review] [Review on: Use epoch start - 1 as PTC dependent root at the Gloas fork epoch](https://github.com/OffchainLabs/prysm/pull/17785#pullrequestreview-5768661912) - 2026-11-04
+* [Pull Request] [gRPC VC: Compute signature domains locally with ComputeDomainData instead of using the beacon node's `DomainData` response.](https://github.com/OffchainLabs/prysm/pull/17818) - 2026-11-04
+* [Pull Request] [Raise the lowest signed source, target epochs and proposal slots when pruning attestations and proposal history](https://github.com/OffchainLabs/prysm/pull/17820) - 2026-11-04
+* [Review] [Review on: fix light client rpc bug](https://github.com/OffchainLabs/prysm/pull/17821#pullrequestreview-5771496946) - 2026-11-04
+* [Pull Request] [Stop logging `Could not notify event feed of new chain head{_v2}` errors right after a checkpoint sync, while the head is still in the origin epoch.](https://github.com/OffchainLabs/prysm/pull/17815) - 2026-11-04
+* [Review] [Review on: fix light client fork boundary digest bug](https://github.com/OffchainLabs/prysm/pull/17801#pullrequestreview-5769913083) - 2026-11-04
+* [Review] [Review on: Store bid wrappers in the highest execution payload bid cache (Heze preparation)](https://github.com/OffchainLabs/prysm/pull/17749#pullrequestreview-5769605955) - 2026-11-04
+* [Review] [Review on: FOCIL: Add the inclusion list helpers and store](https://github.com/OffchainLabs/prysm/pull/17768#pullrequestreview-5769221360) - 2026-11-04
+* [Review] [Review on: Bound hdiff prefix-drop and builder indices before slicing](https://github.com/OffchainLabs/prysm/pull/17784#pullrequestreview-5768869767) - 2026-11-04
+* [Review] [Review on: Hoist genesis state out of fixed-size hdiff fuzz harnesses](https://github.com/OffchainLabs/prysm/pull/17782#pullrequestreview-5768942811) - 2026-11-04
+* [Review] [Review on: Allow multiple builder bid requests per Gloas proposal](https://github.com/OffchainLabs/prysm/pull/17723#pullrequestreview-5768419447) - 2026-11-04
+* [Review] [Review on: Validate sync committee messages before broadcast](https://github.com/OffchainLabs/prysm/pull/17792#pullrequestreview-5766304934) - 2026-11-04
+* [Commit] [Fix ` bazel test //beacon-chain/sync:go_default_test --@io_bazel_rules_go//go/config:race` (#17809)](https://github.com/OffchainLabs/prysm/commit/d4ba9db241662de1fb1e9032c1dcbae6a4dc05dd) - 2026-11-04
+* [Commit] [Derive the node ID from the private key (#17816)](https://github.com/OffchainLabs/prysm/commit/4714e7763a5d3989b0f95625b6983981efd7eba3) - 2026-11-04
+* [Commit] [Do not send by range requests (blocks, payload envelopes, blob and data column sidecars) to peers whose advertised earliest available slot is above the requested start slot. (#17770)](https://github.com/OffchainLabs/prysm/commit/435b37d11e615a15ba4bf1fff6f3306a2b214c7c) - 2026-11-04
+* [Commit] [gRPC VC: Compute signature domains locally with ComputeDomainData instead of using the beacon node's `DomainData` response. (#17818)](https://github.com/OffchainLabs/prysm/commit/66d294a55e339631394fbfe4a229475b0aa3f4ed) - 2026-11-04
+* [Commit] [Raise the lowest signed source, target epochs and proposal slots when pruning attestations and proposal history (#17820)](https://github.com/OffchainLabs/prysm/commit/a3a14cabf654cd166d1cbe19a1b5167d4f3f73be) - 2026-11-04
+* [Commit] [Backfill: request again the blocks a peer did not send (#17808)](https://github.com/OffchainLabs/prysm/commit/6a25f0474037234c7abb271902ae741084fc7dfe) - 2026-11-04
+* [Commit] [Fix various active-active REST VC issues (#17806)](https://github.com/OffchainLabs/prysm/commit/8850547520b379642c9aaabc9a2b27b68b6df4f0) - 2026-11-04
+* [Commit] [Share the expected proposer computation across all data column sidecars of a block, instead of retrieving a verifying state for each sidecar. (#17776)](https://github.com/OffchainLabs/prysm/commit/0b5a9304ff7b92a8c0b7cfb452534c5c893542ef) - 2026-11-04
+* [Commit] [Stop logging `Could not notify event feed of new chain head{_v2}` errors right after a checkpoint sync, while the head is still in the origin epoch. (#17815)](https://github.com/OffchainLabs/prysm/commit/a752fc664ac1f7681c2ac1db988892ad456dbf0e) - 2026-11-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

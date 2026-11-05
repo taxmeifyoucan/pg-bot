@@ -618,9 +618,42 @@ Team: Erigon
 * [Commit] [db/kv: remote KV pages repeat last item; Range leaks iterator and mmap slices; unknown table reads GC (#25664)](https://github.com/erigontech/erigon/commit/13993fedcedc270c200df3835b379e4cd9eb29fd) - 2026-11-03
 * [Commit] [db/state: IteratePrefix after Unwind hides keys re-written in the overlay (#25667)](https://github.com/erigontech/erigon/commit/408bb0b83aee0a73c21d1e0814c0f708d8b16542) - 2026-11-03
 * [Commit] [db/state: fix merge range after Retire, seed merged history, retire each file once (#25663)](https://github.com/erigontech/erigon/commit/598651fd42d29416173520e7923e5545a7b85fd2) - 2026-11-03
+* [Pull Request] [execution/stagedsync: pin history-mode reads to the block's first tx](https://github.com/erigontech/erigon/pull/25759) - 2026-11-04
+* [Review] [Review on: execution/stagedsync: pin history-mode reads to the block's first tx](https://github.com/erigontech/erigon/pull/25759#pullrequestreview-5768511126) - 2026-11-04
+* [Pull Request] [[r3.8] txnprovider/txpool: request an announced txn from one peer at a time](https://github.com/erigontech/erigon/pull/25784) - 2026-11-05
+* [Review] [Review on: [r3.8] txnprovider/txpool: request an announced txn from one peer at a time](https://github.com/erigontech/erigon/pull/25784#pullrequestreview-5779697714) - 2026-11-05
+* [Review] [Review on: execution/exec: gate the BAL trie prefetch](https://github.com/erigontech/erigon/pull/25746#pullrequestreview-5767121208) - 2026-11-04
+* [Pull Request] [execution/state: read BAL-marked accounts from origin](https://github.com/erigontech/erigon/pull/25751) - 2026-11-04
+* [Review] [Review on: execution/state: read BAL-marked accounts from origin](https://github.com/erigontech/erigon/pull/25751#pullrequestreview-5770326790) - 2026-11-04
+* [Pull Request] [execution/stagedsync: a named re-run waits for its writer to validate](https://github.com/erigontech/erigon/pull/25785) - 2026-11-05
+* [Pull Request] [execution/state: read a version-map account under one lock](https://github.com/erigontech/erigon/pull/25770) - 2026-11-04
+* [Review] [Review on: cl/phase1/network: make empty-range prefetch test deterministic](https://github.com/erigontech/erigon/pull/25775#pullrequestreview-5778692727) - 2026-11-05
+* [Pull Request] [execution/execmodule: stop reporting unexecuted canonical blocks as VALID](https://github.com/erigontech/erigon/pull/25566) - 2026-11-05
+* [Review] [Review on: cl/phase1/network/services: wait for archive column retry completion](https://github.com/erigontech/erigon/pull/25778#pullrequestreview-5778693028) - 2026-11-05
+* [Review] [Review on: cmd/utils: rename --exec.no-prune to --debug.exec.no-prune](https://github.com/erigontech/erigon/pull/25772#pullrequestreview-5779431440) - 2026-11-05
+* [Pull Request] [execution/exec: don't log canceled BAL warmups](https://github.com/erigontech/erigon/pull/25782) - 2026-11-05
+* [Review] [Review on: execution/exec: don't log canceled BAL warmups](https://github.com/erigontech/erigon/pull/25782#pullrequestreview-5779388473) - 2026-11-05
+* [Review] [Review on: db/state: seek in inverted index files](https://github.com/erigontech/erigon/pull/25748#pullrequestreview-5778595039) - 2026-11-05
+* [Review] [Review on: common/hexutil, cmd/rpcdaemon/graphql: format U256 and chainID with the shared hex routines](https://github.com/erigontech/erigon/pull/25780#pullrequestreview-5778529396) - 2026-11-05
+* [Pull Request] [rpc/jsonrpc: return block-level log indexes from erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/25573) - 2026-11-05
+* [Review] [Review on: execution/tracing/tracers/logger: keep the stack's JSON between struct-log steps](https://github.com/erigontech/erigon/pull/25777#pullrequestreview-5778667668) - 2026-11-05
+* [Review] [Review on: execution/state, execution/cache, execution/execmodule, rpc/jsonrpc: RPC replays share committed code by hash](https://github.com/erigontech/erigon/pull/25743#pullrequestreview-5778584882) - 2026-11-05
+* [Pull Request] [go.mod: bump holiman/uint256 to latest master (faster Div by power of two)](https://github.com/erigontech/erigon/pull/25766) - 2026-11-04
+* [Review] [Review on: go.mod: bump holiman/uint256 to latest master (faster Div by power of two)](https://github.com/erigontech/erigon/pull/25766#pullrequestreview-5769536933) - 2026-11-04
+* [Commit] [execution/stagedsync: history-mode tasks read at the block's first executed txNum (#25759)](https://github.com/erigontech/erigon/commit/bdc3723efd97cf1f235738be7652874818c0e2e6) - 2026-11-05
+* [Commit] [execution/state: versioned reader answers BAL-marked accounts from origin (#25751)](https://github.com/erigontech/erigon/commit/3d59e16399ae175b5a2114d3f1bf3c6e49229db9) - 2026-11-05
+* [Commit] [execution/execmodule: stop reporting unexecuted canonical blocks as VALID (#25566)](https://github.com/erigontech/erigon/commit/477caea8d7051bd32137dfedac52a93ff8ab0808) - 2026-11-05
+* [Commit] [rpc/jsonrpc: return block-level log indexes from erigon_getLatestLogs (#25573)](https://github.com/erigontech/erigon/commit/abff5c1eff6e0d2a22c528de7fb546c09c332733) - 2026-11-05
+* [Commit] [go.mod: bump holiman/uint256 to latest master (faster Div by power of two) (#25766)](https://github.com/erigontech/erigon/commit/8eec1303fa3342ba3c5f8c7b863736e52682784d) - 2026-11-05
+* [Commit] [execution/exec: read a BAL block's cold file pages in io_uring batches (#25486)](https://github.com/erigontech/erigon/commit/b43749d611b4801c3bcd9424ce1b2df4c6ca676e) - 2026-11-05
+* [Commit] [receipts: replay pre-Byzantium receipt roots on NoMaterialize (#25747)](https://github.com/erigontech/erigon/commit/247c01f59e273982f08f0b26d79af3a29ec2f52a) - 2026-11-04
+* [Commit] [rpc: simulated-backend calls and stateDiff baselines on NoMaterialize (#25750)](https://github.com/erigontech/erigon/commit/aa5adb1897d95f6b8aae3887e085ff33bf96e076) - 2026-11-04
+* [Commit] [execution/state: mark created accounts Done under the read lock (#25734)](https://github.com/erigontech/erigon/commit/201357a719785c3f9f1b2b85c08a60294e779a10) - 2026-11-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03
+* [Pull Request] [integration: erigon_getLatestLogs returns block-level logIndex, as eth_getLogs](https://github.com/erigontech/rpc-tests/pull/650) - 2026-11-04
+* [Commit] [integration: erigon_getLatestLogs returns block-level logIndex, as eth_getLogs (#650)](https://github.com/erigontech/rpc-tests/commit/97f8dd7fd3574dcb2c0391d5f31ac3236c24185f) - 2026-11-04
 ## Q3 2026
 
 

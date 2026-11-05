@@ -339,6 +339,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore(ci): build release binary bindings for an explicit glibc target (#10529)](https://github.com/ChainSafe/lodestar/commit/c0ed1935bcd72060f118254ccb45eb76e9d6c3e9) - 2026-11-02
 * [Commit] [chore: resolve pnpm catalog dependencies when publishing (#10530)](https://github.com/ChainSafe/lodestar/commit/bb16085c5ea5c1d0c0fba64d454f49954641baf1) - 2026-11-02
 * [Pull Request] [fix: add additional checks before block packing](https://github.com/ChainSafe/lodestar/pull/10536) - 2026-11-03
+* [Pull Request] [fix: set gossip payload envelope in the same tick as validation](https://github.com/ChainSafe/lodestar/pull/10549) - 2026-11-04
+* [Pull Request] [fix: bound the envelope transaction count by the parent payload's gas limit](https://github.com/ChainSafe/lodestar/pull/10548) - 2026-11-04
+* [Review] [Review on: fix: bound the envelope transaction count by the parent payload's gas limit](https://github.com/ChainSafe/lodestar/pull/10548#pullrequestreview-5767071404) - 2026-11-04
+* [Review] [Review on: chore: replace rimraf with fs.rm](https://github.com/ChainSafe/lodestar/pull/10541#pullrequestreview-5764378128) - 2026-11-04
+* [Pull Request] [fix: check best bid before state regen in bid gossip validation](https://github.com/ChainSafe/lodestar/pull/10547) - 2026-11-04
+* [Pull Request] [chore: use classic-level prebuilds instead of compiling on install](https://github.com/ChainSafe/lodestar/pull/10543) - 2026-11-04
+* [Review] [Review on: chore(ci): pin native portability to Ubuntu 24.04](https://github.com/ChainSafe/lodestar/pull/10542#pullrequestreview-5763598860) - 2026-11-04
+* [Issue] [Track lodestar-z merge follow-ups](https://github.com/ChainSafe/lodestar/issues/10545) - 2026-11-04
+* [Issue] [Port the fuzz image publisher from lodestar-z](https://github.com/ChainSafe/lodestar/issues/10544) - 2026-11-04
+* [Commit] [fix: check best bid before state regen in bid gossip validation (#10547)](https://github.com/ChainSafe/lodestar/commit/0b0a00b83616a351f6f9468c2a8a2d120750429a) - 2026-11-04
+* [Commit] [fix: add additional checks before block packing (#10536)](https://github.com/ChainSafe/lodestar/commit/5619357e9316bea74a908089f3eeac7f28938773) - 2026-11-04
+* [Commit] [chore: use classic-level prebuilds instead of compiling on install (#10543)](https://github.com/ChainSafe/lodestar/commit/fac22802f64e130a4c8156751b7b229709b35e68) - 2026-11-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -354,6 +366,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5547788291) - 2026-10-16
 * [Pull Request] [Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756) - 2026-10-23
 * [Commit] [Round slot component durations to the nearest millisecond (#5756)](https://github.com/ethereum/consensus-specs/commit/3dad3d5183756fc64c51e73d8b21026dd2330f22) - 2026-10-23
+* [Pull Request] [Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802) - 2026-11-04
+* [Pull Request] [Only propagate execution payload bids a proposer can still select](https://github.com/ethereum/consensus-specs/pull/5803) - 2026-11-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

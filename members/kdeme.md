@@ -105,6 +105,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: Move the stateless collapse checks out of the ledger (#5122)](https://github.com/status-im/nimbus-eth1/commit/1bdd9f2256a11edd3a946c657bbbab1caa57fd75) - 2026-11-01
 * [Review] [Review on: Time out rlpx transport sendMsg](https://github.com/status-im/nimbus-eth1/pull/5124#pullrequestreview-5735427958) - 2026-11-02
 * [Pull Request] [stateless: Align NewPayloadRequest and result SSZ types with Gloas](https://github.com/status-im/nimbus-eth1/pull/5129) - 2026-11-02
+* [Review] [Review on: Update nim-eth to latest and remove deprecated imports](https://github.com/status-im/nimbus-eth1/pull/5133#pullrequestreview-5767120760) - 2026-11-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

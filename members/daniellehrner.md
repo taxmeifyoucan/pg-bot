@@ -195,6 +195,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Choose the EVM explicitly in the v1/v2 tests and CI jobs (#11865)](https://github.com/besu-eth/besu/commit/f13ef3bcab39bed3177887ebcea60cd85aecd7c7) - 2026-11-03
 * [Commit] [Give the acceptance-test bootnode an ephemeral JSON-RPC port (#11862)](https://github.com/besu-eth/besu/commit/836d5287d065958f3e5002b9caca4a274d0464e4) - 2026-11-03
 * [Commit] [Stop the default JVM options from starting JFR's event log (#11824)](https://github.com/besu-eth/besu/commit/9931d0acd5ea24cb860e1171ce7f9e33d54af022) - 2026-11-03
+* [Review] [Review on: Reject a block with invalid output before persisting its world state](https://github.com/besu-eth/besu/pull/11858#pullrequestreview-5772068639) - 2026-11-04
+* [Pull Request] [Fix evmtool's --fork and JSON output on EVM v2](https://github.com/besu-eth/besu/pull/11870) - 2026-11-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

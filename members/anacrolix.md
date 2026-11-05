@@ -6,6 +6,11 @@ Github: [@anacrolix](https://github.com/anacrolix)
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [go.mod: bump anacrolix/torrent to master](https://github.com/erigontech/erigon/pull/25783) - 2026-11-05
 ## Q3 2026
 
 

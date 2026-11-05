@@ -47,6 +47,28 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Update changelog for v7.3.1 (#17766)](https://github.com/OffchainLabs/prysm/commit/373c32bdc7383497b588f2a24c01fd1285e9672f) - 2026-10-23
 * [Review] [Review on: Disable the partial data columns (cell-level PeerDAS dissemination) by default.](https://github.com/OffchainLabs/prysm/pull/17810#pullrequestreview-5740090154) - 2026-11-02
 * [Review] [Review on: Harden filesystem slashing-protection decoding and persistence](https://github.com/OffchainLabs/prysm/pull/17790#pullrequestreview-5759618547) - 2026-11-03
+* [Review] [Review on: Reject future-slot data columns before saving them](https://github.com/OffchainLabs/prysm/pull/17830#pullrequestreview-5772757743) - 2026-11-04
+* [Review] [Review on: Fix ` bazel test //beacon-chain/sync:go_default_test --@io_bazel_rules_go//go/config:race`](https://github.com/OffchainLabs/prysm/pull/17809#pullrequestreview-5773451818) - 2026-11-04
+* [Review] [Review on: Derive the node ID from the private key](https://github.com/OffchainLabs/prysm/pull/17816#pullrequestreview-5773425298) - 2026-11-04
+* [Review] [Review on: Do not send by range requests (blocks, payload envelopes, blob and data column sidecars) to peers whose advertised earliest available slot is above the requested start slot.](https://github.com/OffchainLabs/prysm/pull/17770#pullrequestreview-5771855057) - 2026-11-04
+* [Review] [Review on: fix light client flag bug](https://github.com/OffchainLabs/prysm/pull/17824#pullrequestreview-5772822197) - 2026-11-04
+* [Review] [Review on: Stop logging the signature of attestations refused by slashing protection](https://github.com/OffchainLabs/prysm/pull/17819#pullrequestreview-5773111338) - 2026-11-04
+* [Review] [Review on: Fix `BeaconBlocksByRange` panic when the genesis block is pruned](https://github.com/OffchainLabs/prysm/pull/17817#pullrequestreview-5773354845) - 2026-11-04
+* [Review] [Review on: Walk ancestors iteratively in `ancestorByDB`](https://github.com/OffchainLabs/prysm/pull/17823#pullrequestreview-5772992068) - 2026-11-04
+* [Review] [Review on: gRPC VC: Compute signature domains locally with ComputeDomainData instead of using the beacon node's `DomainData` response.](https://github.com/OffchainLabs/prysm/pull/17818#pullrequestreview-5773177586) - 2026-11-04
+* [Review] [Review on: Fix `time.Duration` overflow in `slots.StartTime`](https://github.com/OffchainLabs/prysm/pull/17822#pullrequestreview-5773100997) - 2026-11-04
+* [Review] [Review on: Raise the lowest signed source, target epochs and proposal slots when pruning attestations and proposal history](https://github.com/OffchainLabs/prysm/pull/17820#pullrequestreview-5772576736) - 2026-11-04
+* [Pull Request] [sync: keep data column subnets when an attached validator index is unknown](https://github.com/OffchainLabs/prysm/pull/17836) - 2026-11-04
+* [Review] [Review on: Fix broken section link in state diff design doc](https://github.com/OffchainLabs/prysm/pull/17765#pullrequestreview-5775210876) - 2026-11-04
+* [Review] [Review on: Backfill: request again the blocks a peer did not send](https://github.com/OffchainLabs/prysm/pull/17808#pullrequestreview-5772402241) - 2026-11-04
+* [Review] [Review on: Fix various active-active REST VC issues](https://github.com/OffchainLabs/prysm/pull/17806#pullrequestreview-5772019442) - 2026-11-04
+* [Pull Request] [helpers: fix sync committee cache key collision across periods](https://github.com/OffchainLabs/prysm/pull/17835) - 2026-11-04
+* [Review] [Review on: Share the expected proposer computation across all data column sidecars of a block, instead of retrieving a verifying state for each sidecar.](https://github.com/OffchainLabs/prysm/pull/17776#pullrequestreview-5771923235) - 2026-11-04
+* [Pull Request] [rpc: validate attestation slot and signature in the attestation submission APIs](https://github.com/OffchainLabs/prysm/pull/17833) - 2026-11-04
+* [Pull Request] [builder: add a timeout to the relay status checks](https://github.com/OffchainLabs/prysm/pull/17832) - 2026-11-04
+* [Pull Request] [web3signer: redact credentials from signer URLs in errors and traces](https://github.com/OffchainLabs/prysm/pull/17826) - 2026-11-04
+* [Pull Request] [validator/rpc: do not write the web auth token to logs](https://github.com/OffchainLabs/prysm/pull/17831) - 2026-11-04
+* [Pull Request] [rpc: only delete stale attestations from the pool during block production](https://github.com/OffchainLabs/prysm/pull/17825) - 2026-11-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

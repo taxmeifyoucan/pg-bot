@@ -96,6 +96,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci(docs): author docs commits as the GitHub app (#15473)](https://github.com/NethermindEth/nethermind/commit/aac2cf196ba22929346387a3565cf47bafdcfe2c) - 2026-11-02
 * [Pull Request] [refactor(network)!: serialize eth68-72 messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15586) - 2026-11-03
 * [Commit] [refactor(network)!: serialize eth request and response messages into spans instead of DotNetty buffers (#15470)](https://github.com/NethermindEth/nethermind/commit/e2a614090d9439a170c8f90b9d98e6ce1356abe6) - 2026-11-03
+* [Review] [Review on: fix(ci): restore GCP runner teardown and sync script builds](https://github.com/NethermindEth/nethermind/pull/15629#pullrequestreview-5777351617) - 2026-11-04
+* [Pull Request] [refactor(network)!: serialize snap messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15614) - 2026-11-04
+* [Review] [Review on: refactor(network)!: serialize snap messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15614#pullrequestreview-5776766044) - 2026-11-04
+* [Commit] [refactor(network)!: serialize snap messages into spans instead of DotNetty buffers (#15614)](https://github.com/NethermindEth/nethermind/commit/406b5a05da5a734a8141db59170b36ef0f6e535c) - 2026-11-04
+* [Commit] [chore(deps): update RocksDB package to v11.13.2 (#15611)](https://github.com/NethermindEth/nethermind/commit/fcea02adf4e82c06cf072852440adaefa8cb4487) - 2026-11-04
+* [Commit] [refactor(network)!: serialize eth68-72 messages into spans instead of DotNetty buffers (#15586)](https://github.com/NethermindEth/nethermind/commit/ce68252ce7bdb48ca0b3241a918909c8729a3b19) - 2026-11-04
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

@@ -397,6 +397,22 @@ Team: Reth
 * [Commit] [fix(trie): drop anchor-relative nodes from prefix-set overlays (#28249)](https://github.com/paradigmxyz/reth/commit/92041a4aeca4910067b1a1238f6cfd24130e424e) - 2026-11-03
 * [Commit] [fix(net): keep trusted ids that fail startup DNS (#28202)](https://github.com/paradigmxyz/reth/commit/7b7d95bf98a3b2b2421809cf664cc627e96b1b6c) - 2026-11-03
 * [Commit] [fix(engine): retain parent spans for payload tasks (#28221)](https://github.com/paradigmxyz/reth/commit/bbb3e3ba3a4dc35f55c77d7a0c2337238da99eb8) - 2026-11-03
+* [Pull Request] [fix(engine): run witness hook off the engine thread](https://github.com/paradigmxyz/reth/pull/28285) - 2026-11-05
+* [Review] [Review on: fix(engine): run witness hook off the engine thread](https://github.com/paradigmxyz/reth/pull/28285#pullrequestreview-5779932612) - 2026-11-05
+* [Pull Request] [fix(rpc): bound log collection by response size](https://github.com/paradigmxyz/reth/pull/28283) - 2026-11-05
+* [Pull Request] [fix(engine): bound invalid block hook diff cost](https://github.com/paradigmxyz/reth/pull/28284) - 2026-11-05
+* [Pull Request] [fix(net): apply netrestrict to startup peers](https://github.com/paradigmxyz/reth/pull/28198) - 2026-11-05
+* [Review] [Review on: fix(net): apply netrestrict to startup peers](https://github.com/paradigmxyz/reth/pull/28198#pullrequestreview-5779519019) - 2026-11-05
+* [Pull Request] [fix(rpc): ignore zero-balance account changes](https://github.com/paradigmxyz/reth/pull/28282) - 2026-11-05
+* [Review] [Review on: test(snap): stop the engine before the reorg restart](https://github.com/paradigmxyz/reth/pull/28267#pullrequestreview-5779493698) - 2026-11-05
+* [Review] [Review on: fix(eth-wire): bound malformed disconnect payloads](https://github.com/paradigmxyz/reth/pull/28280#pullrequestreview-5779321861) - 2026-11-05
+* [Review] [Review on: chore: drop redundant map_err(Into::into)](https://github.com/paradigmxyz/reth/pull/28273#pullrequestreview-5769997431) - 2026-11-04
+* [Pull Request] [revert: "fix(node): create jwt secret file with 0600 permissions"](https://github.com/paradigmxyz/reth/pull/28272) - 2026-11-04
+* [Review] [Review on: feat(rpc): select the transaction filter per validation request](https://github.com/paradigmxyz/reth/pull/28261#pullrequestreview-5769909812) - 2026-11-04
+* [Commit] [fix(net): apply netrestrict to startup peers (#28198)](https://github.com/paradigmxyz/reth/commit/0802d10ba3343d2b9fb55bc9b4bc471145cd2110) - 2026-11-05
+* [Commit] [fix(rpc): ignore zero-balance account changes (#28282)](https://github.com/paradigmxyz/reth/commit/b7a853a60e3dbb3448ef7a8fceb6b433e4f1f5d5) - 2026-11-05
+* [Commit] [fix(node): suffix auth ipc path with instance (#28257)](https://github.com/paradigmxyz/reth/commit/9dc3e4c9ca083a26011a50f70075337f3aa02a07) - 2026-11-05
+* [Commit] [revert: "fix(node): create jwt secret file with 0600 permissions" (#28272)](https://github.com/paradigmxyz/reth/commit/14bf073c6de69bba0a7eeda83e2525121017143a) - 2026-11-04
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

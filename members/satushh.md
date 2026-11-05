@@ -49,6 +49,19 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759#pullrequestreview-5735460873) - 2026-11-02
 * [Pull Request] [[EIP-8383] Reduce CL block retention window](https://github.com/OffchainLabs/prysm/pull/17814) - 2026-11-03
 * [Review] [Review on: Fix `sync: negative WaitGroup counter` panic in `TestStatusRPCRequest_BadPeerHandshake` when the status stream handler is invoked more than once.](https://github.com/OffchainLabs/prysm/pull/17813#pullrequestreview-5751079323) - 2026-11-03
+* [Pull Request] [Reject future-slot data columns before saving them](https://github.com/OffchainLabs/prysm/pull/17830) - 2026-11-04
+* [Pull Request] [Stop logging the signature of attestations refused by slashing protection](https://github.com/OffchainLabs/prysm/pull/17819) - 2026-11-04
+* [Pull Request] [Fix `BeaconBlocksByRange` panic when the genesis block is pruned](https://github.com/OffchainLabs/prysm/pull/17817) - 2026-11-04
+* [Pull Request] [Walk ancestors iteratively in `ancestorByDB`](https://github.com/OffchainLabs/prysm/pull/17823) - 2026-11-04
+* [Pull Request] [Fix `time.Duration` overflow in `slots.StartTime`](https://github.com/OffchainLabs/prysm/pull/17822) - 2026-11-04
+* [Pull Request] [Acknowledge attestation saves only after their own record is written](https://github.com/OffchainLabs/prysm/pull/17834) - 2026-11-04
+* [Review] [Review on: Stop logging `Could not notify event feed of new chain head{_v2}` errors right after a checkpoint sync, while the head is still in the origin epoch.](https://github.com/OffchainLabs/prysm/pull/17815#pullrequestreview-5771759687) - 2026-11-04
+* [Pull Request] [Release rate limiter lock before replying to rate-limited peers](https://github.com/OffchainLabs/prysm/pull/17828) - 2026-11-04
+* [Pull Request] [Check block RPC context bytes against the block's fork digest](https://github.com/OffchainLabs/prysm/pull/17829) - 2026-11-04
+* [Commit] [Reject future-slot data columns before saving them (#17830)](https://github.com/OffchainLabs/prysm/commit/001808ac88bdcf70d5be678ba74de52aaea89168) - 2026-11-04
+* [Commit] [Fix `BeaconBlocksByRange` panic when the genesis block is pruned (#17817)](https://github.com/OffchainLabs/prysm/commit/153661c9223bd62f13f117c420b9e299137a9ebf) - 2026-11-04
+* [Commit] [Walk ancestors iteratively in `ancestorByDB` (#17823)](https://github.com/OffchainLabs/prysm/commit/f8076620d4de5530afd299095eb6b0b3ce1692a9) - 2026-11-04
+* [Commit] [Fix `time.Duration` overflow in `slots.StartTime` (#17822)](https://github.com/OffchainLabs/prysm/commit/16e7c4b9b3b1281e6e722a254641c1b5ddfa8b8c) - 2026-11-04
 ## Q3 2026
 
 

@@ -21,6 +21,11 @@ Team: Reth
 * [Pull Request] [fix(trie): tighten iterator seek boundary](https://github.com/paradigmxyz/reth/pull/28264) - 2026-11-03
 * [Commit] [fix(ci): let bench-txgen read the engine JWT secret (#28265)](https://github.com/paradigmxyz/reth/commit/ddb0331e0df1bc3831dfe7d5195df7c6f464497d) - 2026-11-03
 * [Commit] [fix(trie): tighten iterator seek boundary (#28264)](https://github.com/paradigmxyz/reth/commit/8572c88fe04fb2213d86f020ed9e72e612abb097) - 2026-11-03
+* [Pull Request] [perf(tasks): park idle proof worker threads](https://github.com/paradigmxyz/reth/pull/28278) - 2026-11-04
+* [Pull Request] [fix(trie): tighten proof targets on branch collapse](https://github.com/paradigmxyz/reth/pull/28281) - 2026-11-05
+* [Pull Request] [perf(trie): batch keccak in proof calculator branches](https://github.com/paradigmxyz/reth/pull/28279) - 2026-11-04
+* [Pull Request] [perf(trie): batch keccak and use a fixed pool in arena trie](https://github.com/paradigmxyz/reth/pull/28277) - 2026-11-04
+* [Commit] [test(snap): stop the engine before the reorg restart (#28267)](https://github.com/paradigmxyz/reth/commit/5f46c757deda9f40f39994944f3b7adbcec3366c) - 2026-11-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

@@ -113,6 +113,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [ci: run the Airbender guests with the airbender-runner image (#72)](https://github.com/NethermindEth/bflat-riscv64/commit/c8f6294cca505f5118590e7fd23fdb408264f8dc) - 2026-11-03
 * [Commit] [Merge pull request #71 from NethermindEth/fix/tls-dtp-offset](https://github.com/NethermindEth/bflat-riscv64/commit/08364f7bf222e7597b5d546666d3f76f47665372) - 2026-11-03
 * [Commit] [tls: Add the DTP_OFFSET of RISC-V to the offset of __tls_get_addr](https://github.com/NethermindEth/bflat-riscv64/commit/377faf80a58fde41b16622b6701e7663671d6df1) - 2026-11-03
+* [Pull Request] [docs: describe the patched .NET 11 build; give the site its own look](https://github.com/NethermindEth/bflat-riscv64/pull/74) - 2026-11-04
+* [Commit] [docs: give the site its own look](https://github.com/NethermindEth/bflat-riscv64/commit/2ce65789f86ea8fef2f9c6ba966c87846a896665) - 2026-11-04
+* [Commit] [docs: describe the patched .NET 11 build and the images](https://github.com/NethermindEth/bflat-riscv64/commit/2a3df7e8081e88a23f7f734d3df4d5a9cf5b276a) - 2026-11-04
 ## Q3 2026
 
 

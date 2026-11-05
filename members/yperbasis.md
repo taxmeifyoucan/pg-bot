@@ -280,6 +280,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [rpc: honor explicit transaction indices when tracing the head block](https://github.com/erigontech/erigon/issues/25726) - 2026-11-03
 * [Commit] [execution: strengthen block-end log indexing regression tests (#24098)](https://github.com/erigontech/erigon/commit/257981bc104731f6dc82a18ba3ca05e01abd0f1c) - 2026-11-03
 * [Commit] [ci: update execution-specs tests to v21.0.2 (#25689)](https://github.com/erigontech/erigon/commit/158562553f5c960df9b361abe972a73a93a626de) - 2026-11-03
+* [Review] [Review on: execution/stagedsync: pin history-mode reads to the block's first tx](https://github.com/erigontech/erigon/pull/25759#pullrequestreview-5770763395) - 2026-11-04
+* [Review] [Review on: execution/state: read BAL-marked accounts from origin](https://github.com/erigontech/erigon/pull/25751#pullrequestreview-5767413280) - 2026-11-04
+* [Pull Request] [cl/phase1/network: make empty-range prefetch test deterministic](https://github.com/erigontech/erigon/pull/25775) - 2026-11-04
+* [Pull Request] [cl/phase1/network/services: wait for archive column retry completion](https://github.com/erigontech/erigon/pull/25778) - 2026-11-04
+* [Review] [Review on: go.mod: bump holiman/uint256 to latest master (faster Div by power of two)](https://github.com/erigontech/erigon/pull/25766#pullrequestreview-5769757065) - 2026-11-04
+* [Issue] [execution/state: a history-mode worker publishes a mid-block account origin that earlier txs then read](https://github.com/erigontech/erigon/issues/25756) - 2026-11-04
+* [Issue] [cl: flaky backward downloader prefetch test on Windows](https://github.com/erigontech/erigon/issues/25774) - 2026-11-04
+* [Issue] [rpc/rpchelper: flaky TestConcurrentTouchAndEviction on Windows](https://github.com/erigontech/erigon/issues/25769) - 2026-11-04
+* [Issue] [engineapi: preserve UTF-8 when truncating SSZ validation errors](https://github.com/erigontech/erigon/issues/25763) - 2026-11-04
+* [Issue] [engineapi: expose HTTP Engine API over a configurable UNIX socket](https://github.com/erigontech/erigon/issues/25762) - 2026-11-04
+* [Issue] [rpcdaemon: authenticate Engine health checks and bound request bodies](https://github.com/erigontech/erigon/issues/25760) - 2026-11-04
+* [Issue] [rpcdaemon: apply authrpc.vhosts to Engine REST requests](https://github.com/erigontech/erigon/issues/25761) - 2026-11-04
+* [Commit] [cl/phase1/network: make empty-range prefetch test deterministic (#25775)](https://github.com/erigontech/erigon/commit/3653e5254541e489e72278723a5e41772f9181aa) - 2026-11-05
+* [Commit] [cl/phase1/network/services: wait for archive column retry completion (#25778)](https://github.com/erigontech/erigon/commit/fa1400fa47247d987e220252a76977e0f71cebbb) - 2026-11-05
+* [Commit] [execution, txpool: replace AA with EIP-8141 frames and EIP-8250 keyed nonces (#25243)](https://github.com/erigontech/erigon/commit/2e2fea3e29fd55baf24f76e0342bea74ab54d136) - 2026-11-04
+* [Commit] [rpc: reject out-of-range historical transaction indices (#24388)](https://github.com/erigontech/erigon/commit/a55ff4d6bda0fa921a226f66d82a80f28eb47015) - 2026-11-04
+* [Commit] [p2p/sentry: rate-limit inbound header requests (#25732)](https://github.com/erigontech/erigon/commit/f8f07dd889be5034c815cbaaa8df5957480c7466) - 2026-11-04
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -306,6 +323,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Gloas: deferred payload envelope waits a full slot after block import](https://github.com/sigp/lighthouse/issues/10519) - 2026-11-03
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Issue] [engine: clarify REST forkchoice ordering for fork-header mismatches](https://github.com/ethereum/execution-apis/issues/969) - 2026-11-04
 ## Q3 2026
 
 

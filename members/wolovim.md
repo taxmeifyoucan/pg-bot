@@ -12,6 +12,8 @@ Github: [@wolovim](https://github.com/wolovim)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Frame Transaction Breakout #7, Oct 20, 2026](https://github.com/ethereum/pm/issues/2272) - 2026-10-13
 * [Commit] [acdbot: acdt duration bump](https://github.com/ethereum/pm/commit/70990a43aaa4490d56faf2eb57e10415d73892c9) - 2026-10-23
+* [Review] [Review on: Enhance EIP analysis and outreach guidelines](https://github.com/ethereum/pm/pull/2284#pullrequestreview-5766908692) - 2026-11-04
+* [Issue] [Frame Transaction Breakout #8, Nov 17, 2026](https://github.com/ethereum/pm/issues/2295) - 2026-11-04
 ## Q3 2026
 
 

@@ -167,6 +167,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Use INTX_REQUIRE for modexp preconditions (#1794)](https://github.com/ipsilon/evmone/commit/291889f49e7e99e27472d88e330b42fc38358a48) - 2026-11-03
 * [Commit] [ci: Run CodSpeed with GCC 15 on Ubuntu 26.04 (#1798)](https://github.com/ipsilon/evmone/commit/7ca3b5a014c748e10640d26c104206865838da7c) - 2026-11-03
 * [Commit] [crypto: Use unsigned __int128 in multiply-accumulate with GCC (#1803)](https://github.com/ipsilon/evmone/commit/07f5d5a2f9362f411398f73153ce920c10af9108) - 2026-11-03
+* [Commit] [crypto: Share the seed addchain between the point and Fq12 powers (#1640)](https://github.com/ipsilon/evmone/commit/7c237c3d292dbc981bc9eec8f77d5db6e1e35e0c) - 2026-11-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

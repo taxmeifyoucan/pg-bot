@@ -52,6 +52,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-5739630473) - 2026-11-02
 * [Review] [Review on: Route pending deposits by credentials at Gloas builder onboarding](https://github.com/Consensys-Incorporated/teku/pull/11582#pullrequestreview-5753545368) - 2026-11-03
 * [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5749693671) - 2026-11-03
+* [Pull Request] [Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615) - 2026-11-04
+* [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5770035803) - 2026-11-04
+* [Pull Request] [Reject builder bids exceeding the slot’s blob limit](https://github.com/Consensys-Incorporated/teku/pull/11614) - 2026-11-04
 ## Q3 2026
 
 

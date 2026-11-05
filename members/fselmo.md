@@ -99,6 +99,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(nethtest): align nethtest with the client test runner interface](https://github.com/NethermindEth/nethermind/pull/15463#pullrequestreview-5761665065) - 2026-11-04
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat(ef-tests): add the Osaka, BPO and Amsterdam transition networks](https://github.com/paradigmxyz/reth/pull/28226) - 2026-11-01
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: clients: map and dump the genesis in one jq pass](https://github.com/ethereum/hive/pull/1652#pullrequestreview-5779243451) - 2026-11-05
 ## Q3 2026
 
 

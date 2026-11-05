@@ -171,6 +171,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Stop the default JVM options from starting JFR's event log](https://github.com/besu-eth/besu/pull/11824#pullrequestreview-5749731757) - 2026-11-03
 * [Commit] [upgrade open telemetry to 1.67.0 (#11859)](https://github.com/besu-eth/besu/commit/7993ec1ddfb331696203c60a85de897948afd1f9) - 2026-11-03
 * [Commit] [bump plugins baseline for 26.11.0 (#11851)](https://github.com/besu-eth/besu/commit/318dbd09713b1a1bb5cb32281c0b9ea257645f05) - 2026-11-03
+* [Review] [Review on: Resolve finalized and safe newestBlock in eth_feeHistory](https://github.com/besu-eth/besu/pull/11857#pullrequestreview-5778132623) - 2026-11-05
+* [Review] [Review on: Advertise snap in the local ENR when the snap server is enabled](https://github.com/besu-eth/besu/pull/11565#pullrequestreview-5778295717) - 2026-11-05
+* [Review] [Review on: feat(rpc): add trace_replayTransaction](https://github.com/besu-eth/besu/pull/11406#pullrequestreview-5778374976) - 2026-11-05
+* [Review] [Review on: FOCIL: Store the inclusion list status of blocks](https://github.com/besu-eth/besu/pull/11769#pullrequestreview-5778211169) - 2026-11-05
+* [Review] [Review on: fix RPCWS options to read the truststore files when set on config](https://github.com/besu-eth/besu/pull/11839#pullrequestreview-5778104388) - 2026-11-05
+* [Review] [Review on: Reject block overrides on eth_call, eth_estimateGas, eth_createAccessList and debug_traceCall](https://github.com/besu-eth/besu/pull/11629#pullrequestreview-5777922321) - 2026-11-05
+* [Review] [Review on: Resolve safe and finalized tags in admin_logsRemoveCache](https://github.com/besu-eth/besu/pull/11844#pullrequestreview-5777844801) - 2026-11-05
+* [Commit] [Upgrade Guava to 33.8.0-jre (CVE-2026-118042) (#11860)](https://github.com/besu-eth/besu/commit/85a51a11dc7f4768700c9e3897f33b0334c5ec0e) - 2026-11-05
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

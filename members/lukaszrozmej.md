@@ -697,6 +697,32 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(txpool): judge head drops against one head and read each sender's nonce once](https://github.com/NethermindEth/nethermind/pull/15562#pullrequestreview-5756281302) - 2026-11-03
 * [Review] [Review on: fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash](https://github.com/NethermindEth/nethermind/pull/15515#pullrequestreview-5754952670) - 2026-11-03
 * [Pull Request] [perf(zkevm): run ADDMOD and MULMOD in their stack slots with less work on the guests](https://github.com/NethermindEth/nethermind/pull/15567) - 2026-11-03
+* [Review] [Review on: fix(specs): keep absent pre-merge forks off in geth genesis](https://github.com/NethermindEth/nethermind/pull/15553#pullrequestreview-5771687379) - 2026-11-04
+* [Review] [Review on: fix(network): skip sync-serve work when the peer outbound buffer is full](https://github.com/NethermindEth/nethermind/pull/15472#pullrequestreview-5772507190) - 2026-11-04
+* [Review] [Review on: fix(network): limit the sync-serve requests in flight for each peer](https://github.com/NethermindEth/nethermind/pull/15471#pullrequestreview-5772255450) - 2026-11-04
+* [Review] [Review on: fix(txpool): surface transactions the fork revalidation pass drops as evicted](https://github.com/NethermindEth/nethermind/pull/15560#pullrequestreview-5771686999) - 2026-11-04
+* [Review] [Review on: refactor(flat): write flat-import trie nodes on the traversal threads](https://github.com/NethermindEth/nethermind/pull/15499#pullrequestreview-5771689759) - 2026-11-04
+* [Review] [Review on: perf(flat): visit tries by following node record pointers](https://github.com/NethermindEth/nethermind/pull/15491#pullrequestreview-5771691187) - 2026-11-04
+* [Review] [Review on: fix(crypto): keep protection keys under the resolved keystore directory](https://github.com/NethermindEth/nethermind/pull/15572#pullrequestreview-5771686570) - 2026-11-04
+* [Review] [Review on: docs(debug): document that debug_traceCallMany traces calls independently without overrides](https://github.com/NethermindEth/nethermind/pull/15551#pullrequestreview-5771481383) - 2026-11-04
+* [Review] [Review on: fix(keystore): match unlock accounts by address value](https://github.com/NethermindEth/nethermind/pull/15571#pullrequestreview-5771686204) - 2026-11-04
+* [Review] [Review on: fix(config): keep exact digits of JSON integers beyond Int64](https://github.com/NethermindEth/nethermind/pull/15559#pullrequestreview-5771507918) - 2026-11-04
+* [Review] [Review on: fix(rpc): do not answer JSON-RPC notifications](https://github.com/NethermindEth/nethermind/pull/15585#pullrequestreview-5771693591) - 2026-11-04
+* [Review] [Review on: fix(era): keep earlier manifest entries when exporting into a directory with an earlier export](https://github.com/NethermindEth/nethermind/pull/15532#pullrequestreview-5771690089) - 2026-11-04
+* [Review] [Review on: fix(logindex): index only canonical blocks at or below the finalized block](https://github.com/NethermindEth/nethermind/pull/15549#pullrequestreview-5771691514) - 2026-11-04
+* [Review] [Review on: perf(flat): serve snap ranges with readahead iterators that skip the block cache](https://github.com/NethermindEth/nethermind/pull/15521#pullrequestreview-5768786577) - 2026-11-04
+* [Review] [Review on: fix(blockchain): serve only descendants of a side-chain origin in FindHeaders](https://github.com/NethermindEth/nethermind/pull/15530#pullrequestreview-5771695839) - 2026-11-04
+* [Review] [Review on: fix(merge): reject forkchoiceUpdatedV3+ with a null or missing forkchoice state hash](https://github.com/NethermindEth/nethermind/pull/15515#pullrequestreview-5768750575) - 2026-11-04
+* [Review] [Review on: fix(rpc): report the active P256VERIFY and system contract addresses in eth_config](https://github.com/NethermindEth/nethermind/pull/15557#pullrequestreview-5771688227) - 2026-11-04
+* [Review] [Review on: fix(blockchain): delete every descendant of an invalid block](https://github.com/NethermindEth/nethermind/pull/15529#pullrequestreview-5771695541) - 2026-11-04
+* [Review] [Review on: fix(rpc): answer unsupported ids with -32600 and echo non-integer numeric ids](https://github.com/NethermindEth/nethermind/pull/15584#pullrequestreview-5771693234) - 2026-11-04
+* [Review] [Review on: test(flat): take the cheapest of several windows in the marker allocation test](https://github.com/NethermindEth/nethermind/pull/15555#pullrequestreview-5771489094) - 2026-11-04
+* [Review] [Review on: perf(flat): clear changed slots in one pass](https://github.com/NethermindEth/nethermind/pull/15604#pullrequestreview-5771555731) - 2026-11-04
+* [Review] [Review on: perf(trace): reuse unchanged prestate code](https://github.com/NethermindEth/nethermind/pull/15605#pullrequestreview-5771560546) - 2026-11-04
+* [Review] [Review on: perf(history): cache the next stream block](https://github.com/NethermindEth/nethermind/pull/15606#pullrequestreview-5771690820) - 2026-11-04
+* [Commit] [perf(zkevm): re-encode only the branch slots that writes reached on the SP1 guest (#15457)](https://github.com/NethermindEth/nethermind/commit/04388235aecb8ae6ab32ac55bbc71a8f96bb1010) - 2026-11-04
+* [Commit] [perf(zkevm): hash each witness code while the SP1 guest moves it (#15370)](https://github.com/NethermindEth/nethermind/commit/583507a6e3a488ec5c84c30cd74020cc38e6ef53) - 2026-11-04
+* [Commit] [feat(zkevm): add an Airbender (RV32IM) stateless guest (#15278)](https://github.com/NethermindEth/nethermind/commit/a65d1a234c44cf9e14bf35bde7b8de7b1501353b) - 2026-11-04
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -793,6 +819,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Replace the eager secured-trie path walk with a node-local check and a lazy check](https://github.com/ethereum/execution-specs/issues/3885) - 2026-10-22
 * [Review] [Review on: feat(zkevm): check witness trie nodes only when the block reaches them](https://github.com/ethereum/execution-specs/pull/3934#pullrequestreview-5755661276) - 2026-11-03
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7843: Add header validity rule and opcode compatibility note](https://github.com/ethereum/EIPs/pull/12618#pullrequestreview-5766621175) - 2026-11-04
 ## Q3 2026
 
 

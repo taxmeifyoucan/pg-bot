@@ -121,6 +121,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(validatorranges): take on-chain ranges from the network config service](https://github.com/ethpandaops/cartographoor/pull/117) - 2026-10-19
 * [Commit] [feat(validatorranges): take on-chain ranges from the network config service (#117)](https://github.com/ethpandaops/cartographoor/commit/93e737862c3f55f06d08243c97812c7b59bf6b19) - 2026-10-19
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118#pullrequestreview-5596801854) - 2026-10-21
+* [Pull Request] [fix(sepolia,hoodi): drop the duplicate fusaka consensus fork](https://github.com/ethpandaops/cartographoor/pull/121) - 2026-11-05
+* [Commit] [fix(sepolia,hoodi): drop the duplicate fusaka consensus fork (#121)](https://github.com/ethpandaops/cartographoor/commit/bff6616c00417634ae64a37239f578839361e803) - 2026-11-05
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [fix(agent): record blocks at their own slot, never at an empty slot after them](https://github.com/ethpandaops/tracoor/pull/70) - 2026-10-19
 * [Pull Request] [fix(agent): retry late gloas envelopes and outages instead of dropping them](https://github.com/ethpandaops/tracoor/pull/69) - 2026-10-19
@@ -206,6 +208,54 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [docs(llms): point agents at the table index and xatu-data](https://github.com/ethpandaops/lab/pull/493) - 2026-11-03
 * [Commit] [ci: split Test into unit and sharded Storybook jobs (#494)](https://github.com/ethpandaops/lab/commit/827174148af6a34c8b4feee330426b5ca4439608) - 2026-11-03
 * [Commit] [docs(llms): point agents at the table index and xatu-data (#493)](https://github.com/ethpandaops/lab/commit/7bcc1fb30a7e615ac3e64634ec62372d74cc3d4d) - 2026-11-03
+* [Pull Request] [fix(entities): largest entity subtitle fits its stat](https://github.com/ethpandaops/lab/pull/518) - 2026-11-05
+* [Pull Request] [fix(validators): latest-day tiles read every credential type of the newest day](https://github.com/ethpandaops/lab/pull/517) - 2026-11-05
+* [Pull Request] [feat(entities): Lido as one entity or by operator](https://github.com/ethpandaops/lab/pull/516) - 2026-11-05
+* [Pull Request] [fix: audit follow-ups for clients, validators, Xatu nodes and slot attestations](https://github.com/ethpandaops/lab/pull/514) - 2026-11-05
+* [Pull Request] [fix: leave the in-progress hour, day and week out of rollup charts and stats](https://github.com/ethpandaops/lab/pull/515) - 2026-11-05
+* [Pull Request] [feat(entities): performance against the network from per-entity rollups](https://github.com/ethpandaops/lab/pull/513) - 2026-11-04
+* [Pull Request] [feat: read the new xatu-cbt rollups on the epochs, pairings, ePBS, timings and Xatu nodes pages](https://github.com/ethpandaops/lab/pull/512) - 2026-11-04
+* [Pull Request] [fix(xatu): name populations, drop first-seen rankings, fix node counts](https://github.com/ethpandaops/lab/pull/511) - 2026-11-04
+* [Pull Request] [fix(clients): data-quality fixes on the clients pages and home networks table](https://github.com/ethpandaops/lab/pull/510) - 2026-11-04
+* [Pull Request] [fix(validators): correct data-quality findings on the overview and inspect pages](https://github.com/ethpandaops/lab/pull/509) - 2026-11-04
+* [Pull Request] [fix(gas-profiler,contracts): data-quality fixes from the production audit](https://github.com/ethpandaops/lab/pull/508) - 2026-11-04
+* [Pull Request] [fix(data-availability): fix filters, layout and labels on custody, probes and partial columns](https://github.com/ethpandaops/lab/pull/507) - 2026-11-04
+* [Pull Request] [fix(timings): name the distribution charts' counts and window; show go-ethereum as geth](https://github.com/ethpandaops/lab/pull/506) - 2026-11-04
+* [Pull Request] [fix(slots): correct slot detail data quality findings](https://github.com/ethpandaops/lab/pull/505) - 2026-11-04
+* [Pull Request] [fix(execution): correct data-quality issues on execution pages](https://github.com/ethpandaops/lab/pull/504) - 2026-11-04
+* [Pull Request] [fix: consensus overview, epochs and forks data-quality findings](https://github.com/ethpandaops/lab/pull/503) - 2026-11-04
+* [Pull Request] [fix(timings): drop the block complexity scatter that repeats Performance](https://github.com/ethpandaops/lab/pull/502) - 2026-11-04
+* [Pull Request] [fix: read existing rollups and settled tables where pages sampled, truncated or hid data](https://github.com/ethpandaops/lab/pull/501) - 2026-11-04
+* [Pull Request] [fix: drop sections that repeat other parts of their page or other pages](https://github.com/ethpandaops/lab/pull/500) - 2026-11-04
+* [Pull Request] [fix(execution): drop duplicated sections in gas profiler and timings](https://github.com/ethpandaops/lab/pull/499) - 2026-11-04
+* [Pull Request] [chore: delete dead page components and hooks](https://github.com/ethpandaops/lab/pull/498) - 2026-11-04
+* [Pull Request] [fix(nav): drop the home blocks list and the orphaned experiments page](https://github.com/ethpandaops/lab/pull/497) - 2026-11-04
+* [Pull Request] [fix(clients): drop the per-block list from the clients overview](https://github.com/ethpandaops/lab/pull/496) - 2026-11-04
+* [Pull Request] [fix(clients): share bars take each client's colour; entity charts are daily](https://github.com/ethpandaops/lab/pull/495) - 2026-11-04
+* [Commit] [fix(entities): largest entity subtitle fits its stat (#518)](https://github.com/ethpandaops/lab/commit/fb6e0006e3d5edca522f384efbb662fbcba6ce0f) - 2026-11-05
+* [Commit] [fix(validators): latest-day tiles read every credential type of the newest day (#517)](https://github.com/ethpandaops/lab/commit/6926d2d26a56299f9c6251cf7846067cc11a151f) - 2026-11-05
+* [Commit] [feat(entities): Lido as one entity or by operator (#516)](https://github.com/ethpandaops/lab/commit/d6fb0ff84e9823ec5edaf2d16dd0914d9223f962) - 2026-11-05
+* [Commit] [fix: audit follow-ups for clients, validators, Xatu nodes and slot attestations (#514)](https://github.com/ethpandaops/lab/commit/d65b7d8c70ea9898062fd1da5dd3592daf1d3889) - 2026-11-05
+* [Commit] [fix: leave the in-progress hour, day and week out of rollup charts and stats (#515)](https://github.com/ethpandaops/lab/commit/311818ceca87a1e3ebe6b7b2b89fa94c0751a18e) - 2026-11-05
+* [Commit] [feat(entities): performance against the network from per-entity rollups (#513)](https://github.com/ethpandaops/lab/commit/e1e16bf4809a0f7c3a8e85f9e3bac712b4c13cff) - 2026-11-04
+* [Commit] [feat: read the new xatu-cbt rollups on the epochs, pairings, ePBS, timings and Xatu nodes pages (#512)](https://github.com/ethpandaops/lab/commit/63eee853ea048b9d0552cacb6502968bb69861ec) - 2026-11-04
+* [Commit] [fix(xatu): name populations, drop first-seen rankings, fix node counts (#511)](https://github.com/ethpandaops/lab/commit/fa780e41d19dee3db58cb0d2b1a336ce9ad04677) - 2026-11-04
+* [Commit] [fix(clients): data-quality fixes on the clients pages and home networks table (#510)](https://github.com/ethpandaops/lab/commit/4dfce02487e3fecbcf4fe37a31107808090dbc23) - 2026-11-04
+* [Commit] [fix(validators): correct data-quality findings on the overview and inspect pages (#509)](https://github.com/ethpandaops/lab/commit/735383ab574429c636cf40012499272c8ebe4bc7) - 2026-11-04
+* [Commit] [fix(timings): name the distribution charts' counts and window; show go-ethereum as geth (#506)](https://github.com/ethpandaops/lab/commit/d2d66d08cbcd4b47e7ca1a3aeb76a11e572a02ca) - 2026-11-04
+* [Commit] [fix(gas-profiler,contracts): data-quality fixes from the production audit (#508)](https://github.com/ethpandaops/lab/commit/204f6c6f0282431f5e2def367fbc7a0364ff7a0a) - 2026-11-04
+* [Commit] [fix(data-availability): fix filters, layout and labels on custody, probes and partial columns (#507)](https://github.com/ethpandaops/lab/commit/c8cea399926847385d1515e737ae8b4bb989ef03) - 2026-11-04
+* [Commit] [fix(slots): correct slot detail data quality findings (#505)](https://github.com/ethpandaops/lab/commit/30892f4cc8c00e81455f87c6a46e317fd7ba80be) - 2026-11-04
+* [Commit] [fix(execution): correct data-quality issues on execution pages (#504)](https://github.com/ethpandaops/lab/commit/a148c88e740059d972563681ae2b7f1e3a774abb) - 2026-11-04
+* [Commit] [fix: consensus overview, epochs and forks data-quality findings (#503)](https://github.com/ethpandaops/lab/commit/51a8ee2f2f2fc2ae5e347d5fadc93c024ebb6733) - 2026-11-04
+* [Commit] [fix(timings): drop the block complexity scatter that repeats Performance (#502)](https://github.com/ethpandaops/lab/commit/2caf2fa48410b1f7b3dd144df36884422f70218a) - 2026-11-04
+* [Commit] [fix: read existing rollups and settled tables where pages sampled, truncated or hid data (#501)](https://github.com/ethpandaops/lab/commit/b823231296447af8c5fb3d2ffcdfac36bc0a8f85) - 2026-11-04
+* [Commit] [fix: drop sections that repeat other parts of their page or other pages (#500)](https://github.com/ethpandaops/lab/commit/e3fbf503d6ef353be8fa67ce5f5121d35d83da18) - 2026-11-04
+* [Commit] [fix(execution): drop duplicated sections in gas profiler and timings (#499)](https://github.com/ethpandaops/lab/commit/2277636e04c6c9c15edbdfa6f2c12d5af5493a80) - 2026-11-04
+* [Commit] [chore: delete dead page components and hooks (#498)](https://github.com/ethpandaops/lab/commit/352b7688f7172baaf478c1c70044bb879244761d) - 2026-11-04
+* [Commit] [fix(nav): drop the home blocks list and the orphaned experiments page (#497)](https://github.com/ethpandaops/lab/commit/62aea60f9fe5a250b17b5b5bef8b216fc576673b) - 2026-11-04
+* [Commit] [fix(clients): drop the per-block list from the clients overview (#496)](https://github.com/ethpandaops/lab/commit/390321301ce4e9bd7153788b15d8b6664681a44f) - 2026-11-04
+* [Commit] [fix(clients): share bars take each client's colour; entity charts are daily (#495)](https://github.com/ethpandaops/lab/commit/366f071e86d40f75fdea5b506b98aa2d983efc41) - 2026-11-04
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 
