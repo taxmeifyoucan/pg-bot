@@ -36,6 +36,8 @@ Team: Grandine
 * [Review] [Review on: Update crate](https://github.com/grandinetech/grandine/pull/1007#pullrequestreview-5630327904) - 2026-10-23
 * [Review] [Review on: Optimize trusted state transition function](https://github.com/grandinetech/grandine/pull/920#pullrequestreview-5627127487) - 2026-10-23
 * [Review] [Review on: Query parent payload envelope from cache and storage in block production](https://github.com/grandinetech/grandine/pull/1023#pullrequestreview-5752039939) - 2026-11-03
+* [Pull Request] [Separate VC: treat an optimistic beacon node as synced, not Unusable](https://github.com/grandinetech/grandine/pull/1026) - 2026-11-05
+* [Review] [Review on: Make sync forget data column sidecars ignored as too far in the future so they can be fetched again](https://github.com/grandinetech/grandine/pull/1025#pullrequestreview-5784785286) - 2026-11-05
 ## Q3 2026
 
 

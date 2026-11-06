@@ -42,6 +42,8 @@ Team: Erigon
 * [Review] [Review on: perf/pattern: add the debug_traceBlockByNumber callTracer and structLog profiles](https://github.com/erigontech/rpc-tests/pull/647#pullrequestreview-5742844610) - 2026-11-02
 * [Review] [Review on: rpc_pattern_gen: generate eth_createAccessList requests](https://github.com/erigontech/rpc-tests/pull/646#pullrequestreview-5736809747) - 2026-11-02
 * [Review] [Review on: rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile](https://github.com/erigontech/rpc-tests/pull/645#pullrequestreview-5736806351) - 2026-11-02
+* [Review] [Review on: rpc_pattern_gen: a subcommand for every method, and tag=latest for the block lookups](https://github.com/erigontech/rpc-tests/pull/651#pullrequestreview-5783479709) - 2026-11-05
+* [Review] [Review on: perf: describe a JSONL pattern in an optional header line](https://github.com/erigontech/rpc-tests/pull/649#pullrequestreview-5783482015) - 2026-11-05
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

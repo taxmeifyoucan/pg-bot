@@ -35,6 +35,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [fix light client flag bug (#17824)](https://github.com/OffchainLabs/prysm/commit/0b3b69d242dd9e1e439e975fefa34f0327918faa) - 2026-11-04
 * [Commit] [fix light client rpc bug (#17821)](https://github.com/OffchainLabs/prysm/commit/c482e68eb7dc4bfd42fed3258555c4dbfdb185b5) - 2026-11-04
 * [Commit] [fix light client fork boundary digest bug (#17801)](https://github.com/OffchainLabs/prysm/commit/a64ff3857918ee8392944542e0957c92d389396d) - 2026-11-04
+* [Review] [Review on: Reject gossip messages whose snappy header claims a decoded length larger than the message can expand to.](https://github.com/OffchainLabs/prysm/pull/17840#pullrequestreview-5787651637) - 2026-11-05
 ## Q3 2026
 
 

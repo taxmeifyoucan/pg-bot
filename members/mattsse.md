@@ -413,6 +413,23 @@ Team: Reth
 * [Commit] [fix(rpc): ignore zero-balance account changes (#28282)](https://github.com/paradigmxyz/reth/commit/b7a853a60e3dbb3448ef7a8fceb6b433e4f1f5d5) - 2026-11-05
 * [Commit] [fix(node): suffix auth ipc path with instance (#28257)](https://github.com/paradigmxyz/reth/commit/9dc3e4c9ca083a26011a50f70075337f3aa02a07) - 2026-11-05
 * [Commit] [revert: "fix(node): create jwt secret file with 0600 permissions" (#28272)](https://github.com/paradigmxyz/reth/commit/14bf073c6de69bba0a7eeda83e2525121017143a) - 2026-11-04
+* [Pull Request] [perf(engine): keep speculation ahead of block execution](https://github.com/paradigmxyz/reth/pull/28293) - 2026-11-05
+* [Pull Request] [fix(engine): cap invalid block hook output on disk](https://github.com/paradigmxyz/reth/pull/28286) - 2026-11-05
+* [Pull Request] [perf(metrics): replace metrics-exporter-prometheus with a local recorder](https://github.com/paradigmxyz/reth/pull/28301) - 2026-11-05
+* [Review] [Review on: chore: release 2.10.0](https://github.com/paradigmxyz/reth/pull/28299#pullrequestreview-5787477362) - 2026-11-05
+* [Pull Request] [perf: run trie workers below execution priority](https://github.com/paradigmxyz/reth/pull/28298) - 2026-11-05
+* [Pull Request] [perf(engine): bound the sparse trie's update deferral](https://github.com/paradigmxyz/reth/pull/28297) - 2026-11-05
+* [Pull Request] [perf: replace schnellru with reth-lru](https://github.com/paradigmxyz/reth/pull/28291) - 2026-11-05
+* [Pull Request] [refactor(rpc): vendor jsonrpsee server](https://github.com/paradigmxyz/reth/pull/28290) - 2026-11-05
+* [Pull Request] [chore(deps): ignore pin-utils unmaintained advisory](https://github.com/paradigmxyz/reth/pull/28292) - 2026-11-05
+* [Pull Request] [chore(deps): upgrade discovery and secp256k1](https://github.com/paradigmxyz/reth/pull/28289) - 2026-11-05
+* [Pull Request] [test(storage): cover Zstd 0.13 compatibility](https://github.com/paradigmxyz/reth/pull/28288) - 2026-11-05
+* [Pull Request] [fix(rpc): report retained receipt history](https://github.com/paradigmxyz/reth/pull/28201) - 2026-11-05
+* [Review] [Review on: fix(engine): run witness hook off the engine thread](https://github.com/paradigmxyz/reth/pull/28285#pullrequestreview-5780000226) - 2026-11-05
+* [Commit] [chore(deps): ignore pin-utils unmaintained advisory (#28292)](https://github.com/paradigmxyz/reth/commit/16989fd056d4f449ef73403796e8b99051773f69) - 2026-11-05
+* [Commit] [chore(deps): upgrade discovery and secp256k1 (#28289)](https://github.com/paradigmxyz/reth/commit/65977b8e11ece7a2091875708cac219f2a7536ec) - 2026-11-05
+* [Commit] [test(storage): cover Zstd 0.13 compatibility (#28288)](https://github.com/paradigmxyz/reth/commit/9580b7fc1dfa388a952af4058c9f9806501e51f4) - 2026-11-05
+* [Commit] [fix(rpc): report retained receipt history (#28201)](https://github.com/paradigmxyz/reth/commit/aa03178bd85acc870e2ae480776692ebe88a4a16) - 2026-11-05
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

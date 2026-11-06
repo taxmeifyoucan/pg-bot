@@ -260,6 +260,17 @@ Team: Erigon
 * [Commit] [execution/stagedsync: skip arrival validation when no lower tx wrote since the worker validated (#25559)](https://github.com/erigontech/erigon/commit/c0afe3bf782d83701ce29af32a49be93b950d71f) - 2026-11-04
 * [Commit] [execution/execmodule: answer a re-sent domain-ahead fork choice with TooFarAway (#25741)](https://github.com/erigontech/erigon/commit/5ba32e438b4de3125dded20ed624d4680ba592ef) - 2026-11-04
 * [Commit] [cl/antiquary: merge beaconblocks into 100k segments with EL's Merger (#25519)](https://github.com/erigontech/erigon/commit/c82acff6c93cf5ef9f98585e02ba68c204ee2d32) - 2026-11-04
+* [Pull Request] [db/state: stripe TemporalMemBatch latest maps over 32 locked shards per domain](https://github.com/erigontech/erigon/pull/25828) - 2026-11-06
+* [Review] [Review on: cmd/utils/app, db/state: step-rebase step-size increase on binary-trie](https://github.com/erigontech/erigon/pull/25319#pullrequestreview-5788865958) - 2026-11-05
+* [Review] [Review on: execution/state: markComplete assert ignores the account Root](https://github.com/erigontech/erigon/pull/25789#pullrequestreview-5783481138) - 2026-11-05
+* [Review] [Review on: node/cli: fail on --tls without --tls.cert or --tls.key](https://github.com/erigontech/erigon/pull/25818#pullrequestreview-5795612637) - 2026-11-06
+* [Review] [Review on: execution/state: read a version-map account under one lock](https://github.com/erigontech/erigon/pull/25770#pullrequestreview-5783480164) - 2026-11-05
+* [Review] [Review on: execution/stagedsync: a named re-run waits for its writer to validate](https://github.com/erigontech/erigon/pull/25785#pullrequestreview-5783480601) - 2026-11-05
+* [Issue] [snapshots: full-path globs break on datadirs with glob metacharacters](https://github.com/erigontech/erigon/issues/25787) - 2026-11-05
+* [Commit] [chore(codeowners): add @awskii to /cl/ and /execution/ (#25793)](https://github.com/erigontech/erigon/commit/10c35bcd28c8112614a1b8e19c3cc2dd54d71b5b) - 2026-11-05
+* [Commit] [common/dir: glob snapshot file names, not the datadir path (#25791)](https://github.com/erigontech/erigon/commit/2ddb6ca01b073694eedfd559015cca48ae9c366a) - 2026-11-05
+* [Commit] [cmd/utils, node/cli: remove the unused --vmdebug flag (#25788)](https://github.com/erigontech/erigon/commit/f3ce0209d226cac9b233c7508dc2c9c06f57414d) - 2026-11-05
+* [Commit] [db/snapshotsync: index missing caplin segments with EL's buildMissedIndices (#25740)](https://github.com/erigontech/erigon/commit/8009ce0e5b7fcab55b83d38721c3f707cbf11caf) - 2026-11-05
 ## Q3 2026
 
 

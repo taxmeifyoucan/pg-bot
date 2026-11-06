@@ -77,6 +77,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/bal, execution/stagedsync: validate the block access list of a block resumed mid-block (#25169)](https://github.com/erigontech/erigon/commit/0a7733e2a8d4d5b4f4353e11fe09871a97577004) - 2026-10-23
 * [Commit] [execution/state: re-read an account field whose cell appears during a fallback probe (#24874)](https://github.com/erigontech/erigon/commit/c50745e7159117d3124c7076e028b400feb13044) - 2026-10-23
 * [Pull Request] [.github: build release binaries with GCC 14.2](https://github.com/erigontech/erigon/pull/25742) - 2026-11-03
+* [Pull Request] [execution/state: release the account lock when a version map flush panics](https://github.com/erigontech/erigon/pull/25827) - 2026-11-06
+* [Pull Request] [execution/commitment: sync an account cell's navigation path on a propagate fold](https://github.com/erigontech/erigon/pull/25814) - 2026-11-05
+* [Pull Request] [execution/commitment: test fold paths that no test covered](https://github.com/erigontech/erigon/pull/25815) - 2026-11-05
+* [Commit] [execution/protocol/misc: treat an overflowing blob base fee as above the reserve price (#25797)](https://github.com/erigontech/erigon/commit/603a50888a0647c79854768de28ad7d2246ae1d4) - 2026-11-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02

@@ -97,6 +97,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640) - 2026-10-14
 
 * [Review] [Review on: feat(nethtest): align nethtest with the client test runner interface](https://github.com/NethermindEth/nethermind/pull/15463#pullrequestreview-5761665065) - 2026-11-04
+* [Pull Request] [feat(nethtest): align nethtest with the client test runner interface](https://github.com/NethermindEth/nethermind/pull/15463) - 2026-11-05
+* [Commit] [feat(nethtest): align nethtest with the client test runner interface (#15463)](https://github.com/NethermindEth/nethermind/commit/8e345e52cefb6a7b6169363b98243377b23a41cb) - 2026-11-05
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat(ef-tests): add the Osaka, BPO and Amsterdam transition networks](https://github.com/paradigmxyz/reth/pull/28226) - 2026-11-01
 

@@ -52,6 +52,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(runner): use --db-dir as the database directory over the data dir default](https://github.com/NethermindEth/nethermind/pull/15569#pullrequestreview-5777447691) - 2026-11-04
 * [Review] [Review on: perf(flat): clear changed slots in one pass](https://github.com/NethermindEth/nethermind/pull/15604#pullrequestreview-5773195498) - 2026-11-04
 * [Review] [Review on: perf(trace): reuse unchanged prestate code](https://github.com/NethermindEth/nethermind/pull/15605#pullrequestreview-5776614914) - 2026-11-04
+* [Review] [Review on: test(eip8141): restore frame-tx benchmark assertions after #14374 and #14265](https://github.com/NethermindEth/nethermind/pull/15646#pullrequestreview-5795443101) - 2026-11-06
+* [Review] [Review on: fix(evm): preserve native reverts and configurable precompile overrides](https://github.com/NethermindEth/nethermind/pull/15634#pullrequestreview-5786655022) - 2026-11-05
+* [Review] [Review on: test(fixtures): report unreadable fixture files as failing cases](https://github.com/NethermindEth/nethermind/pull/15640#pullrequestreview-5793830444) - 2026-11-05
+* [Review] [Review on: fix(monitoring): isolate failures in periodic metric updates](https://github.com/NethermindEth/nethermind/pull/15650#pullrequestreview-5794359973) - 2026-11-06
+* [Review] [Review on: fix(logindex): rebuild indexes predating canonical-only indexing](https://github.com/NethermindEth/nethermind/pull/15649#pullrequestreview-5794726825) - 2026-11-06
+* [Review] [Review on: test(fixtures): read over-wide transaction values in state tests](https://github.com/NethermindEth/nethermind/pull/15644#pullrequestreview-5793296222) - 2026-11-05
+* [Review] [Review on: fix(db): count open snapshots per version in SnapshotableMemDb](https://github.com/NethermindEth/nethermind/pull/15635#pullrequestreview-5787113221) - 2026-11-05
+* [Review] [Review on: test(debug): preserve specified-block JS deadline and token witnesses](https://github.com/NethermindEth/nethermind/pull/15623#pullrequestreview-5780319950) - 2026-11-05
+* [Review] [Review on: test(state): witness a warmed retirement before the warmer churn](https://github.com/NethermindEth/nethermind/pull/15633#pullrequestreview-5785437095) - 2026-11-05
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

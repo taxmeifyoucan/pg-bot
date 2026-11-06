@@ -29,6 +29,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(init): remove Init.MemoryHint and use fixed memory defaults](https://github.com/NethermindEth/nethermind/pull/15154#pullrequestreview-5627521742) - 2026-10-23
 * [Pull Request] [fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595) - 2026-11-04
 * [Review] [Review on: fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595#pullrequestreview-5768525668) - 2026-11-04
+* [Review] [Review on: fix(specs): keep absent pre-merge forks off in geth genesis](https://github.com/NethermindEth/nethermind/pull/15553#pullrequestreview-5782617167) - 2026-11-05
 ## Q3 2026
 
 

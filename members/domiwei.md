@@ -344,6 +344,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/state/genesiswrite: accept nil-vs-0 PoW-era fork differences that select nothing (#25727)](https://github.com/erigontech/erigon/commit/bf0c8ad23ac7eef3b687a697da19f942438c1d2d) - 2026-11-04
 * [Commit] [cl/phase1/forkchoice: read column availability before taking the fork-choice lock (#25594)](https://github.com/erigontech/erigon/commit/2671048b160532d19f05e6568ea5e12d5799b6c5) - 2026-11-04
 * [Commit] [cl/gossip, cl/p2p: use the spec gossipsub mesh degree (D/Dlo/Dhi 8/6/12) (#25674)](https://github.com/erigontech/erigon/commit/8dcc6fdec567c3a60614a7b65a67639fdb1477e4) - 2026-11-04
+* [Pull Request] [cl/phase1/forkchoice, cl/phase1/network/services: bound and pace execution payload envelope work on the gossip path](https://github.com/erigontech/erigon/pull/25817) - 2026-11-06
+* [Pull Request] [cl/phase1/forkchoice, cl/phase1/network/services: follow-ups to accepting envelopes before the EL verdict](https://github.com/erigontech/erigon/pull/25805) - 2026-11-05
+* [Pull Request] [cl/phase1/network/services: relay valid Gloas data column sidecars outside custody](https://github.com/erigontech/erigon/pull/25826) - 2026-11-06
+* [Review] [Review on: cl/cltypes, cl/transition: decode Gloas payload withdrawals as a progressive list](https://github.com/erigontech/erigon/pull/25781#pullrequestreview-5784055630) - 2026-11-05
+* [Review] [Review on: cmd/capcli: add blob-archive-store-fill to refill the blob store for a slot range](https://github.com/erigontech/erigon/pull/25800#pullrequestreview-5795066848) - 2026-11-06
+* [Review] [Review on: cmd/capcli: check a local block's blobs under the walked root in chain-endpoint](https://github.com/erigontech/erigon/pull/25799#pullrequestreview-5794915872) - 2026-11-06
+* [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: follow-ups to accepting envelopes before the EL verdict (#25805)](https://github.com/erigontech/erigon/commit/1598ed8f5a3b4d114d44c0872514067c0bad0411) - 2026-11-06
 ## Q3 2026
 
 

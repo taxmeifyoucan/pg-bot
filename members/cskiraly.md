@@ -41,6 +41,8 @@ Team: Codex DAS
 * [Review] [Review on: core: compute the state root alongside the block's other digests](https://github.com/ethereum/go-ethereum/pull/36040#pullrequestreview-5724361651) - 2026-10-31
 * [Pull Request] [triedb/pathdb: revert storage tries concurrently](https://github.com/ethereum/go-ethereum/pull/36067) - 2026-11-04
 * [Pull Request] [triedb/pathdb: merge state histories in deep rollbacks](https://github.com/ethereum/go-ethereum/pull/36068) - 2026-11-04
+* [Pull Request] [triedb/pathdb: buffer the journal file writes](https://github.com/ethereum/go-ethereum/pull/36042) - 2026-11-05
+* [Commit] [triedb/pathdb: buffer the journal file writes (#36042)](https://github.com/ethereum/go-ethereum/commit/78af8c3121686417cf8dee0f94e0e975f5b38a9e) - 2026-11-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08

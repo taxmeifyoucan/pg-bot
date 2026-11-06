@@ -25,6 +25,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix(rpc): remove existing accounts emptied by state overrides](https://github.com/paradigmxyz/reth/pull/27932) - 2026-10-15
 * [Pull Request] [feat(engine): add executed block ext and persistence hook](https://github.com/paradigmxyz/reth/pull/28242) - 2026-11-03
 * [Pull Request] [feat(rpc): replay block transactions through the block executor](https://github.com/paradigmxyz/reth/pull/28266) - 2026-11-03
+* [Pull Request] [chore(deps): bump evm2 to 72a3190](https://github.com/paradigmxyz/reth/pull/28305) - 2026-11-06
 ## Q3 2026
 
 

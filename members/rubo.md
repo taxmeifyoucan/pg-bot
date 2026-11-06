@@ -102,6 +102,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [refactor(network)!: serialize snap messages into spans instead of DotNetty buffers (#15614)](https://github.com/NethermindEth/nethermind/commit/406b5a05da5a734a8141db59170b36ef0f6e535c) - 2026-11-04
 * [Commit] [chore(deps): update RocksDB package to v11.13.2 (#15611)](https://github.com/NethermindEth/nethermind/commit/fcea02adf4e82c06cf072852440adaefa8cb4487) - 2026-11-04
 * [Commit] [refactor(network)!: serialize eth68-72 messages into spans instead of DotNetty buffers (#15586)](https://github.com/NethermindEth/nethermind/commit/ce68252ce7bdb48ca0b3241a918909c8729a3b19) - 2026-11-04
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/15661#pullrequestreview-5793983509) - 2026-11-06
+* [Pull Request] [refactor(xdc): serialize consensus messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15659) - 2026-11-05
+* [Review] [Review on: refactor(xdc): serialize consensus messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15659#pullrequestreview-5792545201) - 2026-11-05
+* [Commit] [refactor(xdc): serialize consensus messages into spans instead of DotNetty buffers (#15659)](https://github.com/NethermindEth/nethermind/commit/ea899b5f001fc4e718fd7be4bc187fe2ec9b9510) - 2026-11-06
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

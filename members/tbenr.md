@@ -121,6 +121,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Use the JDK's intrinsified SHA-256 for pubsub message digests (#544)](https://github.com/libp2p/jvm-libp2p/commit/4658f22ff4e54c15a854f487031bcfa17e450b7f) - 2026-10-21
 * [Review] [Review on: Release 1.4.0](https://github.com/libp2p/jvm-libp2p/pull/546#pullrequestreview-5610800578) - 2026-10-22
 * [Pull Request] [Close a QUIC stream once both sides have finished writing](https://github.com/libp2p/jvm-libp2p/pull/548) - 2026-10-23
+
+[Consensys/tuweni](https://github.com/Consensys/tuweni)
+* [Pull Request] [Read longs and ints in ArrayWrappingBytes through VarHandles](https://github.com/Consensys-Incorporated/tuweni/pull/78) - 2026-11-05
 ## Q3 2026
 
 

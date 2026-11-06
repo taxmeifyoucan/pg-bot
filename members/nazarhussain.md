@@ -63,6 +63,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: discount pending parent support in fast confirmation empty slots](https://github.com/ChainSafe/lodestar/pull/10539) - 2026-11-03
 * [Review] [Review on: fix: use runtime genesis metadata for ephemery](https://github.com/ChainSafe/lodestar/pull/10278#pullrequestreview-5751707499) - 2026-11-03
 * [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5751691517) - 2026-11-03
+* [Pull Request] [ci: publish fuzz image as lodestar-fuzz](https://github.com/ChainSafe/lodestar/pull/10559) - 2026-11-05
+* [Review] [Review on: ci: publish fuzz image as lodestar-fuzz](https://github.com/ChainSafe/lodestar/pull/10559#pullrequestreview-5787538396) - 2026-11-05
+* [Review] [Review on: feat: support and test node 26](https://github.com/ChainSafe/lodestar/pull/10516#pullrequestreview-5784946540) - 2026-11-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

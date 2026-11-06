@@ -132,6 +132,41 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [test(rpc): expect a cyclic JavaScript mux result to fail the block trace (#15616)](https://github.com/NethermindEth/nethermind/commit/8a49ab720159c2cb80d45c7247bade70d061b455) - 2026-11-04
 * [Commit] [fix(db): count a native-slice read once (#15610)](https://github.com/NethermindEth/nethermind/commit/231db6f882d4b6b8a1e3458f1d2313a51b581b0b) - 2026-11-04
 * [Commit] [fix(rpc): render JavaScript tracer results without recursion (#15482)](https://github.com/NethermindEth/nethermind/commit/d1d3b326a3a7bf599a4478833f3a0f7719a6f683) - 2026-11-04
+* [Review] [Review on: refactor(trie): move EOA compression from the state db to node storage](https://github.com/NethermindEth/nethermind/pull/15632#pullrequestreview-5783497638) - 2026-11-05
+* [Review] [Review on: perf(db): honor HintReadAhead on span-action reads](https://github.com/NethermindEth/nethermind/pull/15631#pullrequestreview-5782551732) - 2026-11-05
+* [Pull Request] [test(fixtures): report unreadable fixture files as failing cases](https://github.com/NethermindEth/nethermind/pull/15640) - 2026-11-05
+* [Review] [Review on: test(fixtures): report unreadable fixture files as failing cases](https://github.com/NethermindEth/nethermind/pull/15640#pullrequestreview-5783110673) - 2026-11-05
+* [Pull Request] [fix(era): replace incomplete epoch exports and reject ambiguous era1 files](https://github.com/NethermindEth/nethermind/pull/15651) - 2026-11-05
+* [Review] [Review on: fix(era): replace incomplete epoch exports and reject ambiguous era1 files](https://github.com/NethermindEth/nethermind/pull/15651#pullrequestreview-5788934100) - 2026-11-05
+* [Pull Request] [fix(monitoring): isolate failures in periodic metric updates](https://github.com/NethermindEth/nethermind/pull/15650) - 2026-11-05
+* [Review] [Review on: fix(monitoring): isolate failures in periodic metric updates](https://github.com/NethermindEth/nethermind/pull/15650#pullrequestreview-5787428296) - 2026-11-05
+* [Review] [Review on: Preserve named block pruning, temporary status and genesis lookup precedence](https://github.com/NethermindEth/nethermind/pull/15628#pullrequestreview-5787755748) - 2026-11-05
+* [Pull Request] [fix(optimism): report and fill pending nonces on a node that forwards to the sequencer](https://github.com/NethermindEth/nethermind/pull/15655) - 2026-11-05
+* [Review] [Review on: fix(optimism): report and fill pending nonces on a node that forwards to the sequencer](https://github.com/NethermindEth/nethermind/pull/15655#pullrequestreview-5788869847) - 2026-11-05
+* [Pull Request] [fix(logindex): rebuild indexes predating canonical-only indexing](https://github.com/NethermindEth/nethermind/pull/15649) - 2026-11-05
+* [Pull Request] [fix(tracing): keep the JavaScript tracer V8 heap limit fixed](https://github.com/NethermindEth/nethermind/pull/15636) - 2026-11-05
+* [Pull Request] [fix(merge): check the parent of a proof-of-stake header even when its total difficulty is unknown](https://github.com/NethermindEth/nethermind/pull/15656) - 2026-11-05
+* [Pull Request] [fix(sync): count only stored snap bytecodes](https://github.com/NethermindEth/nethermind/pull/15654) - 2026-11-05
+* [Pull Request] [fix(rpc): reject ignored trace options and conflicting storage overrides](https://github.com/NethermindEth/nethermind/pull/15653) - 2026-11-05
+* [Pull Request] [test(fixtures): read over-wide transaction values in state tests](https://github.com/NethermindEth/nethermind/pull/15644) - 2026-11-05
+* [Review] [Review on: test(fixtures): read over-wide transaction values in state tests](https://github.com/NethermindEth/nethermind/pull/15644#pullrequestreview-5785351276) - 2026-11-05
+* [Review] [Review on: fix(evm): pay a destroyed gas beneficiary before destruction regardless of EIP-7708](https://github.com/NethermindEth/nethermind/pull/15598#pullrequestreview-5782268532) - 2026-11-05
+* [Review] [Review on: fix(specs): keep absent pre-merge forks off in geth genesis](https://github.com/NethermindEth/nethermind/pull/15553#pullrequestreview-5783510217) - 2026-11-05
+* [Review] [Review on: fix(debug): report transaction indexing during receipt backfill](https://github.com/NethermindEth/nethermind/pull/15612#pullrequestreview-5784272648) - 2026-11-05
+* [Review] [Review on: fix(debug): distinguish unavailable ByNumber trace tags](https://github.com/NethermindEth/nethermind/pull/15608#pullrequestreview-5785772507) - 2026-11-05
+* [Pull Request] [perf(rlp): stop boxing in generic null checks in Debug builds and Tier0](https://github.com/NethermindEth/nethermind/pull/15639) - 2026-11-05
+* [Review] [Review on: perf(rlp): stop boxing in generic null checks in Debug builds and Tier0](https://github.com/NethermindEth/nethermind/pull/15639#pullrequestreview-5782824171) - 2026-11-05
+* [Pull Request] [test(fixtures): fail when a fixture class finds no cases, and run or remove the classes that found none](https://github.com/NethermindEth/nethermind/pull/15645) - 2026-11-05
+* [Review] [Review on: test(fixtures): fail when a fixture class finds no cases, and run or remove the classes that found none](https://github.com/NethermindEth/nethermind/pull/15645#pullrequestreview-5785351788) - 2026-11-05
+* [Pull Request] [test(fixtures): run the legacy transition and VM fixture classes that found no files](https://github.com/NethermindEth/nethermind/pull/15641) - 2026-11-05
+* [Pull Request] [test(state): witness a warmed retirement before the warmer churn](https://github.com/NethermindEth/nethermind/pull/15633) - 2026-11-05
+* [Review] [Review on: test(state): witness a warmed retirement before the warmer churn](https://github.com/NethermindEth/nethermind/pull/15633#pullrequestreview-5781397511) - 2026-11-05
+* [Review] [Review on: fix(debug): suppress JS faults on depth-rejected CALL opcodes](https://github.com/NethermindEth/nethermind/pull/15622#pullrequestreview-5785598044) - 2026-11-05
+* [Commit] [perf(rlp): stop boxing in generic null checks in Debug builds and Tier0 (#15639)](https://github.com/NethermindEth/nethermind/commit/61928f4f8cdede002291c596f9fc97604923e26a) - 2026-11-05
+* [Commit] [test(state): witness a warmed retirement before the warmer churn (#15633)](https://github.com/NethermindEth/nethermind/commit/d3c532b94fdd6884848ca217f13f78e4f35f42a5) - 2026-11-05
+* [Commit] [fix(optimism): fill eth_sendTransaction nonces on a node that forwards to the sequencer (#15446)](https://github.com/NethermindEth/nethermind/commit/9192819f694a36ebc7d0ed3a9dcd4843c6b937a0) - 2026-11-05
+* [Commit] [perf(consensus)!: pass the next block's base fee to the tx filters with the call (#15442)](https://github.com/NethermindEth/nethermind/commit/f7ea09b117b91629f4bd943a753325bc75dfb409) - 2026-11-05
+* [Commit] [fix(rlp): stop boxing value-type elements in generic list null checks (#15613)](https://github.com/NethermindEth/nethermind/commit/3987c48d562b91b2b8b12626e1493e1636248489) - 2026-11-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

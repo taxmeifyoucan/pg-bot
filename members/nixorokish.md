@@ -43,6 +43,9 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Merge pull request #2263 from ethereum/nixorokish-patch-10](https://github.com/ethereum/pm/commit/549b3fc5e99985c7df0512b5b440b1aa593b32bc) - 2026-10-14
 
 * [Commit] [Merge pull request #2279 from lightclient/glamsterdam-hoodi-unix](https://github.com/ethereum/pm/commit/14e24a015779fa11af69a6b2d85d5c19d3433ca0) - 2026-10-19
+* [Pull Request] [Update current facilitators in README](https://github.com/ethereum/pm/pull/2296) - 2026-11-06
+* [Commit] [Merge pull request #2296 from ethereum/nixorokish-patch-11](https://github.com/ethereum/pm/commit/923ff80fc7d94ec76bc16431f825f0bc85e1157a) - 2026-11-06
+* [Commit] [Update current facilitators in README](https://github.com/ethereum/pm/commit/eece2b629ca0a0a8981a70ea95eb75322bff09bc) - 2026-11-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Butta (EthCoordinate)](https://github.com/protocolguild/documentation/pull/579) - 2026-10-14
 ## Q3 2026

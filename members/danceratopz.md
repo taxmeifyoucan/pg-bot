@@ -107,6 +107,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [clients/besu: load the KZG trusted setup in the background when HIVE_KZG_FAST_SETUP is 1](https://github.com/ethereum/hive/pull/1659) - 2026-11-04
 * [Commit] [clients/besu: load the KZG trusted setup in the background when HIVE_KZG_FAST_SETUP is 1 (#1659)](https://github.com/ethereum/hive/commit/1820201029eeee7fc89aa5e7f16433bc420cb05d) - 2026-11-04
 * [Commit] [clients/go-ethereum: only enable HIVE_EXPECT_DEEP_REORGS and HIVE_KZG_FAST_SETUP when set to 1 (#1655)](https://github.com/ethereum/hive/commit/b18037f2c010471b3d58aade4f165d510de59162) - 2026-11-04
+* [Commit] [clients: map and dump the genesis in one jq pass (#1652)](https://github.com/ethereum/hive/commit/71234e3ffb35525948522a1a25e14bd7afb2e342) - 2026-11-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 

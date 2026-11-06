@@ -61,6 +61,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor: import fs/promises functions by name (#10552)](https://github.com/ChainSafe/lodestar/commit/e1237a8b1d1db24bde904852a78c1c6b5188e4e0) - 2026-11-04
 * [Commit] [chore: drop unused node-gyp devDependency (#10551)](https://github.com/ChainSafe/lodestar/commit/a877514e67b6a661bd36aacffc01fef3d2f21e23) - 2026-11-04
 * [Commit] [chore: replace rimraf with fs.rm (#10541)](https://github.com/ChainSafe/lodestar/commit/6afc3c19f6790e06fd44f43201a9bc9853d9a682) - 2026-11-04
+* [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5780445113) - 2026-11-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

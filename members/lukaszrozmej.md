@@ -723,6 +723,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): re-encode only the branch slots that writes reached on the SP1 guest (#15457)](https://github.com/NethermindEth/nethermind/commit/04388235aecb8ae6ab32ac55bbc71a8f96bb1010) - 2026-11-04
 * [Commit] [perf(zkevm): hash each witness code while the SP1 guest moves it (#15370)](https://github.com/NethermindEth/nethermind/commit/583507a6e3a488ec5c84c30cd74020cc38e6ef53) - 2026-11-04
 * [Commit] [feat(zkevm): add an Airbender (RV32IM) stateless guest (#15278)](https://github.com/NethermindEth/nethermind/commit/a65d1a234c44cf9e14bf35bde7b8de7b1501353b) - 2026-11-04
+* [Pull Request] [fix(sync): do not hold back a block on a withheld optional block access list](https://github.com/NethermindEth/nethermind/pull/15658) - 2026-11-05
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

@@ -101,6 +101,7 @@ Team: Reth
 * [Review] [Review on: chore: replace Option matches with combinators](https://github.com/paradigmxyz/reth/pull/28274#pullrequestreview-5770358713) - 2026-11-04
 * [Review] [Review on: chore: drop redundant map_err(Into::into)](https://github.com/paradigmxyz/reth/pull/28273#pullrequestreview-5769991962) - 2026-11-04
 * [Review] [Review on: chore: move function-local `use`s to module scope](https://github.com/paradigmxyz/reth/pull/28270#pullrequestreview-5769121142) - 2026-11-04
+* [Commit] [refactor(evm): run Ethereum blocks on evm2::block (#28238)](https://github.com/paradigmxyz/reth/commit/2a343e40f9dda25b8fbc91ff47e30780523201cc) - 2026-11-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

@@ -33,6 +33,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: batch delete in kvt](https://github.com/status-im/nimbus-eth1/pull/4991#pullrequestreview-5556827533) - 2026-10-17
 * [Commit] [batch delete in kvt (#4991)](https://github.com/status-im/nimbus-eth1/commit/4faab0115fa80ce728454a3dfca49d69fe21f7e8) - 2026-10-18
 * [Review] [Review on: Time out rlpx transport sendMsg](https://github.com/status-im/nimbus-eth1/pull/5124#pullrequestreview-5734133441) - 2026-11-02
+* [Pull Request] [persist aristo frames into KVT](https://github.com/status-im/nimbus-eth1/pull/5104) - 2026-11-05
+* [Commit] [persist aristo frames into KVT (#5104)](https://github.com/status-im/nimbus-eth1/commit/1c7dad7d787669be31afd093bfbb073bb162f422) - 2026-11-05
 ## Q3 2026
 
 

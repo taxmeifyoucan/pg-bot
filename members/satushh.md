@@ -62,6 +62,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Fix `BeaconBlocksByRange` panic when the genesis block is pruned (#17817)](https://github.com/OffchainLabs/prysm/commit/153661c9223bd62f13f117c420b9e299137a9ebf) - 2026-11-04
 * [Commit] [Walk ancestors iteratively in `ancestorByDB` (#17823)](https://github.com/OffchainLabs/prysm/commit/f8076620d4de5530afd299095eb6b0b3ce1692a9) - 2026-11-04
 * [Commit] [Fix `time.Duration` overflow in `slots.StartTime` (#17822)](https://github.com/OffchainLabs/prysm/commit/16e7c4b9b3b1281e6e722a254641c1b5ddfa8b8c) - 2026-11-04
+* [Review] [Review on: Reject gossip messages whose snappy header claims a decoded length larger than the message can expand to.](https://github.com/OffchainLabs/prysm/pull/17840#pullrequestreview-5787701995) - 2026-11-05
+* [Review] [Review on: Release rate limiter lock before replying to rate-limited peers](https://github.com/OffchainLabs/prysm/pull/17828#pullrequestreview-5787952708) - 2026-11-05
+* [Commit] [Stop logging the signature of attestations refused by slashing protection (#17819)](https://github.com/OffchainLabs/prysm/commit/f3e4f4fb5505033267a9922c4d7b4cd6cee304d4) - 2026-11-05
 ## Q3 2026
 
 

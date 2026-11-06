@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611) - 2026-11-03
 * [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5756246570) - 2026-11-03
 * [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5772214700) - 2026-11-04
+* [Review] [Review on: Reject builder bids exceeding the slot’s blob limit](https://github.com/Consensys-Incorporated/teku/pull/11614#pullrequestreview-5793120737) - 2026-11-05
+* [Commit] [Keep doppelganger detection active when beacon node is unavailable (#11611)](https://github.com/Consensys-Incorporated/teku/commit/813dc01de5fd3fd2360e57a5e8e315b3376be61f) - 2026-11-05
 ## Q3 2026
 
 

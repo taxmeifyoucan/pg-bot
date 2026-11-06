@@ -197,6 +197,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Stop the default JVM options from starting JFR's event log (#11824)](https://github.com/besu-eth/besu/commit/9931d0acd5ea24cb860e1171ce7f9e33d54af022) - 2026-11-03
 * [Review] [Review on: Reject a block with invalid output before persisting its world state](https://github.com/besu-eth/besu/pull/11858#pullrequestreview-5772068639) - 2026-11-04
 * [Pull Request] [Fix evmtool's --fork and JSON output on EVM v2](https://github.com/besu-eth/besu/pull/11870) - 2026-11-04
+* [Pull Request] [Make EVM v2 calls without value cheaper](https://github.com/besu-eth/besu/pull/11872) - 2026-11-05
+* [Pull Request] [Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871) - 2026-11-05
+* [Commit] [EVM v2: split the loop to keep it within C2's inlining budget (#11687)](https://github.com/besu-eth/besu/commit/38b5a93d334af832642e468477cb1b972270ea39) - 2026-11-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

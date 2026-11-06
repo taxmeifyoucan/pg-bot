@@ -374,6 +374,44 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(config): complete process exit even when a cancellation callback throws (#15573)](https://github.com/NethermindEth/nethermind/commit/b15c4ad8aa47576322a357e77d31a9c6aa9dd388) - 2026-11-04
 * [Commit] [fix(rpc): return -32601 for methods in a disabled namespace (#15583)](https://github.com/NethermindEth/nethermind/commit/297b55b620d89f8d2e369d652cc555725ef29a1d) - 2026-11-04
 * [Commit] [fix(runner): log critical errors to the configured log file (#15570)](https://github.com/NethermindEth/nethermind/commit/0c66882235ccd0680c8532b4c08564deba6e4375) - 2026-11-04
+* [Review] [Review on: test(eip8141): restore frame-tx benchmark assertions after #14374 and #14265](https://github.com/NethermindEth/nethermind/pull/15646#pullrequestreview-5795102438) - 2026-11-06
+* [Review] [Review on: fix(sync): do not hold back a block on a withheld optional block access list](https://github.com/NethermindEth/nethermind/pull/15658#pullrequestreview-5794843721) - 2026-11-06
+* [Pull Request] [fix(evm): preserve native reverts and configurable precompile overrides](https://github.com/NethermindEth/nethermind/pull/15634) - 2026-11-05
+* [Review] [Review on: fix(evm): preserve native reverts and configurable precompile overrides](https://github.com/NethermindEth/nethermind/pull/15634#pullrequestreview-5782156712) - 2026-11-05
+* [Review] [Review on: fix(optimism): skip the EIP-3860 init code size check for deposits](https://github.com/NethermindEth/nethermind/pull/15663#pullrequestreview-5794841947) - 2026-11-06
+* [Review] [Review on: feat(daisugi-devnet): run the EIP-8288 devnet as a Kurtosis enclave](https://github.com/NethermindEth/nethermind/pull/15660#pullrequestreview-5795167250) - 2026-11-06
+* [Review] [Review on: perf(db): honor HintReadAhead on span-action reads](https://github.com/NethermindEth/nethermind/pull/15631#pullrequestreview-5780822970) - 2026-11-05
+* [Review] [Review on: docs(daisugi-devnet): add a quick start for a local playground](https://github.com/NethermindEth/nethermind/pull/15652#pullrequestreview-5795153450) - 2026-11-06
+* [Review] [Review on: ci(frame-tx): build the measurement harness with ICU on GCE runners](https://github.com/NethermindEth/nethermind/pull/15647#pullrequestreview-5795152067) - 2026-11-06
+* [Review] [Review on: test(eip8141): keep background JIT out of flood-cell baselines](https://github.com/NethermindEth/nethermind/pull/15648#pullrequestreview-5795128716) - 2026-11-06
+* [Review] [Review on: test(fixtures): report unreadable fixture files as failing cases](https://github.com/NethermindEth/nethermind/pull/15640#pullrequestreview-5787522305) - 2026-11-05
+* [Review] [Review on: fix(era): replace incomplete epoch exports and reject ambiguous era1 files](https://github.com/NethermindEth/nethermind/pull/15651#pullrequestreview-5795088943) - 2026-11-06
+* [Review] [Review on: fix(monitoring): isolate failures in periodic metric updates](https://github.com/NethermindEth/nethermind/pull/15650#pullrequestreview-5795087391) - 2026-11-06
+* [Review] [Review on: Preserve named block pruning, temporary status and genesis lookup precedence](https://github.com/NethermindEth/nethermind/pull/15628#pullrequestreview-5795085947) - 2026-11-06
+* [Review] [Review on: Register generated JSON metadata for traceCallMany result arrays](https://github.com/NethermindEth/nethermind/pull/15630#pullrequestreview-5795084573) - 2026-11-06
+* [Review] [Review on: fix(optimism): report and fill pending nonces on a node that forwards to the sequencer](https://github.com/NethermindEth/nethermind/pull/15655#pullrequestreview-5795083058) - 2026-11-06
+* [Review] [Review on: fix(logindex): rebuild indexes predating canonical-only indexing](https://github.com/NethermindEth/nethermind/pull/15649#pullrequestreview-5795081363) - 2026-11-06
+* [Review] [Review on: fix(tracing): keep the JavaScript tracer V8 heap limit fixed](https://github.com/NethermindEth/nethermind/pull/15636#pullrequestreview-5787255342) - 2026-11-05
+* [Review] [Review on: fix(merge): check the parent of a proof-of-stake header even when its total difficulty is unknown](https://github.com/NethermindEth/nethermind/pull/15656#pullrequestreview-5795078628) - 2026-11-06
+* [Review] [Review on: fix(sync): count only stored snap bytecodes](https://github.com/NethermindEth/nethermind/pull/15654#pullrequestreview-5794879369) - 2026-11-06
+* [Review] [Review on: fix(rpc): reject ignored trace options and conflicting storage overrides](https://github.com/NethermindEth/nethermind/pull/15653#pullrequestreview-5794878109) - 2026-11-06
+* [Review] [Review on: test(fixtures): read over-wide transaction values in state tests](https://github.com/NethermindEth/nethermind/pull/15644#pullrequestreview-5787668865) - 2026-11-05
+* [Review] [Review on: refactor(xdc): serialize consensus messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15659#pullrequestreview-5793967356) - 2026-11-06
+* [Pull Request] [fix(runner): use --db-dir as the database directory over the data dir default](https://github.com/NethermindEth/nethermind/pull/15569) - 2026-11-05
+* [Review] [Review on: fix(runner): use --db-dir as the database directory over the data dir default](https://github.com/NethermindEth/nethermind/pull/15569#pullrequestreview-5791189721) - 2026-11-05
+* [Review] [Review on: fix(evm): pay a destroyed gas beneficiary before destruction regardless of EIP-7708](https://github.com/NethermindEth/nethermind/pull/15598#pullrequestreview-5791190642) - 2026-11-05
+* [Pull Request] [fix(specs): keep absent pre-merge forks off in geth genesis](https://github.com/NethermindEth/nethermind/pull/15553) - 2026-11-05
+* [Review] [Review on: perf(rlp): stop boxing in generic null checks in Debug builds and Tier0](https://github.com/NethermindEth/nethermind/pull/15639#pullrequestreview-5787567798) - 2026-11-05
+* [Review] [Review on: test(fixtures): fail when a fixture class finds no cases, and run or remove the classes that found none](https://github.com/NethermindEth/nethermind/pull/15645#pullrequestreview-5787766176) - 2026-11-05
+* [Review] [Review on: test(fixtures): run the legacy transition and VM fixture classes that found no files](https://github.com/NethermindEth/nethermind/pull/15641#pullrequestreview-5787596838) - 2026-11-05
+* [Review] [Review on: test(state): witness a warmed retirement before the warmer churn](https://github.com/NethermindEth/nethermind/pull/15633#pullrequestreview-5787389378) - 2026-11-05
+* [Review] [Review on: fix(tracing): refuse intermediate roots over trie-less historical state](https://github.com/NethermindEth/nethermind/pull/15619#pullrequestreview-5787521780) - 2026-11-05
+* [Review] [Review on: fix(debug): suppress JS faults on depth-rejected CALL opcodes](https://github.com/NethermindEth/nethermind/pull/15622#pullrequestreview-5787417760) - 2026-11-05
+* [Commit] [fix(runner): use --db-dir as the database directory over the data dir default (#15569)](https://github.com/NethermindEth/nethermind/commit/41240b0ec7db1cc39c9d24ef0d233729b2e0510e) - 2026-11-05
+* [Commit] [fix(evm): pay a destroyed gas beneficiary before destruction regardless of EIP-7708 (#15598)](https://github.com/NethermindEth/nethermind/commit/246b87193269ad11fc8d84e88a507137249916ff) - 2026-11-05
+* [Commit] [fix(specs): keep absent pre-merge forks off in geth genesis (#15553)](https://github.com/NethermindEth/nethermind/commit/5a09cfc918ffc6a1f51c5d32d31a47cf5ab785f2) - 2026-11-05
+* [Commit] [fix(txpool): surface transactions the fork revalidation pass drops as evicted (#15560)](https://github.com/NethermindEth/nethermind/commit/6b4be49a4fefcbb7350be65052388d8e519003cd) - 2026-11-05
+* [Commit] [perf(ci): shorten the PR critical path and fix GCP runner teardown (#15565)](https://github.com/NethermindEth/nethermind/commit/c02f6c6ed4f7b7366c4a655728b9e228be9ebe7f) - 2026-11-05
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

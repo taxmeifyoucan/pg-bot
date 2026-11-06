@@ -351,6 +351,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: check best bid before state regen in bid gossip validation (#10547)](https://github.com/ChainSafe/lodestar/commit/0b0a00b83616a351f6f9468c2a8a2d120750429a) - 2026-11-04
 * [Commit] [fix: add additional checks before block packing (#10536)](https://github.com/ChainSafe/lodestar/commit/5619357e9316bea74a908089f3eeac7f28938773) - 2026-11-04
 * [Commit] [chore: use classic-level prebuilds instead of compiling on install (#10543)](https://github.com/ChainSafe/lodestar/commit/fac22802f64e130a4c8156751b7b229709b35e68) - 2026-11-04
+* [Review] [Review on: chore: remove blob related code](https://github.com/ChainSafe/lodestar/pull/9957#pullrequestreview-5781450446) - 2026-11-05
+* [Pull Request] [feat: pre-verify deposit signatures in zig](https://github.com/ChainSafe/lodestar/pull/10556) - 2026-11-05
+* [Review] [Review on: fix: hide libp2p Identify version on mainnet](https://github.com/ChainSafe/lodestar/pull/10538#pullrequestreview-5789499811) - 2026-11-05
+* [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5780215700) - 2026-11-05
+* [Pull Request] [chore(ci): run benchmarks nightly instead of on every PR](https://github.com/ChainSafe/lodestar/pull/10557) - 2026-11-05
+* [Review] [Review on: test: avoid ephemeral port collisions in voluntary exit API e2e](https://github.com/ChainSafe/lodestar/pull/10537#pullrequestreview-5780546722) - 2026-11-05
+* [Review] [Review on: fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485#pullrequestreview-5780279251) - 2026-11-05
+* [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-5780408099) - 2026-11-05
+* [Review] [Review on: refactor: import fs/promises functions by name](https://github.com/ChainSafe/lodestar/pull/10552#pullrequestreview-5780347476) - 2026-11-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -368,6 +377,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Round slot component durations to the nearest millisecond (#5756)](https://github.com/ethereum/consensus-specs/commit/3dad3d5183756fc64c51e73d8b21026dd2330f22) - 2026-10-23
 * [Pull Request] [Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802) - 2026-11-04
 * [Pull Request] [Only propagate execution payload bids a proposer can still select](https://github.com/ethereum/consensus-specs/pull/5803) - 2026-11-04
+* [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802#pullrequestreview-5781631210) - 2026-11-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

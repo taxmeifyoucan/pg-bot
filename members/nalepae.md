@@ -134,6 +134,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix various active-active REST VC issues (#17806)](https://github.com/OffchainLabs/prysm/commit/8850547520b379642c9aaabc9a2b27b68b6df4f0) - 2026-11-04
 * [Commit] [Share the expected proposer computation across all data column sidecars of a block, instead of retrieving a verifying state for each sidecar. (#17776)](https://github.com/OffchainLabs/prysm/commit/0b5a9304ff7b92a8c0b7cfb452534c5c893542ef) - 2026-11-04
 * [Commit] [Stop logging `Could not notify event feed of new chain head{_v2}` errors right after a checkpoint sync, while the head is still in the origin epoch. (#17815)](https://github.com/OffchainLabs/prysm/commit/a752fc664ac1f7681c2ac1db988892ad456dbf0e) - 2026-11-04
+* [Review] [Review on: Remove legacy go build tags](https://github.com/OffchainLabs/prysm/pull/17797#pullrequestreview-5783086363) - 2026-11-05
+* [Pull Request] [Request a missing block only from the peer that referenced it (the gossip sender, or the peer serving its child), once, and downscore that peer if it does not serve it.](https://github.com/OffchainLabs/prysm/pull/17841) - 2026-11-05
+* [Review] [Review on: Acknowledge attestation saves only after their own record is written](https://github.com/OffchainLabs/prysm/pull/17834#pullrequestreview-5788262226) - 2026-11-05
+* [Pull Request] [Do not fetch data column sidecars for blocks received by root before they are validated.](https://github.com/OffchainLabs/prysm/pull/17839) - 2026-11-05
+* [Pull Request] [Reject gossip messages whose snappy header claims a decoded length larger than the message can expand to.](https://github.com/OffchainLabs/prysm/pull/17840) - 2026-11-05
+* [Pull Request] [Log streaming no longer blocks the logger.](https://github.com/OffchainLabs/prysm/pull/17838) - 2026-11-05
+* [Review] [Review on: Release rate limiter lock before replying to rate-limited peers](https://github.com/OffchainLabs/prysm/pull/17828#pullrequestreview-5786194993) - 2026-11-05
+* [Commit] [Reject gossip messages whose snappy header claims a decoded length larger than the message can expand to. (#17840)](https://github.com/OffchainLabs/prysm/commit/eb3a4dc0c10f1606fb57ceaa062d3f1a5467900b) - 2026-11-05
+* [Commit] [Log streaming no longer blocks the logger. (#17838)](https://github.com/OffchainLabs/prysm/commit/c25f7e8fa9c38b7b6770d2074459085f61978955) - 2026-11-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

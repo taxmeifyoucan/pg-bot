@@ -99,6 +99,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [[do not merge] CI cache timing probe](https://github.com/ethpandaops/xatu/pull/942) - 2026-11-03
 * [Commit] [ci: drop the gha layer cache from the smoke tests (#943)](https://github.com/ethpandaops/xatu/commit/094c0a43e55ff875831e6a675c9506877bbb051b) - 2026-11-03
 * [Commit] [ci: fix cryo and Go build cache misses in PR workflows (#941)](https://github.com/ethpandaops/xatu/commit/775400cdde3943bd76aa9c770a5a7409226d5460) - 2026-11-03
+* [Pull Request] [feat(clickhouse): record graffiti on beacon_api_eth_v2_beacon_block](https://github.com/ethpandaops/xatu/pull/944) - 2026-11-06
+* [Commit] [feat(clickhouse): record graffiti on beacon_api_eth_v2_beacon_block (#944)](https://github.com/ethpandaops/xatu/commit/9fd3faef34b1f84279e3630d61388d0d69ddd877) - 2026-11-06
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -256,6 +258,66 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(nav): drop the home blocks list and the orphaned experiments page (#497)](https://github.com/ethpandaops/lab/commit/62aea60f9fe5a250b17b5b5bef8b216fc576673b) - 2026-11-04
 * [Commit] [fix(clients): drop the per-block list from the clients overview (#496)](https://github.com/ethpandaops/lab/commit/390321301ce4e9bd7153788b15d8b6664681a44f) - 2026-11-04
 * [Commit] [fix(clients): share bars take each client's colour; entity charts are daily (#495)](https://github.com/ethpandaops/lab/commit/366f071e86d40f75fdea5b506b98aa2d983efc41) - 2026-11-04
+* [Pull Request] [feat(custody): availability by slot age beside the custody grid](https://github.com/ethpandaops/lab/pull/548) - 2026-11-06
+* [Pull Request] [fix(custody): drop the gossip caveat now the grid counts custody probes only](https://github.com/ethpandaops/lab/pull/546) - 2026-11-06
+* [Pull Request] [feat(payloads): open slowest first within a bounded window; live mode goes](https://github.com/ethpandaops/lab/pull/547) - 2026-11-06
+* [Pull Request] [fix(charts): heatmap drops series removed from its option](https://github.com/ethpandaops/lab/pull/545) - 2026-11-06
+* [Pull Request] [fix(validators): inspect data runs to yesterday and activity to now](https://github.com/ethpandaops/lab/pull/544) - 2026-11-06
+* [Pull Request] [fix(lab): no open primary-key ranges: newest-first pages read widening windows](https://github.com/ethpandaops/lab/pull/543) - 2026-11-06
+* [Pull Request] [feat(partial-columns): slowest blocks replace the per-block table](https://github.com/ethpandaops/lab/pull/542) - 2026-11-06
+* [Pull Request] [fix(gas-profiler): one per-opcode table, Calls everywhere, block page links its slot](https://github.com/ethpandaops/lab/pull/541) - 2026-11-06
+* [Pull Request] [fix(probes): look up a slot in the slot-ordered probe table](https://github.com/ethpandaops/lab/pull/540) - 2026-11-06
+* [Pull Request] [feat(clients): merge versions and releases, link proposers to slots, comparison on the overview](https://github.com/ethpandaops/lab/pull/539) - 2026-11-06
+* [Pull Request] [feat(xatu): fold geo checklist, contributors and node resources into Xatu nodes](https://github.com/ethpandaops/lab/pull/538) - 2026-11-06
+* [Pull Request] [feat(forks): the fork page is the one readiness view](https://github.com/ethpandaops/lab/pull/537) - 2026-11-06
+* [Pull Request] [feat(validators): proposer reward moves to validators; duty performance and offline validators grid go](https://github.com/ethpandaops/lab/pull/536) - 2026-11-06
+* [Pull Request] [feat(nav): Network group for entities, clients and forks; local blocks move to execution](https://github.com/ethpandaops/lab/pull/533) - 2026-11-06
+* [Pull Request] [fix(custody): say the availability grid counts gossip sightings as available](https://github.com/ethpandaops/lab/pull/534) - 2026-11-06
+* [Pull Request] [docs(llms): ask agents for a bounded primary-key window](https://github.com/ethpandaops/lab/pull/535) - 2026-11-06
+* [Pull Request] [fix(validators): hide Inspect validators on mainnet](https://github.com/ethpandaops/lab/pull/532) - 2026-11-06
+* [Pull Request] [fix: Xatu node copy, 390px fits and latest-day On latest on proposers](https://github.com/ethpandaops/lab/pull/531) - 2026-11-05
+* [Pull Request] [feat: weekly and entity group rollups at All on custody, clients, gas profiler and performance](https://github.com/ethpandaops/lab/pull/530) - 2026-11-05
+* [Pull Request] [feat(xatu): Xatu nodes, node detail and contributor timings default to All on the weekly and network rollups](https://github.com/ethpandaops/lab/pull/529) - 2026-11-05
+* [Pull Request] [fix: activity to range end, finalized slot txs, selected range in view and version bars at 390px](https://github.com/ethpandaops/lab/pull/528) - 2026-11-05
+* [Pull Request] [fix(xatu): contributors, geo checklist and locally built blocks default to All](https://github.com/ethpandaops/lab/pull/527) - 2026-11-05
+* [Pull Request] [fix(execution-overview): shared UTC time axis, All loads, receipt size and opcodes/s move here](https://github.com/ethpandaops/lab/pull/526) - 2026-11-05
+* [Pull Request] [fix(validators): inspect page defaults to All and loads big sets in fewer requests](https://github.com/ethpandaops/lab/pull/525) - 2026-11-05
+* [Pull Request] [fix(clients): ranges and windows default to All, keep content on range change](https://github.com/ethpandaops/lab/pull/524) - 2026-11-05
+* [Pull Request] [feat(execution): ranges default to All on the gas profiler, state growth, performance, timings and payloads](https://github.com/ethpandaops/lab/pull/522) - 2026-11-05
+* [Pull Request] [fix(slots,data-availability): slots page back to genesis; partial columns and probes default to All](https://github.com/ethpandaops/lab/pull/521) - 2026-11-05
+* [Pull Request] [fix(timings): one execution winrate per node class](https://github.com/ethpandaops/lab/pull/523) - 2026-11-05
+* [Pull Request] [fix(entities): Clients tab reads only the window; expanded Lido row fits 390px](https://github.com/ethpandaops/lab/pull/520) - 2026-11-05
+* [Pull Request] [feat(entities): Lido always grouped, its operators in an expandable row; ranges default to All](https://github.com/ethpandaops/lab/pull/519) - 2026-11-05
+* [Commit] [feat(custody): availability by slot age beside the custody grid (#548)](https://github.com/ethpandaops/lab/commit/99d0e8ee6ad1d87d50d7043ac4b6313a92257595) - 2026-11-06
+* [Commit] [fix(custody): drop the gossip caveat now the grid counts custody probes only (#546)](https://github.com/ethpandaops/lab/commit/f15d3919625b9c268174b982e67f8e7d8fefb11f) - 2026-11-06
+* [Commit] [feat(payloads): open slowest first within a bounded window; live mode goes (#547)](https://github.com/ethpandaops/lab/commit/00c41f3c0123af6f516434586a583acec29c28c3) - 2026-11-06
+* [Commit] [fix(charts): heatmap drops series removed from its option (#545)](https://github.com/ethpandaops/lab/commit/d3382f1b1adec89d8e369d584f1df18cd9f69802) - 2026-11-06
+* [Commit] [fix(lab): no open primary-key ranges: newest-first pages read widening windows (#543)](https://github.com/ethpandaops/lab/commit/2ad18796ff03a3b6fdc8e33704bf613beee0968b) - 2026-11-06
+* [Commit] [fix(validators): inspect data runs to yesterday and activity to now (#544)](https://github.com/ethpandaops/lab/commit/236c27d56c64fca8278da0e88c84f7b2b40fb5f6) - 2026-11-06
+* [Commit] [feat(partial-columns): slowest blocks replace the per-block table (#542)](https://github.com/ethpandaops/lab/commit/70eb18af3df84d80e434af9b9222c15b0ab0524e) - 2026-11-06
+* [Commit] [fix(gas-profiler): one per-opcode table, Calls everywhere, block page links its slot (#541)](https://github.com/ethpandaops/lab/commit/4e6f73f02434fb96483462b8c0f2e09c2d5107a7) - 2026-11-06
+* [Commit] [fix(probes): look up a slot in the slot-ordered probe table (#540)](https://github.com/ethpandaops/lab/commit/4c077c1355c406baa7e0d2a2b584b40be9c8ea60) - 2026-11-06
+* [Commit] [feat(clients): merge versions and releases, link proposers to slots, comparison on the overview (#539)](https://github.com/ethpandaops/lab/commit/468bbd1793cd82b73f593141fdd6b18765dd3530) - 2026-11-06
+* [Commit] [feat(xatu): fold geo checklist, contributors and node resources into Xatu nodes (#538)](https://github.com/ethpandaops/lab/commit/9295a5983848546ff253646ea810f2d0fae9dd3d) - 2026-11-06
+* [Commit] [feat(forks): the fork page is the one readiness view (#537)](https://github.com/ethpandaops/lab/commit/79c9ea9cc3992875ea3068ac9c1bf5baa5d208c1) - 2026-11-06
+* [Commit] [feat(validators): proposer reward moves to validators; duty performance and offline validators grid go (#536)](https://github.com/ethpandaops/lab/commit/7bfa2f8c2bb8e1f949e8bdd0877b0ff522f3e295) - 2026-11-06
+* [Commit] [feat(nav): Network group for entities, clients and forks; local blocks move to execution (#533)](https://github.com/ethpandaops/lab/commit/da839a265f280e1fa8575a4d136fbb6ecb112881) - 2026-11-06
+* [Commit] [fix(custody): say the availability grid counts gossip sightings as available (#534)](https://github.com/ethpandaops/lab/commit/7a881ee153d86c3b5228d96f307b57c192d0f199) - 2026-11-06
+* [Commit] [docs(llms): ask agents for a bounded primary-key window (#535)](https://github.com/ethpandaops/lab/commit/4f642b6c544ad67646a8af6ed450d4f834af97d3) - 2026-11-06
+* [Commit] [fix(validators): hide Inspect validators on mainnet (#532)](https://github.com/ethpandaops/lab/commit/d0be42e813407be5823ffcc10acd3fe0ba31b784) - 2026-11-06
+* [Commit] [fix: Xatu node copy, 390px fits and latest-day On latest on proposers (#531)](https://github.com/ethpandaops/lab/commit/e53bcb518faf6a6a21e24bbc4ffb3bc20df88763) - 2026-11-05
+* [Commit] [feat: weekly and entity group rollups at All on custody, clients, gas profiler and performance (#530)](https://github.com/ethpandaops/lab/commit/ee617036b485b7d885561914aabe56476bdeaeb2) - 2026-11-05
+* [Commit] [feat(xatu): Xatu nodes, node detail and contributor timings default to All on the weekly and network rollups (#529)](https://github.com/ethpandaops/lab/commit/e801b02bf28156eb2789e8b43ddcf2b9d121e46c) - 2026-11-05
+* [Commit] [fix: activity to range end, finalized slot txs, selected range in view and version bars at 390px (#528)](https://github.com/ethpandaops/lab/commit/dccc5a20b0632c1771823d5934d9aa4263ca49b3) - 2026-11-05
+* [Commit] [fix(xatu): contributors, geo checklist and locally built blocks default to All (#527)](https://github.com/ethpandaops/lab/commit/281a9b16e3b4fe8979ba705ca336411e4d8645b2) - 2026-11-05
+* [Commit] [fix(execution-overview): shared UTC time axis, All loads, receipt size and opcodes/s move here (#526)](https://github.com/ethpandaops/lab/commit/a5906f6eb7f7a52810691fa442dfd048681c4688) - 2026-11-05
+* [Commit] [fix(validators): inspect page defaults to All and loads big sets in fewer requests (#525)](https://github.com/ethpandaops/lab/commit/63cec5177545f630012f8c1b7740b47e9062c035) - 2026-11-05
+* [Commit] [fix(clients): ranges and windows default to All, keep content on range change (#524)](https://github.com/ethpandaops/lab/commit/93dd45c3ec289f9641d175acc4df82dec6713b13) - 2026-11-05
+* [Commit] [feat(execution): ranges default to All on the gas profiler, state growth, performance, timings and payloads (#522)](https://github.com/ethpandaops/lab/commit/d5fd875304f284146ecd7d88fda1716ec20fb88e) - 2026-11-05
+* [Commit] [fix(slots,data-availability): slots page back to genesis; partial columns and probes default to All (#521)](https://github.com/ethpandaops/lab/commit/20feaaac8d6e608731c934b66e4df95e3a051add) - 2026-11-05
+* [Commit] [fix(timings): one execution winrate per node class (#523)](https://github.com/ethpandaops/lab/commit/d34720a4d72c7d6b254f1eeecf8d6b2e07f03564) - 2026-11-05
+* [Commit] [fix(entities): Clients tab reads only the window; expanded Lido row fits 390px (#520)](https://github.com/ethpandaops/lab/commit/0993f68591a4e4ba593103d65130a9df9057f2f7) - 2026-11-05
+* [Commit] [feat(entities): Lido always grouped, its operators in an expandable row; ranges default to All (#519)](https://github.com/ethpandaops/lab/commit/cabf5be366726b5560a51820913f98559aad4fbd) - 2026-11-05
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

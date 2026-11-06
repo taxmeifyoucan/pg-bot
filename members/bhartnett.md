@@ -63,6 +63,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Time out rlpx transport sendMsg (#5124)](https://github.com/status-im/nimbus-eth1/commit/a66ea6134f1aca5b31a223415a164e49a517e782) - 2026-11-02
 * [Pull Request] [Update nim-eth to latest and remove deprecated imports](https://github.com/status-im/nimbus-eth1/pull/5133) - 2026-11-04
 * [Commit] [Update nim-eth to latest and remove deprecated imports (#5133)](https://github.com/status-im/nimbus-eth1/commit/249e34c81fac7ef68488780f5396933ed992fc22) - 2026-11-05
+* [Pull Request] [Borrow call data instead of copying it into each message](https://github.com/status-im/nimbus-eth1/pull/5137) - 2026-11-05
+* [Pull Request] [Use manually allocated EVM memory](https://github.com/status-im/nimbus-eth1/pull/5135) - 2026-11-05
+* [Commit] [Borrow call data instead of copying it into each message (#5137)](https://github.com/status-im/nimbus-eth1/commit/12f82df43cdff3afaa32d05c2df4bda02dabd65f) - 2026-11-06
+* [Commit] [Use manually allocated EVM memory (#5135)](https://github.com/status-im/nimbus-eth1/commit/0507c2cffe713ab93248826a72a7cefe842c31b5) - 2026-11-05
 ## Q3 2026
 
 

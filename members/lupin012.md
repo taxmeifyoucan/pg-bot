@@ -149,6 +149,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [db/state: seek in inverted index files (#25748)](https://github.com/erigontech/erigon/commit/47fa76d91e6a4b89c60e22733c4e22b04a2969cc) - 2026-11-05
 * [Commit] [common/hexutil, cmd/rpcdaemon/graphql: format U256 and chainID with the shared hex routines (#25780)](https://github.com/erigontech/erigon/commit/1b79de8837e9365475208d6fddd98107af41fe56) - 2026-11-05
 * [Commit] [rlp: advance byte-backed Stream by offset (#25659)](https://github.com/erigontech/erigon/commit/a80c005240ad4eeba7c2430a4190d60f17c2d36d) - 2026-11-04
+* [Pull Request] [.github/workflows: drop Nethermind from QA - RPC Integration Tests (Other Clients)](https://github.com/erigontech/erigon/pull/25812) - 2026-11-05
+* [Review] [Review on: rlp, types: parse stored logs in place](https://github.com/erigontech/erigon/pull/25399#pullrequestreview-5780534918) - 2026-11-05
+* [Commit] [.github/workflows: select the RPC load pattern in QA - RPC Performance Tests Latest (#25779)](https://github.com/erigontech/erigon/commit/3940aba1e02824266aae3d8966c022b2cfd034db) - 2026-11-05
+* [Commit] [execution/state, execution/cache, execution/execmodule, rpc/jsonrpc: RPC replays share committed code by hash (#25743)](https://github.com/erigontech/erigon/commit/d1d5450826bc72cabb5fc3121ab810fe54d8e9c3) - 2026-11-05
+* [Commit] [execution/tracing/tracers/logger: keep the stack's JSON between struct-log steps (#25777)](https://github.com/erigontech/erigon/commit/90eb3a94b79a3e9c66ed949ec973aa3ec0feaa7d) - 2026-11-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -214,6 +219,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [perf: describe a JSONL pattern in an optional header line](https://github.com/erigontech/rpc-tests/pull/649) - 2026-11-03
 * [Pull Request] [rpc_pattern_gen: a subcommand for every method, and tag=latest for the block lookups](https://github.com/erigontech/rpc-tests/pull/651) - 2026-11-04
 * [Review] [Review on: integration: erigon_getLatestLogs returns block-level logIndex, as eth_getLogs](https://github.com/erigontech/rpc-tests/pull/650#pullrequestreview-5764091249) - 2026-11-04
+* [Commit] [rpc_pattern_gen: a subcommand for every method, and tag=latest for the block lookups (#651)](https://github.com/erigontech/rpc-tests/commit/3e69e755f9cf275a54216604e3f78c6e014196a4) - 2026-11-05
+* [Commit] [perf: describe a JSONL pattern in an optional header line (#649)](https://github.com/erigontech/rpc-tests/commit/e45b930f0ef7cabb2a241a28b8cae4ff120a75b1) - 2026-11-05
 ## Q3 2026
 
 

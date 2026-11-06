@@ -66,6 +66,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add initial fork choice specs for decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791#pullrequestreview-5726311466) - 2026-11-01
 * [Review] [Review on: Add post-quantum consensus key registry (EIP-8450)](https://github.com/ethereum/consensus-specs/pull/5782#pullrequestreview-5732359101) - 2026-11-02
 * [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802#pullrequestreview-5778489140) - 2026-11-05
+* [Pull Request] [Allow builders to submit one bid per staked ETH](https://github.com/ethereum/consensus-specs/pull/5805) - 2026-11-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

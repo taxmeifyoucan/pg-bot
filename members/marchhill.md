@@ -258,6 +258,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: move benchmark protocols to an asset](https://github.com/ethereum/EIPs/pull/12524) - 2026-10-15
 * [Pull Request] [Update EIP-8288: reserve the zero data_hash for the signature hash](https://github.com/ethereum/EIPs/pull/12518) - 2026-10-15
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5587550301) - 2026-10-20
+* [Pull Request] [Update EIP-8288: aggregate only executable transactions](https://github.com/ethereum/EIPs/pull/12628) - 2026-11-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

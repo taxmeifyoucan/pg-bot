@@ -297,6 +297,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution, txpool: replace AA with EIP-8141 frames and EIP-8250 keyed nonces (#25243)](https://github.com/erigontech/erigon/commit/2e2fea3e29fd55baf24f76e0342bea74ab54d136) - 2026-11-04
 * [Commit] [rpc: reject out-of-range historical transaction indices (#24388)](https://github.com/erigontech/erigon/commit/a55ff4d6bda0fa921a226f66d82a80f28eb47015) - 2026-11-04
 * [Commit] [p2p/sentry: rate-limit inbound header requests (#25732)](https://github.com/erigontech/erigon/commit/f8f07dd889be5034c815cbaaa8df5957480c7466) - 2026-11-04
+* [Review] [Review on: execution/state: markComplete assert ignores the account Root](https://github.com/erigontech/erigon/pull/25789#pullrequestreview-5784743950) - 2026-11-05
+* [Pull Request] [.github: update code owners](https://github.com/erigontech/erigon/pull/25813) - 2026-11-05
+* [Review] [Review on: execution/state: read a version-map account under one lock](https://github.com/erigontech/erigon/pull/25770#pullrequestreview-5785195220) - 2026-11-05
+* [Pull Request] [execution/tests: handle partial receipt replies in TestGenerateChain](https://github.com/erigontech/erigon/pull/25811) - 2026-11-05
+* [Review] [Review on: execution/stagedsync: validate every arrival again](https://github.com/erigontech/erigon/pull/25798#pullrequestreview-5787015701) - 2026-11-05
+* [Commit] [.github: update code owners (#25813)](https://github.com/erigontech/erigon/commit/84979ac2887a68c2c19617daeabac5ab0159b23d) - 2026-11-05
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

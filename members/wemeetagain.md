@@ -113,6 +113,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: add additional checks before block packing](https://github.com/ChainSafe/lodestar/pull/10536#pullrequestreview-5764056570) - 2026-11-04
 * [Review] [Review on: chore: use classic-level prebuilds instead of compiling on install](https://github.com/ChainSafe/lodestar/pull/10543#pullrequestreview-5763966238) - 2026-11-04
 * [Pull Request] [chore(ci): pin native portability to Ubuntu 24.04](https://github.com/ChainSafe/lodestar/pull/10542) - 2026-11-04
+* [Review] [Review on: ci: publish fuzz image as lodestar-fuzz](https://github.com/ChainSafe/lodestar/pull/10559#pullrequestreview-5795789738) - 2026-11-06
+* [Review] [Review on: chore: remove blob related code](https://github.com/ChainSafe/lodestar/pull/9957#pullrequestreview-5781060823) - 2026-11-05
+* [Review] [Review on: fix: hide libp2p Identify version on mainnet](https://github.com/ChainSafe/lodestar/pull/10538#pullrequestreview-5780601285) - 2026-11-05
+* [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5781257229) - 2026-11-05
+* [Review] [Review on: feat: allow nested compatible unions](https://github.com/ChainSafe/lodestar/pull/10553#pullrequestreview-5780696940) - 2026-11-05
+* [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5780457353) - 2026-11-05
+* [Review] [Review on: perf: reuse epoch transition buffers](https://github.com/ChainSafe/lodestar/pull/10523#pullrequestreview-5780209580) - 2026-11-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

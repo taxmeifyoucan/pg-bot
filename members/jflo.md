@@ -62,6 +62,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Reject trailing data on compacted receipts from a peer (GHSA-mp5j-q856-vvx7) (#233)](https://github.com/besu-eth/besu/commit/d266aa87139fe226b17fe9f579e2b19e2ca1ed59) - 2026-11-02
 * [Commit] [Bound per-account EIP-7928 slot tracking against chosen-hash collisions (#144)](https://github.com/besu-eth/besu/commit/51e31dfe95de0752b6c02cb34a80d0ee91ff0a6b) - 2026-11-02
 * [Issue] [Flaky acceptance test: BftMiningAcceptanceTest_Part3.shouldStillMineWhenANonProposerNodeFailsAndHasSufficientValidators](https://github.com/besu-eth/besu/issues/11869) - 2026-11-04
+* [Review] [Review on: Update Docker base images (Ubuntu 24.04, Temurin 25.0.5) and disable apt retries to mitigate CVE-2026-109518](https://github.com/besu-eth/besu/pull/11874#pullrequestreview-5787843739) - 2026-11-05
+* [Review] [Review on: Use block and receipts caches in `DefaultBlockchain.getBlockWithReceipts`](https://github.com/besu-eth/besu/pull/11765#pullrequestreview-5789053686) - 2026-11-05
+* [Review] [Review on: Give the Engine API its own Vert.x instance and worker pool](https://github.com/besu-eth/besu/pull/11764#pullrequestreview-5789010361) - 2026-11-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026

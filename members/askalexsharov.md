@@ -649,6 +649,50 @@ Team: Erigon
 * [Commit] [receipts: replay pre-Byzantium receipt roots on NoMaterialize (#25747)](https://github.com/erigontech/erigon/commit/247c01f59e273982f08f0b26d79af3a29ec2f52a) - 2026-11-04
 * [Commit] [rpc: simulated-backend calls and stateDiff baselines on NoMaterialize (#25750)](https://github.com/erigontech/erigon/commit/aa5adb1897d95f6b8aae3887e085ff33bf96e076) - 2026-11-04
 * [Commit] [execution/state: mark created accounts Done under the read lock (#25734)](https://github.com/erigontech/erigon/commit/201357a719785c3f9f1b2b85c08a60294e779a10) - 2026-11-04
+* [Pull Request] [execution/state: markComplete assert ignores the account Root](https://github.com/erigontech/erigon/pull/25789) - 2026-11-05
+* [Review] [Review on: execution/state: markComplete assert ignores the account Root](https://github.com/erigontech/erigon/pull/25789#pullrequestreview-5784780197) - 2026-11-05
+* [Pull Request] [execution/stagedsync: prefetch a BAL block's base accounts for commit](https://github.com/erigontech/erigon/pull/25804) - 2026-11-05
+* [Review] [Review on: execution/stagedsync: prefetch a BAL block's base accounts for commit](https://github.com/erigontech/erigon/pull/25804#pullrequestreview-5795699402) - 2026-11-06
+* [Pull Request] [execution/execmodule, db/snapshotsync: leak tests reach a block merge](https://github.com/erigontech/erigon/pull/25825) - 2026-11-06
+* [Review] [Review on: execution/execmodule, db/snapshotsync: leak tests reach a block merge](https://github.com/erigontech/erigon/pull/25825#pullrequestreview-5795687644) - 2026-11-06
+* [Review] [Review on: cl/beacon/handler: publish a POSTed Gloas envelope's columns before storing them, verify blob bundles per blob in parallel](https://github.com/erigontech/erigon/pull/25710#pullrequestreview-5794730761) - 2026-11-06
+* [Pull Request] [node/eth, common/mmap: warn when deleted files stay mapped](https://github.com/erigontech/erigon/pull/25820) - 2026-11-06
+* [Review] [Review on: node/eth, common/mmap: warn when deleted files stay mapped](https://github.com/erigontech/erigon/pull/25820#pullrequestreview-5795523602) - 2026-11-06
+* [Pull Request] [[r3.8] db: temp files, goroutines and segments leaked on error paths; malformed preverified toml panics](https://github.com/erigontech/erigon/pull/25819) - 2026-11-06
+* [Review] [Review on: [r3.8] db: temp files, goroutines and segments leaked on error paths; malformed preverified toml panics](https://github.com/erigontech/erigon/pull/25819#pullrequestreview-5795011397) - 2026-11-06
+* [Pull Request] [db/snapshotsync: remove a failed merge range's built outputs](https://github.com/erigontech/erigon/pull/25823) - 2026-11-06
+* [Pull Request] [node/cli: fail on --tls without --tls.cert or --tls.key](https://github.com/erigontech/erigon/pull/25818) - 2026-11-06
+* [Pull Request] [execution/vm: skip Transfer on a zero-value call to a code account](https://github.com/erigontech/erigon/pull/25824) - 2026-11-06
+* [Review] [Review on: cl/beacon/handler: publish a POSTed Gloas envelope before its columns in gossip mode](https://github.com/erigontech/erigon/pull/25718#pullrequestreview-5794730953) - 2026-11-06
+* [Pull Request] [execution/state: don't make txs depend on a created-empty account removal](https://github.com/erigontech/erigon/pull/25821) - 2026-11-06
+* [Review] [Review on: execution/state: don't make txs depend on a created-empty account removal](https://github.com/erigontech/erigon/pull/25821#pullrequestreview-5794990689) - 2026-11-06
+* [Review] [Review on: cl/beacon/handler: keep the early envelope work going after the client leaves, and answer a re-POST from state](https://github.com/erigontech/erigon/pull/25755#pullrequestreview-5794731100) - 2026-11-06
+* [Review] [Review on: cl/beacon/handler, cl/phase1/forkchoice: validate a POSTed Gloas envelope before publishing its columns in the consensus modes](https://github.com/erigontech/erigon/pull/25767#pullrequestreview-5794731251) - 2026-11-06
+* [Review] [Review on: execution/commitment: sync an account cell's navigation path on a propagate fold](https://github.com/erigontech/erigon/pull/25814#pullrequestreview-5794432063) - 2026-11-06
+* [Review] [Review on: execution/commitment: test fold paths that no test covered](https://github.com/erigontech/erigon/pull/25815#pullrequestreview-5794425586) - 2026-11-06
+* [Pull Request] [[r3.8] backport 12 bug fixes from main](https://github.com/erigontech/erigon/pull/25822) - 2026-11-06
+* [Review] [Review on: [r3.8] backport 12 bug fixes from main](https://github.com/erigontech/erigon/pull/25822#pullrequestreview-5795024299) - 2026-11-06
+* [Review] [Review on: .github: update code owners](https://github.com/erigontech/erigon/pull/25813#pullrequestreview-5793674138) - 2026-11-05
+* [Pull Request] [execution/stagedsync: fold only keys touched since the last step edge](https://github.com/erigontech/erigon/pull/25801) - 2026-11-05
+* [Review] [Review on: execution/stagedsync: fold only keys touched since the last step edge](https://github.com/erigontech/erigon/pull/25801#pullrequestreview-5794326607) - 2026-11-06
+* [Review] [Review on: .github/workflows: drop Nethermind from QA - RPC Integration Tests (Other Clients)](https://github.com/erigontech/erigon/pull/25812#pullrequestreview-5794617783) - 2026-11-06
+* [Review] [Review on: execution/state: read a version-map account under one lock](https://github.com/erigontech/erigon/pull/25770#pullrequestreview-5782011768) - 2026-11-05
+* [Review] [Review on: execution/tests: handle partial receipt replies in TestGenerateChain](https://github.com/erigontech/erigon/pull/25811#pullrequestreview-5793681369) - 2026-11-05
+* [Review] [Review on: execution/stagedsync: a named re-run waits for its writer to validate](https://github.com/erigontech/erigon/pull/25785#pullrequestreview-5781102676) - 2026-11-05
+* [Pull Request] [execution/stagedsync: cancel a run that read an unfinished write](https://github.com/erigontech/erigon/pull/25786) - 2026-11-05
+* [Review] [Review on: execution/stagedsync: cancel a run that read an unfinished write](https://github.com/erigontech/erigon/pull/25786#pullrequestreview-5781082156) - 2026-11-05
+* [Pull Request] [execution/stagedsync: validate every arrival again](https://github.com/erigontech/erigon/pull/25798) - 2026-11-05
+* [Review] [Review on: execution/stagedsync: validate every arrival again](https://github.com/erigontech/erigon/pull/25798#pullrequestreview-5784073889) - 2026-11-05
+* [Issue] [execution/stagedsync: Done->Estimate downgrade assert in TestPoolBALSeededBlockMatchesUnseeded](https://github.com/erigontech/erigon/issues/25790) - 2026-11-05
+* [Issue] [execution/cache: measure storage-cache hit_rate on a synced node after the cache is full; tune admission if fresh keys are rejected](https://github.com/erigontech/erigon/issues/25816) - 2026-11-05
+* [Issue] [execution/stagedsync: arrival-validation skip misses unstamped origin publication](https://github.com/erigontech/erigon/issues/25810) - 2026-11-05
+* [Commit] [execution/cache: GenericCache on the lock-free byte-bounded layer (#24792)](https://github.com/erigontech/erigon/commit/030cad5b24f063f5f12f612aec2b5f49d323119f) - 2026-11-06
+* [Commit] [execution/state: markComplete assert ignores the account Root (#25789)](https://github.com/erigontech/erigon/commit/6cb4b517be98ee3ec1aa9b095798c25e3de15cfd) - 2026-11-06
+* [Commit] [execution/state: read a version-map account under one lock (#25770)](https://github.com/erigontech/erigon/commit/2c05643905d7ff97306e5ec91b2a606a7e42204a) - 2026-11-05
+* [Commit] [txnprovider/txpool: stop blob txns pinning the whole p2p message (#25564)](https://github.com/erigontech/erigon/commit/c87c20c286824546a81b6a82bd209a2eabb99934) - 2026-11-05
+* [Commit] [execution/exec: don't log canceled BAL warmups (#25782)](https://github.com/erigontech/erigon/commit/99e519023b2100fa771569483bab2a1215b37743) - 2026-11-05
+* [Commit] [cl/clparams/initial_state: embed genesis states zstd-compressed (#25301)](https://github.com/erigontech/erigon/commit/2d97df6761ce1dcf55d905c5c90e5a7928bd6f30) - 2026-11-05
+* [Commit] [p2p/protocols/eth: bound GetReceipts re-execution with a deadline (#25569)](https://github.com/erigontech/erigon/commit/04b48fe0fa09859354ecf85349f99f16194c2acb) - 2026-11-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

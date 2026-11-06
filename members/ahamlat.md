@@ -42,6 +42,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Avoid eager code loading on account metadata and EXTCODEHASH reads](https://github.com/besu-eth/besu/pull/11679#pullrequestreview-5626652078) - 2026-10-23
 * [Commit] [Avoid eager code loading on account metadata and EXTCODEHASH reads (#11679)](https://github.com/besu-eth/besu/commit/f37ef20baa407d53f359414a61e97458ab7f7771) - 2026-10-23
 * [Review] [Review on: Use the AES cipher of the JDK for RLPx frames](https://github.com/besu-eth/besu/pull/11823#pullrequestreview-5727549055) - 2026-11-01
+* [Review] [Review on: perf(evm): transfer v2 MLOAD/MSTORE words directly between stack and memory](https://github.com/besu-eth/besu/pull/11873#pullrequestreview-5789955715) - 2026-11-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

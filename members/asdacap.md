@@ -61,6 +61,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(init): fail startup on a step cancelled without shutdown and unblock its dependents](https://github.com/NethermindEth/nethermind/pull/15568#pullrequestreview-5777434274) - 2026-11-04
 * [Commit] [refactor(flat): write flat-import trie nodes on the traversal threads (#15499)](https://github.com/NethermindEth/nethermind/commit/a4a1da43dae2245d00e2409ca1e26968d81abec7) - 2026-11-04
 * [Commit] [perf(flat): visit tries by following node record pointers (#15491)](https://github.com/NethermindEth/nethermind/commit/3312138d2411d7c222d748a9bdfb54fe16780912) - 2026-11-04
+* [Pull Request] [refactor(trie): move EOA compression from the state db to node storage](https://github.com/NethermindEth/nethermind/pull/15632) - 2026-11-05
+* [Review] [Review on: fix(optimism): skip the EIP-3860 init code size check for deposits](https://github.com/NethermindEth/nethermind/pull/15663#pullrequestreview-5795278126) - 2026-11-06
+* [Pull Request] [feat(flat): migrate the pruning trie state to flat while the node runs](https://github.com/NethermindEth/nethermind/pull/15638) - 2026-11-05
+* [Pull Request] [perf(db): honor HintReadAhead on span-action reads](https://github.com/NethermindEth/nethermind/pull/15631) - 2026-11-05
+* [Review] [Review on: perf(db): honor HintReadAhead on span-action reads](https://github.com/NethermindEth/nethermind/pull/15631#pullrequestreview-5780407347) - 2026-11-05
+* [Pull Request] [feat(flat): add flat priority read plugin](https://github.com/NethermindEth/nethermind/pull/15637) - 2026-11-05
+* [Pull Request] [fix(db): count open snapshots per version in SnapshotableMemDb](https://github.com/NethermindEth/nethermind/pull/15635) - 2026-11-05
+* [Commit] [perf(db): honor HintReadAhead on span-action reads (#15631)](https://github.com/NethermindEth/nethermind/commit/d8704e4c875595bb3a0b77d9fd372f78f43b38c8) - 2026-11-06
 ## Q3 2026
 
 

@@ -50,6 +50,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Improve proposer filtering of packed attestations](https://github.com/OffchainLabs/prysm/pull/17805) - 2026-11-02
 * [Commit] [Improve proposer filtering of packed attestations (#17805)](https://github.com/OffchainLabs/prysm/commit/900b80313e775b686dac5bc4f91f1a0bbc3e3dc8) - 2026-11-02
 * [Review] [Review on: Verify execution block hashes of gossiped payloads locally](https://github.com/OffchainLabs/prysm/pull/17786#pullrequestreview-5749436510) - 2026-11-03
+* [Review] [Review on: Request a missing block only from the peer that referenced it (the gossip sender, or the peer serving its child), once, and downscore that peer if it does not serve it.](https://github.com/OffchainLabs/prysm/pull/17841#pullrequestreview-5794969201) - 2026-11-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
 * [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20

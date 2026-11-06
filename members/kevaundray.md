@@ -25,6 +25,8 @@ Team: Consensus R&D (EF)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5600488448) - 2026-10-21
+* [Pull Request] [Update EIP-8450: Address post-merge review](https://github.com/ethereum/EIPs/pull/12599) - 2026-11-05
+* [Commit] [Update EIP-8450: Address post-merge review](https://github.com/ethereum/EIPs/commit/e51d38a636dddbc9d823dd3ba66357fb61e85db6) - 2026-11-05
 ## Q3 2026
 
 

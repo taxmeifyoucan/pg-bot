@@ -37,6 +37,7 @@ Team: Geth
 * [Review] [Review on: internal/ethapi, core: align eth_simulateV1 blocks with the Amsterdam spec](https://github.com/ethereum/go-ethereum/pull/35668#pullrequestreview-5440414527) - 2026-10-07
 * [Commit] [eth/protocols/eth: verify block shape before hashing (#35862)](https://github.com/ethereum/go-ethereum/commit/0b468a86b90a6563c3725e9871d7cea8581eb1b2) - 2026-10-07
 * [Pull Request] [tests/fuzzers/bls12381: fix a dormant harness issue](https://github.com/ethereum/go-ethereum/pull/36069) - 2026-11-04
+* [Commit] [tests/fuzzers/bls12381: fix a dormant harness issue (#36069)](https://github.com/ethereum/go-ethereum/commit/27218ebe340e0e796673410eefe25ee51a2af7df) - 2026-11-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

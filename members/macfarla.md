@@ -179,6 +179,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Reject block overrides on eth_call, eth_estimateGas, eth_createAccessList and debug_traceCall](https://github.com/besu-eth/besu/pull/11629#pullrequestreview-5777922321) - 2026-11-05
 * [Review] [Review on: Resolve safe and finalized tags in admin_logsRemoveCache](https://github.com/besu-eth/besu/pull/11844#pullrequestreview-5777844801) - 2026-11-05
 * [Commit] [Upgrade Guava to 33.8.0-jre (CVE-2026-118042) (#11860)](https://github.com/besu-eth/besu/commit/85a51a11dc7f4768700c9e3897f33b0334c5ec0e) - 2026-11-05
+* [Pull Request] [Use the Eclipse Temurin JRE again in the Docker images](https://github.com/besu-eth/besu/pull/11877) - 2026-11-06
+* [Review] [Review on: feat(rpc): add trace_replayTransaction](https://github.com/besu-eth/besu/pull/11406#pullrequestreview-5794572524) - 2026-11-06
+* [Pull Request] [Update Docker base images (Ubuntu 24.04, Temurin 25.0.5) and disable apt retries to mitigate CVE-2026-109518](https://github.com/besu-eth/besu/pull/11874) - 2026-11-05
+* [Review] [Review on: FOCIL: Store the inclusion list status of blocks](https://github.com/besu-eth/besu/pull/11769#pullrequestreview-5794146617) - 2026-11-06
+* [Commit] [Update Docker base images (Ubuntu 24.04, Temurin 25.0.5) and disable apt retries to mitigate CVE-2026-109518 (#11874)](https://github.com/besu-eth/besu/commit/4f2b77eb34c00209e792f3f5a769406db246f9e4) - 2026-11-05
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

@@ -55,6 +55,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615) - 2026-11-04
 * [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5770035803) - 2026-11-04
 * [Pull Request] [Reject builder bids exceeding the slot’s blob limit](https://github.com/Consensys-Incorporated/teku/pull/11614) - 2026-11-04
+* [Review] [Review on: Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615#pullrequestreview-5792375499) - 2026-11-05
+* [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5791553488) - 2026-11-05
+* [Pull Request] [Write generated secret files readable only by their owner](https://github.com/Consensys-Incorporated/teku/pull/11617) - 2026-11-05
 ## Q3 2026
 
 
