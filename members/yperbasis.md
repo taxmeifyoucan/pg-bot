@@ -303,6 +303,25 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/tests: handle partial receipt replies in TestGenerateChain](https://github.com/erigontech/erigon/pull/25811) - 2026-11-05
 * [Review] [Review on: execution/stagedsync: validate every arrival again](https://github.com/erigontech/erigon/pull/25798#pullrequestreview-5787015701) - 2026-11-05
 * [Commit] [.github: update code owners (#25813)](https://github.com/erigontech/erigon/commit/84979ac2887a68c2c19617daeabac5ab0159b23d) - 2026-11-05
+* [Review] [Review on: execution, rpc, txpool: fix frame transaction edge cases](https://github.com/erigontech/erigon/pull/25752#pullrequestreview-5799903339) - 2026-11-06
+* [Review] [Review on: protocol, txpool: implement EIP-8272 recent roots](https://github.com/erigontech/erigon/pull/25515#pullrequestreview-5806220309) - 2026-11-06
+* [Review] [Review on: execution/stagedsync/stageloop: throttle catch-up block range updates](https://github.com/erigontech/erigon/pull/25853#pullrequestreview-5802571290) - 2026-11-06
+* [Review] [Review on: tools: dump goroutines when an EEST evm run hangs](https://github.com/erigontech/erigon/pull/25842#pullrequestreview-5799442830) - 2026-11-06
+* [Pull Request] [p2p: discard committed invalid BALs without peer penalties](https://github.com/erigontech/erigon/pull/25856) - 2026-11-06
+* [Review] [Review on: p2p: discard committed invalid BALs without peer penalties](https://github.com/erigontech/erigon/pull/25856#pullrequestreview-5801578941) - 2026-11-06
+* [Pull Request] [engineapi: mark oversized synced blocks as bad](https://github.com/erigontech/erigon/pull/25855) - 2026-11-06
+* [Review] [Review on: execution: fold only keys touched since the last step edge](https://github.com/erigontech/erigon/pull/25801#pullrequestreview-5799074902) - 2026-11-06
+* [Review] [Review on: execution/state: fold WasDestroyed into GetAccount's entry lock](https://github.com/erigontech/erigon/pull/25794#pullrequestreview-5798989926) - 2026-11-06
+* [Pull Request] [execution, state: expand unwind recovery coverage](https://github.com/erigontech/erigon/pull/25869) - 2026-11-06
+* [Pull Request] [txpool: revalidate recent roots after incomplete notifications](https://github.com/erigontech/erigon/pull/25868) - 2026-11-06
+* [Review] [Review on: execution/state: release the account lock when a version map flush panics](https://github.com/erigontech/erigon/pull/25827#pullrequestreview-5798625173) - 2026-11-06
+* [Review] [Review on: execution, node/privateapi: record a failed BLOCKHASH header read as a state read error](https://github.com/erigontech/erigon/pull/25834#pullrequestreview-5799336152) - 2026-11-06
+* [Issue] [cl/phase1/network: GLOAS HTTP/P2P overlap test returns next slot 144 instead of 102](https://github.com/erigontech/erigon/issues/25860) - 2026-11-06
+* [Issue] [db/downloader: drop the chain.toml seed-pending flag](https://github.com/erigontech/erigon/issues/25858) - 2026-11-06
+* [Issue] [execution/p2p: a block range update panics when the publisher queue is full](https://github.com/erigontech/erigon/issues/25852) - 2026-11-06
+* [Commit] [execution/tests: handle partial receipt replies in TestGenerateChain (#25811)](https://github.com/erigontech/erigon/commit/731cb6417cfd3994394f515b984889f3703b3082) - 2026-11-06
+* [Commit] [engineapi: support fork-scoped REST + SSZ Engine API (#21729)](https://github.com/erigontech/erigon/commit/a0097c7b7b91e0e5b3e49865c291c1dbb43cc9c6) - 2026-11-06
+* [Commit] [db/state: remove polling delay from aggregator shutdown (#25806)](https://github.com/erigontech/erigon/commit/2db0d691fdddcf0f4b7b8422440947bee4d9bc74) - 2026-11-06
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -332,6 +351,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [engine: clarify REST forkchoice ordering for fork-header mismatches](https://github.com/ethereum/execution-apis/issues/969) - 2026-11-04
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(test-client-clis): map Erigon empty blob execution errors](https://github.com/ethereum/execution-specs/pull/3962) - 2026-11-06
 ## Q3 2026
 
 

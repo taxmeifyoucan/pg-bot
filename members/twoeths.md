@@ -86,6 +86,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: harden assertPeerRelevance (#10443)](https://github.com/ChainSafe/lodestar/commit/14a10bec65d1dcbd939e57d5a59405c98e411d55) - 2026-11-03
 * [Review] [Review on: fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485#pullrequestreview-5779535380) - 2026-11-05
 * [Review] [Review on: fix: set gossip payload envelope in the same tick as validation](https://github.com/ChainSafe/lodestar/pull/10549#pullrequestreview-5779475628) - 2026-11-05
+* [Pull Request] [feat: pack SingleAttestation for block production](https://github.com/ChainSafe/lodestar/pull/10567) - 2026-11-07
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

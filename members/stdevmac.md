@@ -412,6 +412,51 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(specs): keep absent pre-merge forks off in geth genesis (#15553)](https://github.com/NethermindEth/nethermind/commit/5a09cfc918ffc6a1f51c5d32d31a47cf5ab785f2) - 2026-11-05
 * [Commit] [fix(txpool): surface transactions the fork revalidation pass drops as evicted (#15560)](https://github.com/NethermindEth/nethermind/commit/6b4be49a4fefcbb7350be65052388d8e519003cd) - 2026-11-05
 * [Commit] [perf(ci): shorten the PR critical path and fix GCP runner teardown (#15565)](https://github.com/NethermindEth/nethermind/commit/c02f6c6ed4f7b7366c4a655728b9e228be9ebe7f) - 2026-11-05
+* [Pull Request] [fix(optimism): omit receipt operator fee fields when the operator fee is unset](https://github.com/NethermindEth/nethermind/pull/15701) - 2026-11-07
+* [Pull Request] [fix(rpc): report this node's endpoint as admin_peers localAddress](https://github.com/NethermindEth/nethermind/pull/15698) - 2026-11-07
+* [Pull Request] [fix(rpc)!: restore geth key names in admin_nodeInfo](https://github.com/NethermindEth/nethermind/pull/15697) - 2026-11-07
+* [Pull Request] [fix(rpc): fail eth_getBlockReceipts when a block's receipts are missing](https://github.com/NethermindEth/nethermind/pull/15693) - 2026-11-07
+* [Pull Request] [fix(history): detect a released bulk fill scratch database as empty on reopen](https://github.com/NethermindEth/nethermind/pull/15692) - 2026-11-07
+* [Pull Request] [fix(rpc): keep the authorization chain id as uint256 when converting call objects](https://github.com/NethermindEth/nethermind/pull/15694) - 2026-11-07
+* [Review] [Review on: perf(ssz): decode span-built byte list items straight into their slot](https://github.com/NethermindEth/nethermind/pull/15668#pullrequestreview-5806219365) - 2026-11-06
+* [Pull Request] [fix(tracing): report SELFDESTRUCT and static LOG costs and underflow counts as Geth does](https://github.com/NethermindEth/nethermind/pull/15679) - 2026-11-06
+* [Review] [Review on: fix(tracing): report SELFDESTRUCT and static LOG costs and underflow counts as Geth does](https://github.com/NethermindEth/nethermind/pull/15679#pullrequestreview-5807973330) - 2026-11-06
+* [Pull Request] [fix(flat): drop flat columns with a range deletion when wiping for snap sync](https://github.com/NethermindEth/nethermind/pull/15689) - 2026-11-07
+* [Pull Request] [fix(logindex): revert indexed blocks replaced by a reorg](https://github.com/NethermindEth/nethermind/pull/15678) - 2026-11-06
+* [Review] [Review on: fix(logindex): revert indexed blocks replaced by a reorg](https://github.com/NethermindEth/nethermind/pull/15678#pullrequestreview-5807838565) - 2026-11-06
+* [Review] [Review on: test(fixtures): fail when a fixture class finds no cases, and run or remove the classes that found none](https://github.com/NethermindEth/nethermind/pull/15645#pullrequestreview-5806232756) - 2026-11-06
+* [Pull Request] [fix(txpool): accept a self-sponsored set-code tx that replaces the authority's only pending tx](https://github.com/NethermindEth/nethermind/pull/15686) - 2026-11-06
+* [Pull Request] [fix(rpc): show recipient, fee cap and Geth units in txpool_inspect summaries](https://github.com/NethermindEth/nethermind/pull/15685) - 2026-11-06
+* [Pull Request] [fix(simulate): resolve an omitted nonce when the call executes](https://github.com/NethermindEth/nethermind/pull/15680) - 2026-11-06
+* [Pull Request] [fix(tracing): match Geth file trace field order, root error and error escaping](https://github.com/NethermindEth/nethermind/pull/15677) - 2026-11-06
+* [Review] [Review on: fix(tracing): match Geth file trace field order, root error and error escaping](https://github.com/NethermindEth/nethermind/pull/15677#pullrequestreview-5807906816) - 2026-11-06
+* [Pull Request] [fix(simulate): build on the requested base header instead of the canonical one](https://github.com/NethermindEth/nethermind/pull/15682) - 2026-11-06
+* [Pull Request] [fix(rpc): floor eth_gasPrice at the head base fee after London](https://github.com/NethermindEth/nethermind/pull/15681) - 2026-11-06
+* [Review] [Review on: build(zkevm): move Nethermind.Zkvm.Abstractions into the repository](https://github.com/NethermindEth/nethermind/pull/15671#pullrequestreview-5806232522) - 2026-11-06
+* [Pull Request] [fix(debug): report a traceCallMany bundle withdrawals override as debug_traceCall does](https://github.com/NethermindEth/nethermind/pull/15676) - 2026-11-06
+* [Review] [Review on: fix(debug): report a traceCallMany bundle withdrawals override as debug_traceCall does](https://github.com/NethermindEth/nethermind/pull/15676#pullrequestreview-5807907952) - 2026-11-06
+* [Review] [Review on: fix(tracing): let the request timeout interrupt JavaScript tracer creation](https://github.com/NethermindEth/nethermind/pull/15669#pullrequestreview-5806169339) - 2026-11-06
+* [Review] [Review on: fix(sync): do not hold back a block on a withheld optional block access list](https://github.com/NethermindEth/nethermind/pull/15658#pullrequestreview-5801854576) - 2026-11-06
+* [Review] [Review on: fix(rpc): reject ignored trace options and conflicting storage overrides](https://github.com/NethermindEth/nethermind/pull/15653#pullrequestreview-5801876521) - 2026-11-06
+* [Review] [Review on: ci(frame-tx): build the measurement harness with ICU on GCE runners](https://github.com/NethermindEth/nethermind/pull/15647#pullrequestreview-5801823105) - 2026-11-06
+* [Review] [Review on: fix(merge): check the parent of a proof-of-stake header even when its total difficulty is unknown](https://github.com/NethermindEth/nethermind/pull/15656#pullrequestreview-5801706837) - 2026-11-06
+* [Review] [Review on: test(fixtures): run the legacy transition and VM fixture classes that found no files](https://github.com/NethermindEth/nethermind/pull/15641#pullrequestreview-5801860411) - 2026-11-06
+* [Review] [Review on: fix(era): replace incomplete epoch exports and reject ambiguous era1 files](https://github.com/NethermindEth/nethermind/pull/15651#pullrequestreview-5802370131) - 2026-11-06
+* [Review] [Review on: Add invalid chain dump plugin](https://github.com/NethermindEth/nethermind/pull/11030#pullrequestreview-5801962137) - 2026-11-06
+* [Issue] [Config: JSON null for a nullable option fails startup, and null strings become ""](https://github.com/NethermindEth/nethermind/issues/15704) - 2026-11-07
+* [Issue] [Config: an empty JSON array becomes a one-element array, so "Bootnodes": [] stops startup](https://github.com/NethermindEth/nethermind/issues/15703) - 2026-11-07
+* [Issue] [Optimism: eth_call and eth_estimateGas charge the L1 data fee and operator fee, failing for low-balance senders](https://github.com/NethermindEth/nethermind/issues/15702) - 2026-11-07
+* [Issue] [Optimism: receipts include operatorFeeScalar and operatorFeeConstant as 0x0 when the operator fee is unset](https://github.com/NethermindEth/nethermind/issues/15700) - 2026-11-07
+* [Issue] [admin_peers network.localAddress reports the remote peer's own host:port instead of this node's end of the connection](https://github.com/NethermindEth/nethermind/issues/15696) - 2026-11-07
+* [Issue] [admin_nodeInfo returns renamed keys (listenAddress, genesisHash, headHash, networkId) instead of the geth and documented names](https://github.com/NethermindEth/nethermind/issues/15695) - 2026-11-07
+* [Issue] [Bulk transaction index logs "Refusing to initialize a nonempty scratch database" on every restart after it completes](https://github.com/NethermindEth/nethermind/issues/15691) - 2026-11-07
+* [Issue] [eth_call, eth_estimateGas and eth_createAccessList return -32603 for an authorization tuple whose chainId exceeds 64 bits](https://github.com/NethermindEth/nethermind/issues/15688) - 2026-11-07
+* [Issue] [eth_getBlockReceipts returns [] for a block with transactions when its receipts are missing](https://github.com/NethermindEth/nethermind/issues/15687) - 2026-11-07
+* [Issue] [TxPool rejects a fee bump of a pending self-sponsored EIP-7702 transaction with "delegation authority has pending transaction"](https://github.com/NethermindEth/nethermind/issues/15684) - 2026-11-06
+* [Issue] [txpool_inspect prints the sender instead of the recipient and the wrong price and units](https://github.com/NethermindEth/nethermind/issues/15683) - 2026-11-06
+* [Issue] [eth_simulateV1 based on a side-chain block hash uses the canonical parent header](https://github.com/NethermindEth/nethermind/issues/15675) - 2026-11-06
+* [Issue] [eth_gasPrice can return less than the head block's base fee when base fee is rising](https://github.com/NethermindEth/nethermind/issues/15674) - 2026-11-06
+* [Issue] [eth_simulateV1: an omitted nonce is computed before the block executes](https://github.com/NethermindEth/nethermind/issues/15673) - 2026-11-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

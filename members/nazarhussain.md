@@ -66,6 +66,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [ci: publish fuzz image as lodestar-fuzz](https://github.com/ChainSafe/lodestar/pull/10559) - 2026-11-05
 * [Review] [Review on: ci: publish fuzz image as lodestar-fuzz](https://github.com/ChainSafe/lodestar/pull/10559#pullrequestreview-5787538396) - 2026-11-05
 * [Review] [Review on: feat: support and test node 26](https://github.com/ChainSafe/lodestar/pull/10516#pullrequestreview-5784946540) - 2026-11-05
+* [Pull Request] [feat: spec-driven fork choice store in zig](https://github.com/ChainSafe/lodestar/pull/10564) - 2026-11-06
+* [Review] [Review on: feat: spec-driven fork choice store in zig](https://github.com/ChainSafe/lodestar/pull/10564#pullrequestreview-5798133966) - 2026-11-06
+* [Pull Request] [chore: remove zig fork choice implementation](https://github.com/ChainSafe/lodestar/pull/10565) - 2026-11-06
+* [Commit] [chore: remove zig fork choice implementation (#10565)](https://github.com/ChainSafe/lodestar/commit/6816c93a7117ef09bc1825fb13f1e45a947f3d2c) - 2026-11-06
+* [Commit] [ci: publish fuzz image as lodestar-fuzz (#10559)](https://github.com/ChainSafe/lodestar/commit/b19d4628347f5d891edf3ec075347a208c0fa098) - 2026-11-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

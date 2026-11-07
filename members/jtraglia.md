@@ -67,6 +67,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add post-quantum consensus key registry (EIP-8450)](https://github.com/ethereum/consensus-specs/pull/5782#pullrequestreview-5732359101) - 2026-11-02
 * [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802#pullrequestreview-5778489140) - 2026-11-05
 * [Pull Request] [Allow builders to submit one bid per staked ETH](https://github.com/ethereum/consensus-specs/pull/5805) - 2026-11-06
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5795841965) - 2026-11-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 
@@ -79,6 +80,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update EIP-8061: fix activation cap unit and align constant name with the spec](https://github.com/ethereum/EIPs/pull/12575#pullrequestreview-5630699655) - 2026-10-23
 * [Review] [Review on: Update EIP-8282: require the builder credential prefix and document locked funds](https://github.com/ethereum/EIPs/pull/12572#pullrequestreview-5630644214) - 2026-10-23
 * [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5739919749) - 2026-11-02
+* [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5809622577) - 2026-11-07
 ## Q3 2026
 
 

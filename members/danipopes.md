@@ -102,6 +102,8 @@ Team: Reth
 * [Review] [Review on: chore: drop redundant map_err(Into::into)](https://github.com/paradigmxyz/reth/pull/28273#pullrequestreview-5769991962) - 2026-11-04
 * [Review] [Review on: chore: move function-local `use`s to module scope](https://github.com/paradigmxyz/reth/pull/28270#pullrequestreview-5769121142) - 2026-11-04
 * [Commit] [refactor(evm): run Ethereum blocks on evm2::block (#28238)](https://github.com/paradigmxyz/reth/commit/2a343e40f9dda25b8fbc91ff47e30780523201cc) - 2026-11-05
+* [Pull Request] [fix(evm): bump evm2 to run request system calls without a code check](https://github.com/paradigmxyz/reth/pull/28311) - 2026-11-06
+* [Commit] [fix(evm): bump evm2 to run request system calls without a code check (#28311)](https://github.com/paradigmxyz/reth/commit/b2f6dc91040beb1a60d5fcd3675ed5efc2aa4124) - 2026-11-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

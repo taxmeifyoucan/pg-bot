@@ -58,6 +58,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615#pullrequestreview-5792375499) - 2026-11-05
 * [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5791553488) - 2026-11-05
 * [Pull Request] [Write generated secret files readable only by their owner](https://github.com/Consensys-Incorporated/teku/pull/11617) - 2026-11-05
+* [Commit] [Reject builder bids exceeding the slot’s blob limit (#11614)](https://github.com/Consensys-Incorporated/teku/commit/0708eb1a5c9b6cf1666366252d55170e7a2355fb) - 2026-11-06
 ## Q3 2026
 
 

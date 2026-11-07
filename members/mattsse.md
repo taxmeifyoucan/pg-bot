@@ -430,6 +430,42 @@ Team: Reth
 * [Commit] [chore(deps): upgrade discovery and secp256k1 (#28289)](https://github.com/paradigmxyz/reth/commit/65977b8e11ece7a2091875708cac219f2a7536ec) - 2026-11-05
 * [Commit] [test(storage): cover Zstd 0.13 compatibility (#28288)](https://github.com/paradigmxyz/reth/commit/9580b7fc1dfa388a952af4058c9f9806501e51f4) - 2026-11-05
 * [Commit] [fix(rpc): report retained receipt history (#28201)](https://github.com/paradigmxyz/reth/commit/aa03178bd85acc870e2ae480776692ebe88a4a16) - 2026-11-05
+* [Pull Request] [fix(cli): reject zero blocks per archive](https://github.com/paradigmxyz/reth/pull/28328) - 2026-11-07
+* [Pull Request] [fix(rpc): respect namespace selection defaults](https://github.com/paradigmxyz/reth/pull/28327) - 2026-11-07
+* [Pull Request] [fix(ipc): enforce socket permissions](https://github.com/paradigmxyz/reth/pull/28326) - 2026-11-06
+* [Pull Request] [fix(rpc): reject conflicting transaction fees](https://github.com/paradigmxyz/reth/pull/28324) - 2026-11-06
+* [Pull Request] [fix(prune): cap ExEx height at persisted tip](https://github.com/paradigmxyz/reth/pull/28325) - 2026-11-06
+* [Review] [Review on: ci: build macOS release binaries on macos-15](https://github.com/paradigmxyz/reth/pull/28321#pullrequestreview-5807980556) - 2026-11-06
+* [Pull Request] [fix(ci): make stage smoke test deterministic](https://github.com/paradigmxyz/reth/pull/28323) - 2026-11-06
+* [Pull Request] [perf(evm): parallelize EIP-7702 authorization recovery](https://github.com/paradigmxyz/reth/pull/28307) - 2026-11-06
+* [Review] [Review on: feat(rpc): replay block transactions through the block executor](https://github.com/paradigmxyz/reth/pull/28266#pullrequestreview-5806443296) - 2026-11-06
+* [Review] [Review on: fix(trie): send an error when a proof job panics](https://github.com/paradigmxyz/reth/pull/28313#pullrequestreview-5806250627) - 2026-11-06
+* [Pull Request] [fix(eth-wire): truncate status payload in handshake decode log](https://github.com/paradigmxyz/reth/pull/28322) - 2026-11-06
+* [Review] [Review on: fix(rpc): cap default eth_call gas limit](https://github.com/paradigmxyz/reth/pull/28315#pullrequestreview-5805618947) - 2026-11-06
+* [Review] [Review on: chore: bump version to 2.10.1](https://github.com/paradigmxyz/reth/pull/28319#pullrequestreview-5805131175) - 2026-11-06
+* [Pull Request] [chore: bump version to 2.10.1](https://github.com/paradigmxyz/reth/pull/28320) - 2026-11-06
+* [Pull Request] [chore(deps): bump evm2 to baf0d38](https://github.com/paradigmxyz/reth/pull/28318) - 2026-11-06
+* [Pull Request] [chore: release 2.10.1](https://github.com/paradigmxyz/reth/pull/28317) - 2026-11-06
+* [Pull Request] [fix(rpc): bound eth_callMany, trace_callMany and debug_traceCallMany](https://github.com/paradigmxyz/reth/pull/28314) - 2026-11-06
+* [Pull Request] [fix(rpc): stop eth_simulateV1 once its request is dropped](https://github.com/paradigmxyz/reth/pull/28312) - 2026-11-06
+* [Review] [Review on: fix(evm): bump evm2 to run request system calls without a code check](https://github.com/paradigmxyz/reth/pull/28311#pullrequestreview-5798622361) - 2026-11-06
+* [Review] [Review on: chore(rpc): use Tower Stack for auth middleware](https://github.com/paradigmxyz/reth/pull/28296#pullrequestreview-5797899254) - 2026-11-06
+* [Review] [Review on: perf(rpc): avoid redundant error data serialization](https://github.com/paradigmxyz/reth/pull/28295#pullrequestreview-5797891877) - 2026-11-06
+* [Review] [Review on: perf(rpc): borrow JWT bearer tokens](https://github.com/paradigmxyz/reth/pull/28294#pullrequestreview-5797879464) - 2026-11-06
+* [Pull Request] [fix(net): handle DNS entry whitespace](https://github.com/paradigmxyz/reth/pull/28310) - 2026-11-06
+* [Pull Request] [test(rpc): build e2e validation requests via serde](https://github.com/paradigmxyz/reth/pull/28309) - 2026-11-06
+* [Review] [Review on: fix(cli): re-execute the --to block](https://github.com/paradigmxyz/reth/pull/28269#pullrequestreview-5797805871) - 2026-11-06
+* [Pull Request] [chore(prune): use alloy HashMap in history segments](https://github.com/paradigmxyz/reth/pull/28308) - 2026-11-06
+* [Review] [Review on: ci(bench): build bench binaries with Rust beta](https://github.com/paradigmxyz/reth/pull/28306#pullrequestreview-5797490651) - 2026-11-06
+* [Commit] [fix(cli): reject zero blocks per archive (#28328)](https://github.com/paradigmxyz/reth/commit/adf5f076ad65812624afcb56018017611a106267) - 2026-11-07
+* [Commit] [fix(rpc): reject conflicting transaction fees (#28324)](https://github.com/paradigmxyz/reth/commit/44a74f9eaeeddee6b9e0bc874dcde910fbbb0582) - 2026-11-06
+* [Commit] [fix(ci): make stage smoke test deterministic (#28323)](https://github.com/paradigmxyz/reth/commit/75da4e21c2d3f8c0d57a79965139482d020dfd41) - 2026-11-06
+* [Commit] [perf(evm): parallelize EIP-7702 authorization recovery (#28307)](https://github.com/paradigmxyz/reth/commit/c0e8be419899b34d51a8055e84ec0287226d7a78) - 2026-11-06
+* [Commit] [fix(eth-wire): truncate status payload in handshake decode log (#28322)](https://github.com/paradigmxyz/reth/commit/76c88b4f3eee1632d50824ebe0ccaeae0a65ec49) - 2026-11-06
+* [Commit] [chore(deps): bump evm2 to baf0d38 (#28318)](https://github.com/paradigmxyz/reth/commit/6f7896f9cb30c1fcb1b2710872e8c464df1c510b) - 2026-11-06
+* [Commit] [fix(rpc): stop eth_simulateV1 once its request is dropped (#28312)](https://github.com/paradigmxyz/reth/commit/0973a1387278b39faced2996273eed85c8c9188e) - 2026-11-06
+* [Commit] [fix(net): handle DNS entry whitespace (#28310)](https://github.com/paradigmxyz/reth/commit/b9c801a49b765693f32ea599f405409c676c047b) - 2026-11-06
+* [Commit] [chore(prune): use alloy HashMap in history segments (#28308)](https://github.com/paradigmxyz/reth/commit/e38e870c18d2763c6c7665b660adc7a729640fd7) - 2026-11-06
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -71,6 +71,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [rpc: only delete stale attestations from the pool during block production](https://github.com/OffchainLabs/prysm/pull/17825) - 2026-11-04
 * [Review] [Review on: Request a missing block only from the peer that referenced it (the gossip sender, or the peer serving its child), once, and downscore that peer if it does not serve it.](https://github.com/OffchainLabs/prysm/pull/17841#pullrequestreview-5792369266) - 2026-11-05
 * [Review] [Review on: Do not fetch data column sidecars for blocks received by root before they are validated.](https://github.com/OffchainLabs/prysm/pull/17839#pullrequestreview-5791312313) - 2026-11-05
+* [Commit] [builder: add a timeout to the relay status checks (#17832)](https://github.com/OffchainLabs/prysm/commit/2f558c80b534ff079b254d76d3600f9bbddbb463) - 2026-11-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

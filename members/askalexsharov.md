@@ -693,6 +693,38 @@ Team: Erigon
 * [Commit] [execution/exec: don't log canceled BAL warmups (#25782)](https://github.com/erigontech/erigon/commit/99e519023b2100fa771569483bab2a1215b37743) - 2026-11-05
 * [Commit] [cl/clparams/initial_state: embed genesis states zstd-compressed (#25301)](https://github.com/erigontech/erigon/commit/2d97df6761ce1dcf55d905c5c90e5a7928bd6f30) - 2026-11-05
 * [Commit] [p2p/protocols/eth: bound GetReceipts re-execution with a deadline (#25569)](https://github.com/erigontech/erigon/commit/04b48fe0fa09859354ecf85349f99f16194c2acb) - 2026-11-05
+* [Pull Request] [execution/state: keep ReadResult in registers on version-map reads](https://github.com/erigontech/erigon/pull/25864) - 2026-11-06
+* [Pull Request] [execution/state: release the account lock on a version-map flush panic](https://github.com/erigontech/erigon/pull/25850) - 2026-11-06
+* [Review] [Review on: cmd/rpcdaemon: authenticate /health on the engine port and cap its body](https://github.com/erigontech/erigon/pull/25871#pullrequestreview-5809979035) - 2026-11-07
+* [Review] [Review on: cmd/rpcdaemon: apply --rpc.batch.limit on the engine port](https://github.com/erigontech/erigon/pull/25872#pullrequestreview-5809976706) - 2026-11-07
+* [Pull Request] [execution/stagedsync/stageloop: throttle catch-up block range updates](https://github.com/erigontech/erigon/pull/25853) - 2026-11-06
+* [Pull Request] [tools: dump goroutines when an EEST evm run hangs](https://github.com/erigontech/erigon/pull/25842) - 2026-11-06
+* [Review] [Review on: tools: dump goroutines when an EEST evm run hangs](https://github.com/erigontech/erigon/pull/25842#pullrequestreview-5798257688) - 2026-11-06
+* [Pull Request] [db/state: lock the TemporalMemBatch storage btree under shard 0](https://github.com/erigontech/erigon/pull/25830) - 2026-11-06
+* [Review] [Review on: cl/sentinel: prevent request cost overflow and duplicate work](https://github.com/erigontech/erigon/pull/25809#pullrequestreview-5809779903) - 2026-11-07
+* [Review] [Review on: p2p: discard committed invalid BALs without peer penalties](https://github.com/erigontech/erigon/pull/25856#pullrequestreview-5809776903) - 2026-11-07
+* [Pull Request] [execution/state: no EIP-161 view for created-then-destructed accounts](https://github.com/erigontech/erigon/pull/25877) - 2026-11-06
+* [Review] [Review on: execution/state: no EIP-161 view for created-then-destructed accounts](https://github.com/erigontech/erigon/pull/25877#pullrequestreview-5807494962) - 2026-11-06
+* [Review] [Review on: execution/state: stop BAL-seeded cells tripping the Done->Estimate assert](https://github.com/erigontech/erigon/pull/25862#pullrequestreview-5809798477) - 2026-11-07
+* [Review] [Review on: db/recsplit/eliasfano32: fallocate the off-heap temp file on Linux](https://github.com/erigontech/erigon/pull/25876#pullrequestreview-5809790684) - 2026-11-07
+* [Review] [Review on: engineapi: mark oversized synced blocks as bad](https://github.com/erigontech/erigon/pull/25855#pullrequestreview-5809779084) - 2026-11-07
+* [Review] [Review on: execution/p2p: hold header ranges until four overlap in the in-flight walk test](https://github.com/erigontech/erigon/pull/25881#pullrequestreview-5809788303) - 2026-11-07
+* [Pull Request] [execution/cache: fill the state cache on a key's second exec miss](https://github.com/erigontech/erigon/pull/25866) - 2026-11-06
+* [Review] [Review on: execution/cache: fill the state cache on a key's second exec miss](https://github.com/erigontech/erigon/pull/25866#pullrequestreview-5804495506) - 2026-11-06
+* [Review] [Review on: execution: fold only keys touched since the last step edge](https://github.com/erigontech/erigon/pull/25801#pullrequestreview-5799377547) - 2026-11-06
+* [Review] [Review on: execution/state: no tx dependency on a created-empty account removal](https://github.com/erigontech/erigon/pull/25821#pullrequestreview-5797667514) - 2026-11-06
+* [Review] [Review on: execution: fail a BLOCKHASH lookup that finds no ancestor header](https://github.com/erigontech/erigon/pull/25835#pullrequestreview-5797261517) - 2026-11-06
+* [Review] [Review on: execution, node/privateapi: record a failed BLOCKHASH header read as a state read error](https://github.com/erigontech/erigon/pull/25834#pullrequestreview-5797266010) - 2026-11-06
+* [Issue] [#25491 follow-ups: regressions](https://github.com/erigontech/erigon/issues/25831) - 2026-11-06
+* [Issue] [eth_call fixed per-call overhead](https://github.com/erigontech/erigon/issues/25838) - 2026-11-06
+* [Issue] [TemporalMemBatch: lock-free single-writer reads (shards from #25828 are temporary)](https://github.com/erigontech/erigon/issues/25829) - 2026-11-06
+* [Commit] [db/state: lock the TemporalMemBatch storage btree under shard 0 (#25830)](https://github.com/erigontech/erigon/commit/870bb3a375b55c28f16fc9b630477173fd4ec603) - 2026-11-07
+* [Commit] [tools: dump goroutines when an EEST evm run hangs (#25842)](https://github.com/erigontech/erigon/commit/2c779b92d32e584ec3a4792570c041c28f6dc2c7) - 2026-11-07
+* [Commit] [execution/stagedsync/stageloop: throttle catch-up block range updates (#25853)](https://github.com/erigontech/erigon/commit/4645a8624f2bf639f305cf7210ac0f01454cc9c8) - 2026-11-07
+* [Commit] [p2p/sentry: rate-limit BlockRangeUpdate; fix statusData race in PenalizePeer (#25848)](https://github.com/erigontech/erigon/commit/173dbc5854392d0970bb512f22013d765b33a976) - 2026-11-06
+* [Commit] [execution/vm: skip Transfer on a zero-value call to a code account (#25824)](https://github.com/erigontech/erigon/commit/4130722d23415e88c4eeb87e245df3cc8b5363b6) - 2026-11-06
+* [Commit] [db/state: share the inverted index's last DB txNum per snapshot (#25655)](https://github.com/erigontech/erigon/commit/c562d2b4152eaedf9b2eb8d8ba2a5399b4ed7f38) - 2026-11-06
+* [Commit] [node/cli: fail on --tls without --tls.cert or --tls.key (#25818)](https://github.com/erigontech/erigon/commit/23c995e019fc842082eac150afebf05451b8eb28) - 2026-11-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

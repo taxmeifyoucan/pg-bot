@@ -61,6 +61,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(db): count open snapshots per version in SnapshotableMemDb](https://github.com/NethermindEth/nethermind/pull/15635#pullrequestreview-5787113221) - 2026-11-05
 * [Review] [Review on: test(debug): preserve specified-block JS deadline and token witnesses](https://github.com/NethermindEth/nethermind/pull/15623#pullrequestreview-5780319950) - 2026-11-05
 * [Review] [Review on: test(state): witness a warmed retirement before the warmer churn](https://github.com/NethermindEth/nethermind/pull/15633#pullrequestreview-5785437095) - 2026-11-05
+* [Review] [Review on: fix(tracing): keep the JavaScript tracer V8 heap limit fixed](https://github.com/NethermindEth/nethermind/pull/15636#pullrequestreview-5809259427) - 2026-11-07
+* [Review] [Review on: fix(rpc): send error data only where the spec defines it](https://github.com/NethermindEth/nethermind/pull/15500#pullrequestreview-5806829270) - 2026-11-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

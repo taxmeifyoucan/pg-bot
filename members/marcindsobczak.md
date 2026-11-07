@@ -167,6 +167,27 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(optimism): fill eth_sendTransaction nonces on a node that forwards to the sequencer (#15446)](https://github.com/NethermindEth/nethermind/commit/9192819f694a36ebc7d0ed3a9dcd4843c6b937a0) - 2026-11-05
 * [Commit] [perf(consensus)!: pass the next block's base fee to the tx filters with the call (#15442)](https://github.com/NethermindEth/nethermind/commit/f7ea09b117b91629f4bd943a753325bc75dfb409) - 2026-11-05
 * [Commit] [fix(rlp): stop boxing value-type elements in generic list null checks (#15613)](https://github.com/NethermindEth/nethermind/commit/3987c48d562b91b2b8b12626e1493e1636248489) - 2026-11-05
+* [Review] [Review on: perf(ssz): decode span-built byte list items straight into their slot](https://github.com/NethermindEth/nethermind/pull/15668#pullrequestreview-5805300166) - 2026-11-06
+* [Pull Request] [test(ots): check index worker catch-up order on the worker thread](https://github.com/NethermindEth/nethermind/pull/15672) - 2026-11-06
+* [Review] [Review on: test(ots): check index worker catch-up order on the worker thread](https://github.com/NethermindEth/nethermind/pull/15672#pullrequestreview-5806640994) - 2026-11-06
+* [Pull Request] [fix(tracing): let the request timeout interrupt JavaScript tracer creation](https://github.com/NethermindEth/nethermind/pull/15669) - 2026-11-06
+* [Review] [Review on: fix(tracing): let the request timeout interrupt JavaScript tracer creation](https://github.com/NethermindEth/nethermind/pull/15669#pullrequestreview-5803183120) - 2026-11-06
+* [Review] [Review on: fix(sync): do not hold back a block on a withheld optional block access list](https://github.com/NethermindEth/nethermind/pull/15658#pullrequestreview-5797582508) - 2026-11-06
+* [Review] [Review on: refactor(network)!: remove the DotNetty message serializer interfaces](https://github.com/NethermindEth/nethermind/pull/15670#pullrequestreview-5804871774) - 2026-11-06
+* [Review] [Review on: fix(rpc): return the absolute data directory from admin_dataDir](https://github.com/NethermindEth/nethermind/pull/15468#pullrequestreview-5798661196) - 2026-11-06
+* [Review] [Review on: ci(frame-tx): build the measurement harness with ICU on GCE runners](https://github.com/NethermindEth/nethermind/pull/15647#pullrequestreview-5797023672) - 2026-11-06
+* [Review] [Review on: fix(merge): check the parent of a proof-of-stake header even when its total difficulty is unknown](https://github.com/NethermindEth/nethermind/pull/15656#pullrequestreview-5798419420) - 2026-11-06
+* [Review] [Review on: fix(era): replace incomplete epoch exports and reject ambiguous era1 files](https://github.com/NethermindEth/nethermind/pull/15651#pullrequestreview-5798782689) - 2026-11-06
+* [Review] [Review on: perf(receipts): read transaction-index entries through releasable spans](https://github.com/NethermindEth/nethermind/pull/15352#pullrequestreview-5798684773) - 2026-11-06
+* [Commit] [fix(rpc): reject ignored trace options and conflicting storage overrides (#15653)](https://github.com/NethermindEth/nethermind/commit/a0d04988e28e14f1f41809e17ba99de065440c3f) - 2026-11-06
+* [Commit] [fix(merge): check the parent of a proof-of-stake header even when its total difficulty is unknown (#15656)](https://github.com/NethermindEth/nethermind/commit/53c266f374f833054859efbfb7c1ca3015cdee6b) - 2026-11-06
+* [Commit] [test(fixtures): run the legacy transition and VM fixture classes that found no files (#15641)](https://github.com/NethermindEth/nethermind/commit/6e9d7a7f020a71b2b8ba73dc3822b85eef2d69df) - 2026-11-06
+* [Commit] [test(fixtures): read over-wide transaction values in state tests (#15644)](https://github.com/NethermindEth/nethermind/commit/1723b2446c1ab53bec9885f19d68128500a21710) - 2026-11-06
+* [Commit] [fix(optimism): report and fill pending nonces on a node that forwards to the sequencer (#15655)](https://github.com/NethermindEth/nethermind/commit/e1b88f75d953c15e34e24c1476a60dc44d55beb8) - 2026-11-06
+* [Commit] [fix(logindex): rebuild indexes predating canonical-only indexing (#15649)](https://github.com/NethermindEth/nethermind/commit/26a07d0de862d86d378da63f7906627e51170984) - 2026-11-06
+* [Commit] [fix(sync): count only stored snap bytecodes (#15654)](https://github.com/NethermindEth/nethermind/commit/d5ff28eaace37c0915bc748bf4608d5514f22cc7) - 2026-11-06
+* [Commit] [fix(monitoring): isolate failures in periodic metric updates (#15650)](https://github.com/NethermindEth/nethermind/commit/ccaf757aea112511914a63a58582a8388d89f8b5) - 2026-11-06
+* [Commit] [test(fixtures): report unreadable fixture files as failing cases (#15640)](https://github.com/NethermindEth/nethermind/commit/ac7d9b8fd673daf117d341cd78b49f298a4d48a9) - 2026-11-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

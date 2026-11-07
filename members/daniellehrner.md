@@ -200,6 +200,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Make EVM v2 calls without value cheaper](https://github.com/besu-eth/besu/pull/11872) - 2026-11-05
 * [Pull Request] [Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871) - 2026-11-05
 * [Commit] [EVM v2: split the loop to keep it within C2's inlining budget (#11687)](https://github.com/besu-eth/besu/commit/38b5a93d334af832642e468477cb1b972270ea39) - 2026-11-05
+* [Review] [Review on: Reject a block with invalid output before persisting its world state](https://github.com/besu-eth/besu/pull/11858#pullrequestreview-5800827104) - 2026-11-06
+* [Review] [Review on: Keep reverted parallel results and simplify the conflict check](https://github.com/besu-eth/besu/pull/11806#pullrequestreview-5806700035) - 2026-11-06
+* [Review] [Review on: Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/pull/11759#pullrequestreview-5801198055) - 2026-11-06
+* [Review] [Review on: Keep the fees of recent blocks between chain heads in the fee oracle](https://github.com/besu-eth/besu/pull/11825#pullrequestreview-5806306631) - 2026-11-06
+* [Pull Request] [Roll back a world state left at a block that was never stored when Besu starts](https://github.com/besu-eth/besu/pull/11882) - 2026-11-06
+* [Review] [Review on: Roll back a world state left at a block that was never stored when Besu starts](https://github.com/besu-eth/besu/pull/11882#pullrequestreview-5800994549) - 2026-11-06
+* [Review] [Review on: [#11715] EVM v2: read CALLDATALOAD words from a byte array on the frame](https://github.com/besu-eth/besu/pull/11875#pullrequestreview-5798010950) - 2026-11-06
+* [Pull Request] [Register each fork's EVM v2 operations in MainnetEVMs](https://github.com/besu-eth/besu/pull/11879) - 2026-11-06
+* [Issue] [Killed Besu runs leave files in java.io.tmpdir, which fill a RAM-backed /tmp and stop Besu from starting](https://github.com/besu-eth/besu/issues/11878) - 2026-11-06
+* [Commit] [Keep the fees of recent blocks between chain heads in the fee oracle (#11825)](https://github.com/besu-eth/besu/commit/0234973cd8fd3ebddfd0f02a0571d0e410ecf497) - 2026-11-06
+* [Commit] [Read RLP item metadata from the input bytes without a lambda (#11826)](https://github.com/besu-eth/besu/commit/9e886b404a0e7e113a78449265fb23138e6c0437) - 2026-11-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

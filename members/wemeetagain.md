@@ -120,6 +120,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: allow nested compatible unions](https://github.com/ChainSafe/lodestar/pull/10553#pullrequestreview-5780696940) - 2026-11-05
 * [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5780457353) - 2026-11-05
 * [Review] [Review on: perf: reuse epoch transition buffers](https://github.com/ChainSafe/lodestar/pull/10523#pullrequestreview-5780209580) - 2026-11-05
+* [Review] [Review on: chore: remove zig fork choice implementation](https://github.com/ChainSafe/lodestar/pull/10565#pullrequestreview-5800341821) - 2026-11-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

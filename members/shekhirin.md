@@ -20,6 +20,9 @@ Team: Reth
 * [Review] [Review on: chore(docker): enable nightly prewarm reuse](https://github.com/paradigmxyz/reth/pull/27917#pullrequestreview-5524046399) - 2026-10-14
 * [Review] [Review on: ci(bench): add a derek mempool argument](https://github.com/paradigmxyz/reth/pull/27908#pullrequestreview-5522388175) - 2026-10-14
 * [Review] [Review on: test: add reth-trie-dst workload](https://github.com/paradigmxyz/reth/pull/28043#pullrequestreview-5585832713) - 2026-10-20
+* [Review] [Review on: ci: build macOS release binaries on macos-15](https://github.com/paradigmxyz/reth/pull/28321#pullrequestreview-5805196691) - 2026-11-06
+* [Review] [Review on: chore: bump version to 2.10.1](https://github.com/paradigmxyz/reth/pull/28319#pullrequestreview-5805065219) - 2026-11-06
+* [Review] [Review on: chore(deps): bump evm2 to baf0d38](https://github.com/paradigmxyz/reth/pull/28318#pullrequestreview-5804764822) - 2026-11-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

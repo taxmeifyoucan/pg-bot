@@ -65,6 +65,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Update Docker base images (Ubuntu 24.04, Temurin 25.0.5) and disable apt retries to mitigate CVE-2026-109518](https://github.com/besu-eth/besu/pull/11874#pullrequestreview-5787843739) - 2026-11-05
 * [Review] [Review on: Use block and receipts caches in `DefaultBlockchain.getBlockWithReceipts`](https://github.com/besu-eth/besu/pull/11765#pullrequestreview-5789053686) - 2026-11-05
 * [Review] [Review on: Give the Engine API its own Vert.x instance and worker pool](https://github.com/besu-eth/besu/pull/11764#pullrequestreview-5789010361) - 2026-11-05
+* [Review] [Review on: Keep reverted parallel results and simplify the conflict check](https://github.com/besu-eth/besu/pull/11806#pullrequestreview-5803382241) - 2026-11-06
+* [Review] [Review on: Keep the fees of recent blocks between chain heads in the fee oracle](https://github.com/besu-eth/besu/pull/11825#pullrequestreview-5802696331) - 2026-11-06
+* [Review] [Review on: Read RLP item metadata from the input bytes without a lambda](https://github.com/besu-eth/besu/pull/11826#pullrequestreview-5801038284) - 2026-11-06
+* [Issue] [Seed BytesHolder.hashCode() and make Hash Comparable](https://github.com/besu-eth/besu/issues/11884) - 2026-11-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026

@@ -69,6 +69,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(flat): add flat priority read plugin](https://github.com/NethermindEth/nethermind/pull/15637) - 2026-11-05
 * [Pull Request] [fix(db): count open snapshots per version in SnapshotableMemDb](https://github.com/NethermindEth/nethermind/pull/15635) - 2026-11-05
 * [Commit] [perf(db): honor HintReadAhead on span-action reads (#15631)](https://github.com/NethermindEth/nethermind/commit/d8704e4c875595bb3a0b77d9fd372f78f43b38c8) - 2026-11-06
+* [Pull Request] [feat(flat): default new flat DBs to FlatInTrie on low-memory machines](https://github.com/NethermindEth/nethermind/pull/15699) - 2026-11-07
 ## Q3 2026
 
 

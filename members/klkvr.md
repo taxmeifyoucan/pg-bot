@@ -26,6 +26,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat(engine): add executed block ext and persistence hook](https://github.com/paradigmxyz/reth/pull/28242) - 2026-11-03
 * [Pull Request] [feat(rpc): replay block transactions through the block executor](https://github.com/paradigmxyz/reth/pull/28266) - 2026-11-03
 * [Pull Request] [chore(deps): bump evm2 to 72a3190](https://github.com/paradigmxyz/reth/pull/28305) - 2026-11-06
+* [Review] [Review on: perf(evm): parallelize EIP-7702 authorization recovery](https://github.com/paradigmxyz/reth/pull/28307#pullrequestreview-5805210518) - 2026-11-06
+* [Commit] [feat(rpc): replay block transactions through the block executor (#28266)](https://github.com/paradigmxyz/reth/commit/19d390ad978877518f8fe40e3255733ed755d8a5) - 2026-11-06
 ## Q3 2026
 
 

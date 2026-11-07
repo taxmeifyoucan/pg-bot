@@ -318,6 +318,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(timings): one execution winrate per node class (#523)](https://github.com/ethpandaops/lab/commit/d34720a4d72c7d6b254f1eeecf8d6b2e07f03564) - 2026-11-05
 * [Commit] [fix(entities): Clients tab reads only the window; expanded Lido row fits 390px (#520)](https://github.com/ethpandaops/lab/commit/0993f68591a4e4ba593103d65130a9df9057f2f7) - 2026-11-05
 * [Commit] [feat(entities): Lido always grouped, its operators in an expandable row; ranges default to All (#519)](https://github.com/ethpandaops/lab/commit/cabf5be366726b5560a51820913f98559aad4fbd) - 2026-11-05
+* [Pull Request] [feat(engine-percentiles): read range P50 and P95 instead of averaging percentiles](https://github.com/ethpandaops/lab/pull/553) - 2026-11-06
+* [Pull Request] [feat(execution-performance): read range rollups instead of sampling blocks](https://github.com/ethpandaops/lab/pull/552) - 2026-11-06
+* [Pull Request] [fix(xatu-nodes): arrival medians say they are per node ID](https://github.com/ethpandaops/lab/pull/551) - 2026-11-06
+* [Pull Request] [feat(xatu-nodes): count Xatu nodes in the client, location and map breakdowns](https://github.com/ethpandaops/lab/pull/550) - 2026-11-06
+* [Pull Request] [feat(xatu-nodes): count Xatu nodes over the range, not rotating node IDs](https://github.com/ethpandaops/lab/pull/549) - 2026-11-06
+* [Commit] [feat(engine-percentiles): read range P50 and P95 instead of averaging percentiles (#553)](https://github.com/ethpandaops/lab/commit/2916c6efb1c37f5490a35eb3e7aa1bff1bc980be) - 2026-11-06
+* [Commit] [feat(execution-performance): read range rollups instead of sampling blocks (#552)](https://github.com/ethpandaops/lab/commit/33822b530eb975c70f5a65493de1047f4270dba0) - 2026-11-06
+* [Commit] [fix(xatu-nodes): arrival medians say they are per node ID (#551)](https://github.com/ethpandaops/lab/commit/32252a29814bdd3cc02e193e47f23181c8cca71f) - 2026-11-06
+* [Commit] [feat(xatu-nodes): count Xatu nodes in the client, location and map breakdowns (#550)](https://github.com/ethpandaops/lab/commit/39a679afd86f25e659913b4083fe6fc91825f016) - 2026-11-06
+* [Commit] [feat(xatu-nodes): count Xatu nodes over the range, not rotating node IDs (#549)](https://github.com/ethpandaops/lab/commit/9c31a0152ab4fe8aedf0bbc1f13d3dc9b19d3384) - 2026-11-06
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

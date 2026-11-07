@@ -110,6 +110,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Interchange import of a future attestation `source_epoch` permanently wedges all attestations](https://github.com/Consensys-Incorporated/teku/issues/11606) - 2026-11-02
 * [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11613#pullrequestreview-5761563874) - 2026-11-04
 * [Review] [Review on: Skip aggregates whose signature is the point at infinity](https://github.com/Consensys-Incorporated/teku/pull/11610#pullrequestreview-5750218472) - 2026-11-03
+* [Review] [Review on: Rename the published REST API docs title to Teku REST API.](https://github.com/Consensys-Incorporated/teku/pull/11619#pullrequestreview-5797332889) - 2026-11-06
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

@@ -271,6 +271,39 @@ Team: Erigon
 * [Commit] [common/dir: glob snapshot file names, not the datadir path (#25791)](https://github.com/erigontech/erigon/commit/2ddb6ca01b073694eedfd559015cca48ae9c366a) - 2026-11-05
 * [Commit] [cmd/utils, node/cli: remove the unused --vmdebug flag (#25788)](https://github.com/erigontech/erigon/commit/f3ce0209d226cac9b233c7508dc2c9c06f57414d) - 2026-11-05
 * [Commit] [db/snapshotsync: index missing caplin segments with EL's buildMissedIndices (#25740)](https://github.com/erigontech/erigon/commit/8009ce0e5b7fcab55b83d38721c3f707cbf11caf) - 2026-11-05
+* [Review] [Review on: execution/state: keep ReadResult in registers on version-map reads](https://github.com/erigontech/erigon/pull/25864#pullrequestreview-5809999924) - 2026-11-07
+* [Review] [Review on: execution/state: release the account lock on a version-map flush panic](https://github.com/erigontech/erigon/pull/25850#pullrequestreview-5809999842) - 2026-11-07
+* [Review] [Review on: cmd/rpcdaemon: authenticate /health on the engine port and cap its body](https://github.com/erigontech/erigon/pull/25871#pullrequestreview-5809788956) - 2026-11-07
+* [Review] [Review on: cmd/rpcdaemon: apply --rpc.batch.limit on the engine port](https://github.com/erigontech/erigon/pull/25872#pullrequestreview-5809789116) - 2026-11-07
+* [Review] [Review on: protocol, txpool: implement EIP-8272 recent roots](https://github.com/erigontech/erigon/pull/25515#pullrequestreview-5809939493) - 2026-11-07
+* [Review] [Review on: db/state: lock the TemporalMemBatch storage btree under shard 0](https://github.com/erigontech/erigon/pull/25830#pullrequestreview-5797646884) - 2026-11-06
+* [Review] [Review on: cl/sentinel: prevent request cost overflow and duplicate work](https://github.com/erigontech/erigon/pull/25809#pullrequestreview-5809788663) - 2026-11-07
+* [Review] [Review on: p2p: discard committed invalid BALs without peer penalties](https://github.com/erigontech/erigon/pull/25856#pullrequestreview-5809788868) - 2026-11-07
+* [Review] [Review on: rpc: reject a batch over the limit before allocating its messages](https://github.com/erigontech/erigon/pull/25873#pullrequestreview-5809820085) - 2026-11-07
+* [Pull Request] [execution/state: stop BAL-seeded cells tripping the Done->Estimate assert](https://github.com/erigontech/erigon/pull/25862) - 2026-11-06
+* [Pull Request] [db/recsplit/eliasfano32: fallocate the off-heap temp file on Linux](https://github.com/erigontech/erigon/pull/25876) - 2026-11-06
+* [Review] [Review on: engineapi: mark oversized synced blocks as bad](https://github.com/erigontech/erigon/pull/25855#pullrequestreview-5809788768) - 2026-11-07
+* [Pull Request] [execution/p2p: hold header ranges until four overlap in the in-flight walk test](https://github.com/erigontech/erigon/pull/25881) - 2026-11-07
+* [Pull Request] [db/etl, common/dir: write ETL spill files with RWF_DONTCACHE](https://github.com/erigontech/erigon/pull/25874) - 2026-11-06
+* [Review] [Review on: db/etl, common/dir: write ETL spill files with RWF_DONTCACHE](https://github.com/erigontech/erigon/pull/25874#pullrequestreview-5807946504) - 2026-11-06
+* [Pull Request] [db/datastruct/btindex: write .bt files with RWF_DONTCACHE](https://github.com/erigontech/erigon/pull/25875) - 2026-11-06
+* [Pull Request] [feat(caplin): bound blob archive with `--caplin.blobs-archive-from-slot`](https://github.com/erigontech/erigon/pull/25879) - 2026-11-06
+* [Review] [Review on: feat(caplin): bound blob archive with `--caplin.blobs-archive-from-slot`](https://github.com/erigontech/erigon/pull/25879#pullrequestreview-5808310063) - 2026-11-06
+* [Pull Request] [execution/engineapi: keep downloading bodies while a batch executes](https://github.com/erigontech/erigon/pull/25880) - 2026-11-06
+* [Review] [Review on: execution: fold only keys touched since the last step edge](https://github.com/erigontech/erigon/pull/25801#pullrequestreview-5797645595) - 2026-11-06
+* [Pull Request] [execution/state: fold WasDestroyed into GetAccount's entry lock](https://github.com/erigontech/erigon/pull/25794) - 2026-11-07
+* [Review] [Review on: execution/state: fold WasDestroyed into GetAccount's entry lock](https://github.com/erigontech/erigon/pull/25794#pullrequestreview-5802954944) - 2026-11-06
+* [Pull Request] [cmd/utils/app: fix step-rebase --keep-blocks decrease panic on v3 hex files](https://github.com/erigontech/erigon/pull/25865) - 2026-11-06
+* [Review] [Review on: EIP-8297 partitioned binary tree commitment on v3 rows](https://github.com/erigontech/erigon/pull/24511#pullrequestreview-5796322197) - 2026-11-06
+* [Review] [Review on: execution/state: no tx dependency on a created-empty account removal](https://github.com/erigontech/erigon/pull/25821#pullrequestreview-5797646201) - 2026-11-06
+* [Pull Request] [db/state: persist the hex shadow stop in the datadir](https://github.com/erigontech/erigon/pull/25554) - 2026-11-06
+* [Review] [Review on: execution/tests: handle partial receipt replies in TestGenerateChain](https://github.com/erigontech/erigon/pull/25811#pullrequestreview-5797645760) - 2026-11-06
+* [Commit] [execution/state: fold WasDestroyed into GetAccount's entry lock (#25794)](https://github.com/erigontech/erigon/commit/acf4bd32f122a5c2c0ea95c32983880ea473c678) - 2026-11-07
+* [Commit] [cl/persistence/blob_storage: drop the count rows of pruned blob buckets (#25300)](https://github.com/erigontech/erigon/commit/6f29ceb42a43dbefaff34de1533b0b6e1d2e8f1d) - 2026-11-06
+* [Commit] [execution/execmodule: document TooFarAway from UpdateForkChoice (#25837)](https://github.com/erigontech/erigon/commit/24f1c71b436eaedec5f490c9f363e7e1325e6e23) - 2026-11-06
+* [Commit] [db/state: stripe TemporalMemBatch latest maps over 32 locked shards per domain (#25828)](https://github.com/erigontech/erigon/commit/97f1beef08f40f91c7831f1f846af709642d3710) - 2026-11-06
+* [Commit] [cl/phase1/network: retry a failed prefetched range with a 10 s deadline per attempt (#25518)](https://github.com/erigontech/erigon/commit/72fc5303e92f50c17dcd5473b09f6c1f83e2e560) - 2026-11-06
+* [Commit] [AGENTS.md, agent hooks: state each agent rule once (#25792)](https://github.com/erigontech/erigon/commit/875084c179b5064785491585275b6934b190d548) - 2026-11-06
 ## Q3 2026
 
 

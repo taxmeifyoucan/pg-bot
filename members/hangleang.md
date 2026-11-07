@@ -54,6 +54,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Query parent payload envelope from cache and storage in block production](https://github.com/grandinetech/grandine/pull/1023) - 2026-10-31
 * [Review] [Review on: Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020#pullrequestreview-5735310562) - 2026-11-02
 * [Commit] [Query parent payload envelope from cache and storage in block production](https://github.com/grandinetech/grandine/commit/9470052cbcc2a555e805aaa9a44d150d304c3476) - 2026-11-04
+* [Commit] [Delay data column sidecars until block imported](https://github.com/grandinetech/grandine/commit/129fbd2912943e02e621028b8e5e39cc092a1f19) - 2026-11-06
 ## Q3 2026
 
 

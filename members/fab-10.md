@@ -103,6 +103,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: EIP-8070: Announce which cells of a blob transaction this node holds](https://github.com/besu-eth/besu/pull/11864#pullrequestreview-5785636456) - 2026-11-05
 * [Review] [Review on: Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/pull/11759#pullrequestreview-5785207882) - 2026-11-05
 * [Commit] [EIP-8070: Announce which cells of a blob transaction this node holds (#11864)](https://github.com/besu-eth/besu/commit/1f1ebc2573e187a1339887fbc2a859f095029f21) - 2026-11-05
+* [Pull Request] [Size the tracked seen transactions by their bucket count](https://github.com/besu-eth/besu/pull/11886) - 2026-11-06
+* [Pull Request] [FOCIL: add engine_newPayloadV6](https://github.com/besu-eth/besu/pull/11883) - 2026-11-06
+* [Pull Request] [FOCIL: Store the inclusion list status of blocks](https://github.com/besu-eth/besu/pull/11769) - 2026-11-06
+* [Review] [Review on: Use the Eclipse Temurin JRE again in the Docker images](https://github.com/besu-eth/besu/pull/11877#pullrequestreview-5798519824) - 2026-11-06
+* [Commit] [FOCIL: Store the inclusion list status of blocks (#11769)](https://github.com/besu-eth/besu/commit/38829049af219b7653fc8294ee534865576889f9) - 2026-11-06
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

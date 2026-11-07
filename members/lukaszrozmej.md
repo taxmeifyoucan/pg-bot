@@ -724,6 +724,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): hash each witness code while the SP1 guest moves it (#15370)](https://github.com/NethermindEth/nethermind/commit/583507a6e3a488ec5c84c30cd74020cc38e6ef53) - 2026-11-04
 * [Commit] [feat(zkevm): add an Airbender (RV32IM) stateless guest (#15278)](https://github.com/NethermindEth/nethermind/commit/a65d1a234c44cf9e14bf35bde7b8de7b1501353b) - 2026-11-04
 * [Pull Request] [fix(sync): do not hold back a block on a withheld optional block access list](https://github.com/NethermindEth/nethermind/pull/15658) - 2026-11-05
+* [Pull Request] [perf(ssz): decode span-built byte list items straight into their slot](https://github.com/NethermindEth/nethermind/pull/15668) - 2026-11-06
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/15690#pullrequestreview-5808835757) - 2026-11-07
+* [Review] [Review on: test(fixtures): fail when a fixture class finds no cases, and run or remove the classes that found none](https://github.com/NethermindEth/nethermind/pull/15645#pullrequestreview-5808847524) - 2026-11-07
+* [Review] [Review on: fix: stabilize Emitter_ForWarmBlocks_AllocatesNothing](https://github.com/NethermindEth/nethermind/pull/15642#pullrequestreview-5808840294) - 2026-11-07
+* [Review] [Review on: build(zkevm): move Nethermind.Zkvm.Abstractions into the repository](https://github.com/NethermindEth/nethermind/pull/15671#pullrequestreview-5808101510) - 2026-11-06
+* [Review] [Review on: fix(sync): do not hold back a block on a withheld optional block access list](https://github.com/NethermindEth/nethermind/pull/15658#pullrequestreview-5798752070) - 2026-11-06
+* [Review] [Review on: fix(rpc): reject ignored trace options and conflicting storage overrides](https://github.com/NethermindEth/nethermind/pull/15653#pullrequestreview-5805916352) - 2026-11-06
+* [Review] [Review on: refactor(network)!: remove the DotNetty message serializer interfaces](https://github.com/NethermindEth/nethermind/pull/15670#pullrequestreview-5805893739) - 2026-11-06
+* [Review] [Review on: fix(merge): check the parent of a proof-of-stake header even when its total difficulty is unknown](https://github.com/NethermindEth/nethermind/pull/15656#pullrequestreview-5797531303) - 2026-11-06
+* [Review] [Review on: test(fixtures): run the legacy transition and VM fixture classes that found no files](https://github.com/NethermindEth/nethermind/pull/15641#pullrequestreview-5797547665) - 2026-11-06
+* [Commit] [fix(network): limit the sync-serve requests in flight for each peer (#15471)](https://github.com/NethermindEth/nethermind/commit/04088261f8856b0a45d0b789c211e6690e17dc2f) - 2026-11-06
+* [Commit] [fix(sync): do not hold back a block on a withheld optional block access list (#15658)](https://github.com/NethermindEth/nethermind/commit/ff4e79120371e7d0ee6859e8e3222febbfdb41fd) - 2026-11-06
+* [Commit] [perf(zkevm): keep the witness state nodes in the input on the SP1 guest (#15450)](https://github.com/NethermindEth/nethermind/commit/3c40109321529b3238fa118e2e3d5cf952f0a37b) - 2026-11-06
+* [Commit] [fix(sync): cap the GetNodeData response size (#15467)](https://github.com/NethermindEth/nethermind/commit/db7699a2da69c5e8d6f4b74d7995c6aa3c67bac6) - 2026-11-06
+* [Commit] [perf(zkevm): run ADDMOD and MULMOD in their stack slots with less work on the guests (#15567)](https://github.com/NethermindEth/nethermind/commit/48cede8baaf94bfb0aa38a1a1a370d7ea5e8af17) - 2026-11-06
+* [Commit] [perf(zkevm): test the SP1 guest's address mask without a byte loop (#15599)](https://github.com/NethermindEth/nethermind/commit/e31e82a7a433ddef362a91503ab759630e38fdbd) - 2026-11-06
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

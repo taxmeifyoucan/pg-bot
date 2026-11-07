@@ -15,6 +15,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [params: add chainspecs support (#35585)](https://github.com/ethereum/go-ethereum/commit/d68cf359f9876a58fa41c1beab28cd05bc9df9a0) - 2026-10-06
 * [Review] [Review on: core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955#pullrequestreview-5545225535) - 2026-10-16
 * [Commit] [cmd/keeper: add support for wasm zisk (#35849)](https://github.com/ethereum/go-ethereum/commit/f3dc09bb2d891d15cabdd3f533fce1566df20a1d) - 2026-11-02
+* [Pull Request] [build, cmd/keeper: speed up zkvm guest by mocking packages that add to startup time](https://github.com/ethereum/go-ethereum/pull/36078) - 2026-11-06
 ## Q3 2026
 
 

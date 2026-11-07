@@ -44,6 +44,7 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile](https://github.com/erigontech/rpc-tests/pull/645#pullrequestreview-5736806351) - 2026-11-02
 * [Review] [Review on: rpc_pattern_gen: a subcommand for every method, and tag=latest for the block lookups](https://github.com/erigontech/rpc-tests/pull/651#pullrequestreview-5783479709) - 2026-11-05
 * [Review] [Review on: perf: describe a JSONL pattern in an optional header line](https://github.com/erigontech/rpc-tests/pull/649#pullrequestreview-5783482015) - 2026-11-05
+* [Review] [Review on: rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts](https://github.com/erigontech/rpc-tests/pull/652#pullrequestreview-5806536545) - 2026-11-06
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -56,6 +57,7 @@ Team: Erigon
 * [Review] [Review on: Update LIGHTHOUSE_VERSION to v8.3.2](https://github.com/erigontech/erigon/pull/25247#pullrequestreview-5626685302) - 2026-10-23
 * [Commit] [qa-tests: simplifiy and improve rpc perf test workflow (#25616)](https://github.com/erigontech/erigon/commit/3f3d25765ebae14a4a883f136384482f054c22ce) - 2026-10-31
 * [Review] [Review on: .github/workflows: add debug_traceBlockByNumber, eth_createAccessList and eth_getLogs latest to the RPC performance latest test, summarize the client comparison](https://github.com/erigontech/erigon/pull/25614#pullrequestreview-5738750996) - 2026-11-02
+* [Commit] [qa-test: reserve the reference system during RPC integration tests (#25808)](https://github.com/erigontech/erigon/commit/077b475e0ad6d2f1e6d502001466c3656839c38c) - 2026-11-06
 ## Q3 2026
 
 

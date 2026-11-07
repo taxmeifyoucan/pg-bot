@@ -19,6 +19,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Pull Request] [✨ feat(tests): EIP-8141 Extend expiry flag coverage](https://github.com/ethereum/execution-specs/pull/3954) - 2026-11-03
 * [Pull Request] [🧹 chore(tests): Remove duplicate frame tx coverage](https://github.com/ethereum/execution-specs/pull/3946) - 2026-11-03
 * [Pull Request] [✨ feat(tests): EIP-8141 extend secp r coverage](https://github.com/ethereum/execution-specs/pull/3956) - 2026-11-04
+* [Pull Request] [✨ feat(test-types): P256 signing utility](https://github.com/ethereum/execution-specs/pull/3961) - 2026-11-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
 

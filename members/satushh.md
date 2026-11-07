@@ -65,6 +65,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Reject gossip messages whose snappy header claims a decoded length larger than the message can expand to.](https://github.com/OffchainLabs/prysm/pull/17840#pullrequestreview-5787701995) - 2026-11-05
 * [Review] [Review on: Release rate limiter lock before replying to rate-limited peers](https://github.com/OffchainLabs/prysm/pull/17828#pullrequestreview-5787952708) - 2026-11-05
 * [Commit] [Stop logging the signature of attestations refused by slashing protection (#17819)](https://github.com/OffchainLabs/prysm/commit/f3e4f4fb5505033267a9922c4d7b4cd6cee304d4) - 2026-11-05
+* [Review] [Review on: helpers: fix sync committee cache key collision across periods](https://github.com/OffchainLabs/prysm/pull/17835#pullrequestreview-5801436322) - 2026-11-06
+* [Review] [Review on: Acknowledge attestation saves only after their own record is written](https://github.com/OffchainLabs/prysm/pull/17834#pullrequestreview-5800166777) - 2026-11-06
+* [Commit] [Acknowledge attestation saves only after their own record is written (#17834)](https://github.com/OffchainLabs/prysm/commit/8b7a1b1597e45e9c574bb02009d361cb7e66ad0b) - 2026-11-06
 ## Q3 2026
 
 

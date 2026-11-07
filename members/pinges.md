@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Keep the wrapped processor's config in SimulationMessageCallProcessor](https://github.com/besu-eth/besu/pull/11732#pullrequestreview-5625522708) - 2026-10-23
 * [Pull Request] [Update EIP-4444 pruning with independent block and BAL retention](https://github.com/besu-eth/besu/pull/11868) - 2026-11-04
 * [Commit] [Fix/snap storage root refresh (#11654)](https://github.com/besu-eth/besu/commit/7a5f67175e267e4b7d71f321b72b52843224e01e) - 2026-11-04
+* [Pull Request] [Share one request scheduler across the sync downloads](https://github.com/besu-eth/besu/pull/11881) - 2026-11-06
 ## Q3 2026
 
 

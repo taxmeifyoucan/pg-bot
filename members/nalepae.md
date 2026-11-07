@@ -143,6 +143,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Release rate limiter lock before replying to rate-limited peers](https://github.com/OffchainLabs/prysm/pull/17828#pullrequestreview-5786194993) - 2026-11-05
 * [Commit] [Reject gossip messages whose snappy header claims a decoded length larger than the message can expand to. (#17840)](https://github.com/OffchainLabs/prysm/commit/eb3a4dc0c10f1606fb57ceaa062d3f1a5467900b) - 2026-11-05
 * [Commit] [Log streaming no longer blocks the logger. (#17838)](https://github.com/OffchainLabs/prysm/commit/c25f7e8fa9c38b7b6770d2074459085f61978955) - 2026-11-05
+* [Review] [Review on: builder: add a timeout to the relay status checks](https://github.com/OffchainLabs/prysm/pull/17832#pullrequestreview-5802259784) - 2026-11-06
+* [Pull Request] [Set `--api-timeout` default to 0](https://github.com/OffchainLabs/prysm/pull/17842) - 2026-11-06
+* [Review] [Review on: sync: keep data column subnets when an attached validator index is unknown](https://github.com/OffchainLabs/prysm/pull/17836#pullrequestreview-5802470911) - 2026-11-06
+* [Review] [Review on: rpc: validate attestation slot and signature in the attestation submission APIs](https://github.com/OffchainLabs/prysm/pull/17833#pullrequestreview-5802273566) - 2026-11-06
+* [Review] [Review on: validator/rpc: do not write the web auth token to logs](https://github.com/OffchainLabs/prysm/pull/17831#pullrequestreview-5802184542) - 2026-11-06
+* [Review] [Review on: web3signer: redact credentials from signer URLs in errors and traces](https://github.com/OffchainLabs/prysm/pull/17826#pullrequestreview-5802083885) - 2026-11-06
+* [Review] [Review on: rpc: only delete stale attestations from the pool during block production](https://github.com/OffchainLabs/prysm/pull/17825#pullrequestreview-5801840775) - 2026-11-06
+* [Pull Request] [Ignore, without queuing it or requesting its parent, a gossip block whose parent is unknown when its proposer is not the one the head state's proposer lookahead expects at its slot.](https://github.com/OffchainLabs/prysm/pull/17843) - 2026-11-06
+* [Review] [Review on: Acknowledge attestation saves only after their own record is written](https://github.com/OffchainLabs/prysm/pull/17834#pullrequestreview-5800201372) - 2026-11-06
+* [Commit] [Set `--api-timeout` default to 0 (#17842)](https://github.com/OffchainLabs/prysm/commit/283f458e7f30aa6e9cb8179337f4ea5027136945) - 2026-11-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

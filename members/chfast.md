@@ -81,6 +81,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [execution/commitment: sync an account cell's navigation path on a propagate fold](https://github.com/erigontech/erigon/pull/25814) - 2026-11-05
 * [Pull Request] [execution/commitment: test fold paths that no test covered](https://github.com/erigontech/erigon/pull/25815) - 2026-11-05
 * [Commit] [execution/protocol/misc: treat an overflowing blob base fee as above the reserve price (#25797)](https://github.com/erigontech/erigon/commit/603a50888a0647c79854768de28ad7d2246ae1d4) - 2026-11-05
+* [Pull Request] [execution: fail a BLOCKHASH lookup that finds no ancestor header](https://github.com/erigontech/erigon/pull/25835) - 2026-11-06
+* [Pull Request] [execution, node/privateapi: record a failed BLOCKHASH header read as a state read error](https://github.com/erigontech/erigon/pull/25834) - 2026-11-06
+* [Review] [Review on: execution, node/privateapi: record a failed BLOCKHASH header read as a state read error](https://github.com/erigontech/erigon/pull/25834#pullrequestreview-5797894902) - 2026-11-06
+* [Review] [Review on: .github: build release binaries with GCC 14.2](https://github.com/erigontech/erigon/pull/25742#pullrequestreview-5798035172) - 2026-11-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -172,10 +176,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Run CodSpeed with GCC 15 on Ubuntu 26.04 (#1798)](https://github.com/ipsilon/evmone/commit/7ca3b5a014c748e10640d26c104206865838da7c) - 2026-11-03
 * [Commit] [crypto: Use unsigned __int128 in multiply-accumulate with GCC (#1803)](https://github.com/ipsilon/evmone/commit/07f5d5a2f9362f411398f73153ce920c10af9108) - 2026-11-03
 * [Commit] [crypto: Share the seed addchain between the point and Fq12 powers (#1640)](https://github.com/ipsilon/evmone/commit/7c237c3d292dbc981bc9eec8f77d5db6e1e35e0c) - 2026-11-04
+* [Pull Request] [crypto: Compute modular inverses with safegcd](https://github.com/ipsilon/evmone/pull/1806) - 2026-11-06
+* [Pull Request] [EXP: use the 2-power modulus structure (exponent reduction + 2-adic log/exp)](https://github.com/ipsilon/evmone/pull/1805) - 2026-11-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
 * [Commit] [feat(test-benchmark): add stacked storage commit benchmark (#3811)](https://github.com/ethereum/execution-specs/commit/30418b707cf32ce03823224a5717f4d09da6eaef) - 2026-10-19
+* [Pull Request] [feat(test-benchmark): fill test_mod with distinct MOD chains](https://github.com/ethereum/execution-specs/pull/3963) - 2026-11-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 ## Q3 2026

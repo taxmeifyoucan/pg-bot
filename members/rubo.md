@@ -106,6 +106,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(xdc): serialize consensus messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15659) - 2026-11-05
 * [Review] [Review on: refactor(xdc): serialize consensus messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15659#pullrequestreview-5792545201) - 2026-11-05
 * [Commit] [refactor(xdc): serialize consensus messages into spans instead of DotNetty buffers (#15659)](https://github.com/NethermindEth/nethermind/commit/ea899b5f001fc4e718fd7be4bc187fe2ec9b9510) - 2026-11-06
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/15690#pullrequestreview-5808897885) - 2026-11-07
+* [Pull Request] [build(zkevm): move Nethermind.Zkvm.Abstractions into the repository](https://github.com/NethermindEth/nethermind/pull/15671) - 2026-11-06
+* [Review] [Review on: build(zkevm): move Nethermind.Zkvm.Abstractions into the repository](https://github.com/NethermindEth/nethermind/pull/15671#pullrequestreview-5805912202) - 2026-11-06
+* [Pull Request] [refactor(network)!: remove the DotNetty message serializer interfaces](https://github.com/NethermindEth/nethermind/pull/15670) - 2026-11-06
+* [Commit] [build(zkevm): move Nethermind.Zkvm.Abstractions into the repository (#15671)](https://github.com/NethermindEth/nethermind/commit/2aab29e0a851b9aca3a0446430d9294e2c78765c) - 2026-11-06
+* [Commit] [refactor(network)!: remove the DotNetty message serializer interfaces (#15670)](https://github.com/NethermindEth/nethermind/commit/fa8f8b766c2ed0e02583beed131852bb7996fe08) - 2026-11-06
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

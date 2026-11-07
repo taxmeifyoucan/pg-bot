@@ -67,6 +67,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Log streaming no longer blocks the logger.](https://github.com/OffchainLabs/prysm/pull/17838#pullrequestreview-5783835335) - 2026-11-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [EIP-8453: update fast and slow lock rules](https://github.com/ethereum/consensus-specs/pull/5806) - 2026-11-07
 ## Q3 2026
 
 

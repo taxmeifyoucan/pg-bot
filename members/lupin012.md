@@ -154,6 +154,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [.github/workflows: select the RPC load pattern in QA - RPC Performance Tests Latest (#25779)](https://github.com/erigontech/erigon/commit/3940aba1e02824266aae3d8966c022b2cfd034db) - 2026-11-05
 * [Commit] [execution/state, execution/cache, execution/execmodule, rpc/jsonrpc: RPC replays share committed code by hash (#25743)](https://github.com/erigontech/erigon/commit/d1d5450826bc72cabb5fc3121ab810fe54d8e9c3) - 2026-11-05
 * [Commit] [execution/tracing/tracers/logger: keep the stack's JSON between struct-log steps (#25777)](https://github.com/erigontech/erigon/commit/90eb3a94b79a3e9c66ed949ec973aa3ec0feaa7d) - 2026-11-05
+* [Pull Request] [cmd/rpcdaemon: authenticate /health on the engine port and cap its body](https://github.com/erigontech/erigon/pull/25871) - 2026-11-06
+* [Pull Request] [cmd/rpcdaemon: apply --rpc.batch.limit on the engine port](https://github.com/erigontech/erigon/pull/25872) - 2026-11-06
+* [Pull Request] [rpc: reject a batch over the limit before allocating its messages](https://github.com/erigontech/erigon/pull/25873) - 2026-11-06
+* [Pull Request] [.github/workflows: add eth_getBlockReceipts and eth_getBlockByNumber, on latest and on block numbers, to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25867) - 2026-11-06
+* [Commit] [.github/workflows: drop Nethermind from QA - RPC Integration Tests (Other Clients) (#25812)](https://github.com/erigontech/erigon/commit/ed2bc7b130856eb9dc73b852e042ccf4ad11b51d) - 2026-11-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -221,6 +226,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: integration: erigon_getLatestLogs returns block-level logIndex, as eth_getLogs](https://github.com/erigontech/rpc-tests/pull/650#pullrequestreview-5764091249) - 2026-11-04
 * [Commit] [rpc_pattern_gen: a subcommand for every method, and tag=latest for the block lookups (#651)](https://github.com/erigontech/rpc-tests/commit/3e69e755f9cf275a54216604e3f78c6e014196a4) - 2026-11-05
 * [Commit] [perf: describe a JSONL pattern in an optional header line (#649)](https://github.com/erigontech/rpc-tests/commit/e45b930f0ef7cabb2a241a28b8cae4ff120a75b1) - 2026-11-05
+* [Pull Request] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts](https://github.com/erigontech/rpc-tests/pull/652) - 2026-11-06
 ## Q3 2026
 
 
