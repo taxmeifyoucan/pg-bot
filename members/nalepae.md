@@ -158,6 +158,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Butta (EthCoordinate)](https://github.com/protocolguild/documentation/pull/579#pullrequestreview-5524553492) - 2026-10-14
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [`LH0000` appended in a lot of graffitis](https://github.com/sigp/lighthouse/issues/10539) - 2026-11-07
 ## Q3 2026
 
 

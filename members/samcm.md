@@ -328,6 +328,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(xatu-nodes): arrival medians say they are per node ID (#551)](https://github.com/ethpandaops/lab/commit/32252a29814bdd3cc02e193e47f23181c8cca71f) - 2026-11-06
 * [Commit] [feat(xatu-nodes): count Xatu nodes in the client, location and map breakdowns (#550)](https://github.com/ethpandaops/lab/commit/39a679afd86f25e659913b4083fe6fc91825f016) - 2026-11-06
 * [Commit] [feat(xatu-nodes): count Xatu nodes over the range, not rotating node IDs (#549)](https://github.com/ethpandaops/lab/commit/9c31a0152ab4fe8aedf0bbc1f13d3dc9b19d3384) - 2026-11-06
+* [Pull Request] [fix(slots): say missed or orphaned for missed slots before 2025-05-14](https://github.com/ethpandaops/lab/pull/556) - 2026-11-07
+* [Pull Request] [fix(proposals): show orphaned proposals before 2025-05-14 as unknown; merge Missed Slot Rate into Block Proposal Status](https://github.com/ethpandaops/lab/pull/555) - 2026-11-07
+* [Pull Request] [feat(slots): read attestation vote counts from the block-root rollup; fall back on bad execution search params](https://github.com/ethpandaops/lab/pull/554) - 2026-11-07
+* [Commit] [fix(slots): say missed or orphaned for missed slots before the head table (#556)](https://github.com/ethpandaops/lab/commit/145d062daba5d4ea928ea2e1fe56eabdb7b8454c) - 2026-11-07
+* [Commit] [fix(proposals): show orphaned proposals before the head table as unknown (#555)](https://github.com/ethpandaops/lab/commit/2f42342c4eb7791e8b0aeddce8e172c60590c75f) - 2026-11-07
+* [Commit] [feat(slots): read attestation vote counts from fct_attestation_vote_by_block_root (#554)](https://github.com/ethpandaops/lab/commit/3d67953272e8338e3f20ea9b5f9fa763875ef8ad) - 2026-11-07
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

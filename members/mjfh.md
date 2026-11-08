@@ -33,6 +33,8 @@ Team: Nimbus
 * [Pull Request] [Beacon syncer hive timing updates](https://github.com/status-im/nimbus-eth1/pull/5131) - 2026-11-02
 * [Pull Request] [Snap2 update accounts bookkeeping](https://github.com/status-im/nimbus-eth1/pull/5130) - 2026-11-02
 * [Commit] [Snap2 update accounts bookkeeping (#5130)](https://github.com/status-im/nimbus-eth1/commit/3d1f37689e2f60687cfefc4be84d620610baf956) - 2026-11-02
+* [Pull Request] [Snap2 bal handle drained accounts](https://github.com/status-im/nimbus-eth1/pull/5140) - 2026-11-07
+* [Commit] [Snap2 bal handle drained accounts (#5140)](https://github.com/status-im/nimbus-eth1/commit/892da62b7c0a240ed0b7d3eb0080f491a87f3e0d) - 2026-11-07
 ## Q3 2026
 
 

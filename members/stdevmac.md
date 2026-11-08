@@ -457,6 +457,34 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [eth_simulateV1 based on a side-chain block hash uses the canonical parent header](https://github.com/NethermindEth/nethermind/issues/15675) - 2026-11-06
 * [Issue] [eth_gasPrice can return less than the head block's base fee when base fee is rising](https://github.com/NethermindEth/nethermind/issues/15674) - 2026-11-06
 * [Issue] [eth_simulateV1: an omitted nonce is computed before the block executes](https://github.com/NethermindEth/nethermind/issues/15673) - 2026-11-06
+* [Review] [Review on: feat(flat): default new flat DBs to FlatInTrie on low-memory machines](https://github.com/NethermindEth/nethermind/pull/15699#pullrequestreview-5813206118) - 2026-11-07
+* [Pull Request] [fix(optimism): skip the L1 data fee and operator fee for RPC calls](https://github.com/NethermindEth/nethermind/pull/15711) - 2026-11-07
+* [Review] [Review on: fix(optimism): skip the L1 data fee and operator fee for RPC calls](https://github.com/NethermindEth/nethermind/pull/15711#pullrequestreview-5810290476) - 2026-11-07
+* [Pull Request] [fix(specs): activate EIP-160 at eip158Block in geth genesis](https://github.com/NethermindEth/nethermind/pull/15712) - 2026-11-07
+* [Pull Request] [fix(specs): reject out-of-order forks in geth genesis](https://github.com/NethermindEth/nethermind/pull/15714) - 2026-11-07
+* [Review] [Review on: fix(specs): reject out-of-order forks in geth genesis](https://github.com/NethermindEth/nethermind/pull/15714#pullrequestreview-5810420044) - 2026-11-07
+* [Pull Request] [fix(config): parse bracketed array values as JSON arrays](https://github.com/NethermindEth/nethermind/pull/15708) - 2026-11-07
+* [Pull Request] [fix(specs): default a zero or missing geth genesis gas limit to 4712388](https://github.com/NethermindEth/nethermind/pull/15713) - 2026-11-07
+* [Pull Request] [fix(tracing): write Geth's exit records for rejected calls and SELFDESTRUCT in file traces](https://github.com/NethermindEth/nethermind/pull/15715) - 2026-11-07
+* [Review] [Review on: fix(tracing): write Geth's exit records for rejected calls and SELFDESTRUCT in file traces](https://github.com/NethermindEth/nethermind/pull/15715#pullrequestreview-5810402334) - 2026-11-07
+* [Pull Request] [fix(optimism): charge the max operator fee up front with the L1 fee](https://github.com/NethermindEth/nethermind/pull/15710) - 2026-11-07
+* [Review] [Review on: fix(optimism): charge the max operator fee up front with the L1 fee](https://github.com/NethermindEth/nethermind/pull/15710#pullrequestreview-5810402069) - 2026-11-07
+* [Pull Request] [fix(config): treat JSON null as null for config options](https://github.com/NethermindEth/nethermind/pull/15709) - 2026-11-07
+* [Review] [Review on: perf(ssz): decode span-built byte list items straight into their slot](https://github.com/NethermindEth/nethermind/pull/15668#pullrequestreview-5810018882) - 2026-11-07
+* [Review] [Review on: test(ots): check index worker catch-up order on the worker thread](https://github.com/NethermindEth/nethermind/pull/15672#pullrequestreview-5810020056) - 2026-11-07
+* [Issue] [Geth genesis: out-of-order fork blocks and timestamps load instead of being rejected](https://github.com/NethermindEth/nethermind/issues/15707) - 2026-11-07
+* [Issue] [Geth genesis: a missing gasLimit loads as 0 instead of failing or using geth's 4712388 default](https://github.com/NethermindEth/nethermind/issues/15706) - 2026-11-07
+* [Issue] [Geth genesis: EIP-160 (EXP gas) activates at eip155Block instead of eip158Block](https://github.com/NethermindEth/nethermind/issues/15705) - 2026-11-07
+* [Commit] [fix(rpc): fail eth_getBlockReceipts when a block's receipts are missing (#15693)](https://github.com/NethermindEth/nethermind/commit/e4e43e9b7c746b5e454f76f2b9734e035ff91aa2) - 2026-11-07
+* [Commit] [fix(rpc)!: restore geth key names in admin_nodeInfo (#15697)](https://github.com/NethermindEth/nethermind/commit/8a6a1a315152a33af168051b617a10f0214b40a4) - 2026-11-07
+* [Commit] [fix(rpc): keep the authorization chain id as uint256 when converting call objects (#15694)](https://github.com/NethermindEth/nethermind/commit/afbd67bba65e5c0051b92f06473886fcaf022e31) - 2026-11-07
+* [Commit] [fix(rpc): report this node's endpoint as admin_peers localAddress (#15698)](https://github.com/NethermindEth/nethermind/commit/727aded4caa1693adb51665caa64236ad866e99a) - 2026-11-07
+* [Commit] [fix(history): detect a released bulk fill scratch database as empty on reopen (#15692)](https://github.com/NethermindEth/nethermind/commit/48dba5997d442e468d4aeed56c34cd72acb54df0) - 2026-11-07
+* [Commit] [fix(flat): drop flat columns with a range deletion when wiping for snap sync (#15689)](https://github.com/NethermindEth/nethermind/commit/16fb1b20dadd34337872d93ac1273f01152cd648) - 2026-11-07
+* [Commit] [fix(rpc): floor eth_gasPrice at the head base fee after London (#15681)](https://github.com/NethermindEth/nethermind/commit/880321bd751df1faa6fd44c43569f82299a72137) - 2026-11-07
+* [Commit] [fix(rpc): show recipient, fee cap and Geth units in txpool_inspect summaries (#15685)](https://github.com/NethermindEth/nethermind/commit/d2de860fa228f38089e996e6d8a6b24ddaa5e831) - 2026-11-07
+* [Commit] [fix(simulate): build on the requested base header instead of the canonical one (#15682)](https://github.com/NethermindEth/nethermind/commit/5105a0dd34e76dcbf1f9661b06d85e978fc0c374) - 2026-11-07
+* [Commit] [fix(optimism): omit receipt operator fee fields when the operator fee is unset (#15701)](https://github.com/NethermindEth/nethermind/commit/ecb2ff2b31f32b36409e68b614ac75f3d4b2a6f1) - 2026-11-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

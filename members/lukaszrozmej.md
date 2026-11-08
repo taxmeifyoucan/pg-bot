@@ -740,6 +740,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(sync): cap the GetNodeData response size (#15467)](https://github.com/NethermindEth/nethermind/commit/db7699a2da69c5e8d6f4b74d7995c6aa3c67bac6) - 2026-11-06
 * [Commit] [perf(zkevm): run ADDMOD and MULMOD in their stack slots with less work on the guests (#15567)](https://github.com/NethermindEth/nethermind/commit/48cede8baaf94bfb0aa38a1a1a370d7ea5e8af17) - 2026-11-06
 * [Commit] [perf(zkevm): test the SP1 guest's address mask without a byte loop (#15599)](https://github.com/NethermindEth/nethermind/commit/e31e82a7a433ddef362a91503ab759630e38fdbd) - 2026-11-06
+* [Review] [Review on: feat(flat): default new flat DBs to FlatInTrie on low-memory machines](https://github.com/NethermindEth/nethermind/pull/15699#pullrequestreview-5813495630) - 2026-11-07
+* [Review] [Review on: perf(ssz): decode span-built byte list items straight into their slot](https://github.com/NethermindEth/nethermind/pull/15668#pullrequestreview-5813344770) - 2026-11-07
+* [Pull Request] [build: run the Cilica IL optimizer on every assembly](https://github.com/NethermindEth/nethermind/pull/15716) - 2026-11-07
+* [Commit] [perf(ssz): decode span-built byte list items straight into their slot (#15668)](https://github.com/NethermindEth/nethermind/commit/a3a208b5e36ed2097eef7aa098f47ce7ea8cea88) - 2026-11-07
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -821,6 +825,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(riscv64): perf-83 - opt-in JitZkNoGcMustInit drops GC-only prolog zeroing](https://github.com/NethermindEth/dotnet-riscv/commit/0277c7439b50990636f16244fa3d7c280af16cee) - 2026-10-21
 * [Commit] [tests: Check the RV32 ilp32 argument boundary on Airbender](https://github.com/NethermindEth/dotnet-riscv/commit/e709a27338546e97d54992a2789867de80486c1b) - 2026-10-31
 * [Commit] [riscv32: Long codegen, delegation calls, handler convention and zkVM codegen knobs](https://github.com/NethermindEth/dotnet-riscv/commit/cbb4b72aa9438f858a68566e32c1be61793cfb2e) - 2026-10-31
+* [Pull Request] [fixup/11/upstream: perf-84 - strict alignment proves accesses through fields of promoted structs aligned](https://github.com/NethermindEth/dotnet-riscv/pull/37) - 2026-11-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

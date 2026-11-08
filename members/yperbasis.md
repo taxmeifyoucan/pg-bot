@@ -322,6 +322,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/tests: handle partial receipt replies in TestGenerateChain (#25811)](https://github.com/erigontech/erigon/commit/731cb6417cfd3994394f515b984889f3703b3082) - 2026-11-06
 * [Commit] [engineapi: support fork-scoped REST + SSZ Engine API (#21729)](https://github.com/erigontech/erigon/commit/a0097c7b7b91e0e5b3e49865c291c1dbb43cc9c6) - 2026-11-06
 * [Commit] [db/state: remove polling delay from aggregator shutdown (#25806)](https://github.com/erigontech/erigon/commit/2db0d691fdddcf0f4b7b8422440947bee4d9bc74) - 2026-11-06
+* [Review] [Review on: execution, state: expand unwind recovery coverage](https://github.com/erigontech/erigon/pull/25869#pullrequestreview-5811240541) - 2026-11-07
+* [Review] [Review on: protocol, txpool: implement EIP-8272 recent roots](https://github.com/erigontech/erigon/pull/25515#pullrequestreview-5811252733) - 2026-11-07
+* [Commit] [db/downloader: isolate peer manifest downloads (#25693)](https://github.com/erigontech/erigon/commit/40bbbc37ad1b7b3bc63726fd82b04f79be05a893) - 2026-11-07
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -354,6 +357,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-client-clis): map Erigon empty blob execution errors](https://github.com/ethereum/execution-specs/pull/3962) - 2026-11-06
+* [Commit] [fix(test-client-clis): map Erigon empty blob execution errors (#3962)](https://github.com/ethereum/execution-specs/commit/ce7375feabcc263b074ffc226f5e74dffc2db9cd) - 2026-11-07
 ## Q3 2026
 
 

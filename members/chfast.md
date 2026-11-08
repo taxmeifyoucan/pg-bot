@@ -85,6 +85,18 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [execution, node/privateapi: record a failed BLOCKHASH header read as a state read error](https://github.com/erigontech/erigon/pull/25834) - 2026-11-06
 * [Review] [Review on: execution, node/privateapi: record a failed BLOCKHASH header read as a state read error](https://github.com/erigontech/erigon/pull/25834#pullrequestreview-5797894902) - 2026-11-06
 * [Review] [Review on: .github: build release binaries with GCC 14.2](https://github.com/erigontech/erigon/pull/25742#pullrequestreview-5798035172) - 2026-11-06
+* [Pull Request] [execution/engineapi: do not serve the body of a known bad block](https://github.com/erigontech/erigon/pull/25914) - 2026-11-08
+* [Pull Request] [execution/types: remove the 10 MiB BAL RLP size cap](https://github.com/erigontech/erigon/pull/25912) - 2026-11-07
+* [Pull Request] [[r3.8] execution/state: release the account lock when a version map flush panics](https://github.com/erigontech/erigon/pull/25910) - 2026-11-07
+* [Pull Request] [[r3.8] execution/commitment: sync an account cell's navigation path on a propagate fold](https://github.com/erigontech/erigon/pull/25847) - 2026-11-07
+* [Review] [Review on: execution/vm: route MODEXP to evmone for a 256-bit modulus and an exponent above 255](https://github.com/erigontech/erigon/pull/25859#pullrequestreview-5812458836) - 2026-11-07
+* [Commit] [execution/types: remove the 10 MiB BAL RLP size cap (#25912)](https://github.com/erigontech/erigon/commit/7f5c39eaff7dfd545eed3c99a7c638e1e6a10a04) - 2026-11-08
+* [Commit] [execution: fail a BLOCKHASH lookup that finds no ancestor header (#25835)](https://github.com/erigontech/erigon/commit/a9cd7f3998151a67dacd56374aea24aef1512d02) - 2026-11-07
+* [Commit] [execution/state: release the account lock when a version map flush panics (#25827)](https://github.com/erigontech/erigon/commit/9509c3da6f04f9c3999c964ba2a8996bf7e85919) - 2026-11-07
+* [Commit] [db/snapshotsync: keep the history of the block that execution resumes in (#25833)](https://github.com/erigontech/erigon/commit/e5a409968f13c0c58cec28d213149875843713d4) - 2026-11-07
+* [Commit] [.github: build release binaries with GCC 14.2 (#25742)](https://github.com/erigontech/erigon/commit/29541b56d4b7ad2ceb9bdabf42f5c3459109bdee) - 2026-11-07
+* [Commit] [execution/commitment: load the root cell's state before hashing it (#25832)](https://github.com/erigontech/erigon/commit/0a95beceeb2f783d579a62d92ec571846b70f5cb) - 2026-11-07
+* [Commit] [execution, node/privateapi: record a failed BLOCKHASH header read as a state read error (#25834)](https://github.com/erigontech/erigon/commit/f1e5d3d9b2cc00756d92f0c045500d5b89de2679) - 2026-11-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -178,6 +190,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Share the seed addchain between the point and Fq12 powers (#1640)](https://github.com/ipsilon/evmone/commit/7c237c3d292dbc981bc9eec8f77d5db6e1e35e0c) - 2026-11-04
 * [Pull Request] [crypto: Compute modular inverses with safegcd](https://github.com/ipsilon/evmone/pull/1806) - 2026-11-06
 * [Pull Request] [EXP: use the 2-power modulus structure (exponent reduction + 2-adic log/exp)](https://github.com/ipsilon/evmone/pull/1805) - 2026-11-06
+* [Review] [Review on: Fix set_option for opcode.count](https://github.com/ipsilon/evmone/pull/1810#pullrequestreview-5814539435) - 2026-11-07
+* [Pull Request] [test: Compute the RLP length prefix in a 64-bit word](https://github.com/ipsilon/evmone/pull/1811) - 2026-11-07
+* [Pull Request] [AGENTS: Extend review guidelines](https://github.com/ipsilon/evmone/pull/1809) - 2026-11-07
+* [Pull Request] [test: Encode RLP lengths above 16 MiB](https://github.com/ipsilon/evmone/pull/1807) - 2026-11-07
+* [Issue] [crypto: Keep the safegcd 128-bit sums out of intx::uint128](https://github.com/ipsilon/evmone/issues/1808) - 2026-11-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

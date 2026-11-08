@@ -466,6 +466,11 @@ Team: Reth
 * [Commit] [fix(rpc): stop eth_simulateV1 once its request is dropped (#28312)](https://github.com/paradigmxyz/reth/commit/0973a1387278b39faced2996273eed85c8c9188e) - 2026-11-06
 * [Commit] [fix(net): handle DNS entry whitespace (#28310)](https://github.com/paradigmxyz/reth/commit/b9c801a49b765693f32ea599f405409c676c047b) - 2026-11-06
 * [Commit] [chore(prune): use alloy HashMap in history segments (#28308)](https://github.com/paradigmxyz/reth/commit/e38e870c18d2763c6c7665b660adc7a729640fd7) - 2026-11-06
+* [Pull Request] [fix(rpc): bump evm2 to fix tracer panic on frameless logs](https://github.com/paradigmxyz/reth/pull/28330) - 2026-11-07
+* [Review] [Review on: chore: upgrade dependencies](https://github.com/paradigmxyz/reth/pull/28329#pullrequestreview-5812661388) - 2026-11-07
+* [Commit] [fix(rpc): bump evm2 to fix tracer panic on frameless logs (#28330)](https://github.com/paradigmxyz/reth/commit/46731e939ea81a31fe468378f5344657640da36b) - 2026-11-07
+* [Commit] [fix(rpc): respect namespace selection defaults (#28327)](https://github.com/paradigmxyz/reth/commit/d40c2cdd98900a67c903f3dc1a09c95d5710241c) - 2026-11-07
+* [Commit] [fix(ipc): enforce socket permissions (#28326)](https://github.com/paradigmxyz/reth/commit/06ece0d774853f46b0b001d520b21c2d39d790e7) - 2026-11-07
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

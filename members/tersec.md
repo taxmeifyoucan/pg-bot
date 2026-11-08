@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [test with Nim 2.4](https://github.com/status-im/nimbus-eth1/pull/5066) - 2026-10-23
 * [Commit] [rm dependabot-bait (#5073)](https://github.com/status-im/nimbus-eth1/commit/49d70c859ee702193120dd90e368dcc8aaff16c4) - 2026-10-23
 * [Commit] [bump eth2 to v26.10.2 (#5065)](https://github.com/status-im/nimbus-eth1/commit/f673a5fc30eb16d42b080dc1def0b1dd97ddcf5e) - 2026-10-23
+* [Review] [Review on: proxy: abstract storage to store checkpoints](https://github.com/status-im/nimbus-eth1/pull/5103#pullrequestreview-5815537278) - 2026-11-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [rm pre-Fulu status messages](https://github.com/status-im/nimbus-eth2/pull/9165) - 2026-10-02
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01

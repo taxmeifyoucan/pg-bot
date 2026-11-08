@@ -304,6 +304,14 @@ Team: Erigon
 * [Commit] [db/state: stripe TemporalMemBatch latest maps over 32 locked shards per domain (#25828)](https://github.com/erigontech/erigon/commit/97f1beef08f40f91c7831f1f846af709642d3710) - 2026-11-06
 * [Commit] [cl/phase1/network: retry a failed prefetched range with a 10 s deadline per attempt (#25518)](https://github.com/erigontech/erigon/commit/72fc5303e92f50c17dcd5473b09f6c1f83e2e560) - 2026-11-06
 * [Commit] [AGENTS.md, agent hooks: state each agent rule once (#25792)](https://github.com/erigontech/erigon/commit/875084c179b5064785491585275b6934b190d548) - 2026-11-06
+* [Pull Request] [execution/vm: inline CALLDATALOAD and move it into the cold switch](https://github.com/erigontech/erigon/pull/25907) - 2026-11-07
+* [Pull Request] [execution/commitment: raise branch cache tail capacity to 125k entries](https://github.com/erigontech/erigon/pull/25908) - 2026-11-07
+* [Issue] [commitment v3: unfold, history convert and convert reset follow-ups from #24304](https://github.com/erigontech/erigon/issues/25896) - 2026-11-07
+* [Issue] [db/integrity: CaplinBlobSidecars coverage check rejects a datadir synced with --caplin.blobs-archive-from-slot](https://github.com/erigontech/erigon/issues/25895) - 2026-11-07
+* [Commit] [execution/state: stop BAL-seeded cells tripping the Done->Estimate assert (#25862)](https://github.com/erigontech/erigon/commit/8cbafeaedae21bf32efdb15da01ffe099dd822af) - 2026-11-08
+* [Commit] [execution/vm: inline CALLDATALOAD and move it into the cold switch (#25907)](https://github.com/erigontech/erigon/commit/abcaa3f83f46c18956b742285e9fdd271d5135fb) - 2026-11-08
+* [Commit] [db/etl, common/dir: write ETL spill files with RWF_DONTCACHE (#25874)](https://github.com/erigontech/erigon/commit/69da051b19c11022daba706eb3d699f9224b97ba) - 2026-11-07
+* [Commit] [db/recsplit/eliasfano32: fallocate the off-heap temp file on Linux (#25876)](https://github.com/erigontech/erigon/commit/7f4cbb29d99ad31984872c72eeaf5225a63c18ca) - 2026-11-07
 ## Q3 2026
 
 

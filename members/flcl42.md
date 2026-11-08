@@ -63,6 +63,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test(state): witness a warmed retirement before the warmer churn](https://github.com/NethermindEth/nethermind/pull/15633#pullrequestreview-5785437095) - 2026-11-05
 * [Review] [Review on: fix(tracing): keep the JavaScript tracer V8 heap limit fixed](https://github.com/NethermindEth/nethermind/pull/15636#pullrequestreview-5809259427) - 2026-11-07
 * [Review] [Review on: fix(rpc): send error data only where the spec defines it](https://github.com/NethermindEth/nethermind/pull/15500#pullrequestreview-5806829270) - 2026-11-06
+* [Review] [Review on: perf(proofs): find requested storage keys by binary search in eth_getProof](https://github.com/NethermindEth/nethermind/pull/15717#pullrequestreview-5816388060) - 2026-11-08
+* [Review] [Review on: fix: stabilize Emitter_ForWarmBlocks_AllocatesNothing](https://github.com/NethermindEth/nethermind/pull/15642#pullrequestreview-5810737796) - 2026-11-07
+* [Review] [Review on: fix(simulate): resolve an omitted nonce when the call executes](https://github.com/NethermindEth/nethermind/pull/15680#pullrequestreview-5813260512) - 2026-11-07
+* [Review] [Review on: fix(flat): drop flat columns with a range deletion when wiping for snap sync](https://github.com/NethermindEth/nethermind/pull/15689#pullrequestreview-5813498035) - 2026-11-07
+* [Review] [Review on: fix(rpc): floor eth_gasPrice at the head base fee after London](https://github.com/NethermindEth/nethermind/pull/15681#pullrequestreview-5812693911) - 2026-11-07
+* [Review] [Review on: fix(simulate): build on the requested base header instead of the canonical one](https://github.com/NethermindEth/nethermind/pull/15682#pullrequestreview-5812444261) - 2026-11-07
+* [Review] [Review on: fix(tracing): match Geth file trace field order, root error and error escaping](https://github.com/NethermindEth/nethermind/pull/15677#pullrequestreview-5811522547) - 2026-11-07
+* [Review] [Review on: fix(tracing): let the request timeout interrupt JavaScript tracer creation](https://github.com/NethermindEth/nethermind/pull/15669#pullrequestreview-5811098136) - 2026-11-07
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

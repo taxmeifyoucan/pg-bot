@@ -351,6 +351,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/capcli: add blob-archive-store-fill to refill the blob store for a slot range](https://github.com/erigontech/erigon/pull/25800#pullrequestreview-5795066848) - 2026-11-06
 * [Review] [Review on: cmd/capcli: check a local block's blobs under the walked root in chain-endpoint](https://github.com/erigontech/erigon/pull/25799#pullrequestreview-5794915872) - 2026-11-06
 * [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: follow-ups to accepting envelopes before the EL verdict (#25805)](https://github.com/erigontech/erigon/commit/1598ed8f5a3b4d114d44c0872514067c0bad0411) - 2026-11-06
+* [Pull Request] [[r3.8] cl/phase1/network: let forward sync range requests cross fork boundaries](https://github.com/erigontech/erigon/pull/25909) - 2026-11-07
+* [Pull Request] [[r3.8] cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict, with follow-ups (#25469, #25805, #25817)](https://github.com/erigontech/erigon/pull/25890) - 2026-11-07
+* [Pull Request] [cl/das, cl/phase1/network/services: relay archive-mode data column sidecars and publish recovered columns](https://github.com/erigontech/erigon/pull/25849) - 2026-11-07
+* [Review] [Review on: common/event, cl/beacon/beaconevents, cl/beacon/handler: close an event stream that misses a head event](https://github.com/erigontech/erigon/pull/25857#pullrequestreview-5810316903) - 2026-11-07
+* [Commit] [cl/das, cl/phase1/network/services: relay archive-mode data column sidecars and publish recovered columns (#25849)](https://github.com/erigontech/erigon/commit/365d22b07fa3e1dc7dbc771016c987eefa3c122e) - 2026-11-07
+* [Commit] [cl/phase1/network/services: relay valid Gloas data column sidecars outside custody (#25826)](https://github.com/erigontech/erigon/commit/dd698bdb6a87ef7432c42114ab1abc163bb60358) - 2026-11-07
+* [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: bound and pace execution payload envelope work on the gossip path (#25817)](https://github.com/erigontech/erigon/commit/301c4d7c30b5ee7185542eeb0644950976333ced) - 2026-11-07
 ## Q3 2026
 
 

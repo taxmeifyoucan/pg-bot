@@ -69,6 +69,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952#pullrequestreview-5736437303) - 2026-11-02
 * [Review] [Review on: fix(tests): allow INVALID_CHAINID for legacy chain IDs over 64 bits](https://github.com/ethereum/execution-specs/pull/3935#pullrequestreview-5754746586) - 2026-11-03
 * [Commit] [feat(test-consume): start the next client while the current group runs in enginex and wirex (#3952)](https://github.com/ethereum/execution-specs/commit/a7dbafac0c0ec82e7b2e20959cc7c00ce958442a) - 2026-11-04
+* [Pull Request] [fix(tests): give the type 4 invalid chain id case one authorization](https://github.com/ethereum/execution-specs/pull/3965) - 2026-11-07
+* [Pull Request] [chore(test-client-clis): map besu's unrecoverable signature and gas used errors](https://github.com/ethereum/execution-specs/pull/3966) - 2026-11-07
+* [Pull Request] [feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964) - 2026-11-07
+* [Review] [Review on: fix(test-client-clis): map Erigon empty blob execution errors](https://github.com/ethereum/execution-specs/pull/3962#pullrequestreview-5811976610) - 2026-11-07
+* [Issue] [Test Release Tracker: `tests@v21.0.3`](https://github.com/ethereum/execution-specs/issues/3967) - 2026-11-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

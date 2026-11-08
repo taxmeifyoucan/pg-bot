@@ -61,6 +61,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [riscv32: The RV32IM target for the Airbender zkVM](https://github.com/NethermindEth/dotnet-riscv/pull/38) - 2026-10-31
 * [Commit] [Merge pull request #38 from NethermindEth/feature/riscv32-clean](https://github.com/NethermindEth/dotnet-riscv/commit/69b95a916c60473ac73cdd67ca938ca017e7febd) - 2026-10-31
 * [Pull Request] [musl: Fall back to mirrors of the release tarball](https://github.com/NethermindEth/dotnet-riscv/pull/39) - 2026-11-03
+* [Commit] [Merge pull request #39 from NethermindEth/feature/musl-mirrors](https://github.com/NethermindEth/dotnet-riscv/commit/3bc3fe4987578807b19e5b13c4750365f43e0e79) - 2026-11-07
+* [Commit] [Merge pull request #37 from NethermindEth/perf/riscv64-strict-align-promoted-fields](https://github.com/NethermindEth/dotnet-riscv/commit/23991c4edb9b3248a38fc7e1d74e9c35c942a55b) - 2026-11-07
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -116,6 +118,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [docs: describe the patched .NET 11 build; give the site its own look](https://github.com/NethermindEth/bflat-riscv64/pull/74) - 2026-11-04
 * [Commit] [docs: give the site its own look](https://github.com/NethermindEth/bflat-riscv64/commit/2ce65789f86ea8fef2f9c6ba966c87846a896665) - 2026-11-04
 * [Commit] [docs: describe the patched .NET 11 build and the images](https://github.com/NethermindEth/bflat-riscv64/commit/2a3df7e8081e88a23f7f734d3df4d5a9cf5b276a) - 2026-11-04
+* [Pull Request] [variant: Take both targets from dotnet-riscv 11.0.101-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/pull/75) - 2026-11-07
 ## Q3 2026
 
 

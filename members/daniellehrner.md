@@ -211,6 +211,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Issue] [Killed Besu runs leave files in java.io.tmpdir, which fill a RAM-backed /tmp and stop Besu from starting](https://github.com/besu-eth/besu/issues/11878) - 2026-11-06
 * [Commit] [Keep the fees of recent blocks between chain heads in the fee oracle (#11825)](https://github.com/besu-eth/besu/commit/0234973cd8fd3ebddfd0f02a0571d0e410ecf497) - 2026-11-06
 * [Commit] [Read RLP item metadata from the input bytes without a lambda (#11826)](https://github.com/besu-eth/besu/commit/9e886b404a0e7e113a78449265fb23138e6c0437) - 2026-11-06
+* [Review] [Review on: Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/pull/11759#pullrequestreview-5810424196) - 2026-11-07
+* [Pull Request] [Keep reverted parallel results and simplify the conflict check](https://github.com/besu-eth/besu/pull/11806) - 2026-11-07
+* [Commit] [Keep reverted parallel results and simplify the conflict check (#11806)](https://github.com/besu-eth/besu/commit/bcf4ccf6f599b1750291ecc5e0e2f9f06b039c63) - 2026-11-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 
