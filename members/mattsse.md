@@ -471,6 +471,21 @@ Team: Reth
 * [Commit] [fix(rpc): bump evm2 to fix tracer panic on frameless logs (#28330)](https://github.com/paradigmxyz/reth/commit/46731e939ea81a31fe468378f5344657640da36b) - 2026-11-07
 * [Commit] [fix(rpc): respect namespace selection defaults (#28327)](https://github.com/paradigmxyz/reth/commit/d40c2cdd98900a67c903f3dc1a09c95d5710241c) - 2026-11-07
 * [Commit] [fix(ipc): enforce socket permissions (#28326)](https://github.com/paradigmxyz/reth/commit/06ece0d774853f46b0b001d520b21c2d39d790e7) - 2026-11-07
+* [Pull Request] [perf(engine): stream transactions to prewarming](https://github.com/paradigmxyz/reth/pull/28341) - 2026-11-08
+* [Pull Request] [perf(evm): replace moka in the precompile cache](https://github.com/paradigmxyz/reth/pull/28339) - 2026-11-08
+* [Pull Request] [perf(trie): cut state root work after execution](https://github.com/paradigmxyz/reth/pull/28340) - 2026-11-08
+* [Pull Request] [perf(engine): lighten the engine thread after saves](https://github.com/paradigmxyz/reth/pull/28337) - 2026-11-08
+* [Pull Request] [perf(engine): prefault the execution cache tables](https://github.com/paradigmxyz/reth/pull/28338) - 2026-11-08
+* [Pull Request] [ci: build releases with Rust nightly](https://github.com/paradigmxyz/reth/pull/28336) - 2026-11-08
+* [Pull Request] [fix(net): give pending sessions and the listener a turn under load](https://github.com/paradigmxyz/reth/pull/28332) - 2026-11-08
+* [Review] [Review on: fix(net): give pending sessions and the listener a turn under load](https://github.com/paradigmxyz/reth/pull/28332#pullrequestreview-5817764554) - 2026-11-08
+* [Pull Request] [ci: build reth:nightly with Rust nightly](https://github.com/paradigmxyz/reth/pull/28335) - 2026-11-08
+* [Pull Request] [perf(engine): step the balance tracker only on its opcodes](https://github.com/paradigmxyz/reth/pull/28334) - 2026-11-08
+* [Pull Request] [perf(storage): share overlay manager state behind one Arc](https://github.com/paradigmxyz/reth/pull/28333) - 2026-11-08
+* [Pull Request] [fix(rpc): replay bad blocks in debug_intermediateRoots](https://github.com/paradigmxyz/reth/pull/28331) - 2026-11-08
+* [Review] [Review on: fix(rpc): replay bad blocks in debug_intermediateRoots](https://github.com/paradigmxyz/reth/pull/28331#pullrequestreview-5817865218) - 2026-11-08
+* [Commit] [fix(net): give pending sessions and the listener a turn under load (#28332)](https://github.com/paradigmxyz/reth/commit/5efe80f515c96fa34b569a22fb810b54f914cfb0) - 2026-11-08
+* [Commit] [fix(rpc): replay bad blocks in debug_intermediateRoots (#28331)](https://github.com/paradigmxyz/reth/commit/685039caf7b8114d2b246c237bc1f6128ca15e22) - 2026-11-08
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

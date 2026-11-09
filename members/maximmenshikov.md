@@ -119,6 +119,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [docs: give the site its own look](https://github.com/NethermindEth/bflat-riscv64/commit/2ce65789f86ea8fef2f9c6ba966c87846a896665) - 2026-11-04
 * [Commit] [docs: describe the patched .NET 11 build and the images](https://github.com/NethermindEth/bflat-riscv64/commit/2a3df7e8081e88a23f7f734d3df4d5a9cf5b276a) - 2026-11-04
 * [Pull Request] [variant: Take both targets from dotnet-riscv 11.0.101-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/pull/75) - 2026-11-07
+* [Commit] [Merge pull request #75 from NethermindEth/chore/dotnet-11.0.101](https://github.com/NethermindEth/bflat-riscv64/commit/d6bed5d544aa04ac2d2edf2474e205283c7aa484) - 2026-11-08
 ## Q3 2026
 
 

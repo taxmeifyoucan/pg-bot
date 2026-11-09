@@ -358,6 +358,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/das, cl/phase1/network/services: relay archive-mode data column sidecars and publish recovered columns (#25849)](https://github.com/erigontech/erigon/commit/365d22b07fa3e1dc7dbc771016c987eefa3c122e) - 2026-11-07
 * [Commit] [cl/phase1/network/services: relay valid Gloas data column sidecars outside custody (#25826)](https://github.com/erigontech/erigon/commit/dd698bdb6a87ef7432c42114ab1abc163bb60358) - 2026-11-07
 * [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: bound and pace execution payload envelope work on the gossip path (#25817)](https://github.com/erigontech/erigon/commit/301c4d7c30b5ee7185542eeb0644950976333ced) - 2026-11-07
+* [Pull Request] [cl/phase1/forkchoice: keep cached root when storing pending lists](https://github.com/erigontech/erigon/pull/25944) - 2026-11-08
+* [Pull Request] [cl/das, cl/persistence/beacon_indicies: backfill the custody columns of stored side-branch blocks](https://github.com/erigontech/erigon/pull/25931) - 2026-11-08
+* [Pull Request] [cl/sentinel: reserve 20% of peer slots for outbound peers](https://github.com/erigontech/erigon/pull/25943) - 2026-11-08
+* [Pull Request] [cl/persistence/blob_storage, cl/das: write the EL-built custody columns of a block in one batch](https://github.com/erigontech/erigon/pull/25926) - 2026-11-08
+* [Commit] [cl/phase1/network, cl/phase1/stages, cl/beacon/handler: end forward sync at a Gloas tip without a successor and refuse block production for past slots (#25189)](https://github.com/erigontech/erigon/commit/f758a20c4279cf25d32ce905ec23a6eb9341f251) - 2026-11-08
 ## Q3 2026
 
 

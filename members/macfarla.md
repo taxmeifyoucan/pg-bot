@@ -184,6 +184,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Update Docker base images (Ubuntu 24.04, Temurin 25.0.5) and disable apt retries to mitigate CVE-2026-109518](https://github.com/besu-eth/besu/pull/11874) - 2026-11-05
 * [Review] [Review on: FOCIL: Store the inclusion list status of blocks](https://github.com/besu-eth/besu/pull/11769#pullrequestreview-5794146617) - 2026-11-06
 * [Commit] [Update Docker base images (Ubuntu 24.04, Temurin 25.0.5) and disable apt retries to mitigate CVE-2026-109518 (#11874)](https://github.com/besu-eth/besu/commit/4f2b77eb34c00209e792f3f5a769406db246f9e4) - 2026-11-05
+* [Review] [Review on: Resolve safe and finalized tags in admin_logsRemoveCache](https://github.com/besu-eth/besu/pull/11844#pullrequestreview-5820826396) - 2026-11-09
+* [Review] [Review on: Resolve finalized and safe newestBlock in eth_feeHistory](https://github.com/besu-eth/besu/pull/11857#pullrequestreview-5820718322) - 2026-11-09
+* [Review] [Review on: fix(rpc): resolve safe trace_filter bounds; reject pending in trace](https://github.com/besu-eth/besu/pull/11441#pullrequestreview-5820507433) - 2026-11-09
+* [Issue] [Test `trace_filter` `safe`/`finalized` bounds on the success path instead of through an error message](https://github.com/besu-eth/besu/issues/11891) - 2026-11-09
+* [Issue] [`admin_logsRemoveCache` returns `Internal error` and logs at `ERROR` for an unknown block](https://github.com/besu-eth/besu/issues/11892) - 2026-11-09
+* [Commit] [Use the Eclipse Temurin JRE again in the Docker images (#11877)](https://github.com/besu-eth/besu/commit/8f01c7a3200780b00163ab76d544e0ef6646da41) - 2026-11-08
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

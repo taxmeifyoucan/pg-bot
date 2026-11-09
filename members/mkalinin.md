@@ -16,6 +16,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Commit] [Add a mechanism for providing a restart-resilient confirmed root (#5673)](https://github.com/ethereum/consensus-specs/commit/11a5d6f551a4d3bcb4f2afb7612287292c92de22) - 2026-10-05
 * [Review] [Review on: Fix fork choice compliance test runner failure](https://github.com/ethereum/consensus-specs/pull/5747#pullrequestreview-5551131324) - 2026-10-16
 * [Pull Request] [Add initial fork choice specs for decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791) - 2026-11-01
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5818675800) - 2026-11-08
 ## Q3 2026
 
 

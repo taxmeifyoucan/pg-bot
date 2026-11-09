@@ -71,6 +71,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(simulate): build on the requested base header instead of the canonical one](https://github.com/NethermindEth/nethermind/pull/15682#pullrequestreview-5812444261) - 2026-11-07
 * [Review] [Review on: fix(tracing): match Geth file trace field order, root error and error escaping](https://github.com/NethermindEth/nethermind/pull/15677#pullrequestreview-5811522547) - 2026-11-07
 * [Review] [Review on: fix(tracing): let the request timeout interrupt JavaScript tracer creation](https://github.com/NethermindEth/nethermind/pull/15669#pullrequestreview-5811098136) - 2026-11-07
+* [Review] [Review on: docs: remove duplicated words in comments and StatsAnalyzer docs](https://github.com/NethermindEth/nethermind/pull/15734#pullrequestreview-5821105773) - 2026-11-09
+* [Review] [Review on: fix(rpc): reject non-array params](https://github.com/NethermindEth/nethermind/pull/15722#pullrequestreview-5819120732) - 2026-11-08
+* [Review] [Review on: perf(txpool): drop changed accounts from the account cache in a plain loop](https://github.com/NethermindEth/nethermind/pull/15723#pullrequestreview-5820125427) - 2026-11-08
+* [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5818166152) - 2026-11-08
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/15719#pullrequestreview-5817105395) - 2026-11-08
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

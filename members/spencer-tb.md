@@ -107,6 +107,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests,test-client-clis,test-evm-tools): address the EIP-8141 merge review](https://github.com/ethereum/execution-specs/pull/3901#pullrequestreview-5634007508) - 2026-10-23
 * [Pull Request] [feat(tests): adapt the EIP-8250 tests to the rebased EIP-8141 branch](https://github.com/ethereum/execution-specs/pull/3897) - 2026-10-23
 * [Review] [Review on: feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952#pullrequestreview-5770313337) - 2026-11-04
+* [Review] [Review on: feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964#pullrequestreview-5817979805) - 2026-11-08
+* [Review] [Review on: chore(test-client-clis): map besu's unrecoverable signature and gas used errors](https://github.com/ethereum/execution-specs/pull/3966#pullrequestreview-5817969619) - 2026-11-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -156,6 +158,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020) - 2026-10-19
 * [Pull Request] [chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021) - 2026-10-19
 * [Commit] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs (#28020)](https://github.com/paradigmxyz/reth/commit/fd936f92556167b25dce5899c2d52384c6c60d0f) - 2026-10-20
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [eth: require eth_estimateGas not to starve nested calls](https://github.com/ethereum/execution-apis/pull/971) - 2026-11-08
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [eth/gasestimator, core/vm: do not settle on gas limits that starve a nested call](https://github.com/ethereum/go-ethereum/pull/36084) - 2026-11-08
 ## Q3 2026
 
 

@@ -72,6 +72,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(flat): default new flat DBs to FlatInTrie on low-memory machines](https://github.com/NethermindEth/nethermind/pull/15699) - 2026-11-07
 * [Review] [Review on: feat(flat): default new flat DBs to FlatInTrie on low-memory machines](https://github.com/NethermindEth/nethermind/pull/15699#pullrequestreview-5811382703) - 2026-11-07
 * [Commit] [feat(flat): default new flat DBs to FlatInTrie on low-memory machines (#15699)](https://github.com/NethermindEth/nethermind/commit/d9b2b4662c6d71c9e52b24e219f0b1010bd607cf) - 2026-11-08
+* [Review] [Review on: fix(db): count open snapshots per version in SnapshotableMemDb](https://github.com/NethermindEth/nethermind/pull/15635#pullrequestreview-5821075850) - 2026-11-09
 ## Q3 2026
 
 

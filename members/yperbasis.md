@@ -325,6 +325,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution, state: expand unwind recovery coverage](https://github.com/erigontech/erigon/pull/25869#pullrequestreview-5811240541) - 2026-11-07
 * [Review] [Review on: protocol, txpool: implement EIP-8272 recent roots](https://github.com/erigontech/erigon/pull/25515#pullrequestreview-5811252733) - 2026-11-07
 * [Commit] [db/downloader: isolate peer manifest downloads (#25693)](https://github.com/erigontech/erigon/commit/40bbbc37ad1b7b3bc63726fd82b04f79be05a893) - 2026-11-07
+* [Issue] [cl/sentinel: reject trailing data in bounded SSZ request decoding](https://github.com/erigontech/erigon/issues/25929) - 2026-11-08
+* [Commit] [cl/sentinel: prevent request cost overflow and duplicate work (#25809)](https://github.com/erigontech/erigon/commit/d8b96416349d29a5260b50df17ad75518d4061fd) - 2026-11-08
+* [Commit] [p2p: discard committed invalid BALs without peer penalties (#25856)](https://github.com/erigontech/erigon/commit/f313a69227b8e4de4dac67f8ff482712a08c3924) - 2026-11-08
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

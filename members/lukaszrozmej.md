@@ -744,6 +744,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(ssz): decode span-built byte list items straight into their slot](https://github.com/NethermindEth/nethermind/pull/15668#pullrequestreview-5813344770) - 2026-11-07
 * [Pull Request] [build: run the Cilica IL optimizer on every assembly](https://github.com/NethermindEth/nethermind/pull/15716) - 2026-11-07
 * [Commit] [perf(ssz): decode span-built byte list items straight into their slot (#15668)](https://github.com/NethermindEth/nethermind/commit/a3a208b5e36ed2097eef7aa098f47ce7ea8cea88) - 2026-11-07
+* [Review] [Review on: perf(txpool): drop changed accounts from the account cache in a plain loop](https://github.com/NethermindEth/nethermind/pull/15723#pullrequestreview-5819698121) - 2026-11-08
+* [Review] [Review on: fix(rpc): encode the zero base fee of London simulated headers](https://github.com/NethermindEth/nethermind/pull/15725#pullrequestreview-5819649735) - 2026-11-08
+* [Review] [Review on: perf(proofs): find requested storage keys by binary search in eth_getProof](https://github.com/NethermindEth/nethermind/pull/15717#pullrequestreview-5819629942) - 2026-11-08
+* [Commit] [fix(txpool): let another copy replace a blob tx rejected for its sidecar (#15466)](https://github.com/NethermindEth/nethermind/commit/5c4d08b84cb8fe3aca1e1551c4d311d703374ec2) - 2026-11-08
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

@@ -58,6 +58,7 @@ Team: Erigon
 * [Commit] [qa-tests: simplifiy and improve rpc perf test workflow (#25616)](https://github.com/erigontech/erigon/commit/3f3d25765ebae14a4a883f136384482f054c22ce) - 2026-10-31
 * [Review] [Review on: .github/workflows: add debug_traceBlockByNumber, eth_createAccessList and eth_getLogs latest to the RPC performance latest test, summarize the client comparison](https://github.com/erigontech/erigon/pull/25614#pullrequestreview-5738750996) - 2026-11-02
 * [Commit] [qa-test: reserve the reference system during RPC integration tests (#25808)](https://github.com/erigontech/erigon/commit/077b475e0ad6d2f1e6d502001466c3656839c38c) - 2026-11-06
+* [Commit] [qa-tests: fix Geth commit lookup in workflows (#25807)](https://github.com/erigontech/erigon/commit/efdf71de4d29c79b8b7a86b5f92a5cd773e7aa5e) - 2026-11-08
 ## Q3 2026
 
 

@@ -312,6 +312,31 @@ Team: Erigon
 * [Commit] [execution/vm: inline CALLDATALOAD and move it into the cold switch (#25907)](https://github.com/erigontech/erigon/commit/abcaa3f83f46c18956b742285e9fdd271d5135fb) - 2026-11-08
 * [Commit] [db/etl, common/dir: write ETL spill files with RWF_DONTCACHE (#25874)](https://github.com/erigontech/erigon/commit/69da051b19c11022daba706eb3d699f9224b97ba) - 2026-11-07
 * [Commit] [db/recsplit/eliasfano32: fallocate the off-heap temp file on Linux (#25876)](https://github.com/erigontech/erigon/commit/7f4cbb29d99ad31984872c72eeaf5225a63c18ca) - 2026-11-07
+* [Pull Request] [execution: check the executed BAL against the block's sidecar](https://github.com/erigontech/erigon/pull/25946) - 2026-11-08
+* [Pull Request] [execution/state: trim per-transaction work in the BAL builder and ApplyWrites](https://github.com/erigontech/erigon/pull/25954) - 2026-11-08
+* [Pull Request] [execution/state: mark validated writes under the entry's read lock](https://github.com/erigontech/erigon/pull/25924) - 2026-11-08
+* [Review] [Review on: execution/state: mark validated writes under the entry's read lock](https://github.com/erigontech/erigon/pull/25924#pullrequestreview-5817898602) - 2026-11-08
+* [Pull Request] [execution: run ValidateChain on the given block, chunk the payload decode](https://github.com/erigontech/erigon/pull/25933) - 2026-11-08
+* [Review] [Review on: execution: run ValidateChain on the given block, chunk the payload decode](https://github.com/erigontech/erigon/pull/25933#pullrequestreview-5817918402) - 2026-11-08
+* [Pull Request] [cmd/integration, db/state: fast PBT convert, manifest attach and resume](https://github.com/erigontech/erigon/pull/25467) - 2026-11-09
+* [Review] [Review on: [r3.8] cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict, with follow-ups (#25469, #25805, #25817)](https://github.com/erigontech/erigon/pull/25890#pullrequestreview-5816913125) - 2026-11-08
+* [Review] [Review on: cl/phase1/stages: warm the selected head slot when the head changes before the same-root warm-up](https://github.com/erigontech/erigon/pull/25891#pullrequestreview-5816904781) - 2026-11-08
+* [Pull Request] [[r3.8] ci: measure sync-from-scratch disk usage with seg du](https://github.com/erigontech/erigon/pull/25964) - 2026-11-09
+* [Pull Request] [ci: measure sync-from-scratch disk usage with seg du](https://github.com/erigontech/erigon/pull/25963) - 2026-11-09
+* [Pull Request] [db/kv/prune: resume a cancelled dup walk from the pruned key](https://github.com/erigontech/erigon/pull/25957) - 2026-11-09
+* [Pull Request] [execution/stagedsync: drop per-transaction allocations in the publish loop](https://github.com/erigontech/erigon/pull/25945) - 2026-11-08
+* [Review] [Review on: cl/antiquary: retire complete blob segments below a backfill gap](https://github.com/erigontech/erigon/pull/25889#pullrequestreview-5816869164) - 2026-11-08
+* [Pull Request] [cmd/utils/app: seg du counts commitment history accessors as commitment hist](https://github.com/erigontech/erigon/pull/25960) - 2026-11-09
+* [Pull Request] [ci: fix update-disk-sizes target branch and push permission](https://github.com/erigontech/erigon/pull/25959) - 2026-11-09
+* [Review] [Review on: db/downloader: read the active download request count under its lock](https://github.com/erigontech/erigon/pull/25901#pullrequestreview-5816907133) - 2026-11-08
+* [Pull Request] [db/seg, common/iouring: write no-pattern segment output through io_uring with linked fsync](https://github.com/erigontech/erigon/pull/25935) - 2026-11-08
+* [Review] [Review on: db/seg, common/iouring: write no-pattern segment output through io_uring with linked fsync](https://github.com/erigontech/erigon/pull/25935#pullrequestreview-5820738870) - 2026-11-09
+* [Pull Request] [execution/stagedsync, execution/exec: one senders path for every block, cached on the tx](https://github.com/erigontech/erigon/pull/25920) - 2026-11-08
+* [Review] [Review on: execution: notify logs of blocks missing from the receipt cache](https://github.com/erigontech/erigon/pull/25882#pullrequestreview-5816867809) - 2026-11-08
+* [Commit] [execution/state: skip interning read-only BAL accounts when seeding (#25934)](https://github.com/erigontech/erigon/commit/e48c5f768a4671ae832cf6354250442fba7b4bbe) - 2026-11-08
+* [Commit] [execution/commitment: raise branch cache tail capacity to 125k entries (#25908)](https://github.com/erigontech/erigon/commit/59a1153e492f28dea7693969eec4c770c2926b92) - 2026-11-08
+* [Commit] [execution/stagedsync, execution/exec: one senders path for every block, cached on the tx (#25920)](https://github.com/erigontech/erigon/commit/9360f96388c6ef94caed79093a2dc3fd975eb75e) - 2026-11-08
+* [Commit] [execution/p2p: hold header ranges until four overlap in the in-flight walk test (#25881)](https://github.com/erigontech/erigon/commit/cb0783be9b3b54009da3c21bf05dd9c83f4beb4f) - 2026-11-08
 ## Q3 2026
 
 

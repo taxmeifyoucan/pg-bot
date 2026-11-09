@@ -97,6 +97,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [.github: build release binaries with GCC 14.2 (#25742)](https://github.com/erigontech/erigon/commit/29541b56d4b7ad2ceb9bdabf42f5c3459109bdee) - 2026-11-07
 * [Commit] [execution/commitment: load the root cell's state before hashing it (#25832)](https://github.com/erigontech/erigon/commit/0a95beceeb2f783d579a62d92ec571846b70f5cb) - 2026-11-07
 * [Commit] [execution, node/privateapi: record a failed BLOCKHASH header read as a state read error (#25834)](https://github.com/erigontech/erigon/commit/f1e5d3d9b2cc00756d92f0c045500d5b89de2679) - 2026-11-07
+* [Commit] [execution/engineapi: do not serve the body of a known bad block (#25914)](https://github.com/erigontech/erigon/commit/362930da40926745b07732193ec0d62b9f68b034) - 2026-11-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02

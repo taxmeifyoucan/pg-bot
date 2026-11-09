@@ -334,6 +334,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(slots): say missed or orphaned for missed slots before the head table (#556)](https://github.com/ethpandaops/lab/commit/145d062daba5d4ea928ea2e1fe56eabdb7b8454c) - 2026-11-07
 * [Commit] [fix(proposals): show orphaned proposals before the head table as unknown (#555)](https://github.com/ethpandaops/lab/commit/2f42342c4eb7791e8b0aeddce8e172c60590c75f) - 2026-11-07
 * [Commit] [feat(slots): read attestation vote counts from fct_attestation_vote_by_block_root (#554)](https://github.com/ethpandaops/lab/commit/3d67953272e8338e3f20ea9b5f9fa763875ef8ad) - 2026-11-07
+* [Pull Request] [feat(network): rebuild the overview around daily series](https://github.com/ethpandaops/lab/pull/560) - 2026-11-08
+* [Pull Request] [fix(xatu): let node locations fill the Location column](https://github.com/ethpandaops/lab/pull/559) - 2026-11-08
+* [Pull Request] [feat(elements): CountryFlag draws SVG flags in place of flag emoji](https://github.com/ethpandaops/lab/pull/558) - 2026-11-08
+* [Pull Request] [feat(network): network overview, country and network pages](https://github.com/ethpandaops/lab/pull/557) - 2026-11-08
+* [Commit] [feat(network): rebuild the overview around daily series (#560)](https://github.com/ethpandaops/lab/commit/3d2841d299e12ccbcad13ab5a0a04781924c492c) - 2026-11-08
+* [Commit] [fix(xatu): let node locations fill the Location column (#559)](https://github.com/ethpandaops/lab/commit/eaebbd656cb3f524163c46c30ed28ce29cf637fb) - 2026-11-08
+* [Commit] [feat(elements): CountryFlag draws SVG flags in place of flag emoji (#558)](https://github.com/ethpandaops/lab/commit/e96fa136ac8aeb7a3ec330c7afce73c7f1cfa2a2) - 2026-11-08
+* [Commit] [feat(network): network overview, country and network pages (#557)](https://github.com/ethpandaops/lab/commit/a8db9f7857a096edd969d7cdad659ce4bcd32a5b) - 2026-11-08
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

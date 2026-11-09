@@ -485,6 +485,27 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(rpc): show recipient, fee cap and Geth units in txpool_inspect summaries (#15685)](https://github.com/NethermindEth/nethermind/commit/d2de860fa228f38089e996e6d8a6b24ddaa5e831) - 2026-11-07
 * [Commit] [fix(simulate): build on the requested base header instead of the canonical one (#15682)](https://github.com/NethermindEth/nethermind/commit/5105a0dd34e76dcbf1f9661b06d85e978fc0c374) - 2026-11-07
 * [Commit] [fix(optimism): omit receipt operator fee fields when the operator fee is unset (#15701)](https://github.com/NethermindEth/nethermind/commit/ecb2ff2b31f32b36409e68b614ac75f3d4b2a6f1) - 2026-11-07
+* [Review] [Review on: fix(tracing): refuse intermediate roots over trie-less historical state](https://github.com/NethermindEth/nethermind/pull/15619#pullrequestreview-5820182996) - 2026-11-08
+* [Review] [Review on: fix(tracing): report CREATE collisions and decode all revert reasons in callTracer](https://github.com/NethermindEth/nethermind/pull/15731#pullrequestreview-5820212843) - 2026-11-08
+* [Review] [Review on: perf(history): clean only the accounts each replayed block cleared](https://github.com/NethermindEth/nethermind/pull/15726#pullrequestreview-5820156039) - 2026-11-08
+* [Review] [Review on: fix(tracing): report failed-opcode semantics as Geth does in struct and prestate tracers](https://github.com/NethermindEth/nethermind/pull/15730#pullrequestreview-5820219422) - 2026-11-08
+* [Review] [Review on: perf(xdc): verify each relayed vote once](https://github.com/NethermindEth/nethermind/pull/15727#pullrequestreview-5820199733) - 2026-11-08
+* [Review] [Review on: fix(debug): stop debug_intermediateRoots at a rejected transaction](https://github.com/NethermindEth/nethermind/pull/15729#pullrequestreview-5820186393) - 2026-11-08
+* [Review] [Review on: fix(debug): align JavaScript tracer context and frames with Geth](https://github.com/NethermindEth/nethermind/pull/15732#pullrequestreview-5820183464) - 2026-11-08
+* [Review] [Review on: fix(debug): prefix buffered invalid-transaction trace errors with "tracing failed:"](https://github.com/NethermindEth/nethermind/pull/15733#pullrequestreview-5820171756) - 2026-11-08
+* [Review] [Review on: perf(flat): find trie nodes through the newest snapshot only](https://github.com/NethermindEth/nethermind/pull/15724#pullrequestreview-5820151537) - 2026-11-08
+* [Review] [Review on: perf(txpool): drop changed accounts from the account cache in a plain loop](https://github.com/NethermindEth/nethermind/pull/15723#pullrequestreview-5820143416) - 2026-11-08
+* [Review] [Review on: perf(merge): keep the GC keeper's post-block collection running at short block times](https://github.com/NethermindEth/nethermind/pull/15390#pullrequestreview-5819123167) - 2026-11-08
+* [Review] [Review on: feat: deterministic benchmark mode and per-block instruction counts](https://github.com/NethermindEth/nethermind/pull/14133#pullrequestreview-5819122270) - 2026-11-08
+* [Review] [Review on: perf(network): skip fetching eth/73 announcements with stale nonces](https://github.com/NethermindEth/nethermind/pull/14499#pullrequestreview-5819108514) - 2026-11-08
+* [Review] [Review on: fix(rpc): note the RPC gas cap in eth_simulateV1 call errors](https://github.com/NethermindEth/nethermind/pull/15392#pullrequestreview-5819096622) - 2026-11-08
+* [Review] [Review on: perf(tracing): skip frame output and deployed-code copies for vmTrace…](https://github.com/NethermindEth/nethermind/pull/15122#pullrequestreview-5819088892) - 2026-11-08
+* [Review] [Review on: perf(flat): keep the trie node cache add and snapshot merges on the calling thread on one processor](https://github.com/NethermindEth/nethermind/pull/14132#pullrequestreview-5819078047) - 2026-11-08
+* [Review] [Review on: refactor(trie): move EOA compression from the state db to node storage](https://github.com/NethermindEth/nethermind/pull/15632#pullrequestreview-5819047853) - 2026-11-08
+* [Commit] [fix(specs): default a zero or missing geth genesis gas limit to 4712388 (#15713)](https://github.com/NethermindEth/nethermind/commit/b76acb9cd693ff69932ec6fb7973b1f119068e4b) - 2026-11-08
+* [Commit] [fix(specs): activate EIP-160 at eip158Block in geth genesis (#15712)](https://github.com/NethermindEth/nethermind/commit/73d8a0c88d3949c986de13ec1689c5d9c9632f84) - 2026-11-08
+* [Commit] [fix(config): treat JSON null as null for config options (#15709)](https://github.com/NethermindEth/nethermind/commit/eecefe18f66c7d0404f45396444317368d130981) - 2026-11-08
+* [Commit] [fix(config): parse bracketed array values as JSON arrays (#15708)](https://github.com/NethermindEth/nethermind/commit/55bcd2df1790e959e949cea604e0d10d29ca936e) - 2026-11-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

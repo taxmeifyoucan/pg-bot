@@ -153,6 +153,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Ignore, without queuing it or requesting its parent, a gossip block whose parent is unknown when its proposer is not the one the head state's proposer lookahead expects at its slot.](https://github.com/OffchainLabs/prysm/pull/17843) - 2026-11-06
 * [Review] [Review on: Acknowledge attestation saves only after their own record is written](https://github.com/OffchainLabs/prysm/pull/17834#pullrequestreview-5800201372) - 2026-11-06
 * [Commit] [Set `--api-timeout` default to 0 (#17842)](https://github.com/OffchainLabs/prysm/commit/283f458e7f30aa6e9cb8179337f4ea5027136945) - 2026-11-06
+* [Pull Request] [`--min-builder-to-local-difference`: fix the usage string, which was a copy of `--min-builder-bid`'s.](https://github.com/OffchainLabs/prysm/pull/17845) - 2026-11-08
+* [Commit] [`--min-builder-to-local-difference`: fix the usage string, which was a copy of `--min-builder-bid`'s. (#17845)](https://github.com/OffchainLabs/prysm/commit/d8c40e938ca2b940fc7919d9817d44cc88540a67) - 2026-11-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

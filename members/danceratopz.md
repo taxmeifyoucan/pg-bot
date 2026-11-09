@@ -74,6 +74,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964) - 2026-11-07
 * [Review] [Review on: fix(test-client-clis): map Erigon empty blob execution errors](https://github.com/ethereum/execution-specs/pull/3962#pullrequestreview-5811976610) - 2026-11-07
 * [Issue] [Test Release Tracker: `tests@v21.0.3`](https://github.com/ethereum/execution-specs/issues/3967) - 2026-11-07
+* [Commit] [fix(test-client-clis): map besu's unrecoverable signature and gas used errors (#3966)](https://github.com/ethereum/execution-specs/commit/636b5f1757b1c5eeb5856030ac9a8058cadc4b70) - 2026-11-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -113,6 +114,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients/besu: load the KZG trusted setup in the background when HIVE_KZG_FAST_SETUP is 1 (#1659)](https://github.com/ethereum/hive/commit/1820201029eeee7fc89aa5e7f16433bc420cb05d) - 2026-11-04
 * [Commit] [clients/go-ethereum: only enable HIVE_EXPECT_DEEP_REORGS and HIVE_KZG_FAST_SETUP when set to 1 (#1655)](https://github.com/ethereum/hive/commit/b18037f2c010471b3d58aade4f165d510de59162) - 2026-11-04
 * [Commit] [clients: map and dump the genesis in one jq pass (#1652)](https://github.com/ethereum/hive/commit/71234e3ffb35525948522a1a25e14bd7afb2e342) - 2026-11-05
+* [Pull Request] [clients/ethrex: import the blocks directory in one process](https://github.com/ethereum/hive/pull/1661) - 2026-11-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 

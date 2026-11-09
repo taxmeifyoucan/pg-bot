@@ -65,6 +65,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Improve proposer filtering of packed attestations](https://github.com/OffchainLabs/prysm/pull/17805#pullrequestreview-5732920738) - 2026-11-02
 * [Review] [Review on: Use cached fork tip states to validate proposer preferences](https://github.com/OffchainLabs/prysm/pull/17788#pullrequestreview-5767022583) - 2026-11-04
 * [Review] [Review on: Log streaming no longer blocks the logger.](https://github.com/OffchainLabs/prysm/pull/17838#pullrequestreview-5783835335) - 2026-11-05
+* [Review] [Review on: `--min-builder-to-local-difference`: fix the usage string, which was a copy of `--min-builder-bid`'s.](https://github.com/OffchainLabs/prysm/pull/17845#pullrequestreview-5818447955) - 2026-11-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 

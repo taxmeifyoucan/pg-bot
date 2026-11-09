@@ -162,6 +162,17 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: reject a batch over the limit before allocating its messages](https://github.com/erigontech/erigon/pull/25873#pullrequestreview-5811253518) - 2026-11-07
 * [Commit] [cmd/rpcdaemon: authenticate /health on the engine port and cap its body (#25871)](https://github.com/erigontech/erigon/commit/c31a5ea55e52aa9a50717d5524db300289ad1241) - 2026-11-08
 * [Commit] [cmd/rpcdaemon: apply --rpc.batch.limit on the engine port (#25872)](https://github.com/erigontech/erigon/commit/dc5994e540f8622df15131e89bd6c2e90a2c130f) - 2026-11-07
+* [Pull Request] [rpc/rpchelper, rpc/jsonrpc: answer cached eth_gasPrice without a temporal tx](https://github.com/erigontech/erigon/pull/25936) - 2026-11-08
+* [Pull Request] [docs/site: document transactionHash in trace_replayTransaction responses](https://github.com/erigontech/erigon/pull/25938) - 2026-11-08
+* [Pull Request] [docs/site: document the null result of overlay_callConstructor](https://github.com/erigontech/erigon/pull/25947) - 2026-11-08
+* [Pull Request] [rpc/rpchelper: make TestConcurrentTouchAndEviction deterministic](https://github.com/erigontech/erigon/pull/25948) - 2026-11-08
+* [Commit] [.github/workflows: add eth_getBlockReceipts and eth_getBlockByNumber, on latest and on block numbers, to RPC Performance Tests Latest (#25867)](https://github.com/erigontech/erigon/commit/9af637d764bab95459e81feac03f5c85723fafd1) - 2026-11-09
+* [Commit] [rpc/rpchelper, rpc/jsonrpc: answer cached eth_gasPrice without a temporal tx (#25936)](https://github.com/erigontech/erigon/commit/b8bba307c05b45ec4eee778ba50b60cae3d56b7f) - 2026-11-09
+* [Commit] [docs/site: document transactionHash in trace_replayTransaction responses (#25938)](https://github.com/erigontech/erigon/commit/9822196a47d00abf8928cf8307d1eed234d7a453) - 2026-11-09
+* [Commit] [docs/site: document the null result of overlay_callConstructor (#25947)](https://github.com/erigontech/erigon/commit/dcc1d9ba3e6735b25b99c72e7a2644d026bb5ba1) - 2026-11-09
+* [Commit] [rpc/rpchelper: make TestConcurrentTouchAndEviction deterministic (#25948)](https://github.com/erigontech/erigon/commit/185c7ab17eff91cdb6d039ffd9668e9d73baf908) - 2026-11-09
+* [Commit] [.github/workflows: mark a clear Erigon lead in the RPC performance summary (#25930)](https://github.com/erigontech/erigon/commit/5e02c9416d7ad0787bc5b67de6f6d6d87ea42199) - 2026-11-08
+* [Commit] [rpc: reject a batch over the limit before allocating its messages (#25873)](https://github.com/erigontech/erigon/commit/1cdfb3cf60599c88bbc962231edfe261e857fb28) - 2026-11-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -230,6 +241,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen: a subcommand for every method, and tag=latest for the block lookups (#651)](https://github.com/erigontech/rpc-tests/commit/3e69e755f9cf275a54216604e3f78c6e014196a4) - 2026-11-05
 * [Commit] [perf: describe a JSONL pattern in an optional header line (#649)](https://github.com/erigontech/rpc-tests/commit/e45b930f0ef7cabb2a241a28b8cae4ff120a75b1) - 2026-11-05
 * [Pull Request] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts](https://github.com/erigontech/rpc-tests/pull/652) - 2026-11-06
+* [Commit] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts (#652)](https://github.com/erigontech/rpc-tests/commit/7028a131c0260e42422f80bbef2c1e1280547436) - 2026-11-08
 ## Q3 2026
 
 

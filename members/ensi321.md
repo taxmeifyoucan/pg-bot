@@ -59,6 +59,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5817230694) - 2026-11-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14
