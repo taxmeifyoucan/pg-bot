@@ -16,6 +16,12 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955#pullrequestreview-5545225535) - 2026-10-16
 * [Commit] [cmd/keeper: add support for wasm zisk (#35849)](https://github.com/ethereum/go-ethereum/commit/f3dc09bb2d891d15cabdd3f533fce1566df20a1d) - 2026-11-02
 * [Pull Request] [build, cmd/keeper: speed up zkvm guest by mocking packages that add to startup time](https://github.com/ethereum/go-ethereum/pull/36078) - 2026-11-06
+* [Pull Request] [cmd/keeper: add missing klauspost/cpuid/v2 dependency](https://github.com/ethereum/go-ethereum/pull/36093) - 2026-11-09
+* [Pull Request] [go.mod, crypto, cmd/keeper: recover and verify secp256k1 using zisk precompiles](https://github.com/ethereum/go-ethereum/pull/36094) - 2026-11-09
+* [Pull Request] [trie, core/state: remove the unified binary trie and eip4762](https://github.com/ethereum/go-ethereum/pull/36091) - 2026-11-09
+* [Review] [Review on: cmd/evm: run the EIP-8297 binary tree in t8n](https://github.com/ethereum/go-ethereum/pull/35960#pullrequestreview-5828243240) - 2026-11-09
+* [Commit] [cmd/keeper: add missing klauspost/cpuid/v2 dependency (#36093)](https://github.com/ethereum/go-ethereum/commit/c863eecbddb2c9db2cd2f07bb1db80740d75a5b3) - 2026-11-09
+* [Commit] [build, cmd/keeper: speed up zkvm guest by mocking packages that add to startup time (#36078)](https://github.com/ethereum/go-ethereum/commit/667498666f7bdcd335793babf1ad94c6ad7c3fcc) - 2026-11-09
 ## Q3 2026
 
 

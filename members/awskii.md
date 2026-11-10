@@ -337,6 +337,41 @@ Team: Erigon
 * [Commit] [execution/commitment: raise branch cache tail capacity to 125k entries (#25908)](https://github.com/erigontech/erigon/commit/59a1153e492f28dea7693969eec4c770c2926b92) - 2026-11-08
 * [Commit] [execution/stagedsync, execution/exec: one senders path for every block, cached on the tx (#25920)](https://github.com/erigontech/erigon/commit/9360f96388c6ef94caed79093a2dc3fd975eb75e) - 2026-11-08
 * [Commit] [execution/p2p: hold header ranges until four overlap in the in-flight walk test (#25881)](https://github.com/erigontech/erigon/commit/cb0783be9b3b54009da3c21bf05dd9c83f4beb4f) - 2026-11-08
+* [Review] [Review on: rpc/mcp: refuse browser pages from other origins, limit the body](https://github.com/erigontech/erigon/pull/25991#pullrequestreview-5831003400) - 2026-11-09
+* [Review] [Review on: rpc/jsonrpc: erigon_getLatestLogs with a count obeys the range limit](https://github.com/erigontech/erigon/pull/25995#pullrequestreview-5831012474) - 2026-11-09
+* [Review] [Review on: p2p/sentry: do not hex-dump undecodable requests into logs](https://github.com/erigontech/erigon/pull/25996#pullrequestreview-5831088190) - 2026-11-09
+* [Review] [Review on: [r3.8] backport db, downloader and rpc fixes](https://github.com/erigontech/erigon/pull/25978#pullrequestreview-5831079760) - 2026-11-09
+* [Review] [Review on: cl/sentinel/handlers: bound the DataColumnSidecarsByRange scan](https://github.com/erigontech/erigon/pull/26001#pullrequestreview-5831026288) - 2026-11-09
+* [Review] [Review on: cl/clparams: use the gnosis partial withdrawals sweep on Chiado](https://github.com/erigontech/erigon/pull/26002#pullrequestreview-5831101081) - 2026-11-09
+* [Review] [Review on: rpc/transactions: a client trace timeout cannot raise the server's](https://github.com/erigontech/erigon/pull/25997#pullrequestreview-5831017023) - 2026-11-09
+* [Pull Request] [db/state: remove unused SnapshotRepo, port its tests to production types](https://github.com/erigontech/erigon/pull/26016) - 2026-11-09
+* [Review] [Review on: db/snapcfg: drop a registry entry naming an index its type lacks](https://github.com/erigontech/erigon/pull/26004#pullrequestreview-5831105197) - 2026-11-09
+* [Pull Request] [ci: split the hive-eest bogota-devnet shard by test directory](https://github.com/erigontech/erigon/pull/26047) - 2026-11-10
+* [Review] [Review on: execution/state: NotifyAccumulator notifies each account once](https://github.com/erigontech/erigon/pull/25982#pullrequestreview-5830989407) - 2026-11-09
+* [Review] [Review on: cl/rpc: limit parsed chunks to what each request asked for](https://github.com/erigontech/erigon/pull/26000#pullrequestreview-5831021493) - 2026-11-09
+* [Pull Request] [Dockerfile: fall back to direct module fetch on Go proxy errors](https://github.com/erigontech/erigon/pull/26043) - 2026-11-10
+* [Review] [Review on: [r3.8] backport p2p and sentry limits](https://github.com/erigontech/erigon/pull/25975#pullrequestreview-5831066864) - 2026-11-09
+* [Issue] [tracers/js: a throwing or null JS tracer panics debug_trace* instead of returning an error](https://github.com/erigontech/erigon/issues/26038) - 2026-11-10
+* [Issue] [eest-spec: test_block_at_rlp_size_limit_boundary[fork_Amsterdam-max_rlp_size] gets a 400 parse error from the engine API](https://github.com/erigontech/erigon/issues/26037) - 2026-11-10
+* [Issue] [cl/sentinel/httpreqresp: TestRequestContextCancelClosesEstablishedStream gets nil instead of context canceled](https://github.com/erigontech/erigon/issues/26036) - 2026-11-10
+* [Issue] [cl/das: TestBlobsRecoverWorkersDoNotStarveHealthyRootBehindPersistentUnavailable: not every recovery worker reached persistent unavailable storage](https://github.com/erigontech/erigon/issues/26035) - 2026-11-10
+* [Issue] [execution/engineapi: TestEngineApiCrashRecovery/ancestor/overlay_published fails on Windows: child exited before the crash boundary](https://github.com/erigontech/erigon/issues/26034) - 2026-11-10
+* [Issue] [execution/stagedsync: "revalidate oracle: clean tx failed finalize re-validation" panic in TestExecutionWitness](https://github.com/erigontech/erigon/issues/26033) - 2026-11-10
+* [Issue] [execution/engineapi: TestEngineApiReorgWithPruningInterference fails again: poke submission did not settle](https://github.com/erigontech/erigon/issues/26032) - 2026-11-10
+* [Issue] [cl/phase1/network: TestForwardRequestMoreDoesNotPreferHTTPWithoutProgress fails on Windows: HTTP response did not reach processing](https://github.com/erigontech/erigon/issues/26031) - 2026-11-10
+* [Issue] [kurtosis: glamsterdam stability-check fails with "too many forks: 1" on one erigon-lighthouse node](https://github.com/erigontech/erigon/issues/26030) - 2026-11-10
+* [Commit] [db/integrity: check blob coverage from the stored blobs-archive-from-slot (#25974)](https://github.com/erigontech/erigon/commit/5f4ec24189392bf517e9106c2f278ec337a45e3e) - 2026-11-09
+* [Commit] [execution/state: trim per-transaction work in the BAL builder and ApplyWrites (#25954)](https://github.com/erigontech/erigon/commit/ede0467b259ad8e17cc0443c15011c3d9285c062) - 2026-11-09
+* [Commit] [execution: preallocate slices whose length is known before the loop (#25966)](https://github.com/erigontech/erigon/commit/c4920e3548c37dcf763de3e351fe4f5551c37b2a) - 2026-11-09
+* [Commit] [db/state, db/integrity: allocate known-length name and path slices and assign by index (#25971)](https://github.com/erigontech/erigon/commit/09bc19cf80165fdad05eb387e49e331ca94f6b2a) - 2026-11-09
+* [Commit] [execution: check the executed BAL against the block's sidecar (#25946)](https://github.com/erigontech/erigon/commit/08fc1351c38ed7ac8c621256618d99d43fe070e4) - 2026-11-09
+* [Commit] [rpc/jsonrpc: preallocate filter changes, callMany results and witness nodes (#25967)](https://github.com/erigontech/erigon/commit/f5b9fa09df1413a77e8e35faa60904452ee113f9) - 2026-11-09
+* [Commit] [db/kv/prune: resume a cancelled dup walk from the pruned key (#25957)](https://github.com/erigontech/erigon/commit/99e9bb1364d6d5b1e178779fc94aea0bbb14607e) - 2026-11-09
+* [Commit] [ci: fix update-disk-sizes target branch and push permission (#25959)](https://github.com/erigontech/erigon/commit/5d26726c59bb6b6b37b19eca3f433b194d8792df) - 2026-11-09
+* [Commit] [txnprovider/shutter: preallocate decoded C3 blocks and validator indices (#25969)](https://github.com/erigontech/erigon/commit/0e33fb528dcfbf82d4a243e0e0ad0238d5d9aa11) - 2026-11-09
+* [Commit] [cl: allocate known-length slices up front and assign by index (#25970)](https://github.com/erigontech/erigon/commit/dc93503a239d34cd0ea3159b020ed3db1b28cb10) - 2026-11-09
+* [Commit] [execution/engineapi/engine_helpers: remove unused ForkValidator (#25981)](https://github.com/erigontech/erigon/commit/6e0df53d675b33740cf47c3953da9792b06d7857) - 2026-11-09
+* [Commit] [execution/stagedsync: drop per-transaction allocations in the publish loop (#25945)](https://github.com/erigontech/erigon/commit/ebb4958d722140b1ec26d6ee6d70c53646518ebc) - 2026-11-09
 ## Q3 2026
 
 

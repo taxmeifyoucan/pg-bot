@@ -368,6 +368,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5810130447) - 2026-11-07
 * [Review] [Review on: feat: pre-verify deposit signatures in zig](https://github.com/ChainSafe/lodestar/pull/10556#pullrequestreview-5810059703) - 2026-11-07
 * [Review] [Review on: chore(deps): bump the actions group with 3 updates](https://github.com/ChainSafe/lodestar/pull/10532#pullrequestreview-5810111564) - 2026-11-07
+* [Commit] [feat: make the builder bid deadline configurable (#10422)](https://github.com/ChainSafe/lodestar/commit/0bb5c87a7e21e41635fe4c3e80eb7d5a8c5f234f) - 2026-11-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

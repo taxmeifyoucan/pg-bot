@@ -21,15 +21,19 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Pull Request] [✨ feat(tests): EIP-8141 extend secp r coverage](https://github.com/ethereum/execution-specs/pull/3956) - 2026-11-04
 * [Pull Request] [✨ feat(test-types): P256 signing utility](https://github.com/ethereum/execution-specs/pull/3961) - 2026-11-06
 * [Issue] [Bug: [Low] Mixup of calldata token per byte and byte per gas values](https://github.com/ethereum/execution-specs/issues/3968) - 2026-11-07
+* [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5828432963) - 2026-11-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
 
 * [Pull Request] [Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/pull/12603) - 2026-10-31
 * [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5723209718) - 2026-10-31
 * [Commit] [Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/commit/dc5d5fa688b7fe87b95a907fcc128b4fde2f4d2f) - 2026-11-01
+* [Pull Request] [Update EIP-7976: Update parameter names](https://github.com/ethereum/EIPs/pull/12639) - 2026-11-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956) - 2026-10-23
 
+* [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5829385173) - 2026-11-09
+* [Commit] [✨ feat(engine): Simplify inclusion list type (#956)](https://github.com/ethereum/execution-apis/commit/981aa66d79364be8322a9c358aaf0a571cca0873) - 2026-11-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [✨ feat(clients/etherex): Local dockerfile](https://github.com/ethereum/hive/pull/1657) - 2026-11-03
 * [Commit] [✨ feat(clients/etherex): Local dockerfile (#1657)](https://github.com/ethereum/hive/commit/da717d611b0b4bac61a02006d6ee9e7a00c736ce) - 2026-11-04

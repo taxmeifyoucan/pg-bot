@@ -190,6 +190,27 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Test `trace_filter` `safe`/`finalized` bounds on the success path instead of through an error message](https://github.com/besu-eth/besu/issues/11891) - 2026-11-09
 * [Issue] [`admin_logsRemoveCache` returns `Internal error` and logs at `ERROR` for an unknown block](https://github.com/besu-eth/besu/issues/11892) - 2026-11-09
 * [Commit] [Use the Eclipse Temurin JRE again in the Docker images (#11877)](https://github.com/besu-eth/besu/commit/8f01c7a3200780b00163ab76d544e0ef6646da41) - 2026-11-08
+* [Review] [Review on: Limit the size of the debug_standardTrace*ToFile trace directory](https://github.com/besu-eth/besu/pull/11816#pullrequestreview-5837240165) - 2026-11-10
+* [Review] [Review on: Move per-block receipt and root work off the importing thread](https://github.com/besu-eth/besu/pull/11529#pullrequestreview-5822077936) - 2026-11-09
+* [Pull Request] [CI: Add an on-demand hive workflow](https://github.com/besu-eth/besu/pull/11904) - 2026-11-09
+* [Review] [Review on: Roll back a world state left at a block that was never stored when Besu starts](https://github.com/besu-eth/besu/pull/11882#pullrequestreview-5833604712) - 2026-11-09
+* [Pull Request] [ci: bump gradle/actions to v6.4.1](https://github.com/besu-eth/besu/pull/11909) - 2026-11-09
+* [Review] [Review on: Run a child frame on its parent's EVM and reject mismatched frames](https://github.com/besu-eth/besu/pull/11867#pullrequestreview-5822120289) - 2026-11-09
+* [Pull Request] [Fix CHANGELOG entries listed under the wrong release](https://github.com/besu-eth/besu/pull/11912) - 2026-11-10
+* [Pull Request] [contributing guidelines rewrite, focus on PR quality and review](https://github.com/besu-eth/besu/pull/11911) - 2026-11-10
+* [Review] [Review on: Propagate Bonsai account proof failures instead of returning empty](https://github.com/besu-eth/besu/pull/11673#pullrequestreview-5822678272) - 2026-11-09
+* [Review] [Review on: Move `tx-pool-retention-seconds` to the correct section](https://github.com/besu-eth/besu/pull/11907#pullrequestreview-5835206343) - 2026-11-10
+* [Review] [Review on: Size the FixedCapacityLRUMap table to a power of two](https://github.com/besu-eth/besu/pull/11886#pullrequestreview-5835175394) - 2026-11-10
+* [Review] [Review on: fix(rpc): preserve and validate signed raw trace transactions](https://github.com/besu-eth/besu/pull/11395#pullrequestreview-5835081214) - 2026-11-10
+* [Review] [Review on: Skip executing blocks built by this node in engine_newPayload](https://github.com/besu-eth/besu/pull/11767#pullrequestreview-5834589517) - 2026-11-09
+* [Review] [Review on: Add daniellehrner as EVM code owner](https://github.com/besu-eth/besu/pull/11900#pullrequestreview-5824203291) - 2026-11-09
+* [Pull Request] [ci: make the build job the only Gradle cache writer](https://github.com/besu-eth/besu/pull/11897) - 2026-11-09
+* [Review] [Review on: ci: make the build job the only Gradle cache writer](https://github.com/besu-eth/besu/pull/11897#pullrequestreview-5832648208) - 2026-11-09
+* [Pull Request] [ci: track the allowed actions list in the repository](https://github.com/besu-eth/besu/pull/11910) - 2026-11-09
+* [Issue] [`debug_replayBlock` returns `Success` when the block could not be processed](https://github.com/besu-eth/besu/issues/11895) - 2026-11-09
+* [Issue] [Importing a side block moves the Bonsai head world state off the chain head](https://github.com/besu-eth/besu/issues/11903) - 2026-11-09
+* [Issue] [ETH/SNAP replies to a duplicate RLPx connection go out on the peer's other connection](https://github.com/besu-eth/besu/issues/11898) - 2026-11-09
+* [Commit] [ci: make the build job the only Gradle cache writer (#11897)](https://github.com/besu-eth/besu/commit/2ee8acf27225224e751996d43fc520b55008897a) - 2026-11-09
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

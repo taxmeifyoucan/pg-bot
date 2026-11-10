@@ -73,6 +73,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(flat): default new flat DBs to FlatInTrie on low-memory machines](https://github.com/NethermindEth/nethermind/pull/15699#pullrequestreview-5811382703) - 2026-11-07
 * [Commit] [feat(flat): default new flat DBs to FlatInTrie on low-memory machines (#15699)](https://github.com/NethermindEth/nethermind/commit/d9b2b4662c6d71c9e52b24e219f0b1010bd607cf) - 2026-11-08
 * [Review] [Review on: fix(db): count open snapshots per version in SnapshotableMemDb](https://github.com/NethermindEth/nethermind/pull/15635#pullrequestreview-5821075850) - 2026-11-09
+* [Pull Request] [perf(state): walk node records in storage range and trie dump visitors](https://github.com/NethermindEth/nethermind/pull/15763) - 2026-11-10
+* [Pull Request] [perf(flat): serve snap ranges with a node record visitor](https://github.com/NethermindEth/nethermind/pull/15742) - 2026-11-09
+* [Pull Request] [feat(trie): add node record trie visitors](https://github.com/NethermindEth/nethermind/pull/15735) - 2026-11-09
+* [Review] [Review on: feat(trie): add node record trie visitors](https://github.com/NethermindEth/nethermind/pull/15735#pullrequestreview-5823213398) - 2026-11-09
+* [Commit] [feat(trie): add node record trie visitors (#15735)](https://github.com/NethermindEth/nethermind/commit/8ba0b6d05ea0b036524658f5ba1b6d14afd8f20e) - 2026-11-09
+* [Commit] [fix(trie): read embedded branches and extensions in node records (#15740)](https://github.com/NethermindEth/nethermind/commit/2b6ebc5c7506c2cb54e88004e4a2e706d62a160b) - 2026-11-09
 ## Q3 2026
 
 

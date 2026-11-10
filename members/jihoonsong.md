@@ -42,6 +42,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 
+* [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5829260846) - 2026-11-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470) - 2026-10-09
 

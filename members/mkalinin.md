@@ -17,6 +17,11 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Fix fork choice compliance test runner failure](https://github.com/ethereum/consensus-specs/pull/5747#pullrequestreview-5551131324) - 2026-10-16
 * [Pull Request] [Add initial fork choice specs for decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791) - 2026-11-01
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5818675800) - 2026-11-08
+* [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5829079277) - 2026-11-09
+* [Review] [Review on: EIP-8453: update fast and slow lock rules](https://github.com/ethereum/consensus-specs/pull/5806#pullrequestreview-5828082720) - 2026-11-09
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5828960336) - 2026-11-09
 ## Q3 2026
 
 

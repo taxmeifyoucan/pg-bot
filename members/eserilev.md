@@ -55,6 +55,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418#pullrequestreview-5612840506) - 2026-10-22
 * [Pull Request] [Always verify block production ops, only re-check signatures in paranoid mode](https://github.com/sigp/lighthouse/pull/10516) - 2026-11-02
 * [Pull Request] [Update redb to v4](https://github.com/sigp/lighthouse/pull/10541) - 2026-11-08
+* [Commit] [Bump libz-sys to 1.1.31 (#10499)](https://github.com/sigp/lighthouse/commit/0ca76bc944c864b7479bff752f57e51542a7eff0) - 2026-11-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

@@ -27,6 +27,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Fine-tune builder bid rankings (#11603)](https://github.com/Consensys-Incorporated/teku/commit/dd3fd1f354f43bbfda60fa7ea7b17590966fa753) - 2026-11-02
 * [Review] [Review on: Reject builder bids exceeding the slot’s blob limit](https://github.com/Consensys-Incorporated/teku/pull/11614#pullrequestreview-5781870555) - 2026-11-05
 * [Pull Request] [Ban builder URLs temporarily when circuit breaker is triggered](https://github.com/Consensys-Incorporated/teku/pull/11616) - 2026-11-05
+* [Review] [Review on: Log the epoch precompute timings at debug level](https://github.com/Consensys-Incorporated/teku/pull/11620#pullrequestreview-5828283940) - 2026-11-09
 ## Q3 2026
 
 

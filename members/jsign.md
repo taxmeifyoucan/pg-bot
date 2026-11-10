@@ -37,6 +37,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): require the delegate's code even when it is a single STOP](https://github.com/ethereum/execution-specs/pull/3791#pullrequestreview-5507923760) - 2026-10-13
 * [Pull Request] [fix(zkevm): skip witness fixtures that REST+SSZ cannot encode](https://github.com/ethereum/execution-specs/pull/3843) - 2026-10-16
 * [Pull Request] [fix(zkevm): switch EIP-8025 tests from valid_from to valid_at Amsterdam](https://github.com/ethereum/execution-specs/pull/3867) - 2026-10-19
+* [Pull Request] [feat(zkevm): check witness trie nodes only when the block reaches them](https://github.com/ethereum/execution-specs/pull/3934) - 2026-11-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 

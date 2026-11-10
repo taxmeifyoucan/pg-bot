@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378122931) - 2026-10-01
 
+* [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5824432734) - 2026-11-09
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: fix(evmtool): report undecodable block RLP in --json-array output](https://github.com/besu-eth/besu/pull/11329#pullrequestreview-5383233291) - 2026-10-01
 * [Issue] [Unify output redirection in evmtool subcommands](https://github.com/besu-eth/besu/issues/11419) - 2026-10-01

@@ -188,6 +188,22 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(sync): count only stored snap bytecodes (#15654)](https://github.com/NethermindEth/nethermind/commit/d5ff28eaace37c0915bc748bf4608d5514f22cc7) - 2026-11-06
 * [Commit] [fix(monitoring): isolate failures in periodic metric updates (#15650)](https://github.com/NethermindEth/nethermind/commit/ccaf757aea112511914a63a58582a8388d89f8b5) - 2026-11-06
 * [Commit] [test(fixtures): report unreadable fixture files as failing cases (#15640)](https://github.com/NethermindEth/nethermind/commit/ac7d9b8fd673daf117d341cd78b49f298a4d48a9) - 2026-11-06
+* [Review] [Review on: fix(debug): allow empty ordinary creation in traceCall](https://github.com/NethermindEth/nethermind/pull/15745#pullrequestreview-5829640608) - 2026-11-09
+* [Review] [Review on: fix(debug): align traceCall field-inferred fork validation](https://github.com/NethermindEth/nethermind/pull/15746#pullrequestreview-5831884815) - 2026-11-09
+* [Review] [Review on: perf(flat): serve snap ranges with a node record visitor](https://github.com/NethermindEth/nethermind/pull/15742#pullrequestreview-5829685330) - 2026-11-09
+* [Review] [Review on: feat(trie): add node record trie visitors](https://github.com/NethermindEth/nethermind/pull/15735#pullrequestreview-5825734138) - 2026-11-09
+* [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5825658071) - 2026-11-09
+* [Review] [Review on: fix(txpool): accept a self-sponsored set-code tx that replaces the authority's only pending tx](https://github.com/NethermindEth/nethermind/pull/15686#pullrequestreview-5824394870) - 2026-11-09
+* [Review] [Review on: fix(simulate): resolve an omitted nonce when the call executes](https://github.com/NethermindEth/nethermind/pull/15680#pullrequestreview-5824465445) - 2026-11-09
+* [Review] [Review on: fix(tracing): report SELFDESTRUCT and static LOG costs and underflow counts as Geth does](https://github.com/NethermindEth/nethermind/pull/15679#pullrequestreview-5825011904) - 2026-11-09
+* [Review] [Review on: fix(logindex): revert indexed blocks replaced by a reorg](https://github.com/NethermindEth/nethermind/pull/15678#pullrequestreview-5825038406) - 2026-11-09
+* [Pull Request] [fix(rpc): log the cause of internal errors at Debug](https://github.com/NethermindEth/nethermind/pull/15755) - 2026-11-09
+* [Review] [Review on: fix(rpc): log the cause of internal errors at Debug](https://github.com/NethermindEth/nethermind/pull/15755#pullrequestreview-5829262247) - 2026-11-09
+* [Pull Request] [test(fixtures): run blockchain tests that switch to proof of stake at a total difficulty](https://github.com/NethermindEth/nethermind/pull/15750) - 2026-11-09
+* [Review] [Review on: fix(rpc): checksum invalid precompile move source errors](https://github.com/NethermindEth/nethermind/pull/15737#pullrequestreview-5827001767) - 2026-11-09
+* [Commit] [fix(tracing): let the request timeout interrupt JavaScript tracer creation (#15669)](https://github.com/NethermindEth/nethermind/commit/d3a57bf6c2a52003811f2bb5c1a870097a6bb974) - 2026-11-09
+* [Commit] [test(ots): check index worker catch-up order on the worker thread (#15672)](https://github.com/NethermindEth/nethermind/commit/1f09a64e7bb68fee1396a368bddf5a999a8feecd) - 2026-11-09
+* [Commit] [test(fixtures): fail when a fixture class finds no cases, and run or remove the classes that found none (#15645)](https://github.com/NethermindEth/nethermind/commit/44917242595a5a25e592da4b1e8ddb5f6ed05ca6) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

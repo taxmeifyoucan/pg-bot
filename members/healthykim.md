@@ -33,6 +33,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [eth, cmd/devp2p: revert index major cells response](https://github.com/ethereum/go-ethereum/pull/36047) - 2026-11-02
 * [Commit] [eth, cmd/devp2p: revert index major cells response (#36047)](https://github.com/ethereum/go-ethereum/commit/13362a0d4b7e81ba9abb1ff1fae3334d0a2dfe57) - 2026-11-02
 * [Commit] [p2p, eth: experimental support for browser tx submit with quic (#35950)](https://github.com/ethereum/go-ethereum/commit/a5643f143432e6b12494f10139256397e86cd7b6) - 2026-11-02
+* [Pull Request] [eth/protocols/webtx: use RawList for TxSubmit, limit tx count](https://github.com/ethereum/go-ethereum/pull/36092) - 2026-11-09
+* [Commit] [eth/protocols/webtx: use RawList for TxSubmit, limit tx count (#36092)](https://github.com/ethereum/go-ethereum/commit/7a524000d204246a89e3096391b4ffc677da3ab7) - 2026-11-09
 ## Q3 2026
 
 

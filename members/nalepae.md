@@ -155,6 +155,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Set `--api-timeout` default to 0 (#17842)](https://github.com/OffchainLabs/prysm/commit/283f458e7f30aa6e9cb8179337f4ea5027136945) - 2026-11-06
 * [Pull Request] [`--min-builder-to-local-difference`: fix the usage string, which was a copy of `--min-builder-bid`'s.](https://github.com/OffchainLabs/prysm/pull/17845) - 2026-11-08
 * [Commit] [`--min-builder-to-local-difference`: fix the usage string, which was a copy of `--min-builder-bid`'s. (#17845)](https://github.com/OffchainLabs/prysm/commit/d8c40e938ca2b940fc7919d9817d44cc88540a67) - 2026-11-08
+* [Review] [Review on: Check block RPC context bytes against the block's fork digest](https://github.com/OffchainLabs/prysm/pull/17829#pullrequestreview-5824255621) - 2026-11-09
+* [Review] [Review on: Release rate limiter lock before replying to rate-limited peers](https://github.com/OffchainLabs/prysm/pull/17828#pullrequestreview-5824135315) - 2026-11-09
+* [Pull Request] [Skip blocks received by root whose proposer is not the expected one.](https://github.com/OffchainLabs/prysm/pull/17849) - 2026-11-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

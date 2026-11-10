@@ -44,6 +44,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Release v8.3.2](https://github.com/sigp/lighthouse/pull/10433) - 2026-10-22
 * [Review] [Review on: Unschedule Gloas on Hoodi](https://github.com/sigp/lighthouse/pull/10430#pullrequestreview-5618703171) - 2026-10-22
 * [Commit] [Release v8.3.2 (#10433)](https://github.com/sigp/lighthouse/commit/a376defa30470923556d91bdeb15a802e297f31f) - 2026-10-22
+* [Review] [Review on: Convert consensus crate tests to use a compile-time `Spec`](https://github.com/sigp/lighthouse/pull/10470#pullrequestreview-5833593353) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

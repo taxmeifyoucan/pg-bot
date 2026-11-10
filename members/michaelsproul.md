@@ -91,6 +91,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Suggest --purge-db-force in the "Refusing to checkpoint sync" log](https://github.com/sigp/lighthouse/pull/10531#pullrequestreview-5820314411) - 2026-11-09
 * [Review] [Review on: Log the first TimeLatch event instead of swallowing it](https://github.com/sigp/lighthouse/pull/10479#pullrequestreview-5821083994) - 2026-11-09
 * [Review] [Review on: Build slasher tests as C17 to fix mdbx on GCC 15](https://github.com/sigp/lighthouse/pull/10518#pullrequestreview-5820337057) - 2026-11-09
+* [Review] [Review on: Bump `rusqlite` to fix cargo audit failure](https://github.com/sigp/lighthouse/pull/10556#pullrequestreview-5834813828) - 2026-11-10
+* [Pull Request] [Back merge v8.3.3 into unstable](https://github.com/sigp/lighthouse/pull/10553) - 2026-11-09
+* [Pull Request] [Release v8.3.3](https://github.com/sigp/lighthouse/pull/10552) - 2026-11-09
+* [Commit] [Release v8.3.3](https://github.com/sigp/lighthouse/commit/57c2abc13078bf949e4d19df6178a644b064c32c) - 2026-11-09
+* [Commit] [Update libp2p](https://github.com/sigp/lighthouse/commit/bfdf0a3fe4e15bb44dcd6682868074cb7962bbdb) - 2026-11-09
+* [Commit] [Bump crypto-bigint](https://github.com/sigp/lighthouse/commit/e7afb13167f42222027a462558ae271a9f81ff39) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

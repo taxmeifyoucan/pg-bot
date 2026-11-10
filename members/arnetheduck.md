@@ -24,6 +24,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stats: import script fixes](https://github.com/status-im/nimbus-eth1/pull/5060) - 2026-10-23
 * [Commit] [fc: duration metrics (#5056)](https://github.com/status-im/nimbus-eth1/commit/188d577b00bbfa260c309cedd005f73aa109ac73) - 2026-10-23
 * [Commit] [stats: import script fixes (#5060)](https://github.com/status-im/nimbus-eth1/commit/8a8e2dd73c9da2a5bafa1dcb58664a3f3a460f91) - 2026-10-23
+* [Pull Request] [ledger: simplify updates](https://github.com/status-im/nimbus-eth1/pull/5118) - 2026-11-10
+* [Review] [Review on: Use manually allocated EVM memory](https://github.com/status-im/nimbus-eth1/pull/5135#pullrequestreview-5822919221) - 2026-11-09
+* [Review] [Review on: Add parity trace api](https://github.com/status-im/nimbus-eth1/pull/4993#pullrequestreview-5825376118) - 2026-11-09
+* [Commit] [ledger: simplify updates (#5118)](https://github.com/status-im/nimbus-eth1/commit/8383f14c5c75c551db845ebfc74173c307f0c3ea) - 2026-11-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

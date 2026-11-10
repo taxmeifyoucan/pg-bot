@@ -100,6 +100,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-5750922703) - 2026-11-03
 * [Pull Request] [Skip aggregates whose signature is the point at infinity](https://github.com/Consensys-Incorporated/teku/pull/11610) - 2026-11-03
 * [Commit] [Skip aggregates whose signature is the point at infinity (#11610)](https://github.com/Consensys-Incorporated/teku/commit/f78ecce75bd5828589262f00797f93ab1d4c910c) - 2026-11-03
+* [Pull Request] [Log the epoch precompute timings at debug level](https://github.com/Consensys-Incorporated/teku/pull/11620) - 2026-11-09
+* [Review] [Review on: Ban builder URLs temporarily when circuit breaker is triggered](https://github.com/Consensys-Incorporated/teku/pull/11616#pullrequestreview-5828027360) - 2026-11-09
+* [Commit] [Log the epoch precompute timings at debug level (#11620)](https://github.com/Consensys-Incorporated/teku/commit/5a904d66aa33b1a7924ebd0dce16c68c15fefa30) - 2026-11-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

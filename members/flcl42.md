@@ -76,6 +76,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(txpool): drop changed accounts from the account cache in a plain loop](https://github.com/NethermindEth/nethermind/pull/15723#pullrequestreview-5820125427) - 2026-11-08
 * [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5818166152) - 2026-11-08
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/15719#pullrequestreview-5817105395) - 2026-11-08
+* [Review] [Review on: ci: add LukaszRozmej as a /.agents, /.github and /scripts code owner](https://github.com/NethermindEth/nethermind/pull/15743#pullrequestreview-5831495626) - 2026-11-09
+* [Review] [Review on: perf(history): clean only the accounts each replayed block cleared](https://github.com/NethermindEth/nethermind/pull/15726#pullrequestreview-5823560783) - 2026-11-09
+* [Review] [Review on: fix(debug): prefix buffered invalid-transaction trace errors with "tracing failed:"](https://github.com/NethermindEth/nethermind/pull/15733#pullrequestreview-5830394963) - 2026-11-09
+* [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5830346529) - 2026-11-09
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

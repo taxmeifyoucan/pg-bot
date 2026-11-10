@@ -87,6 +87,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485#pullrequestreview-5779535380) - 2026-11-05
 * [Review] [Review on: fix: set gossip payload envelope in the same tick as validation](https://github.com/ChainSafe/lodestar/pull/10549#pullrequestreview-5779475628) - 2026-11-05
 * [Pull Request] [feat: pack SingleAttestation for block production](https://github.com/ChainSafe/lodestar/pull/10567) - 2026-11-07
+* [Review] [Review on: feat: pre-verify deposit signatures in zig](https://github.com/ChainSafe/lodestar/pull/10556#pullrequestreview-5823153170) - 2026-11-09
+* [Review] [Review on: chore(ci): run benchmarks nightly instead of on every PR](https://github.com/ChainSafe/lodestar/pull/10557#pullrequestreview-5836697449) - 2026-11-10
+* [Review] [Review on: fix: serialize gossip core topic subscription changes in sync](https://github.com/ChainSafe/lodestar/pull/10579#pullrequestreview-5836399303) - 2026-11-10
+* [Review] [Review on: fix: return 500 when an additional metrics source rejects](https://github.com/ChainSafe/lodestar/pull/10578#pullrequestreview-5836310334) - 2026-11-10
+* [Review] [Review on: fix: settle all BLS worker pool jobs on close](https://github.com/ChainSafe/lodestar/pull/10577#pullrequestreview-5836096812) - 2026-11-10
+* [Review] [Review on: fix: make BeaconNode.close idempotent and run every cleanup step](https://github.com/ChainSafe/lodestar/pull/10576#pullrequestreview-5836013400) - 2026-11-10
+* [Review] [Review on: fix: stop the network processor and remove all listeners on network close](https://github.com/ChainSafe/lodestar/pull/10575#pullrequestreview-5835949348) - 2026-11-10
+* [Review] [Review on: perf: skip sorting block attestation indices](https://github.com/ChainSafe/lodestar/pull/10570#pullrequestreview-5824574024) - 2026-11-09
+* [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5824256728) - 2026-11-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

@@ -115,6 +115,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01
 
+* [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5834546419) - 2026-11-09
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Commit] [Merge pull request #533 from lucassaldanha/gossip-metrics-hooks](https://github.com/libp2p/jvm-libp2p/commit/491163cb5917bff58b03b4c6a649caf508652898) - 2026-10-02
 

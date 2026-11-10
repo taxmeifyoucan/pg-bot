@@ -66,6 +66,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Use cached fork tip states to validate proposer preferences](https://github.com/OffchainLabs/prysm/pull/17788#pullrequestreview-5767022583) - 2026-11-04
 * [Review] [Review on: Log streaming no longer blocks the logger.](https://github.com/OffchainLabs/prysm/pull/17838#pullrequestreview-5783835335) - 2026-11-05
 * [Review] [Review on: `--min-builder-to-local-difference`: fix the usage string, which was a copy of `--min-builder-bid`'s.](https://github.com/OffchainLabs/prysm/pull/17845#pullrequestreview-5818447955) - 2026-11-08
+* [Review] [Review on: Ignore, without queuing it or requesting its parent, a gossip block whose parent is unknown when its proposer is not the one the head state's proposer lookahead expects at its slot.](https://github.com/OffchainLabs/prysm/pull/17843#pullrequestreview-5834951601) - 2026-11-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 

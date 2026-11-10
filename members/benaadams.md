@@ -318,6 +318,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143#pullrequestreview-5632403123) - 2026-10-23
 * [Review] [Review on: perf(merge): write the newPayload Received line after the block is queued](https://github.com/NethermindEth/nethermind/pull/15153#pullrequestreview-5632402648) - 2026-10-23
 * [Commit] [ci: introduce C# script validation and migrate solution reference tests (#15136)](https://github.com/NethermindEth/nethermind/commit/f5b55c73a4d90f3fd2b37aa3ff024549b49cbeb1) - 2026-10-23
+* [Review] [Review on: ci: add LukaszRozmej as a /.agents, /.github and /scripts code owner](https://github.com/NethermindEth/nethermind/pull/15743#pullrequestreview-5830213186) - 2026-11-09
+* [Review] [Review on: fix(discv5): accept a peer's ENR only when it advertises the packet source endpoint](https://github.com/NethermindEth/nethermind/pull/15748#pullrequestreview-5830213617) - 2026-11-09
+* [Review] [Review on: perf(zkevm): use ZisK 1.4 library calls for DIV, keccak256 and ecrecover](https://github.com/NethermindEth/nethermind/pull/15077#pullrequestreview-5830210241) - 2026-11-09
+* [Review] [Review on: ci: publish reference assemblies preview to nugettest.org from release branches](https://github.com/NethermindEth/nethermind/pull/15752#pullrequestreview-5830214006) - 2026-11-09
+* [Review] [Review on: fix(txpool): accept a self-sponsored set-code tx that replaces the authority's only pending tx](https://github.com/NethermindEth/nethermind/pull/15686#pullrequestreview-5830212407) - 2026-11-09
+* [Review] [Review on: fix(simulate): resolve an omitted nonce when the call executes](https://github.com/NethermindEth/nethermind/pull/15680#pullrequestreview-5830212005) - 2026-11-09
+* [Review] [Review on: fix(tracing): report SELFDESTRUCT and static LOG costs and underflow counts as Geth does](https://github.com/NethermindEth/nethermind/pull/15679#pullrequestreview-5830207088) - 2026-11-09
+* [Review] [Review on: fix(logindex): revert indexed blocks replaced by a reorg](https://github.com/NethermindEth/nethermind/pull/15678#pullrequestreview-5830206514) - 2026-11-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

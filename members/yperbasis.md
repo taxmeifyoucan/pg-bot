@@ -328,6 +328,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [cl/sentinel: reject trailing data in bounded SSZ request decoding](https://github.com/erigontech/erigon/issues/25929) - 2026-11-08
 * [Commit] [cl/sentinel: prevent request cost overflow and duplicate work (#25809)](https://github.com/erigontech/erigon/commit/d8b96416349d29a5260b50df17ad75518d4061fd) - 2026-11-08
 * [Commit] [p2p: discard committed invalid BALs without peer penalties (#25856)](https://github.com/erigontech/erigon/commit/f313a69227b8e4de4dac67f8ff482712a08c3924) - 2026-11-08
+* [Review] [Review on: docs/site: debug_getModifiedAccountsBy* return null for an empty range](https://github.com/erigontech/erigon/pull/25937#pullrequestreview-5825429673) - 2026-11-09
+* [Review] [Review on: [r3.8] backport db, downloader and rpc fixes](https://github.com/erigontech/erigon/pull/25978#pullrequestreview-5825023334) - 2026-11-09
+* [Review] [Review on: [r3.8] backport p2p and sentry limits](https://github.com/erigontech/erigon/pull/25975#pullrequestreview-5824876217) - 2026-11-09
+* [Issue] [notifications: bind state updates and recovery to a consistent execution view](https://github.com/erigontech/erigon/issues/26013) - 2026-11-09
+* [Issue] [txpool: refresh all pooled senders after incomplete state notifications](https://github.com/erigontech/erigon/issues/25984) - 2026-11-09
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

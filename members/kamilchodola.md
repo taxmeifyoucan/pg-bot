@@ -81,6 +81,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(tracing): check a prestate call target's delegation once per transaction](https://github.com/NethermindEth/nethermind/pull/15169) - 2026-10-23
 * [Commit] [perf(evm): resolve the per-opcode gas cost tracers once per transaction (#15185)](https://github.com/NethermindEth/nethermind/commit/568a02ebfa32ac39357d09678df81b1068561139) - 2026-10-23
 * [Commit] [perf(tracing): check a prestate call target's delegation once per transaction (#15169)](https://github.com/NethermindEth/nethermind/commit/7192e7f344d7b4516db02d0140bd5ecd83532caf) - 2026-10-23
+* [Review] [Review on: fix(receipts): store compact receipts with the registered storage decoder](https://github.com/NethermindEth/nethermind/pull/15397#pullrequestreview-5832016092) - 2026-11-09
+* [Review] [Review on: Use one trace module instance per logical processor](https://github.com/NethermindEth/nethermind/pull/15000#pullrequestreview-5831584325) - 2026-11-09
+* [Review] [Review on: perf: experiment with configurable GC pacing](https://github.com/NethermindEth/nethermind/pull/15381#pullrequestreview-5831094356) - 2026-11-09
+* [Review] [Review on: fix(runner): name the unrecognized option and drop the help dump on parse errors](https://github.com/NethermindEth/nethermind/pull/15342#pullrequestreview-5830975511) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

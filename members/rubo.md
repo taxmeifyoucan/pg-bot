@@ -112,6 +112,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(network)!: remove the DotNetty message serializer interfaces](https://github.com/NethermindEth/nethermind/pull/15670) - 2026-11-06
 * [Commit] [build(zkevm): move Nethermind.Zkvm.Abstractions into the repository (#15671)](https://github.com/NethermindEth/nethermind/commit/2aab29e0a851b9aca3a0446430d9294e2c78765c) - 2026-11-06
 * [Commit] [refactor(network)!: remove the DotNetty message serializer interfaces (#15670)](https://github.com/NethermindEth/nethermind/commit/fa8f8b766c2ed0e02583beed131852bb7996fe08) - 2026-11-06
+* [Pull Request] [ci: publish reference assemblies preview to nugettest.org from release branches](https://github.com/NethermindEth/nethermind/pull/15752) - 2026-11-09
+* [Review] [Review on: ci: publish reference assemblies preview to nugettest.org from release branches](https://github.com/NethermindEth/nethermind/pull/15752#pullrequestreview-5828635717) - 2026-11-09
+* [Commit] [ci: publish reference assemblies preview to nugettest.org from release branches (#15752)](https://github.com/NethermindEth/nethermind/commit/5a9b7fc5adf41d15619ae5e3555a854bc8e79333) - 2026-11-09
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

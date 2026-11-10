@@ -36,6 +36,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix(eth): reject unordered pooled transaction responses](https://github.com/besu-eth/besu/pull/11551#pullrequestreview-5624879418) - 2026-10-23
 * [Pull Request] [refactor(bonsai-archive): build archive components via BonsaiArchiveFactory](https://github.com/besu-eth/besu/pull/11729) - 2026-10-23
 * [Review] [Review on: bump plugins baseline for 26.11.0](https://github.com/besu-eth/besu/pull/11851#pullrequestreview-5751788132) - 2026-11-03
+* [Review] [Review on: [1/5] snap/2 sorted ingest: let RocksDB add sorted files to a segment](https://github.com/besu-eth/besu/pull/11852#pullrequestreview-5835367294) - 2026-11-10
+* [Pull Request] [Bonsai archive proofs: fix trie-node capture block and coverage gaps](https://github.com/besu-eth/besu/pull/11913) - 2026-11-10
+* [Review] [Review on: ci: bump gradle/actions to v6.4.1](https://github.com/besu-eth/besu/pull/11909#pullrequestreview-5836012342) - 2026-11-10
+* [Review] [Review on: Propagate Bonsai account proof failures instead of returning empty](https://github.com/besu-eth/besu/pull/11673#pullrequestreview-5836184917) - 2026-11-10
 ## Q3 2026
 
 

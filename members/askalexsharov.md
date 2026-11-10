@@ -784,6 +784,67 @@ Team: Erigon
 * [Commit] [db/snapshotsync: remove unused helper, merge log covers all ranges (#25904)](https://github.com/erigontech/erigon/commit/76999cd3ef526324788623b452650c1883c2b1d3) - 2026-11-08
 * [Commit] [txnprovider/txpool: revalidate duplicate P2P replies after a new block (#25892)](https://github.com/erigontech/erigon/commit/4b9c9a55d6870f49aa009f1f55420908511d3700) - 2026-11-08
 * [Commit] [rpc: simulateV1 overrides on NoMaterialize, drop the Prepare state (#25888)](https://github.com/erigontech/erigon/commit/2765ea4ee250ff09e24ef22f9dac963dcb34c03c) - 2026-11-08
+* [Pull Request] [rpc: limit the calls in flight on one WebSocket connection](https://github.com/erigontech/erigon/pull/26059) - 2026-11-10
+* [Pull Request] [rpc/mcp: refuse browser pages from other origins, limit the body](https://github.com/erigontech/erigon/pull/25991) - 2026-11-09
+* [Review] [Review on: rpc/mcp: refuse browser pages from other origins, limit the body](https://github.com/erigontech/erigon/pull/25991#pullrequestreview-5831071591) - 2026-11-09
+* [Pull Request] [db/state: keep commitment files until every squeezed file is ready](https://github.com/erigontech/erigon/pull/26057) - 2026-11-10
+* [Pull Request] [execution/stagedsync: count in-pool re-runs and wasted run time](https://github.com/erigontech/erigon/pull/26048) - 2026-11-10
+* [Review] [Review on: db/state: stop visible files at the first gap](https://github.com/erigontech/erigon/pull/25965#pullrequestreview-5836325478) - 2026-11-10
+* [Pull Request] [cl/p2p: accept gossip subscriptions only for known topics](https://github.com/erigontech/erigon/pull/26058) - 2026-11-10
+* [Pull Request] [rpc/jsonrpc: erigon_getLatestLogs with a count obeys the range limit](https://github.com/erigontech/erigon/pull/25995) - 2026-11-09
+* [Review] [Review on: rpc/jsonrpc: erigon_getLatestLogs with a count obeys the range limit](https://github.com/erigontech/erigon/pull/25995#pullrequestreview-5831064531) - 2026-11-09
+* [Pull Request] [rpc: a failed subscription must not buffer notifications forever](https://github.com/erigontech/erigon/pull/26056) - 2026-11-10
+* [Pull Request] [db/kv/backup: don't replace mdbx.dat with a copy that failed to flush](https://github.com/erigontech/erigon/pull/26055) - 2026-11-10
+* [Pull Request] [execution/exec: a failed write set must not crash the node](https://github.com/erigontech/erigon/pull/26054) - 2026-11-10
+* [Pull Request] [cl/sentinel: free the rate limiter entry of an idle peer](https://github.com/erigontech/erigon/pull/26053) - 2026-11-10
+* [Pull Request] [rpc: answer a malformed GET request with a parse error](https://github.com/erigontech/erigon/pull/26052) - 2026-11-10
+* [Pull Request] [rpc/jsonrpc: a huge timeoutMs must not time out at once](https://github.com/erigontech/erigon/pull/26051) - 2026-11-10
+* [Pull Request] [p2p/sentry: do not hex-dump undecodable requests into logs](https://github.com/erigontech/erigon/pull/25996) - 2026-11-09
+* [Pull Request] [[r3.8] backport db, downloader and rpc fixes](https://github.com/erigontech/erigon/pull/25978) - 2026-11-09
+* [Review] [Review on: [r3.8] backport db, downloader and rpc fixes](https://github.com/erigontech/erigon/pull/25978#pullrequestreview-5822497964) - 2026-11-09
+* [Pull Request] [cl/sentinel/handlers: bound the DataColumnSidecarsByRange scan](https://github.com/erigontech/erigon/pull/26001) - 2026-11-09
+* [Review] [Review on: cl/sentinel/handlers: bound the DataColumnSidecarsByRange scan](https://github.com/erigontech/erigon/pull/26001#pullrequestreview-5826077201) - 2026-11-09
+* [Review] [Review on: p2p/sentry: disconnect peers sending message codes invalid for their eth version](https://github.com/erigontech/erigon/pull/25990#pullrequestreview-5836570065) - 2026-11-10
+* [Pull Request] [go.mod: bump holiman/uint256 for faster Mod](https://github.com/erigontech/erigon/pull/26049) - 2026-11-10
+* [Review] [Review on: execution/engineapi: keep SSZ validation errors valid UTF-8 when truncating](https://github.com/erigontech/erigon/pull/26027#pullrequestreview-5836462331) - 2026-11-10
+* [Review] [Review on: db/kv/membatchwithdb: skip db rows deleted on the overlay in Last](https://github.com/erigontech/erigon/pull/25953#pullrequestreview-5836492201) - 2026-11-10
+* [Review] [Review on: rpc/jsonrpc: test historical eth_simulateV1 against a simulation at the base](https://github.com/erigontech/erigon/pull/25956#pullrequestreview-5836485810) - 2026-11-10
+* [Review] [Review on: execution/builder: dont call a nil txn provider](https://github.com/erigontech/erigon/pull/26022#pullrequestreview-5835961482) - 2026-11-10
+* [Pull Request] [cl/clparams: use the gnosis partial withdrawals sweep on Chiado](https://github.com/erigontech/erigon/pull/26002) - 2026-11-09
+* [Review] [Review on: cl/clparams: use the gnosis partial withdrawals sweep on Chiado](https://github.com/erigontech/erigon/pull/26002#pullrequestreview-5836032415) - 2026-11-10
+* [Pull Request] [rpc/transactions: a client trace timeout cannot raise the server's](https://github.com/erigontech/erigon/pull/25997) - 2026-11-09
+* [Review] [Review on: rpc/transactions: a client trace timeout cannot raise the server's](https://github.com/erigontech/erigon/pull/25997#pullrequestreview-5831154882) - 2026-11-09
+* [Review] [Review on: txnprovider/txpool: skip KZG for nonce-distant blob retries](https://github.com/erigontech/erigon/pull/25898#pullrequestreview-5836514948) - 2026-11-10
+* [Review] [Review on: txnprovider/txpool: kick peers that send blob transactions in a Transactions message](https://github.com/erigontech/erigon/pull/25845#pullrequestreview-5823492212) - 2026-11-09
+* [Review] [Review on: db/downloader: fail VerifyFileFailFast when the file is longer than the torrent](https://github.com/erigontech/erigon/pull/25951#pullrequestreview-5836502450) - 2026-11-10
+* [Review] [Review on: txnprovider/shutter: keep the submission after a gap in EncryptedTxnsPool.Txns](https://github.com/erigontech/erigon/pull/25940#pullrequestreview-5836495672) - 2026-11-10
+* [Review] [Review on: execution/p2p: do not dereference a nil block when dropping a publisher task](https://github.com/erigontech/erigon/pull/26025#pullrequestreview-5836470390) - 2026-11-10
+* [Pull Request] [execution/state: the fold takes a slot's prev value from the write record](https://github.com/erigontech/erigon/pull/26041) - 2026-11-10
+* [Pull Request] [db/snapcfg: drop a registry entry naming an index its type lacks](https://github.com/erigontech/erigon/pull/26004) - 2026-11-09
+* [Review] [Review on: ci: split the hive-eest bogota-devnet shard by test directory](https://github.com/erigontech/erigon/pull/26047#pullrequestreview-5836383545) - 2026-11-10
+* [Pull Request] [rpc/jsonrpc: bound the storage an eth_simulateV1 override replaces](https://github.com/erigontech/erigon/pull/25994) - 2026-11-09
+* [Review] [Review on: rpc/jsonrpc: bound the storage an eth_simulateV1 override replaces](https://github.com/erigontech/erigon/pull/25994#pullrequestreview-5836235964) - 2026-11-10
+* [Pull Request] [txnprovider/txpool: fix a panic after two same-height reorgs](https://github.com/erigontech/erigon/pull/26045) - 2026-11-10
+* [Pull Request] [execution/vm: keep CALLDATALOAD's partial-tail call out of run](https://github.com/erigontech/erigon/pull/26046) - 2026-11-10
+* [Pull Request] [execution/state: Empty on an absent account only records the read](https://github.com/erigontech/erigon/pull/26039) - 2026-11-10
+* [Pull Request] [execution/state: NotifyAccumulator notifies each account once](https://github.com/erigontech/erigon/pull/25982) - 2026-11-09
+* [Pull Request] [cl/rpc: limit parsed chunks to what each request asked for](https://github.com/erigontech/erigon/pull/26000) - 2026-11-09
+* [Review] [Review on: cl/rpc: limit parsed chunks to what each request asked for](https://github.com/erigontech/erigon/pull/26000#pullrequestreview-5826079767) - 2026-11-09
+* [Review] [Review on: Dockerfile: fall back to direct module fetch on Go proxy errors](https://github.com/erigontech/erigon/pull/26043#pullrequestreview-5836109089) - 2026-11-10
+* [Pull Request] [[r3.8] backport p2p and sentry limits](https://github.com/erigontech/erigon/pull/25975) - 2026-11-09
+* [Review] [Review on: [r3.8] backport p2p and sentry limits](https://github.com/erigontech/erigon/pull/25975#pullrequestreview-5836030354) - 2026-11-10
+* [Commit] [rpc/mcp: refuse browser pages from other origins, limit the body (#25991)](https://github.com/erigontech/erigon/commit/7543d899ee82487ded5993d7380a3e8c26ce04a3) - 2026-11-10
+* [Commit] [rpc/jsonrpc: erigon_getLatestLogs with a count obeys the range limit (#25995)](https://github.com/erigontech/erigon/commit/bf01acb4848bc9db6fa2fd5e4ae1df8d38f5d395) - 2026-11-10
+* [Commit] [p2p/sentry: do not hex-dump undecodable requests into logs (#25996)](https://github.com/erigontech/erigon/commit/b0bb47d7d465e7c57ba0cc590556d18df8c0d338) - 2026-11-10
+* [Commit] [rpc/transactions: a client trace timeout cannot raise the server's (#25997)](https://github.com/erigontech/erigon/commit/d81344c23b4cdc309c733c306fc66a5db16b6ed4) - 2026-11-10
+* [Commit] [cl/clparams: use the gnosis partial withdrawals sweep on Chiado (#26002)](https://github.com/erigontech/erigon/commit/a280329a2f6b061e064288ac13dd98ce1a51527c) - 2026-11-10
+* [Commit] [db/snapcfg: drop a registry entry naming an index its type lacks (#26004)](https://github.com/erigontech/erigon/commit/d8515449f9fb29cefce3e4694328daa525f61e7f) - 2026-11-10
+* [Commit] [db/kv/backup: restoreOwner does not follow symlinks (#26005)](https://github.com/erigontech/erigon/commit/e09ec0996295adb27a57ec06e2b2dc5864eec9a5) - 2026-11-10
+* [Commit] [cl/p2p: filter gossipsub subscriptions and limit them per RPC (#26006)](https://github.com/erigontech/erigon/commit/ba002d79e0d0236f26f5c9a4c59f36700efda8eb) - 2026-11-10
+* [Commit] [db/state: slow-block log no longer times every file read (#25949)](https://github.com/erigontech/erigon/commit/72cf4bc2ce9f1d34672b369613b471e2e633fa24) - 2026-11-09
+* [Commit] [execution/state: no tx dependency on a created-empty account removal (#25821)](https://github.com/erigontech/erigon/commit/e1f8daee03d6758e8f89aa157f4ebdb22c4771ec) - 2026-11-09
+* [Commit] [cl/sentinel: refuse a fixed-size request with an oversized prefix (#25918)](https://github.com/erigontech/erigon/commit/be5093c1cfbc38f54af8d094377b1538aeb1a83f) - 2026-11-09
+* [Commit] [cl/sentinel/handlers: test the rate-limit cost of a huge Count (#25917)](https://github.com/erigontech/erigon/commit/ff7a15ed722321e16c34c75cd69e3210f7aa692a) - 2026-11-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

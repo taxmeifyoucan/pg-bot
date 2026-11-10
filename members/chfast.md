@@ -196,6 +196,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [AGENTS: Extend review guidelines](https://github.com/ipsilon/evmone/pull/1809) - 2026-11-07
 * [Pull Request] [test: Encode RLP lengths above 16 MiB](https://github.com/ipsilon/evmone/pull/1807) - 2026-11-07
 * [Issue] [crypto: Keep the safegcd 128-bit sums out of intx::uint128](https://github.com/ipsilon/evmone/issues/1808) - 2026-11-07
+* [Pull Request] [test: Add modular inversion tests](https://github.com/ipsilon/evmone/pull/1812) - 2026-11-09
+* [Commit] [test: Add modular inversion tests (#1812)](https://github.com/ipsilon/evmone/commit/6fb712f3035cb2aa29e810728f11dfb3d786b81e) - 2026-11-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

@@ -486,6 +486,61 @@ Team: Reth
 * [Review] [Review on: fix(rpc): replay bad blocks in debug_intermediateRoots](https://github.com/paradigmxyz/reth/pull/28331#pullrequestreview-5817865218) - 2026-11-08
 * [Commit] [fix(net): give pending sessions and the listener a turn under load (#28332)](https://github.com/paradigmxyz/reth/commit/5efe80f515c96fa34b569a22fb810b54f914cfb0) - 2026-11-08
 * [Commit] [fix(rpc): replay bad blocks in debug_intermediateRoots (#28331)](https://github.com/paradigmxyz/reth/commit/685039caf7b8114d2b246c237bc1f6128ca15e22) - 2026-11-08
+* [Pull Request] [fix(net): check fetched transactions against their announced type and size](https://github.com/paradigmxyz/reth/pull/28363) - 2026-11-09
+* [Review] [Review on: fix(net): check fetched transactions against their announced type and size](https://github.com/paradigmxyz/reth/pull/28363#pullrequestreview-5825706505) - 2026-11-09
+* [Review] [Review on: chore(deps): bump evm2 to 0b448ca](https://github.com/paradigmxyz/reth/pull/28389#pullrequestreview-5834043034) - 2026-11-09
+* [Pull Request] [fix(txpool): refresh validator head on deep canonical commits](https://github.com/paradigmxyz/reth/pull/28359) - 2026-11-09
+* [Review] [Review on: fix(provider): defer static file truncation on reorg](https://github.com/paradigmxyz/reth/pull/28370#pullrequestreview-5833460483) - 2026-11-09
+* [Pull Request] [fix(rpc): check cancellation once per simulated block](https://github.com/paradigmxyz/reth/pull/28390) - 2026-11-09
+* [Pull Request] [fix(rpc): reject system contract code overrides in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/28388) - 2026-11-09
+* [Pull Request] [fix(rpc): bound mev_simBundle work](https://github.com/paradigmxyz/reth/pull/28386) - 2026-11-09
+* [Review] [Review on: fix(rpc): bound mev_simBundle work](https://github.com/paradigmxyz/reth/pull/28386#pullrequestreview-5832936637) - 2026-11-09
+* [Pull Request] [fix(txpool): run blob store cleanup on every finalized block advance](https://github.com/paradigmxyz/reth/pull/28357) - 2026-11-09
+* [Review] [Review on: fix(txpool): run blob store cleanup on every finalized block advance](https://github.com/paradigmxyz/reth/pull/28357#pullrequestreview-5825706001) - 2026-11-09
+* [Pull Request] [fix(txpool): allow same-nonce replacement for senders at slot capacity](https://github.com/paradigmxyz/reth/pull/28358) - 2026-11-09
+* [Pull Request] [feat(txpool): allow subscribing to events of txs held outside the pool](https://github.com/paradigmxyz/reth/pull/28387) - 2026-11-09
+* [Pull Request] [fix(net): move fetching hashes past the eviction fallback search](https://github.com/paradigmxyz/reth/pull/28361) - 2026-11-09
+* [Pull Request] [fix(net): reject banned and untrusted inbound peers before session activation](https://github.com/paradigmxyz/reth/pull/28360) - 2026-11-09
+* [Pull Request] [fix(net): bound the satellite mux eth send queue](https://github.com/paradigmxyz/reth/pull/28381) - 2026-11-09
+* [Review] [Review on: fix(net): bound the satellite mux eth send queue](https://github.com/paradigmxyz/reth/pull/28381#pullrequestreview-5829886099) - 2026-11-09
+* [Pull Request] [perf(net): avoid redundant mux polls](https://github.com/paradigmxyz/reth/pull/28380) - 2026-11-09
+* [Pull Request] [fix(evm): publish the EIP-8037 total tx gas cap to the pool](https://github.com/paradigmxyz/reth/pull/28353) - 2026-11-09
+* [Review] [Review on: fix(node): use configured JIT settings when enabled at runtime](https://github.com/paradigmxyz/reth/pull/28374#pullrequestreview-5827621395) - 2026-11-09
+* [Pull Request] [fix(txpool): skip local senders when selecting pending eviction candidates](https://github.com/paradigmxyz/reth/pull/28352) - 2026-11-09
+* [Pull Request] [perf(provider): reuse in-memory chain for history state](https://github.com/paradigmxyz/reth/pull/28372) - 2026-11-09
+* [Review] [Review on: fix(rpc): skip blob txs in testing_buildBlockV1](https://github.com/paradigmxyz/reth/pull/28379#pullrequestreview-5827645235) - 2026-11-09
+* [Pull Request] [fix(txpool): apply tx fee cap based on submission origin](https://github.com/paradigmxyz/reth/pull/28354) - 2026-11-09
+* [Pull Request] [perf(storage): cut overlay provider setup cost](https://github.com/paradigmxyz/reth/pull/28373) - 2026-11-09
+* [Pull Request] [fix(net): ignore re-announcements from peers that failed to deliver a hash](https://github.com/paradigmxyz/reth/pull/28362) - 2026-11-09
+* [Pull Request] [fix(net): bound pending pool imports by encoded byte size](https://github.com/paradigmxyz/reth/pull/28364) - 2026-11-09
+* [Review] [Review on: fix(net): bound pending pool imports by encoded byte size](https://github.com/paradigmxyz/reth/pull/28364#pullrequestreview-5825787010) - 2026-11-09
+* [Pull Request] [perf(rpc): reuse bytecode of repeated code overrides](https://github.com/paradigmxyz/reth/pull/28371) - 2026-11-09
+* [Review] [Review on: fix(trie): bump alloy-trie to 0.9.9](https://github.com/paradigmxyz/reth/pull/28367#pullrequestreview-5825884874) - 2026-11-09
+* [Pull Request] [fix(txpool): don't treat oversized transactions as bad](https://github.com/paradigmxyz/reth/pull/28355) - 2026-11-09
+* [Review] [Review on: fix(txpool): don't treat oversized transactions as bad](https://github.com/paradigmxyz/reth/pull/28355#pullrequestreview-5825705506) - 2026-11-09
+* [Review] [Review on: chore(cli): remove no-op CLI flags](https://github.com/paradigmxyz/reth/pull/28369#pullrequestreview-5825446495) - 2026-11-09
+* [Commit] [fix(txpool): refresh validator head on deep canonical commits (#28359)](https://github.com/paradigmxyz/reth/commit/2bfbd38134bd6bcac4fcbd4437c93ff5c9d7e268) - 2026-11-09
+* [Commit] [fix(rpc): check cancellation once per simulated block (#28390)](https://github.com/paradigmxyz/reth/commit/9764beb39b2bb6ee9f75dec704b05715a59c0ae8) - 2026-11-09
+* [Commit] [fix(txpool): run blob store cleanup on every finalized block advance (#28357)](https://github.com/paradigmxyz/reth/commit/2edd2f1e750a3ae58bc473fc89ed7d2c0b42479a) - 2026-11-09
+* [Commit] [fix(txpool): allow same-nonce replacement for senders at slot capacity (#28358)](https://github.com/paradigmxyz/reth/commit/f1c244b4d27c050a1ad8e3135f08448151cac3ac) - 2026-11-09
+* [Commit] [feat(txpool): allow subscribing to events of txs held outside the pool (#28387)](https://github.com/paradigmxyz/reth/commit/80b99ebd77dc9e07c8a8da9c1ffe0dd7e77e1bb4) - 2026-11-09
+* [Commit] [fix(net): reject banned and untrusted inbound peers before session activation (#28360)](https://github.com/paradigmxyz/reth/commit/fdfe25a881450c108745614fa3a0dce5163854e6) - 2026-11-09
+* [Commit] [fix(net): move fetching hashes past the eviction fallback search (#28361)](https://github.com/paradigmxyz/reth/commit/7218044b093fd44b75f770c3e137fae0f3902f94) - 2026-11-09
+* [Commit] [fix(net): bound the satellite mux eth send queue (#28381)](https://github.com/paradigmxyz/reth/commit/a4235df087519489ecb0ca4ba9f122d3cc9bca3f) - 2026-11-09
+* [Commit] [fix(evm): publish the EIP-8037 total tx gas cap to the pool (#28353)](https://github.com/paradigmxyz/reth/commit/8868368b4e519024e4ada2a54e99fa603dd702ed) - 2026-11-09
+* [Commit] [fix(txpool): skip local senders when selecting pending eviction candidates (#28352)](https://github.com/paradigmxyz/reth/commit/22e9553da45bf70e45ad73b7467a699fb778c7af) - 2026-11-09
+* [Commit] [perf: replace schnellru with reth-lru (#28291)](https://github.com/paradigmxyz/reth/commit/18bed80c0697e3c768c14d2035bf406b82dc9b4f) - 2026-11-09
+* [Commit] [fix(txpool): apply tx fee cap based on submission origin (#28354)](https://github.com/paradigmxyz/reth/commit/98fd256be9e43bc9ef725e5dab6f19987d809bf7) - 2026-11-09
+* [Commit] [perf(storage): cut overlay provider setup cost (#28373)](https://github.com/paradigmxyz/reth/commit/cb56b244ad3439eb0cc24aae211a8786bbeac0b4) - 2026-11-09
+* [Commit] [fix(net): ignore re-announcements from peers that failed to deliver a hash (#28362)](https://github.com/paradigmxyz/reth/commit/b6f96e7aec3dfcd498a6e98f01dd65ea21811a91) - 2026-11-09
+* [Commit] [fix(prune): cap ExEx height at persisted tip (#28325)](https://github.com/paradigmxyz/reth/commit/c59ecff66d7f1288c4e3e9b6914e18b8b1ad7ac9) - 2026-11-09
+* [Commit] [perf(storage): share overlay manager state behind one Arc (#28333)](https://github.com/paradigmxyz/reth/commit/9bcd861ad772eb46d37f3ed251bde2e5038721f7) - 2026-11-09
+* [Commit] [perf(engine): step the balance tracker only on its opcodes (#28334)](https://github.com/paradigmxyz/reth/commit/b4e4ce10d564d1bc6606a5e9cd94bece1cd6ccdf) - 2026-11-09
+* [Commit] [ci: lock the CLI docs script dependencies (#28350)](https://github.com/paradigmxyz/reth/commit/5a9b98bee4aed4575b9a6e725aed9f696dc76577) - 2026-11-09
+* [Commit] [fix(dns): retry links whose initial root lookup failed (#28346)](https://github.com/paradigmxyz/reth/commit/385c018f7884f16e10c67426cbd6e9162f89f2a9) - 2026-11-09
+* [Commit] [fix(discv5): make ENR conversion fallible (#28345)](https://github.com/paradigmxyz/reth/commit/c252c2dd95ed9312ac192075154b102275497935) - 2026-11-09
+* [Commit] [fix(rpc): cap eth_getProof and eth_getMultiProof key counts (#27716)](https://github.com/paradigmxyz/reth/commit/b5dc94ca372e337d057911cdb4772ea58104bcbe) - 2026-11-09
+* [Commit] [fix(rpc): bound eth_callMany, trace_callMany and debug_traceCallMany (#28314)](https://github.com/paradigmxyz/reth/commit/faf670e16dedad9786ba0faee00aee123133d176) - 2026-11-09
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

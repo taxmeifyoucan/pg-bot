@@ -29,6 +29,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Build slasher tests as C17 to fix mdbx on GCC 15](https://github.com/sigp/lighthouse/pull/10518) - 2026-11-03
 * [Pull Request] [Add an event topic for attestation weight per block](https://github.com/sigp/lighthouse/pull/10517) - 2026-11-03
 * [Review] [Review on: Add missing gossip check for Gloas blocks built on Empty](https://github.com/sigp/lighthouse/pull/10491#pullrequestreview-5751928147) - 2026-11-03
+* [Pull Request] [Bump `rusqlite` to fix cargo audit failure](https://github.com/sigp/lighthouse/pull/10556) - 2026-11-09
+* [Review] [Review on: Update payload attributes when the PTC votes against the head's payload](https://github.com/sigp/lighthouse/pull/10528#pullrequestreview-5835092612) - 2026-11-10
+* [Review] [Review on: Add an event topic for attestation weight per block](https://github.com/sigp/lighthouse/pull/10517#pullrequestreview-5835070036) - 2026-11-10
+* [Review] [Review on: Release v8.3.3](https://github.com/sigp/lighthouse/pull/10552#pullrequestreview-5822315134) - 2026-11-09
+* [Commit] [Build slasher tests as C17 to fix mdbx on GCC 15 (#10518)](https://github.com/sigp/lighthouse/commit/4d328000467bea4e23d92cd810bbd33a176275bf) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
 

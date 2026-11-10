@@ -342,6 +342,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(xatu): let node locations fill the Location column (#559)](https://github.com/ethpandaops/lab/commit/eaebbd656cb3f524163c46c30ed28ce29cf637fb) - 2026-11-08
 * [Commit] [feat(elements): CountryFlag draws SVG flags in place of flag emoji (#558)](https://github.com/ethpandaops/lab/commit/e96fa136ac8aeb7a3ec330c7afce73c7f1cfa2a2) - 2026-11-08
 * [Commit] [feat(network): network overview, country and network pages (#557)](https://github.com/ethpandaops/lab/commit/a8db9f7857a096edd969d7cdad659ce4bcd32a5b) - 2026-11-08
+* [Pull Request] [fix(contracts): read table ends from bounds instead of whole-table scans](https://github.com/ethpandaops/lab/pull/564) - 2026-11-09
+* [Pull Request] [fix(navigation): ScrollableTabs scrolls the selected tab clear of its arrows](https://github.com/ethpandaops/lab/pull/563) - 2026-11-09
+* [Pull Request] [fix(entities): Lido Clients tab reads the per-group graffiti tables](https://github.com/ethpandaops/lab/pull/561) - 2026-11-09
+* [Pull Request] [feat(network): peer pages, city pages and peer lists](https://github.com/ethpandaops/lab/pull/562) - 2026-11-09
+* [Commit] [fix(contracts): read table ends from bounds instead of whole-table scans (#564)](https://github.com/ethpandaops/lab/commit/989fbbf003a64e838fd3d13a289f19e15b253943) - 2026-11-09
+* [Commit] [fix(navigation): ScrollableTabs scrolls the selected tab clear of its arrows (#563)](https://github.com/ethpandaops/lab/commit/468ccb95fd24e66d5a1afa75c96d416459b2aa99) - 2026-11-09
+* [Commit] [feat(network): peer pages, city pages and peer lists (#562)](https://github.com/ethpandaops/lab/commit/cbaab911e4ede7fc237facaca73bb4a87c10ee46) - 2026-11-09
+* [Commit] [fix(entities): Lido Clients tab reads the per-group graffiti tables (#561)](https://github.com/ethpandaops/lab/commit/b1b14611aea755324a02c9a1d4f82cd2a69ea31a) - 2026-11-09
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

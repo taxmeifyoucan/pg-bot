@@ -748,6 +748,26 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(rpc): encode the zero base fee of London simulated headers](https://github.com/NethermindEth/nethermind/pull/15725#pullrequestreview-5819649735) - 2026-11-08
 * [Review] [Review on: perf(proofs): find requested storage keys by binary search in eth_getProof](https://github.com/NethermindEth/nethermind/pull/15717#pullrequestreview-5819629942) - 2026-11-08
 * [Commit] [fix(txpool): let another copy replace a blob tx rejected for its sidecar (#15466)](https://github.com/NethermindEth/nethermind/commit/5c4d08b84cb8fe3aca1e1551c4d311d703374ec2) - 2026-11-08
+* [Review] [Review on: fix(debug): prefer input over data in traceCall arguments](https://github.com/NethermindEth/nethermind/pull/15744#pullrequestreview-5828915801) - 2026-11-09
+* [Review] [Review on: fix(debug): allow empty ordinary creation in traceCall](https://github.com/NethermindEth/nethermind/pull/15745#pullrequestreview-5828886897) - 2026-11-09
+* [Review] [Review on: fix(debug): reject genesis standard-file traces before replay](https://github.com/NethermindEth/nethermind/pull/15758#pullrequestreview-5831655287) - 2026-11-09
+* [Review] [Review on: fix(debug): align traceCall field-inferred fork validation](https://github.com/NethermindEth/nethermind/pull/15746#pullrequestreview-5828870413) - 2026-11-09
+* [Review] [Review on: fix(debug): retain raw-block RLP decoder diagnostics](https://github.com/NethermindEth/nethermind/pull/15757#pullrequestreview-5831663769) - 2026-11-09
+* [Review] [Review on: fix(tracing): forward frame callbacks through composite tracers](https://github.com/NethermindEth/nethermind/pull/15759#pullrequestreview-5831630565) - 2026-11-09
+* [Review] [Review on: fix(rpc): reject non-array params](https://github.com/NethermindEth/nethermind/pull/15722#pullrequestreview-5823070441) - 2026-11-09
+* [Review] [Review on: fix(debug): handle traceCall blob fee caps as Geth does](https://github.com/NethermindEth/nethermind/pull/15643#pullrequestreview-5829040842) - 2026-11-09
+* [Review] [Review on: feat(trie): add node record trie visitors](https://github.com/NethermindEth/nethermind/pull/15735#pullrequestreview-5822878016) - 2026-11-09
+* [Pull Request] [ci: add LukaszRozmej as a /.agents, /.github and /scripts code owner](https://github.com/NethermindEth/nethermind/pull/15743) - 2026-11-09
+* [Pull Request] [fix(discv5): accept a peer's ENR only when it advertises the packet source endpoint](https://github.com/NethermindEth/nethermind/pull/15748) - 2026-11-09
+* [Review] [Review on: perf(zkevm): use ZisK 1.4 library calls for DIV, keccak256 and ecrecover](https://github.com/NethermindEth/nethermind/pull/15077#pullrequestreview-5825278540) - 2026-11-09
+* [Review] [Review on: perf(history): clean only the accounts each replayed block cleared](https://github.com/NethermindEth/nethermind/pull/15726#pullrequestreview-5822930262) - 2026-11-09
+* [Review] [Review on: ci: call the shared ai-review workflow from main](https://github.com/NethermindEth/nethermind/pull/15741#pullrequestreview-5828921828) - 2026-11-09
+* [Review] [Review on: ci: publish reference assemblies preview to nugettest.org from release branches](https://github.com/NethermindEth/nethermind/pull/15752#pullrequestreview-5828510747) - 2026-11-09
+* [Review] [Review on: fix(txpool): accept a self-sponsored set-code tx that replaces the authority's only pending tx](https://github.com/NethermindEth/nethermind/pull/15686#pullrequestreview-5829013316) - 2026-11-09
+* [Review] [Review on: fix(rpc): log the cause of internal errors at Debug](https://github.com/NethermindEth/nethermind/pull/15755#pullrequestreview-5828797161) - 2026-11-09
+* [Review] [Review on: fix(tracing): match unknown panic reason wording](https://github.com/NethermindEth/nethermind/pull/15754#pullrequestreview-5828804269) - 2026-11-09
+* [Review] [Review on: test(fixtures): run blockchain tests that switch to proof of stake at a total difficulty](https://github.com/NethermindEth/nethermind/pull/15750#pullrequestreview-5828809456) - 2026-11-09
+* [Review] [Review on: fix(rpc): checksum invalid precompile move source errors](https://github.com/NethermindEth/nethermind/pull/15737#pullrequestreview-5822767188) - 2026-11-09
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

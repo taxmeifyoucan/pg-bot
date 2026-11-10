@@ -26,6 +26,8 @@ Team: Grandine
 * [Commit] [Updated documentation](https://github.com/grandinetech/grandine/commit/d7ca055e822bba1586238ebf11ef43fc3f8d8803) - 2026-10-22
 * [Pull Request] [Update crate](https://github.com/grandinetech/grandine/pull/1007) - 2026-10-23
 * [Commit] [Update crate](https://github.com/grandinetech/grandine/commit/a63876249043020d8ebe3d410c5cf31b19be1cc2) - 2026-10-23
+* [Issue] [Fallback mechanism for artifact processing](https://github.com/grandinetech/grandine/issues/1028) - 2026-11-09
+* [Issue] [Attestation aggregation performance improvement](https://github.com/grandinetech/grandine/issues/1027) - 2026-11-09
 ## Q3 2026
 
 

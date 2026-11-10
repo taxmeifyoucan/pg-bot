@@ -121,6 +121,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5780457353) - 2026-11-05
 * [Review] [Review on: perf: reuse epoch transition buffers](https://github.com/ChainSafe/lodestar/pull/10523#pullrequestreview-5780209580) - 2026-11-05
 * [Review] [Review on: chore: remove zig fork choice implementation](https://github.com/ChainSafe/lodestar/pull/10565#pullrequestreview-5800341821) - 2026-11-06
+* [Pull Request] [fix: serialize gossip core topic subscription changes in sync](https://github.com/ChainSafe/lodestar/pull/10579) - 2026-11-09
+* [Review] [Review on: fix: serialize gossip core topic subscription changes in sync](https://github.com/ChainSafe/lodestar/pull/10579#pullrequestreview-5832066551) - 2026-11-09
+* [Pull Request] [fix: return 500 when an additional metrics source rejects](https://github.com/ChainSafe/lodestar/pull/10578) - 2026-11-09
+* [Pull Request] [fix: settle all BLS worker pool jobs on close](https://github.com/ChainSafe/lodestar/pull/10577) - 2026-11-09
+* [Review] [Review on: perf: speed up attestation processing](https://github.com/ChainSafe/lodestar/pull/10563#pullrequestreview-5832148006) - 2026-11-09
+* [Pull Request] [fix: make BeaconNode.close idempotent and run every cleanup step](https://github.com/ChainSafe/lodestar/pull/10576) - 2026-11-09
+* [Pull Request] [fix: stop the network processor and remove all listeners on network close](https://github.com/ChainSafe/lodestar/pull/10575) - 2026-11-09
+* [Pull Request] [fix: await all fork publications of a BLS to execution change](https://github.com/ChainSafe/lodestar/pull/10580) - 2026-11-09
+* [Review] [Review on: test: apply state fork epoch over per-case spec config in operations tests](https://github.com/ChainSafe/lodestar/pull/10572#pullrequestreview-5831928915) - 2026-11-09
+* [Review] [Review on: chore: track block recv to consensus verified delay on Grafana](https://github.com/ChainSafe/lodestar/pull/10573#pullrequestreview-5831914948) - 2026-11-09
+* [Commit] [fix: return 500 when an additional metrics source rejects (#10578)](https://github.com/ChainSafe/lodestar/commit/3ff306e42be67242d5ed442263c610d9669cb0bc) - 2026-11-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

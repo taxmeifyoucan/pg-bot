@@ -26,6 +26,11 @@ Team: Reth
 * [Pull Request] [perf(trie): batch keccak in proof calculator branches](https://github.com/paradigmxyz/reth/pull/28279) - 2026-11-04
 * [Pull Request] [perf(trie): batch keccak and use a fixed pool in arena trie](https://github.com/paradigmxyz/reth/pull/28277) - 2026-11-04
 * [Commit] [test(snap): stop the engine before the reorg restart (#28267)](https://github.com/paradigmxyz/reth/commit/5f46c757deda9f40f39994944f3b7adbcec3366c) - 2026-11-05
+* [Review] [Review on: fix(txpool): refresh validator head on deep canonical commits](https://github.com/paradigmxyz/reth/pull/28359#pullrequestreview-5834077509) - 2026-11-09
+* [Review] [Review on: fix(txpool): run blob store cleanup on every finalized block advance](https://github.com/paradigmxyz/reth/pull/28357#pullrequestreview-5832839493) - 2026-11-09
+* [Review] [Review on: fix(txpool): allow same-nonce replacement for senders at slot capacity](https://github.com/paradigmxyz/reth/pull/28358#pullrequestreview-5832786112) - 2026-11-09
+* [Review] [Review on: fix(net): move fetching hashes past the eviction fallback search](https://github.com/paradigmxyz/reth/pull/28361#pullrequestreview-5832627268) - 2026-11-09
+* [Review] [Review on: fix(net): reject banned and untrusted inbound peers before session activation](https://github.com/paradigmxyz/reth/pull/28360#pullrequestreview-5832636797) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

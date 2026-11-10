@@ -73,6 +73,9 @@ Team: Grandine
 * [Commit] [Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/commit/0ea729e6ab1bcc2cf128279cef3544326d0729eb) - 2026-11-03
 * [Pull Request] [Make sync forget data column sidecars ignored as too far in the future so they can be fetched again](https://github.com/grandinetech/grandine/pull/1025) - 2026-11-05
 * [Commit] [Make sync forget data column sidecars ignored as too far in the future so they can be fetched again](https://github.com/grandinetech/grandine/commit/0025d0f580e3c5daa3c7a885461c46f5b8d5a93a) - 2026-11-05
+* [Review] [Review on: Separate VC: treat an optimistic beacon node as synced, not Unusable](https://github.com/grandinetech/grandine/pull/1026#pullrequestreview-5827006126) - 2026-11-09
+* [Pull Request] [Reject malformed data column sidecars before queueing them. Perform cheap validations earlier](https://github.com/grandinetech/grandine/pull/1029) - 2026-11-09
+* [Commit] [Reject malformed data column sidecars before queueing them. Perform cheap validations earlier](https://github.com/grandinetech/grandine/commit/62c5eded2de115e403681cd73fb7a620bcf3fa68) - 2026-11-09
 ## Q3 2026
 
 

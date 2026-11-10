@@ -173,6 +173,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/rpchelper: make TestConcurrentTouchAndEviction deterministic (#25948)](https://github.com/erigontech/erigon/commit/185c7ab17eff91cdb6d039ffd9668e9d73baf908) - 2026-11-09
 * [Commit] [.github/workflows: mark a clear Erigon lead in the RPC performance summary (#25930)](https://github.com/erigontech/erigon/commit/5e02c9416d7ad0787bc5b67de6f6d6d87ea42199) - 2026-11-08
 * [Commit] [rpc: reject a batch over the limit before allocating its messages (#25873)](https://github.com/erigontech/erigon/commit/1cdfb3cf60599c88bbc962231edfe261e857fb28) - 2026-11-08
+* [Commit] [docs/site: align the trace_* docs with the current behaviour (#26028)](https://github.com/erigontech/erigon/commit/7ea7cb08e4a46031558576b2f10e9a35f04f63f8) - 2026-11-10
+* [Commit] [rpc/jsonrpc: honor an explicit transaction index at the head in debug_traceCall and debug_traceCallMany (#25973)](https://github.com/erigontech/erigon/commit/785da8e3e854e28c22a1c5730a4aab63bd51183f) - 2026-11-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -242,6 +244,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [perf: describe a JSONL pattern in an optional header line (#649)](https://github.com/erigontech/rpc-tests/commit/e45b930f0ef7cabb2a241a28b8cae4ff120a75b1) - 2026-11-05
 * [Pull Request] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts](https://github.com/erigontech/rpc-tests/pull/652) - 2026-11-06
 * [Commit] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts (#652)](https://github.com/erigontech/rpc-tests/commit/7028a131c0260e42422f80bbef2c1e1280547436) - 2026-11-08
+* [Pull Request] [rpc_pattern_gen: a verify request that times out is dropped, not fatal](https://github.com/erigontech/rpc-tests/pull/653) - 2026-11-09
 ## Q3 2026
 
 

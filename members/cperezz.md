@@ -39,6 +39,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955#pullrequestreview-5539547745) - 2026-10-15
 * [Review] [Review on: core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955#pullrequestreview-5553682680) - 2026-10-16
 * [Pull Request] [cmd/evm: run the EIP-8297 binary tree in t8n](https://github.com/ethereum/go-ethereum/pull/35960) - 2026-10-16
+* [Commit] [cmd/evm: run the EIP-8297 binary tree in t8n (#35960)](https://github.com/ethereum/go-ethereum/commit/da5d60b00abd1db5ce950223b104ab9c6be0f4cd) - 2026-11-09
+* [Commit] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree (#35955)](https://github.com/ethereum/go-ethereum/commit/b0f9324cda84df7c4d6379b0210383c83f91794e) - 2026-11-09
 ## Q3 2026
 
 

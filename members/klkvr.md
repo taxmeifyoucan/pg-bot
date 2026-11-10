@@ -28,6 +28,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [chore(deps): bump evm2 to 72a3190](https://github.com/paradigmxyz/reth/pull/28305) - 2026-11-06
 * [Review] [Review on: perf(evm): parallelize EIP-7702 authorization recovery](https://github.com/paradigmxyz/reth/pull/28307#pullrequestreview-5805210518) - 2026-11-06
 * [Commit] [feat(rpc): replay block transactions through the block executor (#28266)](https://github.com/paradigmxyz/reth/commit/19d390ad978877518f8fe40e3255733ed755d8a5) - 2026-11-06
+* [Pull Request] [chore(deps): bump evm2 to 0b448ca](https://github.com/paradigmxyz/reth/pull/28389) - 2026-11-09
+* [Review] [Review on: fix(txpool): skip local senders when selecting pending eviction candidates](https://github.com/paradigmxyz/reth/pull/28352#pullrequestreview-5828126059) - 2026-11-09
+* [Review] [Review on: fix(txpool): apply tx fee cap based on submission origin](https://github.com/paradigmxyz/reth/pull/28354#pullrequestreview-5827064646) - 2026-11-09
+* [Commit] [chore(deps): bump evm2 to 0b448ca (#28389)](https://github.com/paradigmxyz/reth/commit/76bde994b0b3ead8116accf5a6777e413a2abda4) - 2026-11-09
 ## Q3 2026
 
 

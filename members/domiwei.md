@@ -363,6 +363,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/sentinel: reserve 20% of peer slots for outbound peers](https://github.com/erigontech/erigon/pull/25943) - 2026-11-08
 * [Pull Request] [cl/persistence/blob_storage, cl/das: write the EL-built custody columns of a block in one batch](https://github.com/erigontech/erigon/pull/25926) - 2026-11-08
 * [Commit] [cl/phase1/network, cl/phase1/stages, cl/beacon/handler: end forward sync at a Gloas tip without a successor and refuse block production for past slots (#25189)](https://github.com/erigontech/erigon/commit/f758a20c4279cf25d32ce905ec23a6eb9341f251) - 2026-11-08
+* [Pull Request] [cl/das: skip FK20 for a complete matrix and wait for gossip to go quiet before a recovery](https://github.com/erigontech/erigon/pull/26050) - 2026-11-10
+* [Review] [Review on: cl/clparams: use the gnosis partial withdrawals sweep on Chiado](https://github.com/erigontech/erigon/pull/26002#pullrequestreview-5836025202) - 2026-11-10
+* [Review] [Review on: cl/rpc: limit parsed chunks to what each request asked for](https://github.com/erigontech/erigon/pull/26000#pullrequestreview-5836160473) - 2026-11-10
+* [Review] [Review on: [r3.8] backport p2p and sentry limits](https://github.com/erigontech/erigon/pull/25975#pullrequestreview-5836005670) - 2026-11-10
+* [Commit] [cl/das: skip columns stored while the blob recovery worker recovers the matrix (#25980)](https://github.com/erigontech/erigon/commit/eaae14940e086658ed69aeda2094bfb7cc72f5ef) - 2026-11-09
+* [Commit] [cl/phase1/forkchoice: take is_head_weak committees from the head epoch (#25988)](https://github.com/erigontech/erigon/commit/a865ddf05c27c85a67041c85e185f7a1bea02502) - 2026-11-09
+* [Commit] [cl/spectest, cl/phase1/forkchoice, cl/phase1/execution_client: run on_payload_info steps and invalidate optimistic ancestors back to the latest valid hash (#25989)](https://github.com/erigontech/erigon/commit/5a597962d5f7946615b77f6aaa4635dda0268b30) - 2026-11-09
+* [Commit] [cl/phase1/core/state, cl/phase1/forkchoice: reuse fork choice's total active balance when copying the current state (#25274)](https://github.com/erigontech/erigon/commit/8f2b4b2725db22c2c04a50d7311199b0aea8c1ac) - 2026-11-09
+* [Commit] [cl/phase1/stages: warm the selected head slot when the head changes before the same-root warm-up (#25891)](https://github.com/erigontech/erigon/commit/7fb5214556aa004c6c25a22c596c837f6e802033) - 2026-11-09
 ## Q3 2026
 
 

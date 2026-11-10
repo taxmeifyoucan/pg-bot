@@ -13,6 +13,7 @@ Team: Cryptography (EF)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post Quantum transaction signature (PQTS) Breakout #17](https://github.com/ethereum/pm/issues/2283) - 2026-10-23
+* [Issue] [Post Quantum transaction signature (PQTS) Breakout #18](https://github.com/ethereum/pm/issues/2298) - 2026-11-09
 ## Q3 2026
 
 

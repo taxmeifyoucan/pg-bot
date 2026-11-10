@@ -63,6 +63,16 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore: replace rimraf with fs.rm (#10541)](https://github.com/ChainSafe/lodestar/commit/6afc3c19f6790e06fd44f43201a9bc9853d9a682) - 2026-11-04
 * [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5780445113) - 2026-11-05
 * [Review] [Review on: feat: pre-verify deposit signatures in zig](https://github.com/ChainSafe/lodestar/pull/10556#pullrequestreview-5797718030) - 2026-11-06
+* [Pull Request] [feat: cache builder deposit by pending deposit's root](https://github.com/ChainSafe/lodestar/pull/10581) - 2026-11-10
+* [Review] [Review on: chore(ci): run benchmarks nightly instead of on every PR](https://github.com/ChainSafe/lodestar/pull/10557#pullrequestreview-5824956506) - 2026-11-09
+* [Review] [Review on: perf: speed up attestation processing](https://github.com/ChainSafe/lodestar/pull/10563#pullrequestreview-5836069688) - 2026-11-10
+* [Pull Request] [test: apply state fork epoch over per-case spec config in operations tests](https://github.com/ChainSafe/lodestar/pull/10572) - 2026-11-09
+* [Pull Request] [chore: track block recv to consensus verified delay on Grafana](https://github.com/ChainSafe/lodestar/pull/10573) - 2026-11-09
+* [Review] [Review on: perf: skip sorting block attestation indices](https://github.com/ChainSafe/lodestar/pull/10570#pullrequestreview-5825736589) - 2026-11-09
+* [Review] [Review on: perf: gate hot-path invariant asserts](https://github.com/ChainSafe/lodestar/pull/10555#pullrequestreview-5824879826) - 2026-11-09
+* [Commit] [test: apply state fork epoch over per-case spec config in operations tests (#10572)](https://github.com/ChainSafe/lodestar/commit/6dcef7bd1b97b5cce66f5751382bc08dd3d8d744) - 2026-11-09
+* [Commit] [chore: track block recv to consensus verified delay on Grafana (#10573)](https://github.com/ChainSafe/lodestar/commit/2bcbe7ce2dee5de0898d65c76baa27a5ddac8631) - 2026-11-09
+* [Commit] [refactor(stf): reprioritize signature verification and stf (#10554)](https://github.com/ChainSafe/lodestar/commit/b8de7b35283226d43a93503bcb05fd2ee6be3b55) - 2026-11-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

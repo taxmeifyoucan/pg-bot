@@ -23,6 +23,10 @@ Team: Reth
 * [Review] [Review on: ci: build macOS release binaries on macos-15](https://github.com/paradigmxyz/reth/pull/28321#pullrequestreview-5805196691) - 2026-11-06
 * [Review] [Review on: chore: bump version to 2.10.1](https://github.com/paradigmxyz/reth/pull/28319#pullrequestreview-5805065219) - 2026-11-06
 * [Review] [Review on: chore(deps): bump evm2 to baf0d38](https://github.com/paradigmxyz/reth/pull/28318#pullrequestreview-5804764822) - 2026-11-06
+* [Pull Request] [fix(storage-overlay): pin Finish chain when a provider opens](https://github.com/paradigmxyz/reth/pull/28385) - 2026-11-09
+* [Review] [Review on: chore(engine): remove state root task trie updates comparison](https://github.com/paradigmxyz/reth/pull/28377#pullrequestreview-5827404590) - 2026-11-09
+* [Review] [Review on: fix(prune): cap ExEx height at persisted tip](https://github.com/paradigmxyz/reth/pull/28325#pullrequestreview-5826240028) - 2026-11-09
+* [Review] [Review on: chore(cli): remove no-op CLI flags](https://github.com/paradigmxyz/reth/pull/28369#pullrequestreview-5825358887) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

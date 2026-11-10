@@ -38,6 +38,10 @@ Team: Grandine
 * [Review] [Review on: Query parent payload envelope from cache and storage in block production](https://github.com/grandinetech/grandine/pull/1023#pullrequestreview-5752039939) - 2026-11-03
 * [Pull Request] [Separate VC: treat an optimistic beacon node as synced, not Unusable](https://github.com/grandinetech/grandine/pull/1026) - 2026-11-05
 * [Review] [Review on: Make sync forget data column sidecars ignored as too far in the future so they can be fetched again](https://github.com/grandinetech/grandine/pull/1025#pullrequestreview-5784785286) - 2026-11-05
+* [Pull Request] [Accept Gloas data column sidecars at the finalized slot](https://github.com/grandinetech/grandine/pull/1030) - 2026-11-09
+* [Review] [Review on: Reject malformed data column sidecars before queueing them. Perform cheap validations earlier](https://github.com/grandinetech/grandine/pull/1029#pullrequestreview-5827084792) - 2026-11-09
+* [Commit] [Separate VC: take a block from the first node that produces one](https://github.com/grandinetech/grandine/commit/ede8b444013677dbabe58978561dca64b97f0103) - 2026-11-09
+* [Commit] [Separate VC: give an optimistic beacon node its own health state](https://github.com/grandinetech/grandine/commit/5f5a722ca03577ad4e59940dc1c859307aff0d5b) - 2026-11-09
 ## Q3 2026
 
 

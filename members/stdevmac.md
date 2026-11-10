@@ -506,6 +506,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(specs): activate EIP-160 at eip158Block in geth genesis (#15712)](https://github.com/NethermindEth/nethermind/commit/73d8a0c88d3949c986de13ec1689c5d9c9632f84) - 2026-11-08
 * [Commit] [fix(config): treat JSON null as null for config options (#15709)](https://github.com/NethermindEth/nethermind/commit/eecefe18f66c7d0404f45396444317368d130981) - 2026-11-08
 * [Commit] [fix(config): parse bracketed array values as JSON arrays (#15708)](https://github.com/NethermindEth/nethermind/commit/55bcd2df1790e959e949cea604e0d10d29ca936e) - 2026-11-08
+* [Commit] [fix(debug): report a traceCallMany bundle withdrawals override as debug_traceCall does (#15676)](https://github.com/NethermindEth/nethermind/commit/3202cf17827255ac9078b5521401044991d32b48) - 2026-11-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

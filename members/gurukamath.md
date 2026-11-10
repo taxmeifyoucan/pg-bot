@@ -35,6 +35,13 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5723804062) - 2026-10-31
 * [Review] [Review on: feat(tests): add EIP-8141 VERIFY-frame static context and transient storage tests](https://github.com/ethereum/execution-specs/pull/3939#pullrequestreview-5721284198) - 2026-10-31
 * [Review] [Review on: 🧹 chore(tests): Remove duplicate frame tx coverage](https://github.com/ethereum/execution-specs/pull/3946#pullrequestreview-5748317932) - 2026-11-03
+* [Review] [Review on: ✨ feat(tests): EIP-8141 Extend expiry flag coverage](https://github.com/ethereum/execution-specs/pull/3954#pullrequestreview-5829859070) - 2026-11-09
+* [Review] [Review on: ✨ feat(tests): EIP-8141 extend secp r coverage](https://github.com/ethereum/execution-specs/pull/3956#pullrequestreview-5828607557) - 2026-11-09
+* [Review] [Review on: chore(tests): repin EIP-7906 to ethereum/EIPs@9099f41](https://github.com/ethereum/execution-specs/pull/3959#pullrequestreview-5827786838) - 2026-11-09
+* [Review] [Review on: chore(tests): repin EIP-8141 to ethereum/EIPs@dc5d5fa](https://github.com/ethereum/execution-specs/pull/3958#pullrequestreview-5827873977) - 2026-11-09
+* [Review] [Review on: fix(spec-specs, tests): reject block gas limits above 2**63 - 1](https://github.com/ethereum/execution-specs/pull/3960#pullrequestreview-5827691346) - 2026-11-09
+* [Review] [Review on: fix(spec-specs,tests): use token multiplier for calldata floor](https://github.com/ethereum/execution-specs/pull/3969#pullrequestreview-5827342605) - 2026-11-09
+* [Issue] [Harmonise errors thrown on Frame transaction validity checks](https://github.com/ethereum/execution-specs/issues/3970) - 2026-11-09
 ## Q3 2026
 
 
