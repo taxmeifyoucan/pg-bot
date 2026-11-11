@@ -96,6 +96,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: stop the network processor and remove all listeners on network close](https://github.com/ChainSafe/lodestar/pull/10575#pullrequestreview-5835949348) - 2026-11-10
 * [Review] [Review on: perf: skip sorting block attestation indices](https://github.com/ChainSafe/lodestar/pull/10570#pullrequestreview-5824574024) - 2026-11-09
 * [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5824256728) - 2026-11-09
+* [Review] [Review on: feat: cache builder deposit by pending deposit's root](https://github.com/ChainSafe/lodestar/pull/10581#pullrequestreview-5837913442) - 2026-11-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

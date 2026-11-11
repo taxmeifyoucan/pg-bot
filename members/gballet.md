@@ -22,6 +22,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: cmd/evm: run the EIP-8297 binary tree in t8n](https://github.com/ethereum/go-ethereum/pull/35960#pullrequestreview-5828243240) - 2026-11-09
 * [Commit] [cmd/keeper: add missing klauspost/cpuid/v2 dependency (#36093)](https://github.com/ethereum/go-ethereum/commit/c863eecbddb2c9db2cd2f07bb1db80740d75a5b3) - 2026-11-09
 * [Commit] [build, cmd/keeper: speed up zkvm guest by mocking packages that add to startup time (#36078)](https://github.com/ethereum/go-ethereum/commit/667498666f7bdcd335793babf1ad94c6ad7c3fcc) - 2026-11-09
+* [Commit] [trie, core/state: remove the unified binary trie and eip4762 (#36091)](https://github.com/ethereum/go-ethereum/commit/ddaa6957127ef0c4b7d41e5cbd9c19e260c0a42f) - 2026-11-10
 ## Q3 2026
 
 

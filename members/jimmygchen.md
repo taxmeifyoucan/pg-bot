@@ -39,6 +39,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Rejecting an invalid block takes 30-45s and allocates up to ~20 GB (`glamsterdam-devnet-8`)](https://github.com/paradigmxyz/reth/issues/27878) - 2026-10-13
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Allow builders to submit one bid per staked ETH](https://github.com/ethereum/consensus-specs/pull/5805#pullrequestreview-5850696005) - 2026-11-10
 ## Q3 2026
 
 

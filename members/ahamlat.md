@@ -45,6 +45,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: perf(evm): transfer v2 MLOAD/MSTORE words directly between stack and memory](https://github.com/besu-eth/besu/pull/11873#pullrequestreview-5789955715) - 2026-11-05
 * [Pull Request] [Add daniellehrner as EVM code owner](https://github.com/besu-eth/besu/pull/11900) - 2026-11-09
 * [Commit] [Add daniellehrner as EVM code owner (#11900)](https://github.com/besu-eth/besu/commit/96c4592b2de23512e333ca9df8b039c080a9cdc5) - 2026-11-09
+* [Pull Request] [Speed up parallel import of blocks with heavy batch transactions](https://github.com/besu-eth/besu/pull/11916) - 2026-11-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

@@ -369,6 +369,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: pre-verify deposit signatures in zig](https://github.com/ChainSafe/lodestar/pull/10556#pullrequestreview-5810059703) - 2026-11-07
 * [Review] [Review on: chore(deps): bump the actions group with 3 updates](https://github.com/ChainSafe/lodestar/pull/10532#pullrequestreview-5810111564) - 2026-11-07
 * [Commit] [feat: make the builder bid deadline configurable (#10422)](https://github.com/ChainSafe/lodestar/commit/0bb5c87a7e21e41635fe4c3e80eb7d5a8c5f234f) - 2026-11-09
+* [Commit] [fix: bound the envelope transaction count by the parent payload's gas limit (#10548)](https://github.com/ChainSafe/lodestar/commit/be91fc5558afdde36526cf72723acc85af1c4e27) - 2026-11-10
+* [Commit] [feat: pre-verify deposit signatures in zig (#10556)](https://github.com/ChainSafe/lodestar/commit/41efb1b1d9ba1a4e8fb573d6fa282ec0db075b55) - 2026-11-10
+* [Commit] [fix: set gossip payload envelope in the same tick as validation (#10549)](https://github.com/ChainSafe/lodestar/commit/9998f24b6ead968494a96108bd5b19e313798c02) - 2026-11-10
+* [Commit] [chore(ci): run benchmarks nightly instead of on every PR (#10557)](https://github.com/ChainSafe/lodestar/commit/2fa25c077cd940f5200ac19944c98fedf9a54604) - 2026-11-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -389,6 +393,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802#pullrequestreview-5781631210) - 2026-11-05
 * [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5809965493) - 2026-11-07
 * [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5795941163) - 2026-11-06
+* [Pull Request] [Return early for a known payload in `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5784) - 2026-11-11
+* [Commit] [Return early for a known payload in `on_execution_payload_envelope` (#5784)](https://github.com/ethereum/consensus-specs/commit/c3e16117a66523902fd21d6ba708d987b56bd4a4) - 2026-11-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

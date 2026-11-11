@@ -51,6 +51,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Improve proposer filtering of packed attestations (#17805)](https://github.com/OffchainLabs/prysm/commit/900b80313e775b686dac5bc4f91f1a0bbc3e3dc8) - 2026-11-02
 * [Review] [Review on: Verify execution block hashes of gossiped payloads locally](https://github.com/OffchainLabs/prysm/pull/17786#pullrequestreview-5749436510) - 2026-11-03
 * [Review] [Review on: Request a missing block only from the peer that referenced it (the gossip sender, or the peer serving its child), once, and downscore that peer if it does not serve it.](https://github.com/OffchainLabs/prysm/pull/17841#pullrequestreview-5794969201) - 2026-11-06
+* [Pull Request] [Request unknown attestation blocks as soon as an attestation is verified](https://github.com/OffchainLabs/prysm/pull/17858) - 2026-11-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
 * [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20
@@ -60,8 +61,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5739961053) - 2026-11-02
 * [Pull Request] [Update EIP-8148: change request type to 0x06](https://github.com/ethereum/EIPs/pull/12608) - 2026-11-02
 * [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5779228542) - 2026-11-05
+* [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5845895831) - 2026-11-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5631371289) - 2026-10-23
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5841222246) - 2026-11-10
 ## Q3 2026
 
 

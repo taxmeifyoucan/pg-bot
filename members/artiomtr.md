@@ -56,6 +56,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Avoid payload construction, when engine is null](https://github.com/grandinetech/grandine/commit/7d85f89e66b9462706a597a3f9851b77e5aef828) - 2026-10-23
 * [Commit] [Avoid collecting attesting indices twice](https://github.com/grandinetech/grandine/commit/b2c6ffc14d441d576382c77de1f36a925d32117b) - 2026-10-23
 * [Commit] [Parallelize slice shuffling](https://github.com/grandinetech/grandine/commit/ec002eda1b25bdccb851af691d1b9383f8f72541) - 2026-10-23
+* [Pull Request] [Optimize BLS public key aggregation](https://github.com/grandinetech/grandine/pull/1032) - 2026-11-10
+* [Pull Request] [Revert unstable pre-release publishing](https://github.com/grandinetech/grandine/pull/1033) - 2026-11-10
+* [Commit] [Optimize BLS public key aggregation](https://github.com/grandinetech/grandine/commit/65f942833ab6f358775bffff457ed7c504d188ed) - 2026-11-10
+* [Commit] [Revert unstable pre-release publishing](https://github.com/grandinetech/grandine/commit/2084719229f33d6fc2a9cceeb09bb5d091e7df8d) - 2026-11-10
 ## Q3 2026
 
 

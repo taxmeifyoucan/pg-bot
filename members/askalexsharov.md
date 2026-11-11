@@ -845,6 +845,61 @@ Team: Erigon
 * [Commit] [execution/state: no tx dependency on a created-empty account removal (#25821)](https://github.com/erigontech/erigon/commit/e1f8daee03d6758e8f89aa157f4ebdb22c4771ec) - 2026-11-09
 * [Commit] [cl/sentinel: refuse a fixed-size request with an oversized prefix (#25918)](https://github.com/erigontech/erigon/commit/be5093c1cfbc38f54af8d094377b1538aeb1a83f) - 2026-11-09
 * [Commit] [cl/sentinel/handlers: test the rate-limit cost of a huge Count (#25917)](https://github.com/erigontech/erigon/commit/ff7a15ed722321e16c34c75cd69e3210f7aa692a) - 2026-11-09
+* [Review] [Review on: execution/state: keep a BAL-seeded Done cell Done when its tx is validated](https://github.com/erigontech/erigon/pull/26087#pullrequestreview-5852370018) - 2026-11-11
+* [Review] [Review on: execution/stagedsync: fold a block from its results when its BAL may hide a removal](https://github.com/erigontech/erigon/pull/26086#pullrequestreview-5852406868) - 2026-11-11
+* [Pull Request] [txnprovider/txpool: request an announced txn from one peer at a time](https://github.com/erigontech/erigon/pull/25571) - 2026-11-11
+* [Review] [Review on: execution/state: take a slot's prev value from its write record](https://github.com/erigontech/erigon/pull/26041#pullrequestreview-5846005212) - 2026-11-10
+* [Pull Request] [[r3.8] execution/tests: TestGenerateChain follows partial receipts](https://github.com/erigontech/erigon/pull/26044) - 2026-11-11
+* [Review] [Review on: execution/state: keep every cell of the fee recipient Estimate until the seal](https://github.com/erigontech/erigon/pull/26089#pullrequestreview-5852366226) - 2026-11-11
+* [Review] [Review on: execution/stagedsync: count in-pool re-runs and wasted run time](https://github.com/erigontech/erigon/pull/26048#pullrequestreview-5853454841) - 2026-11-11
+* [Review] [Review on: execution/state: publish a same-tx create and destroy as its kept balance under EIP-8246](https://github.com/erigontech/erigon/pull/26095#pullrequestreview-5852360132) - 2026-11-11
+* [Review] [Review on: execution/stagedsync: test resumed BAL blocks that have no sidecar](https://github.com/erigontech/erigon/pull/26008#pullrequestreview-5839903790) - 2026-11-10
+* [Review] [Review on: execution/types, rpc/jsonstream: encode the shared log fields once](https://github.com/erigontech/erigon/pull/26091#pullrequestreview-5852601505) - 2026-11-11
+* [Review] [Review on: rpc/jsonrpc, docs: return -32602 for a trace_filter range over the limit](https://github.com/erigontech/erigon/pull/26094#pullrequestreview-5852563849) - 2026-11-11
+* [Pull Request] [execution: a call that cannot pay its precompile does not wait on it](https://github.com/erigontech/erigon/pull/26088) - 2026-11-10
+* [Pull Request] [execution/state: match the BAL sidecar without sorting the builder](https://github.com/erigontech/erigon/pull/26082) - 2026-11-10
+* [Pull Request] [execution/stagedsync: a write the BAL holds leaves readers clean](https://github.com/erigontech/erigon/pull/26080) - 2026-11-10
+* [Review] [Review on: execution/stagedsync: a write the BAL holds leaves readers clean](https://github.com/erigontech/erigon/pull/26080#pullrequestreview-5851808607) - 2026-11-11
+* [Review] [Review on: execution/stagedsync: dispatch a bounded window for blocks without a BAL too](https://github.com/erigontech/erigon/pull/26081#pullrequestreview-5852445019) - 2026-11-11
+* [Pull Request] [execution/types: test BAL Equal indexes and extra list elements](https://github.com/erigontech/erigon/pull/26077) - 2026-11-10
+* [Review] [Review on: execution/engineapi, execution/execmodule, rpc/jsonrpc: add POST /engine/v1/payloads/witness](https://github.com/erigontech/erigon/pull/26085#pullrequestreview-5852392748) - 2026-11-11
+* [Pull Request] [execution/stagedsync: copy the writes of a charged tx once](https://github.com/erigontech/erigon/pull/26060) - 2026-11-10
+* [Review] [Review on: execution/stagedsync: copy the writes of a charged tx once](https://github.com/erigontech/erigon/pull/26060#pullrequestreview-5851440297) - 2026-11-11
+* [Review] [Review on: cli: print non-empty exit errors](https://github.com/erigontech/erigon/pull/26084#pullrequestreview-5853125447) - 2026-11-11
+* [Review] [Review on: rpc/jsonrpc: a huge timeoutMs must not time out at once](https://github.com/erigontech/erigon/pull/26051#pullrequestreview-5839721491) - 2026-11-10
+* [Review] [Review on: db/state: remove unused SnapshotRepo, port its tests to production types](https://github.com/erigontech/erigon/pull/26016#pullrequestreview-5852892412) - 2026-11-11
+* [Review] [Review on: db/snapshotsync: keep the segment ending at the download cap in RetireFilesAbove](https://github.com/erigontech/erigon/pull/25941#pullrequestreview-5852936832) - 2026-11-11
+* [Review] [Review on: execution/exec: a failed write set must not crash the node](https://github.com/erigontech/erigon/pull/26054#pullrequestreview-5837978066) - 2026-11-10
+* [Review] [Review on: rpc: answer a malformed GET request with a parse error](https://github.com/erigontech/erigon/pull/26052#pullrequestreview-5851436281) - 2026-11-11
+* [Pull Request] [[r3.8] backport engine API and commitment fixes](https://github.com/erigontech/erigon/pull/25977) - 2026-11-11
+* [Review] [Review on: [r3.8] backport engine API and commitment fixes](https://github.com/erigontech/erigon/pull/25977#pullrequestreview-5837965228) - 2026-11-10
+* [Review] [Review on: rpc, execution: remove the CALL_NO_MATERIALIZE kill switch](https://github.com/erigontech/erigon/pull/25915#pullrequestreview-5839685108) - 2026-11-10
+* [Pull Request] [execution: notify logs of blocks missing from the receipt cache](https://github.com/erigontech/erigon/pull/25882) - 2026-11-11
+* [Review] [Review on: cl/phase1/network/services: check the expected proposer of blob sidecars](https://github.com/erigontech/erigon/pull/26079#pullrequestreview-5852524119) - 2026-11-11
+* [Review] [Review on: rpc: limit the calls in flight on one WebSocket connection](https://github.com/erigontech/erigon/pull/26059#pullrequestreview-5837999798) - 2026-11-10
+* [Commit] [txnprovider/txpool: request an announced txn from one peer at a time (#25571)](https://github.com/erigontech/erigon/commit/2402c39209d525c7d87f25d2686636dbe03728db) - 2026-11-11
+* [Commit] [execution/stagedsync: copy the writes of a charged tx once (#26060)](https://github.com/erigontech/erigon/commit/1e1f311816e99c114d80303a2babb2cced765071) - 2026-11-11
+* [Commit] [rpc/jsonrpc: a huge timeoutMs must not time out at once (#26051)](https://github.com/erigontech/erigon/commit/501e215dd58dceba77601c42b38d91419797f1ef) - 2026-11-11
+* [Commit] [execution/exec: a failed write set must not crash the node (#26054)](https://github.com/erigontech/erigon/commit/6e9ad9f65304ec6794dc7097921c402580bc6f55) - 2026-11-11
+* [Commit] [rpc: answer a malformed GET request with a parse error (#26052)](https://github.com/erigontech/erigon/commit/5fe3c59efbd5b9064b349213e3848590673f0804) - 2026-11-11
+* [Commit] [execution: notify logs of blocks missing from the receipt cache (#25882)](https://github.com/erigontech/erigon/commit/be90703d15f357ede8aa30c421154d0722c40fbb) - 2026-11-11
+* [Commit] [rpc, execution: remove the CALL_NO_MATERIALIZE kill switch (#25915)](https://github.com/erigontech/erigon/commit/a2dd0e398e435b2d786fcfeda3dae88bdce38615) - 2026-11-11
+* [Commit] [ci: keep fuzz corpus in artifacts so nightly runs compound (#26065)](https://github.com/erigontech/erigon/commit/ba19e9f08a0b4b84810590f6fe86a794acadf77f) - 2026-11-11
+* [Commit] [execution/state: warm Empty and repeat absent reads use the read set (#26062)](https://github.com/erigontech/erigon/commit/b18e43eb3033599dab995b8b17081233b63a4d97) - 2026-11-10
+* [Commit] [execution/exec: the trie prefetch gate samples storage tries (#26029)](https://github.com/erigontech/erigon/commit/210ba52c06982bdbadfa88d9f87ca0ec1b3b8a12) - 2026-11-10
+* [Commit] [rpc/jsonrpc: bound eth_callMany return data and total gas (#25993)](https://github.com/erigontech/erigon/commit/f0ab4a2cd2fceab1cd68dde9b0299f5854fe8306) - 2026-11-10
+* [Commit] [txnprovider/txpool: fix a panic after two same-height reorgs (#26045)](https://github.com/erigontech/erigon/commit/dd767e054de62f12732926ba7ab13bb6e969161b) - 2026-11-10
+* [Commit] [rpc: a failed subscription must not buffer notifications forever (#26056)](https://github.com/erigontech/erigon/commit/5c334ad81388a63e8833dd46bceea83e3890362d) - 2026-11-10
+* [Commit] [go.mod: bump holiman/uint256 for faster Mod (#26049)](https://github.com/erigontech/erigon/commit/f73dc43ae07fd5269e56115201df676b4a686a49) - 2026-11-10
+* [Commit] [cl/beacon/handler: reject a block production slot after the next slot (#25916)](https://github.com/erigontech/erigon/commit/6a0ee138d4f5399fc2fdc2af649fe305b3c88cf3) - 2026-11-10
+* [Commit] [node/ethstats: never fall back to plaintext for a URL with no scheme (#25961)](https://github.com/erigontech/erigon/commit/b40623d6b5ddd55fa858ecff9e5c0cde19d52275) - 2026-11-10
+* [Commit] [cl/sentinel: free the rate limiter entry of an idle peer (#26053)](https://github.com/erigontech/erigon/commit/f704b69c6041f6006ff68d4eb96cab4a31450391) - 2026-11-10
+* [Commit] [cl/phase1/stages: forward sync collects only accepted blocks (#25999)](https://github.com/erigontech/erigon/commit/8324d9795c355fcd7a61a47c78da39d24488efcd) - 2026-11-10
+* [Commit] [p2p/enode: expire nodes that only have a ping row (#26003)](https://github.com/erigontech/erigon/commit/952e2e808010dcc66bf839494423f531bfbca71e) - 2026-11-10
+* [Commit] [execution/state: Empty on an absent account only records the read (#26039)](https://github.com/erigontech/erigon/commit/03616c903f5643debecdb8afe9a3200ba68d5c30) - 2026-11-10
+* [Commit] [execution/state: keep one BAL storage read entry per slot (#26064)](https://github.com/erigontech/erigon/commit/5759ec2f9ef05afcfff6837c8498918376309118) - 2026-11-10
+* [Commit] [db/kv/backup: don't replace mdbx.dat with a copy that failed to flush (#26055)](https://github.com/erigontech/erigon/commit/031dcbf8f1bf9b931fd81b0016eee439095b5c34) - 2026-11-10
+* [Commit] [cl/sentinel/handlers: bound the DataColumnSidecarsByRange scan (#26001)](https://github.com/erigontech/erigon/commit/ef907b60a3610b85f5526234f22e3730e9285b8d) - 2026-11-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

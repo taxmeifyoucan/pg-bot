@@ -333,6 +333,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.8] backport p2p and sentry limits](https://github.com/erigontech/erigon/pull/25975#pullrequestreview-5824876217) - 2026-11-09
 * [Issue] [notifications: bind state updates and recovery to a consistent execution view](https://github.com/erigontech/erigon/issues/26013) - 2026-11-09
 * [Issue] [txpool: refresh all pooled senders after incomplete state notifications](https://github.com/erigontech/erigon/issues/25984) - 2026-11-09
+* [Review] [Review on: execution/state: take a slot's prev value from its write record](https://github.com/erigontech/erigon/pull/26041#pullrequestreview-5845092000) - 2026-11-10
+* [Review] [Review on: execution/stagedsync: test resumed BAL blocks that have no sidecar](https://github.com/erigontech/erigon/pull/26008#pullrequestreview-5842639693) - 2026-11-10
+* [Review] [Review on: execution/stagedsync: copy the writes of a charged tx once](https://github.com/erigontech/erigon/pull/26060#pullrequestreview-5846294590) - 2026-11-10
+* [Pull Request] [cl/phase1/network/services: check the expected proposer of blob sidecars](https://github.com/erigontech/erigon/pull/26079) - 2026-11-10
+* [Issue] [p2p/sentry: send helpers still map NewBlock and NewBlockHashes on eth/69+](https://github.com/erigontech/erigon/issues/26076) - 2026-11-10
+* [Issue] [execmodule, txpool: recover published state after a failed database commit](https://github.com/erigontech/erigon/issues/26070) - 2026-11-10
+* [Issue] [cl/phase1/network: validate HTTP envelopes inside the shared fetch helper](https://github.com/erigontech/erigon/issues/26068) - 2026-11-10
+* [Commit] [execution, rpc, txpool: fix frame transaction edge cases (#25752)](https://github.com/erigontech/erigon/commit/1fd45f2406825fab925ab8b4e5251dd721478b19) - 2026-11-10
+* [Commit] [p2p/sentry: isolate slow upload requests by peer (#25735)](https://github.com/erigontech/erigon/commit/404e25e13785a0bdcfcc1652527e721a389f6898) - 2026-11-10
+* [Commit] [cl: key attestation caches by head root (#26012)](https://github.com/erigontech/erigon/commit/922ae853cd1014525dddd1ff3a6c4a9d1e6d9c89) - 2026-11-10
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

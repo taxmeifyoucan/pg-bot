@@ -45,6 +45,7 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen: a subcommand for every method, and tag=latest for the block lookups](https://github.com/erigontech/rpc-tests/pull/651#pullrequestreview-5783479709) - 2026-11-05
 * [Review] [Review on: perf: describe a JSONL pattern in an optional header line](https://github.com/erigontech/rpc-tests/pull/649#pullrequestreview-5783482015) - 2026-11-05
 * [Review] [Review on: rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts](https://github.com/erigontech/rpc-tests/pull/652#pullrequestreview-5806536545) - 2026-11-06
+* [Review] [Review on: rpc_pattern_gen: a verify request that times out is dropped, not fatal](https://github.com/erigontech/rpc-tests/pull/653#pullrequestreview-5838155637) - 2026-11-10
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

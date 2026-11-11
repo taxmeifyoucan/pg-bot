@@ -36,6 +36,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [32bit hash lanes](https://github.com/besu-eth/besu/pull/11748) - 2026-10-24
 * [Review] [Review on: Apply the calldata floor to the total gas used before refunds](https://github.com/besu-eth/besu/pull/11580#pullrequestreview-5751858365) - 2026-11-03
 * [Review] [Review on: Choose the EVM explicitly in the v1/v2 tests and CI jobs](https://github.com/besu-eth/besu/pull/11865#pullrequestreview-5754691752) - 2026-11-03
+* [Review] [Review on: Keep the message call processor's config when a simulation overrides precompiles](https://github.com/besu-eth/besu/pull/11732#pullrequestreview-5839924927) - 2026-11-10
+* [Pull Request] [Remove logging from transaction processing downwards](https://github.com/besu-eth/besu/pull/11919) - 2026-11-10
+* [Pull Request] [remove unused methods to manipulate memory in MessageFrame](https://github.com/besu-eth/besu/pull/11918) - 2026-11-10
+* [Review] [Review on: perf(evm): transfer v2 MLOAD/MSTORE words directly between stack and memory](https://github.com/besu-eth/besu/pull/11873#pullrequestreview-5843374320) - 2026-11-10
+* [Review] [Review on: Run a child frame on its parent's EVM and reject mismatched frames](https://github.com/besu-eth/besu/pull/11867#pullrequestreview-5839998352) - 2026-11-10
+* [Commit] [remove unused methods to manipulate memory in MessageFrame (#11918)](https://github.com/besu-eth/besu/commit/c2c404cadf4fc610702220c82d6f665811bf2416) - 2026-11-10
 ## Q3 2026
 
 

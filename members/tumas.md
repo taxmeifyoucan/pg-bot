@@ -42,6 +42,13 @@ Team: Grandine
 * [Review] [Review on: Reject malformed data column sidecars before queueing them. Perform cheap validations earlier](https://github.com/grandinetech/grandine/pull/1029#pullrequestreview-5827084792) - 2026-11-09
 * [Commit] [Separate VC: take a block from the first node that produces one](https://github.com/grandinetech/grandine/commit/ede8b444013677dbabe58978561dca64b97f0103) - 2026-11-09
 * [Commit] [Separate VC: give an optimistic beacon node its own health state](https://github.com/grandinetech/grandine/commit/5f5a722ca03577ad4e59940dc1c859307aff0d5b) - 2026-11-09
+* [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/1034) - 2026-11-10
+* [Pull Request] [Bump rusqlite to 0.41 and refinery to 0.10](https://github.com/grandinetech/grandine/pull/1035) - 2026-11-10
+* [Review] [Review on: Optimize BLS public key aggregation](https://github.com/grandinetech/grandine/pull/1032#pullrequestreview-5841702847) - 2026-11-10
+* [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/6006ddc4a90d5fa3210ece82439a5b56b07f6419) - 2026-11-10
+* [Commit] [Bump rusqlite to 0.41 and refinery to 0.10](https://github.com/grandinetech/grandine/commit/081b63e1ce57b13eb27a62a6e2500d5b4345980a) - 2026-11-10
+* [Commit] [Wait for running persistence task in wait_for_tasks](https://github.com/grandinetech/grandine/commit/e8ae6f22357e29c19f812a59fa209907afb2c773) - 2026-11-10
+* [Commit] [Accept Gloas data column sidecars at the finalized slot](https://github.com/grandinetech/grandine/commit/3ca91b265e4f2474571fd80d1fe4cf3098d4adaa) - 2026-11-10
 ## Q3 2026
 
 

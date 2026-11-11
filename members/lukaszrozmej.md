@@ -768,6 +768,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(tracing): match unknown panic reason wording](https://github.com/NethermindEth/nethermind/pull/15754#pullrequestreview-5828804269) - 2026-11-09
 * [Review] [Review on: test(fixtures): run blockchain tests that switch to proof of stake at a total difficulty](https://github.com/NethermindEth/nethermind/pull/15750#pullrequestreview-5828809456) - 2026-11-09
 * [Review] [Review on: fix(rpc): checksum invalid precompile move source errors](https://github.com/NethermindEth/nethermind/pull/15737#pullrequestreview-5822767188) - 2026-11-09
+* [Review] [Review on: fix(trie): implement IsRangeScan on TreeDumper and StorageRangeVisitor](https://github.com/NethermindEth/nethermind/pull/15786#pullrequestreview-5851767421) - 2026-11-11
+* [Pull Request] [perf(rlp): skip the header hash on database reads keyed by it](https://github.com/NethermindEth/nethermind/pull/15789) - 2026-11-11
+* [Pull Request] [perf(zkevm): check a witness node with native-width arithmetic](https://github.com/NethermindEth/nethermind/pull/15788) - 2026-11-11
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/15787#pullrequestreview-5851771334) - 2026-11-11
+* [Review] [Review on: fix(debug): align traceCall field-inferred fork validation](https://github.com/NethermindEth/nethermind/pull/15746#pullrequestreview-5838227089) - 2026-11-10
+* [Review] [Review on: perf(modexp): invert well-known prime fields instead of exponentiating](https://github.com/NethermindEth/nethermind/pull/15779#pullrequestreview-5850468557) - 2026-11-10
+* [Pull Request] [refactor(evm): record the EIP-7906 ASSERT diff in the transaction processor](https://github.com/NethermindEth/nethermind/pull/15783) - 2026-11-10
+* [Pull Request] [perf(zkevm): use ZisK 1.4 library calls for MODEXP, SHA256, SDIV, SMOD and RIPEMD160](https://github.com/NethermindEth/nethermind/pull/15785) - 2026-11-10
+* [Pull Request] [perf(evm): leave failed checked-opcode checks through a tail call](https://github.com/NethermindEth/nethermind/pull/15773) - 2026-11-10
+* [Review] [Review on: perf(evm): leave failed checked-opcode checks through a tail call](https://github.com/NethermindEth/nethermind/pull/15773#pullrequestreview-5851284463) - 2026-11-10
+* [Pull Request] [test(benchmark): run the RLP encode benchmarks again](https://github.com/NethermindEth/nethermind/pull/15784) - 2026-11-10
+* [Review] [Review on: test(rpc): check the log blockHash of a re-hashed simulated block](https://github.com/NethermindEth/nethermind/pull/15771#pullrequestreview-5850445370) - 2026-11-10
+* [Review] [Review on: test(evm): cover the frame cache past depth 16 and the unfused JUMPI failure exits](https://github.com/NethermindEth/nethermind/pull/15772#pullrequestreview-5850442901) - 2026-11-10
+* [Review] [Review on: fix(eip8141): raise the shared MAX_VERIFY_GAS floor to 300_000](https://github.com/NethermindEth/nethermind/pull/15764#pullrequestreview-5838418306) - 2026-11-10
+* [Review] [Review on: refactor(network)!: hand received packets to the protocol handlers as memory instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15775#pullrequestreview-5844871825) - 2026-11-10
+* [Pull Request] [perf(zkevm): use ZisK's library routines for BN254, KZG and BLS12-381](https://github.com/NethermindEth/nethermind/pull/15340) - 2026-11-10
+* [Commit] [perf(evm): leave failed checked-opcode checks through a tail call (#15773)](https://github.com/NethermindEth/nethermind/commit/42c609ad86b0f3cea114cb9b16b393fcceab9f7c) - 2026-11-10
+* [Commit] [perf(zkevm): use ZisK's library routines for BN254, KZG and BLS12-381 (#15340)](https://github.com/NethermindEth/nethermind/commit/fc1b45b916ced379104963a81d5ddcb3bdeb29ce) - 2026-11-10
+* [Commit] [feat(rlp): add declarative FluentRlp encoding and decoding (#15387)](https://github.com/NethermindEth/nethermind/commit/372ee85ff747efe9dba43097bd0615d993bbb14f) - 2026-11-10
+* [Commit] [perf(zkevm): use ZisK 1.4 library calls for DIV, keccak256 and ecrecover (#15077)](https://github.com/NethermindEth/nethermind/commit/6ec67f926e5043211d97db2fff82216ea51e6129) - 2026-11-10
+* [Commit] [ci: add LukaszRozmej as a /.agents, /.github and /scripts code owner (#15743)](https://github.com/NethermindEth/nethermind/commit/10cd904964a7b5b66b789faf8fc987e62083cfe8) - 2026-11-10
+* [Commit] [fix(discv5): accept a peer's ENR only when it advertises the packet source endpoint (#15748)](https://github.com/NethermindEth/nethermind/commit/162fc642a7726d0486a7b95413afe4fd25bfd874) - 2026-11-10
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -868,6 +890,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7843: Add header validity rule and opcode compatibility note](https://github.com/ethereum/EIPs/pull/12618#pullrequestreview-5766621175) - 2026-11-04
+* [Review] [Review on: Update EIP-8141: raise MAX_VERIFY_GAS to 300_000](https://github.com/ethereum/EIPs/pull/12644#pullrequestreview-5838405946) - 2026-11-10
 ## Q3 2026
 
 

@@ -73,6 +73,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [test: apply state fork epoch over per-case spec config in operations tests (#10572)](https://github.com/ChainSafe/lodestar/commit/6dcef7bd1b97b5cce66f5751382bc08dd3d8d744) - 2026-11-09
 * [Commit] [chore: track block recv to consensus verified delay on Grafana (#10573)](https://github.com/ChainSafe/lodestar/commit/2bcbe7ce2dee5de0898d65c76baa27a5ddac8631) - 2026-11-09
 * [Commit] [refactor(stf): reprioritize signature verification and stf (#10554)](https://github.com/ChainSafe/lodestar/commit/b8de7b35283226d43a93503bcb05fd2ee6be3b55) - 2026-11-09
+* [Review] [Review on: fix: keep the engine state on an INVALID payload status](https://github.com/ChainSafe/lodestar/pull/10582#pullrequestreview-5840761879) - 2026-11-10
+* [Review] [Review on: fix: make BeaconNode.close idempotent and run every cleanup step](https://github.com/ChainSafe/lodestar/pull/10576#pullrequestreview-5841204441) - 2026-11-10
+* [Pull Request] [perf: hash dirty chunked leaves in parallel for the state root](https://github.com/ChainSafe/lodestar/pull/10585) - 2026-11-10
+* [Review] [Review on: feat: allow nested compatible unions](https://github.com/ChainSafe/lodestar/pull/10553#pullrequestreview-5841197803) - 2026-11-10
+* [Review] [Review on: feat: cache builder deposit by pending deposit's root](https://github.com/ChainSafe/lodestar/pull/10581#pullrequestreview-5838047833) - 2026-11-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

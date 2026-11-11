@@ -118,6 +118,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
+* [Issue] [All Core Devs - Testing (ACDT) #103, November 16, 2026](https://github.com/ethereum/pm/issues/2299) - 2026-11-10
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [params: allow BPO forks to activate after Amsterdam](https://github.com/ethereum/go-ethereum/pull/35975) - 2026-10-19
 

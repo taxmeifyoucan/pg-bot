@@ -326,6 +326,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(simulate): resolve an omitted nonce when the call executes](https://github.com/NethermindEth/nethermind/pull/15680#pullrequestreview-5830212005) - 2026-11-09
 * [Review] [Review on: fix(tracing): report SELFDESTRUCT and static LOG costs and underflow counts as Geth does](https://github.com/NethermindEth/nethermind/pull/15679#pullrequestreview-5830207088) - 2026-11-09
 * [Review] [Review on: fix(logindex): revert indexed blocks replaced by a reorg](https://github.com/NethermindEth/nethermind/pull/15678#pullrequestreview-5830206514) - 2026-11-09
+* [Review] [Review on: perf(evm): leave failed checked-opcode checks through a tail call](https://github.com/NethermindEth/nethermind/pull/15773#pullrequestreview-5845048697) - 2026-11-10
+* [Pull Request] [perf(evm): store an MSTORE8 byte by rewriting its aligned word on x64](https://github.com/NethermindEth/nethermind/pull/15774) - 2026-11-10
+* [Review] [Review on: perf(evm): store an MSTORE8 byte by rewriting its aligned word on x64](https://github.com/NethermindEth/nethermind/pull/15774#pullrequestreview-5844875277) - 2026-11-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

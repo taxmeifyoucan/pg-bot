@@ -158,6 +158,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Check block RPC context bytes against the block's fork digest](https://github.com/OffchainLabs/prysm/pull/17829#pullrequestreview-5824255621) - 2026-11-09
 * [Review] [Review on: Release rate limiter lock before replying to rate-limited peers](https://github.com/OffchainLabs/prysm/pull/17828#pullrequestreview-5824135315) - 2026-11-09
 * [Pull Request] [Skip blocks received by root whose proposer is not the expected one.](https://github.com/OffchainLabs/prysm/pull/17849) - 2026-11-09
+* [Review] [Review on: Export slashing protection for keys with no proposer history](https://github.com/OffchainLabs/prysm/pull/17837#pullrequestreview-5840536909) - 2026-11-10
+* [Review] [Review on: Ignore head-state-dependent voluntary exit gossip failures](https://github.com/OffchainLabs/prysm/pull/17798#pullrequestreview-5840451716) - 2026-11-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

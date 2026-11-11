@@ -76,6 +76,9 @@ Team: Grandine
 * [Review] [Review on: Separate VC: treat an optimistic beacon node as synced, not Unusable](https://github.com/grandinetech/grandine/pull/1026#pullrequestreview-5827006126) - 2026-11-09
 * [Pull Request] [Reject malformed data column sidecars before queueing them. Perform cheap validations earlier](https://github.com/grandinetech/grandine/pull/1029) - 2026-11-09
 * [Commit] [Reject malformed data column sidecars before queueing them. Perform cheap validations earlier](https://github.com/grandinetech/grandine/commit/62c5eded2de115e403681cd73fb7a620bcf3fa68) - 2026-11-09
+* [Review] [Review on: Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/1034#pullrequestreview-5844383390) - 2026-11-10
+* [Review] [Review on: Bump rusqlite to 0.41 and refinery to 0.10](https://github.com/grandinetech/grandine/pull/1035#pullrequestreview-5844479168) - 2026-11-10
+* [Review] [Review on: Accept Gloas data column sidecars at the finalized slot](https://github.com/grandinetech/grandine/pull/1030#pullrequestreview-5843664048) - 2026-11-10
 ## Q3 2026
 
 

@@ -28,6 +28,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Keep doppelganger detection active when beacon node is unavailable](https://github.com/Consensys-Incorporated/teku/pull/11611#pullrequestreview-5772214700) - 2026-11-04
 * [Review] [Review on: Reject builder bids exceeding the slot’s blob limit](https://github.com/Consensys-Incorporated/teku/pull/11614#pullrequestreview-5793120737) - 2026-11-05
 * [Commit] [Keep doppelganger detection active when beacon node is unavailable (#11611)](https://github.com/Consensys-Incorporated/teku/commit/813dc01de5fd3fd2360e57a5e8e315b3376be61f) - 2026-11-05
+* [Pull Request] [limit validator client event stream size](https://github.com/Consensys-Incorporated/teku/pull/11624) - 2026-11-10
+* [Pull Request] [limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623) - 2026-11-10
+* [Review] [Review on: Time the epoch transition where it runs](https://github.com/Consensys-Incorporated/teku/pull/11625#pullrequestreview-5844857652) - 2026-11-10
 ## Q3 2026
 
 

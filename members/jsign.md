@@ -70,6 +70,16 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(engine): advertise payloads/witness in SSZ-REST capabilities](https://github.com/NethermindEth/nethermind/pull/14669) - 2026-10-14
 * [Commit] [fix(engine): return a witness when newPayloadWithWitness gets an already-known VALID payload (#14722)](https://github.com/NethermindEth/nethermind/commit/61b101b1af6df3342953517cf5de43fd6a4cbc62) - 2026-10-15
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [execution/engineapi, execution/execmodule, rpc/jsonrpc: add POST /engine/v1/payloads/witness](https://github.com/erigontech/erigon/pull/26085) - 2026-11-10
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(engine): close execution-apis#885 SSZ gaps](https://github.com/paradigmxyz/reth/pull/28417) - 2026-11-10
+* [Commit] [fix(engine): close execution-apis#885 SSZ gaps (#28417)](https://github.com/paradigmxyz/reth/commit/15200acbe75f5aee8df82b8d81622cb370d79395) - 2026-11-10
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [fix(rpc): return INVALID for REST+SSZ payloads that fail RLP decoding](https://github.com/status-im/nimbus-eth1/pull/5145) - 2026-11-10
 ## Q3 2026
 
 

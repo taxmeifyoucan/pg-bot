@@ -27,6 +27,7 @@ Team: Reth
 * [Review] [Review on: chore(engine): remove state root task trie updates comparison](https://github.com/paradigmxyz/reth/pull/28377#pullrequestreview-5827404590) - 2026-11-09
 * [Review] [Review on: fix(prune): cap ExEx height at persisted tip](https://github.com/paradigmxyz/reth/pull/28325#pullrequestreview-5826240028) - 2026-11-09
 * [Review] [Review on: chore(cli): remove no-op CLI flags](https://github.com/paradigmxyz/reth/pull/28369#pullrequestreview-5825358887) - 2026-11-09
+* [Pull Request] [chore(deps): bump rand to 0.10](https://github.com/paradigmxyz/reth/pull/28422) - 2026-11-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

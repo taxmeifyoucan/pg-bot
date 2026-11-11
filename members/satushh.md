@@ -70,6 +70,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Acknowledge attestation saves only after their own record is written (#17834)](https://github.com/OffchainLabs/prysm/commit/8b7a1b1597e45e9c574bb02009d361cb7e66ad0b) - 2026-11-06
 * [Commit] [Check block RPC context bytes against the block's fork digest (#17829)](https://github.com/OffchainLabs/prysm/commit/822e435bd69ba8b68d1af9ad03c85e49f21c428a) - 2026-11-09
 * [Commit] [Release rate limiter lock before replying to rate-limited peers (#17828)](https://github.com/OffchainLabs/prysm/commit/2e8dd0ffd708e8be63743544218318e11a9e5254) - 2026-11-09
+* [Pull Request] [Skip the missing block index cleanup when no blocks are missing](https://github.com/OffchainLabs/prysm/pull/17860) - 2026-11-10
 ## Q3 2026
 
 

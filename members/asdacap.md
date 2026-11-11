@@ -79,6 +79,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(trie): add node record trie visitors](https://github.com/NethermindEth/nethermind/pull/15735#pullrequestreview-5823213398) - 2026-11-09
 * [Commit] [feat(trie): add node record trie visitors (#15735)](https://github.com/NethermindEth/nethermind/commit/8ba0b6d05ea0b036524658f5ba1b6d14afd8f20e) - 2026-11-09
 * [Commit] [fix(trie): read embedded branches and extensions in node records (#15740)](https://github.com/NethermindEth/nethermind/commit/2b6ebc5c7506c2cb54e88004e4a2e706d62a160b) - 2026-11-09
+* [Review] [Review on: fix(trie): implement IsRangeScan on TreeDumper and StorageRangeVisitor](https://github.com/NethermindEth/nethermind/pull/15786#pullrequestreview-5853689403) - 2026-11-11
+* [Commit] [perf(flat): serve snap ranges with a node record visitor (#15742)](https://github.com/NethermindEth/nethermind/commit/8ea4651c18d2f0119994b7bfdd05d9cfcad08cbd) - 2026-11-10
+* [Commit] [fix(db): treat only missing keys as misses in span-action TryGet (#15765)](https://github.com/NethermindEth/nethermind/commit/7cd41d5e5d368e1ef1d28831257874f2316497be) - 2026-11-10
+* [Commit] [perf(state): walk node records in storage range and trie dump visitors (#15763)](https://github.com/NethermindEth/nethermind/commit/774ec83f9976c4631e692801a0749df216b701f3) - 2026-11-10
 ## Q3 2026
 
 

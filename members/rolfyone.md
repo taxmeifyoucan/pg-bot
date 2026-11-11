@@ -160,6 +160,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615#pullrequestreview-5777588358) - 2026-11-04
 * [Pull Request] [Create missing slashing protection records in repair](https://github.com/Consensys-Incorporated/teku/pull/11622) - 2026-11-10
 * [Pull Request] [Keep genesis root and check network in slashing protection repair](https://github.com/Consensys-Incorporated/teku/pull/11621) - 2026-11-09
+* [Review] [Review on: limit validator client event stream size](https://github.com/Consensys-Incorporated/teku/pull/11624#pullrequestreview-5850715436) - 2026-11-10
+* [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5850455418) - 2026-11-10
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

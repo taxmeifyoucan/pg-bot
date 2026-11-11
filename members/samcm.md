@@ -350,6 +350,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(navigation): ScrollableTabs scrolls the selected tab clear of its arrows (#563)](https://github.com/ethpandaops/lab/commit/468ccb95fd24e66d5a1afa75c96d416459b2aa99) - 2026-11-09
 * [Commit] [feat(network): peer pages, city pages and peer lists (#562)](https://github.com/ethpandaops/lab/commit/cbaab911e4ede7fc237facaca73bb4a87c10ee46) - 2026-11-09
 * [Commit] [fix(entities): Lido Clients tab reads the per-group graffiti tables (#561)](https://github.com/ethpandaops/lab/commit/b1b14611aea755324a02c9a1d4f82cd2a69ea31a) - 2026-11-09
+* [Pull Request] [feat(network): churn, subnet and column custody on the overview](https://github.com/ethpandaops/lab/pull/565) - 2026-11-10
+* [Commit] [feat(network): churn, subnet and column custody on the overview (#565)](https://github.com/ethpandaops/lab/commit/f963337d7901473c7ad10b381c7b53708565fae0) - 2026-11-10
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

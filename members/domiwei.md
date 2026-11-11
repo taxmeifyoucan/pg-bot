@@ -372,6 +372,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/spectest, cl/phase1/forkchoice, cl/phase1/execution_client: run on_payload_info steps and invalidate optimistic ancestors back to the latest valid hash (#25989)](https://github.com/erigontech/erigon/commit/5a597962d5f7946615b77f6aaa4635dda0268b30) - 2026-11-09
 * [Commit] [cl/phase1/core/state, cl/phase1/forkchoice: reuse fork choice's total active balance when copying the current state (#25274)](https://github.com/erigontech/erigon/commit/8f2b4b2725db22c2c04a50d7311199b0aea8c1ac) - 2026-11-09
 * [Commit] [cl/phase1/stages: warm the selected head slot when the head changes before the same-root warm-up (#25891)](https://github.com/erigontech/erigon/commit/7fb5214556aa004c6c25a22c596c837f6e802033) - 2026-11-09
+* [Commit] [cl/beacon/handler, cl/phase1/forkchoice: validate a POSTed Gloas envelope before publishing its columns in the consensus modes (#25767)](https://github.com/erigontech/erigon/commit/7ece1f13fbbb7025397c1cc9d1d62429fc1a0bbc) - 2026-11-10
+* [Commit] [cl/beacon/handler: keep the early envelope work going after the client leaves, and answer a re-POST from state (#25755)](https://github.com/erigontech/erigon/commit/e3c1cd6c2f00738c6bc3d5aa69d1db57619ef62c) - 2026-11-10
+* [Commit] [cl/beacon/handler: publish a POSTed Gloas envelope before its columns in gossip mode (#25718)](https://github.com/erigontech/erigon/commit/354cdbc2306999b49d622cbbbcbe7fe1e59e8abf) - 2026-11-10
 ## Q3 2026
 
 

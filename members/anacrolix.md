@@ -11,6 +11,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [go.mod: bump anacrolix/torrent to master](https://github.com/erigontech/erigon/pull/25783) - 2026-11-05
+* [Commit] [go.mod: bump anacrolix/torrent to v1.62.0 (#25783)](https://github.com/erigontech/erigon/commit/6111a44002aad1afe3d4a4c706bd0122547eb4e2) - 2026-11-10
 ## Q3 2026
 
 

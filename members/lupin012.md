@@ -175,6 +175,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: reject a batch over the limit before allocating its messages (#25873)](https://github.com/erigontech/erigon/commit/1cdfb3cf60599c88bbc962231edfe261e857fb28) - 2026-11-08
 * [Commit] [docs/site: align the trace_* docs with the current behaviour (#26028)](https://github.com/erigontech/erigon/commit/7ea7cb08e4a46031558576b2f10e9a35f04f63f8) - 2026-11-10
 * [Commit] [rpc/jsonrpc: honor an explicit transaction index at the head in debug_traceCall and debug_traceCallMany (#25973)](https://github.com/erigontech/erigon/commit/785da8e3e854e28c22a1c5730a4aab63bd51183f) - 2026-11-09
+* [Pull Request] [execution/types, rpc/jsonstream: encode the shared log fields once](https://github.com/erigontech/erigon/pull/26091) - 2026-11-10
+* [Pull Request] [rpc/jsonrpc, docs: return -32602 for a trace_filter range over the limit](https://github.com/erigontech/erigon/pull/26094) - 2026-11-10
+* [Pull Request] [rpc, docs: report a non-canonical trace block hash as -32001 or 4444, not -32603](https://github.com/erigontech/erigon/pull/26090) - 2026-11-10
+* [Review] [Review on: rpc/jsonrpc: trace a block's transactions in parallel in debug_traceBlock*](https://github.com/erigontech/erigon/pull/25846#pullrequestreview-5846434891) - 2026-11-10
+* [Commit] [execution/types, rpc/jsonrpc: serve cached logs without a copy in eth_getLogs (#25861)](https://github.com/erigontech/erigon/commit/a1019fa06e2fc568eeb4f3e39cdbebf61bb7a213) - 2026-11-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -245,6 +250,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts](https://github.com/erigontech/rpc-tests/pull/652) - 2026-11-06
 * [Commit] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts (#652)](https://github.com/erigontech/rpc-tests/commit/7028a131c0260e42422f80bbef2c1e1280547436) - 2026-11-08
 * [Pull Request] [rpc_pattern_gen: a verify request that times out is dropped, not fatal](https://github.com/erigontech/rpc-tests/pull/653) - 2026-11-09
+* [Commit] [rpc_pattern_gen: a verify request that times out is dropped, not fatal (#653)](https://github.com/erigontech/rpc-tests/commit/0ceb9d4657761796352a52c60288958280129878) - 2026-11-10
 ## Q3 2026
 
 

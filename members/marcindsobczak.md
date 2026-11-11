@@ -204,6 +204,25 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(tracing): let the request timeout interrupt JavaScript tracer creation (#15669)](https://github.com/NethermindEth/nethermind/commit/d3a57bf6c2a52003811f2bb5c1a870097a6bb974) - 2026-11-09
 * [Commit] [test(ots): check index worker catch-up order on the worker thread (#15672)](https://github.com/NethermindEth/nethermind/commit/1f09a64e7bb68fee1396a368bddf5a999a8feecd) - 2026-11-09
 * [Commit] [test(fixtures): fail when a fixture class finds no cases, and run or remove the classes that found none (#15645)](https://github.com/NethermindEth/nethermind/commit/44917242595a5a25e592da4b1e8ddb5f6ed05ca6) - 2026-11-09
+* [Review] [Review on: perf(evm): leave failed checked-opcode checks through a tail call](https://github.com/NethermindEth/nethermind/pull/15773#pullrequestreview-5847601658) - 2026-11-10
+* [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5843368413) - 2026-11-10
+* [Review] [Review on: perf(flat): serve snap ranges with a node record visitor](https://github.com/NethermindEth/nethermind/pull/15742#pullrequestreview-5844668746) - 2026-11-10
+* [Review] [Review on: fix(rpc): report the EIP-8141 GASPRICE as a frame tx's gas price](https://github.com/NethermindEth/nethermind/pull/15760#pullrequestreview-5840723829) - 2026-11-10
+* [Review] [Review on: test(rpc): check the log blockHash of a re-hashed simulated block](https://github.com/NethermindEth/nethermind/pull/15771#pullrequestreview-5847580960) - 2026-11-10
+* [Review] [Review on: test(evm): cover the frame cache past depth 16 and the unfused JUMPI failure exits](https://github.com/NethermindEth/nethermind/pull/15772#pullrequestreview-5845971469) - 2026-11-10
+* [Pull Request] [fix(discovery): keep a node at the endpoint it was verified at](https://github.com/NethermindEth/nethermind/pull/15781) - 2026-11-10
+* [Review] [Review on: test(fixtures): run blockchain tests that switch to proof of stake at a total difficulty](https://github.com/NethermindEth/nethermind/pull/15750#pullrequestreview-5843974204) - 2026-11-10
+* [Review] [Review on: fix(rpc): report frame tx gas as intrinsic gas plus frame limits](https://github.com/NethermindEth/nethermind/pull/15761#pullrequestreview-5840845993) - 2026-11-10
+* [Review] [Review on: fix(tracing): report execution gas only for frames in callTracer and trace_*](https://github.com/NethermindEth/nethermind/pull/15756#pullrequestreview-5840098174) - 2026-11-10
+* [Pull Request] [fix(crypto): key the sender cache by the signing hash and signature](https://github.com/NethermindEth/nethermind/pull/15776) - 2026-11-10
+* [Review] [Review on: fix(eip8141): raise the shared MAX_VERIFY_GAS floor to 300_000](https://github.com/NethermindEth/nethermind/pull/15764#pullrequestreview-5840607344) - 2026-11-10
+* [Pull Request] [fix(rpc): cancel queued module rentals on transport abort](https://github.com/NethermindEth/nethermind/pull/15777) - 2026-11-10
+* [Review] [Review on: fix(rpc): cancel queued module rentals on transport abort](https://github.com/NethermindEth/nethermind/pull/15777#pullrequestreview-5845999478) - 2026-11-10
+* [Review] [Review on: refactor(network)!: hand received packets to the protocol handlers as memory instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15775#pullrequestreview-5845902883) - 2026-11-10
+* [Review] [Review on: perf(zkevm): use ZisK's library routines for BN254, KZG and BLS12-381](https://github.com/NethermindEth/nethermind/pull/15340#pullrequestreview-5842042755) - 2026-11-10
+* [Commit] [fix(rpc): log the cause of internal errors at Debug (#15755)](https://github.com/NethermindEth/nethermind/commit/d0c0eb0ff3cef79282d1be84a3648df1c1c04e94) - 2026-11-10
+* [Commit] [fix(tracing): keep the JavaScript tracer V8 heap limit fixed (#15636)](https://github.com/NethermindEth/nethermind/commit/727e4c5e8a9fbd692b25f425f2a58a9ff00c6854) - 2026-11-10
+* [Commit] [fix(rpc)!: return 4444 for pruned history in eth block methods (#15609)](https://github.com/NethermindEth/nethermind/commit/3672b9b01962b899f2037f85d31ea5ed1fc9e304) - 2026-11-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

@@ -98,6 +98,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/commitment: load the root cell's state before hashing it (#25832)](https://github.com/erigontech/erigon/commit/0a95beceeb2f783d579a62d92ec571846b70f5cb) - 2026-11-07
 * [Commit] [execution, node/privateapi: record a failed BLOCKHASH header read as a state read error (#25834)](https://github.com/erigontech/erigon/commit/f1e5d3d9b2cc00756d92f0c045500d5b89de2679) - 2026-11-07
 * [Commit] [execution/engineapi: do not serve the body of a known bad block (#25914)](https://github.com/erigontech/erigon/commit/362930da40926745b07732193ec0d62b9f68b034) - 2026-11-08
+* [Pull Request] [execution/state: keep a BAL-seeded Done cell Done when its tx is validated](https://github.com/erigontech/erigon/pull/26087) - 2026-11-10
+* [Pull Request] [execution/stagedsync: fold a block from its results when its BAL may hide a removal](https://github.com/erigontech/erigon/pull/26086) - 2026-11-10
+* [Pull Request] [execution/state: keep every cell of the fee recipient Estimate until the seal](https://github.com/erigontech/erigon/pull/26089) - 2026-11-10
+* [Pull Request] [execution/state: publish a same-tx create and destroy as its kept balance under EIP-8246](https://github.com/erigontech/erigon/pull/26095) - 2026-11-11
+* [Pull Request] [execution/stagedsync: dispatch a bounded window for blocks without a BAL too](https://github.com/erigontech/erigon/pull/26081) - 2026-11-10
+* [Commit] [execution/stagedsync: fold a block from its results when its BAL may hide a removal (#26086)](https://github.com/erigontech/erigon/commit/2eb537819404138b08c879863c2147cc54e454de) - 2026-11-11
+* [Commit] [execution/state: keep a BAL-seeded Done cell Done when its tx is validated (#26087)](https://github.com/erigontech/erigon/commit/3c0a1872d3d8fd67d4a3c2281ce6f6faf046a998) - 2026-11-11
+* [Commit] [execution/state: keep every cell of the fee recipient Estimate until the seal (#26089)](https://github.com/erigontech/erigon/commit/84c09c9b39838c4e1eadf257c75651f2bb3a3a4f) - 2026-11-11
+* [Commit] [execution/state: write the balance of every account created from an absent base (#26018)](https://github.com/erigontech/erigon/commit/5d857bfcd6a821c980409e1b4ce10cf413155295) - 2026-11-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02

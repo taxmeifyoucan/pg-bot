@@ -61,6 +61,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Reject builder bids exceeding the slot’s blob limit (#11614)](https://github.com/Consensys-Incorporated/teku/commit/0708eb1a5c9b6cf1666366252d55170e7a2355fb) - 2026-11-06
 * [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys-Incorporated/teku/pull/10132#pullrequestreview-5812593824) - 2026-11-07
 * [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys-Incorporated/teku/pull/10132#pullrequestreview-5818967298) - 2026-11-08
+* [Review] [Review on: limit validator client event stream size](https://github.com/Consensys-Incorporated/teku/pull/11624#pullrequestreview-5848394247) - 2026-11-10
+* [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5844381111) - 2026-11-10
 ## Q3 2026
 
 

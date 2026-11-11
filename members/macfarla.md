@@ -211,6 +211,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Importing a side block moves the Bonsai head world state off the chain head](https://github.com/besu-eth/besu/issues/11903) - 2026-11-09
 * [Issue] [ETH/SNAP replies to a duplicate RLPx connection go out on the peer's other connection](https://github.com/besu-eth/besu/issues/11898) - 2026-11-09
 * [Commit] [ci: make the build job the only Gradle cache writer (#11897)](https://github.com/besu-eth/besu/commit/2ee8acf27225224e751996d43fc520b55008897a) - 2026-11-09
+* [Review] [Review on: fix(rpc): retain precompile output in Parity call frames](https://github.com/besu-eth/besu/pull/11346#pullrequestreview-5853761499) - 2026-11-11
+* [Review] [Review on: Apply the server trace step limit to standard trace files](https://github.com/besu-eth/besu/pull/11452#pullrequestreview-5853065022) - 2026-11-11
+* [Review] [Review on: Honor enableReturnData in debug_standardTraceBlockToFile](https://github.com/besu-eth/besu/pull/11845#pullrequestreview-5853297669) - 2026-11-11
+* [Review] [Review on: fix: reject malformed JSON-RPC address parameters](https://github.com/besu-eth/besu/pull/11888#pullrequestreview-5852060860) - 2026-11-11
+* [Review] [Review on: Read cleared Bonsai storage as zero after commit](https://github.com/besu-eth/besu/pull/11647#pullrequestreview-5852722848) - 2026-11-11
+* [Review] [Review on: build: upgrade Gradle wrapper to 9.9.1](https://github.com/besu-eth/besu/pull/11927#pullrequestreview-5852437215) - 2026-11-11
+* [Review] [Review on: Represent the chain id with a shared ChainId value object](https://github.com/besu-eth/besu/pull/11866#pullrequestreview-5851662276) - 2026-11-11
+* [Review] [Review on: fix(rpc): remove precompile from simulation registry when code is overridden](https://github.com/besu-eth/besu/pull/11604#pullrequestreview-5850310360) - 2026-11-10
+* [Review] [Review on: Fix evmtool's --fork and JSON output on EVM v2](https://github.com/besu-eth/besu/pull/11870#pullrequestreview-5839893968) - 2026-11-10
+* [Review] [Review on: Fix miner_getExtraData dropping leading zero bytes](https://github.com/besu-eth/besu/pull/11843#pullrequestreview-5839859217) - 2026-11-10
+* [Review] [Review on: Move per-block receipt and root work off the importing thread](https://github.com/besu-eth/besu/pull/11529#pullrequestreview-5837191531) - 2026-11-10
+* [Issue] [`admin_logsRepairCache` returns `Internal error` and logs at `ERROR` for an unknown block](https://github.com/besu-eth/besu/issues/11914) - 2026-11-10
+* [Commit] [ci: bump gradle/actions to v6.4.1 (#11909)](https://github.com/besu-eth/besu/commit/f94b7661512fcd8c80affd93d1cb4bd990b1df65) - 2026-11-10
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

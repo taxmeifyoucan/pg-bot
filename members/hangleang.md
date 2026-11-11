@@ -56,6 +56,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Query parent payload envelope from cache and storage in block production](https://github.com/grandinetech/grandine/commit/9470052cbcc2a555e805aaa9a44d150d304c3476) - 2026-11-04
 * [Commit] [Delay data column sidecars until block imported](https://github.com/grandinetech/grandine/commit/129fbd2912943e02e621028b8e5e39cc092a1f19) - 2026-11-06
 * [Commit] [Prune invalid execution payload envelopes from cache and storage](https://github.com/grandinetech/grandine/commit/284e4216ca1fe28f6271fea6c4044da59e0da24d) - 2026-11-09
+* [Pull Request] [Make execution payload envelope validation generic](https://github.com/grandinetech/grandine/pull/1036) - 2026-11-10
 ## Q3 2026
 
 

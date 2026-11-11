@@ -115,6 +115,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci: publish reference assemblies preview to nugettest.org from release branches](https://github.com/NethermindEth/nethermind/pull/15752) - 2026-11-09
 * [Review] [Review on: ci: publish reference assemblies preview to nugettest.org from release branches](https://github.com/NethermindEth/nethermind/pull/15752#pullrequestreview-5828635717) - 2026-11-09
 * [Commit] [ci: publish reference assemblies preview to nugettest.org from release branches (#15752)](https://github.com/NethermindEth/nethermind/commit/5a9b7fc5adf41d15619ae5e3555a854bc8e79333) - 2026-11-09
+* [Pull Request] [fix(trie): implement IsRangeScan on TreeDumper and StorageRangeVisitor](https://github.com/NethermindEth/nethermind/pull/15786) - 2026-11-10
+* [Pull Request] [feat(zkevm): adopt tests-zkevm@v21.0.7](https://github.com/NethermindEth/nethermind/pull/15782) - 2026-11-10
+* [Review] [Review on: feat(zkevm): adopt tests-zkevm@v21.0.7](https://github.com/NethermindEth/nethermind/pull/15782#pullrequestreview-5850729482) - 2026-11-10
+* [Pull Request] [refactor(network)!: hand received packets to the protocol handlers as memory instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15775) - 2026-11-10
+* [Commit] [fix(trie): implement IsRangeScan on TreeDumper and StorageRangeVisitor (#15786)](https://github.com/NethermindEth/nethermind/commit/34184d904f3e7d1be633e8aba5e502c998f5c4ab) - 2026-11-11
+* [Commit] [refactor(network)!: hand received packets to the protocol handlers as memory instead of DotNetty buffers (#15775)](https://github.com/NethermindEth/nethermind/commit/54f15ef852105297770ce742be5fbcfd6d21e18a) - 2026-11-10
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

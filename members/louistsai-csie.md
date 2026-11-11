@@ -57,6 +57,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-tools,tests): price the branch a conditional or switch runs](https://github.com/ethereum/execution-specs/pull/3898) - 2026-10-23
 * [Review] [Review on: refactor(tests): build EIP-8141 frame transaction from helper](https://github.com/ethereum/execution-specs/pull/3799#pullrequestreview-5624910827) - 2026-10-23
 * [Commit] [feat(test-execution): verify transaction receipts against the network (#3886)](https://github.com/ethereum/execution-specs/commit/97166d93ff7d0250e1528cf42bebb9814f131476) - 2026-10-23
+* [Pull Request] [refactor(test-benchmark): give `test_blockhash` its own pre-alloc group](https://github.com/ethereum/execution-specs/pull/3972) - 2026-11-10
 ## Q3 2026
 
 

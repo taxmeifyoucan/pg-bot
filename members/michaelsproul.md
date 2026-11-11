@@ -97,6 +97,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Release v8.3.3](https://github.com/sigp/lighthouse/commit/57c2abc13078bf949e4d19df6178a644b064c32c) - 2026-11-09
 * [Commit] [Update libp2p](https://github.com/sigp/lighthouse/commit/bfdf0a3fe4e15bb44dcd6682868074cb7962bbdb) - 2026-11-09
 * [Commit] [Bump crypto-bigint](https://github.com/sigp/lighthouse/commit/e7afb13167f42222027a462558ae271a9f81ff39) - 2026-11-09
+* [Review] [Review on: Update redb to v4](https://github.com/sigp/lighthouse/pull/10541#pullrequestreview-5850799292) - 2026-11-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

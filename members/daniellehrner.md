@@ -219,6 +219,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Roll back a world state left at a block that was never stored when Besu starts](https://github.com/besu-eth/besu/pull/11882#pullrequestreview-5836972447) - 2026-11-10
 * [Review] [Review on: Run a child frame on its parent's EVM and reject mismatched frames](https://github.com/besu-eth/besu/pull/11867#pullrequestreview-5831470496) - 2026-11-09
 * [Review] [Review on: ci: make the build job the only Gradle cache writer](https://github.com/besu-eth/besu/pull/11897#pullrequestreview-5827216047) - 2026-11-09
+* [Pull Request] [Hash the subtries of a long list trie in parallel](https://github.com/besu-eth/besu/pull/11925) - 2026-11-10
+* [Pull Request] [Decode a large payload's transactions in parallel](https://github.com/besu-eth/besu/pull/11924) - 2026-11-10
+* [Pull Request] [Build the BAL account lookup once per block](https://github.com/besu-eth/besu/pull/11923) - 2026-11-10
+* [Pull Request] [Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922) - 2026-11-10
+* [Pull Request] [Recover secp256k1 public keys in one native call](https://github.com/besu-eth/besu/pull/11921) - 2026-11-10
+* [Pull Request] [Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/pull/11759) - 2026-11-10
+* [Review] [Review on: remove unused methods to manipulate memory in MessageFrame](https://github.com/besu-eth/besu/pull/11918#pullrequestreview-5843934265) - 2026-11-10
+* [Review] [Review on: perf(evm): transfer v2 MLOAD/MSTORE words directly between stack and memory](https://github.com/besu-eth/besu/pull/11873#pullrequestreview-5839679691) - 2026-11-10
+* [Review] [Review on: Fix evmtool's --fork and JSON output on EVM v2](https://github.com/besu-eth/besu/pull/11870#pullrequestreview-5840024259) - 2026-11-10
+* [Commit] [Prewarm the next block's state from the transaction pool (#11759)](https://github.com/besu-eth/besu/commit/64d0ea819c1161ca1b322d1466e6d50cf1b3e9ee) - 2026-11-10
+* [Commit] [Fix evmtool's --fork and JSON output on EVM v2 (#11870)](https://github.com/besu-eth/besu/commit/d159189f7298cfde14a95f8b49b17aea17acb0fa) - 2026-11-10
+* [Commit] [Move per-block receipt and root work off the importing thread (#11529)](https://github.com/besu-eth/besu/commit/5d763cd5dca1af2385c62d7b90c59c3991bba51a) - 2026-11-10
+* [Commit] [Let RocksDB add sorted files to a segment (#11852)](https://github.com/besu-eth/besu/commit/f2026a9b222c347ef64272754e36408c8c47d300) - 2026-11-10
+* [Commit] [Roll back a world state left at a block that was never stored when Besu starts (#11882)](https://github.com/besu-eth/besu/commit/6d134c0e9bbe18706bbfcbbfc92b8cf6499bab77) - 2026-11-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

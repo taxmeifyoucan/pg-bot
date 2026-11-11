@@ -132,6 +132,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: apply state fork epoch over per-case spec config in operations tests](https://github.com/ChainSafe/lodestar/pull/10572#pullrequestreview-5831928915) - 2026-11-09
 * [Review] [Review on: chore: track block recv to consensus verified delay on Grafana](https://github.com/ChainSafe/lodestar/pull/10573#pullrequestreview-5831914948) - 2026-11-09
 * [Commit] [fix: return 500 when an additional metrics source rejects (#10578)](https://github.com/ChainSafe/lodestar/commit/3ff306e42be67242d5ed442263c610d9669cb0bc) - 2026-11-10
+* [Pull Request] [feat: add leanVM bindings for leanXMSS and aggregation](https://github.com/ChainSafe/lodestar/pull/10591) - 2026-11-10
+* [Review] [Review on: fix: use runtime genesis metadata for ephemery](https://github.com/ChainSafe/lodestar/pull/10278#pullrequestreview-5850124190) - 2026-11-10
+* [Pull Request] [fix: reject blocks and payloads building on an invalidated payload chain in fork choice](https://github.com/ChainSafe/lodestar/pull/10590) - 2026-11-10
+* [Review] [Review on: fix(api): keep timeout signals local to retry attempts](https://github.com/ChainSafe/lodestar/pull/10526#pullrequestreview-5849678160) - 2026-11-10
+* [Pull Request] [fix: count usable gossip subscribers for subnet coverage](https://github.com/ChainSafe/lodestar/pull/10482) - 2026-11-10
+* [Review] [Review on: fix: bound the envelope transaction count by the parent payload's gas limit](https://github.com/ChainSafe/lodestar/pull/10548#pullrequestreview-5849080041) - 2026-11-10
+* [Review] [Review on: feat: support and test node 26](https://github.com/ChainSafe/lodestar/pull/10516#pullrequestreview-5849622692) - 2026-11-10
+* [Review] [Review on: chore(deps): bump the actions group with 8 updates](https://github.com/ChainSafe/lodestar/pull/10574#pullrequestreview-5848923021) - 2026-11-10
+* [Review] [Review on: fix: set gossip payload envelope in the same tick as validation](https://github.com/ChainSafe/lodestar/pull/10549#pullrequestreview-5848726074) - 2026-11-10
+* [Review] [Review on: chore(ci): run benchmarks nightly instead of on every PR](https://github.com/ChainSafe/lodestar/pull/10557#pullrequestreview-5848052563) - 2026-11-10
+* [Review] [Review on: fix: keep the engine state on an INVALID payload status](https://github.com/ChainSafe/lodestar/pull/10582#pullrequestreview-5848198169) - 2026-11-10
+* [Review] [Review on: fix: serialize gossip core topic subscription changes in sync](https://github.com/ChainSafe/lodestar/pull/10579#pullrequestreview-5847878174) - 2026-11-10
+* [Review] [Review on: fix: stop the network processor and remove all listeners on network close](https://github.com/ChainSafe/lodestar/pull/10575#pullrequestreview-5847873290) - 2026-11-10
+* [Review] [Review on: fix: settle all BLS worker pool jobs on close](https://github.com/ChainSafe/lodestar/pull/10577#pullrequestreview-5847877075) - 2026-11-10
+* [Review] [Review on: fix: make BeaconNode.close idempotent and run every cleanup step](https://github.com/ChainSafe/lodestar/pull/10576#pullrequestreview-5847878762) - 2026-11-10
+* [Commit] [fix: count usable gossip subscribers for subnet coverage (#10482)](https://github.com/ChainSafe/lodestar/commit/e2296e3b06e895f1c60dd95e739106182799cb3a) - 2026-11-10
+* [Commit] [fix: make BeaconNode.close idempotent and run every cleanup step (#10576)](https://github.com/ChainSafe/lodestar/commit/f28f5e623b0bcd6550d7a677be04a387effaf839) - 2026-11-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

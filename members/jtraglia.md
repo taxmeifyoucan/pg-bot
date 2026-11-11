@@ -69,6 +69,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Allow builders to submit one bid per staked ETH](https://github.com/ethereum/consensus-specs/pull/5805) - 2026-11-06
 * [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5795841965) - 2026-11-06
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5807#pullrequestreview-5823724731) - 2026-11-09
+* [Review] [Review on: Return early for a known payload in `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5784#pullrequestreview-5853152831) - 2026-11-11
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5853201262) - 2026-11-11
+* [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802#pullrequestreview-5853191904) - 2026-11-11
+* [Review] [Review on: Store sweep threshold in withdrawal credentials](https://github.com/ethereum/consensus-specs/pull/5790#pullrequestreview-5850238765) - 2026-11-10
+* [Review] [Review on: Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789#pullrequestreview-5850392545) - 2026-11-10
+* [Pull Request] [Note that proposers should accept higher bids from the same builder](https://github.com/ethereum/consensus-specs/pull/5774) - 2026-11-10
+* [Pull Request] [Skip seen bitsets of a different length in `is_non_strict_superset`](https://github.com/ethereum/consensus-specs/pull/5766) - 2026-11-10
+* [Pull Request] [Unset fork slot payload availability in `upgrade_to_gloas`](https://github.com/ethereum/consensus-specs/pull/5808) - 2026-11-10
+* [Commit] [Allow builders to submit one bid per staked ETH (#5805)](https://github.com/ethereum/consensus-specs/commit/1a48161515966f9c843672fa500861845ddc75d8) - 2026-11-11
+* [Commit] [Note that proposers should accept higher bids from the same builder (#5774)](https://github.com/ethereum/consensus-specs/commit/67e437d9eb6a93f8ccb63a517eefd88672010bdb) - 2026-11-10
+* [Commit] [Skip seen bitsets of a different length in `is_non_strict_superset` (#5766)](https://github.com/ethereum/consensus-specs/commit/1995f56ef680fd4bbae99ba0f912f37b20969a3b) - 2026-11-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

@@ -507,6 +507,14 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(config): treat JSON null as null for config options (#15709)](https://github.com/NethermindEth/nethermind/commit/eecefe18f66c7d0404f45396444317368d130981) - 2026-11-08
 * [Commit] [fix(config): parse bracketed array values as JSON arrays (#15708)](https://github.com/NethermindEth/nethermind/commit/55bcd2df1790e959e949cea604e0d10d29ca936e) - 2026-11-08
 * [Commit] [fix(debug): report a traceCallMany bundle withdrawals override as debug_traceCall does (#15676)](https://github.com/NethermindEth/nethermind/commit/3202cf17827255ac9078b5521401044991d32b48) - 2026-11-09
+* [Review] [Review on: feat(flat): migrate the pruning trie state to flat while the node runs](https://github.com/NethermindEth/nethermind/pull/15638#pullrequestreview-5837870905) - 2026-11-10
+* [Review] [Review on: fix(debug): align traceCall field-inferred fork validation](https://github.com/NethermindEth/nethermind/pull/15746#pullrequestreview-5838029247) - 2026-11-10
+* [Review] [Review on: perf(flat): serve snap ranges with a node record visitor](https://github.com/NethermindEth/nethermind/pull/15742#pullrequestreview-5838083461) - 2026-11-10
+* [Review] [Review on: fix(rpc): report the EIP-8141 GASPRICE as a frame tx's gas price](https://github.com/NethermindEth/nethermind/pull/15760#pullrequestreview-5837925303) - 2026-11-10
+* [Review] [Review on: test(fixtures): run blockchain tests that switch to proof of stake at a total difficulty](https://github.com/NethermindEth/nethermind/pull/15750#pullrequestreview-5838206456) - 2026-11-10
+* [Review] [Review on: fix(rpc): report frame tx gas as intrinsic gas plus frame limits](https://github.com/NethermindEth/nethermind/pull/15761#pullrequestreview-5837821989) - 2026-11-10
+* [Review] [Review on: fix(tracing): report execution gas only for frames in callTracer and trace_*](https://github.com/NethermindEth/nethermind/pull/15756#pullrequestreview-5838087970) - 2026-11-10
+* [Review] [Review on: fix(eip8141): raise the shared MAX_VERIFY_GAS floor to 300_000](https://github.com/NethermindEth/nethermind/pull/15764#pullrequestreview-5837707669) - 2026-11-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

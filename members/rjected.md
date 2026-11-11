@@ -31,6 +31,8 @@ Team: Reth
 * [Review] [Review on: fix(txpool): allow same-nonce replacement for senders at slot capacity](https://github.com/paradigmxyz/reth/pull/28358#pullrequestreview-5832786112) - 2026-11-09
 * [Review] [Review on: fix(net): move fetching hashes past the eviction fallback search](https://github.com/paradigmxyz/reth/pull/28361#pullrequestreview-5832627268) - 2026-11-09
 * [Review] [Review on: fix(net): reject banned and untrusted inbound peers before session activation](https://github.com/paradigmxyz/reth/pull/28360#pullrequestreview-5832636797) - 2026-11-09
+* [Review] [Review on: perf(net): skip decoding unrequested responses](https://github.com/paradigmxyz/reth/pull/28403#pullrequestreview-5845312551) - 2026-11-10
+* [Review] [Review on: fix(txpool): run blob replacement overdraft check for head replacements](https://github.com/paradigmxyz/reth/pull/28356#pullrequestreview-5845476140) - 2026-11-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

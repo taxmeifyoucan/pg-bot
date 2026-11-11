@@ -69,8 +69,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Keep the fees of recent blocks between chain heads in the fee oracle](https://github.com/besu-eth/besu/pull/11825#pullrequestreview-5802696331) - 2026-11-06
 * [Review] [Review on: Read RLP item metadata from the input bytes without a lambda](https://github.com/besu-eth/besu/pull/11826#pullrequestreview-5801038284) - 2026-11-06
 * [Issue] [Seed BytesHolder.hashCode() and make Hash Comparable](https://github.com/besu-eth/besu/issues/11884) - 2026-11-06
+* [Issue] [2026-11-24 Contributor Call](https://github.com/besu-eth/besu/issues/11917) - 2026-11-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Encrypt The Mempool #12, November 11, 2026](https://github.com/ethereum/pm/issues/2300) - 2026-11-10
 ## Q3 2026
 
 

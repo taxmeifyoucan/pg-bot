@@ -32,6 +32,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(txpool): skip local senders when selecting pending eviction candidates](https://github.com/paradigmxyz/reth/pull/28352#pullrequestreview-5828126059) - 2026-11-09
 * [Review] [Review on: fix(txpool): apply tx fee cap based on submission origin](https://github.com/paradigmxyz/reth/pull/28354#pullrequestreview-5827064646) - 2026-11-09
 * [Commit] [chore(deps): bump evm2 to 0b448ca (#28389)](https://github.com/paradigmxyz/reth/commit/76bde994b0b3ead8116accf5a6777e413a2abda4) - 2026-11-09
+* [Review] [Review on: chore(deps): bump evm2 to 66687c1](https://github.com/paradigmxyz/reth/pull/28413#pullrequestreview-5846376979) - 2026-11-10
 ## Q3 2026
 
 

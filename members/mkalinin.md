@@ -20,6 +20,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5829079277) - 2026-11-09
 * [Review] [Review on: EIP-8453: update fast and slow lock rules](https://github.com/ethereum/consensus-specs/pull/5806#pullrequestreview-5828082720) - 2026-11-09
 
+* [Pull Request] [Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789) - 2026-11-10
+* [Commit] [Add support of pending parent node to the discount in FCR (#5789)](https://github.com/ethereum/consensus-specs/commit/a6fe2b9710e05dad78be70e4413658b40739cf2d) - 2026-11-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5828960336) - 2026-11-09
 ## Q3 2026

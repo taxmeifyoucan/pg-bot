@@ -541,6 +541,44 @@ Team: Reth
 * [Commit] [fix(discv5): make ENR conversion fallible (#28345)](https://github.com/paradigmxyz/reth/commit/c252c2dd95ed9312ac192075154b102275497935) - 2026-11-09
 * [Commit] [fix(rpc): cap eth_getProof and eth_getMultiProof key counts (#27716)](https://github.com/paradigmxyz/reth/commit/b5dc94ca372e337d057911cdb4772ea58104bcbe) - 2026-11-09
 * [Commit] [fix(rpc): bound eth_callMany, trace_callMany and debug_traceCallMany (#28314)](https://github.com/paradigmxyz/reth/commit/faf670e16dedad9786ba0faee00aee123133d176) - 2026-11-09
+* [Pull Request] [fix(rpc): select simulated block fork from its timestamp](https://github.com/paradigmxyz/reth/pull/28431) - 2026-11-10
+* [Pull Request] [fix(net): forward changed addresses of known peers](https://github.com/paradigmxyz/reth/pull/28430) - 2026-11-10
+* [Pull Request] [fix(net): remove disconnecting peers on error close](https://github.com/paradigmxyz/reth/pull/28428) - 2026-11-10
+* [Pull Request] [docs(cli): document engine.memory-block-buffer-target](https://github.com/paradigmxyz/reth/pull/28429) - 2026-11-10
+* [Pull Request] [fix(stages): unwind on unrecoverable senders](https://github.com/paradigmxyz/reth/pull/28420) - 2026-11-10
+* [Review] [Review on: fix(engine): close execution-apis#885 SSZ gaps](https://github.com/paradigmxyz/reth/pull/28417#pullrequestreview-5849871173) - 2026-11-10
+* [Pull Request] [fix(net): keep disconnecting peers on repeated removal](https://github.com/paradigmxyz/reth/pull/28423) - 2026-11-10
+* [Pull Request] [perf(engine): reuse prewarm results by default](https://github.com/paradigmxyz/reth/pull/28427) - 2026-11-10
+* [Pull Request] [feat(db): read branch pages of state tables at startup](https://github.com/paradigmxyz/reth/pull/28425) - 2026-11-10
+* [Pull Request] [fix(rpc): default the builder validation window to 3 blocks](https://github.com/paradigmxyz/reth/pull/28424) - 2026-11-10
+* [Pull Request] [perf(engine): reuse prewarm results by default](https://github.com/paradigmxyz/reth/pull/28426) - 2026-11-10
+* [Pull Request] [fix(rpc): serialize eth_sendTransaction nonces](https://github.com/paradigmxyz/reth/pull/28418) - 2026-11-10
+* [Pull Request] [fix(engine): fetch start block for oversized range downloads](https://github.com/paradigmxyz/reth/pull/28421) - 2026-11-10
+* [Pull Request] [perf(net): bound body and receipt decode memory](https://github.com/paradigmxyz/reth/pull/28408) - 2026-11-10
+* [Review] [Review on: perf(net): bound body and receipt decode memory](https://github.com/paradigmxyz/reth/pull/28408#pullrequestreview-5848110503) - 2026-11-10
+* [Pull Request] [fix(txpool): track 7702 authorization nonces](https://github.com/paradigmxyz/reth/pull/28416) - 2026-11-10
+* [Pull Request] [fix(eth-wire): reject shared capabilities that overflow the message id space](https://github.com/paradigmxyz/reth/pull/28414) - 2026-11-10
+* [Pull Request] [perf(net): skip decoding unrequested responses](https://github.com/paradigmxyz/reth/pull/28403) - 2026-11-10
+* [Review] [Review on: perf(net): skip decoding unrequested responses](https://github.com/paradigmxyz/reth/pull/28403#pullrequestreview-5843660339) - 2026-11-10
+* [Pull Request] [fix(txpool): run blob replacement overdraft check for head replacements](https://github.com/paradigmxyz/reth/pull/28356) - 2026-11-10
+* [Pull Request] [fix(txpool): skip stale 7702 authorizations](https://github.com/paradigmxyz/reth/pull/28415) - 2026-11-10
+* [Review] [Review on: chore(deps): bump evm2 to 66687c1](https://github.com/paradigmxyz/reth/pull/28413#pullrequestreview-5846249052) - 2026-11-10
+* [Pull Request] [fix(rpc): time out JS tracers per transaction in block traces](https://github.com/paradigmxyz/reth/pull/28410) - 2026-11-10
+* [Commit] [fix(rpc): select simulated block fork from its timestamp (#28431)](https://github.com/paradigmxyz/reth/commit/999be5fdd0f85fd95d0406e129844ee7c434ad7c) - 2026-11-11
+* [Commit] [docs(cli): document engine.memory-block-buffer-target (#28429)](https://github.com/paradigmxyz/reth/commit/3fa8ec0377de1368e6e9ad01fe4a8bb68740558d) - 2026-11-10
+* [Commit] [fix(stages): unwind on unrecoverable senders (#28420)](https://github.com/paradigmxyz/reth/commit/ab805ea6ac88d062e9a0373bb0c400b7163350d6) - 2026-11-10
+* [Commit] [fix(net): keep disconnecting peers on repeated removal (#28423)](https://github.com/paradigmxyz/reth/commit/c050a76fd1de19b742299845b711515d16485a68) - 2026-11-10
+* [Commit] [fix(rpc): default the builder validation window to 3 blocks (#28424)](https://github.com/paradigmxyz/reth/commit/7fe34e77a732e74f13a01ca884c6a411693eeb27) - 2026-11-10
+* [Commit] [fix(rpc): serialize eth_sendTransaction nonces (#28418)](https://github.com/paradigmxyz/reth/commit/85414e669f3ea1146110986e23f6fd166126cf4c) - 2026-11-10
+* [Commit] [fix(eth-wire): reject shared capabilities that overflow the message id space (#28414)](https://github.com/paradigmxyz/reth/commit/5dad593ec847a0558c24abf24115cefaee30355a) - 2026-11-10
+* [Commit] [fix(txpool): don't treat oversized transactions as bad (#28355)](https://github.com/paradigmxyz/reth/commit/c6c086fc238f008869b960644b8f12da404518a7) - 2026-11-10
+* [Commit] [fix(txpool): run blob replacement overdraft check for head replacements (#28356)](https://github.com/paradigmxyz/reth/commit/e847b55e388576db3f22369a61819fe5cb9fa009) - 2026-11-10
+* [Commit] [perf(net): skip decoding unrequested responses (#28403)](https://github.com/paradigmxyz/reth/commit/b5e7d63d94d23718545f3efbac718dcc5a6b2139) - 2026-11-10
+* [Commit] [fix(libmdbx): avoid lock inversion in read tx timeout monitor (#28254)](https://github.com/paradigmxyz/reth/commit/a117cf545c9b0c2ba9724606671bb153a3be4658) - 2026-11-10
+* [Commit] [fix(rpc): map consensus errors to invalid params (#28398)](https://github.com/paradigmxyz/reth/commit/6f6f67e2c0b0ff660ef3f2d6c6713c726baeaf54) - 2026-11-10
+* [Commit] [fix(rpc): bound mev_simBundle work (#28386)](https://github.com/paradigmxyz/reth/commit/4cf928fee228f3ff6eaaa9b89784efaa6a7dfb8b) - 2026-11-10
+* [Commit] [fix(engine): cap invalid block hook output on disk (#28286)](https://github.com/paradigmxyz/reth/commit/562a2b2fba58e99a9275f95677d0e58e43aa4327) - 2026-11-10
+* [Commit] [fix(engine): offload invalid block diagnostics (#28284)](https://github.com/paradigmxyz/reth/commit/5ae4d94413fdffeec1e83f8673b2f09e037693a2) - 2026-11-10
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03
