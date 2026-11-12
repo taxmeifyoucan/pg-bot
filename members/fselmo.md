@@ -84,6 +84,12 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(tooling): build the docker images on uv's trixie base (#3882)](https://github.com/ethereum/execution-specs/commit/ffcd76e982e5e5064231257234ee852a24f612c7) - 2026-10-21
 * [Review] [Review on: feat(test-consume): ask clients for a fast KZG setup](https://github.com/ethereum/execution-specs/pull/3949#pullrequestreview-5728496443) - 2026-11-01
 * [Pull Request] [fix(spec-specs, tests): reject block gas limits above 2**63 - 1](https://github.com/ethereum/execution-specs/pull/3960) - 2026-11-06
+* [Pull Request] [fix(test-specs): keep state tests' excess blob gas in blockchain form](https://github.com/ethereum/execution-specs/pull/3983) - 2026-11-11
+* [Review] [Review on: fix(test-specs): keep state tests' excess blob gas in blockchain form](https://github.com/ethereum/execution-specs/pull/3983#pullrequestreview-5865325182) - 2026-11-11
+* [Pull Request] [feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982) - 2026-11-11
+* [Review] [Review on: feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982#pullrequestreview-5865348081) - 2026-11-11
+* [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5864001089) - 2026-11-11
+* [Review] [Review on: fix(spec-specs, tests): reject block gas limits above 2**63 - 1](https://github.com/ethereum/execution-specs/pull/3960#pullrequestreview-5863374339) - 2026-11-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 
@@ -94,6 +100,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [execution/stagedsync: run a single exec worker when one is configured](https://github.com/erigontech/erigon/pull/24594) - 2026-10-05
 * [Commit] [execution/stagedsync: run a single exec worker when one is configured (#24594)](https://github.com/erigontech/erigon/commit/83e0334e1dad7ea949e1c3c87c6ff0d565df1bb1) - 2026-10-07
 
+* [Pull Request] [cmd/evm, execution: add enginetest and the shared test runner flags](https://github.com/erigontech/erigon/pull/26178) - 2026-11-11
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640) - 2026-10-14
 
@@ -103,8 +110,15 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat(ef-tests): add the Osaka, BPO and Amsterdam transition networks](https://github.com/paradigmxyz/reth/pull/28226) - 2026-11-01
 
+* [Pull Request] [feat(ef-tests): add blocktest and enginetest runners](https://github.com/paradigmxyz/reth/pull/28459) - 2026-11-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients: map and dump the genesis in one jq pass](https://github.com/ethereum/hive/pull/1652#pullrequestreview-5779243451) - 2026-11-05
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/evm, core, eth, tests: add enginetest and EEST runner flags](https://github.com/ethereum/go-ethereum/pull/36111) - 2026-11-11
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Add an EEST blocktest and enginetest runner](https://github.com/status-im/nimbus-eth1/pull/5150) - 2026-11-11
 ## Q3 2026
 
 

@@ -29,6 +29,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [Update EIP-4444 pruning with independent block and BAL retention](https://github.com/besu-eth/besu/pull/11868) - 2026-11-04
 * [Commit] [Fix/snap storage root refresh (#11654)](https://github.com/besu-eth/besu/commit/7a5f67175e267e4b7d71f321b72b52843224e01e) - 2026-11-04
 * [Pull Request] [Share one request scheduler across the sync downloads](https://github.com/besu-eth/besu/pull/11881) - 2026-11-06
+* [Review] [Review on: [1/5] Bonsai archive ongoing sync: fix capture gaps](https://github.com/besu-eth/besu/pull/11913#pullrequestreview-5869166277) - 2026-11-12
+* [Review] [Review on: Remove leftover stratum build file and duplicate datatypes include](https://github.com/besu-eth/besu/pull/11942#pullrequestreview-5868317810) - 2026-11-12
+* [Review] [Review on: Report missing required evmtool inputs as usage errors](https://github.com/besu-eth/besu/pull/11938#pullrequestreview-5867813825) - 2026-11-12
 ## Q3 2026
 
 

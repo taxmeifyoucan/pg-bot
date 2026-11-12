@@ -79,6 +79,7 @@ Team: Grandine
 * [Review] [Review on: Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/1034#pullrequestreview-5844383390) - 2026-11-10
 * [Review] [Review on: Bump rusqlite to 0.41 and refinery to 0.10](https://github.com/grandinetech/grandine/pull/1035#pullrequestreview-5844479168) - 2026-11-10
 * [Review] [Review on: Accept Gloas data column sidecars at the finalized slot](https://github.com/grandinetech/grandine/pull/1030#pullrequestreview-5843664048) - 2026-11-10
+* [Review] [Review on: Keep beacon node connection failures out of the default log as traces ](https://github.com/grandinetech/grandine/pull/1038#pullrequestreview-5858693876) - 2026-11-11
 ## Q3 2026
 
 

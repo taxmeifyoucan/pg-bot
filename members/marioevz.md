@@ -75,6 +75,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452#pullrequestreview-5444741406) - 2026-10-07
 
+* [Review] [Review on: Update EIP-8141: raise MAX_VERIFY_GAS to 300_000](https://github.com/ethereum/EIPs/pull/12644#pullrequestreview-5858462023) - 2026-11-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #101, October 19, 2026](https://github.com/ethereum/pm/issues/2271) - 2026-10-12
 ## Q3 2026

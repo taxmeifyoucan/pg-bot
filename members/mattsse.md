@@ -579,6 +579,46 @@ Team: Reth
 * [Commit] [fix(rpc): bound mev_simBundle work (#28386)](https://github.com/paradigmxyz/reth/commit/4cf928fee228f3ff6eaaa9b89784efaa6a7dfb8b) - 2026-11-10
 * [Commit] [fix(engine): cap invalid block hook output on disk (#28286)](https://github.com/paradigmxyz/reth/commit/562a2b2fba58e99a9275f95677d0e58e43aa4327) - 2026-11-10
 * [Commit] [fix(engine): offload invalid block diagnostics (#28284)](https://github.com/paradigmxyz/reth/commit/5ae4d94413fdffeec1e83f8673b2f09e037693a2) - 2026-11-10
+* [Pull Request] [fix(engine): reject undecodable block access lists for payloads with unknown parents](https://github.com/paradigmxyz/reth/pull/28471) - 2026-11-11
+* [Pull Request] [fix(discv4): only evict a node when its stored endpoint failed to pong](https://github.com/paradigmxyz/reth/pull/28462) - 2026-11-11
+* [Pull Request] [fix(rpc): refuse proofs and witnesses while syncing](https://github.com/paradigmxyz/reth/pull/28457) - 2026-11-11
+* [Pull Request] [fix(static-file): reopen the file holding last_block after truncating rows](https://github.com/paradigmxyz/reth/pull/28466) - 2026-11-11
+* [Pull Request] [fix(cli): strip control characters from the snapshot listing](https://github.com/paradigmxyz/reth/pull/28470) - 2026-11-11
+* [Pull Request] [fix(eth-wire): match encoded length of unknown messages and require list request pairs](https://github.com/paradigmxyz/reth/pull/28465) - 2026-11-11
+* [Pull Request] [fix(nippy-jar): truncate the offsets file when creating a jar](https://github.com/paradigmxyz/reth/pull/28468) - 2026-11-11
+* [Pull Request] [fix(net): clamp reputation recovery to the default](https://github.com/paradigmxyz/reth/pull/28464) - 2026-11-11
+* [Pull Request] [fix(discv4): only return endpoint-proven nodes in neighbours](https://github.com/paradigmxyz/reth/pull/28461) - 2026-11-11
+* [Pull Request] [fix(db): propagate cursor errors in unwind_table](https://github.com/paradigmxyz/reth/pull/28467) - 2026-11-11
+* [Pull Request] [fix(ethstats): cap requested history blocks](https://github.com/paradigmxyz/reth/pull/28463) - 2026-11-11
+* [Pull Request] [fix(stages): treat a zero merkle incremental threshold as one](https://github.com/paradigmxyz/reth/pull/28469) - 2026-11-11
+* [Pull Request] [feat(rpc): add Call::simulate_call_nonce hook](https://github.com/paradigmxyz/reth/pull/28458) - 2026-11-11
+* [Pull Request] [fix(rpc): add timeout to debug_traceBlock](https://github.com/paradigmxyz/reth/pull/28454) - 2026-11-11
+* [Pull Request] [perf(provider): cheaper state and header lookups](https://github.com/paradigmxyz/reth/pull/28455) - 2026-11-11
+* [Pull Request] [perf(provider): serve tag headers from memory](https://github.com/paradigmxyz/reth/pull/28447) - 2026-11-11
+* [Pull Request] [fix(rpc): enforce eth_callBundle timeout](https://github.com/paradigmxyz/reth/pull/28453) - 2026-11-11
+* [Pull Request] [fix(net): gate receipts requests by eth version](https://github.com/paradigmxyz/reth/pull/28452) - 2026-11-11
+* [Pull Request] [fix(net): pick the receipts request by negotiated eth version](https://github.com/paradigmxyz/reth/pull/28441) - 2026-11-11
+* [Pull Request] [fix(rpc): don't panic on oversized sub ack](https://github.com/paradigmxyz/reth/pull/28451) - 2026-11-11
+* [Pull Request] [perf(rpc): check cached gas price without lock](https://github.com/paradigmxyz/reth/pull/28444) - 2026-11-11
+* [Pull Request] [perf(rpc): read latest state on the caller task](https://github.com/paradigmxyz/reth/pull/28445) - 2026-11-11
+* [Pull Request] [perf(rpc): skip pending block for pending nonce](https://github.com/paradigmxyz/reth/pull/28438) - 2026-11-11
+* [Pull Request] [perf(provider): resolve in-memory state by hash](https://github.com/paradigmxyz/reth/pull/28448) - 2026-11-11
+* [Pull Request] [perf(provider): skip overlay factory per request](https://github.com/paradigmxyz/reth/pull/28446) - 2026-11-11
+* [Pull Request] [fix(net): prefer peers whose last response was fine](https://github.com/paradigmxyz/reth/pull/28442) - 2026-11-11
+* [Review] [Review on: fix(net): remove disconnecting peers on error close](https://github.com/paradigmxyz/reth/pull/28428#pullrequestreview-5856798111) - 2026-11-11
+* [Commit] [fix(rpc): add timeout to debug_traceBlock (#28454)](https://github.com/paradigmxyz/reth/commit/1993b9d4f28f1f8987da80723ed0bb26ad68ba9d) - 2026-11-11
+* [Commit] [perf(provider): serve tag headers from memory (#28447)](https://github.com/paradigmxyz/reth/commit/4ca2623c1272d0946fae20ec75f4b903a73b6b95) - 2026-11-11
+* [Commit] [fix(rpc): enforce eth_callBundle timeout (#28453)](https://github.com/paradigmxyz/reth/commit/f32a0466f465c40f2f5a2b03255f9596ca638edb) - 2026-11-11
+* [Commit] [fix(net): gate receipts requests by eth version (#28452)](https://github.com/paradigmxyz/reth/commit/a237efd58d3d2158d8f74160a6b87fc6bf0d71c2) - 2026-11-11
+* [Commit] [fix(net): pick the receipts request by negotiated eth version (#28441)](https://github.com/paradigmxyz/reth/commit/f31353f5ba94ad343132a1e3f3d62e927398398a) - 2026-11-11
+* [Commit] [perf(rpc): skip pending block for pending nonce (#28438)](https://github.com/paradigmxyz/reth/commit/6f1d9665fa5c8699cf7c0d612defb22d42095eec) - 2026-11-11
+* [Commit] [fix(net): prefer peers whose last response was fine (#28442)](https://github.com/paradigmxyz/reth/commit/db6faa13e79bb6ff794bae57853c4144eef43ee2) - 2026-11-11
+* [Commit] [fix(net): bound pending pool imports by encoded byte size (#28364)](https://github.com/paradigmxyz/reth/commit/0bc2b152fd0f9665cc58b2ac9f689fc53b26eaa0) - 2026-11-11
+* [Commit] [fix(net): remove disconnecting peers on error close (#28428)](https://github.com/paradigmxyz/reth/commit/e0bd6a281fc5bee7c0ea3a0fcfebd7111ff51264) - 2026-11-11
+* [Commit] [perf(rpc): reuse bytecode of repeated code overrides (#28371)](https://github.com/paradigmxyz/reth/commit/e7e789634b00e4f333902346ca3e4c05bbec2e07) - 2026-11-11
+* [Commit] [fix(engine): enforce Amsterdam engine method timeframe (#28399)](https://github.com/paradigmxyz/reth/commit/da8cb7a690b457d9259a8bf87e91685d328ddda2) - 2026-11-11
+* [Commit] [fix(cli): keep enforce_enr_fork_id from the config file (#28432)](https://github.com/paradigmxyz/reth/commit/cad433259d54bf31075fbd53bdb4154cb4bf715d) - 2026-11-11
+* [Commit] [fix(rpc): build rpc_modules per transport (#28433)](https://github.com/paradigmxyz/reth/commit/ec43debe3a08580c77b8b613e77c2893c1f93210) - 2026-11-11
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

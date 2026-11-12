@@ -180,6 +180,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc, docs: report a non-canonical trace block hash as -32001 or 4444, not -32603](https://github.com/erigontech/erigon/pull/26090) - 2026-11-10
 * [Review] [Review on: rpc/jsonrpc: trace a block's transactions in parallel in debug_traceBlock*](https://github.com/erigontech/erigon/pull/25846#pullrequestreview-5846434891) - 2026-11-10
 * [Commit] [execution/types, rpc/jsonrpc: serve cached logs without a copy in eth_getLogs (#25861)](https://github.com/erigontech/erigon/commit/a1019fa06e2fc568eeb4f3e39cdbebf61bb7a213) - 2026-11-10
+* [Commit] [.github/workflows: bound each RPC perf pattern step and lower the struct logger load (#26061)](https://github.com/erigontech/erigon/commit/25686fd0e732be4994b0de82335d6ba463d02898) - 2026-11-11
+* [Commit] [.github/workflows: drop the Python setup from run_rpc_tests.sh (#26135)](https://github.com/erigontech/erigon/commit/57ca3827fcaab8ff6c83238ed85779826bb6d2a2) - 2026-11-11
+* [Commit] [execution/types, rpc/jsonstream: encode the shared log fields once (#26091)](https://github.com/erigontech/erigon/commit/97b829d98cfdd538f46cdf11a7b1950ae817b49d) - 2026-11-11
+* [Commit] [rpc, docs: report a non-canonical trace block hash as -32001 or 4444, not -32603 (#26090)](https://github.com/erigontech/erigon/commit/41ffd5d0faf29c56c5bd1defd4e1fe06c4a4a6fd) - 2026-11-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -251,6 +255,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts (#652)](https://github.com/erigontech/rpc-tests/commit/7028a131c0260e42422f80bbef2c1e1280547436) - 2026-11-08
 * [Pull Request] [rpc_pattern_gen: a verify request that times out is dropped, not fatal](https://github.com/erigontech/rpc-tests/pull/653) - 2026-11-09
 * [Commit] [rpc_pattern_gen: a verify request that times out is dropped, not fatal (#653)](https://github.com/erigontech/rpc-tests/commit/0ceb9d4657761796352a52c60288958280129878) - 2026-11-10
+* [Pull Request] [integration: add blockTimestamp to receipt logs of erigon_getBlockReceiptsByBlockHash and ots_searchTransactions*](https://github.com/erigontech/rpc-tests/pull/654) - 2026-11-11
 ## Q3 2026
 
 

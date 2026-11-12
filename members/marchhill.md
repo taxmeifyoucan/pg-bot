@@ -236,6 +236,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(rpc): name the failing argument in -32602 errors, as Geth does](https://github.com/NethermindEth/nethermind/pull/15093#pullrequestreview-5628912851) - 2026-10-23
 * [Review] [Review on: test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143#pullrequestreview-5628912080) - 2026-10-23
 * [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5628900503) - 2026-10-23
+* [Review] [Review on: fix(rpc): replay copies of block transactions in trace and debug replays with overrides](https://github.com/NethermindEth/nethermind/pull/15770#pullrequestreview-5858420442) - 2026-11-11
+* [Review] [Review on: perf(evm): read ADDMOD and MULMOD operands in place and write the result into the slot](https://github.com/NethermindEth/nethermind/pull/15790#pullrequestreview-5858830401) - 2026-11-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -260,6 +262,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5587550301) - 2026-10-20
 * [Pull Request] [Update EIP-8288: aggregate only executable transactions](https://github.com/ethereum/EIPs/pull/12628) - 2026-11-05
 * [Pull Request] [Update EIP-8288: place dependency frames around protocol verifier frames](https://github.com/ethereum/EIPs/pull/12632) - 2026-11-06
+* [Pull Request] [Add EIP: eth/73 - Proof wrapper propagation](https://github.com/ethereum/EIPs/pull/12655) - 2026-11-11
+* [Pull Request] [Update EIP-8288: Batch generic signature claims](https://github.com/ethereum/EIPs/pull/12654) - 2026-11-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

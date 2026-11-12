@@ -27,6 +27,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [eez: derive EEZ chains from their L1 settlement](https://github.com/erigontech/erigon/pull/25077) - 2026-10-19
 * [Pull Request] [eez: follow the eez-rollupX networks](https://github.com/erigontech/erigon/pull/25707) - 2026-11-02
 * [Review] [Review on: eez: follow the eez-rollupX networks](https://github.com/erigontech/erigon/pull/25707#pullrequestreview-5802350386) - 2026-11-06
+* [Pull Request] [eez: read blobs from the L1's own consensus layer](https://github.com/erigontech/erigon/pull/26120) - 2026-11-11
+* [Review] [Review on: eez: read blobs from the L1's own consensus layer](https://github.com/erigontech/erigon/pull/26120#pullrequestreview-5862592005) - 2026-11-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

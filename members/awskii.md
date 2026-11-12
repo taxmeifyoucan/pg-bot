@@ -401,6 +401,46 @@ Team: Erigon
 * [Commit] [execution/state: mark validated and sealed writes without the entry lock (#25979)](https://github.com/erigontech/erigon/commit/4d93319caf108ff5bd0c6b31f619047e387baf2d) - 2026-11-10
 * [Commit] [Dockerfile: fall back to direct module fetch on Go proxy errors (#26043)](https://github.com/erigontech/erigon/commit/533f1011cc1d1b91a6223fce10b33f00d5ea4a24) - 2026-11-10
 * [Commit] [ci: retry the actionlint download (#26042)](https://github.com/erigontech/erigon/commit/01e7245dfa41b1494613c25f8e3cf4972cc02249) - 2026-11-10
+* [Pull Request] [cl/beacon/handler: return 404 for unavailable randao mixes](https://github.com/erigontech/erigon/pull/26152) - 2026-11-11
+* [Review] [Review on: cl/beacon/handler: return 404 for unavailable randao mixes](https://github.com/erigontech/erigon/pull/26152#pullrequestreview-5869544420) - 2026-11-12
+* [Pull Request] [cl/beacon/handler: include finalized in state fork responses](https://github.com/erigontech/erigon/pull/26145) - 2026-11-11
+* [Pull Request] [cl/beacon/handler: omit inclusion delay after phase0](https://github.com/erigontech/erigon/pull/26151) - 2026-11-11
+* [Review] [Review on: cl/beacon/handler: omit inclusion delay after phase0](https://github.com/erigontech/erigon/pull/26151#pullrequestreview-5862244330) - 2026-11-11
+* [Review] [Review on: execution/stagedsync: a write the BAL holds leaves readers clean](https://github.com/erigontech/erigon/pull/26080#pullrequestreview-5858937023) - 2026-11-11
+* [Pull Request] [cl/beacon: route expected withdrawals without relay](https://github.com/erigontech/erigon/pull/26150) - 2026-11-11
+* [Pull Request] [cl/beacon/handler: bound epoch root and reward epoch requests](https://github.com/erigontech/erigon/pull/26185) - 2026-11-12
+* [Pull Request] [cl/phase1/forkchoice: FinalizedSlot returns the finalized checkpoint start slot](https://github.com/erigontech/erigon/pull/26184) - 2026-11-12
+* [Pull Request] [cl/beacon/beaconevents: deduplicate head events](https://github.com/erigontech/erigon/pull/26155) - 2026-11-11
+* [Review] [Review on: cl/beacon/beaconevents: deduplicate head events](https://github.com/erigontech/erigon/pull/26155#pullrequestreview-5862513255) - 2026-11-11
+* [Pull Request] [cl/phase1/forkchoice: cache replayed states, skip read replay signatures](https://github.com/erigontech/erigon/pull/26163) - 2026-11-11
+* [Review] [Review on: cl/phase1/forkchoice: cache replayed states, skip read replay signatures](https://github.com/erigontech/erigon/pull/26163#pullrequestreview-5864872169) - 2026-11-11
+* [Pull Request] [cl/beacon/handler: expose missing config spec keys](https://github.com/erigontech/erigon/pull/26161) - 2026-11-11
+* [Review] [Review on: cl/beacon/handler: expose missing config spec keys](https://github.com/erigontech/erigon/pull/26161#pullrequestreview-5865104688) - 2026-11-11
+* [Pull Request] [cl/beacon/handler: return 404 for missing inclusion validator indices](https://github.com/erigontech/erigon/pull/26160) - 2026-11-11
+* [Pull Request] [execution/verify: remove unused SnapshotVerifier](https://github.com/erigontech/erigon/pull/26105) - 2026-11-11
+* [Review] [Review on: cmd/evm, execution: add enginetest and the shared test runner flags](https://github.com/erigontech/erigon/pull/26178#pullrequestreview-5868328564) - 2026-11-12
+* [Pull Request] [node/interfaces: remove orphan block access list proto definitions](https://github.com/erigontech/erigon/pull/26181) - 2026-11-12
+* [Review] [Review on: execution/engineapi: add Hegota timestamp checks in engine_getInclusionListV1](https://github.com/erigontech/erigon/pull/24723#pullrequestreview-5868251940) - 2026-11-12
+* [Review] [Review on: execution/types: decode the block access list into a presized list](https://github.com/erigontech/erigon/pull/26098#pullrequestreview-5858948907) - 2026-11-11
+* [Pull Request] [execution/types, engine_types: remove unused block access list and payload converters](https://github.com/erigontech/erigon/pull/26109) - 2026-11-11
+* [Pull Request] [db/kv, execution/vm: remove unused PendingMutations and VMInterface interfaces](https://github.com/erigontech/erigon/pull/26107) - 2026-11-11
+* [Review] [Review on: db/state: read a branch's cold reference pages in one batch before expanding](https://github.com/erigontech/erigon/pull/26100#pullrequestreview-5860565777) - 2026-11-11
+* [Review] [Review on: cl/phase1/forkchoice, cl/cltypes/lightclient_utils: serve a period's best light client update on the head's chain before finalization settles it](https://github.com/erigontech/erigon/pull/26114#pullrequestreview-5860582026) - 2026-11-11
+* [Issue] [Caplin Beacon API: attestation rewards never compute the phase0 inclusion-delay reward](https://github.com/erigontech/erigon/issues/26186) - 2026-11-12
+* [Issue] [Caplin Beacon API: findEpochRoot never returns for epoch 0 without a canonical block in slots 0–31](https://github.com/erigontech/erigon/issues/26183) - 2026-11-12
+* [Issue] [Caplin Beacon API: validator_inclusion panics for a validator index past the registry](https://github.com/erigontech/erigon/issues/26143) - 2026-11-11
+* [Issue] [Caplin Beacon API: state reads below head replay the state on every request (6–33 ms vs 0.47 ms at head)](https://github.com/erigontech/erigon/issues/26141) - 2026-11-11
+* [Issue] [Caplin Beacon API: head and head_v2 events are sent twice per change](https://github.com/erigontech/erigon/issues/26137) - 2026-11-11
+* [Issue] [Caplin Beacon API: attestation rewards return the phase0-only inclusion_delay](https://github.com/erigontech/erigon/issues/26128) - 2026-11-11
+* [Issue] [Caplin Beacon API: states/{state_id}/randao returns 500 when the randao mix is missing](https://github.com/erigontech/erigon/issues/26127) - 2026-11-11
+* [Issue] [Caplin Beacon API: states/{state_id}/fork omits the required finalized field](https://github.com/erigontech/erigon/issues/26126) - 2026-11-11
+* [Issue] [Caplin Beacon API: config/spec omits 41 config, preset and constant keys](https://github.com/erigontech/erigon/issues/26125) - 2026-11-11
+* [Issue] [Caplin Beacon API: expected_withdrawals is not routed without --caplin.mev-relay-url](https://github.com/erigontech/erigon/issues/26124) - 2026-11-11
+* [Issue] [Caplin Beacon API: v2 node/version, v2 debug/fork_choice and committee selections are not served](https://github.com/erigontech/erigon/issues/26123) - 2026-11-11
+* [Issue] [Caplin Beacon API: Gloas state endpoints and GET proposer_preferences are not served](https://github.com/erigontech/erigon/issues/26122) - 2026-11-11
+* [Issue] [cmd/capcli: Beacon API request paths are appended after the --endpoint query string](https://github.com/erigontech/erigon/issues/26103) - 2026-11-11
+* [Commit] [execution: run ValidateChain on the given block, chunk the payload decode (#25933)](https://github.com/erigontech/erigon/commit/a495e73587f0dc49520ea8c5a7d31cbb633789d5) - 2026-11-12
+* [Commit] [db/state: remove unused SnapshotRepo, port its tests to production types (#26016)](https://github.com/erigontech/erigon/commit/615ce1cba5125dd884e195eae4f82ffac49241a6) - 2026-11-11
 ## Q3 2026
 
 

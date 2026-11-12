@@ -80,6 +80,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Allow builders to submit one bid per staked ETH (#5805)](https://github.com/ethereum/consensus-specs/commit/1a48161515966f9c843672fa500861845ddc75d8) - 2026-11-11
 * [Commit] [Note that proposers should accept higher bids from the same builder (#5774)](https://github.com/ethereum/consensus-specs/commit/67e437d9eb6a93f8ccb63a517eefd88672010bdb) - 2026-11-10
 * [Commit] [Skip seen bitsets of a different length in `is_non_strict_superset` (#5766)](https://github.com/ethereum/consensus-specs/commit/1995f56ef680fd4bbae99ba0f912f37b20969a3b) - 2026-11-10
+* [Pull Request] [Add PQ registration requests (EIP-8483)](https://github.com/ethereum/consensus-specs/pull/5809) - 2026-11-11
+* [Review] [Review on: Add PQ registration requests (EIP-8483)](https://github.com/ethereum/consensus-specs/pull/5809#pullrequestreview-5865733876) - 2026-11-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

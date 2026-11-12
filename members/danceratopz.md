@@ -75,6 +75,21 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-client-clis): map Erigon empty blob execution errors](https://github.com/ethereum/execution-specs/pull/3962#pullrequestreview-5811976610) - 2026-11-07
 * [Issue] [Test Release Tracker: `tests@v21.0.3`](https://github.com/ethereum/execution-specs/issues/3967) - 2026-11-07
 * [Commit] [fix(test-client-clis): map besu's unrecoverable signature and gas used errors (#3966)](https://github.com/ethereum/execution-specs/commit/636b5f1757b1c5eeb5856030ac9a8058cadc4b70) - 2026-11-08
+* [Review] [Review on: perf(test-benchmark): cache precompile inputs and use optimized bn128](https://github.com/ethereum/execution-specs/pull/3973#pullrequestreview-5861132508) - 2026-11-11
+* [Pull Request] [feat(doc): add edit and view source buttons to the docs pages](https://github.com/ethereum/execution-specs/pull/3978) - 2026-11-11
+* [Pull Request] [perf(doc,ci): speed up the test case reference](https://github.com/ethereum/execution-specs/pull/3979) - 2026-11-11
+* [Review] [Review on: perf(doc,ci): speed up the test case reference](https://github.com/ethereum/execution-specs/pull/3979#pullrequestreview-5860214057) - 2026-11-11
+* [Pull Request] [fix(test-consume): schedule the DAO fork before Tangerine Whistle only](https://github.com/ethereum/execution-specs/pull/3980) - 2026-11-11
+* [Pull Request] [chore(ci): dispatch docs deploys to ethereum/protocol-specs-website](https://github.com/ethereum/execution-specs/pull/3976) - 2026-11-11
+* [Pull Request] [feat(doc): switch the docs site to Zensical's modern look](https://github.com/ethereum/execution-specs/pull/3977) - 2026-11-11
+* [Pull Request] [chore(docs): build the spec reference with rdocc](https://github.com/ethereum/execution-specs/pull/3974) - 2026-11-11
+* [Pull Request] [chore(doc,ci): build the docs site with Zensical instead of MkDocs](https://github.com/ethereum/execution-specs/pull/3975) - 2026-11-11
+* [Review] [Review on: chore(doc,ci): build the docs site with Zensical instead of MkDocs](https://github.com/ethereum/execution-specs/pull/3975#pullrequestreview-5857205875) - 2026-11-11
+* [Review] [Review on: perf(test-benchmark): give `test_blockhash` its own pre-alloc group](https://github.com/ethereum/execution-specs/pull/3972#pullrequestreview-5855511642) - 2026-11-11
+* [Commit] [chore(ci): dispatch docs deploys to ethereum/protocol-specs-website (#3976)](https://github.com/ethereum/execution-specs/commit/ffe48572e27f62426ad8c3d87a5e2926dc612c2c) - 2026-11-11
+* [Commit] [feat(doc): switch the docs site to Zensical's modern look (#3977)](https://github.com/ethereum/execution-specs/commit/fb423f752f2096a3758e5f790727e38662c8807c) - 2026-11-11
+* [Commit] [chore(docs): build the spec reference with rdocc (#3974)](https://github.com/ethereum/execution-specs/commit/269d3a1d2377a15dc8cf45f66e10b0bb20ebe1ee) - 2026-11-11
+* [Commit] [chore(doc,ci): build the docs site with Zensical instead of MkDocs (#3975)](https://github.com/ethereum/execution-specs/commit/342cc0d1ddb119f6e8725cb81e00473718700714) - 2026-11-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

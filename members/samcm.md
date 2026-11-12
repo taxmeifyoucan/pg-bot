@@ -101,6 +101,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [ci: fix cryo and Go build cache misses in PR workflows (#941)](https://github.com/ethpandaops/xatu/commit/775400cdde3943bd76aa9c770a5a7409226d5460) - 2026-11-03
 * [Pull Request] [feat(clickhouse): record graffiti on beacon_api_eth_v2_beacon_block](https://github.com/ethpandaops/xatu/pull/944) - 2026-11-06
 * [Commit] [feat(clickhouse): record graffiti on beacon_api_eth_v2_beacon_block (#944)](https://github.com/ethpandaops/xatu/commit/9fd3faef34b1f84279e3630d61388d0d69ddd877) - 2026-11-06
+* [Pull Request] [fix(sentry): report a removed transaction once, after two polls without it](https://github.com/ethpandaops/xatu/pull/947) - 2026-11-11
+* [Pull Request] [feat: mempool drop/replace events, blob tx announcements, and fix sentry txpool hashes](https://github.com/ethpandaops/xatu/pull/946) - 2026-11-11
+* [Pull Request] [feat(libp2p): capture Goodbye reason codes from remote peers](https://github.com/ethpandaops/xatu/pull/945) - 2026-11-11
+* [Commit] [feat: mempool drop/replace events, blob tx announcements, and fix sentry txpool hashes (#946)](https://github.com/ethpandaops/xatu/commit/dc6d4e30fe2961fb8afefa6a2828dbaae842bf78) - 2026-11-11
+* [Commit] [feat(libp2p): capture Goodbye reason codes from remote peers (#945)](https://github.com/ethpandaops/xatu/commit/9843d53961938ec1d3baadca617810b3ed3f8071) - 2026-11-11
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -352,6 +357,17 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(entities): Lido Clients tab reads the per-group graffiti tables (#561)](https://github.com/ethpandaops/lab/commit/b1b14611aea755324a02c9a1d4f82cd2a69ea31a) - 2026-11-09
 * [Pull Request] [feat(network): churn, subnet and column custody on the overview](https://github.com/ethpandaops/lab/pull/565) - 2026-11-10
 * [Commit] [feat(network): churn, subnet and column custody on the overview (#565)](https://github.com/ethpandaops/lab/commit/f963337d7901473c7ad10b381c7b53708565fae0) - 2026-11-10
+* [Review] [Review on: chore: adopt skeleton's lint, typecheck, test, token and CI setup](https://github.com/ethpandaops/lab/pull/570#pullrequestreview-5868731772) - 2026-11-12
+* [Pull Request] [fix(network): name the group each per-client and per-network-type share is of](https://github.com/ethpandaops/lab/pull/571) - 2026-11-12
+* [Pull Request] [fix(network): never send an empty day list, and settle failed daily reads](https://github.com/ethpandaops/lab/pull/569) - 2026-11-11
+* [Pull Request] [fix(charts): scrolling over a chart scrolls the page](https://github.com/ethpandaops/lab/pull/568) - 2026-11-11
+* [Pull Request] [fix(partial-columns): drop wrapped completion times from slowest blocks](https://github.com/ethpandaops/lab/pull/567) - 2026-11-11
+* [Pull Request] [feat(network): goodbye reasons on the overview](https://github.com/ethpandaops/lab/pull/566) - 2026-11-11
+* [Commit] [fix(network): name the group each per-client and per-network-type share is of (#571)](https://github.com/ethpandaops/lab/commit/123ca50cbfdbae0c95f42ae18d6f09ce57e19efd) - 2026-11-12
+* [Commit] [fix(network): never send an empty day list, and settle failed daily reads (#569)](https://github.com/ethpandaops/lab/commit/f776ef9cf18d0ce0adaa6e7d45e43d9bd4ce12b3) - 2026-11-11
+* [Commit] [fix(charts): scrolling over a chart scrolls the page (#568)](https://github.com/ethpandaops/lab/commit/3b3a1f1fa6cba05218deb05f0a8aef75363d2da5) - 2026-11-11
+* [Commit] [fix(partial-columns): drop wrapped completion times from slowest blocks (#567)](https://github.com/ethpandaops/lab/commit/e260618f018335cc59d0d98b28398d1b10f56d3f) - 2026-11-11
+* [Commit] [feat(network): goodbye reasons on the overview (#566)](https://github.com/ethpandaops/lab/commit/1319349b40526c428b8fe84c4415777314d068e2) - 2026-11-11
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

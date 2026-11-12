@@ -38,6 +38,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [fix(zkevm): skip witness fixtures that REST+SSZ cannot encode](https://github.com/ethereum/execution-specs/pull/3843) - 2026-10-16
 * [Pull Request] [fix(zkevm): switch EIP-8025 tests from valid_from to valid_at Amsterdam](https://github.com/ethereum/execution-specs/pull/3867) - 2026-10-19
 * [Pull Request] [feat(zkevm): check witness trie nodes only when the block reaches them](https://github.com/ethereum/execution-specs/pull/3934) - 2026-11-09
+* [Pull Request] [fix(ci): skip the genesis download for zkevm-benchmark releases](https://github.com/ethereum/execution-specs/pull/3985) - 2026-11-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 

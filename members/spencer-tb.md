@@ -109,6 +109,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952#pullrequestreview-5770313337) - 2026-11-04
 * [Review] [Review on: feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964#pullrequestreview-5817979805) - 2026-11-08
 * [Review] [Review on: chore(test-client-clis): map besu's unrecoverable signature and gas used errors](https://github.com/ethereum/execution-specs/pull/3966#pullrequestreview-5817969619) - 2026-11-08
+* [Review] [Review on: feat(ci): auto-label pull requests and fix their titles](https://github.com/ethereum/execution-specs/pull/3855#pullrequestreview-5858212940) - 2026-11-11
+* [Pull Request] [feat(test-forks,tests): list the EIP-7906 instructions as valid opcodes from Bogota](https://github.com/ethereum/execution-specs/pull/3923) - 2026-11-11
+* [Review] [Review on: chore(ci): dispatch docs deploys to ethereum/protocol-specs-website](https://github.com/ethereum/execution-specs/pull/3976#pullrequestreview-5859386913) - 2026-11-11
+* [Review] [Review on: feat(doc): switch the docs site to Zensical's modern look](https://github.com/ethereum/execution-specs/pull/3977#pullrequestreview-5859493250) - 2026-11-11
+* [Review] [Review on: chore(docs): build the spec reference with rdocc](https://github.com/ethereum/execution-specs/pull/3974#pullrequestreview-5857946883) - 2026-11-11
+* [Review] [Review on: chore(doc,ci): build the docs site with Zensical instead of MkDocs](https://github.com/ethereum/execution-specs/pull/3975#pullrequestreview-5857898165) - 2026-11-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

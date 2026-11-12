@@ -49,6 +49,11 @@ Team: Grandine
 * [Commit] [Bump rusqlite to 0.41 and refinery to 0.10](https://github.com/grandinetech/grandine/commit/081b63e1ce57b13eb27a62a6e2500d5b4345980a) - 2026-11-10
 * [Commit] [Wait for running persistence task in wait_for_tasks](https://github.com/grandinetech/grandine/commit/e8ae6f22357e29c19f812a59fa209907afb2c773) - 2026-11-10
 * [Commit] [Accept Gloas data column sidecars at the finalized slot](https://github.com/grandinetech/grandine/commit/3ca91b265e4f2474571fd80d1fe4cf3098d4adaa) - 2026-11-10
+* [Pull Request] [Add --execution-endpoint and deprecate --eth1-rpc-urls](https://github.com/grandinetech/grandine/pull/1039) - 2026-11-11
+* [Pull Request] [Keep beacon node connection failures out of the default log as traces ](https://github.com/grandinetech/grandine/pull/1038) - 2026-11-11
+* [Pull Request] [Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/pull/1013) - 2026-11-11
+* [Commit] [Keep beacon node connection failures out of the default log as traces](https://github.com/grandinetech/grandine/commit/343918f4137925ecc2f8865efb69635731f08afa) - 2026-11-11
+* [Commit] [Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/commit/998c46aa322a315929d574854fb1aee07d5aa060) - 2026-11-11
 ## Q3 2026
 
 

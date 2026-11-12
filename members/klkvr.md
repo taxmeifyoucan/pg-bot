@@ -33,6 +33,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(txpool): apply tx fee cap based on submission origin](https://github.com/paradigmxyz/reth/pull/28354#pullrequestreview-5827064646) - 2026-11-09
 * [Commit] [chore(deps): bump evm2 to 0b448ca (#28389)](https://github.com/paradigmxyz/reth/commit/76bde994b0b3ead8116accf5a6777e413a2abda4) - 2026-11-09
 * [Review] [Review on: chore(deps): bump evm2 to 66687c1](https://github.com/paradigmxyz/reth/pull/28413#pullrequestreview-5846376979) - 2026-11-10
+* [Review] [Review on: perf(provider): serve tag headers from memory](https://github.com/paradigmxyz/reth/pull/28447#pullrequestreview-5864488023) - 2026-11-11
+* [Review] [Review on: perf(rpc): skip pending block for pending nonce](https://github.com/paradigmxyz/reth/pull/28438#pullrequestreview-5861318068) - 2026-11-11
+* [Review] [Review on: fix(net): bound pending pool imports by encoded byte size](https://github.com/paradigmxyz/reth/pull/28364#pullrequestreview-5860822583) - 2026-11-11
 ## Q3 2026
 
 

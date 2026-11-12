@@ -343,9 +343,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution, rpc, txpool: fix frame transaction edge cases (#25752)](https://github.com/erigontech/erigon/commit/1fd45f2406825fab925ab8b4e5251dd721478b19) - 2026-11-10
 * [Commit] [p2p/sentry: isolate slow upload requests by peer (#25735)](https://github.com/erigontech/erigon/commit/404e25e13785a0bdcfcc1652527e721a389f6898) - 2026-11-10
 * [Commit] [cl: key attestation caches by head root (#26012)](https://github.com/erigontech/erigon/commit/922ae853cd1014525dddd1ff3a6c4a9d1e6d9c89) - 2026-11-10
+* [Review] [Review on: execution: a call that cannot pay its precompile does not wait on it](https://github.com/erigontech/erigon/pull/26088#pullrequestreview-5860217974) - 2026-11-11
+* [Pull Request] [state, commitment: preserve values across repeated unwinds](https://github.com/erigontech/erigon/pull/26172) - 2026-11-11
+* [Pull Request] [execution, txpool: preserve canonical notifications through recovery](https://github.com/erigontech/erigon/pull/26175) - 2026-11-11
+* [Pull Request] [execution: isolate failed unwinds and enforce snapshot boundaries](https://github.com/erigontech/erigon/pull/26174) - 2026-11-11
+* [Pull Request] [state: recover interrupted snapshot maintenance](https://github.com/erigontech/erigon/pull/26173) - 2026-11-11
+* [Pull Request] [execmodule: recover from rejected catch-up after restart](https://github.com/erigontech/erigon/pull/26176) - 2026-11-11
+* [Issue] [state: backfill lagging optional snapshot entities without lowering visibility](https://github.com/erigontech/erigon/issues/26171) - 2026-11-11
+* [Issue] [stagedsync: reset the stage cursor when pruning fails](https://github.com/erigontech/erigon/issues/26170) - 2026-11-11
+* [Issue] [execmodule: refresh the receipts rollback checkpoint after each catch-up commit](https://github.com/erigontech/erigon/issues/26169) - 2026-11-11
+* [Issue] [kvcache: use the same code key for reads and notifications](https://github.com/erigontech/erigon/issues/26168) - 2026-11-11
+* [Issue] [execmodule: reset speculative state and finality markers after SetHead](https://github.com/erigontech/erigon/issues/26167) - 2026-11-11
+* [Issue] [state: include unwind-restored storage in prefix iteration](https://github.com/erigontech/erigon/issues/26166) - 2026-11-11
+* [Issue] [stagedsync: reject root mismatches at the serial batch-end check](https://github.com/erigontech/erigon/issues/26165) - 2026-11-11
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
+* [Pull Request] [clients/consensus: track canonical heads from head events](https://github.com/ethpandaops/assertoor/pull/247) - 2026-11-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/devp2p: respect negotiated eth version in transaction tests](https://github.com/ethereum/go-ethereum/pull/35869) - 2026-10-02
 * [Commit] [cmd/devp2p: respect negotiated eth version in transaction tests (#35869)](https://github.com/ethereum/go-ethereum/commit/7628eaa0e2bd537fc32186cbec4c95f8f6443ca8) - 2026-10-05

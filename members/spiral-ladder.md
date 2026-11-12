@@ -78,6 +78,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [perf: hash dirty chunked leaves in parallel for the state root](https://github.com/ChainSafe/lodestar/pull/10585) - 2026-11-10
 * [Review] [Review on: feat: allow nested compatible unions](https://github.com/ChainSafe/lodestar/pull/10553#pullrequestreview-5841197803) - 2026-11-10
 * [Review] [Review on: feat: cache builder deposit by pending deposit's root](https://github.com/ChainSafe/lodestar/pull/10581#pullrequestreview-5838047833) - 2026-11-10
+* [Pull Request] [perf: rework node pool allocation strategy](https://github.com/ChainSafe/lodestar/pull/10595) - 2026-11-11
+* [Pull Request] [perf: pre-merkleize block transactions once on gossip](https://github.com/ChainSafe/lodestar/pull/10599) - 2026-11-11
+* [Review] [Review on: perf: write epoch buffers once](https://github.com/ChainSafe/lodestar/pull/10566#pullrequestreview-5855502656) - 2026-11-11
+* [Pull Request] [refactor(state-transition): remove unused blockToHeader](https://github.com/ChainSafe/lodestar/pull/10594) - 2026-11-11
+* [Review] [Review on: perf: speed up attestation processing](https://github.com/ChainSafe/lodestar/pull/10563#pullrequestreview-5855462810) - 2026-11-11
+* [Review] [Review on: perf: gate hot-path invariant asserts](https://github.com/ChainSafe/lodestar/pull/10555#pullrequestreview-5854477726) - 2026-11-11
+* [Review] [Review on: chore: fix peerManager formatting for biome 2.6](https://github.com/ChainSafe/lodestar/pull/10593#pullrequestreview-5854667312) - 2026-11-11
+* [Commit] [perf: rework node pool allocation strategy (#10595)](https://github.com/ChainSafe/lodestar/commit/b74e8e576d37ff1b0ac221972ce132b764d0a9c4) - 2026-11-11
+* [Commit] [refactor(state-transition): remove unused blockToHeader (#10594)](https://github.com/ChainSafe/lodestar/commit/41b1b8739483207935718e2ef2b7c70a57f3fd6f) - 2026-11-11
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

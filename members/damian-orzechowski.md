@@ -30,6 +30,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595) - 2026-11-04
 * [Review] [Review on: fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595#pullrequestreview-5768525668) - 2026-11-04
 * [Review] [Review on: fix(specs): keep absent pre-merge forks off in geth genesis](https://github.com/NethermindEth/nethermind/pull/15553#pullrequestreview-5782617167) - 2026-11-05
+* [Review] [Review on: fix(tracing): refuse intermediate roots over trie-less historical state](https://github.com/NethermindEth/nethermind/pull/15619#pullrequestreview-5857739287) - 2026-11-11
 ## Q3 2026
 
 

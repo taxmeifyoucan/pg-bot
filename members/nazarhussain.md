@@ -74,6 +74,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: count usable gossip subscribers for subnet coverage](https://github.com/ChainSafe/lodestar/pull/10482#pullrequestreview-5838730638) - 2026-11-10
 * [Review] [Review on: feat: spec-driven fork choice store in zig](https://github.com/ChainSafe/lodestar/pull/10564#pullrequestreview-5843462043) - 2026-11-10
 * [Pull Request] [feat: run the native fork choice store behind --chain.nativeForkChoice](https://github.com/ChainSafe/lodestar/pull/10584) - 2026-11-10
+* [Pull Request] [feat: zig fast confirmation rule](https://github.com/ChainSafe/lodestar/pull/10601) - 2026-11-11
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

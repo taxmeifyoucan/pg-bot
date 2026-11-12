@@ -375,6 +375,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon/handler, cl/phase1/forkchoice: validate a POSTed Gloas envelope before publishing its columns in the consensus modes (#25767)](https://github.com/erigontech/erigon/commit/7ece1f13fbbb7025397c1cc9d1d62429fc1a0bbc) - 2026-11-10
 * [Commit] [cl/beacon/handler: keep the early envelope work going after the client leaves, and answer a re-POST from state (#25755)](https://github.com/erigontech/erigon/commit/e3c1cd6c2f00738c6bc3d5aa69d1db57619ef62c) - 2026-11-10
 * [Commit] [cl/beacon/handler: publish a POSTed Gloas envelope before its columns in gossip mode (#25718)](https://github.com/erigontech/erigon/commit/354cdbc2306999b49d622cbbbcbe7fe1e59e8abf) - 2026-11-10
+* [Review] [Review on: cl/beacon/handler: return 404 for unavailable randao mixes](https://github.com/erigontech/erigon/pull/26152#pullrequestreview-5869307019) - 2026-11-12
+* [Review] [Review on: cl/beacon/handler: include finalized in state fork responses](https://github.com/erigontech/erigon/pull/26145#pullrequestreview-5869390956) - 2026-11-12
+* [Review] [Review on: cl/beacon/handler: omit inclusion delay after phase0](https://github.com/erigontech/erigon/pull/26151#pullrequestreview-5869275188) - 2026-11-12
+* [Review] [Review on: cl/beacon: route expected withdrawals without relay](https://github.com/erigontech/erigon/pull/26150#pullrequestreview-5869321138) - 2026-11-12
+* [Review] [Review on: db/kv/prune: reject a stored prune distance that is not 8 bytes long](https://github.com/erigontech/erigon/pull/26136#pullrequestreview-5868531035) - 2026-11-12
+* [Review] [Review on: [r3.8] p2p/netutil, p2p/discover: count endpoint statements per network and expire them in order](https://github.com/erigontech/erigon/pull/26164#pullrequestreview-5868532370) - 2026-11-12
+* [Review] [Review on: cl/phase1/forkchoice: test concurrent light client update record and lookup, guard the last period](https://github.com/erigontech/erigon/pull/26147#pullrequestreview-5868531812) - 2026-11-12
+* [Review] [Review on: cl: take the finalized slot at the finalized epoch start, and fix state_id edge cases](https://github.com/erigontech/erigon/pull/26144#pullrequestreview-5868531467) - 2026-11-12
+* [Review] [Review on: [r3.8] docs: describe the disk usage figures as whole-datadir sizes until seg du figures are published](https://github.com/erigontech/erigon/pull/26134#pullrequestreview-5865741917) - 2026-11-11
+* [Review] [Review on: cl/phase1/forkchoice, cl/cltypes/lightclient_utils: serve a period's best light client update on the head's chain before finalization settles it](https://github.com/erigontech/erigon/pull/26114#pullrequestreview-5858497799) - 2026-11-11
+* [Review] [Review on: docs, db/snapshotsync: mark seg du disk figures from their recorded method](https://github.com/erigontech/erigon/pull/26133#pullrequestreview-5865742301) - 2026-11-11
 ## Q3 2026
 
 

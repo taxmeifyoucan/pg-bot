@@ -33,6 +33,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: feat(spec-specs,tests,test-forks,test-types,test-vm): implement EIP-8298 SETCODEFROM](https://github.com/ethereum/execution-specs/pull/3769#pullrequestreview-5500855986) - 2026-10-13
 * [Review] [Review on: feat(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5548226326) - 2026-10-16
 * [Commit] [feat(tests): add MPT structural test suite (#3600)](https://github.com/ethereum/execution-specs/commit/e762bc8260fb44fcf748f836deda8ef39d2bb171) - 2026-10-19
+* [Pull Request] [feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984) - 2026-11-11
+* [Review] [Review on: feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964#pullrequestreview-5865666604) - 2026-11-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15
@@ -41,6 +43,9 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [cmd/evm: run the EIP-8297 binary tree in t8n](https://github.com/ethereum/go-ethereum/pull/35960) - 2026-10-16
 * [Commit] [cmd/evm: run the EIP-8297 binary tree in t8n (#35960)](https://github.com/ethereum/go-ethereum/commit/da5d60b00abd1db5ce950223b104ab9c6be0f4cd) - 2026-11-09
 * [Commit] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree (#35955)](https://github.com/ethereum/go-ethereum/commit/b0f9324cda84df7c4d6379b0210383c83f91794e) - 2026-11-09
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients: add HIVE_* switches for non-default state-root and trie modes](https://github.com/ethereum/hive/pull/1662) - 2026-11-11
 ## Q3 2026
 
 

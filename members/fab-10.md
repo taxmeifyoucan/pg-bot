@@ -112,6 +112,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/pull/11759#pullrequestreview-5845369540) - 2026-11-10
 * [Review] [Review on: Make plugin discovery deterministic and identify a plugin by its class name](https://github.com/besu-eth/besu/pull/11640#pullrequestreview-5845841963) - 2026-11-10
 * [Commit] [Size the FixedCapacityLRUMap table to a power of two (#11886)](https://github.com/besu-eth/besu/commit/5528c12e67032f7374a71fdba797e98351346917) - 2026-11-10
+* [Review] [Review on: Enable the transaction pool after the plugins have started (#11665)](https://github.com/besu-eth/besu/pull/11666#pullrequestreview-5856018248) - 2026-11-11
+* [Pull Request] [Process late selection results in the txpool when the evaluation completes](https://github.com/besu-eth/besu/pull/11934) - 2026-11-11
+* [Review] [Review on: Process late selection results in the txpool when the evaluation completes](https://github.com/besu-eth/besu/pull/11934#pullrequestreview-5860076433) - 2026-11-11
+* [Review] [Review on: Represent the chain id with a shared ChainId value object](https://github.com/besu-eth/besu/pull/11866#pullrequestreview-5856392308) - 2026-11-11
+* [Review] [Review on: CI: Add an on-demand hive workflow](https://github.com/besu-eth/besu/pull/11904#pullrequestreview-5855816168) - 2026-11-11
+* [Commit] [Process late selection results in the txpool when the evaluation completes (#11934)](https://github.com/besu-eth/besu/commit/3adcc9715d9d277e177102ce331148e324af2985) - 2026-11-11
+* [Commit] [Represent the chain id with a shared ChainId value object (#11866)](https://github.com/besu-eth/besu/commit/624722eb0860500fa50d42c9dc3935261b17c643) - 2026-11-11
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

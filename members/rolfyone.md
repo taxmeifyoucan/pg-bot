@@ -162,11 +162,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Keep genesis root and check network in slashing protection repair](https://github.com/Consensys-Incorporated/teku/pull/11621) - 2026-11-09
 * [Review] [Review on: limit validator client event stream size](https://github.com/Consensys-Incorporated/teku/pull/11624#pullrequestreview-5850715436) - 2026-11-10
 * [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5850455418) - 2026-11-10
+* [Pull Request] [Define PTC duties dependent root for the Gloas fork epoch](https://github.com/Consensys-Incorporated/teku/pull/11631) - 2026-11-12
+* [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5868235974) - 2026-11-12
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add PQ registration requests (EIP-8483)](https://github.com/ethereum/consensus-specs/pull/5809#pullrequestreview-5865568359) - 2026-11-11
 ## Q3 2026
 
 

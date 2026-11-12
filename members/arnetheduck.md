@@ -28,6 +28,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Use manually allocated EVM memory](https://github.com/status-im/nimbus-eth1/pull/5135#pullrequestreview-5822919221) - 2026-11-09
 * [Review] [Review on: Add parity trace api](https://github.com/status-im/nimbus-eth1/pull/4993#pullrequestreview-5825376118) - 2026-11-09
 * [Commit] [ledger: simplify updates (#5118)](https://github.com/status-im/nimbus-eth1/commit/8383f14c5c75c551db845ebfc74173c307f0c3ea) - 2026-11-10
+* [Pull Request] [ci: speed up eest tests](https://github.com/status-im/nimbus-eth1/pull/5148) - 2026-11-11
+* [Commit] [ci: speed up eest tests (#5148)](https://github.com/status-im/nimbus-eth1/commit/73d55cd65c5a186f12a2e6176751ab49787836a2) - 2026-11-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

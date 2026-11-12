@@ -900,6 +900,31 @@ Team: Erigon
 * [Commit] [execution/state: keep one BAL storage read entry per slot (#26064)](https://github.com/erigontech/erigon/commit/5759ec2f9ef05afcfff6837c8498918376309118) - 2026-11-10
 * [Commit] [db/kv/backup: don't replace mdbx.dat with a copy that failed to flush (#26055)](https://github.com/erigontech/erigon/commit/031dcbf8f1bf9b931fd81b0016eee439095b5c34) - 2026-11-10
 * [Commit] [cl/sentinel/handlers: bound the DataColumnSidecarsByRange scan (#26001)](https://github.com/erigontech/erigon/commit/ef907b60a3610b85f5526234f22e3730e9285b8d) - 2026-11-10
+* [Review] [Review on: execution/stagedsync: a write the BAL holds leaves readers clean](https://github.com/erigontech/erigon/pull/26080#pullrequestreview-5867447265) - 2026-11-12
+* [Pull Request] [execution/state: size the BAL builder from the block access list](https://github.com/erigontech/erigon/pull/26182) - 2026-11-12
+* [Pull Request] [execution/state: keep read-only accounts flat in the BAL builder](https://github.com/erigontech/erigon/pull/26157) - 2026-11-11
+* [Review] [Review on: execution/state: keep read-only accounts flat in the BAL builder](https://github.com/erigontech/erigon/pull/26157#pullrequestreview-5867442474) - 2026-11-12
+* [Pull Request] [execution/state: depend on an in-flight destruct on a committed read](https://github.com/erigontech/erigon/pull/26153) - 2026-11-11
+* [Review] [Review on: execution/state: depend on an in-flight destruct on a committed read](https://github.com/erigontech/erigon/pull/26153#pullrequestreview-5867813006) - 2026-11-12
+* [Pull Request] [execution/state: skip account-read checks for BAL-unchanged addresses](https://github.com/erigontech/erigon/pull/26154) - 2026-11-11
+* [Review] [Review on: execution/state: skip account-read checks for BAL-unchanged addresses](https://github.com/erigontech/erigon/pull/26154#pullrequestreview-5867470296) - 2026-11-12
+* [Pull Request] [execution/types/accounts: intern new addresses in slabs](https://github.com/erigontech/erigon/pull/26179) - 2026-11-11
+* [Review] [Review on: execution/types/accounts: intern new addresses in slabs](https://github.com/erigontech/erigon/pull/26179#pullrequestreview-5867480630) - 2026-11-12
+* [Pull Request] [execution/types: decode the block access list into a presized list](https://github.com/erigontech/erigon/pull/26098) - 2026-11-11
+* [Review] [Review on: execution/types: decode the block access list into a presized list](https://github.com/erigontech/erigon/pull/26098#pullrequestreview-5867322126) - 2026-11-12
+* [Pull Request] [execution: tests stop forcing the serial executor](https://github.com/erigontech/erigon/pull/26074) - 2026-11-12
+* [Pull Request] [execution/stagedsync: test resumed BAL blocks that have no sidecar](https://github.com/erigontech/erigon/pull/26008) - 2026-11-12
+* [Review] [Review on: execution: a call that cannot pay its precompile does not wait on it](https://github.com/erigontech/erigon/pull/26088#pullrequestreview-5854545291) - 2026-11-11
+* [Pull Request] [execution/state: skip storage-read checks for BAL-unchanged accounts](https://github.com/erigontech/erigon/pull/26101) - 2026-11-11
+* [Pull Request] [db/state: read a branch's cold reference pages in one batch before expanding](https://github.com/erigontech/erigon/pull/26100) - 2026-11-11
+* [Pull Request] [execution/state: WriteSet.Merge shares the paths next does not write](https://github.com/erigontech/erigon/pull/26180) - 2026-11-11
+* [Pull Request] [execution/exec: BAL warmup skips keys the state cache already holds](https://github.com/erigontech/erigon/pull/26104) - 2026-11-11
+* [Commit] [execution/types: test BAL Equal indexes and extra list elements (#26077)](https://github.com/erigontech/erigon/commit/fabb302688035a7c6550b12e55f31b8bb139fc3e) - 2026-11-12
+* [Commit] [execution: tests stop forcing the serial executor (#26074)](https://github.com/erigontech/erigon/commit/19126faa284e1940f6650a65bb062d8bfabb81ae) - 2026-11-12
+* [Commit] [execution/stagedsync: test resumed BAL blocks that have no sidecar (#26008)](https://github.com/erigontech/erigon/commit/b7441584620a0a2121444855280d113fe61ebde3) - 2026-11-12
+* [Commit] [rpc/jsonrpc: bound the storage an eth_simulateV1 override replaces (#25994)](https://github.com/erigontech/erigon/commit/e365d6626471e2341459dc503766b312278c9169) - 2026-11-12
+* [Commit] [execution/state: match the BAL sidecar without sorting the builder (#26082)](https://github.com/erigontech/erigon/commit/8fd21b528041b4fe80c8c9e578b05ef9f5ff9593) - 2026-11-11
+* [Commit] [execution/state: take a slot's prev value from its write record (#26041)](https://github.com/erigontech/erigon/commit/b3c2ca559cfa0f57083d2cf6b2d46a917dc57b06) - 2026-11-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

@@ -37,6 +37,8 @@ Team: Nimbus
 * [Commit] [Snap2 bal handle drained accounts (#5140)](https://github.com/status-im/nimbus-eth1/commit/892da62b7c0a240ed0b7d3eb0080f491a87f3e0d) - 2026-11-07
 * [Pull Request] [Snap2 dowload time improvements](https://github.com/status-im/nimbus-eth1/pull/5141) - 2026-11-09
 * [Commit] [Snap2 dowload time improvements (#5141)](https://github.com/status-im/nimbus-eth1/commit/b99707f14595b48fda54a18db4c934d35cc4dec1) - 2026-11-09
+* [Pull Request] [Snap2 metrics and eta](https://github.com/status-im/nimbus-eth1/pull/5147) - 2026-11-11
+* [Commit] [Snap2 metrics and eta (#5147)](https://github.com/status-im/nimbus-eth1/commit/5367fc70ccc2988252e7c7171212630eb4f537b5) - 2026-11-11
 ## Q3 2026
 
 

@@ -63,6 +63,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys-Incorporated/teku/pull/10132#pullrequestreview-5818967298) - 2026-11-08
 * [Review] [Review on: limit validator client event stream size](https://github.com/Consensys-Incorporated/teku/pull/11624#pullrequestreview-5848394247) - 2026-11-10
 * [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5844381111) - 2026-11-10
+* [Pull Request] [FCR: count parent's pending node support in empty-slot discount](https://github.com/Consensys-Incorporated/teku/pull/11628) - 2026-11-11
+* [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5858229462) - 2026-11-11
 ## Q3 2026
 
 

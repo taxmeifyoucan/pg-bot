@@ -121,6 +121,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(network)!: hand received packets to the protocol handlers as memory instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15775) - 2026-11-10
 * [Commit] [fix(trie): implement IsRangeScan on TreeDumper and StorageRangeVisitor (#15786)](https://github.com/NethermindEth/nethermind/commit/34184d904f3e7d1be633e8aba5e502c998f5c4ab) - 2026-11-11
 * [Commit] [refactor(network)!: hand received packets to the protocol handlers as memory instead of DotNetty buffers (#15775)](https://github.com/NethermindEth/nethermind/commit/54f15ef852105297770ce742be5fbcfd6d21e18a) - 2026-11-10
+* [Review] [Review on: ci(zkevm): run the 200M MODEXP benchmark blocks again](https://github.com/NethermindEth/nethermind/pull/15800#pullrequestreview-5866053078) - 2026-11-11
+* [Review] [Review on: feat(zkevm): adopt tests-zkevm@v21.0.7](https://github.com/NethermindEth/nethermind/pull/15782#pullrequestreview-5860986141) - 2026-11-11
+* [Commit] [feat(zkevm): adopt tests-zkevm@v21.0.7 (#15782)](https://github.com/NethermindEth/nethermind/commit/10b842dcbb46033f4c93ff1b5cdebf19c0658881) - 2026-11-12
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

@@ -56,6 +56,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Always verify block production ops, only re-check signatures in paranoid mode](https://github.com/sigp/lighthouse/pull/10516) - 2026-11-02
 * [Pull Request] [Update redb to v4](https://github.com/sigp/lighthouse/pull/10541) - 2026-11-08
 * [Commit] [Bump libz-sys to 1.1.31 (#10499)](https://github.com/sigp/lighthouse/commit/0ca76bc944c864b7479bff752f57e51542a7eff0) - 2026-11-09
+* [Review] [Review on: Add REST-SSZ wire containers required for REST-SSZ engine](https://github.com/sigp/lighthouse/pull/10242#pullrequestreview-5858774753) - 2026-11-11
+* [Pull Request] [Fix redb backend bugs](https://github.com/sigp/lighthouse/pull/10566) - 2026-11-11
+* [Pull Request] [Delete blobs after blocks when pruning abandoned chains](https://github.com/sigp/lighthouse/pull/10565) - 2026-11-11
+* [Review] [Review on: Update redb to v4](https://github.com/sigp/lighthouse/pull/10541#pullrequestreview-5855964908) - 2026-11-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

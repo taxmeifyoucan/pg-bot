@@ -27,6 +27,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [build(zkevm): bump bflat to 321edc64 (.NET 11.0.100), ZiskOS.Runtime to 1.3.2-alpha.148](https://github.com/NethermindEth/nethermind/pull/14946) - 2026-10-20
 * [Commit] [build(zkevm): bump bflat to c2c0faa3 (no GC-only prolog zeroing) (#15098)](https://github.com/NethermindEth/nethermind/commit/a4576524382553decf07d54e05bb3dc614f61111) - 2026-10-23
 * [Pull Request] [build(zkevm): build the Airbender guest in the published bflat riscv32 image](https://github.com/NethermindEth/nethermind/pull/15469) - 2026-11-02
+* [Pull Request] [feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799) - 2026-11-11
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -63,6 +64,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [musl: Fall back to mirrors of the release tarball](https://github.com/NethermindEth/dotnet-riscv/pull/39) - 2026-11-03
 * [Commit] [Merge pull request #39 from NethermindEth/feature/musl-mirrors](https://github.com/NethermindEth/dotnet-riscv/commit/3bc3fe4987578807b19e5b13c4750365f43e0e79) - 2026-11-07
 * [Commit] [Merge pull request #37 from NethermindEth/perf/riscv64-strict-align-promoted-fields](https://github.com/NethermindEth/dotnet-riscv/commit/23991c4edb9b3248a38fc7e1d74e9c35c942a55b) - 2026-11-07
+* [Pull Request] [perf-85: IlcZkNoGcInfo leaves the GC info out of the LSDA](https://github.com/NethermindEth/dotnet-riscv/pull/40) - 2026-11-11
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -120,6 +122,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [docs: describe the patched .NET 11 build and the images](https://github.com/NethermindEth/bflat-riscv64/commit/2a3df7e8081e88a23f7f734d3df4d5a9cf5b276a) - 2026-11-04
 * [Pull Request] [variant: Take both targets from dotnet-riscv 11.0.101-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/pull/75) - 2026-11-07
 * [Commit] [Merge pull request #75 from NethermindEth/chore/dotnet-11.0.101](https://github.com/NethermindEth/bflat-riscv64/commit/d6bed5d544aa04ac2d2edf2474e205283c7aa484) - 2026-11-08
+* [Pull Request] [test: Images with the IlcZkNoGcInfo runtime](https://github.com/NethermindEth/bflat-riscv64/pull/77) - 2026-11-11
+* [Pull Request] [riscv32: Exception handling on Airbender](https://github.com/NethermindEth/bflat-riscv64/pull/76) - 2026-11-11
 ## Q3 2026
 
 

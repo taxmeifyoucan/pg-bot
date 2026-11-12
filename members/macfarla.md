@@ -224,6 +224,26 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Move per-block receipt and root work off the importing thread](https://github.com/besu-eth/besu/pull/11529#pullrequestreview-5837191531) - 2026-11-10
 * [Issue] [`admin_logsRepairCache` returns `Internal error` and logs at `ERROR` for an unknown block](https://github.com/besu-eth/besu/issues/11914) - 2026-11-10
 * [Commit] [ci: bump gradle/actions to v6.4.1 (#11909)](https://github.com/besu-eth/besu/commit/f94b7661512fcd8c80affd93d1cb4bd990b1df65) - 2026-11-10
+* [Pull Request] [Remove leftover stratum build file and duplicate datatypes include](https://github.com/besu-eth/besu/pull/11942) - 2026-11-12
+* [Review] [Review on: Check eth_simulateV1 precompile moves against the simulated block's fork](https://github.com/besu-eth/besu/pull/11692#pullrequestreview-5868272681) - 2026-11-12
+* [Pull Request] [Treat missing txs as no transactions in evmtool t8n](https://github.com/besu-eth/besu/pull/11930) - 2026-11-11
+* [Review] [Review on: Treat missing txs as no transactions in evmtool t8n](https://github.com/besu-eth/besu/pull/11930#pullrequestreview-5865920181) - 2026-11-11
+* [Pull Request] [Report missing required evmtool inputs as usage errors](https://github.com/besu-eth/besu/pull/11938) - 2026-11-11
+* [Review] [Review on: contributing guidelines rewrite, focus on PR quality and review](https://github.com/besu-eth/besu/pull/11911#pullrequestreview-5867030131) - 2026-11-12
+* [Pull Request] [Exclude note-level results from CodeQL scans](https://github.com/besu-eth/besu/pull/11937) - 2026-11-11
+* [Pull Request] [[SECURITY.md] add EF bug bounty as an incoming channel](https://github.com/besu-eth/besu/pull/11936) - 2026-11-11
+* [Review] [Review on: Scope OpenTelemetry counter and timer caches by category](https://github.com/besu-eth/besu/pull/11829#pullrequestreview-5854803144) - 2026-11-11
+* [Issue] [txpool_besuPendingTransactions left-pads short from/to filter addresses](https://github.com/besu-eth/besu/issues/11948) - 2026-11-12
+* [Issue] [getAndMapWorldState turns every failure into "no state"](https://github.com/besu-eth/besu/issues/11947) - 2026-11-12
+* [Issue] [Return an error from debug_accountRange and debug_storageRangeAt on Bonsai](https://github.com/besu-eth/besu/issues/11945) - 2026-11-12
+* [Issue] [debug_traceBlock and trace_block return an empty trace when the parent state is unavailable](https://github.com/besu-eth/besu/issues/11946) - 2026-11-12
+* [Issue] [debug_accountAt reports the sender's nonce after the traced transaction](https://github.com/besu-eth/besu/issues/11944) - 2026-11-12
+* [Issue] [Support txIndex in debug_accountRange](https://github.com/besu-eth/besu/issues/11943) - 2026-11-12
+* [Issue] [Update RocksDB to 10.10](https://github.com/besu-eth/besu/issues/11940) - 2026-11-11
+* [Commit] [Remove leftover stratum build file and duplicate datatypes include (#11942)](https://github.com/besu-eth/besu/commit/7a4a52d620d92971aa7fd23174d16abd061df54b) - 2026-11-12
+* [Commit] [Report missing required evmtool inputs as usage errors (#11938)](https://github.com/besu-eth/besu/commit/c64f404a48ff80bea6dbc1ceb45c33869e98ae29) - 2026-11-12
+* [Commit] [Keep the message call processor's config when a simulation overrides precompiles (#11732)](https://github.com/besu-eth/besu/commit/f6d1442835a8e947c43c962ce9a50de04acf74c4) - 2026-11-11
+* [Commit] [Propagate Bonsai account proof failures instead of returning empty (#11673)](https://github.com/besu-eth/besu/commit/2846bb4a2dd8080f88089e8447d1ec0e14d3f7cd) - 2026-11-11
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

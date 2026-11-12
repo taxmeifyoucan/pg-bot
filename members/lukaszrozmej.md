@@ -790,6 +790,20 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): use ZisK 1.4 library calls for DIV, keccak256 and ecrecover (#15077)](https://github.com/NethermindEth/nethermind/commit/6ec67f926e5043211d97db2fff82216ea51e6129) - 2026-11-10
 * [Commit] [ci: add LukaszRozmej as a /.agents, /.github and /scripts code owner (#15743)](https://github.com/NethermindEth/nethermind/commit/10cd904964a7b5b66b789faf8fc987e62083cfe8) - 2026-11-10
 * [Commit] [fix(discv5): accept a peer's ENR only when it advertises the packet source endpoint (#15748)](https://github.com/NethermindEth/nethermind/commit/162fc642a7726d0486a7b95413afe4fd25bfd874) - 2026-11-10
+* [Review] [Review on: perf(zkevm): use ZisK 1.4 library calls for MODEXP, SHA256, SDIV, SMOD and RIPEMD160](https://github.com/NethermindEth/nethermind/pull/15785#pullrequestreview-5868566282) - 2026-11-12
+* [Pull Request] [ci(zkevm): run the 200M MODEXP benchmark blocks again](https://github.com/NethermindEth/nethermind/pull/15800) - 2026-11-11
+* [Review] [Review on: perf(zkevm): check a witness node with native-width arithmetic](https://github.com/NethermindEth/nethermind/pull/15788#pullrequestreview-5867210508) - 2026-11-12
+* [Review] [Review on: perf(evm): fuse common branch and POP opcode sequences into one dispatch](https://github.com/NethermindEth/nethermind/pull/15791#pullrequestreview-5857585042) - 2026-11-11
+* [Review] [Review on: feat(zkevm): adopt tests-zkevm@v21.0.7](https://github.com/NethermindEth/nethermind/pull/15782#pullrequestreview-5858232185) - 2026-11-11
+* [Pull Request] [perf(zkevm): walk the witness tries for their path lengths on the Airbender guest only](https://github.com/NethermindEth/nethermind/pull/15798) - 2026-11-11
+* [Pull Request] [perf(zkevm): copy keccak sponge states through the ZisK DMA call and seal LogEntry](https://github.com/NethermindEth/nethermind/pull/15793) - 2026-11-11
+* [Pull Request] [feat(stateless): add a trusted-input zkVM guest, with Airbender performance work](https://github.com/NethermindEth/nethermind/pull/15427) - 2026-11-11
+* [Review] [Review on: perf(evm): read ADDMOD and MULMOD operands in place and write the result into the slot](https://github.com/NethermindEth/nethermind/pull/15790#pullrequestreview-5857279978) - 2026-11-11
+* [Commit] [perf(zkevm): copy keccak sponge states through the ZisK DMA call and seal LogEntry (#15793)](https://github.com/NethermindEth/nethermind/commit/a3f4ee76bd119e52eb2c8122051507677692338c) - 2026-11-11
+* [Commit] [perf(rlp): skip the header hash on database reads keyed by it (#15789)](https://github.com/NethermindEth/nethermind/commit/aaa363da74b1dd7c59b0d59a4a539b9dd31c9356) - 2026-11-11
+* [Commit] [refactor(evm): record the EIP-7906 ASSERT diff in the transaction processor (#15783)](https://github.com/NethermindEth/nethermind/commit/afa3fc7c404ee6ed9a34fc620983d2ffde9d192e) - 2026-11-11
+* [Commit] [feat(stateless): add a trusted-input zkVM guest, with Airbender performance work (#15427)](https://github.com/NethermindEth/nethermind/commit/9f21c651b3b0baeb27477f6d919fd55a544aa840) - 2026-11-11
+* [Commit] [test(benchmark): run the RLP encode benchmarks again (#15784)](https://github.com/NethermindEth/nethermind/commit/da2c5b4ed4600dfef6c7aba852b1a0dafda01818) - 2026-11-11
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -891,6 +905,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7843: Add header validity rule and opcode compatibility note](https://github.com/ethereum/EIPs/pull/12618#pullrequestreview-5766621175) - 2026-11-04
 * [Review] [Review on: Update EIP-8141: raise MAX_VERIFY_GAS to 300_000](https://github.com/ethereum/EIPs/pull/12644#pullrequestreview-5838405946) - 2026-11-10
+* [Pull Request] [Add EIP: Code Reads in Block-Level Access Lists](https://github.com/ethereum/EIPs/pull/12658) - 2026-11-12
 ## Q3 2026
 
 

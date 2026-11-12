@@ -233,6 +233,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Move per-block receipt and root work off the importing thread (#11529)](https://github.com/besu-eth/besu/commit/5d763cd5dca1af2385c62d7b90c59c3991bba51a) - 2026-11-10
 * [Commit] [Let RocksDB add sorted files to a segment (#11852)](https://github.com/besu-eth/besu/commit/f2026a9b222c347ef64272754e36408c8c47d300) - 2026-11-10
 * [Commit] [Roll back a world state left at a block that was never stored when Besu starts (#11882)](https://github.com/besu-eth/besu/commit/6d134c0e9bbe18706bbfcbbfc92b8cf6499bab77) - 2026-11-10
+* [Review] [Review on: Treat missing txs as no transactions in evmtool t8n](https://github.com/besu-eth/besu/pull/11930#pullrequestreview-5858687894) - 2026-11-11
+* [Review] [Review on: Fix opcode tracer memory timing and storage snapshots](https://github.com/besu-eth/besu/pull/11636#pullrequestreview-5857338788) - 2026-11-11
+* [Review] [Review on: Run a child frame on its parent's EVM](https://github.com/besu-eth/besu/pull/11867#pullrequestreview-5860356924) - 2026-11-11
+* [Review] [Review on: perf(evm): use 64-bit MUL path when the right operand is narrow](https://github.com/besu-eth/besu/pull/11926#pullrequestreview-5858957014) - 2026-11-11
+* [Pull Request] [Wait for running RocksDB reads before closing the database](https://github.com/besu-eth/besu/pull/11933) - 2026-11-11
+* [Pull Request] [Rebuild the log bloom cache segment after a dropped block event](https://github.com/besu-eth/besu/pull/11932) - 2026-11-11
+* [Review] [Review on: [2/5] snap/2 sorted ingest: hold back RocksDB compaction during a bulk load](https://github.com/besu-eth/besu/pull/11853#pullrequestreview-5854822348) - 2026-11-11
+* [Pull Request] [Stop log bloom caching when the EthScheduler stops](https://github.com/besu-eth/besu/pull/11931) - 2026-11-11
+* [Commit] [Hold back RocksDB compaction during a bulk load (#11853)](https://github.com/besu-eth/besu/commit/a53bd3b1b5025d4ae2c6684b4fcb75a2a1d54d05) - 2026-11-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 
@@ -245,6 +254,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [changelog and version bump post release 2.1.0 (#326)](https://github.com/besu-eth/besu-native/commit/be1d9669c0183615728cdf9bdd8e87b62a327806) - 2026-10-19
 * [Commit] [changelog and version bump for release 2.1.0 (#325)](https://github.com/besu-eth/besu-native/commit/c93d44cf5ac985bba40f0ce02cc0d5c1412acf6f) - 2026-10-19
 * [Commit] [Add a native secp256k1 ECDH key agreement (#324)](https://github.com/besu-eth/besu-native/commit/7327369c81543928868eb94ce45f0420f67c087f) - 2026-10-19
+* [Pull Request] [Recover secp256k1 public keys for recovery ids 2 and 3](https://github.com/besu-eth/besu-native/pull/327) - 2026-11-11
 ## Q3 2026
 
 

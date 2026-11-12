@@ -223,6 +223,22 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(rpc): log the cause of internal errors at Debug (#15755)](https://github.com/NethermindEth/nethermind/commit/d0c0eb0ff3cef79282d1be84a3648df1c1c04e94) - 2026-11-10
 * [Commit] [fix(tracing): keep the JavaScript tracer V8 heap limit fixed (#15636)](https://github.com/NethermindEth/nethermind/commit/727e4c5e8a9fbd692b25f425f2a58a9ff00c6854) - 2026-11-10
 * [Commit] [fix(rpc)!: return 4444 for pruned history in eth block methods (#15609)](https://github.com/NethermindEth/nethermind/commit/3672b9b01962b899f2037f85d31ea5ed1fc9e304) - 2026-11-10
+* [Review] [Review on: perf(zkevm): check a witness node with native-width arithmetic](https://github.com/NethermindEth/nethermind/pull/15788#pullrequestreview-5858134484) - 2026-11-11
+* [Review] [Review on: perf(evm): fuse common branch and POP opcode sequences into one dispatch](https://github.com/NethermindEth/nethermind/pull/15791#pullrequestreview-5859684637) - 2026-11-11
+* [Review] [Review on: feat(zkevm): adopt tests-zkevm@v21.0.7](https://github.com/NethermindEth/nethermind/pull/15782#pullrequestreview-5858122498) - 2026-11-11
+* [Review] [Review on: perf(rlp): skip the header hash on database reads keyed by it](https://github.com/NethermindEth/nethermind/pull/15789#pullrequestreview-5857694537) - 2026-11-11
+* [Review] [Review on: refactor(evm): record the EIP-7906 ASSERT diff in the transaction processor](https://github.com/NethermindEth/nethermind/pull/15783#pullrequestreview-5857300549) - 2026-11-11
+* [Pull Request] [fix(rpc)!: return 4444 from eth_getTransactionReceipt for pruned history](https://github.com/NethermindEth/nethermind/pull/15796) - 2026-11-11
+* [Review] [Review on: fix(discovery): keep a node at the endpoint it was verified at](https://github.com/NethermindEth/nethermind/pull/15781#pullrequestreview-5864622619) - 2026-11-11
+* [Review] [Review on: fix(debug): keep PREVRANDAO of post-merge headers in debug_traceCall blob fee path](https://github.com/NethermindEth/nethermind/pull/15621#pullrequestreview-5858821002) - 2026-11-11
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/15787#pullrequestreview-5856233237) - 2026-11-11
+* [Review] [Review on: fix(rpc): report a pending frame tx's gas at the next block's spec](https://github.com/NethermindEth/nethermind/pull/15780#pullrequestreview-5857707427) - 2026-11-11
+* [Review] [Review on: perf(evm): read ADDMOD and MULMOD operands in place and write the result into the slot](https://github.com/NethermindEth/nethermind/pull/15790#pullrequestreview-5859673839) - 2026-11-11
+* [Commit] [fix(rpc): cancel queued module rentals on transport abort (#15777)](https://github.com/NethermindEth/nethermind/commit/5f96acbc5b5ae36a217cabb43b21b5684904a500) - 2026-11-11
+* [Commit] [fix(crypto): key the sender cache by the signing hash and signature (#15776)](https://github.com/NethermindEth/nethermind/commit/c10a4dbb35d27dd4e07bcbf18457e47e5d96a2f6) - 2026-11-11
+* [Commit] [feat(rpc): add eth_feeHistory concurrency and block count limits (#15769)](https://github.com/NethermindEth/nethermind/commit/30572758acba8ef0f1d3fc309cb3e3762f453d07) - 2026-11-11
+* [Commit] [fix(era): replace incomplete epoch exports and reject ambiguous era1 files (#15651)](https://github.com/NethermindEth/nethermind/commit/f2de5af3818a05dbae4d4f617c5541e4132cb93e) - 2026-11-11
+* [Commit] [test(fixtures): run blockchain tests that switch to proof of stake at a total difficulty (#15750)](https://github.com/NethermindEth/nethermind/commit/09d90320afcf126fbfbd6545481596c6d268a02f) - 2026-11-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

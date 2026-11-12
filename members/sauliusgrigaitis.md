@@ -28,6 +28,7 @@ Team: Grandine
 * [Commit] [Update crate](https://github.com/grandinetech/grandine/commit/a63876249043020d8ebe3d410c5cf31b19be1cc2) - 2026-10-23
 * [Issue] [Fallback mechanism for artifact processing](https://github.com/grandinetech/grandine/issues/1028) - 2026-11-09
 * [Issue] [Attestation aggregation performance improvement](https://github.com/grandinetech/grandine/issues/1027) - 2026-11-09
+* [Issue] [Improve validator message when beacon node is not accessible](https://github.com/grandinetech/grandine/issues/1037) - 2026-11-11
 ## Q3 2026
 
 

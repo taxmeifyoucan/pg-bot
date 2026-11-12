@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Ban builder URLs temporarily when circuit breaker is triggered](https://github.com/Consensys-Incorporated/teku/pull/11616) - 2026-11-05
 * [Review] [Review on: Log the epoch precompute timings at debug level](https://github.com/Consensys-Incorporated/teku/pull/11620#pullrequestreview-5828283940) - 2026-11-09
 * [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5844316387) - 2026-11-10
+* [Issue] [Strategy for banning builder URLs](https://github.com/Consensys-Incorporated/teku/issues/11630) - 2026-11-11
 ## Q3 2026
 
 

@@ -26,6 +26,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #257 from ethpandaops/feat/gloas-events](https://github.com/ethpandaops/contributoor/commit/00f0f60160d87dc0a26b53278020ff12feb5cb10) - 2026-10-08
 * [Commit] [ci(release): build releases with Go 1.26.8](https://github.com/ethpandaops/contributoor/commit/1d5eef2d9e65c428b39e030c1972d11965a915da) - 2026-10-08
 * [Commit] [chore(deps): bump xatu to v1.25.0 and go-eth2-client to v0.1.10](https://github.com/ethpandaops/contributoor/commit/751c9bb048409e0d65fcebac7defa1951f896c5b) - 2026-10-08
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [chore: adopt skeleton's lint, typecheck, test, token and CI setup](https://github.com/ethpandaops/lab/pull/570) - 2026-11-11
+* [Review] [Review on: chore: adopt skeleton's lint, typecheck, test, token and CI setup](https://github.com/ethpandaops/lab/pull/570#pullrequestreview-5868221400) - 2026-11-12
+* [Commit] [chore: adopt skeleton's lint, typecheck, test, token and CI setup (#570)](https://github.com/ethpandaops/lab/commit/9f4f88fbe08909fc14b0bcccd4f6d29312a07eff) - 2026-11-12
 ## Q3 2026
 
 

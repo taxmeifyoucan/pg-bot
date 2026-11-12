@@ -149,6 +149,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: make BeaconNode.close idempotent and run every cleanup step](https://github.com/ChainSafe/lodestar/pull/10576#pullrequestreview-5847878762) - 2026-11-10
 * [Commit] [fix: count usable gossip subscribers for subnet coverage (#10482)](https://github.com/ChainSafe/lodestar/commit/e2296e3b06e895f1c60dd95e739106182799cb3a) - 2026-11-10
 * [Commit] [fix: make BeaconNode.close idempotent and run every cleanup step (#10576)](https://github.com/ChainSafe/lodestar/commit/f28f5e623b0bcd6550d7a677be04a387effaf839) - 2026-11-10
+* [Review] [Review on: feat: pack SingleAttestation for block production](https://github.com/ChainSafe/lodestar/pull/10567#pullrequestreview-5860863799) - 2026-11-11
+* [Pull Request] [feat: add backfill sync](https://github.com/ChainSafe/lodestar/pull/10604) - 2026-11-11
+* [Pull Request] [perf: compute execution block hash natively](https://github.com/ChainSafe/lodestar/pull/10603) - 2026-11-11
+* [Review] [Review on: perf: rework node pool allocation strategy](https://github.com/ChainSafe/lodestar/pull/10595#pullrequestreview-5861644758) - 2026-11-11
+* [Pull Request] [feat: allow builders one bid per ETH of balance for a slot and parent](https://github.com/ChainSafe/lodestar/pull/10597) - 2026-11-11
+* [Review] [Review on: perf: write epoch buffers once](https://github.com/ChainSafe/lodestar/pull/10566#pullrequestreview-5860397777) - 2026-11-11
+* [Review] [Review on: fix: apply forkchoiceUpdated verdicts to fork choice](https://github.com/ChainSafe/lodestar/pull/10436#pullrequestreview-5859997174) - 2026-11-11
+* [Review] [Review on: refactor(state-transition): remove unused blockToHeader](https://github.com/ChainSafe/lodestar/pull/10594#pullrequestreview-5859378337) - 2026-11-11
+* [Commit] [fix: stop the network processor and remove all listeners on network close (#10575)](https://github.com/ChainSafe/lodestar/commit/aa1ecb7c18e9d09935032abb6dee576573320a9b) - 2026-11-11
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -198,6 +207,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/commit/9d27a4f2facf3b4536e61c4bb81ea996175aa07e) - 2026-10-14
+* [Review] [Review on: Update EIP-8282: Sync specification with sys-asm@83f9801](https://github.com/ethereum/EIPs/pull/12120#pullrequestreview-5865314846) - 2026-11-11
 ## Q3 2026
 
 

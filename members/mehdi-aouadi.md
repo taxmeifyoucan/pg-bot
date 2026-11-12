@@ -31,6 +31,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [limit validator client event stream size](https://github.com/Consensys-Incorporated/teku/pull/11624) - 2026-11-10
 * [Pull Request] [limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623) - 2026-11-10
 * [Review] [Review on: Time the epoch transition where it runs](https://github.com/Consensys-Incorporated/teku/pull/11625#pullrequestreview-5844857652) - 2026-11-10
+* [Review] [Review on: limit validator client event stream size](https://github.com/Consensys-Incorporated/teku/pull/11624#pullrequestreview-5862580553) - 2026-11-11
+* [Pull Request] [fix voluntary exit API responses for ignored submissions](https://github.com/Consensys-Incorporated/teku/pull/11626) - 2026-11-11
+* [Review] [Review on: fix voluntary exit API responses for ignored submissions](https://github.com/Consensys-Incorporated/teku/pull/11626#pullrequestreview-5863118213) - 2026-11-11
+* [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5858162898) - 2026-11-11
+* [Issue] [Clarify broadcast behavior when a REST-submitted voluntary exit is already in the pool](https://github.com/Consensys-Incorporated/teku/issues/11629) - 2026-11-11
 ## Q3 2026
 
 

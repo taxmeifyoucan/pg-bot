@@ -105,6 +105,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Log the epoch precompute timings at debug level (#11620)](https://github.com/Consensys-Incorporated/teku/commit/5a904d66aa33b1a7924ebd0dce16c68c15fefa30) - 2026-11-09
 * [Pull Request] [Time the epoch transition where it runs](https://github.com/Consensys-Incorporated/teku/pull/11625) - 2026-11-10
 * [Commit] [Time the epoch transition where it runs (#11625)](https://github.com/Consensys-Incorporated/teku/commit/b37b25611901366d80135b685d991eae5d1c1412) - 2026-11-10
+* [Review] [Review on: fix voluntary exit API responses for ignored submissions](https://github.com/Consensys-Incorporated/teku/pull/11626#pullrequestreview-5860489958) - 2026-11-11
+* [Pull Request] [Read validator views of the packed registry from the supernode bytes](https://github.com/Consensys-Incorporated/teku/pull/11627) - 2026-11-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 
