@@ -32,6 +32,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: [1/5] Bonsai archive ongoing sync: fix capture gaps](https://github.com/besu-eth/besu/pull/11913#pullrequestreview-5869166277) - 2026-11-12
 * [Review] [Review on: Remove leftover stratum build file and duplicate datatypes include](https://github.com/besu-eth/besu/pull/11942#pullrequestreview-5868317810) - 2026-11-12
 * [Review] [Review on: Report missing required evmtool inputs as usage errors](https://github.com/besu-eth/besu/pull/11938#pullrequestreview-5867813825) - 2026-11-12
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Review] [Review on: Recover secp256k1 public keys for recovery ids 2 and 3](https://github.com/besu-eth/besu-native/pull/327#pullrequestreview-5883892054) - 2026-11-12
 ## Q3 2026
 
 

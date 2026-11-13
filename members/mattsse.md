@@ -619,6 +619,63 @@ Team: Reth
 * [Commit] [fix(engine): enforce Amsterdam engine method timeframe (#28399)](https://github.com/paradigmxyz/reth/commit/da8cb7a690b457d9259a8bf87e91685d328ddda2) - 2026-11-11
 * [Commit] [fix(cli): keep enforce_enr_fork_id from the config file (#28432)](https://github.com/paradigmxyz/reth/commit/cad433259d54bf31075fbd53bdb4154cb4bf715d) - 2026-11-11
 * [Commit] [fix(rpc): build rpc_modules per transport (#28433)](https://github.com/paradigmxyz/reth/commit/ec43debe3a08580c77b8b613e77c2893c1f93210) - 2026-11-11
+* [Pull Request] [fix(net): escalate unauthenticated dial backoff](https://github.com/paradigmxyz/reth/pull/28518) - 2026-11-13
+* [Pull Request] [perf(rpc): silence connection spans by default](https://github.com/paradigmxyz/reth/pull/28513) - 2026-11-13
+* [Pull Request] [feat(rpc): add --rpc.max-trace-bytes for tracers](https://github.com/paradigmxyz/reth/pull/28525) - 2026-11-13
+* [Pull Request] [fix(net): keep partial headers in range downloads](https://github.com/paradigmxyz/reth/pull/28516) - 2026-11-13
+* [Pull Request] [perf(rpc): classify JSON-RPC messages in one pass](https://github.com/paradigmxyz/reth/pull/28508) - 2026-11-13
+* [Pull Request] [perf(rpc): range-read eth_feeHistory cache misses](https://github.com/paradigmxyz/reth/pull/28523) - 2026-11-13
+* [Pull Request] [fix(rpc): time out stalled WebSocket reads](https://github.com/paradigmxyz/reth/pull/28515) - 2026-11-13
+* [Pull Request] [perf(rpc): single provider read on receipt and tx lookup misses](https://github.com/paradigmxyz/reth/pull/28524) - 2026-11-13
+* [Pull Request] [perf(rpc): stop copying params for async methods](https://github.com/paradigmxyz/reth/pull/28519) - 2026-11-13
+* [Pull Request] [fix(chainspec): drop trailing zero bytes from dev 7251 code](https://github.com/paradigmxyz/reth/pull/28514) - 2026-11-13
+* [Pull Request] [fix(rpc): bound eth_getLogs ranges by response size](https://github.com/paradigmxyz/reth/pull/28510) - 2026-11-13
+* [Pull Request] [perf(rpc): build RPC service once per connection](https://github.com/paradigmxyz/reth/pull/28522) - 2026-11-13
+* [Pull Request] [perf(rpc): read hashes-only blocks without senders](https://github.com/paradigmxyz/reth/pull/28521) - 2026-11-13
+* [Pull Request] [fix(engine): handle pre-Cancun selfdestruct wipes](https://github.com/paradigmxyz/reth/pull/28520) - 2026-11-13
+* [Pull Request] [perf(rpc): run sync blocking IO closures directly](https://github.com/paradigmxyz/reth/pull/28517) - 2026-11-13
+* [Pull Request] [fix(storage): don't cache RPC trie reverts](https://github.com/paradigmxyz/reth/pull/28511) - 2026-11-13
+* [Pull Request] [fix(rpc): stop cloning mev bundle metadata per tx](https://github.com/paradigmxyz/reth/pull/28512) - 2026-11-13
+* [Pull Request] [fix(trie): drop queued proof jobs with the handle](https://github.com/paradigmxyz/reth/pull/28509) - 2026-11-13
+* [Pull Request] [perf(rpc): trim response buffer copies](https://github.com/paradigmxyz/reth/pull/28500) - 2026-11-12
+* [Pull Request] [fix(rpc): keep request input out of params and version errors](https://github.com/paradigmxyz/reth/pull/28503) - 2026-11-12
+* [Pull Request] [fix(rpc): borrow request params from the request body](https://github.com/paradigmxyz/reth/pull/28502) - 2026-11-12
+* [Review] [Review on: fix(rpc): borrow request params from the request body](https://github.com/paradigmxyz/reth/pull/28502#pullrequestreview-5883820940) - 2026-11-12
+* [Review] [Review on: fix(engine): end trie hashing task at finish marker](https://github.com/paradigmxyz/reth/pull/28497#pullrequestreview-5883645411) - 2026-11-12
+* [Pull Request] [perf(rpc): cache serialized recent block responses](https://github.com/paradigmxyz/reth/pull/28505) - 2026-11-12
+* [Pull Request] [perf(evm): forward warm_addresses through the precompile cache](https://github.com/paradigmxyz/reth/pull/28501) - 2026-11-12
+* [Pull Request] [perf(rpc): serialize block access lists once](https://github.com/paradigmxyz/reth/pull/28498) - 2026-11-12
+* [Review] [Review on: fix(net): split eth/70 receipts at the message limit](https://github.com/paradigmxyz/reth/pull/28096#pullrequestreview-5882029196) - 2026-11-12
+* [Review] [Review on: feat(cli): archive RocksDB SSTs individually](https://github.com/paradigmxyz/reth/pull/28456#pullrequestreview-5882209582) - 2026-11-12
+* [Pull Request] [fix(rpc): bound the graceful shutdown drain](https://github.com/paradigmxyz/reth/pull/28504) - 2026-11-12
+* [Pull Request] [perf(rpc): serialize pubsub notifications once](https://github.com/paradigmxyz/reth/pull/28499) - 2026-11-12
+* [Review] [Review on: perf(rpc): serialize pubsub notifications once](https://github.com/paradigmxyz/reth/pull/28499#pullrequestreview-5881613517) - 2026-11-12
+* [Pull Request] [fix(discv4): bind endpoint proof to the stored endpoint](https://github.com/paradigmxyz/reth/pull/28486) - 2026-11-12
+* [Pull Request] [fix(rpc): compare only the json media type](https://github.com/paradigmxyz/reth/pull/28493) - 2026-11-12
+* [Pull Request] [fix(rpc): free raw params once rpc arguments are decoded](https://github.com/paradigmxyz/reth/pull/28496) - 2026-11-12
+* [Review] [Review on: chore(rpc): classify JSON-RPC messages in one function](https://github.com/paradigmxyz/reth/pull/28492#pullrequestreview-5878500682) - 2026-11-12
+* [Commit] [perf(rpc): silence connection spans by default (#28513)](https://github.com/paradigmxyz/reth/commit/31d05e14329ec25e0d559f901502c959aa04ddd8) - 2026-11-13
+* [Commit] [fix(chainspec): drop trailing zero bytes from dev 7251 code (#28514)](https://github.com/paradigmxyz/reth/commit/0d8373b049b1198d1a588d34627a4e53088bddbe) - 2026-11-13
+* [Commit] [fix(rpc): borrow request params from the request body (#28502)](https://github.com/paradigmxyz/reth/commit/c664c61b6c454ffde38b898f92da076411191186) - 2026-11-12
+* [Commit] [perf(evm): forward warm_addresses through the precompile cache (#28501)](https://github.com/paradigmxyz/reth/commit/5d4471509c48bff1485c7cb464ee39186cb5a6df) - 2026-11-12
+* [Commit] [perf(rpc): serialize block access lists once (#28498)](https://github.com/paradigmxyz/reth/commit/24e12da9b9b508de90246e389e8805f2c2350271) - 2026-11-12
+* [Commit] [fix(rpc): free raw params once rpc arguments are decoded (#28496)](https://github.com/paradigmxyz/reth/commit/b99ee8648b4f69166e7e3fa379093e88883c1b7c) - 2026-11-12
+* [Commit] [perf(rpc): check cached gas price without lock (#28444)](https://github.com/paradigmxyz/reth/commit/ad2962685bddaf684da014c979cb3bd49192c484) - 2026-11-12
+* [Commit] [fix(rpc): keep the connection span on the connection task (#28495)](https://github.com/paradigmxyz/reth/commit/827fc5dd3ce3c759a769d779b4f2f3c3495637d5) - 2026-11-12
+* [Commit] [fix(rpc): poll ws stop before reading (#28487)](https://github.com/paradigmxyz/reth/commit/17f51299a60679ab82d995f526d2d63d0a0517a3) - 2026-11-12
+* [Commit] [fix(stages): treat a zero merkle incremental threshold as one (#28469)](https://github.com/paradigmxyz/reth/commit/58f58ebfb9dd48a2bad94eb9cd85e9f69d0e9891) - 2026-11-12
+* [Commit] [fix(eth-wire): match encoded length of unknown messages and require list request pairs (#28465)](https://github.com/paradigmxyz/reth/commit/699c4ae62c463ab8df2906ffe070e20d9ea13933) - 2026-11-12
+* [Commit] [fix(nippy-jar): truncate the offsets file when creating a jar (#28468)](https://github.com/paradigmxyz/reth/commit/94841446d32d19aa6bfef5047e3da96d013c3ec6) - 2026-11-12
+* [Commit] [fix(cli): strip control characters from the snapshot listing (#28470)](https://github.com/paradigmxyz/reth/commit/5814f8051743546e14723174b63252f3d6c6f053) - 2026-11-12
+* [Commit] [fix(discv4): only return endpoint-proven nodes in neighbours (#28461)](https://github.com/paradigmxyz/reth/commit/bb1346fd314af49af8d4e57b5c15e16a3cbddf96) - 2026-11-12
+* [Commit] [fix(net): clamp reputation recovery to the default (#28464)](https://github.com/paradigmxyz/reth/commit/f9686bab506190433d03db59eafff62876e43efb) - 2026-11-12
+* [Commit] [fix(ethstats): cap requested history blocks (#28463)](https://github.com/paradigmxyz/reth/commit/ada48b7786f3c83d4b1d7820add67386670daeb7) - 2026-11-12
+* [Commit] [fix(db): propagate cursor errors in unwind_table (#28467)](https://github.com/paradigmxyz/reth/commit/c2b60339f10bc23fbf258f6319b78523fd020927) - 2026-11-12
+* [Commit] [fix(discv4): only evict a node when its stored endpoint failed to pong (#28462)](https://github.com/paradigmxyz/reth/commit/7864a3d0489f1a6547901f06556be4aa055a8b1e) - 2026-11-12
+* [Commit] [fix(static-file): reopen the file holding last_block after truncating rows (#28466)](https://github.com/paradigmxyz/reth/commit/3e8630f50f759ee7d62235d0c38e88dca32aa101) - 2026-11-12
+* [Commit] [fix(rpc): don't panic on oversized sub ack (#28485)](https://github.com/paradigmxyz/reth/commit/d0bfe6232ae72a6cb4f2bb01f9a51c7b4a60659c) - 2026-11-12
+* [Commit] [refactor(rpc): vendor jsonrpsee server (#28290)](https://github.com/paradigmxyz/reth/commit/b05f9a86df7f45568f8c2fcc42512f702f548357) - 2026-11-12
+* [Commit] [feat(rpc): add Call::simulate_call_nonce hook (#28458)](https://github.com/paradigmxyz/reth/commit/55886976ded86382730cc537b993239650c0ec6b) - 2026-11-12
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

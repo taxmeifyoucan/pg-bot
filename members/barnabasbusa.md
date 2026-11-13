@@ -146,6 +146,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix(web): gate pprof behind the login](https://github.com/ethpandaops/assertoor/pull/245#pullrequestreview-5564907131) - 2026-10-18
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/pull/246) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/commit/068c102446300b8d6d6b427779977cacbb96d861) - 2026-10-21
+* [Pull Request] [feat: add GLOAS pubkey-cache poisoning playbook (topup + slash)](https://github.com/ethpandaops/assertoor/pull/248) - 2026-11-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): check tx gas limit against floor-inclusive block gas used](https://github.com/ethereum/execution-specs/pull/3832) - 2026-10-15
 * [Commit] [feat(tests): check tx gas limit against floor-inclusive block gas used (#3832)](https://github.com/ethereum/execution-specs/commit/172160ee6e05f635b1bbcbd0ef03ebf5d9ccffad) - 2026-10-15

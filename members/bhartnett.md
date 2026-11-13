@@ -69,6 +69,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use manually allocated EVM memory (#5135)](https://github.com/status-im/nimbus-eth1/commit/0507c2cffe713ab93248826a72a7cefe842c31b5) - 2026-11-05
 * [Pull Request] [Inline EVM opcode handlers](https://github.com/status-im/nimbus-eth1/pull/5139) - 2026-11-06
 * [Review] [Review on: Use manually allocated EVM memory](https://github.com/status-im/nimbus-eth1/pull/5135#pullrequestreview-5825603462) - 2026-11-09
+* [Commit] [Inline EVM opcode handlers (#5139)](https://github.com/status-im/nimbus-eth1/commit/9fd626cb19808a9134a91062f33489415a84f986) - 2026-11-12
 ## Q3 2026
 
 

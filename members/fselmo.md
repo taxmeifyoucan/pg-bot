@@ -119,6 +119,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Add an EEST blocktest and enginetest runner](https://github.com/status-im/nimbus-eth1/pull/5150) - 2026-11-11
+* [Commit] [Add an EEST blocktest and enginetest runner (#5150)](https://github.com/status-im/nimbus-eth1/commit/82770c969ce214ea1a90ec7d6da8a948b01ec796) - 2026-11-13
 ## Q3 2026
 
 

@@ -119,6 +119,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: CI: Add an on-demand hive workflow](https://github.com/besu-eth/besu/pull/11904#pullrequestreview-5855816168) - 2026-11-11
 * [Commit] [Process late selection results in the txpool when the evaluation completes (#11934)](https://github.com/besu-eth/besu/commit/3adcc9715d9d277e177102ce331148e324af2985) - 2026-11-11
 * [Commit] [Represent the chain id with a shared ChainId value object (#11866)](https://github.com/besu-eth/besu/commit/624722eb0860500fa50d42c9dc3935261b17c643) - 2026-11-11
+* [Review] [Review on: Run the built-in plugins through the plugin lifecycle (#11464) ](https://github.com/besu-eth/besu/pull/11641#pullrequestreview-5874949187) - 2026-11-12
+* [Review] [Review on: Penalise transactions not successfully selected within the block period (sequenced pool only)](https://github.com/besu-eth/besu/pull/11681#pullrequestreview-5878456253) - 2026-11-12
+* [Review] [Review on: Turn mempool prewarming on by default on mainnet and public testnets](https://github.com/besu-eth/besu/pull/11956#pullrequestreview-5877708550) - 2026-11-12
+* [Pull Request] [Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959) - 2026-11-12
+* [Review] [Review on: Pluggable protocol schedule customization](https://github.com/besu-eth/besu/pull/11887#pullrequestreview-5874614359) - 2026-11-12
+* [Pull Request] [Update security report email](https://github.com/besu-eth/besu/pull/11953) - 2026-11-12
+* [Commit] [Update security report email (#11953)](https://github.com/besu-eth/besu/commit/8447c6ba69bde74674529844ca12405063927809) - 2026-11-12
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

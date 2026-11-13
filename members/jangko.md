@@ -73,6 +73,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Upgrade EEST mainnet fixtures to v21.0.2 (#5142)](https://github.com/status-im/nimbus-eth1/commit/7493deefccf513fd6737bb58e8eb7482ea003e6b) - 2026-11-11
 * [Commit] [Bump llvm-mingw to 20261020 (LLVM 23.1.4) (#5143)](https://github.com/status-im/nimbus-eth1/commit/8bca91e816bb91a38e96bfde01632d5c1fa04594) - 2026-11-10
 * [Pull Request] [Replace qemu-user-static with qemu-user-binfmt](https://github.com/status-im/nimbus-eth1/pull/5151) - 2026-11-12
+* [Review] [Review on: ledger: simplify account handling](https://github.com/status-im/nimbus-eth1/pull/5153#pullrequestreview-5885615893) - 2026-11-13
+* [Review] [Review on: Add an EEST blocktest and enginetest runner](https://github.com/status-im/nimbus-eth1/pull/5150#pullrequestreview-5870386389) - 2026-11-12
+* [Commit] [Replace qemu-user-static with qemu-user-binfmt (#5151)](https://github.com/status-im/nimbus-eth1/commit/9ec3038ca806fd023a6de92b07cdcc2783a689ea) - 2026-11-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

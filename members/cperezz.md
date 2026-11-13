@@ -26,6 +26,7 @@ Github: [@cperezz](https://github.com/cperezz)
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [binary-trie: a genesis with binaryTrieTime 0 cannot be initialised with default settings](https://github.com/erigontech/erigon/issues/24612) - 2026-10-06
 
+* [Issue] [forkchoiceUpdated returns -38002 for a consistent state when the reorg unwinds a previously finalized block](https://github.com/erigontech/erigon/issues/26211) - 2026-11-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): add MPT structural test suite](https://github.com/ethereum/execution-specs/pull/3600#pullrequestreview-5482738375) - 2026-10-11
 * [Pull Request] [feat(spec-specs,tests,test-forks,test-types,test-vm): implement EIP-8298 SETCODEFROM](https://github.com/ethereum/execution-specs/pull/3769) - 2026-10-11
@@ -35,6 +36,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [feat(tests): add MPT structural test suite (#3600)](https://github.com/ethereum/execution-specs/commit/e762bc8260fb44fcf748f836deda8ef39d2bb171) - 2026-10-19
 * [Pull Request] [feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984) - 2026-11-11
 * [Review] [Review on: feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964#pullrequestreview-5865666604) - 2026-11-11
+* [Issue] [Reorg fixtures: reach a head by syncing from a peer](https://github.com/ethereum/execution-specs/issues/3991) - 2026-11-12
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15
@@ -46,6 +48,9 @@ Github: [@cperezz](https://github.com/cperezz)
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients: add HIVE_* switches for non-default state-root and trie modes](https://github.com/ethereum/hive/pull/1662) - 2026-11-11
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [X_BONSAI_ARCHIVE: startup archive migration closes the world state an RLP import is using](https://github.com/besu-eth/besu/issues/11958) - 2026-11-12
 ## Q3 2026
 
 

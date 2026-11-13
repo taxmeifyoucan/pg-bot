@@ -242,6 +242,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: [2/5] snap/2 sorted ingest: hold back RocksDB compaction during a bulk load](https://github.com/besu-eth/besu/pull/11853#pullrequestreview-5854822348) - 2026-11-11
 * [Pull Request] [Stop log bloom caching when the EthScheduler stops](https://github.com/besu-eth/besu/pull/11931) - 2026-11-11
 * [Commit] [Hold back RocksDB compaction during a bulk load (#11853)](https://github.com/besu-eth/besu/commit/a53bd3b1b5025d4ae2c6684b4fcb75a2a1d54d05) - 2026-11-11
+* [Pull Request] [Turn mempool prewarming on by default on mainnet and public testnets](https://github.com/besu-eth/besu/pull/11956) - 2026-11-12
+* [Pull Request] [Run forkchoiceUpdated on the current head without waiting for newPayload](https://github.com/besu-eth/besu/pull/11954) - 2026-11-12
+* [Review] [Review on: Fix opcode tracer memory timing and storage snapshots](https://github.com/besu-eth/besu/pull/11636#pullrequestreview-5873076105) - 2026-11-12
+* [Commit] [Stop log bloom caching when the EthScheduler stops (#11931)](https://github.com/besu-eth/besu/commit/4db8f84661afe16d8df8014ccd04b50ace744799) - 2026-11-13
+* [Commit] [Turn mempool prewarming on by default on mainnet and public testnets (#11956)](https://github.com/besu-eth/besu/commit/aee7aa7c5c506f447e5b466dd68a4d1a2b90b520) - 2026-11-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

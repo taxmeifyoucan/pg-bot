@@ -158,6 +158,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: apply forkchoiceUpdated verdicts to fork choice](https://github.com/ChainSafe/lodestar/pull/10436#pullrequestreview-5859997174) - 2026-11-11
 * [Review] [Review on: refactor(state-transition): remove unused blockToHeader](https://github.com/ChainSafe/lodestar/pull/10594#pullrequestreview-5859378337) - 2026-11-11
 * [Commit] [fix: stop the network processor and remove all listeners on network close (#10575)](https://github.com/ChainSafe/lodestar/commit/aa1ecb7c18e9d09935032abb6dee576573320a9b) - 2026-11-11
+* [Review] [Review on: fix: harden sync committee gossip validation](https://github.com/ChainSafe/lodestar/pull/10607#pullrequestreview-5878080059) - 2026-11-12
+* [Pull Request] [fix: apply every execution INVALID verdict to fork choice with one rule](https://github.com/ChainSafe/lodestar/pull/10614) - 2026-11-12
+* [Review] [Review on: perf: hash lazy chunked leaves in parallel for the state root](https://github.com/ChainSafe/lodestar/pull/10521#pullrequestreview-5881155232) - 2026-11-12
+* [Commit] [fix: serialize gossip core topic subscription changes in sync (#10579)](https://github.com/ChainSafe/lodestar/commit/fb216e169a5f596b92877aa3de08e0bb9ef69a01) - 2026-11-12
+* [Commit] [fix: settle all BLS worker pool jobs on close (#10577)](https://github.com/ChainSafe/lodestar/commit/f921fbf6b7bc7b2b7d1d921332fb2b345615b409) - 2026-11-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -205,6 +210,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06
 * [Commit] [Derive EIP-8198 slot timing from fork configuration (#5710)](https://github.com/ethereum/consensus-specs/commit/40bcb8c2b2ebd0f67705c1578c3d7bf76aee8176) - 2026-10-06
 
+* [Pull Request] [Commit to the execution payload root in `ExecutionPayloadBid`](https://github.com/ethereum/consensus-specs/pull/5820) - 2026-11-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/commit/9d27a4f2facf3b4536e61c4bb81ea996175aa07e) - 2026-10-14
 * [Review] [Review on: Update EIP-8282: Sync specification with sys-asm@83f9801](https://github.com/ethereum/EIPs/pull/12120#pullrequestreview-5865314846) - 2026-11-11

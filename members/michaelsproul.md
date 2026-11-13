@@ -103,6 +103,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5510417310) - 2026-10-13
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5869807638) - 2026-11-12
 ## Q3 2026
 
 

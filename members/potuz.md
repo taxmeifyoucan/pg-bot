@@ -65,6 +65,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5631371289) - 2026-10-23
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5841222246) - 2026-11-10
+
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Review] [Review on: arm64: keep the NEON kernel frame inside the Go frame](https://github.com/OffchainLabs/hashtree/pull/79#pullrequestreview-5875581988) - 2026-11-12
+* [Review] [Review on: riscv: never run instructions the CPU does not support](https://github.com/OffchainLabs/hashtree/pull/81#pullrequestreview-5875406396) - 2026-11-12
+* [Pull Request] [Fix overflow on NEON arm with Go bindings](https://github.com/OffchainLabs/hashtree/pull/78) - 2026-11-12
 ## Q3 2026
 
 

@@ -441,6 +441,34 @@ Team: Erigon
 * [Issue] [cmd/capcli: Beacon API request paths are appended after the --endpoint query string](https://github.com/erigontech/erigon/issues/26103) - 2026-11-11
 * [Commit] [execution: run ValidateChain on the given block, chunk the payload decode (#25933)](https://github.com/erigontech/erigon/commit/a495e73587f0dc49520ea8c5a7d31cbb633789d5) - 2026-11-12
 * [Commit] [db/state: remove unused SnapshotRepo, port its tests to production types (#26016)](https://github.com/erigontech/erigon/commit/615ce1cba5125dd884e195eae4f82ffac49241a6) - 2026-11-11
+* [Pull Request] [db/state: flush buffered writes in write order across Unwind and Merge](https://github.com/erigontech/erigon/pull/26242) - 2026-11-13
+* [Review] [Review on: execution/state: skip storage-read checks for BAL-unchanged accounts](https://github.com/erigontech/erigon/pull/26101#pullrequestreview-5871864946) - 2026-11-12
+* [Pull Request] [db/rawdb: remove unused accessors and move test-only helpers to tests](https://github.com/erigontech/erigon/pull/26203) - 2026-11-12
+* [Pull Request] [cl: remove test-only helpers from merkle_tree, persistence and utils](https://github.com/erigontech/erigon/pull/26197) - 2026-11-12
+* [Pull Request] [execution/tracing/tracers/logger: remove unused markdown logger](https://github.com/erigontech/erigon/pull/26200) - 2026-11-12
+* [Pull Request] [execution/engineapi: remove unused JsonRpcClient getters and retry checker](https://github.com/erigontech/erigon/pull/26202) - 2026-11-12
+* [Pull Request] [execution/commitment/trie: move test-only RetainList to tests](https://github.com/erigontech/erigon/pull/26201) - 2026-11-12
+* [Review] [Review on: execution/types: decode the block access list into a presized list](https://github.com/erigontech/erigon/pull/26098#pullrequestreview-5871751738) - 2026-11-12
+* [Review] [Review on: execution/state: skip account-read checks for BAL-unchanged addresses](https://github.com/erigontech/erigon/pull/26154#pullrequestreview-5872160708) - 2026-11-12
+* [Review] [Review on: cl/beacon/handler: expose missing config spec keys](https://github.com/erigontech/erigon/pull/26161#pullrequestreview-5876347169) - 2026-11-12
+* [Pull Request] [cl/antiquary, db/snapshotsync, p2p/netutil: fix stale doc comments](https://github.com/erigontech/erigon/pull/26207) - 2026-11-12
+* [Review] [Review on: cl/phase1/forkchoice: cache replayed states, skip read replay signatures](https://github.com/erigontech/erigon/pull/26163#pullrequestreview-5877314303) - 2026-11-12
+* [Review] [Review on: cl/beacon/handler: fix validator_inclusion panic on unknown validators](https://github.com/erigontech/erigon/pull/26160#pullrequestreview-5877451097) - 2026-11-12
+* [Issue] [cmd/capcli: commands return with the Caplin database and snapshot folders still open](https://github.com/erigontech/erigon/issues/26231) - 2026-11-12
+* [Issue] [execution/engineapi: TestWaitForResponseBoundsTotalWaitByElapsedTime fails its wall-clock bound under -race](https://github.com/erigontech/erigon/issues/26230) - 2026-11-12
+* [Issue] [cl/beacon: lighthouse validator_inclusion reads validators at the epoch's first slot](https://github.com/erigontech/erigon/issues/26224) - 2026-11-12
+* [Issue] [cl/beacon: state handlers read the canonical root and the finalized bound from different views](https://github.com/erigontech/erigon/issues/26223) - 2026-11-12
+* [Issue] [cl/beacon: register_validator and v2 blinded_blocks answer 404 without a relay](https://github.com/erigontech/erigon/issues/26222) - 2026-11-12
+* [Issue] [cl/clparams: config file cannot set MAXIMUM_GOSSIP_CLOCK_DISPARITY or EPOCHS_PER_SUBNET_SUBSCRIPTION](https://github.com/erigontech/erigon/issues/26221) - 2026-11-12
+* [Issue] [cl/beacon: duties endpoints answer 404, which their spec does not list](https://github.com/erigontech/erigon/issues/26220) - 2026-11-12
+* [Issue] [caplin: blob dump writes an empty entry for a canonical slot missing from the block segment](https://github.com/erigontech/erigon/issues/26219) - 2026-11-12
+* [Issue] [execution/engineapi: TestWaitForResponseDoesNotCallBackAfterDeadline flakes on its 100 ms bound under -race](https://github.com/erigontech/erigon/issues/26214) - 2026-11-12
+* [Issue] [Caplin Beacon API: four {epoch} handlers answer 500 for an invalid epoch](https://github.com/erigontech/erigon/issues/26206) - 2026-11-12
+* [Issue] [Caplin Beacon API: randao epoch range and randao read errors in committees and duties](https://github.com/erigontech/erigon/issues/26189) - 2026-11-12
+* [Commit] [db/kv, execution/vm: remove unused PendingMutations, VMInterface and CallerContext interfaces (#26107)](https://github.com/erigontech/erigon/commit/4f5e84e8d4105787d4b26334c2d87f40610118f1) - 2026-11-13
+* [Commit] [execution/commitment/trie: move test-only RetainList to tests (#26201)](https://github.com/erigontech/erigon/commit/b76251815d101a603092ddd9cde112fd83fdd3ba) - 2026-11-13
+* [Commit] [execution/verify: remove unused SnapshotVerifier (#26105)](https://github.com/erigontech/erigon/commit/952cfb97378d92a0deef4ade73698dda386c8eb7) - 2026-11-12
+* [Commit] [cl/beacon/handler: return 404 for unavailable randao mixes (#26152)](https://github.com/erigontech/erigon/commit/087aa1c5b637215511b34f7fd402b2922af1568b) - 2026-11-12
 ## Q3 2026
 
 

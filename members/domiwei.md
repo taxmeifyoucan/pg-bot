@@ -386,6 +386,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.8] docs: describe the disk usage figures as whole-datadir sizes until seg du figures are published](https://github.com/erigontech/erigon/pull/26134#pullrequestreview-5865741917) - 2026-11-11
 * [Review] [Review on: cl/phase1/forkchoice, cl/cltypes/lightclient_utils: serve a period's best light client update on the head's chain before finalization settles it](https://github.com/erigontech/erigon/pull/26114#pullrequestreview-5858497799) - 2026-11-11
 * [Review] [Review on: docs, db/snapshotsync: mark seg du disk figures from their recorded method](https://github.com/erigontech/erigon/pull/26133#pullrequestreview-5865742301) - 2026-11-11
+* [Review] [Review on: cl/beacon/beaconevents: deduplicate head events](https://github.com/erigontech/erigon/pull/26155#pullrequestreview-5872949089) - 2026-11-12
+* [Review] [Review on: cl/beacon/handler: expose missing config spec keys](https://github.com/erigontech/erigon/pull/26161#pullrequestreview-5873264796) - 2026-11-12
+* [Review] [Review on: cl/antiquary, db/snapshotsync, p2p/netutil: fix stale doc comments](https://github.com/erigontech/erigon/pull/26207#pullrequestreview-5872916222) - 2026-11-12
+* [Review] [Review on: cl/phase1/forkchoice: FinalizedSlot returns the finalized checkpoint start slot](https://github.com/erigontech/erigon/pull/26184#pullrequestreview-5873013267) - 2026-11-12
+* [Review] [Review on: cl/phase1/forkchoice: cache replayed states, skip read replay signatures](https://github.com/erigontech/erigon/pull/26163#pullrequestreview-5873424438) - 2026-11-12
+* [Review] [Review on: cl/beacon/handler: fix validator_inclusion panic on unknown validators](https://github.com/erigontech/erigon/pull/26160#pullrequestreview-5873115390) - 2026-11-12
+* [Commit] [cl/phase1/network: keep the held Gloas tip and its peer when the stage is cancelled during processing (#26040)](https://github.com/erigontech/erigon/commit/1c59e18f387c07952d3c332a305d7164a5ca0f0c) - 2026-11-12
 ## Q3 2026
 
 

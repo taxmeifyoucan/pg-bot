@@ -82,6 +82,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5830346529) - 2026-11-09
 * [Review] [Review on: fix(discovery): keep a node at the endpoint it was verified at](https://github.com/NethermindEth/nethermind/pull/15781#pullrequestreview-5860433050) - 2026-11-11
 * [Review] [Review on: fix(rpc): cancel queued module rentals on transport abort](https://github.com/NethermindEth/nethermind/pull/15777#pullrequestreview-5859239266) - 2026-11-11
+* [Review] [Review on: feat(db): add rewrite-db and compact-db commands to apply RocksDB config changes](https://github.com/NethermindEth/nethermind/pull/15406#pullrequestreview-5884718519) - 2026-11-13
+* [Review] [Review on: fix(rpc): report a pending frame tx's gas at the next block's spec](https://github.com/NethermindEth/nethermind/pull/15780#pullrequestreview-5879233205) - 2026-11-12
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

@@ -80,6 +80,12 @@ Team: Grandine
 * [Review] [Review on: Bump rusqlite to 0.41 and refinery to 0.10](https://github.com/grandinetech/grandine/pull/1035#pullrequestreview-5844479168) - 2026-11-10
 * [Review] [Review on: Accept Gloas data column sidecars at the finalized slot](https://github.com/grandinetech/grandine/pull/1030#pullrequestreview-5843664048) - 2026-11-10
 * [Review] [Review on: Keep beacon node connection failures out of the default log as traces ](https://github.com/grandinetech/grandine/pull/1038#pullrequestreview-5858693876) - 2026-11-11
+* [Review] [Review on: Make execution payload envelope validation generic](https://github.com/grandinetech/grandine/pull/1036#pullrequestreview-5874872926) - 2026-11-12
+* [Pull Request] [Verify execution payload block hash](https://github.com/grandinetech/grandine/pull/1040) - 2026-11-12
+* [Issue] [Verify execution payload block hash](https://github.com/grandinetech/grandine/issues/1041) - 2026-11-12
+* [Issue] [Implement missing things for proposer reorgs](https://github.com/grandinetech/grandine/issues/1042) - 2026-11-12
+* [Commit] [Verify execution payload block hash](https://github.com/grandinetech/grandine/commit/6b444e51884ffb843fedd71a2f0b80d33179b578) - 2026-11-12
+* [Commit] [Show state cache prune entry skipped message as debug message](https://github.com/grandinetech/grandine/commit/31670c27bb01c1ff1e458e2692493268b5154aca) - 2026-11-12
 ## Q3 2026
 
 

@@ -124,6 +124,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(zkevm): run the 200M MODEXP benchmark blocks again](https://github.com/NethermindEth/nethermind/pull/15800#pullrequestreview-5866053078) - 2026-11-11
 * [Review] [Review on: feat(zkevm): adopt tests-zkevm@v21.0.7](https://github.com/NethermindEth/nethermind/pull/15782#pullrequestreview-5860986141) - 2026-11-11
 * [Commit] [feat(zkevm): adopt tests-zkevm@v21.0.7 (#15782)](https://github.com/NethermindEth/nethermind/commit/10b842dcbb46033f4c93ff1b5cdebf19c0658881) - 2026-11-12
+* [Review] [Review on: feat(eip8288)!: take the ABI 12 Lean backend from Nethermind.Crypto.Lean with Keccak deps hashes and mixed aggregation](https://github.com/NethermindEth/nethermind/pull/15829#pullrequestreview-5883328992) - 2026-11-12
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

@@ -238,6 +238,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5628900503) - 2026-10-23
 * [Review] [Review on: fix(rpc): replay copies of block transactions in trace and debug replays with overrides](https://github.com/NethermindEth/nethermind/pull/15770#pullrequestreview-5858420442) - 2026-11-11
 * [Review] [Review on: perf(evm): read ADDMOD and MULMOD operands in place and write the result into the slot](https://github.com/NethermindEth/nethermind/pull/15790#pullrequestreview-5858830401) - 2026-11-11
+* [Pull Request] [EIP-8288: batch leaf proofs (prototype)](https://github.com/NethermindEth/nethermind/pull/15842) - 2026-11-12
+* [Review] [Review on: EIP-8288: batch leaf proofs (prototype)](https://github.com/NethermindEth/nethermind/pull/15842#pullrequestreview-5882211809) - 2026-11-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

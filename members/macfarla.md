@@ -244,6 +244,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Report missing required evmtool inputs as usage errors (#11938)](https://github.com/besu-eth/besu/commit/c64f404a48ff80bea6dbc1ceb45c33869e98ae29) - 2026-11-12
 * [Commit] [Keep the message call processor's config when a simulation overrides precompiles (#11732)](https://github.com/besu-eth/besu/commit/f6d1442835a8e947c43c962ce9a50de04acf74c4) - 2026-11-11
 * [Commit] [Propagate Bonsai account proof failures instead of returning empty (#11673)](https://github.com/besu-eth/besu/commit/2846bb4a2dd8080f88089e8447d1ec0e14d3f7cd) - 2026-11-11
+* [Pull Request] [Rebuild the evmtool Docker image from the current distribution](https://github.com/besu-eth/besu/pull/11965) - 2026-11-13
+* [Pull Request] [Update Docker base images to resolve CVE-2026-109518](https://github.com/besu-eth/besu/pull/11964) - 2026-11-13
+* [Review] [Review on: Reject block overrides on eth_call, eth_estimateGas, eth_createAccessList and debug_traceCall](https://github.com/besu-eth/besu/pull/11629#pullrequestreview-5885785002) - 2026-11-13
+* [Review] [Review on: Return Unknown block from admin_logsRepairCache for an unknown block](https://github.com/besu-eth/besu/pull/11928#pullrequestreview-5885726547) - 2026-11-13
+* [Review] [Review on: fix: reject malformed JSON-RPC address parameters](https://github.com/besu-eth/besu/pull/11888#pullrequestreview-5871703679) - 2026-11-12
+* [Review] [Review on: Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871#pullrequestreview-5885354799) - 2026-11-13
+* [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-5885231524) - 2026-11-13
+* [Pull Request] [Include datatypes in the Plugin API compatibility check](https://github.com/besu-eth/besu/pull/11963) - 2026-11-13
+* [Review] [Review on: Stop log bloom caching when the EthScheduler stops](https://github.com/besu-eth/besu/pull/11931#pullrequestreview-5885063050) - 2026-11-13
+* [Review] [Review on: Rebuild the log bloom cache segment after a dropped block event](https://github.com/besu-eth/besu/pull/11932#pullrequestreview-5885095625) - 2026-11-13
+* [Review] [Review on: Use the block blob base fee for unpriced calls without blob fields](https://github.com/besu-eth/besu/pull/11890#pullrequestreview-5884312828) - 2026-11-13
+* [Review] [Review on: Update security report email](https://github.com/besu-eth/besu/pull/11953#pullrequestreview-5872692270) - 2026-11-12
+* [Issue] [Test that an in-process eth_estimateGas call keeps strict: true priced](https://github.com/besu-eth/besu/issues/11962) - 2026-11-13
+* [Issue] [Add eth_estimateGas spec fixtures that pin the -32004 insufficient funds error](https://github.com/besu-eth/besu/issues/11961) - 2026-11-13
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

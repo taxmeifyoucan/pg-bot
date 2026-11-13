@@ -87,6 +87,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: fix peerManager formatting for biome 2.6](https://github.com/ChainSafe/lodestar/pull/10593#pullrequestreview-5854667312) - 2026-11-11
 * [Commit] [perf: rework node pool allocation strategy (#10595)](https://github.com/ChainSafe/lodestar/commit/b74e8e576d37ff1b0ac221972ce132b764d0a9c4) - 2026-11-11
 * [Commit] [refactor(state-transition): remove unused blockToHeader (#10594)](https://github.com/ChainSafe/lodestar/commit/41b1b8739483207935718e2ef2b7c70a57f3fd6f) - 2026-11-11
+* [Pull Request] [perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610) - 2026-11-12
+* [Review] [Review on: fix: harden sync committee gossip validation](https://github.com/ChainSafe/lodestar/pull/10607#pullrequestreview-5872476348) - 2026-11-12
+* [Review] [Review on: perf(native): stop using page_allocator for short-lived allocations](https://github.com/ChainSafe/lodestar/pull/10612#pullrequestreview-5878007168) - 2026-11-12
+* [Review] [Review on: perf: verify attestation signatures against cached committee pubkeys](https://github.com/ChainSafe/lodestar/pull/10568#pullrequestreview-5870934018) - 2026-11-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

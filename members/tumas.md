@@ -54,6 +54,8 @@ Team: Grandine
 * [Pull Request] [Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/pull/1013) - 2026-11-11
 * [Commit] [Keep beacon node connection failures out of the default log as traces](https://github.com/grandinetech/grandine/commit/343918f4137925ecc2f8865efb69635731f08afa) - 2026-11-11
 * [Commit] [Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/commit/998c46aa322a315929d574854fb1aee07d5aa060) - 2026-11-11
+* [Review] [Review on: Verify execution payload block hash](https://github.com/grandinetech/grandine/pull/1040#pullrequestreview-5873512454) - 2026-11-12
+* [Commit] [Add --execution-endpoint and deprecate --eth1-rpc-urls](https://github.com/grandinetech/grandine/commit/78f9d5508b2544b2a7dc17ff87d0180df12d8bd0) - 2026-11-12
 ## Q3 2026
 
 

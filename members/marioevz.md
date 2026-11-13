@@ -69,6 +69,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-client-clis): print traces as a compact table](https://github.com/ethereum/execution-specs/pull/3869#pullrequestreview-5634455605) - 2026-10-23
 * [Review] [Review on: fix(test-tests): reset the default chain id around every unit test](https://github.com/ethereum/execution-specs/pull/3950#pullrequestreview-5728251159) - 2026-11-01
 * [Pull Request] [feat(spec-specs): add EIP-8141 LEANSPHINCS signature scheme from ethereum/EIPs#12616](https://github.com/ethereum/execution-specs/pull/3957) - 2026-11-05
+* [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5883429079) - 2026-11-12
+* [Review] [Review on: feat(ci,doc): add a contribution policy and an outside contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5883093142) - 2026-11-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

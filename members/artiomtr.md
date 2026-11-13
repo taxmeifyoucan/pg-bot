@@ -61,6 +61,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Optimize BLS public key aggregation](https://github.com/grandinetech/grandine/commit/65f942833ab6f358775bffff457ed7c504d188ed) - 2026-11-10
 * [Commit] [Revert unstable pre-release publishing](https://github.com/grandinetech/grandine/commit/2084719229f33d6fc2a9cceeb09bb5d091e7df8d) - 2026-11-10
 * [Review] [Review on: Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/pull/1013#pullrequestreview-5858168294) - 2026-11-11
+* [Review] [Review on: Add --execution-endpoint and deprecate --eth1-rpc-urls](https://github.com/grandinetech/grandine/pull/1039#pullrequestreview-5872323342) - 2026-11-12
 ## Q3 2026
 
 

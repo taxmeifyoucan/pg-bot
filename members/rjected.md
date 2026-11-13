@@ -33,6 +33,7 @@ Team: Reth
 * [Review] [Review on: fix(net): reject banned and untrusted inbound peers before session activation](https://github.com/paradigmxyz/reth/pull/28360#pullrequestreview-5832636797) - 2026-11-09
 * [Review] [Review on: perf(net): skip decoding unrequested responses](https://github.com/paradigmxyz/reth/pull/28403#pullrequestreview-5845312551) - 2026-11-10
 * [Review] [Review on: fix(txpool): run blob replacement overdraft check for head replacements](https://github.com/paradigmxyz/reth/pull/28356#pullrequestreview-5845476140) - 2026-11-10
+* [Review] [Review on: perf(rpc): serialize block access lists once](https://github.com/paradigmxyz/reth/pull/28498#pullrequestreview-5882113564) - 2026-11-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

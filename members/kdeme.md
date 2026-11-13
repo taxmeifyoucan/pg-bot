@@ -107,6 +107,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: Align NewPayloadRequest and result SSZ types with Gloas](https://github.com/status-im/nimbus-eth1/pull/5129) - 2026-11-02
 * [Review] [Review on: Update nim-eth to latest and remove deprecated imports](https://github.com/status-im/nimbus-eth1/pull/5133#pullrequestreview-5767120760) - 2026-11-04
 * [Review] [Review on: Inline EVM opcode handlers](https://github.com/status-im/nimbus-eth1/pull/5139#pullrequestreview-5846031519) - 2026-11-10
+* [Pull Request] [engine_api: tighten raises on newPayload and getPayloadBodies](https://github.com/status-im/nimbus-eth1/pull/5154) - 2026-11-12
+* [Pull Request] [Check for overflow in transaction maximum cost computation](https://github.com/status-im/nimbus-eth1/pull/5155) - 2026-11-12
+* [Review] [Review on: fix(rpc): return INVALID for REST+SSZ payloads that fail RLP decoding](https://github.com/status-im/nimbus-eth1/pull/5145#pullrequestreview-5877485450) - 2026-11-12
+* [Commit] [engine_api: tighten raises on newPayload and getPayloadBodies (#5154)](https://github.com/status-im/nimbus-eth1/commit/6ae2ea1734ae3bde457a493f4486c879ecfa0cef) - 2026-11-12
+* [Commit] [Check for overflow in transaction maximum cost computation (#5155)](https://github.com/status-im/nimbus-eth1/commit/d1a184504b56671e83030065de13f6900c8de1f9) - 2026-11-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

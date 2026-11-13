@@ -23,6 +23,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [cmd/keeper: add missing klauspost/cpuid/v2 dependency (#36093)](https://github.com/ethereum/go-ethereum/commit/c863eecbddb2c9db2cd2f07bb1db80740d75a5b3) - 2026-11-09
 * [Commit] [build, cmd/keeper: speed up zkvm guest by mocking packages that add to startup time (#36078)](https://github.com/ethereum/go-ethereum/commit/667498666f7bdcd335793babf1ad94c6ad7c3fcc) - 2026-11-09
 * [Commit] [trie, core/state: remove the unified binary trie and eip4762 (#36091)](https://github.com/ethereum/go-ethereum/commit/ddaa6957127ef0c4b7d41e5cbd9c19e260c0a42f) - 2026-11-10
+* [Pull Request] [core/vm, crypto/kzg4844: support the zisk BLS + bn254 precompiles](https://github.com/ethereum/go-ethereum/pull/36121) - 2026-11-12
+* [Pull Request] [go.mod, crypto, cmd/keeper: use zisk's keccak precompile](https://github.com/ethereum/go-ethereum/pull/36120) - 2026-11-12
 ## Q3 2026
 
 

@@ -804,6 +804,66 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [refactor(evm): record the EIP-7906 ASSERT diff in the transaction processor (#15783)](https://github.com/NethermindEth/nethermind/commit/afa3fc7c404ee6ed9a34fc620983d2ffde9d192e) - 2026-11-11
 * [Commit] [feat(stateless): add a trusted-input zkVM guest, with Airbender performance work (#15427)](https://github.com/NethermindEth/nethermind/commit/9f21c651b3b0baeb27477f6d919fd55a544aa840) - 2026-11-11
 * [Commit] [test(benchmark): run the RLP encode benchmarks again (#15784)](https://github.com/NethermindEth/nethermind/commit/da2c5b4ed4600dfef6c7aba852b1a0dafda01818) - 2026-11-11
+* [Pull Request] [perf(evm): read the CREATE operands in their popped stack slots](https://github.com/NethermindEth/nethermind/pull/15855) - 2026-11-13
+* [Pull Request] [perf(zkevm): fold an ISZERO that follows a comparison into the comparison's guest handler](https://github.com/NethermindEth/nethermind/pull/15854) - 2026-11-12
+* [Pull Request] [perf(zkevm): run MOD in a fused guest handler](https://github.com/NethermindEth/nethermind/pull/15851) - 2026-11-12
+* [Pull Request] [perf(zkevm): fuse MCOPY and trim the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15818) - 2026-11-12
+* [Review] [Review on: perf(zkevm): fuse MCOPY and trim the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15818#pullrequestreview-5874877562) - 2026-11-12
+* [Pull Request] [perf(bal): reset a pooled account record once, when the slice clears](https://github.com/NethermindEth/nethermind/pull/15843) - 2026-11-12
+* [Pull Request] [perf(evm): encode a 64-bit nonce directly when deriving a CREATE address](https://github.com/NethermindEth/nethermind/pull/15846) - 2026-11-12
+* [Review] [Review on: perf(evm): keep only the set fields in the intrinsic gas memo](https://github.com/NethermindEth/nethermind/pull/15844#pullrequestreview-5884416009) - 2026-11-13
+* [Pull Request] [perf(bal): seal TracedAccessWorldState](https://github.com/NethermindEth/nethermind/pull/15850) - 2026-11-12
+* [Pull Request] [perf(zkevm): count leading zeros in a fused CLZ guest handler](https://github.com/NethermindEth/nethermind/pull/15849) - 2026-11-12
+* [Review] [Review on: perf(zkevm): count leading zeros in a fused CLZ guest handler](https://github.com/NethermindEth/nethermind/pull/15849#pullrequestreview-5884301601) - 2026-11-13
+* [Pull Request] [perf(zkevm): run CALL with value in the fused guest call handler](https://github.com/NethermindEth/nethermind/pull/15848) - 2026-11-12
+* [Pull Request] [perf(zkevm): push the frame and transaction context words with fused guest handlers](https://github.com/NethermindEth/nethermind/pull/15827) - 2026-11-12
+* [Review] [Review on: perf(zkevm): push the frame and transaction context words with fused guest handlers](https://github.com/NethermindEth/nethermind/pull/15827#pullrequestreview-5880870534) - 2026-11-12
+* [Pull Request] [perf(bal): size the generated block access list from the block's own list](https://github.com/NethermindEth/nethermind/pull/15847) - 2026-11-12
+* [Review] [Review on: perf(bal): size the generated block access list from the block's own list](https://github.com/NethermindEth/nethermind/pull/15847#pullrequestreview-5884272630) - 2026-11-13
+* [Pull Request] [perf(zkevm): fuse the BLOBHASH guest handler](https://github.com/NethermindEth/nethermind/pull/15817) - 2026-11-12
+* [Review] [Review on: perf(zkevm): fuse the BLOBHASH guest handler](https://github.com/NethermindEth/nethermind/pull/15817#pullrequestreview-5874870942) - 2026-11-12
+* [Pull Request] [perf(zkevm): copy into written memory in a call-free data-copy guest handler](https://github.com/NethermindEth/nethermind/pull/15835) - 2026-11-12
+* [Review] [Review on: perf(zkevm): copy into written memory in a call-free data-copy guest handler](https://github.com/NethermindEth/nethermind/pull/15835#pullrequestreview-5879958332) - 2026-11-12
+* [Pull Request] [perf(zkevm): replace the BLOCKHASH number with its hash in a fused guest handler](https://github.com/NethermindEth/nethermind/pull/15828) - 2026-11-12
+* [Review] [Review on: perf(zkevm): replace the BLOCKHASH number with its hash in a fused guest handler](https://github.com/NethermindEth/nethermind/pull/15828#pullrequestreview-5877269227) - 2026-11-12
+* [Pull Request] [perf(zkevm): give a DIV dividend below its divisor a zero quotient in the front handler](https://github.com/NethermindEth/nethermind/pull/15852) - 2026-11-12
+* [Pull Request] [perf(zkevm): run SMOD of non-negative operands through the fused MOD handler](https://github.com/NethermindEth/nethermind/pull/15853) - 2026-11-12
+* [Pull Request] [fix(zkevm): run frames with less gas than code on handlers that test every charge](https://github.com/NethermindEth/nethermind/pull/15824) - 2026-11-12
+* [Review] [Review on: fix(zkevm): run frames with less gas than code on handlers that test every charge](https://github.com/NethermindEth/nethermind/pull/15824#pullrequestreview-5876551496) - 2026-11-12
+* [Pull Request] [perf(bal): test the change of a traced balance or code-hash read before copying it](https://github.com/NethermindEth/nethermind/pull/15830) - 2026-11-12
+* [Pull Request] [perf(bal): skip sorting validation-index rows that are already in order](https://github.com/NethermindEth/nethermind/pull/15840) - 2026-11-12
+* [Pull Request] [perf(zkevm): run the fused SLOAD and SSTORE guest handlers under EIP-8038](https://github.com/NethermindEth/nethermind/pull/15808) - 2026-11-12
+* [Review] [Review on: perf(zkevm): run the fused SLOAD and SSTORE guest handlers under EIP-8038](https://github.com/NethermindEth/nethermind/pull/15808#pullrequestreview-5874949063) - 2026-11-12
+* [Pull Request] [fix(rpc): accept a block hash as newestBlock in eth_feeHistory](https://github.com/NethermindEth/nethermind/pull/15837) - 2026-11-12
+* [Review] [Review on: fix(rpc): accept a block hash as newestBlock in eth_feeHistory](https://github.com/NethermindEth/nethermind/pull/15837#pullrequestreview-5879959076) - 2026-11-12
+* [Pull Request] [fix(rpc): list the eth protocol in parity_netPeers only for peers with an eth handler](https://github.com/NethermindEth/nethermind/pull/15838) - 2026-11-12
+* [Review] [Review on: fix(tracing): run block replays on copies of the block's transactions](https://github.com/NethermindEth/nethermind/pull/15770#pullrequestreview-5871114666) - 2026-11-12
+* [Pull Request] [perf(zkevm): rent the inline precompile frame from the per-depth frame cache](https://github.com/NethermindEth/nethermind/pull/15819) - 2026-11-12
+* [Review] [Review on: perf(zkevm): rent the inline precompile frame from the per-depth frame cache](https://github.com/NethermindEth/nethermind/pull/15819#pullrequestreview-5877391032) - 2026-11-12
+* [Pull Request] [fix(rpc): align call state overrides with the spec: move errors, move order and override keys](https://github.com/NethermindEth/nethermind/pull/15839) - 2026-11-12
+* [Review] [Review on: fix(rpc): align call state overrides with the spec: move errors, move order and override keys](https://github.com/NethermindEth/nethermind/pull/15839#pullrequestreview-5880809214) - 2026-11-12
+* [Pull Request] [perf(bal): resolve a storage write's change and prestate with one slot lookup](https://github.com/NethermindEth/nethermind/pull/15820) - 2026-11-12
+* [Review] [Review on: perf(bal): resolve a storage write's change and prestate with one slot lookup](https://github.com/NethermindEth/nethermind/pull/15820#pullrequestreview-5877445279) - 2026-11-12
+* [Pull Request] [perf(zkevm): fuse SELFBALANCE and write the DIV quotient in place on ZisK](https://github.com/NethermindEth/nethermind/pull/15807) - 2026-11-12
+* [Review] [Review on: perf(zkevm): fuse SELFBALANCE and write the DIV quotient in place on ZisK](https://github.com/NethermindEth/nethermind/pull/15807#pullrequestreview-5874869407) - 2026-11-12
+* [Pull Request] [refactor(rlp): replace the Rlp wrapper object with byte arrays](https://github.com/NethermindEth/nethermind/pull/15805) - 2026-11-12
+* [Review] [Review on: refactor(rlp): replace the Rlp wrapper object with byte arrays](https://github.com/NethermindEth/nethermind/pull/15805#pullrequestreview-5877292677) - 2026-11-12
+* [Commit] [perf(zkevm): push the frame and transaction context words with fused guest handlers (#15827)](https://github.com/NethermindEth/nethermind/commit/d918e8a208a3bab0df565d12f9ed0dd943135f7f) - 2026-11-13
+* [Commit] [perf(zkevm): fuse the BLOBHASH guest handler (#15817)](https://github.com/NethermindEth/nethermind/commit/3f274d708e6aec24c8bb7009a0c4ae114f21f54b) - 2026-11-13
+* [Commit] [perf(bal): resolve a storage write's change and prestate with one slot lookup (#15820)](https://github.com/NethermindEth/nethermind/commit/4395143731a270f50c0a9f54610996367e5822be) - 2026-11-12
+* [Commit] [perf(zkevm): rent the inline precompile frame from the per-depth frame cache (#15819)](https://github.com/NethermindEth/nethermind/commit/aa89a0635ccaf1781474e81746019096e8864c89) - 2026-11-12
+* [Commit] [perf(zkevm): fuse SELFBALANCE and write the DIV quotient in place on ZisK (#15807)](https://github.com/NethermindEth/nethermind/commit/bda101eedb19920067527a7ccbb64552c57be942) - 2026-11-12
+* [Commit] [perf(bal): skip the redundant balance-change probe of a zero credit (#15816)](https://github.com/NethermindEth/nethermind/commit/ec79923b0d76293ad5a04278056e91d32b5726e8) - 2026-11-12
+* [Commit] [perf(zkevm): cut per-account block-access-list overhead (#15815)](https://github.com/NethermindEth/nethermind/commit/a2bee11448434fa7a12e6b4d05d75705b5a71926) - 2026-11-12
+* [Commit] [test(evm): retry the swizzled-hash allocation window when tier-up allocates (#15813)](https://github.com/NethermindEth/nethermind/commit/5c9cf032a6c7fcb6d27cc357329ed08f9fc99455) - 2026-11-12
+* [Commit] [perf(zkevm): skip the second bounds check when resuming an edited node hash (#15810)](https://github.com/NethermindEth/nethermind/commit/33c07f4d3f9e6ed9214d5e82eceabb6d3376aa4b) - 2026-11-12
+* [Commit] [perf(trie): check eight branch slots per step when patching a full branch (#15809)](https://github.com/NethermindEth/nethermind/commit/6e9da604977cd8331967ca626c60069293e4f348) - 2026-11-12
+* [Commit] [perf(zkevm): push the block-context words with fused guest handlers (#15806)](https://github.com/NethermindEth/nethermind/commit/63def46ed6ce6c00d81634f520e8d346e3f67df0) - 2026-11-12
+* [Commit] [perf(zkevm): check a witness node with native-width arithmetic (#15788)](https://github.com/NethermindEth/nethermind/commit/69440ecefaf7ac080b3d235fe2520e18e116fe79) - 2026-11-12
+* [Commit] [perf(zkevm): use ZisK 1.4 library calls for MODEXP, SHA256, SDIV, SMOD and RIPEMD160 (#15785)](https://github.com/NethermindEth/nethermind/commit/e139e8504ff67bd6b91dadc1957037354cd9ccd5) - 2026-11-12
+* [Commit] [refactor(rlp): replace the old RLP core with FluentRlp (#15458)](https://github.com/NethermindEth/nethermind/commit/e82d5b0c34b3ae7c8542a507c8c275ecfc281f6c) - 2026-11-12
+* [Commit] [test(txpool): run the concurrent processed blob read test on dedicated threads (#15798)](https://github.com/NethermindEth/nethermind/commit/ac4b7a4eea51878aaf8503f741ef239c1a1ed51a) - 2026-11-12
+* [Commit] [ci(zkevm): run the 200M MODEXP benchmark blocks again (#15800)](https://github.com/NethermindEth/nethermind/commit/3f27cd505b2e9dbf746b1380655b61840e810302) - 2026-11-12
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

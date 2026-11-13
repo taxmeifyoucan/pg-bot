@@ -73,6 +73,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Do not fetch data column sidecars for blocks received by root before they are validated.](https://github.com/OffchainLabs/prysm/pull/17839#pullrequestreview-5791312313) - 2026-11-05
 * [Commit] [builder: add a timeout to the relay status checks (#17832)](https://github.com/OffchainLabs/prysm/commit/2f558c80b534ff079b254d76d3600f9bbddbb463) - 2026-11-06
 * [Review] [Review on: web3signer: redact credentials from signer URLs in errors and traces](https://github.com/OffchainLabs/prysm/pull/17826#pullrequestreview-5830697980) - 2026-11-09
+* [Review] [Review on: Ignore, without queuing it or requesting its parent, a gossip block whose parent is unknown when its proposer is not the one the head state's proposer lookahead expects at its slot.](https://github.com/OffchainLabs/prysm/pull/17843#pullrequestreview-5878349411) - 2026-11-12
+* [Review] [Review on: Skip blocks received by root whose proposer is not the expected one.](https://github.com/OffchainLabs/prysm/pull/17849#pullrequestreview-5878355096) - 2026-11-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

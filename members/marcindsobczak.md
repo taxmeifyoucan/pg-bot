@@ -239,6 +239,24 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [feat(rpc): add eth_feeHistory concurrency and block count limits (#15769)](https://github.com/NethermindEth/nethermind/commit/30572758acba8ef0f1d3fc309cb3e3762f453d07) - 2026-11-11
 * [Commit] [fix(era): replace incomplete epoch exports and reject ambiguous era1 files (#15651)](https://github.com/NethermindEth/nethermind/commit/f2de5af3818a05dbae4d4f617c5541e4132cb93e) - 2026-11-11
 * [Commit] [test(fixtures): run blockchain tests that switch to proof of stake at a total difficulty (#15750)](https://github.com/NethermindEth/nethermind/commit/09d90320afcf126fbfbd6545481596c6d268a02f) - 2026-11-11
+* [Review] [Review on: perf(zkevm): fuse MCOPY and trim the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15818#pullrequestreview-5874571535) - 2026-11-12
+* [Review] [Review on: fix(runner): register the receipt converter only once](https://github.com/NethermindEth/nethermind/pull/15822#pullrequestreview-5878242847) - 2026-11-12
+* [Review] [Review on: perf(zkevm): push the frame and transaction context words with fused guest handlers](https://github.com/NethermindEth/nethermind/pull/15827#pullrequestreview-5879928887) - 2026-11-12
+* [Review] [Review on: perf(zkevm): fuse the BLOBHASH guest handler](https://github.com/NethermindEth/nethermind/pull/15817#pullrequestreview-5873868737) - 2026-11-12
+* [Review] [Review on: perf(zkevm): replace the BLOCKHASH number with its hash in a fused guest handler](https://github.com/NethermindEth/nethermind/pull/15828#pullrequestreview-5879939203) - 2026-11-12
+* [Review] [Review on: fix(zkevm): run frames with less gas than code on handlers that test every charge](https://github.com/NethermindEth/nethermind/pull/15824#pullrequestreview-5878234649) - 2026-11-12
+* [Pull Request] [test(flat): move the shared-bloom tests into the compactor and loader fixtures](https://github.com/NethermindEth/nethermind/pull/15832) - 2026-11-12
+* [Review] [Review on: test(flat): move the shared-bloom tests into the compactor and loader fixtures](https://github.com/NethermindEth/nethermind/pull/15832#pullrequestreview-5877925702) - 2026-11-12
+* [Review] [Review on: perf(zkevm): run the fused SLOAD and SSTORE guest handlers under EIP-8038](https://github.com/NethermindEth/nethermind/pull/15808#pullrequestreview-5872379130) - 2026-11-12
+* [Review] [Review on: fix(tracing): run block replays on copies of the block's transactions](https://github.com/NethermindEth/nethermind/pull/15770#pullrequestreview-5874274517) - 2026-11-12
+* [Review] [Review on: perf(zkevm): rent the inline precompile frame from the per-depth frame cache](https://github.com/NethermindEth/nethermind/pull/15819#pullrequestreview-5876372713) - 2026-11-12
+* [Review] [Review on: perf(bal): resolve a storage write's change and prestate with one slot lookup](https://github.com/NethermindEth/nethermind/pull/15820#pullrequestreview-5875822801) - 2026-11-12
+* [Review] [Review on: perf(zkevm): fuse SELFBALANCE and write the DIV quotient in place on ZisK](https://github.com/NethermindEth/nethermind/pull/15807#pullrequestreview-5872073118) - 2026-11-12
+* [Review] [Review on: refactor(rlp): replace the Rlp wrapper object with byte arrays](https://github.com/NethermindEth/nethermind/pull/15805#pullrequestreview-5876118267) - 2026-11-12
+* [Commit] [fix(history): decode the blob compaction pointer with DecodePointer (FIX MASTER) (#15825)](https://github.com/NethermindEth/nethermind/commit/302b3b16f88b6b4b09dc210f0439dd8dabe8da94) - 2026-11-12
+* [Commit] [fix(flat): share a persisted-snapshot bloom only over ranges without a storage clear (#15812)](https://github.com/NethermindEth/nethermind/commit/d94e0c27cb1e06a3e08352a45b7b9cfe6c9fd927) - 2026-11-12
+* [Commit] [fix(rpc)!: return 4444 from eth_getTransactionReceipt for pruned history (#15796)](https://github.com/NethermindEth/nethermind/commit/7d789ec7787481f467901b246f187548d92ce547) - 2026-11-12
+* [Commit] [fix(discovery): keep a node at the endpoint it was verified at (#15781)](https://github.com/NethermindEth/nethermind/commit/21624a8ad1c17d9abe7775df26a020ac5fab004b) - 2026-11-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

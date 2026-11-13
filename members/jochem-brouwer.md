@@ -64,6 +64,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Batched KZG Point Evaluation via EIP-2537](https://github.com/ethereum/EIPs/pull/12589#pullrequestreview-5757952307) - 2026-11-03
 * [Review] [Review on: Add EIP: Permanent EOA Delegation Opt-Out](https://github.com/ethereum/EIPs/pull/12600#pullrequestreview-5758251741) - 2026-11-03
 * [Review] [Review on: Add EIP: Transaction Validity Proofs](https://github.com/ethereum/EIPs/pull/12075#pullrequestreview-5756664213) - 2026-11-03
+* [Pull Request] [Add AGENTS.md](https://github.com/ethereum/EIPs/pull/12661) - 2026-11-12
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

@@ -22,6 +22,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 * [Pull Request] [Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789) - 2026-11-10
 * [Commit] [Add support of pending parent node to the discount in FCR (#5789)](https://github.com/ethereum/consensus-specs/commit/a6fe2b9710e05dad78be70e4413658b40739cf2d) - 2026-11-10
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5870502154) - 2026-11-12
+* [Review] [Review on: Fix attester slashing event scheduling](https://github.com/ethereum/consensus-specs/pull/5810#pullrequestreview-5872158523) - 2026-11-12
+* [Pull Request] [Broadcast missed block and payload](https://github.com/ethereum/consensus-specs/pull/5819) - 2026-11-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5828960336) - 2026-11-09
 ## Q3 2026

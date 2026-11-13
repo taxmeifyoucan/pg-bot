@@ -90,6 +90,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(doc): switch the docs site to Zensical's modern look (#3977)](https://github.com/ethereum/execution-specs/commit/fb423f752f2096a3758e5f790727e38662c8807c) - 2026-11-11
 * [Commit] [chore(docs): build the spec reference with rdocc (#3974)](https://github.com/ethereum/execution-specs/commit/269d3a1d2377a15dc8cf45f66e10b0bb20ebe1ee) - 2026-11-11
 * [Commit] [chore(doc,ci): build the docs site with Zensical instead of MkDocs (#3975)](https://github.com/ethereum/execution-specs/commit/342cc0d1ddb119f6e8725cb81e00473718700714) - 2026-11-11
+* [Pull Request] [fix(test-consume): report enginex and wirex tests whose client fails to start](https://github.com/ethereum/execution-specs/pull/3990) - 2026-11-12
+* [Review] [Review on: fix(test-consume): report enginex and wirex tests whose client fails to start](https://github.com/ethereum/execution-specs/pull/3990#pullrequestreview-5875916088) - 2026-11-12
+* [Commit] [feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch (#3964)](https://github.com/ethereum/execution-specs/commit/4c8ae33f903574a1a07ad578f2b10f30be253cf8) - 2026-11-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

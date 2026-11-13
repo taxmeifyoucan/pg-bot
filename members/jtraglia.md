@@ -82,6 +82,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Skip seen bitsets of a different length in `is_non_strict_superset` (#5766)](https://github.com/ethereum/consensus-specs/commit/1995f56ef680fd4bbae99ba0f912f37b20969a3b) - 2026-11-10
 * [Pull Request] [Add PQ registration requests (EIP-8483)](https://github.com/ethereum/consensus-specs/pull/5809) - 2026-11-11
 * [Review] [Review on: Add PQ registration requests (EIP-8483)](https://github.com/ethereum/consensus-specs/pull/5809#pullrequestreview-5865733876) - 2026-11-11
+* [Pull Request] [Sign builder bids with the bid epoch's fork version](https://github.com/ethereum/consensus-specs/pull/5822) - 2026-11-12
+* [Review] [Review on: Remove the eth1 bridge assert from `upgrade_to_heze`](https://github.com/ethereum/consensus-specs/pull/5813#pullrequestreview-5879419680) - 2026-11-12
+* [Pull Request] [Add payload consistency checks to envelope gossip validation](https://github.com/ethereum/consensus-specs/pull/5821) - 2026-11-12
+* [Commit] [Unset fork slot payload availability in `upgrade_to_gloas` (#5808)](https://github.com/ethereum/consensus-specs/commit/e3e2d0128458c2f56092bd459d3c5a85cdf80fcd) - 2026-11-12
+* [Commit] [Add payload consistency checks to envelope gossip validation (#5821)](https://github.com/ethereum/consensus-specs/commit/44be32373afdb87496f3f68c1668f7e7d72aa662) - 2026-11-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

@@ -160,6 +160,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Skip blocks received by root whose proposer is not the expected one.](https://github.com/OffchainLabs/prysm/pull/17849) - 2026-11-09
 * [Review] [Review on: Export slashing protection for keys with no proposer history](https://github.com/OffchainLabs/prysm/pull/17837#pullrequestreview-5840536909) - 2026-11-10
 * [Review] [Review on: Ignore head-state-dependent voluntary exit gossip failures](https://github.com/OffchainLabs/prysm/pull/17798#pullrequestreview-5840451716) - 2026-11-10
+* [Review] [Review on: Request unknown attestation blocks as soon as an attestation is verified](https://github.com/OffchainLabs/prysm/pull/17858#pullrequestreview-5876348916) - 2026-11-12
+* [Review] [Review on: Drop Gloas from unsupportedVersions](https://github.com/OffchainLabs/prysm/pull/17853#pullrequestreview-5872635438) - 2026-11-12
+* [Review] [Review on: Add Gloas to the light client test helper](https://github.com/OffchainLabs/prysm/pull/17852#pullrequestreview-5872516903) - 2026-11-12
+* [Review] [Review on: Optimise DA wait times for partial columns in the worst case of (super node + backfill + EL dropping blobs)](https://github.com/OffchainLabs/prysm/pull/17791#pullrequestreview-5872223297) - 2026-11-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

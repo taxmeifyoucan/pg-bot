@@ -925,6 +925,46 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc: bound the storage an eth_simulateV1 override replaces (#25994)](https://github.com/erigontech/erigon/commit/e365d6626471e2341459dc503766b312278c9169) - 2026-11-12
 * [Commit] [execution/state: match the BAL sidecar without sorting the builder (#26082)](https://github.com/erigontech/erigon/commit/8fd21b528041b4fe80c8c9e578b05ef9f5ff9593) - 2026-11-11
 * [Commit] [execution/state: take a slot's prev value from its write record (#26041)](https://github.com/erigontech/erigon/commit/b3c2ca559cfa0f57083d2cf6b2d46a917dc57b06) - 2026-11-11
+* [Pull Request] [common/dbg, execution, ci: remove EXEC3_PARALLEL](https://github.com/erigontech/erigon/pull/26240) - 2026-11-13
+* [Pull Request] [execution: remove the serial executor](https://github.com/erigontech/erigon/pull/26239) - 2026-11-13
+* [Review] [Review on: execution: remove the serial executor](https://github.com/erigontech/erigon/pull/26239#pullrequestreview-5886008045) - 2026-11-13
+* [Pull Request] [go.mod: upgrade bubbletea, pyroscope, goupnp, golang.org/x](https://github.com/erigontech/erigon/pull/26241) - 2026-11-13
+* [Review] [Review on: execution/state: skip storage-read checks for BAL-unchanged accounts](https://github.com/erigontech/erigon/pull/26101#pullrequestreview-5884361139) - 2026-11-13
+* [Review] [Review on: db/downloader/downloadercfg: reject empty DNS results when dialing](https://github.com/erigontech/erigon/pull/26218#pullrequestreview-5885519218) - 2026-11-13
+* [Review] [Review on: db/rawdb: remove unused accessors and move test-only helpers to tests](https://github.com/erigontech/erigon/pull/26203#pullrequestreview-5885586973) - 2026-11-13
+* [Review] [Review on: execution/vm: EXTCODECOPY reads a code segment without caching a miss](https://github.com/erigontech/erigon/pull/25986#pullrequestreview-5885543086) - 2026-11-13
+* [Review] [Review on: p2p/discover: queue copied datagrams in v4 UDP test pipe](https://github.com/erigontech/erigon/pull/20499#pullrequestreview-5885531845) - 2026-11-13
+* [Review] [Review on: p2p/forkid: count a fork as passed in the filter when the head is at it](https://github.com/erigontech/erigon/pull/24647#pullrequestreview-5885527664) - 2026-11-13
+* [Pull Request] [execution/stagedsync: exec-loop panic is not an invalid block](https://github.com/erigontech/erigon/pull/26237) - 2026-11-13
+* [Review] [Review on: tracers: show why a JS tracer was rejected instead of a bare "tracer not found"](https://github.com/erigontech/erigon/pull/26225#pullrequestreview-5885514745) - 2026-11-13
+* [Pull Request] [execution/tests/testutil: run state tests on the versioned state](https://github.com/erigontech/erigon/pull/26238) - 2026-11-13
+* [Review] [Review on: test(engineapi): use Windows CI ramdisk for crash-recovery data](https://github.com/erigontech/erigon/pull/26083#pullrequestreview-5885460824) - 2026-11-13
+* [Review] [Review on: execution/types, engine_types, gointerfaces: remove unused block access list and payload converters](https://github.com/erigontech/erigon/pull/26109#pullrequestreview-5884774384) - 2026-11-13
+* [Pull Request] [execution/state: seed the version map from the BAL in parallel](https://github.com/erigontech/erigon/pull/26215) - 2026-11-12
+* [Review] [Review on: db/state: stop visible files at the first gap](https://github.com/erigontech/erigon/pull/25965#pullrequestreview-5884872220) - 2026-11-13
+* [Pull Request] [execution/stagedsync: fold binds the block changeset once per block](https://github.com/erigontech/erigon/pull/26236) - 2026-11-13
+* [Review] [Review on: execution/stagedsync: fold binds the block changeset once per block](https://github.com/erigontech/erigon/pull/26236#pullrequestreview-5885170542) - 2026-11-13
+* [Review] [Review on: db/kv, execution/vm: remove unused PendingMutations, VMInterface and CallerContext interfaces](https://github.com/erigontech/erigon/pull/26107#pullrequestreview-5884772003) - 2026-11-13
+* [Pull Request] [execution/types: decode large BAL sidecars in parallel](https://github.com/erigontech/erigon/pull/26212) - 2026-11-12
+* [Review] [Review on: execution/types: decode large BAL sidecars in parallel](https://github.com/erigontech/erigon/pull/26212#pullrequestreview-5884438270) - 2026-11-13
+* [Review] [Review on: rpc/jsonrpc: trace a block's transactions in parallel in debug_traceBlock*](https://github.com/erigontech/erigon/pull/25846#pullrequestreview-5872572729) - 2026-11-12
+* [Review] [Review on: execution/types: decode the block access list into a presized list](https://github.com/erigontech/erigon/pull/26098#pullrequestreview-5871923770) - 2026-11-12
+* [Pull Request] [txnprovider/txpool: return mined blob txns with blobs after a reorg](https://github.com/erigontech/erigon/pull/25563) - 2026-11-13
+* [Review] [Review on: execution/state: skip account-read checks for BAL-unchanged addresses](https://github.com/erigontech/erigon/pull/26154#pullrequestreview-5872486523) - 2026-11-12
+* [Pull Request] [execution/stagedsync: build the BAL off the apply goroutine](https://github.com/erigontech/erigon/pull/26229) - 2026-11-12
+* [Review] [Review on: execution/stagedsync: build the BAL off the apply goroutine](https://github.com/erigontech/erigon/pull/26229#pullrequestreview-5884413059) - 2026-11-13
+* [Review] [Review on: cl/antiquary, db/snapshotsync, p2p/netutil: fix stale doc comments](https://github.com/erigontech/erigon/pull/26207#pullrequestreview-5884979871) - 2026-11-13
+* [Review] [Review on: execution/state: keep read-only accounts flat in the BAL builder](https://github.com/erigontech/erigon/pull/26157#pullrequestreview-5871654284) - 2026-11-12
+* [Pull Request] [execution/exec: BAL warmup skips code-hash seeds of codeless accounts](https://github.com/erigontech/erigon/pull/26217) - 2026-11-12
+* [Review] [Review on: execution/exec: BAL warmup skips keys the state cache already holds](https://github.com/erigontech/erigon/pull/26104#pullrequestreview-5884326603) - 2026-11-13
+* [Pull Request] [db/state: clean commitment first so a merge removes all its inputs](https://github.com/erigontech/erigon/pull/26234) - 2026-11-12
+* [Pull Request] [db/state: lock-free latest reads from a copy-on-write memBatch view](https://github.com/erigontech/erigon/pull/26191) - 2026-11-12
+* [Pull Request] [[r3.8] execution/state: depend on an in-flight destruct on a committed read](https://github.com/erigontech/erigon/pull/26195) - 2026-11-12
+* [Commit] [execution/types: decode the block access list into a presized list (#26098)](https://github.com/erigontech/erigon/commit/612e217f98c83dbfb328e13ea3f13ce13f49d9c7) - 2026-11-13
+* [Commit] [txnprovider/txpool: return mined blob txns with blobs after a reorg (#25563)](https://github.com/erigontech/erigon/commit/24426fe5370fca5c436acb6e843b06bb1ba0693e) - 2026-11-13
+* [Commit] [execution/state: depend on an in-flight destruct on a committed read (#26153)](https://github.com/erigontech/erigon/commit/df8748708b0b2072677439e8e98acf89496d10c9) - 2026-11-13
+* [Commit] [execution: a call that cannot pay its precompile does not wait on it (#26088)](https://github.com/erigontech/erigon/commit/51c276f8366f7c1013b91b209cc33b042a937a81) - 2026-11-13
+* [Commit] [execution/stagedsync: a write the BAL holds leaves readers clean (#26080)](https://github.com/erigontech/erigon/commit/d9d65c3292af6321ca9d6668104410f1ae765d62) - 2026-11-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

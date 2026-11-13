@@ -356,6 +356,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execmodule: reset speculative state and finality markers after SetHead](https://github.com/erigontech/erigon/issues/26167) - 2026-11-11
 * [Issue] [state: include unwind-restored storage in prefix iteration](https://github.com/erigontech/erigon/issues/26166) - 2026-11-11
 * [Issue] [stagedsync: reject root mismatches at the serial batch-end check](https://github.com/erigontech/erigon/issues/26165) - 2026-11-11
+* [Review] [Review on: execution/state: skip storage-read checks for BAL-unchanged accounts](https://github.com/erigontech/erigon/pull/26101#pullrequestreview-5876732722) - 2026-11-12
+* [Review] [Review on: execution/commitment/trie: move test-only RetainList to tests](https://github.com/erigontech/erigon/pull/26201#pullrequestreview-5876662383) - 2026-11-12
+* [Review] [Review on: execution/exec: BAL warmup skips keys the state cache already holds](https://github.com/erigontech/erigon/pull/26104#pullrequestreview-5873435118) - 2026-11-12
+* [Review] [Review on: [r3.8] execution/state: depend on an in-flight destruct on a committed read](https://github.com/erigontech/erigon/pull/26195#pullrequestreview-5873706151) - 2026-11-12
+* [Commit] [cl: simplify Gloas envelope validation (#26208)](https://github.com/erigontech/erigon/commit/a10d79278ceea32fd880a465d320a672f632a33e) - 2026-11-12
+* [Commit] [engineapitester: extend request reads with the client timeout (#26146)](https://github.com/erigontech/erigon/commit/37536e92026fd3a144ef9c3b6e4927fccbfd18d1) - 2026-11-12
+* [Commit] [rpc: fix WebSocket budget test write race (#26139)](https://github.com/erigontech/erigon/commit/faa779ac728bb704113edc9e7224571952d5364d) - 2026-11-12
+* [Commit] [db, rpc: keep debug state reads and trace setup on one database view (#25739)](https://github.com/erigontech/erigon/commit/45392851eb6303fb7fbb18818e336558c2ac3ec6) - 2026-11-12
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

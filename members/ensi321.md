@@ -60,6 +60,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: do not send an engine-rejected payload envelope to the engine again](https://github.com/ChainSafe/lodestar/pull/10583) - 2026-11-10
 * [Commit] [fix: keep the engine state on an INVALID payload status (#10582)](https://github.com/ChainSafe/lodestar/commit/6484138c50eec358b85e7fb7130fcfbb89ccc6bd) - 2026-11-10
 * [Commit] [chore: remove blob related code (#9957)](https://github.com/ChainSafe/lodestar/commit/8d5cdd33be13febc6614ba4a001e99638b7f1041) - 2026-11-11
+* [Pull Request] [chore: remove deprecated cli flags](https://github.com/ChainSafe/lodestar/pull/10613) - 2026-11-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
