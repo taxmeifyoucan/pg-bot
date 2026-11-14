@@ -86,6 +86,9 @@ Team: Grandine
 * [Issue] [Implement missing things for proposer reorgs](https://github.com/grandinetech/grandine/issues/1042) - 2026-11-12
 * [Commit] [Verify execution payload block hash](https://github.com/grandinetech/grandine/commit/6b444e51884ffb843fedd71a2f0b80d33179b578) - 2026-11-12
 * [Commit] [Show state cache prune entry skipped message as debug message](https://github.com/grandinetech/grandine/commit/31670c27bb01c1ff1e458e2692493268b5154aca) - 2026-11-12
+* [Pull Request] [Add missing proposer reorg functionality](https://github.com/grandinetech/grandine/pull/1044) - 2026-11-13
+* [Review] [Review on: Feature/update rust](https://github.com/grandinetech/grandine/pull/1047#pullrequestreview-5891028442) - 2026-11-13
+* [Review] [Review on: Updated some crates](https://github.com/grandinetech/grandine/pull/1045#pullrequestreview-5889243779) - 2026-11-13
 ## Q3 2026
 
 

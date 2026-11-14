@@ -247,6 +247,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Fix opcode tracer memory timing and storage snapshots](https://github.com/besu-eth/besu/pull/11636#pullrequestreview-5873076105) - 2026-11-12
 * [Commit] [Stop log bloom caching when the EthScheduler stops (#11931)](https://github.com/besu-eth/besu/commit/4db8f84661afe16d8df8014ccd04b50ace744799) - 2026-11-13
 * [Commit] [Turn mempool prewarming on by default on mainnet and public testnets (#11956)](https://github.com/besu-eth/besu/commit/aee7aa7c5c506f447e5b466dd68a4d1a2b90b520) - 2026-11-12
+* [Review] [Review on: Treat missing txs as no transactions in evmtool t8n](https://github.com/besu-eth/besu/pull/11930#pullrequestreview-5892720887) - 2026-11-13
+* [Pull Request] [Rewrite log blooms replaced by a reorg in earlier segments](https://github.com/besu-eth/besu/pull/11969) - 2026-11-13
+* [Commit] [Rebuild the log bloom cache segment after a dropped block event (#11932)](https://github.com/besu-eth/besu/commit/2b839d96863d01210f45a6f62127e6229e5b0889) - 2026-11-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 
@@ -260,6 +263,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [changelog and version bump for release 2.1.0 (#325)](https://github.com/besu-eth/besu-native/commit/c93d44cf5ac985bba40f0ce02cc0d5c1412acf6f) - 2026-10-19
 * [Commit] [Add a native secp256k1 ECDH key agreement (#324)](https://github.com/besu-eth/besu-native/commit/7327369c81543928868eb94ce45f0420f67c087f) - 2026-10-19
 * [Pull Request] [Recover secp256k1 public keys for recovery ids 2 and 3](https://github.com/besu-eth/besu-native/pull/327) - 2026-11-11
+* [Pull Request] [changelog and version bump post release 2.2.0](https://github.com/besu-eth/besu-native/pull/329) - 2026-11-13
+* [Pull Request] [changelog and version bump for release 2.2.0](https://github.com/besu-eth/besu-native/pull/328) - 2026-11-13
+* [Commit] [changelog and version bump post release 2.2.0 (#329)](https://github.com/besu-eth/besu-native/commit/cb2516dd0fee316c41a98dfc5b4edddf66ddc94c) - 2026-11-13
+* [Commit] [changelog and version bump for release 2.2.0 (#328)](https://github.com/besu-eth/besu-native/commit/c04642164444cd911b80b38771f2dae141bf4ae7) - 2026-11-13
+* [Commit] [Recover secp256k1 public keys for recovery ids 2 and 3 (#327)](https://github.com/besu-eth/besu-native/commit/0583f49755b67ce5a69cfffd6ada451cb2bbba6c) - 2026-11-13
 ## Q3 2026
 
 

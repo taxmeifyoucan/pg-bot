@@ -469,6 +469,19 @@ Team: Erigon
 * [Commit] [execution/commitment/trie: move test-only RetainList to tests (#26201)](https://github.com/erigontech/erigon/commit/b76251815d101a603092ddd9cde112fd83fdd3ba) - 2026-11-13
 * [Commit] [execution/verify: remove unused SnapshotVerifier (#26105)](https://github.com/erigontech/erigon/commit/952cfb97378d92a0deef4ade73698dda386c8eb7) - 2026-11-12
 * [Commit] [cl/beacon/handler: return 404 for unavailable randao mixes (#26152)](https://github.com/erigontech/erigon/commit/087aa1c5b637215511b34f7fd402b2922af1568b) - 2026-11-12
+* [Review] [Review on: rlp: one cheaper header path makes every decoder 11-24% faster](https://github.com/erigontech/erigon/pull/26248#pullrequestreview-5893867646) - 2026-11-13
+* [Pull Request] [cmd/capcli: recompute empty blob proofs, retry transient endpoint errors](https://github.com/erigontech/erigon/pull/26102) - 2026-11-13
+* [Issue] [cmd: the state-file delete prompt and integration Run commands exit 0 on failure](https://github.com/erigontech/erigon/issues/26271) - 2026-11-13
+* [Issue] [commitment v3: what blocks making it the default](https://github.com/erigontech/erigon/issues/26272) - 2026-11-13
+* [Issue] [execution/commitment/v3: node keys in trie pre-order, prefix-free](https://github.com/erigontech/erigon/issues/26268) - 2026-11-13
+* [Issue] [db/kv/remotedbserver: begin holds txsMapLock while it waits for a read-tx slot](https://github.com/erigontech/erigon/issues/26264) - 2026-11-13
+* [Issue] [db/state: TestAggregator_CommitmentHistoryOnlyMerge passes while its merge panics on a one-word .ef fixture](https://github.com/erigontech/erigon/issues/26260) - 2026-11-13
+* [Issue] [db/etl: a failed synchronous spill leaves its erigon-sortable-buf file behind](https://github.com/erigontech/erigon/issues/26243) - 2026-11-13
+* [Commit] [db/rawdb: remove unused accessors and move test-only helpers to tests (#26203)](https://github.com/erigontech/erigon/commit/a8271c01e1f7c33db5129f858026d2bd74bcd3a5) - 2026-11-14
+* [Commit] [cmd/capcli: recompute empty blob proofs, retry transient endpoint errors (#26102)](https://github.com/erigontech/erigon/commit/d5f161f4be0ca9481598f87c5dca79b69e489afd) - 2026-11-13
+* [Commit] [db/state: flush buffered writes in write order across Unwind and Merge (#26242)](https://github.com/erigontech/erigon/commit/670bfedacd0f12fcdc66c7e681801a6ce619dc1a) - 2026-11-13
+* [Commit] [db/snapshotsync, db/integrity: expect no blobs for a skipped Gloas payload (#26210)](https://github.com/erigontech/erigon/commit/9fb50cbddaecd01abae380e6d1b821ad52dd3e41) - 2026-11-13
+* [Commit] [execution/types, engine_types, gointerfaces: remove unused block access list and payload converters (#26109)](https://github.com/erigontech/erigon/commit/71614f2bf0fd5b872d6a02e44effac12dabd0e53) - 2026-11-13
 ## Q3 2026
 
 

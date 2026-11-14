@@ -180,6 +180,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/contributoor/pull/258) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#258)](https://github.com/ethpandaops/contributoor/commit/ca807acddd94d5e3f2b4fd08f58668c32521622e) - 2026-10-21
 
+* [Pull Request] [chore: bump kurtosis sdk to v1.23.0](https://github.com/ethpandaops/contributoor/pull/261) - 2026-11-13
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#118)](https://github.com/ethpandaops/cartographoor/commit/05ec1ee135c79097bb7acd72a44778d73505c8c0) - 2026-10-21

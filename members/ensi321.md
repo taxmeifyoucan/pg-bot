@@ -61,6 +61,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: keep the engine state on an INVALID payload status (#10582)](https://github.com/ChainSafe/lodestar/commit/6484138c50eec358b85e7fb7130fcfbb89ccc6bd) - 2026-11-10
 * [Commit] [chore: remove blob related code (#9957)](https://github.com/ChainSafe/lodestar/commit/8d5cdd33be13febc6614ba4a001e99638b7f1041) - 2026-11-11
 * [Pull Request] [chore: remove deprecated cli flags](https://github.com/ChainSafe/lodestar/pull/10613) - 2026-11-12
+* [Pull Request] [refactor!: add lodestar prefix and seconds suffix to metrics](https://github.com/ChainSafe/lodestar/pull/10616) - 2026-11-13
+* [Pull Request] [chore!: remove --presetFile and preset value overrides](https://github.com/ChainSafe/lodestar/pull/10621) - 2026-11-13
+* [Pull Request] [feat(validator)!: require an explicit fee recipient](https://github.com/ChainSafe/lodestar/pull/10617) - 2026-11-13
+* [Pull Request] [chore: remove no-op FIELD_ELEMENTS_PER_BLOB override for dev](https://github.com/ChainSafe/lodestar/pull/10618) - 2026-11-13
+* [Commit] [chore: remove no-op FIELD_ELEMENTS_PER_BLOB override for dev (#10618)](https://github.com/ChainSafe/lodestar/commit/ee7f1439443f2502aff3adc20e9daaff729925b4) - 2026-11-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 

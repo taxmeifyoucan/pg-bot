@@ -29,6 +29,10 @@ Team: Grandine
 * [Issue] [Fallback mechanism for artifact processing](https://github.com/grandinetech/grandine/issues/1028) - 2026-11-09
 * [Issue] [Attestation aggregation performance improvement](https://github.com/grandinetech/grandine/issues/1027) - 2026-11-09
 * [Issue] [Improve validator message when beacon node is not accessible](https://github.com/grandinetech/grandine/issues/1037) - 2026-11-11
+* [Pull Request] [Feature/update rust](https://github.com/grandinetech/grandine/pull/1047) - 2026-11-13
+* [Pull Request] [Updated some crates](https://github.com/grandinetech/grandine/pull/1045) - 2026-11-13
+* [Commit] [Updated Rust to 1.100.0](https://github.com/grandinetech/grandine/commit/3c8fd77591fc035c8bc753b36ed4774fa0b0c9c6) - 2026-11-13
+* [Commit] [Updated some crates](https://github.com/grandinetech/grandine/commit/8264e74889b61031e775e46b345165a065aa1267) - 2026-11-13
 ## Q3 2026
 
 

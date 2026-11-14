@@ -73,6 +73,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Skip the missing block index cleanup when no blocks are missing](https://github.com/OffchainLabs/prysm/pull/17860) - 2026-11-10
 * [Pull Request] [Mark proposer slashings seen before inserting them into the pool](https://github.com/OffchainLabs/prysm/pull/17861) - 2026-11-11
 * [Commit] [Skip the missing block index cleanup when no blocks are missing (#17860)](https://github.com/OffchainLabs/prysm/commit/5cf86bf48d998d2abc2b18da15a1048dbb060030) - 2026-11-11
+* [Pull Request] [Check the signer's fingerprint when verifying prysm.sh downloads](https://github.com/OffchainLabs/prysm/pull/17874) - 2026-11-13
+* [Pull Request] [Prune expired fork choice attestations](https://github.com/OffchainLabs/prysm/pull/17873) - 2026-11-13
+* [Pull Request] [Ignore contributions for other roots when packing sync messages](https://github.com/OffchainLabs/prysm/pull/17872) - 2026-11-13
 ## Q3 2026
 
 

@@ -110,6 +110,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: resolve participation leaves once per block](https://github.com/ChainSafe/lodestar/pull/10569#pullrequestreview-5870494215) - 2026-11-12
 * [Review] [Review on: fix: settle all BLS worker pool jobs on close](https://github.com/ChainSafe/lodestar/pull/10577#pullrequestreview-5872158304) - 2026-11-12
 * [Commit] [fix: harden sync committee gossip validation (#10607)](https://github.com/ChainSafe/lodestar/commit/cda05d18f1870dbe2373ef82ea69fb9d102a1552) - 2026-11-13
+* [Pull Request] [fix: harden gloas attestation validation at fork boundary](https://github.com/ChainSafe/lodestar/pull/10619) - 2026-11-13
+* [Commit] [fix: harden gloas attestation validation at fork boundary (#10619)](https://github.com/ChainSafe/lodestar/commit/1b22218e602f6bc8999ce0772389f8748b900144) - 2026-11-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

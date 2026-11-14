@@ -91,6 +91,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: harden sync committee gossip validation](https://github.com/ChainSafe/lodestar/pull/10607#pullrequestreview-5872476348) - 2026-11-12
 * [Review] [Review on: perf(native): stop using page_allocator for short-lived allocations](https://github.com/ChainSafe/lodestar/pull/10612#pullrequestreview-5878007168) - 2026-11-12
 * [Review] [Review on: perf: verify attestation signatures against cached committee pubkeys](https://github.com/ChainSafe/lodestar/pull/10568#pullrequestreview-5870934018) - 2026-11-12
+* [Review] [Review on: perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610#pullrequestreview-5894812059) - 2026-11-13
+* [Review] [Review on: perf: verify attestation signatures against cached committee pubkeys](https://github.com/ChainSafe/lodestar/pull/10568#pullrequestreview-5894486286) - 2026-11-13
+* [Pull Request] [perf: keep chunked leaf storage in a slab](https://github.com/ChainSafe/lodestar/pull/10622) - 2026-11-13
+* [Review] [Review on: chore: bump zapi to 4.4.0](https://github.com/ChainSafe/lodestar/pull/10620#pullrequestreview-5887468613) - 2026-11-13
+* [Review] [Review on: chore: remove no-op FIELD_ELEMENTS_PER_BLOB override for dev](https://github.com/ChainSafe/lodestar/pull/10618#pullrequestreview-5887435107) - 2026-11-13
+* [Review] [Review on: perf(native): stop using page_allocator for short-lived allocations](https://github.com/ChainSafe/lodestar/pull/10612#pullrequestreview-5887441550) - 2026-11-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

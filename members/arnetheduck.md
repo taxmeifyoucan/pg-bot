@@ -37,6 +37,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22
 * [Pull Request] [mdbook: bump](https://github.com/status-im/nimbus-eth2/pull/9360) - 2026-10-23
 * [Review] [Review on: Fix copy and directory helpers for paths containing spaces](https://github.com/status-im/nimbus-eth2/pull/9430#pullrequestreview-5821361820) - 2026-11-09
+* [Pull Request] [docs: refresh architectural docs](https://github.com/status-im/nimbus-eth2/pull/9441) - 2026-11-13
 ## Q3 2026
 
 

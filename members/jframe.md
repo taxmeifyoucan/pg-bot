@@ -44,6 +44,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: [2/5] snap/2 sorted ingest: hold back RocksDB compaction during a bulk load](https://github.com/besu-eth/besu/pull/11853#pullrequestreview-5856936969) - 2026-11-11
 * [Commit] [[1/5] Bonsai archive ongoing sync: fix capture gaps (#11913)](https://github.com/besu-eth/besu/commit/a5579eb643f707fa4f0101f602086e4299a1ce6e) - 2026-11-12
 * [Pull Request] [[2/5] Bonsai archive ongoing sync: capture final blocks](https://github.com/besu-eth/besu/pull/11951) - 2026-11-12
+* [Review] [Review on: [SECURITY.md] add EF bug bounty as an incoming channel](https://github.com/besu-eth/besu/pull/11936#pullrequestreview-5886467066) - 2026-11-13
+* [Review] [Review on: Drop final from range-checked CLI option fields](https://github.com/besu-eth/besu/pull/11929#pullrequestreview-5886459041) - 2026-11-13
+* [Review] [Review on: Update Docker base images to resolve CVE-2026-109518](https://github.com/besu-eth/besu/pull/11964#pullrequestreview-5886502566) - 2026-11-13
+* [Review] [Review on: Fix CHANGELOG entries listed under the wrong release](https://github.com/besu-eth/besu/pull/11912#pullrequestreview-5886421984) - 2026-11-13
 ## Q3 2026
 
 

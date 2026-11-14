@@ -163,6 +163,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: hash lazy chunked leaves in parallel for the state root](https://github.com/ChainSafe/lodestar/pull/10521#pullrequestreview-5881155232) - 2026-11-12
 * [Commit] [fix: serialize gossip core topic subscription changes in sync (#10579)](https://github.com/ChainSafe/lodestar/commit/fb216e169a5f596b92877aa3de08e0bb9ef69a01) - 2026-11-12
 * [Commit] [fix: settle all BLS worker pool jobs on close (#10577)](https://github.com/ChainSafe/lodestar/commit/f921fbf6b7bc7b2b7d1d921332fb2b345615b409) - 2026-11-12
+* [Review] [Review on: feat: zig fast confirmation rule](https://github.com/ChainSafe/lodestar/pull/10601#pullrequestreview-5894796355) - 2026-11-13
+* [Review] [Review on: perf: compute execution block hash natively](https://github.com/ChainSafe/lodestar/pull/10603#pullrequestreview-5894512392) - 2026-11-13
+* [Pull Request] [test: speed up spec and e2e CI jobs](https://github.com/ChainSafe/lodestar/pull/10628) - 2026-11-13
+* [Pull Request] [feat!: prune history by default](https://github.com/ChainSafe/lodestar/pull/10625) - 2026-11-13
+* [Pull Request] [feat: limit the blobs and data columns pruned per finalized checkpoint](https://github.com/ChainSafe/lodestar/pull/10627) - 2026-11-13
+* [Review] [Review on: feat: reduce `MIN_EPOCHS_FOR_BLOCK_REQUESTS` for gloas](https://github.com/ChainSafe/lodestar/pull/10120#pullrequestreview-5893748913) - 2026-11-13
+* [Pull Request] [feat: enable native state transition for heze](https://github.com/ChainSafe/lodestar/pull/10626) - 2026-11-13
+* [Pull Request] [feat: use native state transition by default](https://github.com/ChainSafe/lodestar/pull/10624) - 2026-11-13
+* [Review] [Review on: fix: harden gloas attestation validation at fork boundary](https://github.com/ChainSafe/lodestar/pull/10619#pullrequestreview-5892643272) - 2026-11-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

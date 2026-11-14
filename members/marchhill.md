@@ -240,6 +240,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(evm): read ADDMOD and MULMOD operands in place and write the result into the slot](https://github.com/NethermindEth/nethermind/pull/15790#pullrequestreview-5858830401) - 2026-11-11
 * [Pull Request] [EIP-8288: batch leaf proofs (prototype)](https://github.com/NethermindEth/nethermind/pull/15842) - 2026-11-12
 * [Review] [Review on: EIP-8288: batch leaf proofs (prototype)](https://github.com/NethermindEth/nethermind/pull/15842#pullrequestreview-5882211809) - 2026-11-12
+* [Review] [Review on: EIP-8288: generic proof verification and batching (prototype, flag-gated)](https://github.com/NethermindEth/nethermind/pull/15842#pullrequestreview-5890559012) - 2026-11-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -266,6 +267,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: place dependency frames around protocol verifier frames](https://github.com/ethereum/EIPs/pull/12632) - 2026-11-06
 * [Pull Request] [Add EIP: eth/73 - Proof wrapper propagation](https://github.com/ethereum/EIPs/pull/12655) - 2026-11-11
 * [Pull Request] [Update EIP-8288: Batch generic signature claims](https://github.com/ethereum/EIPs/pull/12654) - 2026-11-11
+* [Pull Request] [Add EIP: Generic Proof Verification and Batching](https://github.com/ethereum/EIPs/pull/12664) - 2026-11-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

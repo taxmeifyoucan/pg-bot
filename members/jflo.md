@@ -70,11 +70,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Read RLP item metadata from the input bytes without a lambda](https://github.com/besu-eth/besu/pull/11826#pullrequestreview-5801038284) - 2026-11-06
 * [Issue] [Seed BytesHolder.hashCode() and make Hash Comparable](https://github.com/besu-eth/besu/issues/11884) - 2026-11-06
 * [Issue] [2026-11-24 Contributor Call](https://github.com/besu-eth/besu/issues/11917) - 2026-11-10
+* [Review] [Review on: [SECURITY.md] add EF bug bounty as an incoming channel](https://github.com/besu-eth/besu/pull/11936#pullrequestreview-5891829934) - 2026-11-13
+* [Issue] [Hegota: EIP-7805 inclusion list validation skips every frame transaction as a blob transaction](https://github.com/besu-eth/besu/issues/11973) - 2026-11-13
+* [Issue] [SNAP2: pivot-move state diff applies EIP-8298 adopted-code entries as empty code](https://github.com/besu-eth/besu/issues/11972) - 2026-11-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #12, November 11, 2026](https://github.com/ethereum/pm/issues/2300) - 2026-11-10
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Review] [Review on: changelog and version bump post release 2.2.0](https://github.com/besu-eth/besu-native/pull/329#pullrequestreview-5891886446) - 2026-11-13
 ## Q3 2026
 
 

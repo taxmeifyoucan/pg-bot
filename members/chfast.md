@@ -107,6 +107,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: keep a BAL-seeded Done cell Done when its tx is validated (#26087)](https://github.com/erigontech/erigon/commit/3c0a1872d3d8fd67d4a3c2281ce6f6faf046a998) - 2026-11-11
 * [Commit] [execution/state: keep every cell of the fee recipient Estimate until the seal (#26089)](https://github.com/erigontech/erigon/commit/84c09c9b39838c4e1eadf257c75651f2bb3a3a4f) - 2026-11-11
 * [Commit] [execution/state: write the balance of every account created from an absent base (#26018)](https://github.com/erigontech/erigon/commit/5d857bfcd6a821c980409e1b4ce10cf413155295) - 2026-11-10
+* [Pull Request] [execution/state: drop the net-zero code change of an authority removed earlier in the block](https://github.com/erigontech/erigon/pull/26019) - 2026-11-13
+* [Review] [Review on: execution/state: drop the net-zero code change of an authority removed earlier in the block](https://github.com/erigontech/erigon/pull/26019#pullrequestreview-5888374819) - 2026-11-13
+* [Pull Request] [execution/state: keep an account absent once the tx has read its destruct](https://github.com/erigontech/erigon/pull/26009) - 2026-11-13
+* [Issue] [execution/state: the in-flight flush of a destroying tx turns the seeded removal into Estimate cells](https://github.com/erigontech/erigon/issues/26286) - 2026-11-13
+* [Issue] [execution/state: an absent AddressPath read stays valid after its destruct is withdrawn](https://github.com/erigontech/erigon/issues/26285) - 2026-11-13
+* [Commit] [execution/state: drop the net-zero code change of an authority removed earlier in the block (#26019)](https://github.com/erigontech/erigon/commit/449bc3ff6a2c11051f70a323ce1ec1fc35d770ed) - 2026-11-13
+* [Commit] [execution/state: keep an account absent once the tx has read its destruct (#26009)](https://github.com/erigontech/erigon/commit/982bb2a306935db529f1604450cd77010a12155e) - 2026-11-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -207,6 +214,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [crypto: Keep the safegcd 128-bit sums out of intx::uint128](https://github.com/ipsilon/evmone/issues/1808) - 2026-11-07
 * [Pull Request] [test: Add modular inversion tests](https://github.com/ipsilon/evmone/pull/1812) - 2026-11-09
 * [Commit] [test: Add modular inversion tests (#1812)](https://github.com/ipsilon/evmone/commit/6fb712f3035cb2aa29e810728f11dfb3d786b81e) - 2026-11-09
+* [Issue] [baseline: Decide which instruction implementations to inline into the dispatch loop](https://github.com/ipsilon/evmone/issues/1813) - 2026-11-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

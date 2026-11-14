@@ -112,11 +112,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix(rpc): return INVALID for REST+SSZ payloads that fail RLP decoding](https://github.com/status-im/nimbus-eth1/pull/5145#pullrequestreview-5877485450) - 2026-11-12
 * [Commit] [engine_api: tighten raises on newPayload and getPayloadBodies (#5154)](https://github.com/status-im/nimbus-eth1/commit/6ae2ea1734ae3bde457a493f4486c879ecfa0cef) - 2026-11-12
 * [Commit] [Check for overflow in transaction maximum cost computation (#5155)](https://github.com/status-im/nimbus-eth1/commit/d1a184504b56671e83030065de13f6900c8de1f9) - 2026-11-12
+* [Pull Request] [stateless guest: bump ZisK to v1.4.0-alpha](https://github.com/status-im/nimbus-eth1/pull/5164) - 2026-11-13
+* [Pull Request] [Store transaction fee fields as UInt256](https://github.com/status-im/nimbus-eth1/pull/5160) - 2026-11-13
+* [Pull Request] [stateless guest: move ZisK RAM start to 0xa0430000](https://github.com/status-im/nimbus-eth1/pull/5163) - 2026-11-13
+* [Review] [Review on: portal: use a separate JSON flavor for the Portal JSON-RPC](https://github.com/status-im/nimbus-eth1/pull/5159#pullrequestreview-5892777645) - 2026-11-13
+* [Commit] [stateless guest: bump ZisK to v1.4.0-alpha (#5164)](https://github.com/status-im/nimbus-eth1/commit/5e3fd7e9d19177980cc1c086c46c4e1dcf38eced) - 2026-11-13
+* [Commit] [stateless guest: move ZisK RAM start to 0xa0430000 (#5163)](https://github.com/status-im/nimbus-eth1/commit/73c021a159cdfcd7e0c7eae843e395c74ca64f0b) - 2026-11-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22
 
 * [Review] [Review on: Tag SSZ ByteLists with correct type](https://github.com/status-im/nimbus-eth2/pull/9356#pullrequestreview-5625913910) - 2026-10-23
+* [Pull Request] [Bump nim-eth and nim-web3 for UInt256 transaction fee fields](https://github.com/status-im/nimbus-eth2/pull/9443) - 2026-11-13
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Review] [Review on: Fix relative links in legacy specs and the uTP link](https://github.com/ethereum/portal-network-specs/pull/417#pullrequestreview-5626026347) - 2026-10-23
 ## Q3 2026

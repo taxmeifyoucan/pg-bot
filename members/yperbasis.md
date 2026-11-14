@@ -364,6 +364,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [engineapitester: extend request reads with the client timeout (#26146)](https://github.com/erigontech/erigon/commit/37536e92026fd3a144ef9c3b6e4927fccbfd18d1) - 2026-11-12
 * [Commit] [rpc: fix WebSocket budget test write race (#26139)](https://github.com/erigontech/erigon/commit/faa779ac728bb704113edc9e7224571952d5364d) - 2026-11-12
 * [Commit] [db, rpc: keep debug state reads and trace setup on one database view (#25739)](https://github.com/erigontech/erigon/commit/45392851eb6303fb7fbb18818e336558c2ac3ec6) - 2026-11-12
+* [Review] [Review on: execution: remove the serial executor](https://github.com/erigontech/erigon/pull/26239#pullrequestreview-5890998071) - 2026-11-13
+* [Review] [Review on: common/dbg, execution, ci: remove EXEC3_PARALLEL](https://github.com/erigontech/erigon/pull/26240#pullrequestreview-5891198790) - 2026-11-13
+* [Review] [Review on: execution/stagedsync: exec-loop panic is not an invalid block](https://github.com/erigontech/erigon/pull/26237#pullrequestreview-5890865441) - 2026-11-13
+* [Review] [Review on: rlp: one cheaper header path makes every decoder 11-24% faster](https://github.com/erigontech/erigon/pull/26248#pullrequestreview-5892813253) - 2026-11-13
+* [Review] [Review on: execution/exec: BAL warmup skips code-hash seeds of codeless accounts](https://github.com/erigontech/erigon/pull/26217#pullrequestreview-5889454994) - 2026-11-13
+* [Review] [Review on: [r3.8] cl/sentinel: refuse a fixed-size request with an oversized prefix](https://github.com/erigontech/erigon/pull/26262#pullrequestreview-5891751403) - 2026-11-13
+* [Review] [Review on: execution/state: report only the current transaction's self-destruct](https://github.com/erigontech/erigon/pull/26228#pullrequestreview-5892439137) - 2026-11-13
+* [Pull Request] [execution, txpool, rpc: update frame transactions to Bogota devnet-2](https://github.com/erigontech/erigon/pull/26283) - 2026-11-13
+* [Review] [Review on: execution/state: drop the net-zero code change of an authority removed earlier in the block](https://github.com/erigontech/erigon/pull/26019#pullrequestreview-5891445964) - 2026-11-13
+* [Pull Request] [[DO NOT MERGE] execution, txpool: integrate Bogota devnet-1 changes](https://github.com/erigontech/erigon/pull/26281) - 2026-11-13
+* [Issue] [execution: implement EIP-8253 before activating transaction assertions](https://github.com/erigontech/erigon/issues/26280) - 2026-11-13
+* [Commit] [cl: ignore voluntary exits with pending partial withdrawals (#26226)](https://github.com/erigontech/erigon/commit/b6b4f6320e0fa11a4835bb5f0f4b172552a46393) - 2026-11-13
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

@@ -93,6 +93,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-consume): report enginex and wirex tests whose client fails to start](https://github.com/ethereum/execution-specs/pull/3990) - 2026-11-12
 * [Review] [Review on: fix(test-consume): report enginex and wirex tests whose client fails to start](https://github.com/ethereum/execution-specs/pull/3990#pullrequestreview-5875916088) - 2026-11-12
 * [Commit] [feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch (#3964)](https://github.com/ethereum/execution-specs/commit/4c8ae33f903574a1a07ad578f2b10f30be253cf8) - 2026-11-12
+* [Pull Request] [chore(doc,ci): move links to specs.ethereum.foundation](https://github.com/ethereum/execution-specs/pull/3992) - 2026-11-13
+* [Commit] [chore(doc,ci): move links to specs.ethereum.foundation (#3992)](https://github.com/ethereum/execution-specs/commit/47e49278353633113215ce00b2f7515f7bbc3c35) - 2026-11-13
+* [Commit] [perf(doc,ci): speed up the test case reference (#3979)](https://github.com/ethereum/execution-specs/commit/d8c55883b70228da11a82249b904c3146f0527eb) - 2026-11-13
+* [Commit] [fix(test-consume): report enginex and wirex tests whose client fails to start (#3990)](https://github.com/ethereum/execution-specs/commit/7d070792fe344f54810dbcb3a4a85a422f1bc547) - 2026-11-13
+* [Commit] [fix(test-consume): schedule the DAO fork before Tangerine Whistle only (#3980)](https://github.com/ethereum/execution-specs/commit/eb2fa0d279081f9554ac17c761e6874fa420d77c) - 2026-11-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

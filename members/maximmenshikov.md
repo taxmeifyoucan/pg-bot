@@ -65,6 +65,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #39 from NethermindEth/feature/musl-mirrors](https://github.com/NethermindEth/dotnet-riscv/commit/3bc3fe4987578807b19e5b13c4750365f43e0e79) - 2026-11-07
 * [Commit] [Merge pull request #37 from NethermindEth/perf/riscv64-strict-align-promoted-fields](https://github.com/NethermindEth/dotnet-riscv/commit/23991c4edb9b3248a38fc7e1d74e9c35c942a55b) - 2026-11-07
 * [Pull Request] [perf-85: IlcZkNoGcInfo leaves the GC info out of the LSDA](https://github.com/NethermindEth/dotnet-riscv/pull/40) - 2026-11-11
+* [Commit] [rootfs: move runtime's apk-tools-static pin to 3.0.9-r0](https://github.com/NethermindEth/dotnet-riscv/commit/b80502c399158554b7fce8aaa2b89268cd814485) - 2026-11-13
+* [Commit] [Merge pull request #40 from NethermindEth/feat/ilc-zk-no-gc-info](https://github.com/NethermindEth/dotnet-riscv/commit/dc34e49fee906914b6a87b7099f1a181d0ef5972) - 2026-11-13
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -124,6 +126,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #75 from NethermindEth/chore/dotnet-11.0.101](https://github.com/NethermindEth/bflat-riscv64/commit/d6bed5d544aa04ac2d2edf2474e205283c7aa484) - 2026-11-08
 * [Pull Request] [test: Images with the IlcZkNoGcInfo runtime](https://github.com/NethermindEth/bflat-riscv64/pull/77) - 2026-11-11
 * [Pull Request] [riscv32: Exception handling on Airbender](https://github.com/NethermindEth/bflat-riscv64/pull/76) - 2026-11-11
+* [Commit] [Merge pull request #76 from NethermindEth/feat/riscv32-unwind-tables](https://github.com/NethermindEth/bflat-riscv64/commit/80f97933b93f86c20aad5a5edbfc08cb9cd9b2b4) - 2026-11-14
+* [Commit] [variant: Take both targets from dotnet-riscv 11.0.101-upstream-perf.r427](https://github.com/NethermindEth/bflat-riscv64/commit/c219c3e9eaef1a940d345aad0723eb02586744fe) - 2026-11-14
+* [Commit] [ci: Give bflat-ts the riscv32 image of a pull request too](https://github.com/NethermindEth/bflat-riscv64/commit/fcb1e2e8116486dc3afe0e00c96e28724427c731) - 2026-11-13
 ## Q3 2026
 
 

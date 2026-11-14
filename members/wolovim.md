@@ -14,6 +14,8 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: acdt duration bump](https://github.com/ethereum/pm/commit/70990a43aaa4490d56faf2eb57e10415d73892c9) - 2026-10-23
 * [Review] [Review on: Enhance EIP analysis and outreach guidelines](https://github.com/ethereum/pm/pull/2284#pullrequestreview-5766908692) - 2026-11-04
 * [Issue] [Frame Transaction Breakout #8, Nov 17, 2026](https://github.com/ethereum/pm/issues/2295) - 2026-11-04
+* [Commit] [acdbot: autonomously manage pq-cl](https://github.com/ethereum/pm/commit/c1e0bb0af0b65c28b809f160a85a2859bd2d5af4) - 2026-11-13
+* [Commit] [acdbot: multi-day weekly cadence, intro pqcl call](https://github.com/ethereum/pm/commit/cf2b76e4b20c8b0267ee3c383efb95c4be274299) - 2026-11-13
 ## Q3 2026
 
 

@@ -257,6 +257,22 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(flat): share a persisted-snapshot bloom only over ranges without a storage clear (#15812)](https://github.com/NethermindEth/nethermind/commit/d94e0c27cb1e06a3e08352a45b7b9cfe6c9fd927) - 2026-11-12
 * [Commit] [fix(rpc)!: return 4444 from eth_getTransactionReceipt for pruned history (#15796)](https://github.com/NethermindEth/nethermind/commit/7d789ec7787481f467901b246f187548d92ce547) - 2026-11-12
 * [Commit] [fix(discovery): keep a node at the endpoint it was verified at (#15781)](https://github.com/NethermindEth/nethermind/commit/21624a8ad1c17d9abe7775df26a020ac5fab004b) - 2026-11-12
+* [Review] [Review on: perf(evm): skip the access tracker copy when a cached call frame is reused](https://github.com/NethermindEth/nethermind/pull/15867#pullrequestreview-5895476629) - 2026-11-13
+* [Pull Request] [fix(rpc)!: let the stored block decide 4444 for a missing transaction receipt](https://github.com/NethermindEth/nethermind/pull/15857) - 2026-11-13
+* [Review] [Review on: fix(rpc)!: let the stored block decide 4444 for a missing transaction receipt](https://github.com/NethermindEth/nethermind/pull/15857#pullrequestreview-5889060804) - 2026-11-13
+* [Pull Request] [fix(flat): guard each CompactSized boundary and observe a stop between them](https://github.com/NethermindEth/nethermind/pull/15869) - 2026-11-13
+* [Review] [Review on: fix(rpc): accept a block hash as newestBlock in eth_feeHistory](https://github.com/NethermindEth/nethermind/pull/15837#pullrequestreview-5889944661) - 2026-11-13
+* [Review] [Review on: ci(zkevm): raise the ZisK guest job timeout to 8 minutes](https://github.com/NethermindEth/nethermind/pull/15863#pullrequestreview-5893190253) - 2026-11-13
+* [Review] [Review on: perf(evm): encode a 64-bit nonce directly when deriving a CREATE address](https://github.com/NethermindEth/nethermind/pull/15846#pullrequestreview-5889143695) - 2026-11-13
+* [Review] [Review on: chore: update Nethermind.Numerics.Int256 to 1.14.0](https://github.com/NethermindEth/nethermind/pull/15866#pullrequestreview-5894471471) - 2026-11-13
+* [Pull Request] [fix(rpc): run a signed eth_sendTransaction request as its signer](https://github.com/NethermindEth/nethermind/pull/15823) - 2026-11-13
+* [Review] [Review on: fix(rpc): run a signed eth_sendTransaction request as its signer](https://github.com/NethermindEth/nethermind/pull/15823#pullrequestreview-5891667773) - 2026-11-13
+* [Review] [Review on: perf(rpc): read a transaction request in one pass per nesting level](https://github.com/NethermindEth/nethermind/pull/15864#pullrequestreview-5894820212) - 2026-11-13
+* [Commit] [fix(rpc): run a signed eth_sendTransaction request as its signer (#15823)](https://github.com/NethermindEth/nethermind/commit/633b4b868b013fc99574d71cc77588567e88eab7) - 2026-11-13
+* [Commit] [test(mcp): wait for the module return after a cancelled ENS lookup (#15861)](https://github.com/NethermindEth/nethermind/commit/405fcbb0960659fe56d2e74b576639179c29274a) - 2026-11-13
+* [Commit] [fix(tracing): run block replays on copies of the block's transactions (#15770)](https://github.com/NethermindEth/nethermind/commit/59813e138d9d401ad0e03bf7b27484a4a31b7733) - 2026-11-13
+* [Commit] [perf(flat): compact the persisted snapshots a restart reloads (#15858)](https://github.com/NethermindEth/nethermind/commit/dce158631373e23c1feddbc26739d497f3d15b46) - 2026-11-13
+* [Commit] [test(flat): move the shared-bloom tests into the compactor and loader fixtures (#15832)](https://github.com/NethermindEth/nethermind/commit/8cd019e0ba635578f6c23320ab2d5195b1b341f3) - 2026-11-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

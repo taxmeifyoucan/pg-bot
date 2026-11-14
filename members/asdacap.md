@@ -83,6 +83,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(flat): serve snap ranges with a node record visitor (#15742)](https://github.com/NethermindEth/nethermind/commit/8ea4651c18d2f0119994b7bfdd05d9cfcad08cbd) - 2026-11-10
 * [Commit] [fix(db): treat only missing keys as misses in span-action TryGet (#15765)](https://github.com/NethermindEth/nethermind/commit/7cd41d5e5d368e1ef1d28831257874f2316497be) - 2026-11-10
 * [Commit] [perf(state): walk node records in storage range and trie dump visitors (#15763)](https://github.com/NethermindEth/nethermind/commit/774ec83f9976c4631e692801a0749df216b701f3) - 2026-11-10
+* [Pull Request] [perf(sync): use AccountStruct in flat raw persistence and snap messages](https://github.com/NethermindEth/nethermind/pull/15876) - 2026-11-14
+* [Pull Request] [refactor(flat): remove the array-returning trie RLP reads from the persistence reader](https://github.com/NethermindEth/nethermind/pull/15875) - 2026-11-14
+* [Review] [Review on: feat(flat): migrate the pruning trie state to flat while the node runs](https://github.com/NethermindEth/nethermind/pull/15638#pullrequestreview-5889569537) - 2026-11-13
+* [Commit] [fix(db): count open snapshots per version in SnapshotableMemDb (#15635)](https://github.com/NethermindEth/nethermind/commit/a7dd73052e696ad934d228aad3f33e660701fdb7) - 2026-11-14
+* [Commit] [refactor(trie): decode node records without validating the RLP (#15859)](https://github.com/NethermindEth/nethermind/commit/55c235aa383fea53410698b59f9605e5299efa3b) - 2026-11-13
 ## Q3 2026
 
 

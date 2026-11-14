@@ -70,6 +70,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Inline EVM opcode handlers](https://github.com/status-im/nimbus-eth1/pull/5139) - 2026-11-06
 * [Review] [Review on: Use manually allocated EVM memory](https://github.com/status-im/nimbus-eth1/pull/5135#pullrequestreview-5825603462) - 2026-11-09
 * [Commit] [Inline EVM opcode handlers (#5139)](https://github.com/status-im/nimbus-eth1/commit/9fd626cb19808a9134a91062f33489415a84f986) - 2026-11-12
+* [Pull Request] [Remove bodies of error-pragma copy hooks](https://github.com/status-im/nimbus-eth1/pull/5162) - 2026-11-13
+* [Commit] [Remove bodies of error-pragma copy hooks (#5162)](https://github.com/status-im/nimbus-eth1/commit/29b21cbf1856f2f2032274d249ef1a3e885cba02) - 2026-11-13
 ## Q3 2026
 
 

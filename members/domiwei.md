@@ -393,6 +393,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/phase1/forkchoice: cache replayed states, skip read replay signatures](https://github.com/erigontech/erigon/pull/26163#pullrequestreview-5873424438) - 2026-11-12
 * [Review] [Review on: cl/beacon/handler: fix validator_inclusion panic on unknown validators](https://github.com/erigontech/erigon/pull/26160#pullrequestreview-5873115390) - 2026-11-12
 * [Commit] [cl/phase1/network: keep the held Gloas tip and its peer when the stage is cancelled during processing (#26040)](https://github.com/erigontech/erigon/commit/1c59e18f387c07952d3c332a305d7164a5ca0f0c) - 2026-11-12
+* [Review] [Review on: cl/validator/devvalidator: wait for the head state at startup](https://github.com/erigontech/erigon/pull/26251#pullrequestreview-5891650714) - 2026-11-13
+* [Pull Request] [[r3.8] cl/das: skip FK20 for a complete matrix and wait for gossip to go quiet before a recovery](https://github.com/erigontech/erigon/pull/26289) - 2026-11-14
+* [Pull Request] [cl/sentinel/handlers: keep large data column responses alive past the 5 s stream deadline](https://github.com/erigontech/erigon/pull/26288) - 2026-11-14
+* [Pull Request] [cl/phase1/stages: backfill the custody columns of a branch that becomes canonical](https://github.com/erigontech/erigon/pull/26287) - 2026-11-14
+* [Pull Request] [[r3.8] cl/sentinel: refuse a fixed-size request with an oversized prefix](https://github.com/erigontech/erigon/pull/26262) - 2026-11-13
+* [Review] [Review on: cl/das: skip FK20 for a complete matrix and wait for gossip to go quiet before a recovery](https://github.com/erigontech/erigon/pull/26050#pullrequestreview-5887887716) - 2026-11-13
+* [Commit] [cl/das: skip FK20 for a complete matrix and wait for gossip to go quiet before a recovery (#26050)](https://github.com/erigontech/erigon/commit/a67a6470ce59fed18e6affef503a3b00a09f9717) - 2026-11-13
+* [Commit] [cl/das, cl/phase1/network/services: build Gloas data columns from the local EL's blobs (#26067)](https://github.com/erigontech/erigon/commit/6b89a87161d9fcdfb6f2c2b2e3ef12cc90b7f061) - 2026-11-13
+* [Commit] [cl/phase1/forkchoice, cl/phase1/forkchoice/fork_graph: run the CL transition alongside newPayload (#25925)](https://github.com/erigontech/erigon/commit/0fd995b4d35a67d6b03c2d024e7b70ed5517e7fa) - 2026-11-13
+* [Commit] [cl/phase1/network: keep peers and the held tip when the stage is cancelled during RequestMore (#26209)](https://github.com/erigontech/erigon/commit/245d9223fc71cf8e7208bc357dda9dbfec5bcbaf) - 2026-11-13
 ## Q3 2026
 
 

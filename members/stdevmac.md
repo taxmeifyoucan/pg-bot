@@ -515,6 +515,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(rpc): report frame tx gas as intrinsic gas plus frame limits](https://github.com/NethermindEth/nethermind/pull/15761#pullrequestreview-5837821989) - 2026-11-10
 * [Review] [Review on: fix(tracing): report execution gas only for frames in callTracer and trace_*](https://github.com/NethermindEth/nethermind/pull/15756#pullrequestreview-5838087970) - 2026-11-10
 * [Review] [Review on: fix(eip8141): raise the shared MAX_VERIFY_GAS floor to 300_000](https://github.com/NethermindEth/nethermind/pull/15764#pullrequestreview-5837707669) - 2026-11-10
+* [Commit] [fix(simulate): resolve an omitted nonce when the call executes (#15680)](https://github.com/NethermindEth/nethermind/commit/0d75a32abf7957d805a5b56015ec9d3e856a7e7d) - 2026-11-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

@@ -46,6 +46,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Add daniellehrner as EVM code owner](https://github.com/besu-eth/besu/pull/11900) - 2026-11-09
 * [Commit] [Add daniellehrner as EVM code owner (#11900)](https://github.com/besu-eth/besu/commit/96c4592b2de23512e333ca9df8b039c080a9cdc5) - 2026-11-09
 * [Pull Request] [Speed up parallel import of blocks with heavy batch transactions](https://github.com/besu-eth/besu/pull/11916) - 2026-11-10
+* [Review] [Review on: Skip NewBlock imports for blocks the QBFT round is already finalising](https://github.com/besu-eth/besu/pull/11583#pullrequestreview-5891266221) - 2026-11-13
+* [Review] [Review on: Chain same-sender transactions in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11808#pullrequestreview-5891185121) - 2026-11-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

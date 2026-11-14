@@ -258,6 +258,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Update security report email](https://github.com/besu-eth/besu/pull/11953#pullrequestreview-5872692270) - 2026-11-12
 * [Issue] [Test that an in-process eth_estimateGas call keeps strict: true priced](https://github.com/besu-eth/besu/issues/11962) - 2026-11-13
 * [Issue] [Add eth_estimateGas spec fixtures that pin the -32004 insufficient funds error](https://github.com/besu-eth/besu/issues/11961) - 2026-11-13
+* [Review] [Review on: fix(rpc): report creationMethod on every create trace frame](https://github.com/besu-eth/besu/pull/11435#pullrequestreview-5888051702) - 2026-11-13
+* [Review] [Review on: fix(rpc): retain nonzero-value precompile trace frames](https://github.com/besu-eth/besu/pull/11360#pullrequestreview-5887672392) - 2026-11-13
+* [Review] [Review on: Add behaviour change notice for strict JSON-RPC address parsing](https://github.com/besu-eth/besu/pull/11967#pullrequestreview-5888217014) - 2026-11-13
+* [Pull Request] [Drop final from range-checked CLI option fields](https://github.com/besu-eth/besu/pull/11929) - 2026-11-13
+* [Review] [Review on: fix(rpc): report empty code for self-destructing creations](https://github.com/besu-eth/besu/pull/11362#pullrequestreview-5887731018) - 2026-11-13
+* [Review] [Review on: fix(rpc): retain precompile output in Parity call frames](https://github.com/besu-eth/besu/pull/11346#pullrequestreview-5887284680) - 2026-11-13
+* [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-5887071913) - 2026-11-13
+* [Review] [Review on: fix RPCWS options to read the truststore files when set on config](https://github.com/besu-eth/besu/pull/11839#pullrequestreview-5886299703) - 2026-11-13
+* [Commit] [Update Docker base images to resolve CVE-2026-109518 (#11964)](https://github.com/besu-eth/besu/commit/b83f34eaad2b1d7607a8231f78a83d7f6712b887) - 2026-11-13
+* [Commit] [Fix CHANGELOG entries listed under the wrong release (#11912)](https://github.com/besu-eth/besu/commit/a3582bf2a79cfb9a4cec36d2c7f011b7203d2f54) - 2026-11-13
+* [Commit] [Drop final from range-checked CLI option fields (#11929)](https://github.com/besu-eth/besu/commit/ddcb973457f69c870dfc23479ac50238bacd71fa) - 2026-11-13
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

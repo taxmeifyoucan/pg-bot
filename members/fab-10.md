@@ -126,9 +126,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Pluggable protocol schedule customization](https://github.com/besu-eth/besu/pull/11887#pullrequestreview-5874614359) - 2026-11-12
 * [Pull Request] [Update security report email](https://github.com/besu-eth/besu/pull/11953) - 2026-11-12
 * [Commit] [Update security report email (#11953)](https://github.com/besu-eth/besu/commit/8447c6ba69bde74674529844ca12405063927809) - 2026-11-12
+* [Review] [Review on: Run the built-in plugins through the plugin lifecycle (#11464) ](https://github.com/besu-eth/besu/pull/11641#pullrequestreview-5896731533) - 2026-11-13
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 
+* [Review] [Review on: changelog and version bump for release 2.2.0](https://github.com/besu-eth/besu-native/pull/328#pullrequestreview-5890823322) - 2026-11-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5589116627) - 2026-10-20
 ## Q3 2026

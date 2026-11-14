@@ -29,6 +29,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: eez: follow the eez-rollupX networks](https://github.com/erigontech/erigon/pull/25707#pullrequestreview-5802350386) - 2026-11-06
 * [Pull Request] [eez: read blobs from the L1's own consensus layer](https://github.com/erigontech/erigon/pull/26120) - 2026-11-11
 * [Review] [Review on: eez: read blobs from the L1's own consensus layer](https://github.com/erigontech/erigon/pull/26120#pullrequestreview-5862592005) - 2026-11-11
+* [Pull Request] [cl/validator/devvalidator: wait for the head state at startup](https://github.com/erigontech/erigon/pull/26251) - 2026-11-13
+* [Review] [Review on: cl/validator/devvalidator: wait for the head state at startup](https://github.com/erigontech/erigon/pull/26251#pullrequestreview-5897622706) - 2026-11-13
+* [Review] [Review on: execution/state: report only the current transaction's self-destruct](https://github.com/erigontech/erigon/pull/26228#pullrequestreview-5898874650) - 2026-11-13
+* [Commit] [cl/validator/devvalidator: wait for the head state at startup (#26251)](https://github.com/erigontech/erigon/commit/bbb5524e53fb057e7d47a5066e152f1091ac4ba4) - 2026-11-14
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

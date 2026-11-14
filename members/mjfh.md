@@ -39,6 +39,8 @@ Team: Nimbus
 * [Commit] [Snap2 dowload time improvements (#5141)](https://github.com/status-im/nimbus-eth1/commit/b99707f14595b48fda54a18db4c934d35cc4dec1) - 2026-11-09
 * [Pull Request] [Snap2 metrics and eta](https://github.com/status-im/nimbus-eth1/pull/5147) - 2026-11-11
 * [Commit] [Snap2 metrics and eta (#5147)](https://github.com/status-im/nimbus-eth1/commit/5367fc70ccc2988252e7c7171212630eb4f537b5) - 2026-11-11
+* [Pull Request] [Code cosmetics, comments update, small fixes and updates](https://github.com/status-im/nimbus-eth1/pull/5161) - 2026-11-13
+* [Commit] [Code cosmetics, comments update, small fixes and updates (#5161)](https://github.com/status-im/nimbus-eth1/commit/22f5cdc252f04767fe7387f0548a3e6cbf277186) - 2026-11-13
 ## Q3 2026
 
 

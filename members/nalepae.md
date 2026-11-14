@@ -164,6 +164,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Drop Gloas from unsupportedVersions](https://github.com/OffchainLabs/prysm/pull/17853#pullrequestreview-5872635438) - 2026-11-12
 * [Review] [Review on: Add Gloas to the light client test helper](https://github.com/OffchainLabs/prysm/pull/17852#pullrequestreview-5872516903) - 2026-11-12
 * [Review] [Review on: Optimise DA wait times for partial columns in the worst case of (super node + backfill + EL dropping blobs)](https://github.com/OffchainLabs/prysm/pull/17791#pullrequestreview-5872223297) - 2026-11-12
+* [Pull Request] [Request a missing block from the best peers if it is an ancestor of a block from the proposer expected by the head state. Otherwise, request it only from the peer that referenced it, and downscore that peer if it does not serve it.](https://github.com/OffchainLabs/prysm/pull/17871) - 2026-11-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

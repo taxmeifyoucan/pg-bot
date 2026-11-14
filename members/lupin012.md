@@ -185,6 +185,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [execution/types, rpc/jsonstream: encode the shared log fields once (#26091)](https://github.com/erigontech/erigon/commit/97b829d98cfdd538f46cdf11a7b1950ae817b49d) - 2026-11-11
 * [Commit] [rpc, docs: report a non-canonical trace block hash as -32001 or 4444, not -32603 (#26090)](https://github.com/erigontech/erigon/commit/41ffd5d0faf29c56c5bd1defd4e1fe06c4a4a6fd) - 2026-11-11
 * [Commit] [rpc/jsonrpc: serve genesis receipts when commitment history starts in block 0 (#26158)](https://github.com/erigontech/erigon/commit/d615f2a61029d119de7127673138ce2d05c07e66) - 2026-11-12
+* [Pull Request] [rpc/jsonrpc: trace a block's transactions in parallel in debug_traceBlock*](https://github.com/erigontech/erigon/pull/25846) - 2026-11-13
+* [Commit] [rpc/jsonrpc: trace a block's transactions in parallel in debug_traceBlock* (#25846)](https://github.com/erigontech/erigon/commit/9176722f2df81bf9878a1d28be4f238aae72e580) - 2026-11-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

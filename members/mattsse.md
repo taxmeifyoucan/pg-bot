@@ -676,6 +676,37 @@ Team: Reth
 * [Commit] [fix(rpc): don't panic on oversized sub ack (#28485)](https://github.com/paradigmxyz/reth/commit/d0bfe6232ae72a6cb4f2bb01f9a51c7b4a60659c) - 2026-11-12
 * [Commit] [refactor(rpc): vendor jsonrpsee server (#28290)](https://github.com/paradigmxyz/reth/commit/b05f9a86df7f45568f8c2fcc42512f702f548357) - 2026-11-12
 * [Commit] [feat(rpc): add Call::simulate_call_nonce hook (#28458)](https://github.com/paradigmxyz/reth/commit/55886976ded86382730cc537b993239650c0ec6b) - 2026-11-12
+* [Pull Request] [fix(net): check all queued fetch requests per poll](https://github.com/paradigmxyz/reth/pull/28534) - 2026-11-13
+* [Pull Request] [fix(storage): floor history reads at lowest changeset](https://github.com/paradigmxyz/reth/pull/28549) - 2026-11-13
+* [Pull Request] [fix(download): keep history prune checkpoints on index reset](https://github.com/paradigmxyz/reth/pull/28548) - 2026-11-13
+* [Pull Request] [fix(rpc): time out idle HTTP/1 keep-alive connections](https://github.com/paradigmxyz/reth/pull/28545) - 2026-11-13
+* [Pull Request] [fix(rpc): answer over-limit streamed request bodies with 413](https://github.com/paradigmxyz/reth/pull/28546) - 2026-11-13
+* [Pull Request] [fix(rpc): log only the request line and answer refused upgrades with 400](https://github.com/paradigmxyz/reth/pull/28547) - 2026-11-13
+* [Pull Request] [fix(rpc): close ws on oversized fragmented message](https://github.com/paradigmxyz/reth/pull/28544) - 2026-11-13
+* [Review] [Review on: fix: cap BAL retention at bodies prune distance](https://github.com/paradigmxyz/reth/pull/28529#pullrequestreview-5896542265) - 2026-11-13
+* [Review] [Review on: perf(rpc): classify JSON-RPC messages in one pass](https://github.com/paradigmxyz/reth/pull/28508#pullrequestreview-5890382920) - 2026-11-13
+* [Review] [Review on: refactor(engine): split tree handler into modules](https://github.com/paradigmxyz/reth/pull/28507#pullrequestreview-5894837179) - 2026-11-13
+* [Review] [Review on: refactor(chain-state): split in_memory module](https://github.com/paradigmxyz/reth/pull/28506#pullrequestreview-5894836204) - 2026-11-13
+* [Pull Request] [perf(txpool): park descendants once per sender in remove_transactions](https://github.com/paradigmxyz/reth/pull/28542) - 2026-11-13
+* [Review] [Review on: perf(rpc): range-read eth_feeHistory cache misses](https://github.com/paradigmxyz/reth/pull/28523#pullrequestreview-5891391068) - 2026-11-13
+* [Review] [Review on: perf(rpc): build RPC service once per connection](https://github.com/paradigmxyz/reth/pull/28522#pullrequestreview-5891836175) - 2026-11-13
+* [Pull Request] [perf(rpc): parallelize eth_getLogs range scans](https://github.com/paradigmxyz/reth/pull/28537) - 2026-11-13
+* [Review] [Review on: perf(rpc): single provider read on receipt and tx lookup misses](https://github.com/paradigmxyz/reth/pull/28524#pullrequestreview-5891658780) - 2026-11-13
+* [Review] [Review on: perf(rpc): read hashes-only blocks without senders](https://github.com/paradigmxyz/reth/pull/28521#pullrequestreview-5891347234) - 2026-11-13
+* [Pull Request] [fix(consensus): keep BAL hash validation when skipping requests hash check](https://github.com/paradigmxyz/reth/pull/28535) - 2026-11-13
+* [Review] [Review on: chore(ci): remove osaka sim and use enginex and wirex](https://github.com/paradigmxyz/reth/pull/28533#pullrequestreview-5891306486) - 2026-11-13
+* [Commit] [perf(rpc): build RPC service once per connection (#28522)](https://github.com/paradigmxyz/reth/commit/10c6cf5e772734601ab4fb457973151d705a6540) - 2026-11-13
+* [Commit] [fix(trie): drop queued proof jobs with the handle (#28509)](https://github.com/paradigmxyz/reth/commit/ebf1daf191f17815f00f06b3d3214884de9e5e42) - 2026-11-13
+* [Commit] [perf(rpc): single provider read on receipt and tx lookup misses (#28524)](https://github.com/paradigmxyz/reth/commit/9e549ca846e3d5274b108ee8037fca5c28931687) - 2026-11-13
+* [Commit] [perf(rpc): serialize pubsub notifications once (#28499)](https://github.com/paradigmxyz/reth/commit/2b5ad4ae95adcc0a290c3fa197bd00c2aac1b850) - 2026-11-13
+* [Commit] [fix(consensus): keep BAL hash validation when skipping requests hash check (#28535)](https://github.com/paradigmxyz/reth/commit/e96f4b68b008940f3260c38c397a8a5fd56bfb76) - 2026-11-13
+* [Commit] [fix(storage): don't cache RPC trie reverts (#28511)](https://github.com/paradigmxyz/reth/commit/6ae05c469e4d7c5a811aa46ccaedfa032117e62d) - 2026-11-13
+* [Commit] [perf(rpc): trim response buffer copies (#28500)](https://github.com/paradigmxyz/reth/commit/6f731d2963fa0b7f8f0a1636320a39aaf529333d) - 2026-11-13
+* [Commit] [perf(rpc): stop copying params for async methods (#28519)](https://github.com/paradigmxyz/reth/commit/cd11b491db22c54bc7abe2fa5c921303e42ce6e7) - 2026-11-13
+* [Commit] [fix(rpc): keep request input out of params and version errors (#28503)](https://github.com/paradigmxyz/reth/commit/122914d065888cb939abd5cfe241ef2832a52b83) - 2026-11-13
+* [Commit] [fix(rpc): stop cloning mev bundle metadata per tx (#28512)](https://github.com/paradigmxyz/reth/commit/b70944180d0314725e71c04027455f5a795a94e2) - 2026-11-13
+* [Commit] [perf(rpc): run sync blocking IO closures directly (#28517)](https://github.com/paradigmxyz/reth/commit/fd1666238bf5e90e4836db5de82067c5dd66ae7d) - 2026-11-13
+* [Commit] [fix(rpc): time out stalled WebSocket reads (#28515)](https://github.com/paradigmxyz/reth/commit/55a54f4a13637e2b127186583058c861271e9ef5) - 2026-11-13
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03
@@ -685,6 +716,10 @@ Team: Reth
 * [Review] [Review on: docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562#pullrequestreview-5432531169) - 2026-10-06
 * [Pull Request] [docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561) - 2026-10-06
 * [Review] [Review on: docs: remove Sergei Shulepov](https://github.com/protocolguild/documentation/pull/566#pullrequestreview-5442672968) - 2026-10-07
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(test-client-clis): map reth floor gas and cap messages](https://github.com/ethereum/execution-specs/pull/3994) - 2026-11-13
+* [Commit] [fix(test-client-clis): map reth floor gas and cap messages (#3994)](https://github.com/ethereum/execution-specs/commit/f877e85ae6fd6047d68b08f5eb2022c78047cfbc) - 2026-11-14
 ## Q3 2026
 
 

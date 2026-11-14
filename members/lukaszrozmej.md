@@ -864,6 +864,39 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [refactor(rlp): replace the old RLP core with FluentRlp (#15458)](https://github.com/NethermindEth/nethermind/commit/e82d5b0c34b3ae7c8542a507c8c275ecfc281f6c) - 2026-11-12
 * [Commit] [test(txpool): run the concurrent processed blob read test on dedicated threads (#15798)](https://github.com/NethermindEth/nethermind/commit/ac4b7a4eea51878aaf8503f741ef239c1a1ed51a) - 2026-11-12
 * [Commit] [ci(zkevm): run the 200M MODEXP benchmark blocks again (#15800)](https://github.com/NethermindEth/nethermind/commit/3f27cd505b2e9dbf746b1380655b61840e810302) - 2026-11-12
+* [Pull Request] [fix(merge): rebuild the payload once the tx pool has processed the parent block](https://github.com/NethermindEth/nethermind/pull/15873) - 2026-11-13
+* [Review] [Review on: perf(evm): compute EXP with a power-of-two base as a single bit](https://github.com/NethermindEth/nethermind/pull/15871#pullrequestreview-5898576758) - 2026-11-13
+* [Review] [Review on: feat: migrate to .NET 11 ](https://github.com/NethermindEth/nethermind/pull/14147#pullrequestreview-5895115142) - 2026-11-13
+* [Pull Request] [ci(stateless): continue when the Docker Hub OIDC login fails](https://github.com/NethermindEth/nethermind/pull/15872) - 2026-11-13
+* [Pull Request] [perf(evm): skip the access tracker copy when a cached call frame is reused](https://github.com/NethermindEth/nethermind/pull/15867) - 2026-11-13
+* [Review] [Review on: perf(evm): skip the access tracker copy when a cached call frame is reused](https://github.com/NethermindEth/nethermind/pull/15867#pullrequestreview-5895994339) - 2026-11-13
+* [Review] [Review on: fix(rpc)!: let the stored block decide 4444 for a missing transaction receipt](https://github.com/NethermindEth/nethermind/pull/15857#pullrequestreview-5888790129) - 2026-11-13
+* [Review] [Review on: fix(rpc): accept a block hash as newestBlock in eth_feeHistory](https://github.com/NethermindEth/nethermind/pull/15837#pullrequestreview-5892215071) - 2026-11-13
+* [Pull Request] [ci(zkevm): raise the ZisK guest job timeout to 8 minutes](https://github.com/NethermindEth/nethermind/pull/15863) - 2026-11-13
+* [Review] [Review on: perf(evm): encode a 64-bit nonce directly when deriving a CREATE address](https://github.com/NethermindEth/nethermind/pull/15846#pullrequestreview-5889941962) - 2026-11-13
+* [Review] [Review on: chore: update Nethermind.Numerics.Int256 to 1.14.0](https://github.com/NethermindEth/nethermind/pull/15866#pullrequestreview-5893560278) - 2026-11-13
+* [Review] [Review on: perf(rpc): read a transaction request in one pass per nesting level](https://github.com/NethermindEth/nethermind/pull/15864#pullrequestreview-5893268089) - 2026-11-13
+* [Review] [Review on: fix(runner): register the receipt converter only once](https://github.com/NethermindEth/nethermind/pull/15822#pullrequestreview-5888236187) - 2026-11-13
+* [Commit] [ci(stateless): continue when the Docker Hub OIDC login fails (#15872)](https://github.com/NethermindEth/nethermind/commit/22e2dbc9c4e8fd3d074bbba82d224cdeb9b8c4be) - 2026-11-14
+* [Commit] [perf(evm): skip the access tracker copy when a cached call frame is reused (#15867)](https://github.com/NethermindEth/nethermind/commit/a14a6380a3d0220976cdf7b79fb4179564458154) - 2026-11-14
+* [Commit] [refactor(rlp): replace the Rlp wrapper object with byte arrays (#15805)](https://github.com/NethermindEth/nethermind/commit/22db1a8cef3a160257504668265a7bee7746f7a8) - 2026-11-13
+* [Commit] [fix(rpc): accept a block hash as newestBlock in eth_feeHistory (#15837)](https://github.com/NethermindEth/nethermind/commit/41d6608820cb92fdb911c95f51791a50dcc8cb34) - 2026-11-13
+* [Commit] [ci(zkevm): raise the ZisK guest job timeout to 8 minutes (#15863)](https://github.com/NethermindEth/nethermind/commit/aa1b0fc2bdbebdc18f0892f512d5702c1378baf1) - 2026-11-13
+* [Commit] [perf(evm): encode a 64-bit nonce directly when deriving a CREATE address (#15846)](https://github.com/NethermindEth/nethermind/commit/66a200acaffd85666fc87332c03b56d343482cda) - 2026-11-13
+* [Commit] [perf(zkevm): fuse MCOPY and trim the guest data-copy handler (#15818)](https://github.com/NethermindEth/nethermind/commit/ee1af10c87619255432f3351f5ef630acfc4d3e2) - 2026-11-13
+* [Commit] [perf(zkevm): fuse the EIP-8024 DUPN, SWAPN and EXCHANGE guest handlers (#15814)](https://github.com/NethermindEth/nethermind/commit/3c978a774f6e5beda0b090f3d52dc9dd4514e373) - 2026-11-13
+* [Commit] [fix(rpc): list the eth protocol in parity_netPeers only after the peer sends Status (#15838)](https://github.com/NethermindEth/nethermind/commit/cafb7984ef0feee25ffde2648241d6f6d207e6cb) - 2026-11-13
+* [Commit] [test(zkevm): run the secured-path tests one at a time (#15860)](https://github.com/NethermindEth/nethermind/commit/07ecd047afa57f0b9a3b20cd13a8e79f8e32f016) - 2026-11-13
+* [Commit] [perf(zkevm): replace the BLOCKHASH number with its hash in a fused guest handler (#15828)](https://github.com/NethermindEth/nethermind/commit/6399f8ac3678304ce49338f8a9ae4ba330028ad9) - 2026-11-13
+* [Commit] [perf(zkevm): count leading zeros in a fused CLZ guest handler (#15849)](https://github.com/NethermindEth/nethermind/commit/fba9e4b361ce8cbe995fdbb3de275cd52924fa1c) - 2026-11-13
+* [Commit] [perf(zkevm): fold an ISZERO that follows a comparison into the comparison's guest handler (#15854)](https://github.com/NethermindEth/nethermind/commit/bb06cf881874fe3523120bd03d957445af3789f7) - 2026-11-13
+* [Commit] [fix(rpc): align call state overrides with the spec: move errors, move order and override keys (#15839)](https://github.com/NethermindEth/nethermind/commit/51e8e8496e36095f58422f97991699e23e941cfd) - 2026-11-13
+* [Commit] [perf(bal): skip sorting validation-index rows that are already in order (#15840)](https://github.com/NethermindEth/nethermind/commit/25cf0dfc112f251d757bf58e497e25312d4c325d) - 2026-11-13
+* [Commit] [perf(bal): size the generated block access list from the block's own list (#15847)](https://github.com/NethermindEth/nethermind/commit/32da7ebb0216f00464043282431e2dae15fca284) - 2026-11-13
+* [Commit] [fix(zkevm): run frames with less gas than code on handlers that test every charge (#15824)](https://github.com/NethermindEth/nethermind/commit/cb477a2565d3060a06a909432eb9c96b384b952b) - 2026-11-13
+* [Commit] [perf(zkevm): run the fused SLOAD and SSTORE guest handlers under EIP-8038 (#15808)](https://github.com/NethermindEth/nethermind/commit/ae8215f3bb76182180b45cfb4172720318330d50) - 2026-11-13
+* [Commit] [perf(bal): test the change of a traced balance or code-hash read before copying it (#15830)](https://github.com/NethermindEth/nethermind/commit/02c3fca50e03c6c6ddaa7fef2e29003ab9acad04) - 2026-11-13
+* [Commit] [perf(bal): reset a pooled account record once, when the slice clears (#15843)](https://github.com/NethermindEth/nethermind/commit/22773afbafb907f7171585d26a709413d48196f9) - 2026-11-13
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

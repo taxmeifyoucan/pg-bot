@@ -314,6 +314,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: Add EIP: Post-Quantum Validator Key Registry](https://github.com/ethereum/EIPs/pull/12550#pullrequestreview-5610842707) - 2026-10-22
 * [Review] [Review on: Update EIP-8450: Address post-merge review](https://github.com/ethereum/EIPs/pull/12599#pullrequestreview-5781376721) - 2026-11-05
 * [Review] [Review on: Add EIP: Post-Quantum Material Registration](https://github.com/ethereum/EIPs/pull/12609#pullrequestreview-5844818219) - 2026-11-10
+* [Review] [Review on: Update EIP-8288: leanSPHINCS public key is PK.seed || PK.root](https://github.com/ethereum/EIPs/pull/12666#pullrequestreview-5898271158) - 2026-11-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 ## Q3 2026

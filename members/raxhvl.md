@@ -23,6 +23,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Issue] [Bug: [Low] Mixup of calldata token per byte and byte per gas values](https://github.com/ethereum/execution-specs/issues/3968) - 2026-11-07
 * [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5828432963) - 2026-11-09
 * [Review] [Review on: ✨ feat(test-types): P256 signing utility](https://github.com/ethereum/execution-specs/pull/3961#pullrequestreview-5860059372) - 2026-11-11
+* [Review] [Review on: feat(spec-specs): add EIP-8141 LEANSPHINCS signature scheme from ethereum/EIPs#12616](https://github.com/ethereum/execution-specs/pull/3957#pullrequestreview-5889085072) - 2026-11-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
 

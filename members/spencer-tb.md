@@ -115,6 +115,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(doc): switch the docs site to Zensical's modern look](https://github.com/ethereum/execution-specs/pull/3977#pullrequestreview-5859493250) - 2026-11-11
 * [Review] [Review on: chore(docs): build the spec reference with rdocc](https://github.com/ethereum/execution-specs/pull/3974#pullrequestreview-5857946883) - 2026-11-11
 * [Review] [Review on: chore(doc,ci): build the docs site with Zensical instead of MkDocs](https://github.com/ethereum/execution-specs/pull/3975#pullrequestreview-5857898165) - 2026-11-11
+* [Review] [Review on: fix(test-consume): report enginex and wirex tests whose client fails to start](https://github.com/ethereum/execution-specs/pull/3990#pullrequestreview-5893325322) - 2026-11-13
+* [Review] [Review on: fix(test-consume): schedule the DAO fork before Tangerine Whistle only](https://github.com/ethereum/execution-specs/pull/3980#pullrequestreview-5893314205) - 2026-11-13
+* [Commit] [feat(ci,doc): add a contribution policy and an outside contributor gate (#3881)](https://github.com/ethereum/execution-specs/commit/4c9134c7b62a4a9b1b60ebb2f3c53c655da2e4ec) - 2026-11-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

@@ -66,6 +66,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [FCR: count parent's pending node support in empty-slot discount](https://github.com/Consensys-Incorporated/teku/pull/11628) - 2026-11-11
 * [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5858229462) - 2026-11-11
 * [Commit] [Fix data columns missing from custody after custody grows to all groups (#11609)](https://github.com/Consensys-Incorporated/teku/commit/d3f2238da764775ab89fdd1b4fab5a1f40855adb) - 2026-11-12
+* [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-5895893837) - 2026-11-13
+* [Pull Request] [FCR: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/Consensys-Incorporated/teku/pull/11573) - 2026-11-13
+* [Review] [Review on: FCR: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/Consensys-Incorporated/teku/pull/11573#pullrequestreview-5895841332) - 2026-11-13
+* [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5890993900) - 2026-11-13
+* [Commit] [FCR: Add a mechanism for providing a restart-resilient confirmed root (#11573)](https://github.com/Consensys-Incorporated/teku/commit/21788914eec31029e7c6be0c1a505260eed0bdfa) - 2026-11-13
 ## Q3 2026
 
 

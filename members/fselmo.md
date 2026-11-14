@@ -90,6 +90,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982#pullrequestreview-5865348081) - 2026-11-11
 * [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5864001089) - 2026-11-11
 * [Review] [Review on: fix(spec-specs, tests): reject block gas limits above 2**63 - 1](https://github.com/ethereum/execution-specs/pull/3960#pullrequestreview-5863374339) - 2026-11-11
+* [Review] [Review on: feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982#pullrequestreview-5898968338) - 2026-11-13
+* [Commit] [fix(test-specs): keep state tests' excess blob gas in blockchain form (#3983)](https://github.com/ethereum/execution-specs/commit/7fd35fca7113d061122b2bc1f8eedb15fb9d5502) - 2026-11-13
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

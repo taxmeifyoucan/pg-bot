@@ -43,6 +43,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Run a child frame on its parent's EVM and reject mismatched frames](https://github.com/besu-eth/besu/pull/11867#pullrequestreview-5839998352) - 2026-11-10
 * [Commit] [remove unused methods to manipulate memory in MessageFrame (#11918)](https://github.com/besu-eth/besu/commit/c2c404cadf4fc610702220c82d6f665811bf2416) - 2026-11-10
 * [Review] [Review on: Keep the message call processor's config when a simulation overrides precompiles](https://github.com/besu-eth/besu/pull/11732#pullrequestreview-5857508139) - 2026-11-11
+* [Review] [Review on: Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811#pullrequestreview-5893632217) - 2026-11-13
+* [Pull Request] [Refactor tx collision in optimistic parallel executor](https://github.com/besu-eth/besu/pull/11971) - 2026-11-13
 ## Q3 2026
 
 

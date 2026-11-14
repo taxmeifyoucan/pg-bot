@@ -110,6 +110,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Define PTC duties dependent root for the Gloas fork epoch](https://github.com/Consensys-Incorporated/teku/pull/11631#pullrequestreview-5879229350) - 2026-11-12
 * [Pull Request] [Hold SSZ tree updates in primitive arrays](https://github.com/Consensys-Incorporated/teku/pull/11634) - 2026-11-12
 * [Pull Request] [Track the changes of mutable SSZ composites in a paged array](https://github.com/Consensys-Incorporated/teku/pull/11633) - 2026-11-12
+* [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-5895210602) - 2026-11-13
+* [Review] [Review on: FCR: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/Consensys-Incorporated/teku/pull/11573#pullrequestreview-5895299739) - 2026-11-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

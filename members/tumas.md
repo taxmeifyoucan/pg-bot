@@ -56,6 +56,8 @@ Team: Grandine
 * [Commit] [Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/commit/998c46aa322a315929d574854fb1aee07d5aa060) - 2026-11-11
 * [Review] [Review on: Verify execution payload block hash](https://github.com/grandinetech/grandine/pull/1040#pullrequestreview-5873512454) - 2026-11-12
 * [Commit] [Add --execution-endpoint and deprecate --eth1-rpc-urls](https://github.com/grandinetech/grandine/commit/78f9d5508b2544b2a7dc17ff87d0180df12d8bd0) - 2026-11-12
+* [Pull Request] [Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/pull/1046) - 2026-11-13
+* [Review] [Review on: Add missing proposer reorg functionality](https://github.com/grandinetech/grandine/pull/1044#pullrequestreview-5893597293) - 2026-11-13
 ## Q3 2026
 
 

@@ -329,6 +329,25 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): leave failed checked-opcode checks through a tail call](https://github.com/NethermindEth/nethermind/pull/15773#pullrequestreview-5845048697) - 2026-11-10
 * [Pull Request] [perf(evm): store an MSTORE8 byte by rewriting its aligned word on x64](https://github.com/NethermindEth/nethermind/pull/15774) - 2026-11-10
 * [Review] [Review on: perf(evm): store an MSTORE8 byte by rewriting its aligned word on x64](https://github.com/NethermindEth/nethermind/pull/15774#pullrequestreview-5844875277) - 2026-11-10
+* [Review] [Review on: fix(merge): rebuild the payload once the tx pool has processed the parent block](https://github.com/NethermindEth/nethermind/pull/15873#pullrequestreview-5899484316) - 2026-11-13
+* [Review] [Review on: ci(stateless): continue when the Docker Hub OIDC login fails](https://github.com/NethermindEth/nethermind/pull/15872#pullrequestreview-5899495422) - 2026-11-13
+* [Review] [Review on: perf(evm): skip the access tracker copy when a cached call frame is reused](https://github.com/NethermindEth/nethermind/pull/15867#pullrequestreview-5893909541) - 2026-11-13
+* [Review] [Review on: fix(flat): guard each CompactSized boundary and observe a stop between them](https://github.com/NethermindEth/nethermind/pull/15869#pullrequestreview-5899496624) - 2026-11-13
+* [Review] [Review on: perf(eip8288): fold a whole wrapper of signatures into one direct leaf](https://github.com/NethermindEth/nethermind/pull/15870#pullrequestreview-5899496003) - 2026-11-13
+* [Review] [Review on: ci(zkevm): raise the ZisK guest job timeout to 8 minutes](https://github.com/NethermindEth/nethermind/pull/15863#pullrequestreview-5894810496) - 2026-11-13
+* [Review] [Review on: perf(evm): encode a 64-bit nonce directly when deriving a CREATE address](https://github.com/NethermindEth/nethermind/pull/15846#pullrequestreview-5894811789) - 2026-11-13
+* [Review] [Review on: perf(zkevm): fuse MCOPY and trim the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15818#pullrequestreview-5894817657) - 2026-11-13
+* [Review] [Review on: fix(rpc): run a signed eth_sendTransaction request as its signer](https://github.com/NethermindEth/nethermind/pull/15823#pullrequestreview-5894816504) - 2026-11-13
+* [Review] [Review on: feat: Multi-model PR review](https://github.com/NethermindEth/nethermind/pull/12470#pullrequestreview-5894834359) - 2026-11-13
+* [Review] [Review on: fix(sync): keep old bodies sync open until the barrier block is inserted](https://github.com/NethermindEth/nethermind/pull/15348#pullrequestreview-5894830480) - 2026-11-13
+* [Review] [Review on: feat(db): add rewrite-db and compact-db commands to apply RocksDB config changes](https://github.com/NethermindEth/nethermind/pull/15406#pullrequestreview-5894829350) - 2026-11-13
+* [Review] [Review on: perf(rpc): read a transaction request in one pass per nesting level](https://github.com/NethermindEth/nethermind/pull/15864#pullrequestreview-5894809848) - 2026-11-13
+* [Review] [Review on: fix(tracing): report SELFDESTRUCT and static LOG costs and underflow counts as Geth does](https://github.com/NethermindEth/nethermind/pull/15679#pullrequestreview-5894825111) - 2026-11-13
+* [Review] [Review on: fix(optimism): charge the max operator fee up front with the L1 fee](https://github.com/NethermindEth/nethermind/pull/15710#pullrequestreview-5894824577) - 2026-11-13
+* [Review] [Review on: fix(specs): reject out-of-order forks in geth genesis](https://github.com/NethermindEth/nethermind/pull/15714#pullrequestreview-5894823429) - 2026-11-13
+* [Review] [Review on: fix(tracing): write Geth's exit records for rejected calls and SELFDESTRUCT in file traces](https://github.com/NethermindEth/nethermind/pull/15715#pullrequestreview-5894822769) - 2026-11-13
+* [Review] [Review on: feat(rpc)!: pass request cancellation to JSON-RPC methods](https://github.com/NethermindEth/nethermind/pull/15766#pullrequestreview-5894820024) - 2026-11-13
+* [Review] [Review on: perf(network): size eth/72 announced blob mask cache to the blob pool](https://github.com/NethermindEth/nethermind/pull/15794#pullrequestreview-5894818873) - 2026-11-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

@@ -71,6 +71,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(spec-specs): add EIP-8141 LEANSPHINCS signature scheme from ethereum/EIPs#12616](https://github.com/ethereum/execution-specs/pull/3957) - 2026-11-05
 * [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5883429079) - 2026-11-12
 * [Review] [Review on: feat(ci,doc): add a contribution policy and an outside contributor gate](https://github.com/ethereum/execution-specs/pull/3881#pullrequestreview-5883093142) - 2026-11-12
+* [Review] [Review on: feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982#pullrequestreview-5898021201) - 2026-11-13
+* [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5899091811) - 2026-11-13
+* [Review] [Review on: perf(doc,ci): speed up the test case reference](https://github.com/ethereum/execution-specs/pull/3979#pullrequestreview-5897756196) - 2026-11-13
+* [Review] [Review on: fix(test-specs): keep state tests' excess blob gas in blockchain form](https://github.com/ethereum/execution-specs/pull/3983#pullrequestreview-5894015224) - 2026-11-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

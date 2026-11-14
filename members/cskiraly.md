@@ -54,6 +54,7 @@ Team: Codex DAS
 * [Commit] [core/txpool/blobpool: extend fully-fetched blob transactions to the full cell set (#35531)](https://github.com/ethereum/go-ethereum/commit/ddbd6c4324dffecc105b2d967caea288f2e37c61) - 2026-11-09
 * [Review] [Review on: accounts/keystore: fix race between key scan and delete](https://github.com/ethereum/go-ethereum/pull/35846#pullrequestreview-5841160147) - 2026-11-10
 * [Pull Request] [accounts/keystore: send wallet events in the order they are computed](https://github.com/ethereum/go-ethereum/pull/36099) - 2026-11-10
+* [Pull Request] [core: make the state prefetcher's block context once per block](https://github.com/ethereum/go-ethereum/pull/36133) - 2026-11-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08
