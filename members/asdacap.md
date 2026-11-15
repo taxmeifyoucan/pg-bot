@@ -88,6 +88,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(flat): migrate the pruning trie state to flat while the node runs](https://github.com/NethermindEth/nethermind/pull/15638#pullrequestreview-5889569537) - 2026-11-13
 * [Commit] [fix(db): count open snapshots per version in SnapshotableMemDb (#15635)](https://github.com/NethermindEth/nethermind/commit/a7dd73052e696ad934d228aad3f33e660701fdb7) - 2026-11-14
 * [Commit] [refactor(trie): decode node records without validating the RLP (#15859)](https://github.com/NethermindEth/nethermind/commit/55c235aa383fea53410698b59f9605e5299efa3b) - 2026-11-13
+* [Review] [Review on: perf(sync): use AccountStruct in flat raw persistence and snap messages](https://github.com/NethermindEth/nethermind/pull/15876#pullrequestreview-5901707188) - 2026-11-14
+* [Commit] [refactor(flat): remove the array-returning trie RLP reads from the persistence reader (#15875)](https://github.com/NethermindEth/nethermind/commit/9c2595db1e122b6c80f52bd899a458925e9826f4) - 2026-11-14
 ## Q3 2026
 
 

@@ -707,6 +707,18 @@ Team: Reth
 * [Commit] [fix(rpc): stop cloning mev bundle metadata per tx (#28512)](https://github.com/paradigmxyz/reth/commit/b70944180d0314725e71c04027455f5a795a94e2) - 2026-11-13
 * [Commit] [perf(rpc): run sync blocking IO closures directly (#28517)](https://github.com/paradigmxyz/reth/commit/fd1666238bf5e90e4836db5de82067c5dd66ae7d) - 2026-11-13
 * [Commit] [fix(rpc): time out stalled WebSocket reads (#28515)](https://github.com/paradigmxyz/reth/commit/55a54f4a13637e2b127186583058c861271e9ef5) - 2026-11-13
+* [Pull Request] [fix(rpc): preserve WebSocket close replies](https://github.com/paradigmxyz/reth/pull/28558) - 2026-11-14
+* [Pull Request] [perf(rpc): write WS frames without tungstenite](https://github.com/paradigmxyz/reth/pull/28557) - 2026-11-14
+* [Pull Request] [test(engine): drain trie workers in hashing task test](https://github.com/paradigmxyz/reth/pull/28554) - 2026-11-14
+* [Pull Request] [fix(rpc): replace soketto with tokio-tungstenite](https://github.com/paradigmxyz/reth/pull/28553) - 2026-11-14
+* [Review] [Review on: fix(rpc): replace soketto with tokio-tungstenite](https://github.com/paradigmxyz/reth/pull/28553#pullrequestreview-5904409382) - 2026-11-14
+* [Pull Request] [perf(rpc): hash cached block transactions once](https://github.com/paradigmxyz/reth/pull/28552) - 2026-11-14
+* [Commit] [perf(rpc): write WS frames without tungstenite (#28557)](https://github.com/paradigmxyz/reth/commit/30c29f8def88d4bd1f3bb997ee38232db07b206b) - 2026-11-14
+* [Commit] [test(engine): drain trie workers in hashing task test (#28554)](https://github.com/paradigmxyz/reth/commit/54aecb39d6242d13d30492d435732412c0b8822f) - 2026-11-14
+* [Commit] [fix(rpc): replace soketto with tokio-tungstenite (#28553)](https://github.com/paradigmxyz/reth/commit/c38e7f5cb085a0699b1a8f6ceb3205ba19b2a44b) - 2026-11-14
+* [Commit] [perf(rpc): hash cached block transactions once (#28552)](https://github.com/paradigmxyz/reth/commit/40c24b0c449daee893ca999d15f27ed45af8c1e0) - 2026-11-14
+* [Commit] [fix(storage): floor history reads at lowest changeset (#28549)](https://github.com/paradigmxyz/reth/commit/932e85ceae0599ae2277a2a2ac16baa71b8a568f) - 2026-11-14
+* [Commit] [fix(rpc): close ws on oversized fragmented message (#28544)](https://github.com/paradigmxyz/reth/commit/739fbbe1f52f258c587756ac30e4f1bc7b2c9a2c) - 2026-11-14
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -114,6 +114,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [execution/state: an absent AddressPath read stays valid after its destruct is withdrawn](https://github.com/erigontech/erigon/issues/26285) - 2026-11-13
 * [Commit] [execution/state: drop the net-zero code change of an authority removed earlier in the block (#26019)](https://github.com/erigontech/erigon/commit/449bc3ff6a2c11051f70a323ce1ec1fc35d770ed) - 2026-11-13
 * [Commit] [execution/state: keep an account absent once the tx has read its destruct (#26009)](https://github.com/erigontech/erigon/commit/982bb2a306935db529f1604450cd77010a12155e) - 2026-11-13
+* [Pull Request] [execution/stagedsync, execution/state: reset the storage of a contract created over an account with storage](https://github.com/erigontech/erigon/pull/26324) - 2026-11-14
+* [Pull Request] [execution/state: keep the seeded removal Done when the destroying tx flushes it](https://github.com/erigontech/erigon/pull/26326) - 2026-11-14
+* [Commit] [execution/stagedsync, execution/state: reset the storage of a contract created over an account with storage (#26324)](https://github.com/erigontech/erigon/commit/9376313e21d96b7faeb71506b902355b023b67f1) - 2026-11-15
+* [Commit] [execution/engineapi: check the payload header against its parent before the sender recovery (#25299)](https://github.com/erigontech/erigon/commit/eeb01a475f47160f59bda9e8eb65d3909653350f) - 2026-11-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02

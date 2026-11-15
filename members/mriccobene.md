@@ -46,6 +46,12 @@ Team: Erigon
 * [Review] [Review on: perf: describe a JSONL pattern in an optional header line](https://github.com/erigontech/rpc-tests/pull/649#pullrequestreview-5783482015) - 2026-11-05
 * [Review] [Review on: rpc_pattern_gen: --block-tag latest replaces the block number of eth_getBlockByNumber and eth_getBlockReceipts](https://github.com/erigontech/rpc-tests/pull/652#pullrequestreview-5806536545) - 2026-11-06
 * [Review] [Review on: rpc_pattern_gen: a verify request that times out is dropped, not fatal](https://github.com/erigontech/rpc-tests/pull/653#pullrequestreview-5838155637) - 2026-11-10
+* [Review] [Review on: rpc_perf: measure eth_subscribe logs and transactionReceipts, report node resources](https://github.com/erigontech/rpc-tests/pull/658#pullrequestreview-5904171282) - 2026-11-14
+* [Review] [Review on: rpc_perf: measure eth_subscribe transactionReceipts notifications](https://github.com/erigontech/rpc-tests/pull/659#pullrequestreview-5904172798) - 2026-11-14
+* [Review] [Review on: rpc_perf: measure eth_subscribe newHeads notifications over WebSocket connections](https://github.com/erigontech/rpc-tests/pull/657#pullrequestreview-5904169819) - 2026-11-14
+* [Review] [Review on: rpc_pattern_gen: generate eth_subscribe patterns for newHeads, logs and transactionReceipts](https://github.com/erigontech/rpc-tests/pull/656#pullrequestreview-5904168592) - 2026-11-14
+* [Review] [Review on: integration: add blockTimestamp to receipt logs of erigon_getBlockReceiptsByBlockHash and ots_searchTransactions*](https://github.com/erigontech/rpc-tests/pull/654#pullrequestreview-5904165812) - 2026-11-14
+* [Review] [Review on: rpc_perf: remove the --run-vegeta-on-core option](https://github.com/erigontech/rpc-tests/pull/655#pullrequestreview-5904167209) - 2026-11-14
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -60,6 +66,7 @@ Team: Erigon
 * [Review] [Review on: .github/workflows: add debug_traceBlockByNumber, eth_createAccessList and eth_getLogs latest to the RPC performance latest test, summarize the client comparison](https://github.com/erigontech/erigon/pull/25614#pullrequestreview-5738750996) - 2026-11-02
 * [Commit] [qa-test: reserve the reference system during RPC integration tests (#25808)](https://github.com/erigontech/erigon/commit/077b475e0ad6d2f1e6d502001466c3656839c38c) - 2026-11-06
 * [Commit] [qa-tests: fix Geth commit lookup in workflows (#25807)](https://github.com/erigontech/erigon/commit/efdf71de4d29c79b8b7a86b5f92a5cd773e7aa5e) - 2026-11-08
+* [Review] [Review on: .github/workflows: pin rpc_perf and Erigon to separate cores in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26303#pullrequestreview-5904177444) - 2026-11-14
 ## Q3 2026
 
 

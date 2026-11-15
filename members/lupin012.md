@@ -187,6 +187,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: serve genesis receipts when commitment history starts in block 0 (#26158)](https://github.com/erigontech/erigon/commit/d615f2a61029d119de7127673138ce2d05c07e66) - 2026-11-12
 * [Pull Request] [rpc/jsonrpc: trace a block's transactions in parallel in debug_traceBlock*](https://github.com/erigontech/erigon/pull/25846) - 2026-11-13
 * [Commit] [rpc/jsonrpc: trace a block's transactions in parallel in debug_traceBlock* (#25846)](https://github.com/erigontech/erigon/commit/9176722f2df81bf9878a1d28be4f238aae72e580) - 2026-11-13
+* [Pull Request] [.github/workflows: pin rpc_perf and Erigon to separate cores in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26303) - 2026-11-14
+* [Pull Request] [.github/workflows: bump hive and execution-apis refs](https://github.com/erigontech/erigon/pull/26325) - 2026-11-14
+* [Pull Request] [rpc: cancel running calls when a connection is closed](https://github.com/erigontech/erigon/pull/26328) - 2026-11-14
+* [Commit] [.github/workflows: pin rpc_perf and Erigon to separate cores in RPC Performance Tests Latest (#26303)](https://github.com/erigontech/erigon/commit/21a2887a40c2994891ac4f6c5eae603e55fc1175) - 2026-11-15
+* [Commit] [.github/workflows: bump hive and execution-apis refs (#26325)](https://github.com/erigontech/erigon/commit/d19e7ce558a9196d92b9719291353c195a36f910) - 2026-11-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -259,6 +264,16 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_pattern_gen: a verify request that times out is dropped, not fatal](https://github.com/erigontech/rpc-tests/pull/653) - 2026-11-09
 * [Commit] [rpc_pattern_gen: a verify request that times out is dropped, not fatal (#653)](https://github.com/erigontech/rpc-tests/commit/0ceb9d4657761796352a52c60288958280129878) - 2026-11-10
 * [Pull Request] [integration: add blockTimestamp to receipt logs of erigon_getBlockReceiptsByBlockHash and ots_searchTransactions*](https://github.com/erigontech/rpc-tests/pull/654) - 2026-11-11
+* [Pull Request] [rpc_perf: measure eth_subscribe logs and transactionReceipts, report node resources](https://github.com/erigontech/rpc-tests/pull/658) - 2026-11-14
+* [Pull Request] [rpc_perf: measure eth_subscribe transactionReceipts notifications](https://github.com/erigontech/rpc-tests/pull/659) - 2026-11-14
+* [Pull Request] [rpc_perf: measure eth_subscribe newHeads notifications over WebSocket connections](https://github.com/erigontech/rpc-tests/pull/657) - 2026-11-14
+* [Pull Request] [rpc_pattern_gen: generate eth_subscribe patterns for newHeads, logs and transactionReceipts](https://github.com/erigontech/rpc-tests/pull/656) - 2026-11-14
+* [Pull Request] [rpc_perf: remove the --run-vegeta-on-core option](https://github.com/erigontech/rpc-tests/pull/655) - 2026-11-14
+* [Commit] [rpc_perf: measure eth_subscribe logs and transactionReceipts, report node resources (#658)](https://github.com/erigontech/rpc-tests/commit/8966fc19768b0ad297a637cc3784b50ff4d28cda) - 2026-11-14
+* [Commit] [rpc_perf: measure eth_subscribe newHeads notifications over WebSocket connections (#657)](https://github.com/erigontech/rpc-tests/commit/b0a67ef33ad4e502773c9bf7843dd62d680f96cc) - 2026-11-14
+* [Commit] [rpc_pattern_gen: generate eth_subscribe patterns for newHeads, logs and transactionReceipts (#656)](https://github.com/erigontech/rpc-tests/commit/a730c30412ed135dbb2451623a54a33dc26715b1) - 2026-11-14
+* [Commit] [integration: add blockTimestamp to receipt logs of erigon_getBlockReceiptsByBlockHash and ots_searchTransactions* (#654)](https://github.com/erigontech/rpc-tests/commit/b232043c354a97ace6b8d5a8555ce446a1907a63) - 2026-11-14
+* [Commit] [rpc_perf: remove the --run-vegeta-on-core option (#655)](https://github.com/erigontech/rpc-tests/commit/c18034cc40c8c71b4b8856f3c119a1713e80aa49) - 2026-11-14
 ## Q3 2026
 
 

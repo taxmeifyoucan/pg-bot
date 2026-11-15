@@ -75,6 +75,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5899091811) - 2026-11-13
 * [Review] [Review on: perf(doc,ci): speed up the test case reference](https://github.com/ethereum/execution-specs/pull/3979#pullrequestreview-5897756196) - 2026-11-13
 * [Review] [Review on: fix(test-specs): keep state tests' excess blob gas in blockchain form](https://github.com/ethereum/execution-specs/pull/3983#pullrequestreview-5894015224) - 2026-11-13
+* [Pull Request] [fix(tests): merge CREATE/CREATE2 tests and derive created addresses](https://github.com/ethereum/execution-specs/pull/4002) - 2026-11-14
+* [Pull Request] [fix(tests): clean up stBugs, stSolidityTest, stQuadraticComplexityTest and others](https://github.com/ethereum/execution-specs/pull/4006) - 2026-11-14
+* [Pull Request] [fix(tests): merge stWalletTest, stSStoreTest and stEIP* tests](https://github.com/ethereum/execution-specs/pull/4004) - 2026-11-14
+* [Pull Request] [fix(tests): merge stStaticCall tests and drop fixed addresses](https://github.com/ethereum/execution-specs/pull/4000) - 2026-11-14
+* [Pull Request] [fix(tests): merge call-family tests and unpin addresses](https://github.com/ethereum/execution-specs/pull/4005) - 2026-11-14
+* [Pull Request] [refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999) - 2026-11-14
+* [Pull Request] [refactor(tests): collapse static call chains into test_call_chain](https://github.com/ethereum/execution-specs/pull/4001) - 2026-11-14
+* [Pull Request] [fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998) - 2026-11-14
+* [Pull Request] [refactor(tests): merge stMemory*, stStackTests, stLogTests, stShift files](https://github.com/ethereum/execution-specs/pull/4003) - 2026-11-14
+* [Pull Request] [refactor(tests): merge zero/non-zero value call tests, clean up ported tests](https://github.com/ethereum/execution-specs/pull/3997) - 2026-11-14
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

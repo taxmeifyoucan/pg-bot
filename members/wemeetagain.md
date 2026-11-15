@@ -172,6 +172,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: enable native state transition for heze](https://github.com/ChainSafe/lodestar/pull/10626) - 2026-11-13
 * [Pull Request] [feat: use native state transition by default](https://github.com/ChainSafe/lodestar/pull/10624) - 2026-11-13
 * [Review] [Review on: fix: harden gloas attestation validation at fork boundary](https://github.com/ChainSafe/lodestar/pull/10619#pullrequestreview-5892643272) - 2026-11-13
+* [Review] [Review on: chore!: remove --presetFile and preset value overrides](https://github.com/ChainSafe/lodestar/pull/10621#pullrequestreview-5905764656) - 2026-11-14
+* [Commit] [feat: enable native state transition for heze (#10626)](https://github.com/ChainSafe/lodestar/commit/8fdbd61e7e5525e24726f4d55800f844e9cb8f2e) - 2026-11-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

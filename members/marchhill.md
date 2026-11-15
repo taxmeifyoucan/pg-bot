@@ -241,6 +241,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [EIP-8288: batch leaf proofs (prototype)](https://github.com/NethermindEth/nethermind/pull/15842) - 2026-11-12
 * [Review] [Review on: EIP-8288: batch leaf proofs (prototype)](https://github.com/NethermindEth/nethermind/pull/15842#pullrequestreview-5882211809) - 2026-11-12
 * [Review] [Review on: EIP-8288: generic proof verification and batching (prototype, flag-gated)](https://github.com/NethermindEth/nethermind/pull/15842#pullrequestreview-5890559012) - 2026-11-13
+* [Pull Request] [EIP-8437 mode 2: relay raw signatures of recognized leaf programs (prototype)](https://github.com/NethermindEth/nethermind/pull/15891) - 2026-11-14
+* [Pull Request] [fix(benchmarks): time uncached ecrecover and verifying KZG point evaluations](https://github.com/NethermindEth/nethermind/pull/15893) - 2026-11-14
+* [Review] [Review on: fix(benchmarks): time uncached ecrecover and verifying KZG point evaluations](https://github.com/NethermindEth/nethermind/pull/15893#pullrequestreview-5906758892) - 2026-11-14
+* [Pull Request] [ci: add a dispatchable EIP-8288 calibration workflow](https://github.com/NethermindEth/nethermind/pull/15884) - 2026-11-14
+* [Review] [Review on: ci: add a dispatchable EIP-8288 calibration workflow](https://github.com/NethermindEth/nethermind/pull/15884#pullrequestreview-5905691051) - 2026-11-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

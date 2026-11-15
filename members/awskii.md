@@ -482,6 +482,24 @@ Team: Erigon
 * [Commit] [db/state: flush buffered writes in write order across Unwind and Merge (#26242)](https://github.com/erigontech/erigon/commit/670bfedacd0f12fcdc66c7e681801a6ce619dc1a) - 2026-11-13
 * [Commit] [db/snapshotsync, db/integrity: expect no blobs for a skipped Gloas payload (#26210)](https://github.com/erigontech/erigon/commit/9fb50cbddaecd01abae380e6d1b821ad52dd3e41) - 2026-11-13
 * [Commit] [execution/types, engine_types, gointerfaces: remove unused block access list and payload converters (#26109)](https://github.com/erigontech/erigon/commit/71614f2bf0fd5b872d6a02e44effac12dabd0e53) - 2026-11-13
+* [Review] [Review on: disk format: keep the "commitment .kvi hash part" in heap](https://github.com/erigontech/erigon/pull/26307#pullrequestreview-5906128323) - 2026-11-14
+* [Review] [Review on: cl/phase1/forkchoice: a test deadlock no longer hangs CI for 20 min](https://github.com/erigontech/erigon/pull/26316#pullrequestreview-5906208895) - 2026-11-14
+* [Pull Request] [execution/exec: execute read-ahead blocks to warm state](https://github.com/erigontech/erigon/pull/26332) - 2026-11-15
+* [Review] [Review on: cl/sentinel/handlers: keep large data column responses alive past the 5 s stream deadline](https://github.com/erigontech/erigon/pull/26288#pullrequestreview-5902349461) - 2026-11-14
+* [Review] [Review on: cl/beacon/handler: -short reports skipped tests as SKIP; a failed fixture build fails every test](https://github.com/erigontech/erigon/pull/26293#pullrequestreview-5902364649) - 2026-11-14
+* [Review] [Review on: cl: memoize test fixtures and virtualize wall-clock waits](https://github.com/erigontech/erigon/pull/26314#pullrequestreview-5906213682) - 2026-11-14
+* [Review] [Review on: ci: halve the large JSON test memory peak](https://github.com/erigontech/erigon/pull/26311#pullrequestreview-5906150787) - 2026-11-14
+* [Review] [Review on: ci, tools: run parallel commitment only](https://github.com/erigontech/erigon/pull/26310#pullrequestreview-5906179461) - 2026-11-14
+* [Review] [Review on: ci: marking a PR ready cancels its draft run again; crashed tests skip the cold rerun](https://github.com/erigontech/erigon/pull/26308#pullrequestreview-5906173736) - 2026-11-14
+* [Issue] [cmd/capcli: blob-store backward walk stops at a Gloas block whose payload the child skipped](https://github.com/erigontech/erigon/issues/26305) - 2026-11-14
+* [Issue] [db/state/execctx: SharedDomains.Unwind follow-ups from #24304](https://github.com/erigontech/erigon/issues/26306) - 2026-11-14
+* [Issue] [cl/persistence: RangeBlockRoots returns nil when the cursor Seek or Next fails](https://github.com/erigontech/erigon/issues/26304) - 2026-11-14
+* [Issue] [cl/sentinel/handlers: one 5-request cap across all protocols rejects valid concurrent requests](https://github.com/erigontech/erigon/issues/26301) - 2026-11-14
+* [Issue] [cl/beacon/handler: pool API gossips unverified BLS changes and attester slashings on an ignore](https://github.com/erigontech/erigon/issues/26300) - 2026-11-14
+* [Issue] [execution/exec: a state read error in the block-init system calls is dropped](https://github.com/erigontech/erigon/issues/26299) - 2026-11-14
+* [Commit] [cl: remove test-only helpers from merkle_tree, persistence and utils (#26197)](https://github.com/erigontech/erigon/commit/c8c8b1318e1db969d633b64d44b12e07e7482ad4) - 2026-11-14
+* [Commit] [cl/beacon/handler: omit inclusion delay after phase0 (#26151)](https://github.com/erigontech/erigon/commit/bab8604e1bf8a083d8d8afc173afa76d03eac339) - 2026-11-14
+* [Commit] [cmd/capcli: skip the slots below a pruned endpoint's window (#26132)](https://github.com/erigontech/erigon/commit/6e14f47a8093d1a1eb64d6dee5ad9969908bf62e) - 2026-11-14
 ## Q3 2026
 
 

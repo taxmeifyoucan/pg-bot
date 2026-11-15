@@ -403,6 +403,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/das, cl/phase1/network/services: build Gloas data columns from the local EL's blobs (#26067)](https://github.com/erigontech/erigon/commit/6b89a87161d9fcdfb6f2c2b2e3ef12cc90b7f061) - 2026-11-13
 * [Commit] [cl/phase1/forkchoice, cl/phase1/forkchoice/fork_graph: run the CL transition alongside newPayload (#25925)](https://github.com/erigontech/erigon/commit/0fd995b4d35a67d6b03c2d024e7b70ed5517e7fa) - 2026-11-13
 * [Commit] [cl/phase1/network: keep peers and the held tip when the stage is cancelled during RequestMore (#26209)](https://github.com/erigontech/erigon/commit/245d9223fc71cf8e7208bc357dda9dbfec5bcbaf) - 2026-11-13
+* [Review] [Review on: cl/cltypes: reject attester slashings missing an indexed attestation in block JSON](https://github.com/erigontech/erigon/pull/26273#pullrequestreview-5901944586) - 2026-11-14
+* [Pull Request] [cl/beacon/beaconevents, cl/phase1/forkchoice, cl/phase1/stages: retry a column-waiting envelope when its columns are stored](https://github.com/erigontech/erigon/pull/26334) - 2026-11-15
+* [Pull Request] [cl/das: fetch missing columns by root before FK20 and publish them](https://github.com/erigontech/erigon/pull/26331) - 2026-11-14
+* [Pull Request] [[r3.8] cl/das, cl/phase1/network/services: build Gloas data columns from the local EL's blobs](https://github.com/erigontech/erigon/pull/26327) - 2026-11-14
+* [Review] [Review on: cl/sentinel/handlers: keep large data column responses alive past the 5 s stream deadline](https://github.com/erigontech/erigon/pull/26288#pullrequestreview-5906374042) - 2026-11-14
+* [Pull Request] [cl/phase1/stages: wake the chain-tip wait when a block index is committed](https://github.com/erigontech/erigon/pull/26330) - 2026-11-14
+* [Pull Request] [cl/phase1/network/services: wake the block service when a published block is queued](https://github.com/erigontech/erigon/pull/26329) - 2026-11-14
+* [Commit] [cl/sentinel/handlers: keep large data column responses alive past the 5 s stream deadline (#26288)](https://github.com/erigontech/erigon/commit/40d68a32f363b1fb26133cc1de15bf0fc306bfa9) - 2026-11-14
+* [Commit] [cl/phase1/stages: backfill the custody columns of a branch that becomes canonical (#26287)](https://github.com/erigontech/erigon/commit/99db46b936e4f00864c12bf6c588eacb50edb4d9) - 2026-11-14
+* [Commit] [cl/phase1/forkchoice/fork_graph: pin chain segment commit paths in tests (#26116)](https://github.com/erigontech/erigon/commit/c83cea1e3cd4ea4fc91cf8895e7706d632d8ad85) - 2026-11-14
+* [Commit] [cl/beacon/handler, cl/phase1/network/services: do not gossip unverified voluntary exits from the API (#26279)](https://github.com/erigontech/erigon/commit/79445646b6e987894341f3f017637d21405f5f6b) - 2026-11-14
 ## Q3 2026
 
 

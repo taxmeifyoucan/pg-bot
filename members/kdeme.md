@@ -118,6 +118,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: portal: use a separate JSON flavor for the Portal JSON-RPC](https://github.com/status-im/nimbus-eth1/pull/5159#pullrequestreview-5892777645) - 2026-11-13
 * [Commit] [stateless guest: bump ZisK to v1.4.0-alpha (#5164)](https://github.com/status-im/nimbus-eth1/commit/5e3fd7e9d19177980cc1c086c46c4e1dcf38eced) - 2026-11-13
 * [Commit] [stateless guest: move ZisK RAM start to 0xa0430000 (#5163)](https://github.com/status-im/nimbus-eth1/commit/73c021a159cdfcd7e0c7eae843e395c74ca64f0b) - 2026-11-13
+* [Commit] [Store transaction fee fields as UInt256 (#5160)](https://github.com/status-im/nimbus-eth1/commit/87dcde6c46fccd24a499f490d7c660c545ff130f) - 2026-11-14
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

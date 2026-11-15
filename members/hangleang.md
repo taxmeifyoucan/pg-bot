@@ -57,6 +57,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Delay data column sidecars until block imported](https://github.com/grandinetech/grandine/commit/129fbd2912943e02e621028b8e5e39cc092a1f19) - 2026-11-06
 * [Commit] [Prune invalid execution payload envelopes from cache and storage](https://github.com/grandinetech/grandine/commit/284e4216ca1fe28f6271fea6c4044da59e0da24d) - 2026-11-09
 * [Pull Request] [Make execution payload envelope validation generic](https://github.com/grandinetech/grandine/pull/1036) - 2026-11-10
+* [Pull Request] [Separate builder and validator deposits at the Gloas fork](https://github.com/grandinetech/grandine/pull/1049) - 2026-11-14
+* [Commit] [Make execution payload envelope validation generic](https://github.com/grandinetech/grandine/commit/28745a697860843dc72d97bd8bef03fd455f0c92) - 2026-11-14
 ## Q3 2026
 
 

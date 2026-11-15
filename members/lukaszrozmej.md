@@ -897,6 +897,29 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): run the fused SLOAD and SSTORE guest handlers under EIP-8038 (#15808)](https://github.com/NethermindEth/nethermind/commit/ae8215f3bb76182180b45cfb4172720318330d50) - 2026-11-13
 * [Commit] [perf(bal): test the change of a traced balance or code-hash read before copying it (#15830)](https://github.com/NethermindEth/nethermind/commit/02c3fca50e03c6c6ddaa7fef2e29003ab9acad04) - 2026-11-13
 * [Commit] [perf(bal): reset a pooled account record once, when the slice clears (#15843)](https://github.com/NethermindEth/nethermind/commit/22773afbafb907f7171585d26a709413d48196f9) - 2026-11-13
+* [Pull Request] [perf(sync): keep synced receipts encoded from the network to the receipt store](https://github.com/NethermindEth/nethermind/pull/15896) - 2026-11-14
+* [Review] [Review on: perf(sync): keep synced receipts encoded from the network to the receipt store](https://github.com/NethermindEth/nethermind/pull/15896#pullrequestreview-5907052959) - 2026-11-14
+* [Pull Request] [perf(sync): keep block bodies encoded between the network and the block store](https://github.com/NethermindEth/nethermind/pull/15879) - 2026-11-14
+* [Review] [Review on: perf(sync): keep block bodies encoded between the network and the block store](https://github.com/NethermindEth/nethermind/pull/15879#pullrequestreview-5904983461) - 2026-11-14
+* [Review] [Review on: perf(evm): cache Miller loop output of repeated BN254 pairs](https://github.com/NethermindEth/nethermind/pull/15892#pullrequestreview-5907193959) - 2026-11-14
+* [Review] [Review on: perf(network): decode RLPx payload blocks of one read in a single pass](https://github.com/NethermindEth/nethermind/pull/15890#pullrequestreview-5907197844) - 2026-11-14
+* [Review] [Review on: feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799#pullrequestreview-5903509355) - 2026-11-14
+* [Review] [Review on: perf(getlogs): read a historical level's main block without decoding it](https://github.com/NethermindEth/nethermind/pull/15882#pullrequestreview-5907199341) - 2026-11-14
+* [Review] [Review on: perf(getlogs): reuse one JSON writer per thread for serialized logs](https://github.com/NethermindEth/nethermind/pull/15883#pullrequestreview-5907199026) - 2026-11-14
+* [Review] [Review on: perf(evm): cache validated BN254 G2 points](https://github.com/NethermindEth/nethermind/pull/15886#pullrequestreview-5907193532) - 2026-11-14
+* [Review] [Review on: perf(network): size eth/69 receipts responses without blooms](https://github.com/NethermindEth/nethermind/pull/15887#pullrequestreview-5907198435) - 2026-11-14
+* [Review] [Review on: perf(network): take serialized message length from the destination](https://github.com/NethermindEth/nethermind/pull/15885#pullrequestreview-5907198653) - 2026-11-14
+* [Review] [Review on: perf(network): add the RLPx TRACE LoggingHandler only when TRACE is enabled](https://github.com/NethermindEth/nethermind/pull/15898#pullrequestreview-5907645971) - 2026-11-14
+* [Review] [Review on: perf(zkevm): update Nethermind.Sp1.Runtime to 6.9.0.79](https://github.com/NethermindEth/nethermind/pull/15894#pullrequestreview-5907038851) - 2026-11-14
+* [Review] [Review on: perf(zkevm): use constant-size managed compare and zero fills in the ZisK Keccak helpers](https://github.com/NethermindEth/nethermind/pull/15895#pullrequestreview-5907047901) - 2026-11-14
+* [Review] [Review on: perf(rlp): encode trie receipts in one pass in the standard build](https://github.com/NethermindEth/nethermind/pull/15889#pullrequestreview-5907198016) - 2026-11-14
+* [Review] [Review on: perf(trie): batch two or three leftover leaves on AVX2](https://github.com/NethermindEth/nethermind/pull/15888#pullrequestreview-5907192848) - 2026-11-14
+* [Review] [Review on: perf(state): fully clear the storage round map when a restore left freed entries behind](https://github.com/NethermindEth/nethermind/pull/15880#pullrequestreview-5906233845) - 2026-11-14
+* [Review] [Review on: perf(evm): skip the zero credit on call frame entry in the standard build](https://github.com/NethermindEth/nethermind/pull/15878#pullrequestreview-5906229183) - 2026-11-14
+* [Review] [Review on: fix(stateless): keep witness re-execution out of the invalid chain tracker](https://github.com/NethermindEth/nethermind/pull/15877#pullrequestreview-5904454662) - 2026-11-14
+* [Review] [Review on: perf(flat): reuse the write batch's dirty account map and root queue per thread](https://github.com/NethermindEth/nethermind/pull/15881#pullrequestreview-5906239632) - 2026-11-14
+* [Review] [Review on: refactor(flat): remove the array-returning trie RLP reads from the persistence reader](https://github.com/NethermindEth/nethermind/pull/15875#pullrequestreview-5902512194) - 2026-11-14
+* [Commit] [fix(merge): rebuild the payload once the tx pool has processed the parent block (#15873)](https://github.com/NethermindEth/nethermind/commit/143911da939e05c7dee93f7c02b6a2efb11e439c) - 2026-11-14
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

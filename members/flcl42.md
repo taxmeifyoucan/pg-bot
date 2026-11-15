@@ -90,6 +90,18 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(flat): guard each CompactSized boundary and observe a stop between them](https://github.com/NethermindEth/nethermind/pull/15869#pullrequestreview-5896434476) - 2026-11-13
 * [Review] [Review on: perf(eip8288): fold a whole wrapper of signatures into one direct leaf](https://github.com/NethermindEth/nethermind/pull/15870#pullrequestreview-5899165811) - 2026-11-13
 * [Review] [Review on: fix(rpc): run a signed eth_sendTransaction request as its signer](https://github.com/NethermindEth/nethermind/pull/15823#pullrequestreview-5886937085) - 2026-11-13
+* [Review] [Review on: perf(evm): cache Miller loop output of repeated BN254 pairs](https://github.com/NethermindEth/nethermind/pull/15892#pullrequestreview-5908532367) - 2026-11-15
+* [Review] [Review on: perf(network): decode RLPx payload blocks of one read in a single pass](https://github.com/NethermindEth/nethermind/pull/15890#pullrequestreview-5908358056) - 2026-11-15
+* [Review] [Review on: feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799#pullrequestreview-5903552650) - 2026-11-14
+* [Review] [Review on: refactor(network)!: serialize sent packets in the DotNetty packet sender instead of the serialization service](https://github.com/NethermindEth/nethermind/pull/15874#pullrequestreview-5904437067) - 2026-11-14
+* [Review] [Review on: perf(getlogs): read a historical level's main block without decoding it](https://github.com/NethermindEth/nethermind/pull/15882#pullrequestreview-5908161676) - 2026-11-15
+* [Review] [Review on: perf(getlogs): reuse one JSON writer per thread for serialized logs](https://github.com/NethermindEth/nethermind/pull/15883#pullrequestreview-5907984296) - 2026-11-14
+* [Review] [Review on: perf(evm): cache validated BN254 G2 points](https://github.com/NethermindEth/nethermind/pull/15886#pullrequestreview-5907146427) - 2026-11-14
+* [Review] [Review on: perf(network): size eth/69 receipts responses without blooms](https://github.com/NethermindEth/nethermind/pull/15887#pullrequestreview-5907232684) - 2026-11-14
+* [Review] [Review on: perf(network): take serialized message length from the destination](https://github.com/NethermindEth/nethermind/pull/15885#pullrequestreview-5907363485) - 2026-11-14
+* [Review] [Review on: perf(evm): skip the zero credit on call frame entry in the standard build](https://github.com/NethermindEth/nethermind/pull/15878#pullrequestreview-5906742249) - 2026-11-14
+* [Review] [Review on: fix(stateless): keep witness re-execution out of the invalid chain tracker](https://github.com/NethermindEth/nethermind/pull/15877#pullrequestreview-5902974374) - 2026-11-14
+* [Review] [Review on: perf(flat): reuse the write batch's dirty account map and root queue per thread](https://github.com/NethermindEth/nethermind/pull/15881#pullrequestreview-5906410124) - 2026-11-14
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

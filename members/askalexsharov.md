@@ -986,6 +986,49 @@ Team: Erigon
 * [Commit] [go.mod: upgrade bubbletea, pyroscope, goupnp, golang.org/x (#26241)](https://github.com/erigontech/erigon/commit/33709dd8a5d4bbc8c8ddff57122ebcf3c7d6e123) - 2026-11-13
 * [Commit] [execution/engineapi: count calls, not time, in the wait budget test (#26235)](https://github.com/erigontech/erigon/commit/6b30832ecf2cae024a0e2c0f6781d6ef5495163b) - 2026-11-13
 * [Commit] [execution/exec: block warmup no longer re-reads keys the state cache holds (#26104)](https://github.com/erigontech/erigon/commit/0d73e1ec083d8433a62d976e50de32732586e0cf) - 2026-11-13
+* [Pull Request] [db/state: check pruned history coverage at startup](https://github.com/erigontech/erigon/pull/26341) - 2026-11-15
+* [Pull Request] [db/state: reject history merges beyond source files](https://github.com/erigontech/erigon/pull/26340) - 2026-11-15
+* [Pull Request] [engineapi: build payload witnesses outside the engine locks](https://github.com/erigontech/erigon/pull/26335) - 2026-11-15
+* [Review] [Review on: engineapi: build payload witnesses outside the engine locks](https://github.com/erigontech/erigon/pull/26335#pullrequestreview-5908799580) - 2026-11-15
+* [Review] [Review on: execution/stagedsync, execution/state: reset the storage of a contract created over an account with storage](https://github.com/erigontech/erigon/pull/26324#pullrequestreview-5908532001) - 2026-11-15
+* [Pull Request] [execution/vm: EXTCODECOPY reads a code segment](https://github.com/erigontech/erigon/pull/25986) - 2026-11-15
+* [Pull Request] [execution/execmodule: always keep live in-memory history](https://github.com/erigontech/erigon/pull/26339) - 2026-11-15
+* [Pull Request] [ci: per-run evm artifact for eest shards + class-scoped Go cache keys](https://github.com/erigontech/erigon/pull/26319) - 2026-11-14
+* [Pull Request] [db/state, cmd, node: remove the serial-commitment switch](https://github.com/erigontech/erigon/pull/26336) - 2026-11-15
+* [Review] [Review on: cmd/capcli: close Caplin database and snapshot folders on command return](https://github.com/erigontech/erigon/pull/26292#pullrequestreview-5908510621) - 2026-11-15
+* [Pull Request] [execution: drop non-versioned branches of block finalize, receipt replay and the builder](https://github.com/erigontech/erigon/pull/26337) - 2026-11-15
+* [Pull Request] [cmd/evm, tools: amsterdam race blocktests 1.2x faster (44 to 37 min)](https://github.com/erigontech/erigon/pull/26313) - 2026-11-14
+* [Review] [Review on: execution/state: seed the version map from the BAL in parallel](https://github.com/erigontech/erigon/pull/26215#pullrequestreview-5908780581) - 2026-11-15
+* [Review] [Review on: .github/workflows: pin rpc_perf and Erigon to separate cores in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26303#pullrequestreview-5903990182) - 2026-11-14
+* [Review] [Review on: .github/workflows: bump hive and execution-apis refs](https://github.com/erigontech/erigon/pull/26325#pullrequestreview-5908505113) - 2026-11-15
+* [Pull Request] [ci: a full disk on Windows still takes the cache-clear rerun](https://github.com/erigontech/erigon/pull/26323) - 2026-11-14
+* [Pull Request] [disk format: keep the "commitment .kvi hash part" in heap](https://github.com/erigontech/erigon/pull/26307) - 2026-11-14
+* [Review] [Review on: disk format: keep the "commitment .kvi hash part" in heap](https://github.com/erigontech/erigon/pull/26307#pullrequestreview-5902701969) - 2026-11-14
+* [Pull Request] [cl/phase1/forkchoice: a test deadlock no longer hangs CI for 20 min](https://github.com/erigontech/erigon/pull/26316) - 2026-11-14
+* [Review] [Review on: cl/phase1/forkchoice: a test deadlock no longer hangs CI for 20 min](https://github.com/erigontech/erigon/pull/26316#pullrequestreview-5906240486) - 2026-11-14
+* [Pull Request] [cl/beacon/handler: -short reports skipped tests as SKIP; a failed fixture build fails every test](https://github.com/erigontech/erigon/pull/26293) - 2026-11-14
+* [Review] [Review on: cl/beacon/handler: -short reports skipped tests as SKIP; a failed fixture build fails every test](https://github.com/erigontech/erigon/pull/26293#pullrequestreview-5901952170) - 2026-11-14
+* [Pull Request] [cl: memoize test fixtures and virtualize wall-clock waits](https://github.com/erigontech/erigon/pull/26314) - 2026-11-14
+* [Pull Request] [ci: halve the large JSON test memory peak](https://github.com/erigontech/erigon/pull/26311) - 2026-11-14
+* [Pull Request] [ci, tools: run parallel commitment only](https://github.com/erigontech/erigon/pull/26310) - 2026-11-14
+* [Pull Request] [ci: marking a PR ready cancels its draft run again; crashed tests skip the cold rerun](https://github.com/erigontech/erigon/pull/26308) - 2026-11-14
+* [Review] [Review on: ci: marking a PR ready cancels its draft run again; crashed tests skip the cold rerun](https://github.com/erigontech/erigon/pull/26308#pullrequestreview-5903068821) - 2026-11-14
+* [Issue] [cl/das: TestBlobRecoveryStartsAtSlotDeadlineWhileColumnsKeepArriving flakes under parallel load on macos runners](https://github.com/erigontech/erigon/issues/26318) - 2026-11-14
+* [Commit] [execution/vm: EXTCODECOPY reads a code segment (#25986)](https://github.com/erigontech/erigon/commit/32eefd2c27a831b97936dc66d0013da9792365c7) - 2026-11-15
+* [Commit] [disk format: keep the "commitment .kvi hash part" in heap (#26307)](https://github.com/erigontech/erigon/commit/76d4f21a6c3f276f8498c51feacd3c30dd169df9) - 2026-11-15
+* [Commit] [ci: a full disk on Windows still takes the cache-clear rerun (#26323)](https://github.com/erigontech/erigon/commit/c949758162be5f382c62f24a7b301c2bfce2268d) - 2026-11-15
+* [Commit] [cl/phase1/forkchoice: a test deadlock no longer hangs CI for 20 min (#26316)](https://github.com/erigontech/erigon/commit/0cdd8d3b9a8aefaf882ca448e48df802a90938c8) - 2026-11-15
+* [Commit] [cl/beacon/handler: -short reports skipped tests as SKIP; a failed fixture build fails every test (#26293)](https://github.com/erigontech/erigon/commit/3fa2b852a1cde4a38ab3b5fac714bdc4c14360fb) - 2026-11-14
+* [Commit] [cl: memoize test fixtures and virtualize wall-clock waits (#26314)](https://github.com/erigontech/erigon/commit/d20da4d8e92cfa4e5ddffbce528d142c251a9123) - 2026-11-14
+* [Commit] [ci, tools: run parallel commitment only (#26310)](https://github.com/erigontech/erigon/commit/086089ae5a264c933ca6e1c5b216469da4334db8) - 2026-11-14
+* [Commit] [ci: marking a PR ready cancels its draft run again; crashed tests skip the cold rerun (#26308)](https://github.com/erigontech/erigon/commit/8d16ee276cab3d61df4623a69fde5eee13ca2acf) - 2026-11-14
+* [Commit] [ci: halve the large JSON test memory peak (#26311)](https://github.com/erigontech/erigon/commit/4e9a7e5c5df213e3d592eb7202c80abd6464b524) - 2026-11-14
+* [Commit] [execution/types: BAL decode allocates once per kind, not per change (#26244)](https://github.com/erigontech/erigon/commit/1373237ae9603e0a5433a8076e31a47d6b3ff8d3) - 2026-11-14
+* [Commit] [db/state/execctx: wire the parallel trie DB in shared-domain tests (#26233)](https://github.com/erigontech/erigon/commit/874a1fc2da5c32a713953eec2ed5ed7a5b91d17c) - 2026-11-14
+* [Commit] [execution/exec: BAL warmup without a code phase no longer writes code-hash seeds (#26269)](https://github.com/erigontech/erigon/commit/655114ce9004447ede9fa67f5cef53369a4e2274) - 2026-11-14
+* [Commit] [db/state: a merge removes the old accounts files it replaced (#26234)](https://github.com/erigontech/erigon/commit/2820dad53c41fe5304a2da30428d83a8a606121c) - 2026-11-14
+* [Commit] [execution: remove the serial executor (#26239)](https://github.com/erigontech/erigon/commit/2c6e5d48e30a6f4cd5fff7137f68ca77f0027734) - 2026-11-14
+* [Commit] [execution/state: skip validating quiet base reads of account paths (#26154)](https://github.com/erigontech/erigon/commit/5b59b99c73893b4a21cc1cea175e6263cf914912) - 2026-11-14
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

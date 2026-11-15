@@ -376,6 +376,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO NOT MERGE] execution, txpool: integrate Bogota devnet-1 changes](https://github.com/erigontech/erigon/pull/26281) - 2026-11-13
 * [Issue] [execution: implement EIP-8253 before activating transaction assertions](https://github.com/erigontech/erigon/issues/26280) - 2026-11-13
 * [Commit] [cl: ignore voluntary exits with pending partial withdrawals (#26226)](https://github.com/erigontech/erigon/commit/b6b4f6320e0fa11a4835bb5f0f4b172552a46393) - 2026-11-13
+* [Commit] [engineapi: make polling deadline test deterministic (#26213)](https://github.com/erigontech/erigon/commit/5e6501e9d7d1166a117ae83fd95ffd2947be2bc6) - 2026-11-14
+* [Commit] [agents: scope local verification to affected packages (#26227)](https://github.com/erigontech/erigon/commit/d6b80df0536277b4f84494f2ea8dbc22a10294e1) - 2026-11-14
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

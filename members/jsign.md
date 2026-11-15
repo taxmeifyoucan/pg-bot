@@ -76,6 +76,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/engineapi, execution/execmodule, rpc/jsonrpc: add POST /engine/v1/payloads/witness](https://github.com/erigontech/erigon/pull/26085) - 2026-11-10
 
+* [Commit] [execution/engineapi, execution/execmodule, rpc/jsonrpc: add POST /engine/v1/payloads/witness (#26085)](https://github.com/erigontech/erigon/commit/c8259db69cc73a6e244a9c40fbe427117e943983) - 2026-11-15
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): close execution-apis#885 SSZ gaps](https://github.com/paradigmxyz/reth/pull/28417) - 2026-11-10
 * [Commit] [fix(engine): close execution-apis#885 SSZ gaps (#28417)](https://github.com/paradigmxyz/reth/commit/15200acbe75f5aee8df82b8d81622cb370d79395) - 2026-11-10
