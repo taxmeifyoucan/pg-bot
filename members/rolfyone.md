@@ -165,6 +165,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Define PTC duties dependent root for the Gloas fork epoch](https://github.com/Consensys-Incorporated/teku/pull/11631) - 2026-11-12
 * [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5868235974) - 2026-11-12
 * [Review] [Review on: Define PTC duties dependent root for the Gloas fork epoch](https://github.com/Consensys-Incorporated/teku/pull/11631#pullrequestreview-5879318038) - 2026-11-12
+* [Pull Request] [Compact pruned slot ranges of sidecar tables](https://github.com/Consensys-Incorporated/teku/pull/11640) - 2026-11-16
+* [Pull Request] [Prune non-canonical blob sidecars below the earliest blob slot](https://github.com/Consensys-Incorporated/teku/pull/11639) - 2026-11-16
+* [Pull Request] [Refuse to sign when the concurrent slashing record read fails](https://github.com/Consensys-Incorporated/teku/pull/11637) - 2026-11-15
+* [Review] [Review on: Read validator views of the packed registry from the supernode bytes](https://github.com/Consensys-Incorporated/teku/pull/11627#pullrequestreview-5913036450) - 2026-11-15
+* [Review] [Review on: Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615#pullrequestreview-5913020084) - 2026-11-15
+* [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys-Incorporated/teku/pull/10132#pullrequestreview-5913008541) - 2026-11-15
+* [Commit] [Define PTC duties dependent root for the Gloas fork epoch (#11631)](https://github.com/Consensys-Incorporated/teku/commit/c3ca3bb00618d7d34ecbd2c8ebae2df44d6bd5bb) - 2026-11-15
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

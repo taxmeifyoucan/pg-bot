@@ -192,6 +192,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: cancel running calls when a connection is closed](https://github.com/erigontech/erigon/pull/26328) - 2026-11-14
 * [Commit] [.github/workflows: pin rpc_perf and Erigon to separate cores in RPC Performance Tests Latest (#26303)](https://github.com/erigontech/erigon/commit/21a2887a40c2994891ac4f6c5eae603e55fc1175) - 2026-11-15
 * [Commit] [.github/workflows: bump hive and execution-apis refs (#26325)](https://github.com/erigontech/erigon/commit/d19e7ce558a9196d92b9719291353c195a36f910) - 2026-11-15
+* [Pull Request] [db/snapshotsync/freezeblocks: confirm a txn lookup in files by hashing the stored encoding](https://github.com/erigontech/erigon/pull/26363) - 2026-11-15
+* [Pull Request] [rpc/rpchelper: send the first block of a receipts stream as one notification](https://github.com/erigontech/erigon/pull/26362) - 2026-11-15
+* [Pull Request] [.github/workflows: add eth_subscribe to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26361) - 2026-11-15
+* [Commit] [rpc/rpchelper: send the first block of a receipts stream as one notification (#26362)](https://github.com/erigontech/erigon/commit/5f3f90b4749d90314b5dfc1d077d6c599f7b6e3a) - 2026-11-16
+* [Commit] [db/snapshotsync/freezeblocks: confirm a txn lookup in files by hashing the stored encoding (#26363)](https://github.com/erigontech/erigon/commit/842b56192f6ca2ca83dfdd5ee1c0ad51471b41f8) - 2026-11-16
+* [Commit] [.github/workflows: lower the top mixed step to 4500 qps in RPC Performance Tests Latest (#26345)](https://github.com/erigontech/erigon/commit/65f4784094dfac3e33b3f23066645541a1610675) - 2026-11-15
+* [Commit] [execution/types/ethutils, rpc/jsonrpc, docs: stamp every receipt log with blockTimestamp (#26099)](https://github.com/erigontech/erigon/commit/186140f042a589e096e6e11f3a0049e0f31f49b5) - 2026-11-15
+* [Commit] [db/rawdb: hash block transactions while reading cached receipts (#26188)](https://github.com/erigontech/erigon/commit/5e3404efe29670e11326fdb8149e23fcbfe504bb) - 2026-11-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -274,6 +282,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_gen: generate eth_subscribe patterns for newHeads, logs and transactionReceipts (#656)](https://github.com/erigontech/rpc-tests/commit/a730c30412ed135dbb2451623a54a33dc26715b1) - 2026-11-14
 * [Commit] [integration: add blockTimestamp to receipt logs of erigon_getBlockReceiptsByBlockHash and ots_searchTransactions* (#654)](https://github.com/erigontech/rpc-tests/commit/b232043c354a97ace6b8d5a8555ce446a1907a63) - 2026-11-14
 * [Commit] [rpc_perf: remove the --run-vegeta-on-core option (#655)](https://github.com/erigontech/rpc-tests/commit/c18034cc40c8c71b4b8856f3c119a1713e80aa49) - 2026-11-14
+* [Pull Request] [rpc_perf: merge the transactionReceipts notifications sent one per receipt](https://github.com/erigontech/rpc-tests/pull/663) - 2026-11-15
+* [Pull Request] [rpc_perf: write the rows by method and by subscription measure in the JSON report](https://github.com/erigontech/rpc-tests/pull/662) - 2026-11-15
+* [Pull Request] [rpc_perf: report the node CPU and RSS when its io file cannot be read](https://github.com/erigontech/rpc-tests/pull/661) - 2026-11-15
+* [Pull Request] [rpc_perf: keep the failed level in the JSON report, with its error](https://github.com/erigontech/rpc-tests/pull/660) - 2026-11-15
 ## Q3 2026
 
 

@@ -111,6 +111,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
 
 * [Review] [Review on: fix: bump pip to 26.2.2 and certifi for the eMudhra CA compromise](https://github.com/ethpandaops/template-devnets/pull/198#pullrequestreview-5624044874) - 2026-10-23
+* [Commit] [ansible: restore torn-down devnet inventories; keep the shared nginx basic auth rotation on live devnets only](https://github.com/ethpandaops/template-devnets/commit/50b024be5009f6c0d088c7d0494b519d4804d134) - 2026-11-16
+* [Commit] [ansible: rotate shared nginx basic auth (user eth) in all inventories](https://github.com/ethpandaops/template-devnets/commit/952600da66eeed6bad95421940fa6602a79f1ecb) - 2026-11-16
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 

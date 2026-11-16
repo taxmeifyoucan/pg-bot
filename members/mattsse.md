@@ -719,6 +719,13 @@ Team: Reth
 * [Commit] [perf(rpc): hash cached block transactions once (#28552)](https://github.com/paradigmxyz/reth/commit/40c24b0c449daee893ca999d15f27ed45af8c1e0) - 2026-11-14
 * [Commit] [fix(storage): floor history reads at lowest changeset (#28549)](https://github.com/paradigmxyz/reth/commit/932e85ceae0599ae2277a2a2ac16baa71b8a568f) - 2026-11-14
 * [Commit] [fix(rpc): close ws on oversized fragmented message (#28544)](https://github.com/paradigmxyz/reth/commit/739fbbe1f52f258c587756ac30e4f1bc7b2c9a2c) - 2026-11-14
+* [Review] [Review on: fix(net): forward changed addresses of known peers](https://github.com/paradigmxyz/reth/pull/28430#pullrequestreview-5910513720) - 2026-11-15
+* [Pull Request] [perf(rpc): write debug struct logs as raw JSON](https://github.com/paradigmxyz/reth/pull/28559) - 2026-11-15
+* [Commit] [fix(rpc): compare only the json media type (#28493)](https://github.com/paradigmxyz/reth/commit/c09a02d4e03657d443d63ccdf2a50b2307fa5791) - 2026-11-15
+* [Commit] [fix(rpc): time out idle HTTP/1 keep-alive connections (#28545)](https://github.com/paradigmxyz/reth/commit/a1767390f9f42f41ff3117c49f5fa4dc01eb26ea) - 2026-11-15
+* [Commit] [fix(rpc): log only the request line and answer refused upgrades with 400 (#28547)](https://github.com/paradigmxyz/reth/commit/22acaa77d39ef0d4714b632e27e4b5320e7a6713) - 2026-11-15
+* [Commit] [fix(rpc): answer over-limit streamed request bodies with 413 (#28546)](https://github.com/paradigmxyz/reth/commit/5e95c0c9e13848c10108e39502c9b6a9dc4baaa0) - 2026-11-15
+* [Commit] [fix(rpc): preserve WebSocket close replies (#28558)](https://github.com/paradigmxyz/reth/commit/f0e9fd688cde9353fb80bbc2073064431d80cf0a) - 2026-11-15
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -128,6 +128,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(network)!: serialize sent packets in the DotNetty packet sender instead of the serialization service](https://github.com/NethermindEth/nethermind/pull/15874) - 2026-11-13
 * [Review] [Review on: feat: migrate to .NET 11 ](https://github.com/NethermindEth/nethermind/pull/14147#pullrequestreview-5894854254) - 2026-11-13
 * [Review] [Review on: ci(stateless): continue when the Docker Hub OIDC login fails](https://github.com/NethermindEth/nethermind/pull/15872#pullrequestreview-5898529070) - 2026-11-13
+* [Review] [Review on: ci(zkevm): add a zkVM guest A/B workflow](https://github.com/NethermindEth/nethermind/pull/15929#pullrequestreview-5913149735) - 2026-11-15
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

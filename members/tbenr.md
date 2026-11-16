@@ -114,6 +114,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: FCR: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/Consensys-Incorporated/teku/pull/11573#pullrequestreview-5895299739) - 2026-11-13
 * [Review] [Review on: Write generated secret files readable only by their owner](https://github.com/Consensys-Incorporated/teku/pull/11617#pullrequestreview-5906922601) - 2026-11-14
 * [Review] [Review on: FCR: Tolerate a pruned previous balance source in fast confirmation](https://github.com/Consensys-Incorporated/teku/pull/11604#pullrequestreview-5904960308) - 2026-11-14
+* [Review] [Review on: FCR: Tolerate a pruned previous balance source in fast confirmation](https://github.com/Consensys-Incorporated/teku/pull/11604#pullrequestreview-5912166838) - 2026-11-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

@@ -60,6 +60,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Fix redb backend bugs](https://github.com/sigp/lighthouse/pull/10566) - 2026-11-11
 * [Pull Request] [Delete blobs after blocks when pruning abandoned chains](https://github.com/sigp/lighthouse/pull/10565) - 2026-11-11
 * [Review] [Review on: Update redb to v4](https://github.com/sigp/lighthouse/pull/10541#pullrequestreview-5855964908) - 2026-11-11
+* [Review] [Review on: Fix poisoning attack on validator pubkey cache](https://github.com/sigp/lighthouse/pull/10569#pullrequestreview-5910939496) - 2026-11-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

@@ -500,6 +500,33 @@ Team: Erigon
 * [Commit] [cl: remove test-only helpers from merkle_tree, persistence and utils (#26197)](https://github.com/erigontech/erigon/commit/c8c8b1318e1db969d633b64d44b12e07e7482ad4) - 2026-11-14
 * [Commit] [cl/beacon/handler: omit inclusion delay after phase0 (#26151)](https://github.com/erigontech/erigon/commit/bab8604e1bf8a083d8d8afc173afa76d03eac339) - 2026-11-14
 * [Commit] [cmd/capcli: skip the slots below a pruned endpoint's window (#26132)](https://github.com/erigontech/erigon/commit/6e14f47a8093d1a1eb64d6dee5ad9969908bf62e) - 2026-11-14
+* [Review] [Review on: execution/execmodule: always keep live in-memory history](https://github.com/erigontech/erigon/pull/26339#pullrequestreview-5911237596) - 2026-11-15
+* [Review] [Review on: execution: error on non-versioned state instead of a second write path](https://github.com/erigontech/erigon/pull/26337#pullrequestreview-5911228703) - 2026-11-15
+* [Review] [Review on: db/state: project history and values from mem-batch version chains](https://github.com/erigontech/erigon/pull/26270#pullrequestreview-5914821994) - 2026-11-16
+* [Review] [Review on: db/state: guard history merges, retirement, rebase and startup checks](https://github.com/erigontech/erigon/pull/26340#pullrequestreview-5911250167) - 2026-11-15
+* [Review] [Review on: db/state: check pruned history coverage at startup](https://github.com/erigontech/erigon/pull/26341#pullrequestreview-5911271811) - 2026-11-15
+* [Review] [Review on: db/state: refuse rebase with uncovered unindexed files](https://github.com/erigontech/erigon/pull/26342#pullrequestreview-5911276792) - 2026-11-15
+* [Review] [Review on: db/state, cmd, node: remove the serial-commitment switch](https://github.com/erigontech/erigon/pull/26336#pullrequestreview-5911224983) - 2026-11-15
+* [Review] [Review on: db/state: retire complete dirty history prefixes](https://github.com/erigontech/erigon/pull/26343#pullrequestreview-5911280501) - 2026-11-15
+* [Issue] [db/state: TemporalMemBatch.Merge of a flushed child persists the receiver's older value](https://github.com/erigontech/erigon/issues/26370) - 2026-11-16
+* [Issue] [execution/state: stack overflow on a withdrawn destruct on #26247's branch, fixed on main](https://github.com/erigontech/erigon/issues/26359) - 2026-11-15
+* [Issue] [db/state: a values list missing its first file starts past 0, and latest reads miss older keys](https://github.com/erigontech/erigon/issues/26358) - 2026-11-15
+* [Issue] [ci, tools: drop the ERIGON_COMMITMENT_PARALLEL plumbing once #26336 merges](https://github.com/erigontech/erigon/issues/26357) - 2026-11-15
+* [Issue] [cl: Fulu blob backfill recovers one block at a time (0.82–0.88 slots/s)](https://github.com/erigontech/erigon/issues/26351) - 2026-11-15
+* [Issue] [cl/antiquary: beacon block segment fails with "skipped too many blocks in a row" until the EL catches up after a long stop](https://github.com/erigontech/erigon/issues/26350) - 2026-11-15
+* [Commit] [execution/stagedsync: scale the dispatch window with the worker count (#25620)](https://github.com/erigontech/erigon/commit/fc77e6a9d0c5bcc04a7341314681c7184b52b82a) - 2026-11-16
+* [Commit] [execution/engineapi: keep downloading bodies while a batch executes (#25880)](https://github.com/erigontech/erigon/commit/fdce76cb4ff8f24976b5ec0dd9b48ef511da088d) - 2026-11-15
+* [Commit] [cl/beacon: handle randao epoch and read errors (#26196)](https://github.com/erigontech/erigon/commit/6a532af09f4fe4e49521267e2dd74a760efe73dc) - 2026-11-15
+* [Commit] [cl/beacon/beaconevents: deduplicate head events (#26155)](https://github.com/erigontech/erigon/commit/ec4adba3a05b25ec30de3912524d22de848eda97) - 2026-11-15
+* [Commit] [cl/beacon/handler: bound epoch root and reward epoch requests (#26185)](https://github.com/erigontech/erigon/commit/4a43e19f7312a0388785afb37b74f60fdc174f48) - 2026-11-15
+* [Commit] [cl/phase1/forkchoice: cache replayed states, skip read replay signatures (#26163)](https://github.com/erigontech/erigon/commit/e0140efd20c71a93b7927b2b2b97f0cf5de86a66) - 2026-11-15
+* [Commit] [execution/tracing/tracers/logger: remove unused markdown logger (#26200)](https://github.com/erigontech/erigon/commit/45f4eb8acf3ddb713b77a4a23aa385502ad23043) - 2026-11-15
+* [Commit] [execution/engineapi: remove unused JsonRpcClient getters and retry checker (#26202)](https://github.com/erigontech/erigon/commit/95a61ae54b53a1c26077e0ce9e1c259224381367) - 2026-11-15
+* [Commit] [cl/phase1/forkchoice: FinalizedSlot returns the finalized checkpoint start slot (#26184)](https://github.com/erigontech/erigon/commit/8717c867fa5145d160d3b2e71aeb342565219a8f) - 2026-11-15
+* [Commit] [cl/beacon/handler: expose missing config spec keys (#26161)](https://github.com/erigontech/erigon/commit/e436a30ff2f0704595d457a97dfa95634809e19a) - 2026-11-15
+* [Commit] [cl/beacon/handler: fix validator_inclusion panic on unknown validators (#26160)](https://github.com/erigontech/erigon/commit/fc19ca7030298edbf74c4679f2b2edb0cd55f205) - 2026-11-15
+* [Commit] [cl/beacon: route expected withdrawals without relay (#26150)](https://github.com/erigontech/erigon/commit/12263949ea38ffd66e1e6c63b39beda926bf357a) - 2026-11-15
+* [Commit] [p2p/sentry/libsentry: fill multiplexer Peers by copy into the total peer count (#25972)](https://github.com/erigontech/erigon/commit/6fe33e1f20a8e02132e2090b68aacea97e9ea70f) - 2026-11-15
 ## Q3 2026
 
 

@@ -250,6 +250,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Treat missing txs as no transactions in evmtool t8n](https://github.com/besu-eth/besu/pull/11930#pullrequestreview-5892720887) - 2026-11-13
 * [Pull Request] [Rewrite log blooms replaced by a reorg in earlier segments](https://github.com/besu-eth/besu/pull/11969) - 2026-11-13
 * [Commit] [Rebuild the log bloom cache segment after a dropped block event (#11932)](https://github.com/besu-eth/besu/commit/2b839d96863d01210f45a6f62127e6229e5b0889) - 2026-11-13
+* [Commit] [Rewrite log blooms replaced by a reorg in earlier segments (#11969)](https://github.com/besu-eth/besu/commit/351df3b30ace5cca9ba1e09228607e164ebbb200) - 2026-11-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

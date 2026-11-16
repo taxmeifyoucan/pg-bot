@@ -33,6 +33,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: cl/validator/devvalidator: wait for the head state at startup](https://github.com/erigontech/erigon/pull/26251#pullrequestreview-5897622706) - 2026-11-13
 * [Review] [Review on: execution/state: report only the current transaction's self-destruct](https://github.com/erigontech/erigon/pull/26228#pullrequestreview-5898874650) - 2026-11-13
 * [Commit] [cl/validator/devvalidator: wait for the head state at startup (#26251)](https://github.com/erigontech/erigon/commit/bbb5524e53fb057e7d47a5066e152f1091ac4ba4) - 2026-11-14
+* [Pull Request] [eez: produce the chain from the pool with --eez.sequencer](https://github.com/erigontech/erigon/pull/26353) - 2026-11-15
+* [Review] [Review on: eez: produce the chain from the pool with --eez.sequencer](https://github.com/erigontech/erigon/pull/26353#pullrequestreview-5910814378) - 2026-11-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

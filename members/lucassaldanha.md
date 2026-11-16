@@ -111,6 +111,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11613#pullrequestreview-5761563874) - 2026-11-04
 * [Review] [Review on: Skip aggregates whose signature is the point at infinity](https://github.com/Consensys-Incorporated/teku/pull/11610#pullrequestreview-5750218472) - 2026-11-03
 * [Review] [Review on: Rename the published REST API docs title to Teku REST API.](https://github.com/Consensys-Incorporated/teku/pull/11619#pullrequestreview-5797332889) - 2026-11-06
+* [Review] [Review on: Create missing slashing protection records in repair](https://github.com/Consensys-Incorporated/teku/pull/11622#pullrequestreview-5914104697) - 2026-11-16
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11636#pullrequestreview-5913417058) - 2026-11-15
+* [Review] [Review on: Keep genesis root and check network in slashing protection repair](https://github.com/Consensys-Incorporated/teku/pull/11621#pullrequestreview-5913986752) - 2026-11-16
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

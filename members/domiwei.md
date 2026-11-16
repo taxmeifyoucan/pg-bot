@@ -414,6 +414,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/stages: backfill the custody columns of a branch that becomes canonical (#26287)](https://github.com/erigontech/erigon/commit/99db46b936e4f00864c12bf6c588eacb50edb4d9) - 2026-11-14
 * [Commit] [cl/phase1/forkchoice/fork_graph: pin chain segment commit paths in tests (#26116)](https://github.com/erigontech/erigon/commit/c83cea1e3cd4ea4fc91cf8895e7706d632d8ad85) - 2026-11-14
 * [Commit] [cl/beacon/handler, cl/phase1/network/services: do not gossip unverified voluntary exits from the API (#26279)](https://github.com/erigontech/erigon/commit/79445646b6e987894341f3f017637d21405f5f6b) - 2026-11-14
+* [Commit] [cl/phase1/network/services: wake the block service when a published block is queued (#26329)](https://github.com/erigontech/erigon/commit/c32780ffc698f07d896a05d8e270a66a8f563401) - 2026-11-15
+* [Commit] [cl/phase1/stages: wake the chain-tip wait when a block index is committed (#26330)](https://github.com/erigontech/erigon/commit/e34fedc2a528f433d1ca748e7589722dd43fdea1) - 2026-11-15
 ## Q3 2026
 
 

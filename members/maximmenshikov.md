@@ -30,6 +30,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799) - 2026-11-11
 * [Review] [Review on: feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799#pullrequestreview-5904195221) - 2026-11-14
 * [Commit] [feat(stateless): catch exceptions in the Airbender guest (#15799)](https://github.com/NethermindEth/nethermind/commit/9ae1cd11094717278616f7563144aae05cff9c82) - 2026-11-15
+* [Pull Request] [build(zkevm): bump Nethermind.Sp1.Runtime to 6.9.0.87 and Nethermind.OpenVM.Runtime to 2.1.0.70](https://github.com/NethermindEth/nethermind/pull/15916) - 2026-11-15
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

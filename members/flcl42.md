@@ -102,6 +102,18 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(evm): skip the zero credit on call frame entry in the standard build](https://github.com/NethermindEth/nethermind/pull/15878#pullrequestreview-5906742249) - 2026-11-14
 * [Review] [Review on: fix(stateless): keep witness re-execution out of the invalid chain tracker](https://github.com/NethermindEth/nethermind/pull/15877#pullrequestreview-5902974374) - 2026-11-14
 * [Review] [Review on: perf(flat): reuse the write batch's dirty account map and root queue per thread](https://github.com/NethermindEth/nethermind/pull/15881#pullrequestreview-5906410124) - 2026-11-14
+* [Review] [Review on: fix(era1): reject repeated finalization of era files](https://github.com/NethermindEth/nethermind/pull/15905#pullrequestreview-5911527351) - 2026-11-15
+* [Review] [Review on: perf(zkevm): keep witness leaf values as slices in the guest](https://github.com/NethermindEth/nethermind/pull/15922#pullrequestreview-5914302510) - 2026-11-16
+* [Review] [Review on: perf(crypto): cache the recovered senders of legacy transactions](https://github.com/NethermindEth/nethermind/pull/15899#pullrequestreview-5909464981) - 2026-11-15
+* [Review] [Review on: fix(logindex): size TurboPFor buffers for what the codec reads and writes](https://github.com/NethermindEth/nethermind/pull/15913#pullrequestreview-5913542060) - 2026-11-15
+* [Review] [Review on: fix(network): wait for the RLPx event loops to stop on shutdown](https://github.com/NethermindEth/nethermind/pull/15903#pullrequestreview-5911297815) - 2026-11-15
+* [Review] [Review on: build(zkevm): update the guest bflat images to 80f97933](https://github.com/NethermindEth/nethermind/pull/15904#pullrequestreview-5911334588) - 2026-11-15
+* [Review] [Review on: feat(discovery): filter nodes by recent IP and subnet](https://github.com/NethermindEth/nethermind/pull/15915#pullrequestreview-5913501786) - 2026-11-15
+* [Review] [Review on: perf(rpc): take the traced transaction index from stored receipts](https://github.com/NethermindEth/nethermind/pull/15908#pullrequestreview-5911757145) - 2026-11-15
+* [Review] [Review on: perf(network): size the RLPx encoder output buffer from the packet length](https://github.com/NethermindEth/nethermind/pull/15897#pullrequestreview-5909277599) - 2026-11-15
+* [Review] [Review on: perf(network): add the RLPx TRACE LoggingHandler only when TRACE is enabled](https://github.com/NethermindEth/nethermind/pull/15898#pullrequestreview-5909357195) - 2026-11-15
+* [Review] [Review on: perf(network): size eth/69 receipts responses without blooms](https://github.com/NethermindEth/nethermind/pull/15887#pullrequestreview-5909109024) - 2026-11-15
+* [Review] [Review on: perf(logindex): reuse one buffer for the values an enumerator reads](https://github.com/NethermindEth/nethermind/pull/15900#pullrequestreview-5909659245) - 2026-11-15
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

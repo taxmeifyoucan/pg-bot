@@ -920,6 +920,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(flat): reuse the write batch's dirty account map and root queue per thread](https://github.com/NethermindEth/nethermind/pull/15881#pullrequestreview-5906239632) - 2026-11-14
 * [Review] [Review on: refactor(flat): remove the array-returning trie RLP reads from the persistence reader](https://github.com/NethermindEth/nethermind/pull/15875#pullrequestreview-5902512194) - 2026-11-14
 * [Commit] [fix(merge): rebuild the payload once the tx pool has processed the parent block (#15873)](https://github.com/NethermindEth/nethermind/commit/143911da939e05c7dee93f7c02b6a2efb11e439c) - 2026-11-14
+* [Review] [Review on: perf(zkevm): keep witness leaf values as slices in the guest](https://github.com/NethermindEth/nethermind/pull/15922#pullrequestreview-5912575905) - 2026-11-15
+* [Pull Request] [perf(snap): serve account and storage ranges as encoded entries in pooled memory](https://github.com/NethermindEth/nethermind/pull/15912) - 2026-11-15
+* [Review] [Review on: perf(snap): serve account and storage ranges as encoded entries in pooled memory](https://github.com/NethermindEth/nethermind/pull/15912#pullrequestreview-5909583717) - 2026-11-15
+* [Pull Request] [test(network): cover block body serving leases and fix the serving benchmark](https://github.com/NethermindEth/nethermind/pull/15930) - 2026-11-15
+* [Pull Request] [perf(network): serve block headers from their stored encoding](https://github.com/NethermindEth/nethermind/pull/15910) - 2026-11-15
+* [Review] [Review on: perf(network): serve block headers from their stored encoding](https://github.com/NethermindEth/nethermind/pull/15910#pullrequestreview-5909587642) - 2026-11-15
+* [Pull Request] [perf(txpool): serve stored blob transactions in PooledTransactions without decoding them](https://github.com/NethermindEth/nethermind/pull/15911) - 2026-11-15
+* [Review] [Review on: perf(txpool): serve stored blob transactions in PooledTransactions without decoding them](https://github.com/NethermindEth/nethermind/pull/15911#pullrequestreview-5909587228) - 2026-11-15
+* [Pull Request] [fix(optimism): skip Superchain devnets and treat a blank sequencer URL as unset](https://github.com/NethermindEth/nethermind/pull/15909) - 2026-11-15
+* [Review] [Review on: perf(db): prefetch through PrefetchAsync](https://github.com/NethermindEth/nethermind/pull/15902#pullrequestreview-5913153510) - 2026-11-15
+* [Review] [Review on: perf(trie): batch two or three leftover leaves on AVX2](https://github.com/NethermindEth/nethermind/pull/15888#pullrequestreview-5912584905) - 2026-11-15
+* [Review] [Review on: perf(zkevm): skip fee, revert reason and receipt work that nothing reads](https://github.com/NethermindEth/nethermind/pull/15923#pullrequestreview-5912597597) - 2026-11-15
+* [Review] [Review on: perf(merge): avoid boxing and repeated consensus lookup in header validation](https://github.com/NethermindEth/nethermind/pull/15924#pullrequestreview-5912556579) - 2026-11-15
+* [Review] [Review on: perf(network): resolve P2P message metric counters once per session route](https://github.com/NethermindEth/nethermind/pull/15917#pullrequestreview-5912540552) - 2026-11-15
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/15907#pullrequestreview-5909392998) - 2026-11-15
+* [Commit] [perf(network): serve block headers from their stored encoding (#15910)](https://github.com/NethermindEth/nethermind/commit/3a86ad604736b513054032e2e2052aa3c160b4ed) - 2026-11-15
+* [Commit] [fix(optimism): skip Superchain devnets and treat a blank sequencer URL as unset (#15909)](https://github.com/NethermindEth/nethermind/commit/819a5feee8801f792d3198b1fd188f5b36c84733) - 2026-11-15
+* [Commit] [perf(sync): keep block bodies encoded between the network and the block store (#15879)](https://github.com/NethermindEth/nethermind/commit/11ec9f26f74718908e89c4b8bcb4ee6f0c5a8d9f) - 2026-11-15
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

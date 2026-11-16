@@ -269,6 +269,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Update Docker base images to resolve CVE-2026-109518 (#11964)](https://github.com/besu-eth/besu/commit/b83f34eaad2b1d7607a8231f78a83d7f6712b887) - 2026-11-13
 * [Commit] [Fix CHANGELOG entries listed under the wrong release (#11912)](https://github.com/besu-eth/besu/commit/a3582bf2a79cfb9a4cec36d2c7f011b7203d2f54) - 2026-11-13
 * [Commit] [Drop final from range-checked CLI option fields (#11929)](https://github.com/besu-eth/besu/commit/ddcb973457f69c870dfc23479ac50238bacd71fa) - 2026-11-13
+* [Pull Request] [Resolve CompositePeerDiscoveryAgent agents into non-null fields](https://github.com/besu-eth/besu/pull/11980) - 2026-11-16
+* [Review] [Review on: fix(rpc): report creationMethod on every create trace frame](https://github.com/besu-eth/besu/pull/11435#pullrequestreview-5914477901) - 2026-11-16
+* [Review] [Review on: Rewrite log blooms replaced by a reorg in earlier segments](https://github.com/besu-eth/besu/pull/11969#pullrequestreview-5913085610) - 2026-11-15
+* [Review] [Review on: Remove logging from transaction processing downwards](https://github.com/besu-eth/besu/pull/11919#pullrequestreview-5914236816) - 2026-11-16
+* [Review] [Review on: Make an imported proof-of-stake side block the chain head in blocks import](https://github.com/besu-eth/besu/pull/11902#pullrequestreview-5913947223) - 2026-11-16
+* [Review] [Review on: CI: Add an on-demand hive workflow](https://github.com/besu-eth/besu/pull/11904#pullrequestreview-5913308168) - 2026-11-15
+* [Commit] [add bug bounty as an incoming channel (#11936)](https://github.com/besu-eth/besu/commit/5fcc925ebbff6ba4310573a666efe1f749bd35a2) - 2026-11-16
+* [Commit] [Treat missing txs as no transactions in evmtool t8n (#11930)](https://github.com/besu-eth/besu/commit/ffc1b1f6f7c32279a2af639bd0b2cf1229b7a51c) - 2026-11-15
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

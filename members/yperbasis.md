@@ -378,6 +378,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: ignore voluntary exits with pending partial withdrawals (#26226)](https://github.com/erigontech/erigon/commit/b6b4f6320e0fa11a4835bb5f0f4b172552a46393) - 2026-11-13
 * [Commit] [engineapi: make polling deadline test deterministic (#26213)](https://github.com/erigontech/erigon/commit/5e6501e9d7d1166a117ae83fd95ffd2947be2bc6) - 2026-11-14
 * [Commit] [agents: scope local verification to affected packages (#26227)](https://github.com/erigontech/erigon/commit/d6b80df0536277b4f84494f2ea8dbc22a10294e1) - 2026-11-14
+* [Review] [Review on: db/state: recover interrupted snapshot maintenance](https://github.com/erigontech/erigon/pull/26173#pullrequestreview-5911044693) - 2026-11-15
+* [Review] [Review on: execution: isolate failed unwinds and enforce snapshot boundaries](https://github.com/erigontech/erigon/pull/26174#pullrequestreview-5912468976) - 2026-11-15
+* [Commit] [db, execution: preserve values across repeated unwinds (#26172)](https://github.com/erigontech/erigon/commit/c6b74e97fc001ecc3b8e1a48177697a9307735a9) - 2026-11-15
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -412,6 +415,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-client-clis): map Erigon empty blob execution errors](https://github.com/ethereum/execution-specs/pull/3962) - 2026-11-06
 * [Commit] [fix(test-client-clis): map Erigon empty blob execution errors (#3962)](https://github.com/ethereum/execution-specs/commit/ce7375feabcc263b074ffc226f5e74dffc2db9cd) - 2026-11-07
+* [Pull Request] [fix(test-client-clis): map Erigon total frame fee errors](https://github.com/ethereum/execution-specs/pull/4007) - 2026-11-15
 ## Q3 2026
 
 

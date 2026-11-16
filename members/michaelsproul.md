@@ -98,6 +98,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Update libp2p](https://github.com/sigp/lighthouse/commit/bfdf0a3fe4e15bb44dcd6682868074cb7962bbdb) - 2026-11-09
 * [Commit] [Bump crypto-bigint](https://github.com/sigp/lighthouse/commit/e7afb13167f42222027a462558ae271a9f81ff39) - 2026-11-09
 * [Review] [Review on: Update redb to v4](https://github.com/sigp/lighthouse/pull/10541#pullrequestreview-5850799292) - 2026-11-10
+* [Pull Request] [Update jsonwebtoken](https://github.com/sigp/lighthouse/pull/10574) - 2026-11-16
+* [Review] [Review on: Delete blobs after blocks when pruning abandoned chains](https://github.com/sigp/lighthouse/pull/10565#pullrequestreview-5914019342) - 2026-11-16
+* [Pull Request] [Rust 1.100 lints](https://github.com/sigp/lighthouse/pull/10572) - 2026-11-16
+* [Review] [Review on: Rust 1.100 lints](https://github.com/sigp/lighthouse/pull/10572#pullrequestreview-5913822645) - 2026-11-16
+* [Review] [Review on: Fix poisoning attack on validator pubkey cache](https://github.com/sigp/lighthouse/pull/10569#pullrequestreview-5913676682) - 2026-11-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

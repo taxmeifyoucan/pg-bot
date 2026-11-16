@@ -118,6 +118,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [execution/state: keep the seeded removal Done when the destroying tx flushes it](https://github.com/erigontech/erigon/pull/26326) - 2026-11-14
 * [Commit] [execution/stagedsync, execution/state: reset the storage of a contract created over an account with storage (#26324)](https://github.com/erigontech/erigon/commit/9376313e21d96b7faeb71506b902355b023b67f1) - 2026-11-15
 * [Commit] [execution/engineapi: check the payload header against its parent before the sender recovery (#25299)](https://github.com/erigontech/erigon/commit/eeb01a475f47160f59bda9e8eb65d3909653350f) - 2026-11-14
+* [Commit] [execution/state: keep the seeded removal Done when the destroying tx flushes it (#26326)](https://github.com/erigontech/erigon/commit/83efdf9adaf3c701ba4f69e8ce99eca9230f9acb) - 2026-11-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02

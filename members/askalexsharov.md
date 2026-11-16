@@ -1029,6 +1029,27 @@ Team: Erigon
 * [Commit] [db/state: a merge removes the old accounts files it replaced (#26234)](https://github.com/erigontech/erigon/commit/2820dad53c41fe5304a2da30428d83a8a606121c) - 2026-11-14
 * [Commit] [execution: remove the serial executor (#26239)](https://github.com/erigontech/erigon/commit/2c6e5d48e30a6f4cd5fff7137f68ca77f0027734) - 2026-11-14
 * [Commit] [execution/state: skip validating quiet base reads of account paths (#26154)](https://github.com/erigontech/erigon/commit/5b59b99c73893b4a21cc1cea175e6263cf914912) - 2026-11-14
+* [Pull Request] [cl: run more real-time tests in synctest bubbles](https://github.com/erigontech/erigon/pull/26365) - 2026-11-16
+* [Pull Request] [rpc/requests, common/event: run real-time tests in synctest bubbles](https://github.com/erigontech/erigon/pull/26369) - 2026-11-16
+* [Review] [Review on: common/background: handle zero totals in progress percentages](https://github.com/erigontech/erigon/pull/26333#pullrequestreview-5914223196) - 2026-11-16
+* [Review] [Review on: db/state: write valid mock .ef and .v words so TestAggregator_CommitmentHistoryOnlyMerge runs merge](https://github.com/erigontech/erigon/pull/26295#pullrequestreview-5909565162) - 2026-11-15
+* [Pull Request] [db/state: step rebase refuses to delete unindexed files](https://github.com/erigontech/erigon/pull/26368) - 2026-11-16
+* [Pull Request] [db/state: refuse startup when history files end before pruned rows](https://github.com/erigontech/erigon/pull/26367) - 2026-11-16
+* [Pull Request] [db/state: reject a history merge whose source files end early](https://github.com/erigontech/erigon/pull/26366) - 2026-11-16
+* [Review] [Review on: db/snapshotsync/freezeblocks: confirm a txn lookup in files by hashing the stored encoding](https://github.com/erigontech/erigon/pull/26363#pullrequestreview-5914148673) - 2026-11-16
+* [Review] [Review on: rpc/rpchelper: send the first block of a receipts stream as one notification](https://github.com/erigontech/erigon/pull/26362#pullrequestreview-5914161899) - 2026-11-16
+* [Review] [Review on: db/state: guard history merges, retirement, rebase and startup checks](https://github.com/erigontech/erigon/pull/26340#pullrequestreview-5914152371) - 2026-11-16
+* [Review] [Review on: execution/stagedsync: fold window BAL blocks ahead](https://github.com/erigontech/erigon/pull/26267#pullrequestreview-5909436008) - 2026-11-15
+* [Review] [Review on: db/state: check pruned history coverage at startup](https://github.com/erigontech/erigon/pull/26341#pullrequestreview-5909127394) - 2026-11-15
+* [Pull Request] [db/state: refuse rebase with uncovered unindexed files](https://github.com/erigontech/erigon/pull/26342) - 2026-11-15
+* [Review] [Review on: db/state: refuse rebase with uncovered unindexed files](https://github.com/erigontech/erigon/pull/26342#pullrequestreview-5909137399) - 2026-11-15
+* [Review] [Review on: db/state, cmd, node: remove the serial-commitment switch](https://github.com/erigontech/erigon/pull/26336#pullrequestreview-5914338010) - 2026-11-16
+* [Pull Request] [db/state: retire complete dirty history prefixes](https://github.com/erigontech/erigon/pull/26343) - 2026-11-15
+* [Review] [Review on: ci: per-run evm artifact for eest shards + class-scoped Go cache keys](https://github.com/erigontech/erigon/pull/26319#pullrequestreview-5913702935) - 2026-11-16
+* [Pull Request] [tests: run timer waits under synctest](https://github.com/erigontech/erigon/pull/26364) - 2026-11-16
+* [Commit] [execution: error on non-versioned state instead of a second write path (#26337)](https://github.com/erigontech/erigon/commit/e978041325789304aae566c4fca237baabca4cc8) - 2026-11-16
+* [Commit] [execution/execmodule: always keep live in-memory history (#26339)](https://github.com/erigontech/erigon/commit/bf5f0c53665c6abd087a1f56c7a90cab25353862) - 2026-11-16
+* [Commit] [engineapi: build payload witnesses outside the engine locks (#26335)](https://github.com/erigontech/erigon/commit/3e428d56a65b6d5e48b747716c3da3a41a685a33) - 2026-11-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

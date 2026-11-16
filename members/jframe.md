@@ -48,6 +48,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Drop final from range-checked CLI option fields](https://github.com/besu-eth/besu/pull/11929#pullrequestreview-5886459041) - 2026-11-13
 * [Review] [Review on: Update Docker base images to resolve CVE-2026-109518](https://github.com/besu-eth/besu/pull/11964#pullrequestreview-5886502566) - 2026-11-13
 * [Review] [Review on: Fix CHANGELOG entries listed under the wrong release](https://github.com/besu-eth/besu/pull/11912#pullrequestreview-5886421984) - 2026-11-13
+* [Review] [Review on: [3/5] snap/2 sorted ingest: merge the small bottom-level files a RocksDB bulk load leaves](https://github.com/besu-eth/besu/pull/11854#pullrequestreview-5914113066) - 2026-11-16
+* [Review] [Review on: Skip NewBlock imports for blocks the QBFT round is already finalising](https://github.com/besu-eth/besu/pull/11583#pullrequestreview-5913521230) - 2026-11-15
 ## Q3 2026
 
 

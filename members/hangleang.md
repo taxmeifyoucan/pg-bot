@@ -59,6 +59,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Make execution payload envelope validation generic](https://github.com/grandinetech/grandine/pull/1036) - 2026-11-10
 * [Pull Request] [Separate builder and validator deposits at the Gloas fork](https://github.com/grandinetech/grandine/pull/1049) - 2026-11-14
 * [Commit] [Make execution payload envelope validation generic](https://github.com/grandinetech/grandine/commit/28745a697860843dc72d97bd8bef03fd455f0c92) - 2026-11-14
+* [Pull Request] [Unset fork slot payload availability in `upgrade_to_gloas`](https://github.com/grandinetech/grandine/pull/1050) - 2026-11-16
 ## Q3 2026
 
 

@@ -273,6 +273,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Add EIP: eth/73 - Proof wrapper propagation](https://github.com/ethereum/EIPs/pull/12655) - 2026-11-11
 * [Pull Request] [Update EIP-8288: Batch generic signature claims](https://github.com/ethereum/EIPs/pull/12654) - 2026-11-11
 * [Pull Request] [Add EIP: Generic Proof Verification and Batching](https://github.com/ethereum/EIPs/pull/12664) - 2026-11-13
+* [Pull Request] [Update EIP-8288: Define committed verification keys](https://github.com/ethereum/EIPs/pull/12667) - 2026-11-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12
