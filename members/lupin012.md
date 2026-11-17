@@ -200,6 +200,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [.github/workflows: lower the top mixed step to 4500 qps in RPC Performance Tests Latest (#26345)](https://github.com/erigontech/erigon/commit/65f4784094dfac3e33b3f23066645541a1610675) - 2026-11-15
 * [Commit] [execution/types/ethutils, rpc/jsonrpc, docs: stamp every receipt log with blockTimestamp (#26099)](https://github.com/erigontech/erigon/commit/186140f042a589e096e6e11f3a0049e0f31f49b5) - 2026-11-15
 * [Commit] [db/rawdb: hash block transactions while reading cached receipts (#26188)](https://github.com/erigontech/erigon/commit/5e3404efe29670e11326fdb8149e23fcbfe504bb) - 2026-11-15
+* [Pull Request] [rpc/jsonrpc, db/rawdb: read eth_getBlockReceipts cached receipts while the block is read](https://github.com/erigontech/erigon/pull/26420) - 2026-11-17
+* [Commit] [.github/workflows: leave out a lost client and accept a dead peer in RPC Performance Tests Latest (#26344)](https://github.com/erigontech/erigon/commit/3f6cc2182d65bcdf1c56191ef55a15d2d99f69b2) - 2026-11-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -286,6 +288,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_perf: write the rows by method and by subscription measure in the JSON report](https://github.com/erigontech/rpc-tests/pull/662) - 2026-11-15
 * [Pull Request] [rpc_perf: report the node CPU and RSS when its io file cannot be read](https://github.com/erigontech/rpc-tests/pull/661) - 2026-11-15
 * [Pull Request] [rpc_perf: keep the failed level in the JSON report, with its error](https://github.com/erigontech/rpc-tests/pull/660) - 2026-11-15
+* [Pull Request] [rpc_perf: keep only the head of each response body in memory](https://github.com/erigontech/rpc-tests/pull/665) - 2026-11-16
+* [Commit] [rpc_perf: merge the transactionReceipts notifications sent one per receipt (#663)](https://github.com/erigontech/rpc-tests/commit/c58f028f79d97de33d20114a580844ffe079ab36) - 2026-11-16
+* [Commit] [rpc_perf: write the rows by method and by subscription measure in the JSON report (#662)](https://github.com/erigontech/rpc-tests/commit/d9f3eb73c98029bc5c5a88cf2f2ec2f555d4ad5a) - 2026-11-16
+* [Commit] [rpc_perf: report the node CPU and RSS when its io file cannot be read (#661)](https://github.com/erigontech/rpc-tests/commit/0bb139f327875d7f8d13c0c92f8aa6bbf9199bb8) - 2026-11-16
+* [Commit] [rpc_perf: keep the failed level in the JSON report, with its error (#660)](https://github.com/erigontech/rpc-tests/commit/43d8700c9230c33a0142e975d49f0b74d0e04383) - 2026-11-16
 ## Q3 2026
 
 

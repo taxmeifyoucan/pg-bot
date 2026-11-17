@@ -517,6 +517,15 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(eip8141): raise the shared MAX_VERIFY_GAS floor to 300_000](https://github.com/NethermindEth/nethermind/pull/15764#pullrequestreview-5837707669) - 2026-11-10
 * [Commit] [fix(simulate): resolve an omitted nonce when the call executes (#15680)](https://github.com/NethermindEth/nethermind/commit/0d75a32abf7957d805a5b56015ec9d3e856a7e7d) - 2026-11-13
 * [Pull Request] [fix(stateless): keep witness re-execution out of the invalid chain tracker](https://github.com/NethermindEth/nethermind/pull/15877) - 2026-11-14
+* [Pull Request] [fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004) - 2026-11-17
+* [Review] [Review on: fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004#pullrequestreview-5932537841) - 2026-11-17
+* [Pull Request] [fix(ci): pass Glamsterdam batch lists through an artifact](https://github.com/NethermindEth/nethermind/pull/16005) - 2026-11-17
+* [Review] [Review on: fix(ci): pass Glamsterdam batch lists through an artifact](https://github.com/NethermindEth/nethermind/pull/16005#pullrequestreview-5932538921) - 2026-11-17
+* [Review] [Review on: fix(debug): ignore canonical flag in traceCall hash selectors](https://github.com/NethermindEth/nethermind/pull/15831#pullrequestreview-5932074093) - 2026-11-17
+* [Review] [Review on: perf(flat): keep the snapshot merges on the calling thread on one processor](https://github.com/NethermindEth/nethermind/pull/14132#pullrequestreview-5932023217) - 2026-11-17
+* [Review] [Review on: perf: experiment with configurable GC pacing](https://github.com/NethermindEth/nethermind/pull/15381#pullrequestreview-5932004044) - 2026-11-17
+* [Pull Request] [ci: fix out-of-disk failures in RPC benchmarks and private-repo builds](https://github.com/NethermindEth/nethermind/pull/15968) - 2026-11-16
+* [Commit] [ci: fix out-of-disk failures in RPC benchmarks and private-repo builds (#15968)](https://github.com/NethermindEth/nethermind/commit/e68a43f59910145c99a97c6ab4718851b67ef081) - 2026-11-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

@@ -89,6 +89,8 @@ Team: Grandine
 * [Pull Request] [Add missing proposer reorg functionality](https://github.com/grandinetech/grandine/pull/1044) - 2026-11-13
 * [Review] [Review on: Feature/update rust](https://github.com/grandinetech/grandine/pull/1047#pullrequestreview-5891028442) - 2026-11-13
 * [Review] [Review on: Updated some crates](https://github.com/grandinetech/grandine/pull/1045#pullrequestreview-5889243779) - 2026-11-13
+* [Review] [Review on: Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/pull/1046#pullrequestreview-5917781766) - 2026-11-16
+* [Commit] [Add missing proposer reorg functionality](https://github.com/grandinetech/grandine/commit/5b6963f8ff6847375b18e430df81d6235dda89c5) - 2026-11-16
 ## Q3 2026
 
 

@@ -89,6 +89,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add payload consistency checks to envelope gossip validation (#5821)](https://github.com/ethereum/consensus-specs/commit/44be32373afdb87496f3f68c1668f7e7d72aa662) - 2026-11-12
 * [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802#pullrequestreview-5895292752) - 2026-11-13
 * [Commit] [Sign builder bids with the bid epoch's fork version (#5822)](https://github.com/ethereum/consensus-specs/commit/313cbfe561517a81eb11607fea7c6985e562eaa9) - 2026-11-13
+* [Review] [Review on: Restore Gloas partial message group ID version byte](https://github.com/ethereum/consensus-specs/pull/5835#pullrequestreview-5924168058) - 2026-11-16
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5834#pullrequestreview-5921053391) - 2026-11-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

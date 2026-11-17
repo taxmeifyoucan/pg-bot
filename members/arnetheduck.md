@@ -32,6 +32,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [ci: speed up eest tests (#5148)](https://github.com/status-im/nimbus-eth1/commit/73d55cd65c5a186f12a2e6176751ab49787836a2) - 2026-11-11
 * [Pull Request] [ledger: simplify account handling](https://github.com/status-im/nimbus-eth1/pull/5153) - 2026-11-12
 * [Commit] [ledger: simplify account handling (#5153)](https://github.com/status-im/nimbus-eth1/commit/c7911c786f4c0a7e6a9b79c550dd815cb0fd32a7) - 2026-11-13
+* [Pull Request] [eest: fewer dots in unit test](https://github.com/status-im/nimbus-eth1/pull/5171) - 2026-11-16
+* [Commit] [eest: fewer dots in unit test (#5171)](https://github.com/status-im/nimbus-eth1/commit/1d62d294c321f559e7554ffacb7abbaf80781dac) - 2026-11-17
+* [Commit] [stats: fix deprecation warning](https://github.com/status-im/nimbus-eth1/commit/06643fb06ac602c3013fe71e5543e1fae9b5dc89) - 2026-11-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

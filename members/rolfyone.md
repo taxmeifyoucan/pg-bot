@@ -172,6 +172,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615#pullrequestreview-5913020084) - 2026-11-15
 * [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys-Incorporated/teku/pull/10132#pullrequestreview-5913008541) - 2026-11-15
 * [Commit] [Define PTC duties dependent root for the Gloas fork epoch (#11631)](https://github.com/Consensys-Incorporated/teku/commit/c3ca3bb00618d7d34ecbd2c8ebae2df44d6bd5bb) - 2026-11-15
+* [Review] [Review on: Update actions/setup-java digest to d1374f8](https://github.com/Consensys-Incorporated/teku/pull/11638#pullrequestreview-5931654622) - 2026-11-17
+* [Pull Request] [Reject MAX_VALUE slots and epochs in slashing protection imports](https://github.com/Consensys-Incorporated/teku/pull/11643) - 2026-11-17
+* [Review] [Review on: Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615#pullrequestreview-5917956611) - 2026-11-16
+* [Commit] [Create missing slashing protection records in repair (#11622)](https://github.com/Consensys-Incorporated/teku/commit/ee3fd196a5767c3a2fb205841b502b603c2d872f) - 2026-11-17
+* [Commit] [Keep genesis root and check network in slashing protection repair (#11621)](https://github.com/Consensys-Incorporated/teku/commit/89d58afa754f4c16bb5422da9a62c4392e4f0d95) - 2026-11-17
+* [Commit] [Prune non-canonical blob sidecars below the earliest blob slot (#11639)](https://github.com/Consensys-Incorporated/teku/commit/b1352b95f4a74e365c0ab5fe2a7df782a1155d06) - 2026-11-16
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

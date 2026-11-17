@@ -114,6 +114,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: harden gloas attestation validation at fork boundary (#10619)](https://github.com/ChainSafe/lodestar/commit/1b22218e602f6bc8999ce0772389f8748b900144) - 2026-11-13
 * [Pull Request] [fix: harden detectDoppelganger()](https://github.com/ChainSafe/lodestar/pull/10634) - 2026-11-16
 * [Review] [Review on: fix: detect bit supersets that leave a byte empty](https://github.com/ChainSafe/lodestar/pull/10629#pullrequestreview-5914489547) - 2026-11-16
+* [Review] [Review on: chore: v1.51.0 release](https://github.com/ChainSafe/lodestar/pull/10472#pullrequestreview-5931746701) - 2026-11-17
+* [Commit] [fix: harden detectDoppelganger() (#10634)](https://github.com/ChainSafe/lodestar/commit/42cba9af41f7fab39f62ff8bd6d0ae80315e55c9) - 2026-11-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

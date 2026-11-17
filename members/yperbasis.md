@@ -381,6 +381,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: recover interrupted snapshot maintenance](https://github.com/erigontech/erigon/pull/26173#pullrequestreview-5911044693) - 2026-11-15
 * [Review] [Review on: execution: isolate failed unwinds and enforce snapshot boundaries](https://github.com/erigontech/erigon/pull/26174#pullrequestreview-5912468976) - 2026-11-15
 * [Commit] [db, execution: preserve values across repeated unwinds (#26172)](https://github.com/erigontech/erigon/commit/c6b74e97fc001ecc3b8e1a48177697a9307735a9) - 2026-11-15
+* [Review] [Review on: AGENTS.md: cut to the core guidelines](https://github.com/erigontech/erigon/pull/26372#pullrequestreview-5921085685) - 2026-11-16
+* [Issue] [execution: reduce allocations in EIP-7906 assertion views](https://github.com/erigontech/erigon/issues/26398) - 2026-11-16
+* [Issue] [rpc: preserve ordinary constructor replay context in overlay_callConstructor](https://github.com/erigontech/erigon/issues/26394) - 2026-11-16
+* [Issue] [execmodule: combine notification metadata and state readers](https://github.com/erigontech/erigon/issues/26384) - 2026-11-16
+* [Issue] [notifications: publish finality-only fork-choice updates](https://github.com/erigontech/erigon/issues/26378) - 2026-11-16
+* [Issue] [txpool: avoid spam penalties when restoring unwound transactions](https://github.com/erigontech/erigon/issues/26377) - 2026-11-16
+* [Issue] [shutter: recover from unwinds before the first keyper set activates](https://github.com/erigontech/erigon/issues/26376) - 2026-11-16
+* [Commit] [execution, txpool: add EIP-8272 support and fix state notifications and recovery (#25515)](https://github.com/erigontech/erigon/commit/9bd59310781e445e3d071608db6de237dc885628) - 2026-11-16
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -406,6 +414,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648) - 2026-11-03
 * [Commit] [mainnet/debug_accountAt: expect an out-of-range index error (#648)](https://github.com/erigontech/rpc-tests/commit/73a88b4c120c30637b74b953537eb97cfced8a78) - 2026-11-03
 
+* [Pull Request] [integration: remove obsolete gasBailOut placeholders from trace requests](https://github.com/erigontech/rpc-tests/pull/664) - 2026-11-16
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Gloas: deferred payload envelope waits a full slot after block import](https://github.com/sigp/lighthouse/issues/10519) - 2026-11-03
 

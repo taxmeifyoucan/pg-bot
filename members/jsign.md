@@ -40,9 +40,14 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): check witness trie nodes only when the block reaches them](https://github.com/ethereum/execution-specs/pull/3934) - 2026-11-09
 * [Pull Request] [fix(ci): skip the genesis download for zkevm-benchmark releases](https://github.com/ethereum/execution-specs/pull/3985) - 2026-11-12
 * [Pull Request] [refactor(zkevm): move generic stateless code out of the amsterdam fork folder](https://github.com/ethereum/execution-specs/pull/3995) - 2026-11-13
+* [Pull Request] [fix(zkevm): apply account trie deletions after insertions and updates](https://github.com/ethereum/execution-specs/pull/4012) - 2026-11-16
+* [Pull Request] [test(zkevm): test the collapse onto an extension on a real parent state](https://github.com/ethereum/execution-specs/pull/4011) - 2026-11-16
+* [Pull Request] [feat(zkevm): add stateless validation to the bogota fork](https://github.com/ethereum/execution-specs/pull/4009) - 2026-11-16
+* [Issue] [Replace `remerkleable` with `eth-ssz-specs` for SSZ](https://github.com/ethereum/execution-specs/issues/4013) - 2026-11-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 
+* [Commit] [engine: add payload witness endpoint to REST + SSZ proposal (#885)](https://github.com/ethereum/execution-apis/commit/044ebaae295606316c6ba295396c10b2b98f3636) - 2026-11-16
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [ci: parallelize EEST R2 validation and validate fewer blocks by default](https://github.com/eth-act/zkevm-benchmark-workload/pull/317) - 2026-10-06
 * [Pull Request] [ci: fail on Cargo.toml warnings, use stable Rust, fix test caching](https://github.com/eth-act/zkevm-benchmark-workload/pull/316) - 2026-10-06

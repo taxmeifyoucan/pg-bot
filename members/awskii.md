@@ -527,6 +527,17 @@ Team: Erigon
 * [Commit] [cl/beacon/handler: fix validator_inclusion panic on unknown validators (#26160)](https://github.com/erigontech/erigon/commit/fc19ca7030298edbf74c4679f2b2edb0cd55f205) - 2026-11-15
 * [Commit] [cl/beacon: route expected withdrawals without relay (#26150)](https://github.com/erigontech/erigon/commit/12263949ea38ffd66e1e6c63b39beda926bf357a) - 2026-11-15
 * [Commit] [p2p/sentry/libsentry: fill multiplexer Peers by copy into the total peer count (#25972)](https://github.com/erigontech/erigon/commit/6fe33e1f20a8e02132e2090b68aacea97e9ea70f) - 2026-11-15
+* [Review] [Review on: AGENTS.md: cut to the core guidelines](https://github.com/erigontech/erigon/pull/26372#pullrequestreview-5932081751) - 2026-11-17
+* [Issue] [db/state: a standalone index missing its first file starts past 0, and range reads below it return nothing](https://github.com/erigontech/erigon/issues/26418) - 2026-11-17
+* [Issue] [db/state: startup skips a covered accessor whose covering files are not visible](https://github.com/erigontech/erigon/issues/26416) - 2026-11-17
+* [Commit] [execution/exec, db/state: remove recon leftovers and BlkRangeToStepsOnDB (#26112)](https://github.com/erigontech/erigon/commit/d90170c90052f1020c1a6df225f4d4e75cad33ad) - 2026-11-17
+* [Commit] [execution/commitment/v3: commitment trie with per-node records (#24304)](https://github.com/erigontech/erigon/commit/fd679ca0530b27edfa3ce12faac1b352cb149510) - 2026-11-17
+* [Commit] [db/state: move test-only helpers to tests and drop E2 schema wrappers (#26199)](https://github.com/erigontech/erigon/commit/9172406cdb028baa9ad63c8e3b16c9d8e02f39b5) - 2026-11-16
+* [Commit] [execution/stagedsync: check ephemeral replay write sets for extra writes (#26110)](https://github.com/erigontech/erigon/commit/92ba3c4ff82cffd57702af716eb0a66741c502ce) - 2026-11-16
+* [Commit] [execution/state: remove unused IterativeDump and DefaultRawDump (#26106)](https://github.com/erigontech/erigon/commit/3071363c9ba8eeda17a2226654231b7c9efa20aa) - 2026-11-16
+* [Commit] [db/state: remove unused noHash hashers and InvertedIndexRoTx.canBuild (#26108)](https://github.com/erigontech/erigon/commit/0cfdb1bcb94c5e80b908a8681bb04e3817f365c3) - 2026-11-16
+* [Commit] [cmd/capcli: fill Gloas blobs from /eth/v1/beacon/blobs (#26192)](https://github.com/erigontech/erigon/commit/3a8b0c98ef59d3e9bdc54f490629e2f6f1f4bdb2) - 2026-11-16
+* [Commit] [cl: move test-only funcs into tests, drop unused fork choice timing funcs (#26198)](https://github.com/erigontech/erigon/commit/8f5a9919baa4f906b3506572dc786e4817194071) - 2026-11-16
 ## Q3 2026
 
 

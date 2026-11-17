@@ -277,6 +277,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: CI: Add an on-demand hive workflow](https://github.com/besu-eth/besu/pull/11904#pullrequestreview-5913308168) - 2026-11-15
 * [Commit] [add bug bounty as an incoming channel (#11936)](https://github.com/besu-eth/besu/commit/5fcc925ebbff6ba4310573a666efe1f749bd35a2) - 2026-11-16
 * [Commit] [Treat missing txs as no transactions in evmtool t8n (#11930)](https://github.com/besu-eth/besu/commit/ffc1b1f6f7c32279a2af639bd0b2cf1229b7a51c) - 2026-11-15
+* [Pull Request] [Upgrade RocksDB to 10.10.1](https://github.com/besu-eth/besu/pull/11981) - 2026-11-16
+* [Review] [Review on: Stop re-asking a peer that sent back no receipts](https://github.com/besu-eth/besu/pull/11920#pullrequestreview-5930398198) - 2026-11-17
+* [Pull Request] [Validate the eth/69 status block range and best hash](https://github.com/besu-eth/besu/pull/11987) - 2026-11-17
+* [Pull Request] [Bump setup-gradle to v6.4.1 in the hive workflow](https://github.com/besu-eth/besu/pull/11986) - 2026-11-17
+* [Pull Request] [Add a JMH benchmark for RocksDB gets of present and absent keys](https://github.com/besu-eth/besu/pull/11988) - 2026-11-17
+* [Review] [Review on: Resolve finalized and safe in debug_storageRangeAt and debug_accountRange](https://github.com/besu-eth/besu/pull/11978#pullrequestreview-5931302687) - 2026-11-17
+* [Review] [Review on: fix(rpc): retain nonzero-value precompile trace frames](https://github.com/besu-eth/besu/pull/11360#pullrequestreview-5931286672) - 2026-11-17
+* [Review] [Review on: Add negative reject test vectors for SECP256R1 signature verify](https://github.com/besu-eth/besu/pull/11908#pullrequestreview-5916706399) - 2026-11-16
+* [Commit] [Validate the eth/69 status block range and best hash (#11987)](https://github.com/besu-eth/besu/commit/c626fa99f252424e1b9f126e16743cf60e6bc3f5) - 2026-11-17
+* [Commit] [Bump setup-gradle to v6.4.1 in the hive workflow (#11986)](https://github.com/besu-eth/besu/commit/9e8285fd61c64df206f62eb6fae612daaca5edae) - 2026-11-17
+* [Commit] [CI: Add an on-demand hive workflow (#11904)](https://github.com/besu-eth/besu/commit/e32b917a43407791adc73c37994b83bdf927f1c8) - 2026-11-16
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

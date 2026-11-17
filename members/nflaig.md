@@ -375,6 +375,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore(ci): run benchmarks nightly instead of on every PR (#10557)](https://github.com/ChainSafe/lodestar/commit/2fa25c077cd940f5200ac19944c98fedf9a54604) - 2026-11-10
 * [Commit] [fix: apply forkchoiceUpdated verdicts to fork choice (#10436)](https://github.com/ChainSafe/lodestar/commit/36022cc5cb1037e2f1b57be623f179b5389ad2cf) - 2026-11-11
 * [Commit] [feat: reduce `MIN_EPOCHS_FOR_BLOCK_REQUESTS` for gloas (#10120)](https://github.com/ChainSafe/lodestar/commit/efd56334686b7b22d3002398c48f679a851f2fd8) - 2026-11-13
+* [Pull Request] [chore: v1.51.0 release](https://github.com/ChainSafe/lodestar/pull/10472) - 2026-11-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

@@ -120,6 +120,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless guest: move ZisK RAM start to 0xa0430000 (#5163)](https://github.com/status-im/nimbus-eth1/commit/73c021a159cdfcd7e0c7eae843e395c74ca64f0b) - 2026-11-13
 * [Commit] [Store transaction fee fields as UInt256 (#5160)](https://github.com/status-im/nimbus-eth1/commit/87dcde6c46fccd24a499f490d7c660c545ff130f) - 2026-11-14
 * [Pull Request] [json-rpc: apply the gas cap to eth_call and eth_createAccessList](https://github.com/status-im/nimbus-eth1/pull/5167) - 2026-11-15
+* [Pull Request] [ci: stop testing with Nim 2.4](https://github.com/status-im/nimbus-eth1/pull/5172) - 2026-11-16
+* [Pull Request] [rlpx: fix size limit check of outgoing frames](https://github.com/status-im/nimbus-eth1/pull/5174) - 2026-11-16
+* [Pull Request] [rlpx: read frame bodies as they arrive, limit pre-hello frames](https://github.com/status-im/nimbus-eth1/pull/5173) - 2026-11-16
+* [Commit] [rlpx: fix size limit check of outgoing frames (#5174)](https://github.com/status-im/nimbus-eth1/commit/5f02ee27b9ab6813223698b3d916b3f389ac5939) - 2026-11-16
+* [Commit] [stateless: align SSZ types with Gloas and check witness node shapes (#5129)](https://github.com/status-im/nimbus-eth1/commit/3cc5e644cfa1bcec6e3634e5c70c5958611a2fc3) - 2026-11-16
+* [Commit] [json-rpc: apply the gas cap to eth_call and eth_createAccessList (#5167)](https://github.com/status-im/nimbus-eth1/commit/b9e476241e1de24e851c4c471da0d75a24261416) - 2026-11-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

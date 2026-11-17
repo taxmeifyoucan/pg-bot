@@ -1050,6 +1050,17 @@ Team: Erigon
 * [Commit] [execution: error on non-versioned state instead of a second write path (#26337)](https://github.com/erigontech/erigon/commit/e978041325789304aae566c4fca237baabca4cc8) - 2026-11-16
 * [Commit] [execution/execmodule: always keep live in-memory history (#26339)](https://github.com/erigontech/erigon/commit/bf5f0c53665c6abd087a1f56c7a90cab25353862) - 2026-11-16
 * [Commit] [engineapi: build payload witnesses outside the engine locks (#26335)](https://github.com/erigontech/erigon/commit/3e428d56a65b6d5e48b747716c3da3a41a685a33) - 2026-11-16
+* [Review] [Review on: AGENTS.md: cut to the core guidelines](https://github.com/erigontech/erigon/pull/26372#pullrequestreview-5930521061) - 2026-11-17
+* [Pull Request] [p2p, txpool: synctest](https://github.com/erigontech/erigon/pull/26415) - 2026-11-17
+* [Pull Request] [cl/phase1/network: synctest](https://github.com/erigontech/erigon/pull/26414) - 2026-11-17
+* [Pull Request] [cl/beacon/handler: synctest ](https://github.com/erigontech/erigon/pull/26413) - 2026-11-17
+* [Commit] [ci: eest shards 44 to 29 min, one Go cache entry per class per week (#26319)](https://github.com/erigontech/erigon/commit/c08532b4e8a21fc5ad0c4dd3d55c0442cf3057a8) - 2026-11-17
+* [Commit] [db/state: reject a history merge whose source files start late (#26366)](https://github.com/erigontech/erigon/commit/9d156d149d7b291293ff7f08c8eec104e6c6832e) - 2026-11-17
+* [Commit] [execution/state: a repeated EXTCODECOPY of one address copies from the read record (#26383)](https://github.com/erigontech/erigon/commit/41553814ffb2524f9fb2567421fc0e80fa4d8b53) - 2026-11-16
+* [Commit] [tests: run timer waits under synctest (#26364)](https://github.com/erigontech/erigon/commit/628f2e3c456cb5f526e726429fdde0417f7c2056) - 2026-11-16
+* [Commit] [cl: run more real-time tests in synctest bubbles (#26365)](https://github.com/erigontech/erigon/commit/483ac45284741a7cd450728cc77943c9cb0ec4a3) - 2026-11-16
+* [Commit] [db/state: guard history merges, retirement, rebase and startup checks (#26340)](https://github.com/erigontech/erigon/commit/3ab341d5073d82ea2b6b80fc17b9e0e4088acf4b) - 2026-11-16
+* [Commit] [db/state, cmd, node: remove the serial-commitment switch (#26336)](https://github.com/erigontech/erigon/commit/88082080a6fc0a0d8c2ed49c9bc0bf519f2b9fdc) - 2026-11-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

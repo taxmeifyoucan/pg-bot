@@ -48,6 +48,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Add Gloas optimistic sync invalidation tests](https://github.com/sigp/lighthouse/pull/10176#pullrequestreview-5853726256) - 2026-11-11
 * [Review] [Review on: Remove MDBX slasher backend](https://github.com/sigp/lighthouse/pull/10521#pullrequestreview-5853361194) - 2026-11-11
 * [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5839074738) - 2026-11-10
+* [Review] [Review on: Only request column reconstruction once half the columns are cached](https://github.com/sigp/lighthouse/pull/10561#pullrequestreview-5922861022) - 2026-11-16
+* [Pull Request] [Log the first TimeLatch event instead of swallowing it](https://github.com/sigp/lighthouse/pull/10479) - 2026-11-17
+* [Pull Request] [Insert Gloas data column bid only after slot validation](https://github.com/sigp/lighthouse/pull/10466) - 2026-11-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 
@@ -56,6 +59,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Gloas optimistic sync tests](https://github.com/ethereum/consensus-specs/pull/5818) - 2026-11-12
 * [Review] [Review on: Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785#pullrequestreview-5871408392) - 2026-11-12
 * [Commit] [Remove the eth1 bridge assert from `upgrade_to_heze` (#5813)](https://github.com/ethereum/consensus-specs/commit/d3f4b290df06f300dd4a6e0237f436ae82772a1f) - 2026-11-12
+* [Pull Request] [Only onboard builder deposits that cannot have been applied before the fork](https://github.com/ethereum/consensus-specs/pull/5836) - 2026-11-17
 [eth-act/zkboost](https://github.com/eth-act/zkboost)
 * [Pull Request] [feat: beacon state witness from the top-level state leaves](https://github.com/eth-act/zkboost/pull/89) - 2026-10-14
 ## Q3 2026

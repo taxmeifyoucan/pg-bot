@@ -37,6 +37,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [fix light client fork boundary digest bug (#17801)](https://github.com/OffchainLabs/prysm/commit/a64ff3857918ee8392944542e0957c92d389396d) - 2026-11-04
 * [Review] [Review on: Reject gossip messages whose snappy header claims a decoded length larger than the message can expand to.](https://github.com/OffchainLabs/prysm/pull/17840#pullrequestreview-5787651637) - 2026-11-05
 * [Review] [Review on: Set `--api-timeout` default to 0](https://github.com/OffchainLabs/prysm/pull/17842#pullrequestreview-5801149920) - 2026-11-06
+* [Pull Request] [fix gloas light client gossip timing](https://github.com/OffchainLabs/prysm/pull/17886) - 2026-11-16
+* [Pull Request] [Fix LC P2P request decoding for bootstrap and updates-by-range](https://github.com/OffchainLabs/prysm/pull/17885) - 2026-11-16
+* [Pull Request] [Fix overflow in LC REST handler](https://github.com/OffchainLabs/prysm/pull/17884) - 2026-11-16
+* [Pull Request] [Keep cached LC updates when migration to cold storage fails](https://github.com/OffchainLabs/prysm/pull/17883) - 2026-11-16
 ## Q3 2026
 
 

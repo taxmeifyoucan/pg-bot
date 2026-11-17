@@ -90,6 +90,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [refactor(trie): decode node records without validating the RLP (#15859)](https://github.com/NethermindEth/nethermind/commit/55c235aa383fea53410698b59f9605e5299efa3b) - 2026-11-13
 * [Review] [Review on: perf(sync): use AccountStruct in flat raw persistence and snap messages](https://github.com/NethermindEth/nethermind/pull/15876#pullrequestreview-5901707188) - 2026-11-14
 * [Commit] [refactor(flat): remove the array-returning trie RLP reads from the persistence reader (#15875)](https://github.com/NethermindEth/nethermind/commit/9c2595db1e122b6c80f52bd899a458925e9826f4) - 2026-11-14
+* [Review] [Review on: fix(rpc): do not hold the whole trace_filter range in memory](https://github.com/NethermindEth/nethermind/pull/15998#pullrequestreview-5933539988) - 2026-11-17
+* [Review] [Review on: fix(consensus): keep AuRa block production on after a rejected block](https://github.com/NethermindEth/nethermind/pull/16002#pullrequestreview-5933395819) - 2026-11-17
+* [Review] [Review on: fix(consensus): reset the best suggested block when a branch is refused](https://github.com/NethermindEth/nethermind/pull/16003#pullrequestreview-5933385934) - 2026-11-17
+* [Pull Request] [refactor(txpool)!: split the mempool form out of Transaction into MempoolTransaction](https://github.com/NethermindEth/nethermind/pull/16006) - 2026-11-17
+* [Review] [Review on: refactor(txpool)!: split the mempool form out of Transaction into MempoolTransaction](https://github.com/NethermindEth/nethermind/pull/16006#pullrequestreview-5932846434) - 2026-11-17
+* [Review] [Review on: fix(sync): delete the storage of accounts that a healed state node removes](https://github.com/NethermindEth/nethermind/pull/16000#pullrequestreview-5933116485) - 2026-11-17
 ## Q3 2026
 
 

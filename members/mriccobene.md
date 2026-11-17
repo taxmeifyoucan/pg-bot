@@ -52,6 +52,10 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen: generate eth_subscribe patterns for newHeads, logs and transactionReceipts](https://github.com/erigontech/rpc-tests/pull/656#pullrequestreview-5904168592) - 2026-11-14
 * [Review] [Review on: integration: add blockTimestamp to receipt logs of erigon_getBlockReceiptsByBlockHash and ots_searchTransactions*](https://github.com/erigontech/rpc-tests/pull/654#pullrequestreview-5904165812) - 2026-11-14
 * [Review] [Review on: rpc_perf: remove the --run-vegeta-on-core option](https://github.com/erigontech/rpc-tests/pull/655#pullrequestreview-5904167209) - 2026-11-14
+* [Review] [Review on: rpc_perf: merge the transactionReceipts notifications sent one per receipt](https://github.com/erigontech/rpc-tests/pull/663#pullrequestreview-5917389702) - 2026-11-16
+* [Review] [Review on: rpc_perf: write the rows by method and by subscription measure in the JSON report](https://github.com/erigontech/rpc-tests/pull/662#pullrequestreview-5917393777) - 2026-11-16
+* [Review] [Review on: rpc_perf: report the node CPU and RSS when its io file cannot be read](https://github.com/erigontech/rpc-tests/pull/661#pullrequestreview-5917395973) - 2026-11-16
+* [Review] [Review on: rpc_perf: keep the failed level in the JSON report, with its error](https://github.com/erigontech/rpc-tests/pull/660#pullrequestreview-5922183391) - 2026-11-16
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

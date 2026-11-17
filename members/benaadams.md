@@ -348,6 +348,32 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(tracing): write Geth's exit records for rejected calls and SELFDESTRUCT in file traces](https://github.com/NethermindEth/nethermind/pull/15715#pullrequestreview-5894822769) - 2026-11-13
 * [Review] [Review on: feat(rpc)!: pass request cancellation to JSON-RPC methods](https://github.com/NethermindEth/nethermind/pull/15766#pullrequestreview-5894820024) - 2026-11-13
 * [Review] [Review on: perf(network): size eth/72 announced blob mask cache to the blob pool](https://github.com/NethermindEth/nethermind/pull/15794#pullrequestreview-5894818873) - 2026-11-13
+* [Review] [Review on: refactor(db)!: remove the IDb byte[][] multi-get indexer](https://github.com/NethermindEth/nethermind/pull/15969#pullrequestreview-5927194361) - 2026-11-16
+* [Review] [Review on: perf(flat): record persisted snapshot accounts in history without decoding them](https://github.com/NethermindEth/nethermind/pull/15962#pullrequestreview-5927197979) - 2026-11-16
+* [Review] [Review on: perf(tracing): hash KECCAK256 preimages into ValueHash256 in the preimage tracer](https://github.com/NethermindEth/nethermind/pull/15948#pullrequestreview-5920539001) - 2026-11-16
+* [Review] [Review on: perf(zkevm): verify the block access list without building it in the stateless executor](https://github.com/NethermindEth/nethermind/pull/15952#pullrequestreview-5920536676) - 2026-11-16
+* [Review] [Review on: perf(snap): create each hash once when serving storage ranges](https://github.com/NethermindEth/nethermind/pull/15940#pullrequestreview-5920542698) - 2026-11-16
+* [Review] [Review on: perf(network): pass value hashes through the eth/72 sparse blob pool registry](https://github.com/NethermindEth/nethermind/pull/15939#pullrequestreview-5920543279) - 2026-11-16
+* [Review] [Review on: perf(evm): skip the discarded fee payment in restore runs](https://github.com/NethermindEth/nethermind/pull/15937#pullrequestreview-5920544414) - 2026-11-16
+* [Review] [Review on: perf(rpc): skip call tracing in eth_simulateV1 when the result does not need it](https://github.com/NethermindEth/nethermind/pull/15935#pullrequestreview-5920561901) - 2026-11-16
+* [Review] [Review on: fix(rpc): queue eth_call executions above a concurrency limit](https://github.com/NethermindEth/nethermind/pull/15995#pullrequestreview-5930883242) - 2026-11-17
+* [Review] [Review on: fix(rpc): write socket responses to the stream only asynchronously](https://github.com/NethermindEth/nethermind/pull/15996#pullrequestreview-5930883499) - 2026-11-17
+* [Review] [Review on: fix(rpc): do not hold the whole trace_filter range in memory](https://github.com/NethermindEth/nethermind/pull/15998#pullrequestreview-5930884135) - 2026-11-17
+* [Review] [Review on: fix(consensus): keep AuRa block production on after a rejected block](https://github.com/NethermindEth/nethermind/pull/16002#pullrequestreview-5930885119) - 2026-11-17
+* [Review] [Review on: fix(consensus): reset the best suggested block when a branch is refused](https://github.com/NethermindEth/nethermind/pull/16003#pullrequestreview-5930885319) - 2026-11-17
+* [Review] [Review on: fix(sync): delete the storage of accounts that a healed state node removes](https://github.com/NethermindEth/nethermind/pull/16000#pullrequestreview-5930884576) - 2026-11-17
+* [Review] [Review on: test(evm): cover cached call frames across transactions with different tracers](https://github.com/NethermindEth/nethermind/pull/15992#pullrequestreview-5930882758) - 2026-11-17
+* [Review] [Review on: test(trie): check SecuredTrieNodeValidator against a reference written from the spec](https://github.com/NethermindEth/nethermind/pull/15991#pullrequestreview-5930882430) - 2026-11-17
+* [Review] [Review on: chore(deps): update Nethermind.Numerics.Int256 to 1.15.0](https://github.com/NethermindEth/nethermind/pull/15990#pullrequestreview-5930881986) - 2026-11-17
+* [Review] [Review on: fix(tracing): preserve empty-account existence in JavaScript tracers](https://github.com/NethermindEth/nethermind/pull/15834#pullrequestreview-5927210992) - 2026-11-16
+* [Review] [Review on: fix(trie): finish the batched trie walk past a missing node and stop every worker when one fails](https://github.com/NethermindEth/nethermind/pull/15986#pullrequestreview-5930880645) - 2026-11-17
+* [Review] [Review on: fix(debug): ignore canonical flag in traceCall hash selectors](https://github.com/NethermindEth/nethermind/pull/15831#pullrequestreview-5927212131) - 2026-11-16
+* [Review] [Review on: ci: fix out-of-disk failures in RPC benchmarks and private-repo builds](https://github.com/NethermindEth/nethermind/pull/15968#pullrequestreview-5927194830) - 2026-11-16
+* [Review] [Review on: fix(consensus): validate the header number before the seal](https://github.com/NethermindEth/nethermind/pull/15983#pullrequestreview-5927186585) - 2026-11-16
+* [Review] [Review on: perf(txpool): hold the blob proofs of a sidecar in one contiguous buffer](https://github.com/NethermindEth/nethermind/pull/15981#pullrequestreview-5927187651) - 2026-11-16
+* [Review] [Review on: fix(evm): keep only code within the largest size limit in the code cache](https://github.com/NethermindEth/nethermind/pull/15982#pullrequestreview-5927187123) - 2026-11-16
+* [Review] [Review on: fix(consensus): process side ancestors that were not processed](https://github.com/NethermindEth/nethermind/pull/16001#pullrequestreview-5930884842) - 2026-11-17
+* [Review] [Review on: fix(rpc): serve engine signer methods only to authenticated callers](https://github.com/NethermindEth/nethermind/pull/15999#pullrequestreview-5930884341) - 2026-11-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

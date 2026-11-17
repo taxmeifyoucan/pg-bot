@@ -22,6 +22,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Back merge 8.3.0](https://github.com/sigp/lighthouse/pull/10387#pullrequestreview-5570064678) - 2026-10-19
 * [Review] [Review on: Release v8.3.0](https://github.com/sigp/lighthouse/pull/10386#pullrequestreview-5569123115) - 2026-10-19
 * [Commit] [Bump libp2p to patched version](https://github.com/sigp/lighthouse/commit/27f42a77a27490fbee5d952e325915264e0a4200) - 2026-10-19
+* [Pull Request] [Convert consensus crate tests to use a compile-time `Spec`](https://github.com/sigp/lighthouse/pull/10470) - 2026-11-17
 ## Q3 2026
 
 

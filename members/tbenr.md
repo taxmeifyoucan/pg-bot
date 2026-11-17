@@ -115,6 +115,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Write generated secret files readable only by their owner](https://github.com/Consensys-Incorporated/teku/pull/11617#pullrequestreview-5906922601) - 2026-11-14
 * [Review] [Review on: FCR: Tolerate a pruned previous balance source in fast confirmation](https://github.com/Consensys-Incorporated/teku/pull/11604#pullrequestreview-5904960308) - 2026-11-14
 * [Review] [Review on: FCR: Tolerate a pruned previous balance source in fast confirmation](https://github.com/Consensys-Incorporated/teku/pull/11604#pullrequestreview-5912166838) - 2026-11-15
+* [Review] [Review on: Prune non-canonical blob sidecars below the earliest blob slot](https://github.com/Consensys-Incorporated/teku/pull/11639#pullrequestreview-5917954892) - 2026-11-16
+* [Review] [Review on: Respect latest valid hash for INVALID Gloas payloads on optimistic chains](https://github.com/Consensys-Incorporated/teku/pull/11641#pullrequestreview-5927164554) - 2026-11-16
+* [Review] [Review on: FCR: Tolerate a pruned previous balance source in fast confirmation](https://github.com/Consensys-Incorporated/teku/pull/11604#pullrequestreview-5917096754) - 2026-11-16
+* [Issue] [Additional Bid gossip validations](https://github.com/Consensys-Incorporated/teku/issues/11642) - 2026-11-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 
@@ -137,6 +141,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Release 1.4.0](https://github.com/libp2p/jvm-libp2p/pull/546#pullrequestreview-5610800578) - 2026-10-22
 * [Pull Request] [Close a QUIC stream once both sides have finished writing](https://github.com/libp2p/jvm-libp2p/pull/548) - 2026-10-23
 
+* [Review] [Review on: Add AGENTS.md and point CLAUDE.md to it](https://github.com/libp2p/jvm-libp2p/pull/551#pullrequestreview-5918591275) - 2026-11-16
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Read longs and ints in ArrayWrappingBytes through VarHandles](https://github.com/Consensys-Incorporated/tuweni/pull/78) - 2026-11-05
 ## Q3 2026

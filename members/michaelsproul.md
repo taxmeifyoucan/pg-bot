@@ -103,6 +103,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Rust 1.100 lints](https://github.com/sigp/lighthouse/pull/10572) - 2026-11-16
 * [Review] [Review on: Rust 1.100 lints](https://github.com/sigp/lighthouse/pull/10572#pullrequestreview-5913822645) - 2026-11-16
 * [Review] [Review on: Fix poisoning attack on validator pubkey cache](https://github.com/sigp/lighthouse/pull/10569#pullrequestreview-5913676682) - 2026-11-16
+* [Review] [Review on: Remove MDBX slasher backend](https://github.com/sigp/lighthouse/pull/10521#pullrequestreview-5933656326) - 2026-11-17
+* [Review] [Review on: Fix kurtosis runs by pinning port range](https://github.com/sigp/lighthouse/pull/10600#pullrequestreview-5932869159) - 2026-11-17
+* [Pull Request] [Fix HTTP API TLS startup panic](https://github.com/sigp/lighthouse/pull/10599) - 2026-11-17
+* [Review] [Review on: Fix HTTP API TLS startup panic](https://github.com/sigp/lighthouse/pull/10599#pullrequestreview-5933286936) - 2026-11-17
+* [Review] [Review on: Add builder related fields in config/spec](https://github.com/sigp/lighthouse/pull/10601#pullrequestreview-5931856985) - 2026-11-17
+* [Review] [Review on: Update jsonwebtoken](https://github.com/sigp/lighthouse/pull/10574#pullrequestreview-5929731046) - 2026-11-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

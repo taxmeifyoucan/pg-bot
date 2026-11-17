@@ -32,6 +32,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: merge v1.50.1 back to unstable (#10463)](https://github.com/ChainSafe/lodestar/commit/782eaff74dc57c83da685bc12f0cc48821e05bc9) - 2026-10-22
 * [Commit] [chore: v1.50.1 release (#10462)](https://github.com/ChainSafe/lodestar/commit/56cf1ab7b16a2805a985e104f2e7fcbaad98a22b) - 2026-10-22
 * [Commit] [chore: bump package versions to 1.50.1](https://github.com/ChainSafe/lodestar/commit/94287df951794f855549351ea75f177cf8929646) - 2026-10-22
+* [Commit] [Merge branch 'stable' into unstable](https://github.com/ChainSafe/lodestar/commit/53c3aab4e95e98f58685a3476fc3a038c424629f) - 2026-11-17
+* [Commit] [chore: v1.51.0 release (#10472)](https://github.com/ChainSafe/lodestar/commit/7923280c2e664e2fb81344921aaf41cb751957c7) - 2026-11-17
 ## Q3 2026
 
 

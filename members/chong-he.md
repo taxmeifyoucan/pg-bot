@@ -41,6 +41,9 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Commit] [Fix CI audit failure (#10407)](https://github.com/sigp/lighthouse/commit/73cbd6d4dc24f6266244060a17390042743068d5) - 2026-10-22
 * [Review] [Review on: Add gzip compression to HTTP metrics endpoints](https://github.com/sigp/lighthouse/pull/10338#pullrequestreview-5610813792) - 2026-10-22
 * [Review] [Review on: Rust 1.100 lints](https://github.com/sigp/lighthouse/pull/10572#pullrequestreview-5914960937) - 2026-11-16
+* [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5916837007) - 2026-11-16
+* [Pull Request] [Add builder related fields in config/spec](https://github.com/sigp/lighthouse/pull/10601) - 2026-11-17
+* [Pull Request] [Delete duplication in metrics.rs](https://github.com/sigp/lighthouse/pull/10492) - 2026-11-17
 ## Q3 2026
 
 

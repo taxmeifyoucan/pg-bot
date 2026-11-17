@@ -69,6 +69,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(test-client-clis): map reth floor gas and cap messages](https://github.com/ethereum/execution-specs/pull/3994#pullrequestreview-5891952661) - 2026-11-13
 * [Review] [Review on: chore(doc,ci): move links to specs.ethereum.foundation](https://github.com/ethereum/execution-specs/pull/3992#pullrequestreview-5890652595) - 2026-11-13
 * [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5888327536) - 2026-11-13
+* [Review] [Review on: ✨ feat(test-types): P256 signing utility](https://github.com/ethereum/execution-specs/pull/3961#pullrequestreview-5917874359) - 2026-11-16
+* [Review] [Review on: fix(tests): skip genesis blockhash test in execute mode](https://github.com/ethereum/execution-specs/pull/3981#pullrequestreview-5917581587) - 2026-11-16
+* [Commit] [feat(test-benchmark): support invalid-block benchmarks (#3823)](https://github.com/ethereum/execution-specs/commit/990dc8a6af4cf4246032b12e6713e4b20eb9d562) - 2026-11-16
 ## Q3 2026
 
 

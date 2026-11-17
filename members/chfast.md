@@ -119,6 +119,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/stagedsync, execution/state: reset the storage of a contract created over an account with storage (#26324)](https://github.com/erigontech/erigon/commit/9376313e21d96b7faeb71506b902355b023b67f1) - 2026-11-15
 * [Commit] [execution/engineapi: check the payload header against its parent before the sender recovery (#25299)](https://github.com/erigontech/erigon/commit/eeb01a475f47160f59bda9e8eb65d3909653350f) - 2026-11-14
 * [Commit] [execution/state: keep the seeded removal Done when the destroying tx flushes it (#26326)](https://github.com/erigontech/erigon/commit/83efdf9adaf3c701ba4f69e8ce99eca9230f9acb) - 2026-11-15
+* [Commit] [execution/state: validate account reads at the BAL existence marker against the destruct (#26380)](https://github.com/erigontech/erigon/commit/203c88474d4d04488c85a91424d6662a9bac9c61) - 2026-11-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -220,6 +221,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Add modular inversion tests](https://github.com/ipsilon/evmone/pull/1812) - 2026-11-09
 * [Commit] [test: Add modular inversion tests (#1812)](https://github.com/ipsilon/evmone/commit/6fb712f3035cb2aa29e810728f11dfb3d786b81e) - 2026-11-09
 * [Issue] [baseline: Decide which instruction implementations to inline into the dispatch loop](https://github.com/ipsilon/evmone/issues/1813) - 2026-11-13
+* [Pull Request] [test: Avoid copying JSON strings in the test loaders](https://github.com/ipsilon/evmone/pull/1817) - 2026-11-16
+* [Pull Request] [test: Avoid copying RLP-encoded strings](https://github.com/ipsilon/evmone/pull/1816) - 2026-11-16
+* [Pull Request] [cmake: Align the Baseline interpreter's labels to 32 bytes with GCC](https://github.com/ipsilon/evmone/pull/1815) - 2026-11-16
+* [Pull Request] [cmake: Raise GCC's inline budget for the Baseline interpreter](https://github.com/ipsilon/evmone/pull/1814) - 2026-11-16
+* [Commit] [cmake: Raise GCC's inline budget for the Baseline interpreter (#1814)](https://github.com/ipsilon/evmone/commit/ba92871e91a749651adbc69927a6eac8a090dbb2) - 2026-11-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

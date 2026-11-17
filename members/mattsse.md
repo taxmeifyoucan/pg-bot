@@ -726,6 +726,14 @@ Team: Reth
 * [Commit] [fix(rpc): log only the request line and answer refused upgrades with 400 (#28547)](https://github.com/paradigmxyz/reth/commit/22acaa77d39ef0d4714b632e27e4b5320e7a6713) - 2026-11-15
 * [Commit] [fix(rpc): answer over-limit streamed request bodies with 413 (#28546)](https://github.com/paradigmxyz/reth/commit/5e95c0c9e13848c10108e39502c9b6a9dc4baaa0) - 2026-11-15
 * [Commit] [fix(rpc): preserve WebSocket close replies (#28558)](https://github.com/paradigmxyz/reth/commit/f0e9fd688cde9353fb80bbc2073064431d80cf0a) - 2026-11-15
+* [Review] [Review on: refactor(chain-state): one lock for in-memory blocks](https://github.com/paradigmxyz/reth/pull/28543#pullrequestreview-5930196321) - 2026-11-17
+* [Review] [Review on: deps: update evm2 to e681662 (2026-11-13)](https://github.com/paradigmxyz/reth/pull/28540#pullrequestreview-5927424324) - 2026-11-16
+* [Review] [Review on: perf(libmdbx): leave the build timestamp out of libmdbx](https://github.com/paradigmxyz/reth/pull/28573#pullrequestreview-5927430102) - 2026-11-16
+* [Pull Request] [fix(payload): keep engine request span on payload build workers](https://github.com/paradigmxyz/reth/pull/28571) - 2026-11-16
+* [Pull Request] [fix(engine): retain no blocks in zero-limit block buffer](https://github.com/paradigmxyz/reth/pull/28572) - 2026-11-16
+* [Pull Request] [perf(trie): pass sorted overlay to V1 proofs](https://github.com/paradigmxyz/reth/pull/28570) - 2026-11-16
+* [Commit] [fix(payload): keep engine request span on payload build workers (#28571)](https://github.com/paradigmxyz/reth/commit/8ed2eca1f5c8ebeb6aad091e079319df825db223) - 2026-11-16
+* [Commit] [perf(trie): pass sorted overlay to V1 proofs (#28570)](https://github.com/paradigmxyz/reth/commit/996a4f3946791d4105ff9a98d5f706a92ced0478) - 2026-11-16
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

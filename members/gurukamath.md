@@ -42,6 +42,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(spec-specs, tests): reject block gas limits above 2**63 - 1](https://github.com/ethereum/execution-specs/pull/3960#pullrequestreview-5827691346) - 2026-11-09
 * [Review] [Review on: fix(spec-specs,tests): use token multiplier for calldata floor](https://github.com/ethereum/execution-specs/pull/3969#pullrequestreview-5827342605) - 2026-11-09
 * [Issue] [Harmonise errors thrown on Frame transaction validity checks](https://github.com/ethereum/execution-specs/issues/3970) - 2026-11-09
+* [Pull Request] [feat(spec-specs,tests): reject EIP-8141 SENDER frames that cannot be approved](https://github.com/ethereum/execution-specs/pull/4008) - 2026-11-16
 ## Q3 2026
 
 

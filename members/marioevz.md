@@ -85,6 +85,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998) - 2026-11-14
 * [Pull Request] [refactor(tests): merge stMemory*, stStackTests, stLogTests, stShift files](https://github.com/ethereum/execution-specs/pull/4003) - 2026-11-14
 * [Pull Request] [refactor(tests): merge zero/non-zero value call tests, clean up ported tests](https://github.com/ethereum/execution-specs/pull/3997) - 2026-11-14
+* [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5929144039) - 2026-11-16
+* [Review] [Review on: fix(spec-specs,test-client-clis): raise InsufficientMaxFeePerGasError for a legacy gas price below the base fee](https://github.com/ethereum/execution-specs/pull/3993#pullrequestreview-5925861054) - 2026-11-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 
@@ -94,6 +96,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: Update EIP-8141: raise MAX_VERIFY_GAS to 300_000](https://github.com/ethereum/EIPs/pull/12644#pullrequestreview-5858462023) - 2026-11-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #101, October 19, 2026](https://github.com/ethereum/pm/issues/2271) - 2026-10-12
+* [Issue] [All Core Devs - Testing (ACDT) #104, November 23, 2026](https://github.com/ethereum/pm/issues/2306) - 2026-11-16
 ## Q3 2026
 
 

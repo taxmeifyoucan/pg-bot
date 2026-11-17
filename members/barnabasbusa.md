@@ -98,6 +98,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: bump sops to 3.13.3](https://github.com/ethpandaops/template-devnets/pull/196) - 2026-10-08
 * [Commit] [chore: bump sops to 3.13.3 (#196)](https://github.com/ethpandaops/template-devnets/commit/50365257e4b61f50a3587cd189c7677ed4dd6e04) - 2026-10-08
 * [Commit] [chore: run watchtower every 15 min with per-host staggered offset](https://github.com/ethpandaops/template-devnets/commit/e045b158886d827a465d206bfef993c6da15a686) - 2026-10-13
+* [Pull Request] [feat: authorize team GitHub SSH keys for root on new nodes](https://github.com/ethpandaops/template-devnets/pull/201) - 2026-11-16
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 

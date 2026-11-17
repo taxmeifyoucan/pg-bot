@@ -51,6 +51,9 @@ Github: [@cperezz](https://github.com/cperezz)
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [X_BONSAI_ARCHIVE: startup archive migration closes the world state an RLP import is using](https://github.com/besu-eth/besu/issues/11958) - 2026-11-12
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Issue] [engine_forkchoiceUpdated: may a client refuse a reorg that reverts the latest known finalized block, and with which error?](https://github.com/ethereum/execution-apis/issues/983) - 2026-11-16
 ## Q3 2026
 
 

@@ -71,6 +71,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: FCR: Add a mechanism for providing a restart-resilient confirmed root](https://github.com/Consensys-Incorporated/teku/pull/11573#pullrequestreview-5895841332) - 2026-11-13
 * [Review] [Review on: limit validator client Beacon API response sizes](https://github.com/Consensys-Incorporated/teku/pull/11623#pullrequestreview-5890993900) - 2026-11-13
 * [Commit] [FCR: Add a mechanism for providing a restart-resilient confirmed root (#11573)](https://github.com/Consensys-Incorporated/teku/commit/21788914eec31029e7c6be0c1a505260eed0bdfa) - 2026-11-13
+* [Pull Request] [Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys-Incorporated/teku/pull/10132) - 2026-11-16
+* [Pull Request] [FCR: Tolerate a pruned previous balance source in fast confirmation](https://github.com/Consensys-Incorporated/teku/pull/11604) - 2026-11-16
+* [Review] [Review on: FCR: Tolerate a pruned previous balance source in fast confirmation](https://github.com/Consensys-Incorporated/teku/pull/11604#pullrequestreview-5916761671) - 2026-11-16
+* [Commit] [Validate remote peer head slot (#11615)](https://github.com/Consensys-Incorporated/teku/commit/2e31fec1c89a16768fbe4c14876e7d519423c5a3) - 2026-11-16
+* [Commit] [Reconstruct supernode sidecars extension (Last part) (#10132)](https://github.com/Consensys-Incorporated/teku/commit/fc4487d941718e8b68bb4d3679fabdb0ad2a8fb6) - 2026-11-16
+* [Commit] [FCR: Tolerate a pruned previous balance source in fast confirmation (#11604)](https://github.com/Consensys-Incorporated/teku/commit/6005b7ff8fe38e44df06a7fb9da7ccbd8d5662d6) - 2026-11-16
 ## Q3 2026
 
 
