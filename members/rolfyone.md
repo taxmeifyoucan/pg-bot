@@ -178,6 +178,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Create missing slashing protection records in repair (#11622)](https://github.com/Consensys-Incorporated/teku/commit/ee3fd196a5767c3a2fb205841b502b603c2d872f) - 2026-11-17
 * [Commit] [Keep genesis root and check network in slashing protection repair (#11621)](https://github.com/Consensys-Incorporated/teku/commit/89d58afa754f4c16bb5422da9a62c4392e4f0d95) - 2026-11-17
 * [Commit] [Prune non-canonical blob sidecars below the earliest blob slot (#11639)](https://github.com/Consensys-Incorporated/teku/commit/b1352b95f4a74e365c0ab5fe2a7df782a1155d06) - 2026-11-16
+* [Pull Request] [Add EIP-8483 PQ registration fork on top of Gloas](https://github.com/Consensys-Incorporated/teku/pull/11649) - 2026-11-18
+* [Pull Request] [Sync parent directory after durable file writes](https://github.com/Consensys-Incorporated/teku/pull/11648) - 2026-11-18
+* [Review] [Review on: Update AGENTS.md](https://github.com/Consensys-Incorporated/teku/pull/11647#pullrequestreview-5950688195) - 2026-11-18
+* [Pull Request] [Reject attestation data with a target epoch not matching its slot](https://github.com/Consensys-Incorporated/teku/pull/11646) - 2026-11-18
+* [Pull Request] [Harden slashing protection interchange imports](https://github.com/Consensys-Incorporated/teku/pull/11645) - 2026-11-18
+* [Review] [Review on: Read validator views of the packed registry from the supernode bytes](https://github.com/Consensys-Incorporated/teku/pull/11627#pullrequestreview-5936605598) - 2026-11-17
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

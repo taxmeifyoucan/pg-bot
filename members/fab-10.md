@@ -127,6 +127,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Update security report email](https://github.com/besu-eth/besu/pull/11953) - 2026-11-12
 * [Commit] [Update security report email (#11953)](https://github.com/besu-eth/besu/commit/8447c6ba69bde74674529844ca12405063927809) - 2026-11-12
 * [Review] [Review on: Run the built-in plugins through the plugin lifecycle (#11464) ](https://github.com/besu-eth/besu/pull/11641#pullrequestreview-5896731533) - 2026-11-13
+* [Review] [Review on: Make plugin startup failure and shutdown safe (#11639)](https://github.com/besu-eth/besu/pull/11975#pullrequestreview-5936084575) - 2026-11-17
+* [Review] [Review on: Penalise transactions not successfully selected within the block period (sequenced pool only)](https://github.com/besu-eth/besu/pull/11681#pullrequestreview-5942079019) - 2026-11-17
+* [Review] [Review on: Include datatypes in the Plugin API compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-5937021938) - 2026-11-17
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

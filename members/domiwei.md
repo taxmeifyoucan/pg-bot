@@ -419,6 +419,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon/beaconevents, cl/beacon/handler: give execution_payload and execution_payload_available feeds of their own (#26354)](https://github.com/erigontech/erigon/commit/1c790153dad3be88a62c76a708531cf4fabb01da) - 2026-11-16
 * [Commit] [cl/beacon/handler, cl/persistence/blob_storage: write the columns of a self-built block and a posted envelope in one batch (#26347)](https://github.com/erigontech/erigon/commit/b6cd92d416b9a37772f8ae5831d136b620f1c4f3) - 2026-11-16
 * [Commit] [cl/das: fetch missing columns by root before FK20 and publish them (#26331)](https://github.com/erigontech/erigon/commit/5b89c80fd788a26407ee82a760c2b975286ca6b1) - 2026-11-16
+* [Review] [Review on: cl/beacon: publish only validated attester slashings](https://github.com/erigontech/erigon/pull/26322#pullrequestreview-5947884335) - 2026-11-17
+* [Pull Request] [cl/persistence/blob_storage, cl/beacon/handler: store a batch of columns in one pack file per block](https://github.com/erigontech/erigon/pull/26457) - 2026-11-17
+* [Review] [Review on: cl/persistence/blob_storage, cl/beacon/handler: store a batch of columns in one pack file per block](https://github.com/erigontech/erigon/pull/26457#pullrequestreview-5950321231) - 2026-11-18
+* [Review] [Review on: cl, db, execution: remove unused parameters and dead code](https://github.com/erigontech/erigon/pull/26451#pullrequestreview-5948475199) - 2026-11-17
+* [Pull Request] [[r3.8] cl: store self-built custody columns after OnBlock, retry blocks on stored columns and batch column writes](https://github.com/erigontech/erigon/pull/26440) - 2026-11-17
+* [Review] [Review on: [r3.8] cl: store self-built custody columns after OnBlock, retry blocks on stored columns and batch column writes](https://github.com/erigontech/erigon/pull/26440#pullrequestreview-5940699634) - 2026-11-17
+* [Review] [Review on: fix(execution/execmodule): answer a reorg below the finalized block with too deep reorg](https://github.com/erigontech/erigon/pull/26412#pullrequestreview-5948572302) - 2026-11-17
+* [Review] [Review on: cl/p2p: avoid Windows port restrictions in startup tests](https://github.com/erigontech/erigon/pull/26455#pullrequestreview-5948444267) - 2026-11-17
+* [Review] [Review on: cl/phase1/forkchoice: walk headers in getAncestor and compute the payload status once](https://github.com/erigontech/erigon/pull/26470#pullrequestreview-5948655882) - 2026-11-17
+* [Pull Request] [[r3.8] cl/phase1/stages: wake the chain-tip wait when a block index is committed](https://github.com/erigontech/erigon/pull/26435) - 2026-11-17
+* [Pull Request] [cl/sentinel: prune peers that keep subnets at the search target first](https://github.com/erigontech/erigon/pull/26428) - 2026-11-17
+* [Pull Request] [[r3.8] cl/sentinel, cl/p2p, cl/gossip, cl/das: subnet search up to Dlo, outbound peer reserve, by-root column fetch before FK20](https://github.com/erigontech/erigon/pull/26432) - 2026-11-17
+* [Review] [Review on: [r3.8] cl/sentinel, cl/p2p, cl/gossip, cl/das: subnet search up to Dlo, outbound peer reserve, by-root column fetch before FK20](https://github.com/erigontech/erigon/pull/26432#pullrequestreview-5940297675) - 2026-11-17
+* [Commit] [cl/sentinel: prune peers that keep subnets at the search target first (#26428)](https://github.com/erigontech/erigon/commit/c262a6a380c7abf3ad47791cab7fc9023c932f3c) - 2026-11-17
+* [Commit] [cl/das, cl/phase1/network/services: mark Gloas columns built from EL blobs as seen before writing them (#26403)](https://github.com/erigontech/erigon/commit/0e4d81963ae6c70a30aed7395e46628686bbb7a6) - 2026-11-17
+* [Commit] [cl/beacon/beaconevents, cl/phase1/forkchoice, cl/phase1/stages: retry a Gloas envelope that waits for columns as soon as a column is stored (#26334)](https://github.com/erigontech/erigon/commit/51c25bf3fc588c044af6a751dd426c1b7edc0a9c) - 2026-11-17
+* [Commit] [cl/das: write recovered columns in one batch, and columns one at a time after a failed batch (#26425)](https://github.com/erigontech/erigon/commit/7d78fdecacf7494cfb0cb19839398aadaef9706c) - 2026-11-17
+* [Commit] [cl/phase1/network/services, cl/beacon/beaconevents, cl/beacon/handler: retry the Gloas EL blob import once when the envelope arrives (#26348)](https://github.com/erigontech/erigon/commit/2ef2092779d6fc48d99b0b035296a5cd485b2c62) - 2026-11-17
 ## Q3 2026
 
 

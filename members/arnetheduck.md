@@ -35,6 +35,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [eest: fewer dots in unit test](https://github.com/status-im/nimbus-eth1/pull/5171) - 2026-11-16
 * [Commit] [eest: fewer dots in unit test (#5171)](https://github.com/status-im/nimbus-eth1/commit/1d62d294c321f559e7554ffacb7abbaf80781dac) - 2026-11-17
 * [Commit] [stats: fix deprecation warning](https://github.com/status-im/nimbus-eth1/commit/06643fb06ac602c3013fe71e5543e1fae9b5dc89) - 2026-11-16
+* [Pull Request] [aristo: make `clearStorage` a parameter of `mergeAccount`](https://github.com/status-im/nimbus-eth1/pull/5179) - 2026-11-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

@@ -37,9 +37,13 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 * [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5829385173) - 2026-11-09
 * [Commit] [✨ feat(engine): Simplify inclusion list type (#956)](https://github.com/ethereum/execution-apis/commit/981aa66d79364be8322a9c358aaf0a571cca0873) - 2026-11-09
+* [Pull Request] [✨ feat(engine): engine_updatePaylaodV1](https://github.com/ethereum/execution-apis/pull/985) - 2026-11-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [✨ feat(clients/etherex): Local dockerfile](https://github.com/ethereum/hive/pull/1657) - 2026-11-03
 * [Commit] [✨ feat(clients/etherex): Local dockerfile (#1657)](https://github.com/ethereum/hive/commit/da717d611b0b4bac61a02006d6ee9e7a00c736ce) - 2026-11-04
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Commit to a payload root in the bid and drop the envelope signature](https://github.com/ethereum/consensus-specs/pull/5820#pullrequestreview-5942106324) - 2026-11-17
 ## Q3 2026
 
 

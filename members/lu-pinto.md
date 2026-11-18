@@ -45,6 +45,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Keep the message call processor's config when a simulation overrides precompiles](https://github.com/besu-eth/besu/pull/11732#pullrequestreview-5857508139) - 2026-11-11
 * [Review] [Review on: Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811#pullrequestreview-5893632217) - 2026-11-13
 * [Pull Request] [Refactor tx collision in optimistic parallel executor](https://github.com/besu-eth/besu/pull/11971) - 2026-11-13
+* [Review] [Review on: Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871#pullrequestreview-5943470129) - 2026-11-17
 ## Q3 2026
 
 

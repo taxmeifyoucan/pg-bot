@@ -970,6 +970,43 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test(network): cover block body serving leases and fix the serving benchmark (#15930)](https://github.com/NethermindEth/nethermind/commit/b33c5c41fbba119e06b5bc138e1bda240c81ce91) - 2026-11-16
 * [Commit] [perf(snap): serve account and storage ranges as encoded entries in pooled memory (#15912)](https://github.com/NethermindEth/nethermind/commit/f16779610ba29850b17b8af3aa1d2a3801f0cc85) - 2026-11-16
 * [Commit] [perf(txpool): serve stored blob transactions in PooledTransactions without decoding them (#15911)](https://github.com/NethermindEth/nethermind/commit/9649aa890a5dd59d2b14448b74d8b0b849960ef9) - 2026-11-16
+* [Pull Request] [perf(sync): prefetch block bodies a window ahead when serving them](https://github.com/NethermindEth/nethermind/pull/16037) - 2026-11-17
+* [Review] [Review on: perf(sync): prefetch block bodies a window ahead when serving them](https://github.com/NethermindEth/nethermind/pull/16037#pullrequestreview-5943619980) - 2026-11-17
+* [Pull Request] [perf(snap): size the served access lists buffers up front and read little past the limit](https://github.com/NethermindEth/nethermind/pull/16034) - 2026-11-17
+* [Review] [Review on: perf(snap): size the served access lists buffers up front and read little past the limit](https://github.com/NethermindEth/nethermind/pull/16034#pullrequestreview-5943215555) - 2026-11-17
+* [Pull Request] [perf(zkevm): run MULMOD and ADDMOD on the OpenVM modular extension for its configured moduli](https://github.com/NethermindEth/nethermind/pull/16061) - 2026-11-18
+* [Pull Request] [test(specs): match the bootnode parse error whatever the log masking](https://github.com/NethermindEth/nethermind/pull/16059) - 2026-11-17
+* [Review] [Review on: perf(sync): serve GetBlockHeaders requests with a skip from batched reads](https://github.com/NethermindEth/nethermind/pull/15978#pullrequestreview-5943722620) - 2026-11-17
+* [Review] [Review on: ci(zkevm): run the guests on invalid tests-zkevm blocks](https://github.com/NethermindEth/nethermind/pull/16060#pullrequestreview-5948989602) - 2026-11-18
+* [Review] [Review on: build(zkevm): update the guest bflat images to eadcaf8c](https://github.com/NethermindEth/nethermind/pull/16058#pullrequestreview-5948988239) - 2026-11-18
+* [Pull Request] [ci(trivy): cancel superseded pull request scans](https://github.com/NethermindEth/nethermind/pull/16035) - 2026-11-17
+* [Pull Request] [perf(rpc): read hashes-only blocks through a pinned native slice](https://github.com/NethermindEth/nethermind/pull/16033) - 2026-11-17
+* [Review] [Review on: perf(rpc): read hashes-only blocks through a pinned native slice](https://github.com/NethermindEth/nethermind/pull/16033#pullrequestreview-5943428484) - 2026-11-17
+* [Pull Request] [perf(merge): read payload bodies in batches](https://github.com/NethermindEth/nethermind/pull/15973) - 2026-11-18
+* [Review] [Review on: perf(merge): read payload bodies in batches](https://github.com/NethermindEth/nethermind/pull/15973#pullrequestreview-5935887613) - 2026-11-17
+* [Review] [Review on: ci(release): verify signed tags, publish signed checksums and attestations, make packages reproducible](https://github.com/NethermindEth/nethermind/pull/14893#pullrequestreview-5941000365) - 2026-11-17
+* [Pull Request] [perf(network): serve eth/71 block access lists from one pooled buffer](https://github.com/NethermindEth/nethermind/pull/16042) - 2026-11-17
+* [Pull Request] [perf(snap): read served bytecodes in batches](https://github.com/NethermindEth/nethermind/pull/15971) - 2026-11-17
+* [Review] [Review on: perf(snap): read served bytecodes in batches](https://github.com/NethermindEth/nethermind/pull/15971#pullrequestreview-5935362728) - 2026-11-17
+* [Pull Request] [perf(sync): prefetch range and by-hash headers and served receipts](https://github.com/NethermindEth/nethermind/pull/16039) - 2026-11-17
+* [Commit] [ci(trivy): cancel superseded pull request scans (#16035)](https://github.com/NethermindEth/nethermind/commit/960c6bb3d5de2efbb21d14b97c1c52bcf92f9b94) - 2026-11-18
+* [Commit] [perf(rpc): read hashes-only blocks through a pinned native slice (#16033)](https://github.com/NethermindEth/nethermind/commit/9f456592d524c854743b1abcd5040dfe29ea77ae) - 2026-11-18
+* [Commit] [perf(merge): read payload bodies in batches (#15973)](https://github.com/NethermindEth/nethermind/commit/24bb7b54e8e415e18ad20946d3b9710b7654ac52) - 2026-11-18
+* [Commit] [perf(snap): read served bytecodes in batches (#15971)](https://github.com/NethermindEth/nethermind/commit/2c3b334b9fdf99593b445951aebf0583b0c87c29) - 2026-11-17
+* [Commit] [perf(network): size the served receipts buffer up front (#16030)](https://github.com/NethermindEth/nethermind/commit/e85fd183ced4d2f4df38142699f762bf7718cde5) - 2026-11-17
+* [Commit] [perf(txpool): hold the blob proofs of a sidecar in one contiguous buffer (#15981)](https://github.com/NethermindEth/nethermind/commit/feb4203d5bf113ed1f74c89c519388d31cb46b0c) - 2026-11-17
+* [Commit] [perf(flat): scan persisted snapshot addresses without allocating an Address per group (#15963)](https://github.com/NethermindEth/nethermind/commit/b685ef3f9e3141c640e31dfb935c2224cc6c4dbc) - 2026-11-17
+* [Commit] [perf(snap): share resolved trie nodes in flat GetTrieNodes and pool range-proof boundary nodes (#16025)](https://github.com/NethermindEth/nethermind/commit/0e6377b24ad3ecc4c965d60559bc8845dff4eb71) - 2026-11-17
+* [Commit] [perf(rpc): read the headers of an eth_getLogs bloom scan in batches (#15979)](https://github.com/NethermindEth/nethermind/commit/f3661ab0b7a67130675ebebc124ca66542bb28f9) - 2026-11-17
+* [Commit] [perf(db): prefetch uncached GetMany batches asynchronously on Linux (#16018)](https://github.com/NethermindEth/nethermind/commit/7e8b519a47c8fd75f511cba21cf8f812d9fd4a01) - 2026-11-17
+* [Commit] [perf(core): derive Result success from Error instead of storing ResultType (#16010)](https://github.com/NethermindEth/nethermind/commit/87ecf98cccf59b64dd0de0b74dc1b54c431cdc17) - 2026-11-17
+* [Commit] [test(discovery): make the cancelled-worker drain test wait for the Seed1 request (#16009)](https://github.com/NethermindEth/nethermind/commit/91b95fd16ce9cde1e39f2d2f74ac3c5b23ee0236) - 2026-11-17
+* [Commit] [perf(blockchain): read level ranges of block tree updates in batches (#15977)](https://github.com/NethermindEth/nethermind/commit/b380b6f4fd7756180660d43d1512dcc2a6b4df45) - 2026-11-17
+* [Commit] [perf(snap): read served block access lists in batches (#15972)](https://github.com/NethermindEth/nethermind/commit/dfbcdef2227bc43ab80415997b7ce28f7f603f9b) - 2026-11-17
+* [Commit] [perf(txpool): decode stored blob transactions from a borrowed span (#15970)](https://github.com/NethermindEth/nethermind/commit/554f1c6187995282a5ba5d1226fc7e666bedddb6) - 2026-11-17
+* [Commit] [perf(flat): write persisted snapshots without per-entry hash and account allocations (#15953)](https://github.com/NethermindEth/nethermind/commit/dd8d4285c57fd56ba1d712978e70a880aeb9c7ba) - 2026-11-17
+* [Commit] [perf(logindex): read only log addresses and topics when building the index (#15947)](https://github.com/NethermindEth/nethermind/commit/6370559acbd85b0c5c993bf0aa56da72debee4c4) - 2026-11-17
+* [Commit] [perf(receipts): read recovered tx hashes as ValueHash256 in tx-index pruning and eth_getLogs (#15938)](https://github.com/NethermindEth/nethermind/commit/36dd22f0980cc57b7623b083f7660d68062d6a07) - 2026-11-17
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

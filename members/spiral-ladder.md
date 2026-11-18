@@ -99,6 +99,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: perf(native): stop using page_allocator for short-lived allocations](https://github.com/ChainSafe/lodestar/pull/10612#pullrequestreview-5887441550) - 2026-11-13
 * [Commit] [perf: skip the 1ms timer delay on the two gossip block hops (#10610)](https://github.com/ChainSafe/lodestar/commit/90425365bb6a79578262158e1b8a544c354037e9) - 2026-11-16
 * [Commit] [perf: keep chunked leaf storage in a slab (#10622)](https://github.com/ChainSafe/lodestar/commit/6375077e13c581360eb8199ac7de39a67367000c) - 2026-11-16
+* [Review] [Review on: feat: bundle a native addon per preset](https://github.com/ChainSafe/lodestar/pull/10637#pullrequestreview-5935900079) - 2026-11-17
+* [Review] [Review on: feat!: prune history by default](https://github.com/ChainSafe/lodestar/pull/10625#pullrequestreview-5946358274) - 2026-11-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

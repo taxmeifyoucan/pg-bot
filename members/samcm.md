@@ -370,6 +370,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(charts): scrolling over a chart scrolls the page (#568)](https://github.com/ethpandaops/lab/commit/3b3a1f1fa6cba05218deb05f0a8aef75363d2da5) - 2026-11-11
 * [Commit] [fix(partial-columns): drop wrapped completion times from slowest blocks (#567)](https://github.com/ethpandaops/lab/commit/e260618f018335cc59d0d98b28398d1b10f56d3f) - 2026-11-11
 * [Commit] [feat(network): goodbye reasons on the overview (#566)](https://github.com/ethpandaops/lab/commit/1319349b40526c428b8fe84c4415777314d068e2) - 2026-11-11
+* [Pull Request] [fix(clients): draw current releases in the long-window version share chart](https://github.com/ethpandaops/lab/pull/573) - 2026-11-17
+* [Commit] [fix(clients): draw current releases in the long-window version share chart (#573)](https://github.com/ethpandaops/lab/commit/34e2d417e4e483f3e723d44a3360c4cfe7849d24) - 2026-11-17
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

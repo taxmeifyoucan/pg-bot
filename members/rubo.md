@@ -131,6 +131,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(zkevm): add a zkVM guest A/B workflow](https://github.com/NethermindEth/nethermind/pull/15929#pullrequestreview-5913149735) - 2026-11-15
 * [Commit] [feat: migrate to .NET 11 (#14147)](https://github.com/NethermindEth/nethermind/commit/dad2028cfc77ad7299784a2a247d5710f2d84cac) - 2026-11-16
 * [Commit] [refactor(network)!: serialize sent packets in the DotNetty packet sender instead of the serialization service (#15874)](https://github.com/NethermindEth/nethermind/commit/d5cadfb517b7f5963145d7052ff67589572c17e6) - 2026-11-16
+* [Pull Request] [ci(zkevm): run the guests on invalid tests-zkevm blocks](https://github.com/NethermindEth/nethermind/pull/16060) - 2026-11-17
+* [Review] [Review on: ci(zkevm): run the guests on invalid tests-zkevm blocks](https://github.com/NethermindEth/nethermind/pull/16060#pullrequestreview-5948458057) - 2026-11-17
+* [Review] [Review on: build(zkevm): update the guest bflat images to eadcaf8c](https://github.com/NethermindEth/nethermind/pull/16058#pullrequestreview-5948027037) - 2026-11-17
+* [Review] [Review on: fix(diag): install the diagnostic tools for the target architecture](https://github.com/NethermindEth/nethermind/pull/16056#pullrequestreview-5945358944) - 2026-11-17
+* [Review] [Review on: fix(benchmark): give the runner a .NET 11 job](https://github.com/NethermindEth/nethermind/pull/16024#pullrequestreview-5948207215) - 2026-11-17
+* [Review] [Review on: fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004#pullrequestreview-5940902254) - 2026-11-17
+* [Commit] [ci(zkevm): generate guest verification keys with ere 0.20.1 (#16027)](https://github.com/NethermindEth/nethermind/commit/5b1f56b451c971fd63b1483148d92cebafd1a9c0) - 2026-11-17
+* [Commit] [ci(zkevm): run the benchmark fixtures on tests-zkevm-benchmark@v21.0.7 (#16026)](https://github.com/NethermindEth/nethermind/commit/10f665e260b3ce5a2dd084697c022740dd19497b) - 2026-11-17
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

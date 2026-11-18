@@ -44,6 +44,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5916837007) - 2026-11-16
 * [Pull Request] [Add builder related fields in config/spec](https://github.com/sigp/lighthouse/pull/10601) - 2026-11-17
 * [Pull Request] [Delete duplication in metrics.rs](https://github.com/sigp/lighthouse/pull/10492) - 2026-11-17
+* [Review] [Review on: Fix HTTP API TLS startup panic](https://github.com/sigp/lighthouse/pull/10599#pullrequestreview-5949873835) - 2026-11-18
 ## Q3 2026
 
 

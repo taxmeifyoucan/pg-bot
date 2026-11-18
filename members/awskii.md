@@ -538,6 +538,42 @@ Team: Erigon
 * [Commit] [db/state: remove unused noHash hashers and InvertedIndexRoTx.canBuild (#26108)](https://github.com/erigontech/erigon/commit/0cfdb1bcb94c5e80b908a8681bb04e3817f365c3) - 2026-11-16
 * [Commit] [cmd/capcli: fill Gloas blobs from /eth/v1/beacon/blobs (#26192)](https://github.com/erigontech/erigon/commit/3a8b0c98ef59d3e9bdc54f490629e2f6f1f4bdb2) - 2026-11-16
 * [Commit] [cl: move test-only funcs into tests, drop unused fork choice timing funcs (#26198)](https://github.com/erigontech/erigon/commit/8f5a9919baa4f906b3506572dc786e4817194071) - 2026-11-16
+* [Review] [Review on: cl/beacon: publish only validated attester slashings](https://github.com/erigontech/erigon/pull/26322#pullrequestreview-5945251735) - 2026-11-17
+* [Review] [Review on: cl/persistence/blob_storage, cl/beacon/handler: store a batch of columns in one pack file per block](https://github.com/erigontech/erigon/pull/26457#pullrequestreview-5945628638) - 2026-11-17
+* [Review] [Review on: execution/state: skip the marker check for an account without a destruct](https://github.com/erigontech/erigon/pull/26430#pullrequestreview-5945374211) - 2026-11-17
+* [Review] [Review on: execution/state: read slots older than a contract creation as zero](https://github.com/erigontech/erigon/pull/26356#pullrequestreview-5945352950) - 2026-11-17
+* [Review] [Review on: execution/state: put back the cells that seeding derives when a re-run drops a write](https://github.com/erigontech/erigon/pull/26447#pullrequestreview-5945601136) - 2026-11-17
+* [Pull Request] [db/state: restore a deleted v3 commitment record on unwind](https://github.com/erigontech/erigon/pull/26450) - 2026-11-17
+* [Review] [Review on: execution/engineapi: serialize repeated forkchoice updates](https://github.com/erigontech/erigon/pull/26441#pullrequestreview-5945696767) - 2026-11-17
+* [Review] [Review on: cl, db, execution: remove unused parameters and dead code](https://github.com/erigontech/erigon/pull/26451#pullrequestreview-5945618410) - 2026-11-17
+* [Review] [Review on: execution/types: wait for BAL arenas to be collected](https://github.com/erigontech/erigon/pull/26452#pullrequestreview-5945701809) - 2026-11-17
+* [Review] [Review on: [r3.8] cl: store self-built custody columns after OnBlock, retry blocks on stored columns and batch column writes](https://github.com/erigontech/erigon/pull/26440#pullrequestreview-5945657664) - 2026-11-17
+* [Review] [Review on: [r3.8] ci: unset ERIGON_ASSERT for seg du in sync-from-scratch workflows](https://github.com/erigontech/erigon/pull/26454#pullrequestreview-5945623727) - 2026-11-17
+* [Pull Request] [cmd/utils/app: publishable lists each snapshot dir once and honors ctx](https://github.com/erigontech/erigon/pull/26431) - 2026-11-17
+* [Review] [Review on: cmd/utils/app: publishable lists each snapshot dir once and honors ctx](https://github.com/erigontech/erigon/pull/26431#pullrequestreview-5936701507) - 2026-11-17
+* [Review] [Review on: fix(execution/execmodule): answer a reorg below the finalized block with too deep reorg](https://github.com/erigontech/erigon/pull/26412#pullrequestreview-5945363087) - 2026-11-17
+* [Review] [Review on: db/state: remove the file-read cache](https://github.com/erigontech/erigon/pull/25714#pullrequestreview-5936685726) - 2026-11-17
+* [Review] [Review on: db/kv: make overlay deletion markers safe for concurrent reads](https://github.com/erigontech/erigon/pull/26444#pullrequestreview-5945691848) - 2026-11-17
+* [Review] [Review on: [r3.8] cl/phase1/stages: wake the chain-tip wait when a block index is committed](https://github.com/erigontech/erigon/pull/26435#pullrequestreview-5945612009) - 2026-11-17
+* [Review] [Review on: cl/sentinel: prune peers that keep subnets at the search target first](https://github.com/erigontech/erigon/pull/26428#pullrequestreview-5945368664) - 2026-11-17
+* [Review] [Review on: cl/aggregation, cl/utils/bls, cl/phase1/network/services: aggregate the signatures the batch verifier decompressed](https://github.com/erigontech/erigon/pull/26439#pullrequestreview-5945443903) - 2026-11-17
+* [Review] [Review on: [r3.8] cl/sentinel, cl/p2p, cl/gossip, cl/das: subnet search up to Dlo, outbound peer reserve, by-root column fetch before FK20](https://github.com/erigontech/erigon/pull/26432#pullrequestreview-5945652604) - 2026-11-17
+* [Issue] [execution/state: a stale balance read validates in full at an incarnation-zero destruct](https://github.com/erigontech/erigon/issues/26463) - 2026-11-17
+* [Issue] [db/kv/membatchwithdb: DeleteCurrent after ClearTable deletes the previous key](https://github.com/erigontech/erigon/issues/26469) - 2026-11-17
+* [Issue] [db/kv/membatchwithdb: DeleteExact keeps a pair written in the same overlay](https://github.com/erigontech/erigon/issues/26468) - 2026-11-17
+* [Issue] [db/kv/membatchwithdb: DupSort overlay cursor ignores whole-key deletions](https://github.com/erigontech/erigon/issues/26467) - 2026-11-17
+* [Issue] [db/kv/membatchwithdb: Flush and Diff drop duplicate-value deletion markers](https://github.com/erigontech/erigon/issues/26466) - 2026-11-17
+* [Issue] [execution/commitment/trie: DeleteSubtree(nil) keeps a branch root](https://github.com/erigontech/erigon/issues/26465) - 2026-11-17
+* [Issue] [execution/stagedsync: pruneCanonicalMarkers drops the cursor error](https://github.com/erigontech/erigon/issues/26464) - 2026-11-17
+* [Issue] [cl/beacon/handler: block production skips a valid attester slashing with an unslashable attestation_1 index](https://github.com/erigontech/erigon/issues/26461) - 2026-11-17
+* [Issue] [cl/beacon/handler: block publication reads an unbounded request body](https://github.com/erigontech/erigon/issues/26460) - 2026-11-17
+* [Issue] [cl/beacon/handler: attester duties past the head epoch + 2 come from an unadvanced state](https://github.com/erigontech/erigon/issues/26459) - 2026-11-17
+* [Issue] [execution/types: reject invalid frame and keyed-nonce transactions at execution, not devp2p decode](https://github.com/erigontech/erigon/issues/26421) - 2026-11-17
+* [Issue] [db/state: an inverted index missing its first file returns empty ranges below it](https://github.com/erigontech/erigon/issues/26423) - 2026-11-17
+* [Issue] [cl/phase1/network: three downloader tests keep the real-clock prefetch flake](https://github.com/erigontech/erigon/issues/26422) - 2026-11-17
+* [Commit] [db/state: restore a deleted v3 commitment record on unwind (#26450)](https://github.com/erigontech/erigon/commit/845bd4ff697744a350c7edb0ca3fbd8d95080921) - 2026-11-18
+* [Commit] [rpc, ci: align zkEVM witnesses with execution-specs v21.0.7 (#26405)](https://github.com/erigontech/erigon/commit/f5896161835cec052bc60b7c4bd83cd1db411441) - 2026-11-17
+* [Commit] [db/kv/membatchwithdb: follow the MDBX contract after DeleteCurrent (#26417)](https://github.com/erigontech/erigon/commit/14374dfe1fe44d07f4df7cc33f770a180783a22e) - 2026-11-17
 ## Q3 2026
 
 

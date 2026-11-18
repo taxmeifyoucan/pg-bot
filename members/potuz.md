@@ -52,6 +52,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Verify execution block hashes of gossiped payloads locally](https://github.com/OffchainLabs/prysm/pull/17786#pullrequestreview-5749436510) - 2026-11-03
 * [Review] [Review on: Request a missing block only from the peer that referenced it (the gossip sender, or the peer serving its child), once, and downscore that peer if it does not serve it.](https://github.com/OffchainLabs/prysm/pull/17841#pullrequestreview-5794969201) - 2026-11-06
 * [Pull Request] [Request unknown attestation blocks as soon as an attestation is verified](https://github.com/OffchainLabs/prysm/pull/17858) - 2026-11-10
+* [Review] [Review on: Request a missing block from the best peers if it is an ancestor of a block from the proposer expected by the head state. Otherwise, request it only from the peer that referenced it, and downscore that peer if it does not serve it.](https://github.com/OffchainLabs/prysm/pull/17871#pullrequestreview-5938240180) - 2026-11-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
 * [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20

@@ -15,6 +15,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix(txpool): honor EVM block gas policy](https://github.com/paradigmxyz/reth/pull/27641) - 2026-10-01
 
 * [Pull Request] [feat(storage): add TIP-1143 runtime chunks](https://github.com/paradigmxyz/reth/pull/27850) - 2026-10-09
+* [Pull Request] [fix(cli): keep history prune checkpoints on download](https://github.com/paradigmxyz/reth/pull/28580) - 2026-11-17
+* [Commit] [fix(cli): keep history prune checkpoints on download (#28580)](https://github.com/paradigmxyz/reth/commit/6ca2c082abfd0645ce06490e6f7f1f38d49a147f) - 2026-11-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Move to Last Call](https://github.com/ethereum/EIPs/pull/12442) - 2026-10-06
 * [Commit] [Update EIP-2780: Move to Last Call (#12442)](https://github.com/ethereum/EIPs/commit/5ef380124bd68d09c02fa90d0de0f2455f37d5ee) - 2026-10-06

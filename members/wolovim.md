@@ -16,6 +16,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Issue] [Frame Transaction Breakout #8, Nov 17, 2026](https://github.com/ethereum/pm/issues/2295) - 2026-11-04
 * [Commit] [acdbot: autonomously manage pq-cl](https://github.com/ethereum/pm/commit/c1e0bb0af0b65c28b809f160a85a2859bd2d5af4) - 2026-11-13
 * [Commit] [acdbot: multi-day weekly cadence, intro pqcl call](https://github.com/ethereum/pm/commit/cf2b76e4b20c8b0267ee3c383efb95c4be274299) - 2026-11-13
+* [Commit] [acdbot: pqcl 1 assets](https://github.com/ethereum/pm/commit/5984f16a38c9cb6aed377c290ffc61eb92680698) - 2026-11-17
 ## Q3 2026
 
 

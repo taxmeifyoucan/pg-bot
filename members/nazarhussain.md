@@ -77,6 +77,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: zig fast confirmation rule](https://github.com/ChainSafe/lodestar/pull/10601) - 2026-11-11
 * [Pull Request] [feat: support and test node 26](https://github.com/ChainSafe/lodestar/pull/10516) - 2026-11-12
 * [Commit] [feat: support and test node 26 (#10516)](https://github.com/ChainSafe/lodestar/commit/5a8219041618e3da5a05e09997fe81f4a0de012f) - 2026-11-12
+* [Pull Request] [refactor(fork-choice): tighten the prepare-then-write handlers](https://github.com/ChainSafe/lodestar/pull/10645) - 2026-11-17
+* [Review] [Review on: refactor(fork-choice): tighten the prepare-then-write handlers](https://github.com/ChainSafe/lodestar/pull/10645#pullrequestreview-5939117836) - 2026-11-17
+* [Review] [Review on: fix(fork-choice): run every fallible step of a handler before its first write](https://github.com/ChainSafe/lodestar/pull/10636#pullrequestreview-5939163282) - 2026-11-17
+* [Review] [Review on: feat!: prune history by default](https://github.com/ChainSafe/lodestar/pull/10625#pullrequestreview-5940771558) - 2026-11-17
+* [Review] [Review on: fix: invalidate the parent payload chain on a gloas envelope INVALID verdict](https://github.com/ChainSafe/lodestar/pull/10437#pullrequestreview-5940867423) - 2026-11-17
+* [Review] [Review on: fix: retain inclusion lists one slot past the request window](https://github.com/ChainSafe/lodestar/pull/10507#pullrequestreview-5940979407) - 2026-11-17
+* [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5940735744) - 2026-11-17
+* [Pull Request] [fix(fork-choice): run every fallible step of a handler before its first write](https://github.com/ChainSafe/lodestar/pull/10643) - 2026-11-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

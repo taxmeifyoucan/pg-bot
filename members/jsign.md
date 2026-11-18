@@ -71,6 +71,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448#pullrequestreview-5474051941) - 2026-10-09
 
 * [Issue] [`ServerContainer::new` leaks the container and its attach process when startup fails](https://github.com/eth-act/ere/issues/450) - 2026-10-13
+* [Pull Request] [feat(openvm): build `rust-customized` guests with `openvm-1.97.1`](https://github.com/eth-act/ere/pull/478) - 2026-11-17
+* [Review] [Review on: feat(openvm): build `rust-customized` guests with `openvm-1.97.1`](https://github.com/eth-act/ere/pull/478#pullrequestreview-5943904132) - 2026-11-17
+* [Commit] [feat(openvm): build `rust-customized` guests with `openvm-1.97.1` (#478)](https://github.com/eth-act/ere/commit/503ad51a861d88ccbb3aa840cb42320f577c36ab) - 2026-11-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #09, October 14, 2026](https://github.com/ethereum/pm/issues/2269) - 2026-10-12
 

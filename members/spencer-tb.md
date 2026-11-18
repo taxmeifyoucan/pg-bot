@@ -120,6 +120,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(ci,doc): add a contribution policy and an outside contributor gate (#3881)](https://github.com/ethereum/execution-specs/commit/4c9134c7b62a4a9b1b60ebb2f3c53c655da2e4ec) - 2026-11-13
 * [Pull Request] [fix(ci): skip authors with write access in the outside contributor gate](https://github.com/ethereum/execution-specs/pull/4010) - 2026-11-16
 * [Commit] [fix(ci): skip authors with write access in the outside contributor gate (#4010)](https://github.com/ethereum/execution-specs/commit/a984447a614910db19fcb656c0910012da63c675) - 2026-11-16
+* [Review] [Review on: refactor(tests): merge zero/non-zero value call tests, clean up ported tests](https://github.com/ethereum/execution-specs/pull/3997#pullrequestreview-5937988339) - 2026-11-17
+* [Review] [Review on: refactor(tests): collapse static call chains into test_call_chain](https://github.com/ethereum/execution-specs/pull/4001#pullrequestreview-5937991116) - 2026-11-17
+* [Review] [Review on: fix(tests): merge stStaticCall tests and drop fixed addresses](https://github.com/ethereum/execution-specs/pull/4000#pullrequestreview-5937990514) - 2026-11-17
+* [Review] [Review on: fix(tests): clean up stBugs, stSolidityTest, stQuadraticComplexityTest and others](https://github.com/ethereum/execution-specs/pull/4006#pullrequestreview-5937994061) - 2026-11-17
+* [Review] [Review on: fix(tests): merge call-family tests and unpin addresses](https://github.com/ethereum/execution-specs/pull/4005#pullrequestreview-5937993326) - 2026-11-17
+* [Review] [Review on: refactor(tests): merge stMemory*, stStackTests, stLogTests, stShift files](https://github.com/ethereum/execution-specs/pull/4003#pullrequestreview-5937955687) - 2026-11-17
+* [Review] [Review on: fix(tests): merge CREATE/CREATE2 tests and derive created addresses](https://github.com/ethereum/execution-specs/pull/4002#pullrequestreview-5937991951) - 2026-11-17
+* [Review] [Review on: fix(tests): merge stWalletTest, stSStoreTest and stEIP* tests](https://github.com/ethereum/execution-specs/pull/4004#pullrequestreview-5937992701) - 2026-11-17
+* [Review] [Review on: fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998#pullrequestreview-5937989106) - 2026-11-17
+* [Review] [Review on: refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999#pullrequestreview-5937989902) - 2026-11-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

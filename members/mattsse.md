@@ -734,6 +734,26 @@ Team: Reth
 * [Pull Request] [perf(trie): pass sorted overlay to V1 proofs](https://github.com/paradigmxyz/reth/pull/28570) - 2026-11-16
 * [Commit] [fix(payload): keep engine request span on payload build workers (#28571)](https://github.com/paradigmxyz/reth/commit/8ed2eca1f5c8ebeb6aad091e079319df825db223) - 2026-11-16
 * [Commit] [perf(trie): pass sorted overlay to V1 proofs (#28570)](https://github.com/paradigmxyz/reth/commit/996a4f3946791d4105ff9a98d5f706a92ced0478) - 2026-11-16
+* [Review] [Review on: fix(storage): skip empty senders static files when sender recovery is fully pruned](https://github.com/paradigmxyz/reth/pull/28598#pullrequestreview-5948930459) - 2026-11-18
+* [Pull Request] [fix(rpc): reject builder payments sent by the fee recipient](https://github.com/paradigmxyz/reth/pull/28589) - 2026-11-17
+* [Review] [Review on: fix(tracing-otlp): accept http/protobuf as the OTLP protocol](https://github.com/paradigmxyz/reth/pull/28063#pullrequestreview-5946138932) - 2026-11-17
+* [Review] [Review on: chore: make vergen output idempotent by default](https://github.com/paradigmxyz/reth/pull/28576#pullrequestreview-5944136714) - 2026-11-17
+* [Pull Request] [fix(rpc): lift Amsterdam tx gas caps for eth_call](https://github.com/paradigmxyz/reth/pull/28583) - 2026-11-17
+* [Review] [Review on: fix(rpc): lift Amsterdam tx gas caps for eth_call](https://github.com/paradigmxyz/reth/pull/28583#pullrequestreview-5944495745) - 2026-11-17
+* [Review] [Review on: deps: bump alloy to 2.6.1](https://github.com/paradigmxyz/reth/pull/28578#pullrequestreview-5941074952) - 2026-11-17
+* [Review] [Review on: refactor: track non-canonical in-memory blocks](https://github.com/paradigmxyz/reth/pull/28590#pullrequestreview-5943577744) - 2026-11-17
+* [Pull Request] [chore(deps): replace humantime with jiff](https://github.com/paradigmxyz/reth/pull/28586) - 2026-11-17
+* [Pull Request] [fix(rpc): cap builder validation cached reads](https://github.com/paradigmxyz/reth/pull/28588) - 2026-11-17
+* [Pull Request] [chore(deps): drop chrono and rolling-file](https://github.com/paradigmxyz/reth/pull/28591) - 2026-11-17
+* [Pull Request] [chore(deps): drop humantime and chrono deny ignores](https://github.com/paradigmxyz/reth/pull/28593) - 2026-11-17
+* [Review] [Review on: fix(rpc): make simulate precompile moves deterministic](https://github.com/paradigmxyz/reth/pull/28550#pullrequestreview-5941074743) - 2026-11-17
+* [Review] [Review on: fix(engine): answer VALID for known payloads during backfill](https://github.com/paradigmxyz/reth/pull/28551#pullrequestreview-5941048397) - 2026-11-17
+* [Review] [Review on: feat(cli): allow commands to handle shutdown signals themselves](https://github.com/paradigmxyz/reth/pull/28582#pullrequestreview-5939993547) - 2026-11-17
+* [Review] [Review on: refactor: one in-memory state per node](https://github.com/paradigmxyz/reth/pull/28575#pullrequestreview-5939847612) - 2026-11-17
+* [Review] [Review on: chore(deps): ignore chrono and humantime unmaintained advisories](https://github.com/paradigmxyz/reth/pull/28585#pullrequestreview-5939993840) - 2026-11-17
+* [Commit] [chore(deps): drop humantime and chrono deny ignores (#28593)](https://github.com/paradigmxyz/reth/commit/4f7533410a57cf64f42318b815353b66273d6489) - 2026-11-17
+* [Commit] [chore(deps): drop chrono and rolling-file (#28591)](https://github.com/paradigmxyz/reth/commit/f9230d40b8b51af1408ec15c7f5804e86dfbee32) - 2026-11-17
+* [Commit] [chore(deps): replace humantime with jiff (#28586)](https://github.com/paradigmxyz/reth/commit/7e09b3c4827ddcf84eddf57425ae3e0956b7add0) - 2026-11-17
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

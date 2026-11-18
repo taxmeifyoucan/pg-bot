@@ -39,6 +39,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5631957595) - 2026-10-23
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5627110774) - 2026-10-23
 * [Pull Request] [Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792) - 2026-10-31
+* [Review] [Review on: Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785#pullrequestreview-5934379277) - 2026-11-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 
@@ -48,6 +49,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #44, October 13, 2026](https://github.com/ethereum/pm/issues/2268) - 2026-10-12
+* [Issue] [FOCIL Breakout #47, November 24, 2026](https://github.com/ethereum/pm/issues/2308) - 2026-11-17
 ## Q3 2026
 
 

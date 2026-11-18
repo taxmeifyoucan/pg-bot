@@ -39,6 +39,10 @@ Team: Geth
 * [Pull Request] [tests/fuzzers/bls12381: fix a dormant harness issue](https://github.com/ethereum/go-ethereum/pull/36069) - 2026-11-04
 * [Commit] [tests/fuzzers/bls12381: fix a dormant harness issue (#36069)](https://github.com/ethereum/go-ethereum/commit/27218ebe340e0e796673410eefe25ee51a2af7df) - 2026-11-05
 * [Review] [Review on: accounts/keystore: fix race between key scan and delete](https://github.com/ethereum/go-ethereum/pull/35846#pullrequestreview-5873150134) - 2026-11-12
+* [Review] [Review on: core/txpool/legacypool: preserve pending nonces during reorg](https://github.com/ethereum/go-ethereum/pull/35654#pullrequestreview-5937073140) - 2026-11-17
+* [Review] [Review on: accounts/keystore: send wallet events in the order they are computed](https://github.com/ethereum/go-ethereum/pull/36099#pullrequestreview-5937255910) - 2026-11-17
+* [Review] [Review on: core/txpool/legacypool: count pending transactions as the lists change](https://github.com/ethereum/go-ethereum/pull/35966#pullrequestreview-5938238022) - 2026-11-17
+* [Review] [Review on: triedb/pathdb: check the journal's disk layer against the histories](https://github.com/ethereum/go-ethereum/pull/36041#pullrequestreview-5936501711) - 2026-11-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

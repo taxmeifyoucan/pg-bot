@@ -43,6 +43,7 @@ Team: Nimbus
 * [Commit] [Code cosmetics, comments update, small fixes and updates (#5161)](https://github.com/status-im/nimbus-eth1/commit/22f5cdc252f04767fe7387f0548a3e6cbf277186) - 2026-11-13
 * [Pull Request] [Snap2 numeric overflow and other fixes](https://github.com/status-im/nimbus-eth1/pull/5166) - 2026-11-14
 * [Commit] [Snap2 numeric overflow and other fixes (#5166)](https://github.com/status-im/nimbus-eth1/commit/3c7ea749d5dcf8e8de1407157138719006f8b444) - 2026-11-14
+* [Review] [Review on: snap: reject malformed proof nodes instead of raising ResultDefect](https://github.com/status-im/nimbus-eth1/pull/5178#pullrequestreview-5938749377) - 2026-11-17
 ## Q3 2026
 
 

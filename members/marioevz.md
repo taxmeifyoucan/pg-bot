@@ -87,6 +87,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [refactor(tests): merge zero/non-zero value call tests, clean up ported tests](https://github.com/ethereum/execution-specs/pull/3997) - 2026-11-14
 * [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5929144039) - 2026-11-16
 * [Review] [Review on: fix(spec-specs,test-client-clis): raise InsufficientMaxFeePerGasError for a legacy gas price below the base fee](https://github.com/ethereum/execution-specs/pull/3993#pullrequestreview-5925861054) - 2026-11-16
+* [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5941850173) - 2026-11-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

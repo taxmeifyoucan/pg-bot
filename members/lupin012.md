@@ -202,6 +202,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [db/rawdb: hash block transactions while reading cached receipts (#26188)](https://github.com/erigontech/erigon/commit/5e3404efe29670e11326fdb8149e23fcbfe504bb) - 2026-11-15
 * [Pull Request] [rpc/jsonrpc, db/rawdb: read eth_getBlockReceipts cached receipts while the block is read](https://github.com/erigontech/erigon/pull/26420) - 2026-11-17
 * [Commit] [.github/workflows: leave out a lost client and accept a dead peer in RPC Performance Tests Latest (#26344)](https://github.com/erigontech/erigon/commit/3f6cc2182d65bcdf1c56191ef55a15d2d99f69b2) - 2026-11-16
+* [Pull Request] [cmd, node, rpc, docs: remove the unused --trace.maxtraces flag](https://github.com/erigontech/erigon/pull/26471) - 2026-11-17
+* [Pull Request] [.github/workflows: show the rows by method and by subscription measure in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26474) - 2026-11-17
+* [Commit] [rpc: cancel running calls when a connection is closed (#26328)](https://github.com/erigontech/erigon/commit/354699449c6db68ad94667b1d142bf1d3b037cd3) - 2026-11-18
+* [Commit] [cmd, node, rpc, docs: remove the unused --trace.maxtraces flag (#26471)](https://github.com/erigontech/erigon/commit/f08f1975c148254cc81a326bc02f0f25e170d987) - 2026-11-18
+* [Commit] [.github/workflows: show the rows by method and by subscription measure in RPC Performance Tests Latest (#26474)](https://github.com/erigontech/erigon/commit/cfc09e273de2ddc085e1cf57b07c5b743169c245) - 2026-11-17
+* [Commit] [.github/workflows: add eth_subscribe to RPC Performance Tests Latest (#26361)](https://github.com/erigontech/erigon/commit/0ba26a7b759ca4405604eba98beb82a6572b9ec0) - 2026-11-17
+* [Commit] [.github/workflows: fail RPC Performance Tests Latest only for Erigon (#26424)](https://github.com/erigontech/erigon/commit/bb351d337aeebd0234affbd8971df9fb6adbe042) - 2026-11-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -293,6 +300,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_perf: write the rows by method and by subscription measure in the JSON report (#662)](https://github.com/erigontech/rpc-tests/commit/d9f3eb73c98029bc5c5a88cf2f2ec2f555d4ad5a) - 2026-11-16
 * [Commit] [rpc_perf: report the node CPU and RSS when its io file cannot be read (#661)](https://github.com/erigontech/rpc-tests/commit/0bb139f327875d7f8d13c0c92f8aa6bbf9199bb8) - 2026-11-16
 * [Commit] [rpc_perf: keep the failed level in the JSON report, with its error (#660)](https://github.com/erigontech/rpc-tests/commit/43d8700c9230c33a0142e975d49f0b74d0e04383) - 2026-11-16
+* [Pull Request] [rpc_perf: take the arrival of a notification apart from its parsing](https://github.com/erigontech/rpc-tests/pull/666) - 2026-11-17
+* [Commit] [rpc_perf: take the arrival of a notification apart from its parsing (#666)](https://github.com/erigontech/rpc-tests/commit/42717417fe3df4f4bbe1ea76e55f45932e548066) - 2026-11-17
+* [Commit] [rpc_perf: keep only the head of each response body in memory (#665)](https://github.com/erigontech/rpc-tests/commit/778e79d9de48ff94edcf27dd2f4b6705a8c8eeca) - 2026-11-17
 ## Q3 2026
 
 

@@ -33,6 +33,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Don't build on an optimistic parent payload in Gloas](https://github.com/Consensys-Incorporated/teku/pull/11635) - 2026-11-12
 * [Pull Request] [Respect latest valid hash for INVALID Gloas payloads on optimistic chains](https://github.com/Consensys-Incorporated/teku/pull/11641) - 2026-11-16
 
+* [Commit] [Respect latest valid hash for INVALID Gloas payloads on optimistic chains (#11641)](https://github.com/Consensys-Incorporated/teku/commit/65b541ce3550bc2659f9b888eb6c387c410b8793) - 2026-11-17
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add AGENTS.md and point CLAUDE.md to it](https://github.com/libp2p/jvm-libp2p/pull/551) - 2026-11-16
 ## Q3 2026

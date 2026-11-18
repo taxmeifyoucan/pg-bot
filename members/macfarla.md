@@ -288,12 +288,29 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Validate the eth/69 status block range and best hash (#11987)](https://github.com/besu-eth/besu/commit/c626fa99f252424e1b9f126e16743cf60e6bc3f5) - 2026-11-17
 * [Commit] [Bump setup-gradle to v6.4.1 in the hive workflow (#11986)](https://github.com/besu-eth/besu/commit/9e8285fd61c64df206f62eb6fae612daaca5edae) - 2026-11-17
 * [Commit] [CI: Add an on-demand hive workflow (#11904)](https://github.com/besu-eth/besu/commit/e32b917a43407791adc73c37994b83bdf927f1c8) - 2026-11-16
+* [Review] [Review on: Return full 32-byte codehash from debug_accountAt](https://github.com/besu-eth/besu/pull/11976#pullrequestreview-5933974822) - 2026-11-17
+* [Review] [Review on: fix(rpc): return METHOD_NOT_ENABLED for debug range methods on Bonsai](https://github.com/besu-eth/besu/pull/11979#pullrequestreview-5951198347) - 2026-11-18
+* [Review] [Review on: Return an error from debug_traceBlock and trace_block when parent state is unavailable](https://github.com/besu-eth/besu/pull/11970#pullrequestreview-5951170241) - 2026-11-18
+* [Review] [Review on: Stop re-asking a peer that sent back no receipts](https://github.com/besu-eth/besu/pull/11920#pullrequestreview-5950933800) - 2026-11-18
+* [Review] [Review on: fix(rpc): retain nonzero-value precompile trace frames](https://github.com/besu-eth/besu/pull/11360#pullrequestreview-5950041170) - 2026-11-18
+* [Pull Request] [[CHANGELOG] 26.11.1 and GHSAs for 26.10 ](https://github.com/besu-eth/besu/pull/11997) - 2026-11-18
+* [Pull Request] [disable hotspot base64 intrinsic by default (CVE-2026-114938)](https://github.com/besu-eth/besu/pull/11995) - 2026-11-17
+* [Pull Request] [Add 26.11.1 changelog section for the Base64 intrinsic hotfix](https://github.com/besu-eth/besu/pull/11996) - 2026-11-17
+* [Review] [Review on: Add 26.11.1 changelog section for the Base64 intrinsic hotfix](https://github.com/besu-eth/besu/pull/11996#pullrequestreview-5948448479) - 2026-11-17
+* [Review] [Review on: Disable the HotSpot Base64 intrinsic by default (CVE-2026-114938)](https://github.com/besu-eth/besu/pull/11994#pullrequestreview-5947267420) - 2026-11-17
+* [Issue] [trace_replayBlockTransactions and trace_filter return an empty trace when the parent state is unavailable](https://github.com/besu-eth/besu/issues/11998) - 2026-11-18
+* [Commit] [Exclude note-level results from CodeQL scans (#11937)](https://github.com/besu-eth/besu/commit/b4076c4f926dcfd830dee6bc660a7a27adc2ab22) - 2026-11-18
+* [Commit] [[CHANGELOG] 26.11.1 and GHSAs for 26.10  (#11997)](https://github.com/besu-eth/besu/commit/6130552ce3ec9763286b19c8fd63b1a97a57f296) - 2026-11-18
+* [Commit] [disable hotspot base64 intrinsic by default (CVE-2026-114938) (#11995)](https://github.com/besu-eth/besu/commit/725e0a9c5d0fcba00223ab100627e9dd11591d04) - 2026-11-18
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01
 
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [fix(ci): correct release-branch condition for gradle publish](https://github.com/besu-eth/besu-native/pull/323) - 2026-10-15
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: clients/besu: run the version check without the flight recording](https://github.com/ethereum/hive/pull/1664#pullrequestreview-5948945058) - 2026-11-18
 ## Q3 2026
 
 

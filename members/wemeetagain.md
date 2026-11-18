@@ -176,6 +176,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: enable native state transition for heze (#10626)](https://github.com/ChainSafe/lodestar/commit/8fdbd61e7e5525e24726f4d55800f844e9cb8f2e) - 2026-11-14
 * [Commit] [feat: limit the blobs and data columns pruned per finalized checkpoint (#10627)](https://github.com/ChainSafe/lodestar/commit/5c2cf84ec1669c5a6822d5501443a5ba396c0c70) - 2026-11-16
 * [Commit] [test: speed up spec and e2e CI jobs (#10628)](https://github.com/ChainSafe/lodestar/commit/8a64241e1ba670a1abb0fad922ac071a9afbc529) - 2026-11-16
+* [Review] [Review on: feat: bundle a native addon per preset](https://github.com/ChainSafe/lodestar/pull/10637#pullrequestreview-5945818005) - 2026-11-17
+* [Review] [Review on: refactor(fork-choice): tighten the prepare-then-write handlers](https://github.com/ChainSafe/lodestar/pull/10645#pullrequestreview-5947926923) - 2026-11-17
+* [Commit] [feat!: prune history by default (#10625)](https://github.com/ChainSafe/lodestar/commit/6ab73fec0a960e52df02359c455300a7122ad20c) - 2026-11-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

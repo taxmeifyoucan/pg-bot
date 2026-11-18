@@ -26,6 +26,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Review] [Review on: Allow beacon node with EL to relay execution proofs](https://github.com/sigp/lighthouse/pull/10271#pullrequestreview-5471889974) - 2026-10-09
 * [Review] [Review on: Allow beacon node with EL to relay execution proofs](https://github.com/sigp/lighthouse/pull/10271#pullrequestreview-5508149465) - 2026-10-13
 * [Review] [Review on: Flesh out CODEOWNERS a bit more](https://github.com/sigp/lighthouse/pull/10394#pullrequestreview-5589237754) - 2026-10-20
+* [Issue] [Envelope publish endpoint publishes and imports data columns without KZG verification](https://github.com/sigp/lighthouse/issues/10606) - 2026-11-17
+* [Issue] [Investigate whether the early envelope reprocess queue is reachable](https://github.com/sigp/lighthouse/issues/10614) - 2026-11-18
 ## Q3 2026
 
 

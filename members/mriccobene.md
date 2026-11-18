@@ -56,6 +56,8 @@ Team: Erigon
 * [Review] [Review on: rpc_perf: write the rows by method and by subscription measure in the JSON report](https://github.com/erigontech/rpc-tests/pull/662#pullrequestreview-5917393777) - 2026-11-16
 * [Review] [Review on: rpc_perf: report the node CPU and RSS when its io file cannot be read](https://github.com/erigontech/rpc-tests/pull/661#pullrequestreview-5917395973) - 2026-11-16
 * [Review] [Review on: rpc_perf: keep the failed level in the JSON report, with its error](https://github.com/erigontech/rpc-tests/pull/660#pullrequestreview-5922183391) - 2026-11-16
+* [Review] [Review on: rpc_perf: take the arrival of a notification apart from its parsing](https://github.com/erigontech/rpc-tests/pull/666#pullrequestreview-5947268392) - 2026-11-17
+* [Review] [Review on: rpc_perf: keep only the head of each response body in memory](https://github.com/erigontech/rpc-tests/pull/665#pullrequestreview-5935946339) - 2026-11-17
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -71,6 +73,10 @@ Team: Erigon
 * [Commit] [qa-test: reserve the reference system during RPC integration tests (#25808)](https://github.com/erigontech/erigon/commit/077b475e0ad6d2f1e6d502001466c3656839c38c) - 2026-11-06
 * [Commit] [qa-tests: fix Geth commit lookup in workflows (#25807)](https://github.com/erigontech/erigon/commit/efdf71de4d29c79b8b7a86b5f92a5cd773e7aa5e) - 2026-11-08
 * [Review] [Review on: .github/workflows: pin rpc_perf and Erigon to separate cores in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26303#pullrequestreview-5904177444) - 2026-11-14
+* [Pull Request] [[r3.8] ci: unset ERIGON_ASSERT for seg du in sync-from-scratch workflows](https://github.com/erigontech/erigon/pull/26454) - 2026-11-17
+* [Review] [Review on: .github/workflows: show the rows by method and by subscription measure in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26474#pullrequestreview-5947289565) - 2026-11-17
+* [Review] [Review on: .github/workflows: add eth_subscribe to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/26361#pullrequestreview-5935961329) - 2026-11-17
+* [Commit] [ci: unset ERIGON_ASSERT for seg du in sync-from-scratch workflows (#26453)](https://github.com/erigontech/erigon/commit/3e201075dc65fce4ff6f15461a591c10acc603e7) - 2026-11-17
 ## Q3 2026
 
 

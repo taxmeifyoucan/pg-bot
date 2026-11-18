@@ -23,6 +23,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Release v8.3.0](https://github.com/sigp/lighthouse/pull/10386#pullrequestreview-5569123115) - 2026-10-19
 * [Commit] [Bump libp2p to patched version](https://github.com/sigp/lighthouse/commit/27f42a77a27490fbee5d952e325915264e0a4200) - 2026-10-19
 * [Pull Request] [Convert consensus crate tests to use a compile-time `Spec`](https://github.com/sigp/lighthouse/pull/10470) - 2026-11-17
+* [Pull Request] [Convert remaining crate tests to Spec](https://github.com/sigp/lighthouse/pull/10608) - 2026-11-17
+* [Pull Request] [Bump libz-sys to 1.1.33](https://github.com/sigp/lighthouse/pull/10609) - 2026-11-17
+* [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5944385927) - 2026-11-17
 ## Q3 2026
 
 

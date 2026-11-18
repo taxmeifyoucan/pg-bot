@@ -526,6 +526,58 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: perf: experiment with configurable GC pacing](https://github.com/NethermindEth/nethermind/pull/15381#pullrequestreview-5932004044) - 2026-11-17
 * [Pull Request] [ci: fix out-of-disk failures in RPC benchmarks and private-repo builds](https://github.com/NethermindEth/nethermind/pull/15968) - 2026-11-16
 * [Commit] [ci: fix out-of-disk failures in RPC benchmarks and private-repo builds (#15968)](https://github.com/NethermindEth/nethermind/commit/e68a43f59910145c99a97c6ab4718851b67ef081) - 2026-11-17
+* [Review] [Review on: perf(sync): prefetch block bodies a window ahead when serving them](https://github.com/NethermindEth/nethermind/pull/16037#pullrequestreview-5946523122) - 2026-11-17
+* [Review] [Review on: perf(snap): size the served access lists buffers up front and read little past the limit](https://github.com/NethermindEth/nethermind/pull/16034#pullrequestreview-5946498777) - 2026-11-17
+* [Pull Request] [ci: skip heavy pull request jobs and AI reviews on drafts](https://github.com/NethermindEth/nethermind/pull/16062) - 2026-11-18
+* [Review] [Review on: fix(tracing): preserve empty-account existence in JavaScript tracers](https://github.com/NethermindEth/nethermind/pull/15834#pullrequestreview-5939391285) - 2026-11-17
+* [Pull Request] [docs(blockchain): move ClearStaleMarkersOnForcedHeadUpdate rationale into remarks](https://github.com/NethermindEth/nethermind/pull/16054) - 2026-11-17
+* [Review] [Review on: perf(sync): serve GetBlockHeaders requests with a skip from batched reads](https://github.com/NethermindEth/nethermind/pull/15978#pullrequestreview-5939722746) - 2026-11-17
+* [Review] [Review on: ci(trivy): cancel superseded pull request scans](https://github.com/NethermindEth/nethermind/pull/16035#pullrequestreview-5946621445) - 2026-11-17
+* [Review] [Review on: perf(rpc): read hashes-only blocks through a pinned native slice](https://github.com/NethermindEth/nethermind/pull/16033#pullrequestreview-5946587051) - 2026-11-17
+* [Review] [Review on: perf(merge): read payload bodies in batches](https://github.com/NethermindEth/nethermind/pull/15973#pullrequestreview-5939878237) - 2026-11-17
+* [Pull Request] [test(init): cover a selected optional step cancelled without shutdown](https://github.com/NethermindEth/nethermind/pull/16049) - 2026-11-17
+* [Review] [Review on: fix(tracing): write Geth's exit records for rejected calls and SELFDESTRUCT in file traces](https://github.com/NethermindEth/nethermind/pull/15715#pullrequestreview-5940583304) - 2026-11-17
+* [Review] [Review on: fix(logindex): revert indexed blocks replaced by a reorg](https://github.com/NethermindEth/nethermind/pull/15678#pullrequestreview-5940950257) - 2026-11-17
+* [Review] [Review on: fix(debug): align block-hash not-found messages with Geth](https://github.com/NethermindEth/nethermind/pull/15954#pullrequestreview-5939822695) - 2026-11-17
+* [Review] [Review on: fix(rpc): report why a debug_traceCall txIndex fails to parse](https://github.com/NethermindEth/nethermind/pull/15957#pullrequestreview-5939902900) - 2026-11-17
+* [Review] [Review on: fix(tracing): close JavaScript and standard-file tracer Low parity gaps](https://github.com/NethermindEth/nethermind/pull/15958#pullrequestreview-5939866884) - 2026-11-17
+* [Review] [Review on: fix(optimism): match op-node's snappy decoding in the CL gossip message ID and validator](https://github.com/NethermindEth/nethermind/pull/16040#pullrequestreview-5946629138) - 2026-11-17
+* [Review] [Review on: perf(network): serve eth/71 block access lists from one pooled buffer](https://github.com/NethermindEth/nethermind/pull/16042#pullrequestreview-5946480801) - 2026-11-17
+* [Pull Request] [test(shutter): assert a cancelled stored wait ends with OperationCanceledException](https://github.com/NethermindEth/nethermind/pull/16043) - 2026-11-17
+* [Pull Request] [test(merge): pin the getBlobsV2/V3 sync check between the size check and the empty-request return](https://github.com/NethermindEth/nethermind/pull/16044) - 2026-11-17
+* [Pull Request] [fix(blockchain): raise a kept safe hash to a finalized block that moved past it](https://github.com/NethermindEth/nethermind/pull/16045) - 2026-11-17
+* [Pull Request] [test(e2e): strip ANSI codes from dumped logs and report the inner retry failure](https://github.com/NethermindEth/nethermind/pull/16046) - 2026-11-17
+* [Review] [Review on: test(e2e): strip ANSI codes from dumped logs and report the inner retry failure](https://github.com/NethermindEth/nethermind/pull/16046#pullrequestreview-5946438256) - 2026-11-17
+* [Pull Request] [test(snapshot): track test server handlers before they start and dispose on early failure](https://github.com/NethermindEth/nethermind/pull/16047) - 2026-11-17
+* [Pull Request] [test(snapshot): cover the probe retry on 408/429/503 and drop ServerErrorFirstRequests](https://github.com/NethermindEth/nethermind/pull/16048) - 2026-11-17
+* [Pull Request] [test(sync): cover Headers and All sleep masks for the cached forward-header pin](https://github.com/NethermindEth/nethermind/pull/16050) - 2026-11-17
+* [Pull Request] [test(txpool): pin HashCacheSize to the long-term cache size and document its lower bound](https://github.com/NethermindEth/nethermind/pull/16051) - 2026-11-17
+* [Review] [Review on: test(txpool): pin HashCacheSize to the long-term cache size and document its lower bound](https://github.com/NethermindEth/nethermind/pull/16051#pullrequestreview-5946439154) - 2026-11-17
+* [Pull Request] [fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052) - 2026-11-17
+* [Review] [Review on: fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052#pullrequestreview-5946440108) - 2026-11-17
+* [Pull Request] [test(rpc): make the eth_simulateV1 null account override test tell null from no override](https://github.com/NethermindEth/nethermind/pull/16053) - 2026-11-17
+* [Pull Request] [fix(tracing): report Geth's code-deposit errors in file and JavaScript traces](https://github.com/NethermindEth/nethermind/pull/16055) - 2026-11-17
+* [Pull Request] [fix(diag): install the diagnostic tools for the target architecture](https://github.com/NethermindEth/nethermind/pull/16056) - 2026-11-17
+* [Review] [Review on: Check SendPolicy rules in light client eth_sendRawTransaction](https://github.com/NethermindEth/nethermind/pull/16057#pullrequestreview-5946412676) - 2026-11-17
+* [Review] [Review on: fix(benchmark): give the runner a .NET 11 job](https://github.com/NethermindEth/nethermind/pull/16024#pullrequestreview-5940995133) - 2026-11-17
+* [Review] [Review on: perf(snap): read served bytecodes in batches](https://github.com/NethermindEth/nethermind/pull/15971#pullrequestreview-5939629682) - 2026-11-17
+* [Review] [Review on: build(diag): add dotnet-counters to the diagnostic image](https://github.com/NethermindEth/nethermind/pull/14426#pullrequestreview-5945332747) - 2026-11-17
+* [Review] [Review on: fix(tracing): preserve the VM REVERT error in JavaScript context](https://github.com/NethermindEth/nethermind/pull/16031#pullrequestreview-5941439088) - 2026-11-17
+* [Review] [Review on: fix(tracing): align captured JavaScript callback validation errors](https://github.com/NethermindEth/nethermind/pull/16036#pullrequestreview-5946496111) - 2026-11-17
+* [Review] [Review on: perf(sync): prefetch range and by-hash headers and served receipts](https://github.com/NethermindEth/nethermind/pull/16039#pullrequestreview-5946418487) - 2026-11-17
+* [Review] [Review on: fix(tracing): normalize JavaScript construction error envelopes](https://github.com/NethermindEth/nethermind/pull/16041#pullrequestreview-5946432492) - 2026-11-17
+* [Review] [Review on: fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004#pullrequestreview-5940732471) - 2026-11-17
+* [Review] [Review on: fix(db): dispose read options and snapshots only after pinned reads end](https://github.com/NethermindEth/nethermind/pull/16028#pullrequestreview-5940876714) - 2026-11-17
+* [Commit] [fix(tracing): write Geth's exit records for rejected calls and SELFDESTRUCT in file traces (#15715)](https://github.com/NethermindEth/nethermind/commit/06ddcb0b522d117485a0591d411ef6a9e0dda0e4) - 2026-11-17
+* [Commit] [fix(ci): reclaim EXPB runner disk and pin master images per commit (#16004)](https://github.com/NethermindEth/nethermind/commit/0fe45381ec28af965a77856bc2fa02e69045d403) - 2026-11-17
+* [Commit] [fix(ci): pass Glamsterdam batch lists through an artifact (#16005)](https://github.com/NethermindEth/nethermind/commit/9612e6dc884da244614b909d6a78001ec893f22d) - 2026-11-17
+* [Commit] [fix(tracing): report SELFDESTRUCT and static LOG costs and underflow counts as Geth does (#15679)](https://github.com/NethermindEth/nethermind/commit/3d9789508aa0c9623c2cbc487704933715c4d51b) - 2026-11-17
+* [Commit] [fix(optimism): skip the L1 data fee and operator fee for RPC calls (#15711)](https://github.com/NethermindEth/nethermind/commit/dd662b6812abeaaca814ce01f670ef17e1dac20a) - 2026-11-17
+* [Commit] [fix(optimism): charge the max operator fee up front with the L1 fee (#15710)](https://github.com/NethermindEth/nethermind/commit/241eddbd82a00d6a7a54ac91ff8ff630b560ce2a) - 2026-11-17
+* [Commit] [fix(stateless): keep witness re-execution out of the invalid chain tracker (#15877)](https://github.com/NethermindEth/nethermind/commit/2badf13a00f2f6a7b20f02550b813c440a3302fd) - 2026-11-17
+* [Commit] [fix(tracing): match Geth file trace field order, root error and error escaping (#15677)](https://github.com/NethermindEth/nethermind/commit/f4160ac36725b0858620b9ef03006fa9952b56c6) - 2026-11-17
+* [Commit] [fix(txpool): accept a self-sponsored set-code tx that replaces the authority's only pending tx (#15686)](https://github.com/NethermindEth/nethermind/commit/e0489e8ac88e2dc3e0d5423ebc7382a1c6002045) - 2026-11-17
+* [Commit] [fix(specs): reject out-of-order forks in geth genesis (#15714)](https://github.com/NethermindEth/nethermind/commit/f6ff891b44d1909694688d9d1f11c7346f33e75d) - 2026-11-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

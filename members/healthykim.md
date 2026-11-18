@@ -38,6 +38,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [eth/protocols/eth: validate all receipt blocks against gasUsed](https://github.com/ethereum/go-ethereum/pull/36105) - 2026-11-11
 * [Review] [Review on: eth/fetcher: forget blob txs that have no announcer left](https://github.com/ethereum/go-ethereum/pull/36140#pullrequestreview-5925682968) - 2026-11-16
 * [Review] [Review on: eth/protocols/eth: validate all receipt blocks against gasUsed](https://github.com/ethereum/go-ethereum/pull/36105#pullrequestreview-5921601957) - 2026-11-16
+* [Commit] [eth/protocols/eth: validate all receipt blocks against gasUsed (#36105)](https://github.com/ethereum/go-ethereum/commit/142458d3dafaa05f013eee70703b280641780612) - 2026-11-17
 ## Q3 2026
 
 

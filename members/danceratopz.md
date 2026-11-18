@@ -98,6 +98,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [perf(doc,ci): speed up the test case reference (#3979)](https://github.com/ethereum/execution-specs/commit/d8c55883b70228da11a82249b904c3146f0527eb) - 2026-11-13
 * [Commit] [fix(test-consume): report enginex and wirex tests whose client fails to start (#3990)](https://github.com/ethereum/execution-specs/commit/7d070792fe344f54810dbcb3a4a85a422f1bc547) - 2026-11-13
 * [Commit] [fix(test-consume): schedule the DAO fork before Tangerine Whistle only (#3980)](https://github.com/ethereum/execution-specs/commit/eb2fa0d279081f9554ac17c761e6874fa420d77c) - 2026-11-13
+* [Review] [Review on: refactor(tests): merge zero/non-zero value call tests, clean up ported tests](https://github.com/ethereum/execution-specs/pull/3997#pullrequestreview-5937552627) - 2026-11-17
+* [Review] [Review on: refactor(tests): collapse static call chains into test_call_chain](https://github.com/ethereum/execution-specs/pull/4001#pullrequestreview-5938148015) - 2026-11-17
+* [Review] [Review on: fix(tests): merge stStaticCall tests and drop fixed addresses](https://github.com/ethereum/execution-specs/pull/4000#pullrequestreview-5938164330) - 2026-11-17
+* [Review] [Review on: fix(tests): clean up stBugs, stSolidityTest, stQuadraticComplexityTest and others](https://github.com/ethereum/execution-specs/pull/4006#pullrequestreview-5938865875) - 2026-11-17
+* [Review] [Review on: fix(tests): merge call-family tests and unpin addresses](https://github.com/ethereum/execution-specs/pull/4005#pullrequestreview-5938115238) - 2026-11-17
+* [Review] [Review on: refactor(tests): merge stMemory*, stStackTests, stLogTests, stShift files](https://github.com/ethereum/execution-specs/pull/4003#pullrequestreview-5938117905) - 2026-11-17
+* [Review] [Review on: fix(tests): merge CREATE/CREATE2 tests and derive created addresses](https://github.com/ethereum/execution-specs/pull/4002#pullrequestreview-5938489305) - 2026-11-17
+* [Review] [Review on: fix(tests): merge stWalletTest, stSStoreTest and stEIP* tests](https://github.com/ethereum/execution-specs/pull/4004#pullrequestreview-5939464741) - 2026-11-17
+* [Review] [Review on: fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998#pullrequestreview-5936704445) - 2026-11-17
+* [Review] [Review on: refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999#pullrequestreview-5937841357) - 2026-11-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

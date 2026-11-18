@@ -126,6 +126,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rlpx: fix size limit check of outgoing frames (#5174)](https://github.com/status-im/nimbus-eth1/commit/5f02ee27b9ab6813223698b3d916b3f389ac5939) - 2026-11-16
 * [Commit] [stateless: align SSZ types with Gloas and check witness node shapes (#5129)](https://github.com/status-im/nimbus-eth1/commit/3cc5e644cfa1bcec6e3634e5c70c5958611a2fc3) - 2026-11-16
 * [Commit] [json-rpc: apply the gas cap to eth_call and eth_createAccessList (#5167)](https://github.com/status-im/nimbus-eth1/commit/b9e476241e1de24e851c4c471da0d75a24261416) - 2026-11-16
+* [Pull Request] [snap: reject malformed proof nodes instead of raising ResultDefect](https://github.com/status-im/nimbus-eth1/pull/5178) - 2026-11-17
+* [Pull Request] [eth: only refetch pooled txs from peers that negotiated eth](https://github.com/status-im/nimbus-eth1/pull/5176) - 2026-11-17
+* [Commit] [snap: reject malformed proof nodes instead of raising ResultDefect (#5178)](https://github.com/status-im/nimbus-eth1/commit/2d241d48331681fda5b045ed00d2c46a0e4bd7d7) - 2026-11-17
+* [Commit] [eth: only refetch pooled txs from peers that negotiated eth (#5176)](https://github.com/status-im/nimbus-eth1/commit/759afe2cc92692c941e08d7ae3af739594c178dc) - 2026-11-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

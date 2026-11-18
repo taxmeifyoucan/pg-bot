@@ -106,6 +106,7 @@ Team: Reth
 * [Commit] [fix(evm): bump evm2 to run request system calls without a code check (#28311)](https://github.com/paradigmxyz/reth/commit/b2f6dc91040beb1a60d5fcd3675ed5efc2aa4124) - 2026-11-06
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 2 updates](https://github.com/paradigmxyz/reth/pull/28347#pullrequestreview-5830017933) - 2026-11-09
 * [Pull Request] [chore: make vergen output idempotent by default](https://github.com/paradigmxyz/reth/pull/28576) - 2026-11-17
+* [Commit] [chore: make vergen output idempotent by default (#28576)](https://github.com/paradigmxyz/reth/commit/73686021c0d7030a5dfc9e949bc9a31d1b8ca911) - 2026-11-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

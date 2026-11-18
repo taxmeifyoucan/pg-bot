@@ -116,6 +116,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: detect bit supersets that leave a byte empty](https://github.com/ChainSafe/lodestar/pull/10629#pullrequestreview-5914489547) - 2026-11-16
 * [Review] [Review on: chore: v1.51.0 release](https://github.com/ChainSafe/lodestar/pull/10472#pullrequestreview-5931746701) - 2026-11-17
 * [Commit] [fix: harden detectDoppelganger() (#10634)](https://github.com/ChainSafe/lodestar/commit/42cba9af41f7fab39f62ff8bd6d0ae80315e55c9) - 2026-11-16
+* [Review] [Review on: fix: apply every execution INVALID verdict to fork choice with one rule](https://github.com/ChainSafe/lodestar/pull/10614#pullrequestreview-5950589124) - 2026-11-18
+* [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5937263216) - 2026-11-17
+* [Pull Request] [feat: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/10642) - 2026-11-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

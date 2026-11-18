@@ -91,6 +91,7 @@ Team: Grandine
 * [Review] [Review on: Updated some crates](https://github.com/grandinetech/grandine/pull/1045#pullrequestreview-5889243779) - 2026-11-13
 * [Review] [Review on: Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/pull/1046#pullrequestreview-5917781766) - 2026-11-16
 * [Commit] [Add missing proposer reorg functionality](https://github.com/grandinetech/grandine/commit/5b6963f8ff6847375b18e430df81d6235dda89c5) - 2026-11-16
+* [Pull Request] [Make Gloas lists in engine API conversions fallible](https://github.com/grandinetech/grandine/pull/1051) - 2026-11-17
 ## Q3 2026
 
 

@@ -35,6 +35,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [cl/validator/devvalidator: wait for the head state at startup (#26251)](https://github.com/erigontech/erigon/commit/bbb5524e53fb057e7d47a5066e152f1091ac4ba4) - 2026-11-14
 * [Pull Request] [eez: produce the chain from the pool with --eez.sequencer](https://github.com/erigontech/erigon/pull/26353) - 2026-11-15
 * [Review] [Review on: eez: produce the chain from the pool with --eez.sequencer](https://github.com/erigontech/erigon/pull/26353#pullrequestreview-5910814378) - 2026-11-15
+* [Pull Request] [[r3.8] execution/state: report only the current transaction's self-destruct](https://github.com/erigontech/erigon/pull/26478) - 2026-11-18
+* [Pull Request] [execution/state: report only the current transaction's self-destruct](https://github.com/erigontech/erigon/pull/26228) - 2026-11-18
+* [Review] [Review on: execution/state: report only the current transaction's self-destruct](https://github.com/erigontech/erigon/pull/26228#pullrequestreview-5946405212) - 2026-11-17
+* [Pull Request] [eez/sequencer: sign every head and publish it on the overlay](https://github.com/erigontech/erigon/pull/26446) - 2026-11-17
+* [Review] [Review on: eez/sequencer: sign every head and publish it on the overlay](https://github.com/erigontech/erigon/pull/26446#pullrequestreview-5940475054) - 2026-11-17
+* [Commit] [execution/state: report only the current transaction's self-destruct (#26228)](https://github.com/erigontech/erigon/commit/fe903248a4abff6cc28500daad9ebd576ded6b4c) - 2026-11-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

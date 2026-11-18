@@ -31,6 +31,7 @@ Team: Reth
 * [Pull Request] [deps: update evm2 to e681662 (2026-11-13)](https://github.com/paradigmxyz/reth/pull/28539) - 2026-11-13
 * [Pull Request] [ci: accept plain OIDC subject in update-evm2 STS policy](https://github.com/paradigmxyz/reth/pull/28538) - 2026-11-13
 * [Commit] [ci: accept plain OIDC subject in update-evm2 STS policy (#28538)](https://github.com/paradigmxyz/reth/commit/90547d2c7c5a4fb6a3553f3de5506920e1a4c5a0) - 2026-11-13
+* [Pull Request] [feat(storage): add DurableBlockReader::last_durable_block_num_hash](https://github.com/paradigmxyz/reth/pull/28584) - 2026-11-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

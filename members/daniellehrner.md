@@ -255,6 +255,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Chain same-sender transactions in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11808) - 2026-11-16
 * [Review] [Review on: Chain same-sender transactions in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11808#pullrequestreview-5920573638) - 2026-11-16
 * [Commit] [Chain same-sender transactions in the optimistic parallel processor (#11808)](https://github.com/besu-eth/besu/commit/8d92f3b319e039e69c675b39f850195209563944) - 2026-11-16
+* [Review] [Review on: [3/5] snap/2 sorted ingest: merge the small bottom-level files a RocksDB bulk load leaves](https://github.com/besu-eth/besu/pull/11854#pullrequestreview-5937901080) - 2026-11-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

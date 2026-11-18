@@ -399,6 +399,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Return early for a known payload in `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5784) - 2026-11-11
 * [Commit] [Return early for a known payload in `on_execution_payload_envelope` (#5784)](https://github.com/ethereum/consensus-specs/commit/c3e16117a66523902fd21d6ba708d987b56bd4a4) - 2026-11-11
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5875209544) - 2026-11-12
+* [Pull Request] [Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785) - 2026-11-17
+* [Commit] [Retain inclusion lists one slot past the request window (#5785)](https://github.com/ethereum/consensus-specs/commit/2ea9d96a420927eb1a35d7c9399c8b3691c69f6a) - 2026-11-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

@@ -76,6 +76,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Check the signer's fingerprint when verifying prysm.sh downloads](https://github.com/OffchainLabs/prysm/pull/17874) - 2026-11-13
 * [Pull Request] [Prune expired fork choice attestations](https://github.com/OffchainLabs/prysm/pull/17873) - 2026-11-13
 * [Pull Request] [Ignore contributions for other roots when packing sync messages](https://github.com/OffchainLabs/prysm/pull/17872) - 2026-11-13
+* [Pull Request] [Mark attester slashings seen before inserting them into the pool](https://github.com/OffchainLabs/prysm/pull/17888) - 2026-11-17
+* [Pull Request] [Use the payload parent hash when pruning after an INVALID payload](https://github.com/OffchainLabs/prysm/pull/17887) - 2026-11-17
+* [Commit] [Mark proposer slashings seen before inserting them into the pool (#17861)](https://github.com/OffchainLabs/prysm/commit/fe3968ba52665e2b03f3e3c657c36913459b850d) - 2026-11-17
 ## Q3 2026
 
 

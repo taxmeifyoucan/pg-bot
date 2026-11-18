@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Set Fulu genesis deposit_requests_start_index to deposit count](https://github.com/Consensys-Incorporated/teku/pull/11496#pullrequestreview-5542512624) - 2026-10-16
 * [Review] [Review on: Temporarily disable greclipse while download.eclipse.org is down](https://github.com/Consensys-Incorporated/teku/pull/11561#pullrequestreview-5607277117) - 2026-10-21
 * [Pull Request] [Save unknown block attestation gossip for future only after validation](https://github.com/Consensys-Incorporated/teku/pull/11554) - 2026-10-21
+* [Review] [Review on: Update AGENTS.md](https://github.com/Consensys-Incorporated/teku/pull/11647#pullrequestreview-5950689277) - 2026-11-18
 ## Q3 2026
 
 

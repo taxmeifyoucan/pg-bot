@@ -120,6 +120,20 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/engineapi: check the payload header against its parent before the sender recovery (#25299)](https://github.com/erigontech/erigon/commit/eeb01a475f47160f59bda9e8eb65d3909653350f) - 2026-11-14
 * [Commit] [execution/state: keep the seeded removal Done when the destroying tx flushes it (#26326)](https://github.com/erigontech/erigon/commit/83efdf9adaf3c701ba4f69e8ce99eca9230f9acb) - 2026-11-15
 * [Commit] [execution/state: validate account reads at the BAL existence marker against the destruct (#26380)](https://github.com/erigontech/erigon/commit/203c88474d4d04488c85a91424d6662a9bac9c61) - 2026-11-16
+* [Pull Request] [execution/state: skip the marker check for an account without a destruct](https://github.com/erigontech/erigon/pull/26430) - 2026-11-17
+* [Review] [Review on: execution/state: skip the marker check for an account without a destruct](https://github.com/erigontech/erigon/pull/26430#pullrequestreview-5937907901) - 2026-11-17
+* [Pull Request] [execution/state: read slots older than a contract creation as zero](https://github.com/erigontech/erigon/pull/26356) - 2026-11-18
+* [Review] [Review on: execution/state: read slots older than a contract creation as zero](https://github.com/erigontech/erigon/pull/26356#pullrequestreview-5936188296) - 2026-11-17
+* [Pull Request] [execution/state: put back the cells that seeding derives when a re-run drops a write](https://github.com/erigontech/erigon/pull/26447) - 2026-11-17
+* [Review] [Review on: execution/state: put back the cells that seeding derives when a re-run drops a write](https://github.com/erigontech/erigon/pull/26447#pullrequestreview-5941089635) - 2026-11-17
+* [Pull Request] [execution/state: check a non-zero balance read at a destruct against the balance cell](https://github.com/erigontech/erigon/pull/26477) - 2026-11-17
+* [Issue] [execution/state: a Balance or Nonce read at a withdrawn destruct validates on its own](https://github.com/erigontech/erigon/issues/26429) - 2026-11-17
+* [Issue] [execution/state: an existence read at a seeded destruct stays valid once a re-run removes the account](https://github.com/erigontech/erigon/issues/26476) - 2026-11-17
+* [Issue] [execution/stagedsync: an interrupt during the commitment reports a wrong trie root or panics](https://github.com/erigontech/erigon/issues/26448) - 2026-11-17
+* [Commit] [execution/state: read slots older than a contract creation as zero (#26356)](https://github.com/erigontech/erigon/commit/1677eb814b2dd19752453ee1119373b82499cedf) - 2026-11-18
+* [Commit] [execution/state: skip the marker check for an account without a destruct (#26430)](https://github.com/erigontech/erigon/commit/ede283812644642aef47b592ccb63d5a6489aaa8) - 2026-11-18
+* [Commit] [execution/state: check a non-zero balance read at a destruct against the balance cell (#26477)](https://github.com/erigontech/erigon/commit/079c0fac477cd4b378b1bb6d8d9993916faab928) - 2026-11-18
+* [Commit] [execution/state, execution/stagedsync: keep the access list's value of a write that a re-run drops (#26395)](https://github.com/erigontech/erigon/commit/44962a3b3fddea3b29e0d7f99a363d6da2dfbb68) - 2026-11-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -226,6 +240,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [cmake: Align the Baseline interpreter's labels to 32 bytes with GCC](https://github.com/ipsilon/evmone/pull/1815) - 2026-11-16
 * [Pull Request] [cmake: Raise GCC's inline budget for the Baseline interpreter](https://github.com/ipsilon/evmone/pull/1814) - 2026-11-16
 * [Commit] [cmake: Raise GCC's inline budget for the Baseline interpreter (#1814)](https://github.com/ipsilon/evmone/commit/ba92871e91a749651adbc69927a6eac8a090dbb2) - 2026-11-16
+* [Pull Request] [crypto: Make the secp256r1 order arithmetic static constexpr](https://github.com/ipsilon/evmone/pull/1821) - 2026-11-17
+* [Issue] [secp256r1: verify() computes R² mod n at run time](https://github.com/ipsilon/evmone/issues/1819) - 2026-11-17
+* [Issue] [modexp: use intx::shl() and intx::shr()](https://github.com/ipsilon/evmone/issues/1820) - 2026-11-17
+* [Issue] [SIGNEXTEND: branches on the byte index](https://github.com/ipsilon/evmone/issues/1818) - 2026-11-17
+* [Commit] [test: Avoid copying RLP-encoded strings (#1816)](https://github.com/ipsilon/evmone/commit/0a50c913b5bf862553a93c0b9b81b2ef96cfb6ff) - 2026-11-17
+* [Commit] [crypto: Make the secp256r1 order arithmetic static constexpr (#1821)](https://github.com/ipsilon/evmone/commit/815edd7f137c579ce6794c222a1f8887c8a73455) - 2026-11-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
@@ -233,6 +253,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(test-benchmark): fill test_mod with distinct MOD chains](https://github.com/ethereum/execution-specs/pull/3963) - 2026-11-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: integration: remove obsolete gasBailOut placeholders from trace requests](https://github.com/erigontech/rpc-tests/pull/664#pullrequestreview-5943099670) - 2026-11-17
 ## Q3 2026
 
 

@@ -41,6 +41,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Fix LC P2P request decoding for bootstrap and updates-by-range](https://github.com/OffchainLabs/prysm/pull/17885) - 2026-11-16
 * [Pull Request] [Fix overflow in LC REST handler](https://github.com/OffchainLabs/prysm/pull/17884) - 2026-11-16
 * [Pull Request] [Keep cached LC updates when migration to cold storage fails](https://github.com/OffchainLabs/prysm/pull/17883) - 2026-11-16
+* [Commit] [fix gloas light client gossip timing (#17886)](https://github.com/OffchainLabs/prysm/commit/d06cb8767f3a845d1c8f5949dc77b0009a4c8f11) - 2026-11-17
+* [Commit] [Fix overflow in LC REST handler (#17884)](https://github.com/OffchainLabs/prysm/commit/278c951215465f42eeb0bd623fdef26feadb8685) - 2026-11-17
 ## Q3 2026
 
 

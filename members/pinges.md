@@ -34,6 +34,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Report missing required evmtool inputs as usage errors](https://github.com/besu-eth/besu/pull/11938#pullrequestreview-5867813825) - 2026-11-12
 
 * [Review] [Review on: Validate the eth/69 status block range and best hash](https://github.com/besu-eth/besu/pull/11987#pullrequestreview-5932769365) - 2026-11-17
+* [Review] [Review on: [CHANGELOG] 26.11.1 and GHSAs for 26.10 ](https://github.com/besu-eth/besu/pull/11997#pullrequestreview-5949545909) - 2026-11-18
+* [Review] [Review on: Exclude note-level results from CodeQL scans](https://github.com/besu-eth/besu/pull/11937#pullrequestreview-5949564356) - 2026-11-18
+* [Review] [Review on: [2/5] Bonsai archive ongoing sync: capture final blocks](https://github.com/besu-eth/besu/pull/11951#pullrequestreview-5949637009) - 2026-11-18
+* [Review] [Review on: Add a JMH benchmark for RocksDB gets of present and absent keys](https://github.com/besu-eth/besu/pull/11988#pullrequestreview-5934293765) - 2026-11-17
+* [Review] [Review on: Upgrade RocksDB to 10.10.1](https://github.com/besu-eth/besu/pull/11981#pullrequestreview-5934263144) - 2026-11-17
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Recover secp256k1 public keys for recovery ids 2 and 3](https://github.com/besu-eth/besu-native/pull/327#pullrequestreview-5883892054) - 2026-11-12
 ## Q3 2026

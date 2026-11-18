@@ -389,6 +389,31 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [txpool: avoid spam penalties when restoring unwound transactions](https://github.com/erigontech/erigon/issues/26377) - 2026-11-16
 * [Issue] [shutter: recover from unwinds before the first keyper set activates](https://github.com/erigontech/erigon/issues/26376) - 2026-11-16
 * [Commit] [execution, txpool: add EIP-8272 support and fix state notifications and recovery (#25515)](https://github.com/erigontech/erigon/commit/9bd59310781e445e3d071608db6de237dc885628) - 2026-11-16
+* [Review] [Review on: execution/state: skip the marker check for an account without a destruct](https://github.com/erigontech/erigon/pull/26430#pullrequestreview-5937638194) - 2026-11-17
+* [Review] [Review on: execution/state: read slots older than a contract creation as zero](https://github.com/erigontech/erigon/pull/26356#pullrequestreview-5937691194) - 2026-11-17
+* [Review] [Review on: execution/state: put back the cells that seeding derives when a re-run drops a write](https://github.com/erigontech/erigon/pull/26447#pullrequestreview-5939581922) - 2026-11-17
+* [Review] [Review on: db/state: restore a deleted v3 commitment record on unwind](https://github.com/erigontech/erigon/pull/26450#pullrequestreview-5945768025) - 2026-11-17
+* [Pull Request] [execution/engineapi: serialize repeated forkchoice updates](https://github.com/erigontech/erigon/pull/26441) - 2026-11-17
+* [Pull Request] [cl, db, execution: remove unused parameters and dead code](https://github.com/erigontech/erigon/pull/26451) - 2026-11-17
+* [Pull Request] [execution/types: wait for BAL arenas to be collected](https://github.com/erigontech/erigon/pull/26452) - 2026-11-17
+* [Review] [Review on: [r3.8] cl: store self-built custody columns after OnBlock, retry blocks on stored columns and batch column writes](https://github.com/erigontech/erigon/pull/26440#pullrequestreview-5937939741) - 2026-11-17
+* [Pull Request] [db/kv: make overlay deletion markers safe for concurrent reads](https://github.com/erigontech/erigon/pull/26444) - 2026-11-17
+* [Review] [Review on: db/kv: make overlay deletion markers safe for concurrent reads](https://github.com/erigontech/erigon/pull/26444#pullrequestreview-5943004390) - 2026-11-17
+* [Pull Request] [cl/p2p: avoid Windows port restrictions in startup tests](https://github.com/erigontech/erigon/pull/26455) - 2026-11-17
+* [Pull Request] [execution: implement EIP-8151 for Bogota devnet-2](https://github.com/erigontech/erigon/pull/26473) - 2026-11-17
+* [Review] [Review on: [r3.8] cl/sentinel, cl/p2p, cl/gossip, cl/das: subnet search up to Dlo, outbound peer reserve, by-root column fetch before FK20](https://github.com/erigontech/erigon/pull/26432#pullrequestreview-5937030683) - 2026-11-17
+* [Pull Request] [execution: implement EIP-8253 for Bogota devnet-2](https://github.com/erigontech/erigon/pull/26443) - 2026-11-17
+* [Review] [Review on: execution: implement EIP-8253 for Bogota devnet-2](https://github.com/erigontech/erigon/pull/26443#pullrequestreview-5939169831) - 2026-11-17
+* [Pull Request] [execution: implement EIP-4758 for Bogota devnet-2](https://github.com/erigontech/erigon/pull/26458) - 2026-11-17
+* [Issue] [execution: pass the parent header explicitly to block initialization](https://github.com/erigontech/erigon/issues/26456) - 2026-11-17
+* [Issue] [execution/state: simplify creation storage handling after EIP-8253](https://github.com/erigontech/erigon/issues/26445) - 2026-11-17
+* [Issue] [commitment v3: a DB unwind does not restore a deleted record; other findings from the #24304 post-merge review](https://github.com/erigontech/erigon/issues/26438) - 2026-11-17
+* [Commit] [execution/engineapi: serialize repeated forkchoice updates (#26441)](https://github.com/erigontech/erigon/commit/515940d363d01910f71c3fe50519cdf0aadd449d) - 2026-11-18
+* [Commit] [cl, db, execution: remove unused parameters and dead code (#26451)](https://github.com/erigontech/erigon/commit/cca6faad6a39423423183d0dce3c47111ab35469) - 2026-11-18
+* [Commit] [execution/types: wait for BAL arenas to be collected (#26452)](https://github.com/erigontech/erigon/commit/1a498a55eda06fc43236907ddf6982623a13ab44) - 2026-11-18
+* [Commit] [cl/p2p: avoid Windows port restrictions in startup tests (#26455)](https://github.com/erigontech/erigon/commit/51b6379778261a51866c7f9a213505e6096badcb) - 2026-11-17
+* [Commit] [cmd/caplin, cl/sentinel: honor bind flags and recover RPC panics (#26437)](https://github.com/erigontech/erigon/commit/93798c1eefa096241e7ac7ac881ef62d50190968) - 2026-11-17
+* [Commit] [txpool, shutter: simplify startup and block waits (#26387)](https://github.com/erigontech/erigon/commit/dae4767f044226b90a605a761a37214e4a5424ad) - 2026-11-17
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

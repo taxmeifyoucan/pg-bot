@@ -114,6 +114,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Create missing slashing protection records in repair](https://github.com/Consensys-Incorporated/teku/pull/11622#pullrequestreview-5914104697) - 2026-11-16
 * [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11636#pullrequestreview-5913417058) - 2026-11-15
 * [Review] [Review on: Keep genesis root and check network in slashing protection repair](https://github.com/Consensys-Incorporated/teku/pull/11621#pullrequestreview-5913986752) - 2026-11-16
+* [Pull Request] [Update AGENTS.md](https://github.com/Consensys-Incorporated/teku/pull/11647) - 2026-11-18
+* [Review] [Review on: Write generated secret files readable only by their owner](https://github.com/Consensys-Incorporated/teku/pull/11617#pullrequestreview-5947461053) - 2026-11-17
+* [Commit] [Update AGENTS.md (#11647)](https://github.com/Consensys-Incorporated/teku/commit/f0fb28f106668976eb772f39225522aae7de13cc) - 2026-11-18
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

@@ -285,6 +285,11 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [test(sync): run the non-Flat E2E sync fixtures on Patricia storage (#15960)](https://github.com/NethermindEth/nethermind/commit/8ca675e7ad3940b9f5fea88e10767554be519b4e) - 2026-11-16
 * [Commit] [fix(flat): guard each CompactSized boundary and observe a stop between them (#15869)](https://github.com/NethermindEth/nethermind/commit/89edb709e6da0d75cf1bfacb9f0a24bf80afe559) - 2026-11-16
 * [Commit] [fix(rpc)!: let the stored block decide 4444 for a missing transaction receipt (#15857)](https://github.com/NethermindEth/nethermind/commit/0901a792fb6cd05c8e0830f90cbb62b78b6911b6) - 2026-11-16
+* [Review] [Review on: fix(tracing): preserve empty-account existence in JavaScript tracers](https://github.com/NethermindEth/nethermind/pull/15834#pullrequestreview-5936437922) - 2026-11-17
+* [Pull Request] [fix(optimism): match op-node's snappy decoding in the CL gossip message ID and validator](https://github.com/NethermindEth/nethermind/pull/16040) - 2026-11-17
+* [Review] [Review on: fix(optimism): match op-node's snappy decoding in the CL gossip message ID and validator](https://github.com/NethermindEth/nethermind/pull/16040#pullrequestreview-5943592015) - 2026-11-17
+* [Review] [Review on: fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004#pullrequestreview-5934549126) - 2026-11-17
+* [Commit] [fix(evm): report the code of an account at a precompile address in EXTCODESIZE and EXTCODECOPY (#15988)](https://github.com/NethermindEth/nethermind/commit/e78c9e57d6bb24e8e65f237e67d0e043f280a191) - 2026-11-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

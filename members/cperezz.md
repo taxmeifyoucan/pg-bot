@@ -37,6 +37,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984) - 2026-11-11
 * [Review] [Review on: feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964#pullrequestreview-5865666604) - 2026-11-11
 * [Issue] [Reorg fixtures: reach a head by syncing from a peer](https://github.com/ethereum/execution-specs/issues/3991) - 2026-11-12
+* [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5938771559) - 2026-11-17
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15

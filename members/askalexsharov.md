@@ -1061,6 +1061,33 @@ Team: Erigon
 * [Commit] [cl: run more real-time tests in synctest bubbles (#26365)](https://github.com/erigontech/erigon/commit/483ac45284741a7cd450728cc77943c9cb0ec4a3) - 2026-11-16
 * [Commit] [db/state: guard history merges, retirement, rebase and startup checks (#26340)](https://github.com/erigontech/erigon/commit/3ab341d5073d82ea2b6b80fc17b9e0e4088acf4b) - 2026-11-16
 * [Commit] [db/state, cmd, node: remove the serial-commitment switch (#26336)](https://github.com/erigontech/erigon/commit/88082080a6fc0a0d8c2ed49c9bc0bf519f2b9fdc) - 2026-11-16
+* [Review] [Review on: rpc/jsonrpc, db/rawdb: read eth_getBlockReceipts cached receipts while the block is read](https://github.com/erigontech/erigon/pull/26420#pullrequestreview-5949727371) - 2026-11-18
+* [Pull Request] [common/concurrent: run the timer-gated tests in synctest bubbles](https://github.com/erigontech/erigon/pull/26481) - 2026-11-18
+* [Pull Request] [execution/stagedsync: the commitment flush no longer blocks the fold](https://github.com/erigontech/erigon/pull/26462) - 2026-11-17
+* [Review] [Review on: execution/stagedsync: intra-block commitment checkpoints (COMMITMENT_INTRABLOCK_TXS)](https://github.com/erigontech/erigon/pull/26472#pullrequestreview-5949765587) - 2026-11-18
+* [Review] [Review on: go.mod: bump anacrolix/torrent to v1.63.0](https://github.com/erigontech/erigon/pull/26433#pullrequestreview-5949771835) - 2026-11-18
+* [Review] [Review on: rpc: cancel running calls when a connection is closed](https://github.com/erigontech/erigon/pull/26328#pullrequestreview-5949743365) - 2026-11-18
+* [Pull Request] [cl/phase1/network: fix a flaky HTTP fallback test on loaded runners](https://github.com/erigontech/erigon/pull/26480) - 2026-11-18
+* [Review] [Review on: execution/types/accounts: faster concurrent reads of new storage slots](https://github.com/erigontech/erigon/pull/26404#pullrequestreview-5949481508) - 2026-11-18
+* [Review] [Review on: cmd, node, rpc, docs: remove the unused --trace.maxtraces flag](https://github.com/erigontech/erigon/pull/26471#pullrequestreview-5949668144) - 2026-11-18
+* [Pull Request] [ci: split the hive-eest consume-rlp shard in two for wall time](https://github.com/erigontech/erigon/pull/26479) - 2026-11-18
+* [Review] [Review on: execution/state: check a non-zero balance read at a destruct against the balance cell](https://github.com/erigontech/erigon/pull/26477#pullrequestreview-5949629733) - 2026-11-18
+* [Review] [Review on: [r3.8] execution/state: report only the current transaction's self-destruct](https://github.com/erigontech/erigon/pull/26478#pullrequestreview-5949583357) - 2026-11-18
+* [Review] [Review on: execution/stagedsync, execution/state: skip arrival validation again; origin publication keeps an UnknownVersion storage read valid](https://github.com/erigontech/erigon/pull/25985#pullrequestreview-5935389701) - 2026-11-17
+* [Review] [Review on: cmd/utils/app: publishable lists each snapshot dir once and honors ctx](https://github.com/erigontech/erigon/pull/26431#pullrequestreview-5949621477) - 2026-11-18
+* [Review] [Review on: fix(execution/execmodule): answer a reorg below the finalized block with too deep reorg](https://github.com/erigontech/erigon/pull/26412#pullrequestreview-5949644377) - 2026-11-18
+* [Pull Request] [db/state: remove the file-read cache](https://github.com/erigontech/erigon/pull/25714) - 2026-11-18
+* [Pull Request] [node/eth, execution/stagedsync, db/state: test missed-accessor builds](https://github.com/erigontech/erigon/pull/26442) - 2026-11-17
+* [Review] [Review on: node/eth, execution/stagedsync, db/state: test missed-accessor builds](https://github.com/erigontech/erigon/pull/26442#pullrequestreview-5949448223) - 2026-11-18
+* [Pull Request] [execution/state: grow the journal by doubling](https://github.com/erigontech/erigon/pull/26475) - 2026-11-17
+* [Review] [Review on: execution/state: grow the journal by doubling](https://github.com/erigontech/erigon/pull/26475#pullrequestreview-5949422636) - 2026-11-18
+* [Commit] [db/state: remove the file-read cache (#25714)](https://github.com/erigontech/erigon/commit/8cbefe5d8c09863ae795304195fcd6a25062d18c) - 2026-11-18
+* [Commit] [ci: stop relaying erigon container logs to the hive-eest job log (#26427)](https://github.com/erigontech/erigon/commit/29f1e11f9791d7d7f151496e0f1d6776c9d695fc) - 2026-11-17
+* [Commit] [db/state: Retire through an older view no longer skips merged files (#26374)](https://github.com/erigontech/erigon/commit/78ecb0f3c90b9e5777a62688879c60d3a73b2c90) - 2026-11-17
+* [Commit] [p2p, txpool: synctest (#26415)](https://github.com/erigontech/erigon/commit/f9951344d4e1c06c38aeb2a29dce31a3a45c7e2e) - 2026-11-17
+* [Commit] [db/state: a missing accessor no longer stops the node at startup (#26386)](https://github.com/erigontech/erigon/commit/90e0d66aef3e21554e030cb0829b19ea6e83552a) - 2026-11-17
+* [Commit] [cl/beacon/handler: synctest  (#26413)](https://github.com/erigontech/erigon/commit/bb557d4b0fbe5c12bfcc6fdef49a299a70709187) - 2026-11-17
+* [Commit] [cl/phase1/network: synctest (#26414)](https://github.com/erigontech/erigon/commit/506f5faeaf9f4fe7b03f1f47ea83e9fa99f9f013) - 2026-11-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03
