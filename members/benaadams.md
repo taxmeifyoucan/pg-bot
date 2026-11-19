@@ -406,6 +406,28 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Check SendPolicy rules in light client eth_sendRawTransaction](https://github.com/NethermindEth/nethermind/pull/16057#pullrequestreview-5948606834) - 2026-11-17
 * [Review] [Review on: perf(snap): read served bytecodes in batches](https://github.com/NethermindEth/nethermind/pull/15971#pullrequestreview-5938996014) - 2026-11-17
 * [Review] [Review on: fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004#pullrequestreview-5939000161) - 2026-11-17
+* [Review] [Review on: perf(zkevm): skip flattening empty SSZ execution requests](https://github.com/NethermindEth/nethermind/pull/16086#pullrequestreview-5960218347) - 2026-11-18
+* [Review] [Review on: fix(tracing): retain detailed JavaScript frame exit errors](https://github.com/NethermindEth/nethermind/pull/16032#pullrequestreview-5960250473) - 2026-11-18
+* [Review] [Review on: fix(tracing): preserve the VM REVERT error in JavaScript context](https://github.com/NethermindEth/nethermind/pull/16031#pullrequestreview-5960251780) - 2026-11-18
+* [Review] [Review on: test(merge): make Engine API tests test what they name](https://github.com/NethermindEth/nethermind/pull/16098#pullrequestreview-5960510187) - 2026-11-18
+* [Review] [Review on: fix(consensus): clear the whole BAL account bitmap on rent ](https://github.com/NethermindEth/nethermind/pull/16090#pullrequestreview-5960214342) - 2026-11-18
+* [Review] [Review on: build(zkevm): update the guest bflat images to eadcaf8c](https://github.com/NethermindEth/nethermind/pull/16058#pullrequestreview-5960239280) - 2026-11-18
+* [Review] [Review on: fix(keystore): write only the KDF the key was derived with](https://github.com/NethermindEth/nethermind/pull/16066#pullrequestreview-5960235205) - 2026-11-18
+* [Review] [Review on: ci(hive): fail the job when the client launch test fails](https://github.com/NethermindEth/nethermind/pull/16073#pullrequestreview-5960227340) - 2026-11-18
+* [Review] [Review on: perf(zkevm): look up verified recovery hints in execution order](https://github.com/NethermindEth/nethermind/pull/16081#pullrequestreview-5960219627) - 2026-11-18
+* [Review] [Review on: perf(zkevm): skip copying unused trusted recovery hints](https://github.com/NethermindEth/nethermind/pull/16087#pullrequestreview-5960216974) - 2026-11-18
+* [Review] [Review on: perf(zkevm): read misaligned trie hashes and leaf keys by words on SP1](https://github.com/NethermindEth/nethermind/pull/16096#pullrequestreview-5960209272) - 2026-11-18
+* [Review] [Review on: perf(zkevm): allow trusted input conversion without recovery hints](https://github.com/NethermindEth/nethermind/pull/16078#pullrequestreview-5960222092) - 2026-11-18
+* [Review] [Review on: fix(merge): small Engine API, payload preparation and beacon sync fixes](https://github.com/NethermindEth/nethermind/pull/16094#pullrequestreview-5960210560) - 2026-11-18
+* [Review] [Review on: fix(sync): state sync progress, counters and storage node priority](https://github.com/NethermindEth/nethermind/pull/16074#pullrequestreview-5960224626) - 2026-11-18
+* [Review] [Review on: fix(rpc): correct the batch response limit error, accessor methods and recorder rotation](https://github.com/NethermindEth/nethermind/pull/16068#pullrequestreview-5960230045) - 2026-11-18
+* [Review] [Review on: fix(db): monitor symlinked database disks and parse key files per line](https://github.com/NethermindEth/nethermind/pull/16071#pullrequestreview-5960228676) - 2026-11-18
+* [Review] [Review on: fix(sync): pooled list disposal and pre-merge peer choice](https://github.com/NethermindEth/nethermind/pull/16088#pullrequestreview-5960211790) - 2026-11-18
+* [Review] [Review on: fix(rpc): trace_call with reward types, relay client retries, receipts span leak](https://github.com/NethermindEth/nethermind/pull/16070#pullrequestreview-5960233790) - 2026-11-18
+* [Review] [Review on: fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052#pullrequestreview-5960241650) - 2026-11-18
+* [Review] [Review on: ci(zkevm): run the guests on invalid tests-zkevm blocks](https://github.com/NethermindEth/nethermind/pull/16060#pullrequestreview-5960244004) - 2026-11-18
+* [Review] [Review on: fix(rpc): gas price cache race, signature input errors, subscription and node info fixes](https://github.com/NethermindEth/nethermind/pull/16069#pullrequestreview-5960231311) - 2026-11-18
+* [Commit] [Non-attesting consensus-layer plugin (#13611)](https://github.com/NethermindEth/nethermind/commit/cf074a8bce66735a1b064c6cf9367298f9dffd4c) - 2026-11-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

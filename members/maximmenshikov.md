@@ -33,6 +33,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [build(zkevm): bump Nethermind.Sp1.Runtime to 6.9.0.87 and Nethermind.OpenVM.Runtime to 2.1.0.70](https://github.com/NethermindEth/nethermind/pull/15916) - 2026-11-15
 * [Pull Request] [build(zkevm): update the guest bflat images to eadcaf8c](https://github.com/NethermindEth/nethermind/pull/16058) - 2026-11-17
 * [Commit] [build(zkevm): update the guest bflat images to 6f19b237 and the runtime packages (#16021)](https://github.com/NethermindEth/nethermind/commit/8502af75867d2e0cdd89a0e389e21791e1811c08) - 2026-11-17
+* [Pull Request] [perf(zkevm): move the Airbender guest to libairbender 1.0.7 and the bflat images with rev8](https://github.com/NethermindEth/nethermind/pull/16097) - 2026-11-18
+* [Commit] [build(zkevm): update the guest bflat images to eadcaf8c (#16058)](https://github.com/NethermindEth/nethermind/commit/2eb0a1b19848795f95a1f39a8e7ccb9511c93020) - 2026-11-18
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -78,6 +80,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [fixup: report the second stack allocation of a frameless RISC-V prolog](https://github.com/NethermindEth/dotnet-riscv/pull/42) - 2026-11-17
 * [Commit] [Merge pull request #42 from NethermindEth/fix/riscv64-frameless-large-frame-unwind](https://github.com/NethermindEth/dotnet-riscv/commit/8c89ad0d91839439d82a2e9a36dbe9989edd0960) - 2026-11-17
 * [Commit] [fixup: report the second stack allocation of a frameless RISC-V prolog](https://github.com/NethermindEth/dotnet-riscv/commit/783488854a4c307fb77ab7d551bc7e7415b454db) - 2026-11-17
+* [Pull Request] [Hardening: code generation patches for INT extension, alignment and allocation in loops](https://github.com/NethermindEth/dotnet-riscv/pull/45) - 2026-11-19
+* [Pull Request] [fixup/11/riscv32: Emit rev8 for ReverseEndianness under JitZkRev8](https://github.com/NethermindEth/dotnet-riscv/pull/44) - 2026-11-19
+* [Pull Request] [Hardening: name the test of every patch and check it on pull requests](https://github.com/NethermindEth/dotnet-riscv/pull/43) - 2026-11-19
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -147,6 +152,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [variant: Take both targets from dotnet-riscv 11.0.102-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/commit/bb09ee7d1536faa7ea9c74771f8c00c687686c65) - 2026-11-18
 * [Commit] [Merge pull request #79 from NethermindEth/chore/dotnet-frameless-unwind](https://github.com/NethermindEth/bflat-riscv64/commit/7a7d5accd3c4a754a6baa3d28348e21a107f568e) - 2026-11-17
 * [Commit] [variant: Take both targets from the dotnet-riscv build with the frameless unwind fix](https://github.com/NethermindEth/bflat-riscv64/commit/969fbee0b6524cbaaf8f20b9878aafaefb9b2a50) - 2026-11-17
+* [Pull Request] [variant: Take both targets from the dotnet-riscv build with rev8 in the riscv32 JIT](https://github.com/NethermindEth/bflat-riscv64/pull/81) - 2026-11-18
 ## Q3 2026
 
 

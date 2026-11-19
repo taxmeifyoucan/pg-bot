@@ -414,6 +414,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/p2p: avoid Windows port restrictions in startup tests (#26455)](https://github.com/erigontech/erigon/commit/51b6379778261a51866c7f9a213505e6096badcb) - 2026-11-17
 * [Commit] [cmd/caplin, cl/sentinel: honor bind flags and recover RPC panics (#26437)](https://github.com/erigontech/erigon/commit/93798c1eefa096241e7ac7ac881ef62d50190968) - 2026-11-17
 * [Commit] [txpool, shutter: simplify startup and block waits (#26387)](https://github.com/erigontech/erigon/commit/dae4767f044226b90a605a761a37214e4a5424ad) - 2026-11-17
+* [Review] [Review on: node/direct: no panic or hang in log/receipt streams at shutdown](https://github.com/erigontech/erigon/pull/26485#pullrequestreview-5957069190) - 2026-11-18
+* [Review] [Review on: execution/execmodule: setHead clears stale safe and finalized markers](https://github.com/erigontech/erigon/pull/26497#pullrequestreview-5959002433) - 2026-11-18
+* [Review] [Review on: cmd/evm: write the t8n pre-state through the versioned state](https://github.com/erigontech/erigon/pull/26503#pullrequestreview-5959403174) - 2026-11-18
+* [Review] [Review on: docs: keep admin namespaces off public listeners in examples](https://github.com/erigontech/erigon/pull/26498#pullrequestreview-5957721279) - 2026-11-18
+* [Pull Request] [execution, rpc: implement EIP-7906 transaction assertions](https://github.com/erigontech/erigon/pull/25602) - 2026-11-19
+* [Pull Request] [vm, rpc: fix overlay constructor replay](https://github.com/erigontech/erigon/pull/26512) - 2026-11-18
+* [Review] [Review on: execution/state: publish the net effect of a create and destruct over an existing account](https://github.com/erigontech/erigon/pull/26491#pullrequestreview-5958574341) - 2026-11-18
+* [Review] [Review on: execution/commitment/v3: stop storage work when an account read fails](https://github.com/erigontech/erigon/pull/26488#pullrequestreview-5957449896) - 2026-11-18
+* [Pull Request] [db/kv: honor pair deletions in SeekBothExact](https://github.com/erigontech/erigon/pull/26508) - 2026-11-18
+* [Commit] [execution, rpc: implement EIP-7906 transaction assertions (#25602)](https://github.com/erigontech/erigon/commit/d273dece94c39ac33fdbb4d91323bf729472998c) - 2026-11-19
+* [Commit] [db/kv: honor pair deletions in SeekBothExact (#26508)](https://github.com/erigontech/erigon/commit/a635587855a9879370b188971ed76d2b54dfef00) - 2026-11-19
+* [Commit] [db/kv: make overlay deletion markers safe for concurrent reads (#26444)](https://github.com/erigontech/erigon/commit/999399038e1be53a3ec2f5a1042f53c4bd94b3f1) - 2026-11-18
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -440,6 +452,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mainnet/debug_accountAt: expect an out-of-range index error (#648)](https://github.com/erigontech/rpc-tests/commit/73a88b4c120c30637b74b953537eb97cfced8a78) - 2026-11-03
 
 * [Pull Request] [integration: remove obsolete gasBailOut placeholders from trace requests](https://github.com/erigontech/rpc-tests/pull/664) - 2026-11-16
+* [Commit] [integration: drop obsolete gas bailout arguments (#664)](https://github.com/erigontech/rpc-tests/commit/a434b68ec6d0917fbae7f808e75ac6e97f00c1aa) - 2026-11-18
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Gloas: deferred payload envelope waits a full slot after block import](https://github.com/sigp/lighthouse/issues/10519) - 2026-11-03
 

@@ -578,6 +578,43 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(tracing): match Geth file trace field order, root error and error escaping (#15677)](https://github.com/NethermindEth/nethermind/commit/f4160ac36725b0858620b9ef03006fa9952b56c6) - 2026-11-17
 * [Commit] [fix(txpool): accept a self-sponsored set-code tx that replaces the authority's only pending tx (#15686)](https://github.com/NethermindEth/nethermind/commit/e0489e8ac88e2dc3e0d5423ebc7382a1c6002045) - 2026-11-17
 * [Commit] [fix(specs): reject out-of-order forks in geth genesis (#15714)](https://github.com/NethermindEth/nethermind/commit/f6ff891b44d1909694688d9d1f11c7346f33e75d) - 2026-11-17
+* [Review] [Review on: fix(sync): persist snap storage nodes only within the ranges of one root](https://github.com/NethermindEth/nethermind/pull/16014#pullrequestreview-5961941291) - 2026-11-18
+* [Review] [Review on: perf(zkevm): skip flattening empty SSZ execution requests](https://github.com/NethermindEth/nethermind/pull/16086#pullrequestreview-5962009260) - 2026-11-18
+* [Review] [Review on: fix(tracing): retain detailed JavaScript frame exit errors](https://github.com/NethermindEth/nethermind/pull/16032#pullrequestreview-5961867852) - 2026-11-18
+* [Review] [Review on: fix(tracing): preserve the VM REVERT error in JavaScript context](https://github.com/NethermindEth/nethermind/pull/16031#pullrequestreview-5961870802) - 2026-11-18
+* [Review] [Review on: test(merge): make Engine API tests test what they name](https://github.com/NethermindEth/nethermind/pull/16098#pullrequestreview-5962178835) - 2026-11-18
+* [Review] [Review on: fix(consensus): clear the whole BAL account bitmap on rent ](https://github.com/NethermindEth/nethermind/pull/16090#pullrequestreview-5962062717) - 2026-11-18
+* [Review] [Review on: build(zkevm): update the guest bflat images to eadcaf8c](https://github.com/NethermindEth/nethermind/pull/16058#pullrequestreview-5961986485) - 2026-11-18
+* [Review] [Review on: fix(ci): stabilize Hive, TraceStore and XDC tests](https://github.com/NethermindEth/nethermind/pull/16100#pullrequestreview-5962145002) - 2026-11-18
+* [Review] [Review on: fix(keystore): write only the KDF the key was derived with](https://github.com/NethermindEth/nethermind/pull/16066#pullrequestreview-5962340680) - 2026-11-18
+* [Review] [Review on: fix(tracing): preserve JavaScript callback error envelopes](https://github.com/NethermindEth/nethermind/pull/16095#pullrequestreview-5962131716) - 2026-11-18
+* [Review] [Review on: ci(hive): fail the job when the client launch test fails](https://github.com/NethermindEth/nethermind/pull/16073#pullrequestreview-5962032845) - 2026-11-18
+* [Review] [Review on: perf(zkevm): look up verified recovery hints in execution order](https://github.com/NethermindEth/nethermind/pull/16081#pullrequestreview-5962096504) - 2026-11-18
+* [Review] [Review on: perf(zkevm): skip copying unused trusted recovery hints](https://github.com/NethermindEth/nethermind/pull/16087#pullrequestreview-5962022873) - 2026-11-18
+* [Review] [Review on: perf(zkevm): read misaligned trie hashes and leaf keys by words on SP1](https://github.com/NethermindEth/nethermind/pull/16096#pullrequestreview-5962177192) - 2026-11-18
+* [Review] [Review on: perf(zkevm): allow trusted input conversion without recovery hints](https://github.com/NethermindEth/nethermind/pull/16078#pullrequestreview-5962048446) - 2026-11-18
+* [Review] [Review on: fix(merge): small Engine API, payload preparation and beacon sync fixes](https://github.com/NethermindEth/nethermind/pull/16094#pullrequestreview-5962106826) - 2026-11-18
+* [Review] [Review on: fix(sync): state sync progress, counters and storage node priority](https://github.com/NethermindEth/nethermind/pull/16074#pullrequestreview-5962204543) - 2026-11-18
+* [Review] [Review on: fix(rpc): correct the batch response limit error, accessor methods and recorder rotation](https://github.com/NethermindEth/nethermind/pull/16068#pullrequestreview-5962164160) - 2026-11-18
+* [Review] [Review on: fix(db): monitor symlinked database disks and parse key files per line](https://github.com/NethermindEth/nethermind/pull/16071#pullrequestreview-5962352951) - 2026-11-18
+* [Review] [Review on: fix(sync): pooled list disposal and pre-merge peer choice](https://github.com/NethermindEth/nethermind/pull/16088#pullrequestreview-5962253783) - 2026-11-18
+* [Review] [Review on: fix(rpc): trace_call with reward types, relay client retries, receipts span leak](https://github.com/NethermindEth/nethermind/pull/16070#pullrequestreview-5962283524) - 2026-11-18
+* [Review] [Review on: fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052#pullrequestreview-5952795519) - 2026-11-18
+* [Review] [Review on: fix(rpc): gas price cache race, signature input errors, subscription and node info fixes](https://github.com/NethermindEth/nethermind/pull/16069#pullrequestreview-5962389069) - 2026-11-18
+* [Commit] [test(shutter): assert a cancelled stored wait ends with OperationCanceledException (#16043)](https://github.com/NethermindEth/nethermind/commit/66260cf22c9f69da938e59667156bbe54e4bef60) - 2026-11-18
+* [Commit] [test(snapshot): track test server handlers before they start and dispose on early failure (#16047)](https://github.com/NethermindEth/nethermind/commit/2f3ed588d84275babb9840489efd3f5b378d2f7b) - 2026-11-18
+* [Commit] [fix(blockchain): raise a kept safe hash to a finalized block that moved past it (#16045)](https://github.com/NethermindEth/nethermind/commit/edba199ec193062f0ddcd70c02f95d847b127093) - 2026-11-18
+* [Commit] [test(sync): cover Headers and All sleep masks for the cached forward-header pin (#16050)](https://github.com/NethermindEth/nethermind/commit/b6308fab89f35feea843802725a8956ebfb69919) - 2026-11-18
+* [Commit] [test(merge): pin the getBlobsV2/V3 sync check between the size check and the empty-request return (#16044)](https://github.com/NethermindEth/nethermind/commit/ecbe038983bd068dcc37250ccef1d192d7049a3a) - 2026-11-18
+* [Commit] [test(snapshot): cover the probe retry on 408/429/503 and drop ServerErrorFirstRequests (#16048)](https://github.com/NethermindEth/nethermind/commit/d04a819a56e94fd6c061a9f879550f7c44775439) - 2026-11-18
+* [Commit] [test(e2e): strip ANSI codes from dumped logs and report the inner retry failure (#16046)](https://github.com/NethermindEth/nethermind/commit/c2a271f7ce9e2df02f441ad4bdf35a49a555a9bc) - 2026-11-18
+* [Commit] [test(txpool): pin HashCacheSize to the long-term cache size and document its lower bound (#16051)](https://github.com/NethermindEth/nethermind/commit/3f577944e21a99839da5bd2b6ea29ba3c8245416) - 2026-11-18
+* [Commit] [test(rpc): make the eth_simulateV1 null account override test tell null from no override (#16053)](https://github.com/NethermindEth/nethermind/commit/f60adaf638e87e6f64c098aae9c7ab08029c703d) - 2026-11-18
+* [Commit] [fix(logindex): revert indexed blocks replaced by a reorg (#15678)](https://github.com/NethermindEth/nethermind/commit/db21fba1d0e6a441ccbbcba8559ee11585917d91) - 2026-11-18
+* [Commit] [fix(tracing): report Geth's code-deposit errors in file and JavaScript traces (#16055)](https://github.com/NethermindEth/nethermind/commit/a73d9b1e445abfc5d1ef3314eec365cbce9634c0) - 2026-11-18
+* [Commit] [docs(blockchain): move ClearStaleMarkersOnForcedHeadUpdate rationale into remarks (#16054)](https://github.com/NethermindEth/nethermind/commit/4553dfa338130b979bf63e390655b783f468986b) - 2026-11-18
+* [Commit] [test(init): cover a selected optional step cancelled without shutdown (#16049)](https://github.com/NethermindEth/nethermind/commit/21a781fa35cdf090068d5b14013f740300d4b19e) - 2026-11-18
+* [Commit] [fix(diag): install the diagnostic tools for the target architecture (#16056)](https://github.com/NethermindEth/nethermind/commit/3f8c30447fae0c65a0bb8767a1816f6156433d7d) - 2026-11-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

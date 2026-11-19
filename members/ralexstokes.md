@@ -15,6 +15,7 @@ Team: Applied Research Group (ARG)
 * [Pull Request] [Update EIP-7773: Correct Glamsterdam activation tables in EIP-7773 and EIP-8081](https://github.com/ethereum/EIPs/pull/12557) - 2026-10-20
 * [Commit] [Update EIP-7773: Correct Glamsterdam activation tables in EIP-7773 and EIP-8081](https://github.com/ethereum/EIPs/commit/25b1952395d99df32f4a540028c48ae5c1b837ec) - 2026-10-20
 * [Pull Request] [Update EIP-7773: Clear postponed Hoodi activation](https://github.com/ethereum/EIPs/pull/12568) - 2026-10-22
+* [Commit] [Update EIP-7773: Clear postponed Hoodi activation](https://github.com/ethereum/EIPs/commit/b055feec322fbc37e9d77a393a50b3ff56b31c92) - 2026-11-18
 ## Q3 2026
 
 

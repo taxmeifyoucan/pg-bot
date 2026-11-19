@@ -179,6 +179,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: bundle a native addon per preset](https://github.com/ChainSafe/lodestar/pull/10637#pullrequestreview-5945818005) - 2026-11-17
 * [Review] [Review on: refactor(fork-choice): tighten the prepare-then-write handlers](https://github.com/ChainSafe/lodestar/pull/10645#pullrequestreview-5947926923) - 2026-11-17
 * [Commit] [feat!: prune history by default (#10625)](https://github.com/ChainSafe/lodestar/commit/6ab73fec0a960e52df02359c455300a7122ad20c) - 2026-11-17
+* [Review] [Review on: fix: leave peer headroom for small targetPeers values](https://github.com/ChainSafe/lodestar/pull/10658#pullrequestreview-5964258806) - 2026-11-18
+* [Pull Request] [feat: start the native fork choice from an unfinalized state](https://github.com/ChainSafe/lodestar/pull/10653) - 2026-11-18
+* [Review] [Review on: perf: verify attestation signatures against cached committee pubkeys](https://github.com/ChainSafe/lodestar/pull/10568#pullrequestreview-5958912398) - 2026-11-18
+* [Review] [Review on: perf: parallelize per-validator epoch loops, proposer selection and shuffle](https://github.com/ChainSafe/lodestar/pull/10631#pullrequestreview-5960799065) - 2026-11-18
+* [Pull Request] [feat: bundle a native addon per preset](https://github.com/ChainSafe/lodestar/pull/10637) - 2026-11-18
+* [Pull Request] [fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470) - 2026-11-18
+* [Commit] [feat: use native state transition by default (#10624)](https://github.com/ChainSafe/lodestar/commit/8bada2d5996d8b340dba1d716697c559f85f20f3) - 2026-11-18
+* [Commit] [fix: apply every execution INVALID verdict to fork choice with one rule (#10614)](https://github.com/ChainSafe/lodestar/commit/a9e15e2b942ae1cc05679707ed42e8c70733ab20) - 2026-11-18
+* [Commit] [feat: bundle a native addon per preset (#10637)](https://github.com/ChainSafe/lodestar/commit/f3cc451977a07ea150e18ea34d583552419c8846) - 2026-11-18
+* [Commit] [fix: correct availability timing metrics (#10470)](https://github.com/ChainSafe/lodestar/commit/b76fc9b7084dfbef26104bea3ff3710d7cf1b59f) - 2026-11-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

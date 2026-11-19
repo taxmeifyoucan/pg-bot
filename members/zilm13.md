@@ -78,6 +78,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Reconstruct supernode sidecars extension (Last part) (#10132)](https://github.com/Consensys-Incorporated/teku/commit/fc4487d941718e8b68bb4d3679fabdb0ad2a8fb6) - 2026-11-16
 * [Commit] [FCR: Tolerate a pruned previous balance source in fast confirmation (#11604)](https://github.com/Consensys-Incorporated/teku/commit/6005b7ff8fe38e44df06a7fb9da7ccbd8d5662d6) - 2026-11-16
 * [Commit] [Write generated secret files readable only by their owner (#11617)](https://github.com/Consensys-Incorporated/teku/commit/7f945e8fc99fb9a5d4e6ec1611cdd20117d818e3) - 2026-11-17
+* [Review] [Review on: Add payload consistency checks to envelope gossip validation](https://github.com/Consensys-Incorporated/teku/pull/11650#pullrequestreview-5963969407) - 2026-11-18
 ## Q3 2026
 
 

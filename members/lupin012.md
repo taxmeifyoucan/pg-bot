@@ -209,6 +209,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [.github/workflows: show the rows by method and by subscription measure in RPC Performance Tests Latest (#26474)](https://github.com/erigontech/erigon/commit/cfc09e273de2ddc085e1cf57b07c5b743169c245) - 2026-11-17
 * [Commit] [.github/workflows: add eth_subscribe to RPC Performance Tests Latest (#26361)](https://github.com/erigontech/erigon/commit/0ba26a7b759ca4405604eba98beb82a6572b9ec0) - 2026-11-17
 * [Commit] [.github/workflows: fail RPC Performance Tests Latest only for Erigon (#26424)](https://github.com/erigontech/erigon/commit/bb351d337aeebd0234affbd8971df9fb6adbe042) - 2026-11-17
+* [Review] [Review on: rpc/transactions: ComputeBlockContext builds the versioned state](https://github.com/erigontech/erigon/pull/26504#pullrequestreview-5965537155) - 2026-11-18
+* [Commit] [rpc/jsonrpc, db/rawdb: read eth_getBlockReceipts cached receipts while the block is read (#26420)](https://github.com/erigontech/erigon/commit/6bf4671193461f107607b5a2f6ee2c3752de51d4) - 2026-11-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

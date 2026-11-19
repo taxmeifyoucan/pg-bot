@@ -60,6 +60,8 @@ Team: Codex DAS
 * [Commit] [.github/workflows: run the PR format check on reopened PRs (#36148)](https://github.com/ethereum/go-ethereum/commit/a07c69b682e18b1dd2577a674f4985368acec1c0) - 2026-11-16
 * [Commit] [accounts/keystore: send wallet events in the order they are computed (#36099)](https://github.com/ethereum/go-ethereum/commit/789a2dbbb35962f16680ea0f2cd84a356871f962) - 2026-11-17
 * [Commit] [beacon/light/sync: drop a rejected committee update response from the queue (#35879)](https://github.com/ethereum/go-ethereum/commit/6c653699cd300ee035961da5c7a6f001017a17c3) - 2026-11-17
+* [Pull Request] [triedb/pathdb: delete stale journal in Recover](https://github.com/ethereum/go-ethereum/pull/36041) - 2026-11-19
+* [Commit] [triedb/pathdb: delete stale journal in Recover (#36041)](https://github.com/ethereum/go-ethereum/commit/07df1296edbeb4b3eaed29176f2bce112caadc62) - 2026-11-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08

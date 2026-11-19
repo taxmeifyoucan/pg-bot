@@ -290,6 +290,43 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: fix(optimism): match op-node's snappy decoding in the CL gossip message ID and validator](https://github.com/NethermindEth/nethermind/pull/16040#pullrequestreview-5943592015) - 2026-11-17
 * [Review] [Review on: fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004#pullrequestreview-5934549126) - 2026-11-17
 * [Commit] [fix(evm): report the code of an account at a precompile address in EXTCODESIZE and EXTCODECOPY (#15988)](https://github.com/NethermindEth/nethermind/commit/e78c9e57d6bb24e8e65f237e67d0e043f280a191) - 2026-11-17
+* [Review] [Review on: perf(zkevm): skip flattening empty SSZ execution requests](https://github.com/NethermindEth/nethermind/pull/16086#pullrequestreview-5960347518) - 2026-11-18
+* [Pull Request] [fix(sync): resume header sync at the pivot and reject an unexpected first header](https://github.com/NethermindEth/nethermind/pull/16112) - 2026-11-18
+* [Review] [Review on: fix(sync): resume header sync at the pivot and reject an unexpected first header](https://github.com/NethermindEth/nethermind/pull/16112#pullrequestreview-5965048058) - 2026-11-18
+* [Pull Request] [fix(trie): uncount a cached persisted node when a committed node replaces it](https://github.com/NethermindEth/nethermind/pull/16111) - 2026-11-18
+* [Pull Request] [test(merge): make Engine API tests test what they name](https://github.com/NethermindEth/nethermind/pull/16098) - 2026-11-18
+* [Review] [Review on: test(merge): make Engine API tests test what they name](https://github.com/NethermindEth/nethermind/pull/16098#pullrequestreview-5961675794) - 2026-11-18
+* [Pull Request] [fix(runner): exit 143 on SIGTERM and fix shutdown edge cases](https://github.com/NethermindEth/nethermind/pull/16113) - 2026-11-18
+* [Pull Request] [fix(keystore): write only the KDF the key was derived with](https://github.com/NethermindEth/nethermind/pull/16066) - 2026-11-18
+* [Review] [Review on: fix(keystore): write only the KDF the key was derived with](https://github.com/NethermindEth/nethermind/pull/16066#pullrequestreview-5954406827) - 2026-11-18
+* [Pull Request] [ci(hive): fail the job when the client launch test fails](https://github.com/NethermindEth/nethermind/pull/16073) - 2026-11-18
+* [Review] [Review on: ci(hive): fail the job when the client launch test fails](https://github.com/NethermindEth/nethermind/pull/16073#pullrequestreview-5961689801) - 2026-11-18
+* [Review] [Review on: perf(zkevm): look up verified recovery hints in execution order](https://github.com/NethermindEth/nethermind/pull/16081#pullrequestreview-5960723067) - 2026-11-18
+* [Review] [Review on: perf(zkevm): allow trusted input conversion without recovery hints](https://github.com/NethermindEth/nethermind/pull/16078#pullrequestreview-5960713047) - 2026-11-18
+* [Pull Request] [fix(merge): small Engine API, payload preparation and beacon sync fixes](https://github.com/NethermindEth/nethermind/pull/16094) - 2026-11-18
+* [Pull Request] [fix(sync): state sync progress, counters and storage node priority](https://github.com/NethermindEth/nethermind/pull/16074) - 2026-11-18
+* [Review] [Review on: fix(sync): state sync progress, counters and storage node priority](https://github.com/NethermindEth/nethermind/pull/16074#pullrequestreview-5955315965) - 2026-11-18
+* [Pull Request] [fix(rpc): correct the batch response limit error, accessor methods and recorder rotation](https://github.com/NethermindEth/nethermind/pull/16068) - 2026-11-18
+* [Pull Request] [fix(db): monitor symlinked database disks and parse key files per line](https://github.com/NethermindEth/nethermind/pull/16071) - 2026-11-18
+* [Review] [Review on: fix(db): monitor symlinked database disks and parse key files per line](https://github.com/NethermindEth/nethermind/pull/16071#pullrequestreview-5954913516) - 2026-11-18
+* [Pull Request] [fix(sync): pooled list disposal and pre-merge peer choice](https://github.com/NethermindEth/nethermind/pull/16088) - 2026-11-18
+* [Review] [Review on: fix(sync): pooled list disposal and pre-merge peer choice](https://github.com/NethermindEth/nethermind/pull/16088#pullrequestreview-5961675280) - 2026-11-18
+* [Pull Request] [fix(rpc): trace_call with reward types, relay client retries, receipts span leak](https://github.com/NethermindEth/nethermind/pull/16070) - 2026-11-18
+* [Review] [Review on: fix(rpc): trace_call with reward types, relay client retries, receipts span leak](https://github.com/NethermindEth/nethermind/pull/16070#pullrequestreview-5954408210) - 2026-11-18
+* [Review] [Review on: fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052#pullrequestreview-5956659660) - 2026-11-18
+* [Pull Request] [fix(rpc): gas price cache race, signature input errors, subscription and node info fixes](https://github.com/NethermindEth/nethermind/pull/16069) - 2026-11-18
+* [Review] [Review on: fix(rpc): gas price cache race, signature input errors, subscription and node info fixes](https://github.com/NethermindEth/nethermind/pull/16069#pullrequestreview-5957291592) - 2026-11-18
+* [Issue] [`trace_replayBlockTransactions` with `all` returns invalid JSON in stream mode on a block that pays a reward](https://github.com/NethermindEth/nethermind/issues/16085) - 2026-11-18
+* [Issue] [Tests: `TestBlockchain` transfer builders sign transactions before setting their fields](https://github.com/NethermindEth/nethermind/issues/16084) - 2026-11-18
+* [Issue] [Ethash: `Mining.Enabled` starts no block producer on an Ethash chain](https://github.com/NethermindEth/nethermind/issues/16082) - 2026-11-18
+* [Commit] [fix(merge): small Engine API, payload preparation and beacon sync fixes (#16094)](https://github.com/NethermindEth/nethermind/commit/634a8534e223134eb0ebf68e8a3fdb95c89bf243) - 2026-11-18
+* [Commit] [fix(sync): state sync progress, counters and storage node priority (#16074)](https://github.com/NethermindEth/nethermind/commit/88934b6ea2c54202c1356691d4399b23d1eadd63) - 2026-11-18
+* [Commit] [fix(rpc): correct the batch response limit error, accessor methods and recorder rotation (#16068)](https://github.com/NethermindEth/nethermind/commit/3703f4719b5c6539eda5325aa21e9ee855eafcca) - 2026-11-18
+* [Commit] [fix(db): monitor symlinked database disks and parse key files per line (#16071)](https://github.com/NethermindEth/nethermind/commit/76ef4a82e0304cedea20164833acad8ff428004f) - 2026-11-18
+* [Commit] [fix(network): deliver static and trusted nodes exactly once, create bare-named node files, keep short version suffixes (#16076)](https://github.com/NethermindEth/nethermind/commit/6cb2d5038e0da5eb9ccb11d986edcc1a7157db66) - 2026-11-18
+* [Commit] [fix(rpc): keep the eth_feeHistory cache cleanup running (#16065)](https://github.com/NethermindEth/nethermind/commit/97fa6afcddcabaf75cd1401e54d14b236235feb6) - 2026-11-18
+* [Commit] [fix(rpc): honour prevRandao block overrides on pre-merge blocks from London on (#16064)](https://github.com/NethermindEth/nethermind/commit/291cb7208fbda02ec979e167efa28e33c9f1c0d0) - 2026-11-18
+* [Commit] [fix(optimism): match op-node's snappy decoding in the CL gossip message ID and validator (#16040)](https://github.com/NethermindEth/nethermind/commit/6f9f9f1d0eafd6e443887fbfc5c8b096cf8313e7) - 2026-11-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

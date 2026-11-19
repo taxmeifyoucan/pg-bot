@@ -139,6 +139,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(ci): reclaim EXPB runner disk and pin master images per commit](https://github.com/NethermindEth/nethermind/pull/16004#pullrequestreview-5940902254) - 2026-11-17
 * [Commit] [ci(zkevm): generate guest verification keys with ere 0.20.1 (#16027)](https://github.com/NethermindEth/nethermind/commit/5b1f56b451c971fd63b1483148d92cebafd1a9c0) - 2026-11-17
 * [Commit] [ci(zkevm): run the benchmark fixtures on tests-zkevm-benchmark@v21.0.7 (#16026)](https://github.com/NethermindEth/nethermind/commit/10f665e260b3ce5a2dd084697c022740dd19497b) - 2026-11-17
+* [Pull Request] [ci(zkevm): test the guests on invalid tests-zkevm blocks nightly and before releases](https://github.com/NethermindEth/nethermind/pull/16109) - 2026-11-18
+* [Review] [Review on: ci(zkevm): test the guests on invalid tests-zkevm blocks nightly and before releases](https://github.com/NethermindEth/nethermind/pull/16109#pullrequestreview-5966582867) - 2026-11-18
+* [Review] [Review on: fix(runner): exit 143 on SIGTERM and fix shutdown edge cases](https://github.com/NethermindEth/nethermind/pull/16113#pullrequestreview-5965198898) - 2026-11-18
+* [Pull Request] [refactor(network)!: give sessions a transport-neutral connection instead of the DotNetty channel](https://github.com/NethermindEth/nethermind/pull/16103) - 2026-11-18
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

@@ -85,6 +85,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: retain inclusion lists one slot past the request window](https://github.com/ChainSafe/lodestar/pull/10507#pullrequestreview-5940979407) - 2026-11-17
 * [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5940735744) - 2026-11-17
 * [Pull Request] [fix(fork-choice): run every fallible step of a handler before its first write](https://github.com/ChainSafe/lodestar/pull/10643) - 2026-11-17
+* [Review] [Review on: feat: start the native fork choice from an unfinalized state](https://github.com/ChainSafe/lodestar/pull/10653#pullrequestreview-5963455737) - 2026-11-18
+* [Pull Request] [fix(fork-choice): port #10614 verdict rule to the Zig store](https://github.com/ChainSafe/lodestar/pull/10651) - 2026-11-18
+* [Review] [Review on: feat: use native state transition by default](https://github.com/ChainSafe/lodestar/pull/10624#pullrequestreview-5959310407) - 2026-11-18
+* [Review] [Review on: refactor(fork-choice): drop the head cache fields other state already holds](https://github.com/ChainSafe/lodestar/pull/10648#pullrequestreview-5955931782) - 2026-11-18
+* [Review] [Review on: refactor(fork-choice): define the node id once, next to ForkChoiceNode](https://github.com/ChainSafe/lodestar/pull/10647#pullrequestreview-5955855873) - 2026-11-18
+* [Review] [Review on: feat: run the native fork choice store behind `--chain.nativeForkChoice`](https://github.com/ChainSafe/lodestar/pull/10584#pullrequestreview-5954881424) - 2026-11-18
+* [Review] [Review on: fix(fork-choice): run every fallible step of a handler before its first write](https://github.com/ChainSafe/lodestar/pull/10636#pullrequestreview-5952855066) - 2026-11-18
+* [Review] [Review on: perf: visit only the queued validators when a tick applies queued votes](https://github.com/ChainSafe/lodestar/pull/10644#pullrequestreview-5952706019) - 2026-11-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

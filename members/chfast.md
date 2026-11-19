@@ -134,6 +134,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: skip the marker check for an account without a destruct (#26430)](https://github.com/erigontech/erigon/commit/ede283812644642aef47b592ccb63d5a6489aaa8) - 2026-11-18
 * [Commit] [execution/state: check a non-zero balance read at a destruct against the balance cell (#26477)](https://github.com/erigontech/erigon/commit/079c0fac477cd4b378b1bb6d8d9993916faab928) - 2026-11-18
 * [Commit] [execution/state, execution/stagedsync: keep the access list's value of a write that a re-run drops (#26395)](https://github.com/erigontech/erigon/commit/44962a3b3fddea3b29e0d7f99a363d6da2dfbb68) - 2026-11-17
+* [Pull Request] [execution/state: publish the net effect of a create and destruct over an existing account](https://github.com/erigontech/erigon/pull/26491) - 2026-11-18
+* [Issue] [execution/state: keep a same-tx create and destroy internal before EIP-8246, and trim the reader-side handling](https://github.com/erigontech/erigon/issues/26515) - 2026-11-18
+* [Issue] [execution/state: an equal-value flush keeps a seeded cell Done and rewrites its status](https://github.com/erigontech/erigon/issues/26514) - 2026-11-18
+* [Commit] [execution/state: publish the net effect of a create and destruct over an existing account (#26491)](https://github.com/erigontech/erigon/commit/e4a847f68fbb992d2b6739eead9b372d42460963) - 2026-11-19
+* [Commit] [execution/state: merge the creation's storage checks and extract validateBalanceAtDestruct (#26492)](https://github.com/erigontech/erigon/commit/9df95f25f47ba9c216cd6f90413b4778d55cb0ab) - 2026-11-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -246,6 +251,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [SIGNEXTEND: branches on the byte index](https://github.com/ipsilon/evmone/issues/1818) - 2026-11-17
 * [Commit] [test: Avoid copying RLP-encoded strings (#1816)](https://github.com/ipsilon/evmone/commit/0a50c913b5bf862553a93c0b9b81b2ef96cfb6ff) - 2026-11-17
 * [Commit] [crypto: Make the secp256r1 order arithmetic static constexpr (#1821)](https://github.com/ipsilon/evmone/commit/815edd7f137c579ce6794c222a1f8887c8a73455) - 2026-11-17
+* [Pull Request] [evmone: Require exact size of EIP-7702 delegation designator](https://github.com/ipsilon/evmone/pull/1822) - 2026-11-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

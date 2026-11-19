@@ -26,6 +26,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Convert remaining crate tests to Spec](https://github.com/sigp/lighthouse/pull/10608) - 2026-11-17
 * [Pull Request] [Bump libz-sys to 1.1.33](https://github.com/sigp/lighthouse/pull/10609) - 2026-11-17
 * [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5944385927) - 2026-11-17
+* [Pull Request] [Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619) - 2026-11-18
+* [Pull Request] [Move new `beacon_node` tests to Spec](https://github.com/sigp/lighthouse/pull/10618) - 2026-11-18
 ## Q3 2026
 
 

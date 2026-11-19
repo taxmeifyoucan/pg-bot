@@ -101,6 +101,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Report the head's inclusion list verdict in `engine_forkchoiceUpdatedV5`](https://github.com/besu-eth/besu/pull/11532) - 2026-10-08
 * [Pull Request] [Check blob inclusion list entries for appendability (FOCIL)](https://github.com/besu-eth/besu/pull/11553) - 2026-10-10
 * [Pull Request] [Align evmtool block-test and engine-test with the client runner spec](https://github.com/besu-eth/besu/pull/11842) - 2026-11-02
+* [Review] [Review on: Align evmtool block-test and engine-test with the client runner spec](https://github.com/besu-eth/besu/pull/11842#pullrequestreview-5965799134) - 2026-11-18
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/stagedsync: run a single exec worker when one is configured](https://github.com/erigontech/erigon/pull/24594) - 2026-10-05
 * [Commit] [execution/stagedsync: run a single exec worker when one is configured (#24594)](https://github.com/erigontech/erigon/commit/83e0334e1dad7ea949e1c3c87c6ff0d565df1bb1) - 2026-10-07
@@ -123,6 +124,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/evm, core, eth, tests: add enginetest and EEST runner flags](https://github.com/ethereum/go-ethereum/pull/36111) - 2026-11-11
 
+* [Review] [Review on: cmd/evm, core, eth, tests: add enginetest and EEST runner flags](https://github.com/ethereum/go-ethereum/pull/36111#pullrequestreview-5962195689) - 2026-11-18
+* [Commit] [cmd/evm, core, eth, tests: add enginetest and EEST runner flags (#36111)](https://github.com/ethereum/go-ethereum/commit/5d9347be2882eb8894ddedf58c762f18fc9796a9) - 2026-11-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Add an EEST blocktest and enginetest runner](https://github.com/status-im/nimbus-eth1/pull/5150) - 2026-11-11
 * [Commit] [Add an EEST blocktest and enginetest runner (#5150)](https://github.com/status-im/nimbus-eth1/commit/82770c969ce214ea1a90ec7d6da8a948b01ec796) - 2026-11-13

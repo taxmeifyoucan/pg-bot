@@ -133,6 +133,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(tracing): close JavaScript and standard-file tracer Low parity gaps](https://github.com/NethermindEth/nethermind/pull/15958#pullrequestreview-5945259648) - 2026-11-17
 * [Review] [Review on: fix(benchmark): give the runner a .NET 11 job](https://github.com/NethermindEth/nethermind/pull/16024#pullrequestreview-5945747259) - 2026-11-17
 * [Review] [Review on: fix(db): dispose read options and snapshots only after pinned reads end](https://github.com/NethermindEth/nethermind/pull/16028#pullrequestreview-5946228637) - 2026-11-17
+* [Review] [Review on: fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052#pullrequestreview-5957391162) - 2026-11-18
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

@@ -754,6 +754,22 @@ Team: Reth
 * [Commit] [chore(deps): drop humantime and chrono deny ignores (#28593)](https://github.com/paradigmxyz/reth/commit/4f7533410a57cf64f42318b815353b66273d6489) - 2026-11-17
 * [Commit] [chore(deps): drop chrono and rolling-file (#28591)](https://github.com/paradigmxyz/reth/commit/f9230d40b8b51af1408ec15c7f5804e86dfbee32) - 2026-11-17
 * [Commit] [chore(deps): replace humantime with jiff (#28586)](https://github.com/paradigmxyz/reth/commit/7e09b3c4827ddcf84eddf57425ae3e0956b7add0) - 2026-11-17
+* [Review] [Review on: fix(provider): respect changeset range bounds](https://github.com/paradigmxyz/reth/pull/28601#pullrequestreview-5957559518) - 2026-11-18
+* [Pull Request] [fix(download): retry range probes answered with 200](https://github.com/paradigmxyz/reth/pull/28611) - 2026-11-18
+* [Review] [Review on: perf(download): extract archives while they download](https://github.com/paradigmxyz/reth/pull/28596#pullrequestreview-5964846511) - 2026-11-18
+* [Review] [Review on: perf(download): write pieces to the .part file in 8 MiB blocks](https://github.com/paradigmxyz/reth/pull/28595#pullrequestreview-5964846121) - 2026-11-18
+* [Pull Request] [feat(rpc): select the transaction filter per validation request](https://github.com/paradigmxyz/reth/pull/28612) - 2026-11-18
+* [Review] [Review on: refactor: build overlays from in-memory state](https://github.com/paradigmxyz/reth/pull/28603#pullrequestreview-5960533313) - 2026-11-18
+* [Pull Request] [ci: bump nightly to 2026-11-18](https://github.com/paradigmxyz/reth/pull/28608) - 2026-11-18
+* [Pull Request] [chore: fix new nightly clippy lints](https://github.com/paradigmxyz/reth/pull/28607) - 2026-11-18
+* [Review] [Review on: deps: update evm2 to 35aa328 (2026-11-18)](https://github.com/paradigmxyz/reth/pull/28577#pullrequestreview-5959359284) - 2026-11-18
+* [Review] [Review on: perf(rpc): sample oracle tips in one pass](https://github.com/paradigmxyz/reth/pull/28600#pullrequestreview-5957559201) - 2026-11-18
+* [Pull Request] [fix(rpc): cap unlimited batches by the request size](https://github.com/paradigmxyz/reth/pull/28604) - 2026-11-18
+* [Commit] [fix(rpc): lift Amsterdam tx gas caps for eth_call (#28583)](https://github.com/paradigmxyz/reth/commit/3e515ff38cd8ac417bad7e93611346181992e8c9) - 2026-11-18
+* [Commit] [ci: bump nightly to 2026-11-18 (#28608)](https://github.com/paradigmxyz/reth/commit/c99e177ca31b29b74cceaa8e902fda75d2e4575e) - 2026-11-18
+* [Commit] [chore: fix new nightly clippy lints (#28607)](https://github.com/paradigmxyz/reth/commit/8f474b446b17aefc8aae5497039df1527ba50607) - 2026-11-18
+* [Commit] [fix(rpc): bound simulateV1 request parsing (#27918)](https://github.com/paradigmxyz/reth/commit/725f1b77731f3981bfe1cd0864068f0561aa8097) - 2026-11-18
+* [Commit] [fix(rpc): cap unlimited batches by the request size (#28604)](https://github.com/paradigmxyz/reth/commit/fad9eb60911a86ed6af3b8872833d74a55c0405a) - 2026-11-18
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -72,6 +72,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: ✨ feat(test-types): P256 signing utility](https://github.com/ethereum/execution-specs/pull/3961#pullrequestreview-5917874359) - 2026-11-16
 * [Review] [Review on: fix(tests): skip genesis blockhash test in execute mode](https://github.com/ethereum/execution-specs/pull/3981#pullrequestreview-5917581587) - 2026-11-16
 * [Commit] [feat(test-benchmark): support invalid-block benchmarks (#3823)](https://github.com/ethereum/execution-specs/commit/990dc8a6af4cf4246032b12e6713e4b20eb9d562) - 2026-11-16
+* [Pull Request] [feat(test-benchmark): benchmark blocks rejected for a false BAL](https://github.com/ethereum/execution-specs/pull/4019) - 2026-11-18
+* [Pull Request] [feat(ci): add fill-stateful E2E job to hive execute workflow](https://github.com/ethereum/execution-specs/pull/4018) - 2026-11-18
 ## Q3 2026
 
 

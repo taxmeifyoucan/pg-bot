@@ -97,6 +97,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(txpool)!: split the mempool form out of Transaction into MempoolTransaction](https://github.com/NethermindEth/nethermind/pull/16006#pullrequestreview-5932846434) - 2026-11-17
 * [Review] [Review on: fix(sync): delete the storage of accounts that a healed state node removes](https://github.com/NethermindEth/nethermind/pull/16000#pullrequestreview-5933116485) - 2026-11-17
 * [Commit] [perf(sync): use AccountStruct in flat raw persistence and snap messages (#15876)](https://github.com/NethermindEth/nethermind/commit/270cbfc94b6cab4b3d0f356d56746371f2ef21be) - 2026-11-18
+* [Commit] [feat(flat): migrate the pruning trie state to flat while the node runs (#15638)](https://github.com/NethermindEth/nethermind/commit/de50869e1287dc02d67aee243f75ae20d2d4b7bd) - 2026-11-18
 ## Q3 2026
 
 

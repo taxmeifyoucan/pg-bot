@@ -130,6 +130,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Make plugin startup failure and shutdown safe (#11639)](https://github.com/besu-eth/besu/pull/11975#pullrequestreview-5936084575) - 2026-11-17
 * [Review] [Review on: Penalise transactions not successfully selected within the block period (sequenced pool only)](https://github.com/besu-eth/besu/pull/11681#pullrequestreview-5942079019) - 2026-11-17
 * [Review] [Review on: Include datatypes in the Plugin API compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-5937021938) - 2026-11-17
+* [Review] [Review on: Make plugin startup failure and shutdown safe (#11639)](https://github.com/besu-eth/besu/pull/11975#pullrequestreview-5953109045) - 2026-11-18
+* [Review] [Review on: Penalise transactions not successfully selected within the block period (sequenced pool only)](https://github.com/besu-eth/besu/pull/11681#pullrequestreview-5958313241) - 2026-11-18
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

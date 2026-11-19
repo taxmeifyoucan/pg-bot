@@ -44,6 +44,12 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [test(zkevm): test the collapse onto an extension on a real parent state](https://github.com/ethereum/execution-specs/pull/4011) - 2026-11-16
 * [Pull Request] [feat(zkevm): add stateless validation to the bogota fork](https://github.com/ethereum/execution-specs/pull/4009) - 2026-11-16
 * [Issue] [Replace `remerkleable` with `eth-ssz-specs` for SSZ](https://github.com/ethereum/execution-specs/issues/4013) - 2026-11-16
+* [Pull Request] [feat(ci): release the zkEVM tests and benchmarks together](https://github.com/ethereum/execution-specs/pull/4024) - 2026-11-18
+* [Pull Request] [feat(ci): compare the witness tests in the benchmark fill parity check](https://github.com/ethereum/execution-specs/pull/4022) - 2026-11-18
+* [Pull Request] [feat(zkevm): fill tests-zkevm-benchmark with Ethrex](https://github.com/ethereum/execution-specs/pull/4020) - 2026-11-18
+* [Pull Request] [feat(test-client-clis): add an Ethrex transition tool](https://github.com/ethereum/execution-specs/pull/4021) - 2026-11-18
+* [Review] [Review on: feat(test-client-clis): add an Ethrex transition tool](https://github.com/ethereum/execution-specs/pull/4021#pullrequestreview-5956908575) - 2026-11-18
+* [Commit] [feat(test-client-clis): add an Ethrex transition tool (#4021)](https://github.com/ethereum/execution-specs/commit/4cab90a7a9dcf071a56fb78a23f3d68165d47ccf) - 2026-11-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 
@@ -74,6 +80,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(openvm): build `rust-customized` guests with `openvm-1.97.1`](https://github.com/eth-act/ere/pull/478) - 2026-11-17
 * [Review] [Review on: feat(openvm): build `rust-customized` guests with `openvm-1.97.1`](https://github.com/eth-act/ere/pull/478#pullrequestreview-5943904132) - 2026-11-17
 * [Commit] [feat(openvm): build `rust-customized` guests with `openvm-1.97.1` (#478)](https://github.com/eth-act/ere/commit/503ad51a861d88ccbb3aa840cb42320f577c36ab) - 2026-11-18
+* [Review] [Review on: feat(openvm): build `rust-customized` guests with `openvm-1.97.1`](https://github.com/eth-act/ere/pull/478#pullrequestreview-5955339852) - 2026-11-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #09, October 14, 2026](https://github.com/ethereum/pm/issues/2269) - 2026-10-12
 

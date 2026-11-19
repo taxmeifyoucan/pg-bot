@@ -59,6 +59,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [feat(zkevm): require the delegate's code even when it is a single STOP](https://github.com/ethereum/execution-specs/pull/3791) - 2026-10-12
 * [Pull Request] [feat(tests): EIP-8025 - require the SYSTEM_ADDRESS proof when a block reads it](https://github.com/ethereum/execution-specs/pull/3770) - 2026-10-12
 * [Pull Request] [feat(zkevm): require a delegation marker whose write was rolled back](https://github.com/ethereum/execution-specs/pull/3820) - 2026-10-13
+* [Pull Request] [feat(zkevm): delete and insert under one branch without resolving the sibling](https://github.com/ethereum/execution-specs/pull/4030) - 2026-11-19
 ## Q3 2026
 
 

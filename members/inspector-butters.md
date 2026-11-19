@@ -43,6 +43,12 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Keep cached LC updates when migration to cold storage fails](https://github.com/OffchainLabs/prysm/pull/17883) - 2026-11-16
 * [Commit] [fix gloas light client gossip timing (#17886)](https://github.com/OffchainLabs/prysm/commit/d06cb8767f3a845d1c8f5949dc77b0009a4c8f11) - 2026-11-17
 * [Commit] [Fix overflow in LC REST handler (#17884)](https://github.com/OffchainLabs/prysm/commit/278c951215465f42eeb0bd623fdef26feadb8685) - 2026-11-17
+* [Review] [Review on: Update changelog for v7.3.2](https://github.com/OffchainLabs/prysm/pull/17889#pullrequestreview-5960260102) - 2026-11-18
+* [Pull Request] [add hdiff kv metrics](https://github.com/OffchainLabs/prysm/pull/17893) - 2026-11-18
+* [Pull Request] [add stategen metrics](https://github.com/OffchainLabs/prysm/pull/17892) - 2026-11-18
+* [Pull Request] [Metrics for archive node and backfill progress](https://github.com/OffchainLabs/prysm/pull/17891) - 2026-11-18
+* [Pull Request] [Hdiff state look up metrics](https://github.com/OffchainLabs/prysm/pull/17890) - 2026-11-18
+* [Commit] [Fix LC P2P request decoding for bootstrap and updates-by-range (#17885)](https://github.com/OffchainLabs/prysm/commit/8a92e7f7da94ca380488f931f0c315a2363f3f09) - 2026-11-18
 ## Q3 2026
 
 

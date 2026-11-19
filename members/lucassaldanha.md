@@ -117,6 +117,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Update AGENTS.md](https://github.com/Consensys-Incorporated/teku/pull/11647) - 2026-11-18
 * [Review] [Review on: Write generated secret files readable only by their owner](https://github.com/Consensys-Incorporated/teku/pull/11617#pullrequestreview-5947461053) - 2026-11-17
 * [Commit] [Update AGENTS.md (#11647)](https://github.com/Consensys-Incorporated/teku/commit/f0fb28f106668976eb772f39225522aae7de13cc) - 2026-11-18
+* [Review] [Review on: Harden slashing protection interchange imports](https://github.com/Consensys-Incorporated/teku/pull/11645#pullrequestreview-5968456114) - 2026-11-19
+* [Review] [Review on: Reject MAX_VALUE slots and epochs in slashing protection imports](https://github.com/Consensys-Incorporated/teku/pull/11643#pullrequestreview-5968453561) - 2026-11-19
+* [Review] [Review on: Sync parent directory after durable file writes](https://github.com/Consensys-Incorporated/teku/pull/11648#pullrequestreview-5968477022) - 2026-11-19
+* [Review] [Review on: Refuse to sign when the concurrent slashing record read fails](https://github.com/Consensys-Incorporated/teku/pull/11637#pullrequestreview-5951406867) - 2026-11-18
+* [Review] [Review on: Add EIP-8483 PQ registration fork on top of Gloas](https://github.com/Consensys-Incorporated/teku/pull/11649#pullrequestreview-5966671087) - 2026-11-18
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

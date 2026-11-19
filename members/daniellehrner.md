@@ -256,6 +256,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Chain same-sender transactions in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11808#pullrequestreview-5920573638) - 2026-11-16
 * [Commit] [Chain same-sender transactions in the optimistic parallel processor (#11808)](https://github.com/besu-eth/besu/commit/8d92f3b319e039e69c675b39f850195209563944) - 2026-11-16
 * [Review] [Review on: [3/5] snap/2 sorted ingest: merge the small bottom-level files a RocksDB bulk load leaves](https://github.com/besu-eth/besu/pull/11854#pullrequestreview-5937901080) - 2026-11-17
+* [Pull Request] [snap/2: apply EIP-8298 hash-form code changes in pivot moves](https://github.com/besu-eth/besu/pull/11999) - 2026-11-18
+* [Review] [Review on: Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811#pullrequestreview-5957074492) - 2026-11-18
+* [Review] [Review on: Remove logging from transaction processing downwards](https://github.com/besu-eth/besu/pull/11919#pullrequestreview-5955531012) - 2026-11-18
+* [Review] [Review on: [3/5] snap/2 sorted ingest: merge the small bottom-level files a RocksDB bulk load leaves](https://github.com/besu-eth/besu/pull/11854#pullrequestreview-5951748341) - 2026-11-18
+* [Review] [Review on: [#11715] EVM v2: read CALLDATALOAD words from a byte array on the frame](https://github.com/besu-eth/besu/pull/11875#pullrequestreview-5951630402) - 2026-11-18
+* [Commit] [[3/5] snap/2 sorted ingest: merge the small bottom-level files a RocksDB bulk load leaves (#11854)](https://github.com/besu-eth/besu/commit/4593efb23ddac4a56b3a41e613677b1bc94f3359) - 2026-11-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

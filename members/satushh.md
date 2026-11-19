@@ -79,6 +79,10 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Mark attester slashings seen before inserting them into the pool](https://github.com/OffchainLabs/prysm/pull/17888) - 2026-11-17
 * [Pull Request] [Use the payload parent hash when pruning after an INVALID payload](https://github.com/OffchainLabs/prysm/pull/17887) - 2026-11-17
 * [Commit] [Mark proposer slashings seen before inserting them into the pool (#17861)](https://github.com/OffchainLabs/prysm/commit/fe3968ba52665e2b03f3e3c657c36913459b850d) - 2026-11-17
+* [Review] [Review on: Update changelog for v7.3.2](https://github.com/OffchainLabs/prysm/pull/17889#pullrequestreview-5960299962) - 2026-11-18
+* [Pull Request] [Check attester slashing slashability before verifying signatures](https://github.com/OffchainLabs/prysm/pull/17896) - 2026-11-18
+* [Pull Request] [Read each requested data column once in by-root responses](https://github.com/OffchainLabs/prysm/pull/17895) - 2026-11-18
+* [Pull Request] [Skip the file mutex in data column Get when nothing is stored](https://github.com/OffchainLabs/prysm/pull/17894) - 2026-11-18
 ## Q3 2026
 
 

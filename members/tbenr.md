@@ -124,6 +124,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Respect latest valid hash for INVALID Gloas payloads on optimistic chains](https://github.com/Consensys-Incorporated/teku/pull/11641#pullrequestreview-5936573995) - 2026-11-17
 * [Review] [Review on: Read validator views of the packed registry from the supernode bytes](https://github.com/Consensys-Incorporated/teku/pull/11627#pullrequestreview-5936351382) - 2026-11-17
 * [Commit] [Read validator views of the packed registry from the supernode bytes (#11627)](https://github.com/Consensys-Incorporated/teku/commit/cd34322b9448e772862989c42968e3cf9429db92) - 2026-11-17
+* [Review] [Review on: Reject attestation data with a target epoch not matching its slot](https://github.com/Consensys-Incorporated/teku/pull/11646#pullrequestreview-5952842943) - 2026-11-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

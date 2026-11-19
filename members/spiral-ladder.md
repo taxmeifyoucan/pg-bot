@@ -101,6 +101,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [perf: keep chunked leaf storage in a slab (#10622)](https://github.com/ChainSafe/lodestar/commit/6375077e13c581360eb8199ac7de39a67367000c) - 2026-11-16
 * [Review] [Review on: feat: bundle a native addon per preset](https://github.com/ChainSafe/lodestar/pull/10637#pullrequestreview-5935900079) - 2026-11-17
 * [Review] [Review on: feat!: prune history by default](https://github.com/ChainSafe/lodestar/pull/10625#pullrequestreview-5946358274) - 2026-11-17
+* [Review] [Review on: fix: remove rejected blocks from seen cache in publishBlockV2](https://github.com/ChainSafe/lodestar/pull/10606#pullrequestreview-5958410479) - 2026-11-18
+* [Review] [Review on: fix: leave peer headroom for small targetPeers values](https://github.com/ChainSafe/lodestar/pull/10658#pullrequestreview-5964447235) - 2026-11-18
+* [Review] [Review on: perf: verify attestation signatures against cached committee pubkeys](https://github.com/ChainSafe/lodestar/pull/10568#pullrequestreview-5958832737) - 2026-11-18
+* [Pull Request] [fix: make pubkey cache only cache finalized pubkeys](https://github.com/ChainSafe/lodestar/pull/10649) - 2026-11-18
+* [Review] [Review on: refactor!: add lodestar prefix and seconds suffix to metrics](https://github.com/ChainSafe/lodestar/pull/10616#pullrequestreview-5955681896) - 2026-11-18
+* [Review] [Review on: feat: allow builders one bid per ETH of balance for a slot and parent](https://github.com/ChainSafe/lodestar/pull/10597#pullrequestreview-5955405955) - 2026-11-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -145,6 +151,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 
+* [Review] [Review on: Use message slots for sync committee gossip selection](https://github.com/ethereum/consensus-specs/pull/5838#pullrequestreview-5956314868) - 2026-11-18
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Pull Request] [fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448) - 2026-10-09
 * [Commit] [fix: drop dead code when merging the ELF verifier archive (#448)](https://github.com/eth-act/ere/commit/c65b53172f9a9eeb3b81d05b5ef29f0432570c7f) - 2026-10-10

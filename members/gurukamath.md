@@ -44,6 +44,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Harmonise errors thrown on Frame transaction validity checks](https://github.com/ethereum/execution-specs/issues/3970) - 2026-11-09
 * [Pull Request] [feat(spec-specs,tests): reject EIP-8141 SENDER frames that cannot be approved](https://github.com/ethereum/execution-specs/pull/4008) - 2026-11-16
 * [Issue] [Add missing EIP-8141 frame transaction coverage](https://github.com/ethereum/execution-specs/issues/4014) - 2026-11-17
+* [Pull Request] [feat(ci): fill devnet releases through Bogota](https://github.com/ethereum/execution-specs/pull/4025) - 2026-11-18
+* [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5962810233) - 2026-11-18
+* [Review] [Review on: feat(test-types,tests): add EIP-8141 signature validation and default code tests](https://github.com/ethereum/execution-specs/pull/4017#pullrequestreview-5955327558) - 2026-11-18
+* [Issue] [Test system contract interactions with EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/issues/4023) - 2026-11-18
 ## Q3 2026
 
 

@@ -33,6 +33,10 @@ Team: Grandine
 * [Pull Request] [Updated some crates](https://github.com/grandinetech/grandine/pull/1045) - 2026-11-13
 * [Commit] [Updated Rust to 1.100.0](https://github.com/grandinetech/grandine/commit/3c8fd77591fc035c8bc753b36ed4774fa0b0c9c6) - 2026-11-13
 * [Commit] [Updated some crates](https://github.com/grandinetech/grandine/commit/8264e74889b61031e775e46b345165a065aa1267) - 2026-11-13
+* [Pull Request] [Feature/updated cross](https://github.com/grandinetech/grandine/pull/1053) - 2026-11-18
+* [Pull Request] [Use Ubuntu 26.04 docker images](https://github.com/grandinetech/grandine/pull/1052) - 2026-11-18
+* [Commit] [Updated Cross](https://github.com/grandinetech/grandine/commit/e744cd626a7167ee9927947166194301577689a0) - 2026-11-18
+* [Commit] [Use Ubuntu 26.04 docker images](https://github.com/grandinetech/grandine/commit/9f1fb7627c643231010c68166a908d4255818346) - 2026-11-18
 ## Q3 2026
 
 

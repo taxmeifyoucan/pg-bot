@@ -172,6 +172,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Avoid overflow in envelopes by range response slot check](https://github.com/OffchainLabs/prysm/pull/17859#pullrequestreview-5938091612) - 2026-11-17
 * [Review] [Review on: Pack slashings on a copy of the head state during block production](https://github.com/OffchainLabs/prysm/pull/17857#pullrequestreview-5937949773) - 2026-11-17
 * [Review] [Review on: Check finalized descendant when no fork choice blocks are missing](https://github.com/OffchainLabs/prysm/pull/17856#pullrequestreview-5937851170) - 2026-11-17
+* [Review] [Review on: Skip null entries when importing slashing protection into the minimal database](https://github.com/OffchainLabs/prysm/pull/17869#pullrequestreview-5956968243) - 2026-11-18
+* [Review] [Review on: Feed gossip aggregate attestations to the slasher](https://github.com/OffchainLabs/prysm/pull/17870#pullrequestreview-5957123485) - 2026-11-18
+* [Commit] [Request a missing block from the best peers if it is an ancestor of a block from the proposer expected by the head state. Otherwise, request it only from the peer that referenced it, and downscore that peer if it does not serve it. (#17871)](https://github.com/OffchainLabs/prysm/commit/506110a9525f75293c5ba548539fcfef9c51bfcc) - 2026-11-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

@@ -1007,6 +1007,31 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(flat): write persisted snapshots without per-entry hash and account allocations (#15953)](https://github.com/NethermindEth/nethermind/commit/dd8d4285c57fd56ba1d712978e70a880aeb9c7ba) - 2026-11-17
 * [Commit] [perf(logindex): read only log addresses and topics when building the index (#15947)](https://github.com/NethermindEth/nethermind/commit/6370559acbd85b0c5c993bf0aa56da72debee4c4) - 2026-11-17
 * [Commit] [perf(receipts): read recovered tx hashes as ValueHash256 in tx-index pruning and eth_getLogs (#15938)](https://github.com/NethermindEth/nethermind/commit/36dd22f0980cc57b7623b083f7660d68062d6a07) - 2026-11-17
+* [Review] [Review on: perf(zkevm): move the Airbender guest to libairbender 1.0.7 and the bflat images with rev8](https://github.com/NethermindEth/nethermind/pull/16097#pullrequestreview-5968019358) - 2026-11-19
+* [Pull Request] [perf(zkevm): skip flattening empty SSZ execution requests](https://github.com/NethermindEth/nethermind/pull/16086) - 2026-11-18
+* [Review] [Review on: perf(zkevm): skip flattening empty SSZ execution requests](https://github.com/NethermindEth/nethermind/pull/16086#pullrequestreview-5962544968) - 2026-11-18
+* [Pull Request] [perf(zkevm): reduce modulo a large modulus without long division on Airbender](https://github.com/NethermindEth/nethermind/pull/16117) - 2026-11-19
+* [Pull Request] [perf(zkevm): copy the Keccak state lane by lane on OpenVM](https://github.com/NethermindEth/nethermind/pull/16105) - 2026-11-18
+* [Pull Request] [perf(zkevm): run 256-bit ADD, SUB, shifts and comparisons on OpenVM's bigint extension on RV32](https://github.com/NethermindEth/nethermind/pull/16106) - 2026-11-18
+* [Review] [Review on: fix(ci): stabilize Hive, TraceStore and XDC tests](https://github.com/NethermindEth/nethermind/pull/16100#pullrequestreview-5962078324) - 2026-11-18
+* [Pull Request] [perf(zkevm): look up verified recovery hints in execution order](https://github.com/NethermindEth/nethermind/pull/16081) - 2026-11-18
+* [Review] [Review on: perf(zkevm): look up verified recovery hints in execution order](https://github.com/NethermindEth/nethermind/pull/16081#pullrequestreview-5962543959) - 2026-11-18
+* [Pull Request] [perf(zkevm): skip copying unused trusted recovery hints](https://github.com/NethermindEth/nethermind/pull/16087) - 2026-11-18
+* [Review] [Review on: perf(zkevm): skip copying unused trusted recovery hints](https://github.com/NethermindEth/nethermind/pull/16087#pullrequestreview-5962545458) - 2026-11-18
+* [Pull Request] [perf(zkevm): read misaligned trie hashes and leaf keys by words on SP1](https://github.com/NethermindEth/nethermind/pull/16096) - 2026-11-18
+* [Pull Request] [perf(zkevm): allow trusted input conversion without recovery hints](https://github.com/NethermindEth/nethermind/pull/16078) - 2026-11-18
+* [Review] [Review on: perf(zkevm): allow trusted input conversion without recovery hints](https://github.com/NethermindEth/nethermind/pull/16078#pullrequestreview-5962542292) - 2026-11-18
+* [Pull Request] [perf(zkevm): use OpenVM's instructions and aligned words on the OpenVM RV32 guest](https://github.com/NethermindEth/nethermind/pull/16104) - 2026-11-18
+* [Commit] [perf(zkevm): skip flattening empty SSZ execution requests (#16086)](https://github.com/NethermindEth/nethermind/commit/53bd9f7327f40195d4cd816df5b8d5f3b25f0db6) - 2026-11-19
+* [Commit] [perf(sync): prefetch block bodies a window ahead when serving them (#16037)](https://github.com/NethermindEth/nethermind/commit/6b332240f764bcaa2e40901019bf0067826cc398) - 2026-11-18
+* [Commit] [perf(zkevm): reuse the trusted block header hash (#16077)](https://github.com/NethermindEth/nethermind/commit/59c402a860530c9a0a6f0d2356d19959334ddad2) - 2026-11-18
+* [Commit] [perf(network): serve eth/71 block access lists from one pooled buffer (#16042)](https://github.com/NethermindEth/nethermind/commit/28076781b0bee4658edaea5f99e0f9837db04d78) - 2026-11-18
+* [Commit] [perf(snap): size the served access lists buffers up front and read little past the limit (#16034)](https://github.com/NethermindEth/nethermind/commit/added1f2b616d6390a78e90580820ed610a2d5bc) - 2026-11-18
+* [Commit] [perf(zkevm): load and store EVM words in 64-bit words on OpenVM (#16075)](https://github.com/NethermindEth/nethermind/commit/c9ab08c810b236e690909dc4b052aed69ea44b05) - 2026-11-18
+* [Commit] [perf(sync): serve GetBlockHeaders requests with a skip from batched reads (#15978)](https://github.com/NethermindEth/nethermind/commit/be87ad2dacd058c4f367611716fb4f978b887d69) - 2026-11-18
+* [Commit] [perf(zkevm): run MULMOD and ADDMOD on the OpenVM modular extension for its configured moduli (#16061)](https://github.com/NethermindEth/nethermind/commit/d14e2508abe395de50322bee7f8ca4b9a3b49b74) - 2026-11-18
+* [Commit] [fix(build): pass AccountStruct in callers missed by #15876 (#16063)](https://github.com/NethermindEth/nethermind/commit/d490e2401f1a38ebb7d0a195204ef856873d8528) - 2026-11-18
+* [Commit] [test(specs): match the bootnode parse error whatever the log masking (#16059)](https://github.com/NethermindEth/nethermind/commit/f9aac3610f1ef34c39dd62c0a41634df97dd200a) - 2026-11-18
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -1040,6 +1065,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [perf(zkvm): drop GC-only prolog zeroing on the zkVM targets](https://github.com/NethermindEth/bflat-riscv64/pull/62) - 2026-10-21
 * [Commit] [perf(zkvm): drop GC-only prolog zeroing on the zkVM targets](https://github.com/NethermindEth/bflat-riscv64/commit/c77bba88e92a83f3f3242aaf9976aaf9110db909) - 2026-10-21
 * [Review] [Review on: ci: build the image with the runtime of a dotnet-riscv run](https://github.com/NethermindEth/bflat-riscv64/pull/78#pullrequestreview-5923298323) - 2026-11-16
+* [Review] [Review on: variant: Take both targets from the dotnet-riscv build with rev8 in the riscv32 JIT](https://github.com/NethermindEth/bflat-riscv64/pull/81#pullrequestreview-5968018788) - 2026-11-19
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
@@ -1090,6 +1116,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [tests: Check the RV32 ilp32 argument boundary on Airbender](https://github.com/NethermindEth/dotnet-riscv/commit/e709a27338546e97d54992a2789867de80486c1b) - 2026-10-31
 * [Commit] [riscv32: Long codegen, delegation calls, handler convention and zkVM codegen knobs](https://github.com/NethermindEth/dotnet-riscv/commit/cbb4b72aa9438f858a68566e32c1be61793cfb2e) - 2026-10-31
 * [Pull Request] [fixup/11/upstream: perf-84 - strict alignment proves accesses through fields of promoted structs aligned](https://github.com/NethermindEth/dotnet-riscv/pull/37) - 2026-11-07
+* [Review] [Review on: fixup/11/riscv32: Emit rev8 for ReverseEndianness under JitZkRev8](https://github.com/NethermindEth/dotnet-riscv/pull/44#pullrequestreview-5968017840) - 2026-11-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

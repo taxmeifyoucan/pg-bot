@@ -93,6 +93,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5834#pullrequestreview-5921053391) - 2026-11-16
 * [Review] [Review on: Use message slots for sync committee gossip selection](https://github.com/ethereum/consensus-specs/pull/5838#pullrequestreview-5947748567) - 2026-11-17
 * [Review] [Review on: Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785#pullrequestreview-5939193892) - 2026-11-17
+* [Review] [Review on: Fix test to catch an inactive builder](https://github.com/ethereum/consensus-specs/pull/5839#pullrequestreview-5962995995) - 2026-11-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

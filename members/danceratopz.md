@@ -108,6 +108,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): merge stWalletTest, stSStoreTest and stEIP* tests](https://github.com/ethereum/execution-specs/pull/4004#pullrequestreview-5939464741) - 2026-11-17
 * [Review] [Review on: fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998#pullrequestreview-5936704445) - 2026-11-17
 * [Review] [Review on: refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999#pullrequestreview-5937841357) - 2026-11-17
+* [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5960427005) - 2026-11-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

@@ -44,6 +44,8 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Commit to a payload root in the bid and drop the envelope signature](https://github.com/ethereum/consensus-specs/pull/5820#pullrequestreview-5942106324) - 2026-11-17
+* [Pull Request] [Fix test to catch an inactive builder](https://github.com/ethereum/consensus-specs/pull/5839) - 2026-11-18
+* [Review] [Review on: Commit to a payload root in the bid and drop the envelope signature](https://github.com/ethereum/consensus-specs/pull/5820#pullrequestreview-5960173958) - 2026-11-18
 ## Q3 2026
 
 

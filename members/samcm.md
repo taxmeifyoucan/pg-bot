@@ -106,6 +106,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(libp2p): capture Goodbye reason codes from remote peers](https://github.com/ethpandaops/xatu/pull/945) - 2026-11-11
 * [Commit] [feat: mempool drop/replace events, blob tx announcements, and fix sentry txpool hashes (#946)](https://github.com/ethpandaops/xatu/commit/dc6d4e30fe2961fb8afefa6a2828dbaae842bf78) - 2026-11-11
 * [Commit] [feat(libp2p): capture Goodbye reason codes from remote peers (#945)](https://github.com/ethpandaops/xatu/commit/9843d53961938ec1d3baadca617810b3ed3f8071) - 2026-11-11
+* [Pull Request] [chore: go 1.26.11, klauspost/compress v1.20.2, andybalholm/brotli v1.2.7](https://github.com/ethpandaops/xatu/pull/951) - 2026-11-19
+* [Pull Request] [fix(cannon): sum sync committee rewards per validator](https://github.com/ethpandaops/xatu/pull/950) - 2026-11-19
+* [Issue] [cannon: sync committee reward deriver should sum rewards per validator_index (Nimbus returns one entry per committee seat)](https://github.com/ethpandaops/xatu/issues/949) - 2026-11-19
+* [Commit] [chore: go 1.26.11, klauspost/compress v1.20.2, andybalholm/brotli v1.2.7 (#951)](https://github.com/ethpandaops/xatu/commit/b970a5114bee3e9cb11049345c17a50411568ede) - 2026-11-19
+* [Commit] [fix(cannon): sum sync committee rewards per validator (#950)](https://github.com/ethpandaops/xatu/commit/24ce2f60615a62735038cccf41c4ff03880f1e5c) - 2026-11-19
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08

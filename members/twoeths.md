@@ -119,6 +119,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: apply every execution INVALID verdict to fork choice with one rule](https://github.com/ChainSafe/lodestar/pull/10614#pullrequestreview-5950589124) - 2026-11-18
 * [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5937263216) - 2026-11-17
 * [Pull Request] [feat: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/10642) - 2026-11-17
+* [Pull Request] [fix: do gossip validation for publishBlockV2](https://github.com/ChainSafe/lodestar/pull/10659) - 2026-11-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

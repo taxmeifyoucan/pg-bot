@@ -18,6 +18,7 @@ Team: Robust Incentives Group (RIG)
 * [Commit] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/commit/b45e1c1e747efed4fa0b062c01ce6902045e04c6) - 2026-10-06
 * [Pull Request] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/pull/12450) - 2026-10-07
 * [Commit] [Update EIP-8046: Update EIP-8046](https://github.com/ethereum/EIPs/commit/1424fd7732f94ccdafc9188db9726ee167ef2c53) - 2026-10-07
+* [Pull Request] [Add EIP: Dynamic individual consolidation incentive](https://github.com/ethereum/EIPs/pull/12673) - 2026-11-18
 ## Q3 2026
 
 

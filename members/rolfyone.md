@@ -184,6 +184,18 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Reject attestation data with a target epoch not matching its slot](https://github.com/Consensys-Incorporated/teku/pull/11646) - 2026-11-18
 * [Pull Request] [Harden slashing protection interchange imports](https://github.com/Consensys-Incorporated/teku/pull/11645) - 2026-11-18
 * [Review] [Review on: Read validator views of the packed registry from the supernode bytes](https://github.com/Consensys-Incorporated/teku/pull/11627#pullrequestreview-5936605598) - 2026-11-17
+* [Pull Request] [Add PQ fork milestone skeleton](https://github.com/Consensys-Incorporated/teku/pull/11654) - 2026-11-19
+* [Review] [Review on: Add PQ fork milestone skeleton](https://github.com/Consensys-Incorporated/teku/pull/11654#pullrequestreview-5968381979) - 2026-11-19
+* [Review] [Review on: Compact pruned slot ranges of block and sidecar tables](https://github.com/Consensys-Incorporated/teku/pull/11640#pullrequestreview-5968058985) - 2026-11-19
+* [Review] [Review on: Add light client SSE topics and merge the light client flags](https://github.com/Consensys-Incorporated/teku/pull/11651#pullrequestreview-5967944069) - 2026-11-19
+* [Pull Request] [Add leanXMSS signing and verification module](https://github.com/Consensys-Incorporated/teku/pull/11652) - 2026-11-18
+* [Review] [Review on: Add EIP-8483 PQ registration fork on top of Gloas](https://github.com/Consensys-Incorporated/teku/pull/11649#pullrequestreview-5965734723) - 2026-11-18
+* [Review] [Review on: Track the changes of mutable SSZ composites in a paged array](https://github.com/Consensys-Incorporated/teku/pull/11633#pullrequestreview-5953290138) - 2026-11-18
+* [Review] [Review on: Hold SSZ tree updates in primitive arrays](https://github.com/Consensys-Incorporated/teku/pull/11634#pullrequestreview-5953285075) - 2026-11-18
+* [Issue] [look at pq prototyping / roadmap](https://github.com/Consensys-Incorporated/teku/issues/11653) - 2026-11-19
+* [Commit] [Reject MAX_VALUE slots and epochs in slashing protection imports (#11643)](https://github.com/Consensys-Incorporated/teku/commit/4d3748c3fe38f78fdd1a34f3ba49bc5a89b3948a) - 2026-11-19
+* [Commit] [Refuse to sign when the concurrent slashing record read fails (#11637)](https://github.com/Consensys-Incorporated/teku/commit/20b602ecfca875e5f2606f262924430bd1549724) - 2026-11-18
+* [Commit] [Reject attestation data with a target epoch not matching its slot (#11646)](https://github.com/Consensys-Incorporated/teku/commit/3970f3473d1a5f6b6027aac7c9ac54dbb42999f4) - 2026-11-18
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

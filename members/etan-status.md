@@ -74,6 +74,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Update EIP-6466: Clarify authority recovery and failed creation](https://github.com/ethereum/EIPs/pull/12531#pullrequestreview-5764104721) - 2026-11-04
 * [Review] [Review on: Update EIP-7708: fix gas figures and state the creation-transaction and gas rules](https://github.com/ethereum/EIPs/pull/12623#pullrequestreview-5782547535) - 2026-11-05
 * [Review] [Review on: Update EIP-7807: reference Gloas execution requests](https://github.com/ethereum/EIPs/pull/12669#pullrequestreview-5937938007) - 2026-11-17
+* [Commit] [Update EIP-7773: Add EIP-7495 and EIP-7916 to Glamsterdam](https://github.com/ethereum/EIPs/commit/f3de103bc6eb82d2780e051e50d47a92aac45b40) - 2026-11-18
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Use RLP consumeList API for lists allowing additional elements](https://github.com/status-im/nimbus-eth1/pull/4958) - 2026-10-11
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4957) - 2026-10-10

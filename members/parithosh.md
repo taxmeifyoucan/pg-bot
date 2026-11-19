@@ -14,6 +14,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5613729827) - 2026-10-22
 
+* [Review] [Review on: Update EIP-7773: Add EIP-7495 and EIP-7916 to Glamsterdam](https://github.com/ethereum/EIPs/pull/12449#pullrequestreview-5961370999) - 2026-11-18
+* [Review] [Review on: Update EIP-7773: Clear postponed Hoodi activation](https://github.com/ethereum/EIPs/pull/12568#pullrequestreview-5961330980) - 2026-11-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [phase0 `compute_weak_subjectivity_period` raises TypeError (Slot and Gwei)](https://github.com/ethereum/consensus-specs/issues/5830) - 2026-11-14
 ## Q3 2026

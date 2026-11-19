@@ -75,6 +75,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [SNAP2: pivot-move state diff applies EIP-8298 adopted-code entries as empty code](https://github.com/besu-eth/besu/issues/11972) - 2026-11-13
 * [Pull Request] [Bogota devnet 2](https://github.com/besu-eth/besu/pull/11982) - 2026-11-16
 * [Pull Request] [Disable the HotSpot Base64 intrinsic by default (CVE-2026-114938)](https://github.com/besu-eth/besu/pull/11994) - 2026-11-17
+* [Review] [Review on: snap/2: apply EIP-8298 hash-form code changes in pivot moves](https://github.com/besu-eth/besu/pull/11999#pullrequestreview-5964828492) - 2026-11-18
+* [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-5956485691) - 2026-11-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 

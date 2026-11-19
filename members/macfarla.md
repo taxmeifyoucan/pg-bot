@@ -302,6 +302,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Exclude note-level results from CodeQL scans (#11937)](https://github.com/besu-eth/besu/commit/b4076c4f926dcfd830dee6bc660a7a27adc2ab22) - 2026-11-18
 * [Commit] [[CHANGELOG] 26.11.1 and GHSAs for 26.10  (#11997)](https://github.com/besu-eth/besu/commit/6130552ce3ec9763286b19c8fd63b1a97a57f296) - 2026-11-18
 * [Commit] [disable hotspot base64 intrinsic by default (CVE-2026-114938) (#11995)](https://github.com/besu-eth/besu/commit/725e0a9c5d0fcba00223ab100627e9dd11591d04) - 2026-11-18
+* [Review] [Review on: Recover secp256k1 public keys in one native call](https://github.com/besu-eth/besu/pull/11921#pullrequestreview-5969212622) - 2026-11-19
+* [Review] [Review on: Compare the full released Plugin API, including datatypes, in the compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-5969284402) - 2026-11-19
+* [Pull Request] [Close evmtool block-test trace output file](https://github.com/besu-eth/besu/pull/12008) - 2026-11-19
+* [Review] [Review on: Pin eth_estimateGas insufficient-funds error with spec fixtures](https://github.com/besu-eth/besu/pull/11966#pullrequestreview-5951567304) - 2026-11-18
+* [Review] [Review on: Return full 32-byte codehash from debug_accountAt](https://github.com/besu-eth/besu/pull/11976#pullrequestreview-5951435684) - 2026-11-18
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

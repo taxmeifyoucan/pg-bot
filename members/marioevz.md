@@ -88,6 +88,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5929144039) - 2026-11-16
 * [Review] [Review on: fix(spec-specs,test-client-clis): raise InsufficientMaxFeePerGasError for a legacy gas price below the base fee](https://github.com/ethereum/execution-specs/pull/3993#pullrequestreview-5925861054) - 2026-11-16
 * [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5941850173) - 2026-11-17
+* [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5962019287) - 2026-11-18
+* [Review] [Review on: feat(test-execute): fail `execute remote` early on a rejected JWT secret](https://github.com/ethereum/execution-specs/pull/3988#pullrequestreview-5962436209) - 2026-11-18
+* [Review] [Review on: feat(test-client-clis): add an Ethrex transition tool](https://github.com/ethereum/execution-specs/pull/4021#pullrequestreview-5959114488) - 2026-11-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 
