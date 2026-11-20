@@ -94,6 +94,10 @@ Team: Grandine
 * [Pull Request] [Make Gloas lists in engine API conversions fallible](https://github.com/grandinetech/grandine/pull/1051) - 2026-11-17
 * [Review] [Review on: Use Ubuntu 26.04 docker images](https://github.com/grandinetech/grandine/pull/1052#pullrequestreview-5954775322) - 2026-11-18
 * [Commit] [Make Gloas lists in engine API conversions fallible](https://github.com/grandinetech/grandine/commit/3a56d84795b3ce9540471f8b1cb0499db15325a5) - 2026-11-18
+* [Review] [Review on: Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/pull/1046#pullrequestreview-5976248585) - 2026-11-19
+* [Issue] [Do not set the head to a payload the EL rejected; skip the fcU on an INVALID verdict.](https://github.com/grandinetech/grandine/issues/1060) - 2026-11-19
+* [Issue] [Fast confirmation rule](https://github.com/grandinetech/grandine/issues/1058) - 2026-11-19
+* [Issue] [Separate DB for blobs/columns](https://github.com/grandinetech/grandine/issues/1057) - 2026-11-19
 ## Q3 2026
 
 

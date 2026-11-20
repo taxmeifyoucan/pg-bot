@@ -130,6 +130,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): merge stWalletTest, stSStoreTest and stEIP* tests](https://github.com/ethereum/execution-specs/pull/4004#pullrequestreview-5937992701) - 2026-11-17
 * [Review] [Review on: fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998#pullrequestreview-5937989106) - 2026-11-17
 * [Review] [Review on: refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999#pullrequestreview-5937989902) - 2026-11-17
+* [Review] [Review on: feat(doc): add edit and view source buttons to the docs pages](https://github.com/ethereum/execution-specs/pull/3978#pullrequestreview-5979074037) - 2026-11-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

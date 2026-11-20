@@ -78,6 +78,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Replace qemu-user-static with qemu-user-binfmt (#5151)](https://github.com/status-im/nimbus-eth1/commit/9ec3038ca806fd023a6de92b07cdcc2783a689ea) - 2026-11-12
 * [Pull Request] [test_runner improvements](https://github.com/status-im/nimbus-eth1/pull/5165) - 2026-11-14
 * [Commit] [test_runner improvements (#5165)](https://github.com/status-im/nimbus-eth1/commit/538f1ccdfbc2e295b3a5f617af3d76746c2afcc2) - 2026-11-14
+* [Pull Request] [Reduce warnings](https://github.com/status-im/nimbus-eth1/pull/5187) - 2026-11-20
+* [Pull Request] [System Call follow EIP-7702 delegation designator](https://github.com/status-im/nimbus-eth1/pull/5186) - 2026-11-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

@@ -196,6 +196,28 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Reject MAX_VALUE slots and epochs in slashing protection imports (#11643)](https://github.com/Consensys-Incorporated/teku/commit/4d3748c3fe38f78fdd1a34f3ba49bc5a89b3948a) - 2026-11-19
 * [Commit] [Refuse to sign when the concurrent slashing record read fails (#11637)](https://github.com/Consensys-Incorporated/teku/commit/20b602ecfca875e5f2606f262924430bd1549724) - 2026-11-18
 * [Commit] [Reject attestation data with a target epoch not matching its slot (#11646)](https://github.com/Consensys-Incorporated/teku/commit/3970f3473d1a5f6b6027aac7c9ac54dbb42999f4) - 2026-11-18
+* [Pull Request] [Validate PQ single attestations and aggregates in gossip](https://github.com/Consensys-Incorporated/teku/pull/11678) - 2026-11-20
+* [Pull Request] [Validate PQ blocks, envelopes, bids and preferences with XMSS in gossip](https://github.com/Consensys-Incorporated/teku/pull/11677) - 2026-11-20
+* [Pull Request] [Import PQ chains through fork choice](https://github.com/Consensys-Incorporated/teku/pull/11676) - 2026-11-20
+* [Pull Request] [Add PQ validator key generation, keystore and loading](https://github.com/Consensys-Incorporated/teku/pull/11675) - 2026-11-20
+* [Pull Request] [Build PQ blocks and PQ test chains](https://github.com/Consensys-Incorporated/teku/pull/11674) - 2026-11-20
+* [Pull Request] [Add the PQ VRF tree, XMSS leaf protection and signer](https://github.com/Consensys-Incorporated/teku/pull/11673) - 2026-11-20
+* [Pull Request] [Update lean-pq to 0.13.0](https://github.com/Consensys-Incorporated/teku/pull/11672) - 2026-11-20
+* [Pull Request] [Run the PQ reference tests](https://github.com/Consensys-Incorporated/teku/pull/11671) - 2026-11-19
+* [Pull Request] [Hash the PQ VRF tree with Keccak-256](https://github.com/Consensys-Incorporated/teku/pull/11670) - 2026-11-19
+* [Pull Request] [Switch the PQ milestone to its own state transition](https://github.com/Consensys-Incorporated/teku/pull/11669) - 2026-11-19
+* [Pull Request] [Add the upgrade into the PQ state](https://github.com/Consensys-Incorporated/teku/pull/11668) - 2026-11-19
+* [Pull Request] [Add PQ block processing](https://github.com/Consensys-Incorporated/teku/pull/11667) - 2026-11-19
+* [Pull Request] [Add PQ epoch processing](https://github.com/Consensys-Incorporated/teku/pull/11666) - 2026-11-19
+* [Pull Request] [Add PQ execution-request processing](https://github.com/Consensys-Incorporated/teku/pull/11665) - 2026-11-19
+* [Pull Request] [Add PQ state-transition helpers](https://github.com/Consensys-Incorporated/teku/pull/11664) - 2026-11-19
+* [Pull Request] [Add PQ block body and XMSS-signed wrappers](https://github.com/Consensys-Incorporated/teku/pull/11660) - 2026-11-19
+* [Pull Request] [Add the PQ state-transition plan](https://github.com/Consensys-Incorporated/teku/pull/11661) - 2026-11-19
+* [Pull Request] [Add PQ attestation containers](https://github.com/Consensys-Incorporated/teku/pull/11659) - 2026-11-19
+* [Pull Request] [Add the PQ fork and containers plans](https://github.com/Consensys-Incorporated/teku/pull/11658) - 2026-11-19
+* [Pull Request] [Add PQ execution requests](https://github.com/Consensys-Incorporated/teku/pull/11657) - 2026-11-19
+* [Pull Request] [Add PQ state containers and make Validator and Builder interfaces](https://github.com/Consensys-Incorporated/teku/pull/11656) - 2026-11-19
+* [Commit] [Harden slashing protection interchange imports (#11645)](https://github.com/Consensys-Incorporated/teku/commit/62a54b968df39b22e012765be033dad87d509f7d) - 2026-11-19
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

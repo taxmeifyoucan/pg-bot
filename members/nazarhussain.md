@@ -93,6 +93,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: run the native fork choice store behind `--chain.nativeForkChoice`](https://github.com/ChainSafe/lodestar/pull/10584#pullrequestreview-5954881424) - 2026-11-18
 * [Review] [Review on: fix(fork-choice): run every fallible step of a handler before its first write](https://github.com/ChainSafe/lodestar/pull/10636#pullrequestreview-5952855066) - 2026-11-18
 * [Review] [Review on: perf: visit only the queued validators when a tick applies queued votes](https://github.com/ChainSafe/lodestar/pull/10644#pullrequestreview-5952706019) - 2026-11-18
+* [Review] [Review on: fix: do gossip validation for publishBlockV2](https://github.com/ChainSafe/lodestar/pull/10659#pullrequestreview-5971791638) - 2026-11-19
+* [Review] [Review on: refactor: remove fork choice irrecoverableError](https://github.com/ChainSafe/lodestar/pull/10661#pullrequestreview-5973985817) - 2026-11-19
+* [Review] [Review on: fix(fork-choice): port #10614 verdict rule to the Zig store](https://github.com/ChainSafe/lodestar/pull/10651#pullrequestreview-5971687552) - 2026-11-19
+* [Review] [Review on: fix: retain inclusion lists one slot past the request window](https://github.com/ChainSafe/lodestar/pull/10507#pullrequestreview-5972398929) - 2026-11-19
+* [Review] [Review on: test: pin inclusion list reads past the request window](https://github.com/ChainSafe/lodestar/pull/10662#pullrequestreview-5972381936) - 2026-11-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

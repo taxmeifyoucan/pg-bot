@@ -68,6 +68,7 @@ Team: Codex DAS
 * [Commit] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/commit/d298b6d416a233e9369a7c705a5abf0a246d6124) - 2026-10-08
 * [Pull Request] [Add EIP: Engine API proposal lookahead](https://github.com/ethereum/EIPs/pull/12547) - 2026-10-19
 * [Commit] [Add EIP: Engine API Proposal Lookahead](https://github.com/ethereum/EIPs/commit/46976b2a9bf99f727fb87dc8c809e3a3cdc6b445) - 2026-11-03
+* [Pull Request] [Update EIP-8411: add a chunking descriptor, envelope root and Reed-Solomon scheme](https://github.com/ethereum/EIPs/pull/12674) - 2026-11-19
 ## Q3 2026
 
 

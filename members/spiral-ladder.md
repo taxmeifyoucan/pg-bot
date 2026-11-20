@@ -107,6 +107,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix: make pubkey cache only cache finalized pubkeys](https://github.com/ChainSafe/lodestar/pull/10649) - 2026-11-18
 * [Review] [Review on: refactor!: add lodestar prefix and seconds suffix to metrics](https://github.com/ChainSafe/lodestar/pull/10616#pullrequestreview-5955681896) - 2026-11-18
 * [Review] [Review on: feat: allow builders one bid per ETH of balance for a slot and parent](https://github.com/ChainSafe/lodestar/pull/10597#pullrequestreview-5955405955) - 2026-11-18
+* [Review] [Review on: feat: add UDP sockets for native networking](https://github.com/ChainSafe/lodestar/pull/10668#pullrequestreview-5982869593) - 2026-11-19
+* [Review] [Review on: fix: always verify proposer signature before publishing a block](https://github.com/ChainSafe/lodestar/pull/10684#pullrequestreview-5982291046) - 2026-11-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

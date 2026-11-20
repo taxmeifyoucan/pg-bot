@@ -23,6 +23,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/pull/12128#pullrequestreview-5524181827) - 2026-10-14
 * [Commit] [Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/commit/7bc191736a30bd8a419546bec4e235486e11e03e) - 2026-10-15
 * [Commit] [Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/commit/6c6c83f427bb2f22beefe93f7cd83792794785a7) - 2026-10-15
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [chore(handler): deprecate transact_many batch APIs](https://github.com/bluealloy/revm/pull/4014) - 2026-11-19
+* [Commit] [chore(handler): deprecate transact_many batch APIs (#4014)](https://github.com/bluealloy/revm/commit/61eb0f231227db0a89f9cd2cd976cc372b6e94d1) - 2026-11-19
 ## Q3 2026
 
 

@@ -44,6 +44,8 @@ Team: Nimbus
 * [Pull Request] [Snap2 numeric overflow and other fixes](https://github.com/status-im/nimbus-eth1/pull/5166) - 2026-11-14
 * [Commit] [Snap2 numeric overflow and other fixes (#5166)](https://github.com/status-im/nimbus-eth1/commit/3c7ea749d5dcf8e8de1407157138719006f8b444) - 2026-11-14
 * [Review] [Review on: snap: reject malformed proof nodes instead of raising ResultDefect](https://github.com/status-im/nimbus-eth1/pull/5178#pullrequestreview-5938749377) - 2026-11-17
+* [Pull Request] [Refactor eta for syncers](https://github.com/status-im/nimbus-eth1/pull/5184) - 2026-11-19
+* [Commit] [Refactor eta for syncers (#5184)](https://github.com/status-im/nimbus-eth1/commit/5cb99d3c1b2031f7ecad9dcf3655997fd9c73961) - 2026-11-19
 ## Q3 2026
 
 

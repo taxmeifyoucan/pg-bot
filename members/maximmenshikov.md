@@ -83,6 +83,10 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Hardening: code generation patches for INT extension, alignment and allocation in loops](https://github.com/NethermindEth/dotnet-riscv/pull/45) - 2026-11-19
 * [Pull Request] [fixup/11/riscv32: Emit rev8 for ReverseEndianness under JitZkRev8](https://github.com/NethermindEth/dotnet-riscv/pull/44) - 2026-11-19
 * [Pull Request] [Hardening: name the test of every patch and check it on pull requests](https://github.com/NethermindEth/dotnet-riscv/pull/43) - 2026-11-19
+* [Commit] [Merge pull request #45 from NethermindEth/fix/codegen-hardening](https://github.com/NethermindEth/dotnet-riscv/commit/65fa122a5d6d9444001edce6c3fc0e5ef2b6a734) - 2026-11-19
+* [Commit] [Merge pull request #43 from NethermindEth/ci/patch-tests](https://github.com/NethermindEth/dotnet-riscv/commit/dc5d9ac4ca2e715e0f590b47b4a52730996f3db2) - 2026-11-19
+* [Commit] [fixup/11: perf-96, perf-97 - INT result of Math.Min/Max with Zbb, unrolled copies from a field of a local](https://github.com/NethermindEth/dotnet-riscv/commit/5445c368f3a0b50f0cd6f0b3b22820b32b9a3832) - 2026-11-19
+* [Commit] [fixup/11: perf-95 - OutOfMemoryException from an inline allocation that does not fit](https://github.com/NethermindEth/dotnet-riscv/commit/85ebf4271f610cd47fef09c02f62b48acda3ff07) - 2026-11-19
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -153,6 +157,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #79 from NethermindEth/chore/dotnet-frameless-unwind](https://github.com/NethermindEth/bflat-riscv64/commit/7a7d5accd3c4a754a6baa3d28348e21a107f568e) - 2026-11-17
 * [Commit] [variant: Take both targets from the dotnet-riscv build with the frameless unwind fix](https://github.com/NethermindEth/bflat-riscv64/commit/969fbee0b6524cbaaf8f20b9878aafaefb9b2a50) - 2026-11-17
 * [Pull Request] [variant: Take both targets from the dotnet-riscv build with rev8 in the riscv32 JIT](https://github.com/NethermindEth/bflat-riscv64/pull/81) - 2026-11-18
+* [Pull Request] [test: build with the hardening test build of dotnet-riscv](https://github.com/NethermindEth/bflat-riscv64/pull/82) - 2026-11-19
 ## Q3 2026
 
 

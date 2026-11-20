@@ -428,6 +428,31 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(zkevm): run the guests on invalid tests-zkevm blocks](https://github.com/NethermindEth/nethermind/pull/16060#pullrequestreview-5960244004) - 2026-11-18
 * [Review] [Review on: fix(rpc): gas price cache race, signature input errors, subscription and node info fixes](https://github.com/NethermindEth/nethermind/pull/16069#pullrequestreview-5960231311) - 2026-11-18
 * [Commit] [Non-attesting consensus-layer plugin (#13611)](https://github.com/NethermindEth/nethermind/commit/cf074a8bce66735a1b064c6cf9367298f9dffd4c) - 2026-11-18
+* [Review] [Review on: refactor(txpool)!: split the mempool form out of Transaction into MempoolTransaction](https://github.com/NethermindEth/nethermind/pull/16006#pullrequestreview-5982998687) - 2026-11-19
+* [Review] [Review on: fix(tracing): accept the full JavaScript tracer timeout range](https://github.com/NethermindEth/nethermind/pull/16107#pullrequestreview-5983020579) - 2026-11-19
+* [Review] [Review on: fix(tracing): preserve JavaScript callback error envelopes](https://github.com/NethermindEth/nethermind/pull/16095#pullrequestreview-5983025024) - 2026-11-19
+* [Review] [Review on: docs: clarify permissive trace timeout input formats](https://github.com/NethermindEth/nethermind/pull/16099#pullrequestreview-5983024000) - 2026-11-19
+* [Review] [Review on: Plugins can ship named configurations](https://github.com/NethermindEth/nethermind/pull/16130#pullrequestreview-5983012177) - 2026-11-19
+* [Review] [Review on: perf(zkevm): push the empty-input digest for a zero-length KECCAK256 in the guest handler](https://github.com/NethermindEth/nethermind/pull/16148#pullrequestreview-5983002425) - 2026-11-19
+* [Review] [Review on: fix(consensus): dev block withdrawals, Ethash cache and sealer, dev wallet, Hive runner](https://github.com/NethermindEth/nethermind/pull/16129#pullrequestreview-5983013187) - 2026-11-19
+* [Review] [Review on: fix(sync): persist snap storage nodes only within the ranges of one root](https://github.com/NethermindEth/nethermind/pull/16014#pullrequestreview-5974682187) - 2026-11-19
+* [Review] [Review on: perf(zkevm): run 256-bit ADD, SUB, shifts and comparisons on OpenVM's bigint extension on RV32](https://github.com/NethermindEth/nethermind/pull/16106#pullrequestreview-5983021802) - 2026-11-19
+* [Review] [Review on: test(trace-store): hold concurrent window readers until the cancellation stops the loop](https://github.com/NethermindEth/nethermind/pull/16149#pullrequestreview-5983005200) - 2026-11-19
+* [Review] [Review on: perf(zkevm): compare trie key prefixes and hashes by words on SP1](https://github.com/NethermindEth/nethermind/pull/16123#pullrequestreview-5983014268) - 2026-11-19
+* [Review] [Review on: perf(zkevm): copy the Keccak state lane by lane on OpenVM](https://github.com/NethermindEth/nethermind/pull/16105#pullrequestreview-5983022901) - 2026-11-19
+* [Review] [Review on: fix(tracing): align 4byteTracer and callTracer rejected-call, stack-overflow and SELFDESTRUCT diagnostics with Geth](https://github.com/NethermindEth/nethermind/pull/16023#pullrequestreview-5983027047) - 2026-11-19
+* [Review] [Review on: fix(txpool): request a blob tx again after another copy failed its sidecar or nonce checks](https://github.com/NethermindEth/nethermind/pull/16137#pullrequestreview-5983001281) - 2026-11-19
+* [Review] [Review on: fix(merge): forward GenesisStateUnavailable in spec wrappers and fix beacon sync and payload Trace lines](https://github.com/NethermindEth/nethermind/pull/16150#pullrequestreview-5983432819) - 2026-11-19
+* [Review] [Review on: build: enable CA2016 analyzer](https://github.com/NethermindEth/nethermind/pull/16122#pullrequestreview-5983256093) - 2026-11-19
+* [Review] [Review on: fix(sync): reject block bodies replies with more bodies than requested before decoding](https://github.com/NethermindEth/nethermind/pull/16136#pullrequestreview-5983008577) - 2026-11-19
+* [Review] [Review on: perf(prewarm): bound the gas the mempool pre-warmer executes per pass and per session](https://github.com/NethermindEth/nethermind/pull/16131#pullrequestreview-5983011179) - 2026-11-19
+* [Review] [Review on: ci(hive): fail the job when the client launch test fails](https://github.com/NethermindEth/nethermind/pull/16073#pullrequestreview-5983026012) - 2026-11-19
+* [Review] [Review on: fix(debug): native tracerConfig and timeout errors on traceCall, InBlockByHash and BadBlock](https://github.com/NethermindEth/nethermind/pull/16016#pullrequestreview-5983028066) - 2026-11-19
+* [Review] [Review on: ci(zkevm): test the guests on invalid tests-zkevm blocks nightly and before releases](https://github.com/NethermindEth/nethermind/pull/16109#pullrequestreview-5983019557) - 2026-11-19
+* [Review] [Review on: fix(sync): resume header sync at the pivot and reject an unexpected first header](https://github.com/NethermindEth/nethermind/pull/16112#pullrequestreview-5983018488) - 2026-11-19
+* [Review] [Review on: fix(runner): exit 143 on SIGTERM and fix shutdown edge cases](https://github.com/NethermindEth/nethermind/pull/16113#pullrequestreview-5983017400) - 2026-11-19
+* [Review] [Review on: feat(analyzers): add NETH009 — disallow async void](https://github.com/NethermindEth/nethermind/pull/16118#pullrequestreview-5983016405) - 2026-11-19
+* [Review] [Review on: fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132#pullrequestreview-5983010065) - 2026-11-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

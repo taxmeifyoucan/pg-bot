@@ -615,6 +615,25 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [docs(blockchain): move ClearStaleMarkersOnForcedHeadUpdate rationale into remarks (#16054)](https://github.com/NethermindEth/nethermind/commit/4553dfa338130b979bf63e390655b783f468986b) - 2026-11-18
 * [Commit] [test(init): cover a selected optional step cancelled without shutdown (#16049)](https://github.com/NethermindEth/nethermind/commit/21a781fa35cdf090068d5b14013f740300d4b19e) - 2026-11-18
 * [Commit] [fix(diag): install the diagnostic tools for the target architecture (#16056)](https://github.com/NethermindEth/nethermind/commit/3f8c30447fae0c65a0bb8767a1816f6156433d7d) - 2026-11-18
+* [Review] [Review on: fix(tracing): accept the full JavaScript tracer timeout range](https://github.com/NethermindEth/nethermind/pull/16107#pullrequestreview-5977286704) - 2026-11-19
+* [Review] [Review on: fix(tracing): preserve JavaScript callback error envelopes](https://github.com/NethermindEth/nethermind/pull/16095#pullrequestreview-5976416577) - 2026-11-19
+* [Review] [Review on: docs: clarify permissive trace timeout input formats](https://github.com/NethermindEth/nethermind/pull/16099#pullrequestreview-5976402861) - 2026-11-19
+* [Review] [Review on: feat(analyzers): add NETH010 — disallow empty catch blocks](https://github.com/NethermindEth/nethermind/pull/16121#pullrequestreview-5976994130) - 2026-11-19
+* [Review] [Review on: Plugins can ship named configurations](https://github.com/NethermindEth/nethermind/pull/16130#pullrequestreview-5976858525) - 2026-11-19
+* [Review] [Review on: fix(consensus): dev block withdrawals, Ethash cache and sealer, dev wallet, Hive runner](https://github.com/NethermindEth/nethermind/pull/16129#pullrequestreview-5976895726) - 2026-11-19
+* [Review] [Review on: fix(sync): remove a mismatched flat trie node when healing goes down past it](https://github.com/NethermindEth/nethermind/pull/16135#pullrequestreview-5977427165) - 2026-11-19
+* [Review] [Review on: perf(zkevm): compare trie key prefixes and hashes by words on SP1](https://github.com/NethermindEth/nethermind/pull/16123#pullrequestreview-5976958307) - 2026-11-19
+* [Review] [Review on: perf(zkevm): copy the Keccak state lane by lane on OpenVM](https://github.com/NethermindEth/nethermind/pull/16105#pullrequestreview-5977340632) - 2026-11-19
+* [Review] [Review on: fix(txpool): request a blob tx again after another copy failed its sidecar or nonce checks](https://github.com/NethermindEth/nethermind/pull/16137#pullrequestreview-5976781100) - 2026-11-19
+* [Review] [Review on: build: enable CA2016 analyzer](https://github.com/NethermindEth/nethermind/pull/16122#pullrequestreview-5977018276) - 2026-11-19
+* [Review] [Review on: fix(sync): reject block bodies replies with more bodies than requested before decoding](https://github.com/NethermindEth/nethermind/pull/16136#pullrequestreview-5976726459) - 2026-11-19
+* [Review] [Review on: perf(prewarm): cap the effects a hand-off footprint records per transaction](https://github.com/NethermindEth/nethermind/pull/16134#pullrequestreview-5976766734) - 2026-11-19
+* [Review] [Review on: perf(prewarm): bound the gas the mempool pre-warmer executes per pass and per session](https://github.com/NethermindEth/nethermind/pull/16131#pullrequestreview-5976880281) - 2026-11-19
+* [Review] [Review on: fix(debug): native tracerConfig and timeout errors on traceCall, InBlockByHash and BadBlock](https://github.com/NethermindEth/nethermind/pull/16016#pullrequestreview-5976625252) - 2026-11-19
+* [Review] [Review on: ci(zkevm): test the guests on invalid tests-zkevm blocks nightly and before releases](https://github.com/NethermindEth/nethermind/pull/16109#pullrequestreview-5977215572) - 2026-11-19
+* [Review] [Review on: fix(sync): resume header sync at the pivot and reject an unexpected first header](https://github.com/NethermindEth/nethermind/pull/16112#pullrequestreview-5977174893) - 2026-11-19
+* [Review] [Review on: fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132#pullrequestreview-5976869963) - 2026-11-19
+* [Commit] [fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth (#16052)](https://github.com/NethermindEth/nethermind/commit/685104fc14e9985a9daf1cf892dc02bb88822375) - 2026-11-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

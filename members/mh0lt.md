@@ -20,6 +20,14 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: a named re-run waits for its writer to validate](https://github.com/erigontech/erigon/pull/25785#pullrequestreview-5783941086) - 2026-11-05
 * [Pull Request] [execution/stagedsync: intra-block commitment checkpoints (COMMITMENT_INTRABLOCK_TXS)](https://github.com/erigontech/erigon/pull/26472) - 2026-11-17
 * [Commit] [execution/stagedsync: intra-block commitment checkpoints (COMMITMENT_INTRABLOCK_TXS) (#26472)](https://github.com/erigontech/erigon/commit/82ea0528bd4201943453aa46f732438d8e4eb391) - 2026-11-18
+* [Pull Request] [execution/state: collapse the version-map account readers onto one interpreter](https://github.com/erigontech/erigon/pull/26555) - 2026-11-19
+* [Pull Request] [execution, rpc: commit genesis through the apply path and compute its root from the version map](https://github.com/erigontech/erigon/pull/26588) - 2026-11-19
+* [Pull Request] [execution/state: make the version-map interpreter balance self-destruct/revival-consistent](https://github.com/erigontech/erigon/pull/26573) - 2026-11-19
+* [Pull Request] [execution/state, node/privateapi: add versioned IBS constructors](https://github.com/erigontech/erigon/pull/26576) - 2026-11-19
+* [Pull Request] [rpc/jsonrpc: construct tracing state via the versioned IBS constructors](https://github.com/erigontech/erigon/pull/26580) - 2026-11-19
+* [Pull Request] [rpc/jsonrpc: construct eth/overlay/witness state via the versioned IBS constructors](https://github.com/erigontech/erigon/pull/26582) - 2026-11-19
+* [Commit] [execution/state: collapse the version-map account readers onto one interpreter (#26555)](https://github.com/erigontech/erigon/commit/fdd1f1552ff0b49a94add2975e03bffc2b4cf0da) - 2026-11-20
+* [Commit] [execution, rpc: commit genesis through the apply path and compute its root from the version map (#26588)](https://github.com/erigontech/erigon/commit/75f3faf32c46694f3dae229c7dd21d0795477f02) - 2026-11-20
 ## Q3 2026
 
 

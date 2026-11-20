@@ -437,6 +437,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon/beaconevents, cl/phase1/forkchoice, cl/phase1/stages: retry a Gloas envelope that waits for columns as soon as a column is stored (#26334)](https://github.com/erigontech/erigon/commit/51c25bf3fc588c044af6a751dd426c1b7edc0a9c) - 2026-11-17
 * [Commit] [cl/das: write recovered columns in one batch, and columns one at a time after a failed batch (#26425)](https://github.com/erigontech/erigon/commit/7d78fdecacf7494cfb0cb19839398aadaef9706c) - 2026-11-17
 * [Commit] [cl/phase1/network/services, cl/beacon/beaconevents, cl/beacon/handler: retry the Gloas EL blob import once when the envelope arrives (#26348)](https://github.com/erigontech/erigon/commit/2ef2092779d6fc48d99b0b035296a5cd485b2c62) - 2026-11-17
+* [Review] [Review on: cl/beacon/handler: bound SSZ block publication requests](https://github.com/erigontech/erigon/pull/26542#pullrequestreview-5983084659) - 2026-11-19
+* [Review] [Review on: cl/beacon/handler: check envelope encoding size before admission](https://github.com/erigontech/erigon/pull/26561#pullrequestreview-5983211897) - 2026-11-19
+* [Review] [Review on: cl/cltypes: reject null operation lists in block body JSON](https://github.com/erigontech/erigon/pull/26568#pullrequestreview-5983547714) - 2026-11-19
+* [Review] [Review on: cl/cltypes/solid: fix Uint64ListSSZ and Uint64VectorSSZ UnmarshalJSON](https://github.com/erigontech/erigon/pull/26562#pullrequestreview-5983457678) - 2026-11-19
+* [Review] [Review on: cl/cltypes/solid: pad Uint64VectorSSZ buffer to whole chunks](https://github.com/erigontech/erigon/pull/26566#pullrequestreview-5983466271) - 2026-11-19
+* [Review] [Review on: cl/sentinel/handlers: drop dead min in envelopes-by-root rate cost](https://github.com/erigontech/erigon/pull/26563#pullrequestreview-5983469724) - 2026-11-19
+* [Commit] [cl/phase1/network: bound deferred Gloas data-column sidecar work (#26500)](https://github.com/erigontech/erigon/commit/8de86f310df92881e9d2c99dd2d2731bfc6b4893) - 2026-11-19
+* [Commit] [cl/beacon, cl/validator, docs: make Gloas block production POST v4 only (#26490)](https://github.com/erigontech/erigon/commit/1e8d7f9b3baf0aabe95578ccadaf194c86074072) - 2026-11-19
 ## Q3 2026
 
 

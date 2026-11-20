@@ -252,6 +252,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Avoid copying RLP-encoded strings (#1816)](https://github.com/ipsilon/evmone/commit/0a50c913b5bf862553a93c0b9b81b2ef96cfb6ff) - 2026-11-17
 * [Commit] [crypto: Make the secp256r1 order arithmetic static constexpr (#1821)](https://github.com/ipsilon/evmone/commit/815edd7f137c579ce6794c222a1f8887c8a73455) - 2026-11-17
 * [Pull Request] [evmone: Require exact size of EIP-7702 delegation designator](https://github.com/ipsilon/evmone/pull/1822) - 2026-11-18
+* [Pull Request] [evm: Drop the zero divisor checks of the division instructions](https://github.com/ipsilon/evmone/pull/1826) - 2026-11-19
+* [Pull Request] [ci: Run the CodSpeed fixtures of tests-benchmark@v0.0.11](https://github.com/ipsilon/evmone/pull/1823) - 2026-11-19
+* [Issue] [state: EIP-3607 sender check exempts delegation designations before Prague](https://github.com/ipsilon/evmone/issues/1825) - 2026-11-19
+* [Issue] [state: Transaction destination is delegated before Prague](https://github.com/ipsilon/evmone/issues/1824) - 2026-11-19
+* [Commit] [ci: Run the CodSpeed fixtures of tests-benchmark@v0.0.11 (#1823)](https://github.com/ipsilon/evmone/commit/848e1f02308ab3d04e89bb8f519fedbf0228291c) - 2026-11-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

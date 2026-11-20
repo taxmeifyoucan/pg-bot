@@ -109,6 +109,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998#pullrequestreview-5936704445) - 2026-11-17
 * [Review] [Review on: refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999#pullrequestreview-5937841357) - 2026-11-17
 * [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5960427005) - 2026-11-18
+* [Commit] [feat(doc): add edit and view source buttons to the docs pages (#3978)](https://github.com/ethereum/execution-specs/commit/1da5a11ca8cd3a4ad00fd1821c27ef01a4b18653) - 2026-11-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -149,6 +150,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients/go-ethereum: only enable HIVE_EXPECT_DEEP_REORGS and HIVE_KZG_FAST_SETUP when set to 1 (#1655)](https://github.com/ethereum/hive/commit/b18037f2c010471b3d58aade4f165d510de59162) - 2026-11-04
 * [Commit] [clients: map and dump the genesis in one jq pass (#1652)](https://github.com/ethereum/hive/commit/71234e3ffb35525948522a1a25e14bd7afb2e342) - 2026-11-05
 * [Pull Request] [clients/ethrex: import the blocks directory in one process](https://github.com/ethereum/hive/pull/1661) - 2026-11-08
+* [Review] [Review on: clients: add HIVE_* switches for non-default state-root and trie modes](https://github.com/ethereum/hive/pull/1662#pullrequestreview-5978400522) - 2026-11-19
+* [Pull Request] [simulators/ethereum/eels: ignore a staged fixtures.tar.gz](https://github.com/ethereum/hive/pull/1667) - 2026-11-19
+* [Review] [Review on: simulators/ethereum/eels: add consume-reorg simulator (blockchain_test_engine_reorg fixtures)](https://github.com/ethereum/hive/pull/1608#pullrequestreview-5972968262) - 2026-11-19
+* [Review] [Review on: clients/ethrex: import the blocks directory in one process](https://github.com/ethereum/hive/pull/1661#pullrequestreview-5972733587) - 2026-11-19
+* [Review] [Review on: clients/besu: run the version check without the flight recording](https://github.com/ethereum/hive/pull/1664#pullrequestreview-5972678116) - 2026-11-19
+* [Review] [Review on: simulators/ethereum/eels: build Dockerfile.git on the uv trixie image](https://github.com/ethereum/hive/pull/1665#pullrequestreview-5972611855) - 2026-11-19
+* [Commit] [simulators/ethereum/eels: ignore a staged fixtures.tar.gz (#1667)](https://github.com/ethereum/hive/commit/3011ec9a4863749f5aa2cc66b29e597b2f0a1b2e) - 2026-11-19
+* [Commit] [clients/ethrex: import the blocks directory in one process (#1661)](https://github.com/ethereum/hive/commit/a235c763eee0c0a61fe78340458251fd2b367a53) - 2026-11-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 

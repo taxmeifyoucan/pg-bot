@@ -48,6 +48,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5962810233) - 2026-11-18
 * [Review] [Review on: feat(test-types,tests): add EIP-8141 signature validation and default code tests](https://github.com/ethereum/execution-specs/pull/4017#pullrequestreview-5955327558) - 2026-11-18
 * [Issue] [Test system contract interactions with EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/issues/4023) - 2026-11-18
+* [Review] [Review on: fix(spec-tools): resolve `--state.fork BPO4` to the bpo4 module](https://github.com/ethereum/execution-specs/pull/3951#pullrequestreview-5973163248) - 2026-11-19
 ## Q3 2026
 
 

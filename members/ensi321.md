@@ -69,10 +69,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore!: remove --presetFile and preset value overrides (#10621)](https://github.com/ChainSafe/lodestar/commit/0d1a9a139b8e268500ea559e0c45b9cfb67ed8a0) - 2026-11-14
 * [Review] [Review on: feat: bundle a native addon per preset](https://github.com/ChainSafe/lodestar/pull/10637#pullrequestreview-5938219741) - 2026-11-17
 * [Commit] [refactor!: add lodestar prefix and seconds suffix to metrics (#10616)](https://github.com/ChainSafe/lodestar/commit/0ac7778d7034693a0818296dbe717f2999576ab1) - 2026-11-18
+* [Review] [Review on: fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660#pullrequestreview-5980045989) - 2026-11-19
+* [Review] [Review on: feat: allow builders one bid per ETH of balance for a slot and parent](https://github.com/ChainSafe/lodestar/pull/10597#pullrequestreview-5979286331) - 2026-11-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5817230694) - 2026-11-08
+* [Pull Request] [Exclude pending withdrawals from the builder bid limit](https://github.com/ethereum/consensus-specs/pull/5843) - 2026-11-19
+* [Review] [Review on: Exclude pending withdrawals from the builder bid limit](https://github.com/ethereum/consensus-specs/pull/5843#pullrequestreview-5978690952) - 2026-11-19
+* [Commit] [Exclude pending withdrawals from the builder bid limit (#5843)](https://github.com/ethereum/consensus-specs/commit/6ea84333433a840fbd534f8ebbe9dd5e1b599115) - 2026-11-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14

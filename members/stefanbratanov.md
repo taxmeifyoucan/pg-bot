@@ -36,6 +36,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Respect latest valid hash for INVALID Gloas payloads on optimistic chains (#11641)](https://github.com/Consensys-Incorporated/teku/commit/65b541ce3550bc2659f9b888eb6c387c410b8793) - 2026-11-17
 * [Pull Request] [Add payload consistency checks to envelope gossip validation](https://github.com/Consensys-Incorporated/teku/pull/11650) - 2026-11-18
 * [Commit] [Add payload consistency checks to envelope gossip validation (#11650)](https://github.com/Consensys-Incorporated/teku/commit/68820bece8c47d66aabe66f2df685810b91ed15e) - 2026-11-18
+* [Pull Request] [Re-enable greclipse()](https://github.com/Consensys-Incorporated/teku/pull/11663) - 2026-11-19
+* [Pull Request] [Reject execution payload envelopes for unrequested roots in by-root requests](https://github.com/Consensys-Incorporated/teku/pull/11662) - 2026-11-19
+* [Commit] [Reject execution payload envelopes for unrequested roots in by-root requests (#11662)](https://github.com/Consensys-Incorporated/teku/commit/edc0d70fcb48630b085dba4f4706c4ccc9603394) - 2026-11-19
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add AGENTS.md and point CLAUDE.md to it](https://github.com/libp2p/jvm-libp2p/pull/551) - 2026-11-16
 ## Q3 2026

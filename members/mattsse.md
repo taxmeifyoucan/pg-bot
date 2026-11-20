@@ -770,6 +770,11 @@ Team: Reth
 * [Commit] [chore: fix new nightly clippy lints (#28607)](https://github.com/paradigmxyz/reth/commit/8f474b446b17aefc8aae5497039df1527ba50607) - 2026-11-18
 * [Commit] [fix(rpc): bound simulateV1 request parsing (#27918)](https://github.com/paradigmxyz/reth/commit/725f1b77731f3981bfe1cd0864068f0561aa8097) - 2026-11-18
 * [Commit] [fix(rpc): cap unlimited batches by the request size (#28604)](https://github.com/paradigmxyz/reth/commit/fad9eb60911a86ed6af3b8872833d74a55c0405a) - 2026-11-18
+* [Review] [Review on: fix(cli): honor static-file checksum block ranges](https://github.com/paradigmxyz/reth/pull/28615#pullrequestreview-5974026518) - 2026-11-19
+* [Review] [Review on: fix(storage): respect partial genesis history](https://github.com/paradigmxyz/reth/pull/28602#pullrequestreview-5974026886) - 2026-11-19
+* [Review] [Review on: fix(rpc): reject invalid eth_subscribe params](https://github.com/paradigmxyz/reth/pull/28616#pullrequestreview-5974026154) - 2026-11-19
+* [Review] [Review on: fix(rpc): reject unsupported block overrides in calls](https://github.com/paradigmxyz/reth/pull/28614#pullrequestreview-5973920753) - 2026-11-19
+* [Review] [Review on: fix(rpc): apply withdrawals override in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/28613#pullrequestreview-5973920497) - 2026-11-19
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

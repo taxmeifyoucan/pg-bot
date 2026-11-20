@@ -593,6 +593,26 @@ Team: Erigon
 * [Issue] [cmd/capcli: chain download fails at start on a Gloas head whose payload is not revealed](https://github.com/erigontech/erigon/issues/26513) - 2026-11-18
 * [Commit] [db/integrity: run-wide integrity budget; a cut check fails the run (#26509)](https://github.com/erigontech/erigon/commit/dfa41b1657b6da40bccb70646765bf1bac8fc52d) - 2026-11-19
 * [Commit] [cmd/capcli: take the walk's expected blob count from the child it came from (#26506)](https://github.com/erigontech/erigon/commit/ecd128a6fcdce8de7168fceeb13fc7d9270b2386) - 2026-11-18
+* [Pull Request] [cl/antiquary: check every blob slot before a dump](https://github.com/erigontech/erigon/pull/26607) - 2026-11-20
+* [Pull Request] [db/state: v3 convert folds the tail txs after a legacy file's stored state](https://github.com/erigontech/erigon/pull/26605) - 2026-11-20
+* [Pull Request] [stagedsync: v3 branch prefetch no longer pauses at the commitment round start](https://github.com/erigontech/erigon/pull/26596) - 2026-11-20
+* [Pull Request] [execution/stagedsync: hash receipts per tx beside parallel execution](https://github.com/erigontech/erigon/pull/26604) - 2026-11-20
+* [Pull Request] [execution/types: add ListHashStream and build DeriveSha on it](https://github.com/erigontech/erigon/pull/26603) - 2026-11-20
+* [Pull Request] [db/integrity: check blob sidecar segments in parallel and cache passed segments](https://github.com/erigontech/erigon/pull/26602) - 2026-11-20
+* [Review] [Review on: docs: keep admin namespaces off public listeners in examples](https://github.com/erigontech/erigon/pull/26498#pullrequestreview-5986726110) - 2026-11-20
+* [Pull Request] [db/integrity, cmd/utils/app: report a skipped integrity check as skipped, not done](https://github.com/erigontech/erigon/pull/26597) - 2026-11-20
+* [Review] [Review on: execution/state: wipe storage on a preserved SELFDESTRUCT, report every view read error](https://github.com/erigontech/erigon/pull/26593#pullrequestreview-5986751278) - 2026-11-20
+* [Pull Request] [execution/exec: set BlobGasUsed on receipts built by parallel execution](https://github.com/erigontech/erigon/pull/26590) - 2026-11-19
+* [Review] [Review on: docs, .claude/rules: port the 3.8.1 and 3.8.2 release notes to main](https://github.com/erigontech/erigon/pull/26577#pullrequestreview-5980784125) - 2026-11-19
+* [Pull Request] [exec, stagedsync: v3 branch prefetcher reuses its read txs and drains its backlog at fold start](https://github.com/erigontech/erigon/pull/26584) - 2026-11-19
+* [Review] [Review on: exec, stagedsync: v3 branch prefetcher reuses its read txs and drains its backlog at fold start](https://github.com/erigontech/erigon/pull/26584#pullrequestreview-5986279429) - 2026-11-20
+* [Review] [Review on: cmd: drop commitment-regime; backtester and branch refuse commitment v3](https://github.com/erigontech/erigon/pull/26510#pullrequestreview-5977498029) - 2026-11-19
+* [Review] [Review on: execution/vm/runtime, cmd/evm, tests: run on the versioned state](https://github.com/erigontech/erigon/pull/26541#pullrequestreview-5980765213) - 2026-11-19
+* [Review] [Review on: execution, rpc, node: build the versioned state in one call](https://github.com/erigontech/erigon/pull/26540#pullrequestreview-5980760407) - 2026-11-19
+* [Issue] [db/integrity: integrity cache trusts .torrent infohashes when piece verification is skipped or fails](https://github.com/erigontech/erigon/issues/26606) - 2026-11-20
+* [Issue] [cl/phase1/network/services: attestation tests leave batch verifier workers running](https://github.com/erigontech/erigon/issues/26589) - 2026-11-19
+* [Commit] [stagedsync: v3 branch prefetch no longer pauses at the commitment round start (#26596)](https://github.com/erigontech/erigon/commit/5b7ef5c1311d408660a39b52db16e85203bfd4aa) - 2026-11-20
+* [Commit] [execution/exec: set BlobGasUsed on receipts built by parallel execution (#26590)](https://github.com/erigontech/erigon/commit/99eef8820ba72903015066db48d8b40e9a007c65) - 2026-11-20
 ## Q3 2026
 
 

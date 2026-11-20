@@ -87,6 +87,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(runner): name the unrecognized option and drop the help dump on parse errors](https://github.com/NethermindEth/nethermind/pull/15342#pullrequestreview-5830975511) - 2026-11-09
 * [Commit] [fix(runner): name the unrecognized option and drop the help dump on parse errors (#15342)](https://github.com/NethermindEth/nethermind/commit/a5206e8c4b777fbc9a612d1aeecd266737bddb35) - 2026-11-13
 * [Pull Request] [fix(consensus): clear the whole BAL account bitmap on rent ](https://github.com/NethermindEth/nethermind/pull/16090) - 2026-11-18
+* [Pull Request] [Plugins can ship named configurations](https://github.com/NethermindEth/nethermind/pull/16130) - 2026-11-19
+* [Pull Request] [fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132) - 2026-11-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

@@ -23,6 +23,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update CONTRIBUTING.md with new contributor guidelines](https://github.com/ethereum/EIPs/commit/cd7b26d2cf39d2eb071a26e1890e331f58767079) - 2026-10-20
 * [Pull Request] [Update EIP-1: Update EIP-1 with EIP Coordinator details](https://github.com/ethereum/EIPs/pull/12643) - 2026-11-10
+* [Review] [Review on: Update EIP-7623: fix broken relative link to EIP-2028](https://github.com/ethereum/EIPs/pull/12660#pullrequestreview-5977921192) - 2026-11-19
 ## Q3 2026
 
 

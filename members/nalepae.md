@@ -175,6 +175,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Skip null entries when importing slashing protection into the minimal database](https://github.com/OffchainLabs/prysm/pull/17869#pullrequestreview-5956968243) - 2026-11-18
 * [Review] [Review on: Feed gossip aggregate attestations to the slasher](https://github.com/OffchainLabs/prysm/pull/17870#pullrequestreview-5957123485) - 2026-11-18
 * [Commit] [Request a missing block from the best peers if it is an ancestor of a block from the proposer expected by the head state. Otherwise, request it only from the peer that referenced it, and downscore that peer if it does not serve it. (#17871)](https://github.com/OffchainLabs/prysm/commit/506110a9525f75293c5ba548539fcfef9c51bfcc) - 2026-11-18
+* [Pull Request] [Add the JSON containers of the PQ fork.](https://github.com/OffchainLabs/prysm/pull/17901) - 2026-11-19
+* [Review] [Review on: add hdiff kv metrics](https://github.com/OffchainLabs/prysm/pull/17893#pullrequestreview-5974939031) - 2026-11-19
+* [Review] [Review on: add stategen metrics](https://github.com/OffchainLabs/prysm/pull/17892#pullrequestreview-5974911723) - 2026-11-19
+* [Review] [Review on: Metrics for archive node and backfill progress](https://github.com/OffchainLabs/prysm/pull/17891#pullrequestreview-5974834969) - 2026-11-19
+* [Review] [Review on: Do not walk all validators with `ExitInformation` for post-Electra blocks with voluntary exits or slashings](https://github.com/OffchainLabs/prysm/pull/17868#pullrequestreview-5975155085) - 2026-11-19
+* [Pull Request] [ [DO NOT MERGE] PQ fork config, containers and state (from origin/pq)](https://github.com/OffchainLabs/prysm/pull/17898) - 2026-11-19
+* [Review] [Review on: Hdiff state look up metrics](https://github.com/OffchainLabs/prysm/pull/17890#pullrequestreview-5974641458) - 2026-11-19
+* [Pull Request] [Add the post-quantum key derivation of the leanXMSS validator client.](https://github.com/OffchainLabs/prysm/pull/17897) - 2026-11-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

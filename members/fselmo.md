@@ -102,6 +102,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Check blob inclusion list entries for appendability (FOCIL)](https://github.com/besu-eth/besu/pull/11553) - 2026-10-10
 * [Pull Request] [Align evmtool block-test and engine-test with the client runner spec](https://github.com/besu-eth/besu/pull/11842) - 2026-11-02
 * [Review] [Review on: Align evmtool block-test and engine-test with the client runner spec](https://github.com/besu-eth/besu/pull/11842#pullrequestreview-5965799134) - 2026-11-18
+* [Review] [Review on: Align evmtool block-test and engine-test with the client runner spec](https://github.com/besu-eth/besu/pull/11842#pullrequestreview-5970097502) - 2026-11-19
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/stagedsync: run a single exec worker when one is configured](https://github.com/erigontech/erigon/pull/24594) - 2026-10-05
 * [Commit] [execution/stagedsync: run a single exec worker when one is configured (#24594)](https://github.com/erigontech/erigon/commit/83e0334e1dad7ea949e1c3c87c6ff0d565df1bb1) - 2026-10-07

@@ -49,6 +49,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Metrics for archive node and backfill progress](https://github.com/OffchainLabs/prysm/pull/17891) - 2026-11-18
 * [Pull Request] [Hdiff state look up metrics](https://github.com/OffchainLabs/prysm/pull/17890) - 2026-11-18
 * [Commit] [Fix LC P2P request decoding for bootstrap and updates-by-range (#17885)](https://github.com/OffchainLabs/prysm/commit/8a92e7f7da94ca380488f931f0c315a2363f3f09) - 2026-11-18
+* [Commit] [add hdiff kv metrics (#17893)](https://github.com/OffchainLabs/prysm/commit/0c1e3d248a063c10ce31d638217cb97f2b567c85) - 2026-11-19
+* [Commit] [Metrics for archive node and backfill progress (#17891)](https://github.com/OffchainLabs/prysm/commit/ce8c95aabdd286ed53afc1c82375acacc23e7f95) - 2026-11-19
+* [Commit] [add stategen metrics (#17892)](https://github.com/OffchainLabs/prysm/commit/fdaa1790d9a0898a86bc320aaf07c0bb25d8970f) - 2026-11-19
 ## Q3 2026
 
 

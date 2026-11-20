@@ -120,6 +120,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5937263216) - 2026-11-17
 * [Pull Request] [feat: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/10642) - 2026-11-17
 * [Pull Request] [fix: do gossip validation for publishBlockV2](https://github.com/ChainSafe/lodestar/pull/10659) - 2026-11-19
+* [Review] [Review on: fix: do gossip validation for publishBlockV2](https://github.com/ChainSafe/lodestar/pull/10659#pullrequestreview-5970436098) - 2026-11-19
+* [Pull Request] [refactor: remove fork choice irrecoverableError](https://github.com/ChainSafe/lodestar/pull/10661) - 2026-11-19
+* [Pull Request] [fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660) - 2026-11-19
+* [Commit] [refactor: remove fork choice irrecoverableError (#10661)](https://github.com/ChainSafe/lodestar/commit/d3dc575c8e92612aba84749d28137637f9272c8f) - 2026-11-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

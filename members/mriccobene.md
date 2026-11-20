@@ -58,6 +58,8 @@ Team: Erigon
 * [Review] [Review on: rpc_perf: keep the failed level in the JSON report, with its error](https://github.com/erigontech/rpc-tests/pull/660#pullrequestreview-5922183391) - 2026-11-16
 * [Review] [Review on: rpc_perf: take the arrival of a notification apart from its parsing](https://github.com/erigontech/rpc-tests/pull/666#pullrequestreview-5947268392) - 2026-11-17
 * [Review] [Review on: rpc_perf: keep only the head of each response body in memory](https://github.com/erigontech/rpc-tests/pull/665#pullrequestreview-5935946339) - 2026-11-17
+* [Review] [Review on: rpc_perf: read the heavy eth_subscribe classes in a second process](https://github.com/erigontech/rpc-tests/pull/668#pullrequestreview-5983204481) - 2026-11-19
+* [Review] [Review on: rpc_perf, rpc_pattern_gen: split the eth_subscribe connections into client classes](https://github.com/erigontech/rpc-tests/pull/667#pullrequestreview-5975690213) - 2026-11-19
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

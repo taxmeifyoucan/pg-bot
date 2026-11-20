@@ -59,6 +59,12 @@ Team: Grandine
 * [Pull Request] [Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/pull/1046) - 2026-11-13
 * [Review] [Review on: Add missing proposer reorg functionality](https://github.com/grandinetech/grandine/pull/1044#pullrequestreview-5893597293) - 2026-11-13
 * [Review] [Review on: Make Gloas lists in engine API conversions fallible](https://github.com/grandinetech/grandine/pull/1051#pullrequestreview-5955828128) - 2026-11-18
+* [Review] [Review on: Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/pull/1046#pullrequestreview-5975336187) - 2026-11-19
+* [Pull Request] [Fix beacon API discrepancies ](https://github.com/grandinetech/grandine/pull/1054) - 2026-11-19
+* [Issue] [Check Gloas supersets](https://github.com/grandinetech/grandine/issues/1061) - 2026-11-19
+* [Issue] [API discrepancies](https://github.com/grandinetech/grandine/issues/1056) - 2026-11-19
+* [Issue] [inspect cpu usage](https://github.com/grandinetech/grandine/issues/1055) - 2026-11-19
+* [Commit] [Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/commit/1a31652c6f3e05adca0839a5b9c480c86ed7f0eb) - 2026-11-19
 ## Q3 2026
 
 

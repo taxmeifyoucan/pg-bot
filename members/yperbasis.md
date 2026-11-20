@@ -426,6 +426,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution, rpc: implement EIP-7906 transaction assertions (#25602)](https://github.com/erigontech/erigon/commit/d273dece94c39ac33fdbb4d91323bf729472998c) - 2026-11-19
 * [Commit] [db/kv: honor pair deletions in SeekBothExact (#26508)](https://github.com/erigontech/erigon/commit/a635587855a9879370b188971ed76d2b54dfef00) - 2026-11-19
 * [Commit] [db/kv: make overlay deletion markers safe for concurrent reads (#26444)](https://github.com/erigontech/erigon/commit/999399038e1be53a3ec2f5a1042f53c4bd94b3f1) - 2026-11-18
+* [Review] [Review on: docs: keep admin namespaces off public listeners in examples](https://github.com/erigontech/erigon/pull/26498#pullrequestreview-5972499102) - 2026-11-19
+* [Pull Request] [execution/vm: share CREATE/CREATE2 metering and enforce the size limit for opt-in EIP-3860](https://github.com/erigontech/erigon/pull/26572) - 2026-11-19
+* [Review] [Review on: vm, rpc: fix overlay constructor replay](https://github.com/erigontech/erigon/pull/26512#pullrequestreview-5972384590) - 2026-11-19
+* [Pull Request] [txpool: requeue unwound transactions from senders above the slot limit](https://github.com/erigontech/erigon/pull/26571) - 2026-11-19
+* [Pull Request] [txpool: keep executable blob transactions when unwinding at capacity](https://github.com/erigontech/erigon/pull/26581) - 2026-11-19
+* [Review] [Review on: execution, rpc, node: build the versioned state in one call](https://github.com/erigontech/erigon/pull/26540#pullrequestreview-5972635539) - 2026-11-19
+* [Issue] [rpc: start overlay_callConstructor replay at the creation transaction](https://github.com/erigontech/erigon/issues/26586) - 2026-11-19
+* [Issue] [db: deduplicate bytecode stored by SETCODEFROM adopters](https://github.com/erigontech/erigon/issues/26585) - 2026-11-19
+* [Commit] [vm, rpc: fix overlay constructor replay (#26512)](https://github.com/erigontech/erigon/commit/09f2ded4be6dc94c776d6e427152a2c4ac165972) - 2026-11-20
+* [Commit] [txpool: requeue unwound transactions from senders above the slot limit (#26571)](https://github.com/erigontech/erigon/commit/80a06a21d65fb80e21ddbfc769600016d0cc2c78) - 2026-11-20
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

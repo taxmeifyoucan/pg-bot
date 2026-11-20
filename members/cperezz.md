@@ -39,6 +39,9 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [Reorg fixtures: reach a head by syncing from a peer](https://github.com/ethereum/execution-specs/issues/3991) - 2026-11-12
 * [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5938771559) - 2026-11-17
 * [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5964108592) - 2026-11-18
+* [Pull Request] [feat(tests): port hive's remaining reorg.go scenarios](https://github.com/ethereum/execution-specs/pull/4032) - 2026-11-19
+* [Commit] [feat(test-fixtures): add blockchain_test_engine_reorg format and consume reorg simulator (#3556)](https://github.com/ethereum/execution-specs/commit/deabc99f03c18df64aa911fccb994ca181196848) - 2026-11-19
+* [Commit] [feat(tests): add MPT gap, same-path rebuild and bulk batch cases (#3984)](https://github.com/ethereum/execution-specs/commit/071a7884378f31dedb88f131274e465da3999250) - 2026-11-19
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15
@@ -51,6 +54,10 @@ Github: [@cperezz](https://github.com/cperezz)
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients: add HIVE_* switches for non-default state-root and trie modes](https://github.com/ethereum/hive/pull/1662) - 2026-11-11
 
+* [Pull Request] [simulators/ethereum/engine: remove the remaining re-org tests](https://github.com/ethereum/hive/pull/1668) - 2026-11-19
+* [Review] [Review on: simulators/ethereum/eels: add consume-reorg simulator (blockchain_test_engine_reorg fixtures)](https://github.com/ethereum/hive/pull/1608#pullrequestreview-5976157214) - 2026-11-19
+* [Commit] [clients: add HIVE_* switches for non-default state-root and trie modes (#1662)](https://github.com/ethereum/hive/commit/c3e5aaf2b10c9a40bea0ceb738140d48fad5e853) - 2026-11-19
+* [Commit] [simulators/ethereum/eels: add consume-reorg simulator (blockchain_test_engine_reorg fixtures) (#1608)](https://github.com/ethereum/hive/commit/b6fb439cf54490ba0975fb72c47fdcf08167ace2) - 2026-11-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [X_BONSAI_ARCHIVE: startup archive migration closes the world state an RLP import is using](https://github.com/besu-eth/besu/issues/11958) - 2026-11-12
 

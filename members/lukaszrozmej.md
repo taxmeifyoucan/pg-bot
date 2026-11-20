@@ -1032,6 +1032,37 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): run MULMOD and ADDMOD on the OpenVM modular extension for its configured moduli (#16061)](https://github.com/NethermindEth/nethermind/commit/d14e2508abe395de50322bee7f8ca4b9a3b49b74) - 2026-11-18
 * [Commit] [fix(build): pass AccountStruct in callers missed by #15876 (#16063)](https://github.com/NethermindEth/nethermind/commit/d490e2401f1a38ebb7d0a195204ef856873d8528) - 2026-11-18
 * [Commit] [test(specs): match the bootnode parse error whatever the log masking (#16059)](https://github.com/NethermindEth/nethermind/commit/f9aac3610f1ef34c39dd62c0a41634df97dd200a) - 2026-11-18
+* [Pull Request] [perf(evm): skip a frame's zero credit under EIP-7928 too](https://github.com/NethermindEth/nethermind/pull/16160) - 2026-11-20
+* [Review] [Review on: refactor(txpool)!: split the mempool form out of Transaction into MempoolTransaction](https://github.com/NethermindEth/nethermind/pull/16006#pullrequestreview-5977915397) - 2026-11-19
+* [Review] [Review on: fix(tracing): accept the full JavaScript tracer timeout range](https://github.com/NethermindEth/nethermind/pull/16107#pullrequestreview-5978117581) - 2026-11-19
+* [Review] [Review on: fix(tracing): preserve JavaScript callback error envelopes](https://github.com/NethermindEth/nethermind/pull/16095#pullrequestreview-5978096990) - 2026-11-19
+* [Review] [Review on: docs: clarify permissive trace timeout input formats](https://github.com/NethermindEth/nethermind/pull/16099#pullrequestreview-5978105970) - 2026-11-19
+* [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-5986211466) - 2026-11-20
+* [Review] [Review on: feat(analyzers): add NETH010 — disallow empty catch blocks](https://github.com/NethermindEth/nethermind/pull/16121#pullrequestreview-5973584015) - 2026-11-19
+* [Review] [Review on: Plugins can ship named configurations](https://github.com/NethermindEth/nethermind/pull/16130#pullrequestreview-5980247134) - 2026-11-19
+* [Pull Request] [perf(zkevm): push the empty-input digest for a zero-length KECCAK256 in the guest handler](https://github.com/NethermindEth/nethermind/pull/16148) - 2026-11-19
+* [Review] [Review on: perf(zkevm): push the empty-input digest for a zero-length KECCAK256 in the guest handler](https://github.com/NethermindEth/nethermind/pull/16148#pullrequestreview-5984817448) - 2026-11-19
+* [Review] [Review on: fix(sync): persist snap storage nodes only within the ranges of one root](https://github.com/NethermindEth/nethermind/pull/16014#pullrequestreview-5977839650) - 2026-11-19
+* [Pull Request] [perf(zkevm): answer MODEXP of an empty base or exponent without the accelerator](https://github.com/NethermindEth/nethermind/pull/16155) - 2026-11-19
+* [Review] [Review on: perf(zkevm): run 256-bit ADD, SUB, shifts and comparisons on OpenVM's bigint extension on RV32](https://github.com/NethermindEth/nethermind/pull/16106#pullrequestreview-5973566500) - 2026-11-19
+* [Pull Request] [test(trace-store): hold concurrent window readers until the cancellation stops the loop](https://github.com/NethermindEth/nethermind/pull/16149) - 2026-11-19
+* [Review] [Review on: test(trace-store): hold concurrent window readers until the cancellation stops the loop](https://github.com/NethermindEth/nethermind/pull/16149#pullrequestreview-5984806752) - 2026-11-19
+* [Pull Request] [perf(zkevm): compare trie key prefixes and hashes by words on SP1](https://github.com/NethermindEth/nethermind/pull/16123) - 2026-11-19
+* [Review] [Review on: perf(zkevm): compare trie key prefixes and hashes by words on SP1](https://github.com/NethermindEth/nethermind/pull/16123#pullrequestreview-5975000753) - 2026-11-19
+* [Review] [Review on: perf(consensus): lock-free GasValidationResultSlot](https://github.com/NethermindEth/nethermind/pull/16092#pullrequestreview-5978090543) - 2026-11-19
+* [Review] [Review on: build: enable CA2016 analyzer](https://github.com/NethermindEth/nethermind/pull/16122#pullrequestreview-5973557225) - 2026-11-19
+* [Review] [Review on: fix(sync): reject block bodies replies with more bodies than requested before decoding](https://github.com/NethermindEth/nethermind/pull/16136#pullrequestreview-5980321802) - 2026-11-19
+* [Review] [Review on: perf(prewarm): cap the effects a hand-off footprint records per transaction](https://github.com/NethermindEth/nethermind/pull/16134#pullrequestreview-5980331573) - 2026-11-19
+* [Review] [Review on: ci(zkevm): test the guests on invalid tests-zkevm blocks nightly and before releases](https://github.com/NethermindEth/nethermind/pull/16109#pullrequestreview-5978198931) - 2026-11-19
+* [Review] [Review on: fix(runner): exit 143 on SIGTERM and fix shutdown edge cases](https://github.com/NethermindEth/nethermind/pull/16113#pullrequestreview-5980130258) - 2026-11-19
+* [Commit] [perf(zkevm): compare trie key prefixes and hashes by words on SP1 (#16123)](https://github.com/NethermindEth/nethermind/commit/f9ac379a40831aebc3b7ea6fcaf37db106ee5721) - 2026-11-19
+* [Commit] [perf(zkevm): copy the Keccak state lane by lane on OpenVM (#16105)](https://github.com/NethermindEth/nethermind/commit/0ea54d6d3be89cb772ad0268ed132f37b3d89bfb) - 2026-11-19
+* [Commit] [fix(ethstats): log ping handler failures instead of crashing the process (#16126)](https://github.com/NethermindEth/nethermind/commit/440bf3deaf6fe8b65214e16b72b6f6fffc7a798d) - 2026-11-19
+* [Commit] [perf(zkevm): reduce modulo a large modulus without long division on Airbender (#16117)](https://github.com/NethermindEth/nethermind/commit/d0b2c0b849e4e56594aa2eac1e7ef879652e7783) - 2026-11-19
+* [Commit] [perf(zkevm): read misaligned trie hashes and leaf keys by words on SP1 (#16096)](https://github.com/NethermindEth/nethermind/commit/f49a86279af6817819ab5d79d6fe5b7aeced34fb) - 2026-11-19
+* [Commit] [perf(zkevm): skip copying unused trusted recovery hints (#16087)](https://github.com/NethermindEth/nethermind/commit/5ba0f94d3a773439ec2b6addd476536f54e21d1e) - 2026-11-19
+* [Commit] [perf(zkevm): look up verified recovery hints in execution order (#16081)](https://github.com/NethermindEth/nethermind/commit/70664e685c63da8b4630de60871805a4b54dcf7e) - 2026-11-19
+* [Commit] [perf(zkevm): allow trusted input conversion without recovery hints (#16078)](https://github.com/NethermindEth/nethermind/commit/2831703e22e0587ffbfe9ee6a7a5712bbc7fcd1a) - 2026-11-19
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

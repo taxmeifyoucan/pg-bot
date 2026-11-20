@@ -98,6 +98,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(sync): delete the storage of accounts that a healed state node removes](https://github.com/NethermindEth/nethermind/pull/16000#pullrequestreview-5933116485) - 2026-11-17
 * [Commit] [perf(sync): use AccountStruct in flat raw persistence and snap messages (#15876)](https://github.com/NethermindEth/nethermind/commit/270cbfc94b6cab4b3d0f356d56746371f2ef21be) - 2026-11-18
 * [Commit] [feat(flat): migrate the pruning trie state to flat while the node runs (#15638)](https://github.com/NethermindEth/nethermind/commit/de50869e1287dc02d67aee243f75ae20d2d4b7bd) - 2026-11-18
+* [Pull Request] [perf(flat): build snap sync ranges with the node record bulk set](https://github.com/NethermindEth/nethermind/pull/16162) - 2026-11-20
+* [Review] [Review on: perf(flat): build snap sync ranges with the node record bulk set](https://github.com/NethermindEth/nethermind/pull/16162#pullrequestreview-5987133656) - 2026-11-20
+* [Pull Request] [fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127) - 2026-11-19
+* [Review] [Review on: Plugins can ship named configurations](https://github.com/NethermindEth/nethermind/pull/16130#pullrequestreview-5985668989) - 2026-11-20
+* [Pull Request] [fix(sync): remove a mismatched flat trie node when healing goes down past it](https://github.com/NethermindEth/nethermind/pull/16135) - 2026-11-19
+* [Pull Request] [fix(sync): persist snap storage nodes only within the ranges of one root](https://github.com/NethermindEth/nethermind/pull/16014) - 2026-11-19
+* [Pull Request] [feat(rpc)!: pass request cancellation to JSON-RPC methods](https://github.com/NethermindEth/nethermind/pull/15766) - 2026-11-19
+* [Review] [Review on: fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132#pullrequestreview-5975552165) - 2026-11-19
+* [Commit] [fix(sync): persist snap storage nodes only within the ranges of one root (#16014)](https://github.com/NethermindEth/nethermind/commit/47b18558395de17d3cab134df9bc7cb6ca4d833f) - 2026-11-19
+* [Commit] [feat(rpc)!: pass request cancellation to JSON-RPC methods (#15766)](https://github.com/NethermindEth/nethermind/commit/d6e55f239c4f02f17bdfda6418a248d5a7d534e0) - 2026-11-19
+* [Commit] [fix(state): count storage trie hash mismatches in FlatTrieVerifier (#16125)](https://github.com/NethermindEth/nethermind/commit/e53eec1760eb70c85c00d55417198aecec54cba9) - 2026-11-19
 ## Q3 2026
 
 

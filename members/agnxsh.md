@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285) - 2026-10-15
 * [Pull Request] [add inclusion list publisher](https://github.com/status-im/nimbus-eth2/pull/9351) - 2026-10-22
 * [Pull Request] [Speedup attestation key aggregation with cached committee sums](https://github.com/status-im/nimbus-eth2/pull/9420) - 2026-11-02
+* [Pull Request] [Pq devnet 0](https://github.com/status-im/nimbus-eth2/pull/9459) - 2026-11-19
 ## Q3 2026
 
 

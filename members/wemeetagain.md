@@ -189,6 +189,24 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: apply every execution INVALID verdict to fork choice with one rule (#10614)](https://github.com/ChainSafe/lodestar/commit/a9e15e2b942ae1cc05679707ed42e8c70733ab20) - 2026-11-18
 * [Commit] [feat: bundle a native addon per preset (#10637)](https://github.com/ChainSafe/lodestar/commit/f3cc451977a07ea150e18ea34d583552419c8846) - 2026-11-18
 * [Commit] [fix: correct availability timing metrics (#10470)](https://github.com/ChainSafe/lodestar/commit/b76fc9b7084dfbef26104bea3ff3710d7cf1b59f) - 2026-11-18
+* [Pull Request] [feat: add opt-in native networking backend](https://github.com/ChainSafe/lodestar/pull/10677) - 2026-11-19
+* [Pull Request] [feat: add NAPI bindings for native networking](https://github.com/ChainSafe/lodestar/pull/10676) - 2026-11-19
+* [Pull Request] [feat: add network core for native networking](https://github.com/ChainSafe/lodestar/pull/10675) - 2026-11-19
+* [Pull Request] [feat: add peer management for native networking](https://github.com/ChainSafe/lodestar/pull/10674) - 2026-11-19
+* [Pull Request] [feat: add gossipsub for native networking](https://github.com/ChainSafe/lodestar/pull/10672) - 2026-11-19
+* [Pull Request] [feat: add stream protocols for native networking](https://github.com/ChainSafe/lodestar/pull/10671) - 2026-11-19
+* [Pull Request] [feat: add QUIC transport for native networking](https://github.com/ChainSafe/lodestar/pull/10670) - 2026-11-19
+* [Pull Request] [feat: add discv5 for native networking](https://github.com/ChainSafe/lodestar/pull/10669) - 2026-11-19
+* [Pull Request] [feat: add UDP sockets for native networking](https://github.com/ChainSafe/lodestar/pull/10668) - 2026-11-19
+* [Review] [Review on: feat: add UDP sockets for native networking](https://github.com/ChainSafe/lodestar/pull/10668#pullrequestreview-5983511874) - 2026-11-19
+* [Pull Request] [feat(network): opt libp2p into shared native gossip queues](https://github.com/ChainSafe/lodestar/pull/10683) - 2026-11-19
+* [Review] [Review on: feat: start the native fork choice from an unfinalized state](https://github.com/ChainSafe/lodestar/pull/10653#pullrequestreview-5981488187) - 2026-11-19
+* [Review] [Review on: fix: always verify proposer signature before publishing a block](https://github.com/ChainSafe/lodestar/pull/10684#pullrequestreview-5981637810) - 2026-11-19
+* [Review] [Review on: fix: report peers for invalid SSZ responses](https://github.com/ChainSafe/lodestar/pull/10654#pullrequestreview-5981383414) - 2026-11-19
+* [Review] [Review on: refactor: remove fork choice irrecoverableError](https://github.com/ChainSafe/lodestar/pull/10661#pullrequestreview-5980978856) - 2026-11-19
+* [Review] [Review on: fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660#pullrequestreview-5981146133) - 2026-11-19
+* [Review] [Review on: fix: compute native genesis anchor root from latest block header](https://github.com/ChainSafe/lodestar/pull/10681#pullrequestreview-5980918669) - 2026-11-19
+* [Pull Request] [fix: harden block publishing, gossip size limits and range request handlers](https://github.com/ChainSafe/lodestar/pull/10667) - 2026-11-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

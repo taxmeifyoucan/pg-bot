@@ -327,6 +327,46 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(rpc): keep the eth_feeHistory cache cleanup running (#16065)](https://github.com/NethermindEth/nethermind/commit/97fa6afcddcabaf75cd1401e54d14b236235feb6) - 2026-11-18
 * [Commit] [fix(rpc): honour prevRandao block overrides on pre-merge blocks from London on (#16064)](https://github.com/NethermindEth/nethermind/commit/291cb7208fbda02ec979e167efa28e33c9f1c0d0) - 2026-11-18
 * [Commit] [fix(optimism): match op-node's snappy decoding in the CL gossip message ID and validator (#16040)](https://github.com/NethermindEth/nethermind/commit/6f9f9f1d0eafd6e443887fbfc5c8b096cf8313e7) - 2026-11-18
+* [Review] [Review on: refactor(txpool)!: split the mempool form out of Transaction into MempoolTransaction](https://github.com/NethermindEth/nethermind/pull/16006#pullrequestreview-5986867082) - 2026-11-20
+* [Review] [Review on: fix(tracing): accept the full JavaScript tracer timeout range](https://github.com/NethermindEth/nethermind/pull/16107#pullrequestreview-5976706500) - 2026-11-19
+* [Review] [Review on: fix(tracing): preserve JavaScript callback error envelopes](https://github.com/NethermindEth/nethermind/pull/16095#pullrequestreview-5976528130) - 2026-11-19
+* [Review] [Review on: docs: clarify permissive trace timeout input formats](https://github.com/NethermindEth/nethermind/pull/16099#pullrequestreview-5979506465) - 2026-11-19
+* [Review] [Review on: Plugins can ship named configurations](https://github.com/NethermindEth/nethermind/pull/16130#pullrequestreview-5978895803) - 2026-11-19
+* [Review] [Review on: perf(zkevm): push the empty-input digest for a zero-length KECCAK256 in the guest handler](https://github.com/NethermindEth/nethermind/pull/16148#pullrequestreview-5984230113) - 2026-11-19
+* [Pull Request] [fix(consensus): dev block withdrawals, Ethash cache and sealer, dev wallet, Hive runner](https://github.com/NethermindEth/nethermind/pull/16129) - 2026-11-19
+* [Review] [Review on: fix(consensus): dev block withdrawals, Ethash cache and sealer, dev wallet, Hive runner](https://github.com/NethermindEth/nethermind/pull/16129#pullrequestreview-5974913478) - 2026-11-19
+* [Review] [Review on: fix(sync): persist snap storage nodes only within the ranges of one root](https://github.com/NethermindEth/nethermind/pull/16014#pullrequestreview-5975795491) - 2026-11-19
+* [Pull Request] [fix(keystore): derive scrypt keys on one thread and bound their resources](https://github.com/NethermindEth/nethermind/pull/16154) - 2026-11-19
+* [Review] [Review on: perf(zkevm): run 256-bit ADD, SUB, shifts and comparisons on OpenVM's bigint extension on RV32](https://github.com/NethermindEth/nethermind/pull/16106#pullrequestreview-5975400903) - 2026-11-19
+* [Review] [Review on: test(trace-store): hold concurrent window readers until the cancellation stops the loop](https://github.com/NethermindEth/nethermind/pull/16149#pullrequestreview-5984522874) - 2026-11-19
+* [Review] [Review on: perf(zkevm): compare trie key prefixes and hashes by words on SP1](https://github.com/NethermindEth/nethermind/pull/16123#pullrequestreview-5974574989) - 2026-11-19
+* [Review] [Review on: perf(zkevm): copy the Keccak state lane by lane on OpenVM](https://github.com/NethermindEth/nethermind/pull/16105#pullrequestreview-5975727359) - 2026-11-19
+* [Review] [Review on: fix(tracing): align 4byteTracer and callTracer rejected-call, stack-overflow and SELFDESTRUCT diagnostics with Geth](https://github.com/NethermindEth/nethermind/pull/16023#pullrequestreview-5979752883) - 2026-11-19
+* [Review] [Review on: fix(txpool): request a blob tx again after another copy failed its sidecar or nonce checks](https://github.com/NethermindEth/nethermind/pull/16137#pullrequestreview-5978908463) - 2026-11-19
+* [Pull Request] [fix(config, init): follow-ups to the config and init fixes](https://github.com/NethermindEth/nethermind/pull/16151) - 2026-11-19
+* [Pull Request] [fix(snapshot): keep a database the snapshot did not write and keep linked database directories](https://github.com/NethermindEth/nethermind/pull/16152) - 2026-11-19
+* [Review] [Review on: fix(snapshot): keep a database the snapshot did not write and keep linked database directories](https://github.com/NethermindEth/nethermind/pull/16152#pullrequestreview-5984251202) - 2026-11-19
+* [Review] [Review on: perf(consensus): lock-free GasValidationResultSlot](https://github.com/NethermindEth/nethermind/pull/16092#pullrequestreview-5978630619) - 2026-11-19
+* [Pull Request] [fix(merge): forward GenesisStateUnavailable in spec wrappers and fix beacon sync and payload Trace lines](https://github.com/NethermindEth/nethermind/pull/16150) - 2026-11-19
+* [Review] [Review on: build: enable CA2016 analyzer](https://github.com/NethermindEth/nethermind/pull/16122#pullrequestreview-5983373284) - 2026-11-19
+* [Review] [Review on: fix(sync): reject block bodies replies with more bodies than requested before decoding](https://github.com/NethermindEth/nethermind/pull/16136#pullrequestreview-5978705219) - 2026-11-19
+* [Review] [Review on: perf(prewarm): cap the effects a hand-off footprint records per transaction](https://github.com/NethermindEth/nethermind/pull/16134#pullrequestreview-5978531819) - 2026-11-19
+* [Review] [Review on: perf(prewarm): bound the gas the mempool pre-warmer executes per pass and per session](https://github.com/NethermindEth/nethermind/pull/16131#pullrequestreview-5979143536) - 2026-11-19
+* [Review] [Review on: fix(debug): native tracerConfig and timeout errors on traceCall, InBlockByHash and BadBlock](https://github.com/NethermindEth/nethermind/pull/16016#pullrequestreview-5979265270) - 2026-11-19
+* [Review] [Review on: ci(zkevm): test the guests on invalid tests-zkevm blocks nightly and before releases](https://github.com/NethermindEth/nethermind/pull/16109#pullrequestreview-5978976738) - 2026-11-19
+* [Review] [Review on: fix(sync): resume header sync at the pivot and reject an unexpected first header](https://github.com/NethermindEth/nethermind/pull/16112#pullrequestreview-5973852779) - 2026-11-19
+* [Review] [Review on: fix(runner): exit 143 on SIGTERM and fix shutdown edge cases](https://github.com/NethermindEth/nethermind/pull/16113#pullrequestreview-5975310179) - 2026-11-19
+* [Review] [Review on: fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132#pullrequestreview-5977857821) - 2026-11-19
+* [Commit] [ci(hive): fail the job when the client launch test fails (#16073)](https://github.com/NethermindEth/nethermind/commit/7dc14c239d9e135f8fead27f53a72744a34196ac) - 2026-11-19
+* [Commit] [fix(trie): uncount a cached persisted node when a committed node replaces it (#16111)](https://github.com/NethermindEth/nethermind/commit/8110bde39127ca431f330e0a0e6452834a04f32b) - 2026-11-19
+* [Commit] [fix(config, init): config parsing, plugin order and init step defects (#16128)](https://github.com/NethermindEth/nethermind/commit/b856d730d68de10b6f9e8ea556abc91ff9654edf) - 2026-11-19
+* [Commit] [fix(sync): pooled list disposal and pre-merge peer choice (#16088)](https://github.com/NethermindEth/nethermind/commit/cb0b2f847806986558e0f0c45ba84c859ca4c0ee) - 2026-11-19
+* [Commit] [fix(rpc): trace_call with reward types, relay client retries, receipts span leak (#16070)](https://github.com/NethermindEth/nethermind/commit/59e4a6ba88d0d6e5858a69672f1720ce6d91ab69) - 2026-11-19
+* [Commit] [fix(keystore): write only the KDF the key was derived with (#16066)](https://github.com/NethermindEth/nethermind/commit/3c8c357b6bdf9566d6fe5827fdb63dda4cf4a21f) - 2026-11-19
+* [Commit] [test(merge): make Engine API tests test what they name (#16098)](https://github.com/NethermindEth/nethermind/commit/a317ad005865603dbc5789bd0f11fad521eb568a) - 2026-11-19
+* [Commit] [fix(sync): keep a peer whose head request faults with a timeout, plus small sync fixes (#16072)](https://github.com/NethermindEth/nethermind/commit/22f6711374095a36c1fd33e2e7d040630847fb56) - 2026-11-19
+* [Commit] [fix(rpc): gas price cache race, signature input errors, subscription and node info fixes (#16069)](https://github.com/NethermindEth/nethermind/commit/0f81a91d779cc3923da8567bd159252ce81ca98e) - 2026-11-19
+* [Commit] [fix(txpool): stop SortedPool.RemoveLast from spinning when no worst value is left (#16067)](https://github.com/NethermindEth/nethermind/commit/b71f2c5a798718b04e81c618e1d11d7ed4743658) - 2026-11-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

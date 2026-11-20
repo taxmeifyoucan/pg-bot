@@ -305,6 +305,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_perf: take the arrival of a notification apart from its parsing](https://github.com/erigontech/rpc-tests/pull/666) - 2026-11-17
 * [Commit] [rpc_perf: take the arrival of a notification apart from its parsing (#666)](https://github.com/erigontech/rpc-tests/commit/42717417fe3df4f4bbe1ea76e55f45932e548066) - 2026-11-17
 * [Commit] [rpc_perf: keep only the head of each response body in memory (#665)](https://github.com/erigontech/rpc-tests/commit/778e79d9de48ff94edcf27dd2f4b6705a8c8eeca) - 2026-11-17
+* [Pull Request] [rpc_perf: read the heavy eth_subscribe classes in a second process](https://github.com/erigontech/rpc-tests/pull/668) - 2026-11-19
+* [Pull Request] [rpc_perf, rpc_pattern_gen: split the eth_subscribe connections into client classes](https://github.com/erigontech/rpc-tests/pull/667) - 2026-11-19
+* [Commit] [rpc_perf, rpc_pattern_gen: split the eth_subscribe connections into client classes (#667)](https://github.com/erigontech/rpc-tests/commit/4bb9f61c0ef25720c35a6965de8934d7d4505b48) - 2026-11-19
 ## Q3 2026
 
 

@@ -307,6 +307,21 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Close evmtool block-test trace output file](https://github.com/besu-eth/besu/pull/12008) - 2026-11-19
 * [Review] [Review on: Pin eth_estimateGas insufficient-funds error with spec fixtures](https://github.com/besu-eth/besu/pull/11966#pullrequestreview-5951567304) - 2026-11-18
 * [Review] [Review on: Return full 32-byte codehash from debug_accountAt](https://github.com/besu-eth/besu/pull/11976#pullrequestreview-5951435684) - 2026-11-18
+* [Pull Request] [Remove the RocksDB partition filter option, which RocksDB ignores](https://github.com/besu-eth/besu/pull/12013) - 2026-11-20
+* [Review] [Review on: Enable NullAway for consensus/common](https://github.com/besu-eth/besu/pull/11991#pullrequestreview-5987569001) - 2026-11-20
+* [Review] [Review on: Apply previously-announced behaviour change for `--rpc-tx-feecap=0`](https://github.com/besu-eth/besu/pull/11993#pullrequestreview-5987492461) - 2026-11-20
+* [Review] [Review on: Reject block overrides on eth_call, eth_estimateGas, eth_createAccessList, trace_call and debug_traceCall](https://github.com/besu-eth/besu/pull/11629#pullrequestreview-5987264631) - 2026-11-20
+* [Review] [Review on: Add negative reject test vectors for SECP256R1 signature verify](https://github.com/besu-eth/besu/pull/11908#pullrequestreview-5987051206) - 2026-11-20
+* [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-5986875951) - 2026-11-20
+* [Review] [Review on: Return an error from debug_traceBlock and trace_block when parent state is unavailable](https://github.com/besu-eth/besu/pull/11970#pullrequestreview-5986572248) - 2026-11-20
+* [Review] [Review on: fix(tracing): retain root precompile halt reasons](https://github.com/besu-eth/besu/pull/11347#pullrequestreview-5985687550) - 2026-11-20
+* [Review] [Review on: 11962 estimategas strict](https://github.com/besu-eth/besu/pull/11974#pullrequestreview-5985559594) - 2026-11-20
+* [Pull Request] [Remove unused private RocksDB metric categories](https://github.com/besu-eth/besu/pull/12012) - 2026-11-19
+* [Review] [Review on: Run DCO and CI again when a pull request changes base branch](https://github.com/besu-eth/besu/pull/12011#pullrequestreview-5983318222) - 2026-11-19
+* [Review] [Review on: fix(api): remove all log bloom segments intersecting an unaligned range](https://github.com/besu-eth/besu/pull/11949#pullrequestreview-5970394104) - 2026-11-19
+* [Commit] [Add a JMH benchmark for RocksDB gets of present and absent keys (#11988)](https://github.com/besu-eth/besu/commit/97623de85ac0b58093bb47f8be32e177147a7b11) - 2026-11-20
+* [Commit] [Rebuild the evmtool Docker image from the current distribution (#11965)](https://github.com/besu-eth/besu/commit/1711ad28520905d74ead2f91de048d5f6875843c) - 2026-11-19
+* [Commit] [Close evmtool block-test trace output file (#12008)](https://github.com/besu-eth/besu/commit/9c672efeabf7cbc6b6e8d1ba742b7f9a75afb594) - 2026-11-19
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

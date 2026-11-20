@@ -377,6 +377,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: reduce `MIN_EPOCHS_FOR_BLOCK_REQUESTS` for gloas (#10120)](https://github.com/ChainSafe/lodestar/commit/efd56334686b7b22d3002398c48f679a851f2fd8) - 2026-11-13
 * [Pull Request] [chore: v1.51.0 release](https://github.com/ChainSafe/lodestar/pull/10472) - 2026-11-17
 * [Commit] [perf: verify attestation signatures against cached committee pubkeys (#10568)](https://github.com/ChainSafe/lodestar/commit/a94ada0e67e123d636823db20b7696c222793e41) - 2026-11-18
+* [Review] [Review on: fix: allow next epoch duties requests before genesis](https://github.com/ChainSafe/lodestar/pull/10383#pullrequestreview-5983930968) - 2026-11-19
+* [Review] [Review on: fix: bound Fulu gossip columns by topic blob limits](https://github.com/ChainSafe/lodestar/pull/10656#pullrequestreview-5984089162) - 2026-11-19
+* [Review] [Review on: fix: do gossip validation for publishBlockV2](https://github.com/ChainSafe/lodestar/pull/10659#pullrequestreview-5978297732) - 2026-11-19
+* [Pull Request] [fix: always verify proposer signature before publishing a block](https://github.com/ChainSafe/lodestar/pull/10684) - 2026-11-19
+* [Pull Request] [fix: compute native genesis anchor root from latest block header](https://github.com/ChainSafe/lodestar/pull/10681) - 2026-11-19
+* [Review] [Review on: fix: compute native genesis anchor root from latest block header](https://github.com/ChainSafe/lodestar/pull/10681#pullrequestreview-5981040050) - 2026-11-19
+* [Review] [Review on: ci: bump kurtosis-cli to 1.23.0 for ethereum-package host_ip ports](https://github.com/ChainSafe/lodestar/pull/10666#pullrequestreview-5977348737) - 2026-11-19
+* [Pull Request] [refactor: move inclusion list check into `getPayloadStatusTiebreaker`](https://github.com/ChainSafe/lodestar/pull/10664) - 2026-11-19
+* [Pull Request] [fix: retain inclusion lists one slot past the request window](https://github.com/ChainSafe/lodestar/pull/10507) - 2026-11-19
+* [Pull Request] [feat: ignore execution payload bids a proposer cannot select](https://github.com/ChainSafe/lodestar/pull/10663) - 2026-11-19
+* [Commit] [fix: always verify proposer signature before publishing a block (#10684)](https://github.com/ChainSafe/lodestar/commit/eea81beb7c1272ec4f45ff457c2207aa3097bef8) - 2026-11-19
+* [Commit] [fix: compute native genesis anchor root from latest block header (#10681)](https://github.com/ChainSafe/lodestar/commit/9c81d25e01e934965b0247b24ced230edd8e75ef) - 2026-11-19
+* [Commit] [fix: retain inclusion lists one slot past the request window (#10507)](https://github.com/ChainSafe/lodestar/commit/693981c543aa56fc27510ccf739448200e387169) - 2026-11-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -402,6 +415,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5875209544) - 2026-11-12
 * [Pull Request] [Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785) - 2026-11-17
 * [Commit] [Retain inclusion lists one slot past the request window (#5785)](https://github.com/ethereum/consensus-specs/commit/2ea9d96a420927eb1a35d7c9399c8b3691c69f6a) - 2026-11-17
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5972962252) - 2026-11-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
