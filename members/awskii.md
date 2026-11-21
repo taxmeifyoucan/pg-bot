@@ -613,6 +613,22 @@ Team: Erigon
 * [Issue] [cl/phase1/network/services: attestation tests leave batch verifier workers running](https://github.com/erigontech/erigon/issues/26589) - 2026-11-19
 * [Commit] [stagedsync: v3 branch prefetch no longer pauses at the commitment round start (#26596)](https://github.com/erigontech/erigon/commit/5b7ef5c1311d408660a39b52db16e85203bfd4aa) - 2026-11-20
 * [Commit] [execution/exec: set BlobGasUsed on receipts built by parallel execution (#26590)](https://github.com/erigontech/erigon/commit/99eef8820ba72903015066db48d8b40e9a007c65) - 2026-11-20
+* [Review] [Review on: cmd/evm: cut zkevmtest peak RAM by 32% by streaming fixtures](https://github.com/erigontech/erigon/pull/26614#pullrequestreview-5992051050) - 2026-11-20
+* [Review] [Review on: cmd/evm: lower enginextest peak RAM by decoding tests lazily](https://github.com/erigontech/erigon/pull/26618#pullrequestreview-5993567513) - 2026-11-20
+* [Review] [Review on: cmd/evm: lower blocktest peak RAM by streaming fixtures](https://github.com/erigontech/erigon/pull/26619#pullrequestreview-5994125560) - 2026-11-20
+* [Pull Request] [db/state, cmd: file-only commitment convert and restore, refuse mixed datadirs](https://github.com/erigontech/erigon/pull/26511) - 2026-11-21
+* [Review] [Review on: execution/state: fix the genesis root of allocs with a constructor](https://github.com/erigontech/erigon/pull/26595#pullrequestreview-5991452304) - 2026-11-20
+* [Pull Request] [db/integrity: MADV_SEQUENTIAL for blob segments in CaplinBlobSidecars](https://github.com/erigontech/erigon/pull/26634) - 2026-11-20
+* [Review] [Review on: execution/state: state.New builds a versioned state](https://github.com/erigontech/erigon/pull/26617#pullrequestreview-5993769930) - 2026-11-20
+* [Review] [Review on: cl/antiquary: test that antiquateBlobs waits for a lost blob sidecar file](https://github.com/erigontech/erigon/pull/26625#pullrequestreview-5993865096) - 2026-11-20
+* [Issue] [genesiswrite: an earlier constructor's storage survives a later alloc constructor at the same address](https://github.com/erigontech/erigon/issues/26624) - 2026-11-20
+* [Issue] [cl: the blob backfill warning cannot fire while a backfill pass runs](https://github.com/erigontech/erigon/issues/26609) - 2026-11-20
+* [Commit] [db/state, cmd: file-only commitment convert and restore, refuse mixed datadirs (#26511)](https://github.com/erigontech/erigon/commit/10b310b4cf3a515b1359904ef1f1a77566192396) - 2026-11-21
+* [Commit] [db/integrity: MADV_SEQUENTIAL for blob segments in CaplinBlobSidecars (#26634)](https://github.com/erigontech/erigon/commit/2d5c65845cc0fe2f67d829adfed31a16032684b8) - 2026-11-21
+* [Commit] [cl/antiquary: check every blob slot before a dump (#26607)](https://github.com/erigontech/erigon/commit/826ccbdd8ef32e92b167f04ec5cefa5a30f72fc5) - 2026-11-20
+* [Commit] [cl/blobfetch: cap Retry-After before it overflows, use an own transport (#26608)](https://github.com/erigontech/erigon/commit/a1f6adfab5ff4631929ad69b4c2d660b5994d599) - 2026-11-20
+* [Commit] [db/state: v3 convert folds the tail txs after a legacy file's stored state (#26605)](https://github.com/erigontech/erigon/commit/2a621ea171869c85a5186a8bb8612b6f9f60bf93) - 2026-11-20
+* [Commit] [db/integrity: check blob sidecar segments in parallel and cache passed segments (#26602)](https://github.com/erigontech/erigon/commit/f8585ee50bf90de75df65ce8e85af9c9bb6f5ccb) - 2026-11-20
 ## Q3 2026
 
 

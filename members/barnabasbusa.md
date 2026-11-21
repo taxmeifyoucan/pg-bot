@@ -111,6 +111,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci: run consensus client interop through assertoor](https://github.com/ChainSafe/lodestar/pull/10365) - 2026-10-12
 * [Review] [Review on: fix: resolve builder pubkeys in a single pass in getStateBuilders](https://github.com/ChainSafe/lodestar/pull/10408#pullrequestreview-5534155424) - 2026-10-15
 * [Pull Request] [test: run heze spec tests with the vector's slot duration schedule](https://github.com/ChainSafe/lodestar/pull/10418) - 2026-10-16
+* [Pull Request] [fix: pin ere.zig to a commit that exists upstream](https://github.com/ChainSafe/lodestar/pull/10686) - 2026-11-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
@@ -160,6 +161,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [feat: implement missing beacon-APIs v5.0.0-beta.0 endpoints](https://github.com/status-im/nimbus-eth2/issues/9290) - 2026-10-15
 * [Issue] [Invalid blocks with blobs make nimbus disconnect honest peers via by-root column sync](https://github.com/status-im/nimbus-eth2/issues/9287) - 2026-10-15
 
+* [Pull Request] [fix: complete PQ VRF trees from precomputed states](https://github.com/status-im/nimbus-eth2/pull/9463) - 2026-11-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275) - 2026-10-16
 
@@ -187,6 +189,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#118)](https://github.com/ethpandaops/cartographoor/commit/05ec1ee135c79097bb7acd72a44778d73505c8c0) - 2026-10-21
 
+* [Pull Request] [feat: discover pq-devnets networks](https://github.com/ethpandaops/cartographoor/pull/122) - 2026-11-20
+* [Pull Request] [fix: rename focil and frames devnets to heze and bogota](https://github.com/ethpandaops/cartographoor/pull/120) - 2026-11-20
+* [Commit] [feat: discover pq-devnets networks (#122)](https://github.com/ethpandaops/cartographoor/commit/995c2b1a502b4e1ab2ebc9afbf5814ec22a3e09e) - 2026-11-20
+* [Commit] [fix: rename focil and frames devnets to heze and bogota (#120)](https://github.com/ethpandaops/cartographoor/commit/fe87d070d817deb3677db0d658179e7cc958d096) - 2026-11-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [miner: `forkchoiceUpdatedV5` executes the inclusion list before returning, CL proposes with a stale payload id](https://github.com/ethereum/go-ethereum/issues/36006) - 2026-10-23
 

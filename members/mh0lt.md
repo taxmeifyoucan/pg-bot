@@ -28,6 +28,8 @@ Team: Erigon
 * [Pull Request] [rpc/jsonrpc: construct eth/overlay/witness state via the versioned IBS constructors](https://github.com/erigontech/erigon/pull/26582) - 2026-11-19
 * [Commit] [execution/state: collapse the version-map account readers onto one interpreter (#26555)](https://github.com/erigontech/erigon/commit/fdd1f1552ff0b49a94add2975e03bffc2b4cf0da) - 2026-11-20
 * [Commit] [execution, rpc: commit genesis through the apply path and compute its root from the version map (#26588)](https://github.com/erigontech/erigon/commit/75f3faf32c46694f3dae229c7dd21d0795477f02) - 2026-11-20
+* [Pull Request] [execution/state: make the versioned write paths stateObject-free (CreateAccount, SetCode, SetIncarnation, TouchAccount, SetStorage)](https://github.com/erigontech/erigon/pull/26626) - 2026-11-20
+* [Pull Request] [execution/state: journal revert coverage + versioned balance/nonce writes stateObject-free](https://github.com/erigontech/erigon/pull/26623) - 2026-11-20
 ## Q3 2026
 
 

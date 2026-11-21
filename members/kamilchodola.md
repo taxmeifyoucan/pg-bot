@@ -89,6 +89,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(consensus): clear the whole BAL account bitmap on rent ](https://github.com/NethermindEth/nethermind/pull/16090) - 2026-11-18
 * [Pull Request] [Plugins can ship named configurations](https://github.com/NethermindEth/nethermind/pull/16130) - 2026-11-19
 * [Pull Request] [fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132) - 2026-11-19
+* [Commit] [fix(network): attach every satellite protocol parked before eth (#16140)](https://github.com/NethermindEth/nethermind/commit/a82085f14aeb4c8ca2cc16ed30a4890826da3f52) - 2026-11-20
+* [Commit] [fix(consensus): clear the whole BAL account bitmap on rent  (#16090)](https://github.com/NethermindEth/nethermind/commit/0c96160c6dab06c4d19906e019209671061d3481) - 2026-11-20
+* [Commit] [perf(txpool): size the sender cache to the tx pool (#16091)](https://github.com/NethermindEth/nethermind/commit/2224e81f28ebda81469d19fd66f087d3956ffb22) - 2026-11-20
+* [Commit] [perf(consensus): lock-free GasValidationResultSlot (#16092)](https://github.com/NethermindEth/nethermind/commit/41aff444b99554edec923805475eead5e454b93e) - 2026-11-20
+* [Commit] [Plugins can ship named configurations (#16130)](https://github.com/NethermindEth/nethermind/commit/bb6171fbab88e153a63ea16c107f5cd7b402ef98) - 2026-11-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

@@ -74,6 +74,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Remove bodies of error-pragma copy hooks (#5162)](https://github.com/status-im/nimbus-eth1/commit/29b21cbf1856f2f2032274d249ef1a3e885cba02) - 2026-11-13
 * [Pull Request] [Update nim-rocksdb to v11.13.2.0](https://github.com/status-im/nimbus-eth1/pull/5175) - 2026-11-17
 * [Commit] [Update nim-rocksdb to v11.13.2.0 (#5175)](https://github.com/status-im/nimbus-eth1/commit/3e42208ac92e17380a327c51cf2175dba1f08b8e) - 2026-11-17
+* [Pull Request] [Support ere in make states script](https://github.com/status-im/nimbus-eth1/pull/5191) - 2026-11-20
 ## Q3 2026
 
 

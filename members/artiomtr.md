@@ -63,6 +63,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/pull/1013#pullrequestreview-5858168294) - 2026-11-11
 * [Review] [Review on: Add --execution-endpoint and deprecate --eth1-rpc-urls](https://github.com/grandinetech/grandine/pull/1039#pullrequestreview-5872323342) - 2026-11-12
 * [Review] [Review on: Feature/updated cross](https://github.com/grandinetech/grandine/pull/1053#pullrequestreview-5955076553) - 2026-11-18
+* [Review] [Review on: Fix beacon API discrepancies ](https://github.com/grandinetech/grandine/pull/1054#pullrequestreview-5992216476) - 2026-11-20
 ## Q3 2026
 
 

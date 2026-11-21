@@ -87,6 +87,10 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #43 from NethermindEth/ci/patch-tests](https://github.com/NethermindEth/dotnet-riscv/commit/dc5d9ac4ca2e715e0f590b47b4a52730996f3db2) - 2026-11-19
 * [Commit] [fixup/11: perf-96, perf-97 - INT result of Math.Min/Max with Zbb, unrolled copies from a field of a local](https://github.com/NethermindEth/dotnet-riscv/commit/5445c368f3a0b50f0cd6f0b3b22820b32b9a3832) - 2026-11-19
 * [Commit] [fixup/11: perf-95 - OutOfMemoryException from an inline allocation that does not fit](https://github.com/NethermindEth/dotnet-riscv/commit/85ebf4271f610cd47fef09c02f62b48acda3ff07) - 2026-11-19
+* [Pull Request] [fixup/11/riscv32: 01 follows GetUnwindProcInfo of the current runtime](https://github.com/NethermindEth/dotnet-riscv/pull/46) - 2026-11-20
+* [Commit] [Merge pull request #46 from NethermindEth/fix/riscv32-rebase-runtime](https://github.com/NethermindEth/dotnet-riscv/commit/5a102141f139fe1662c9068f64103b1f8af13103) - 2026-11-20
+* [Commit] [fixup/11/riscv32: 01 follows GetUnwindProcInfo of the current runtime](https://github.com/NethermindEth/dotnet-riscv/commit/a9c77d5584142bddfd78b21dce30c7832d69829d) - 2026-11-20
+* [Commit] [Merge pull request #44 from NethermindEth/perf/riscv32-zk-rev8](https://github.com/NethermindEth/dotnet-riscv/commit/5b69d4553ab2173177046b6f72ff4c98065f7515) - 2026-11-20
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -158,6 +162,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [variant: Take both targets from the dotnet-riscv build with the frameless unwind fix](https://github.com/NethermindEth/bflat-riscv64/commit/969fbee0b6524cbaaf8f20b9878aafaefb9b2a50) - 2026-11-17
 * [Pull Request] [variant: Take both targets from the dotnet-riscv build with rev8 in the riscv32 JIT](https://github.com/NethermindEth/bflat-riscv64/pull/81) - 2026-11-18
 * [Pull Request] [test: build with the hardening test build of dotnet-riscv](https://github.com/NethermindEth/bflat-riscv64/pull/82) - 2026-11-19
+* [Commit] [Merge pull request #83 from yevh/fix/docs-ruby](https://github.com/NethermindEth/bflat-riscv64/commit/daed857880f4babb20e20e4161142ee34b237b67) - 2026-11-20
+* [Commit] [Merge pull request #81 from NethermindEth/chore/dotnet-rev8](https://github.com/NethermindEth/bflat-riscv64/commit/4d6c260c633e79de383973f70bbd8b0ca8380bbb) - 2026-11-20
+* [Commit] [variant: Take both targets from the dotnet-riscv release 11.0.102-upstream-perf.r440](https://github.com/NethermindEth/bflat-riscv64/commit/b8ce5a61194aa682068af1130662e65cf7a93bb7) - 2026-11-20
 ## Q3 2026
 
 

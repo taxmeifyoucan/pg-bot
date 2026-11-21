@@ -109,6 +109,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: allow builders one bid per ETH of balance for a slot and parent](https://github.com/ChainSafe/lodestar/pull/10597#pullrequestreview-5955405955) - 2026-11-18
 * [Review] [Review on: feat: add UDP sockets for native networking](https://github.com/ChainSafe/lodestar/pull/10668#pullrequestreview-5982869593) - 2026-11-19
 * [Review] [Review on: fix: always verify proposer signature before publishing a block](https://github.com/ChainSafe/lodestar/pull/10684#pullrequestreview-5982291046) - 2026-11-19
+* [Pull Request] [test: run the UDP source tests on macOS](https://github.com/ChainSafe/lodestar/pull/10692) - 2026-11-20
+* [Review] [Review on: test(config): verify domain bytes](https://github.com/ChainSafe/lodestar/pull/10691#pullrequestreview-5992324545) - 2026-11-20
+* [Review] [Review on: fix: pin ere.zig to a commit that exists upstream](https://github.com/ChainSafe/lodestar/pull/10686#pullrequestreview-5990985099) - 2026-11-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

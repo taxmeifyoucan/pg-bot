@@ -101,6 +101,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: feat: get payloads from EL](https://github.com/status-im/nimbus-eth2/pull/9444#pullrequestreview-5919601594) - 2026-11-16
 * [Pull Request] [Revert "stop testing with Nim 2.4"](https://github.com/status-im/nimbus-eth2/pull/9453) - 2026-11-17
 * [Review] [Review on: dont mark block as unviable on invalid payload](https://github.com/status-im/nimbus-eth2/pull/9457#pullrequestreview-5971677775) - 2026-11-19
+* [Review] [Review on: fix attester slashing stall, doppelganger check and bid value overflow](https://github.com/status-im/nimbus-eth2/pull/9462#pullrequestreview-5994395752) - 2026-11-20
+* [Review] [Review on: dont mark block as unviable on invalid payload](https://github.com/status-im/nimbus-eth2/pull/9457#pullrequestreview-5991770023) - 2026-11-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

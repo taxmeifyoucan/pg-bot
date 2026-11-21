@@ -453,6 +453,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(runner): exit 143 on SIGTERM and fix shutdown edge cases](https://github.com/NethermindEth/nethermind/pull/16113#pullrequestreview-5983017400) - 2026-11-19
 * [Review] [Review on: feat(analyzers): add NETH009 — disallow async void](https://github.com/NethermindEth/nethermind/pull/16118#pullrequestreview-5983016405) - 2026-11-19
 * [Review] [Review on: fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132#pullrequestreview-5983010065) - 2026-11-19
+* [Review] [Review on: perf(evm): skip a frame's zero credit under EIP-7928 too](https://github.com/NethermindEth/nethermind/pull/16160#pullrequestreview-5989067050) - 2026-11-20
+* [Review] [Review on: fix(sync): reset the beacon pivot on forkchoice restart](https://github.com/NethermindEth/nethermind/pull/16158#pullrequestreview-5989068253) - 2026-11-20
+* [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-5989077348) - 2026-11-20
+* [Review] [Review on: fix(config, init): follow-ups to the config and init fixes](https://github.com/NethermindEth/nethermind/pull/16151#pullrequestreview-5989071316) - 2026-11-20
+* [Review] [Review on: fix(tracing): close JavaScript tracer Low parity gaps](https://github.com/NethermindEth/nethermind/pull/15958#pullrequestreview-5989080024) - 2026-11-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

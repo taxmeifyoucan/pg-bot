@@ -1063,6 +1063,41 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): skip copying unused trusted recovery hints (#16087)](https://github.com/NethermindEth/nethermind/commit/5ba0f94d3a773439ec2b6addd476536f54e21d1e) - 2026-11-19
 * [Commit] [perf(zkevm): look up verified recovery hints in execution order (#16081)](https://github.com/NethermindEth/nethermind/commit/70664e685c63da8b4630de60871805a4b54dcf7e) - 2026-11-19
 * [Commit] [perf(zkevm): allow trusted input conversion without recovery hints (#16078)](https://github.com/NethermindEth/nethermind/commit/2831703e22e0587ffbfe9ee6a7a5712bbc7fcd1a) - 2026-11-19
+* [Pull Request] [perf(zkevm): read and write a slot through the BAL state's slot store on SSTORE](https://github.com/NethermindEth/nethermind/pull/16199) - 2026-11-20
+* [Review] [Review on: perf(zkevm): read and write a slot through the BAL state's slot store on SSTORE](https://github.com/NethermindEth/nethermind/pull/16199#pullrequestreview-5994375966) - 2026-11-20
+* [Pull Request] [perf(zkevm): copy past a zero-extending source without the general copy handler](https://github.com/NethermindEth/nethermind/pull/16241) - 2026-11-21
+* [Pull Request] [perf(zkevm): run a value-less precompile call in the caller without a frame](https://github.com/NethermindEth/nethermind/pull/16242) - 2026-11-21
+* [Pull Request] [perf(evm): store LOG topics without the array element type check](https://github.com/NethermindEth/nethermind/pull/16237) - 2026-11-21
+* [Pull Request] [perf(zkevm): fill the KECCAK256 word memo entry the lookup found](https://github.com/NethermindEth/nethermind/pull/16240) - 2026-11-21
+* [Pull Request] [perf(evm): credit a value-less precompile call only to an existing empty account](https://github.com/NethermindEth/nethermind/pull/16238) - 2026-11-21
+* [Pull Request] [fix(tracing): report the struct-log refund before the step and stop the state gas gasCost overflow](https://github.com/NethermindEth/nethermind/pull/16175) - 2026-11-20
+* [Review] [Review on: fix(tracing): report the struct-log refund before the step and stop the state gas gasCost overflow](https://github.com/NethermindEth/nethermind/pull/16175#pullrequestreview-5994438246) - 2026-11-20
+* [Pull Request] [perf(evm): test the frame value before resolving the transfer log addresses](https://github.com/NethermindEth/nethermind/pull/16239) - 2026-11-21
+* [Pull Request] [perf(bal): resolve a repeated storage write's slot without the index](https://github.com/NethermindEth/nethermind/pull/16198) - 2026-11-20
+* [Review] [Review on: perf(bal): resolve a repeated storage write's slot without the index](https://github.com/NethermindEth/nethermind/pull/16198#pullrequestreview-5994236477) - 2026-11-20
+* [Pull Request] [test(crypto): allow one recovery per evicted lookup in the sender-cache allocation test](https://github.com/NethermindEth/nethermind/pull/16232) - 2026-11-20
+* [Review] [Review on: test(crypto): allow one recovery per evicted lookup in the sender-cache allocation test](https://github.com/NethermindEth/nethermind/pull/16232#pullrequestreview-6002259474) - 2026-11-21
+* [Pull Request] [fix(network): accept an incoming peer only after its Hello](https://github.com/NethermindEth/nethermind/pull/16173) - 2026-11-20
+* [Review] [Review on: fix(network): accept an incoming peer only after its Hello](https://github.com/NethermindEth/nethermind/pull/16173#pullrequestreview-5992027795) - 2026-11-20
+* [Review] [Review on: perf(evm): skip a frame's zero credit under EIP-7928 too](https://github.com/NethermindEth/nethermind/pull/16160#pullrequestreview-5994384973) - 2026-11-20
+* [Pull Request] [perf(zkevm): read transient storage without hashing the cell when the store is empty](https://github.com/NethermindEth/nethermind/pull/16243) - 2026-11-21
+* [Review] [Review on: fix(sync): reset the beacon pivot on forkchoice restart](https://github.com/NethermindEth/nethermind/pull/16158#pullrequestreview-5993938598) - 2026-11-20
+* [Pull Request] [test(eest): run blockchain_tests_engine_x fixtures per pre-allocation group](https://github.com/NethermindEth/nethermind/pull/16223) - 2026-11-20
+* [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-5990659071) - 2026-11-20
+* [Review] [Review on: fix(config, init): follow-ups to the config and init fixes](https://github.com/NethermindEth/nethermind/pull/16151#pullrequestreview-5990595158) - 2026-11-20
+* [Review] [Review on: fix(tracing): leave EIP-8037 state gas out of struct-log gasCost](https://github.com/NethermindEth/nethermind/pull/16203#pullrequestreview-5994655700) - 2026-11-20
+* [Pull Request] [test(eest): run blockchain_tests_engine_reorg fixtures natively](https://github.com/NethermindEth/nethermind/pull/16210) - 2026-11-20
+* [Pull Request] [perf(zkevm): take the empty-input digest for an empty KECCAK256 range inside memory](https://github.com/NethermindEth/nethermind/pull/16197) - 2026-11-20
+* [Review] [Review on: build(bootnode): use the chiseled ASP.NET runtime image](https://github.com/NethermindEth/nethermind/pull/16171#pullrequestreview-5992135725) - 2026-11-20
+* [Review] [Review on: fix(consensus): derive ExcessBlobGas for dev-produced blocks](https://github.com/NethermindEth/nethermind/pull/16202#pullrequestreview-5994558174) - 2026-11-20
+* [Review] [Review on: fix(merge): forward GenesisStateUnavailable in spec wrappers and fix beacon sync and payload Trace lines](https://github.com/NethermindEth/nethermind/pull/16150#pullrequestreview-5990698262) - 2026-11-20
+* [Commit] [fix(network): accept an incoming peer only after its Hello (#16173)](https://github.com/NethermindEth/nethermind/commit/b696a7da4e8d789083b7b330a598edde265192ba) - 2026-11-21
+* [Commit] [perf(evm): skip a frame's zero credit under EIP-7928 too (#16160)](https://github.com/NethermindEth/nethermind/commit/a5e9bae6e0964bda22751c71fbf25d108fc2e050) - 2026-11-21
+* [Commit] [perf(zkevm): take the empty-input digest for an empty KECCAK256 range inside memory (#16197)](https://github.com/NethermindEth/nethermind/commit/c30ae125e76f0f3a1ce8def2e866d031795ced35) - 2026-11-20
+* [Commit] [perf(zkevm): answer MODEXP of an empty base or exponent without the accelerator (#16155)](https://github.com/NethermindEth/nethermind/commit/1a958461ab8e01ad2cae92392c47a2ab582debab) - 2026-11-20
+* [Commit] [test(eest): bump fixtures to tests@v21.0.3 (#16174)](https://github.com/NethermindEth/nethermind/commit/822fd803d00e1d9d1ea28cb0e02807ec239b0506) - 2026-11-20
+* [Commit] [perf(zkevm): push the empty-input digest for a zero-length KECCAK256 in the guest handler (#16148)](https://github.com/NethermindEth/nethermind/commit/f806fe0996cfc1b73b7b7e961001c04849be0381) - 2026-11-20
+* [Commit] [test(trace-store): hold concurrent window readers until the cancellation stops the loop (#16149)](https://github.com/NethermindEth/nethermind/commit/52b4ceb916b089eed32ef410e66a1bab06d67cba) - 2026-11-20
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

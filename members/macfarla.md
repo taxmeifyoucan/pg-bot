@@ -322,6 +322,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Add a JMH benchmark for RocksDB gets of present and absent keys (#11988)](https://github.com/besu-eth/besu/commit/97623de85ac0b58093bb47f8be32e177147a7b11) - 2026-11-20
 * [Commit] [Rebuild the evmtool Docker image from the current distribution (#11965)](https://github.com/besu-eth/besu/commit/1711ad28520905d74ead2f91de048d5f6875843c) - 2026-11-19
 * [Commit] [Close evmtool block-test trace output file (#12008)](https://github.com/besu-eth/besu/commit/9c672efeabf7cbc6b6e8d1ba742b7f9a75afb594) - 2026-11-19
+* [Commit] [Remove the RocksDB partition filter option, which RocksDB ignores (#12013)](https://github.com/besu-eth/besu/commit/10dc5130f7424488cc5730fca1e98565a313714b) - 2026-11-21
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

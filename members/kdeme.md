@@ -130,6 +130,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [eth: only refetch pooled txs from peers that negotiated eth](https://github.com/status-im/nimbus-eth1/pull/5176) - 2026-11-17
 * [Commit] [snap: reject malformed proof nodes instead of raising ResultDefect (#5178)](https://github.com/status-im/nimbus-eth1/commit/2d241d48331681fda5b045ed00d2c46a0e4bd7d7) - 2026-11-17
 * [Commit] [eth: only refetch pooled txs from peers that negotiated eth (#5176)](https://github.com/status-im/nimbus-eth1/commit/759afe2cc92692c941e08d7ae3af739594c178dc) - 2026-11-17
+* [Pull Request] [Reject EIP-8141 transactions before Bogota in validateTxBasic](https://github.com/status-im/nimbus-eth1/pull/5190) - 2026-11-20
+* [Commit] [Reject EIP-8141 transactions before Bogota in validateTxBasic (#5190)](https://github.com/status-im/nimbus-eth1/commit/3010fc1fec354ab049d2bacbe4f115498a395f83) - 2026-11-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

@@ -125,6 +125,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Read validator views of the packed registry from the supernode bytes](https://github.com/Consensys-Incorporated/teku/pull/11627#pullrequestreview-5936351382) - 2026-11-17
 * [Commit] [Read validator views of the packed registry from the supernode bytes (#11627)](https://github.com/Consensys-Incorporated/teku/commit/cd34322b9448e772862989c42968e3cf9429db92) - 2026-11-17
 * [Review] [Review on: Reject attestation data with a target epoch not matching its slot](https://github.com/Consensys-Incorporated/teku/pull/11646#pullrequestreview-5952842943) - 2026-11-18
+* [Pull Request] [Prepare leanXMSS bottom trees ahead of PQ duties](https://github.com/Consensys-Incorporated/teku/pull/11700) - 2026-11-20
+* [Pull Request] [Publish jdk27 Docker images instead of jdk26](https://github.com/Consensys-Incorporated/teku/pull/11698) - 2026-11-20
+* [Pull Request] [Read effective balances lazily in computeBalanceWeightedSelection](https://github.com/Consensys-Incorporated/teku/pull/11686) - 2026-11-20
+* [Review] [Review on: Hold SSZ tree updates in primitive arrays](https://github.com/Consensys-Incorporated/teku/pull/11634#pullrequestreview-5989356460) - 2026-11-20
+* [Review] [Review on: Re-enable greclipse()](https://github.com/Consensys-Incorporated/teku/pull/11663#pullrequestreview-5993124097) - 2026-11-20
+* [Review] [Review on: Track the changes of mutable SSZ composites in a paged array](https://github.com/Consensys-Incorporated/teku/pull/11633#pullrequestreview-5989395909) - 2026-11-20
+* [Commit] [Avoid retaining ancestor beacon states through cache factories (#11644)](https://github.com/Consensys-Incorporated/teku/commit/bc4bce09c64b8e0d1ab46a8ab13619d804461944) - 2026-11-20
+* [Commit] [Publish jdk27 Docker images instead of jdk26 (#11698)](https://github.com/Consensys-Incorporated/teku/commit/6b8dfb12d402a15245f4a3986a614028cf39c8e8) - 2026-11-20
+* [Commit] [Read effective balances lazily in computeBalanceWeightedSelection (#11686)](https://github.com/Consensys-Incorporated/teku/commit/0cc7a2da5cf508328b13281fa22c43aab83edf4a) - 2026-11-20
+* [Commit] [Hold SSZ tree updates in primitive arrays (#11634)](https://github.com/Consensys-Incorporated/teku/commit/2bca9e653feb59373f50fb93e93936766b1944b5) - 2026-11-20
+* [Commit] [Track the changes of mutable SSZ composites in a paged array (#11633)](https://github.com/Consensys-Incorporated/teku/commit/bad29f5dbc61364944e7e90fc54008f7e01150ab) - 2026-11-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

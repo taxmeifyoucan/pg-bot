@@ -95,6 +95,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785#pullrequestreview-5939193892) - 2026-11-17
 * [Review] [Review on: Fix test to catch an inactive builder](https://github.com/ethereum/consensus-specs/pull/5839#pullrequestreview-5962995995) - 2026-11-18
 * [Review] [Review on: Exclude pending withdrawals from the builder bid limit](https://github.com/ethereum/consensus-specs/pull/5843#pullrequestreview-5978397926) - 2026-11-19
+* [Review] [Review on: Link the merged Partial Message Extension spec](https://github.com/ethereum/consensus-specs/pull/5845#pullrequestreview-5999615306) - 2026-11-20
+* [Review] [Review on: Use the `requestsPartial` field name in partial columns](https://github.com/ethereum/consensus-specs/pull/5844#pullrequestreview-5999590149) - 2026-11-20
+* [Pull Request] [Add `initiate_validator_consolidation` helper](https://github.com/ethereum/consensus-specs/pull/5847) - 2026-11-20
+* [Commit] [Add `initiate_validator_consolidation` helper (#5847)](https://github.com/ethereum/consensus-specs/commit/30a87dad055978946e607999415b0d4ac6543277) - 2026-11-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

@@ -436,6 +436,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [db: deduplicate bytecode stored by SETCODEFROM adopters](https://github.com/erigontech/erigon/issues/26585) - 2026-11-19
 * [Commit] [vm, rpc: fix overlay constructor replay (#26512)](https://github.com/erigontech/erigon/commit/09f2ded4be6dc94c776d6e427152a2c4ac165972) - 2026-11-20
 * [Commit] [txpool: requeue unwound transactions from senders above the slot limit (#26571)](https://github.com/erigontech/erigon/commit/80a06a21d65fb80e21ddbfc769600016d0cc2c78) - 2026-11-20
+* [Review] [Review on: cmd/evm: cut zkevmtest peak RAM by 32% by streaming fixtures](https://github.com/erigontech/erigon/pull/26614#pullrequestreview-5990991596) - 2026-11-20
+* [Review] [Review on: cmd/evm: lower enginextest peak RAM by decoding tests lazily](https://github.com/erigontech/erigon/pull/26618#pullrequestreview-5991035508) - 2026-11-20
+* [Pull Request] [txnprovider/txpool: make parent block waits directly cancellable](https://github.com/erigontech/erigon/pull/26633) - 2026-11-20
+* [Issue] [Avoid unnecessary receipt reads when pricing blocks with few frame transactions](https://github.com/erigontech/erigon/issues/26630) - 2026-11-20
+* [Issue] [db, rpc: move receipt history retention checks into the database accessors](https://github.com/erigontech/erigon/issues/26632) - 2026-11-20
+* [Commit] [txnprovider/txpool: make parent block waits directly cancellable (#26633)](https://github.com/erigontech/erigon/commit/5e6b2515205f781770eaa411327ddef92bf8dba9) - 2026-11-21
+* [Commit] [execution/vm: share CREATE/CREATE2 metering and enforce the size limit for opt-in EIP-3860 (#26572)](https://github.com/erigontech/erigon/commit/4bcf39934f8b18d9307c18cf554859e09aae8653) - 2026-11-20
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

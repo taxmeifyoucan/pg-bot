@@ -49,6 +49,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Update jsonwebtoken](https://github.com/sigp/lighthouse/pull/10574#pullrequestreview-5924436492) - 2026-11-16
 * [Review] [Review on: Convert remaining crate tests to Spec](https://github.com/sigp/lighthouse/pull/10608#pullrequestreview-5947441166) - 2026-11-17
 * [Review] [Review on: Bump libz-sys to 1.1.33](https://github.com/sigp/lighthouse/pull/10609#pullrequestreview-5945474662) - 2026-11-17
+* [Review] [Review on: Move new `beacon_node` tests to Spec](https://github.com/sigp/lighthouse/pull/10618#pullrequestreview-5997026379) - 2026-11-20
+* [Review] [Review on: Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619#pullrequestreview-5997566985) - 2026-11-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

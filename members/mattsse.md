@@ -775,6 +775,18 @@ Team: Reth
 * [Review] [Review on: fix(rpc): reject invalid eth_subscribe params](https://github.com/paradigmxyz/reth/pull/28616#pullrequestreview-5974026154) - 2026-11-19
 * [Review] [Review on: fix(rpc): reject unsupported block overrides in calls](https://github.com/paradigmxyz/reth/pull/28614#pullrequestreview-5973920753) - 2026-11-19
 * [Review] [Review on: fix(rpc): apply withdrawals override in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/28613#pullrequestreview-5973920497) - 2026-11-19
+* [Pull Request] [perf(engine): share received BAL code hashes](https://github.com/paradigmxyz/reth/pull/28634) - 2026-11-20
+* [Pull Request] [fix(rpc): bound builder validation cached reads by gas](https://github.com/paradigmxyz/reth/pull/28636) - 2026-11-20
+* [Review] [Review on: fix(rpc): bound builder validation cached reads by gas](https://github.com/paradigmxyz/reth/pull/28636#pullrequestreview-6002160700) - 2026-11-21
+* [Review] [Review on: perf(download): hash outputs while extracting instead of reading back](https://github.com/paradigmxyz/reth/pull/28622#pullrequestreview-6002160329) - 2026-11-21
+* [Pull Request] [fix(engine): preserve V4 REST blob cell indices](https://github.com/paradigmxyz/reth/pull/28635) - 2026-11-20
+* [Pull Request] [fix(cli): unblock startup heal and execution dump](https://github.com/paradigmxyz/reth/pull/28632) - 2026-11-20
+* [Review] [Review on: refactor: add CanonicalInMemoryStateWriter](https://github.com/paradigmxyz/reth/pull/28627#pullrequestreview-5995092127) - 2026-11-20
+* [Pull Request] [feat(rpc): bound eth_simulateV1 execution time](https://github.com/paradigmxyz/reth/pull/28628) - 2026-11-20
+* [Pull Request] [feat(rpc): share simulation timeout defaults](https://github.com/paradigmxyz/reth/pull/28629) - 2026-11-20
+* [Review] [Review on: refactor: drop block maps from TreeState](https://github.com/paradigmxyz/reth/pull/28609#pullrequestreview-5991269660) - 2026-11-20
+* [Commit] [feat(rpc): add --rpc.max-trace-bytes for tracers (#28525)](https://github.com/paradigmxyz/reth/commit/ff49a40afcc8c4527138c77d8910c1c6362c335b) - 2026-11-20
+* [Commit] [fix(stages): honor execution unwind limits (#28068)](https://github.com/paradigmxyz/reth/commit/efae8fb8bc5f87becc5b3827c563a8b225eaa1b9) - 2026-11-20
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

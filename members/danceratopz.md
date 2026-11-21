@@ -110,6 +110,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999#pullrequestreview-5937841357) - 2026-11-17
 * [Review] [Review on: feat(tests): add MPT gap, same-path rebuild and bulk batch cases](https://github.com/ethereum/execution-specs/pull/3984#pullrequestreview-5960427005) - 2026-11-18
 * [Commit] [feat(doc): add edit and view source buttons to the docs pages (#3978)](https://github.com/ethereum/execution-specs/commit/1da5a11ca8cd3a4ad00fd1821c27ef01a4b18653) - 2026-11-19
+* [Review] [Review on: feat(tests): port hive's remaining reorg.go scenarios](https://github.com/ethereum/execution-specs/pull/4032#pullrequestreview-5989535881) - 2026-11-20
+* [Pull Request] [feat(packaging): build spec releases up to a given fork](https://github.com/ethereum/execution-specs/pull/4036) - 2026-11-20
+* [Pull Request] [chore(ci,doc): rename the default branch to main](https://github.com/ethereum/execution-specs/pull/4035) - 2026-11-20
+* [Issue] [Test Release Tracker: `tests@v21.0.4`](https://github.com/ethereum/execution-specs/issues/4039) - 2026-11-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -158,6 +162,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/ethereum/eels: build Dockerfile.git on the uv trixie image](https://github.com/ethereum/hive/pull/1665#pullrequestreview-5972611855) - 2026-11-19
 * [Commit] [simulators/ethereum/eels: ignore a staged fixtures.tar.gz (#1667)](https://github.com/ethereum/hive/commit/3011ec9a4863749f5aa2cc66b29e597b2f0a1b2e) - 2026-11-19
 * [Commit] [clients/ethrex: import the blocks directory in one process (#1661)](https://github.com/ethereum/hive/commit/a235c763eee0c0a61fe78340458251fd2b367a53) - 2026-11-19
+* [Review] [Review on: simulators/ethereum/engine: remove the remaining re-org tests](https://github.com/ethereum/hive/pull/1668#pullrequestreview-5989545022) - 2026-11-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 

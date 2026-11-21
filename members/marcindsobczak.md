@@ -367,8 +367,34 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(sync): keep a peer whose head request faults with a timeout, plus small sync fixes (#16072)](https://github.com/NethermindEth/nethermind/commit/22f6711374095a36c1fd33e2e7d040630847fb56) - 2026-11-19
 * [Commit] [fix(rpc): gas price cache race, signature input errors, subscription and node info fixes (#16069)](https://github.com/NethermindEth/nethermind/commit/0f81a91d779cc3923da8567bd159252ce81ca98e) - 2026-11-19
 * [Commit] [fix(txpool): stop SortedPool.RemoveLast from spinning when no worst value is left (#16067)](https://github.com/NethermindEth/nethermind/commit/b71f2c5a798718b04e81c618e1d11d7ed4743658) - 2026-11-19
+* [Review] [Review on: perf(zkevm): read and write a slot through the BAL state's slot store on SSTORE](https://github.com/NethermindEth/nethermind/pull/16199#pullrequestreview-5995509454) - 2026-11-20
+* [Review] [Review on: fix(tracing): report the struct-log refund before the step and stop the state gas gasCost overflow](https://github.com/NethermindEth/nethermind/pull/16175#pullrequestreview-5994047042) - 2026-11-20
+* [Review] [Review on: perf(bal): resolve a repeated storage write's slot without the index](https://github.com/NethermindEth/nethermind/pull/16198#pullrequestreview-5995420872) - 2026-11-20
+* [Review] [Review on: fix(network): accept an incoming peer only after its Hello](https://github.com/NethermindEth/nethermind/pull/16173#pullrequestreview-5993725460) - 2026-11-20
+* [Review] [Review on: perf(evm): skip a frame's zero credit under EIP-7928 too](https://github.com/NethermindEth/nethermind/pull/16160#pullrequestreview-5992370744) - 2026-11-20
+* [Review] [Review on: fix(sync): reset the beacon pivot on forkchoice restart](https://github.com/NethermindEth/nethermind/pull/16158#pullrequestreview-5992358357) - 2026-11-20
+* [Review] [Review on: fix(metrics): scope block transaction timing](https://github.com/NethermindEth/nethermind/pull/16172#pullrequestreview-5993233363) - 2026-11-20
+* [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-5992378071) - 2026-11-20
+* [Pull Request] [fix: AnyTopicsFilter on stored logs, BlockModel.ToBlock fee fields, snap result log trim and session event node](https://github.com/NethermindEth/nethermind/pull/16219) - 2026-11-20
+* [Review] [Review on: fix: AnyTopicsFilter on stored logs, BlockModel.ToBlock fee fields, snap result log trim and session event node](https://github.com/NethermindEth/nethermind/pull/16219#pullrequestreview-5996633421) - 2026-11-20
+* [Pull Request] [perf(rpc): share concurrent gas price scans for the same head](https://github.com/NethermindEth/nethermind/pull/16208) - 2026-11-20
+* [Review] [Review on: fix(config, init): follow-ups to the config and init fixes](https://github.com/NethermindEth/nethermind/pull/16151#pullrequestreview-5988904031) - 2026-11-20
+* [Review] [Review on: perf(zkevm): take the empty-input digest for an empty KECCAK256 range inside memory](https://github.com/NethermindEth/nethermind/pull/16197#pullrequestreview-5994930764) - 2026-11-20
+* [Review] [Review on: build(bootnode): use the chiseled ASP.NET runtime image](https://github.com/NethermindEth/nethermind/pull/16171#pullrequestreview-5993021271) - 2026-11-20
+* [Pull Request] [fix(consensus): derive ExcessBlobGas for dev-produced blocks](https://github.com/NethermindEth/nethermind/pull/16202) - 2026-11-20
+* [Issue] [Trie store: a node created by FindCachedOrUnknown can be counted twice when two threads race](https://github.com/NethermindEth/nethermind/issues/16170) - 2026-11-20
+* [Issue] [Trie store: dirty memory reads low after a commit-buffer flush, so the dirty prune starts late](https://github.com/NethermindEth/nethermind/issues/16169) - 2026-11-20
+* [Commit] [fix(keystore): derive scrypt keys on one thread and bound their resources (#16154)](https://github.com/NethermindEth/nethermind/commit/624493633838c4047026b6866699d2ad72e2314c) - 2026-11-20
+* [Commit] [fix(init): stop at start-up when a native precompile library cannot be loaded (#16146)](https://github.com/NethermindEth/nethermind/commit/e325c745a6a185218bb62a42121d37e6937d5781) - 2026-11-20
+* [Commit] [fix(runner): exit 143 on SIGTERM and fix shutdown edge cases (#16113)](https://github.com/NethermindEth/nethermind/commit/34711bbb3257b26aa62c6fd3eb3d9aee4086364c) - 2026-11-20
+* [Commit] [fix(sync): resume header sync at the pivot and reject an unexpected first header (#16112)](https://github.com/NethermindEth/nethermind/commit/d7d994421994aa469bee0134efd5a3aa4a9c24dc) - 2026-11-20
+* [Commit] [fix(consensus): dev block withdrawals, Ethash cache and sealer, dev wallet, Hive runner (#16129)](https://github.com/NethermindEth/nethermind/commit/6912ac355305b32180d22957a87cfbbaaf6c9c07) - 2026-11-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/devp2p/internal/ethtest: bound the cell test waits and give BlobTxWithInvalidCells its own sender](https://github.com/ethereum/go-ethereum/pull/36187) - 2026-11-20
+* [Issue] [cmd/devp2p/internal/ethtest: BlobTxWithInvalidCells hangs when it runs after GetCells](https://github.com/ethereum/go-ethereum/issues/36185) - 2026-11-20
 ## Q3 2026
 
 

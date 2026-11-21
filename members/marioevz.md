@@ -92,6 +92,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-execute): fail `execute remote` early on a rejected JWT secret](https://github.com/ethereum/execution-specs/pull/3988#pullrequestreview-5962436209) - 2026-11-18
 * [Review] [Review on: feat(test-client-clis): add an Ethrex transition tool](https://github.com/ethereum/execution-specs/pull/4021#pullrequestreview-5959114488) - 2026-11-18
 * [Pull Request] [refactor(test-types,tests): signer abstraction and frame expectations in the framework.](https://github.com/ethereum/execution-specs/pull/4033) - 2026-11-20
+* [Review] [Review on: feat(spec-tests): add a Hypothesis property suite for the spec](https://github.com/ethereum/execution-specs/pull/4043#pullrequestreview-5999447715) - 2026-11-20
+* [Review] [Review on: refactor(test-types,tests): signer abstraction and frame expectations in the framework.](https://github.com/ethereum/execution-specs/pull/4033#pullrequestreview-5999109322) - 2026-11-20
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

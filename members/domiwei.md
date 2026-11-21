@@ -445,6 +445,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/sentinel/handlers: drop dead min in envelopes-by-root rate cost](https://github.com/erigontech/erigon/pull/26563#pullrequestreview-5983469724) - 2026-11-19
 * [Commit] [cl/phase1/network: bound deferred Gloas data-column sidecar work (#26500)](https://github.com/erigontech/erigon/commit/8de86f310df92881e9d2c99dd2d2731bfc6b4893) - 2026-11-19
 * [Commit] [cl/beacon, cl/validator, docs: make Gloas block production POST v4 only (#26490)](https://github.com/erigontech/erigon/commit/1e8d7f9b3baf0aabe95578ccadaf194c86074072) - 2026-11-19
+* [Commit] [cl/phase1/network/services: restore committee and subnet hooks after attestation suite tests (#26483)](https://github.com/erigontech/erigon/commit/b3f6c8150e60f31dc8fdd98b69cccd0ab4976e18) - 2026-11-20
+* [Commit] [cl/p2p: send gossip messages ahead of queued sidecars (#26569)](https://github.com/erigontech/erigon/commit/7b3cb392d1f6b132dfc692967265a316cf198a9d) - 2026-11-20
 ## Q3 2026
 
 

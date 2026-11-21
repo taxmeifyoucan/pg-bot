@@ -317,8 +317,38 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: Update EIP-8288: leanSPHINCS public key is PK.seed || PK.root](https://github.com/ethereum/EIPs/pull/12666#pullrequestreview-5898271158) - 2026-11-13
 * [Review] [Review on: Update EIP-8288: move the recursive STARK into the execution payload](https://github.com/ethereum/EIPs/pull/12549#pullrequestreview-5977508663) - 2026-11-19
 * [Review] [Review on: Add EIP: eth/74 - Dependency Proof Exchange](https://github.com/ethereum/EIPs/pull/12551#pullrequestreview-5976810734) - 2026-11-19
+* [Pull Request] [Update EIP-3155: Write pass as a Boolean and clarify the STOP example](https://github.com/ethereum/EIPs/pull/12678) - 2026-11-20
+* [Pull Request] [Update EIP-7892: Match compute_fork_digest mask with consensus-specs](https://github.com/ethereum/EIPs/pull/12675) - 2026-11-20
+* [Pull Request] [Update EIP-3076: Refuse interchange files from another chain](https://github.com/ethereum/EIPs/pull/12677) - 2026-11-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Link the merged Partial Message Extension spec](https://github.com/ethereum/consensus-specs/pull/5845) - 2026-11-20
+* [Pull Request] [Use the `requestsPartial` field name in partial columns](https://github.com/ethereum/consensus-specs/pull/5844) - 2026-11-20
+* [Issue] [Partial columns need gossipsub v1.3, but the protocol ID is still /meshsub/1.1.0](https://github.com/ethereum/consensus-specs/issues/5846) - 2026-11-20
+* [Commit] [Link the merged Partial Message Extension spec (#5845)](https://github.com/ethereum/consensus-specs/commit/eac5e94e8067b614db1c2b1335d61b198b6d31fc) - 2026-11-20
+* [Commit] [Use the `requestsPartial` field name in partial columns (#5844)](https://github.com/ethereum/consensus-specs/commit/b4d38568cc1b2c584a5f59083baa036bcf07a9f3) - 2026-11-20
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: add examples for forkchoiceUpdatedV4/V5 and newPayloadV6](https://github.com/ethereum/execution-apis/pull/1007) - 2026-11-21
+* [Pull Request] [Engine: fix the case of inclusionListTransactions in bogota.md](https://github.com/ethereum/execution-apis/pull/1006) - 2026-11-21
+* [Pull Request] [eth: return the next block's blob base fee from eth_blobBaseFee](https://github.com/ethereum/execution-apis/pull/1004) - 2026-11-20
+* [Pull Request] [engine: state the cell size in BlobCellsAndProofsV1](https://github.com/ethereum/execution-apis/pull/996) - 2026-11-20
+* [Pull Request] [engine: allow null payload attributes in forkchoiceUpdated](https://github.com/ethereum/execution-apis/pull/995) - 2026-11-20
+* [Pull Request] [docs: fix eth_simulateV1 default extraData](https://github.com/ethereum/execution-apis/pull/994) - 2026-11-20
+* [Pull Request] [engine: list slotNumber in ExecutionPayloadV4 intro](https://github.com/ethereum/execution-apis/pull/993) - 2026-11-20
+* [Pull Request] [engine: use anyOf for V1 or V2 execution payloads](https://github.com/ethereum/execution-apis/pull/992) - 2026-11-20
+* [Pull Request] [engine: allow null latestValidHash and validationError in PayloadStatusV1](https://github.com/ethereum/execution-apis/pull/991) - 2026-11-20
+* [Pull Request] [engine: add slotNumber to Amsterdam payload examples](https://github.com/ethereum/execution-apis/pull/990) - 2026-11-20
+* [Pull Request] [engine: fix payload id in getPayload examples](https://github.com/ethereum/execution-apis/pull/989) - 2026-11-20
+* [Pull Request] [engine: extend newPayloadV4 and forkchoiceUpdatedV3 to Osaka](https://github.com/ethereum/execution-apis/pull/988) - 2026-11-20
+* [Issue] [eth_createAccessList: should the result leave out the coinbase from Shanghai?](https://github.com/ethereum/execution-apis/issues/1005) - 2026-11-20
+* [Issue] [eth_simulateV1: default type 0x2 conflicts with fixtures that send authorizationList](https://github.com/ethereum/execution-apis/issues/997) - 2026-11-20
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery](https://github.com/ethereum/execution-specs/pull/4045) - 2026-11-21
+* [Issue] [BLOBBASEFEE is unspecified when the blob base fee is 2**256 or more](https://github.com/ethereum/execution-specs/issues/4044) - 2026-11-20
 ## Q3 2026
 
 

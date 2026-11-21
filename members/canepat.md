@@ -41,6 +41,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [eez/sequencer: sign every head and publish it on the overlay](https://github.com/erigontech/erigon/pull/26446) - 2026-11-17
 * [Review] [Review on: eez/sequencer: sign every head and publish it on the overlay](https://github.com/erigontech/erigon/pull/26446#pullrequestreview-5940475054) - 2026-11-17
 * [Commit] [execution/state: report only the current transaction's self-destruct (#26228)](https://github.com/erigontech/erigon/commit/fe903248a4abff6cc28500daad9ebd576ded6b4c) - 2026-11-17
+* [Pull Request] [eez,cmd/erigon: sign and verify App. D.6 unsafe-block announcements](https://github.com/erigontech/erigon/pull/26502) - 2026-11-20
+* [Review] [Review on: eez,cmd/erigon: sign and verify App. D.6 unsafe-block announcements](https://github.com/erigontech/erigon/pull/26502#pullrequestreview-5992015093) - 2026-11-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

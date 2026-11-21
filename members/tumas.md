@@ -65,6 +65,10 @@ Team: Grandine
 * [Issue] [API discrepancies](https://github.com/grandinetech/grandine/issues/1056) - 2026-11-19
 * [Issue] [inspect cpu usage](https://github.com/grandinetech/grandine/issues/1055) - 2026-11-19
 * [Commit] [Observe gossip aggregates into supersets only after full validation](https://github.com/grandinetech/grandine/commit/1a31652c6f3e05adca0839a5b9c480c86ed7f0eb) - 2026-11-19
+* [Review] [Review on: Fix beacon API discrepancies ](https://github.com/grandinetech/grandine/pull/1054#pullrequestreview-5994248274) - 2026-11-20
+* [Pull Request] [Keep Gloas payload vote in aggregate superset keys](https://github.com/grandinetech/grandine/pull/1064) - 2026-11-20
+* [Pull Request] [Feature/empty slot states by root](https://github.com/grandinetech/grandine/pull/1062) - 2026-11-20
+* [Commit] [Keep Gloas payload vote in aggregate superset keys](https://github.com/grandinetech/grandine/commit/64cbc3bf923abd8fd53ef53a91071e5a47951a8f) - 2026-11-20
 ## Q3 2026
 
 

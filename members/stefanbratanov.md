@@ -39,6 +39,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Re-enable greclipse()](https://github.com/Consensys-Incorporated/teku/pull/11663) - 2026-11-19
 * [Pull Request] [Reject execution payload envelopes for unrequested roots in by-root requests](https://github.com/Consensys-Incorporated/teku/pull/11662) - 2026-11-19
 * [Commit] [Reject execution payload envelopes for unrequested roots in by-root requests (#11662)](https://github.com/Consensys-Incorporated/teku/commit/edc0d70fcb48630b085dba4f4706c4ccc9603394) - 2026-11-19
+* [Review] [Review on: Publish jdk27 Docker images instead of jdk26](https://github.com/Consensys-Incorporated/teku/pull/11698#pullrequestreview-5995503957) - 2026-11-20
+* [Pull Request] [Re-enable some gossip tests](https://github.com/Consensys-Incorporated/teku/pull/11688) - 2026-11-20
+* [Commit] [Re-enable greclipse() (#11663)](https://github.com/Consensys-Incorporated/teku/commit/c1fc4b3257a7b187adefe952b0e88cfb69657d0a) - 2026-11-20
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add AGENTS.md and point CLAUDE.md to it](https://github.com/libp2p/jvm-libp2p/pull/551) - 2026-11-16
 ## Q3 2026

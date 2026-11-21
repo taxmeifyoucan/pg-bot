@@ -95,6 +95,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982#pullrequestreview-5908871183) - 2026-11-15
 * [Review] [Review on: fix(ci): skip authors with write access in the outside contributor gate](https://github.com/ethereum/execution-specs/pull/4010#pullrequestreview-5923802237) - 2026-11-16
 * [Commit] [feat(test-specs): check chain invariants while filling (#3982)](https://github.com/ethereum/execution-specs/commit/d15ecf40062fcfe20d23b7b5ff1c078bcbe251c3) - 2026-11-16
+* [Pull Request] [feat(spec-tests): add a Hypothesis property suite for the spec](https://github.com/ethereum/execution-specs/pull/4043) - 2026-11-20
+* [Review] [Review on: feat(spec-tests): add a Hypothesis property suite for the spec](https://github.com/ethereum/execution-specs/pull/4043#pullrequestreview-5999830522) - 2026-11-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

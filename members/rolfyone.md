@@ -218,6 +218,32 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Add PQ execution requests](https://github.com/Consensys-Incorporated/teku/pull/11657) - 2026-11-19
 * [Pull Request] [Add PQ state containers and make Validator and Builder interfaces](https://github.com/Consensys-Incorporated/teku/pull/11656) - 2026-11-19
 * [Commit] [Harden slashing protection interchange imports (#11645)](https://github.com/Consensys-Incorporated/teku/commit/62a54b968df39b22e012765be033dad87d509f7d) - 2026-11-19
+* [Pull Request] [Build leanvm-sidecar into the Docker images](https://github.com/Consensys-Incorporated/teku/pull/11706) - 2026-11-21
+* [Pull Request] [Prove and verify PQ attestation proofs with a leanVM sidecar](https://github.com/Consensys-Incorporated/teku/pull/11705) - 2026-11-21
+* [Pull Request] [Load derived PQ keys' VRF states from a precomputed state file](https://github.com/Consensys-Incorporated/teku/pull/11704) - 2026-11-21
+* [Pull Request] [Fix PQ devnet bugs and sign PTC messages and preferences with XMSS](https://github.com/Consensys-Incorporated/teku/pull/11703) - 2026-11-20
+* [Pull Request] [Derive PQ validator keys from the BLS key for devnets](https://github.com/Consensys-Incorporated/teku/pull/11702) - 2026-11-20
+* [Pull Request] [Bump lean-pq to 0.14.0](https://github.com/Consensys-Incorporated/teku/pull/11701) - 2026-11-20
+* [Pull Request] [Propose PQ blocks with a VRF reveal and XMSS signatures](https://github.com/Consensys-Incorporated/teku/pull/11697) - 2026-11-20
+* [Pull Request] [Aggregate PQ attestations in the validator client](https://github.com/Consensys-Incorporated/teku/pull/11696) - 2026-11-20
+* [Pull Request] [Sign PQ attestations with XMSS in the validator client](https://github.com/Consensys-Incorporated/teku/pull/11695) - 2026-11-20
+* [Pull Request] [Find PQ validators by their XMSS keys in the validator client](https://github.com/Consensys-Incorporated/teku/pull/11694) - 2026-11-20
+* [Pull Request] [Give PQ validators duties named by their XMSS keys](https://github.com/Consensys-Incorporated/teku/pull/11693) - 2026-11-20
+* [Pull Request] [Give PQ aggregators the aggregate with its proof and publish theirs](https://github.com/Consensys-Incorporated/teku/pull/11692) - 2026-11-20
+* [Pull Request] [Take a VRF RANDAO reveal on produceBlockV4 for PQ](https://github.com/Consensys-Incorporated/teku/pull/11691) - 2026-11-20
+* [Pull Request] [Produce PQ blocks with a VRF RANDAO reveal and an XMSS self-build bid](https://github.com/Consensys-Incorporated/teku/pull/11690) - 2026-11-20
+* [Pull Request] [Keep PQ attestations in their own pool and pack them with a proof](https://github.com/Consensys-Incorporated/teku/pull/11689) - 2026-11-20
+* [Pull Request] [Run the PQ fork choice and gossip reference tests](https://github.com/Consensys-Incorporated/teku/pull/11687) - 2026-11-20
+* [Review] [Review on: Compact pruned slot ranges of block and sidecar tables](https://github.com/Consensys-Incorporated/teku/pull/11640#pullrequestreview-5996376025) - 2026-11-20
+* [Review] [Review on: Hold SSZ tree updates in primitive arrays](https://github.com/Consensys-Incorporated/teku/pull/11634#pullrequestreview-5993209313) - 2026-11-20
+* [Review] [Review on: Track the changes of mutable SSZ composites in a paged array](https://github.com/Consensys-Incorporated/teku/pull/11633#pullrequestreview-5993204616) - 2026-11-20
+* [Pull Request] [Accept PQ single attestations on POST pool/attestations](https://github.com/Consensys-Incorporated/teku/pull/11685) - 2026-11-20
+* [Pull Request] [Handle PQ in events and reject the operations it removed](https://github.com/Consensys-Incorporated/teku/pull/11684) - 2026-11-20
+* [Pull Request] [Serve PQ types from the REST API's read endpoints](https://github.com/Consensys-Incorporated/teku/pull/11683) - 2026-11-20
+* [Pull Request] [Look up PQ validators by their XMSS keys in the REST API](https://github.com/Consensys-Incorporated/teku/pull/11682) - 2026-11-20
+* [Pull Request] [Gossip attestations on PQ's 16 subnets](https://github.com/Consensys-Incorporated/teku/pull/11681) - 2026-11-20
+* [Pull Request] [Gossip PQ's topics, aggregates and payload attestation messages](https://github.com/Consensys-Incorporated/teku/pull/11680) - 2026-11-20
+* [Pull Request] [Check PQ proposer slashings with XMSS](https://github.com/Consensys-Incorporated/teku/pull/11679) - 2026-11-20
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

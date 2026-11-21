@@ -207,6 +207,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660#pullrequestreview-5981146133) - 2026-11-19
 * [Review] [Review on: fix: compute native genesis anchor root from latest block header](https://github.com/ChainSafe/lodestar/pull/10681#pullrequestreview-5980918669) - 2026-11-19
 * [Pull Request] [fix: harden block publishing, gossip size limits and range request handlers](https://github.com/ChainSafe/lodestar/pull/10667) - 2026-11-19
+* [Review] [Review on: fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660#pullrequestreview-5995937104) - 2026-11-20
+* [Review] [Review on: fix: penalize peers for invalid SSZ responses and gossip](https://github.com/ChainSafe/lodestar/pull/10654#pullrequestreview-5994070596) - 2026-11-20
+* [Review] [Review on: test: run the UDP source tests on macOS](https://github.com/ChainSafe/lodestar/pull/10692#pullrequestreview-5995211273) - 2026-11-20
+* [Review] [Review on: test(config): verify domain bytes](https://github.com/ChainSafe/lodestar/pull/10691#pullrequestreview-5994915322) - 2026-11-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

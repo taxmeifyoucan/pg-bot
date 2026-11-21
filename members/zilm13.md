@@ -79,6 +79,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [FCR: Tolerate a pruned previous balance source in fast confirmation (#11604)](https://github.com/Consensys-Incorporated/teku/commit/6005b7ff8fe38e44df06a7fb9da7ccbd8d5662d6) - 2026-11-16
 * [Commit] [Write generated secret files readable only by their owner (#11617)](https://github.com/Consensys-Incorporated/teku/commit/7f945e8fc99fb9a5d4e6ec1611cdd20117d818e3) - 2026-11-17
 * [Review] [Review on: Add payload consistency checks to envelope gossip validation](https://github.com/Consensys-Incorporated/teku/pull/11650#pullrequestreview-5963969407) - 2026-11-18
+* [Review] [Review on: Avoid retaining ancestor beacon states through cache factories](https://github.com/Consensys-Incorporated/teku/pull/11644#pullrequestreview-5993688143) - 2026-11-20
+* [Review] [Review on: Publish jdk27 Docker images instead of jdk26](https://github.com/Consensys-Incorporated/teku/pull/11698#pullrequestreview-5995857142) - 2026-11-20
+* [Review] [Review on: Compact pruned slot ranges of block and sidecar tables](https://github.com/Consensys-Incorporated/teku/pull/11640#pullrequestreview-5996071154) - 2026-11-20
+* [Review] [Review on: Read effective balances lazily in computeBalanceWeightedSelection](https://github.com/Consensys-Incorporated/teku/pull/11686#pullrequestreview-5993531006) - 2026-11-20
+* [Review] [Review on: Hold SSZ tree updates in primitive arrays](https://github.com/Consensys-Incorporated/teku/pull/11634#pullrequestreview-5993831440) - 2026-11-20
+* [Review] [Review on: Implement `/eth/v1/beacon/states/{state_id}/ptc`](https://github.com/Consensys-Incorporated/teku/pull/11632#pullrequestreview-5993994068) - 2026-11-20
 ## Q3 2026
 
 

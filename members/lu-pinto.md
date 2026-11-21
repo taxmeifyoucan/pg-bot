@@ -47,6 +47,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Refactor tx collision in optimistic parallel executor](https://github.com/besu-eth/besu/pull/11971) - 2026-11-13
 * [Review] [Review on: Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871#pullrequestreview-5943470129) - 2026-11-17
 * [Review] [Review on: Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871#pullrequestreview-5956179233) - 2026-11-18
+* [Review] [Review on: Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811#pullrequestreview-6001782661) - 2026-11-21
 ## Q3 2026
 
 

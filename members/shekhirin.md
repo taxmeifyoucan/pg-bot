@@ -35,6 +35,8 @@ Team: Reth
 * [Pull Request] [feat(storage): require DurableBlockReader in FullProvider](https://github.com/paradigmxyz/reth/pull/28605) - 2026-11-18
 * [Commit] [feat(storage): require DurableBlockReader in FullProvider (#28605)](https://github.com/paradigmxyz/reth/commit/c82820f49bbeb6a14434adffbd63cbeb12f77674) - 2026-11-18
 * [Commit] [feat(storage): add DurableBlockReader::last_durable_block_num_hash (#28584)](https://github.com/paradigmxyz/reth/commit/6af8cdc53cd5b5f603aca2e2a79dc9d1707d3b57) - 2026-11-18
+* [Review] [Review on: feat: introduce concurrency primitives](https://github.com/paradigmxyz/reth/pull/28620#pullrequestreview-5992524000) - 2026-11-20
+* [Pull Request] [fix(exex): fail when blockchain tree notifications lag](https://github.com/paradigmxyz/reth/pull/28630) - 2026-11-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

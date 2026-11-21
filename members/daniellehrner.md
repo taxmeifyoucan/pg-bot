@@ -263,6 +263,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: [#11715] EVM v2: read CALLDATALOAD words from a byte array on the frame](https://github.com/besu-eth/besu/pull/11875#pullrequestreview-5951630402) - 2026-11-18
 * [Commit] [[3/5] snap/2 sorted ingest: merge the small bottom-level files a RocksDB bulk load leaves (#11854)](https://github.com/besu-eth/besu/commit/4593efb23ddac4a56b3a41e613677b1bc94f3359) - 2026-11-18
 * [Commit] [Recover secp256k1 public keys in one native call (#11921)](https://github.com/besu-eth/besu/commit/59965aa475d7be987c89ee337046f80229468890) - 2026-11-19
+* [Pull Request] [Fix Forest snap sync losing trie nodes](https://github.com/besu-eth/besu/pull/12016) - 2026-11-20
+* [Pull Request] [Deprecate the evmstacksize genesis option and reject it with EVM v2](https://github.com/besu-eth/besu/pull/12014) - 2026-11-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

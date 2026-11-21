@@ -32,6 +32,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5723209718) - 2026-10-31
 * [Commit] [Update EIP-8141: Transaction nonce check boundary](https://github.com/ethereum/EIPs/commit/dc5d5fa688b7fe87b95a907fcc128b4fde2f4d2f) - 2026-11-01
 * [Pull Request] [Update EIP-7976: Update parameter names](https://github.com/ethereum/EIPs/pull/12639) - 2026-11-09
+* [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5994888076) - 2026-11-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956) - 2026-10-23
 
@@ -46,6 +47,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Review] [Review on: Commit to a payload root in the bid and drop the envelope signature](https://github.com/ethereum/consensus-specs/pull/5820#pullrequestreview-5942106324) - 2026-11-17
 * [Pull Request] [Fix test to catch an inactive builder](https://github.com/ethereum/consensus-specs/pull/5839) - 2026-11-18
 * [Review] [Review on: Commit to a payload root in the bid and drop the envelope signature](https://github.com/ethereum/consensus-specs/pull/5820#pullrequestreview-5960173958) - 2026-11-18
+* [Commit] [Fix test to catch an inactive builder (#5839)](https://github.com/ethereum/consensus-specs/commit/031a603a48e4efaf5e52bab38c473d8b7161f6ef) - 2026-11-20
 ## Q3 2026
 
 

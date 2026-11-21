@@ -71,6 +71,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor!: add lodestar prefix and seconds suffix to metrics (#10616)](https://github.com/ChainSafe/lodestar/commit/0ac7778d7034693a0818296dbe717f2999576ab1) - 2026-11-18
 * [Review] [Review on: fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660#pullrequestreview-5980045989) - 2026-11-19
 * [Review] [Review on: feat: allow builders one bid per ETH of balance for a slot and parent](https://github.com/ChainSafe/lodestar/pull/10597#pullrequestreview-5979286331) - 2026-11-19
+* [Pull Request] [perf: split electra aggregation bits per committee without a boolean array](https://github.com/ChainSafe/lodestar/pull/10698) - 2026-11-20
+* [Pull Request] [perf: track seen block attesters in a bitset per epoch](https://github.com/ChainSafe/lodestar/pull/10696) - 2026-11-20
+* [Review] [Review on: fix: allow heze upgrade with an unset deposit requests start index](https://github.com/ChainSafe/lodestar/pull/10685#pullrequestreview-5990174415) - 2026-11-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 

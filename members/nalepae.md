@@ -183,6 +183,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [ [DO NOT MERGE] PQ fork config, containers and state (from origin/pq)](https://github.com/OffchainLabs/prysm/pull/17898) - 2026-11-19
 * [Review] [Review on: Hdiff state look up metrics](https://github.com/OffchainLabs/prysm/pull/17890#pullrequestreview-5974641458) - 2026-11-19
 * [Pull Request] [Add the post-quantum key derivation of the leanXMSS validator client.](https://github.com/OffchainLabs/prysm/pull/17897) - 2026-11-19
+* [Pull Request] [Perform the duties of the leanXMSS validators.](https://github.com/OffchainLabs/prysm/pull/17911) - 2026-11-20
+* [Pull Request] [Find the leanXMSS validators on the beacon node by XMSS public key.](https://github.com/OffchainLabs/prysm/pull/17910) - 2026-11-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

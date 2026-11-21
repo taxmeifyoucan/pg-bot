@@ -98,6 +98,8 @@ Team: Grandine
 * [Issue] [Do not set the head to a payload the EL rejected; skip the fcU on an INVALID verdict.](https://github.com/grandinetech/grandine/issues/1060) - 2026-11-19
 * [Issue] [Fast confirmation rule](https://github.com/grandinetech/grandine/issues/1058) - 2026-11-19
 * [Issue] [Separate DB for blobs/columns](https://github.com/grandinetech/grandine/issues/1057) - 2026-11-19
+* [Review] [Review on: Keep Gloas payload vote in aggregate superset keys](https://github.com/grandinetech/grandine/pull/1064#pullrequestreview-5992143534) - 2026-11-20
+* [Pull Request] [Fast block confirmation with fast confirmation rule](https://github.com/grandinetech/grandine/pull/1063) - 2026-11-20
 ## Q3 2026
 
 

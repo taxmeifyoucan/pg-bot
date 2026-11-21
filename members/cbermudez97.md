@@ -19,6 +19,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Pull Request] [ci(sync): reach telemetry over Tailscale and drop it from the PR gate](https://github.com/NethermindEth/nethermind/pull/16038) - 2026-11-17
 * [Review] [Review on: ci(sync): reach telemetry over Tailscale and drop it from the PR gate](https://github.com/NethermindEth/nethermind/pull/16038#pullrequestreview-5942897562) - 2026-11-17
 * [Commit] [ci(sync): reach telemetry over Tailscale and drop it from the PR gate (#16038)](https://github.com/NethermindEth/nethermind/commit/0838e05c02e3fdf31ea1af1d2d23d6b78b2b8d63) - 2026-11-18
+* [Review] [Review on: build(bootnode): use the chiseled ASP.NET runtime image](https://github.com/NethermindEth/nethermind/pull/16171#pullrequestreview-5994887216) - 2026-11-20
 ## Q3 2026
 
 

@@ -40,6 +40,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [aristo: simplify hike (#5180)](https://github.com/status-im/nimbus-eth1/commit/d99d85ec28be7563da8d541a21bdfb63290f6971) - 2026-11-18
 * [Commit] [aristo: make `clearStorage` a parameter of `mergeAccount` (#5179)](https://github.com/status-im/nimbus-eth1/commit/e404667768d237b26aca0501948f3bfdaf7b91bd) - 2026-11-18
 * [Pull Request] [aristo: batch-merge slots](https://github.com/status-im/nimbus-eth1/pull/5185) - 2026-11-19
+* [Pull Request] [ledger: collect per-tx writes into an in-memory cache, use journal to undo](https://github.com/status-im/nimbus-eth1/pull/5189) - 2026-11-20
+* [Commit] [aristo: batch-merge slots (#5185)](https://github.com/status-im/nimbus-eth1/commit/434cf3e64cc7a864562ff8f918bd0b667f907e93) - 2026-11-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

@@ -634,6 +634,44 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(sync): resume header sync at the pivot and reject an unexpected first header](https://github.com/NethermindEth/nethermind/pull/16112#pullrequestreview-5977174893) - 2026-11-19
 * [Review] [Review on: fix(state): persist a flat base snapshot wider than CompactSize](https://github.com/NethermindEth/nethermind/pull/16132#pullrequestreview-5976869963) - 2026-11-19
 * [Commit] [fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth (#16052)](https://github.com/NethermindEth/nethermind/commit/685104fc14e9985a9daf1cf892dc02bb88822375) - 2026-11-19
+* [Pull Request] [fix(sync): stop PrepareRequest looping on a header dependency that cannot connect](https://github.com/NethermindEth/nethermind/pull/16244) - 2026-11-21
+* [Pull Request] [fix(xdc): keep XdcBlockProcessor in tracing environments](https://github.com/NethermindEth/nethermind/pull/16227) - 2026-11-20
+* [Pull Request] [fix(rpc): don't warn per request for rejected raw transactions](https://github.com/NethermindEth/nethermind/pull/16224) - 2026-11-20
+* [Pull Request] [fix(aura): skip contract data refreshes of superseded heads](https://github.com/NethermindEth/nethermind/pull/16222) - 2026-11-20
+* [Pull Request] [fix(optimism): keep OptimismBlockProcessor in tracing environments](https://github.com/NethermindEth/nethermind/pull/16231) - 2026-11-20
+* [Pull Request] [fix(flat): keep read-only scope trie nodes out of the shared node record buffer](https://github.com/NethermindEth/nethermind/pull/16234) - 2026-11-21
+* [Pull Request] [fix(rpc): report caller errors with request error codes instead of internal error](https://github.com/NethermindEth/nethermind/pull/16205) - 2026-11-20
+* [Pull Request] [fix(aura): skip the legacy finalization scan on post-merge heads](https://github.com/NethermindEth/nethermind/pull/16221) - 2026-11-20
+* [Pull Request] [fix(rpc): close open WebSocket connections at shutdown](https://github.com/NethermindEth/nethermind/pull/16214) - 2026-11-20
+* [Pull Request] [fix(tracing): leave EIP-8037 state gas out of struct-log gasCost](https://github.com/NethermindEth/nethermind/pull/16203) - 2026-11-20
+* [Pull Request] [fix(rpc): return errors from logIndex_blockNumbers instead of failing serialization](https://github.com/NethermindEth/nethermind/pull/16209) - 2026-11-20
+* [Pull Request] [fix(runner): keep startup warmup blocks after a future genesis](https://github.com/NethermindEth/nethermind/pull/16213) - 2026-11-20
+* [Pull Request] [fix(optimism): reject invalid raw transactions before forwarding them to the sequencer](https://github.com/NethermindEth/nethermind/pull/16206) - 2026-11-20
+* [Pull Request] [test(network): give each recreated eth handler its own session](https://github.com/NethermindEth/nethermind/pull/16228) - 2026-11-20
+* [Pull Request] [fix(config): resolve debug_getConfigValue for short and full category names](https://github.com/NethermindEth/nethermind/pull/16220) - 2026-11-20
+* [Pull Request] [fix(specs): read unprefixed geth genesis storage keys as hex](https://github.com/NethermindEth/nethermind/pull/16212) - 2026-11-20
+* [Pull Request] [fix(rpc): reject logIndex_blockNumbers while the log index has no usable range](https://github.com/NethermindEth/nethermind/pull/16229) - 2026-11-20
+* [Pull Request] [fix(pruning): do not log full pruning canceled at shutdown as an error](https://github.com/NethermindEth/nethermind/pull/16207) - 2026-11-20
+* [Issue] [Optimism: debug and trace RPC replay blocks without OptimismBlockProcessor](https://github.com/NethermindEth/nethermind/issues/16230) - 2026-11-20
+* [Issue] [logIndex_blockNumbers returns stale blocks after a reorg the log index could not revert](https://github.com/NethermindEth/nethermind/issues/16226) - 2026-11-20
+* [Issue] [Post-merge AuRa nodes spend minutes in silent startup scanning legacy AuRa finalization flags](https://github.com/NethermindEth/nethermind/issues/16217) - 2026-11-20
+* [Issue] [XDC: call and transaction tracing fails with InvalidCastException on XdcBlockHeader](https://github.com/NethermindEth/nethermind/issues/16183) - 2026-11-20
+* [Issue] [eth_sendRawTransaction rejections log one WARN line per request](https://github.com/NethermindEth/nethermind/issues/16216) - 2026-11-20
+* [Issue] [Struct logger gasCost includes EIP-8037 state gas taken from the gas left](https://github.com/NethermindEth/nethermind/issues/16201) - 2026-11-20
+* [Issue] [logIndex_blockNumbers returns HTTP 500 for filters the log index cannot serve](https://github.com/NethermindEth/nethermind/issues/16185) - 2026-11-20
+* [Issue] [Flaky test: Budget_rejection_excludes_correlated_responses_from_flood_sampling gets ProtocolInitTimeout from a replaced handler](https://github.com/NethermindEth/nethermind/issues/16200) - 2026-11-20
+* [Issue] [Full pruning canceled at shutdown is logged as ERROR with TaskCanceledException](https://github.com/NethermindEth/nethermind/issues/16196) - 2026-11-20
+* [Issue] [Optimism: eth_sendRawTransaction forwards undecodable input to the sequencer](https://github.com/NethermindEth/nethermind/issues/16195) - 2026-11-20
+* [Issue] [JSON-RPC: invalid input answered as -32603 Internal error, and eth_getStorageAt repeats oversized keys in full](https://github.com/NethermindEth/nethermind/issues/16194) - 2026-11-20
+* [Issue] [AuRa ContractDataStore logs StateNotRetainedException errors for superseded heads during batched sync](https://github.com/NethermindEth/nethermind/issues/16193) - 2026-11-20
+* [Issue] [Startup pipeline warmup fails when the genesis timestamp is in the future](https://github.com/NethermindEth/nethermind/issues/16192) - 2026-11-20
+* [Issue] [Geth-format genesis reads unprefixed storage keys as decimal](https://github.com/NethermindEth/nethermind/issues/16191) - 2026-11-20
+* [Issue] [debug_getConfigValue returns null for the short category name (Sync vs SyncConfig)](https://github.com/NethermindEth/nethermind/issues/16190) - 2026-11-20
+* [Issue] [p2p: Disconnect sent in plain RLP after a v5 Hello is rejected](https://github.com/NethermindEth/nethermind/issues/16189) - 2026-11-20
+* [Issue] [Network.SimulateSendLatencyMs can reorder outgoing p2p messages](https://github.com/NethermindEth/nethermind/issues/16188) - 2026-11-20
+* [Issue] [JSON-RPC: limit installed filters per client](https://github.com/NethermindEth/nethermind/issues/16187) - 2026-11-20
+* [Issue] [eth/72: invalid cells from a peer other than the body source go unpenalized](https://github.com/NethermindEth/nethermind/issues/16186) - 2026-11-20
+* [Issue] [Open WebSocket clients delay node shutdown by ~60 s](https://github.com/NethermindEth/nethermind/issues/16184) - 2026-11-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

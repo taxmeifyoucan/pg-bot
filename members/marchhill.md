@@ -246,6 +246,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(benchmarks): time uncached ecrecover and verifying KZG point evaluations](https://github.com/NethermindEth/nethermind/pull/15893#pullrequestreview-5906758892) - 2026-11-14
 * [Pull Request] [ci: add a dispatchable EIP-8288 calibration workflow](https://github.com/NethermindEth/nethermind/pull/15884) - 2026-11-14
 * [Review] [Review on: ci: add a dispatchable EIP-8288 calibration workflow](https://github.com/NethermindEth/nethermind/pull/15884#pullrequestreview-5905691051) - 2026-11-14
+* [Review] [Review on: perf(evm): skip a frame's zero credit under EIP-7928 too](https://github.com/NethermindEth/nethermind/pull/16160#pullrequestreview-5992111355) - 2026-11-20
+* [Review] [Review on: fix(sync): reset the beacon pivot on forkchoice restart](https://github.com/NethermindEth/nethermind/pull/16158#pullrequestreview-5992474422) - 2026-11-20
+* [Review] [Review on: fix(metrics): scope block transaction timing](https://github.com/NethermindEth/nethermind/pull/16172#pullrequestreview-5992535729) - 2026-11-20
+* [Commit] [fix(benchmarks): time uncached ecrecover and verifying KZG point evaluations (#15893)](https://github.com/NethermindEth/nethermind/commit/bf30d1b7f911dc2a32aed4b9f3f3c737003c9569) - 2026-11-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

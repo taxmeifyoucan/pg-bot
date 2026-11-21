@@ -124,6 +124,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: remove fork choice irrecoverableError](https://github.com/ChainSafe/lodestar/pull/10661) - 2026-11-19
 * [Pull Request] [fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660) - 2026-11-19
 * [Commit] [refactor: remove fork choice irrecoverableError (#10661)](https://github.com/ChainSafe/lodestar/commit/d3dc575c8e92612aba84749d28137637f9272c8f) - 2026-11-19
+* [Review] [Review on: fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660#pullrequestreview-5989204073) - 2026-11-20
+* [Review] [Review on: fix: penalize peers for invalid SSZ responses and gossip](https://github.com/ChainSafe/lodestar/pull/10654#pullrequestreview-5989554095) - 2026-11-20
+* [Review] [Review on: fix: bound reqresp range snapshots and reject unsafe slot ranges](https://github.com/ChainSafe/lodestar/pull/10657#pullrequestreview-5989916897) - 2026-11-20
+* [Review] [Review on: fix: await all fork publications before completing BLS changes](https://github.com/ChainSafe/lodestar/pull/10655#pullrequestreview-5989649037) - 2026-11-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

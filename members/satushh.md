@@ -83,6 +83,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Check attester slashing slashability before verifying signatures](https://github.com/OffchainLabs/prysm/pull/17896) - 2026-11-18
 * [Pull Request] [Read each requested data column once in by-root responses](https://github.com/OffchainLabs/prysm/pull/17895) - 2026-11-18
 * [Pull Request] [Skip the file mutex in data column Get when nothing is stored](https://github.com/OffchainLabs/prysm/pull/17894) - 2026-11-18
+* [Pull Request] [Run cheap block gossip ignore checks before hashing the block](https://github.com/OffchainLabs/prysm/pull/17902) - 2026-11-20
 ## Q3 2026
 
 

@@ -43,6 +43,12 @@ Team: Geth
 * [Review] [Review on: accounts/keystore: send wallet events in the order they are computed](https://github.com/ethereum/go-ethereum/pull/36099#pullrequestreview-5937255910) - 2026-11-17
 * [Review] [Review on: core/txpool/legacypool: count pending transactions as the lists change](https://github.com/ethereum/go-ethereum/pull/35966#pullrequestreview-5938238022) - 2026-11-17
 * [Review] [Review on: triedb/pathdb: check the journal's disk layer against the histories](https://github.com/ethereum/go-ethereum/pull/36041#pullrequestreview-5936501711) - 2026-11-17
+* [Review] [Review on: core, core/txpool: share the gas limit cap and set code tx checks](https://github.com/ethereum/go-ethereum/pull/36162#pullrequestreview-5991773211) - 2026-11-20
+* [Review] [Review on: core/types/bal: check read/write overlap with a merge walk](https://github.com/ethereum/go-ethereum/pull/36152#pullrequestreview-5991874908) - 2026-11-20
+* [Review] [Review on: core: exempt delegation designators from the EOA check only from Prague](https://github.com/ethereum/go-ethereum/pull/36178#pullrequestreview-5991432402) - 2026-11-20
+* [Review] [Review on: core: set the effective gas price when making receipts](https://github.com/ethereum/go-ethereum/pull/36083#pullrequestreview-5991036578) - 2026-11-20
+* [Review] [Review on: cmd, eth: merge the error message and zero cost for exceptional halt](https://github.com/ethereum/go-ethereum/pull/36166#pullrequestreview-5990828916) - 2026-11-20
+* [Review] [Review on: accounts/abi: reject uint values wider than 256 bits when packing](https://github.com/ethereum/go-ethereum/pull/35972#pullrequestreview-5990677039) - 2026-11-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

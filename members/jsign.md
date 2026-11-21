@@ -50,6 +50,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(test-client-clis): add an Ethrex transition tool](https://github.com/ethereum/execution-specs/pull/4021) - 2026-11-18
 * [Review] [Review on: feat(test-client-clis): add an Ethrex transition tool](https://github.com/ethereum/execution-specs/pull/4021#pullrequestreview-5956908575) - 2026-11-18
 * [Commit] [feat(test-client-clis): add an Ethrex transition tool (#4021)](https://github.com/ethereum/execution-specs/commit/4cab90a7a9dcf071a56fb78a23f3d68165d47ccf) - 2026-11-18
+* [Pull Request] [chore(zkevm): merge tests@v21.0.3 into projects/zkevm](https://github.com/ethereum/execution-specs/pull/4040) - 2026-11-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 
