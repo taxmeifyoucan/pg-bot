@@ -1195,6 +1195,19 @@ Team: Erigon
 * [Commit] [execution/state: state.New builds a versioned state (#26617)](https://github.com/erigontech/erigon/commit/761706638f10ea7c3d992ad30dc913f9922a400f) - 2026-11-21
 * [Commit] [docs: keep admin namespaces off public listeners in examples (#26498)](https://github.com/erigontech/erigon/commit/4feb5b1c1d424be67abecd67ff50c8b8724cb47e) - 2026-11-20
 * [Commit] [node/workerpool: run TestMaxWorkers in a synctest bubble (#26526)](https://github.com/erigontech/erigon/commit/d480d87c3f0c45f79cb806d73a89ff341a2d1d3f) - 2026-11-20
+* [Pull Request] [execution/stagedsync, bal: checkpoints fold only the new changes](https://github.com/erigontech/erigon/pull/26667) - 2026-11-21
+* [Pull Request] [db/state, execution/commitment: rebuild reuses values it already read](https://github.com/erigontech/erigon/pull/26652) - 2026-11-21
+* [Pull Request] [db/state, commitment/v3: bound v3 rebuild memory by worker count](https://github.com/erigontech/erigon/pull/26647) - 2026-11-21
+* [Pull Request] [cmd/integration: commitment rebuild keeps file indexes off the heap](https://github.com/erigontech/erigon/pull/26646) - 2026-11-21
+* [Pull Request] [cmd/integration: commitment visualize refuses v3 files, no panic](https://github.com/erigontech/erigon/pull/26650) - 2026-11-21
+* [Pull Request] [cmd/integration: commitment print reads v3 state records](https://github.com/erigontech/erigon/pull/26649) - 2026-11-21
+* [Review] [Review on: execution: simplify and de-version the IntraBlockState](https://github.com/erigontech/erigon/pull/26659#pullrequestreview-6004995804) - 2026-11-21
+* [Review] [Review on: execution/state: delete the materialized stateObject type](https://github.com/erigontech/erigon/pull/26658#pullrequestreview-6004994858) - 2026-11-21
+* [Review] [Review on: execution: remove dead/redundant materialized finalize machinery](https://github.com/erigontech/erigon/pull/26657#pullrequestreview-6004994058) - 2026-11-21
+* [Pull Request] [cmd/integration: commitment verify runs without chaindata](https://github.com/erigontech/erigon/pull/26656) - 2026-11-21
+* [Pull Request] [db/state: commitment v3 verify reads its files with readahead](https://github.com/erigontech/erigon/pull/26654) - 2026-11-21
+* [Pull Request] [execution/exec: BAL commitment read-ahead by trie variant](https://github.com/erigontech/erigon/pull/26648) - 2026-11-21
+* [Pull Request] [cmd/integration: commitment convert --v3 runs with v3 on](https://github.com/erigontech/erigon/pull/26651) - 2026-11-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

@@ -211,6 +211,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: penalize peers for invalid SSZ responses and gossip](https://github.com/ChainSafe/lodestar/pull/10654#pullrequestreview-5994070596) - 2026-11-20
 * [Review] [Review on: test: run the UDP source tests on macOS](https://github.com/ChainSafe/lodestar/pull/10692#pullrequestreview-5995211273) - 2026-11-20
 * [Review] [Review on: test(config): verify domain bytes](https://github.com/ChainSafe/lodestar/pull/10691#pullrequestreview-5994915322) - 2026-11-20
+* [Commit] [feat: allow builders one bid per ETH of balance for a slot and parent (#10597)](https://github.com/ChainSafe/lodestar/commit/f2144dd2ac074ab0ed9753be8ff3bc955120fe9a) - 2026-11-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

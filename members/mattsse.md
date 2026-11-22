@@ -787,6 +787,9 @@ Team: Reth
 * [Review] [Review on: refactor: drop block maps from TreeState](https://github.com/paradigmxyz/reth/pull/28609#pullrequestreview-5991269660) - 2026-11-20
 * [Commit] [feat(rpc): add --rpc.max-trace-bytes for tracers (#28525)](https://github.com/paradigmxyz/reth/commit/ff49a40afcc8c4527138c77d8910c1c6362c335b) - 2026-11-20
 * [Commit] [fix(stages): honor execution unwind limits (#28068)](https://github.com/paradigmxyz/reth/commit/efae8fb8bc5f87becc5b3827c563a8b225eaa1b9) - 2026-11-20
+* [Review] [Review on: fix(rpc): bound eth_getLogs ranges by response size](https://github.com/paradigmxyz/reth/pull/28510#pullrequestreview-6007771679) - 2026-11-21
+* [Commit] [fix(rpc): bound eth_getLogs ranges by response size (#28510)](https://github.com/paradigmxyz/reth/commit/85c70663312d3e96d2d4428635e2b0d9492b349f) - 2026-11-21
+* [Commit] [fix(rpc): bound builder validation cached reads by gas (#28636)](https://github.com/paradigmxyz/reth/commit/53b5db1c3bc841bae679e58a625485d3d44d5b74) - 2026-11-21
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

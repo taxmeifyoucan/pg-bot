@@ -244,6 +244,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Gossip attestations on PQ's 16 subnets](https://github.com/Consensys-Incorporated/teku/pull/11681) - 2026-11-20
 * [Pull Request] [Gossip PQ's topics, aggregates and payload attestation messages](https://github.com/Consensys-Incorporated/teku/pull/11680) - 2026-11-20
 * [Pull Request] [Check PQ proposer slashings with XMSS](https://github.com/Consensys-Incorporated/teku/pull/11679) - 2026-11-20
+* [Pull Request] [Add leanVM sidecar benchmark](https://github.com/Consensys-Incorporated/teku/pull/11707) - 2026-11-21
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

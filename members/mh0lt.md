@@ -30,6 +30,10 @@ Team: Erigon
 * [Commit] [execution, rpc: commit genesis through the apply path and compute its root from the version map (#26588)](https://github.com/erigontech/erigon/commit/75f3faf32c46694f3dae229c7dd21d0795477f02) - 2026-11-20
 * [Pull Request] [execution/state: make the versioned write paths stateObject-free (CreateAccount, SetCode, SetIncarnation, TouchAccount, SetStorage)](https://github.com/erigontech/erigon/pull/26626) - 2026-11-20
 * [Pull Request] [execution/state: journal revert coverage + versioned balance/nonce writes stateObject-free](https://github.com/erigontech/erigon/pull/26623) - 2026-11-20
+* [Pull Request] [execution: simplify and de-version the IntraBlockState](https://github.com/erigontech/erigon/pull/26659) - 2026-11-21
+* [Pull Request] [execution/state: delete the materialized stateObject type](https://github.com/erigontech/erigon/pull/26658) - 2026-11-21
+* [Pull Request] [execution: remove dead/redundant materialized finalize machinery](https://github.com/erigontech/erigon/pull/26657) - 2026-11-21
+* [Pull Request] [db/kv/membatchwithdb: arena-allocate membatch keys/values](https://github.com/erigontech/erigon/pull/26661) - 2026-11-21
 ## Q3 2026
 
 

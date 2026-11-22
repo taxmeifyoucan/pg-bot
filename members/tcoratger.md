@@ -320,6 +320,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [Update EIP-3155: Write pass as a Boolean and clarify the STOP example](https://github.com/ethereum/EIPs/pull/12678) - 2026-11-20
 * [Pull Request] [Update EIP-7892: Match compute_fork_digest mask with consensus-specs](https://github.com/ethereum/EIPs/pull/12675) - 2026-11-20
 * [Pull Request] [Update EIP-3076: Refuse interchange files from another chain](https://github.com/ethereum/EIPs/pull/12677) - 2026-11-20
+* [Pull Request] [Update EIP-198: Define the output for a zero modulus](https://github.com/ethereum/EIPs/pull/12684) - 2026-11-22
+* [Pull Request] [Update EIP-2537: Fix two typos in the field-to-curve asset](https://github.com/ethereum/EIPs/pull/12683) - 2026-11-22
+* [Pull Request] [Update EIP-7773: Name the Amsterdam and Gloas upgrades](https://github.com/ethereum/EIPs/pull/12679) - 2026-11-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 
@@ -330,6 +333,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [Link the merged Partial Message Extension spec (#5845)](https://github.com/ethereum/consensus-specs/commit/eac5e94e8067b614db1c2b1335d61b198b6d31fc) - 2026-11-20
 * [Commit] [Use the `requestsPartial` field name in partial columns (#5844)](https://github.com/ethereum/consensus-specs/commit/b4d38568cc1b2c584a5f59083baa036bcf07a9f3) - 2026-11-20
 
+* [Pull Request] [Fix seen_ttl rationale to match its two-epoch value](https://github.com/ethereum/consensus-specs/pull/5849) - 2026-11-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add examples for forkchoiceUpdatedV4/V5 and newPayloadV6](https://github.com/ethereum/execution-apis/pull/1007) - 2026-11-21
 * [Pull Request] [Engine: fix the case of inclusionListTransactions in bogota.md](https://github.com/ethereum/execution-apis/pull/1006) - 2026-11-21
@@ -346,9 +350,26 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Issue] [eth_createAccessList: should the result leave out the coinbase from Shanghai?](https://github.com/ethereum/execution-apis/issues/1005) - 2026-11-20
 * [Issue] [eth_simulateV1: default type 0x2 conflicts with fixtures that send authorizationList](https://github.com/ethereum/execution-apis/issues/997) - 2026-11-20
 
+* [Pull Request] [Type the authorization chainId and nonce as uint256 and uint64](https://github.com/ethereum/execution-apis/pull/1015) - 2026-11-22
+* [Pull Request] [Type the withdrawal amount as uint64](https://github.com/ethereum/execution-apis/pull/1013) - 2026-11-21
+* [Pull Request] [Look up transactions by hash on the canonical chain only](https://github.com/ethereum/execution-apis/pull/1008) - 2026-11-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery](https://github.com/ethereum/execution-specs/pull/4045) - 2026-11-21
 * [Issue] [BLOBBASEFEE is unspecified when the blob base fee is 2**256 or more](https://github.com/ethereum/execution-specs/issues/4044) - 2026-11-20
+
+* [Issue] [SetCodeTransaction types its nonce as U64, the other transactions as U256](https://github.com/ethereum/execution-specs/issues/4050) - 2026-11-22
+* [Issue] [test_out_of_order_payload_delivery should allow ACCEPTED for the resent payload](https://github.com/ethereum/execution-specs/issues/4048) - 2026-11-21
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/erigontech/erigon/issues/26668) - 2026-11-21
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/ethereum/go-ethereum/issues/36196) - 2026-11-21
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/NethermindEth/nethermind/issues/16255) - 2026-11-21
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/status-im/nimbus-eth1/issues/5196) - 2026-11-21
 ## Q3 2026
 
 

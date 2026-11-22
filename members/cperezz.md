@@ -23,6 +23,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [Restart deletes the whole chain: genesis is replayed on an empty state](https://github.com/NethermindEth/nethermind/issues/14323) - 2026-10-06
 * [Pull Request] [fix(processing): refuse a branch that reaches genesis without state](https://github.com/NethermindEth/nethermind/pull/14324) - 2026-10-08
 * [Commit] [fix(processing): refuse a branch that reaches genesis without state (#14324)](https://github.com/NethermindEth/nethermind/commit/542ed0d6081bb49e27dae599feef5a45950f8c93) - 2026-10-08
+* [Issue] [engine_newPayload returns -39001 "Timed out gathering ReadOnlySnapshotBundle" again after #13997](https://github.com/NethermindEth/nethermind/issues/16254) - 2026-11-21
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [binary-trie: a genesis with binaryTrieTime 0 cannot be initialised with default settings](https://github.com/erigontech/erigon/issues/24612) - 2026-10-06
 
@@ -49,6 +50,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [fix(test-consume): retry transaction lookups while the client is still indexing](https://github.com/ethereum/execution-specs/pull/4038) - 2026-11-20
 * [Pull Request] [refactor(tests): port TransactionReOrgTest as one test with its four scenarios](https://github.com/ethereum/execution-specs/pull/4037) - 2026-11-20
 * [Commit] [feat(tests): port hive's remaining reorg.go scenarios (#4032)](https://github.com/ethereum/execution-specs/commit/391d8a05d5cb182542ac7e7330c858b6ee03f990) - 2026-11-20
+* [Review] [Review on: fix(test-consume): retry transaction lookups while the client is still indexing](https://github.com/ethereum/execution-specs/pull/4038#pullrequestreview-6008868234) - 2026-11-21
+* [Pull Request] [fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors](https://github.com/ethereum/execution-specs/pull/4049) - 2026-11-21
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15
@@ -72,6 +75,12 @@ Github: [@cperezz](https://github.com/cperezz)
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [engine_forkchoiceUpdated: may a client refuse a reorg that reverts the latest known finalized block, and with which error?](https://github.com/ethereum/execution-apis/issues/983) - 2026-11-16
+* [Issue] [Payload validation: latestValidHash when the last valid ancestor is a post-merge genesis](https://github.com/ethereum/execution-apis/issues/1014) - 2026-11-21
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Issue] [Sync does not start for a forkchoiceUpdated with a zero finalized hash after newPayload](https://github.com/status-im/nimbus-eth1/issues/5195) - 2026-11-21
+* [Issue] [engine_forkchoiceUpdated keeps the previous finalized block when given an earlier one](https://github.com/status-im/nimbus-eth1/issues/5194) - 2026-11-21
+* [Issue] [eth_getBlockByNumber("latest") follows engine_newPayload instead of the forkchoice head](https://github.com/status-im/nimbus-eth1/issues/5193) - 2026-11-21
 ## Q3 2026
 
 

@@ -75,6 +75,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Update nim-rocksdb to v11.13.2.0](https://github.com/status-im/nimbus-eth1/pull/5175) - 2026-11-17
 * [Commit] [Update nim-rocksdb to v11.13.2.0 (#5175)](https://github.com/status-im/nimbus-eth1/commit/3e42208ac92e17380a327c51cf2175dba1f08b8e) - 2026-11-17
 * [Pull Request] [Support ere in make states script](https://github.com/status-im/nimbus-eth1/pull/5191) - 2026-11-20
+* [Review] [Review on: ledger: collect per-tx writes into an in-memory cache, use journal to undo](https://github.com/status-im/nimbus-eth1/pull/5189#pullrequestreview-6005172968) - 2026-11-21
+* [Commit] [Support ere in make states script (#5191)](https://github.com/status-im/nimbus-eth1/commit/d578c04c7c4046681a1ac761895a4b545aa875b4) - 2026-11-21
 ## Q3 2026
 
 

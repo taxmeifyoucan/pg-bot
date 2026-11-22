@@ -629,6 +629,7 @@ Team: Erigon
 * [Commit] [cl/blobfetch: cap Retry-After before it overflows, use an own transport (#26608)](https://github.com/erigontech/erigon/commit/a1f6adfab5ff4631929ad69b4c2d660b5994d599) - 2026-11-20
 * [Commit] [db/state: v3 convert folds the tail txs after a legacy file's stored state (#26605)](https://github.com/erigontech/erigon/commit/2a621ea171869c85a5186a8bb8612b6f9f60bf93) - 2026-11-20
 * [Commit] [db/integrity: check blob sidecar segments in parallel and cache passed segments (#26602)](https://github.com/erigontech/erigon/commit/f8585ee50bf90de75df65ce8e85af9c9bb6f5ccb) - 2026-11-20
+* [Review] [Review on: cl/phase1/network: warn about an unfinished blob backfill while a pass runs](https://github.com/erigontech/erigon/pull/26621#pullrequestreview-6004692163) - 2026-11-21
 ## Q3 2026
 
 

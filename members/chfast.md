@@ -141,6 +141,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: merge the creation's storage checks and extract validateBalanceAtDestruct (#26492)](https://github.com/erigontech/erigon/commit/9df95f25f47ba9c216cd6f90413b4778d55cb0ab) - 2026-11-18
 * [Review] [Review on: execution/state: fix the genesis root of allocs with a constructor](https://github.com/erigontech/erigon/pull/26595#pullrequestreview-5991581041) - 2026-11-20
 * [Commit] [execution/state: put back the deleted balance of a derived removal when a re-run drops a write (#26447)](https://github.com/erigontech/erigon/commit/dc3f34f36c65c56b34daa3cf56d7046614524efa) - 2026-11-21
+* [Pull Request] [execution/state: test that a drop at a revival keeps the revived account](https://github.com/erigontech/erigon/pull/26655) - 2026-11-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02

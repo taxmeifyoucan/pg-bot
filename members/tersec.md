@@ -103,6 +103,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: dont mark block as unviable on invalid payload](https://github.com/status-im/nimbus-eth2/pull/9457#pullrequestreview-5971677775) - 2026-11-19
 * [Review] [Review on: fix attester slashing stall, doppelganger check and bid value overflow](https://github.com/status-im/nimbus-eth2/pull/9462#pullrequestreview-5994395752) - 2026-11-20
 * [Review] [Review on: dont mark block as unviable on invalid payload](https://github.com/status-im/nimbus-eth2/pull/9457#pullrequestreview-5991770023) - 2026-11-20
+* [Review] [Review on: fix potential attester slashing stall, doppelganger check and bid value overflow](https://github.com/status-im/nimbus-eth2/pull/9462#pullrequestreview-6005021769) - 2026-11-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

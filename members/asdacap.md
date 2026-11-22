@@ -109,6 +109,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(sync): persist snap storage nodes only within the ranges of one root (#16014)](https://github.com/NethermindEth/nethermind/commit/47b18558395de17d3cab134df9bc7cb6ca4d833f) - 2026-11-19
 * [Commit] [feat(rpc)!: pass request cancellation to JSON-RPC methods (#15766)](https://github.com/NethermindEth/nethermind/commit/d6e55f239c4f02f17bdfda6418a248d5a7d534e0) - 2026-11-19
 * [Commit] [fix(state): count storage trie hash mismatches in FlatTrieVerifier (#16125)](https://github.com/NethermindEth/nethermind/commit/e53eec1760eb70c85c00d55417198aecec54cba9) - 2026-11-19
+* [Pull Request] [fix(sync): remove a mismatched flat trie node during healing, and compare a healed leaf with the removed one](https://github.com/NethermindEth/nethermind/pull/16247) - 2026-11-21
+* [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-6005101327) - 2026-11-21
+* [Pull Request] [fix(sync): compare a healed state leaf with the one removed for a mismatch](https://github.com/NethermindEth/nethermind/pull/16245) - 2026-11-21
+* [Review] [Review on: fix(sync): compare a healed state leaf with the one removed for a mismatch](https://github.com/NethermindEth/nethermind/pull/16245#pullrequestreview-6004493834) - 2026-11-21
 ## Q3 2026
 
 

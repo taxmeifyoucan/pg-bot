@@ -396,6 +396,27 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [builder](https://github.com/ChainSafe/lodestar/pull/10694) - 2026-11-20
 * [Pull Request] [fix: treat early inclusion lists within clock disparity as timely](https://github.com/ChainSafe/lodestar/pull/10690) - 2026-11-20
 * [Review] [Review on: fix: allow heze upgrade with an unset deposit requests start index](https://github.com/ChainSafe/lodestar/pull/10685#pullrequestreview-5990334095) - 2026-11-20
+* [Review] [Review on: refactor(builder): derive ledger bid fields from the signed bid](https://github.com/ChainSafe/lodestar/pull/10699#pullrequestreview-6005051580) - 2026-11-21
+* [Review] [Review on: feat(builder): track the canonical head from `head_v2` events](https://github.com/ChainSafe/lodestar/pull/10454#pullrequestreview-6005051445) - 2026-11-21
+* [Pull Request] [fix: reject unknown parent blocks from a proposer outside the pubkey cache](https://github.com/ChainSafe/lodestar/pull/10703) - 2026-11-21
+* [Pull Request] [fix: bound unknown parent blocks retained per peer and age them out](https://github.com/ChainSafe/lodestar/pull/10708) - 2026-11-21
+* [Review] [Review on: fix: bound unknown parent blocks retained per peer and age them out](https://github.com/ChainSafe/lodestar/pull/10708#pullrequestreview-6006364045) - 2026-11-21
+* [Pull Request] [fix: bound unknown block sync retries and requests per peer](https://github.com/ChainSafe/lodestar/pull/10707) - 2026-11-21
+* [Review] [Review on: fix: do not attest to an optimistic head](https://github.com/ChainSafe/lodestar/pull/10269#pullrequestreview-6005729372) - 2026-11-21
+* [Pull Request] [feat: let local proposers consider bids past the builder's bid limit](https://github.com/ChainSafe/lodestar/pull/10706) - 2026-11-21
+* [Review] [Review on: feat: let local proposers consider bids past the builder's bid limit](https://github.com/ChainSafe/lodestar/pull/10706#pullrequestreview-6005779928) - 2026-11-21
+* [Review] [Review on: fix: set gossip payload envelope in the same tick as validation](https://github.com/ChainSafe/lodestar/pull/10549#pullrequestreview-6005338924) - 2026-11-21
+* [Review] [Review on: feat: allow builders one bid per ETH of balance for a slot and parent](https://github.com/ChainSafe/lodestar/pull/10597#pullrequestreview-6005066463) - 2026-11-21
+* [Pull Request] [chore!: remove deprecated fork aliases and unused exports](https://github.com/ChainSafe/lodestar/pull/10705) - 2026-11-21
+* [Pull Request] [fix: remove minimum increment to forward bids over gossip](https://github.com/ChainSafe/lodestar/pull/10704) - 2026-11-21
+* [Review] [Review on: fix: use runtime genesis metadata for ephemery](https://github.com/ChainSafe/lodestar/pull/10278#pullrequestreview-6004837849) - 2026-11-21
+* [Review] [Review on: feat: pack SingleAttestation for block production](https://github.com/ChainSafe/lodestar/pull/10567#pullrequestreview-6004792692) - 2026-11-21
+* [Review] [Review on: chore!: remove --presetFile and preset value overrides](https://github.com/ChainSafe/lodestar/pull/10621#pullrequestreview-6004693404) - 2026-11-21
+* [Pull Request] [fix: correct `canonical` and `finalized` of block headers at finalized slots](https://github.com/ChainSafe/lodestar/pull/10702) - 2026-11-21
+* [Review] [Review on: fix: return non-canonical headers at slots the canonical chain skipped](https://github.com/ChainSafe/lodestar/pull/10646#pullrequestreview-6004644020) - 2026-11-21
+* [Review] [Review on: perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610#pullrequestreview-6004525616) - 2026-11-21
+* [Review] [Review on: chore!: remove deprecated cli flags](https://github.com/ChainSafe/lodestar/pull/10613#pullrequestreview-6004594033) - 2026-11-21
+* [Review] [Review on: feat!: prune history by default](https://github.com/ChainSafe/lodestar/pull/10625#pullrequestreview-6004510267) - 2026-11-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

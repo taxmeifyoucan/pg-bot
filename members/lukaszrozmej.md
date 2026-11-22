@@ -1098,6 +1098,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test(eest): bump fixtures to tests@v21.0.3 (#16174)](https://github.com/NethermindEth/nethermind/commit/822fd803d00e1d9d1ea28cb0e02807ec239b0506) - 2026-11-20
 * [Commit] [perf(zkevm): push the empty-input digest for a zero-length KECCAK256 in the guest handler (#16148)](https://github.com/NethermindEth/nethermind/commit/f806fe0996cfc1b73b7b7e961001c04849be0381) - 2026-11-20
 * [Commit] [test(trace-store): hold concurrent window readers until the cancellation stops the loop (#16149)](https://github.com/NethermindEth/nethermind/commit/52b4ceb916b089eed32ef410e66a1bab06d67cba) - 2026-11-20
+* [Review] [Review on: fix(flat): reject unsupported single-slot ring buffer capacity](https://github.com/NethermindEth/nethermind/pull/16233#pullrequestreview-6004201817) - 2026-11-21
+* [Pull Request] [perf(zkevm): answer a MODEXP whose base equals its modulus without ZisK's routine](https://github.com/NethermindEth/nethermind/pull/16246) - 2026-11-21
+* [Commit] [test(crypto): allow one recovery per evicted lookup in the sender-cache allocation test (#16232)](https://github.com/NethermindEth/nethermind/commit/eeea280167c170404c78c46bce95fdc7cf9e6498) - 2026-11-21
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

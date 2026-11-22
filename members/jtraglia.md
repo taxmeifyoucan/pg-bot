@@ -99,6 +99,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Use the `requestsPartial` field name in partial columns](https://github.com/ethereum/consensus-specs/pull/5844#pullrequestreview-5999590149) - 2026-11-20
 * [Pull Request] [Add `initiate_validator_consolidation` helper](https://github.com/ethereum/consensus-specs/pull/5847) - 2026-11-20
 * [Commit] [Add `initiate_validator_consolidation` helper (#5847)](https://github.com/ethereum/consensus-specs/commit/30a87dad055978946e607999415b0d4ac6543277) - 2026-11-20
+* [Pull Request] [Restrict rebasing and publishing in the commit skill](https://github.com/ethereum/consensus-specs/pull/5848) - 2026-11-21
+* [Commit] [Restrict rebasing and publishing in the commit skill (#5848)](https://github.com/ethereum/consensus-specs/commit/1db1846bdc6393fc9764ff5e1ca2bb5fb641f6e2) - 2026-11-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

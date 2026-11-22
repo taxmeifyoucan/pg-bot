@@ -447,6 +447,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon, cl/validator, docs: make Gloas block production POST v4 only (#26490)](https://github.com/erigontech/erigon/commit/1e8d7f9b3baf0aabe95578ccadaf194c86074072) - 2026-11-19
 * [Commit] [cl/phase1/network/services: restore committee and subnet hooks after attestation suite tests (#26483)](https://github.com/erigontech/erigon/commit/b3f6c8150e60f31dc8fdd98b69cccd0ab4976e18) - 2026-11-20
 * [Commit] [cl/p2p: send gossip messages ahead of queued sidecars (#26569)](https://github.com/erigontech/erigon/commit/7b3cb392d1f6b132dfc692967265a316cf198a9d) - 2026-11-20
+* [Pull Request] [cl/phase1/network/services: accept a pre-Gloas gossip block after gossip validation and import it in the background](https://github.com/erigontech/erigon/pull/26665) - 2026-11-21
 ## Q3 2026
 
 

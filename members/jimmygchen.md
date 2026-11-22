@@ -35,6 +35,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Release v8.3.3](https://github.com/sigp/lighthouse/pull/10552#pullrequestreview-5822315134) - 2026-11-09
 * [Commit] [Build slasher tests as C17 to fix mdbx on GCC 15 (#10518)](https://github.com/sigp/lighthouse/commit/4d328000467bea4e23d92cd810bbd33a176275bf) - 2026-11-09
 * [Review] [Review on: Remove MDBX slasher backend](https://github.com/sigp/lighthouse/pull/10521#pullrequestreview-5948613198) - 2026-11-17
+* [Issue] [Simulator fails at startup when a node's fixed port is already in use](https://github.com/sigp/lighthouse/issues/10623) - 2026-11-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
 

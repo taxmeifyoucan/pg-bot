@@ -213,6 +213,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc, db/rawdb: read eth_getBlockReceipts cached receipts while the block is read (#26420)](https://github.com/erigontech/erigon/commit/6bf4671193461f107607b5a2f6ee2c3752de51d4) - 2026-11-18
 * [Pull Request] [[WIP] rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper](https://github.com/erigontech/erigon/pull/26641) - 2026-11-20
 * [Pull Request] [[WIP] rpc/jsonrpc, rpc/contracts: cache the head block's logs for eth_getLogs](https://github.com/erigontech/erigon/pull/26631) - 2026-11-20
+* [Pull Request] [db/kv/remotedbserver: open and roll back read txs outside txsMapLock](https://github.com/erigontech/erigon/pull/26666) - 2026-11-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -310,6 +311,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_perf: read the heavy eth_subscribe classes in a second process](https://github.com/erigontech/rpc-tests/pull/668) - 2026-11-19
 * [Pull Request] [rpc_perf, rpc_pattern_gen: split the eth_subscribe connections into client classes](https://github.com/erigontech/rpc-tests/pull/667) - 2026-11-19
 * [Commit] [rpc_perf, rpc_pattern_gen: split the eth_subscribe connections into client classes (#667)](https://github.com/erigontech/rpc-tests/commit/4bb9f61c0ef25720c35a6965de8934d7d4505b48) - 2026-11-19
+* [Pull Request] [rpc_perf: measure logs and receipts against the first head on any connection](https://github.com/erigontech/rpc-tests/pull/669) - 2026-11-21
+* [Commit] [rpc_perf: measure logs and receipts against the first head on any connection (#669)](https://github.com/erigontech/rpc-tests/commit/704903174ef5646a01b9c78dfdbab3e2b992b57c) - 2026-11-21
+* [Commit] [rpc_perf: read the heavy eth_subscribe classes in a second process (#668)](https://github.com/erigontech/rpc-tests/commit/c7ed9d47688e4760e6949ddc120f813b2f5820f4) - 2026-11-21
 ## Q3 2026
 
 
