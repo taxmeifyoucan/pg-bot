@@ -128,6 +128,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: penalize peers for invalid SSZ responses and gossip](https://github.com/ChainSafe/lodestar/pull/10654#pullrequestreview-5989554095) - 2026-11-20
 * [Review] [Review on: fix: bound reqresp range snapshots and reject unsafe slot ranges](https://github.com/ChainSafe/lodestar/pull/10657#pullrequestreview-5989916897) - 2026-11-20
 * [Review] [Review on: fix: await all fork publications before completing BLS changes](https://github.com/ChainSafe/lodestar/pull/10655#pullrequestreview-5989649037) - 2026-11-20
+* [Review] [Review on: fix: include partially covered attester slashings in produced blocks](https://github.com/ChainSafe/lodestar/pull/10719#pullrequestreview-6016000602) - 2026-11-23
+* [Review] [Review on: fix: match general statuses in native `getValidatorsByStatus`](https://github.com/ChainSafe/lodestar/pull/10713#pullrequestreview-6015896715) - 2026-11-23
+* [Review] [Review on: fix: age out pending sync roots by the current fork's slot duration](https://github.com/ChainSafe/lodestar/pull/10712#pullrequestreview-6015691170) - 2026-11-23
+* [Pull Request] [feat: implement state regen in zig](https://github.com/ChainSafe/lodestar/pull/10711) - 2026-11-22
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

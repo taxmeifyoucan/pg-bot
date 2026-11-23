@@ -89,6 +89,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Build fork activation lists with staticFor](https://github.com/status-im/nimbus-eth1/pull/5048) - 2026-10-22
 * [Commit] [Build fork activation lists with staticFor (#5048)](https://github.com/status-im/nimbus-eth1/commit/13c105f635c640b6cc469eb0d2badc91c3e20ac7) - 2026-10-22
 * [Commit] [Fix comparison in verified proxy test backend (#5009)](https://github.com/status-im/nimbus-eth1/commit/5f29129e1f59e79b05babe128de5ee2778dd0299) - 2026-10-22
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: specify bit ordering for the 16-byte custody and cell bitarrays](https://github.com/ethereum/execution-apis/pull/856#pullrequestreview-6011766852) - 2026-11-22
 ## Q3 2026
 
 

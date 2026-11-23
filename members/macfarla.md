@@ -323,6 +323,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Rebuild the evmtool Docker image from the current distribution (#11965)](https://github.com/besu-eth/besu/commit/1711ad28520905d74ead2f91de048d5f6875843c) - 2026-11-19
 * [Commit] [Close evmtool block-test trace output file (#12008)](https://github.com/besu-eth/besu/commit/9c672efeabf7cbc6b6e8d1ba742b7f9a75afb594) - 2026-11-19
 * [Commit] [Remove the RocksDB partition filter option, which RocksDB ignores (#12013)](https://github.com/besu-eth/besu/commit/10dc5130f7424488cc5730fca1e98565a313714b) - 2026-11-21
+* [Review] [Review on: Fix:Platform-specific Gradle wrapper usage in build configuration](https://github.com/besu-eth/besu/pull/11957#pullrequestreview-6015906925) - 2026-11-23
+* [Pull Request] [Update Docker base images to resolve CVE-2026-114938](https://github.com/besu-eth/besu/pull/12022) - 2026-11-22
+* [Review] [Review on: debug_setHead: return an error when the target world state is unavailable](https://github.com/besu-eth/besu/pull/11984#pullrequestreview-6015888097) - 2026-11-23
+* [Review] [Review on: Compare the full released Plugin API, including datatypes, in the compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-6015588502) - 2026-11-23
+* [Review] [Review on: fix(rpc): keep contract logs with eth_simulateV1 traceTransfers](https://github.com/besu-eth/besu/pull/12021#pullrequestreview-6015514931) - 2026-11-23
+* [Review] [Review on: 11962 add tests for estimategas strict](https://github.com/besu-eth/besu/pull/11974#pullrequestreview-6014850464) - 2026-11-22
+* [Review] [Review on: Apply previously-announced behaviour change for `--rpc-tx-feecap=0`](https://github.com/besu-eth/besu/pull/11993#pullrequestreview-6015027478) - 2026-11-22
+* [Review] [Review on: Reject block overrides on eth_call, eth_estimateGas, eth_createAccessList, trace_call and debug_traceCall](https://github.com/besu-eth/besu/pull/11629#pullrequestreview-6015004560) - 2026-11-22
+* [Review] [Review on: fix(metrics): run the timed counter task once per elapsed interval](https://github.com/besu-eth/besu/pull/11554#pullrequestreview-6014803885) - 2026-11-22
+* [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-6014742485) - 2026-11-22
+* [Issue] [Newer Docker base images available: eclipse-temurin 25.0.5.1_2-jre-resolute, ubuntu noble-20261110.1](https://github.com/besu-eth/besu/issues/12023) - 2026-11-23
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

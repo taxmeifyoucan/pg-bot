@@ -66,6 +66,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Transaction Validity Proofs](https://github.com/ethereum/EIPs/pull/12075#pullrequestreview-5756664213) - 2026-11-03
 * [Pull Request] [Add AGENTS.md](https://github.com/ethereum/EIPs/pull/12661) - 2026-11-12
 * [Review] [Review on: Update EIP-1: Update EIP-1 with EIP Coordinator details](https://github.com/ethereum/EIPs/pull/12643#pullrequestreview-5962354034) - 2026-11-18
+* [Review] [Review on: Add EIP: eth/74 - Dependency Proof Exchange](https://github.com/ethereum/EIPs/pull/12551#pullrequestreview-6014710125) - 2026-11-22
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

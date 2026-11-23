@@ -112,6 +112,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: go 1.26.11, klauspost/compress v1.20.2, andybalholm/brotli v1.2.7 (#951)](https://github.com/ethpandaops/xatu/commit/b970a5114bee3e9cb11049345c17a50411568ede) - 2026-11-19
 * [Commit] [fix(cannon): sum sync committee rewards per validator (#950)](https://github.com/ethpandaops/xatu/commit/24ce2f60615a62735038cccf41c4ff03880f1e5c) - 2026-11-19
 * [Pull Request] [Publish images through GHCR and the image mirror](https://github.com/ethpandaops/xatu/pull/952) - 2026-11-21
+* [Commit] [Publish images through GHCR and the image mirror (#952)](https://github.com/ethpandaops/xatu/commit/c91ec6afead4963f6c41c1612e9830403baf1361) - 2026-11-23
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -120,6 +121,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [ansible: restore torn-down devnet inventories; keep the shared nginx basic auth rotation on live devnets only](https://github.com/ethpandaops/template-devnets/commit/50b024be5009f6c0d088c7d0494b519d4804d134) - 2026-11-16
 * [Commit] [ansible: rotate shared nginx basic auth (user eth) in all inventories](https://github.com/ethpandaops/template-devnets/commit/952600da66eeed6bad95421940fa6602a79f1ecb) - 2026-11-16
 * [Pull Request] [ci(hive): pull Docker Hub images through the pull-through cache instead of logging in](https://github.com/ethpandaops/template-devnets/pull/202) - 2026-11-21
+* [Commit] [ci(hive): pull Docker Hub images through the pull-through cache instead of logging in (#202)](https://github.com/ethpandaops/template-devnets/commit/fdd07e0dc0809b0513588ffafba6c3d0899cfa1d) - 2026-11-23
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 
@@ -127,6 +129,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: report unlisted consensus clients by name](https://github.com/ethpandaops/contributoor/pull/260) - 2026-11-02
 * [Commit] [feat: report unlisted consensus clients by name (#260)](https://github.com/ethpandaops/contributoor/commit/2a69bcf3a01e5f5e8903c25417670807d037e2d5) - 2026-11-02
 * [Pull Request] [Release images through GHCR and the image mirror](https://github.com/ethpandaops/contributoor/pull/262) - 2026-11-21
+* [Commit] [Release images through GHCR and the image mirror (#262)](https://github.com/ethpandaops/contributoor/commit/b33d966f2436eb15151a8342b814d2b535c8e00c) - 2026-11-23
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(hoodi): add tysm v1.1.3 to gloas min client versions](https://github.com/ethpandaops/cartographoor/pull/116) - 2026-10-19
 * [Pull Request] [feat(hoodi): schedule gloas at epoch 132352](https://github.com/ethpandaops/cartographoor/pull/115) - 2026-10-19
@@ -148,6 +151,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/tracoor/pull/71#pullrequestreview-5596800962) - 2026-10-21
 * [Pull Request] [Publish images through GHCR and the image mirror](https://github.com/ethpandaops/tracoor/pull/73) - 2026-11-21
+* [Commit] [Publish images through GHCR and the image mirror (#73)](https://github.com/ethpandaops/tracoor/commit/f81c36019f915dcf9abdfbaca1382421d883c37f) - 2026-11-23
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(slots): proposer client card on the slot page](https://github.com/ethpandaops/lab/pull/450) - 2026-10-20
 * [Pull Request] [feat(ethereum): proposer clients page from block graffiti](https://github.com/ethpandaops/lab/pull/449) - 2026-10-19
@@ -385,10 +389,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 
 * [Pull Request] [ci: publish images through GHCR and the image mirror](https://github.com/ethpandaops/dora/pull/940) - 2026-11-21
+* [Review] [Review on: ci: publish images through GHCR and the image mirror](https://github.com/ethpandaops/dora/pull/940#pullrequestreview-6015953209) - 2026-11-23
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/pull/246#pullrequestreview-5596802760) - 2026-10-21
 
 * [Pull Request] [ci: publish images through GHCR and the image mirror](https://github.com/ethpandaops/assertoor/pull/250) - 2026-11-21
+* [Commit] [ci: publish images through GHCR and the image mirror (#250)](https://github.com/ethpandaops/assertoor/commit/b035eef586ef2fc7de5ff8b23376e19f66d21313) - 2026-11-23
 [ethpandaops/pandafuzz](https://github.com/ethpandaops/pandafuzz)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/pandafuzz/pull/9#pullrequestreview-5596810817) - 2026-10-21
 ## Q3 2026

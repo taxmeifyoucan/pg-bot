@@ -101,6 +101,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add `initiate_validator_consolidation` helper (#5847)](https://github.com/ethereum/consensus-specs/commit/30a87dad055978946e607999415b0d4ac6543277) - 2026-11-20
 * [Pull Request] [Restrict rebasing and publishing in the commit skill](https://github.com/ethereum/consensus-specs/pull/5848) - 2026-11-21
 * [Commit] [Restrict rebasing and publishing in the commit skill (#5848)](https://github.com/ethereum/consensus-specs/commit/1db1846bdc6393fc9764ff5e1ca2bb5fb641f6e2) - 2026-11-21
+* [Review] [Review on: Deploy website in a separate job](https://github.com/ethereum/consensus-specs/pull/5853#pullrequestreview-6015609536) - 2026-11-23
+* [Review] [Review on: Broadcast missed block and payload](https://github.com/ethereum/consensus-specs/pull/5819#pullrequestreview-6015621490) - 2026-11-23
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5854#pullrequestreview-6015602275) - 2026-11-23
+* [Review] [Review on: Clarify that error codes start at 128](https://github.com/ethereum/consensus-specs/pull/5851#pullrequestreview-6013203937) - 2026-11-22
+* [Review] [Review on: Fix typo in Altair light client p2p interface](https://github.com/ethereum/consensus-specs/pull/5850#pullrequestreview-6013163356) - 2026-11-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

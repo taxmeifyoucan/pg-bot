@@ -448,6 +448,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/network/services: restore committee and subnet hooks after attestation suite tests (#26483)](https://github.com/erigontech/erigon/commit/b3f6c8150e60f31dc8fdd98b69cccd0ab4976e18) - 2026-11-20
 * [Commit] [cl/p2p: send gossip messages ahead of queued sidecars (#26569)](https://github.com/erigontech/erigon/commit/7b3cb392d1f6b132dfc692967265a316cf198a9d) - 2026-11-20
 * [Pull Request] [cl/phase1/network/services: accept a pre-Gloas gossip block after gossip validation and import it in the background](https://github.com/erigontech/erigon/pull/26665) - 2026-11-21
+* [Review] [Review on: cl/phase1/network: warn about an unfinished blob backfill while a pass runs](https://github.com/erigontech/erigon/pull/26621#pullrequestreview-6011183108) - 2026-11-22
+* [Review] [Review on: cl/cltypes, cl/cltypes/solid: reject null required fields in block body JSON](https://github.com/erigontech/erigon/pull/26613#pullrequestreview-6011227081) - 2026-11-22
+* [Review] [Review on: cl/beacon/handler: bound posted envelopes by the gossip size limit](https://github.com/erigontech/erigon/pull/26612#pullrequestreview-6011184588) - 2026-11-22
+* [Review] [Review on: cl/beacon/handler: accept Content-Type parameters and an empty header when publishing blocks](https://github.com/erigontech/erigon/pull/26611#pullrequestreview-6011172843) - 2026-11-22
+* [Pull Request] [cl/das: start the recovery quiet period at the first over-half scheduling call](https://github.com/erigontech/erigon/pull/26674) - 2026-11-22
+* [Review] [Review on: cl/p2p, cl/sentinel: keep one connection when two peers dial each other](https://github.com/erigontech/erigon/pull/26629#pullrequestreview-6011479026) - 2026-11-22
+* [Pull Request] [cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg](https://github.com/erigontech/erigon/pull/26682) - 2026-11-22
+* [Pull Request] [cl/das: write reconstructed columns before the blob sidecars](https://github.com/erigontech/erigon/pull/26672) - 2026-11-22
+* [Commit] [cl/das: start the recovery quiet period at the first over-half scheduling call (#26674)](https://github.com/erigontech/erigon/commit/49569c0c9d791d168fa5b1e340eca92d2e168661) - 2026-11-23
 ## Q3 2026
 
 

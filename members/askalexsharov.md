@@ -1208,6 +1208,44 @@ Team: Erigon
 * [Pull Request] [db/state: commitment v3 verify reads its files with readahead](https://github.com/erigontech/erigon/pull/26654) - 2026-11-21
 * [Pull Request] [execution/exec: BAL commitment read-ahead by trie variant](https://github.com/erigontech/erigon/pull/26648) - 2026-11-21
 * [Pull Request] [cmd/integration: commitment convert --v3 runs with v3 on](https://github.com/erigontech/erigon/pull/26651) - 2026-11-21
+* [Pull Request] [diagnostics/mem: sample routine process gauges without smaps](https://github.com/erigontech/erigon/pull/26692) - 2026-11-23
+* [Pull Request] [cl, db, execution: use lightweight memory counters for progress logs](https://github.com/erigontech/erigon/pull/26694) - 2026-11-23
+* [Pull Request] [db/kv/mdbx: skip reader scans for write metrics](https://github.com/erigontech/erigon/pull/26695) - 2026-11-23
+* [Pull Request] [db/downloader: compress torrent status after releasing the client lock](https://github.com/erigontech/erigon/pull/26696) - 2026-11-23
+* [Pull Request] [diagnostics/mem: remove automatic smaps_rollups](https://github.com/erigontech/erigon/pull/26693) - 2026-11-23
+* [Pull Request] [execution/stagedsync: BAL compute-ahead off the commitment loop](https://github.com/erigontech/erigon/pull/26678) - 2026-11-22
+* [Review] [Review on: diagnostics/mem: cap the smaps_rollup read in the [mem] logger](https://github.com/erigontech/erigon/pull/26690#pullrequestreview-6016509968) - 2026-11-23
+* [Review] [Review on: cmd/integration: commitment verify runs without chaindata](https://github.com/erigontech/erigon/pull/26656#pullrequestreview-6011255939) - 2026-11-22
+* [Pull Request] [[r3.8] db/kv: backport #26444](https://github.com/erigontech/erigon/pull/26689) - 2026-11-23
+* [Pull Request] [[r3.8] cl, execution/p2p: backport #26006, #26025, #26002](https://github.com/erigontech/erigon/pull/26688) - 2026-11-23
+* [Review] [Review on: db/state, db/seg: read ahead a contract's storage region after 64 file hits](https://github.com/erigontech/erigon/pull/26636#pullrequestreview-6016102964) - 2026-11-23
+* [Review] [Review on: execution/execmodule: run a due GC right after a block commit](https://github.com/erigontech/erigon/pull/26691#pullrequestreview-6016516462) - 2026-11-23
+* [Review] [Review on: rpc: build handler logger, callback, maps and JSON encoder on first use](https://github.com/erigontech/erigon/pull/26684#pullrequestreview-6015771457) - 2026-11-23
+* [Review] [Review on: cl/das: start the recovery quiet period at the first over-half scheduling call](https://github.com/erigontech/erigon/pull/26674#pullrequestreview-6015847976) - 2026-11-23
+* [Review] [Review on: rpc/jsonrpc: let eth_simulateV1 calls with gasPrice run after London](https://github.com/erigontech/erigon/pull/26645#pullrequestreview-6015897892) - 2026-11-23
+* [Review] [Review on: stagedsync, state: exec loop reads per-address summaries, finalize merges writes in place](https://github.com/erigontech/erigon/pull/26622#pullrequestreview-6016103078) - 2026-11-23
+* [Review] [Review on: cmd/integration: refuse commitment rebuild on an unretired datadir](https://github.com/erigontech/erigon/pull/26643#pullrequestreview-6011327418) - 2026-11-22
+* [Review] [Review on: db/kv/mdbx: read a sequence with GetOne instead of a stateless cursor](https://github.com/erigontech/erigon/pull/26685#pullrequestreview-6015766449) - 2026-11-23
+* [Review] [Review on: execution, rpc, txpool: share gas and SetCode admission checks](https://github.com/erigontech/erigon/pull/26662#pullrequestreview-6015647651) - 2026-11-23
+* [Review] [Review on: db/state: unexport IntegrateDirtyFiles and DebugBeginDirtyFilesRo](https://github.com/erigontech/erigon/pull/26616#pullrequestreview-6011298355) - 2026-11-22
+* [Review] [Review on: cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg](https://github.com/erigontech/erigon/pull/26682#pullrequestreview-6015778335) - 2026-11-23
+* [Review] [Review on: cl/das: write reconstructed columns before the blob sidecars](https://github.com/erigontech/erigon/pull/26672#pullrequestreview-6015673697) - 2026-11-23
+* [Review] [Review on: cmd/tools/jsongen, execution/types, rpc/jsonstream: generate the Logs encoder with shared fields](https://github.com/erigontech/erigon/pull/26681#pullrequestreview-6015585379) - 2026-11-23
+* [Review] [Review on: rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper](https://github.com/erigontech/erigon/pull/26641#pullrequestreview-6010578301) - 2026-11-22
+* [Commit] [execution/stagedsync, bal: checkpoints fold only the new changes (#26667)](https://github.com/erigontech/erigon/commit/d2ace217dacec819b69244dc945df8183535c93b) - 2026-11-23
+* [Commit] [cmd/integration: refuse commitment rebuild on an unretired datadir (#26643)](https://github.com/erigontech/erigon/commit/a78c9072dc081d3f72d985ad95783574adc72ac5) - 2026-11-23
+* [Commit] [cmd/integration: commitment rebuild keeps file indexes off the heap (#26646)](https://github.com/erigontech/erigon/commit/7bd69c4044a8932b7f6cfca94b5c847953c670a7) - 2026-11-22
+* [Commit] [cmd/integration: commitment convert --v3 runs with v3 on (#26651)](https://github.com/erigontech/erigon/commit/edc5db88c4bbe8472d594b1b347d2c76436291b8) - 2026-11-22
+* [Commit] [cmd/integration: commitment print reads v3 state records (#26649)](https://github.com/erigontech/erigon/commit/dd536e68b9bd5c450551235168cb334e7defac9a) - 2026-11-22
+* [Commit] [db/rawdb, execution/execmodule: purge the whole bad block (#26644)](https://github.com/erigontech/erigon/commit/f4b528499eb32dfa5ffd0a2d836decc4d3cb1aa9) - 2026-11-22
+* [Commit] [cmd/evm: cut zkevmtest peak RAM by 32% by streaming fixtures (#26614)](https://github.com/erigontech/erigon/commit/983bad74f132b004a1245ec3a35fc4bf99df57bd) - 2026-11-22
+* [Commit] [db/state, execution/commitment: rebuild reuses values it already read (#26652)](https://github.com/erigontech/erigon/commit/885434a70faf4feaca4f230c998c18f9290b2a3a) - 2026-11-22
+* [Commit] [db/integrity: CommitmentRoot fails on a gap in commitment files (#26615)](https://github.com/erigontech/erigon/commit/2e3827d737c0e678e7010bcd180a78996c1d9fb3) - 2026-11-22
+* [Commit] [cmd/integration: commitment visualize refuses v3 files, no panic (#26650)](https://github.com/erigontech/erigon/commit/5db4d951bcaba58bbf8967271327056f100182c2) - 2026-11-22
+* [Commit] [db/snapcfg, cmd: take the webseeds from the snapshot manifest's branch (#26547)](https://github.com/erigontech/erigon/commit/f89d69a3f220e7449a0f26f19ba5bd0a3f8f6ad7) - 2026-11-22
+* [Commit] [db/state: commitment v3 verify reads its files with readahead (#26654)](https://github.com/erigontech/erigon/commit/629c1b1b622d8ab4d2564d759a318c1d34651b66) - 2026-11-22
+* [Commit] [execution/exec: BAL commitment read-ahead by trie variant (#26648)](https://github.com/erigontech/erigon/commit/cfa248082e3b3993be35fae0ed2e241448e955b3) - 2026-11-22
+* [Commit] [db/state, commitment/v3: bound v3 rebuild memory by worker count (#26647)](https://github.com/erigontech/erigon/commit/905fe6ce81d30636afe0e5f3d512b0df6337cd87) - 2026-11-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

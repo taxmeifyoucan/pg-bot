@@ -214,6 +214,16 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[WIP] rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper](https://github.com/erigontech/erigon/pull/26641) - 2026-11-20
 * [Pull Request] [[WIP] rpc/jsonrpc, rpc/contracts: cache the head block's logs for eth_getLogs](https://github.com/erigontech/erigon/pull/26631) - 2026-11-20
 * [Pull Request] [db/kv/remotedbserver: open and roll back read txs outside txsMapLock](https://github.com/erigontech/erigon/pull/26666) - 2026-11-21
+* [Pull Request] [rpc: build handler logger, callback, maps and JSON encoder on first use](https://github.com/erigontech/erigon/pull/26684) - 2026-11-22
+* [Pull Request] [db/kv/mdbx: read a sequence with GetOne instead of a stateless cursor](https://github.com/erigontech/erigon/pull/26685) - 2026-11-22
+* [Pull Request] [cmd/tools/jsongen, execution/types, rpc/jsonstream: generate the Logs encoder with shared fields](https://github.com/erigontech/erigon/pull/26681) - 2026-11-22
+* [Review] [Review on: rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper](https://github.com/erigontech/erigon/pull/26641#pullrequestreview-6011332166) - 2026-11-22
+* [Commit] [rpc: build handler logger, callback, maps and JSON encoder on first use (#26684)](https://github.com/erigontech/erigon/commit/cde56d10be536fdc2a905af55ba1157dfbd60e11) - 2026-11-23
+* [Commit] [db/kv/mdbx: read a sequence with GetOne instead of a stateless cursor (#26685)](https://github.com/erigontech/erigon/commit/91b27d7578ea0be228528ed9422cdc60691b0727) - 2026-11-23
+* [Commit] [rpc/jsonrpc, rpc/contracts: cache the head block's logs for eth_getLogs (#26631)](https://github.com/erigontech/erigon/commit/c58e44eb68c0ade68637a71ed599494c05f45f7f) - 2026-11-22
+* [Commit] [rpc/rpchelper: index log filters by address (#26591)](https://github.com/erigontech/erigon/commit/00ea4ce18dbb29b24096e7c7c8f5d7f7197d98bc) - 2026-11-22
+* [Commit] [.github/workflows: replace the eth_subscribe pattern with client classes in RPC Performance Tests Latest (#26548)](https://github.com/erigontech/erigon/commit/58249a35c3c8d2af4fc1c4f59ec77f06d5e51a2b) - 2026-11-22
+* [Commit] [db/kv/remotedbserver: open and roll back read txs outside txsMapLock (#26666)](https://github.com/erigontech/erigon/commit/717ddc2dec6b24bcf27228a5becf63e4bef69cdf) - 2026-11-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

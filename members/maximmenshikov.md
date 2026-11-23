@@ -91,6 +91,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #46 from NethermindEth/fix/riscv32-rebase-runtime](https://github.com/NethermindEth/dotnet-riscv/commit/5a102141f139fe1662c9068f64103b1f8af13103) - 2026-11-20
 * [Commit] [fixup/11/riscv32: 01 follows GetUnwindProcInfo of the current runtime](https://github.com/NethermindEth/dotnet-riscv/commit/a9c77d5584142bddfd78b21dce30c7832d69829d) - 2026-11-20
 * [Commit] [Merge pull request #44 from NethermindEth/perf/riscv32-zk-rev8](https://github.com/NethermindEth/dotnet-riscv/commit/5b69d4553ab2173177046b6f72ff4c98065f7515) - 2026-11-20
+* [Pull Request] [fixup/11: struct fields and pieces on RISC-V, handler calls and stack layout on riscv32](https://github.com/NethermindEth/dotnet-riscv/pull/47) - 2026-11-23
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02

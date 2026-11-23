@@ -417,6 +417,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610#pullrequestreview-6004525616) - 2026-11-21
 * [Review] [Review on: chore!: remove deprecated cli flags](https://github.com/ChainSafe/lodestar/pull/10613#pullrequestreview-6004594033) - 2026-11-21
 * [Review] [Review on: feat!: prune history by default](https://github.com/ChainSafe/lodestar/pull/10625#pullrequestreview-6004510267) - 2026-11-21
+* [Pull Request] [fix: include partially covered attester slashings in produced blocks](https://github.com/ChainSafe/lodestar/pull/10719) - 2026-11-22
+* [Pull Request] [fix: match general statuses in native `getValidatorsByStatus`](https://github.com/ChainSafe/lodestar/pull/10713) - 2026-11-22
+* [Pull Request] [fix: age out pending sync roots by the current fork's slot duration](https://github.com/ChainSafe/lodestar/pull/10712) - 2026-11-22
+* [Pull Request] [fix: verify proposer signature of blocks downloaded by root](https://github.com/ChainSafe/lodestar/pull/10724) - 2026-11-22
+* [Review] [Review on: fix: verify proposer signature of blocks downloaded by root](https://github.com/ChainSafe/lodestar/pull/10724#pullrequestreview-6014552762) - 2026-11-22
+* [Pull Request] [fix: refresh the cached fork choice head after importing an execution payload](https://github.com/ChainSafe/lodestar/pull/10723) - 2026-11-22
+* [Pull Request] [fix: compute fast confirmation thresholds in Gwei](https://github.com/ChainSafe/lodestar/pull/10722) - 2026-11-22
+* [Pull Request] [fix: only count current slot payload attestation messages in fork choice](https://github.com/ChainSafe/lodestar/pull/10721) - 2026-11-22
+* [Pull Request] [fix: harden payload attestation message gossip validation](https://github.com/ChainSafe/lodestar/pull/10720) - 2026-11-22
+* [Pull Request] [fix: persist invalid state root objects only when enabled](https://github.com/ChainSafe/lodestar/pull/10717) - 2026-11-22
+* [Pull Request] [fix: align gloas `execution_optimistic` with spec](https://github.com/ChainSafe/lodestar/pull/10715) - 2026-11-22
+* [Pull Request] [fix(builder): do not bid while the beacon node head is optimistic](https://github.com/ChainSafe/lodestar/pull/10714) - 2026-11-22
+* [Pull Request] [fix: keep validator monitor metric names unprefixed](https://github.com/ChainSafe/lodestar/pull/10710) - 2026-11-22
+* [Review] [Review on: fix: bound unknown parent blocks retained per peer and age them out](https://github.com/ChainSafe/lodestar/pull/10708#pullrequestreview-6011979687) - 2026-11-22
+* [Review] [Review on: fix: bound unknown block sync retries and requests per peer](https://github.com/ChainSafe/lodestar/pull/10707#pullrequestreview-6011979414) - 2026-11-22
+* [Commit] [fix: age out pending sync roots by the current fork's slot duration (#10712)](https://github.com/ChainSafe/lodestar/commit/97ba67c17ea8323b8e69d94fbaba76412611217a) - 2026-11-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -444,6 +460,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Retain inclusion lists one slot past the request window (#5785)](https://github.com/ethereum/consensus-specs/commit/2ea9d96a420927eb1a35d7c9399c8b3691c69f6a) - 2026-11-17
 * [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5972962252) - 2026-11-19
 * [Review] [Review on: Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792#pullrequestreview-5991906941) - 2026-11-20
+* [Pull Request] [Deploy website in a separate job](https://github.com/ethereum/consensus-specs/pull/5853) - 2026-11-22
+* [Pull Request] [Extend Gloas optimistic sync in Heze](https://github.com/ethereum/consensus-specs/pull/5852) - 2026-11-22
+* [Pull Request] [Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781) - 2026-11-22
+* [Commit] [Deploy website in a separate job (#5853)](https://github.com/ethereum/consensus-specs/commit/d2021d2719235f0df4726a1d330502cb15aa8ea3) - 2026-11-23
+* [Commit] [Extend Gloas optimistic sync in Heze (#5852)](https://github.com/ethereum/consensus-specs/commit/3a6611beab958d74dda3330351b01cc1dbcf748b) - 2026-11-22
+* [Commit] [Add optimistic sync spec for Gloas (#5781)](https://github.com/ethereum/consensus-specs/commit/d6b8a2fdd10513ee12bdbb78104b36ac1dc6989c) - 2026-11-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
@@ -511,6 +533,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Engine REST `/blobs/v4` returns compact cell lists instead of 128 indexed entries](https://github.com/paradigmxyz/reth/issues/28625) - 2026-11-20
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/lodestar-bn, clients/lodestar-vc: drop flags removed in Lodestar 2.0](https://github.com/ethereum/hive/pull/1670) - 2026-11-22
 ## Q3 2026
 
 

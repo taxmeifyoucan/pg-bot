@@ -26,9 +26,19 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Fix attester slashing event scheduling](https://github.com/ethereum/consensus-specs/pull/5810#pullrequestreview-5872158523) - 2026-11-12
 * [Pull Request] [Broadcast missed block and payload](https://github.com/ethereum/consensus-specs/pull/5819) - 2026-11-12
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5991333621) - 2026-11-20
+* [Review] [Review on: Extend Gloas optimistic sync in Heze](https://github.com/ethereum/consensus-specs/pull/5852#pullrequestreview-6013526839) - 2026-11-22
+* [Review] [Review on: Gloas optimistic sync tests](https://github.com/ethereum/consensus-specs/pull/5818#pullrequestreview-6013465095) - 2026-11-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5828960336) - 2026-11-09
 * [Review] [Review on: ✨ feat(engine): engine_updatePaylaodV1](https://github.com/ethereum/execution-apis/pull/985#pullrequestreview-5991460802) - 2026-11-20
+* [Review] [Review on: Engine: fix the case of inclusionListTransactions in bogota.md](https://github.com/ethereum/execution-apis/pull/1006#pullrequestreview-6013069844) - 2026-11-22
+* [Review] [Review on: engine: state the cell size in BlobCellsAndProofsV1](https://github.com/ethereum/execution-apis/pull/996#pullrequestreview-6013067190) - 2026-11-22
+* [Review] [Review on: engine: allow null payload attributes in forkchoiceUpdated](https://github.com/ethereum/execution-apis/pull/995#pullrequestreview-6013053380) - 2026-11-22
+* [Review] [Review on: engine: extend newPayloadV4 and forkchoiceUpdatedV3 to Osaka](https://github.com/ethereum/execution-apis/pull/988#pullrequestreview-6013051662) - 2026-11-22
+* [Review] [Review on: engine: list slotNumber in ExecutionPayloadV4 intro](https://github.com/ethereum/execution-apis/pull/993#pullrequestreview-6013049141) - 2026-11-22
+* [Review] [Review on: engine: use anyOf for V1 or V2 execution payloads](https://github.com/ethereum/execution-apis/pull/992#pullrequestreview-6013046665) - 2026-11-22
+* [Review] [Review on: engine: allow null latestValidHash and validationError in PayloadStatusV1](https://github.com/ethereum/execution-apis/pull/991#pullrequestreview-6013044891) - 2026-11-22
+* [Review] [Review on: engine: add slotNumber to Amsterdam payload examples](https://github.com/ethereum/execution-apis/pull/990#pullrequestreview-6013042101) - 2026-11-22
 ## Q3 2026
 
 

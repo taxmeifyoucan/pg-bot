@@ -61,6 +61,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8131: Align with Glamsterdam, price auths at 133 bytes](https://github.com/ethereum/EIPs/pull/12680) - 2026-11-21
 * [Commit] [Update EIP-8279: Align with Glamsterdam, refresh impact data](https://github.com/ethereum/EIPs/commit/b4b2ac745e77291d7b47d45665d4e016ab58d31e) - 2026-11-21
 * [Commit] [Update EIP-8131: Align with Glamsterdam, price auths at 133 bytes](https://github.com/ethereum/EIPs/commit/86aa2c4fb273851499e174f8d6652f3fadc04404) - 2026-11-21
+* [Pull Request] [Update EIP-8279: Meter deposit request bytes](https://github.com/ethereum/EIPs/pull/12686) - 2026-11-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 * [Pull Request] [feat(tests): add a deployed-idiom invariant corpus](https://github.com/ethereum/execution-specs/pull/3948) - 2026-11-01

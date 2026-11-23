@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Use the Eclipse Temurin JRE again in the Docker images](https://github.com/besu-eth/besu/pull/11877#pullrequestreview-5794684244) - 2026-11-06
 * [Review] [Review on: disable hotspot base64 intrinsic by default (CVE-2026-114938)](https://github.com/besu-eth/besu/pull/11995#pullrequestreview-5948479387) - 2026-11-17
 * [Review] [Review on: Add 26.11.1 changelog section for the Base64 intrinsic hotfix](https://github.com/besu-eth/besu/pull/11996#pullrequestreview-5948393192) - 2026-11-17
+* [Review] [Review on: Update Docker base images to resolve CVE-2026-114938](https://github.com/besu-eth/besu/pull/12022#pullrequestreview-6016243494) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557) - 2026-10-04
 ## Q3 2026

@@ -1101,6 +1101,42 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(flat): reject unsupported single-slot ring buffer capacity](https://github.com/NethermindEth/nethermind/pull/16233#pullrequestreview-6004201817) - 2026-11-21
 * [Pull Request] [perf(zkevm): answer a MODEXP whose base equals its modulus without ZisK's routine](https://github.com/NethermindEth/nethermind/pull/16246) - 2026-11-21
 * [Commit] [test(crypto): allow one recovery per evicted lookup in the sender-cache allocation test (#16232)](https://github.com/NethermindEth/nethermind/commit/eeea280167c170404c78c46bce95fdc7cf9e6498) - 2026-11-21
+* [Review] [Review on: fix(sync): remove a mismatched flat trie node during healing, including inside an extension](https://github.com/NethermindEth/nethermind/pull/16247#pullrequestreview-6014757596) - 2026-11-22
+* [Review] [Review on: Include the withdrawals root in Optimism payload results](https://github.com/NethermindEth/nethermind/pull/16249#pullrequestreview-6014757609) - 2026-11-22
+* [Review] [Review on: fix(evm): charge cold access gas while collecting an access list](https://github.com/NethermindEth/nethermind/pull/16278#pullrequestreview-6014756960) - 2026-11-22
+* [Review] [Review on: fix(crypto): reject missing blob hashes](https://github.com/NethermindEth/nethermind/pull/16259#pullrequestreview-6014757231) - 2026-11-22
+* [Review] [Review on: Validate null items in RPC collections](https://github.com/NethermindEth/nethermind/pull/16236#pullrequestreview-6014756302) - 2026-11-22
+* [Review] [Review on: fix(bal): count block access list items before decoding the payload list](https://github.com/NethermindEth/nethermind/pull/16269#pullrequestreview-6014763924) - 2026-11-22
+* [Review] [Review on: fix(optimism): execute deposits marked as system transactions with the deposit rules](https://github.com/NethermindEth/nethermind/pull/16268#pullrequestreview-6014757463) - 2026-11-22
+* [Review] [Review on: fix(pruning): open the new state database after an interrupted cleanup of the old one](https://github.com/NethermindEth/nethermind/pull/16264#pullrequestreview-6014756835) - 2026-11-22
+* [Review] [Review on: ci: narrow the review workflow tool permissions](https://github.com/NethermindEth/nethermind/pull/16280#pullrequestreview-6014751039) - 2026-11-22
+* [Review] [Review on: fix(optimism): use the L1 blob fee update fraction in force at the L1 origin](https://github.com/NethermindEth/nethermind/pull/16267#pullrequestreview-6014754517) - 2026-11-22
+* [Review] [Review on: fix(flat): prune the descendants of a pruned finalized fork](https://github.com/NethermindEth/nethermind/pull/16279#pullrequestreview-6014756049) - 2026-11-22
+* [Review] [Review on: fix(era): check that an era file's start block matches its epoch](https://github.com/NethermindEth/nethermind/pull/16270#pullrequestreview-6014755514) - 2026-11-22
+* [Review] [Review on: Set a minimum capacity for recent connection history](https://github.com/NethermindEth/nethermind/pull/16250#pullrequestreview-6014756837) - 2026-11-22
+* [Review] [Review on: fix(focil): drop ill-formed inclusion list transactions when building a block](https://github.com/NethermindEth/nethermind/pull/16272#pullrequestreview-6014758904) - 2026-11-22
+* [Review] [Review on: fix(evm): skip the gas refund to a sender that self-destructed in a call](https://github.com/NethermindEth/nethermind/pull/16277#pullrequestreview-6014755874) - 2026-11-22
+* [Review] [Review on: fix(txpool): retry an overflow transaction request with other announcing peers](https://github.com/NethermindEth/nethermind/pull/16265#pullrequestreview-6014756494) - 2026-11-22
+* [Review] [Review on: fix(aura): apply chainspec bytecode rewrites when building post-merge blocks](https://github.com/NethermindEth/nethermind/pull/16275#pullrequestreview-6014751907) - 2026-11-22
+* [Review] [Review on: fix(focil): offer skipped inclusion list transactions again at the end of the block](https://github.com/NethermindEth/nethermind/pull/16263#pullrequestreview-6014759022) - 2026-11-22
+* [Review] [Review on: fix(rpc): validate the recovery byte in personal_ecRecover](https://github.com/NethermindEth/nethermind/pull/16281#pullrequestreview-6014750606) - 2026-11-22
+* [Review] [Review on: fix(txpool): reject deposit transactions in the transaction pool](https://github.com/NethermindEth/nethermind/pull/16276#pullrequestreview-6014751484) - 2026-11-22
+* [Review] [Review on: fix(shutter): keep the transactions that have keys when some keys are missing](https://github.com/NethermindEth/nethermind/pull/16258#pullrequestreview-6014755905) - 2026-11-22
+* [Review] [Review on: fix(rpc): poll logs from canonical blocks](https://github.com/NethermindEth/nethermind/pull/16260#pullrequestreview-6014757830) - 2026-11-22
+* [Review] [Review on: fix(rpc): keep chain receipts in proofs](https://github.com/NethermindEth/nethermind/pull/16262#pullrequestreview-6014756680) - 2026-11-22
+* [Review] [Review on: feat(analyzers): add NETH009 — disallow async void](https://github.com/NethermindEth/nethermind/pull/16118#pullrequestreview-6014764562) - 2026-11-22
+* [Review] [Review on: fix(rpc): answer eth_subscribe filters of the wrong JSON kind as invalid params](https://github.com/NethermindEth/nethermind/pull/16282#pullrequestreview-6014767743) - 2026-11-22
+* [Review] [Review on: fix(rpc): return errors from logIndex_blockNumbers instead of failing serialization](https://github.com/NethermindEth/nethermind/pull/16209#pullrequestreview-6014760591) - 2026-11-22
+* [Review] [Review on: fix: AnyTopicsFilter on stored logs, BlockModel.ToBlock fee fields, snap result log trim and session event node](https://github.com/NethermindEth/nethermind/pull/16219#pullrequestreview-6014763399) - 2026-11-22
+* [Review] [Review on: perf(rpc): share concurrent gas price scans for the same head](https://github.com/NethermindEth/nethermind/pull/16208#pullrequestreview-6014759589) - 2026-11-22
+* [Review] [Review on: perf(consensus): index BAL slices on the workers that produced them](https://github.com/NethermindEth/nethermind/pull/16093#pullrequestreview-6014764497) - 2026-11-22
+* [Review] [Review on: feat: Multi-model PR review](https://github.com/NethermindEth/nethermind/pull/12470#pullrequestreview-6014766390) - 2026-11-22
+* [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6014763759) - 2026-11-22
+* [Review] [Review on: fix(rpc): report caller errors with request error codes instead of internal error](https://github.com/NethermindEth/nethermind/pull/16205#pullrequestreview-6014758809) - 2026-11-22
+* [Review] [Review on: fix(optimism): reject invalid raw transactions before forwarding them to the sequencer](https://github.com/NethermindEth/nethermind/pull/16206#pullrequestreview-6014757393) - 2026-11-22
+* [Review] [Review on: fix(rpc): close open WebSocket connections at shutdown](https://github.com/NethermindEth/nethermind/pull/16214#pullrequestreview-6014758771) - 2026-11-22
+* [Commit] [perf(evm): test the frame value before resolving the transfer log addresses (#16239)](https://github.com/NethermindEth/nethermind/commit/57edd3b91e2575b76a31417e39f143fc6bcce4a0) - 2026-11-22
+* [Commit] [perf(bal): resolve a repeated storage write's slot without the index (#16198)](https://github.com/NethermindEth/nethermind/commit/049fbd971229dfa16eac25db73948b06565dcd24) - 2026-11-22
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

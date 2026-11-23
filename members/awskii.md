@@ -630,6 +630,24 @@ Team: Erigon
 * [Commit] [db/state: v3 convert folds the tail txs after a legacy file's stored state (#26605)](https://github.com/erigontech/erigon/commit/2a621ea171869c85a5186a8bb8612b6f9f60bf93) - 2026-11-20
 * [Commit] [db/integrity: check blob sidecar segments in parallel and cache passed segments (#26602)](https://github.com/erigontech/erigon/commit/f8585ee50bf90de75df65ce8e85af9c9bb6f5ccb) - 2026-11-20
 * [Review] [Review on: cl/phase1/network: warn about an unfinished blob backfill while a pass runs](https://github.com/erigontech/erigon/pull/26621#pullrequestreview-6004692163) - 2026-11-21
+* [Review] [Review on: diagnostics/mem: sample routine process gauges without smaps](https://github.com/erigontech/erigon/pull/26692#pullrequestreview-6016879827) - 2026-11-23
+* [Review] [Review on: cl, db, execution: use lightweight memory counters for progress logs](https://github.com/erigontech/erigon/pull/26694#pullrequestreview-6016863038) - 2026-11-23
+* [Review] [Review on: db/kv/mdbx: skip reader scans for write metrics](https://github.com/erigontech/erigon/pull/26695#pullrequestreview-6016859881) - 2026-11-23
+* [Review] [Review on: db/downloader: compress torrent status after releasing the client lock](https://github.com/erigontech/erigon/pull/26696#pullrequestreview-6016857730) - 2026-11-23
+* [Review] [Review on: execution/stagedsync, bal: checkpoints fold only the new changes](https://github.com/erigontech/erigon/pull/26667#pullrequestreview-6016553321) - 2026-11-23
+* [Pull Request] [diagnostics/mem: cap the smaps_rollup read in the [mem] logger](https://github.com/erigontech/erigon/pull/26690) - 2026-11-23
+* [Pull Request] [execution/types, txnprovider/txpool: decode blob transactions with empty hash lists](https://github.com/erigontech/erigon/pull/26697) - 2026-11-23
+* [Review] [Review on: cmd/integration: commitment verify runs without chaindata](https://github.com/erigontech/erigon/pull/26656#pullrequestreview-6010627809) - 2026-11-22
+* [Review] [Review on: [r3.8] cl, execution/p2p: backport #26006, #26025, #26002](https://github.com/erigontech/erigon/pull/26688#pullrequestreview-6016612297) - 2026-11-23
+* [Pull Request] [execution/execmodule: run a due GC right after a block commit](https://github.com/erigontech/erigon/pull/26691) - 2026-11-23
+* [Review] [Review on: cmd/integration: refuse commitment rebuild on an unretired datadir](https://github.com/erigontech/erigon/pull/26643#pullrequestreview-6010559911) - 2026-11-22
+* [Review] [Review on: cl/p2p, cl/sentinel: keep one connection when two peers dial each other](https://github.com/erigontech/erigon/pull/26629#pullrequestreview-6010562933) - 2026-11-22
+* [Review] [Review on: db/state: unexport IntegrateDirtyFiles and DebugBeginDirtyFilesRo](https://github.com/erigontech/erigon/pull/26616#pullrequestreview-6010543338) - 2026-11-22
+* [Issue] [db/kv/mdbx: TxSpill and TxUnspill gauges always export 0](https://github.com/erigontech/erigon/issues/26698) - 2026-11-23
+* [Issue] [diagnostics/mem: the [mem] logger reads /proc/self/smaps_rollup, which holds mmap_lock up to 492 ms; read /proc/self/status instead](https://github.com/erigontech/erigon/issues/26687) - 2026-11-23
+* [Issue] [cmd/integration: commitment visualize panics when it can not write its output](https://github.com/erigontech/erigon/issues/26671) - 2026-11-22
+* [Issue] [db/seg: DisableReadAhead resets the advice while other readers still hold readahead](https://github.com/erigontech/erigon/issues/26670) - 2026-11-22
+* [Issue] [cmd/evm: runners fail on a piped /dev/stdin on Linux](https://github.com/erigontech/erigon/issues/26669) - 2026-11-22
 ## Q3 2026
 
 

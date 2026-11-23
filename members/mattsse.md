@@ -790,6 +790,7 @@ Team: Reth
 * [Review] [Review on: fix(rpc): bound eth_getLogs ranges by response size](https://github.com/paradigmxyz/reth/pull/28510#pullrequestreview-6007771679) - 2026-11-21
 * [Commit] [fix(rpc): bound eth_getLogs ranges by response size (#28510)](https://github.com/paradigmxyz/reth/commit/85c70663312d3e96d2d4428635e2b0d9492b349f) - 2026-11-21
 * [Commit] [fix(rpc): bound builder validation cached reads by gas (#28636)](https://github.com/paradigmxyz/reth/commit/53b5db1c3bc841bae679e58a625485d3d44d5b74) - 2026-11-21
+* [Review] [Review on: chore(deps): bump url to 2.5.9](https://github.com/paradigmxyz/reth/pull/28654#pullrequestreview-6014477364) - 2026-11-22
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

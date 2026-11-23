@@ -260,6 +260,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [state: EIP-3607 sender check exempts delegation designations before Prague](https://github.com/ipsilon/evmone/issues/1825) - 2026-11-19
 * [Issue] [state: Transaction destination is delegated before Prague](https://github.com/ipsilon/evmone/issues/1824) - 2026-11-19
 * [Commit] [ci: Run the CodSpeed fixtures of tests-benchmark@v0.0.11 (#1823)](https://github.com/ipsilon/evmone/commit/848e1f02308ab3d04e89bb8f519fedbf0228291c) - 2026-11-19
+* [Pull Request] [cmake: Align the JUMPDEST analysis loop to 64 bytes with clang](https://github.com/ipsilon/evmone/pull/1827) - 2026-11-22
+* [Issue] [Code alignment of the Baseline dispatch and the JUMPDEST analysis loop](https://github.com/ipsilon/evmone/issues/1828) - 2026-11-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

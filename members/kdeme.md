@@ -132,6 +132,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [eth: only refetch pooled txs from peers that negotiated eth (#5176)](https://github.com/status-im/nimbus-eth1/commit/759afe2cc92692c941e08d7ae3af739594c178dc) - 2026-11-17
 * [Pull Request] [Reject EIP-8141 transactions before Bogota in validateTxBasic](https://github.com/status-im/nimbus-eth1/pull/5190) - 2026-11-20
 * [Commit] [Reject EIP-8141 transactions before Bogota in validateTxBasic (#5190)](https://github.com/status-im/nimbus-eth1/commit/3010fc1fec354ab049d2bacbe4f115498a395f83) - 2026-11-21
+* [Pull Request] [snap: encode the empty slim account fields as the empty string](https://github.com/status-im/nimbus-eth1/pull/5199) - 2026-11-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22
@@ -140,6 +141,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-eth and nim-web3 for UInt256 transaction fee fields](https://github.com/status-im/nimbus-eth2/pull/9443) - 2026-11-13
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Review] [Review on: Fix relative links in legacy specs and the uTP link](https://github.com/ethereum/portal-network-specs/pull/417#pullrequestreview-5626026347) - 2026-10-23
+* [Review] [Review on: jsonrpc: fix hexString and uint256 patterns](https://github.com/ethereum/portal-network-specs/pull/419#pullrequestreview-6014220467) - 2026-11-22
 ## Q3 2026
 
 

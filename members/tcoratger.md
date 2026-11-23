@@ -323,6 +323,27 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [Update EIP-198: Define the output for a zero modulus](https://github.com/ethereum/EIPs/pull/12684) - 2026-11-22
 * [Pull Request] [Update EIP-2537: Fix two typos in the field-to-curve asset](https://github.com/ethereum/EIPs/pull/12683) - 2026-11-22
 * [Pull Request] [Update EIP-7773: Name the Amsterdam and Gloas upgrades](https://github.com/ethereum/EIPs/pull/12679) - 2026-11-21
+* [Pull Request] [Update EIP-778: Name the bytes hashed into the node address](https://github.com/ethereum/EIPs/pull/12703) - 2026-11-22
+* [Pull Request] [Update EIP-7805: Count the IL size over the EIP-2718 encoding](https://github.com/ethereum/EIPs/pull/12702) - 2026-11-22
+* [Pull Request] [Update EIP-1186: cover an extension node in the proof of absence](https://github.com/ethereum/EIPs/pull/12692) - 2026-11-22
+* [Pull Request] [Update EIP-6780: Fix contract typo](https://github.com/ethereum/EIPs/pull/12687) - 2026-11-22
+* [Pull Request] [Update EIP-2718: drop positive from the TransactionType range](https://github.com/ethereum/EIPs/pull/12688) - 2026-11-22
+* [Pull Request] [Update EIP-2718: Add blank lines around headings and lists](https://github.com/ethereum/EIPs/pull/12705) - 2026-11-22
+* [Pull Request] [Update EIP-1459: Fix the example key, key size, root prefix and hash length](https://github.com/ethereum/EIPs/pull/12704) - 2026-11-22
+* [Pull Request] [Update EIP-8070: Align engine_getBlobsV4 with the Engine API](https://github.com/ethereum/EIPs/pull/12701) - 2026-11-22
+* [Pull Request] [Update EIP-8016: Mix in the selector as one 32-byte chunk](https://github.com/ethereum/EIPs/pull/12700) - 2026-11-22
+* [Pull Request] [Update EIP-7934: Use the name SAFETY_MARGIN in the parameters](https://github.com/ethereum/EIPs/pull/12699) - 2026-11-22
+* [Pull Request] [Update EIP-8016: Clarify which active fields must match](https://github.com/ethereum/EIPs/pull/12698) - 2026-11-22
+* [Pull Request] [Update EIP-7975: bound the receipt count of a partial list](https://github.com/ethereum/EIPs/pull/12697) - 2026-11-22
+* [Pull Request] [Update EIP-8070: keep cell_mask 16 bytes when no blob transaction is announced](https://github.com/ethereum/EIPs/pull/12696) - 2026-11-22
+* [Pull Request] [Update EIP-3076: Read the public key from the data entry in the conditions](https://github.com/ethereum/EIPs/pull/12695) - 2026-11-22
+* [Pull Request] [Update EIP-3076: Check every entry of the schema arrays](https://github.com/ethereum/EIPs/pull/12694) - 2026-11-22
+* [Pull Request] [Update EIP-8070: give GetCells and Cells a request ID](https://github.com/ethereum/EIPs/pull/12693) - 2026-11-22
+* [Pull Request] [Update EIP-8024: number the steps once, and name the step that halts](https://github.com/ethereum/EIPs/pull/12690) - 2026-11-22
+* [Pull Request] [Update EIP-7568: link EIP-2070 to its own file](https://github.com/ethereum/EIPs/pull/12691) - 2026-11-22
+* [Pull Request] [Update EIP-7702: sign the payload without its signature](https://github.com/ethereum/EIPs/pull/12689) - 2026-11-22
+* [Pull Request] [Update EIP-7702: refund when the authority exists in state](https://github.com/ethereum/EIPs/pull/12685) - 2026-11-22
+* [Commit] [Update EIP-8024: number the steps once, and name the step that halts](https://github.com/ethereum/EIPs/commit/875fcf6d084c096195fec170310514444f537133) - 2026-11-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 
@@ -334,6 +355,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [Use the `requestsPartial` field name in partial columns (#5844)](https://github.com/ethereum/consensus-specs/commit/b4d38568cc1b2c584a5f59083baa036bcf07a9f3) - 2026-11-20
 
 * [Pull Request] [Fix seen_ttl rationale to match its two-epoch value](https://github.com/ethereum/consensus-specs/pull/5849) - 2026-11-22
+* [Pull Request] [Clarify that error codes start at 128](https://github.com/ethereum/consensus-specs/pull/5851) - 2026-11-22
+* [Pull Request] [Fix typo in Altair light client p2p interface](https://github.com/ethereum/consensus-specs/pull/5850) - 2026-11-22
+* [Commit] [Clarify that error codes start at 128 (#5851)](https://github.com/ethereum/consensus-specs/commit/3e2d827750bf249628e71eb6bb97ccb9600c3827) - 2026-11-23
+* [Commit] [Fix typo (#5850)](https://github.com/ethereum/consensus-specs/commit/e0be9637f7d007a56d04c9314930c99b00d1bbb3) - 2026-11-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add examples for forkchoiceUpdatedV4/V5 and newPayloadV6](https://github.com/ethereum/execution-apis/pull/1007) - 2026-11-21
 * [Pull Request] [Engine: fix the case of inclusionListTransactions in bogota.md](https://github.com/ethereum/execution-apis/pull/1006) - 2026-11-21
@@ -353,6 +378,25 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [Type the authorization chainId and nonce as uint256 and uint64](https://github.com/ethereum/execution-apis/pull/1015) - 2026-11-22
 * [Pull Request] [Type the withdrawal amount as uint64](https://github.com/ethereum/execution-apis/pull/1013) - 2026-11-21
 * [Pull Request] [Look up transactions by hash on the canonical chain only](https://github.com/ethereum/execution-apis/pull/1008) - 2026-11-21
+* [Pull Request] [Replace the eth_getLogs example with one whose result matches its filter](https://github.com/ethereum/execution-apis/pull/1024) - 2026-11-23
+* [Pull Request] [Require an even number of hex digits in bytes](https://github.com/ethereum/execution-apis/pull/1023) - 2026-11-22
+* [Pull Request] [engine: allow null withdrawals in ExecutionPayloadBodyV1 and V2](https://github.com/ethereum/execution-apis/pull/1022) - 2026-11-22
+* [Pull Request] [engine: end each run of cell indices at CELLS_PER_EXT_BLOB - 1 in getPayloadV5](https://github.com/ethereum/execution-apis/pull/1021) - 2026-11-22
+* [Pull Request] [engine: state the fork check of payloadAttributes as the condition that must hold](https://github.com/ethereum/execution-apis/pull/1020) - 2026-11-22
+* [Pull Request] [engine: move the executionRequests checks to the newPayloadV4 specification](https://github.com/ethereum/execution-apis/pull/1019) - 2026-11-22
+* [Pull Request] [debug: fix summary of debug_getRawTransaction](https://github.com/ethereum/execution-apis/pull/1018) - 2026-11-22
+* [Pull Request] [Fix example transaction hashes in submit.yaml](https://github.com/ethereum/execution-apis/pull/1016) - 2026-11-22
+* [Issue] [eth_getLogs example result does not match its filter](https://github.com/ethereum/execution-apis/issues/1017) - 2026-11-22
+* [Commit] [docs: fix eth_simulateV1 default extraData (#994)](https://github.com/ethereum/execution-apis/commit/09d24ee493aff46814285969e9453c9226d6a4ca) - 2026-11-23
+* [Commit] [Engine: fix the case of inclusionListTransactions in bogota.md (#1006)](https://github.com/ethereum/execution-apis/commit/4565dd51e3c089318f67f9aea15d6c395e6dc00d) - 2026-11-22
+* [Commit] [engine: state the cell size in BlobCellsAndProofsV1 (#996)](https://github.com/ethereum/execution-apis/commit/77feb0521b97442cc04c965e13a908a23322e8ef) - 2026-11-22
+* [Commit] [engine: allow null payload attributes in forkchoiceUpdated (#995)](https://github.com/ethereum/execution-apis/commit/b5b092599bd65ee0e77d4a895afc502d9fe1e1ee) - 2026-11-22
+* [Commit] [engine: extend newPayloadV4 and forkchoiceUpdatedV3 to Osaka (#988)](https://github.com/ethereum/execution-apis/commit/8652d6b1a15f0526633380c418a322bf1f72a63b) - 2026-11-22
+* [Commit] [engine: list slotNumber in ExecutionPayloadV4 intro (#993)](https://github.com/ethereum/execution-apis/commit/5413fb649a48851cd8794d30433f4937cd0c6807) - 2026-11-22
+* [Commit] [engine: use anyOf for V1 or V2 execution payloads (#992)](https://github.com/ethereum/execution-apis/commit/eab58bd653d1c188f4581b7fbfede3d47c5b4a9f) - 2026-11-22
+* [Commit] [engine: allow null latestValidHash and validationError in PayloadStatusV1 (#991)](https://github.com/ethereum/execution-apis/commit/7ec87878e3cdb2362e22c27e22bc6e4110804f92) - 2026-11-22
+* [Commit] [engine: add slotNumber to Amsterdam payload examples (#990)](https://github.com/ethereum/execution-apis/commit/e9db0828524c60dadc81799f762cc8b3d14f8098) - 2026-11-22
+* [Commit] [engine: fix payload id in getPayload examples (#989)](https://github.com/ethereum/execution-apis/commit/7d774c83412acd29d81e38414af9372c2761a6bd) - 2026-11-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery](https://github.com/ethereum/execution-specs/pull/4045) - 2026-11-21
 * [Issue] [BLOBBASEFEE is unspecified when the blob base fee is 2**256 or more](https://github.com/ethereum/execution-specs/issues/4044) - 2026-11-20
@@ -362,6 +406,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/erigontech/erigon/issues/26668) - 2026-11-21
 
+* [Issue] [Caplin: builder bid signature is not verified](https://github.com/erigontech/erigon/issues/26677) - 2026-11-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/ethereum/go-ethereum/issues/36196) - 2026-11-21
 
@@ -370,6 +415,18 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/status-im/nimbus-eth1/issues/5196) - 2026-11-21
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Issue] [Builder bid signature and parent hash are not verified](https://github.com/ChainSafe/lodestar/issues/10709) - 2026-11-22
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Issue] [PTC duties at the Gloas fork epoch: dependent_root and availability](https://github.com/grandinetech/grandine/issues/1065) - 2026-11-22
+
+[sigp/discv5](https://github.com/sigp/discv5)
+* [Issue] [Distance-0 FINDNODE replies are not checked against the peer's node ID](https://github.com/sigp/discv5/issues/317) - 2026-11-22
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [PTC duties: wrong dependent_root for the Gloas fork epoch](https://github.com/status-im/nimbus-eth2/issues/9466) - 2026-11-22
 ## Q3 2026
 
 
