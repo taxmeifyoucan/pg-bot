@@ -141,6 +141,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [build(bootnode): use the chiseled ASP.NET runtime image](https://github.com/NethermindEth/nethermind/pull/16171) - 2026-11-20
 * [Review] [Review on: fix(consensus): derive ExcessBlobGas for dev-produced blocks](https://github.com/NethermindEth/nethermind/pull/16202#pullrequestreview-5999312578) - 2026-11-20
 * [Commit] [build(bootnode): use the chiseled ASP.NET runtime image (#16171)](https://github.com/NethermindEth/nethermind/commit/003cb47d60621222fa5700d622b03a9b41a8ea10) - 2026-11-21
+* [Commit] [Add Light Client (#14457)](https://github.com/NethermindEth/nethermind/commit/8ed522cca267e9139bfc72bc24db16db7bdd84fe) - 2026-11-23
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

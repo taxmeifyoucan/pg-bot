@@ -39,6 +39,12 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: eth/fetcher: forget blob txs that have no announcer left](https://github.com/ethereum/go-ethereum/pull/36140#pullrequestreview-5925682968) - 2026-11-16
 * [Review] [Review on: eth/protocols/eth: validate all receipt blocks against gasUsed](https://github.com/ethereum/go-ethereum/pull/36105#pullrequestreview-5921601957) - 2026-11-16
 * [Commit] [eth/protocols/eth: validate all receipt blocks against gasUsed (#36105)](https://github.com/ethereum/go-ethereum/commit/142458d3dafaa05f013eee70703b280641780612) - 2026-11-17
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Post-Quantum PeerDAS and Variable-Size Blobs](https://github.com/ethereum/EIPs/pull/12604#pullrequestreview-6022986580) - 2026-11-23
+* [Review] [Review on: Update EIP-8070: Align engine_getBlobsV4 with the Engine API](https://github.com/ethereum/EIPs/pull/12701#pullrequestreview-6019672538) - 2026-11-23
+* [Review] [Review on: Update EIP-8070: give GetCells and Cells a request ID](https://github.com/ethereum/EIPs/pull/12693#pullrequestreview-6019126858) - 2026-11-23
+* [Review] [Review on: Update EIP-8070: keep cell_mask 16 bytes when no blob transaction is announced](https://github.com/ethereum/EIPs/pull/12696#pullrequestreview-6019122246) - 2026-11-23
 ## Q3 2026
 
 

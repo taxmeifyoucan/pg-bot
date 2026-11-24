@@ -133,6 +133,33 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Reject EIP-8141 transactions before Bogota in validateTxBasic](https://github.com/status-im/nimbus-eth1/pull/5190) - 2026-11-20
 * [Commit] [Reject EIP-8141 transactions before Bogota in validateTxBasic (#5190)](https://github.com/status-im/nimbus-eth1/commit/3010fc1fec354ab049d2bacbe4f115498a395f83) - 2026-11-21
 * [Pull Request] [snap: encode the empty slim account fields as the empty string](https://github.com/status-im/nimbus-eth1/pull/5199) - 2026-11-22
+* [Pull Request] [json-rpc: receipt logIndex is the position of the log in the block](https://github.com/status-im/nimbus-eth1/pull/5219) - 2026-11-23
+* [Pull Request] [txpool: reject transactions whose sender cannot pay their maximum cost](https://github.com/status-im/nimbus-eth1/pull/5218) - 2026-11-23
+* [Pull Request] [eth: remove eth/68 support](https://github.com/status-im/nimbus-eth1/pull/5215) - 2026-11-23
+* [Pull Request] [jwt: reject an iat claim outside the int64 range](https://github.com/status-im/nimbus-eth1/pull/5214) - 2026-11-23
+* [Pull Request] [debug_txPoolDump: encode uint64 fields without int64 conversion](https://github.com/status-im/nimbus-eth1/pull/5213) - 2026-11-23
+* [Pull Request] [aristo: update leaves whose path differs from a sibling only in the l…](https://github.com/status-im/nimbus-eth1/pull/5212) - 2026-11-23
+* [Pull Request] [eth_config: return an empty blob schedule before Cancun](https://github.com/status-im/nimbus-eth1/pull/5211) - 2026-11-23
+* [Pull Request] [eth_signTransaction, eth_sendTransaction: default to the pending nonce](https://github.com/status-im/nimbus-eth1/pull/5210) - 2026-11-23
+* [Pull Request] [Make --debug-eager-state-root check the state root of finalized blocks](https://github.com/status-im/nimbus-eth1/pull/5209) - 2026-11-23
+* [Pull Request] [Engine API: include targetGasLimit in the payloadId](https://github.com/status-im/nimbus-eth1/pull/5208) - 2026-11-23
+* [Pull Request] [Engine API: exchangeCapabilities returns all methods supported by the EL](https://github.com/status-im/nimbus-eth1/pull/5207) - 2026-11-23
+* [Pull Request] [eth_call: reject a gas limit below the intrinsic gas or calldata floor](https://github.com/status-im/nimbus-eth1/pull/5206) - 2026-11-23
+* [Pull Request] [sync: start a header chain session for a zero finalized hash](https://github.com/status-im/nimbus-eth1/pull/5202) - 2026-11-23
+* [Pull Request] [Let forkchoiceUpdated move finality back to an earlier block](https://github.com/status-im/nimbus-eth1/pull/5205) - 2026-11-23
+* [Commit] [json-rpc: receipt logIndex is the position of the log in the block (#5219)](https://github.com/status-im/nimbus-eth1/commit/0bfe6013a8aef8e3c999913ec992c02d6dd502c9) - 2026-11-24
+* [Commit] [eth: remove eth/68 support (#5215)](https://github.com/status-im/nimbus-eth1/commit/852c4e7b184e456711ac09bb0452369702c774e9) - 2026-11-23
+* [Commit] [jwt: reject an iat claim outside the int64 range (#5214)](https://github.com/status-im/nimbus-eth1/commit/74a2d682b8f876c1d9d13f82ad5f60ada2ed851b) - 2026-11-23
+* [Commit] [debug_txPoolDump: encode uint64 fields without int64 conversion (#5213)](https://github.com/status-im/nimbus-eth1/commit/60ea058c5149c55614b9d73abcd99ebf37d641b2) - 2026-11-23
+* [Commit] [aristo: update leaves whose path differs from a sibling only in the l… (#5212)](https://github.com/status-im/nimbus-eth1/commit/38bbc7eddf829bc496f4e99a635b027160079537) - 2026-11-23
+* [Commit] [eth_config: return an empty blob schedule before Cancun (#5211)](https://github.com/status-im/nimbus-eth1/commit/18cc8b2c9b60e2f7ced9f6983b7a6e6ad2558859) - 2026-11-23
+* [Commit] [eth_signTransaction, eth_sendTransaction: default to the pending nonce (#5210)](https://github.com/status-im/nimbus-eth1/commit/21d59c3a7ca6f10a00ddc22fbde4407c937daf6b) - 2026-11-23
+* [Commit] [Make --debug-eager-state-root check the state root of finalized blocks (#5209)](https://github.com/status-im/nimbus-eth1/commit/377cae4f07bc5ce09a911e15c54512c33cb2f1b6) - 2026-11-23
+* [Commit] [Engine API: include targetGasLimit in the payloadId (#5208)](https://github.com/status-im/nimbus-eth1/commit/b9444da69d53e18f3f194ff1e95dbb3856736436) - 2026-11-23
+* [Commit] [Engine API: exchangeCapabilities returns all methods supported by the EL (#5207)](https://github.com/status-im/nimbus-eth1/commit/bc39144b29bcbd80a37f810f5fc9f59f0573df6c) - 2026-11-23
+* [Commit] [eth_call: reject a gas limit below the intrinsic gas or calldata floor (#5206)](https://github.com/status-im/nimbus-eth1/commit/e1ecc7ca8554482e34c63fe118c0a811059c9d7f) - 2026-11-23
+* [Commit] [sync: start a header chain session for a zero finalized hash (#5202)](https://github.com/status-im/nimbus-eth1/commit/b30e13b7deab8186a33e20a4e2411ede6d25e58b) - 2026-11-23
+* [Commit] [snap: encode the empty slim account fields as the empty string (#5199)](https://github.com/status-im/nimbus-eth1/commit/3de741ca957d8782547aa84993b83a8b5fef3eb7) - 2026-11-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

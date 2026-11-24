@@ -672,6 +672,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [JSON-RPC: limit installed filters per client](https://github.com/NethermindEth/nethermind/issues/16187) - 2026-11-20
 * [Issue] [eth/72: invalid cells from a peer other than the body source go unpenalized](https://github.com/NethermindEth/nethermind/issues/16186) - 2026-11-20
 * [Issue] [Open WebSocket clients delay node shutdown by ~60 s](https://github.com/NethermindEth/nethermind/issues/16184) - 2026-11-20
+* [Issue] [Header sync can block sync mode selection when PrepareRequest loops on a dependency that cannot connect](https://github.com/NethermindEth/nethermind/issues/16291) - 2026-11-23
+* [Issue] [Flat state: read-only scopes keep payload-build trie nodes in the shared node record buffer](https://github.com/NethermindEth/nethermind/issues/16290) - 2026-11-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

@@ -21,6 +21,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #587 from tvanepps/add-armada-space-oct-2026](https://github.com/protocolguild/documentation/commit/a1c17968c2f767ee505209259e14481b750c11a2) - 2026-10-16
 * [Commit] [Add Armada x Protocol Guild Space to resources](https://github.com/protocolguild/documentation/commit/c773670be692a3c9f984f23c767bdc8f4e3876e9) - 2026-10-16
 * [Commit] [Add EF livestream to resources](https://github.com/protocolguild/documentation/commit/0c96260ffefce6a072df0d0873233c9fe5816c64) - 2026-10-21
+
+[protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
+* [Pull Request] [Add Q4 2026 audit blog post](https://github.com/protocolguild/protocol-guild-site/pull/80) - 2026-11-23
+* [Commit] [Merge pull request #80 from protocolguild/q4-quarterly-audit](https://github.com/protocolguild/protocol-guild-site/commit/d46bb8e9da7bea97649b62330bd7a33b7e41afb2) - 2026-11-23
+* [Commit] [Add Q4 2026 audit blog post](https://github.com/protocolguild/protocol-guild-site/commit/9d0666d321dc7bc35135cfad4a253e0299d1a80f) - 2026-11-23
 ## Q3 2026
 
 

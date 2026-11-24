@@ -51,6 +51,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Bump libz-sys to 1.1.33](https://github.com/sigp/lighthouse/pull/10609#pullrequestreview-5945474662) - 2026-11-17
 * [Review] [Review on: Move new `beacon_node` tests to Spec](https://github.com/sigp/lighthouse/pull/10618#pullrequestreview-5997026379) - 2026-11-20
 * [Review] [Review on: Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619#pullrequestreview-5997566985) - 2026-11-20
+* [Review] [Review on: Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619#pullrequestreview-6027596805) - 2026-11-23
+* [Review] [Review on: Shut down when failing to persist the payload](https://github.com/sigp/lighthouse/pull/10628#pullrequestreview-6030541172) - 2026-11-23
+* [Review] [Review on: Fix HTTP API TLS startup panic](https://github.com/sigp/lighthouse/pull/10599#pullrequestreview-6032407139) - 2026-11-24
+* [Review] [Review on: Fix poisoning attack on validator pubkey cache](https://github.com/sigp/lighthouse/pull/10569#pullrequestreview-6032381539) - 2026-11-24
+* [Review] [Review on: Tidy up leftovers from the Router removal](https://github.com/sigp/lighthouse/pull/10636#pullrequestreview-6030563402) - 2026-11-23
+* [Review] [Review on: Use the Gloas min epochs for block requests as the backfill range](https://github.com/sigp/lighthouse/pull/10270#pullrequestreview-6030358162) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

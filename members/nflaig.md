@@ -433,6 +433,42 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: bound unknown parent blocks retained per peer and age them out](https://github.com/ChainSafe/lodestar/pull/10708#pullrequestreview-6011979687) - 2026-11-22
 * [Review] [Review on: fix: bound unknown block sync retries and requests per peer](https://github.com/ChainSafe/lodestar/pull/10707#pullrequestreview-6011979414) - 2026-11-22
 * [Commit] [fix: age out pending sync roots by the current fork's slot duration (#10712)](https://github.com/ChainSafe/lodestar/commit/97ba67c17ea8323b8e69d94fbaba76412611217a) - 2026-11-23
+* [Review] [Review on: docs: suggest Kurtosis testing for external contributors](https://github.com/ChainSafe/lodestar/pull/10752#pullrequestreview-6028347337) - 2026-11-23
+* [Review] [Review on: feat!: run docker image as non-root user](https://github.com/ChainSafe/lodestar/pull/10747#pullrequestreview-6025212237) - 2026-11-23
+* [Pull Request] [fix: report peers serving invalid or unrequested columns by root](https://github.com/ChainSafe/lodestar/pull/10737) - 2026-11-23
+* [Review] [Review on: test(ci): match TypeScript sources in coverage include](https://github.com/ChainSafe/lodestar/pull/10751#pullrequestreview-6028449324) - 2026-11-23
+* [Pull Request] [feat: add payload consistency checks to envelope gossip validation](https://github.com/ChainSafe/lodestar/pull/10749) - 2026-11-23
+* [Review] [Review on: refactor: rename callImmediate to callAfterIO](https://github.com/ChainSafe/lodestar/pull/10750#pullrequestreview-6028288938) - 2026-11-23
+* [Pull Request] [feat: commit to payload root in bid and remove envelope signature](https://github.com/ChainSafe/lodestar/pull/10727) - 2026-11-23
+* [Review] [Review on: feat: commit to payload root in bid and remove envelope signature](https://github.com/ChainSafe/lodestar/pull/10727#pullrequestreview-6021108096) - 2026-11-23
+* [Pull Request] [fix: wait for pending column reconstruction when serving columns](https://github.com/ChainSafe/lodestar/pull/10740) - 2026-11-23
+* [Commit] [fix: report peers serving invalid or unrequested columns by root (#10737)](https://github.com/ChainSafe/lodestar/commit/d6a9ca8640beeb13fe71b9b1c4dd506c31c19ac1) - 2026-11-23
+* [Commit] [feat: add payload consistency checks to envelope gossip validation (#10749)](https://github.com/ChainSafe/lodestar/commit/45b77162050571179d31c93d9eac4ccba3c9adc0) - 2026-11-23
+* [Commit] [fix: verify proposer signature of blocks downloaded by root (#10724)](https://github.com/ChainSafe/lodestar/commit/50261a81cb87828361a391335f30fd05922cc1b3) - 2026-11-23
+* [Commit] [fix: do not attest to an optimistic head (#10269)](https://github.com/ChainSafe/lodestar/commit/736b238a8e29d7fc0c50e2b5177a20b3af7dde72) - 2026-11-23
+* [Commit] [feat: reject gloas attestations and blocks on an invalidated payload (#10438)](https://github.com/ChainSafe/lodestar/commit/d2ef034b49ccef567b0643affb7d48668752dc1a) - 2026-11-23
+* [Commit] [fix: bound unknown parent blocks retained per peer and age them out (#10708)](https://github.com/ChainSafe/lodestar/commit/e127b9c79f356e9c30acc8f7d4ca1083755f03e4) - 2026-11-23
+* [Commit] [fix: reject uint64 values above `Number.MAX_SAFE_INTEGER` on deserialization (#10688)](https://github.com/ChainSafe/lodestar/commit/f4366eb5cb623f5c4dafda7bf7e7f87dc5055c5f) - 2026-11-23
+* [Commit] [fix: reject unknown parent blocks from a proposer outside the pubkey cache (#10703)](https://github.com/ChainSafe/lodestar/commit/5f5ab30ace0640f562fe60917782f00c4ab8c5da) - 2026-11-23
+* [Commit] [fix: refresh the cached fork choice head after importing an execution payload (#10723)](https://github.com/ChainSafe/lodestar/commit/45da51ac9b21f6e34208791c296dc0ba974ca4d4) - 2026-11-23
+* [Commit] [fix(builder): do not bid while the beacon node head is optimistic (#10714)](https://github.com/ChainSafe/lodestar/commit/9c007ff1e2c891fdd794f6c3e2b84aa68588c5fe) - 2026-11-23
+* [Commit] [fix: bound unknown block sync retries and requests per peer (#10707)](https://github.com/ChainSafe/lodestar/commit/1e6a984dfe81b2f2b798ff243355601916cc3391) - 2026-11-23
+* [Commit] [fix: drop clock disparity lower bound from inclusion list timeliness (#10726)](https://github.com/ChainSafe/lodestar/commit/00777fbe1423ea577eea86a82b8973ec3805e3c0) - 2026-11-23
+* [Commit] [fix: match range sync column header signature against the block (#10728)](https://github.com/ChainSafe/lodestar/commit/52db559038fa691a3680e18bb9773760d35ac90a) - 2026-11-23
+* [Commit] [fix: refetch payload envelope from another peer after failed validation (#10729)](https://github.com/ChainSafe/lodestar/commit/ff80aec6b87a4563153e5133c120a7ead3192e43) - 2026-11-23
+* [Commit] [fix: wait for pending column reconstruction when serving columns (#10740)](https://github.com/ChainSafe/lodestar/commit/0302bf193ce8ab0a298809a00db59e0892c851a9) - 2026-11-23
+* [Commit] [fix: exit `lodestar dev` only after the beacon node is closed (#10742)](https://github.com/ChainSafe/lodestar/commit/4655c980a39aae4b9bf5781f9aea76a1fbfad6fd) - 2026-11-23
+* [Commit] [fix: compute fast confirmation thresholds in Gwei (#10722)](https://github.com/ChainSafe/lodestar/commit/7dd7051260beb8cc5943ef20366da16c297a263b) - 2026-11-23
+* [Commit] [fix: harden payload attestation message gossip validation (#10720)](https://github.com/ChainSafe/lodestar/commit/04bdff9cc85c4cf1527c00f5d2862c1b533672ff) - 2026-11-23
+* [Commit] [fix: persist invalid state root objects only when enabled (#10717)](https://github.com/ChainSafe/lodestar/commit/1f4a364fc5336dc48965f0052cb2a82e9a0d42a4) - 2026-11-23
+* [Commit] [fix: align gloas `execution_optimistic` with spec (#10715)](https://github.com/ChainSafe/lodestar/commit/1bd83e0e60125fd5e5d60a4e7d0b188bc154539a) - 2026-11-23
+* [Commit] [fix: treat early inclusion lists within clock disparity as timely (#10690)](https://github.com/ChainSafe/lodestar/commit/c9a11e97c9ccc73a6bb9f615649d92bb96a42bcc) - 2026-11-23
+* [Commit] [fix: remove minimum increment to forward bids over gossip (#10704)](https://github.com/ChainSafe/lodestar/commit/fbb98ed53a59e657105751074b58de965921ce82) - 2026-11-23
+* [Commit] [fix: match general statuses in native `getValidatorsByStatus` (#10713)](https://github.com/ChainSafe/lodestar/commit/bc568792ae8bb6eb3a5b9d2f26c5e7c55ed74096) - 2026-11-23
+* [Commit] [fix: keep validator monitor metric names unprefixed (#10710)](https://github.com/ChainSafe/lodestar/commit/b404fa0dda55aa09d8c983fffe75322df6cbe64e) - 2026-11-23
+* [Commit] [fix: include partially covered attester slashings in produced blocks (#10719)](https://github.com/ChainSafe/lodestar/commit/0f379f3b2208ef19bb1af2933662f008b1e5e496) - 2026-11-23
+* [Commit] [chore!: remove deprecated fork aliases and unused exports (#10705)](https://github.com/ChainSafe/lodestar/commit/678e11f6262912dc208af85ea8aab9895c4f10a2) - 2026-11-23
+* [Commit] [fix: only count current slot payload attestation messages in fork choice (#10721)](https://github.com/ChainSafe/lodestar/commit/c8fc3bc8e4ec75c3e8d2aab3e202bfdbd502d607) - 2026-11-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -481,6 +517,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Gloas: head with an EL-unvalidated payload is treated as execution-valid; block production only stopped by the EL](https://github.com/status-im/nimbus-eth2/issues/9203) - 2026-10-05
 
 * [Issue] [Validator client doppelganger detection trips on its own block proposal in the activation epoch](https://github.com/status-im/nimbus-eth2/issues/9278) - 2026-10-12
+* [Issue] [`getBlobs` returns duplicate blobs when a block repeats a KZG commitment](https://github.com/status-im/nimbus-eth2/issues/9467) - 2026-11-23
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [fix: align fork choice v2 with beacon api spec](https://github.com/OffchainLabs/prysm/pull/17636) - 2026-10-07
 
@@ -531,6 +568,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
 
+* [Issue] [`getBlobs` misorders and drops blobs when a block repeats a KZG commitment](https://github.com/Consensys-Incorporated/teku/issues/11715) - 2026-11-23
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Engine REST `/blobs/v4` returns compact cell lists instead of 128 indexed entries](https://github.com/paradigmxyz/reth/issues/28625) - 2026-11-20
 

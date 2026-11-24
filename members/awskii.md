@@ -648,6 +648,14 @@ Team: Erigon
 * [Issue] [cmd/integration: commitment visualize panics when it can not write its output](https://github.com/erigontech/erigon/issues/26671) - 2026-11-22
 * [Issue] [db/seg: DisableReadAhead resets the advice while other readers still hold readahead](https://github.com/erigontech/erigon/issues/26670) - 2026-11-22
 * [Issue] [cmd/evm: runners fail on a piped /dev/stdin on Linux](https://github.com/erigontech/erigon/issues/26669) - 2026-11-22
+* [Review] [Review on: cl: flaky test fix](https://github.com/erigontech/erigon/pull/26755#pullrequestreview-6035183247) - 2026-11-24
+* [Pull Request] [AGENTS.md: vendor two Ponytail skills, drop the plugin install](https://github.com/erigontech/erigon/pull/26751) - 2026-11-24
+* [Review] [Review on: rpcservices: subscribe waits until the server applies the filter](https://github.com/erigontech/erigon/pull/26716#pullrequestreview-6019840456) - 2026-11-23
+* [Review] [Review on: [r3.8] cl/p2p: backport #26058](https://github.com/erigontech/erigon/pull/26708#pullrequestreview-6019711121) - 2026-11-23
+* [Issue] [rpc/rpchelper: a reconnected logs or receipts stream does not resend the filter aggregate](https://github.com/erigontech/erigon/issues/26722) - 2026-11-23
+* [Issue] [ci: the Bogota WireX Hive rows repeat the EngineX missing-EIP failures and can exceed the job timeout](https://github.com/erigontech/erigon/issues/26719) - 2026-11-23
+* [Issue] [execution/commitment: move HexPatriciaHashed into execution/commitment/v2](https://github.com/erigontech/erigon/issues/26718) - 2026-11-23
+* [Commit] [db/kv/mdbx: skip the reader-table scan in SpaceDirty for write txns (#26700)](https://github.com/erigontech/erigon/commit/a7a0bf4ce5dfdbf977d16450cc1ab5838540ab97) - 2026-11-23
 ## Q3 2026
 
 

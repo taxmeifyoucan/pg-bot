@@ -31,6 +31,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595#pullrequestreview-5768525668) - 2026-11-04
 * [Review] [Review on: fix(specs): keep absent pre-merge forks off in geth genesis](https://github.com/NethermindEth/nethermind/pull/15553#pullrequestreview-5782617167) - 2026-11-05
 * [Review] [Review on: fix(tracing): refuse intermediate roots over trie-less historical state](https://github.com/NethermindEth/nethermind/pull/15619#pullrequestreview-5857739287) - 2026-11-11
+* [Review] [Review on: perf(evm): credit a value-less precompile call only to an existing empty account](https://github.com/NethermindEth/nethermind/pull/16238#pullrequestreview-6024846356) - 2026-11-23
+* [Review] [Review on: test(eest): run blockchain_tests_engine_reorg fixtures natively](https://github.com/NethermindEth/nethermind/pull/16210#pullrequestreview-6025057355) - 2026-11-23
 ## Q3 2026
 
 

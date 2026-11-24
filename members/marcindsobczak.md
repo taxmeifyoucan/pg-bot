@@ -389,6 +389,25 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(runner): exit 143 on SIGTERM and fix shutdown edge cases (#16113)](https://github.com/NethermindEth/nethermind/commit/34711bbb3257b26aa62c6fd3eb3d9aee4086364c) - 2026-11-20
 * [Commit] [fix(sync): resume header sync at the pivot and reject an unexpected first header (#16112)](https://github.com/NethermindEth/nethermind/commit/d7d994421994aa469bee0134efd5a3aa4a9c24dc) - 2026-11-20
 * [Commit] [fix(consensus): dev block withdrawals, Ethash cache and sealer, dev wallet, Hive runner (#16129)](https://github.com/NethermindEth/nethermind/commit/6912ac355305b32180d22957a87cfbbaaf6c9c07) - 2026-11-20
+* [Review] [Review on: fix(optimism): check blob sidecars against the batcher transaction's versioned hashes](https://github.com/NethermindEth/nethermind/pull/16266#pullrequestreview-6023897581) - 2026-11-23
+* [Review] [Review on: fix(rpc): keep chain receipts in proofs](https://github.com/NethermindEth/nethermind/pull/16262#pullrequestreview-6022308195) - 2026-11-23
+* [Review] [Review on: fix(state): match flat reads to the persisted state](https://github.com/NethermindEth/nethermind/pull/16252#pullrequestreview-6022708306) - 2026-11-23
+* [Pull Request] [fix(evm): end the node when a precompile's native library cannot be used](https://github.com/NethermindEth/nethermind/pull/16297) - 2026-11-23
+* [Review] [Review on: fix(evm): end the node when a precompile's native library cannot be used](https://github.com/NethermindEth/nethermind/pull/16297#pullrequestreview-6027552631) - 2026-11-23
+* [Pull Request] [fix(sync): do not hint the Ethash cache for post-merge headers](https://github.com/NethermindEth/nethermind/pull/16296) - 2026-11-23
+* [Review] [Review on: fix(rpc): poll logs from canonical blocks](https://github.com/NethermindEth/nethermind/pull/16260#pullrequestreview-6020514133) - 2026-11-23
+* [Review] [Review on: perf(evm): credit a value-less precompile call only to an existing empty account](https://github.com/NethermindEth/nethermind/pull/16238#pullrequestreview-6020661981) - 2026-11-23
+* [Review] [Review on: fix(sync): flush block bodies before saving old bodies progress](https://github.com/NethermindEth/nethermind/pull/16284#pullrequestreview-6020466534) - 2026-11-23
+* [Review] [Review on: fix(optimism): use the L1 blob fee update fraction in force at the L1 origin](https://github.com/NethermindEth/nethermind/pull/16267#pullrequestreview-6025432647) - 2026-11-23
+* [Review] [Review on: fix(focil): offer skipped inclusion list transactions again at the end of the block](https://github.com/NethermindEth/nethermind/pull/16263#pullrequestreview-6023907233) - 2026-11-23
+* [Review] [Review on: fix(optimism): execute deposits marked as system transactions with the deposit rules](https://github.com/NethermindEth/nethermind/pull/16268#pullrequestreview-6024890194) - 2026-11-23
+* [Review] [Review on: Set a minimum capacity for recent connection history](https://github.com/NethermindEth/nethermind/pull/16250#pullrequestreview-6019393680) - 2026-11-23
+* [Review] [Review on: test(eest): run blockchain_tests_engine_x fixtures per pre-allocation group](https://github.com/NethermindEth/nethermind/pull/16223#pullrequestreview-6020421568) - 2026-11-23
+* [Review] [Review on: fix(era): check that an era file's start block matches its epoch](https://github.com/NethermindEth/nethermind/pull/16270#pullrequestreview-6025445388) - 2026-11-23
+* [Review] [Review on: test(eest): run blockchain_tests_engine_reorg fixtures natively](https://github.com/NethermindEth/nethermind/pull/16210#pullrequestreview-6020402940) - 2026-11-23
+* [Commit] [fix(consensus): derive ExcessBlobGas for dev-produced blocks (#16202)](https://github.com/NethermindEth/nethermind/commit/f7bdf0711caad3b2c18de359e1ce7a5611c6c5cd) - 2026-11-23
+* [Commit] [perf(rpc): queue admin peer events without a closure per p2p message (#16182)](https://github.com/NethermindEth/nethermind/commit/026b00fb4c48ceb3683c7734e8a072c8c66ccbe8) - 2026-11-23
+* [Commit] [fix(merge): forward GenesisStateUnavailable in spec wrappers and fix beacon sync and payload Trace lines (#16150)](https://github.com/NethermindEth/nethermind/commit/2d8b55c4f14698f685471c646398be6f64ab9faf) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 

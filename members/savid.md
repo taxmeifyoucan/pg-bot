@@ -31,6 +31,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: adopt skeleton's lint, typecheck, test, token and CI setup](https://github.com/ethpandaops/lab/pull/570) - 2026-11-11
 * [Review] [Review on: chore: adopt skeleton's lint, typecheck, test, token and CI setup](https://github.com/ethpandaops/lab/pull/570#pullrequestreview-5868221400) - 2026-11-12
 * [Commit] [chore: adopt skeleton's lint, typecheck, test, token and CI setup (#570)](https://github.com/ethpandaops/lab/commit/9f4f88fbe08909fc14b0bcccd4f6d29312a07eff) - 2026-11-12
+
+[ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
+* [Pull Request] [perf(server): stop filters, sorts and counts from scanning whole tables](https://github.com/ethpandaops/tracoor/pull/75) - 2026-11-23
 ## Q3 2026
 
 

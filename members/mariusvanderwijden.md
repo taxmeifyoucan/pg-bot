@@ -49,6 +49,10 @@ Team: Geth
 * [Review] [Review on: core: set the effective gas price when making receipts](https://github.com/ethereum/go-ethereum/pull/36083#pullrequestreview-5991036578) - 2026-11-20
 * [Review] [Review on: cmd, eth: merge the error message and zero cost for exceptional halt](https://github.com/ethereum/go-ethereum/pull/36166#pullrequestreview-5990828916) - 2026-11-20
 * [Review] [Review on: accounts/abi: reject uint values wider than 256 bits when packing](https://github.com/ethereum/go-ethereum/pull/35972#pullrequestreview-5990677039) - 2026-11-20
+* [Review] [Review on: internal/ethapi: fix tx.from for equal transaction hashes in eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/36183#pullrequestreview-6023893849) - 2026-11-23
+* [Review] [Review on: internal/ethapi: fix receipts for equal transaction hashes in eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/36186#pullrequestreview-6023708688) - 2026-11-23
+* [Review] [Review on: internal/ethapi: omit chainId for unprotected legacy transactions](https://github.com/ethereum/go-ethereum/pull/36191#pullrequestreview-6023667589) - 2026-11-23
+* [Review] [Review on: cmd/evm: run the shared gas cap and set code checks in t9n](https://github.com/ethereum/go-ethereum/pull/36192#pullrequestreview-6019463381) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

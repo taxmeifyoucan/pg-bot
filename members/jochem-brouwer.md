@@ -67,6 +67,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Add AGENTS.md](https://github.com/ethereum/EIPs/pull/12661) - 2026-11-12
 * [Review] [Review on: Update EIP-1: Update EIP-1 with EIP Coordinator details](https://github.com/ethereum/EIPs/pull/12643#pullrequestreview-5962354034) - 2026-11-18
 * [Review] [Review on: Add EIP: eth/74 - Dependency Proof Exchange](https://github.com/ethereum/EIPs/pull/12551#pullrequestreview-6014710125) - 2026-11-22
+* [Review] [Review on: Add EIP: Dynamic individual consolidation incentive](https://github.com/ethereum/EIPs/pull/12673#pullrequestreview-6018206694) - 2026-11-23
+* [Review] [Review on: Add EIP: Code Reads in Block-Level Access Lists](https://github.com/ethereum/EIPs/pull/12658#pullrequestreview-6018199332) - 2026-11-23
+* [Review] [Review on: Add EIP: LUCID Key Publisher Priority Lists](https://github.com/ethereum/EIPs/pull/12646#pullrequestreview-6018191018) - 2026-11-23
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

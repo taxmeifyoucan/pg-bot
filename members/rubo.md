@@ -144,6 +144,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(runner): exit 143 on SIGTERM and fix shutdown edge cases](https://github.com/NethermindEth/nethermind/pull/16113#pullrequestreview-5965198898) - 2026-11-18
 * [Pull Request] [refactor(network)!: give sessions a transport-neutral connection instead of the DotNetty channel](https://github.com/NethermindEth/nethermind/pull/16103) - 2026-11-18
 * [Commit] [refactor(network)!: give sessions a transport-neutral connection instead of the DotNetty channel (#16103)](https://github.com/NethermindEth/nethermind/commit/e828af54c6ce9e2b918a103ccc7b47ca85ae2d13) - 2026-11-19
+* [Pull Request] [fix(zkevm): abort the guest when it runs out of memory](https://github.com/NethermindEth/nethermind/pull/16300) - 2026-11-23
+* [Pull Request] [fix(zkevm): reuse each call depth's init code buffers in the guest](https://github.com/NethermindEth/nethermind/pull/16298) - 2026-11-23
+* [Review] [Review on: fix(zkevm): reuse each call depth's init code buffers in the guest](https://github.com/NethermindEth/nethermind/pull/16298#pullrequestreview-6028427969) - 2026-11-23
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

@@ -84,6 +84,18 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Read each requested data column once in by-root responses](https://github.com/OffchainLabs/prysm/pull/17895) - 2026-11-18
 * [Pull Request] [Skip the file mutex in data column Get when nothing is stored](https://github.com/OffchainLabs/prysm/pull/17894) - 2026-11-18
 * [Pull Request] [Run cheap block gossip ignore checks before hashing the block](https://github.com/OffchainLabs/prysm/pull/17902) - 2026-11-20
+* [Pull Request] [Treat over-long snappy data as invalid in gossip message IDs](https://github.com/OffchainLabs/prysm/pull/17928) - 2026-11-23
+* [Pull Request] [Skip reconstruction when every sampled column is stored](https://github.com/OffchainLabs/prysm/pull/17927) - 2026-11-23
+* [Pull Request] [Check fork choice, not the DB, for processed blocks in initial sync](https://github.com/OffchainLabs/prysm/pull/17926) - 2026-11-23
+* [Pull Request] [Cap the initial sync target at the current slot](https://github.com/OffchainLabs/prysm/pull/17925) - 2026-11-23
+* [Pull Request] [Sync to the finalized epoch most peers agree on](https://github.com/OffchainLabs/prysm/pull/17924) - 2026-11-23
+* [Commit] [Prune expired fork choice attestations (#17873)](https://github.com/OffchainLabs/prysm/commit/b470dbc8748b53ea680f2fbf23d82f422e3b9ea6) - 2026-11-23
+* [Commit] [Run cheap block gossip ignore checks before hashing the block (#17902)](https://github.com/OffchainLabs/prysm/commit/8ddf83bcaf28f96feb53f1e9156b98f5fa616565) - 2026-11-23
+* [Commit] [Check attester slashing slashability before verifying signatures (#17896)](https://github.com/OffchainLabs/prysm/commit/2ec053362c53b988aa36b05c7a77c5de7ebca8f4) - 2026-11-23
+* [Commit] [Read each requested data column once in by-root responses (#17895)](https://github.com/OffchainLabs/prysm/commit/d6a3e2c1a860bb16255ffb0885c270664a620542) - 2026-11-23
+* [Commit] [Skip the file mutex in data column Get when nothing is stored (#17894)](https://github.com/OffchainLabs/prysm/commit/bca52394b5292dacd5c9510ba2634f6ec09b7ce8) - 2026-11-23
+* [Commit] [Ignore contributions for other roots when packing sync messages (#17872)](https://github.com/OffchainLabs/prysm/commit/3b31abc66c109611307e13487d3078db5b1dc197) - 2026-11-23
+* [Commit] [Mark attester slashings seen before inserting them into the pool (#17888)](https://github.com/OffchainLabs/prysm/commit/241c0c47f7f06d6d343cc8a27916f72314da1c20) - 2026-11-23
 ## Q3 2026
 
 

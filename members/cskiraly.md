@@ -69,6 +69,8 @@ Team: Codex DAS
 * [Pull Request] [Add EIP: Engine API proposal lookahead](https://github.com/ethereum/EIPs/pull/12547) - 2026-10-19
 * [Commit] [Add EIP: Engine API Proposal Lookahead](https://github.com/ethereum/EIPs/commit/46976b2a9bf99f727fb87dc8c809e3a3cdc6b445) - 2026-11-03
 * [Pull Request] [Update EIP-8411: add a chunking descriptor, envelope root and Reed-Solomon scheme](https://github.com/ethereum/EIPs/pull/12674) - 2026-11-19
+* [Pull Request] [Add EIP: Pre-seeded Encrypted Execution Payloads](https://github.com/ethereum/EIPs/pull/12706) - 2026-11-23
+* [Pull Request] [Add EIP: Bounded Storage Credit and Debit](https://github.com/ethereum/EIPs/pull/12707) - 2026-11-23
 ## Q3 2026
 
 

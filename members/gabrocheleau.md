@@ -18,6 +18,8 @@ Team: EthereumJS
 * [Review] [Review on: Do not leak locks on MPT mutations](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4381#pullrequestreview-5504899877) - 2026-10-13
 * [Pull Request] [deps: resolve Dependabot alerts (follow-redirects, vite, vitest, markdown-it)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4427) - 2026-11-02
 * [Commit] [deps: resolve Dependabot alerts (follow-redirects, vite, vitest, markdown-it) (#4427)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/94bb808c266e9b5e14d58cb16f5f7e9be57aba9c) - 2026-11-02
+* [Pull Request] [deps: scope minimatch ^11.0.1 overrides (GHSA-g3hv-75wg-m249)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4452) - 2026-11-23
+* [Commit] [deps: scope minimatch ^11.0.1 overrides for GHSA-g3hv-75wg-m249 (#4452)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c08497b20955f7f5efb81d00b3cc3322e8427250) - 2026-11-23
 ## Q3 2026
 
 

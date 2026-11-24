@@ -446,6 +446,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution, txpool: share gas and SetCode admission checks](https://github.com/erigontech/erigon/pull/26662) - 2026-11-21
 * [Commit] [execution, txpool, rpc: update frame transactions to Bogota devnet-2 (#26283)](https://github.com/erigontech/erigon/commit/fe5a0b570f474d9604178ac38879cdce85db45ed) - 2026-11-23
 * [Commit] [execution, rpc, txpool: share gas and SetCode admission checks (#26662)](https://github.com/erigontech/erigon/commit/44955b25a2cbb135d0bbd1ab295c7bfa231cd517) - 2026-11-23
+* [Pull Request] [ci: export the Kurtosis BuildKit cache only in Cache Warming](https://github.com/erigontech/erigon/pull/26730) - 2026-11-23
+* [Review] [Review on: cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg](https://github.com/erigontech/erigon/pull/26682#pullrequestreview-6020156651) - 2026-11-23
+* [Review] [Review on: cl: add the Heze fork layout and upgrade](https://github.com/erigontech/erigon/pull/26707#pullrequestreview-6022149950) - 2026-11-23
+* [Review] [Review on: cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721#pullrequestreview-6020072228) - 2026-11-23
+* [Pull Request] [ci: split the zkEVM witness race suite across two runners](https://github.com/erigontech/erigon/pull/26731) - 2026-11-23
+* [Pull Request] [txpool: fix flush races in transaction selection and lookup](https://github.com/erigontech/erigon/pull/26727) - 2026-11-23
+* [Pull Request] [txpool: skip transactions with unrecoverable senders](https://github.com/erigontech/erigon/pull/26729) - 2026-11-23
+* [Issue] [TestKvServerRollbackUnblocksRenewWaitingForReadTxSlot can time out after renewal succeeds](https://github.com/erigontech/erigon/issues/26743) - 2026-11-23
+* [Issue] [execution/state: a discarded attempt publishes a zero storage origin for a slot with a committed value](https://github.com/erigontech/erigon/issues/26739) - 2026-11-23
+* [Issue] [txpool: repeated selection races with callers reading the cached sender](https://github.com/erigontech/erigon/issues/26738) - 2026-11-23
+* [Issue] [txpool: flush retry skips pending transactions after a rollback](https://github.com/erigontech/erigon/issues/26735) - 2026-11-23
+* [Commit] [ci: export the Kurtosis BuildKit cache only in Cache Warming (#26730)](https://github.com/erigontech/erigon/commit/c2d70f9492fa6ede870ef0398844e8b7652b9a92) - 2026-11-24
+* [Commit] [ci: split the zkEVM witness race suite across two runners (#26731)](https://github.com/erigontech/erigon/commit/e31532b765ffee5690d81de9ba5edeeb5df2e5c5) - 2026-11-24
+* [Commit] [execution, rpc: simplify frame fee handling and receipt gas lookups (#26715)](https://github.com/erigontech/erigon/commit/3ff1797829d1ab333ddb339a8512ca5a6b07b0f9) - 2026-11-23
+* [Commit] [ci: update stable EEST fixtures to v21.0.3 (#26714)](https://github.com/erigontech/erigon/commit/ebdb5b71494662c9c2b955e3bb9b76ad8b25dd56) - 2026-11-23
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

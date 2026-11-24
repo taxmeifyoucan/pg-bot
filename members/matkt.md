@@ -121,6 +121,18 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Add the final trie build (#11661)](https://github.com/besu-eth/besu/commit/ace55a1819de94f9dc3aeea3c3fa4beed066102d) - 2026-10-23
 * [Pull Request] [SNAP2: Refuse a paginated receipts answer that brings no receipt](https://github.com/besu-eth/besu/pull/11822) - 2026-10-31
 * [Commit] [Refuse a paginated receipts answer that brings no receipt (#11822)](https://github.com/besu-eth/besu/commit/546da087bfb88b93cfa7039a83ea2593a86c106d) - 2026-11-02
+* [Review] [Review on: Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809#pullrequestreview-6035242975) - 2026-11-24
+* [Review] [Review on: Bound the newPayload BALs kept by backward sync](https://github.com/besu-eth/besu/pull/11989#pullrequestreview-6035052938) - 2026-11-24
+* [Review] [Review on: Sync with SNAP when SNAP2 starts before Amsterdam](https://github.com/besu-eth/besu/pull/11983#pullrequestreview-6020938731) - 2026-11-23
+* [Review] [Review on: [4/5] snap/2 sorted ingest: write the downloaded accounts and slots as sorted files](https://github.com/besu-eth/besu/pull/11855#pullrequestreview-6034445783) - 2026-11-24
+* [Pull Request] [Backward sync v2: import finalized blocks from their BAL](https://github.com/besu-eth/besu/pull/12033) - 2026-11-23
+* [Pull Request] [Backward sync v2 on the Besu pipelines](https://github.com/besu-eth/besu/pull/12032) - 2026-11-23
+* [Pull Request] [Backward sync v2: import steps](https://github.com/besu-eth/besu/pull/12031) - 2026-11-23
+* [Pull Request] [Backward sync v2: header steps](https://github.com/besu-eth/besu/pull/12030) - 2026-11-23
+* [Pull Request] [Backward sync v2: import finalized blocks from their BAL](https://github.com/besu-eth/besu/pull/12028) - 2026-11-23
+* [Pull Request] [Backward sync v2 on the Besu pipelines](https://github.com/besu-eth/besu/pull/12027) - 2026-11-23
+* [Pull Request] [Backward sync: add a BackwardSync interface for MergeCoordinator](https://github.com/besu-eth/besu/pull/12029) - 2026-11-23
+* [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-6020955453) - 2026-11-23
 ## Q3 2026
 
 

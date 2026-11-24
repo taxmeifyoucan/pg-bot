@@ -138,6 +138,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Run DCO and CI again when a pull request changes base branch (#12011)](https://github.com/besu-eth/besu/commit/079d9a2912619502e407d3956d3f50e01e80c6de) - 2026-11-19
 * [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-5994510965) - 2026-11-20
 * [Review] [Review on: Compare the full released Plugin API, including datatypes, in the compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-5991216182) - 2026-11-20
+* [Review] [Review on: Compare the full released Plugin API, including datatypes, in the compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-6023641717) - 2026-11-23
+* [Commit] [Add OSS Scanner resources (#11959)](https://github.com/besu-eth/besu/commit/933b238f9533e2776e5372573f6a37748a447dba) - 2026-11-23
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

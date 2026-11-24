@@ -344,6 +344,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [Update EIP-7702: sign the payload without its signature](https://github.com/ethereum/EIPs/pull/12689) - 2026-11-22
 * [Pull Request] [Update EIP-7702: refund when the authority exists in state](https://github.com/ethereum/EIPs/pull/12685) - 2026-11-22
 * [Commit] [Update EIP-8024: number the steps once, and name the step that halts](https://github.com/ethereum/EIPs/commit/875fcf6d084c096195fec170310514444f537133) - 2026-11-22
+* [Commit] [Update EIP-8070: Align engine_getBlobsV4 with the Engine API](https://github.com/ethereum/EIPs/commit/e3e214423e3dcbbcfaf1186211ad02971eff98a8) - 2026-11-23
+* [Commit] [Update EIP-8070: give GetCells and Cells a request ID](https://github.com/ethereum/EIPs/commit/ad6510bc9d404e5ae4f44fa397fc9c428dd65a36) - 2026-11-23
+* [Commit] [Update EIP-8070: keep cell_mask 16 bytes when no blob transaction is announced](https://github.com/ethereum/EIPs/commit/bce07c18ddfe6c373ac9fd0e7dc8324e8ac99c39) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 
@@ -397,6 +400,13 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [engine: allow null latestValidHash and validationError in PayloadStatusV1 (#991)](https://github.com/ethereum/execution-apis/commit/7ec87878e3cdb2362e22c27e22bc6e4110804f92) - 2026-11-22
 * [Commit] [engine: add slotNumber to Amsterdam payload examples (#990)](https://github.com/ethereum/execution-apis/commit/e9db0828524c60dadc81799f762cc8b3d14f8098) - 2026-11-22
 * [Commit] [engine: fix payload id in getPayload examples (#989)](https://github.com/ethereum/execution-apis/commit/7d774c83412acd29d81e38414af9372c2761a6bd) - 2026-11-22
+* [Pull Request] [engine: use a full blob and its cell proofs in the getPayloadV6 example](https://github.com/ethereum/execution-apis/pull/1029) - 2026-11-23
+* [Pull Request] [engine: replace the blockAccessList of the engine_newPayloadV5 example with a valid encoding](https://github.com/ethereum/execution-apis/pull/1026) - 2026-11-23
+* [Issue] [eth_simulateV1: code at a moved precompile's destination, and overrides in later blocks](https://github.com/ethereum/execution-apis/issues/1031) - 2026-11-23
+* [Issue] [eth_simulateV1: does a simulated block keep the EIP-7928 item cap of its access list?](https://github.com/ethereum/execution-apis/issues/1030) - 2026-11-23
+* [Commit] [engine: end each run of cell indices at CELLS_PER_EXT_BLOB - 1 in getPayloadV5 (#1021)](https://github.com/ethereum/execution-apis/commit/1ca0818569467cff85b7f41372f22e728d5daa14) - 2026-11-23
+* [Commit] [engine: state the fork check of payloadAttributes as the condition that must hold (#1020)](https://github.com/ethereum/execution-apis/commit/2043dfc1ee55a8b43e0042da27dea37c48cdcfdd) - 2026-11-23
+* [Commit] [engine: move the executionRequests checks to the newPayloadV4 specification (#1019)](https://github.com/ethereum/execution-apis/commit/b583b08eb6ee5650b312cc4c813617777556af33) - 2026-11-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery](https://github.com/ethereum/execution-specs/pull/4045) - 2026-11-21
 * [Issue] [BLOBBASEFEE is unspecified when the blob base fee is 2**256 or more](https://github.com/ethereum/execution-specs/issues/4044) - 2026-11-20
@@ -407,6 +417,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/erigontech/erigon/issues/26668) - 2026-11-21
 
 * [Issue] [Caplin: builder bid signature is not verified](https://github.com/erigontech/erigon/issues/26677) - 2026-11-22
+* [Issue] [Caplin: apply the EIP-7045 epoch window to beacon_attestation_{subnet_id} from Deneb on](https://github.com/erigontech/erigon/issues/26725) - 2026-11-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/ethereum/go-ethereum/issues/36196) - 2026-11-21
 

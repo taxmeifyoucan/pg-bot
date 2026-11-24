@@ -1246,6 +1246,43 @@ Team: Erigon
 * [Commit] [db/state: commitment v3 verify reads its files with readahead (#26654)](https://github.com/erigontech/erigon/commit/629c1b1b622d8ab4d2564d759a318c1d34651b66) - 2026-11-22
 * [Commit] [execution/exec: BAL commitment read-ahead by trie variant (#26648)](https://github.com/erigontech/erigon/commit/cfa248082e3b3993be35fae0ed2e241448e955b3) - 2026-11-22
 * [Commit] [db/state, commitment/v3: bound v3 rebuild memory by worker count (#26647)](https://github.com/erigontech/erigon/commit/905fe6ce81d30636afe0e5f3d512b0df6337cd87) - 2026-11-22
+* [Review] [Review on: rpc: decode an optional self-unmarshalling argument without json.Unmarshal](https://github.com/erigontech/erigon/pull/26741#pullrequestreview-6034397301) - 2026-11-24
+* [Review] [Review on: ci: export the Kurtosis BuildKit cache only in Cache Warming](https://github.com/erigontech/erigon/pull/26730#pullrequestreview-6032964965) - 2026-11-24
+* [Review] [Review on: execution: simplify and de-version the IntraBlockState](https://github.com/erigontech/erigon/pull/26659#pullrequestreview-6035319260) - 2026-11-24
+* [Review] [Review on: execution/state: check the re-creation behind an existence read at a seeded destruct](https://github.com/erigontech/erigon/pull/26734#pullrequestreview-6032969306) - 2026-11-24
+* [Review] [Review on: exec: lock-free interning ](https://github.com/erigontech/erigon/pull/26404#pullrequestreview-6033178680) - 2026-11-24
+* [Pull Request] [cl: flaky test fix](https://github.com/erigontech/erigon/pull/26755) - 2026-11-24
+* [Review] [Review on: db/state, db/seg: read ahead a contract's storage region after 64 file hits](https://github.com/erigontech/erigon/pull/26636#pullrequestreview-6035160854) - 2026-11-24
+* [Review] [Review on: execution/state: delete the materialized stateObject type](https://github.com/erigontech/erigon/pull/26658#pullrequestreview-6032981069) - 2026-11-24
+* [Review] [Review on: cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg](https://github.com/erigontech/erigon/pull/26682#pullrequestreview-6033500068) - 2026-11-24
+* [Review] [Review on: AGENTS.md: vendor two Ponytail skills, drop the plugin install](https://github.com/erigontech/erigon/pull/26751#pullrequestreview-6034012737) - 2026-11-24
+* [Pull Request] [execution/exec: a state read error during block init is operational](https://github.com/erigontech/erigon/pull/26749) - 2026-11-24
+* [Pull Request] [node/direct: in-process stream sends stop when the caller's context ends](https://github.com/erigontech/erigon/pull/26748) - 2026-11-24
+* [Pull Request] [rpcservices: subscribe waits until the server applies the filter](https://github.com/erigontech/erigon/pull/26716) - 2026-11-23
+* [Review] [Review on: rpcservices: subscribe waits until the server applies the filter](https://github.com/erigontech/erigon/pull/26716#pullrequestreview-6021813972) - 2026-11-23
+* [Pull Request] [execution/stagedsync: a failed fork-validation unwind drops its request](https://github.com/erigontech/erigon/pull/26747) - 2026-11-24
+* [Pull Request] [db/state: state files missing their first step are not read](https://github.com/erigontech/erigon/pull/26752) - 2026-11-24
+* [Review] [Review on: db/state: state files missing their first step are not read](https://github.com/erigontech/erigon/pull/26752#pullrequestreview-6034485571) - 2026-11-24
+* [Review] [Review on: tracers/js: limit the JS call stack so a JS-recursive tracer returns an error instead of crashing the node](https://github.com/erigontech/erigon/pull/26679#pullrequestreview-6032921474) - 2026-11-24
+* [Review] [Review on: execution: remove dead/redundant materialized finalize machinery](https://github.com/erigontech/erigon/pull/26657#pullrequestreview-6033258206) - 2026-11-24
+* [Pull Request] [cmd/evm: runners accept a piped input on Linux](https://github.com/erigontech/erigon/pull/26756) - 2026-11-24
+* [Pull Request] [execution/stagedsync: exec starts before the senders recovery ends](https://github.com/erigontech/erigon/pull/26733) - 2026-11-23
+* [Pull Request] [[r3.8] cl/p2p: backport #26058](https://github.com/erigontech/erigon/pull/26708) - 2026-11-24
+* [Review] [Review on: cl/das: write reconstructed columns before the blob sidecars](https://github.com/erigontech/erigon/pull/26672#pullrequestreview-6021016037) - 2026-11-23
+* [Review] [Review on: rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper](https://github.com/erigontech/erigon/pull/26641#pullrequestreview-6032928878) - 2026-11-24
+* [Review] [Review on: execution/state: write no nonce for a fresh account](https://github.com/erigontech/erigon/pull/26742#pullrequestreview-6032898655) - 2026-11-24
+* [Review] [Review on: rpc/jsonrpc, docs: report pruned history in trace_* as 4444](https://github.com/erigontech/erigon/pull/26683#pullrequestreview-6032908346) - 2026-11-24
+* [Review] [Review on: docs: document Caplin's block production response time](https://github.com/erigontech/erigon/pull/26736#pullrequestreview-6032887469) - 2026-11-24
+* [Review] [Review on: execution: implement EIP-8253 for Bogota devnet-2](https://github.com/erigontech/erigon/pull/26443#pullrequestreview-6033075241) - 2026-11-24
+* [Review] [Review on: ci: split the zkEVM witness race suite across two runners](https://github.com/erigontech/erigon/pull/26731#pullrequestreview-6032529247) - 2026-11-24
+* [Review] [Review on: execution/state: keep read-only accounts flat in the BAL builder](https://github.com/erigontech/erigon/pull/26157#pullrequestreview-6032520110) - 2026-11-24
+* [Review] [Review on: txpool: fix flush races in transaction selection and lookup](https://github.com/erigontech/erigon/pull/26727#pullrequestreview-6032583156) - 2026-11-24
+* [Review] [Review on: txpool: skip transactions with unrecoverable senders](https://github.com/erigontech/erigon/pull/26729#pullrequestreview-6032534957) - 2026-11-24
+* [Pull Request] [execution/types/accounts: intern new keys into a strong generation](https://github.com/erigontech/erigon/pull/26746) - 2026-11-24
+* [Pull Request] [execution/commitment/backtester: run on commitment v3](https://github.com/erigontech/erigon/pull/26723) - 2026-11-23
+* [Commit] [cl, db, execution: use lightweight memory counters for progress logs (#26694)](https://github.com/erigontech/erigon/commit/fcae0a6ccaf7ba9b4cce9d7a04368975a47ec427) - 2026-11-23
+* [Commit] [db/downloader: serve the torrent status through gzhttp (#26711)](https://github.com/erigontech/erigon/commit/5e97aa216578e5a8907c9fdbbb61002f75e5a47c) - 2026-11-23
+* [Commit] [cl/phase1/network: run the HTTP preference test in synctest (#26704)](https://github.com/erigontech/erigon/commit/3a974b66b478485584838099a5fdceac6a3e3f61) - 2026-11-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

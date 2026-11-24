@@ -110,6 +110,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Add builder related fields in config/spec](https://github.com/sigp/lighthouse/pull/10601#pullrequestreview-5931856985) - 2026-11-17
 * [Review] [Review on: Update jsonwebtoken](https://github.com/sigp/lighthouse/pull/10574#pullrequestreview-5929731046) - 2026-11-16
 * [Pull Request] [Verified block packing/op pool](https://github.com/sigp/lighthouse/pull/10613) - 2026-11-17
+* [Pull Request] [Update ssz_types and use 0-limit list for Gloas deposits](https://github.com/sigp/lighthouse/pull/10637) - 2026-11-23
+* [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-6033308904) - 2026-11-24
+* [Review] [Review on: Fix HTTP API TLS startup panic](https://github.com/sigp/lighthouse/pull/10599#pullrequestreview-6031842267) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

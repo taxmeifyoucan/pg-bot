@@ -112,6 +112,17 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [test: run the UDP source tests on macOS](https://github.com/ChainSafe/lodestar/pull/10692) - 2026-11-20
 * [Review] [Review on: test(config): verify domain bytes](https://github.com/ChainSafe/lodestar/pull/10691#pullrequestreview-5992324545) - 2026-11-20
 * [Review] [Review on: fix: pin ere.zig to a commit that exists upstream](https://github.com/ChainSafe/lodestar/pull/10686#pullrequestreview-5990985099) - 2026-11-20
+* [Pull Request] [docs: suggest Kurtosis testing for external contributors](https://github.com/ChainSafe/lodestar/pull/10752) - 2026-11-23
+* [Review] [Review on: docs: suggest Kurtosis testing for external contributors](https://github.com/ChainSafe/lodestar/pull/10752#pullrequestreview-6028478099) - 2026-11-23
+* [Review] [Review on: fix(lightclient): indicate finality whenever it can be proven](https://github.com/ChainSafe/lodestar/pull/10689#pullrequestreview-6021363431) - 2026-11-23
+* [Review] [Review on: fix: correct payload envelope peer scoring](https://github.com/ChainSafe/lodestar/pull/10571#pullrequestreview-6020633029) - 2026-11-23
+* [Pull Request] [fix: keep genesis block and state when pruning history](https://github.com/ChainSafe/lodestar/pull/10753) - 2026-11-23
+* [Pull Request] [test(ci): match TypeScript sources in coverage include](https://github.com/ChainSafe/lodestar/pull/10751) - 2026-11-23
+* [Review] [Review on: feat: add payload consistency checks to envelope gossip validation](https://github.com/ChainSafe/lodestar/pull/10749#pullrequestreview-6027606066) - 2026-11-23
+* [Pull Request] [refactor: rename callImmediate to callAfterIO](https://github.com/ChainSafe/lodestar/pull/10750) - 2026-11-23
+* [Review] [Review on: perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610#pullrequestreview-6027998509) - 2026-11-23
+* [Commit] [test(ci): match TypeScript sources in coverage include (#10751)](https://github.com/ChainSafe/lodestar/commit/dad8e3af98934a34c652882dadcf1ad59877a22f) - 2026-11-23
+* [Commit] [refactor: rename callImmediate to callAfterIO (#10750)](https://github.com/ChainSafe/lodestar/commit/b17bb95924ae7f56903e04af49b57df509338557) - 2026-11-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

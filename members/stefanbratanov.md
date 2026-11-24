@@ -42,6 +42,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Publish jdk27 Docker images instead of jdk26](https://github.com/Consensys-Incorporated/teku/pull/11698#pullrequestreview-5995503957) - 2026-11-20
 * [Pull Request] [Re-enable some gossip tests](https://github.com/Consensys-Incorporated/teku/pull/11688) - 2026-11-20
 * [Commit] [Re-enable greclipse() (#11663)](https://github.com/Consensys-Incorporated/teku/commit/c1fc4b3257a7b187adefe952b0e88cfb69657d0a) - 2026-11-20
+* [Pull Request] [Return ssz for payload attestation pool response](https://github.com/Consensys-Incorporated/teku/pull/11718) - 2026-11-23
+* [Pull Request] [ Remove `GetExecutionPayloadBid` and stop advertising 406 responses](https://github.com/Consensys-Incorporated/teku/pull/11716) - 2026-11-23
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add AGENTS.md and point CLAUDE.md to it](https://github.com/libp2p/jvm-libp2p/pull/551) - 2026-11-16
 ## Q3 2026

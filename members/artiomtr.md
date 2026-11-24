@@ -64,6 +64,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Add --execution-endpoint and deprecate --eth1-rpc-urls](https://github.com/grandinetech/grandine/pull/1039#pullrequestreview-5872323342) - 2026-11-12
 * [Review] [Review on: Feature/updated cross](https://github.com/grandinetech/grandine/pull/1053#pullrequestreview-5955076553) - 2026-11-18
 * [Review] [Review on: Fix beacon API discrepancies ](https://github.com/grandinetech/grandine/pull/1054#pullrequestreview-5992216476) - 2026-11-20
+* [Review] [Review on: Update `url` crate to version '2.5.9'](https://github.com/grandinetech/grandine/pull/1066#pullrequestreview-6023727645) - 2026-11-23
 ## Q3 2026
 
 

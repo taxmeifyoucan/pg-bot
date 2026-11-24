@@ -27,6 +27,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [go.mod, crypto, cmd/keeper: use zisk's keccak precompile](https://github.com/ethereum/go-ethereum/pull/36120) - 2026-11-12
 * [Commit] [go.mod: remove a few dependencies (#35622)](https://github.com/ethereum/go-ethereum/commit/cb1c12815dfe0aee8df17f0a525ea4940629dfb2) - 2026-11-20
 * [Commit] [core/vm, params: make EIP-170 activation explicit (#35675)](https://github.com/ethereum/go-ethereum/commit/7cc9033bc9df028666b0a7457f825fa597ccc057) - 2026-11-20
+* [Pull Request] [.github/workflows, cmd/keeper: run keeper on ziskemu in ci](https://github.com/ethereum/go-ethereum/pull/36206) - 2026-11-23
+* [Commit] [go.mod, crypto, cmd/keeper: recover and verify secp256k1 using zisk precompiles (#36094)](https://github.com/ethereum/go-ethereum/commit/92cbc7782990381949447f4b07d860e1c239df02) - 2026-11-23
 ## Q3 2026
 
 

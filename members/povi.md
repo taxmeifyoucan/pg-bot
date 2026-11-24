@@ -100,6 +100,9 @@ Team: Grandine
 * [Issue] [Separate DB for blobs/columns](https://github.com/grandinetech/grandine/issues/1057) - 2026-11-19
 * [Review] [Review on: Keep Gloas payload vote in aggregate superset keys](https://github.com/grandinetech/grandine/pull/1064#pullrequestreview-5992143534) - 2026-11-20
 * [Pull Request] [Fast block confirmation with fast confirmation rule](https://github.com/grandinetech/grandine/pull/1063) - 2026-11-20
+* [Pull Request] [Update `url` crate to version '2.5.9'](https://github.com/grandinetech/grandine/pull/1066) - 2026-11-23
+* [Commit] [Update `url` crate to version '2.5.9'](https://github.com/grandinetech/grandine/commit/a1a827b1793b95c0fef3b4ac9a1fb08cd5d61266) - 2026-11-23
+* [Commit] [Fast block confirmation with fast confirmation rule](https://github.com/grandinetech/grandine/commit/f8c501b15d0727f0b35918013827a8696d5735aa) - 2026-11-23
 ## Q3 2026
 
 

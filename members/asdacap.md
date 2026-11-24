@@ -113,6 +113,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-6005101327) - 2026-11-21
 * [Pull Request] [fix(sync): compare a healed state leaf with the one removed for a mismatch](https://github.com/NethermindEth/nethermind/pull/16245) - 2026-11-21
 * [Review] [Review on: fix(sync): compare a healed state leaf with the one removed for a mismatch](https://github.com/NethermindEth/nethermind/pull/16245#pullrequestreview-6004493834) - 2026-11-21
+* [Pull Request] [feat(ssz): generate RefReader views and read stored beacon blocks through them](https://github.com/NethermindEth/nethermind/pull/16307) - 2026-11-24
+* [Review] [Review on: feat(ssz): generate RefReader views and read stored beacon blocks through them](https://github.com/NethermindEth/nethermind/pull/16307#pullrequestreview-6035322828) - 2026-11-24
+* [Pull Request] [refactor(beacon-chain): bind Beacon API endpoints to attribute-routed services](https://github.com/NethermindEth/nethermind/pull/16306) - 2026-11-24
+* [Review] [Review on: refactor(beacon-chain): bind Beacon API endpoints to attribute-routed services](https://github.com/NethermindEth/nethermind/pull/16306#pullrequestreview-6035475381) - 2026-11-24
+* [Pull Request] [feat(beaconchain): aggregate with the embedded validator client](https://github.com/NethermindEth/nethermind/pull/16305) - 2026-11-24
+* [Pull Request] [feat(beaconchain): attest with the embedded validator client](https://github.com/NethermindEth/nethermind/pull/16304) - 2026-11-24
+* [Pull Request] [feat(beaconchain): add the validator API seam and serve the attest path](https://github.com/NethermindEth/nethermind/pull/16303) - 2026-11-24
+* [Pull Request] [refactor(merge): await a per-copy verdict from the processing queue in newPayload](https://github.com/NethermindEth/nethermind/pull/16302) - 2026-11-24
+* [Review] [Review on: fix(sync): remove a mismatched flat trie node during healing, including inside an extension](https://github.com/NethermindEth/nethermind/pull/16247#pullrequestreview-6018369873) - 2026-11-23
+* [Commit] [fix(sync): remove a mismatched flat trie node during healing, including inside an extension (#16247)](https://github.com/NethermindEth/nethermind/commit/44048ab77a9aabcc8c3a886026411c4f593de53e) - 2026-11-24
 ## Q3 2026
 
 

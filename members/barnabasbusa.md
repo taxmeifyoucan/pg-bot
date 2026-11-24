@@ -112,6 +112,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix: resolve builder pubkeys in a single pass in getStateBuilders](https://github.com/ChainSafe/lodestar/pull/10408#pullrequestreview-5534155424) - 2026-10-15
 * [Pull Request] [test: run heze spec tests with the vector's slot duration schedule](https://github.com/ChainSafe/lodestar/pull/10418) - 2026-10-16
 * [Pull Request] [fix: pin ere.zig to a commit that exists upstream](https://github.com/ChainSafe/lodestar/pull/10686) - 2026-11-20
+* [Issue] [pq-devnet-0: validator XMSS cache fetches time out when key derivation takes over 10s](https://github.com/ChainSafe/lodestar/issues/10731) - 2026-11-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
@@ -162,6 +163,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [Invalid blocks with blobs make nimbus disconnect honest peers via by-root column sync](https://github.com/status-im/nimbus-eth2/issues/9287) - 2026-10-15
 
 * [Pull Request] [fix: complete PQ VRF trees from precomputed states](https://github.com/status-im/nimbus-eth2/pull/9463) - 2026-11-20
+* [Pull Request] [feat: move the PQ fork to leanVM bindings v0.15.0 and add --xmss-cache-url](https://github.com/status-im/nimbus-eth2/pull/9469) - 2026-11-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275) - 2026-10-16
 
@@ -202,6 +204,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(docker): include contrib in Docker build context](https://github.com/paradigmxyz/reth/pull/28092) - 2026-10-23
 * [Commit] [fix(docker): include contrib in Docker build context (#28092)](https://github.com/paradigmxyz/reth/commit/21ee0fc8603b5c25ae8a2ffc6f29589ef4b90906) - 2026-10-23
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [feat: load leanXMSS tree caches from --xmss-cache-url](https://github.com/OffchainLabs/prysm/pull/17916) - 2026-11-23
 ## Q3 2026
 
 

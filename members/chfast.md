@@ -142,6 +142,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: execution/state: fix the genesis root of allocs with a constructor](https://github.com/erigontech/erigon/pull/26595#pullrequestreview-5991581041) - 2026-11-20
 * [Commit] [execution/state: put back the deleted balance of a derived removal when a re-run drops a write (#26447)](https://github.com/erigontech/erigon/commit/dc3f34f36c65c56b34daa3cf56d7046614524efa) - 2026-11-21
 * [Pull Request] [execution/state: test that a drop at a revival keeps the revived account](https://github.com/erigontech/erigon/pull/26655) - 2026-11-21
+* [Pull Request] [execution/engineapi, txnprovider/txpool: test the rejection of blob transactions without blob hashes](https://github.com/erigontech/erigon/pull/26745) - 2026-11-23
+* [Review] [Review on: execution/engineapi, txnprovider/txpool: test the rejection of blob transactions without blob hashes](https://github.com/erigontech/erigon/pull/26745#pullrequestreview-6035340355) - 2026-11-24
+* [Pull Request] [execution/state: check the re-creation behind an existence read at a seeded destruct](https://github.com/erigontech/erigon/pull/26734) - 2026-11-23
+* [Pull Request] [execution/state: write no nonce for a fresh account](https://github.com/erigontech/erigon/pull/26742) - 2026-11-23
+* [Review] [Review on: execution/state: keep read-only accounts flat in the BAL builder](https://github.com/erigontech/erigon/pull/26157#pullrequestreview-6030769278) - 2026-11-23
+* [Commit] [execution/state: write no nonce for a fresh account (#26742)](https://github.com/erigontech/erigon/commit/4f9d99a5505bd824fdaf541b1b57cafed18758f7) - 2026-11-24
+* [Commit] [execution/state: test that a drop at a revival keeps the revived account (#26655)](https://github.com/erigontech/erigon/commit/37c3cea0c8f7dc1edcd3e861c9f239ecb430fcbe) - 2026-11-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -262,6 +269,21 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Run the CodSpeed fixtures of tests-benchmark@v0.0.11 (#1823)](https://github.com/ipsilon/evmone/commit/848e1f02308ab3d04e89bb8f519fedbf0228291c) - 2026-11-19
 * [Pull Request] [cmake: Align the JUMPDEST analysis loop to 64 bytes with clang](https://github.com/ipsilon/evmone/pull/1827) - 2026-11-22
 * [Issue] [Code alignment of the Baseline dispatch and the JUMPDEST analysis loop](https://github.com/ipsilon/evmone/issues/1828) - 2026-11-22
+* [Pull Request] [build: Upgrade intx to 0.16.0](https://github.com/ipsilon/evmone/pull/1834) - 2026-11-23
+* [Pull Request] [ci: Unpack only the execution-specs test formats that evmone runs](https://github.com/ipsilon/evmone/pull/1835) - 2026-11-23
+* [Pull Request] [crypto: Compute only the high word of the Montgomery reduction product](https://github.com/ipsilon/evmone/pull/1833) - 2026-11-23
+* [Pull Request] [build: Raise the minimum GCC version to 12](https://github.com/ipsilon/evmone/pull/1832) - 2026-11-23
+* [Pull Request] [ci: Upgrade execution-specs tests to tests@v21.0.3](https://github.com/ipsilon/evmone/pull/1831) - 2026-11-23
+* [Pull Request] [test: Load legacy transactions with chain ids over 64 bits](https://github.com/ipsilon/evmone/pull/1829) - 2026-11-23
+* [Review] [Review on: test: Load legacy transactions with chain ids over 64 bits](https://github.com/ipsilon/evmone/pull/1829#pullrequestreview-6025553359) - 2026-11-23
+* [Pull Request] [ci: Add the self-hosted runner's pod configuration](https://github.com/ipsilon/evmone/pull/1830) - 2026-11-23
+* [Commit] [build: Upgrade intx to 0.16.0 (#1834)](https://github.com/ipsilon/evmone/commit/176986402a96b50d83ee4aea5d861849240d5cab) - 2026-11-24
+* [Commit] [crypto: Compute only the high word of the Montgomery reduction product (#1833)](https://github.com/ipsilon/evmone/commit/4b3a0fbc03c99816f21824b6c2a0528a370b5364) - 2026-11-23
+* [Commit] [ci: Unpack only the execution-specs test formats that evmone runs (#1835)](https://github.com/ipsilon/evmone/commit/5ab2fc25d6c2135aa930b39ec0025ff1e3c628f9) - 2026-11-23
+* [Commit] [build: Raise the minimum GCC version to 12 (#1832)](https://github.com/ipsilon/evmone/commit/99a712625c9da7a9ed467c76b71c4085391e93be) - 2026-11-23
+* [Commit] [ci: Upgrade execution-specs tests to tests@v21.0.3 (#1831)](https://github.com/ipsilon/evmone/commit/461597e53e33daa0e23f92da336ab334bc7da545) - 2026-11-23
+* [Commit] [test: Load legacy transactions with chain ids over 64 bits (#1829)](https://github.com/ipsilon/evmone/commit/79d6fa83057f4fed5f15417f6cfe9520cc7175eb) - 2026-11-23
+* [Commit] [ci: Add the self-hosted runner's pod configuration (#1830)](https://github.com/ipsilon/evmone/commit/5d0fe39f8cb6e6e7315f13e683dcb567148fa7c1) - 2026-11-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
@@ -273,6 +295,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration: remove obsolete gasBailOut placeholders from trace requests](https://github.com/erigontech/rpc-tests/pull/664#pullrequestreview-5943099670) - 2026-11-17
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Issue] [Link the Linux C# and Java bindings libraries with -Bsymbolic](https://github.com/ethereum/c-kzg-4844/issues/686) - 2026-11-23
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Issue] [Bogota: `newPayloadV6` should fail for a known payload with a different inclusion list](https://github.com/ethereum/execution-apis/issues/1027) - 2026-11-23
+* [Issue] [Bogota: lifetime and idempotence of `inclusionListSatisfied`](https://github.com/ethereum/execution-apis/issues/1025) - 2026-11-23
 ## Q3 2026
 
 

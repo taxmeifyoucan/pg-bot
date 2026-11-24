@@ -250,6 +250,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(sync): reset the beacon pivot on forkchoice restart](https://github.com/NethermindEth/nethermind/pull/16158#pullrequestreview-5992474422) - 2026-11-20
 * [Review] [Review on: fix(metrics): scope block transaction timing](https://github.com/NethermindEth/nethermind/pull/16172#pullrequestreview-5992535729) - 2026-11-20
 * [Commit] [fix(benchmarks): time uncached ecrecover and verifying KZG point evaluations (#15893)](https://github.com/NethermindEth/nethermind/commit/bf30d1b7f911dc2a32aed4b9f3f3c737003c9569) - 2026-11-20
+* [Commit] [fix: treat cancelled block production as cancellation and reject submissions to a disposed tx pool (#16168)](https://github.com/NethermindEth/nethermind/commit/05a665eab0e5bf51be7cc1d3f5fa312a36ee50e2) - 2026-11-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -278,12 +279,18 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: Batch generic signature claims](https://github.com/ethereum/EIPs/pull/12654) - 2026-11-11
 * [Pull Request] [Add EIP: Generic Proof Verification and Batching](https://github.com/ethereum/EIPs/pull/12664) - 2026-11-13
 * [Pull Request] [Update EIP-8288: Define committed verification keys](https://github.com/ethereum/EIPs/pull/12667) - 2026-11-15
+* [Commit] [Add EIP: eth/75 - Proof Wrapper Propagation](https://github.com/ethereum/EIPs/commit/81a90efc672bdd6130c813d8dae005e5b3a8ce5b) - 2026-11-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12
 
+* [Pull Request] [feat(spec-specs,tests): implement EIP-8288 with the dependency proof in the execution payload](https://github.com/ethereum/execution-specs/pull/4052) - 2026-11-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add EIP-8288 inclusion list proof methods](https://github.com/ethereum/execution-apis/pull/945) - 2026-10-16
+
+* [Pull Request] [engine: EIP-8288 dependencyProof in the execution payload](https://github.com/ethereum/execution-apis/pull/1028) - 2026-11-23
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [EIP-8288: dependency proof in the execution payload](https://github.com/ethereum/consensus-specs/pull/5858) - 2026-11-23
 ## Q3 2026
 
 

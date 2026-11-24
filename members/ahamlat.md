@@ -51,6 +51,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Chain same-sender transactions in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11808#pullrequestreview-5918158609) - 2026-11-16
 * [Commit] [Skip NewBlock imports for blocks the QBFT round is already finalising (#11583)](https://github.com/besu-eth/besu/commit/3946dbecd80a5c05d102b7da364e41c057fa8413) - 2026-11-17
 * [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-5957127804) - 2026-11-18
+* [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-6019209856) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

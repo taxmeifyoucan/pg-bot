@@ -224,6 +224,18 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/rpchelper: index log filters by address (#26591)](https://github.com/erigontech/erigon/commit/00ea4ce18dbb29b24096e7c7c8f5d7f7197d98bc) - 2026-11-22
 * [Commit] [.github/workflows: replace the eth_subscribe pattern with client classes in RPC Performance Tests Latest (#26548)](https://github.com/erigontech/erigon/commit/58249a35c3c8d2af4fc1c4f59ec77f06d5e51a2b) - 2026-11-22
 * [Commit] [db/kv/remotedbserver: open and roll back read txs outside txsMapLock (#26666)](https://github.com/erigontech/erigon/commit/717ddc2dec6b24bcf27228a5becf63e4bef69cdf) - 2026-11-22
+* [Pull Request] [rpc: decode an optional self-unmarshalling argument without json.Unmarshal](https://github.com/erigontech/erigon/pull/26741) - 2026-11-23
+* [Pull Request] [tracers/js: limit the JS call stack so a JS-recursive tracer returns an error instead of crashing the node](https://github.com/erigontech/erigon/pull/26679) - 2026-11-24
+* [Review] [Review on: tracers/js: limit the JS call stack so a JS-recursive tracer returns an error instead of crashing the node](https://github.com/erigontech/erigon/pull/26679#pullrequestreview-6028342709) - 2026-11-23
+* [Pull Request] [rpc/jsonrpc: skip the state prune gate for the latest executed block](https://github.com/erigontech/erigon/pull/26740) - 2026-11-23
+* [Review] [Review on: rpc/jsonrpc: skip the state prune gate for the latest executed block](https://github.com/erigontech/erigon/pull/26740#pullrequestreview-6034420905) - 2026-11-24
+* [Review] [Review on: cmd/tools/jsongen, execution/types, rpc/jsonstream: generate the Logs encoder with shared fields](https://github.com/erigontech/erigon/pull/26681#pullrequestreview-6027829494) - 2026-11-23
+* [Pull Request] [rpc/jsonrpc, docs: report pruned history in trace_* as 4444](https://github.com/erigontech/erigon/pull/26683) - 2026-11-24
+* [Issue] [tracers/js: recursion inside native code in a JS tracer crashes the node with a Go stack overflow](https://github.com/erigontech/erigon/issues/26737) - 2026-11-23
+* [Commit] [rpc: decode an optional self-unmarshalling argument without json.Unmarshal (#26741)](https://github.com/erigontech/erigon/commit/85b61a8acd0e9dd4d6a2b8095079e3cf61fadbd3) - 2026-11-24
+* [Commit] [tracers/js: limit the JS call stack so a JS-recursive tracer returns an error instead of crashing the node (#26679)](https://github.com/erigontech/erigon/commit/711f2168a93f3142c24e16a98a93729cf33866dc) - 2026-11-24
+* [Commit] [rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper (#26641)](https://github.com/erigontech/erigon/commit/486d5707cfa9291d434a6519a3efd782042906dc) - 2026-11-24
+* [Commit] [rpc/jsonrpc, docs: report pruned history in trace_* as 4444 (#26683)](https://github.com/erigontech/erigon/commit/6f6f613469df1d02908d3b9decd449546b75ffe5) - 2026-11-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

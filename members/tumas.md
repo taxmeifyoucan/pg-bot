@@ -69,6 +69,22 @@ Team: Grandine
 * [Pull Request] [Keep Gloas payload vote in aggregate superset keys](https://github.com/grandinetech/grandine/pull/1064) - 2026-11-20
 * [Pull Request] [Feature/empty slot states by root](https://github.com/grandinetech/grandine/pull/1062) - 2026-11-20
 * [Commit] [Keep Gloas payload vote in aggregate superset keys](https://github.com/grandinetech/grandine/commit/64cbc3bf923abd8fd53ef53a91071e5a47951a8f) - 2026-11-20
+* [Pull Request] [Skip parallel key aggregation for single-key triples](https://github.com/grandinetech/grandine/pull/1067) - 2026-11-23
+* [Review] [Review on: Fast block confirmation with fast confirmation rule](https://github.com/grandinetech/grandine/pull/1063#pullrequestreview-6021804471) - 2026-11-23
+* [Commit] [Report applied sync committee penalties](https://github.com/grandinetech/grandine/commit/e48bbf9d20e6075cf8047e16ad4ef5240fefc5b1) - 2026-11-23
+* [Commit] [Return 400 for attestation rewards of unknown validators](https://github.com/grandinetech/grandine/commit/9c1d8dce7ebc743ad1c623149a502f296f728e96) - 2026-11-23
+* [Commit] [Return 400 for sync committees of pre-Altair states](https://github.com/grandinetech/grandine/commit/d3dabdb41dd6ad311358a97b7a5da71ed2f0d050) - 2026-11-23
+* [Commit] [Return 400 for out-of-range committee queries](https://github.com/grandinetech/grandine/commit/27c742d60ece13be7ee5903408508543601f411f) - 2026-11-23
+* [Commit] [Return 404 for states at future slots](https://github.com/grandinetech/grandine/commit/663b66cee3035c337fc27a75bf58bd3ccde1989b) - 2026-11-23
+* [Commit] [Treat a missing body as an empty validator ID list](https://github.com/grandinetech/grandine/commit/f83e3d03ea1a91f15fe1ca3c12cc15d74b171c87) - 2026-11-23
+* [Commit] [Return 400 for JSON bodies with invalid content](https://github.com/grandinetech/grandine/commit/f31b701f9a7e5f70d6b8af53a8e23b4941a90352) - 2026-11-23
+* [Commit] [Return 404 for validator indices outside the registry](https://github.com/grandinetech/grandine/commit/b0cea1d7828303c43fa8b53ab95cf35ff25963f4) - 2026-11-23
+* [Commit] [Reject unknown validator indices in sync committee duties](https://github.com/grandinetech/grandine/commit/ac25aa2a28574484e621dcdc3e69a0ef0b4617eb) - 2026-11-23
+* [Commit] [Return pre-Bellatrix blocks from blinded blocks endpoint](https://github.com/grandinetech/grandine/commit/33aeb43a9a6b910916b38bd140d065799076f2cd) - 2026-11-23
+* [Commit] [Serialize proposer lookahead indices as strings](https://github.com/grandinetech/grandine/commit/971d2d36d321cf9069ed18b078011abe1c83f9c9) - 2026-11-23
+* [Commit] [Reject out-of-range epochs in state randao endpoint](https://github.com/grandinetech/grandine/commit/b97f6f42e00e967ede43832a474042b6ff98b8cb) - 2026-11-23
+* [Commit] [Find block header children after empty slots](https://github.com/grandinetech/grandine/commit/23bc5a22853a904b001bd96cb67e659a35d9578e) - 2026-11-23
+* [Commit] [Use fork-specific rules in expected withdrawals endpoint](https://github.com/grandinetech/grandine/commit/d08c3a5fb39295f14f53f84f4858e4804ab64053) - 2026-11-23
 ## Q3 2026
 
 

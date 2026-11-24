@@ -23,6 +23,8 @@ Team: Consensus R&D (EF)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Do not activate 0x00 validators](https://github.com/ethereum/consensus-specs/pull/5744#pullrequestreview-5554508764) - 2026-10-16
 
+* [Pull Request] [Extract Daisugi CL changes for review (do not merge)](https://github.com/ethereum/consensus-specs/pull/5859) - 2026-11-23
+* [Review] [Review on: Extract Daisugi CL changes for review (do not merge)](https://github.com/ethereum/consensus-specs/pull/5859#pullrequestreview-6026262662) - 2026-11-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5600488448) - 2026-10-21
 * [Pull Request] [Update EIP-8450: Address post-merge review](https://github.com/ethereum/EIPs/pull/12599) - 2026-11-05

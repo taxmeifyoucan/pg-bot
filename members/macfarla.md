@@ -334,6 +334,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix(metrics): run the timed counter task once per elapsed interval](https://github.com/besu-eth/besu/pull/11554#pullrequestreview-6014803885) - 2026-11-22
 * [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-6014742485) - 2026-11-22
 * [Issue] [Newer Docker base images available: eclipse-temurin 25.0.5.1_2-jre-resolute, ubuntu noble-20261110.1](https://github.com/besu-eth/besu/issues/12023) - 2026-11-23
+* [Review] [Review on: fix(rpc): keep contract logs with eth_simulateV1 traceTransfers](https://github.com/besu-eth/besu/pull/12021#pullrequestreview-6033665414) - 2026-11-24
+* [Review] [Review on: Bound the newPayload BALs kept by backward sync](https://github.com/besu-eth/besu/pull/11989#pullrequestreview-6030919096) - 2026-11-23
+* [Review] [Review on: fix(tracing): retain root precompile halt reasons](https://github.com/besu-eth/besu/pull/11347#pullrequestreview-6033805340) - 2026-11-24
+* [Review] [Review on: Fix:Platform-specific Gradle wrapper usage in build configuration](https://github.com/besu-eth/besu/pull/11957#pullrequestreview-6033469518) - 2026-11-24
+* [Review] [Review on: Close owned JSON parsers in JsonUtil](https://github.com/besu-eth/besu/pull/12024#pullrequestreview-6032320954) - 2026-11-24
+* [Review] [Review on: Add a CHANGELOG entry for the block replay fix in #11754](https://github.com/besu-eth/besu/pull/12034#pullrequestreview-6030849588) - 2026-11-23
+* [Commit] [Compare the full released Plugin API, including datatypes, in the compatibility check (#11963)](https://github.com/besu-eth/besu/commit/cf96cfb0b6049b8d06f204467f42df9d13a246f9) - 2026-11-23
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

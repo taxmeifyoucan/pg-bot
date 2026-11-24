@@ -77,6 +77,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Support ere in make states script](https://github.com/status-im/nimbus-eth1/pull/5191) - 2026-11-20
 * [Review] [Review on: ledger: collect per-tx writes into an in-memory cache, use journal to undo](https://github.com/status-im/nimbus-eth1/pull/5189#pullrequestreview-6005172968) - 2026-11-21
 * [Commit] [Support ere in make states script (#5191)](https://github.com/status-im/nimbus-eth1/commit/d578c04c7c4046681a1ac761895a4b545aa875b4) - 2026-11-21
+* [Pull Request] [Bal prefetch thread pool](https://github.com/status-im/nimbus-eth1/pull/5216) - 2026-11-23
+* [Review] [Review on: Move process block parallel code into separate module](https://github.com/status-im/nimbus-eth1/pull/4450#pullrequestreview-6021345209) - 2026-11-23
 ## Q3 2026
 
 

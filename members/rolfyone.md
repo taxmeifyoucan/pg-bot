@@ -251,6 +251,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Record PQ gossip and proving timings for the PQ devnets](https://github.com/Consensys-Incorporated/teku/pull/11709) - 2026-11-22
 * [Pull Request] [Cache leanXMSS signing trees in the validator client](https://github.com/Consensys-Incorporated/teku/pull/11710) - 2026-11-22
 * [Pull Request] [Merge block proofs incrementally and ahead of proposals](https://github.com/Consensys-Incorporated/teku/pull/11708) - 2026-11-22
+* [Pull Request] [Cache JSON type definitions' hash codes](https://github.com/Consensys-Incorporated/teku/pull/11727) - 2026-11-24
+* [Pull Request] [Import PQ execution payloads that arrive before their block](https://github.com/Consensys-Incorporated/teku/pull/11726) - 2026-11-24
+* [Pull Request] [Time out and retry a request for genesis data that is never answered](https://github.com/Consensys-Incorporated/teku/pull/11725) - 2026-11-24
+* [Pull Request] [Stop the leanXMSS warm-up's startup request from hanging every duty](https://github.com/Consensys-Incorporated/teku/pull/11724) - 2026-11-24
+* [Pull Request] [Read a plain path given as the PQ VRF state URL as a local file](https://github.com/Consensys-Incorporated/teku/pull/11723) - 2026-11-23
+* [Pull Request] [Build PQ blocks from the proof merged ahead, without merging](https://github.com/Consensys-Incorporated/teku/pull/11722) - 2026-11-23
+* [Pull Request] [Find XMSS cache records by the genesis validators' VRF roots](https://github.com/Consensys-Incorporated/teku/pull/11721) - 2026-11-23
+* [Review] [Review on: Prepare leanXMSS bottom trees ahead of PQ duties](https://github.com/Consensys-Incorporated/teku/pull/11700#pullrequestreview-6029862652) - 2026-11-23
+* [Pull Request] [Run validator duty timers on their own thread](https://github.com/Consensys-Incorporated/teku/pull/11720) - 2026-11-23
+* [Pull Request] [Find XMSS cache records by the cache's key list, and read them in blocks](https://github.com/Consensys-Incorporated/teku/pull/11719) - 2026-11-23
+* [Pull Request] [Send each PQ attestation and aggregate once it is signed](https://github.com/Consensys-Incorporated/teku/pull/11714) - 2026-11-23
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

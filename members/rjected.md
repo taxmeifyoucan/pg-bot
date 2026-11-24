@@ -34,6 +34,7 @@ Team: Reth
 * [Review] [Review on: perf(net): skip decoding unrequested responses](https://github.com/paradigmxyz/reth/pull/28403#pullrequestreview-5845312551) - 2026-11-10
 * [Review] [Review on: fix(txpool): run blob replacement overdraft check for head replacements](https://github.com/paradigmxyz/reth/pull/28356#pullrequestreview-5845476140) - 2026-11-10
 * [Review] [Review on: perf(rpc): serialize block access lists once](https://github.com/paradigmxyz/reth/pull/28498#pullrequestreview-5882113564) - 2026-11-12
+* [Pull Request] [ci(evm2): unlock conflicting pins when bumping evm2](https://github.com/paradigmxyz/reth/pull/28695) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

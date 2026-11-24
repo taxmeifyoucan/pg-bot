@@ -265,6 +265,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Recover secp256k1 public keys in one native call (#11921)](https://github.com/besu-eth/besu/commit/59965aa475d7be987c89ee337046f80229468890) - 2026-11-19
 * [Pull Request] [Fix Forest snap sync losing trie nodes](https://github.com/besu-eth/besu/pull/12016) - 2026-11-20
 * [Pull Request] [Deprecate the evmstacksize genesis option and reject it with EVM v2](https://github.com/besu-eth/besu/pull/12014) - 2026-11-20
+* [Review] [Review on: Sync with SNAP when SNAP2 starts before Amsterdam](https://github.com/besu-eth/besu/pull/11983#pullrequestreview-6025287630) - 2026-11-23
+* [Pull Request] [Add a CHANGELOG entry for the block replay fix in #11754](https://github.com/besu-eth/besu/pull/12034) - 2026-11-23
+* [Pull Request] [Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811) - 2026-11-23
+* [Review] [Review on: Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811#pullrequestreview-6019158901) - 2026-11-23
+* [Pull Request] [Track a transaction's state in a journal on EVM v2](https://github.com/besu-eth/besu/pull/11754) - 2026-11-23
+* [Commit] [Fix storage clears and re-created accounts in the JOURNALED world updater (#11811)](https://github.com/besu-eth/besu/commit/2379006d983e8f2cdd446d08556cd4b0c125768c) - 2026-11-23
+* [Commit] [Track a transaction's state in a journal on EVM v2 (#11754)](https://github.com/besu-eth/besu/commit/ab3ee3534957057c371b1c5cfce323d36f08d977) - 2026-11-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

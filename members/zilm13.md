@@ -85,6 +85,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Read effective balances lazily in computeBalanceWeightedSelection](https://github.com/Consensys-Incorporated/teku/pull/11686#pullrequestreview-5993531006) - 2026-11-20
 * [Review] [Review on: Hold SSZ tree updates in primitive arrays](https://github.com/Consensys-Incorporated/teku/pull/11634#pullrequestreview-5993831440) - 2026-11-20
 * [Review] [Review on: Implement `/eth/v1/beacon/states/{state_id}/ptc`](https://github.com/Consensys-Incorporated/teku/pull/11632#pullrequestreview-5993994068) - 2026-11-20
+* [Review] [Review on: Return ssz for payload attestation pool response](https://github.com/Consensys-Incorporated/teku/pull/11718#pullrequestreview-6028494197) - 2026-11-23
+* [Review] [Review on: Implement `/eth/v1/beacon/states/{state_id}/ptc`](https://github.com/Consensys-Incorporated/teku/pull/11632#pullrequestreview-6025416310) - 2026-11-23
+* [Review] [Review on:  Remove `GetExecutionPayloadBid` and stop advertising 406 responses](https://github.com/Consensys-Incorporated/teku/pull/11716#pullrequestreview-6028177096) - 2026-11-23
+* [Pull Request] [Fix getBlobs: return blobs in correct order, all the blobs for duplicate blobs w/o filter](https://github.com/Consensys-Incorporated/teku/pull/11717) - 2026-11-23
 ## Q3 2026
 
 

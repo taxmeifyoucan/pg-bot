@@ -20,6 +20,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/seg: fix compressor hang on superstrings send after ctx cancel (#24962)](https://github.com/erigontech/erigon/commit/b2f3fb11d2bc11cddf4194c46193a1b095f87035) - 2026-10-19
 * [Pull Request] [[tiering v2 - 14.1]  pre-EIP-8246 (remove selfdestruct burn) BAL burn fix and offline-BAL store repair](https://github.com/erigontech/erigon/pull/25266) - 2026-10-23
 * [Pull Request] [agents: add erigon-snapshot-pr-review skill](https://github.com/erigontech/erigon/pull/26531) - 2026-11-19
+* [Pull Request] [[tiering v2 - 18] log per-block BAL batch prefetch stats](https://github.com/erigontech/erigon/pull/26728) - 2026-11-23
 ## Q3 2026
 
 

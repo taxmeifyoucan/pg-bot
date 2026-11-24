@@ -42,6 +42,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [aristo: batch-merge slots](https://github.com/status-im/nimbus-eth1/pull/5185) - 2026-11-19
 * [Pull Request] [ledger: collect per-tx writes into an in-memory cache, use journal to undo](https://github.com/status-im/nimbus-eth1/pull/5189) - 2026-11-20
 * [Commit] [aristo: batch-merge slots (#5185)](https://github.com/status-im/nimbus-eth1/commit/434cf3e64cc7a864562ff8f918bd0b667f907e93) - 2026-11-20
+* [Pull Request] [ledger: add journal, flatten accounref](https://github.com/status-im/nimbus-eth1/pull/5217) - 2026-11-23
+* [Pull Request] [ledger: collect per-tx writes into an in-memory cache](https://github.com/status-im/nimbus-eth1/pull/5201) - 2026-11-23
+* [Review] [Review on: Move process block parallel code into separate module](https://github.com/status-im/nimbus-eth1/pull/4450#pullrequestreview-6018503691) - 2026-11-23
+* [Commit] [ledger: collect per-tx writes into an in-memory cache (#5201)](https://github.com/status-im/nimbus-eth1/commit/f53b8289c37579d2b873c8989dd2527e34ac3431) - 2026-11-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

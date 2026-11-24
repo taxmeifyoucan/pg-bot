@@ -49,6 +49,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(test-types,tests): add EIP-8141 signature validation and default code tests](https://github.com/ethereum/execution-specs/pull/4017#pullrequestreview-5955327558) - 2026-11-18
 * [Issue] [Test system contract interactions with EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/issues/4023) - 2026-11-18
 * [Review] [Review on: fix(spec-tools): resolve `--state.fork BPO4` to the bpo4 module](https://github.com/ethereum/execution-specs/pull/3951#pullrequestreview-5973163248) - 2026-11-19
+
+* [Review] [Review on: refactor(test-types,tests): signer abstraction and frame expectations in the framework.](https://github.com/ethereum/execution-specs/pull/4033#pullrequestreview-6022484719) - 2026-11-23
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8141: set code from the default code in SENDER mode](https://github.com/ethereum/EIPs/pull/12506#pullrequestreview-6020064054) - 2026-11-23
 ## Q3 2026
 
 

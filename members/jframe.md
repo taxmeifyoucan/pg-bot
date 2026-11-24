@@ -53,6 +53,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Bound the newPayload BALs kept by backward sync](https://github.com/besu-eth/besu/pull/11989) - 2026-11-17
 * [Pull Request] [[3/5] Bonsai archive ongoing sync: trailing trie-node archiver](https://github.com/besu-eth/besu/pull/12009) - 2026-11-19
 * [Commit] [[2/5] Bonsai archive ongoing sync: capture final blocks (#11951)](https://github.com/besu-eth/besu/commit/2eccef0e4bed0958fb940ec7057638113095ffa1) - 2026-11-19
+* [Review] [Review on: Sync with SNAP when SNAP2 starts before Amsterdam](https://github.com/besu-eth/besu/pull/11983#pullrequestreview-6033419574) - 2026-11-24
 ## Q3 2026
 
 

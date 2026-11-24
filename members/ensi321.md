@@ -75,6 +75,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [perf: track seen block attesters in a bitset per epoch](https://github.com/ChainSafe/lodestar/pull/10696) - 2026-11-20
 * [Review] [Review on: fix: allow heze upgrade with an unset deposit requests start index](https://github.com/ChainSafe/lodestar/pull/10685#pullrequestreview-5990174415) - 2026-11-20
 * [Commit] [chore!: remove deprecated cli flags (#10613)](https://github.com/ChainSafe/lodestar/commit/93209fd84abd664e55d00edb0cef0feb95a3519a) - 2026-11-21
+* [Pull Request] [fix: batch verify builder bid signature in blocks](https://github.com/ChainSafe/lodestar/pull/10759) - 2026-11-24
+* [Pull Request] [fix: drop pubkey cache entries beyond the anchor state on startup](https://github.com/ChainSafe/lodestar/pull/10758) - 2026-11-24
+* [Pull Request] [feat!: run docker image as non-root user](https://github.com/ChainSafe/lodestar/pull/10747) - 2026-11-23
+* [Commit] [chore!: remove deprecated exports (#10743)](https://github.com/ChainSafe/lodestar/commit/4996a91d93e50f665d68ec9e7f03ce652181ece6) - 2026-11-23
+* [Commit] [perf: track seen block attesters in a bitset per epoch (#10696)](https://github.com/ChainSafe/lodestar/commit/71ad43415588105a8b51d39501302640c7c2e7dc) - 2026-11-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
@@ -82,6 +87,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Exclude pending withdrawals from the builder bid limit](https://github.com/ethereum/consensus-specs/pull/5843) - 2026-11-19
 * [Review] [Review on: Exclude pending withdrawals from the builder bid limit](https://github.com/ethereum/consensus-specs/pull/5843#pullrequestreview-5978690952) - 2026-11-19
 * [Commit] [Exclude pending withdrawals from the builder bid limit (#5843)](https://github.com/ethereum/consensus-specs/commit/6ea84333433a840fbd534f8ebbe9dd5e1b599115) - 2026-11-19
+* [Review] [Review on: Remove unreachable slot 0 check in `notify_ptc_messages`](https://github.com/ethereum/consensus-specs/pull/5860#pullrequestreview-6033453667) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14

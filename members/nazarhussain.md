@@ -98,6 +98,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(fork-choice): port #10614 verdict rule to the Zig store](https://github.com/ChainSafe/lodestar/pull/10651#pullrequestreview-5971687552) - 2026-11-19
 * [Review] [Review on: fix: retain inclusion lists one slot past the request window](https://github.com/ChainSafe/lodestar/pull/10507#pullrequestreview-5972398929) - 2026-11-19
 * [Review] [Review on: test: pin inclusion list reads past the request window](https://github.com/ChainSafe/lodestar/pull/10662#pullrequestreview-5972381936) - 2026-11-19
+* [Review] [Review on: fix(fork-choice): port #10614 verdict rule to the Zig store](https://github.com/ChainSafe/lodestar/pull/10651#pullrequestreview-6021929958) - 2026-11-23
+* [Review] [Review on: feat: add payload consistency checks to envelope gossip validation](https://github.com/ChainSafe/lodestar/pull/10749#pullrequestreview-6028514626) - 2026-11-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

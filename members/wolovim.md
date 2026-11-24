@@ -17,6 +17,8 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: autonomously manage pq-cl](https://github.com/ethereum/pm/commit/c1e0bb0af0b65c28b809f160a85a2859bd2d5af4) - 2026-11-13
 * [Commit] [acdbot: multi-day weekly cadence, intro pqcl call](https://github.com/ethereum/pm/commit/cf2b76e4b20c8b0267ee3c383efb95c4be274299) - 2026-11-13
 * [Commit] [acdbot: pqcl 1 assets](https://github.com/ethereum/pm/commit/5984f16a38c9cb6aed377c290ffc61eb92680698) - 2026-11-17
+* [Commit] [acdbot: bump transitive deps in uv.lock](https://github.com/ethereum/pm/commit/f12afe21bdea632d162b2ceea14997bad78158be) - 2026-11-23
+* [Commit] [acdbot: dispatch asset updates to forkcast](https://github.com/ethereum/pm/commit/d54847bd06aca718287700f3646b0246bc19bd2a) - 2026-11-23
 ## Q3 2026
 
 

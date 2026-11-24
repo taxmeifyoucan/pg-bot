@@ -212,6 +212,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: run the UDP source tests on macOS](https://github.com/ChainSafe/lodestar/pull/10692#pullrequestreview-5995211273) - 2026-11-20
 * [Review] [Review on: test(config): verify domain bytes](https://github.com/ChainSafe/lodestar/pull/10691#pullrequestreview-5994915322) - 2026-11-20
 * [Commit] [feat: allow builders one bid per ETH of balance for a slot and parent (#10597)](https://github.com/ChainSafe/lodestar/commit/f2144dd2ac074ab0ed9753be8ff3bc955120fe9a) - 2026-11-21
+* [Pull Request] [chore: bump @chainsafe/libp2p-quic to 2.1.6](https://github.com/ChainSafe/lodestar/pull/10754) - 2026-11-23
+* [Review] [Review on: fix: keep genesis block and state when pruning history](https://github.com/ChainSafe/lodestar/pull/10505#pullrequestreview-6029063361) - 2026-11-23
+* [Review] [Review on: fix(fork-choice): port #10614 verdict rule to the Zig store](https://github.com/ChainSafe/lodestar/pull/10651#pullrequestreview-6025406291) - 2026-11-23
+* [Review] [Review on: fix: report peers serving invalid or unrequested columns by root](https://github.com/ChainSafe/lodestar/pull/10737#pullrequestreview-6028903352) - 2026-11-23
+* [Review] [Review on: fix(udp): address remaining #10668 review feedback](https://github.com/ChainSafe/lodestar/pull/10746#pullrequestreview-6025580983) - 2026-11-23
+* [Review] [Review on: fix: wait for pending column reconstruction when serving columns](https://github.com/ChainSafe/lodestar/pull/10740#pullrequestreview-6024780755) - 2026-11-23
+* [Review] [Review on: fix: verify proposer signature of blocks downloaded by root](https://github.com/ChainSafe/lodestar/pull/10724#pullrequestreview-6025796743) - 2026-11-23
+* [Review] [Review on: fix: do not attest to an optimistic head](https://github.com/ChainSafe/lodestar/pull/10269#pullrequestreview-6025948209) - 2026-11-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -260,6 +268,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Derive EIP-8198 slot timing from fork configuration (#5710)](https://github.com/ethereum/consensus-specs/commit/40bcb8c2b2ebd0f67705c1578c3d7bf76aee8176) - 2026-10-06
 
 * [Pull Request] [Commit to the execution payload root in `ExecutionPayloadBid`](https://github.com/ethereum/consensus-specs/pull/5820) - 2026-11-12
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-6024364994) - 2026-11-23
+* [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/ethereum/consensus-specs/pull/5802#pullrequestreview-6024363108) - 2026-11-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/commit/9d27a4f2facf3b4536e61c4bb81ea996175aa07e) - 2026-10-14
 * [Review] [Review on: Update EIP-8282: Sync specification with sys-asm@83f9801](https://github.com/ethereum/EIPs/pull/12120#pullrequestreview-5865314846) - 2026-11-11

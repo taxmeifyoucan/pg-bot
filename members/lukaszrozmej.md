@@ -1137,6 +1137,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(rpc): close open WebSocket connections at shutdown](https://github.com/NethermindEth/nethermind/pull/16214#pullrequestreview-6014758771) - 2026-11-22
 * [Commit] [perf(evm): test the frame value before resolving the transfer log addresses (#16239)](https://github.com/NethermindEth/nethermind/commit/57edd3b91e2575b76a31417e39f143fc6bcce4a0) - 2026-11-22
 * [Commit] [perf(bal): resolve a repeated storage write's slot without the index (#16198)](https://github.com/NethermindEth/nethermind/commit/049fbd971229dfa16eac25db73948b06565dcd24) - 2026-11-22
+* [Review] [Review on: perf(evm): credit a value-less precompile call only to an existing empty account](https://github.com/NethermindEth/nethermind/pull/16238#pullrequestreview-6021524202) - 2026-11-23
+* [Review] [Review on: test(eest): run blockchain_tests_engine_x fixtures per pre-allocation group](https://github.com/NethermindEth/nethermind/pull/16223#pullrequestreview-6021619927) - 2026-11-23
+* [Review] [Review on: test(eest): run blockchain_tests_engine_reorg fixtures natively](https://github.com/NethermindEth/nethermind/pull/16210#pullrequestreview-6021540800) - 2026-11-23
+* [Commit] [test(eest): run blockchain_tests_engine_reorg fixtures natively (#16210)](https://github.com/NethermindEth/nethermind/commit/6e14f8d6d76b239eff74c87b62e1305212f1ec05) - 2026-11-23
+* [Commit] [perf(zkevm): fill the KECCAK256 word memo entry the lookup found (#16240)](https://github.com/NethermindEth/nethermind/commit/9dc411f9a3d5c777e0215b6615fcbecbea7c1f4f) - 2026-11-23
+* [Commit] [perf(zkevm): copy past a zero-extending source without the general copy handler (#16241)](https://github.com/NethermindEth/nethermind/commit/8b613a776f1ebf5d9a80f86c22a6becebde4f1d1) - 2026-11-23
+* [Commit] [perf(zkevm): read transient storage without hashing the cell when the store is empty (#16243)](https://github.com/NethermindEth/nethermind/commit/e8bd3e0a5c45e60acc0db92d7445d03e6decf815) - 2026-11-23
+* [Commit] [fix(tracing): report the struct-log refund before the step and stop the state gas gasCost overflow (#16175)](https://github.com/NethermindEth/nethermind/commit/bc91816c59971aa78a2a6c8632d92447cfc62546) - 2026-11-23
+* [Commit] [perf(zkevm): answer a MODEXP whose base equals its modulus without ZisK's routine (#16246)](https://github.com/NethermindEth/nethermind/commit/cdfde1fe69ff9beb9b75692b7387d3e263a95d8e) - 2026-11-23
+* [Commit] [perf(evm): store LOG topics without the array element type check (#16237)](https://github.com/NethermindEth/nethermind/commit/e1c549d0506b937500631635c0cd9b7a4d2e59b9) - 2026-11-23
+* [Commit] [perf(zkevm): read and write a slot through the BAL state's slot store on SSTORE (#16199)](https://github.com/NethermindEth/nethermind/commit/8b3e1c5bffdc9bb1ac07f47101fefd18029729ce) - 2026-11-23
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -1242,6 +1253,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Update EIP-7843: Add header validity rule and opcode compatibility note](https://github.com/ethereum/EIPs/pull/12618#pullrequestreview-5766621175) - 2026-11-04
 * [Review] [Review on: Update EIP-8141: raise MAX_VERIFY_GAS to 300_000](https://github.com/ethereum/EIPs/pull/12644#pullrequestreview-5838405946) - 2026-11-10
 * [Pull Request] [Add EIP: Code Reads in Block-Level Access Lists](https://github.com/ethereum/EIPs/pull/12658) - 2026-11-12
+* [Commit] [Add EIP: Code Reads in Block-Level Access Lists](https://github.com/ethereum/EIPs/commit/edea55c315500a84b90d4e67aa8201cfee8afe21) - 2026-11-23
 ## Q3 2026
 
 

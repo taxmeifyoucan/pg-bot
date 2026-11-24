@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5944385927) - 2026-11-17
 * [Pull Request] [Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619) - 2026-11-18
 * [Pull Request] [Move new `beacon_node` tests to Spec](https://github.com/sigp/lighthouse/pull/10618) - 2026-11-18
+* [Review] [Review on: Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619#pullrequestreview-6021551982) - 2026-11-23
 ## Q3 2026
 
 

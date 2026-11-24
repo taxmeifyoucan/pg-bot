@@ -36,6 +36,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(provider): serve tag headers from memory](https://github.com/paradigmxyz/reth/pull/28447#pullrequestreview-5864488023) - 2026-11-11
 * [Review] [Review on: perf(rpc): skip pending block for pending nonce](https://github.com/paradigmxyz/reth/pull/28438#pullrequestreview-5861318068) - 2026-11-11
 * [Review] [Review on: fix(net): bound pending pool imports by encoded byte size](https://github.com/paradigmxyz/reth/pull/28364#pullrequestreview-5860822583) - 2026-11-11
+* [Pull Request] [fix(rpc): take blocking IO permit in eth_estimateGas and eth_fillTransaction handlers](https://github.com/paradigmxyz/reth/pull/28690) - 2026-11-23
+* [Review] [Review on: feat(rpc): add pooled raw transaction recovery hooks](https://github.com/paradigmxyz/reth/pull/28687#pullrequestreview-6026515746) - 2026-11-23
+* [Commit] [fix(rpc): take blocking IO permit in eth_estimateGas and eth_fillTransaction handlers (#28690)](https://github.com/paradigmxyz/reth/commit/167933d17ad47fe7354f5942ddd6f0d3e343bb41) - 2026-11-23
 ## Q3 2026
 
 

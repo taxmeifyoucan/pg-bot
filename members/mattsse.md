@@ -791,6 +791,30 @@ Team: Reth
 * [Commit] [fix(rpc): bound eth_getLogs ranges by response size (#28510)](https://github.com/paradigmxyz/reth/commit/85c70663312d3e96d2d4428635e2b0d9492b349f) - 2026-11-21
 * [Commit] [fix(rpc): bound builder validation cached reads by gas (#28636)](https://github.com/paradigmxyz/reth/commit/53b5db1c3bc841bae679e58a625485d3d44d5b74) - 2026-11-21
 * [Review] [Review on: chore(deps): bump url to 2.5.9](https://github.com/paradigmxyz/reth/pull/28654#pullrequestreview-6014477364) - 2026-11-22
+* [Review] [Review on: fix(storage): support v2 at nonzero genesis](https://github.com/paradigmxyz/reth/pull/28691#pullrequestreview-6035129809) - 2026-11-24
+* [Pull Request] [perf(trie): stream changesets in from_reverts](https://github.com/paradigmxyz/reth/pull/28698) - 2026-11-24
+* [Pull Request] [fix(rpc): clamp fee history to nonzero genesis](https://github.com/paradigmxyz/reth/pull/28696) - 2026-11-24
+* [Review] [Review on: chore(net): split snap types into modules](https://github.com/paradigmxyz/reth/pull/28409#pullrequestreview-6034718070) - 2026-11-24
+* [Pull Request] [fix(engine): serve side chain payload bodies by hash](https://github.com/paradigmxyz/reth/pull/28689) - 2026-11-23
+* [Review] [Review on: fix(engine): serve side chain payload bodies by hash](https://github.com/paradigmxyz/reth/pull/28689#pullrequestreview-6031206268) - 2026-11-23
+* [Review] [Review on: fix(rpc): take blocking IO permit in eth_estimateGas and eth_fillTransaction handlers](https://github.com/paradigmxyz/reth/pull/28690#pullrequestreview-6030102169) - 2026-11-23
+* [Pull Request] [revert: serve side chain blocks by hash (#28528)](https://github.com/paradigmxyz/reth/pull/28688) - 2026-11-23
+* [Review] [Review on: revert: serve side chain blocks by hash (#28528)](https://github.com/paradigmxyz/reth/pull/28688#pullrequestreview-6028284845) - 2026-11-23
+* [Pull Request] [perf(rpc): share pending tx filter feeds and cap active filters](https://github.com/paradigmxyz/reth/pull/28667) - 2026-11-23
+* [Review] [Review on: perf(rpc): share pending tx filter feeds and cap active filters](https://github.com/paradigmxyz/reth/pull/28667#pullrequestreview-6022512331) - 2026-11-23
+* [Pull Request] [feat(rpc): add pooled raw transaction recovery hooks](https://github.com/paradigmxyz/reth/pull/28687) - 2026-11-23
+* [Review] [Review on: fix(ef-tests): join workers during shutdown](https://github.com/paradigmxyz/reth/pull/28673#pullrequestreview-6024689520) - 2026-11-23
+* [Commit] [fix(rpc): clamp fee history to nonzero genesis (#28696)](https://github.com/paradigmxyz/reth/commit/0d6ed13356b5e7c111dc28dd5dbd7bc0f998ce4c) - 2026-11-24
+* [Commit] [fix(engine): serve side chain payload bodies by hash (#28689)](https://github.com/paradigmxyz/reth/commit/4c95069a82a1532abd2d39f57a42a5281e3778df) - 2026-11-24
+* [Commit] [revert: serve side chain blocks by hash (#28528) (#28688)](https://github.com/paradigmxyz/reth/commit/87362bc929a4da525f2ed59c4bbe8161b1d8ad0a) - 2026-11-23
+* [Commit] [perf(rpc): share pending tx filter feeds and cap active filters (#28667)](https://github.com/paradigmxyz/reth/commit/ce7ec87912f3f17c160a4f734e4d69d82c36657d) - 2026-11-23
+* [Commit] [feat(rpc): add pooled raw transaction recovery hooks (#28687)](https://github.com/paradigmxyz/reth/commit/7a2adf5c57e6740c8b95407c37545adbcb689774) - 2026-11-23
+* [Commit] [chore(txpool): remove Osaka blob sidecar conversion (#28672)](https://github.com/paradigmxyz/reth/commit/ed57d207913e8db854027bb2db00778afa4a5d95) - 2026-11-23
+* [Commit] [fix(txpool): bump zero priority fees on replacement (#28670)](https://github.com/paradigmxyz/reth/commit/319c5f09c55af2e0056df311bb816a4d73443a6c) - 2026-11-23
+* [Commit] [fix(rpc): drain pending tx filters on every poll (#28669)](https://github.com/paradigmxyz/reth/commit/377802a3f51d776a4a5a021b8153d3465a11506b) - 2026-11-23
+* [Commit] [fix(engine): return null latestValidHash on undecodable BAL resend (#28662)](https://github.com/paradigmxyz/reth/commit/ee78f403915852c01a8a7bee0b9c86e73fd132dc) - 2026-11-23
+* [Commit] [fix(engine): return null latestValidHash for unknown ancestor (#28484)](https://github.com/paradigmxyz/reth/commit/414d740d1e5f8b09f418b83b2e733920a712766e) - 2026-11-23
+* [Commit] [fix(engine): return null latestValidHash for undecodable payload (#28661)](https://github.com/paradigmxyz/reth/commit/6fb4bf1513fd9251cd922d79e5e54a7544770774) - 2026-11-23
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -86,6 +86,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [eth_blobBaseFee returns the blob base fee of the next block](https://github.com/status-im/nimbus-eth1/pull/5198) - 2026-11-22
 * [Commit] [Engine API: Fix newPayloadV3/V4, forkChoiceUpdatedV3/V4, and getBlobsV4 fork check (#5197)](https://github.com/status-im/nimbus-eth1/commit/08118880300469dd66eb6e6230401654e3e01d45) - 2026-11-23
 * [Commit] [eth_blobBaseFee returns the blob base fee of the next block (#5198)](https://github.com/status-im/nimbus-eth1/commit/ade39b113d7bf09592a67b20332fb3f8a0267201) - 2026-11-23
+* [Pull Request] [Check TransactionArgs fields against active fork in eth_call/createAccessList/estimateGas](https://github.com/status-im/nimbus-eth1/pull/5220) - 2026-11-24
+* [Commit] [Check TransactionArgs fields against active fork in eth_call/createAccessList/estimateGas (#5220)](https://github.com/status-im/nimbus-eth1/commit/607c875c338a0a0e2305b3c09376645829cf2f82) - 2026-11-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

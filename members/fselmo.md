@@ -121,6 +121,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(ef-tests): add the Osaka, BPO and Amsterdam transition networks](https://github.com/paradigmxyz/reth/pull/28226) - 2026-11-01
 
 * [Pull Request] [feat(ef-tests): add blocktest and enginetest runners](https://github.com/paradigmxyz/reth/pull/28459) - 2026-11-11
+* [Commit] [feat(ef-tests): add blocktest and enginetest runners (#28459)](https://github.com/paradigmxyz/reth/commit/a6e4164c862376b6dc5f083b07e14fa0ad3fbc0e) - 2026-11-23
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients: map and dump the genesis in one jq pass](https://github.com/ethereum/hive/pull/1652#pullrequestreview-5779243451) - 2026-11-05
 

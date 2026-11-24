@@ -457,6 +457,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg](https://github.com/erigontech/erigon/pull/26682) - 2026-11-22
 * [Pull Request] [cl/das: write reconstructed columns before the blob sidecars](https://github.com/erigontech/erigon/pull/26672) - 2026-11-22
 * [Commit] [cl/das: start the recovery quiet period at the first over-half scheduling call (#26674)](https://github.com/erigontech/erigon/commit/49569c0c9d791d168fa5b1e340eca92d2e168661) - 2026-11-23
+* [Review] [Review on: cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg](https://github.com/erigontech/erigon/pull/26682#pullrequestreview-6020220297) - 2026-11-23
+* [Review] [Review on: cl/p2p, cl/sentinel: excuse all failures of one duplicate close, never a complete error response](https://github.com/erigontech/erigon/pull/26726#pullrequestreview-6026058609) - 2026-11-23
+* [Review] [Review on: cl/beacon/handler, cl/phase1/network: validate known pool submissions from the API](https://github.com/erigontech/erigon/pull/26705#pullrequestreview-6021084260) - 2026-11-23
+* [Review] [Review on: cl: add the Heze fork layout and upgrade](https://github.com/erigontech/erigon/pull/26707#pullrequestreview-6033531543) - 2026-11-24
+* [Pull Request] [cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721) - 2026-11-23
+* [Review] [Review on: cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721#pullrequestreview-6033433067) - 2026-11-24
+* [Review] [Review on: [r3.8] cl/p2p: backport #26058](https://github.com/erigontech/erigon/pull/26708#pullrequestreview-6020976331) - 2026-11-23
+* [Commit] [cl/das: write reconstructed columns before the blob sidecars (#26672)](https://github.com/erigontech/erigon/commit/94a739c4048bb86e6ff5e5b9f6c56bcf1977e647) - 2026-11-24
 ## Q3 2026
 
 

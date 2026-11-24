@@ -39,6 +39,10 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: engine: use anyOf for V1 or V2 execution payloads](https://github.com/ethereum/execution-apis/pull/992#pullrequestreview-6013046665) - 2026-11-22
 * [Review] [Review on: engine: allow null latestValidHash and validationError in PayloadStatusV1](https://github.com/ethereum/execution-apis/pull/991#pullrequestreview-6013044891) - 2026-11-22
 * [Review] [Review on: engine: add slotNumber to Amsterdam payload examples](https://github.com/ethereum/execution-apis/pull/990#pullrequestreview-6013042101) - 2026-11-22
+* [Review] [Review on: engine: allow null withdrawals in ExecutionPayloadBodyV1 and V2](https://github.com/ethereum/execution-apis/pull/1022#pullrequestreview-6019098666) - 2026-11-23
+* [Review] [Review on: engine: end each run of cell indices at CELLS_PER_EXT_BLOB - 1 in getPayloadV5](https://github.com/ethereum/execution-apis/pull/1021#pullrequestreview-6019042770) - 2026-11-23
+* [Review] [Review on: engine: state the fork check of payloadAttributes as the condition that must hold](https://github.com/ethereum/execution-apis/pull/1020#pullrequestreview-6019037723) - 2026-11-23
+* [Review] [Review on: engine: move the executionRequests checks to the newPayloadV4 specification](https://github.com/ethereum/execution-apis/pull/1019#pullrequestreview-6019027034) - 2026-11-23
 ## Q3 2026
 
 

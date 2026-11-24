@@ -132,6 +132,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: match general statuses in native `getValidatorsByStatus`](https://github.com/ChainSafe/lodestar/pull/10713#pullrequestreview-6015896715) - 2026-11-23
 * [Review] [Review on: fix: age out pending sync roots by the current fork's slot duration](https://github.com/ChainSafe/lodestar/pull/10712#pullrequestreview-6015691170) - 2026-11-23
 * [Pull Request] [feat: implement state regen in zig](https://github.com/ChainSafe/lodestar/pull/10711) - 2026-11-22
+* [Review] [Review on: chore: bump @chainsafe/libp2p-quic to 2.1.6](https://github.com/ChainSafe/lodestar/pull/10754#pullrequestreview-6033276037) - 2026-11-24
+* [Pull Request] [feat: implement regen binding](https://github.com/ChainSafe/lodestar/pull/10739) - 2026-11-23
+* [Review] [Review on: fix: verify proposer signature of blocks downloaded by root](https://github.com/ChainSafe/lodestar/pull/10724#pullrequestreview-6020199023) - 2026-11-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

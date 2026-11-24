@@ -69,6 +69,12 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [fix: restore Zesu with ere-guests v0.18.1](https://github.com/eth-act/zkevm-benchmark-workload/pull/319) - 2026-10-12
 * [Commit] [fix: restore Zesu with ere-guests v0.18.1 (#319)](https://github.com/eth-act/zkevm-benchmark-workload/commit/4a0ed18e73afb5c10f4f0f9dccb82d11652db274) - 2026-10-12
 * [Review] [Review on: fix: dedup EEST fixture names across files](https://github.com/eth-act/zkevm-benchmark-workload/pull/321#pullrequestreview-5507866002) - 2026-10-13
+* [Pull Request] [feat: export batch archives in parallel](https://github.com/eth-act/zkevm-benchmark-workload/pull/332) - 2026-11-23
+* [Pull Request] [feat: migrate collected stateless inputs to tests-zkevm v21.0.7](https://github.com/eth-act/zkevm-benchmark-workload/pull/330) - 2026-11-23
+* [Pull Request] [feat: update ere-guests to v0.20.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/329) - 2026-11-23
+* [Commit] [feat: export batch archives in parallel (#332)](https://github.com/eth-act/zkevm-benchmark-workload/commit/532fd15d87f4e3f5ad1553a234efef9c53f17961) - 2026-11-23
+* [Commit] [feat: migrate collected stateless inputs to tests-zkevm v21.0.7 (#330)](https://github.com/eth-act/zkevm-benchmark-workload/commit/b1400ae43b89566a49fe73a6190de28734e99974) - 2026-11-23
+* [Commit] [feat: update ere-guests to v0.20.0 (#329)](https://github.com/eth-act/zkevm-benchmark-workload/commit/2ea2294969abe1da7176391a128bad5a3f70e2a5) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
 

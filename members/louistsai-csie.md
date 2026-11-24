@@ -74,6 +74,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(test-benchmark): support invalid-block benchmarks (#3823)](https://github.com/ethereum/execution-specs/commit/990dc8a6af4cf4246032b12e6713e4b20eb9d562) - 2026-11-16
 * [Pull Request] [feat(test-benchmark): benchmark blocks rejected for a false BAL](https://github.com/ethereum/execution-specs/pull/4019) - 2026-11-18
 * [Pull Request] [feat(ci): add fill-stateful E2E job to hive execute workflow](https://github.com/ethereum/execution-specs/pull/4018) - 2026-11-18
+* [Review] [Review on: feat(tests): test a sender with a delegation designator before Prague](https://github.com/ethereum/execution-specs/pull/4028#pullrequestreview-6035096729) - 2026-11-24
+* [Review] [Review on: feat(tests): test request system calls to a delegated or empty contract](https://github.com/ethereum/execution-specs/pull/4029#pullrequestreview-6034841773) - 2026-11-24
+* [Review] [Review on: feat(tests): delete and insert under one branch without resolving the sibling](https://github.com/ethereum/execution-specs/pull/4030#pullrequestreview-6018708316) - 2026-11-23
 ## Q3 2026
 
 
