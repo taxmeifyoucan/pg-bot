@@ -52,6 +52,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [feat(tests): port hive's remaining reorg.go scenarios (#4032)](https://github.com/ethereum/execution-specs/commit/391d8a05d5cb182542ac7e7330c858b6ee03f990) - 2026-11-20
 * [Review] [Review on: fix(test-consume): retry transaction lookups while the client is still indexing](https://github.com/ethereum/execution-specs/pull/4038#pullrequestreview-6008868234) - 2026-11-21
 * [Pull Request] [fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors](https://github.com/ethereum/execution-specs/pull/4049) - 2026-11-21
+* [Review] [Review on: fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors](https://github.com/ethereum/execution-specs/pull/4049#pullrequestreview-6042728611) - 2026-11-24
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15

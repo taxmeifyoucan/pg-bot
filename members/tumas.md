@@ -85,6 +85,8 @@ Team: Grandine
 * [Commit] [Reject out-of-range epochs in state randao endpoint](https://github.com/grandinetech/grandine/commit/b97f6f42e00e967ede43832a474042b6ff98b8cb) - 2026-11-23
 * [Commit] [Find block header children after empty slots](https://github.com/grandinetech/grandine/commit/23bc5a22853a904b001bd96cb67e659a35d9578e) - 2026-11-23
 * [Commit] [Use fork-specific rules in expected withdrawals endpoint](https://github.com/grandinetech/grandine/commit/d08c3a5fb39295f14f53f84f4858e4804ab64053) - 2026-11-23
+* [Review] [Review on: Modify default hierarchy config](https://github.com/grandinetech/grandine/pull/1069#pullrequestreview-6043123932) - 2026-11-24
+* [Commit] [Skip parallel key aggregation for single-key triples](https://github.com/grandinetech/grandine/commit/8c2efba68142e9ec20e57c86e978c8693447a7b6) - 2026-11-24
 ## Q3 2026
 
 

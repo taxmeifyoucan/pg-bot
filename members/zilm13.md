@@ -89,6 +89,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Implement `/eth/v1/beacon/states/{state_id}/ptc`](https://github.com/Consensys-Incorporated/teku/pull/11632#pullrequestreview-6025416310) - 2026-11-23
 * [Review] [Review on:  Remove `GetExecutionPayloadBid` and stop advertising 406 responses](https://github.com/Consensys-Incorporated/teku/pull/11716#pullrequestreview-6028177096) - 2026-11-23
 * [Pull Request] [Fix getBlobs: return blobs in correct order, all the blobs for duplicate blobs w/o filter](https://github.com/Consensys-Incorporated/teku/pull/11717) - 2026-11-23
+* [Review] [Review on: Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid](https://github.com/Consensys-Incorporated/teku/pull/11728#pullrequestreview-6042933260) - 2026-11-24
+* [Pull Request] [FCR: allow users to set custom beta](https://github.com/Consensys-Incorporated/teku/pull/11730) - 2026-11-24
+* [Review] [Review on: Return ssz for payload attestation pool response](https://github.com/Consensys-Incorporated/teku/pull/11718#pullrequestreview-6042717453) - 2026-11-24
 ## Q3 2026
 
 

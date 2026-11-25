@@ -272,6 +272,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Track a transaction's state in a journal on EVM v2](https://github.com/besu-eth/besu/pull/11754) - 2026-11-23
 * [Commit] [Fix storage clears and re-created accounts in the JOURNALED world updater (#11811)](https://github.com/besu-eth/besu/commit/2379006d983e8f2cdd446d08556cd4b0c125768c) - 2026-11-23
 * [Commit] [Track a transaction's state in a journal on EVM v2 (#11754)](https://github.com/besu-eth/besu/commit/ab3ee3534957057c371b1c5cfce323d36f08d977) - 2026-11-23
+* [Review] [Review on: [4/5] snap/2 sorted ingest: write the downloaded accounts and slots as sorted files](https://github.com/besu-eth/besu/pull/11855#pullrequestreview-6037172699) - 2026-11-24
+* [Review] [Review on: Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809#pullrequestreview-6045705437) - 2026-11-24
+* [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-6046340290) - 2026-11-24
+* [Pull Request] [Run a block sequentially while the block import tracer is enabled](https://github.com/besu-eth/besu/pull/12042) - 2026-11-24
+* [Review] [Review on: Do not follow EIP-7702 delegation designators before Prague](https://github.com/besu-eth/besu/pull/12003#pullrequestreview-6038023236) - 2026-11-24
+* [Review] [Review on: Run forkchoiceUpdated on the current head without waiting for newPayload](https://github.com/besu-eth/besu/pull/11954#pullrequestreview-6038965431) - 2026-11-24
+* [Review] [Review on: Sync with SNAP when SNAP2 starts before Amsterdam](https://github.com/besu-eth/besu/pull/11983#pullrequestreview-6036679568) - 2026-11-24
+* [Commit] [Fix Forest snap sync losing trie nodes (#12016)](https://github.com/besu-eth/besu/commit/6a3ae88e0a265c0a6e904d72222d4cbb98b676bc) - 2026-11-25
+* [Commit] [Share the EVM v2 stacks of frames deeper than the per-thread cache (#11871)](https://github.com/besu-eth/besu/commit/f6d8dd619265d809e67b7616845ccc907343bc7c) - 2026-11-24
+* [Commit] [Run forkchoiceUpdated without waiting for newPayload once its blocks are stored (#11954)](https://github.com/besu-eth/besu/commit/53df215a60cde71d7d7093a5d3db6a93332f8e4f) - 2026-11-24
+* [Commit] [Read operand signs before dividing in SDIV and SMOD (s293)](https://github.com/besu-eth/besu/commit/9985125563357d2bfa6c97a85c6075cb7a72ae44) - 2026-11-24
+* [Commit] [Reset the world state when a block runs over its gas budget (s280)](https://github.com/besu-eth/besu/commit/048916fbecd1d311440138008716b9f0cd4fe434) - 2026-11-24
+* [Commit] [Sync with SNAP when SNAP2 starts before Amsterdam (#11983)](https://github.com/besu-eth/besu/commit/6432c7f93178cb8927cc8af19a00d608b4114876) - 2026-11-24
+* [Commit] [Add a CHANGELOG entry for the block replay fix in #11754 (#12034)](https://github.com/besu-eth/besu/commit/168a6e64e6a6de3a0e9ab420e63e5ecc5b7b31f7) - 2026-11-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

@@ -79,6 +79,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Support ere in make states script (#5191)](https://github.com/status-im/nimbus-eth1/commit/d578c04c7c4046681a1ac761895a4b545aa875b4) - 2026-11-21
 * [Pull Request] [Bal prefetch thread pool](https://github.com/status-im/nimbus-eth1/pull/5216) - 2026-11-23
 * [Review] [Review on: Move process block parallel code into separate module](https://github.com/status-im/nimbus-eth1/pull/4450#pullrequestreview-6021345209) - 2026-11-23
+* [Commit] [BAL prefetch thread pool (#5216)](https://github.com/status-im/nimbus-eth1/commit/79e3e38d5f5435e393a434d81b165f0b52a7be2a) - 2026-11-24
 ## Q3 2026
 
 

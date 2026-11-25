@@ -29,6 +29,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619) - 2026-11-18
 * [Pull Request] [Move new `beacon_node` tests to Spec](https://github.com/sigp/lighthouse/pull/10618) - 2026-11-18
 * [Review] [Review on: Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619#pullrequestreview-6021551982) - 2026-11-23
+* [Pull Request] [Select network preset at compile time](https://github.com/sigp/lighthouse/pull/10648) - 2026-11-24
 ## Q3 2026
 
 

@@ -36,6 +36,7 @@ Team: Erigon
 * [Pull Request] [db/kv/membatchwithdb: arena-allocate membatch keys/values](https://github.com/erigontech/erigon/pull/26661) - 2026-11-21
 * [Commit] [execution: remove dead/redundant materialized finalize machinery (#26657)](https://github.com/erigontech/erigon/commit/edee460229d424f6844cd4795ebe47797dfaf880) - 2026-11-24
 * [Commit] [execution/state: make the versioned write paths stateObject-free (CreateAccount, SetCode, SetIncarnation, TouchAccount, SetStorage) (#26626)](https://github.com/erigontech/erigon/commit/e2ef25a30570256fc69b1d54649d02dc3e07a267) - 2026-11-23
+* [Commit] [execution/state: delete the materialized stateObject type (#26658)](https://github.com/erigontech/erigon/commit/4b6c6fcbdee0646dd25865b9f0479b6653f2adf1) - 2026-11-24
 ## Q3 2026
 
 

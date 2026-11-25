@@ -25,6 +25,9 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Review] [Review on: ✨ feat(test-types): P256 signing utility](https://github.com/ethereum/execution-specs/pull/3961#pullrequestreview-5860059372) - 2026-11-11
 * [Review] [Review on: feat(spec-specs): add EIP-8141 LEANSPHINCS signature scheme from ethereum/EIPs#12616](https://github.com/ethereum/execution-specs/pull/3957#pullrequestreview-5889085072) - 2026-11-13
 * [Commit] [✨ feat(test-types): P256 signing utility (#3961)](https://github.com/ethereum/execution-specs/commit/96e1827c1d8d63127589399e0903cc7b063ab606) - 2026-11-16
+* [Commit] [✨ feat: Extend expiry flag coverage (#3954)](https://github.com/ethereum/execution-specs/commit/2dd45b2c1924e14b28ea3e052a42e4b6c3c36373) - 2026-11-24
+* [Commit] [✨ feat(tests): EIP-8141 extend secp r coverage (#3956)](https://github.com/ethereum/execution-specs/commit/d172a79c12ebb17d6db2edfd1bedac6e3ec51033) - 2026-11-24
+* [Commit] [🧹 chore(tests): Remove duplicate frame tx coverage (#3946)](https://github.com/ethereum/execution-specs/commit/1a54cfb4b0616e1571ad4e8fe7bae7b970488723) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/commit/d02998e877c6589597f887df324d550a8e07389a) - 2026-10-22
 

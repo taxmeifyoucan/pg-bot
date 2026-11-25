@@ -19,6 +19,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [Update EIP-8159: Match EIP-7928 BAL storage types](https://github.com/ethereum/EIPs/commit/59d4019f121a26f9efbd6b0bfc9c3b9fc0815855) - 2026-10-02
 * [Pull Request] [Update EIP-8131: count content by encoded size, cover frames](https://github.com/ethereum/EIPs/pull/12503) - 2026-10-14
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5589444618) - 2026-10-20
+* [Review] [Review on: Update EIP-7928: state per-index netting for withdrawals and system calls](https://github.com/ethereum/EIPs/pull/12711#pullrequestreview-6043634913) - 2026-11-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380765838) - 2026-10-01
 * [Pull Request] [fix(test-specs): keep a failing block's fixture to one defect](https://github.com/ethereum/execution-specs/pull/3698) - 2026-10-02
@@ -97,6 +98,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [feat(test-specs): check chain invariants while filling (#3982)](https://github.com/ethereum/execution-specs/commit/d15ecf40062fcfe20d23b7b5ff1c078bcbe251c3) - 2026-11-16
 * [Pull Request] [feat(spec-tests): add a Hypothesis property suite for the spec](https://github.com/ethereum/execution-specs/pull/4043) - 2026-11-20
 * [Review] [Review on: feat(spec-tests): add a Hypothesis property suite for the spec](https://github.com/ethereum/execution-specs/pull/4043#pullrequestreview-5999830522) - 2026-11-20
+* [Commit] [feat(tests): 8141 approval edge cases (#3801)](https://github.com/ethereum/execution-specs/commit/6bbb4458a5a6e4f91de4555657b969798ec7d44b) - 2026-11-24
+* [Commit] [docs(spec-specs): keep the forks/bogota fork docstring](https://github.com/ethereum/execution-specs/commit/871f3075becdc8af74e4d81c5d84ef9212d49cd2) - 2026-11-24
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

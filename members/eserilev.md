@@ -63,6 +63,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fix poisoning attack on validator pubkey cache](https://github.com/sigp/lighthouse/pull/10569#pullrequestreview-5910939496) - 2026-11-15
 * [Review] [Review on: Fix redb backend bugs](https://github.com/sigp/lighthouse/pull/10566#pullrequestreview-6033923435) - 2026-11-24
 * [Pull Request] [Ignore attestations that vote for a block from a later epoch](https://github.com/sigp/lighthouse/pull/10644) - 2026-11-24
+* [Review] [Review on: Shut down when failing to persist the payload](https://github.com/sigp/lighthouse/pull/10628#pullrequestreview-6052374374) - 2026-11-25
+* [Review] [Review on: Don't penalize custody backfill peers for withheld Gloas payloads](https://github.com/sigp/lighthouse/pull/10510#pullrequestreview-6052190117) - 2026-11-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

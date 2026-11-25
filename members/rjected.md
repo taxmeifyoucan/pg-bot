@@ -35,6 +35,8 @@ Team: Reth
 * [Review] [Review on: fix(txpool): run blob replacement overdraft check for head replacements](https://github.com/paradigmxyz/reth/pull/28356#pullrequestreview-5845476140) - 2026-11-10
 * [Review] [Review on: perf(rpc): serialize block access lists once](https://github.com/paradigmxyz/reth/pull/28498#pullrequestreview-5882113564) - 2026-11-12
 * [Pull Request] [ci(evm2): unlock conflicting pins when bumping evm2](https://github.com/paradigmxyz/reth/pull/28695) - 2026-11-24
+* [Pull Request] [ci(evm2): run bump job clippy on CI's nightly toolchain](https://github.com/paradigmxyz/reth/pull/28727) - 2026-11-25
+* [Commit] [ci(evm2): unlock conflicting pins when bumping evm2 (#28695)](https://github.com/paradigmxyz/reth/commit/26d9d4cfdf5fdd1f0b1e6cef8bc3b69f02768539) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Dan Cline](https://github.com/protocolguild/documentation/pull/564) - 2026-10-06
 ## Q3 2026

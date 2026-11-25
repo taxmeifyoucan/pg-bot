@@ -469,6 +469,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: include partially covered attester slashings in produced blocks (#10719)](https://github.com/ChainSafe/lodestar/commit/0f379f3b2208ef19bb1af2933662f008b1e5e496) - 2026-11-23
 * [Commit] [chore!: remove deprecated fork aliases and unused exports (#10705)](https://github.com/ChainSafe/lodestar/commit/678e11f6262912dc208af85ea8aab9895c4f10a2) - 2026-11-23
 * [Commit] [fix: only count current slot payload attestation messages in fork choice (#10721)](https://github.com/ChainSafe/lodestar/commit/c8fc3bc8e4ec75c3e8d2aab3e202bfdbd502d607) - 2026-11-23
+* [Pull Request] [fix: upgrade js-libp2p to 3.5.2](https://github.com/ChainSafe/lodestar/pull/10768) - 2026-11-24
+* [Pull Request] [fix: download all sampled columns of blocks synced by root](https://github.com/ChainSafe/lodestar/pull/10765) - 2026-11-24
+* [Review] [Review on: fix: download all sampled columns of blocks synced by root](https://github.com/ChainSafe/lodestar/pull/10765#pullrequestreview-6045822580) - 2026-11-24
+* [Pull Request] [fix: penalize peers serving invalid payloads by root](https://github.com/ChainSafe/lodestar/pull/10771) - 2026-11-24
+* [Pull Request] [fix: keep block input cached when gossip import gives up on missing data](https://github.com/ChainSafe/lodestar/pull/10770) - 2026-11-24
+* [Pull Request] [fix: check early data columns against the bid of their seen block](https://github.com/ChainSafe/lodestar/pull/10767) - 2026-11-24
+* [Review] [Review on: fix: check early data columns against the bid of their seen block](https://github.com/ChainSafe/lodestar/pull/10767#pullrequestreview-6045854796) - 2026-11-24
+* [Pull Request] [fix: improve buffering of execution payload envelopes received before their block](https://github.com/ChainSafe/lodestar/pull/10761) - 2026-11-24
+* [Review] [Review on: fix: improve buffering of execution payload envelopes received before their block](https://github.com/ChainSafe/lodestar/pull/10761#pullrequestreview-6037359593) - 2026-11-24
+* [Pull Request] [chore: v2.0.0 release](https://github.com/ChainSafe/lodestar/pull/10766) - 2026-11-24
+* [Review] [Review on: fix: validate every fork choice node carrying a now-valid payload](https://github.com/ChainSafe/lodestar/pull/10660#pullrequestreview-6042555133) - 2026-11-24
+* [Review] [Review on: fix: batch verify builder bid signature in blocks](https://github.com/ChainSafe/lodestar/pull/10759#pullrequestreview-6037777449) - 2026-11-24
+* [Pull Request] [test: run envelope gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/10764) - 2026-11-24
+* [Review] [Review on: test: run envelope gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/10764#pullrequestreview-6039757087) - 2026-11-24
+* [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-6039205090) - 2026-11-24
+* [Review] [Review on: chore: bump @chainsafe/libp2p-quic to 2.1.6](https://github.com/ChainSafe/lodestar/pull/10754#pullrequestreview-6037452076) - 2026-11-24
+* [Commit] [fix: upgrade js-libp2p to 3.5.2 (#10768)](https://github.com/ChainSafe/lodestar/commit/03eb33e6f132af2ba5a7ec6bcfa34f1577bb9a7e) - 2026-11-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -502,6 +519,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Deploy website in a separate job (#5853)](https://github.com/ethereum/consensus-specs/commit/d2021d2719235f0df4726a1d330502cb15aa8ea3) - 2026-11-23
 * [Commit] [Extend Gloas optimistic sync in Heze (#5852)](https://github.com/ethereum/consensus-specs/commit/3a6611beab958d74dda3330351b01cc1dbcf748b) - 2026-11-22
 * [Commit] [Add optimistic sync spec for Gloas (#5781)](https://github.com/ethereum/consensus-specs/commit/d6b8a2fdd10513ee12bdbb78104b36ac1dc6989c) - 2026-11-22
+* [Pull Request] [Use valid signatures in envelope gossip mismatch tests](https://github.com/ethereum/consensus-specs/pull/5861) - 2026-11-24
+* [Review] [Review on: Remove unreachable slot 0 check in `notify_ptc_messages`](https://github.com/ethereum/consensus-specs/pull/5860#pullrequestreview-6037112683) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

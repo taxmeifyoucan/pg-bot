@@ -62,11 +62,18 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8279: Align with Glamsterdam, refresh impact data](https://github.com/ethereum/EIPs/commit/b4b2ac745e77291d7b47d45665d4e016ab58d31e) - 2026-11-21
 * [Commit] [Update EIP-8131: Align with Glamsterdam, price auths at 133 bytes](https://github.com/ethereum/EIPs/commit/86aa2c4fb273851499e174f8d6652f3fadc04404) - 2026-11-21
 * [Pull Request] [Update EIP-8279: Meter deposit request bytes](https://github.com/ethereum/EIPs/pull/12686) - 2026-11-22
+* [Review] [Review on: Update EIP-7928: state per-index netting for withdrawals and system calls](https://github.com/ethereum/EIPs/pull/12711#pullrequestreview-6052126741) - 2026-11-25
+* [Review] [Review on: Update EIP-7778: remove the contradictory restore-to-original discount example](https://github.com/ethereum/EIPs/pull/12625#pullrequestreview-6052000943) - 2026-11-25
+* [Commit] [Update EIP-8288: move the recursive STARK into the execution payload](https://github.com/ethereum/EIPs/commit/d27448e08f60513856bbe228ea7ce04f156209dc) - 2026-11-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(test-benchmark): Add worst-case `SSTORE` test (#2757)](https://github.com/ethereum/execution-specs/commit/46a9855d8e00d1b93c0eb58076dc6ebae0ac0861) - 2026-10-12
 * [Pull Request] [feat(tests): add a deployed-idiom invariant corpus](https://github.com/ethereum/execution-specs/pull/3948) - 2026-11-01
 * [Pull Request] [feat(spec-specs): EIP-8279 block access list byte floor](https://github.com/ethereum/execution-specs/pull/4047) - 2026-11-21
 * [Pull Request] [feat(spec-specs): EIP-8131 unified transaction content floor](https://github.com/ethereum/execution-specs/pull/4046) - 2026-11-21
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [beacon/engine: size tx-decode workers by bytes as well as count](https://github.com/ethereum/go-ethereum/pull/36215) - 2026-11-24
+* [Review] [Review on: beacon/engine: size tx-decode workers by bytes as well as count](https://github.com/ethereum/go-ethereum/pull/36215#pullrequestreview-6040511541) - 2026-11-24
 ## Q3 2026
 
 

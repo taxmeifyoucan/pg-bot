@@ -131,6 +131,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): merge vm* dispatcher tests and drop the 0xCCCC dispatcher](https://github.com/ethereum/execution-specs/pull/3998#pullrequestreview-5937989106) - 2026-11-17
 * [Review] [Review on: refactor(tests): drop pre_alloc_mutable from stRandom tests](https://github.com/ethereum/execution-specs/pull/3999#pullrequestreview-5937989902) - 2026-11-17
 * [Review] [Review on: feat(doc): add edit and view source buttons to the docs pages](https://github.com/ethereum/execution-specs/pull/3978#pullrequestreview-5979074037) - 2026-11-19
+* [Commit] [fix(test-specs): take the frame variant's tip above the fill's default base fee](https://github.com/ethereum/execution-specs/commit/6e1648ad110c6e00784616d6791d540e188d22b6) - 2026-11-24
+* [Commit] [feat(spec-specs,test-specs,test-types,tests): apply the EIP-8141 changes for `bogota-devnet-2` (#3892)](https://github.com/ethereum/execution-specs/commit/6d7d615e7d08b080e0873cd6284a81277dcb32c8) - 2026-11-24
+* [Commit] [refactor(tests): bind the EIP-8141 calldata floor settlement tests by the minimum data (#3784)](https://github.com/ethereum/execution-specs/commit/749f4651b37367098cafbb0d14fd974be5528239) - 2026-11-24
+* [Commit] [chore(tests): repin EIP-8141 to ethereum/EIPs@af3a780 (#3774)](https://github.com/ethereum/execution-specs/commit/0bb0f6b9ee4e9beebdc9e134692196b22e7928a3) - 2026-11-24
+* [Commit] [refactor(spec-specs,tests): name the EIP-8141 parameter selectors (#3754)](https://github.com/ethereum/execution-specs/commit/ca412d992c63adcb2c1f3768bac30cf56dc598f9) - 2026-11-24
+* [Commit] [refactor(test-forks,test-specs): remove the unused activation code install hook (#3735)](https://github.com/ethereum/execution-specs/commit/16db671ba3df81f3241b484943ee6a6851064738) - 2026-11-24
+* [Commit] [docs(test-vm): label the frame opcodes as Bogota](https://github.com/ethereum/execution-specs/commit/07ffe3446b6693d975b5d3c670218309d1f3e1f2) - 2026-11-24
+* [Commit] [test(tests): mark the created-coinbase priority-fee test frame-incompatible](https://github.com/ethereum/execution-specs/commit/f29afc0ec5bb919eac1407593fc21354703e825a) - 2026-11-24
+* [Commit] [refactor(spec-specs,test-forks,tests): move EIP-8141 onto the Bogota fork module](https://github.com/ethereum/execution-specs/commit/fda1837f4972ec86c2e290dfa4c985720cb6293d) - 2026-11-24
+* [Commit] [test(tests): mark the blob-fee burn test frame-incompatible](https://github.com/ethereum/execution-specs/commit/8d07181b6b7fbf5189b99f53f08813f4a37bc4b5) - 2026-11-24
+* [Commit] [fix(specs,tests): adapt frame transactions to current Amsterdam gas limits](https://github.com/ethereum/execution-specs/commit/716541af263c06d11f710f8c717a4dc176e2797a) - 2026-11-24
+* [Commit] [feat(ci): split the devnet release fill across fork ranges through Bogota (#3418)](https://github.com/ethereum/execution-specs/commit/cad9b20566afb532b0b44eaa342ca968e7815428) - 2026-11-24
+* [Commit] [feat(ci): fill the frames devnet release at the Bogota pseudo-fork](https://github.com/ethereum/execution-specs/commit/d969ac920810075601a76153a72c603aeb5641d0) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

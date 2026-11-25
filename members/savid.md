@@ -34,6 +34,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [perf(server): stop filters, sorts and counts from scanning whole tables](https://github.com/ethpandaops/tracoor/pull/75) - 2026-11-23
+* [Pull Request] [perf(server): give the blob collector's candidate scan a partial index](https://github.com/ethpandaops/tracoor/pull/76) - 2026-11-25
+* [Commit] [perf(server): give the blob collector's candidate scan a partial index (#76)](https://github.com/ethpandaops/tracoor/commit/22b62f53d8871a343bbffe9c880b223226fa9ba7) - 2026-11-25
+* [Commit] [perf(server): stop filters, sorts and counts from scanning whole tables (#75)](https://github.com/ethpandaops/tracoor/commit/4cf4af4e74fd364b0e38774bba104c071b10369c) - 2026-11-24
 ## Q3 2026
 
 

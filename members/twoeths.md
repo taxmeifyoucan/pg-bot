@@ -135,6 +135,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: bump @chainsafe/libp2p-quic to 2.1.6](https://github.com/ChainSafe/lodestar/pull/10754#pullrequestreview-6033276037) - 2026-11-24
 * [Pull Request] [feat: implement regen binding](https://github.com/ChainSafe/lodestar/pull/10739) - 2026-11-23
 * [Review] [Review on: fix: verify proposer signature of blocks downloaded by root](https://github.com/ChainSafe/lodestar/pull/10724#pullrequestreview-6020199023) - 2026-11-23
+* [Review] [Review on: fix: refresh the native fork choice head after importing an execution payload](https://github.com/ChainSafe/lodestar/pull/10757#pullrequestreview-6037567873) - 2026-11-24
+* [Issue] [Range sync stuck forever on epochs with 0 blocks (pq-devnet-0)](https://github.com/ChainSafe/lodestar/issues/10772) - 2026-11-25
+* [Commit] [fix: validate every fork choice node carrying a now-valid payload (#10660)](https://github.com/ChainSafe/lodestar/commit/dc17dafff7ad94444d01e4413ee821a2b69ae6f1) - 2026-11-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

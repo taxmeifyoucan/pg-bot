@@ -37,6 +37,10 @@ Team: Reth
 * [Commit] [feat(storage): add DurableBlockReader::last_durable_block_num_hash (#28584)](https://github.com/paradigmxyz/reth/commit/6af8cdc53cd5b5f603aca2e2a79dc9d1707d3b57) - 2026-11-18
 * [Review] [Review on: feat: introduce concurrency primitives](https://github.com/paradigmxyz/reth/pull/28620#pullrequestreview-5992524000) - 2026-11-20
 * [Pull Request] [fix(exex): fail when blockchain tree notifications lag](https://github.com/paradigmxyz/reth/pull/28630) - 2026-11-20
+* [Pull Request] [ci: run doctests without fuzz](https://github.com/paradigmxyz/reth/pull/28718) - 2026-11-24
+* [Pull Request] [fix: use selected FastInstant in trie and cache](https://github.com/paradigmxyz/reth/pull/28716) - 2026-11-24
+* [Pull Request] [test: run trie proptests with reth_concurrency::test](https://github.com/paradigmxyz/reth/pull/28711) - 2026-11-24
+* [Commit] [test: run trie proptests with reth_concurrency::test (#28711)](https://github.com/paradigmxyz/reth/commit/f2b83e44ea5b0b05daf1bd7b50b21134254fdc37) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

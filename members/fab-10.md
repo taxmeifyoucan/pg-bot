@@ -140,6 +140,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Compare the full released Plugin API, including datatypes, in the compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-5991216182) - 2026-11-20
 * [Review] [Review on: Compare the full released Plugin API, including datatypes, in the compatibility check](https://github.com/besu-eth/besu/pull/11963#pullrequestreview-6023641717) - 2026-11-23
 * [Commit] [Add OSS Scanner resources (#11959)](https://github.com/besu-eth/besu/commit/933b238f9533e2776e5372573f6a37748a447dba) - 2026-11-23
+* [Pull Request] [Reconcile CHANGELOG after 26.11.2 release](https://github.com/besu-eth/besu/pull/12039) - 2026-11-24
+* [Pull Request] [Stop EVM execution on cancellation with a near-zero-cost kill switch](https://github.com/besu-eth/besu/pull/12040) - 2026-11-24
+* [Review] [Review on: Run forkchoiceUpdated on the current head without waiting for newPayload](https://github.com/besu-eth/besu/pull/11954#pullrequestreview-6038259499) - 2026-11-24
+* [Issue] [QBFT/IBFT chain with non-zero blockreward halts at Amsterdam: block reward is credited outside the block access list](https://github.com/besu-eth/besu/issues/12041) - 2026-11-24
+* [Commit] [Reconcile CHANGELOG after 26.11.2 release (#12039)](https://github.com/besu-eth/besu/commit/2877298dda3470bcce69858be9fd7ec580540c67) - 2026-11-24
+* [Commit] [Keep IP-literal enodes as literals when DNS update is enabled (s289)](https://github.com/besu-eth/besu/commit/a4a4805c8ba3f29e4b7a56488ff1bae39cdea62e) - 2026-11-24
+* [Commit] [Reset a reused peer slot without scanning the transaction-seen map (s85) (s281)](https://github.com/besu-eth/besu/commit/e15e2ce793eb3ae987b07c458a1a0a34d10a9fb2) - 2026-11-24
+* [Commit] [Replace the permissioning allowlist file atomically, under a lock shared by both allowlists (s252)](https://github.com/besu-eth/besu/commit/978623be0bc62d1110e540a5946696dea3cf1a99) - 2026-11-24
+* [Commit] [Compare each linked DNS discovery tree with its own sequence number (s250)](https://github.com/besu-eth/besu/commit/166e161c10bf1505267e9eefa7d4545e3bd9da47) - 2026-11-24
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

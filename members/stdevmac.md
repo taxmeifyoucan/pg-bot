@@ -674,6 +674,45 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [Open WebSocket clients delay node shutdown by ~60 s](https://github.com/NethermindEth/nethermind/issues/16184) - 2026-11-20
 * [Issue] [Header sync can block sync mode selection when PrepareRequest loops on a dependency that cannot connect](https://github.com/NethermindEth/nethermind/issues/16291) - 2026-11-23
 * [Issue] [Flat state: read-only scopes keep payload-build trie nodes in the shared node record buffer](https://github.com/NethermindEth/nethermind/issues/16290) - 2026-11-23
+* [Review] [Review on: fix(light-client): improve peer recovery and bulk downloads](https://github.com/NethermindEth/nethermind/pull/16311#pullrequestreview-6050978450) - 2026-11-25
+* [Review] [Review on: fix(taiko): enforce block-production rules only when all producing flags are set](https://github.com/NethermindEth/nethermind/pull/16347#pullrequestreview-6050490395) - 2026-11-25
+* [Review] [Review on: refactor(evm)!: let the virtual machine flush its own execution metrics](https://github.com/NethermindEth/nethermind/pull/16349#pullrequestreview-6050491861) - 2026-11-25
+* [Review] [Review on: refactor(facade)!: remove unused IBlockchainBridge members](https://github.com/NethermindEth/nethermind/pull/16361#pullrequestreview-6050352998) - 2026-11-25
+* [Review] [Review on: refactor(init)!: register the block producer and runner in the container](https://github.com/NethermindEth/nethermind/pull/16363#pullrequestreview-6050363590) - 2026-11-25
+* [Review] [Review on: refactor(consensus)!: remove IsBalReadWarmingEnabled from IBlockCachePreWarmer](https://github.com/NethermindEth/nethermind/pull/16371#pullrequestreview-6050214907) - 2026-11-25
+* [Review] [Review on: refactor(consensus)!: remove IWithdrawalValidator from IBlockValidator](https://github.com/NethermindEth/nethermind/pull/16372#pullrequestreview-6050185720) - 2026-11-25
+* [Review] [Review on: fix(rpc): return errors from logIndex_blockNumbers instead of failing serialization](https://github.com/NethermindEth/nethermind/pull/16209#pullrequestreview-6051969203) - 2026-11-25
+* [Review] [Review on: fix(rpc): reject logIndex_blockNumbers while the log index has no usable range](https://github.com/NethermindEth/nethermind/pull/16229#pullrequestreview-6051970473) - 2026-11-25
+* [Review] [Review on: fix(rpc): close open WebSocket connections at shutdown](https://github.com/NethermindEth/nethermind/pull/16214#pullrequestreview-6051835402) - 2026-11-25
+* [Review] [Review on: fix(sync): stop PrepareRequest looping on a header dependency that cannot connect](https://github.com/NethermindEth/nethermind/pull/16244#pullrequestreview-6051783568) - 2026-11-25
+* [Review] [Review on: fix(specs): read unprefixed geth genesis storage keys as hex](https://github.com/NethermindEth/nethermind/pull/16212#pullrequestreview-6051748631) - 2026-11-25
+* [Review] [Review on: fix(network): enable snappy before any disconnect after a p2p v5 hello](https://github.com/NethermindEth/nethermind/pull/16163#pullrequestreview-6051638968) - 2026-11-25
+* [Review] [Review on: fix(rpc): don't warn per request for rejected raw transactions](https://github.com/NethermindEth/nethermind/pull/16224#pullrequestreview-6050610833) - 2026-11-25
+* [Review] [Review on: fix(aura): skip the legacy finalization scan on post-merge heads](https://github.com/NethermindEth/nethermind/pull/16221#pullrequestreview-6051447519) - 2026-11-25
+* [Review] [Review on: refactor(shutter)!: remove plugin and unused support code](https://github.com/NethermindEth/nethermind/pull/15345#pullrequestreview-6051375452) - 2026-11-25
+* [Review] [Review on: fix(bal): count block access list items before decoding the payload list](https://github.com/NethermindEth/nethermind/pull/16269#pullrequestreview-6051165081) - 2026-11-25
+* [Review] [Review on: refactor(network)!: move discovery dependencies out of Nethermind.Network to slim the bootnode](https://github.com/NethermindEth/nethermind/pull/16166#pullrequestreview-6051229144) - 2026-11-25
+* [Review] [Review on: fix(optimism): use the L1 blob fee update fraction in force at the L1 origin](https://github.com/NethermindEth/nethermind/pull/16267#pullrequestreview-6051172315) - 2026-11-25
+* [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6051149021) - 2026-11-25
+* [Review] [Review on: fix(logindex): keep legacy indexes instead of rebuilding them](https://github.com/NethermindEth/nethermind/pull/16293#pullrequestreview-6051061034) - 2026-11-25
+* [Review] [Review on: ci: narrow the review workflow tool permissions](https://github.com/NethermindEth/nethermind/pull/16280#pullrequestreview-6051059858) - 2026-11-25
+* [Review] [Review on: refactor(beacon-chain): bind Beacon API endpoints to attribute-routed services](https://github.com/NethermindEth/nethermind/pull/16306#pullrequestreview-6051047388) - 2026-11-25
+* [Review] [Review on: feat(ssz): generate RefReader views and read stored beacon blocks through them](https://github.com/NethermindEth/nethermind/pull/16307#pullrequestreview-6051022079) - 2026-11-25
+* [Review] [Review on: fix(sync): do not hint the Ethash cache for post-merge headers](https://github.com/NethermindEth/nethermind/pull/16296#pullrequestreview-6051020904) - 2026-11-25
+* [Review] [Review on: fix(evm): end the node when a precompile's native library cannot be used](https://github.com/NethermindEth/nethermind/pull/16297#pullrequestreview-6051009893) - 2026-11-25
+* [Review] [Review on: fix(zkevm): reuse each call depth's init code buffers in the guest](https://github.com/NethermindEth/nethermind/pull/16298#pullrequestreview-6050996536) - 2026-11-25
+* [Review] [Review on: fix(zkevm): abort the guest when it runs out of memory](https://github.com/NethermindEth/nethermind/pull/16300#pullrequestreview-6050972646) - 2026-11-25
+* [Review] [Review on: perf(beaconchain): keep one SHA-256 instance per thread](https://github.com/NethermindEth/nethermind/pull/16392#pullrequestreview-6050948612) - 2026-11-25
+* [Review] [Review on: fix(keystore): bound pbkdf2 work when reading a key file](https://github.com/NethermindEth/nethermind/pull/16312#pullrequestreview-6050947383) - 2026-11-25
+* [Review] [Review on: fix(light-client): extend verified state history to 128 blocks](https://github.com/NethermindEth/nethermind/pull/16309#pullrequestreview-6050922059) - 2026-11-25
+* [Review] [Review on: fix(light-client): use the authenticated head for pending EVM calls](https://github.com/NethermindEth/nethermind/pull/16310#pullrequestreview-6050917201) - 2026-11-25
+* [Commit] [fix(aura): skip contract data refreshes of superseded heads (#16222)](https://github.com/NethermindEth/nethermind/commit/d66e4d784a8a137bc036f5bf2da9f96ee297aab9) - 2026-11-25
+* [Commit] [fix(optimism): keep OptimismBlockProcessor in tracing environments (#16231)](https://github.com/NethermindEth/nethermind/commit/cc400e4c5a1ba44b31cfa0fe35cdd7d106ec724f) - 2026-11-25
+* [Commit] [fix(config): resolve debug_getConfigValue for short and full category names (#16220)](https://github.com/NethermindEth/nethermind/commit/79694c2279b43bb6a4ea22da7eae5d64d9052365) - 2026-11-25
+* [Commit] [fix(optimism): reject invalid raw transactions before forwarding them to the sequencer (#16206)](https://github.com/NethermindEth/nethermind/commit/3ba1d3acdda7c374ed57700ec71aa1b79a74daa3) - 2026-11-25
+* [Commit] [test(network): give each recreated eth handler its own session (#16228)](https://github.com/NethermindEth/nethermind/commit/23ba5a6e1cd0a3fd24348481dde8122bb915c0b8) - 2026-11-25
+* [Commit] [fix(runner): keep startup warmup blocks after a future genesis (#16213)](https://github.com/NethermindEth/nethermind/commit/29ecc3d94ce110b6efe2fb55805d9df84637fbaa) - 2026-11-25
+* [Commit] [fix(rpc): report caller errors with request error codes instead of internal error (#16205)](https://github.com/NethermindEth/nethermind/commit/a79ea396505a306cfe2307b194540bd2a026d080) - 2026-11-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

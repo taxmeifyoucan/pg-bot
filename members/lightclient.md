@@ -40,6 +40,7 @@ Team: Geth
 * [Pull Request] [Update EIP-7906: remove reference to txparam 0x06](https://github.com/ethereum/EIPs/pull/12576) - 2026-10-23
 * [Commit] [Update EIP-7906: remove reference to txparam 0x06](https://github.com/ethereum/EIPs/commit/25ac2920ea3a958911e380498bb7c8fbca201542) - 2026-10-23
 * [Pull Request] [Update EIP-8141: add lean sphincs](https://github.com/ethereum/EIPs/pull/12616) - 2026-11-04
+* [Pull Request] [Update EIP-8141: Add `PROOF` frame mode](https://github.com/ethereum/EIPs/pull/12714) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5382716899) - 2026-10-01
 
@@ -73,6 +74,9 @@ Team: Geth
 * [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5521806399) - 2026-10-14
 * [Review] [Review on: engine: add ethlambda (LA) to ClientCode list](https://github.com/ethereum/execution-apis/pull/922#pullrequestreview-5600400673) - 2026-10-21
 * [Review] [Review on: feat(trace): Parity trace methods and output schemas](https://github.com/ethereum/execution-apis/pull/895#pullrequestreview-5632275750) - 2026-10-23
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [fix(test-client-clis): map geth's frame transaction overflow errors (#3800)](https://github.com/ethereum/execution-specs/commit/c8d64bdfcc528f1cc2fe47e4bb1ec0fd2957c145) - 2026-11-24
 ## Q3 2026
 
 

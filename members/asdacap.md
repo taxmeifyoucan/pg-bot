@@ -123,6 +123,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(merge): await a per-copy verdict from the processing queue in newPayload](https://github.com/NethermindEth/nethermind/pull/16302) - 2026-11-24
 * [Review] [Review on: fix(sync): remove a mismatched flat trie node during healing, including inside an extension](https://github.com/NethermindEth/nethermind/pull/16247#pullrequestreview-6018369873) - 2026-11-23
 * [Commit] [fix(sync): remove a mismatched flat trie node during healing, including inside an extension (#16247)](https://github.com/NethermindEth/nethermind/commit/44048ab77a9aabcc8c3a886026411c4f593de53e) - 2026-11-24
+* [Pull Request] [perf(ssz): return the bytes written from Encode](https://github.com/NethermindEth/nethermind/pull/16395) - 2026-11-25
+* [Pull Request] [feat(beaconchain): run on a network given by its consensus config.yaml](https://github.com/NethermindEth/nethermind/pull/16376) - 2026-11-24
+* [Review] [Review on: fix(taiko): enforce block-production rules only when all producing flags are set](https://github.com/NethermindEth/nethermind/pull/16347#pullrequestreview-6052464676) - 2026-11-25
+* [Review] [Review on: refactor(evm)!: let the virtual machine flush its own execution metrics](https://github.com/NethermindEth/nethermind/pull/16349#pullrequestreview-6052461857) - 2026-11-25
+* [Review] [Review on: refactor(facade)!: remove unused IBlockchainBridge members](https://github.com/NethermindEth/nethermind/pull/16361#pullrequestreview-6052458047) - 2026-11-25
+* [Review] [Review on: refactor(init)!: register the block producer and runner in the container](https://github.com/NethermindEth/nethermind/pull/16363#pullrequestreview-6052455000) - 2026-11-25
+* [Review] [Review on: refactor(consensus)!: remove IsBalReadWarmingEnabled from IBlockCachePreWarmer](https://github.com/NethermindEth/nethermind/pull/16371#pullrequestreview-6052443107) - 2026-11-25
+* [Review] [Review on: refactor(consensus)!: remove IWithdrawalValidator from IBlockValidator](https://github.com/NethermindEth/nethermind/pull/16372#pullrequestreview-6052439052) - 2026-11-25
+* [Review] [Review on: refactor(beacon): route BLS signature checks through ISignatureVerifier](https://github.com/NethermindEth/nethermind/pull/16389#pullrequestreview-6052434896) - 2026-11-25
+* [Pull Request] [perf(beaconchain): keep one SHA-256 instance per thread](https://github.com/NethermindEth/nethermind/pull/16392) - 2026-11-25
+* [Commit] [fix(ssz): keep zero leaves for inactive progressive container fields (#16373)](https://github.com/NethermindEth/nethermind/commit/6bd8edc9103327bad344b07c5581635affab1cf5) - 2026-11-25
+* [Commit] [perf(flat): build snap sync ranges with the node record bulk set (#16162)](https://github.com/NethermindEth/nethermind/commit/3cee4e251edcc5c86f0294d09547aebda1730d12) - 2026-11-25
 ## Q3 2026
 
 

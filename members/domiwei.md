@@ -465,6 +465,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721#pullrequestreview-6033433067) - 2026-11-24
 * [Review] [Review on: [r3.8] cl/p2p: backport #26058](https://github.com/erigontech/erigon/pull/26708#pullrequestreview-6020976331) - 2026-11-23
 * [Commit] [cl/das: write reconstructed columns before the blob sidecars (#26672)](https://github.com/erigontech/erigon/commit/94a739c4048bb86e6ff5e5b9f6c56bcf1977e647) - 2026-11-24
+* [Review] [Review on: cl/beacon/handler: wait for the current slot's import before serving the head root](https://github.com/erigontech/erigon/pull/26787#pullrequestreview-6052594090) - 2026-11-25
+* [Pull Request] [cl/das: check every stored column before blob recovery uses it](https://github.com/erigontech/erigon/pull/26783) - 2026-11-24
+* [Pull Request] [cl/beacon/handler: strict blob selectors in commitment order](https://github.com/erigontech/erigon/pull/26775) - 2026-11-24
+* [Pull Request] [cl/blobfetch: fall back to the blobs endpoint before Gloas](https://github.com/erigontech/erigon/pull/26760) - 2026-11-24
+* [Pull Request] [cl/phase1/network/services: accept Fulu custody columns before storing them](https://github.com/erigontech/erigon/pull/26758) - 2026-11-24
+* [Review] [Review on: cl/phase1/network/services: apply the EIP-7045 epoch window to subnet attestations from Deneb](https://github.com/erigontech/erigon/pull/26754#pullrequestreview-6052657636) - 2026-11-25
+* [Review] [Review on: cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721#pullrequestreview-6044600218) - 2026-11-24
+* [Review] [Review on: cl/beacon/builder, cl/beacon/handler: verify the builder bid signature](https://github.com/erigontech/erigon/pull/26753#pullrequestreview-6052536116) - 2026-11-25
+* [Pull Request] [cl/das, cl/beacon/handler: build Fulu blobs from stored columns on request](https://github.com/erigontech/erigon/pull/26794) - 2026-11-25
+* [Commit] [cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg (#26682)](https://github.com/erigontech/erigon/commit/40a8f25b1f0260114d8e234cc9fd0cbafe1d6150) - 2026-11-24
+* [Commit] [cl/phase1/network/services: verify gossip aggregates on nodes without validators (#26713)](https://github.com/erigontech/erigon/commit/ac7c516c690db7bb9d01b5b98f3d8794af0ef980) - 2026-11-24
 ## Q3 2026
 
 

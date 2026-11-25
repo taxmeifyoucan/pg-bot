@@ -40,6 +40,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [fix voluntary exit API responses for ignored submissions (#11626)](https://github.com/Consensys-Incorporated/teku/commit/3ba9068cb745e1103d2064a6e37fcc657b2dcb3a) - 2026-11-12
 * [Commit] [limit validator client Beacon API response sizes (#11623)](https://github.com/Consensys-Incorporated/teku/commit/d09983421445732b784744d0f772cd7991c94e16) - 2026-11-13
 * [Review] [Review on: Reject execution payload envelopes for unrequested roots in by-root requests](https://github.com/Consensys-Incorporated/teku/pull/11662#pullrequestreview-5980442763) - 2026-11-19
+* [Review] [Review on: FCR: allow users to set custom beta](https://github.com/Consensys-Incorporated/teku/pull/11730#pullrequestreview-6045896547) - 2026-11-24
+* [Pull Request] [run cheap bid gossip checks before retrieving parent state](https://github.com/Consensys-Incorporated/teku/pull/11731) - 2026-11-24
+* [Review] [Review on: Update CHANGELOG after 26.11.0 release](https://github.com/Consensys-Incorporated/teku/pull/11729#pullrequestreview-6038400650) - 2026-11-24
 ## Q3 2026
 
 

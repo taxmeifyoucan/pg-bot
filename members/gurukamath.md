@@ -51,6 +51,16 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(spec-tools): resolve `--state.fork BPO4` to the bpo4 module](https://github.com/ethereum/execution-specs/pull/3951#pullrequestreview-5973163248) - 2026-11-19
 
 * [Review] [Review on: refactor(test-types,tests): signer abstraction and frame expectations in the framework.](https://github.com/ethereum/execution-specs/pull/4033#pullrequestreview-6022484719) - 2026-11-23
+* [Pull Request] [feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936) - 2026-11-24
+* [Commit] [refactor(test-types): sign P256 frames through `p256_sign`](https://github.com/ethereum/execution-specs/commit/c7bc42f299e16cd88e511147dee0df0629370910) - 2026-11-24
+* [Commit] [fix(spec-specs,test-types,tests): address EIP-8141 review comments](https://github.com/ethereum/execution-specs/commit/7d62a8f54b594c20a5e54390862d6a1f6cf50531) - 2026-11-24
+* [Commit] [fix(ci): expect the devnet release matrix to end at Bogota](https://github.com/ethereum/execution-specs/commit/279480af6a5b31d3fb7848e0fc4b0b461b957ee2) - 2026-11-24
+* [Commit] [fix(tests,test-client-clis,test-evm-tools): address the EIP-8141 merge review (#3901)](https://github.com/ethereum/execution-specs/commit/82c04f6cf8c7c1dccad387bc281401c9dd87f58c) - 2026-11-24
+* [Commit] [docs(specs,tests): track the EIP-8141 frame mode set-membership wording (#3739)](https://github.com/ethereum/execution-specs/commit/3a3456ce3c815fa5f7a01c66e7bec5544d2a5dd6) - 2026-11-24
+* [Commit] [feat(specs, tests): deploy the EIP-8141 expiry verifier as an ordinary contract (#3729)](https://github.com/ethereum/execution-specs/commit/ac0efb48cc9e9229926ac09daf32e952107cb5b0) - 2026-11-24
+* [Commit] [feat(tests): wrap earlier transaction types into frames where possible (#3500)](https://github.com/ethereum/execution-specs/commit/ecef69b76c1619792abe4ebfba85f6375d21526d) - 2026-11-24
+* [Commit] [feat(spec-specs,tests): charge a frame target's access at frame entry (#3412)](https://github.com/ethereum/execution-specs/commit/745aef2825637ffbd841d3feef35c5f9db6c5efb) - 2026-11-24
+* [Commit] [feat(specs,tests): update EIP-8141 implementation (#3396)](https://github.com/ethereum/execution-specs/commit/13ebecbdf3e3c2e0a01db3c5b7b53cc26e39c3a7) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8141: set code from the default code in SENDER mode](https://github.com/ethereum/EIPs/pull/12506#pullrequestreview-6020064054) - 2026-11-23
 ## Q3 2026

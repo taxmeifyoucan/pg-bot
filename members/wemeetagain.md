@@ -220,6 +220,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: wait for pending column reconstruction when serving columns](https://github.com/ChainSafe/lodestar/pull/10740#pullrequestreview-6024780755) - 2026-11-23
 * [Review] [Review on: fix: verify proposer signature of blocks downloaded by root](https://github.com/ChainSafe/lodestar/pull/10724#pullrequestreview-6025796743) - 2026-11-23
 * [Review] [Review on: fix: do not attest to an optimistic head](https://github.com/ChainSafe/lodestar/pull/10269#pullrequestreview-6025948209) - 2026-11-23
+* [Review] [Review on: fix: download all sampled columns of blocks synced by root](https://github.com/ChainSafe/lodestar/pull/10765#pullrequestreview-6045209063) - 2026-11-24
+* [Commit] [feat: add UDP sockets for native networking (#10668)](https://github.com/ChainSafe/lodestar/commit/11f1fb4b6d216463c104eb974cc9a13692ca0c14) - 2026-11-24
+* [Commit] [chore: bump @chainsafe/libp2p-quic to 2.1.6 (#10754)](https://github.com/ChainSafe/lodestar/commit/8068b97a3f82996a400b29f157b8f52158f99e0d) - 2026-11-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

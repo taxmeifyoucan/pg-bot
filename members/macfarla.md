@@ -341,6 +341,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Close owned JSON parsers in JsonUtil](https://github.com/besu-eth/besu/pull/12024#pullrequestreview-6032320954) - 2026-11-24
 * [Review] [Review on: Add a CHANGELOG entry for the block replay fix in #11754](https://github.com/besu-eth/besu/pull/12034#pullrequestreview-6030849588) - 2026-11-23
 * [Commit] [Compare the full released Plugin API, including datatypes, in the compatibility check (#11963)](https://github.com/besu-eth/besu/commit/cf96cfb0b6049b8d06f204467f42df9d13a246f9) - 2026-11-23
+* [Review] [Review on: Fix Forest snap sync losing trie nodes](https://github.com/besu-eth/besu/pull/12016#pullrequestreview-6048165376) - 2026-11-24
+* [Review] [Review on: Reconcile CHANGELOG after 26.11.2 release](https://github.com/besu-eth/besu/pull/12039#pullrequestreview-6047631679) - 2026-11-24
+* [Review] [Review on: Return an error from trace_replayBlockTransactions and trace_filter when parent state is unavailable](https://github.com/besu-eth/besu/pull/12019#pullrequestreview-6048571454) - 2026-11-24
+* [Review] [Review on: Return an error from debug_replayBlock when the replay fails](https://github.com/besu-eth/besu/pull/11968#pullrequestreview-6048494528) - 2026-11-24
+* [Review] [Review on: Settle self-destructs per EIP-8246 in EVMExecutor and evmtool run](https://github.com/besu-eth/besu/pull/11526#pullrequestreview-6048455744) - 2026-11-24
+* [Commit] [Bound the chain id of type 2, 3 and 4 transactions at decode (s290) (s291)](https://github.com/besu-eth/besu/commit/abd3b7069ad2861f18078bda4864d17b7771f166) - 2026-11-24
+* [Commit] [Fix hash collision DOS in eip-2930 access list and eip-2929 storage warms (GHSA-p4r9-732h-pw8w) (s165)](https://github.com/besu-eth/besu/commit/d89bec82ce09eacffb8acb163d8a34777cd056dc) - 2026-11-24
+* [Commit] [Reject an IBFT or QBFT Commit whose seal does not recover to an address (s155) (s191)](https://github.com/besu-eth/besu/commit/f952f5c862fe2997f0be0d76312dfb1785eacd1e) - 2026-11-24
+* [Commit] [Cap the fromAddress/toAddress lists on trace_filter (s197) (s198)](https://github.com/besu-eth/besu/commit/a6fd9b37923af6c2651ff87bd9e1be839683e919) - 2026-11-24
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

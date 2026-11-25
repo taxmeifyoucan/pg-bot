@@ -251,6 +251,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(metrics): scope block transaction timing](https://github.com/NethermindEth/nethermind/pull/16172#pullrequestreview-5992535729) - 2026-11-20
 * [Commit] [fix(benchmarks): time uncached ecrecover and verifying KZG point evaluations (#15893)](https://github.com/NethermindEth/nethermind/commit/bf30d1b7f911dc2a32aed4b9f3f3c737003c9569) - 2026-11-20
 * [Commit] [fix: treat cancelled block production as cancellation and reject submissions to a disposed tx pool (#16168)](https://github.com/NethermindEth/nethermind/commit/05a665eab0e5bf51be7cc1d3f5fa312a36ee50e2) - 2026-11-23
+* [Pull Request] [perf(eip8288): fold a block producer's signatures in wide equal leaves](https://github.com/NethermindEth/nethermind/pull/16393) - 2026-11-25
+* [Review] [Review on: perf(eip8288): fold a block producer's signatures in wide equal leaves](https://github.com/NethermindEth/nethermind/pull/16393#pullrequestreview-6050805405) - 2026-11-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -280,11 +282,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Add EIP: Generic Proof Verification and Batching](https://github.com/ethereum/EIPs/pull/12664) - 2026-11-13
 * [Pull Request] [Update EIP-8288: Define committed verification keys](https://github.com/ethereum/EIPs/pull/12667) - 2026-11-15
 * [Commit] [Add EIP: eth/75 - Proof Wrapper Propagation](https://github.com/ethereum/EIPs/commit/81a90efc672bdd6130c813d8dae005e5b3a8ce5b) - 2026-11-23
+* [Pull Request] [Add EIP: eth/76 - Aggregated Proof Propagation](https://github.com/ethereum/EIPs/pull/12713) - 2026-11-24
+* [Pull Request] [Update EIP-8437: Scope eth/75 to Direct Witness Propagation](https://github.com/ethereum/EIPs/pull/12712) - 2026-11-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12
 
 * [Pull Request] [feat(spec-specs,tests): implement EIP-8288 with the dependency proof in the execution payload](https://github.com/ethereum/execution-specs/pull/4052) - 2026-11-23
+* [Commit] [fix(client-clis): map frame transaction rejections in the Nethermind mapper (#3467)](https://github.com/ethereum/execution-specs/commit/69b597cd8ce29d58bfbe36af62854c455387f2c5) - 2026-11-24
+* [Commit] [feat(specs,tests): dispatch a precompile a VERIFY frame targets (#3407)](https://github.com/ethereum/execution-specs/commit/ef082c9b41c5c79a7274ee42aec2fd4e63472154) - 2026-11-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add EIP-8288 inclusion list proof methods](https://github.com/ethereum/execution-apis/pull/945) - 2026-10-16
 

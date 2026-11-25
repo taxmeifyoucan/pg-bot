@@ -36,6 +36,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Build slasher tests as C17 to fix mdbx on GCC 15 (#10518)](https://github.com/sigp/lighthouse/commit/4d328000467bea4e23d92cd810bbd33a176275bf) - 2026-11-09
 * [Review] [Review on: Remove MDBX slasher backend](https://github.com/sigp/lighthouse/pull/10521#pullrequestreview-5948613198) - 2026-11-17
 * [Issue] [Simulator fails at startup when a node's fixed port is already in use](https://github.com/sigp/lighthouse/issues/10623) - 2026-11-22
+* [Review] [Review on: Update ssz_types and use 0-limit list for Gloas deposits](https://github.com/sigp/lighthouse/pull/10637#pullrequestreview-6051284343) - 2026-11-25
+* [Review] [Review on: Fix flaky `test_tcp_blocks_by_range_over_limit`](https://github.com/sigp/lighthouse/pull/10650#pullrequestreview-6049495029) - 2026-11-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Jimmy](https://github.com/protocolguild/documentation/pull/560) - 2026-10-06
 

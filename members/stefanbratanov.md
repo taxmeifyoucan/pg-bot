@@ -44,6 +44,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Re-enable greclipse() (#11663)](https://github.com/Consensys-Incorporated/teku/commit/c1fc4b3257a7b187adefe952b0e88cfb69657d0a) - 2026-11-20
 * [Pull Request] [Return ssz for payload attestation pool response](https://github.com/Consensys-Incorporated/teku/pull/11718) - 2026-11-23
 * [Pull Request] [ Remove `GetExecutionPayloadBid` and stop advertising 406 responses](https://github.com/Consensys-Incorporated/teku/pull/11716) - 2026-11-23
+* [Pull Request] [Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid](https://github.com/Consensys-Incorporated/teku/pull/11728) - 2026-11-24
+* [Review] [Review on: Update CHANGELOG after 26.11.0 release](https://github.com/Consensys-Incorporated/teku/pull/11729#pullrequestreview-6038398706) - 2026-11-24
+* [Commit] [Return ssz for payload attestation pool response (#11718)](https://github.com/Consensys-Incorporated/teku/commit/e0ac1424d911d4c9088f22fc476fb66005287078) - 2026-11-24
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add AGENTS.md and point CLAUDE.md to it](https://github.com/libp2p/jvm-libp2p/pull/551) - 2026-11-16
 ## Q3 2026

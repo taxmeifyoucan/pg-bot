@@ -78,6 +78,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Make all page models SSZ compatible for the frontend cache](https://github.com/ethpandaops/dora/pull/915#pullrequestreview-5629546125) - 2026-10-23
 * [Pull Request] [fix: use sized integers in the inclusion list view so it caches as SSZ](https://github.com/ethpandaops/dora/pull/922) - 2026-10-23
 * [Pull Request] [feat: support the consensus-specs pq fork](https://github.com/ethpandaops/dora/pull/939) - 2026-11-19
+* [Pull Request] [feat: fall back to the beacon nodes' single attestation events behind a flag](https://github.com/ethpandaops/dora/pull/947) - 2026-11-24
+* [Pull Request] [feat: show attestation arrivals per client on the slot propagation tab](https://github.com/ethpandaops/dora/pull/946) - 2026-11-24
+* [Review] [Review on: feat: show attestation arrivals per client on the slot propagation tab](https://github.com/ethpandaops/dora/pull/946#pullrequestreview-6041531763) - 2026-11-24
+* [Pull Request] [feat: recognize silver and ethlambda as consensus clients](https://github.com/ethpandaops/dora/pull/945) - 2026-11-24
+* [Pull Request] [feat: add a slot arrival endpoint to the API](https://github.com/ethpandaops/dora/pull/944) - 2026-11-24
+* [Review] [Review on: feat: add a slot arrival endpoint to the API](https://github.com/ethpandaops/dora/pull/944#pullrequestreview-6039083409) - 2026-11-24
+* [Commit] [feat: show attestation arrivals per client on the slot propagation tab (#946)](https://github.com/ethpandaops/dora/commit/03ab3367633406028a083ec4a50bc1c92ad509f1) - 2026-11-24
+* [Commit] [feat: recognize silver and ethlambda as consensus clients (#945)](https://github.com/ethpandaops/dora/commit/d9d5b78e31c9e58c0c624f3ff98aae3d7a5e1a2f) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 

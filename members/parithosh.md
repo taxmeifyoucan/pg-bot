@@ -18,6 +18,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Update EIP-7773: Clear postponed Hoodi activation](https://github.com/ethereum/EIPs/pull/12568#pullrequestreview-5961330980) - 2026-11-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [phase0 `compute_weak_subjectivity_period` raises TypeError (Slot and Gwei)](https://github.com/ethereum/consensus-specs/issues/5830) - 2026-11-14
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] [toolchain: bump tool versions + python requirements (ansible 14.6 / core 2.21, python 3.14, terraform 1.17)](https://github.com/ethpandaops/template-devnets/pull/204) - 2026-11-24
 ## Q3 2026
 
 

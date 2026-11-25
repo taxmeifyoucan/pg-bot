@@ -117,6 +117,21 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Remove comments that restate the workflow permissions](https://github.com/ethpandaops/xatu/pull/953) - 2026-11-23
 * [Commit] [Merge pull request #954 from ethpandaops/ci/devnet-release-branches](https://github.com/ethpandaops/xatu/commit/7fbc5e6c7fdbdad5a19e031d532758b0c13b1963) - 2026-11-24
 * [Commit] [Remove comments that restate the workflow permissions (#953)](https://github.com/ethpandaops/xatu/commit/bf5b2c29ab98c202cf3c2a99d3b7b5c5a2524635) - 2026-11-24
+* [Pull Request] [ci: skip branch builds whose derived tags belong to a release branch](https://github.com/ethpandaops/xatu/pull/965) - 2026-11-25
+* [Pull Request] [ci: per-branch image builds; devnet branches without the bot account](https://github.com/ethpandaops/xatu/pull/964) - 2026-11-25
+* [Review] [Review on: ci: per-branch image builds; devnet branches without the bot account](https://github.com/ethpandaops/xatu/pull/964#pullrequestreview-6052840274) - 2026-11-25
+* [Pull Request] [feat(sentry): record pq beacon blocks](https://github.com/ethpandaops/xatu/pull/963) - 2026-11-25
+* [Pull Request] [feat(cryo): maxConcurrentRequests (glamsterdam-devnet-8)](https://github.com/ethpandaops/xatu/pull/962) - 2026-11-25
+* [Pull Request] [feat(cryo): maxConcurrentRequests caps cryo's in-flight RPC requests](https://github.com/ethpandaops/xatu/pull/961) - 2026-11-25
+* [Pull Request] [fix(sentry): parse pq single attestation events (pq-devnet-0)](https://github.com/ethpandaops/xatu/pull/960) - 2026-11-25
+* [Pull Request] [feat(cannon,sentry,server): decode Daisugi blocks on daisugi-devnet-0](https://github.com/ethpandaops/xatu/pull/959) - 2026-11-24
+* [Pull Request] [feat(cannon,mimicry): capture EIP-8141 frame transactions on bogota-devnet-2](https://github.com/ethpandaops/xatu/pull/958) - 2026-11-24
+* [Pull Request] [fix(cannon): handle Heze blocks on heze-devnet-2](https://github.com/ethpandaops/xatu/pull/957) - 2026-11-24
+* [Pull Request] [chore(glamsterdam-devnet-8): merge master into release/glamsterdam-devnet-8](https://github.com/ethpandaops/xatu/pull/956) - 2026-11-24
+* [Pull Request] [feat(sentry): record pq aggregate attestation events (pq-devnet-0)](https://github.com/ethpandaops/xatu/pull/955) - 2026-11-24
+* [Commit] [Merge pull request #965 from ethpandaops/build-branch-tag-guard](https://github.com/ethpandaops/xatu/commit/7a94b7e557271190b76c76a7500ced5d750c60ab) - 2026-11-25
+* [Commit] [Merge pull request #964 from ethpandaops/build-branch-workflow](https://github.com/ethpandaops/xatu/commit/f673c1e8c8d49c1088bc98cd858d128354384417) - 2026-11-25
+* [Commit] [feat(cryo): maxConcurrentRequests caps cryo's in-flight RPC requests (#961)](https://github.com/ethpandaops/xatu/commit/9ed8227a03a57f752f77874d0c73b3897e85169d) - 2026-11-25
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -149,6 +164,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118#pullrequestreview-5596801854) - 2026-10-21
 * [Pull Request] [fix(sepolia,hoodi): drop the duplicate fusaka consensus fork](https://github.com/ethpandaops/cartographoor/pull/121) - 2026-11-05
 * [Commit] [fix(sepolia,hoodi): drop the duplicate fusaka consensus fork (#121)](https://github.com/ethpandaops/cartographoor/commit/bff6616c00417634ae64a37239f578839361e803) - 2026-11-05
+* [Pull Request] [ci: stop publishing EIP-7870 reference nodes; jobs use the workflow token](https://github.com/ethpandaops/cartographoor/pull/124) - 2026-11-25
+* [Commit] [Merge pull request #124 from ethpandaops/drop-7870-private-reads](https://github.com/ethpandaops/cartographoor/commit/9130ae7c0fbb3e58da411839582a2baf1a47a0ae) - 2026-11-25
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [fix(agent): record blocks at their own slot, never at an empty slot after them](https://github.com/ethpandaops/tracoor/pull/70) - 2026-10-19
 * [Pull Request] [fix(agent): retry late gloas envelopes and outages instead of dropping them](https://github.com/ethpandaops/tracoor/pull/69) - 2026-10-19
@@ -393,11 +410,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(network): goodbye reasons on the overview (#566)](https://github.com/ethpandaops/lab/commit/1319349b40526c428b8fe84c4415777314d068e2) - 2026-11-11
 * [Pull Request] [fix(clients): draw current releases in the long-window version share chart](https://github.com/ethpandaops/lab/pull/573) - 2026-11-17
 * [Commit] [fix(clients): draw current releases in the long-window version share chart (#573)](https://github.com/ethpandaops/lab/commit/34e2d417e4e483f3e723d44a3360c4cfe7849d24) - 2026-11-17
+* [Pull Request] [ci: dispatch lab-backend releases with an ethpandaops-ci App token](https://github.com/ethpandaops/lab/pull/574) - 2026-11-25
+* [Commit] [Merge pull request #574 from ethpandaops/lab-ci-app-token](https://github.com/ethpandaops/lab/commit/bbadaa5721f35ed0151d0a9587abf438187b5f78) - 2026-11-25
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 
 * [Pull Request] [ci: publish images through GHCR and the image mirror](https://github.com/ethpandaops/dora/pull/940) - 2026-11-21
 * [Review] [Review on: ci: publish images through GHCR and the image mirror](https://github.com/ethpandaops/dora/pull/940#pullrequestreview-6015953209) - 2026-11-23
+* [Pull Request] [feat: show when aggregates were seen on the slot timeline](https://github.com/ethpandaops/dora/pull/941) - 2026-11-24
+* [Pull Request] [pq: bring in master's GHCR + image-mirror CI](https://github.com/ethpandaops/dora/pull/942) - 2026-11-24
+* [Commit] [Merge pull request #940 from ethpandaops/image-mirror](https://github.com/ethpandaops/dora/commit/b26fef1a1701ef4ca01b8ebe44c7a1261b7b76cd) - 2026-11-24
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/pull/246#pullrequestreview-5596802760) - 2026-10-21
 

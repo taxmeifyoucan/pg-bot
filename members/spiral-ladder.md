@@ -123,6 +123,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610#pullrequestreview-6027998509) - 2026-11-23
 * [Commit] [test(ci): match TypeScript sources in coverage include (#10751)](https://github.com/ChainSafe/lodestar/commit/dad8e3af98934a34c652882dadcf1ad59877a22f) - 2026-11-23
 * [Commit] [refactor: rename callImmediate to callAfterIO (#10750)](https://github.com/ChainSafe/lodestar/commit/b17bb95924ae7f56903e04af49b57df509338557) - 2026-11-23
+* [Review] [Review on: perf(fork-choice): copy slot committees into one preallocated array for the native store](https://github.com/ChainSafe/lodestar/pull/10760#pullrequestreview-6038212364) - 2026-11-24
+* [Review] [Review on: fix: upgrade js-libp2p to 3.5.2](https://github.com/ChainSafe/lodestar/pull/10768#pullrequestreview-6047860879) - 2026-11-24
+* [Review] [Review on: fix(lightclient): indicate finality whenever it can be proven](https://github.com/ChainSafe/lodestar/pull/10689#pullrequestreview-6040900431) - 2026-11-24
+* [Review] [Review on: test(udp): discover address prefix tests](https://github.com/ChainSafe/lodestar/pull/10762#pullrequestreview-6038648406) - 2026-11-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -168,6 +172,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 
 * [Review] [Review on: Use message slots for sync committee gossip selection](https://github.com/ethereum/consensus-specs/pull/5838#pullrequestreview-5956314868) - 2026-11-18
+* [Pull Request] [Accept up to two head votes per validator per slot on gossip for EIP-8453](https://github.com/ethereum/consensus-specs/pull/5863) - 2026-11-24
+* [Review] [Review on: Fix EIP-8453 spec generation and finality voting](https://github.com/ethereum/consensus-specs/pull/5855#pullrequestreview-6047170096) - 2026-11-24
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Pull Request] [fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448) - 2026-10-09
 * [Commit] [fix: drop dead code when merging the ELF verifier archive (#448)](https://github.com/eth-act/ere/commit/c65b53172f9a9eeb3b81d05b5ef29f0432570c7f) - 2026-10-10

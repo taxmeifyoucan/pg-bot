@@ -48,6 +48,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871#pullrequestreview-5943470129) - 2026-11-17
 * [Review] [Review on: Share the EVM v2 stacks of frames deeper than the per-thread cache](https://github.com/besu-eth/besu/pull/11871#pullrequestreview-5956179233) - 2026-11-18
 * [Review] [Review on: Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811#pullrequestreview-6001782661) - 2026-11-21
+* [Commit] [add TOP_BITS_KEYS jmh tests (s263)](https://github.com/besu-eth/besu/commit/8e67540640ebd17bcae6f5e3c0e04cc6cba5e519) - 2026-11-24
+* [Commit] [AddressStorageSlotKey hashcodes across 32bit lanes (GHSA-xgjc-g2f5-r2pq)](https://github.com/besu-eth/besu/commit/80b3c274778ea0f2ae8c9f66d62c6b125b116478) - 2026-11-24
 ## Q3 2026
 
 

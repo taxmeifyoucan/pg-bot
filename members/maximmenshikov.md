@@ -92,6 +92,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [fixup/11/riscv32: 01 follows GetUnwindProcInfo of the current runtime](https://github.com/NethermindEth/dotnet-riscv/commit/a9c77d5584142bddfd78b21dce30c7832d69829d) - 2026-11-20
 * [Commit] [Merge pull request #44 from NethermindEth/perf/riscv32-zk-rev8](https://github.com/NethermindEth/dotnet-riscv/commit/5b69d4553ab2173177046b6f72ff4c98065f7515) - 2026-11-20
 * [Pull Request] [fixup/11: struct fields and pieces on RISC-V, handler calls and stack layout on riscv32](https://github.com/NethermindEth/dotnet-riscv/pull/47) - 2026-11-23
+* [Commit] [Merge pull request #47 from NethermindEth/fix/struct-pieces-and-handler-calls](https://github.com/NethermindEth/dotnet-riscv/commit/e9cda7f4b323c41767fab869cdfb04cd106b3114) - 2026-11-24
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -166,6 +167,13 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #83 from yevh/fix/docs-ruby](https://github.com/NethermindEth/bflat-riscv64/commit/daed857880f4babb20e20e4161142ee34b237b67) - 2026-11-20
 * [Commit] [Merge pull request #81 from NethermindEth/chore/dotnet-rev8](https://github.com/NethermindEth/bflat-riscv64/commit/4d6c260c633e79de383973f70bbd8b0ca8380bbb) - 2026-11-20
 * [Commit] [variant: Take both targets from the dotnet-riscv release 11.0.102-upstream-perf.r440](https://github.com/NethermindEth/bflat-riscv64/commit/b8ce5a61194aa682068af1130662e65cf7a93bb7) - 2026-11-20
+* [Pull Request] [modules: prove every C module's ACSL contracts with Frama-C WP](https://github.com/NethermindEth/bflat-riscv64/pull/85) - 2026-11-24
+* [Pull Request] [variant: Take both targets from the dotnet-riscv release 11.0.102-upstream-perf.r442](https://github.com/NethermindEth/bflat-riscv64/pull/84) - 2026-11-24
+* [Commit] [Merge pull request #85 from NethermindEth/verify/wp-all-modules](https://github.com/NethermindEth/bflat-riscv64/commit/3e6703196d4a350e61344168b1332b77ed3e8092) - 2026-11-24
+* [Commit] [modules: check the TLS size, return MAP_FAILED, bound the printf count, end strto* at the string](https://github.com/NethermindEth/bflat-riscv64/commit/bed06eefa4a68510381599f0e3b4d85ef113c37f) - 2026-11-24
+* [Commit] [modules: prove the ACSL contracts of every C module with Frama-C WP](https://github.com/NethermindEth/bflat-riscv64/commit/35a6c9ff954bca31d50573ec710838290e3081df) - 2026-11-24
+* [Commit] [Merge pull request #84 from NethermindEth/chore/runtime-r442](https://github.com/NethermindEth/bflat-riscv64/commit/85efc7543bc6b2c962e8004c2b60443c8fd66b46) - 2026-11-24
+* [Commit] [variant: Take both targets from the dotnet-riscv release 11.0.102-upstream-perf.r442](https://github.com/NethermindEth/bflat-riscv64/commit/aaab6ef408592a10dd7aea3696a231c12a9b79a6) - 2026-11-24
 ## Q3 2026
 
 

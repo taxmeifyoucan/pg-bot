@@ -22,6 +22,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Review] [Review on: Update EIP-8250: mark single-use keys with MAX_NONCE_SEQ](https://github.com/ethereum/EIPs/pull/12511#pullrequestreview-5544985225) - 2026-10-16
 * [Pull Request] [Update EIP-8141: explain gas refunds and block limits](https://github.com/ethereum/EIPs/pull/12537) - 2026-10-17
 * [Pull Request] [Update EIP-8141: let only VERIFY frames read signature bytes outside the signature hash](https://github.com/ethereum/EIPs/pull/12708) - 2026-11-23
+* [Pull Request] [Update EIP-8288: declare dependencies in the signature list instead of a frame](https://github.com/ethereum/EIPs/pull/12710) - 2026-11-24
 ## Q3 2026
 
 

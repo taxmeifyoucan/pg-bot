@@ -114,10 +114,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(packaging): build spec releases up to a given fork](https://github.com/ethereum/execution-specs/pull/4036) - 2026-11-20
 * [Pull Request] [chore(ci,doc): rename the default branch to main](https://github.com/ethereum/execution-specs/pull/4035) - 2026-11-20
 * [Issue] [Test Release Tracker: `tests@v21.0.4`](https://github.com/ethereum/execution-specs/issues/4039) - 2026-11-20
+* [Commit] [feat(test-specs): fill frame_tx variants as engine_x fixtures (#3877)](https://github.com/ethereum/execution-specs/commit/24c8ac1e934327bb2a92847cebb5714c075f6ca9) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
 
+* [Pull Request] [Update EIP-7928: state per-index netting for withdrawals and system calls](https://github.com/ethereum/EIPs/pull/12711) - 2026-11-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621) - 2026-10-14
 
@@ -167,12 +169,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
 * [Issue] [All Core Devs - Testing (ACDT) #103, November 16, 2026](https://github.com/ethereum/pm/issues/2299) - 2026-11-10
+* [Issue] [All Core Devs - Testing (ACDT) #105, November 30, 2026](https://github.com/ethereum/pm/issues/2320) - 2026-11-24
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [params: allow BPO forks to activate after Amsterdam](https://github.com/ethereum/go-ethereum/pull/35975) - 2026-10-19
 
 * [Commit] [params: allow BPO forks to activate after Amsterdam (#35975)](https://github.com/ethereum/go-ethereum/commit/748cca24b5ece979f709f38b311f0cb993e10838) - 2026-10-21
 * [Pull Request] [cmd/geth, cmd/utils, crypto/kzg4844: add --crypto.kzg.lazy](https://github.com/ethereum/go-ethereum/pull/36025) - 2026-11-01
 * [Commit] [cmd/geth, cmd/utils, crypto/kzg4844: add --crypto.kzg.lazy (#36025)](https://github.com/ethereum/go-ethereum/commit/5f7750c60a41fb7df3342283c5d4484c537694d4) - 2026-11-01
+* [Pull Request] [core/state, core/types/bal: net access list changes over the block access index](https://github.com/ethereum/go-ethereum/pull/36216) - 2026-11-24
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
 

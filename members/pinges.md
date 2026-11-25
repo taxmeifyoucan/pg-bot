@@ -41,6 +41,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Upgrade RocksDB to 10.10.1](https://github.com/besu-eth/besu/pull/11981#pullrequestreview-5934263144) - 2026-11-17
 * [Review] [Review on: Remove the RocksDB partition filter option, which RocksDB ignores](https://github.com/besu-eth/besu/pull/12013#pullrequestreview-5987981806) - 2026-11-20
 * [Pull Request] [Rewrite backward sync: header-first, many peers, BAL import](https://github.com/besu-eth/besu/pull/12037) - 2026-11-24
+* [Review] [Review on: Reconcile CHANGELOG after 26.11.2 release](https://github.com/besu-eth/besu/pull/12039#pullrequestreview-6050119217) - 2026-11-25
+* [Commit] [Cap inbound RLPx connections that have not completed the handshake (s283)](https://github.com/besu-eth/besu/commit/a08e5ecc3ea11997afd0129ed7adb5e09e43fbc7) - 2026-11-24
+* [Commit] [Validate block access list hashes before decoding](https://github.com/besu-eth/besu/commit/7096bffddf986467cd46e26107c885421318be81) - 2026-11-24
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Recover secp256k1 public keys for recovery ids 2 and 3](https://github.com/besu-eth/besu-native/pull/327#pullrequestreview-5883892054) - 2026-11-12
 ## Q3 2026

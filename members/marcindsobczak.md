@@ -408,6 +408,11 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(consensus): derive ExcessBlobGas for dev-produced blocks (#16202)](https://github.com/NethermindEth/nethermind/commit/f7bdf0711caad3b2c18de359e1ce7a5611c6c5cd) - 2026-11-23
 * [Commit] [perf(rpc): queue admin peer events without a closure per p2p message (#16182)](https://github.com/NethermindEth/nethermind/commit/026b00fb4c48ceb3683c7734e8a072c8c66ccbe8) - 2026-11-23
 * [Commit] [fix(merge): forward GenesisStateUnavailable in spec wrappers and fix beacon sync and payload Trace lines (#16150)](https://github.com/NethermindEth/nethermind/commit/2d8b55c4f14698f685471c646398be6f64ab9faf) - 2026-11-23
+* [Review] [Review on: fix(optimism): use the L1 blob fee update fraction in force at the L1 origin](https://github.com/NethermindEth/nethermind/pull/16267#pullrequestreview-6037032972) - 2026-11-24
+* [Pull Request] [fix(keystore): bound pbkdf2 work when reading a key file](https://github.com/NethermindEth/nethermind/pull/16312) - 2026-11-24
+* [Commit] [fix: match stored log topics, copy block fee fields and trim the snap result log under lock (#16219)](https://github.com/NethermindEth/nethermind/commit/bdf234fa71d46368b5ce65b466be6f2b4ba3feed) - 2026-11-24
+* [Commit] [perf(rpc): share concurrent gas price scans for the same head (#16208)](https://github.com/NethermindEth/nethermind/commit/24d6bfa3a85f3a9ae45940aa053c42e661ed0d67) - 2026-11-24
+* [Commit] [fix(config, init): follow-ups to the config and init fixes (#16151)](https://github.com/NethermindEth/nethermind/commit/8496289e87a7426416102a9597668c7c6dfc5893) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 

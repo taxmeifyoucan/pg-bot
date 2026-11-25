@@ -236,6 +236,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [tracers/js: limit the JS call stack so a JS-recursive tracer returns an error instead of crashing the node (#26679)](https://github.com/erigontech/erigon/commit/711f2168a93f3142c24e16a98a93729cf33866dc) - 2026-11-24
 * [Commit] [rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper (#26641)](https://github.com/erigontech/erigon/commit/486d5707cfa9291d434a6519a3efd782042906dc) - 2026-11-24
 * [Commit] [rpc/jsonrpc, docs: report pruned history in trace_* as 4444 (#26683)](https://github.com/erigontech/erigon/commit/6f6f613469df1d02908d3b9decd449546b75ffe5) - 2026-11-24
+* [Pull Request] [rpc/jsonrpc: accept a positional state override map in trace_call and trace_callMany](https://github.com/erigontech/erigon/pull/26785) - 2026-11-24
+* [Pull Request] [rpc, node: cut per-request work on the HTTP JSON-RPC path](https://github.com/erigontech/erigon/pull/26790) - 2026-11-24
+* [Pull Request] [cmd/rpcdaemon/graphql: skip TestGraphQLQueryBlock unless a GraphQL server answers](https://github.com/erigontech/erigon/pull/26789) - 2026-11-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

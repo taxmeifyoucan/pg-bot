@@ -136,6 +136,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Read effective balances lazily in computeBalanceWeightedSelection (#11686)](https://github.com/Consensys-Incorporated/teku/commit/0cc7a2da5cf508328b13281fa22c43aab83edf4a) - 2026-11-20
 * [Commit] [Hold SSZ tree updates in primitive arrays (#11634)](https://github.com/Consensys-Incorporated/teku/commit/2bca9e653feb59373f50fb93e93936766b1944b5) - 2026-11-20
 * [Commit] [Track the changes of mutable SSZ composites in a paged array (#11633)](https://github.com/Consensys-Incorporated/teku/commit/bad29f5dbc61364944e7e90fc54008f7e01150ab) - 2026-11-20
+* [Pull Request] [Adopt lean-pq 0.17.0: prove and verify leanVM aggregates in-process](https://github.com/Consensys-Incorporated/teku/pull/11732) - 2026-11-24
+* [Pull Request] [Update CHANGELOG after 26.11.0 release](https://github.com/Consensys-Incorporated/teku/pull/11729) - 2026-11-24
+* [Commit] [Update CHANGELOG after 26.11.0 release (#11729)](https://github.com/Consensys-Incorporated/teku/commit/bc927b57fa26602328701d953938f020088d2fac) - 2026-11-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

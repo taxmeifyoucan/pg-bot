@@ -1148,6 +1148,34 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): answer a MODEXP whose base equals its modulus without ZisK's routine (#16246)](https://github.com/NethermindEth/nethermind/commit/cdfde1fe69ff9beb9b75692b7387d3e263a95d8e) - 2026-11-23
 * [Commit] [perf(evm): store LOG topics without the array element type check (#16237)](https://github.com/NethermindEth/nethermind/commit/e1c549d0506b937500631635c0cd9b7a4d2e59b9) - 2026-11-23
 * [Commit] [perf(zkevm): read and write a slot through the BAL state's slot store on SSTORE (#16199)](https://github.com/NethermindEth/nethermind/commit/8b3e1c5bffdc9bb1ac07f47101fefd18029729ce) - 2026-11-23
+* [Pull Request] [fix(taiko): enforce block-production rules only when all producing flags are set](https://github.com/NethermindEth/nethermind/pull/16347) - 2026-11-24
+* [Pull Request] [refactor(evm)!: let the virtual machine flush its own execution metrics](https://github.com/NethermindEth/nethermind/pull/16349) - 2026-11-24
+* [Pull Request] [refactor(facade)!: remove unused IBlockchainBridge members](https://github.com/NethermindEth/nethermind/pull/16361) - 2026-11-24
+* [Pull Request] [refactor(init)!: register the block producer and runner in the container](https://github.com/NethermindEth/nethermind/pull/16363) - 2026-11-24
+* [Pull Request] [refactor(consensus)!: remove IsBalReadWarmingEnabled from IBlockCachePreWarmer](https://github.com/NethermindEth/nethermind/pull/16371) - 2026-11-24
+* [Pull Request] [refactor(consensus)!: remove IWithdrawalValidator from IBlockValidator](https://github.com/NethermindEth/nethermind/pull/16372) - 2026-11-24
+* [Review] [Review on: fix(rpc): return errors from logIndex_blockNumbers instead of failing serialization](https://github.com/NethermindEth/nethermind/pull/16209#pullrequestreview-6035854518) - 2026-11-24
+* [Review] [Review on: fix(rpc): reject logIndex_blockNumbers while the log index has no usable range](https://github.com/NethermindEth/nethermind/pull/16229#pullrequestreview-6035883619) - 2026-11-24
+* [Review] [Review on: refactor(shutter)!: remove plugin and unused support code](https://github.com/NethermindEth/nethermind/pull/15345#pullrequestreview-6036019927) - 2026-11-24
+* [Review] [Review on: fix(zkevm): reuse each call depth's init code buffers in the guest](https://github.com/NethermindEth/nethermind/pull/16298#pullrequestreview-6046257323) - 2026-11-24
+* [Review] [Review on: fix(zkevm): abort the guest when it runs out of memory](https://github.com/NethermindEth/nethermind/pull/16300#pullrequestreview-6046379312) - 2026-11-24
+* [Commit] [refactor(trie)!: remove unused TrieNode methods (#16336)](https://github.com/NethermindEth/nethermind/commit/1a6ec3d8f27210decf83046828c383f088d4abb1) - 2026-11-24
+* [Commit] [perf(evm): charge EIP-8037 AUTH_BASE without a per-tx delegation map (#16331)](https://github.com/NethermindEth/nethermind/commit/cfd7b9f60812fbcca27a8a4ebf8c9910b5c976e9) - 2026-11-24
+* [Commit] [perf(bal): find or add merged BAL entries with one lookup (#16330)](https://github.com/NethermindEth/nethermind/commit/7aec8183a151cbc6f3716230bea698679c905ca8) - 2026-11-24
+* [Commit] [refactor(consensus): use a lock field and dispose the loop source in BuildBlocksInALoop (#16329)](https://github.com/NethermindEth/nethermind/commit/e2039ffcc3e27b7357c7bb3ee64e8a7e44555d36) - 2026-11-24
+* [Commit] [refactor(txpool): precompute the filters of the blob-sampling path (#16328)](https://github.com/NethermindEth/nethermind/commit/15ba5afd200bd3c6a64c6b0c94e66093e3453f32) - 2026-11-24
+* [Commit] [perf(txpool): build fee rejection messages only for local transactions (#16325)](https://github.com/NethermindEth/nethermind/commit/25469c214c02d8e0fcdf991de6315d5411391cb2) - 2026-11-24
+* [Commit] [perf(network): use nameof for peer selection counter keys (#16323)](https://github.com/NethermindEth/nethermind/commit/7bfe938b497e1d2d453b3f5603dc66511a437f9c) - 2026-11-24
+* [Commit] [perf(network): build ReportIn messages only when tracing is on (#16322)](https://github.com/NethermindEth/nethermind/commit/a85eb4eca1c31bdec000bf00d06d8f47713c4d70) - 2026-11-24
+* [Commit] [refactor(network): track session activity only on Session (#16319)](https://github.com/NethermindEth/nethermind/commit/5a1732614aa9fcd41d33009176758ae8d1fde62a) - 2026-11-24
+* [Commit] [refactor(network)!: remove unused DisconnectsAnalyzer (#16320)](https://github.com/NethermindEth/nethermind/commit/5e95daaa6381c4f8d55bac39da16c751253550da) - 2026-11-24
+* [Commit] [perf(sync): remove per-call allocations from peer allocation (#16318)](https://github.com/NethermindEth/nethermind/commit/0815cd446eb2b6b18775acee3915d9328db806c5) - 2026-11-24
+* [Commit] [fix(sync): cancel the refresh timeout timer when the head request ends early (#16316)](https://github.com/NethermindEth/nethermind/commit/5368676251dc218d0b080cf24f07fc1aa7242de8) - 2026-11-24
+* [Commit] [refactor(rpc): remove the per-request trusted source feature (#16338)](https://github.com/NethermindEth/nethermind/commit/933222888ec88f791d88a6a062d325547ec998ea) - 2026-11-24
+* [Commit] [refactor(rpc): depend on IJsonRpcProcessor in the HTTP host (#16344)](https://github.com/NethermindEth/nethermind/commit/8f4ba87122b278827b6e5c6209a26f4c0f908c5f) - 2026-11-24
+* [Commit] [perf(blockchain): find a transaction receipt with a loop (#16327)](https://github.com/NethermindEth/nethermind/commit/da85194227d6aa266d26ae1a2120afc96da1cae1) - 2026-11-24
+* [Commit] [fix(merge): log a failure of a follow-up block improvement (#16324)](https://github.com/NethermindEth/nethermind/commit/083f91c5f931dfb338c30d17effdf804354ee82e) - 2026-11-24
+* [Commit] [perf(evm): credit a value-less precompile call only to an existing empty account (#16238)](https://github.com/NethermindEth/nethermind/commit/ef1aec8d0fc08a882936244ddba1711a05591983) - 2026-11-24
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

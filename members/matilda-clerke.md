@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Temporarily disable greclipse while download.eclipse.org is down](https://github.com/Consensys-Incorporated/teku/pull/11561#pullrequestreview-5607277117) - 2026-10-21
 * [Pull Request] [Save unknown block attestation gossip for future only after validation](https://github.com/Consensys-Incorporated/teku/pull/11554) - 2026-10-21
 * [Review] [Review on: Update AGENTS.md](https://github.com/Consensys-Incorporated/teku/pull/11647#pullrequestreview-5950689277) - 2026-11-18
+* [Pull Request] [Only trigger pre-import code for gossipped blocks](https://github.com/Consensys-Incorporated/teku/pull/11733) - 2026-11-24
 ## Q3 2026
 
 

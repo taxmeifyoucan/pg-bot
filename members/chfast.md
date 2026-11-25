@@ -149,6 +149,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: execution/state: keep read-only accounts flat in the BAL builder](https://github.com/erigontech/erigon/pull/26157#pullrequestreview-6030769278) - 2026-11-23
 * [Commit] [execution/state: write no nonce for a fresh account (#26742)](https://github.com/erigontech/erigon/commit/4f9d99a5505bd824fdaf541b1b57cafed18758f7) - 2026-11-24
 * [Commit] [execution/state: test that a drop at a revival keeps the revived account (#26655)](https://github.com/erigontech/erigon/commit/37c3cea0c8f7dc1edcd3e861c9f239ecb430fcbe) - 2026-11-23
+* [Review] [Review on: execution/state: avoid repeated BAL scans for empty-account removals](https://github.com/erigontech/erigon/pull/26717#pullrequestreview-6037557468) - 2026-11-24
+* [Commit] [execution/state: check the re-creation behind an existence read at a seeded destruct (#26734)](https://github.com/erigontech/erigon/commit/1916a2c03d60b8b6f0d29833002ed819de183ea0) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -284,12 +286,25 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Upgrade execution-specs tests to tests@v21.0.3 (#1831)](https://github.com/ipsilon/evmone/commit/461597e53e33daa0e23f92da336ab334bc7da545) - 2026-11-23
 * [Commit] [test: Load legacy transactions with chain ids over 64 bits (#1829)](https://github.com/ipsilon/evmone/commit/79d6fa83057f4fed5f15417f6cfe9520cc7175eb) - 2026-11-23
 * [Commit] [ci: Add the self-hosted runner's pod configuration (#1830)](https://github.com/ipsilon/evmone/commit/5d0fe39f8cb6e6e7315f13e683dcb567148fa7c1) - 2026-11-23
+* [Issue] [Review the GCC inlining limits of all source files](https://github.com/ipsilon/evmone/issues/1836) - 2026-11-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
 * [Commit] [feat(test-benchmark): add stacked storage commit benchmark (#3811)](https://github.com/ethereum/execution-specs/commit/30418b707cf32ce03823224a5717f4d09da6eaef) - 2026-10-19
 * [Pull Request] [feat(test-benchmark): fill test_mod with distinct MOD chains](https://github.com/ethereum/execution-specs/pull/3963) - 2026-11-06
 * [Pull Request] [fix(spec-specs,test-evm-tools,test-specs,test-types,tests): skip IL txs that would exceed the block size limit](https://github.com/ethereum/execution-specs/pull/4041) - 2026-11-20
+* [Pull Request] [fix(tests): let only the invalid immediate abort DUPN and SWAPN](https://github.com/ethereum/execution-specs/pull/4062) - 2026-11-24
+* [Pull Request] [feat(tests): test deposit log layout words with high bits set](https://github.com/ethereum/execution-specs/pull/4063) - 2026-11-24
+* [Pull Request] [feat(tests): test SIGNEXTEND from every byte position](https://github.com/ethereum/execution-specs/pull/4061) - 2026-11-24
+* [Pull Request] [feat(tests): test CALLDATALOAD at offsets of 2^64 and above](https://github.com/ethereum/execution-specs/pull/4059) - 2026-11-24
+* [Pull Request] [feat(tests): test CALLDATACOPY past the calldata end keeps later memory](https://github.com/ethereum/execution-specs/pull/4060) - 2026-11-24
+* [Pull Request] [feat(tests): test the code size limit from its activation](https://github.com/ethereum/execution-specs/pull/4058) - 2026-11-24
+* [Pull Request] [feat(tests): test a touch after a failed create over an empty account](https://github.com/ethereum/execution-specs/pull/4055) - 2026-11-24
+* [Issue] [spec: limit the RIPEMD-160 (0x03) touch exception to Spurious Dragon](https://github.com/ethereum/execution-specs/issues/4057) - 2026-11-24
+* [Issue] [fix(test-specs): fill errors on non-EIP modules when the checkout path contains eip<N>](https://github.com/ethereum/execution-specs/issues/4054) - 2026-11-24
+* [Issue] [fix(test-forks): param-level valid_from with a fork-covariant marker drops earlier forks for all params](https://github.com/ethereum/execution-specs/issues/4053) - 2026-11-24
+* [Commit] [fix(tests): let only the invalid immediate abort DUPN and SWAPN (#4062)](https://github.com/ethereum/execution-specs/commit/1041d13f2f35b46d4c004678314ed3de3378c562) - 2026-11-25
+* [Commit] [feat(tests): test deposit log layout words with high bits set (#4063)](https://github.com/ethereum/execution-specs/commit/2fedc2ed5acf4edd95e70dace9d18fee2596f5a1) - 2026-11-25
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 

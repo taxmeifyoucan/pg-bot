@@ -815,6 +815,13 @@ Team: Reth
 * [Commit] [fix(engine): return null latestValidHash on undecodable BAL resend (#28662)](https://github.com/paradigmxyz/reth/commit/ee78f403915852c01a8a7bee0b9c86e73fd132dc) - 2026-11-23
 * [Commit] [fix(engine): return null latestValidHash for unknown ancestor (#28484)](https://github.com/paradigmxyz/reth/commit/414d740d1e5f8b09f418b83b2e733920a712766e) - 2026-11-23
 * [Commit] [fix(engine): return null latestValidHash for undecodable payload (#28661)](https://github.com/paradigmxyz/reth/commit/6fb4bf1513fd9251cd922d79e5e54a7544770774) - 2026-11-23
+* [Review] [Review on: fix(provider): use consistent view for history overlays](https://github.com/paradigmxyz/reth/pull/28316#pullrequestreview-6042302331) - 2026-11-24
+* [Review] [Review on: fix: set the canonical head with its blocks](https://github.com/paradigmxyz/reth/pull/28708#pullrequestreview-6044452334) - 2026-11-24
+* [Pull Request] [fix(rpc): recheck history floor on receipt miss](https://github.com/paradigmxyz/reth/pull/28717) - 2026-11-24
+* [Review] [Review on: fix(rpc): offload blockHash getLogs and test the bloom first](https://github.com/paradigmxyz/reth/pull/28040#pullrequestreview-6043660607) - 2026-11-24
+* [Review] [Review on: refactor: create InMemoryState with its writer](https://github.com/paradigmxyz/reth/pull/28678#pullrequestreview-6040141483) - 2026-11-24
+* [Commit] [fix(rpc): offload blockHash getLogs and test the bloom first (#28040)](https://github.com/paradigmxyz/reth/commit/9d210f6c18e57cf3f7ccd9937250067ec1679c00) - 2026-11-24
+* [Commit] [perf(trie): stream changesets in from_reverts (#28698)](https://github.com/paradigmxyz/reth/commit/335a3c14b08d1415893f16f5809fb1f8d51a4ead) - 2026-11-24
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -53,6 +53,8 @@ Team: Geth
 * [Review] [Review on: internal/ethapi: fix receipts for equal transaction hashes in eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/36186#pullrequestreview-6023708688) - 2026-11-23
 * [Review] [Review on: internal/ethapi: omit chainId for unprotected legacy transactions](https://github.com/ethereum/go-ethereum/pull/36191#pullrequestreview-6023667589) - 2026-11-23
 * [Review] [Review on: cmd/evm: run the shared gas cap and set code checks in t9n](https://github.com/ethereum/go-ethereum/pull/36192#pullrequestreview-6019463381) - 2026-11-23
+* [Review] [Review on: beacon/engine: reject forkchoice states with missing fields](https://github.com/ethereum/go-ethereum/pull/36033#pullrequestreview-6041429984) - 2026-11-24
+* [Review] [Review on: core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941#pullrequestreview-6041237999) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

@@ -65,6 +65,50 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Feature/updated cross](https://github.com/grandinetech/grandine/pull/1053#pullrequestreview-5955076553) - 2026-11-18
 * [Review] [Review on: Fix beacon API discrepancies ](https://github.com/grandinetech/grandine/pull/1054#pullrequestreview-5992216476) - 2026-11-20
 * [Review] [Review on: Update `url` crate to version '2.5.9'](https://github.com/grandinetech/grandine/pull/1066#pullrequestreview-6023727645) - 2026-11-23
+* [Pull Request] [Modify default hierarchy config](https://github.com/grandinetech/grandine/pull/1069) - 2026-11-24
+* [Commit] [Modify default hierarchy config](https://github.com/grandinetech/grandine/commit/94c194c6499b5bf8962130306181b2fdca6ff835) - 2026-11-24
+* [Commit] [Update snapshot test for committee](https://github.com/grandinetech/grandine/commit/9939f579ad19c9e766588fb7d04dc7f599d5c49e) - 2026-11-24
+* [Commit] [Work around im OrdMap lookup bug](https://github.com/grandinetech/grandine/commit/816a8ca6a95e0d84e0090f807d98a09af8c08e26) - 2026-11-24
+* [Commit] [Preserve attester duty request order](https://github.com/grandinetech/grandine/commit/3b28a1e6060df702f78a3643ace86d19fc784e17) - 2026-11-24
+* [Commit] [Return 404 for unsettled epoch rewards](https://github.com/grandinetech/grandine/commit/4b099b3ec2828a61715eec0ec7c02a2a1174343e) - 2026-11-24
+* [Commit] [Reject proposer duties beyond next epoch](https://github.com/grandinetech/grandine/commit/8155530d44899257233267679d9094b5b6190a66) - 2026-11-24
+* [Commit] [Support historical Gloas builder state queries](https://github.com/grandinetech/grandine/commit/5a93618e7bc2ad064b4de5a4be0d823c15d44d08) - 2026-11-24
+* [Commit] [Read historical PTC committees from storage](https://github.com/grandinetech/grandine/commit/276cc786f3db88cd045d5ad47bb5e5b85ac38d6d) - 2026-11-24
+* [Commit] [Serve attestation rewards from derived columns](https://github.com/grandinetech/grandine/commit/963c7bd67212d3e09ee9f60ec2c2affd9a496c1b) - 2026-11-24
+* [Commit] [Use derived rows for historical attester duties](https://github.com/grandinetech/grandine/commit/277eeac6981ebfe2d0fe14cf2e3a4eee9fefe822) - 2026-11-24
+* [Commit] [Use stored data for historical proposer duties](https://github.com/grandinetech/grandine/commit/9e2e0ef4b7017e6eec6434b544a504569b7a0b90) - 2026-11-24
+* [Commit] [Avoid full registry reads for finalized committees](https://github.com/grandinetech/grandine/commit/16a4681edac08b8900665339805935266e878495) - 2026-11-24
+* [Commit] [Share pubkey maps and validator hash trees](https://github.com/grandinetech/grandine/commit/4ff395c0ba0fd44a9a02ba419773b27d0adeeb2c) - 2026-11-24
+* [Commit] [Use stored data for attester duties](https://github.com/grandinetech/grandine/commit/ac7cf2a3c2490342b220ae53142322083caf8784) - 2026-11-24
+* [Commit] [Avoid redundant next-epoch state lookups](https://github.com/grandinetech/grandine/commit/c94c88dee1fbf129035e1a14dadd2542f23c24fe) - 2026-11-24
+* [Commit] [Serve historical state data from derived fields](https://github.com/grandinetech/grandine/commit/3413a14705d8b2e9e35c83845ef5b8661477ab73) - 2026-11-24
+* [Commit] [Diff lists using unshared leaf bundles](https://github.com/grandinetech/grandine/commit/ea69f0ed59862cee8691fb63f9cda08b7aaea73d) - 2026-11-24
+* [Commit] [Serve state root and fork without loading state](https://github.com/grandinetech/grandine/commit/69d34d43a870e2d51f0d7ac65d079bd7780903dd) - 2026-11-24
+* [Commit] [Add cursors for beacon state frames and patches](https://github.com/grandinetech/grandine/commit/402bebee041f2182435173d57620ab44ef7c704e) - 2026-11-24
+* [Commit] [Derive cursors for SSZ containers](https://github.com/grandinetech/grandine/commit/b06cf50d65247e2d07e6f8d85f1329304ffe9d6d) - 2026-11-24
+* [Commit] [Persist states for blockless hierarchy slots](https://github.com/grandinetech/grandine/commit/21cdc38da3ae615deb0cdcaed1c24476d1c1a505) - 2026-11-24
+* [Commit] [Add SSZ cursor-based container navigation](https://github.com/grandinetech/grandine/commit/48e115347e6b5cffb04a49daf2554b6a6688e66d) - 2026-11-24
+* [Commit] [Remove redundant state-at-slot cache](https://github.com/grandinetech/grandine/commit/418aa2c782f002876288e075ab1915068e1bc1e2) - 2026-11-24
+* [Commit] [Store back-sync history as state deltas](https://github.com/grandinetech/grandine/commit/bb72249eb3bc106f8d4cf17ea83df4513c575f10) - 2026-11-24
+* [Commit] [Invalidate only restored validator roots](https://github.com/grandinetech/grandine/commit/71a00a3576a9aef31db98f60996536d6d1ae2404) - 2026-11-24
+* [Commit] [Add hierarchical delta encoding for states](https://github.com/grandinetech/grandine/commit/edd0fe46edb868eb16ed5441f9ad61f58dba4f7e) - 2026-11-24
+* [Commit] [Guard stale checkpoints and cache their slots](https://github.com/grandinetech/grandine/commit/5e7a10f73fce53492c0aced25c1a0a74e59c302a) - 2026-11-24
+* [Commit] [Add per-layer state frame caching](https://github.com/grandinetech/grandine/commit/deeb0abe6e3d914118a49c7373013c7dc101235b) - 2026-11-24
+* [Commit] [Add finalized state storage hierarchy](https://github.com/grandinetech/grandine/commit/d761d6e8a503f8a0d71ba9b7b1a2212407b44cd5) - 2026-11-24
+* [Commit] [Run archival work on a bounded thread pool](https://github.com/grandinetech/grandine/commit/9b358a4e669873d2f2fe8a217cd43b5ffaaeb664) - 2026-11-24
+* [Commit] [Cap MDBX reclaimable page scans](https://github.com/grandinetech/grandine/commit/35832cf50d26e0598d856908003d7e534a93f49b) - 2026-11-24
+* [Commit] [Add beacon state storage frames](https://github.com/grandinetech/grandine/commit/52c02bf587d2886bd16358c0fdff147f520addfa) - 2026-11-24
+* [Commit] [Benchmark diff engines and beacon state patches](https://github.com/grandinetech/grandine/commit/d2673794225e0d7b5c4f6e650b523bd12e1c5574) - 2026-11-24
+* [Commit] [Add beacon state patches](https://github.com/grandinetech/grandine/commit/3a4d70f4bc09d2085349566f5e38865a6e7e17e0) - 2026-11-24
+* [Commit] [Add Gloas builder and PTC window patches](https://github.com/grandinetech/grandine/commit/8cdd2cb9b9e416a90b5641d7bf78b695dadf6570) - 2026-11-24
+* [Commit] [Add a validator list patch](https://github.com/grandinetech/grandine/commit/ae4c5d5f02e6580d5cda7ffa7bb375165d0f3516) - 2026-11-24
+* [Commit] [Add balances and participation list patches](https://github.com/grandinetech/grandine/commit/eebd4afd5db7c31d8d6654c948c3af9ed7eefcd7) - 2026-11-24
+* [Commit] [Add diff crate for beacon state deltas](https://github.com/grandinetech/grandine/commit/de8cc6b319e67c38b5101f215ce6d5e5dbf45da8) - 2026-11-24
+* [Commit] [Add zstd-compressed SSZ wrapper](https://github.com/grandinetech/grandine/commit/65016ce66956a358c92b0347e0d458fbf9e3cf8f) - 2026-11-24
+* [Commit] [Merge mutable methods into validator list trait](https://github.com/grandinetech/grandine/commit/990b22630d98875f78ac10b87a27571037ae883f) - 2026-11-24
+* [Commit] [Allow setting the same cached root on Hc twice](https://github.com/grandinetech/grandine/commit/ff0b2d6b2c1690fe125cca92de7880bacaaad2e1) - 2026-11-24
+* [Commit] [Add extend and range retention to SSZ lists](https://github.com/grandinetech/grandine/commit/dfe8d466d43fd72c6dfba481d78f813578feae5c) - 2026-11-24
+* [Commit] [Batch participation updates for attestations](https://github.com/grandinetech/grandine/commit/6b2f7083d8cd913bc2e70fe295dd0dbf7786742d) - 2026-11-24
 ## Q3 2026
 
 

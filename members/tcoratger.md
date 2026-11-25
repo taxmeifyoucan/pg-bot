@@ -347,6 +347,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [Update EIP-8070: Align engine_getBlobsV4 with the Engine API](https://github.com/ethereum/EIPs/commit/e3e214423e3dcbbcfaf1186211ad02971eff98a8) - 2026-11-23
 * [Commit] [Update EIP-8070: give GetCells and Cells a request ID](https://github.com/ethereum/EIPs/commit/ad6510bc9d404e5ae4f44fa397fc9c428dd65a36) - 2026-11-23
 * [Commit] [Update EIP-8070: keep cell_mask 16 bytes when no blob transaction is announced](https://github.com/ethereum/EIPs/commit/bce07c18ddfe6c373ac9fd0e7dc8324e8ac99c39) - 2026-11-23
+* [Review] [Review on: Update EIP-8288: move the recursive STARK into the execution payload](https://github.com/ethereum/EIPs/pull/12549#pullrequestreview-6040403171) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 
@@ -407,6 +408,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [engine: end each run of cell indices at CELLS_PER_EXT_BLOB - 1 in getPayloadV5 (#1021)](https://github.com/ethereum/execution-apis/commit/1ca0818569467cff85b7f41372f22e728d5daa14) - 2026-11-23
 * [Commit] [engine: state the fork check of payloadAttributes as the condition that must hold (#1020)](https://github.com/ethereum/execution-apis/commit/2043dfc1ee55a8b43e0042da27dea37c48cdcfdd) - 2026-11-23
 * [Commit] [engine: move the executionRequests checks to the newPayloadV4 specification (#1019)](https://github.com/ethereum/execution-apis/commit/b583b08eb6ee5650b312cc4c813617777556af33) - 2026-11-23
+* [Issue] [engine_getPayload examples: the listed commitment is not the commitment of the blob](https://github.com/ethereum/execution-apis/issues/1035) - 2026-11-24
+* [Issue] [Define the errors of a lookup by hash when the index is incomplete or the history is pruned](https://github.com/ethereum/execution-apis/issues/1034) - 2026-11-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery](https://github.com/ethereum/execution-specs/pull/4045) - 2026-11-21
 * [Issue] [BLOBBASEFEE is unspecified when the blob base fee is 2**256 or more](https://github.com/ethereum/execution-specs/issues/4044) - 2026-11-20
@@ -418,6 +421,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 * [Issue] [Caplin: builder bid signature is not verified](https://github.com/erigontech/erigon/issues/26677) - 2026-11-22
 * [Issue] [Caplin: apply the EIP-7045 epoch window to beacon_attestation_{subnet_id} from Deneb on](https://github.com/erigontech/erigon/issues/26725) - 2026-11-23
+* [Commit] [cl/beacon/handler: use the last pre-fork block as the PTC dependent root at the Gloas fork (#26676)](https://github.com/erigontech/erigon/commit/ec631e679d4978fc788cec26cdc936ef03e944eb) - 2026-11-24
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/ethereum/go-ethereum/issues/36196) - 2026-11-21
 

@@ -46,6 +46,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [ledger: collect per-tx writes into an in-memory cache](https://github.com/status-im/nimbus-eth1/pull/5201) - 2026-11-23
 * [Review] [Review on: Move process block parallel code into separate module](https://github.com/status-im/nimbus-eth1/pull/4450#pullrequestreview-6018503691) - 2026-11-23
 * [Commit] [ledger: collect per-tx writes into an in-memory cache (#5201)](https://github.com/status-im/nimbus-eth1/commit/f53b8289c37579d2b873c8989dd2527e34ac3431) - 2026-11-23
+* [Pull Request] [split block processing phases](https://github.com/status-im/nimbus-eth1/pull/5221) - 2026-11-24
+* [Commit] [Revert "split block processing phases"](https://github.com/status-im/nimbus-eth1/commit/a4523c981bca446fa14b9851bfa70e67574ffa75) - 2026-11-24
+* [Commit] [split block processing phases](https://github.com/status-im/nimbus-eth1/commit/0990fcb5821c23d9c73ca29a8d186291b1fbaf1c) - 2026-11-24
+* [Commit] [ledger: add journal, flatten accounref (#5217)](https://github.com/status-im/nimbus-eth1/commit/6082ae8bed4bf9659c574b2ebf63d612f22c047e) - 2026-11-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

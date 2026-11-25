@@ -461,6 +461,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: split the zkEVM witness race suite across two runners (#26731)](https://github.com/erigontech/erigon/commit/e31532b765ffee5690d81de9ba5edeeb5df2e5c5) - 2026-11-24
 * [Commit] [execution, rpc: simplify frame fee handling and receipt gas lookups (#26715)](https://github.com/erigontech/erigon/commit/3ff1797829d1ab333ddb339a8512ca5a6b07b0f9) - 2026-11-23
 * [Commit] [ci: update stable EEST fixtures to v21.0.3 (#26714)](https://github.com/erigontech/erigon/commit/ebdb5b71494662c9c2b955e3bb9b76ad8b25dd56) - 2026-11-23
+* [Pull Request] [execution/p2p: match BAL replies before decoding their entries](https://github.com/erigontech/erigon/pull/26778) - 2026-11-24
+* [Pull Request] [execution, rpc: simplify witness parent lookups and test helpers](https://github.com/erigontech/erigon/pull/26759) - 2026-11-24
+* [Review] [Review on: cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721#pullrequestreview-6040555781) - 2026-11-24
+* [Review] [Review on: execution/stagedsync: a failed fork-validation unwind drops its request](https://github.com/erigontech/erigon/pull/26747#pullrequestreview-6039023352) - 2026-11-24
+* [Pull Request] [txpool: bound remote EIP-7702 authorization recovery](https://github.com/erigontech/erigon/pull/26777) - 2026-11-24
+* [Review] [Review on: execution/state: avoid repeated BAL scans for empty-account removals](https://github.com/erigontech/erigon/pull/26717#pullrequestreview-6040188475) - 2026-11-24
+* [Review] [Review on: txpool: fix flush races in transaction selection and lookup](https://github.com/erigontech/erigon/pull/26727#pullrequestreview-6036261804) - 2026-11-24
+* [Review] [Review on: execution/engineapi, txnprovider/txpool: test the rejection of blob transactions without blob hashes](https://github.com/erigontech/erigon/pull/26745#pullrequestreview-6038465228) - 2026-11-24
+* [Pull Request] [execution/p2p: share response observers across fetchers](https://github.com/erigontech/erigon/pull/26792) - 2026-11-24
+* [Pull Request] [p2p/sentry: preserve request permits on block access list replies](https://github.com/erigontech/erigon/pull/26791) - 2026-11-24
+* [Commit] [txpool: bound remote EIP-7702 authorization recovery (#26777)](https://github.com/erigontech/erigon/commit/fda091341742d57c0e93ccd23d92651bc0a9e2c4) - 2026-11-25
+* [Commit] [execution: implement EIP-8253 for Bogota devnet-2 (#26443)](https://github.com/erigontech/erigon/commit/72598b1a9c2e36c4c4835ff1f4cfcf08685ccfba) - 2026-11-24
+* [Commit] [txpool: skip transactions with unrecoverable senders (#26729)](https://github.com/erigontech/erigon/commit/399ec0051c54675eca32ca1c103b2d65eb1aca5c) - 2026-11-24
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -498,6 +511,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [fix(test-client-clis): map Erigon empty blob execution errors](https://github.com/ethereum/execution-specs/pull/3962) - 2026-11-06
 * [Commit] [fix(test-client-clis): map Erigon empty blob execution errors (#3962)](https://github.com/ethereum/execution-specs/commit/ce7375feabcc263b074ffc226f5e74dffc2db9cd) - 2026-11-07
 * [Pull Request] [fix(test-client-clis): map Erigon total frame fee errors](https://github.com/ethereum/execution-specs/pull/4007) - 2026-11-15
+* [Commit] [fix(test-client-clis): map Erigon EIP-8141 frame transaction rejections](https://github.com/ethereum/execution-specs/commit/9dec2ca752176ba5ce961ed44e7005e24d37cecb) - 2026-11-24
 ## Q3 2026
 
 

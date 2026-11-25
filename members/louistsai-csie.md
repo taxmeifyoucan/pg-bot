@@ -77,6 +77,13 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): test a sender with a delegation designator before Prague](https://github.com/ethereum/execution-specs/pull/4028#pullrequestreview-6035096729) - 2026-11-24
 * [Review] [Review on: feat(tests): test request system calls to a delegated or empty contract](https://github.com/ethereum/execution-specs/pull/4029#pullrequestreview-6034841773) - 2026-11-24
 * [Review] [Review on: feat(tests): delete and insert under one branch without resolving the sibling](https://github.com/ethereum/execution-specs/pull/4030#pullrequestreview-6018708316) - 2026-11-23
+* [Review] [Review on: fix(tests): let only the invalid immediate abort DUPN and SWAPN](https://github.com/ethereum/execution-specs/pull/4062#pullrequestreview-6052834603) - 2026-11-25
+* [Review] [Review on: feat(tests): test deposit log layout words with high bits set](https://github.com/ethereum/execution-specs/pull/4063#pullrequestreview-6052737449) - 2026-11-25
+* [Review] [Review on: chore(tests): Add `test_cases.md` for EIP-8141](https://github.com/ethereum/execution-specs/pull/4064#pullrequestreview-6052492601) - 2026-11-25
+* [Pull Request] [feat(test-benchmark): add EIP-8141 frame transaction benchmarks](https://github.com/ethereum/execution-specs/pull/4056) - 2026-11-24
+* [Review] [Review on: feat(test-benchmark): benchmark blocks rejected for a false BAL](https://github.com/ethereum/execution-specs/pull/4019#pullrequestreview-6039343699) - 2026-11-24
+* [Review] [Review on: feat(test-benchmark): add invalid-point and state-root benchmarks](https://github.com/ethereum/execution-specs/pull/3942#pullrequestreview-6035862993) - 2026-11-24
+* [Commit] [refactor(tests): build EIP-8141 frame transaction from helper (#3799)](https://github.com/ethereum/execution-specs/commit/6f31a53299d8152641528d9150a70ccda2541528) - 2026-11-24
 ## Q3 2026
 
 

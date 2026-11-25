@@ -77,9 +77,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Disable the HotSpot Base64 intrinsic by default (CVE-2026-114938)](https://github.com/besu-eth/besu/pull/11994) - 2026-11-17
 * [Review] [Review on: snap/2: apply EIP-8298 hash-form code changes in pivot moves](https://github.com/besu-eth/besu/pull/11999#pullrequestreview-5964828492) - 2026-11-18
 * [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-5956485691) - 2026-11-18
+* [Review] [Review on: contributing guidelines rewrite, focus on PR quality and review](https://github.com/besu-eth/besu/pull/11911#pullrequestreview-6045635176) - 2026-11-24
+* [Review] [Review on: feat: raise frame MAX_VERIFY_GAS to 300,000](https://github.com/besu-eth/besu/pull/12007#pullrequestreview-6045883465) - 2026-11-24
+* [Review] [Review on: Give the Engine API its own Vert.x instance and worker pool](https://github.com/besu-eth/besu/pull/11764#pullrequestreview-6045561391) - 2026-11-24
+* [Commit] [Test that an empty account range response is rejected without throwing (s241)](https://github.com/besu-eth/besu/commit/3b1495752ecd2e29f0c5d99265a5c4ad73c6206b) - 2026-11-24
+* [Commit] [Skip MODEXP work when the modulus length is zero (GHSA-jqf5-9p33-vgxw) (s242)](https://github.com/besu-eth/besu/commit/f7bddc12b491c5c3bc445c7193a1e13144bac480) - 2026-11-24
+* [Commit] [Stop a malformed ENR fork ID from ending peer dialing (s246)](https://github.com/besu-eth/besu/commit/28b6556dc4f23710c91f144389c71fc1d75373ce) - 2026-11-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 
+* [Commit] [feat(client-clis): add besu frames exception mappings (#3682)](https://github.com/ethereum/execution-specs/commit/9500a5bedfaffc50017a22e0ecab02571b318297) - 2026-11-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #12, November 11, 2026](https://github.com/ethereum/pm/issues/2300) - 2026-11-10
 

@@ -45,6 +45,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Add builder related fields in config/spec](https://github.com/sigp/lighthouse/pull/10601) - 2026-11-17
 * [Pull Request] [Delete duplication in metrics.rs](https://github.com/sigp/lighthouse/pull/10492) - 2026-11-17
 * [Review] [Review on: Fix HTTP API TLS startup panic](https://github.com/sigp/lighthouse/pull/10599#pullrequestreview-5949873835) - 2026-11-18
+* [Pull Request] [Add logs about Gloas payload bids](https://github.com/sigp/lighthouse/pull/10474) - 2026-11-25
 ## Q3 2026
 
 

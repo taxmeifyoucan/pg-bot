@@ -103,6 +103,8 @@ Team: Grandine
 * [Pull Request] [Update `url` crate to version '2.5.9'](https://github.com/grandinetech/grandine/pull/1066) - 2026-11-23
 * [Commit] [Update `url` crate to version '2.5.9'](https://github.com/grandinetech/grandine/commit/a1a827b1793b95c0fef3b4ac9a1fb08cd5d61266) - 2026-11-23
 * [Commit] [Fast block confirmation with fast confirmation rule](https://github.com/grandinetech/grandine/commit/f8c501b15d0727f0b35918013827a8696d5735aa) - 2026-11-23
+* [Review] [Review on: Skip parallel key aggregation for single-key triples](https://github.com/grandinetech/grandine/pull/1067#pullrequestreview-6037156823) - 2026-11-24
+* [Issue] [Separate builder and validator deposits at the Gloas fork](https://github.com/grandinetech/grandine/issues/1068) - 2026-11-24
 ## Q3 2026
 
 

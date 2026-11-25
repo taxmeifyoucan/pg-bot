@@ -21,6 +21,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[tiering v2 - 14.1]  pre-EIP-8246 (remove selfdestruct burn) BAL burn fix and offline-BAL store repair](https://github.com/erigontech/erigon/pull/25266) - 2026-10-23
 * [Pull Request] [agents: add erigon-snapshot-pr-review skill](https://github.com/erigontech/erigon/pull/26531) - 2026-11-19
 * [Pull Request] [[tiering v2 - 18] log per-block BAL batch prefetch stats](https://github.com/erigontech/erigon/pull/26728) - 2026-11-23
+* [Pull Request] [db/snapshotsync: fix nil deref when a merge range is not covered by every type](https://github.com/erigontech/erigon/pull/26795) - 2026-11-25
+* [Pull Request] [[r3.8] db/snapshotsync: fix nil deref when a merge range is not covered by every type](https://github.com/erigontech/erigon/pull/26796) - 2026-11-25
 ## Q3 2026
 
 

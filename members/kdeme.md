@@ -160,6 +160,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [eth_call: reject a gas limit below the intrinsic gas or calldata floor (#5206)](https://github.com/status-im/nimbus-eth1/commit/e1ecc7ca8554482e34c63fe118c0a811059c9d7f) - 2026-11-23
 * [Commit] [sync: start a header chain session for a zero finalized hash (#5202)](https://github.com/status-im/nimbus-eth1/commit/b30e13b7deab8186a33e20a4e2411ede6d25e58b) - 2026-11-23
 * [Commit] [snap: encode the empty slim account fields as the empty string (#5199)](https://github.com/status-im/nimbus-eth1/commit/3de741ca957d8782547aa84993b83a8b5fef3eb7) - 2026-11-23
+* [Commit] [Let forkchoiceUpdated move finality back to an earlier block (#5205)](https://github.com/status-im/nimbus-eth1/commit/074521feb5a17ecff3f846585b53847cc42d2749) - 2026-11-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22
