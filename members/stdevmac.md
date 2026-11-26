@@ -713,6 +713,30 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [test(network): give each recreated eth handler its own session (#16228)](https://github.com/NethermindEth/nethermind/commit/23ba5a6e1cd0a3fd24348481dde8122bb915c0b8) - 2026-11-25
 * [Commit] [fix(runner): keep startup warmup blocks after a future genesis (#16213)](https://github.com/NethermindEth/nethermind/commit/29ecc3d94ce110b6efe2fb55805d9df84637fbaa) - 2026-11-25
 * [Commit] [fix(rpc): report caller errors with request error codes instead of internal error (#16205)](https://github.com/NethermindEth/nethermind/commit/a79ea396505a306cfe2307b194540bd2a026d080) - 2026-11-25
+* [Review] [Review on: test(beacon): prove Gloas envelope and builder deposit checks use the injected signature verifier](https://github.com/NethermindEth/nethermind/pull/16409#pullrequestreview-6066036564) - 2026-11-25
+* [Review] [Review on: fix(rpc): queue IPC connections opened before the first accept](https://github.com/NethermindEth/nethermind/pull/16412#pullrequestreview-6066901501) - 2026-11-26
+* [Review] [Review on: fix(sync): delete the storage trie nodes when flat healing empties a storage](https://github.com/NethermindEth/nethermind/pull/16408#pullrequestreview-6066037645) - 2026-11-25
+* [Review] [Review on: test(rpc): give websocket pipelining tests a 30 s hang guard](https://github.com/NethermindEth/nethermind/pull/16405#pullrequestreview-6065942395) - 2026-11-25
+* [Review] [Review on: fix(merge): return null blockAccessList for V2 bodies without a stored access list](https://github.com/NethermindEth/nethermind/pull/16399#pullrequestreview-6058643085) - 2026-11-25
+* [Review] [Review on: perf(light-client): reduce memory and metrics traffic](https://github.com/NethermindEth/nethermind/pull/16396#pullrequestreview-6058593809) - 2026-11-25
+* [Review] [Review on: build(beacon): read fork template list from a build property](https://github.com/NethermindEth/nethermind/pull/16381#pullrequestreview-6066087724) - 2026-11-25
+* [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6066210999) - 2026-11-25
+* [Review] [Review on: fix(tracing): report Geth's precompile and code-deposit errors in callTracer frames](https://github.com/NethermindEth/nethermind/pull/16141#pullrequestreview-6058728624) - 2026-11-25
+* [Review] [Review on: fix(zkevm): copy CREATE init code once in the guest](https://github.com/NethermindEth/nethermind/pull/16406#pullrequestreview-6066054116) - 2026-11-25
+* [Review] [Review on: chore(deps): update Nethermind.GmpBindings to 6.3.0.203](https://github.com/NethermindEth/nethermind/pull/16403#pullrequestreview-6066035546) - 2026-11-25
+* [Review] [Review on: fix(light-client): accept large HTTP batches for EVM calls](https://github.com/NethermindEth/nethermind/pull/16313#pullrequestreview-6059002911) - 2026-11-25
+* [Pull Request] [fix(network): enable snappy before any disconnect after a p2p v5 hello](https://github.com/NethermindEth/nethermind/pull/16163) - 2026-11-25
+* [Commit] [fix(xdc): keep XdcBlockProcessor in tracing environments (#16227)](https://github.com/NethermindEth/nethermind/commit/7efbc815f6519f64596f5da9d01761b21f6fa136) - 2026-11-26
+* [Commit] [fix(rpc): return errors from logIndex_blockNumbers instead of failing serialization (#16209)](https://github.com/NethermindEth/nethermind/commit/e7e1046e476917562191859a94939110e8d83a77) - 2026-11-26
+* [Commit] [fix(aura): skip the legacy finalization scan on post-merge heads (#16221)](https://github.com/NethermindEth/nethermind/commit/0ffc392d1d0dcc9188b63083c0bc78218d00d853) - 2026-11-25
+* [Commit] [fix(flat): keep read-only scope trie nodes out of the shared node record buffer (#16234)](https://github.com/NethermindEth/nethermind/commit/f872b555b6d9d8acfde5b8caeb3c3663c73bb62e) - 2026-11-25
+* [Commit] [fix(specs): read unprefixed geth genesis storage keys as hex (#16212)](https://github.com/NethermindEth/nethermind/commit/e820e4b632a5437c4fd15140e6a5255a5124114a) - 2026-11-25
+* [Commit] [fix(sync): stop PrepareRequest looping on a header dependency that cannot connect (#16244)](https://github.com/NethermindEth/nethermind/commit/326d38f0550ac66069676b8a16dcae30a9f382cc) - 2026-11-25
+* [Commit] [fix(rpc): don't warn per request for rejected raw transactions (#16224)](https://github.com/NethermindEth/nethermind/commit/cd9d9f63a52d4e43ec7b076474fb64ad97951a07) - 2026-11-25
+* [Commit] [fix(tracing): leave EIP-8037 state gas out of struct-log gasCost (#16203)](https://github.com/NethermindEth/nethermind/commit/834984e43a8903d2be7a77975661a939a175cf88) - 2026-11-25
+* [Commit] [fix(rpc): close open WebSocket connections at shutdown (#16214)](https://github.com/NethermindEth/nethermind/commit/cb376f64f66b9d4bf6affbafb7f35b27b7df303b) - 2026-11-25
+* [Commit] [fix(pruning): do not log full pruning canceled at shutdown as an error (#16207)](https://github.com/NethermindEth/nethermind/commit/89c4c132a48f277cf596d430352c2787d74aa0cb) - 2026-11-25
+* [Commit] [fix(network): enable snappy before any disconnect after a p2p v5 hello (#16163)](https://github.com/NethermindEth/nethermind/commit/3fafb29d06bc664b465e4493a852788863ffbceb) - 2026-11-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

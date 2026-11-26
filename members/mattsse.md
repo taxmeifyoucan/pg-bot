@@ -822,6 +822,20 @@ Team: Reth
 * [Review] [Review on: refactor: create InMemoryState with its writer](https://github.com/paradigmxyz/reth/pull/28678#pullrequestreview-6040141483) - 2026-11-24
 * [Commit] [fix(rpc): offload blockHash getLogs and test the bloom first (#28040)](https://github.com/paradigmxyz/reth/commit/9d210f6c18e57cf3f7ccd9937250067ec1679c00) - 2026-11-24
 * [Commit] [perf(trie): stream changesets in from_reverts (#28698)](https://github.com/paradigmxyz/reth/commit/335a3c14b08d1415893f16f5809fb1f8d51a4ead) - 2026-11-24
+* [Pull Request] [chore(deps): bump reth-core to 15c627d](https://github.com/paradigmxyz/reth/pull/28756) - 2026-11-26
+* [Review] [Review on: fix(rpc): leave eth_simulateV1 extraData empty by default](https://github.com/paradigmxyz/reth/pull/28652#pullrequestreview-6066788724) - 2026-11-26
+* [Pull Request] [fix(rpc): bound raw struct logs by response size](https://github.com/paradigmxyz/reth/pull/28753) - 2026-11-25
+* [Pull Request] [feat(rpc): limit JSON containers in call params](https://github.com/paradigmxyz/reth/pull/28749) - 2026-11-25
+* [Pull Request] [fix(rpc): bound callMany request parsing](https://github.com/paradigmxyz/reth/pull/28748) - 2026-11-25
+* [Pull Request] [perf(rpc): read pending state inline](https://github.com/paradigmxyz/reth/pull/28752) - 2026-11-25
+* [Review] [Review on: ci: bump cargo-update-pr to fix the weekly cargo update](https://github.com/paradigmxyz/reth/pull/28747#pullrequestreview-6063170585) - 2026-11-25
+* [Pull Request] [perf(overlay): reuse the pending block overlay](https://github.com/paradigmxyz/reth/pull/28746) - 2026-11-25
+* [Review] [Review on: perf(overlay): reuse the pending block overlay](https://github.com/paradigmxyz/reth/pull/28746#pullrequestreview-6062929730) - 2026-11-25
+* [Review] [Review on: perf(rpc): read latest state on the caller task](https://github.com/paradigmxyz/reth/pull/28445#pullrequestreview-6062945229) - 2026-11-25
+* [Commit] [fix(rpc): bound raw struct logs by response size (#28753)](https://github.com/paradigmxyz/reth/commit/f9857333e4a558be9909a3c6ca45f7110909df8a) - 2026-11-25
+* [Commit] [fix(rpc): bound callMany request parsing (#28748)](https://github.com/paradigmxyz/reth/commit/f67031d5e101f57b91c4ba40b2f8370f4ae6ca7a) - 2026-11-25
+* [Commit] [perf(rpc): write debug struct logs as raw JSON (#28559)](https://github.com/paradigmxyz/reth/commit/5ea51b7db544e5dcedb8980b5754fd1b145b8221) - 2026-11-25
+* [Commit] [fix(rpc): return only new logs from eth_getFilterChanges (#26998)](https://github.com/paradigmxyz/reth/commit/7540d1dd10a188ef9ee9b2963da6eeb7475b9d60) - 2026-11-25
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

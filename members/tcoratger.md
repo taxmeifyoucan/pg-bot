@@ -348,6 +348,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [Update EIP-8070: give GetCells and Cells a request ID](https://github.com/ethereum/EIPs/commit/ad6510bc9d404e5ae4f44fa397fc9c428dd65a36) - 2026-11-23
 * [Commit] [Update EIP-8070: keep cell_mask 16 bytes when no blob transaction is announced](https://github.com/ethereum/EIPs/commit/bce07c18ddfe6c373ac9fd0e7dc8324e8ac99c39) - 2026-11-23
 * [Review] [Review on: Update EIP-8288: move the recursive STARK into the execution payload](https://github.com/ethereum/EIPs/pull/12549#pullrequestreview-6040403171) - 2026-11-24
+* [Issue] [EIP-8015: activation condition cannot hold when the deposit request start index is unset](https://github.com/ethereum/EIPs/issues/12715) - 2026-11-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 
@@ -363,6 +364,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [Fix typo in Altair light client p2p interface](https://github.com/ethereum/consensus-specs/pull/5850) - 2026-11-22
 * [Commit] [Clarify that error codes start at 128 (#5851)](https://github.com/ethereum/consensus-specs/commit/3e2d827750bf249628e71eb6bb97ccb9600c3827) - 2026-11-23
 * [Commit] [Fix typo (#5850)](https://github.com/ethereum/consensus-specs/commit/e0be9637f7d007a56d04c9314930c99b00d1bbb3) - 2026-11-22
+* [Issue] [Phase 0 weak subjectivity period: the max with the top-up epochs can exceed the attack time](https://github.com/ethereum/consensus-specs/issues/5866) - 2026-11-25
+* [Issue] [Fork choice: the justified checkpoint can move to a checkpoint with no stored state](https://github.com/ethereum/consensus-specs/issues/5865) - 2026-11-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add examples for forkchoiceUpdatedV4/V5 and newPayloadV6](https://github.com/ethereum/execution-apis/pull/1007) - 2026-11-21
 * [Pull Request] [Engine: fix the case of inclusionListTransactions in bogota.md](https://github.com/ethereum/execution-apis/pull/1006) - 2026-11-21
@@ -416,12 +419,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 * [Issue] [SetCodeTransaction types its nonce as U64, the other transactions as U256](https://github.com/ethereum/execution-specs/issues/4050) - 2026-11-22
 * [Issue] [test_out_of_order_payload_delivery should allow ACCEPTED for the resent payload](https://github.com/ethereum/execution-specs/issues/4048) - 2026-11-21
+* [Commit] [fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery (#4045)](https://github.com/ethereum/execution-specs/commit/b930236ca01dc1e7315d2b7e12162052359f928c) - 2026-11-25
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/erigontech/erigon/issues/26668) - 2026-11-21
 
 * [Issue] [Caplin: builder bid signature is not verified](https://github.com/erigontech/erigon/issues/26677) - 2026-11-22
 * [Issue] [Caplin: apply the EIP-7045 epoch window to beacon_attestation_{subnet_id} from Deneb on](https://github.com/erigontech/erigon/issues/26725) - 2026-11-23
 * [Commit] [cl/beacon/handler: use the last pre-fork block as the PTC dependent root at the Gloas fork (#26676)](https://github.com/erigontech/erigon/commit/ec631e679d4978fc788cec26cdc936ef03e944eb) - 2026-11-24
+* [Issue] [Caplin: Gloas fork: route pending deposits by withdrawal credentials when onboarding builders](https://github.com/erigontech/erigon/issues/26832) - 2026-11-25
+* [Issue] [Caplin: Gloas: replace the first-bid-per-builder gossip rule with the builder bid limit](https://github.com/erigontech/erigon/issues/26830) - 2026-11-25
+* [Issue] [Caplin: Gloas: upgrade_to_gloas does not unset the fork slot's execution_payload_availability bit (consensus-specs#5808)](https://github.com/erigontech/erigon/issues/26827) - 2026-11-25
+* [Issue] [Caplin: blobs endpoint returns duplicate blobs when a block repeats a KZG commitment](https://github.com/erigontech/erigon/issues/26833) - 2026-11-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [eth_blobBaseFee should return the blob base fee of the next block](https://github.com/ethereum/go-ethereum/issues/36196) - 2026-11-21
 
@@ -434,14 +442,55 @@ Github: [@tcoratger](https://github.com/tcoratger)
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Issue] [Builder bid signature and parent hash are not verified](https://github.com/ChainSafe/lodestar/issues/10709) - 2026-11-22
 
+* [Issue] [Pre-Electra weak subjectivity period: the max with the top-up epochs can exceed the attack time](https://github.com/ChainSafe/lodestar/issues/10788) - 2026-11-25
+* [Issue] [Gloas fork: route pending deposits by withdrawal credentials when onboarding builders](https://github.com/ChainSafe/lodestar/issues/10784) - 2026-11-25
+* [Issue] [Ignore a gossiped voluntary exit whose validator has pending partial withdrawals](https://github.com/ChainSafe/lodestar/issues/10782) - 2026-11-25
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Issue] [PTC duties at the Gloas fork epoch: dependent_root and availability](https://github.com/grandinetech/grandine/issues/1065) - 2026-11-22
 
+* [Issue] [Gloas fork: route pending deposits by withdrawal credentials when onboarding builders](https://github.com/grandinetech/grandine/issues/1078) - 2026-11-25
+* [Issue] [Gloas: replace the first-bid-per-builder gossip rule with the builder bid limit](https://github.com/grandinetech/grandine/issues/1076) - 2026-11-25
+* [Issue] [Ignore a gossiped voluntary exit whose validator has pending partial withdrawals](https://github.com/grandinetech/grandine/issues/1075) - 2026-11-25
+* [Issue] [Fast confirmation: the averaged committee weight can confirm a block that is later reorged (consensus-specs#5670)](https://github.com/grandinetech/grandine/issues/1074) - 2026-11-25
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Issue] [Distance-0 FINDNODE replies are not checked against the peer's node ID](https://github.com/sigp/discv5/issues/317) - 2026-11-22
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [PTC duties: wrong dependent_root for the Gloas fork epoch](https://github.com/status-im/nimbus-eth2/issues/9466) - 2026-11-22
+
+* [Issue] [Pre-Electra weak subjectivity period: the max with the top-up epochs can exceed the attack time](https://github.com/status-im/nimbus-eth2/issues/9478) - 2026-11-25
+* [Issue] [Gloas fork: route pending deposits by withdrawal credentials when onboarding builders](https://github.com/status-im/nimbus-eth2/issues/9477) - 2026-11-25
+* [Issue] [Gloas: add the payload consistency checks to execution payload envelope gossip](https://github.com/status-im/nimbus-eth2/issues/9476) - 2026-11-25
+* [Issue] [Gloas: replace the first-bid-per-builder gossip rule with the builder bid limit](https://github.com/status-im/nimbus-eth2/issues/9475) - 2026-11-25
+* [Issue] [Gloas: upgrade_to_gloas does not unset the fork slot's execution_payload_availability bit (consensus-specs#5808)](https://github.com/status-im/nimbus-eth2/issues/9474) - 2026-11-25
+* [Issue] [Ignore a gossiped voluntary exit whose validator has pending partial withdrawals](https://github.com/status-im/nimbus-eth2/issues/9473) - 2026-11-25
+* [Issue] [Fast confirmation: the averaged committee weight can confirm a block that is later reorged (consensus-specs#5670)](https://github.com/status-im/nimbus-eth2/issues/9472) - 2026-11-25
+* [Issue] [Gloas partial column group ID uses version byte 0x00 instead of 0x01](https://github.com/status-im/nimbus-eth2/issues/9471) - 2026-11-25
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Issue] [Gloas fork: route pending deposits by withdrawal credentials when onboarding builders](https://github.com/Consensys-Incorporated/teku/issues/11749) - 2026-11-25
+* [Issue] [Gloas: replace the first-bid-per-builder gossip rule with the builder bid limit](https://github.com/Consensys-Incorporated/teku/issues/11748) - 2026-11-25
+* [Issue] [Gloas: upgrade_to_gloas does not unset the fork slot's execution_payload_availability bit (consensus-specs#5808)](https://github.com/Consensys-Incorporated/teku/issues/11747) - 2026-11-25
+* [Issue] [Ignore a gossiped voluntary exit whose validator has pending partial withdrawals](https://github.com/Consensys-Incorporated/teku/issues/11746) - 2026-11-25
+* [Issue] [Fast confirmation: the averaged committee weight can confirm a block that is later reorged (consensus-specs#5670)](https://github.com/Consensys-Incorporated/teku/issues/11745) - 2026-11-25
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Checkpoint sync stores empty data column sidecars for a Fulu anchor given an empty blob list](https://github.com/sigp/lighthouse/issues/10660) - 2026-11-25
+* [Issue] [Gloas fork: route pending deposits by withdrawal credentials when onboarding builders](https://github.com/sigp/lighthouse/issues/10663) - 2026-11-25
+* [Issue] [Gloas: add the payload consistency checks to execution payload envelope gossip](https://github.com/sigp/lighthouse/issues/10662) - 2026-11-25
+* [Issue] [Gloas: replace the first-bid-per-builder gossip rule with the builder bid limit](https://github.com/sigp/lighthouse/issues/10661) - 2026-11-25
+* [Issue] [Gloas: upgrade_to_gloas does not unset the fork slot's execution_payload_availability bit (consensus-specs#5808)](https://github.com/sigp/lighthouse/issues/10659) - 2026-11-25
+* [Issue] [Ignore a gossiped voluntary exit whose validator has pending partial withdrawals](https://github.com/sigp/lighthouse/issues/10658) - 2026-11-25
+* [Issue] [Partial column group ID with an unknown version byte penalizes the peer instead of being ignored](https://github.com/sigp/lighthouse/issues/10657) - 2026-11-25
+* [Issue] [Fast confirmation: the averaged committee weight can confirm a block that is later reorged (consensus-specs#5670)](https://github.com/sigp/lighthouse/issues/10656) - 2026-11-25
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Issue] [Pre-Electra weak subjectivity period: the max with the top-up epochs can exceed the attack time](https://github.com/OffchainLabs/prysm/issues/17935) - 2026-11-25
+* [Issue] [Gloas fork: route pending deposits by withdrawal credentials when onboarding builders](https://github.com/OffchainLabs/prysm/issues/17934) - 2026-11-25
+* [Issue] [Gloas: add the payload consistency checks to execution payload envelope gossip](https://github.com/OffchainLabs/prysm/issues/17933) - 2026-11-25
+* [Issue] [Gloas: replace the first-bid-per-builder gossip rule with the builder bid limit](https://github.com/OffchainLabs/prysm/issues/17932) - 2026-11-25
+* [Issue] [Gloas: upgrade_to_gloas does not unset the fork slot's execution_payload_availability bit (consensus-specs#5808)](https://github.com/OffchainLabs/prysm/issues/17931) - 2026-11-25
+* [Issue] [Partial column group ID with an unknown version byte penalizes the peer instead of being ignored](https://github.com/OffchainLabs/prysm/issues/17930) - 2026-11-25
+* [Issue] [Fast confirmation: the averaged committee weight can confirm a block that is later reorged (consensus-specs#5670)](https://github.com/OffchainLabs/prysm/issues/17929) - 2026-11-25
 ## Q3 2026
 
 

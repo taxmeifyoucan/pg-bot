@@ -21,6 +21,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [toolchain: bump tool versions + python requirements (ansible 14.6 / core 2.21, python 3.14, terraform 1.17)](https://github.com/ethpandaops/template-devnets/pull/204) - 2026-11-24
+* [Commit] [toolchain: bump tool versions + python requirements (ansible 14.6 / core 2.21, python 3.14, terraform 1.17) (#204)](https://github.com/ethpandaops/template-devnets/commit/b834eb2f9381d2f5b9386a59de330cc6a4acc9f5) - 2026-11-25
 ## Q3 2026
 
 

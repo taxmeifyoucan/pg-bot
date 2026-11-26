@@ -17,6 +17,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8298: close spec gaps found writing tests; assign opcode 0xA7](https://github.com/ethereum/EIPs/commit/fa3915674078b4e79252df34ac9599d4195f11b1) - 2026-10-12
 * [Pull Request] [Update EIP-8347: drop internal consistency from a self-converter's dual-check](https://github.com/ethereum/EIPs/pull/12508) - 2026-10-14
 * [Pull Request] [Update EIP-8347: readiness at activation and late migration](https://github.com/ethereum/EIPs/pull/12633) - 2026-11-06
+* [Pull Request] [Update EIP-8298: Defer code change, adopt only from own code](https://github.com/ethereum/EIPs/pull/12716) - 2026-11-25
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [PBT migration: BAL follower stalls after an anchor import](https://github.com/NethermindEth/nethermind/issues/14259) - 2026-10-05
 
@@ -53,6 +54,11 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: fix(test-consume): retry transaction lookups while the client is still indexing](https://github.com/ethereum/execution-specs/pull/4038#pullrequestreview-6008868234) - 2026-11-21
 * [Pull Request] [fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors](https://github.com/ethereum/execution-specs/pull/4049) - 2026-11-21
 * [Review] [Review on: fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors](https://github.com/ethereum/execution-specs/pull/4049#pullrequestreview-6042728611) - 2026-11-24
+* [Review] [Review on: fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery](https://github.com/ethereum/execution-specs/pull/4045#pullrequestreview-6059480475) - 2026-11-25
+* [Commit] [feat(tests,test-fixtures,test-consume): reach reorg heads by syncing from a devp2p peer (#4042)](https://github.com/ethereum/execution-specs/commit/14f9620c7b8ca2ccc4696e73ec65b512cd4dc48e) - 2026-11-25
+* [Commit] [fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors (#4049)](https://github.com/ethereum/execution-specs/commit/6ffbd3530c7416cfb1eb5e4763a8b0ffd5a82de4) - 2026-11-25
+* [Commit] [refactor(tests): port TransactionReOrgTest as one test with its four scenarios (#4037)](https://github.com/ethereum/execution-specs/commit/ea231101e71ca047a47870a2a0aaebd19a9b1b20) - 2026-11-25
+* [Commit] [fix(test-consume): retry transaction lookups while the client is still indexing (#4038)](https://github.com/ethereum/execution-specs/commit/488ac657e5f6386f46ac628ed5d8193df38fc58c) - 2026-11-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15

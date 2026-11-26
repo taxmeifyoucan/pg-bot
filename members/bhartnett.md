@@ -80,6 +80,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Bal prefetch thread pool](https://github.com/status-im/nimbus-eth1/pull/5216) - 2026-11-23
 * [Review] [Review on: Move process block parallel code into separate module](https://github.com/status-im/nimbus-eth1/pull/4450#pullrequestreview-6021345209) - 2026-11-23
 * [Commit] [BAL prefetch thread pool (#5216)](https://github.com/status-im/nimbus-eth1/commit/79e3e38d5f5435e393a434d81b165f0b52a7be2a) - 2026-11-24
+* [Review] [Review on: minor improvements](https://github.com/status-im/nimbus-eth1/pull/5223#pullrequestreview-6061616860) - 2026-11-25
+* [Pull Request] [Parallel storage root computation](https://github.com/status-im/nimbus-eth1/pull/5224) - 2026-11-25
+* [Commit] [Parallel storage root computation (#5224)](https://github.com/status-im/nimbus-eth1/commit/f55715c9917ef2f2564a90bce6b13854fb58faa7) - 2026-11-25
 ## Q3 2026
 
 

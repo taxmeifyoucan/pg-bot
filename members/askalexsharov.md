@@ -1309,6 +1309,29 @@ Team: Erigon
 * [Commit] [execution/commitment/backtester: run on commitment v3 (#26723)](https://github.com/erigontech/erigon/commit/1b7b07c83541a79b5276fd8e604e9e28366f16a7) - 2026-11-25
 * [Commit] [cmd/evm: runners accept a piped input on Linux (#26756)](https://github.com/erigontech/erigon/commit/93b62e1af21bd85caa1f7789378a7bbc006c42fb) - 2026-11-25
 * [Commit] [cl: flaky test fix (#26755)](https://github.com/erigontech/erigon/commit/f5c0caa159260a947f6253b74e11af538d838480) - 2026-11-24
+* [Pull Request] [db/state: add beginRo test helper for read-only test transactions](https://github.com/erigontech/erigon/pull/26815) - 2026-11-25
+* [Review] [Review on: db/state: add beginRo test helper for read-only test transactions](https://github.com/erigontech/erigon/pull/26815#pullrequestreview-6069471530) - 2026-11-26
+* [Pull Request] [db/state: smaller test fixtures and a beginRw helper](https://github.com/erigontech/erigon/pull/26814) - 2026-11-25
+* [Review] [Review on: db/state: smaller test fixtures and a beginRw helper](https://github.com/erigontech/erigon/pull/26814#pullrequestreview-6057559722) - 2026-11-25
+* [Review] [Review on: db/state/statecfg: bump code .kv/.v/.ef and storage .kv versions](https://github.com/erigontech/erigon/pull/26817#pullrequestreview-6060508788) - 2026-11-25
+* [Pull Request] [execution, db/state: a block in files is never unwindable](https://github.com/erigontech/erigon/pull/26806) - 2026-11-25
+* [Review] [Review on: execution, db/state: a block in files is never unwindable](https://github.com/erigontech/erigon/pull/26806#pullrequestreview-6056669862) - 2026-11-25
+* [Pull Request] [db/snapshotsync: visible block files of every type share one layout](https://github.com/erigontech/erigon/pull/26801) - 2026-11-25
+* [Review] [Review on: db/snapshotsync: visible block files of every type share one layout](https://github.com/erigontech/erigon/pull/26801#pullrequestreview-6054295553) - 2026-11-25
+* [Pull Request] [execution, db/state: one irreversible block replaces FinalityContext](https://github.com/erigontech/erigon/pull/26808) - 2026-11-25
+* [Review] [Review on: execution, db/state: one irreversible block replaces FinalityContext](https://github.com/erigontech/erigon/pull/26808#pullrequestreview-6059180600) - 2026-11-25
+* [Pull Request] [execution/stagedsync: BAL compute-ahead reads each base account once](https://github.com/erigontech/erigon/pull/26820) - 2026-11-25
+* [Review] [Review on: execution/stagedsync: BAL compute-ahead reads each base account once](https://github.com/erigontech/erigon/pull/26820#pullrequestreview-6069274080) - 2026-11-26
+* [Pull Request] [db/state: commitment rebuild refuses files that do not start at 0](https://github.com/erigontech/erigon/pull/26846) - 2026-11-26
+* [Review] [Review on: execution/tracing: report an exceptional halt on the struct log entry of its step, with no cost](https://github.com/erigontech/erigon/pull/26653#pullrequestreview-6057279712) - 2026-11-25
+* [Pull Request] [cmd/evm: zkevmtest accepts a piped input](https://github.com/erigontech/erigon/pull/26845) - 2026-11-26
+* [Pull Request] [node/direct: three server streams send nothing after the cancel](https://github.com/erigontech/erigon/pull/26844) - 2026-11-26
+* [Pull Request] [execution/state: a same-tx create and destroy leaves no writes](https://github.com/erigontech/erigon/pull/26819) - 2026-11-25
+* [Review] [Review on: execution/state: a same-tx create and destroy leaves no writes](https://github.com/erigontech/erigon/pull/26819#pullrequestreview-6067407097) - 2026-11-26
+* [Pull Request] [execution/types: DeriveSha hashes 256-item subtries in parallel](https://github.com/erigontech/erigon/pull/26841) - 2026-11-25
+* [Review] [Review on: db/kv/membatchwithdb: arena-allocate membatch keys/values](https://github.com/erigontech/erigon/pull/26661#pullrequestreview-6057146264) - 2026-11-25
+* [Pull Request] [execution/state: the BAL block end runs in parallel chunks](https://github.com/erigontech/erigon/pull/26838) - 2026-11-25
+* [Commit] [db/state: state files missing their first step are not read (#26752)](https://github.com/erigontech/erigon/commit/36a605a973385934ebd103b83cb409fcb74656fe) - 2026-11-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Review] [Review on: mainnet/debug_accountAt: expect an out-of-range index error](https://github.com/erigontech/rpc-tests/pull/648#pullrequestreview-5753950689) - 2026-11-03

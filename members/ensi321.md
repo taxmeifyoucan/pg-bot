@@ -80,6 +80,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat!: run docker image as non-root user](https://github.com/ChainSafe/lodestar/pull/10747) - 2026-11-23
 * [Commit] [chore!: remove deprecated exports (#10743)](https://github.com/ChainSafe/lodestar/commit/4996a91d93e50f665d68ec9e7f03ce652181ece6) - 2026-11-23
 * [Commit] [perf: track seen block attesters in a bitset per epoch (#10696)](https://github.com/ChainSafe/lodestar/commit/71ad43415588105a8b51d39501302640c7c2e7dc) - 2026-11-23
+* [Review] [Review on: fix: range sync through 0-block epoch](https://github.com/ChainSafe/lodestar/pull/10777#pullrequestreview-6069162003) - 2026-11-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 

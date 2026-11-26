@@ -135,6 +135,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(beaconchain): keep one SHA-256 instance per thread](https://github.com/NethermindEth/nethermind/pull/16392) - 2026-11-25
 * [Commit] [fix(ssz): keep zero leaves for inactive progressive container fields (#16373)](https://github.com/NethermindEth/nethermind/commit/6bd8edc9103327bad344b07c5581635affab1cf5) - 2026-11-25
 * [Commit] [perf(flat): build snap sync ranges with the node record bulk set (#16162)](https://github.com/NethermindEth/nethermind/commit/3cee4e251edcc5c86f0294d09547aebda1730d12) - 2026-11-25
+* [Commit] [feat(ssz): generate RefReader views and read stored beacon blocks through them (#16307)](https://github.com/NethermindEth/nethermind/commit/2e87f74f140993f6eabc0f724c775e71703fea04) - 2026-11-25
+* [Commit] [refactor(beacon-chain): bind Beacon API endpoints to attribute-routed services (#16306)](https://github.com/NethermindEth/nethermind/commit/f473d014c45f79b8a415eb2a0ae741be63d4be38) - 2026-11-25
+* [Commit] [perf(beaconchain): keep one SHA-256 instance per thread (#16392)](https://github.com/NethermindEth/nethermind/commit/676d4fc83b14c81932e7222edcaa007594f0ab0f) - 2026-11-25
+* [Commit] [perf(ssz): return the bytes written from Encode (#16395)](https://github.com/NethermindEth/nethermind/commit/941250cd09b4852ca094bf983d0638aa4c0a046b) - 2026-11-25
 ## Q3 2026
 
 

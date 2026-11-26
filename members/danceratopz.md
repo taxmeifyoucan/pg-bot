@@ -115,11 +115,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(ci,doc): rename the default branch to main](https://github.com/ethereum/execution-specs/pull/4035) - 2026-11-20
 * [Issue] [Test Release Tracker: `tests@v21.0.4`](https://github.com/ethereum/execution-specs/issues/4039) - 2026-11-20
 * [Commit] [feat(test-specs): fill frame_tx variants as engine_x fixtures (#3877)](https://github.com/ethereum/execution-specs/commit/24c8ac1e934327bb2a92847cebb5714c075f6ca9) - 2026-11-24
+* [Review] [Review on: feat(tests,test-fixtures,test-consume): reach reorg heads by syncing from a devp2p peer](https://github.com/ethereum/execution-specs/pull/4042#pullrequestreview-6063187339) - 2026-11-25
+* [Review] [Review on: chore(ci): extend outside contributor gate bypass list](https://github.com/ethereum/execution-specs/pull/4068#pullrequestreview-6063159577) - 2026-11-25
+* [Review] [Review on: fix(tests): allow ACCEPTED for the resent payload in out_of_order_payload_delivery](https://github.com/ethereum/execution-specs/pull/4045#pullrequestreview-6057752541) - 2026-11-25
+* [Review] [Review on: fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors](https://github.com/ethereum/execution-specs/pull/4049#pullrequestreview-6056394160) - 2026-11-25
+* [Review] [Review on: refactor(tests): port TransactionReOrgTest as one test with its four scenarios](https://github.com/ethereum/execution-specs/pull/4037#pullrequestreview-6056190905) - 2026-11-25
+* [Review] [Review on: fix(test-consume): retry transaction lookups while the client is still indexing](https://github.com/ethereum/execution-specs/pull/4038#pullrequestreview-6056174889) - 2026-11-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
 
 * [Pull Request] [Update EIP-7928: state per-index netting for withdrawals and system calls](https://github.com/ethereum/EIPs/pull/12711) - 2026-11-24
+* [Review] [Review on: Update EIP-7928: state per-index netting for withdrawals and system calls](https://github.com/ethereum/EIPs/pull/12711#pullrequestreview-6064230416) - 2026-11-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nethermind: map HIVE_SYNC_LOOP_INTERVAL_MS to the sync mode selector timer](https://github.com/ethereum/hive/pull/1621) - 2026-10-14
 

@@ -61,6 +61,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): wrap earlier transaction types into frames where possible (#3500)](https://github.com/ethereum/execution-specs/commit/ecef69b76c1619792abe4ebfba85f6375d21526d) - 2026-11-24
 * [Commit] [feat(spec-specs,tests): charge a frame target's access at frame entry (#3412)](https://github.com/ethereum/execution-specs/commit/745aef2825637ffbd841d3feef35c5f9db6c5efb) - 2026-11-24
 * [Commit] [feat(specs,tests): update EIP-8141 implementation (#3396)](https://github.com/ethereum/execution-specs/commit/13ebecbdf3e3c2e0a01db3c5b7b53cc26e39c3a7) - 2026-11-24
+* [Pull Request] [fix(test-client-clis): map ethrex, geth and nethermind EIP-8141 frame…](https://github.com/ethereum/execution-specs/pull/4070) - 2026-11-25
+* [Review] [Review on: fix(spec-specs): record storage_clears in BAL update_builder_from_tx](https://github.com/ethereum/execution-specs/pull/4051#pullrequestreview-6055776262) - 2026-11-25
+* [Issue] [Test Release Tracker: `bogota-devnet@v3.0.0`](https://github.com/ethereum/execution-specs/issues/4069) - 2026-11-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8141: set code from the default code in SENDER mode](https://github.com/ethereum/EIPs/pull/12506#pullrequestreview-6020064054) - 2026-11-23
 ## Q3 2026

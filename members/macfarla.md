@@ -350,6 +350,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Fix hash collision DOS in eip-2930 access list and eip-2929 storage warms (GHSA-p4r9-732h-pw8w) (s165)](https://github.com/besu-eth/besu/commit/d89bec82ce09eacffb8acb163d8a34777cd056dc) - 2026-11-24
 * [Commit] [Reject an IBFT or QBFT Commit whose seal does not recover to an address (s155) (s191)](https://github.com/besu-eth/besu/commit/f952f5c862fe2997f0be0d76312dfb1785eacd1e) - 2026-11-24
 * [Commit] [Cap the fromAddress/toAddress lists on trace_filter (s197) (s198)](https://github.com/besu-eth/besu/commit/a6fd9b37923af6c2651ff87bd9e1be839683e919) - 2026-11-24
+* [Review] [Review on: Name manual BFT soak test runs after the ref they test](https://github.com/besu-eth/besu/pull/12043#pullrequestreview-6066318345) - 2026-11-25
+* [Review] [Review on: Close owned JSON parsers in JsonUtil](https://github.com/besu-eth/besu/pull/12024#pullrequestreview-6067104252) - 2026-11-26
+* [Review] [Review on: fix(tracing): retain VM frame positions across omitted opcodes](https://github.com/besu-eth/besu/pull/11352#pullrequestreview-6066191287) - 2026-11-25
+* [Review] [Review on: test(rpc): cover the block processing checks of trace_rawTransaction](https://github.com/besu-eth/besu/pull/11952#pullrequestreview-6065572013) - 2026-11-25
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

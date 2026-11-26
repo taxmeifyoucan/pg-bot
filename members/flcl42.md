@@ -146,6 +146,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [fix(light-client): improve peer recovery and bulk downloads](https://github.com/NethermindEth/nethermind/pull/16311) - 2026-11-24
 * [Pull Request] [fix(light-client): extend verified state history to 128 blocks](https://github.com/NethermindEth/nethermind/pull/16309) - 2026-11-24
 * [Pull Request] [fix(light-client): use the authenticated head for pending EVM calls](https://github.com/NethermindEth/nethermind/pull/16310) - 2026-11-24
+* [Pull Request] [fix(light-client): accept large HTTP batches for EVM calls](https://github.com/NethermindEth/nethermind/pull/16313) - 2026-11-25
+* [Commit] [fix(light-client): accept large HTTP batches for EVM calls (#16313)](https://github.com/NethermindEth/nethermind/commit/6db2cbce5a2783881ef5f9e84669ebe3646d8999) - 2026-11-25
+* [Commit] [refactor(network)!: move discovery dependencies out of Nethermind.Network to slim the bootnode (#16166)](https://github.com/NethermindEth/nethermind/commit/ea64afc26961d0573a26ffdaac22c25a19c15ba8) - 2026-11-25
+* [Commit] [fix(light-client): improve peer recovery and bulk downloads (#16311)](https://github.com/NethermindEth/nethermind/commit/8674e5637a704be8755e29dd8bac054aef0b13e5) - 2026-11-25
+* [Commit] [fix(light-client): use the authenticated head for pending EVM calls (#16310)](https://github.com/NethermindEth/nethermind/commit/955bed6e671a46e8d84ba56cbb4b61aab4d5ef91) - 2026-11-25
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

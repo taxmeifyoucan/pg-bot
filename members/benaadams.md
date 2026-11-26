@@ -458,6 +458,26 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-5989077348) - 2026-11-20
 * [Review] [Review on: fix(config, init): follow-ups to the config and init fixes](https://github.com/NethermindEth/nethermind/pull/16151#pullrequestreview-5989071316) - 2026-11-20
 * [Review] [Review on: fix(tracing): close JavaScript tracer Low parity gaps](https://github.com/NethermindEth/nethermind/pull/15958#pullrequestreview-5989080024) - 2026-11-20
+* [Review] [Review on: test(beacon): prove Gloas envelope and builder deposit checks use the injected signature verifier](https://github.com/NethermindEth/nethermind/pull/16409#pullrequestreview-6067254321) - 2026-11-26
+* [Pull Request] [perf(core): accelerate single and batched Keccak on ARM64](https://github.com/NethermindEth/nethermind/pull/16415) - 2026-11-26
+* [Review] [Review on: perf(core): accelerate single and batched Keccak on ARM64](https://github.com/NethermindEth/nethermind/pull/16415#pullrequestreview-6068087359) - 2026-11-26
+* [Review] [Review on: fix(xdc): keep XdcBlockProcessor in tracing environments](https://github.com/NethermindEth/nethermind/pull/16227#pullrequestreview-6067244773) - 2026-11-26
+* [Review] [Review on: fix(rpc): queue IPC connections opened before the first accept](https://github.com/NethermindEth/nethermind/pull/16412#pullrequestreview-6067254818) - 2026-11-26
+* [Review] [Review on: fix(sync): delete the storage trie nodes when flat healing empties a storage](https://github.com/NethermindEth/nethermind/pull/16408#pullrequestreview-6067253729) - 2026-11-26
+* [Review] [Review on: perf(txpool): let block production read the pool without waiting for a bucket update](https://github.com/NethermindEth/nethermind/pull/16407#pullrequestreview-6067253199) - 2026-11-26
+* [Review] [Review on: test(rpc): give websocket pipelining tests a 30 s hang guard](https://github.com/NethermindEth/nethermind/pull/16405#pullrequestreview-6067252621) - 2026-11-26
+* [Review] [Review on: fix(merge): return null blockAccessList for V2 bodies without a stored access list](https://github.com/NethermindEth/nethermind/pull/16399#pullrequestreview-6067252070) - 2026-11-26
+* [Review] [Review on: perf(light-client): reduce memory and metrics traffic](https://github.com/NethermindEth/nethermind/pull/16396#pullrequestreview-6067251582) - 2026-11-26
+* [Review] [Review on: fix(tracing): show the pushed CREATE2 salt to JavaScript tracers](https://github.com/NethermindEth/nethermind/pull/16383#pullrequestreview-6067251072) - 2026-11-26
+* [Review] [Review on: fix(stateless): record the precompile account access in the cached code-info repository](https://github.com/NethermindEth/nethermind/pull/16382#pullrequestreview-6067250557) - 2026-11-26
+* [Review] [Review on: build(beacon): read fork template list from a build property](https://github.com/NethermindEth/nethermind/pull/16381#pullrequestreview-6067250031) - 2026-11-26
+* [Review] [Review on: refactor(init)!: register the block producer and runner in the container](https://github.com/NethermindEth/nethermind/pull/16363#pullrequestreview-6067249465) - 2026-11-26
+* [Review] [Review on: fix(evm): end the node when a precompile's native library cannot be used](https://github.com/NethermindEth/nethermind/pull/16297#pullrequestreview-6067248958) - 2026-11-26
+* [Review] [Review on: fix(logindex): keep legacy indexes instead of rebuilding them](https://github.com/NethermindEth/nethermind/pull/16293#pullrequestreview-6067248405) - 2026-11-26
+* [Review] [Review on: fix(sync): do not hint the Ethash cache for post-merge headers](https://github.com/NethermindEth/nethermind/pull/16296#pullrequestreview-6067247651) - 2026-11-26
+* [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6067243307) - 2026-11-26
+* [Review] [Review on: refactor(merge): await a per-copy verdict from the processing queue in newPayload](https://github.com/NethermindEth/nethermind/pull/16302#pullrequestreview-6067241638) - 2026-11-26
+* [Review] [Review on: fix(tracing): report Geth's precompile and code-deposit errors in callTracer frames](https://github.com/NethermindEth/nethermind/pull/16141#pullrequestreview-6067230556) - 2026-11-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

@@ -43,6 +43,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: FCR: allow users to set custom beta](https://github.com/Consensys-Incorporated/teku/pull/11730#pullrequestreview-6045896547) - 2026-11-24
 * [Pull Request] [run cheap bid gossip checks before retrieving parent state](https://github.com/Consensys-Incorporated/teku/pull/11731) - 2026-11-24
 * [Review] [Review on: Update CHANGELOG after 26.11.0 release](https://github.com/Consensys-Incorporated/teku/pull/11729#pullrequestreview-6038400650) - 2026-11-24
+* [Pull Request] [fix block timeliness at import and guard proposer boost by current slot](https://github.com/Consensys-Incorporated/teku/pull/11750) - 2026-11-25
+* [Commit] [fix block timeliness at import and guard proposer boost by current slot (#11750)](https://github.com/Consensys-Incorporated/teku/commit/94ae7228dcf6ac98f30d051858714707b7cde416) - 2026-11-25
 ## Q3 2026
 
 

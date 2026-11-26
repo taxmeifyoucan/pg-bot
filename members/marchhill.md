@@ -253,6 +253,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix: treat cancelled block production as cancellation and reject submissions to a disposed tx pool (#16168)](https://github.com/NethermindEth/nethermind/commit/05a665eab0e5bf51be7cc1d3f5fa312a36ee50e2) - 2026-11-23
 * [Pull Request] [perf(eip8288): fold a block producer's signatures in wide equal leaves](https://github.com/NethermindEth/nethermind/pull/16393) - 2026-11-25
 * [Review] [Review on: perf(eip8288): fold a block producer's signatures in wide equal leaves](https://github.com/NethermindEth/nethermind/pull/16393#pullrequestreview-6050805405) - 2026-11-25
+* [Pull Request] [feat(eip8288): bucketed, randomly selected mempool aggregation](https://github.com/NethermindEth/nethermind/pull/16411) - 2026-11-25
+* [Review] [Review on: feat(eip8288): bucketed, randomly selected mempool aggregation](https://github.com/NethermindEth/nethermind/pull/16411#pullrequestreview-6064782365) - 2026-11-25
+* [Pull Request] [refactor(shutter)!: remove plugin and unused support code](https://github.com/NethermindEth/nethermind/pull/15345) - 2026-11-25
+* [Commit] [refactor(shutter)!: remove plugin and unused support code (#15345)](https://github.com/NethermindEth/nethermind/commit/cef7ced0f56222fdf0131f8f6d8b4e850a47981f) - 2026-11-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

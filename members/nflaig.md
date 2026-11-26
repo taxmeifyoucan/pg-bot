@@ -486,6 +486,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-6039205090) - 2026-11-24
 * [Review] [Review on: chore: bump @chainsafe/libp2p-quic to 2.1.6](https://github.com/ChainSafe/lodestar/pull/10754#pullrequestreview-6037452076) - 2026-11-24
 * [Commit] [fix: upgrade js-libp2p to 3.5.2 (#10768)](https://github.com/ChainSafe/lodestar/commit/03eb33e6f132af2ba5a7ec6bcfa34f1577bb9a7e) - 2026-11-25
+* [Review] [Review on: fix: keep block input cached when gossip import gives up on missing data](https://github.com/ChainSafe/lodestar/pull/10770#pullrequestreview-6061746636) - 2026-11-25
+* [Pull Request] [fix: disconnect peers with a bad score as soon as they connect](https://github.com/ChainSafe/lodestar/pull/10779) - 2026-11-25
+* [Review] [Review on: refactor: add typed error for a syncing execution client on payload preparation](https://github.com/ChainSafe/lodestar/pull/10735#pullrequestreview-6058645216) - 2026-11-25
+* [Pull Request] [test: wait longer for column verification in unknown block sync tests](https://github.com/ChainSafe/lodestar/pull/10781) - 2026-11-25
+* [Review] [Review on: feat: commit to payload root in bid and remove envelope signature](https://github.com/ChainSafe/lodestar/pull/10727#pullrequestreview-6062301994) - 2026-11-25
+* [Review] [Review on: fix: publish known proposer preferences submitted again via the API](https://github.com/ChainSafe/lodestar/pull/10785#pullrequestreview-6061336566) - 2026-11-25
+* [Pull Request] [fix: bound gossip block transaction count by the parent gas limit](https://github.com/ChainSafe/lodestar/pull/10786) - 2026-11-25
+* [Pull Request] [fix: validate cheap gossip block conditions before computing the block root](https://github.com/ChainSafe/lodestar/pull/10783) - 2026-11-25
+* [Review] [Review on: feat(validator): publish pq attestations as they are signed](https://github.com/ChainSafe/lodestar/pull/10780#pullrequestreview-6058712985) - 2026-11-25
+* [Commit] [fix: disconnect peers with a bad score as soon as they connect (#10779)](https://github.com/ChainSafe/lodestar/commit/4397379d40287309d85d8b60127a6cf99ad7475b) - 2026-11-26
+* [Commit] [fix: exempt direct peers from pruning and score disconnects (#10778)](https://github.com/ChainSafe/lodestar/commit/a69e29ad1e82e7d97c172b007df000171efb00dd) - 2026-11-25
+* [Commit] [docs: note that the Lodestar binary needs libatomic1 (#10776)](https://github.com/ChainSafe/lodestar/commit/3a8a75d41ad92710024d51dd1fb0c798da4d4ffb) - 2026-11-25
+* [Commit] [fix: download all sampled columns of blocks synced by root (#10765)](https://github.com/ChainSafe/lodestar/commit/e60753e276acb037c78b159f62cededac438cf68) - 2026-11-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -593,6 +606,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/lodestar-bn, clients/lodestar-vc: drop flags removed in Lodestar 2.0](https://github.com/ethereum/hive/pull/1670) - 2026-11-22
+* [Review] [Review on: clients/lodestar-bn, clients/lodestar-vc: drop flags removed in Lodestar 2.0](https://github.com/ethereum/hive/pull/1670#pullrequestreview-6053820666) - 2026-11-25
 ## Q3 2026
 
 

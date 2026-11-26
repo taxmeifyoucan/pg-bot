@@ -28,6 +28,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5991333621) - 2026-11-20
 * [Review] [Review on: Extend Gloas optimistic sync in Heze](https://github.com/ethereum/consensus-specs/pull/5852#pullrequestreview-6013526839) - 2026-11-22
 * [Review] [Review on: Gloas optimistic sync tests](https://github.com/ethereum/consensus-specs/pull/5818#pullrequestreview-6013465095) - 2026-11-22
+* [Review] [Review on: Fix EIP-8453 spec generation and finality voting](https://github.com/ethereum/consensus-specs/pull/5855#pullrequestreview-6057056605) - 2026-11-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5828960336) - 2026-11-09
 * [Review] [Review on: ✨ feat(engine): engine_updatePaylaodV1](https://github.com/ethereum/execution-apis/pull/985#pullrequestreview-5991460802) - 2026-11-20
@@ -43,6 +44,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: engine: end each run of cell indices at CELLS_PER_EXT_BLOB - 1 in getPayloadV5](https://github.com/ethereum/execution-apis/pull/1021#pullrequestreview-6019042770) - 2026-11-23
 * [Review] [Review on: engine: state the fork check of payloadAttributes as the condition that must hold](https://github.com/ethereum/execution-apis/pull/1020#pullrequestreview-6019037723) - 2026-11-23
 * [Review] [Review on: engine: move the executionRequests checks to the newPayloadV4 specification](https://github.com/ethereum/execution-apis/pull/1019#pullrequestreview-6019027034) - 2026-11-23
+* [Review] [Review on: ✨ feat(engine): engine_updatePaylaodV1](https://github.com/ethereum/execution-apis/pull/985#pullrequestreview-6062493045) - 2026-11-25
 ## Q3 2026
 
 

@@ -149,6 +149,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Reset a reused peer slot without scanning the transaction-seen map (s85) (s281)](https://github.com/besu-eth/besu/commit/e15e2ce793eb3ae987b07c458a1a0a34d10a9fb2) - 2026-11-24
 * [Commit] [Replace the permissioning allowlist file atomically, under a lock shared by both allowlists (s252)](https://github.com/besu-eth/besu/commit/978623be0bc62d1110e540a5946696dea3cf1a99) - 2026-11-24
 * [Commit] [Compare each linked DNS discovery tree with its own sequence number (s250)](https://github.com/besu-eth/besu/commit/166e161c10bf1505267e9eefa7d4545e3bd9da47) - 2026-11-24
+* [Review] [Review on: Update reference tests to tests@v21.0.3](https://github.com/besu-eth/besu/pull/12046#pullrequestreview-6059746731) - 2026-11-25
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

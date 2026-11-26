@@ -23,6 +23,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[tiering v2 - 18] log per-block BAL batch prefetch stats](https://github.com/erigontech/erigon/pull/26728) - 2026-11-23
 * [Pull Request] [db/snapshotsync: fix nil deref when a merge range is not covered by every type](https://github.com/erigontech/erigon/pull/26795) - 2026-11-25
 * [Pull Request] [[r3.8] db/snapshotsync: fix nil deref when a merge range is not covered by every type](https://github.com/erigontech/erigon/pull/26796) - 2026-11-25
+* [Pull Request] [db/state/statecfg: bump code .kv/.v/.ef and storage .kv versions](https://github.com/erigontech/erigon/pull/26817) - 2026-11-25
+* [Pull Request] [db/integrity, db/state, cmd/utils/app: add fix-account-history and recompress-domain tools](https://github.com/erigontech/erigon/pull/26803) - 2026-11-25
+* [Commit] [db/state/statecfg: bump code .kv/.v/.ef and storage .kv versions (#26817)](https://github.com/erigontech/erigon/commit/2841804a8ebbb7e595d3cc4aaaf5329bf79b18fb) - 2026-11-25
 ## Q3 2026
 
 

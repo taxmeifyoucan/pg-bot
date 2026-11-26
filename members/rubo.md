@@ -149,6 +149,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(zkevm): reuse each call depth's init code buffers in the guest](https://github.com/NethermindEth/nethermind/pull/16298#pullrequestreview-6028427969) - 2026-11-23
 * [Review] [Review on: fix(zkevm): reuse each call depth's init code buffers in the guest](https://github.com/NethermindEth/nethermind/pull/16298#pullrequestreview-6047528080) - 2026-11-24
 * [Review] [Review on: fix(zkevm): abort the guest when it runs out of memory](https://github.com/NethermindEth/nethermind/pull/16300#pullrequestreview-6047397339) - 2026-11-24
+* [Pull Request] [fix(zkevm): copy CREATE init code once in the guest](https://github.com/NethermindEth/nethermind/pull/16406) - 2026-11-25
+* [Pull Request] [chore(deps): update Nethermind.GmpBindings to 6.3.0.203](https://github.com/NethermindEth/nethermind/pull/16403) - 2026-11-25
+* [Commit] [fix(zkevm): copy CREATE init code once in the guest (#16406)](https://github.com/NethermindEth/nethermind/commit/ca48237f8bf85dfb626e8d7c49a3ec8464308552) - 2026-11-25
+* [Commit] [chore(deps): update Nethermind.GmpBindings to 6.3.0.203 (#16403)](https://github.com/NethermindEth/nethermind/commit/ac5f43604c73d0199b8a6c289cf3a635798c73f1) - 2026-11-25
+* [Commit] [fix(zkevm): abort the guest when it runs out of memory (#16300)](https://github.com/NethermindEth/nethermind/commit/72545f13089dc412bfb5d5aec9e7494afd81f7d1) - 2026-11-25
+* [Commit] [fix(zkevm): reuse each call depth's init code buffers in the guest (#16298)](https://github.com/NethermindEth/nethermind/commit/c32e8f3a5a7056cbec9296300de8f2cf57e88121) - 2026-11-25
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

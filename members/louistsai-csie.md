@@ -84,6 +84,12 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): benchmark blocks rejected for a false BAL](https://github.com/ethereum/execution-specs/pull/4019#pullrequestreview-6039343699) - 2026-11-24
 * [Review] [Review on: feat(test-benchmark): add invalid-point and state-root benchmarks](https://github.com/ethereum/execution-specs/pull/3942#pullrequestreview-6035862993) - 2026-11-24
 * [Commit] [refactor(tests): build EIP-8141 frame transaction from helper (#3799)](https://github.com/ethereum/execution-specs/commit/6f31a53299d8152641528d9150a70ccda2541528) - 2026-11-24
+* [Review] [Review on: fix(test-benchmark): compare same-sign operands in the SLT/SGT benchmarks](https://github.com/ethereum/execution-specs/pull/4065#pullrequestreview-6068712590) - 2026-11-26
+* [Review] [Review on: fix(test-client-clis): map ethrex, geth and nethermind EIP-8141 frame…](https://github.com/ethereum/execution-specs/pull/4070#pullrequestreview-6068606162) - 2026-11-26
+* [Review] [Review on: feat(tests): test the code size limit from its activation](https://github.com/ethereum/execution-specs/pull/4058#pullrequestreview-6053215375) - 2026-11-25
+* [Review] [Review on: feat(tests): test CALLDATALOAD at offsets of 2^64 and above](https://github.com/ethereum/execution-specs/pull/4059#pullrequestreview-6053149544) - 2026-11-25
+* [Review] [Review on: feat(tests): test CALLDATACOPY past the calldata end keeps later memory](https://github.com/ethereum/execution-specs/pull/4060#pullrequestreview-6053075969) - 2026-11-25
+* [Review] [Review on: feat(tests): test SIGNEXTEND from every byte position](https://github.com/ethereum/execution-specs/pull/4061#pullrequestreview-6052957195) - 2026-11-25
 ## Q3 2026
 
 

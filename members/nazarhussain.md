@@ -104,6 +104,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix(fork-choice): native fork choice follow-ups from #10584](https://github.com/ChainSafe/lodestar/pull/10769) - 2026-11-24
 * [Review] [Review on: feat: start the native fork choice from an unfinalized state](https://github.com/ChainSafe/lodestar/pull/10653#pullrequestreview-6040902300) - 2026-11-24
 * [Review] [Review on: test(udp): discover address prefix tests](https://github.com/ChainSafe/lodestar/pull/10762#pullrequestreview-6038438415) - 2026-11-24
+* [Review] [Review on: fix(fork-choice): native fork choice follow-ups from #10584](https://github.com/ChainSafe/lodestar/pull/10769#pullrequestreview-6058723392) - 2026-11-25
+* [Review] [Review on: fix: keep block input cached when gossip import gives up on missing data](https://github.com/ChainSafe/lodestar/pull/10770#pullrequestreview-6059017137) - 2026-11-25
+* [Pull Request] [refactor(fork-choice): take slot timing from the clock module](https://github.com/ChainSafe/lodestar/pull/10791) - 2026-11-25
+* [Review] [Review on: refactor: add typed error for a syncing execution client on payload preparation](https://github.com/ChainSafe/lodestar/pull/10735#pullrequestreview-6059898695) - 2026-11-25
+* [Review] [Review on: fix: penalize peers serving invalid payloads by root](https://github.com/ChainSafe/lodestar/pull/10771#pullrequestreview-6059714690) - 2026-11-25
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

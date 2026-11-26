@@ -268,6 +268,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add light client SSE topics and merge the light client flags](https://github.com/Consensys-Incorporated/teku/pull/11651#pullrequestreview-6050147232) - 2026-11-25
 * [Pull Request] [Stagger PQ aggregators and skip redundant aggregates](https://github.com/Consensys-Incorporated/teku/pull/11734) - 2026-11-24
 * [Pull Request] [Cache JSON type definitions' hash codes](https://github.com/Consensys-Incorporated/teku/pull/11735) - 2026-11-24
+* [Review] [Review on: Move payload bodies request to a separate EL request queue ](https://github.com/Consensys-Incorporated/teku/pull/11564#pullrequestreview-6068535509) - 2026-11-26
+* [Pull Request] [Return one fork's proposer preferences in SSZ responses](https://github.com/Consensys-Incorporated/teku/pull/11740) - 2026-11-25
+* [Commit] [Sync parent directory after durable file writes (#11648)](https://github.com/Consensys-Incorporated/teku/commit/a22381c2ffe292168177bf7bb2e510bec78bb329) - 2026-11-26
+* [Commit] [Compact pruned slot ranges of block and sidecar tables (#11640)](https://github.com/Consensys-Incorporated/teku/commit/471c9cd8c412d76329f58fae005d956bb01ebe79) - 2026-11-26
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

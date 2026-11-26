@@ -139,6 +139,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Adopt lean-pq 0.17.0: prove and verify leanVM aggregates in-process](https://github.com/Consensys-Incorporated/teku/pull/11732) - 2026-11-24
 * [Pull Request] [Update CHANGELOG after 26.11.0 release](https://github.com/Consensys-Incorporated/teku/pull/11729) - 2026-11-24
 * [Commit] [Update CHANGELOG after 26.11.0 release (#11729)](https://github.com/Consensys-Incorporated/teku/commit/bc927b57fa26602328701d953938f020088d2fac) - 2026-11-24
+* [Pull Request] [Keep static peers out of discovery peer selection](https://github.com/Consensys-Incorporated/teku/pull/11742) - 2026-11-25
+* [Review] [Review on: Keep static peers out of discovery peer selection](https://github.com/Consensys-Incorporated/teku/pull/11742#pullrequestreview-6060158911) - 2026-11-25
+* [Pull Request] [Count each outbound connection attempt once](https://github.com/Consensys-Incorporated/teku/pull/11741) - 2026-11-25
+* [Review] [Review on: Count each outbound connection attempt once](https://github.com/Consensys-Incorporated/teku/pull/11741#pullrequestreview-6060157602) - 2026-11-25
+* [Pull Request] [Skip disconnecting peers in peer selection and subnet coverage](https://github.com/Consensys-Incorporated/teku/pull/11743) - 2026-11-25
+* [Review] [Review on: Skip disconnecting peers in peer selection and subnet coverage](https://github.com/Consensys-Incorporated/teku/pull/11743#pullrequestreview-6060159593) - 2026-11-25
+* [Commit] [Keep static peers out of discovery peer selection (#11742)](https://github.com/Consensys-Incorporated/teku/commit/d34f619b9fe0b96a4a1cef9c2a71916229818720) - 2026-11-25
+* [Commit] [Count each outbound connection attempt once (#11741)](https://github.com/Consensys-Incorporated/teku/commit/80bc831b0a100ab1deeab69803d4f237c8511bed) - 2026-11-25
+* [Commit] [Skip disconnecting peers in peer selection and subnet coverage (#11743)](https://github.com/Consensys-Incorporated/teku/commit/dfdb9047f04dad1bff185ec1bb588701c74423fc) - 2026-11-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

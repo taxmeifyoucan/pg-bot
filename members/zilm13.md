@@ -92,6 +92,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid](https://github.com/Consensys-Incorporated/teku/pull/11728#pullrequestreview-6042933260) - 2026-11-24
 * [Pull Request] [FCR: allow users to set custom beta](https://github.com/Consensys-Incorporated/teku/pull/11730) - 2026-11-24
 * [Review] [Review on: Return ssz for payload attestation pool response](https://github.com/Consensys-Incorporated/teku/pull/11718#pullrequestreview-6042717453) - 2026-11-24
+* [Review] [Review on: Compact pruned slot ranges of block and sidecar tables](https://github.com/Consensys-Incorporated/teku/pull/11640#pullrequestreview-6058619825) - 2026-11-25
+* [Review] [Review on: fix block timeliness at import and guard proposer boost by current slot](https://github.com/Consensys-Incorporated/teku/pull/11750#pullrequestreview-6062575979) - 2026-11-25
+* [Review] [Review on: Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid](https://github.com/Consensys-Incorporated/teku/pull/11728#pullrequestreview-6053935264) - 2026-11-25
+* [Review] [Review on: Keep static peers out of discovery peer selection](https://github.com/Consensys-Incorporated/teku/pull/11742#pullrequestreview-6059463493) - 2026-11-25
+* [Review] [Review on: Count each outbound connection attempt once](https://github.com/Consensys-Incorporated/teku/pull/11741#pullrequestreview-6059533472) - 2026-11-25
+* [Review] [Review on: Skip disconnecting peers in peer selection and subnet coverage](https://github.com/Consensys-Incorporated/teku/pull/11743#pullrequestreview-6059834278) - 2026-11-25
+* [Issue] [Avoid stale store time in deadline-sensitive checks](https://github.com/Consensys-Incorporated/teku/issues/11751) - 2026-11-25
+* [Commit] [FCR: allow users to set custom beta (#11730)](https://github.com/Consensys-Incorporated/teku/commit/cf454e1aea650bc6d5c9fddc242f40ba1f4cacb7) - 2026-11-25
 ## Q3 2026
 
 

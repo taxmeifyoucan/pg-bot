@@ -413,6 +413,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix: match stored log topics, copy block fee fields and trim the snap result log under lock (#16219)](https://github.com/NethermindEth/nethermind/commit/bdf234fa71d46368b5ce65b466be6f2b4ba3feed) - 2026-11-24
 * [Commit] [perf(rpc): share concurrent gas price scans for the same head (#16208)](https://github.com/NethermindEth/nethermind/commit/24d6bfa3a85f3a9ae45940aa053c42e661ed0d67) - 2026-11-24
 * [Commit] [fix(config, init): follow-ups to the config and init fixes (#16151)](https://github.com/NethermindEth/nethermind/commit/8496289e87a7426416102a9597668c7c6dfc5893) - 2026-11-24
+* [Pull Request] [fix(sync): delete the storage trie nodes when flat healing empties a storage](https://github.com/NethermindEth/nethermind/pull/16408) - 2026-11-25
+* [Review] [Review on: fix(merge): return null blockAccessList for V2 bodies without a stored access list](https://github.com/NethermindEth/nethermind/pull/16399#pullrequestreview-6059510704) - 2026-11-25
+* [Review] [Review on: perf(light-client): reduce memory and metrics traffic](https://github.com/NethermindEth/nethermind/pull/16396#pullrequestreview-6055732953) - 2026-11-25
+* [Review] [Review on: build(beacon): read fork template list from a build property](https://github.com/NethermindEth/nethermind/pull/16381#pullrequestreview-6054297040) - 2026-11-25
+* [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6058396841) - 2026-11-25
+* [Review] [Review on: fix(light-client): accept large HTTP batches for EVM calls](https://github.com/NethermindEth/nethermind/pull/16313#pullrequestreview-6054577721) - 2026-11-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 

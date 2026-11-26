@@ -109,6 +109,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Allow setting the same cached root on Hc twice](https://github.com/grandinetech/grandine/commit/ff0b2d6b2c1690fe125cca92de7880bacaaad2e1) - 2026-11-24
 * [Commit] [Add extend and range retention to SSZ lists](https://github.com/grandinetech/grandine/commit/dfe8d466d43fd72c6dfba481d78f813578feae5c) - 2026-11-24
 * [Commit] [Batch participation updates for attestations](https://github.com/grandinetech/grandine/commit/6b2f7083d8cd913bc2e70fe295dd0dbf7786742d) - 2026-11-24
+* [Pull Request] [Handle Windows paths in fast confirmation tests](https://github.com/grandinetech/grandine/pull/1073) - 2026-11-25
+* [Pull Request] [Fix cache size estimation tests](https://github.com/grandinetech/grandine/pull/1071) - 2026-11-25
+* [Commit] [Handle Windows paths in fast confirmation tests](https://github.com/grandinetech/grandine/commit/c3a3cdf2288b458ebb98a2e23ee958c0f75c9406) - 2026-11-25
+* [Commit] [Fix cache size estimation tests](https://github.com/grandinetech/grandine/commit/413848e1f8912b41bdaa867e836581b8412d5c94) - 2026-11-25
 ## Q3 2026
 
 

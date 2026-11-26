@@ -138,6 +138,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: refresh the native fork choice head after importing an execution payload](https://github.com/ChainSafe/lodestar/pull/10757#pullrequestreview-6037567873) - 2026-11-24
 * [Issue] [Range sync stuck forever on epochs with 0 blocks (pq-devnet-0)](https://github.com/ChainSafe/lodestar/issues/10772) - 2026-11-25
 * [Commit] [fix: validate every fork choice node carrying a now-valid payload (#10660)](https://github.com/ChainSafe/lodestar/commit/dc17dafff7ad94444d01e4413ee821a2b69ae6f1) - 2026-11-24
+* [Pull Request] [fix: range sync through 0-block epoch](https://github.com/ChainSafe/lodestar/pull/10777) - 2026-11-25
+* [Review] [Review on: fix: range sync through 0-block epoch](https://github.com/ChainSafe/lodestar/pull/10777#pullrequestreview-6054813983) - 2026-11-25
+* [Review] [Review on: fix: keep block input cached when gossip import gives up on missing data](https://github.com/ChainSafe/lodestar/pull/10770#pullrequestreview-6068462726) - 2026-11-26
+* [Review] [Review on: fix: disconnect peers with a bad score as soon as they connect](https://github.com/ChainSafe/lodestar/pull/10779#pullrequestreview-6068383574) - 2026-11-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

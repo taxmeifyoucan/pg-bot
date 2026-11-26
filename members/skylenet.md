@@ -14,6 +14,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: build the bad block report with a strings.Builder](https://github.com/ethereum/go-ethereum/pull/35952) - 2026-10-15
 * [Commit] [core: build the bad block report with a strings.Builder (#35952)](https://github.com/ethereum/go-ethereum/commit/5558e05d92985d5a1c81e46b5bce50ab19ba1b25) - 2026-10-16
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Review] [Review on: python/ansible: uv + pyproject.toml venv, ansible-core with pinned collections](https://github.com/ethpandaops/template-devnets/pull/205#pullrequestreview-6059275678) - 2026-11-25
 ## Q3 2026
 
 

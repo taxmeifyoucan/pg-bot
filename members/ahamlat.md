@@ -53,6 +53,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-5957127804) - 2026-11-18
 * [Review] [Review on: Add OSS Scanner resources](https://github.com/besu-eth/besu/pull/11959#pullrequestreview-6019209856) - 2026-11-23
 * [Commit] [Bound EIP-7702 authorization lists from peers by the fork's gas rules (s264)](https://github.com/besu-eth/besu/commit/a154a53ceeaca01aaada3c977e44cfae83e3c91f) - 2026-11-24
+* [Pull Request] [Improve QBFT sustained single-transfer throughput (txpool, block selection, and gossip)](https://github.com/besu-eth/besu/pull/12049) - 2026-11-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

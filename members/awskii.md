@@ -694,6 +694,45 @@ Team: Erigon
 * [Issue] [execution/execmodule: forkchoice indexes another branch over executed state when the canonical index lags Finish](https://github.com/erigontech/erigon/issues/26763) - 2026-11-24
 * [Commit] [execution/types: remove deprecated NewReceipt (#26779)](https://github.com/erigontech/erigon/commit/95c035d21e7a779b16642cbd21638bb7b554d794) - 2026-11-25
 * [Commit] [AGENTS.md: vendor two Ponytail skills, drop the plugin install (#26751)](https://github.com/erigontech/erigon/commit/00f67e868c7244edc6b8b8b97ed3f48790986149) - 2026-11-24
+* [Pull Request] [execution/protocol: drop the uncontended mutex from GetHashFn](https://github.com/erigontech/erigon/pull/26865) - 2026-11-26
+* [Review] [Review on: db/state: add beginRo test helper for read-only test transactions](https://github.com/erigontech/erigon/pull/26815#pullrequestreview-6069162478) - 2026-11-26
+* [Pull Request] [execution/commitment/trie: clear subtrees at exhausted prefixes](https://github.com/erigontech/erigon/pull/26866) - 2026-11-26
+* [Review] [Review on: db/state: smaller test fixtures and a beginRw helper](https://github.com/erigontech/erigon/pull/26814#pullrequestreview-6069153702) - 2026-11-26
+* [Review] [Review on: cl/sentinel: start GossipSub before dialing subnet test peers](https://github.com/erigontech/erigon/pull/26811#pullrequestreview-6069114673) - 2026-11-26
+* [Review] [Review on: execution, db/state: one irreversible block replaces FinalityContext](https://github.com/erigontech/erigon/pull/26808#pullrequestreview-6069106626) - 2026-11-26
+* [Review] [Review on: rpc, node: cut per-request work on the HTTP JSON-RPC path](https://github.com/erigontech/erigon/pull/26790#pullrequestreview-6068928194) - 2026-11-26
+* [Review] [Review on: rpc/jsonrpc: accept a positional state override map in trace_call and trace_callMany](https://github.com/erigontech/erigon/pull/26785#pullrequestreview-6068912022) - 2026-11-26
+* [Review] [Review on: execution/stagedsync: BAL compute-ahead reads each base account once](https://github.com/erigontech/erigon/pull/26820#pullrequestreview-6069205349) - 2026-11-26
+* [Review] [Review on: txpool: simplify remote authorization budget tests](https://github.com/erigontech/erigon/pull/26804#pullrequestreview-6068952605) - 2026-11-26
+* [Review] [Review on: cl/sentinel: take a new peer's direction from its open connections in the gater](https://github.com/erigontech/erigon/pull/26802#pullrequestreview-6068940499) - 2026-11-26
+* [Review] [Review on: cl/beacon/handler, cl/phase1/forkchoice, cl/phase1/stages: use the canonical Gloas execution hash when publishing a block](https://github.com/erigontech/erigon/pull/26809#pullrequestreview-6069141161) - 2026-11-26
+* [Review] [Review on: cl: drop eth1 data and deposit processing in Heze (EIP-8015), skip new BLS-credential validators (EIP-8365)](https://github.com/erigontech/erigon/pull/26805#pullrequestreview-6069001721) - 2026-11-26
+* [Review] [Review on: rpc/jsonrpc: skip the state prune gate for the latest executed block](https://github.com/erigontech/erigon/pull/26740#pullrequestreview-6068892679) - 2026-11-26
+* [Pull Request] [cl/antiquary: freeze beacon blocks only up to the canonical head](https://github.com/erigontech/erigon/pull/26847) - 2026-11-26
+* [Pull Request] [db/snapshotsync/freezeblocks: fail a beacon block dump at a canonical slot with no body](https://github.com/erigontech/erigon/pull/26848) - 2026-11-26
+* [Review] [Review on: cmd/tools/jsongen, execution/types, rpc/jsonstream: generate the Logs encoder with shared fields](https://github.com/erigontech/erigon/pull/26681#pullrequestreview-6068801036) - 2026-11-26
+* [Pull Request] [execution/commitment: move HexPatriciaHashed into its own package](https://github.com/erigontech/erigon/pull/26810) - 2026-11-25
+* [Pull Request] [db/state/statecfg, cmd/utils: default to commitment v3, warn on legacy datadirs](https://github.com/erigontech/erigon/pull/26826) - 2026-11-25
+* [Pull Request] [db/state, db/snapcfg, cmd: select the commitment trie from the datadir, snapshot branch release/3.10 for v3](https://github.com/erigontech/erigon/pull/26825) - 2026-11-25
+* [Pull Request] [.github/workflows: bump rpc-tests to v2.42.2 for debug_traceCall test_25](https://github.com/erigontech/erigon/pull/26843) - 2026-11-26
+* [Review] [Review on: db/state: v3 commitment history convert and one shared verify](https://github.com/erigontech/erigon/pull/26276#pullrequestreview-6056597977) - 2026-11-25
+* [Issue] [db/state: BuildFiles2 panics when its build is canceled](https://github.com/erigontech/erigon/issues/26863) - 2026-11-26
+* [Issue] [rpc: parallel batch calls write the HTTP overload flag with no synchronization](https://github.com/erigontech/erigon/issues/26857) - 2026-11-26
+* [Issue] [rpc/jsonrpc: trace_callMany ignores a custom tracer when every call asks only for stateDiff](https://github.com/erigontech/erigon/issues/26855) - 2026-11-26
+* [Issue] [cl/cltypes: BeaconBlock.EncodingSizeSSZ omits the 4-byte body offset](https://github.com/erigontech/erigon/issues/26850) - 2026-11-26
+* [Issue] [cl/beacon/handler: block publication can send older safe and finalized hashes](https://github.com/erigontech/erigon/issues/26864) - 2026-11-26
+* [Issue] [execution/execmodule: catch-up prune and collation run before a staged reorg commits](https://github.com/erigontech/erigon/issues/26862) - 2026-11-26
+* [Issue] [cmd/caplin: upgradeGenesisState has no Heze case](https://github.com/erigontech/erigon/issues/26860) - 2026-11-26
+* [Issue] [txnprovider/txpool: ParseTransactions reads past the declared RLP list length](https://github.com/erigontech/erigon/issues/26859) - 2026-11-26
+* [Issue] [cl/sentinel: GetPeersInfos can report a live inbound peer as outbound](https://github.com/erigontech/erigon/issues/26858) - 2026-11-26
+* [Issue] [rpc/jsonrpc: eth_getCode returns code bytes after its read transaction ends](https://github.com/erigontech/erigon/issues/26854) - 2026-11-26
+* [Issue] [rpc/jsonrpc: eth_getCode returns 0x when the account or code read fails](https://github.com/erigontech/erigon/issues/26853) - 2026-11-26
+* [Issue] [rpc/rpchelper: a blocked filter stream send holds the request mutex with no deadline](https://github.com/erigontech/erigon/issues/26851) - 2026-11-26
+* [Issue] [cl/beacon/handler: execution payload bid POST returns 200 when the gossip publish fails](https://github.com/erigontech/erigon/issues/26849) - 2026-11-26
+* [Issue] [Caplin retention regimes: archive, pruned, spec, tip](https://github.com/erigontech/erigon/issues/26842) - 2026-11-26
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: integration: debug_traceCall test_25 expects -32602 for an unsupported block override](https://github.com/erigontech/rpc-tests/pull/670#pullrequestreview-6067364553) - 2026-11-26
 ## Q3 2026
 
 

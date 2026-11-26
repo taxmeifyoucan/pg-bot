@@ -57,6 +57,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Fix poisoning attack on validator pubkey cache](https://github.com/sigp/lighthouse/pull/10569#pullrequestreview-6032381539) - 2026-11-24
 * [Review] [Review on: Tidy up leftovers from the Router removal](https://github.com/sigp/lighthouse/pull/10636#pullrequestreview-6030563402) - 2026-11-23
 * [Review] [Review on: Use the Gloas min epochs for block requests as the backfill range](https://github.com/sigp/lighthouse/pull/10270#pullrequestreview-6030358162) - 2026-11-23
+* [Review] [Review on: Fix poisoning attack on validator pubkey cache](https://github.com/sigp/lighthouse/pull/10569#pullrequestreview-6067316416) - 2026-11-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5424113559) - 2026-10-06
 

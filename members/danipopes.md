@@ -107,6 +107,12 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 2 updates](https://github.com/paradigmxyz/reth/pull/28347#pullrequestreview-5830017933) - 2026-11-09
 * [Pull Request] [chore: make vergen output idempotent by default](https://github.com/paradigmxyz/reth/pull/28576) - 2026-11-17
 * [Commit] [chore: make vergen output idempotent by default (#28576)](https://github.com/paradigmxyz/reth/commit/73686021c0d7030a5dfc9e949bc9a31d1b8ca911) - 2026-11-17
+* [Review] [Review on: perf(rpc): write debug struct logs as raw JSON](https://github.com/paradigmxyz/reth/pull/28559#pullrequestreview-6063216609) - 2026-11-25
+* [Pull Request] [fix(ipc): stop splitting interprocess streams](https://github.com/paradigmxyz/reth/pull/28751) - 2026-11-25
+* [Pull Request] [ci: bump cargo-update-pr to fix the weekly cargo update](https://github.com/paradigmxyz/reth/pull/28747) - 2026-11-25
+* [Commit] [ci: bump cargo-update-pr to fix the weekly cargo update (#28747)](https://github.com/paradigmxyz/reth/commit/477d7b8bd83ff5c5f3027f6ceb617e7404b6e788) - 2026-11-25
+* [Commit] [docs(rpc): describe evm memory limit as per call frame (#28735)](https://github.com/paradigmxyz/reth/commit/32e6694f6be2787323cb9a1c8439d7ef2a095b3d) - 2026-11-25
+* [Commit] [feat(rpc): lower default EVM memory limit to 100 MiB (#28734)](https://github.com/paradigmxyz/reth/commit/2ad02efba410af637e4a6bd319881c67579dc99c) - 2026-11-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

@@ -39,6 +39,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix(rpc): take blocking IO permit in eth_estimateGas and eth_fillTransaction handlers](https://github.com/paradigmxyz/reth/pull/28690) - 2026-11-23
 * [Review] [Review on: feat(rpc): add pooled raw transaction recovery hooks](https://github.com/paradigmxyz/reth/pull/28687#pullrequestreview-6026515746) - 2026-11-23
 * [Commit] [fix(rpc): take blocking IO permit in eth_estimateGas and eth_fillTransaction handlers (#28690)](https://github.com/paradigmxyz/reth/commit/167933d17ad47fe7354f5942ddd6f0d3e343bb41) - 2026-11-23
+* [Review] [Review on: fix(rpc): bound callMany request parsing](https://github.com/paradigmxyz/reth/pull/28748#pullrequestreview-6063861701) - 2026-11-25
 ## Q3 2026
 
 

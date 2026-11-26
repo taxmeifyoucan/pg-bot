@@ -30,6 +30,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Move new `beacon_node` tests to Spec](https://github.com/sigp/lighthouse/pull/10618) - 2026-11-18
 * [Review] [Review on: Create Spec constants as a single source of truth](https://github.com/sigp/lighthouse/pull/10619#pullrequestreview-6021551982) - 2026-11-23
 * [Pull Request] [Select network preset at compile time](https://github.com/sigp/lighthouse/pull/10648) - 2026-11-24
+* [Review] [Review on: Select network preset at compile time](https://github.com/sigp/lighthouse/pull/10648#pullrequestreview-6065426482) - 2026-11-25
+* [Pull Request] [Set `Spec` as a default type parameter in `types` and `eth2`](https://github.com/sigp/lighthouse/pull/10668) - 2026-11-25
 ## Q3 2026
 
 

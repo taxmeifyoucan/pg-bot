@@ -1176,6 +1176,26 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(blockchain): find a transaction receipt with a loop (#16327)](https://github.com/NethermindEth/nethermind/commit/da85194227d6aa266d26ae1a2120afc96da1cae1) - 2026-11-24
 * [Commit] [fix(merge): log a failure of a follow-up block improvement (#16324)](https://github.com/NethermindEth/nethermind/commit/083f91c5f931dfb338c30d17effdf804354ee82e) - 2026-11-24
 * [Commit] [perf(evm): credit a value-less precompile call only to an existing empty account (#16238)](https://github.com/NethermindEth/nethermind/commit/ef1aec8d0fc08a882936244ddba1711a05591983) - 2026-11-24
+* [Pull Request] [perf(txpool): let block production read the pool without waiting for a bucket update](https://github.com/NethermindEth/nethermind/pull/16407) - 2026-11-25
+* [Pull Request] [test(rpc): give websocket pipelining tests a 30 s hang guard](https://github.com/NethermindEth/nethermind/pull/16405) - 2026-11-25
+* [Pull Request] [fix(merge): return null blockAccessList for V2 bodies without a stored access list](https://github.com/NethermindEth/nethermind/pull/16399) - 2026-11-25
+* [Commit] [refactor(txpool)!: remove unused TryMergeBlobCells and TryGetBlobAndProofV1 (#16359)](https://github.com/NethermindEth/nethermind/commit/163720cdd943bb230bffc069885d25cecd02316b) - 2026-11-25
+* [Commit] [perf(db): reuse warmup read buffers across files (#16341)](https://github.com/NethermindEth/nethermind/commit/d5677ba20f02e812e6b5e051f010cdf78db6c7cf) - 2026-11-25
+* [Commit] [test(discovery): build the listener state directly in the discv4 address-rotation test (#16401)](https://github.com/NethermindEth/nethermind/commit/e2f069a658b58798fba678444271ec99ff6ff3c7) - 2026-11-25
+* [Commit] [test(era): tolerate one-off runtime allocations in the EnsureMatch allocation check (#16398)](https://github.com/NethermindEth/nethermind/commit/094bc5aa31775386e063220bbb017484e231a9e5) - 2026-11-25
+* [Commit] [refactor(optimism, taiko)!: remove the Optimism and Taiko api subclasses (#16366)](https://github.com/NethermindEth/nethermind/commit/99be73dd1c84ebe00a19ac81a524f865b22f3679) - 2026-11-25
+* [Commit] [refactor(txpool)!: read AcceptTxWhenNotSynced from config only (#16357)](https://github.com/NethermindEth/nethermind/commit/f466c387fae6cb3757d2658a47c5d70cebdb4f00) - 2026-11-25
+* [Commit] [refactor(sync)!: ask sync peers whether they serve node data instead of comparing eth versions (#16356)](https://github.com/NethermindEth/nethermind/commit/b89b8fe81d7b3014d323c581d43ab3210676341d) - 2026-11-25
+* [Commit] [refactor(clique): move the sync header-wait override into the Clique module (#16355)](https://github.com/NethermindEth/nethermind/commit/fd13c77bcb77d5f9b875cda90ce3635205b98810) - 2026-11-25
+* [Commit] [refactor(sync)!: let the sync server stop block gossip from its own gossip policy (#16354)](https://github.com/NethermindEth/nethermind/commit/b18ddce459a0860d68b498d876e0e8c48a3cac1f) - 2026-11-25
+* [Commit] [refactor(evm): decide warmup log suppression from tracer flags, not tracer type (#16350)](https://github.com/NethermindEth/nethermind/commit/905d8e9b282afb637668b04cbd4572ba65e8ae57) - 2026-11-25
+* [Commit] [fix(rpc): return admin peer timeout sources to the pool (#16343)](https://github.com/NethermindEth/nethermind/commit/ae31c61ad08a94f2e58b3f809983d53ffe7f7b37) - 2026-11-25
+* [Commit] [refactor(config): use TryGetValue instead of double dictionary lookups (#16342)](https://github.com/NethermindEth/nethermind/commit/69d23c2b3d52dff0b57af0f2223059560577fce4) - 2026-11-25
+* [Commit] [fix(init): isolate and log explicit receipt migrations (#16339)](https://github.com/NethermindEth/nethermind/commit/413604219e19956d83156b6c6b8b1c0c1de0ffd1) - 2026-11-25
+* [Commit] [refactor(rpc): start the IPC server with Task.Run (#16337)](https://github.com/NethermindEth/nethermind/commit/f23b0701480a9d0d93c450eb9c1374b37d62a20d) - 2026-11-25
+* [Commit] [fix(rlp): keep the cause when decoder registration fails (#16334)](https://github.com/NethermindEth/nethermind/commit/8f582b7f8101d8afbf3ffc8d85389f9832dade02) - 2026-11-25
+* [Commit] [refactor(state): cache the WorldState parent reader in the BAL world state (#16333)](https://github.com/NethermindEth/nethermind/commit/59ef8b2bc4060ff60724decfec66fbdedc90c087) - 2026-11-25
+* [Commit] [fix(logging): write all queued entries on ConsoleAsyncLogger flush (#16315)](https://github.com/NethermindEth/nethermind/commit/9248cf559c3c2fc010a3fd6273c70c8e5f004cb9) - 2026-11-25
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

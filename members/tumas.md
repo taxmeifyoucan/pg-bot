@@ -87,6 +87,8 @@ Team: Grandine
 * [Commit] [Use fork-specific rules in expected withdrawals endpoint](https://github.com/grandinetech/grandine/commit/d08c3a5fb39295f14f53f84f4858e4804ab64053) - 2026-11-23
 * [Review] [Review on: Modify default hierarchy config](https://github.com/grandinetech/grandine/pull/1069#pullrequestreview-6043123932) - 2026-11-24
 * [Commit] [Skip parallel key aggregation for single-key triples](https://github.com/grandinetech/grandine/commit/8c2efba68142e9ec20e57c86e978c8693447a7b6) - 2026-11-24
+* [Pull Request] [Group multi_verify signatures by message](https://github.com/grandinetech/grandine/pull/1077) - 2026-11-25
+* [Review] [Review on: Handle Windows paths in fast confirmation tests](https://github.com/grandinetech/grandine/pull/1073#pullrequestreview-6059378109) - 2026-11-25
 ## Q3 2026
 
 

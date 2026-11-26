@@ -132,6 +132,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #965 from ethpandaops/build-branch-tag-guard](https://github.com/ethpandaops/xatu/commit/7a94b7e557271190b76c76a7500ced5d750c60ab) - 2026-11-25
 * [Commit] [Merge pull request #964 from ethpandaops/build-branch-workflow](https://github.com/ethpandaops/xatu/commit/f673c1e8c8d49c1088bc98cd858d128354384417) - 2026-11-25
 * [Commit] [feat(cryo): maxConcurrentRequests caps cryo's in-flight RPC requests (#961)](https://github.com/ethpandaops/xatu/commit/9ed8227a03a57f752f77874d0c73b3897e85169d) - 2026-11-25
+* [Pull Request] [fix(cannon): confirm missed slots across chain stalls](https://github.com/ethpandaops/xatu/pull/973) - 2026-11-26
+* [Pull Request] [feat(cannon): derive pq-devnet-0 blocks, duties and validators](https://github.com/ethpandaops/xatu/pull/972) - 2026-11-26
+* [Pull Request] [feat(cannon,mimicry): capture EIP-8141 frame transactions on daisugi-devnet-0](https://github.com/ethpandaops/xatu/pull/971) - 2026-11-25
+* [Pull Request] [chore(pq-devnet-0): merge master into release/pq-devnet-0](https://github.com/ethpandaops/xatu/pull/970) - 2026-11-25
+* [Pull Request] [chore(bogota-devnet-2): merge master into release/bogota-devnet-2](https://github.com/ethpandaops/xatu/pull/969) - 2026-11-25
+* [Pull Request] [chore(heze-devnet-2): merge master into release/heze-devnet-2](https://github.com/ethpandaops/xatu/pull/968) - 2026-11-25
+* [Pull Request] [chore(glamsterdam-devnet-8): merge master into release/glamsterdam-devnet-8](https://github.com/ethpandaops/xatu/pull/967) - 2026-11-25
+* [Pull Request] [ci: build-branch.yaml works on release branches without cryo patches](https://github.com/ethpandaops/xatu/pull/966) - 2026-11-25
+* [Commit] [Merge pull request #966 from ethpandaops/cryo-patch-chmod](https://github.com/ethpandaops/xatu/commit/8f57fb1efa31a867fe63aa54bb5898a346fe6fba) - 2026-11-25
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -141,6 +150,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [ansible: rotate shared nginx basic auth (user eth) in all inventories](https://github.com/ethpandaops/template-devnets/commit/952600da66eeed6bad95421940fa6602a79f1ecb) - 2026-11-16
 * [Pull Request] [ci(hive): pull Docker Hub images through the pull-through cache instead of logging in](https://github.com/ethpandaops/template-devnets/pull/202) - 2026-11-21
 * [Commit] [ci(hive): pull Docker Hub images through the pull-through cache instead of logging in (#202)](https://github.com/ethpandaops/template-devnets/commit/fdd07e0dc0809b0513588ffafba6c3d0899cfa1d) - 2026-11-23
+* [Pull Request] [feat: devnet repos own their public hosts and class secrets](https://github.com/ethpandaops/template-devnets/pull/208) - 2026-11-26
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 
@@ -151,6 +161,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Release images through GHCR and the image mirror (#262)](https://github.com/ethpandaops/contributoor/commit/b33d966f2436eb15151a8342b814d2b535c8e00c) - 2026-11-23
 * [Pull Request] [Remove comments that restate the workflow permissions](https://github.com/ethpandaops/contributoor/pull/263) - 2026-11-23
 * [Commit] [Remove comments that restate the workflow permissions (#263)](https://github.com/ethpandaops/contributoor/commit/c00971be14298e18064b8c3061aaeac0c2b86f95) - 2026-11-24
+* [Pull Request] [ci: stop dispatching contributoor-installer updates on release](https://github.com/ethpandaops/contributoor/pull/264) - 2026-11-26
+* [Commit] [Merge pull request #264 from ethpandaops/remove-installer-dispatch](https://github.com/ethpandaops/contributoor/commit/88e09efdafb136e02cec367225c21e6fdc5d8254) - 2026-11-26
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(hoodi): add tysm v1.1.3 to gloas min client versions](https://github.com/ethpandaops/cartographoor/pull/116) - 2026-10-19
 * [Pull Request] [feat(hoodi): schedule gloas at epoch 132352](https://github.com/ethpandaops/cartographoor/pull/115) - 2026-10-19
@@ -177,6 +189,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Publish images through GHCR and the image mirror (#73)](https://github.com/ethpandaops/tracoor/commit/f81c36019f915dcf9abdfbaca1382421d883c37f) - 2026-11-23
 * [Pull Request] [Remove comments that restate the workflow permissions](https://github.com/ethpandaops/tracoor/pull/74) - 2026-11-23
 * [Commit] [Remove comments that restate the workflow permissions (#74)](https://github.com/ethpandaops/tracoor/commit/33e0c3819ac4129893eb48c89eff7a843ca01d32) - 2026-11-24
+* [Pull Request] [ci: build branch docker images with build-branch.yaml](https://github.com/ethpandaops/tracoor/pull/77) - 2026-11-25
+* [Commit] [Merge pull request #77 from ethpandaops/build-branch-workflow](https://github.com/ethpandaops/tracoor/commit/ce79defeacfaf04f561388f4dcfda7c099614dfa) - 2026-11-25
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(slots): proposer client card on the slot page](https://github.com/ethpandaops/lab/pull/450) - 2026-10-20
 * [Pull Request] [feat(ethereum): proposer clients page from block graffiti](https://github.com/ethpandaops/lab/pull/449) - 2026-10-19
@@ -412,6 +426,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(clients): draw current releases in the long-window version share chart (#573)](https://github.com/ethpandaops/lab/commit/34e2d417e4e483f3e723d44a3360c4cfe7849d24) - 2026-11-17
 * [Pull Request] [ci: dispatch lab-backend releases with an ethpandaops-ci App token](https://github.com/ethpandaops/lab/pull/574) - 2026-11-25
 * [Commit] [Merge pull request #574 from ethpandaops/lab-ci-app-token](https://github.com/ethpandaops/lab/commit/bbadaa5721f35ed0151d0a9587abf438187b5f78) - 2026-11-25
+* [Pull Request] [fix(validators): show an empty state when a network has no validator data](https://github.com/ethpandaops/lab/pull/575) - 2026-11-26
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

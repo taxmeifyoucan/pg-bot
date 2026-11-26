@@ -476,6 +476,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/das, cl/beacon/handler: build Fulu blobs from stored columns on request](https://github.com/erigontech/erigon/pull/26794) - 2026-11-25
 * [Commit] [cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg (#26682)](https://github.com/erigontech/erigon/commit/40a8f25b1f0260114d8e234cc9fd0cbafe1d6150) - 2026-11-24
 * [Commit] [cl/phase1/network/services: verify gossip aggregates on nodes without validators (#26713)](https://github.com/erigontech/erigon/commit/ac7c516c690db7bb9d01b5b98f3d8794af0ef980) - 2026-11-24
+* [Pull Request] [cl/beacon/handler, cl/phase1/forkchoice, cl/phase1/stages: use the canonical Gloas execution hash when publishing a block](https://github.com/erigontech/erigon/pull/26809) - 2026-11-25
+* [Review] [Review on: cl/beacon/handler, cl/phase1/forkchoice, cl/phase1/stages: use the canonical Gloas execution hash when publishing a block](https://github.com/erigontech/erigon/pull/26809#pullrequestreview-6061422066) - 2026-11-25
+* [Pull Request] [cl: drop eth1 data and deposit processing in Heze (EIP-8015), skip new BLS-credential validators (EIP-8365)](https://github.com/erigontech/erigon/pull/26805) - 2026-11-25
+* [Commit] [cl/beacon/handler: strict blob selectors in commitment order (#26775)](https://github.com/erigontech/erigon/commit/72fa45bd67590e9e3bef3a204e54f1919d772920) - 2026-11-25
+* [Commit] [cl/blobfetch: fall back to the blobs endpoint before Gloas (#26760)](https://github.com/erigontech/erigon/commit/63d70498b940819a637c9952b2707ca8ecefda5d) - 2026-11-25
+* [Commit] [cl/das: check every stored column before blob recovery uses it (#26783)](https://github.com/erigontech/erigon/commit/61dbf7824a02321350f81cc03a285cc511b95b83) - 2026-11-25
 ## Q3 2026
 
 

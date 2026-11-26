@@ -144,6 +144,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(specs,tests): adapt frame transactions to current Amsterdam gas limits](https://github.com/ethereum/execution-specs/commit/716541af263c06d11f710f8c717a4dc176e2797a) - 2026-11-24
 * [Commit] [feat(ci): split the devnet release fill across fork ranges through Bogota (#3418)](https://github.com/ethereum/execution-specs/commit/cad9b20566afb532b0b44eaa342ca968e7815428) - 2026-11-24
 * [Commit] [feat(ci): fill the frames devnet release at the Bogota pseudo-fork](https://github.com/ethereum/execution-specs/commit/d969ac920810075601a76153a72c603aeb5641d0) - 2026-11-24
+* [Pull Request] [chore(ci): extend outside contributor gate bypass list](https://github.com/ethereum/execution-specs/pull/4068) - 2026-11-25
+* [Commit] [chore(ci): extend outside contributor gate bypass list (#4068)](https://github.com/ethereum/execution-specs/commit/6ddb3e181894a1cd08eca155695a8ee364e8bcdc) - 2026-11-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

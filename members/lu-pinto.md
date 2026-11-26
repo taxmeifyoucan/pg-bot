@@ -50,6 +50,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811#pullrequestreview-6001782661) - 2026-11-21
 * [Commit] [add TOP_BITS_KEYS jmh tests (s263)](https://github.com/besu-eth/besu/commit/8e67540640ebd17bcae6f5e3c0e04cc6cba5e519) - 2026-11-24
 * [Commit] [AddressStorageSlotKey hashcodes across 32bit lanes (GHSA-xgjc-g2f5-r2pq)](https://github.com/besu-eth/besu/commit/80b3c274778ea0f2ae8c9f66d62c6b125b116478) - 2026-11-24
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8037: Move to Review](https://github.com/ethereum/EIPs/pull/12717) - 2026-11-25
 ## Q3 2026
 
 

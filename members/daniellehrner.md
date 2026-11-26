@@ -286,6 +286,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Reset the world state when a block runs over its gas budget (s280)](https://github.com/besu-eth/besu/commit/048916fbecd1d311440138008716b9f0cd4fe434) - 2026-11-24
 * [Commit] [Sync with SNAP when SNAP2 starts before Amsterdam (#11983)](https://github.com/besu-eth/besu/commit/6432c7f93178cb8927cc8af19a00d608b4114876) - 2026-11-24
 * [Commit] [Add a CHANGELOG entry for the block replay fix in #11754 (#12034)](https://github.com/besu-eth/besu/commit/168a6e64e6a6de3a0e9ab420e63e5ecc5b7b31f7) - 2026-11-24
+* [Review] [Review on: Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809#pullrequestreview-6061244338) - 2026-11-25
+* [Pull Request] [Update reference tests to tests@v21.0.3](https://github.com/besu-eth/besu/pull/12046) - 2026-11-25
+* [Review] [Review on: Update reference tests to tests@v21.0.3](https://github.com/besu-eth/besu/pull/12046#pullrequestreview-6061065620) - 2026-11-25
+* [Pull Request] [[1/5] Optimistic processor handoff: index the storage slots each run read and wrote](https://github.com/besu-eth/besu/pull/12044) - 2026-11-25
+* [Commit] [Update stable reference tests to tests@v21.0.3 (#12046)](https://github.com/besu-eth/besu/commit/0a4a1909989680d4a33ef1397698ee4b14c4b772) - 2026-11-25
+* [Commit] [[4/5] snap/2 sorted ingest: write the downloaded accounts and slots as sorted files (#11855)](https://github.com/besu-eth/besu/commit/da89d7e87cb665326513f93f9f07845184d52950) - 2026-11-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 
