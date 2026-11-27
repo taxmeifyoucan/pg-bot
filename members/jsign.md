@@ -51,6 +51,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(test-client-clis): add an Ethrex transition tool](https://github.com/ethereum/execution-specs/pull/4021#pullrequestreview-5956908575) - 2026-11-18
 * [Commit] [feat(test-client-clis): add an Ethrex transition tool (#4021)](https://github.com/ethereum/execution-specs/commit/4cab90a7a9dcf071a56fb78a23f3d68165d47ccf) - 2026-11-18
 * [Pull Request] [chore(zkevm): merge tests@v21.0.3 into projects/zkevm](https://github.com/ethereum/execution-specs/pull/4040) - 2026-11-20
+* [Pull Request] [feat(spec-specs,test-forks,tests): add EIP-8483 post-quantum material registration](https://github.com/ethereum/execution-specs/pull/4084) - 2026-11-26
+* [Issue] [Implement EIP-8483 (Post-Quantum Material Registration)](https://github.com/ethereum/execution-specs/issues/4083) - 2026-11-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 
@@ -107,6 +109,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [fix(rpc): return INVALID for REST+SSZ payloads that fail RLP decoding](https://github.com/status-im/nimbus-eth1/pull/5145) - 2026-11-10
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/reth, clients/nethermind: fix the source builds](https://github.com/ethereum/hive/pull/1676) - 2026-11-26
 ## Q3 2026
 
 

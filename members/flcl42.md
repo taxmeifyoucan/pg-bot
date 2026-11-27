@@ -174,6 +174,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Update EIP-7708: fix gas figures and state the creation-transaction and gas rules](https://github.com/ethereum/EIPs/pull/12623) - 2026-11-04
 * [Pull Request] [Update EIP-7928: align per-field recording rules and pseudocode with the change rule](https://github.com/ethereum/EIPs/pull/12620) - 2026-11-04
 * [Commit] [Update EIP-7778: remove the contradictory restore-to-original discount example](https://github.com/ethereum/EIPs/commit/ade9e9cab7e148bba4cd293f916a4a189cd7a8aa) - 2026-11-25
+* [Commit] [Update EIP-2780: correct the floor reference and state the delegation-target warming rule](https://github.com/ethereum/EIPs/commit/5310a31af7458fa7d95a8f9ef4a185738495e034) - 2026-11-26
+* [Commit] [Update EIP-8038: qualify the ACCOUNT_WRITE rule and the worst-case-client claim](https://github.com/ethereum/EIPs/commit/b0c9c52b789d0fd7fcc44896456b43daa67b8ca5) - 2026-11-26
+* [Commit] [Update EIP-8037: correct statements contradicted by the specification](https://github.com/ethereum/EIPs/commit/514f00c369f9586e4d70a25da798ae2bd3d0ead7) - 2026-11-26
 ## Q3 2026
 
 

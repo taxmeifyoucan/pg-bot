@@ -40,6 +40,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(rpc): add pooled raw transaction recovery hooks](https://github.com/paradigmxyz/reth/pull/28687#pullrequestreview-6026515746) - 2026-11-23
 * [Commit] [fix(rpc): take blocking IO permit in eth_estimateGas and eth_fillTransaction handlers (#28690)](https://github.com/paradigmxyz/reth/commit/167933d17ad47fe7354f5942ddd6f0d3e343bb41) - 2026-11-23
 * [Review] [Review on: fix(rpc): bound callMany request parsing](https://github.com/paradigmxyz/reth/pull/28748#pullrequestreview-6063861701) - 2026-11-25
+* [Pull Request] [refactor(rpc): pass the recovered block to convert_receipts_with_block](https://github.com/paradigmxyz/reth/pull/28792) - 2026-11-27
+* [Pull Request] [perf(engine): return Arc from convert_payload_to_block](https://github.com/paradigmxyz/reth/pull/28789) - 2026-11-26
+* [Commit] [perf(engine): return Arc from convert_payload_to_block (#28789)](https://github.com/paradigmxyz/reth/commit/59570fc8fb0d4d0e1de9ab442bb7119c7802fe59) - 2026-11-26
 ## Q3 2026
 
 

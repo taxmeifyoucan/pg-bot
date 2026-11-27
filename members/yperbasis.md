@@ -486,6 +486,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution, rpc: simplify witness parent lookups and test helpers (#26759)](https://github.com/erigontech/erigon/commit/0e3235af28087980a4b2e6f4c7bc8bf173e6d924) - 2026-11-25
 * [Commit] [execution: implement SENDALL (EIP-4758) for Bogota devnet-2 (#26458)](https://github.com/erigontech/erigon/commit/b5ee77b916882785cf7a24dde55956a0b5fe620e) - 2026-11-25
 * [Commit] [execution/state: avoid repeated BAL scans for empty-account removals (#26717)](https://github.com/erigontech/erigon/commit/5733b7897347388c5ab5baae87c5c0a544d5df9f) - 2026-11-25
+* [Pull Request] [cl/p2p: select startup test ports for the transports that use them](https://github.com/erigontech/erigon/pull/26894) - 2026-11-26
+* [Review] [Review on: execution/state: publish no storage origin for a contract the tx created](https://github.com/erigontech/erigon/pull/26823#pullrequestreview-6070799777) - 2026-11-26
+* [Issue] [txpool: a sender's later txns stay in pending after queued eviction or a blob drop at selection](https://github.com/erigontech/erigon/issues/26900) - 2026-11-26
+* [Issue] [txpool: pending overflow evicts includable txns while a blob txn below the blob fee stays in pending](https://github.com/erigontech/erigon/issues/26899) - 2026-11-26
+* [Issue] [txpool: frame revalidation drops a funded frame because of the payer's unfunded ordinary txns](https://github.com/erigontech/erigon/issues/26885) - 2026-11-26
+* [Commit] [cl/p2p: select startup test ports for the transports that use them (#26894)](https://github.com/erigontech/erigon/commit/7294d92dccea41f7d7af44db970d2e434cfc8ddb) - 2026-11-27
+* [Commit] [txpool: fix false success reports for evicted or skipped batch inputs (#26720)](https://github.com/erigontech/erigon/commit/9bb1a5e1f5d3e0a5f0f4cf4d60d6b55ae1642a96) - 2026-11-26
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

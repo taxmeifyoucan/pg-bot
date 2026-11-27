@@ -301,6 +301,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [engine: EIP-8288 dependencyProof in the execution payload](https://github.com/ethereum/execution-apis/pull/1028) - 2026-11-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [EIP-8288: dependency proof in the execution payload](https://github.com/ethereum/consensus-specs/pull/5858) - 2026-11-23
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/devp2p/internal/ethtest: add eth/76 aggregated proof wrapper tests](https://github.com/ethereum/go-ethereum/pull/36237) - 2026-11-26
+* [Pull Request] [cmd/devp2p/internal/ethtest: add eth/75 proof wrapper tests](https://github.com/ethereum/go-ethereum/pull/36236) - 2026-11-26
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [simulators/devp2p: add eth76 suite for aggregated proof wrappers](https://github.com/ethereum/hive/pull/1675) - 2026-11-26
+* [Pull Request] [simulators/devp2p: add eth75 suite for EIP-8288 proof wrappers](https://github.com/ethereum/hive/pull/1674) - 2026-11-26
 ## Q3 2026
 
 

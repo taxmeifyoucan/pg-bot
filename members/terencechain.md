@@ -69,6 +69,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Ignore, without queuing it or requesting its parent, a gossip block whose parent is unknown when its proposer is not the one the head state's proposer lookahead expects at its slot.](https://github.com/OffchainLabs/prysm/pull/17843#pullrequestreview-5834951601) - 2026-11-10
 * [Review] [Review on: Request unknown attestation blocks as soon as an attestation is verified](https://github.com/OffchainLabs/prysm/pull/17858#pullrequestreview-5845742893) - 2026-11-10
 * [Pull Request] [PQ devnet 0: leanXMSS fork from genesis](https://github.com/OffchainLabs/prysm/pull/17912) - 2026-11-21
+* [Pull Request] [PQ devnet 1](https://github.com/OffchainLabs/prysm/pull/17941) - 2026-11-26
+* [Pull Request] [Bound envelope transaction count by the parent payload's gas limit](https://github.com/OffchainLabs/prysm/pull/17940) - 2026-11-26
+* [Pull Request] [Schedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17939) - 2026-11-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2252) - 2026-10-04
 

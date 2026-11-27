@@ -100,6 +100,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Skip disconnecting peers in peer selection and subnet coverage](https://github.com/Consensys-Incorporated/teku/pull/11743#pullrequestreview-6059834278) - 2026-11-25
 * [Issue] [Avoid stale store time in deadline-sensitive checks](https://github.com/Consensys-Incorporated/teku/issues/11751) - 2026-11-25
 * [Commit] [FCR: allow users to set custom beta (#11730)](https://github.com/Consensys-Incorporated/teku/commit/cf454e1aea650bc6d5c9fddc242f40ba1f4cacb7) - 2026-11-25
+* [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-6079700805) - 2026-11-26
+* [Review] [Review on: Only trigger pre-import code for gossipped blocks](https://github.com/Consensys-Incorporated/teku/pull/11733#pullrequestreview-6075608040) - 2026-11-26
 ## Q3 2026
 
 

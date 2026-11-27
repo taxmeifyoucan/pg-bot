@@ -18,6 +18,9 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5599649219) - 2026-10-21
 * [Pull Request] [Update EIP-8038 and EIP-7904: Fix table rendering in assets](https://github.com/ethereum/EIPs/pull/12563) - 2026-10-21
 * [Commit] [Update EIP-8038 and EIP-7904: Fix table rendering in assets](https://github.com/ethereum/EIPs/commit/8207146ff51b049d3b1a6ab192d4acfc2f4ab754) - 2026-10-21
+* [Review] [Review on: Update EIP-2780: correct the floor reference and state the delegation-target warming rule](https://github.com/ethereum/EIPs/pull/12622#pullrequestreview-6075987080) - 2026-11-26
+* [Review] [Review on: Update EIP-8038: qualify the ACCOUNT_WRITE rule and the worst-case-client claim](https://github.com/ethereum/EIPs/pull/12626#pullrequestreview-6075902893) - 2026-11-26
+* [Review] [Review on: Update EIP-8037: correct statements contradicted by the specification](https://github.com/ethereum/EIPs/pull/12624#pullrequestreview-6071657210) - 2026-11-26
 ## Q3 2026
 
 

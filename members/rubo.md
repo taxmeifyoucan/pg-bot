@@ -155,6 +155,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(deps): update Nethermind.GmpBindings to 6.3.0.203 (#16403)](https://github.com/NethermindEth/nethermind/commit/ac5f43604c73d0199b8a6c289cf3a635798c73f1) - 2026-11-25
 * [Commit] [fix(zkevm): abort the guest when it runs out of memory (#16300)](https://github.com/NethermindEth/nethermind/commit/72545f13089dc412bfb5d5aec9e7494afd81f7d1) - 2026-11-25
 * [Commit] [fix(zkevm): reuse each call depth's init code buffers in the guest (#16298)](https://github.com/NethermindEth/nethermind/commit/c32e8f3a5a7056cbec9296300de8f2cf57e88121) - 2026-11-25
+* [Review] [Review on: perf(lightclient): reuse SSZ parent hashing for branch verification](https://github.com/NethermindEth/nethermind/pull/16429#pullrequestreview-6079688761) - 2026-11-26
+* [Pull Request] [refactor(network)!: encode and decode RLPx frames over spans](https://github.com/NethermindEth/nethermind/pull/16427) - 2026-11-26
+* [Review] [Review on: refactor(network)!: encode and decode RLPx frames over spans](https://github.com/NethermindEth/nethermind/pull/16427#pullrequestreview-6077186662) - 2026-11-26
+* [Review] [Review on: refactor(trie): simplify nibble expansion with portable SIMD zip](https://github.com/NethermindEth/nethermind/pull/16426#pullrequestreview-6078606914) - 2026-11-26
+* [Pull Request] [chore(deps): update Nethermind.Crypto.SecP256k1 to 0.8.0.52](https://github.com/NethermindEth/nethermind/pull/16425) - 2026-11-26
+* [Commit] [refactor(network)!: encode and decode RLPx frames over spans (#16427)](https://github.com/NethermindEth/nethermind/commit/8afe928e2f27ceec5f03c92018de6144abc72700) - 2026-11-26
+* [Commit] [chore(deps): update Nethermind.Crypto.SecP256k1 to 0.8.0.52 (#16425)](https://github.com/NethermindEth/nethermind/commit/a55d395ce69612a5ac416ef22bc4629833e0028e) - 2026-11-26
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

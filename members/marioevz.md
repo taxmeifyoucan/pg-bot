@@ -98,6 +98,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): Add `test_cases.md` for EIP-8141](https://github.com/ethereum/execution-specs/pull/4064) - 2026-11-24
 * [Commit] [refactor(test-types,tests): signer abstraction and frame expectations in the framework. (#4033)](https://github.com/ethereum/execution-specs/commit/3f9ebb44b9a8ec2b6b70e773e33ac175bc6e9540) - 2026-11-24
 * [Pull Request] [feat(tests): Mempool admission test format](https://github.com/ethereum/execution-specs/pull/4073) - 2026-11-25
+* [Review] [Review on: fix(test-specs): compare code by hash in the block access list invariant](https://github.com/ethereum/execution-specs/pull/4081#pullrequestreview-6081882140) - 2026-11-27
+* [Review] [Review on: fix(test-forks,test-specs): account for EIP-8250 in the invariant checks](https://github.com/ethereum/execution-specs/pull/4080#pullrequestreview-6081584702) - 2026-11-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

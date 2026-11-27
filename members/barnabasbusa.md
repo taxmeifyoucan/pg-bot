@@ -89,6 +89,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: attestation arrivals per epoch and after the attestation deadline](https://github.com/ethpandaops/dora/pull/948) - 2026-11-25
 * [Review] [Review on: feat: attestation arrivals per epoch and after the attestation deadline](https://github.com/ethpandaops/dora/pull/948#pullrequestreview-6058257603) - 2026-11-25
 * [Review] [Review on: feat: fall back to the beacon nodes' single attestation events behind a flag](https://github.com/ethpandaops/dora/pull/947#pullrequestreview-6058256782) - 2026-11-25
+* [Pull Request] [feat: show aggregates per slot and per epoch with their aggregators and timing](https://github.com/ethpandaops/dora/pull/949) - 2026-11-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -100,6 +101,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-7723: Allow SFI decisions on ACDT](https://github.com/ethereum/EIPs/pull/12570) - 2026-10-23
 * [Review] [Review on: Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452#pullrequestreview-5625636554) - 2026-10-23
 * [Commit] [Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/commit/7d2a68f2b62ad73bd2a5dc2de647d7229aa0d2e1) - 2026-10-23
+* [Pull Request] [Update EIP-8148: Store default sweep threshold explicitly](https://github.com/ethereum/EIPs/pull/12718) - 2026-11-26
+* [Commit] [Update EIP-8148: Store default sweep threshold explicitly](https://github.com/ethereum/EIPs/commit/fdb2d92d73d8118920889f6d0afa47169879a06f) - 2026-11-26
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
@@ -147,6 +150,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743) - 2026-10-15
 * [Pull Request] [Rebind cached functions in copies of the spec](https://github.com/ethereum/consensus-specs/pull/5742) - 2026-10-15
 * [Commit] [Apply config overrides to cached spec functions (#5742)](https://github.com/ethereum/consensus-specs/commit/065bcd5c6ad96186cd2c0ac1c435f620a0b25373) - 2026-10-22
+* [Pull Request] [Remove EIP-8205 withdrawal credentials preregistration](https://github.com/ethereum/consensus-specs/pull/5869) - 2026-11-26
+* [Pull Request] [Remove EIP-8198 quick slots feature](https://github.com/ethereum/consensus-specs/pull/5868) - 2026-11-26
+* [Review] [Review on: Store sweep threshold in withdrawal credentials](https://github.com/ethereum/consensus-specs/pull/5790#pullrequestreview-6071301810) - 2026-11-26
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add beacon API error check playbook](https://github.com/ethpandaops/assertoor/pull/241) - 2026-10-13
 * [Pull Request] [feat: aggregate and regex-match series in check_http_metrics](https://github.com/ethpandaops/assertoor/pull/240) - 2026-10-13
@@ -191,6 +197,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: build release binaries with goreleaser-cross v1.27.3](https://github.com/ethpandaops/xatu/commit/e6404f365d2dd9239017fc442e247698ede0b351) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/commit/ba7eceec8b1ebfaff2f59606f288caf3d40121ab) - 2026-10-21
 
+* [Pull Request] [fix(clmimicry): keep the length bit in aggregate_and_proof aggregation_bits](https://github.com/ethpandaops/xatu/pull/975) - 2026-11-26
+* [Pull Request] [fix(deps): bump go.opentelemetry.io/otel to v1.47.0](https://github.com/ethpandaops/xatu/pull/976) - 2026-11-26
+* [Issue] [fix: write aggregate_and_proof aggregation_bits as an SSZ bitlist with its length bit](https://github.com/ethpandaops/xatu/issues/974) - 2026-11-26
+* [Commit] [Merge pull request #975 from ethpandaops/bbusa/aggregate-bits-length-bit](https://github.com/ethpandaops/xatu/commit/8a17d2368796772675eb2e484bc10f1739103041) - 2026-11-26
+* [Commit] [fix(clmimicry): keep the length bit in aggregate_and_proof aggregation_bits](https://github.com/ethpandaops/xatu/commit/e4388e3129930aeb0139a2d3819d4ace7ef2a088) - 2026-11-26
+* [Commit] [Merge pull request #976 from ethpandaops/bbusa/bump-otel-1-47](https://github.com/ethpandaops/xatu/commit/b44dddae29335a3db731064e4012acbe4c0a3962) - 2026-11-26
+* [Commit] [fix(deps): bump go.opentelemetry.io/otel to v1.47.0](https://github.com/ethpandaops/xatu/commit/c00291bfbe3063916d25d71d9bd5f31a2ea4f24f) - 2026-11-26
 [ethpandaops/pandafuzz](https://github.com/ethpandaops/pandafuzz)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/pandafuzz/pull/9) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#9)](https://github.com/ethpandaops/pandafuzz/commit/284c1ef39f2d381520d722089c87ddf7019cb117) - 2026-10-21

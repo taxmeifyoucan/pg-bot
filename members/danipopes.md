@@ -113,6 +113,7 @@ Team: Reth
 * [Commit] [ci: bump cargo-update-pr to fix the weekly cargo update (#28747)](https://github.com/paradigmxyz/reth/commit/477d7b8bd83ff5c5f3027f6ceb617e7404b6e788) - 2026-11-25
 * [Commit] [docs(rpc): describe evm memory limit as per call frame (#28735)](https://github.com/paradigmxyz/reth/commit/32e6694f6be2787323cb9a1c8439d7ef2a095b3d) - 2026-11-25
 * [Commit] [feat(rpc): lower default EVM memory limit to 100 MiB (#28734)](https://github.com/paradigmxyz/reth/commit/2ad02efba410af637e4a6bd319881c67579dc99c) - 2026-11-25
+* [Commit] [fix(ipc): stop splitting interprocess streams (#28751)](https://github.com/paradigmxyz/reth/commit/d2252adeb1c69b96933da783144e9798cfb0dccd) - 2026-11-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

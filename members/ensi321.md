@@ -81,6 +81,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore!: remove deprecated exports (#10743)](https://github.com/ChainSafe/lodestar/commit/4996a91d93e50f665d68ec9e7f03ce652181ece6) - 2026-11-23
 * [Commit] [perf: track seen block attesters in a bitset per epoch (#10696)](https://github.com/ChainSafe/lodestar/commit/71ad43415588105a8b51d39501302640c7c2e7dc) - 2026-11-23
 * [Review] [Review on: fix: range sync through 0-block epoch](https://github.com/ChainSafe/lodestar/pull/10777#pullrequestreview-6069162003) - 2026-11-26
+* [Review] [Review on: chore: remove quick slots config from heze](https://github.com/ChainSafe/lodestar/pull/10817#pullrequestreview-6082301198) - 2026-11-27
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.5](https://github.com/ChainSafe/lodestar/pull/10428#pullrequestreview-6081139462) - 2026-11-26
+* [Review] [Review on: fix: discount pending parent support in fast confirmation empty slots](https://github.com/ChainSafe/lodestar/pull/10539#pullrequestreview-6082145055) - 2026-11-27
+* [Review] [Review on: feat: re-prepare the next slot payload on the PTC verdict](https://github.com/ChainSafe/lodestar/pull/10508#pullrequestreview-6080557110) - 2026-11-26
+* [Pull Request] [fix: ignore gossiped voluntary exits that fail clock or head dependent checks](https://github.com/ChainSafe/lodestar/pull/10812) - 2026-11-26
+* [Commit] [fix: batch verify builder bid signature in blocks (#10759)](https://github.com/ChainSafe/lodestar/commit/11b8cc86138113cf8fa0e685f6232c93cd7dd2fc) - 2026-11-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
@@ -94,6 +100,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14
 * [Pull Request] [Update EIP-8365: guard deposit requests and grandfather pending deposits](https://github.com/ethereum/EIPs/pull/12533) - 2026-10-16
 
+* [Commit] [Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/commit/68db81b0a75edb0e16d8f181241f994875eba52d) - 2026-11-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: add heze timing configuration](https://github.com/ChainSafe/lodestar-z/pull/794#pullrequestreview-5566079587) - 2026-10-19
 * [Pull Request] [fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801) - 2026-10-21

@@ -21,6 +21,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(deps): bump go-eth2-client to 7a87b26e](https://github.com/ethpandaops/xatu/commit/e01ccc2fabf673a5285d97a87c75612c9faf1525) - 2026-10-08
 * [Commit] [Merge remote-tracking branch 'origin/master' into feat/fork-choice-v2](https://github.com/ethpandaops/xatu/commit/b05f6e9cd475b831ca5dbd682aecc20c969a3b49) - 2026-10-08
 
+* [Pull Request] [fix(clickhouse): retry inserts that fail their quorum in place](https://github.com/ethpandaops/xatu/pull/983) - 2026-11-27
+* [Review] [Review on: fix(clickhouse): retry inserts that fail their quorum in place](https://github.com/ethpandaops/xatu/pull/983#pullrequestreview-6083648205) - 2026-11-27
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452271544) - 2026-10-08
 * [Commit] [Merge pull request #257 from ethpandaops/feat/gloas-events](https://github.com/ethpandaops/contributoor/commit/00f0f60160d87dc0a26b53278020ff12feb5cb10) - 2026-10-08

@@ -294,6 +294,18 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: crypto: Compute modular inverses with safegcd](https://github.com/ipsilon/evmone/pull/1806#pullrequestreview-6056484876) - 2026-11-25
 * [Commit] [AGENTS: Extend review, writing, commit and testing guidelines (#1809)](https://github.com/ipsilon/evmone/commit/ba22a659174e6121c0be3de2fcdcd26c50616867) - 2026-11-25
 * [Commit] [crypto: Compute modular inverses with safegcd (#1806)](https://github.com/ipsilon/evmone/commit/682d674b03281130dc632dcf4ab4e8601ea1ee08) - 2026-11-25
+* [Pull Request] [tidy: Remove redundant typename and lambda parameter list](https://github.com/ipsilon/evmone/pull/1843) - 2026-11-26
+* [Pull Request] [build: Keep the sanitizer flags for Google Benchmark](https://github.com/ipsilon/evmone/pull/1841) - 2026-11-26
+* [Pull Request] [tidy: Replace C-style casts](https://github.com/ipsilon/evmone/pull/1842) - 2026-11-26
+* [Review] [Review on: docs: Update the README usage, precompiles and Docker sections](https://github.com/ipsilon/evmone/pull/1837#pullrequestreview-6080008021) - 2026-11-26
+* [Review] [Review on: crypto: Check the p256verify signature without inverting Z](https://github.com/ipsilon/evmone/pull/1838#pullrequestreview-6076834195) - 2026-11-26
+* [Pull Request] [crypto: Add a P-256 test with Q = −G and update TODOs](https://github.com/ipsilon/evmone/pull/1840) - 2026-11-26
+* [Pull Request] [keccak: Reorder the chi outputs for better scheduling](https://github.com/ipsilon/evmone/pull/1839) - 2026-11-26
+* [Commit] [crypto: Check the p256verify signature without inverting Z (#1838)](https://github.com/ipsilon/evmone/commit/f547b13b17a9e34c34a839f2a3c7241decca9330) - 2026-11-26
+* [Commit] [crypto: Add a P-256 test with Q = −G and update TODOs (#1840)](https://github.com/ipsilon/evmone/commit/d20e6fd2efa6040b071724570591fa706ac6e72a) - 2026-11-26
+* [Commit] [evmone: Require exact size of EIP-7702 delegation designation (#1822)](https://github.com/ipsilon/evmone/commit/5d7c430c6fd3c69c9a7fd9a80ee06bdf4ce503bb) - 2026-11-26
+* [Commit] [test: Encode RLP lengths above 16 MiB (#1807)](https://github.com/ipsilon/evmone/commit/e7b348b728b2c2b9512fba69e145a9911263a093) - 2026-11-26
+* [Commit] [keccak: Reorder the chi outputs for better scheduling (#1839)](https://github.com/ipsilon/evmone/commit/5a062cd821640b561e99d8aedc8aa6010023ac46) - 2026-11-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
@@ -320,6 +332,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): test CALLDATALOAD at offsets of 2^64 and above (#4059)](https://github.com/ethereum/execution-specs/commit/b7e5b4bda2e1e62004b491dd74f119fe6622f0b3) - 2026-11-25
 * [Commit] [feat(tests): test CALLDATACOPY past the calldata end keeps later memory (#4060)](https://github.com/ethereum/execution-specs/commit/f7c70ecdd1319f169cebe43bf0b9fe0cf3a33d46) - 2026-11-25
 * [Commit] [feat(tests): test SIGNEXTEND from every byte position (#4061)](https://github.com/ethereum/execution-specs/commit/858d77ab144bfb33bdd0f59918f3680272a0b592) - 2026-11-25
+* [Commit] [fix(test-benchmark): compare same-sign operands in the SLT/SGT benchmarks (#4065)](https://github.com/ethereum/execution-specs/commit/dbfd33f3e7ef96102990f54918e0d262f99ef14a) - 2026-11-26
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 

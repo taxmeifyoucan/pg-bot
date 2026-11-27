@@ -139,6 +139,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [refactor(beacon-chain): bind Beacon API endpoints to attribute-routed services (#16306)](https://github.com/NethermindEth/nethermind/commit/f473d014c45f79b8a415eb2a0ae741be63d4be38) - 2026-11-25
 * [Commit] [perf(beaconchain): keep one SHA-256 instance per thread (#16392)](https://github.com/NethermindEth/nethermind/commit/676d4fc83b14c81932e7222edcaa007594f0ab0f) - 2026-11-25
 * [Commit] [perf(ssz): return the bytes written from Encode (#16395)](https://github.com/NethermindEth/nethermind/commit/941250cd09b4852ca094bf983d0638aa4c0a046b) - 2026-11-25
+* [Pull Request] [refactor(beacon-chain): remove beacon API context](https://github.com/NethermindEth/nethermind/pull/16421) - 2026-11-26
+* [Commit] [refactor(beacon-chain): remove beacon API context (#16421)](https://github.com/NethermindEth/nethermind/commit/fc8e23966e45dac62f82e947a0f1da4bb5526590) - 2026-11-26
 ## Q3 2026
 
 

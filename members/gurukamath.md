@@ -64,6 +64,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-client-clis): map ethrex, geth and nethermind EIP-8141 frame…](https://github.com/ethereum/execution-specs/pull/4070) - 2026-11-25
 * [Review] [Review on: fix(spec-specs): record storage_clears in BAL update_builder_from_tx](https://github.com/ethereum/execution-specs/pull/4051#pullrequestreview-6055776262) - 2026-11-25
 * [Issue] [Test Release Tracker: `bogota-devnet@v3.0.0`](https://github.com/ethereum/execution-specs/issues/4069) - 2026-11-25
+* [Pull Request] [fix(test-specs): compare code by hash in the block access list invariant](https://github.com/ethereum/execution-specs/pull/4081) - 2026-11-26
+* [Pull Request] [fix(test-forks,test-specs): account for EIP-8250 in the invariant checks](https://github.com/ethereum/execution-specs/pull/4080) - 2026-11-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8141: set code from the default code in SENDER mode](https://github.com/ethereum/EIPs/pull/12506#pullrequestreview-6020064054) - 2026-11-23
 ## Q3 2026

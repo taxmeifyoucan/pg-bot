@@ -142,6 +142,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: range sync through 0-block epoch](https://github.com/ChainSafe/lodestar/pull/10777#pullrequestreview-6054813983) - 2026-11-25
 * [Review] [Review on: fix: keep block input cached when gossip import gives up on missing data](https://github.com/ChainSafe/lodestar/pull/10770#pullrequestreview-6068462726) - 2026-11-26
 * [Review] [Review on: fix: disconnect peers with a bad score as soon as they connect](https://github.com/ChainSafe/lodestar/pull/10779#pullrequestreview-6068383574) - 2026-11-26
+* [Review] [Review on: fix(fork-choice): native fork choice follow-ups from #10584](https://github.com/ChainSafe/lodestar/pull/10769#pullrequestreview-6083256989) - 2026-11-27
+* [Review] [Review on: fix: range sync through 0-block epoch](https://github.com/ChainSafe/lodestar/pull/10777#pullrequestreview-6072458579) - 2026-11-26
+* [Pull Request] [fix: harden serializeToBytes() binding](https://github.com/ChainSafe/lodestar/pull/10794) - 2026-11-26
+* [Pull Request] [fix(ssz): don't free the old pending node if its the same as the new one](https://github.com/ChainSafe/lodestar/pull/10795) - 2026-11-26
+* [Commit] [fix: unset execution_payload_availability at fork slot (#10615)](https://github.com/ChainSafe/lodestar/commit/b9e2dc8d937d93d7db28c0577f2f40100e2b036a) - 2026-11-26
+* [Commit] [fix: harden serializeToBytes() binding (#10794)](https://github.com/ChainSafe/lodestar/commit/8c2432a3d89478539ff1d644b4bb44b3ea181cf2) - 2026-11-26
+* [Commit] [fix(ssz): don't free the old pending node if its the same as the new one (#10795)](https://github.com/ChainSafe/lodestar/commit/e326166dc49e8bbbed10668917b9f2cba36dda4a) - 2026-11-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

@@ -125,6 +125,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Harden slashing protection interchange imports](https://github.com/Consensys-Incorporated/teku/pull/11645#pullrequestreview-5971217250) - 2026-11-19
 * [Review] [Review on: Sync parent directory after durable file writes](https://github.com/Consensys-Incorporated/teku/pull/11648#pullrequestreview-6067185403) - 2026-11-26
 * [Review] [Review on: ci: move to Consensys-Incorporated/github-actions 2.2.0, shared Trivy and workflow-audit, Renovate on org secrets](https://github.com/Consensys-Incorporated/teku/pull/11738#pullrequestreview-6063951715) - 2026-11-25
+* [Review] [Review on: Fix BlobSidecarsByRange handling of requests at the Deneb and Fulu fork boundaries](https://github.com/Consensys-Incorporated/teku/pull/11762#pullrequestreview-6083877183) - 2026-11-27
+* [Review] [Review on: Apply released pending attestations to fork choice in batches](https://github.com/Consensys-Incorporated/teku/pull/11761#pullrequestreview-6081518986) - 2026-11-26
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

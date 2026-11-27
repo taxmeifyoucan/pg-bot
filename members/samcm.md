@@ -141,6 +141,17 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore(glamsterdam-devnet-8): merge master into release/glamsterdam-devnet-8](https://github.com/ethpandaops/xatu/pull/967) - 2026-11-25
 * [Pull Request] [ci: build-branch.yaml works on release branches without cryo patches](https://github.com/ethpandaops/xatu/pull/966) - 2026-11-25
 * [Commit] [Merge pull request #966 from ethpandaops/cryo-patch-chmod](https://github.com/ethpandaops/xatu/commit/8f57fb1efa31a867fe63aa54bb5898a346fe6fba) - 2026-11-25
+* [Pull Request] [feat(config): expand ${VAR} in sentry, cannon and consumoor configs; fix xatu output authorization override](https://github.com/ethpandaops/xatu/pull/984) - 2026-11-27
+* [Review] [Review on: feat(config): expand ${VAR} in sentry, cannon and consumoor configs; fix xatu output authorization override](https://github.com/ethpandaops/xatu/pull/984#pullrequestreview-6083921497) - 2026-11-27
+* [Pull Request] [feat(cmd): expand ${VAR} environment variables in config values](https://github.com/ethpandaops/xatu/pull/982) - 2026-11-27
+* [Pull Request] [feat(cannon): derive Gloas state tables from pq states](https://github.com/ethpandaops/xatu/pull/981) - 2026-11-27
+* [Pull Request] [chore(glamsterdam-devnet-8): merge master into release/glamsterdam-devnet-8](https://github.com/ethpandaops/xatu/pull/977) - 2026-11-26
+* [Pull Request] [chore(bogota-devnet-2): merge master into release/bogota-devnet-2](https://github.com/ethpandaops/xatu/pull/978) - 2026-11-26
+* [Pull Request] [chore(daisugi-devnet-0): merge master into release/daisugi-devnet-0](https://github.com/ethpandaops/xatu/pull/979) - 2026-11-26
+* [Pull Request] [feat(libp2p): capture inclusion list gossip and Heze gossip blocks (heze-devnet-2)](https://github.com/ethpandaops/xatu/pull/980) - 2026-11-27
+* [Review] [Review on: fix(clmimicry): keep the length bit in aggregate_and_proof aggregation_bits](https://github.com/ethpandaops/xatu/pull/975#pullrequestreview-6071387790) - 2026-11-26
+* [Commit] [Merge pull request #984 from ethpandaops/fix/config-env-sentry-cannon-consumoor](https://github.com/ethpandaops/xatu/commit/79b66ab25b180168ace0ac31d2e93f478963d7d7) - 2026-11-27
+* [Commit] [Merge pull request #982 from ethpandaops/feat/config-env-expansion](https://github.com/ethpandaops/xatu/commit/edafefa71b4810e6e5fb581eed2de9a6a5b7864f) - 2026-11-27
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -151,6 +162,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci(hive): pull Docker Hub images through the pull-through cache instead of logging in](https://github.com/ethpandaops/template-devnets/pull/202) - 2026-11-21
 * [Commit] [ci(hive): pull Docker Hub images through the pull-through cache instead of logging in (#202)](https://github.com/ethpandaops/template-devnets/commit/fdd07e0dc0809b0513588ffafba6c3d0899cfa1d) - 2026-11-23
 * [Pull Request] [feat: devnet repos own their public hosts and class secrets](https://github.com/ethpandaops/template-devnets/pull/208) - 2026-11-26
+* [Pull Request] [xatu-sentry: drop dead group_vars/xatu.yaml sentry config](https://github.com/ethpandaops/template-devnets/pull/209) - 2026-11-26
+* [Commit] [feat: devnet repos own their public hosts and class secrets (#208)](https://github.com/ethpandaops/template-devnets/commit/66b4e99692bbc477f535c987ca65e21d3d340536) - 2026-11-27
+* [Commit] [xatu-sentry: drop dead group_vars/xatu.yaml sentry config (#209)](https://github.com/ethpandaops/template-devnets/commit/be5d6ef3462dfe1499158c5e3853c89b8e38a717) - 2026-11-26
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 
@@ -191,6 +205,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Remove comments that restate the workflow permissions (#74)](https://github.com/ethpandaops/tracoor/commit/33e0c3819ac4129893eb48c89eff7a843ca01d32) - 2026-11-24
 * [Pull Request] [ci: build branch docker images with build-branch.yaml](https://github.com/ethpandaops/tracoor/pull/77) - 2026-11-25
 * [Commit] [Merge pull request #77 from ethpandaops/build-branch-workflow](https://github.com/ethpandaops/tracoor/commit/ce79defeacfaf04f561388f4dcfda7c099614dfa) - 2026-11-25
+* [Pull Request] [fix(config): keep a placeholder value that reads as null as a string](https://github.com/ethpandaops/tracoor/pull/79) - 2026-11-27
+* [Pull Request] [feat(config): expand ${VAR} placeholders in config values](https://github.com/ethpandaops/tracoor/pull/78) - 2026-11-27
+* [Commit] [fix(config): keep a placeholder value that reads as null as a string (#79)](https://github.com/ethpandaops/tracoor/commit/08ea92d4db7717877e5af83f5decaf5cb54e8a81) - 2026-11-27
+* [Commit] [feat(config): expand ${VAR} placeholders in config values (#78)](https://github.com/ethpandaops/tracoor/commit/0ba8b2c840ca55c96501dc2b3db2f139ca52aed2) - 2026-11-27
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(slots): proposer client card on the slot page](https://github.com/ethpandaops/lab/pull/450) - 2026-10-20
 * [Pull Request] [feat(ethereum): proposer clients page from block graffiti](https://github.com/ethpandaops/lab/pull/449) - 2026-10-19
@@ -427,6 +445,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci: dispatch lab-backend releases with an ethpandaops-ci App token](https://github.com/ethpandaops/lab/pull/574) - 2026-11-25
 * [Commit] [Merge pull request #574 from ethpandaops/lab-ci-app-token](https://github.com/ethpandaops/lab/commit/bbadaa5721f35ed0151d0a9587abf438187b5f78) - 2026-11-25
 * [Pull Request] [fix(validators): show an empty state when a network has no validator data](https://github.com/ethpandaops/lab/pull/575) - 2026-11-26
+* [Pull Request] [fix(timings): an expanded version lists only the nodes that ran it](https://github.com/ethpandaops/lab/pull/576) - 2026-11-27
+* [Commit] [fix(timings): an expanded version lists only the nodes that ran it (#576)](https://github.com/ethpandaops/lab/commit/8e57f02c742b7c917de70a63c71477a1aef677ab) - 2026-11-27
+* [Commit] [fix(validators): show an empty state when a network has no validator data (#575)](https://github.com/ethpandaops/lab/commit/010253fadc6250cc4f78a3415d60ed531d36e0eb) - 2026-11-26
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

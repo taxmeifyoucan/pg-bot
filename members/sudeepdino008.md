@@ -26,6 +26,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state/statecfg: bump code .kv/.v/.ef and storage .kv versions](https://github.com/erigontech/erigon/pull/26817) - 2026-11-25
 * [Pull Request] [db/integrity, db/state, cmd/utils/app: add fix-account-history and recompress-domain tools](https://github.com/erigontech/erigon/pull/26803) - 2026-11-25
 * [Commit] [db/state/statecfg: bump code .kv/.v/.ef and storage .kv versions (#26817)](https://github.com/erigontech/erigon/commit/2841804a8ebbb7e595d3cc4aaaf5329bf79b18fb) - 2026-11-25
+* [Commit] [cmd/bumper: rename the .ef and .efi files of domains (#26871)](https://github.com/erigontech/erigon/commit/b01e6878e69e8935b9dced8dfb14c8207f69a63c) - 2026-11-26
 ## Q3 2026
 
 

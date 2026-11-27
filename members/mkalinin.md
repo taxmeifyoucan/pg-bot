@@ -45,6 +45,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: engine: state the fork check of payloadAttributes as the condition that must hold](https://github.com/ethereum/execution-apis/pull/1020#pullrequestreview-6019037723) - 2026-11-23
 * [Review] [Review on: engine: move the executionRequests checks to the newPayloadV4 specification](https://github.com/ethereum/execution-apis/pull/1019#pullrequestreview-6019027034) - 2026-11-23
 * [Review] [Review on: ✨ feat(engine): engine_updatePaylaodV1](https://github.com/ethereum/execution-apis/pull/985#pullrequestreview-6062493045) - 2026-11-25
+* [Review] [Review on: add silver cl](https://github.com/ethereum/execution-apis/pull/1037#pullrequestreview-6072122049) - 2026-11-26
 ## Q3 2026
 
 

@@ -121,6 +121,20 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors](https://github.com/ethereum/execution-specs/pull/4049#pullrequestreview-6056394160) - 2026-11-25
 * [Review] [Review on: refactor(tests): port TransactionReOrgTest as one test with its four scenarios](https://github.com/ethereum/execution-specs/pull/4037#pullrequestreview-6056190905) - 2026-11-25
 * [Review] [Review on: fix(test-consume): retry transaction lookups while the client is still indexing](https://github.com/ethereum/execution-specs/pull/4038#pullrequestreview-6056174889) - 2026-11-25
+* [Pull Request] [feat(doc): draw the reorg tests in the test case reference](https://github.com/ethereum/execution-specs/pull/4075) - 2026-11-26
+* [Review] [Review on: feat(doc): draw the reorg tests in the test case reference](https://github.com/ethereum/execution-specs/pull/4075#pullrequestreview-6077928948) - 2026-11-26
+* [Pull Request] [feat(test-fixtures): say why a reorg fixture block is invalid](https://github.com/ethereum/execution-specs/pull/4074) - 2026-11-26
+* [Review] [Review on: feat(test-fixtures): say why a reorg fixture block is invalid](https://github.com/ethereum/execution-specs/pull/4074#pullrequestreview-6077890742) - 2026-11-26
+* [Pull Request] [fix(doc): show plain, wrapped names on test function social cards](https://github.com/ethereum/execution-specs/pull/4076) - 2026-11-26
+* [Review] [Review on: fix(doc): show plain, wrapped names on test function social cards](https://github.com/ethereum/execution-specs/pull/4076#pullrequestreview-6071541471) - 2026-11-26
+* [Pull Request] [docs(tests): give the reorg test docstrings a one-line summary](https://github.com/ethereum/execution-specs/pull/4078) - 2026-11-26
+* [Review] [Review on: docs(tests): give the reorg test docstrings a one-line summary](https://github.com/ethereum/execution-specs/pull/4078#pullrequestreview-6077976653) - 2026-11-26
+* [Pull Request] [fix(doc): render the README pages of the test case reference](https://github.com/ethereum/execution-specs/pull/4077) - 2026-11-26
+* [Pull Request] [fix(doc): point the bad docstring issue links at execution-specs](https://github.com/ethereum/execution-specs/pull/4079) - 2026-11-26
+* [Review] [Review on: feat(ci): add fill-stateful E2E job to hive execute workflow](https://github.com/ethereum/execution-specs/pull/4018#pullrequestreview-6076435618) - 2026-11-26
+* [Commit] [docs(tests): give the reorg test docstrings a one-line summary (#4078)](https://github.com/ethereum/execution-specs/commit/c3cf9029ed2d66f93a6c13f851bdf58523458120) - 2026-11-26
+* [Commit] [fix(doc): render the README pages of the test case reference (#4077)](https://github.com/ethereum/execution-specs/commit/38814621e239dc0d82fa0184105bf1c949a28e9d) - 2026-11-26
+* [Commit] [fix(doc): point the bad docstring issue links at execution-specs (#4079)](https://github.com/ethereum/execution-specs/commit/46194fe028741ad9def8bbbb8f869fdcc68bf645) - 2026-11-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

@@ -1196,6 +1196,21 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(rlp): keep the cause when decoder registration fails (#16334)](https://github.com/NethermindEth/nethermind/commit/8f582b7f8101d8afbf3ffc8d85389f9832dade02) - 2026-11-25
 * [Commit] [refactor(state): cache the WorldState parent reader in the BAL world state (#16333)](https://github.com/NethermindEth/nethermind/commit/59ef8b2bc4060ff60724decfec66fbdedc90c087) - 2026-11-25
 * [Commit] [fix(logging): write all queued entries on ConsoleAsyncLogger flush (#16315)](https://github.com/NethermindEth/nethermind/commit/9248cf559c3c2fc010a3fd6273c70c8e5f004cb9) - 2026-11-25
+* [Review] [Review on: perf(crypto): use Arm SHA-256 for KZG versioned hashes](https://github.com/NethermindEth/nethermind/pull/16432#pullrequestreview-6080161243) - 2026-11-26
+* [Review] [Review on: perf(evm): accelerate short SHA-256 precompile calls on Arm](https://github.com/NethermindEth/nethermind/pull/16431#pullrequestreview-6080157768) - 2026-11-26
+* [Review] [Review on: perf(ssz): accelerate beacon shuffling with single-block Arm SHA-256](https://github.com/NethermindEth/nethermind/pull/16430#pullrequestreview-6080153791) - 2026-11-26
+* [Review] [Review on: perf(lightclient): reuse SSZ parent hashing for branch verification](https://github.com/NethermindEth/nethermind/pull/16429#pullrequestreview-6080149079) - 2026-11-26
+* [Review] [Review on: perf(flat): run large early storage passes on idle-priority helpers](https://github.com/NethermindEth/nethermind/pull/16288#pullrequestreview-6076266992) - 2026-11-26
+* [Pull Request] [feat(specs): schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/16447) - 2026-11-26
+* [Pull Request] [test(network): keep the update loop from dialing the IN peer in the hello displacement test](https://github.com/NethermindEth/nethermind/pull/16420) - 2026-11-26
+* [Review] [Review on: test(network): keep the update loop from dialing the IN peer in the hello displacement test](https://github.com/NethermindEth/nethermind/pull/16420#pullrequestreview-6076110893) - 2026-11-26
+* [Review] [Review on: perf(txpool): let block production read the pool without waiting for a bucket update](https://github.com/NethermindEth/nethermind/pull/16407#pullrequestreview-6076544161) - 2026-11-26
+* [Review] [Review on: refactor(init)!: register the block producer and runner in the container](https://github.com/NethermindEth/nethermind/pull/16363#pullrequestreview-6076136029) - 2026-11-26
+* [Review] [Review on: perf(core): accelerate single and batched Keccak on ARM64](https://github.com/NethermindEth/nethermind/pull/16415#pullrequestreview-6070436409) - 2026-11-26
+* [Commit] [test(network): keep the update loop from dialing the IN peer in the hello displacement test (#16420)](https://github.com/NethermindEth/nethermind/commit/b086c95946660fe65326398068c4e57b6be854f1) - 2026-11-26
+* [Commit] [test(eest): run blockchain_tests_engine_x fixtures per pre-allocation group (#16223)](https://github.com/NethermindEth/nethermind/commit/72d038710f25a7631371e993826480c9676ad1a4) - 2026-11-26
+* [Commit] [test(rpc): give websocket pipelining tests a 30 s hang guard (#16405)](https://github.com/NethermindEth/nethermind/commit/f296f39d245375d0273d77224380606e58e130c8) - 2026-11-26
+* [Commit] [fix(merge): return null blockAccessList for V2 bodies without a stored access list (#16399)](https://github.com/NethermindEth/nethermind/commit/e01672e2589d224171096350833025a82fee9257) - 2026-11-26
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -1281,6 +1296,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [riscv32: Long codegen, delegation calls, handler convention and zkVM codegen knobs](https://github.com/NethermindEth/dotnet-riscv/commit/cbb4b72aa9438f858a68566e32c1be61793cfb2e) - 2026-10-31
 * [Pull Request] [fixup/11/upstream: perf-84 - strict alignment proves accesses through fields of promoted structs aligned](https://github.com/NethermindEth/dotnet-riscv/pull/37) - 2026-11-07
 * [Review] [Review on: fixup/11/riscv32: Emit rev8 for ReverseEndianness under JitZkRev8](https://github.com/NethermindEth/dotnet-riscv/pull/44#pullrequestreview-5968017840) - 2026-11-19
+* [Pull Request] [perf(jit): elide narrowing casts on RV64 shift counts](https://github.com/NethermindEth/dotnet-riscv/pull/48) - 2026-11-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

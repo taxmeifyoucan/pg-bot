@@ -478,6 +478,50 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6067243307) - 2026-11-26
 * [Review] [Review on: refactor(merge): await a per-copy verdict from the processing queue in newPayload](https://github.com/NethermindEth/nethermind/pull/16302#pullrequestreview-6067241638) - 2026-11-26
 * [Review] [Review on: fix(tracing): report Geth's precompile and code-deposit errors in callTracer frames](https://github.com/NethermindEth/nethermind/pull/16141#pullrequestreview-6067230556) - 2026-11-26
+* [Pull Request] [perf(crypto): use Arm SHA-256 for KZG versioned hashes](https://github.com/NethermindEth/nethermind/pull/16432) - 2026-11-26
+* [Pull Request] [perf(evm): accelerate short SHA-256 precompile calls on Arm](https://github.com/NethermindEth/nethermind/pull/16431) - 2026-11-26
+* [Review] [Review on: fix(bench): read grouped reports from resume-enabled runs](https://github.com/NethermindEth/nethermind/pull/16442#pullrequestreview-6080774322) - 2026-11-26
+* [Review] [Review on: fix(xdc): pick reward protectors and observers from the rewarded epoch's standby nodes](https://github.com/NethermindEth/nethermind/pull/16448#pullrequestreview-6082921173) - 2026-11-27
+* [Review] [Review on: fix(docgen): generate database-size tabs only for JSON reports](https://github.com/NethermindEth/nethermind/pull/16437#pullrequestreview-6080770753) - 2026-11-26
+* [Review] [Review on: fix(ci): reject version bumps without a declared prefix](https://github.com/NethermindEth/nethermind/pull/16439#pullrequestreview-6080769981) - 2026-11-26
+* [Review] [Review on: fix(analyzers): skip NETH005 when span overload constraints reject the call](https://github.com/NethermindEth/nethermind/pull/16444#pullrequestreview-6080769178) - 2026-11-26
+* [Review] [Review on: fix(tracestore): remove traces outside a lowered BlocksToKeep window](https://github.com/NethermindEth/nethermind/pull/16446#pullrequestreview-6081224313) - 2026-11-26
+* [Pull Request] [perf(ssz): accelerate beacon shuffling with single-block Arm SHA-256](https://github.com/NethermindEth/nethermind/pull/16430) - 2026-11-26
+* [Review] [Review on: perf(ssz): accelerate beacon shuffling with single-block Arm SHA-256](https://github.com/NethermindEth/nethermind/pull/16430#pullrequestreview-6078827304) - 2026-11-26
+* [Pull Request] [perf(lightclient): reuse SSZ parent hashing for branch verification](https://github.com/NethermindEth/nethermind/pull/16429) - 2026-11-26
+* [Review] [Review on: fix(stats): ingest every recorded block and keep rotated buffers resettable](https://github.com/NethermindEth/nethermind/pull/16445#pullrequestreview-6081223218) - 2026-11-26
+* [Review] [Review on: perf(flat): run large early storage passes on idle-priority helpers](https://github.com/NethermindEth/nethermind/pull/16288#pullrequestreview-6081222793) - 2026-11-26
+* [Review] [Review on: feat(specs): schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/16447#pullrequestreview-6081222208) - 2026-11-26
+* [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6074648640) - 2026-11-26
+* [Review] [Review on: fix(tools): count only emitted PGO histograms](https://github.com/NethermindEth/nethermind/pull/16436#pullrequestreview-6080778710) - 2026-11-26
+* [Review] [Review on: fix(bench): ignore padding before folded profile counts](https://github.com/NethermindEth/nethermind/pull/16438#pullrequestreview-6080777965) - 2026-11-26
+* [Review] [Review on: test(runner): name shipped chainspec test cases by file name](https://github.com/NethermindEth/nethermind/pull/16441#pullrequestreview-6080777087) - 2026-11-26
+* [Review] [Review on: fix(logging): keep None disabled under a severity ceiling](https://github.com/NethermindEth/nethermind/pull/16440#pullrequestreview-6080776255) - 2026-11-26
+* [Review] [Review on: fix(core): follow linked parent directories when selecting database drives](https://github.com/NethermindEth/nethermind/pull/16443#pullrequestreview-6080775237) - 2026-11-26
+* [Review] [Review on: fix(ci): preserve subsecond sync phase timestamps](https://github.com/NethermindEth/nethermind/pull/16434#pullrequestreview-6080773393) - 2026-11-26
+* [Review] [Review on: fix(db): clear read-only column overlays on reset](https://github.com/NethermindEth/nethermind/pull/16435#pullrequestreview-6080772423) - 2026-11-26
+* [Review] [Review on: test(network): keep the update loop from dialing the IN peer in the hello displacement test](https://github.com/NethermindEth/nethermind/pull/16420#pullrequestreview-6076900855) - 2026-11-26
+* [Pull Request] [perf(ssz): hash fixed-size parents with Arm SHA-256](https://github.com/NethermindEth/nethermind/pull/16428) - 2026-11-26
+* [Review] [Review on: refactor(network)!: encode and decode RLPx frames over spans](https://github.com/NethermindEth/nethermind/pull/16427#pullrequestreview-6077640051) - 2026-11-26
+* [Pull Request] [refactor(trie): simplify nibble expansion with portable SIMD zip](https://github.com/NethermindEth/nethermind/pull/16426) - 2026-11-26
+* [Review] [Review on: refactor(trie): simplify nibble expansion with portable SIMD zip](https://github.com/NethermindEth/nethermind/pull/16426#pullrequestreview-6077508154) - 2026-11-26
+* [Review] [Review on: chore(deps): update Nethermind.Crypto.SecP256k1 to 0.8.0.52](https://github.com/NethermindEth/nethermind/pull/16425#pullrequestreview-6077640753) - 2026-11-26
+* [Review] [Review on: fix(network): attribute wrong sparse blob cells after an ambiguous proof failure](https://github.com/NethermindEth/nethermind/pull/16385#pullrequestreview-6074654236) - 2026-11-26
+* [Review] [Review on: feat(beaconchain): run on a network given by its consensus config.yaml](https://github.com/NethermindEth/nethermind/pull/16376#pullrequestreview-6074653086) - 2026-11-26
+* [Review] [Review on: fix(tracing): report Geth's precompile and code-deposit errors in callTracer frames](https://github.com/NethermindEth/nethermind/pull/16141#pullrequestreview-6074647435) - 2026-11-26
+* [Review] [Review on: feat(beacon): accept an already encoded request list in the Gloas newPayload path](https://github.com/NethermindEth/nethermind/pull/16417#pullrequestreview-6076899622) - 2026-11-26
+* [Review] [Review on: perf(txpool): let block production read the pool without waiting for a bucket update](https://github.com/NethermindEth/nethermind/pull/16407#pullrequestreview-6074655293) - 2026-11-26
+* [Review] [Review on: refactor(init)!: register the block producer and runner in the container](https://github.com/NethermindEth/nethermind/pull/16363#pullrequestreview-6074642066) - 2026-11-26
+* [Review] [Review on: perf(core): accelerate single and batched Keccak on ARM64](https://github.com/NethermindEth/nethermind/pull/16415#pullrequestreview-6074593979) - 2026-11-26
+* [Review] [Review on: fix(sync): do not hint the Ethash cache for post-merge headers](https://github.com/NethermindEth/nethermind/pull/16296#pullrequestreview-6074651974) - 2026-11-26
+* [Review] [Review on: refactor(beacon-chain): remove beacon API context](https://github.com/NethermindEth/nethermind/pull/16421#pullrequestreview-6074656275) - 2026-11-26
+* [Commit] [perf(crypto): use Arm SHA-256 for KZG versioned hashes (#16432)](https://github.com/NethermindEth/nethermind/commit/dafd1da907f084e26aee3836128681906432628e) - 2026-11-27
+* [Commit] [perf(evm): accelerate short SHA-256 precompile calls on Arm (#16431)](https://github.com/NethermindEth/nethermind/commit/22f50b09aa111fdc2d8ac8cfb96e5df013d56660) - 2026-11-27
+* [Commit] [perf(ssz): accelerate beacon shuffling with single-block Arm SHA-256 (#16430)](https://github.com/NethermindEth/nethermind/commit/aad740717501143e71a6d9954e36cd14035997df) - 2026-11-27
+* [Commit] [perf(lightclient): reuse SSZ parent hashing for branch verification (#16429)](https://github.com/NethermindEth/nethermind/commit/6bf03e39953e2cf92f27f8db9b42e6aa81098caf) - 2026-11-27
+* [Commit] [perf(ssz): hash fixed-size parents with Arm SHA-256 (#16428)](https://github.com/NethermindEth/nethermind/commit/a5d4d5fd63b0c205f348781de260ebb30129a782) - 2026-11-26
+* [Commit] [refactor(trie): simplify nibble expansion with portable SIMD zip (#16426)](https://github.com/NethermindEth/nethermind/commit/685f1045c371751d0881a6ebc9f2f46690f09933) - 2026-11-26
+* [Commit] [perf(core): accelerate single and batched Keccak on ARM64 (#16415)](https://github.com/NethermindEth/nethermind/commit/6ecf30b4335da5e85d74cd9cf5a7860f27720384) - 2026-11-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

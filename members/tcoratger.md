@@ -349,6 +349,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [Update EIP-8070: keep cell_mask 16 bytes when no blob transaction is announced](https://github.com/ethereum/EIPs/commit/bce07c18ddfe6c373ac9fd0e7dc8324e8ac99c39) - 2026-11-23
 * [Review] [Review on: Update EIP-8288: move the recursive STARK into the execution payload](https://github.com/ethereum/EIPs/pull/12549#pullrequestreview-6040403171) - 2026-11-24
 * [Issue] [EIP-8015: activation condition cannot hold when the deposit request start index is unset](https://github.com/ethereum/EIPs/issues/12715) - 2026-11-25
+* [Review] [Review on: Update EIP-8288: fix two sentences that say more than the EIP does](https://github.com/ethereum/EIPs/pull/12477#pullrequestreview-6077004093) - 2026-11-26
+* [Review] [Review on: Update EIP-8288: add recursive_stark_gas to the calldata floor](https://github.com/ethereum/EIPs/pull/12510#pullrequestreview-6074444598) - 2026-11-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573#pullrequestreview-5461324537) - 2026-10-08
 
@@ -366,6 +368,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [Fix typo (#5850)](https://github.com/ethereum/consensus-specs/commit/e0be9637f7d007a56d04c9314930c99b00d1bbb3) - 2026-11-22
 * [Issue] [Phase 0 weak subjectivity period: the max with the top-up epochs can exceed the attack time](https://github.com/ethereum/consensus-specs/issues/5866) - 2026-11-25
 * [Issue] [Fork choice: the justified checkpoint can move to a checkpoint with no stored state](https://github.com/ethereum/consensus-specs/issues/5865) - 2026-11-25
+* [Pull Request] [Add Heze row to BeaconBlocksByHead context table](https://github.com/ethereum/consensus-specs/pull/5867) - 2026-11-26
+* [Issue] [Sync committee gossip takes the next committee for a slot two or more periods ahead of the head](https://github.com/ethereum/consensus-specs/issues/5870) - 2026-11-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add examples for forkchoiceUpdatedV4/V5 and newPayloadV6](https://github.com/ethereum/execution-apis/pull/1007) - 2026-11-21
 * [Pull Request] [Engine: fix the case of inclusionListTransactions in bogota.md](https://github.com/ethereum/execution-apis/pull/1006) - 2026-11-21

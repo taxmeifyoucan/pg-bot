@@ -224,6 +224,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add UDP sockets for native networking (#10668)](https://github.com/ChainSafe/lodestar/commit/11f1fb4b6d216463c104eb974cc9a13692ca0c14) - 2026-11-24
 * [Commit] [chore: bump @chainsafe/libp2p-quic to 2.1.6 (#10754)](https://github.com/ChainSafe/lodestar/commit/8068b97a3f82996a400b29f157b8f52158f99e0d) - 2026-11-24
 * [Review] [Review on: feat: add discv5 for native networking](https://github.com/ChainSafe/lodestar/pull/10669#pullrequestreview-6060141279) - 2026-11-25
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.5](https://github.com/ChainSafe/lodestar/pull/10428#pullrequestreview-6079597172) - 2026-11-26
+* [Review] [Review on: feat: re-prepare the next slot payload on the PTC verdict](https://github.com/ChainSafe/lodestar/pull/10508#pullrequestreview-6079554781) - 2026-11-26
+* [Review] [Review on: fix: reject gossip envelopes over the transaction count bound](https://github.com/ChainSafe/lodestar/pull/10809#pullrequestreview-6079580795) - 2026-11-26
+* [Review] [Review on: feat: ignore execution payload bids a proposer cannot select](https://github.com/ChainSafe/lodestar/pull/10663#pullrequestreview-6079569026) - 2026-11-26
+* [Commit] [perf: compute execution block hash natively (#10603)](https://github.com/ChainSafe/lodestar/commit/82017afb2258b7c55ca3679390f04bcc272aecaa) - 2026-11-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

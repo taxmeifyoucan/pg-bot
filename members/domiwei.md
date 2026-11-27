@@ -482,6 +482,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon/handler: strict blob selectors in commitment order (#26775)](https://github.com/erigontech/erigon/commit/72fa45bd67590e9e3bef3a204e54f1919d772920) - 2026-11-25
 * [Commit] [cl/blobfetch: fall back to the blobs endpoint before Gloas (#26760)](https://github.com/erigontech/erigon/commit/63d70498b940819a637c9952b2707ca8ecefda5d) - 2026-11-25
 * [Commit] [cl/das: check every stored column before blob recovery uses it (#26783)](https://github.com/erigontech/erigon/commit/61dbf7824a02321350f81cc03a285cc511b95b83) - 2026-11-25
+* [Review] [Review on: cl/cltypes/solid: reject over-limit ParticipationBitList in HashSSZ and EncodeSSZ](https://github.com/erigontech/erigon/pull/26856#pullrequestreview-6069565472) - 2026-11-26
+* [Review] [Review on: cl/cltypes/solid: reject over-limit RawUint64List in EncodeSSZ](https://github.com/erigontech/erigon/pull/26852#pullrequestreview-6069573238) - 2026-11-26
+* [Commit] [cl/phase1/network/services: accept Fulu custody columns before storing them (#26758)](https://github.com/erigontech/erigon/commit/8116d38619f37c49406212af38a715c060866b41) - 2026-11-26
+* [Commit] [cl: cut the per-message cost of sync committee messages (#26721)](https://github.com/erigontech/erigon/commit/98da898cf26489cb5ba78aac5ca5c443af0dc829) - 2026-11-26
 ## Q3 2026
 
 

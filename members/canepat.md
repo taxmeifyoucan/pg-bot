@@ -46,6 +46,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: eez: settle the sequencer's blocks with anchor-only batches](https://github.com/erigontech/erigon/pull/26686#pullrequestreview-6020751867) - 2026-11-23
 * [Pull Request] [eez: compose L1 calls into steady Sync blocks](https://github.com/erigontech/erigon/pull/26773) - 2026-11-24
 * [Review] [Review on: eez: compose L1 calls into steady Sync blocks](https://github.com/erigontech/erigon/pull/26773#pullrequestreview-6048134657) - 2026-11-24
+* [Pull Request] [eez: post batches under the manager's quorum and harden recovery](https://github.com/erigontech/erigon/pull/26909) - 2026-11-27
+* [Review] [Review on: eez: post batches under the manager's quorum and harden recovery](https://github.com/erigontech/erigon/pull/26909#pullrequestreview-6082119824) - 2026-11-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

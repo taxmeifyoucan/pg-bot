@@ -109,6 +109,21 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor(fork-choice): take slot timing from the clock module](https://github.com/ChainSafe/lodestar/pull/10791) - 2026-11-25
 * [Review] [Review on: refactor: add typed error for a syncing execution client on payload preparation](https://github.com/ChainSafe/lodestar/pull/10735#pullrequestreview-6059898695) - 2026-11-25
 * [Review] [Review on: fix: penalize peers serving invalid payloads by root](https://github.com/ChainSafe/lodestar/pull/10771#pullrequestreview-6059714690) - 2026-11-25
+* [Review] [Review on: fix: keep block input cached when gossip import gives up on missing data](https://github.com/ChainSafe/lodestar/pull/10770#pullrequestreview-6074595462) - 2026-11-26
+* [Review] [Review on: fix: correct `canonical` and `finalized` of block headers at finalized slots](https://github.com/ChainSafe/lodestar/pull/10702#pullrequestreview-6075449806) - 2026-11-26
+* [Review] [Review on: fix: serve finalized blocks by slot before they are archived](https://github.com/ChainSafe/lodestar/pull/10787#pullrequestreview-6075831295) - 2026-11-26
+* [Pull Request] [chore: update consensus spec tests to v1.7.0-beta.5](https://github.com/ChainSafe/lodestar/pull/10816) - 2026-11-26
+* [Review] [Review on: feat: re-prepare the next slot payload on the PTC verdict](https://github.com/ChainSafe/lodestar/pull/10508#pullrequestreview-6081268623) - 2026-11-26
+* [Pull Request] [fix(fork-choice): compute exact committee weight in native fast confirmation](https://github.com/ChainSafe/lodestar/pull/10805) - 2026-11-26
+* [Review] [Review on: perf: compute execution block hash natively](https://github.com/ChainSafe/lodestar/pull/10603#pullrequestreview-6078466079) - 2026-11-26
+* [Pull Request] [fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525) - 2026-11-26
+* [Pull Request] [feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490) - 2026-11-26
+* [Review] [Review on: perf: check new validators' deposit signatures in parallel](https://github.com/ChainSafe/lodestar/pull/10633#pullrequestreview-6075918248) - 2026-11-26
+* [Review] [Review on: fix: resend the pending WHOAREYOU to repeated cold packets](https://github.com/ChainSafe/lodestar/pull/10775#pullrequestreview-6074466959) - 2026-11-26
+* [Review] [Review on: test: run envelope gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/10764#pullrequestreview-6074925671) - 2026-11-26
+* [Commit] [fix: discount pending parent support in fast confirmation empty slots (#10539)](https://github.com/ChainSafe/lodestar/commit/39197139b25c6bd6738a7f53cac78546591ee396) - 2026-11-27
+* [Commit] [fix: compute exact committee weight in fast confirmation (#10525)](https://github.com/ChainSafe/lodestar/commit/0adec86ce372c26f05c579c2e3fa4e688958927d) - 2026-11-26
+* [Commit] [feat: reject gossip envelopes if payload does not match its block hash (#10490)](https://github.com/ChainSafe/lodestar/commit/c431fb8b1ebcc98d234ff5a208165fad8f77fbcc) - 2026-11-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

@@ -150,6 +150,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Replace the permissioning allowlist file atomically, under a lock shared by both allowlists (s252)](https://github.com/besu-eth/besu/commit/978623be0bc62d1110e540a5946696dea3cf1a99) - 2026-11-24
 * [Commit] [Compare each linked DNS discovery tree with its own sequence number (s250)](https://github.com/besu-eth/besu/commit/166e161c10bf1505267e9eefa7d4545e3bd9da47) - 2026-11-24
 * [Review] [Review on: Update reference tests to tests@v21.0.3](https://github.com/besu-eth/besu/pull/12046#pullrequestreview-6059746731) - 2026-11-25
+* [Pull Request] [Make cancellation win over background failure in BAL state root committer](https://github.com/besu-eth/besu/pull/12057) - 2026-11-26
+* [Issue] [IPC JSON-RPC cannot parse a request that spans more than one socket read (fails from ~2 KB)](https://github.com/besu-eth/besu/issues/12055) - 2026-11-26
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

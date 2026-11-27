@@ -836,6 +836,26 @@ Team: Reth
 * [Commit] [fix(rpc): bound callMany request parsing (#28748)](https://github.com/paradigmxyz/reth/commit/f67031d5e101f57b91c4ba40b2f8370f4ae6ca7a) - 2026-11-25
 * [Commit] [perf(rpc): write debug struct logs as raw JSON (#28559)](https://github.com/paradigmxyz/reth/commit/5ea51b7db544e5dcedb8980b5754fd1b145b8221) - 2026-11-25
 * [Commit] [fix(rpc): return only new logs from eth_getFilterChanges (#26998)](https://github.com/paradigmxyz/reth/commit/7540d1dd10a188ef9ee9b2963da6eeb7475b9d60) - 2026-11-25
+* [Pull Request] [fix(consensus): check blob gas used post-execution](https://github.com/paradigmxyz/reth/pull/28784) - 2026-11-26
+* [Review] [Review on: perf(engine): return Arc from convert_payload_to_block](https://github.com/paradigmxyz/reth/pull/28789#pullrequestreview-6081056130) - 2026-11-26
+* [Pull Request] [feat: schedule Hoodi Amsterdam activation](https://github.com/paradigmxyz/reth/pull/28782) - 2026-11-26
+* [Pull Request] [feat(rpc): accept block tags in trace_filter bounds](https://github.com/paradigmxyz/reth/pull/28776) - 2026-11-26
+* [Pull Request] [feat(net): add HelloMessageWithProtocols::set_eth_versions](https://github.com/paradigmxyz/reth/pull/28783) - 2026-11-26
+* [Pull Request] [feat(rpc): add memory budget for heavy requests](https://github.com/paradigmxyz/reth/pull/28777) - 2026-11-26
+* [Pull Request] [fix(net): cap served GetPooledTransactions hashes at the soft limit](https://github.com/paradigmxyz/reth/pull/28778) - 2026-11-26
+* [Pull Request] [feat(rpc): accept overrides in trace_callMany](https://github.com/paradigmxyz/reth/pull/28774) - 2026-11-26
+* [Pull Request] [fix(rpc): validate call fees like geth](https://github.com/paradigmxyz/reth/pull/28773) - 2026-11-26
+* [Review] [Review on: fix(cli): preserve downloaded transaction ranges](https://github.com/paradigmxyz/reth/pull/28714#pullrequestreview-6076918680) - 2026-11-26
+* [Review] [Review on: fix(rpc): require hex quantities in trace_get paths](https://github.com/paradigmxyz/reth/pull/28105#pullrequestreview-6076768948) - 2026-11-26
+* [Review] [Review on: fix(rpc): preserve pruned history errors through execution wrappers](https://github.com/paradigmxyz/reth/pull/27378#pullrequestreview-6076767919) - 2026-11-26
+* [Commit] [feat(net): add HelloMessageWithProtocols::set_eth_versions (#28783)](https://github.com/paradigmxyz/reth/commit/e9c504645569e768cf1c2d7d9fceda8b4d492e6a) - 2026-11-26
+* [Commit] [fix(net): cap served GetPooledTransactions hashes at the soft limit (#28778)](https://github.com/paradigmxyz/reth/commit/f449d565bef55ccc962d065255d89b39ce2a1855) - 2026-11-26
+* [Commit] [feat(rpc): accept overrides in trace_callMany (#28774)](https://github.com/paradigmxyz/reth/commit/baea004a6e41c7a6c8feacf50e75743f07c4ba91) - 2026-11-26
+* [Commit] [fix(net): remove peer table cap (#28770)](https://github.com/paradigmxyz/reth/commit/8dd358f113b08901049c148369af4bf96151b40a) - 2026-11-26
+* [Commit] [fix(download): harden legacy restore check (#28768)](https://github.com/paradigmxyz/reth/commit/d699fa96f53e3d137295a7b0c9c9436c49146c80) - 2026-11-26
+* [Commit] [fix(rpc): share trace byte limit across calls (#28764)](https://github.com/paradigmxyz/reth/commit/d1e00d27b05ab63f5c8f2216ad0f023d75abd500) - 2026-11-26
+* [Commit] [fix(download): retry range probes answered with 200 (#28611)](https://github.com/paradigmxyz/reth/commit/a87fb71551721448693ba4934222494f1d4efbf3) - 2026-11-26
+* [Commit] [chore(deps): bump reth-core to 15c627d (#28756)](https://github.com/paradigmxyz/reth/commit/8dfe47f1acff3cafeb7ffd131c2f04789df6ce45) - 2026-11-26
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

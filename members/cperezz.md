@@ -59,6 +59,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [fix(tests,test-specs): keep the reorg tests off discarded branches and genesis ancestors (#4049)](https://github.com/ethereum/execution-specs/commit/6ffbd3530c7416cfb1eb5e4763a8b0ffd5a82de4) - 2026-11-25
 * [Commit] [refactor(tests): port TransactionReOrgTest as one test with its four scenarios (#4037)](https://github.com/ethereum/execution-specs/commit/ea231101e71ca047a47870a2a0aaebd19a9b1b20) - 2026-11-25
 * [Commit] [fix(test-consume): retry transaction lookups while the client is still indexing (#4038)](https://github.com/ethereum/execution-specs/commit/488ac657e5f6386f46ac628ed5d8193df38fc58c) - 2026-11-25
+* [Review] [Review on: feat(doc): draw the reorg tests in the test case reference](https://github.com/ethereum/execution-specs/pull/4075#pullrequestreview-6080916623) - 2026-11-26
+* [Review] [Review on: feat(test-fixtures): say why a reorg fixture block is invalid](https://github.com/ethereum/execution-specs/pull/4074#pullrequestreview-6080902720) - 2026-11-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15

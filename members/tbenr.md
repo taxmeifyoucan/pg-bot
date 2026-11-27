@@ -148,6 +148,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Keep static peers out of discovery peer selection (#11742)](https://github.com/Consensys-Incorporated/teku/commit/d34f619b9fe0b96a4a1cef9c2a71916229818720) - 2026-11-25
 * [Commit] [Count each outbound connection attempt once (#11741)](https://github.com/Consensys-Incorporated/teku/commit/80bc831b0a100ab1deeab69803d4f237c8511bed) - 2026-11-25
 * [Commit] [Skip disconnecting peers in peer selection and subnet coverage (#11743)](https://github.com/Consensys-Incorporated/teku/commit/dfdb9047f04dad1bff185ec1bb588701c74423fc) - 2026-11-25
+* [Pull Request] [Close the connection when a REST response body cannot be completed](https://github.com/Consensys-Incorporated/teku/pull/11753) - 2026-11-26
+* [Pull Request] [Load all-zero composite list elements in tree-mode storage](https://github.com/Consensys-Incorporated/teku/pull/11754) - 2026-11-26
+* [Review] [Review on: run cheap bid gossip checks before retrieving parent state](https://github.com/Consensys-Incorporated/teku/pull/11731#pullrequestreview-6081300591) - 2026-11-26
+* [Pull Request] [Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588) - 2026-11-26
+* [Issue] [Two GLOAS gossip rules likely going in beta.5](https://github.com/Consensys-Incorporated/teku/issues/11756) - 2026-11-26
+* [Issue] [Error responses on octet-stream-default endpoints are returned as a generic 500](https://github.com/Consensys-Incorporated/teku/issues/11755) - 2026-11-26
+* [Commit] [Gloas envelope content hash (#11588)](https://github.com/Consensys-Incorporated/teku/commit/13669842d1ad86bb852249a1c0c5afe84531113e) - 2026-11-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

@@ -61,6 +61,7 @@ Team: Erigon
 * [Review] [Review on: rpc_perf: read the heavy eth_subscribe classes in a second process](https://github.com/erigontech/rpc-tests/pull/668#pullrequestreview-5983204481) - 2026-11-19
 * [Review] [Review on: rpc_perf, rpc_pattern_gen: split the eth_subscribe connections into client classes](https://github.com/erigontech/rpc-tests/pull/667#pullrequestreview-5975690213) - 2026-11-19
 * [Review] [Review on: rpc_perf: measure logs and receipts against the first head on any connection](https://github.com/erigontech/rpc-tests/pull/669#pullrequestreview-6004487911) - 2026-11-21
+* [Review] [Review on: integration: debug_trace* expect the error and zero gasCost on an exceptionally halting step](https://github.com/erigontech/rpc-tests/pull/671#pullrequestreview-6075517825) - 2026-11-26
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07

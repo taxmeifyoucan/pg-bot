@@ -97,6 +97,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Ignore contributions for other roots when packing sync messages (#17872)](https://github.com/OffchainLabs/prysm/commit/3b31abc66c109611307e13487d3078db5b1dc197) - 2026-11-23
 * [Commit] [Mark attester slashings seen before inserting them into the pool (#17888)](https://github.com/OffchainLabs/prysm/commit/241c0c47f7f06d6d343cc8a27916f72314da1c20) - 2026-11-23
 * [Review] [Review on: Return the decode error from the remote web3signer client's response unmarshalling](https://github.com/OffchainLabs/prysm/pull/17321#pullrequestreview-6041950951) - 2026-11-24
+* [Pull Request] [Reschedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17938) - 2026-11-26
 ## Q3 2026
 
 

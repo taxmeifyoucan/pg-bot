@@ -90,6 +90,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Check TransactionArgs fields against active fork in eth_call/createAccessList/estimateGas (#5220)](https://github.com/status-im/nimbus-eth1/commit/607c875c338a0a0e2305b3c09376645829cf2f82) - 2026-11-24
 * [Review] [Review on: split block processing phases](https://github.com/status-im/nimbus-eth1/pull/5221#pullrequestreview-6038284144) - 2026-11-24
 * [Commit] [System Call follow EIP-7702 delegation designator (#5186)](https://github.com/status-im/nimbus-eth1/commit/6b0332e5cb8b4aaa3e2d336401e2973e11a95613) - 2026-11-25
+* [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/5227) - 2026-11-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

@@ -96,6 +96,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Plugins can ship named configurations (#16130)](https://github.com/NethermindEth/nethermind/commit/bb6171fbab88e153a63ea16c107f5cd7b402ef98) - 2026-11-20
 * [Pull Request] [fix(rpc): queue IPC connections opened before the first accept](https://github.com/NethermindEth/nethermind/pull/16412) - 2026-11-25
 * [Pull Request] [perf(flat): keep catch-up sync off the persisted-snapshot tier and unblock its writers](https://github.com/NethermindEth/nethermind/pull/16413) - 2026-11-25
+* [Commit] [fix(state): persist a flat base snapshot wider than CompactSize (#16132)](https://github.com/NethermindEth/nethermind/commit/7a8ea16fb54790f856a77e3f543661c13134002e) - 2026-11-26
+* [Commit] [fix(rpc): queue IPC connections opened before the first accept (#16412)](https://github.com/NethermindEth/nethermind/commit/9cc9cb6fa7bcafdbb615af48de1445eddaa6013b) - 2026-11-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

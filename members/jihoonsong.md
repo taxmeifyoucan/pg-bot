@@ -43,6 +43,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792#pullrequestreview-5992279443) - 2026-11-20
 * [Commit] [Clarify honest validator's IL proposal (#5792)](https://github.com/ethereum/consensus-specs/commit/45fba517b6beb562f2b9d7a58f8eeece318ba64a) - 2026-11-20
 * [Review] [Review on: Extend Gloas optimistic sync in Heze](https://github.com/ethereum/consensus-specs/pull/5852#pullrequestreview-6013578173) - 2026-11-22
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-6077619745) - 2026-11-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 

@@ -419,6 +419,22 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: build(beacon): read fork template list from a build property](https://github.com/NethermindEth/nethermind/pull/16381#pullrequestreview-6054297040) - 2026-11-25
 * [Review] [Review on: ci(hive): stop hung Hive runs with their results and tighten the result checks](https://github.com/NethermindEth/nethermind/pull/16215#pullrequestreview-6058396841) - 2026-11-25
 * [Review] [Review on: fix(light-client): accept large HTTP batches for EVM calls](https://github.com/NethermindEth/nethermind/pull/16313#pullrequestreview-6054577721) - 2026-11-25
+* [Review] [Review on: feat(evm): add settled-gas adjustment hook to transaction processor](https://github.com/NethermindEth/nethermind/pull/16410#pullrequestreview-6071976305) - 2026-11-26
+* [Review] [Review on: test(network): keep the update loop from dialing the IN peer in the hello displacement test](https://github.com/NethermindEth/nethermind/pull/16420#pullrequestreview-6073823781) - 2026-11-26
+* [Review] [Review on: fix(network): attribute wrong sparse blob cells after an ambiguous proof failure](https://github.com/NethermindEth/nethermind/pull/16385#pullrequestreview-6069949404) - 2026-11-26
+* [Pull Request] [fix(flat): abort a persistence write batch whose body throws](https://github.com/NethermindEth/nethermind/pull/16419) - 2026-11-26
+* [Review] [Review on: fix(flat): abort a persistence write batch whose body throws](https://github.com/NethermindEth/nethermind/pull/16419#pullrequestreview-6070423505) - 2026-11-26
+* [Review] [Review on: fix(tracing): report Geth's precompile and code-deposit errors in callTracer frames](https://github.com/NethermindEth/nethermind/pull/16141#pullrequestreview-6070793013) - 2026-11-26
+* [Pull Request] [fix(sync): bound header skips and node data lookups of peer requests](https://github.com/NethermindEth/nethermind/pull/16418) - 2026-11-26
+* [Review] [Review on: fix(sync): bound header skips and node data lookups of peer requests](https://github.com/NethermindEth/nethermind/pull/16418#pullrequestreview-6074210165) - 2026-11-26
+* [Review] [Review on: perf(txpool): let block production read the pool without waiting for a bucket update](https://github.com/NethermindEth/nethermind/pull/16407#pullrequestreview-6075730056) - 2026-11-26
+* [Review] [Review on: refactor(init)!: register the block producer and runner in the container](https://github.com/NethermindEth/nethermind/pull/16363#pullrequestreview-6075750678) - 2026-11-26
+* [Review] [Review on: perf(core): accelerate single and batched Keccak on ARM64](https://github.com/NethermindEth/nethermind/pull/16415#pullrequestreview-6071777226) - 2026-11-26
+* [Commit] [fix(sync): do not hint the Ethash cache for post-merge headers (#16296)](https://github.com/NethermindEth/nethermind/commit/5c62bba1f7188381ca3f4157ac8c5f1c5d510895) - 2026-11-26
+* [Commit] [fix(sync): delete the storage trie nodes when flat healing empties a storage (#16408)](https://github.com/NethermindEth/nethermind/commit/d60dd841f44252369de2b5d8e971829f8172b30d) - 2026-11-26
+* [Commit] [fix(stateless): record the precompile account access in the cached code-info repository (#16382)](https://github.com/NethermindEth/nethermind/commit/4fa3f28be3ce2460396beda260ff17d848666867) - 2026-11-26
+* [Commit] [fix(tracing): show the pushed CREATE2 salt to JavaScript tracers (#16383)](https://github.com/NethermindEth/nethermind/commit/8dd4322d7345780a614e70d1bb13a7288a20e689) - 2026-11-26
+* [Commit] [fix(evm): end the node when a precompile's native library cannot be used (#16297)](https://github.com/NethermindEth/nethermind/commit/f7644b2a00a966499f05e32a3a3ff6ca50feca59) - 2026-11-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 

@@ -731,6 +731,36 @@ Team: Erigon
 * [Issue] [cl/beacon/handler: execution payload bid POST returns 200 when the gossip publish fails](https://github.com/erigontech/erigon/issues/26849) - 2026-11-26
 * [Issue] [Caplin retention regimes: archive, pruned, spec, tip](https://github.com/erigontech/erigon/issues/26842) - 2026-11-26
 
+* [Pull Request] [db/snaptype: use registered Caplin types instead of name prefixes](https://github.com/erigontech/erigon/pull/26879) - 2026-11-26
+* [Pull Request] [db/snapshotsync: reject unsupported Caplin snapshot versions on open](https://github.com/erigontech/erigon/pull/26878) - 2026-11-26
+* [Pull Request] [db/integrity: trust the cache only for files verified in this run](https://github.com/erigontech/erigon/pull/26877) - 2026-11-26
+* [Pull Request] [execution, txpool: prewarm state from mempool transactions between blocks](https://github.com/erigontech/erigon/pull/26921) - 2026-11-27
+* [Pull Request] [execution/commitment, rpc/jsonrpc: apply the #26898 review cleanups](https://github.com/erigontech/erigon/pull/26918) - 2026-11-27
+* [Pull Request] [rpc/jsonrpc, execution/commitment/v3: v3-native witnesses and proofs](https://github.com/erigontech/erigon/pull/26898) - 2026-11-26
+* [Pull Request] [cl/beacon/handler: read duties and dependent_root from one head view](https://github.com/erigontech/erigon/pull/26881) - 2026-11-26
+* [Review] [Review on: cl/beacon/handler: read duties and dependent_root from one head view](https://github.com/erigontech/erigon/pull/26881#pullrequestreview-6083750782) - 2026-11-27
+* [Pull Request] [cl/beacon/handler: bound committee epochs by available RANDAO mixes](https://github.com/erigontech/erigon/pull/26882) - 2026-11-26
+* [Pull Request] [cmd/capcli: join Beacon API request paths onto the endpoint URL](https://github.com/erigontech/erigon/pull/26869) - 2026-11-26
+* [Pull Request] [cmd/capcli: check Beacon API status before decoding and close bodies](https://github.com/erigontech/erigon/pull/26880) - 2026-11-26
+* [Pull Request] [cl/persistence: return cursor errors from RangeBlockRoots and ReadValidatorsTable](https://github.com/erigontech/erigon/pull/26868) - 2026-11-26
+* [Pull Request] [cl/antiquary: keep the safety margin below 20,000 and log the canonical head wait](https://github.com/erigontech/erigon/pull/26897) - 2026-11-26
+* [Pull Request] [cl/beacon/handler: duties answer spec-listed statuses while history is pending](https://github.com/erigontech/erigon/pull/26895) - 2026-11-26
+* [Issue] [cl/beacon/handler: committees past the head epoch + 2 come from an unavailable RANDAO mix](https://github.com/erigontech/erigon/issues/26872) - 2026-11-26
+* [Issue] [execution/protocol: system calls use a nil header reader for BLOCKHASH](https://github.com/erigontech/erigon/issues/26876) - 2026-11-26
+* [Issue] [cmd/capcli: Beacon API helpers panic on error JSON and leak the body on 404](https://github.com/erigontech/erigon/issues/26875) - 2026-11-26
+* [Issue] [cl/beacon/handler: Fulu proposer duties ignore the proposer lookahead vector after a state advance](https://github.com/erigontech/erigon/issues/26874) - 2026-11-26
+* [Issue] [cl/beacon/handler: duties and dependent_root come from two separate head reads](https://github.com/erigontech/erigon/issues/26873) - 2026-11-26
+* [Commit] [rpc/jsonrpc, execution/commitment/v3: v3-native witnesses and proofs (#26898)](https://github.com/erigontech/erigon/commit/c2bd1437c31f14ee0a4e1994cf26fbef5623af76) - 2026-11-27
+* [Commit] [cl/beacon/handler: bound committee epochs by available RANDAO mixes (#26882)](https://github.com/erigontech/erigon/commit/331bec090a92ed454406862e60690d100ccedf1b) - 2026-11-27
+* [Commit] [cmd/capcli: join Beacon API request paths onto the endpoint URL (#26869)](https://github.com/erigontech/erigon/commit/8e1801f30647d59cba71dc77e1c4d42ca285548d) - 2026-11-27
+* [Commit] [cl/persistence: return cursor errors from RangeBlockRoots and ReadValidatorsTable (#26868)](https://github.com/erigontech/erigon/commit/579d40611977c6beffe4b722c8630e623f6ad054) - 2026-11-27
+* [Commit] [cl/antiquary: keep the safety margin below 20,000 and log the canonical head wait (#26897)](https://github.com/erigontech/erigon/commit/61c2c0012b42b71dc9ce8eade8aae3c4a2340526) - 2026-11-27
+* [Commit] [diagnostics/diaglib: remove the dead stage state machine, DiagnosticClient and PeerStats (#26818)](https://github.com/erigontech/erigon/commit/61a39aa1abe124c6014b001067f61db49d1ab118) - 2026-11-26
+* [Commit] [db/state: v3 commitment history convert and one shared verify (#26276)](https://github.com/erigontech/erigon/commit/2c861810e0299964021c409f97b45c358ac4f774) - 2026-11-26
+* [Commit] [cl/antiquary: freeze beacon blocks only up to the canonical head (#26847)](https://github.com/erigontech/erigon/commit/068d1945faca1caf6cfd855e878b918d380c70e3) - 2026-11-26
+* [Commit] [execution/protocol: drop the uncontended mutex from GetHashFn (#26865)](https://github.com/erigontech/erigon/commit/20eb6e5bd72bd8701f41633a9f0d5e40b0926509) - 2026-11-26
+* [Commit] [db/snapshotsync/freezeblocks: fail a beacon block dump at a canonical slot with no body (#26848)](https://github.com/erigontech/erigon/commit/740292f1f5e0f078e50b406bf28bec8c659b7d6f) - 2026-11-26
+* [Commit] [.github/workflows: bump rpc-tests to v2.42.2 for debug_traceCall test_25 (#26843)](https://github.com/erigontech/erigon/commit/da2f4997075f2bcb7f1ffed0052b0db13babd089) - 2026-11-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration: debug_traceCall test_25 expects -32602 for an unsupported block override](https://github.com/erigontech/rpc-tests/pull/670#pullrequestreview-6067364553) - 2026-11-26
 ## Q3 2026

@@ -354,6 +354,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Close owned JSON parsers in JsonUtil](https://github.com/besu-eth/besu/pull/12024#pullrequestreview-6067104252) - 2026-11-26
 * [Review] [Review on: fix(tracing): retain VM frame positions across omitted opcodes](https://github.com/besu-eth/besu/pull/11352#pullrequestreview-6066191287) - 2026-11-25
 * [Review] [Review on: test(rpc): cover the block processing checks of trace_rawTransaction](https://github.com/besu-eth/besu/pull/11952#pullrequestreview-6065572013) - 2026-11-25
+* [Review] [Review on: Reject delegated transaction senders before Prague](https://github.com/besu-eth/besu/pull/12053#pullrequestreview-6082614026) - 2026-11-27
+* [Review] [Review on: Schedule Amsterdam on Hoodi](https://github.com/besu-eth/besu/pull/12058#pullrequestreview-6082669289) - 2026-11-27
+* [Review] [Review on: fix(rpc): keep contract logs with eth_simulateV1 traceTransfers](https://github.com/besu-eth/besu/pull/12021#pullrequestreview-6082521259) - 2026-11-27
+* [Review] [Review on: test(rpc): cover the block processing checks of trace_rawTransaction](https://github.com/besu-eth/besu/pull/11952#pullrequestreview-6081805872) - 2026-11-27
+* [Review] [Review on: contributing guidelines rewrite, focus on PR quality and review](https://github.com/besu-eth/besu/pull/11911#pullrequestreview-6071376719) - 2026-11-26
+* [Commit] [contributing guidelines rewrite, focus on PR quality and review (#11911)](https://github.com/besu-eth/besu/commit/b5d8dc7cff2f45bda4261e3ea21b223a29cb89df) - 2026-11-26
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

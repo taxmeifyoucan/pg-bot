@@ -90,6 +90,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): test CALLDATALOAD at offsets of 2^64 and above](https://github.com/ethereum/execution-specs/pull/4059#pullrequestreview-6053149544) - 2026-11-25
 * [Review] [Review on: feat(tests): test CALLDATACOPY past the calldata end keeps later memory](https://github.com/ethereum/execution-specs/pull/4060#pullrequestreview-6053075969) - 2026-11-25
 * [Review] [Review on: feat(tests): test SIGNEXTEND from every byte position](https://github.com/ethereum/execution-specs/pull/4061#pullrequestreview-6052957195) - 2026-11-25
+* [Review] [Review on: docs(tests): give the reorg test docstrings a one-line summary](https://github.com/ethereum/execution-specs/pull/4078#pullrequestreview-6076491162) - 2026-11-26
+* [Review] [Review on: fix(doc): render the README pages of the test case reference](https://github.com/ethereum/execution-specs/pull/4077#pullrequestreview-6076269887) - 2026-11-26
+* [Review] [Review on: fix(doc): point the bad docstring issue links at execution-specs](https://github.com/ethereum/execution-specs/pull/4079#pullrequestreview-6076534798) - 2026-11-26
+* [Commit] [feat(test-benchmark): add stub account configuration, with state-actor example config (#3203)](https://github.com/ethereum/execution-specs/commit/1fe7ac6b5a6935d46e90ca82e20e1ee0b802f294) - 2026-11-26
 ## Q3 2026
 
 

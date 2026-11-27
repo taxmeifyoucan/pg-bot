@@ -737,6 +737,46 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(rpc): close open WebSocket connections at shutdown (#16214)](https://github.com/NethermindEth/nethermind/commit/cb376f64f66b9d4bf6affbafb7f35b27b7df303b) - 2026-11-25
 * [Commit] [fix(pruning): do not log full pruning canceled at shutdown as an error (#16207)](https://github.com/NethermindEth/nethermind/commit/89c4c132a48f277cf596d430352c2787d74aa0cb) - 2026-11-25
 * [Commit] [fix(network): enable snappy before any disconnect after a p2p v5 hello (#16163)](https://github.com/NethermindEth/nethermind/commit/3fafb29d06bc664b465e4493a852788863ffbceb) - 2026-11-25
+* [Review] [Review on: perf(crypto): use Arm SHA-256 for KZG versioned hashes](https://github.com/NethermindEth/nethermind/pull/16432#pullrequestreview-6078914158) - 2026-11-26
+* [Review] [Review on: perf(evm): accelerate short SHA-256 precompile calls on Arm](https://github.com/NethermindEth/nethermind/pull/16431#pullrequestreview-6078911988) - 2026-11-26
+* [Pull Request] [fix(bench): read grouped reports from resume-enabled runs](https://github.com/NethermindEth/nethermind/pull/16442) - 2026-11-26
+* [Review] [Review on: fix(bench): read grouped reports from resume-enabled runs](https://github.com/NethermindEth/nethermind/pull/16442#pullrequestreview-6081239048) - 2026-11-26
+* [Review] [Review on: fix(xdc): pick reward protectors and observers from the rewarded epoch's standby nodes](https://github.com/NethermindEth/nethermind/pull/16448#pullrequestreview-6081292926) - 2026-11-26
+* [Pull Request] [fix(docgen): generate database-size tabs only for JSON reports](https://github.com/NethermindEth/nethermind/pull/16437) - 2026-11-26
+* [Review] [Review on: fix(docgen): generate database-size tabs only for JSON reports](https://github.com/NethermindEth/nethermind/pull/16437#pullrequestreview-6081258814) - 2026-11-26
+* [Pull Request] [fix(ci): reject version bumps without a declared prefix](https://github.com/NethermindEth/nethermind/pull/16439) - 2026-11-26
+* [Review] [Review on: fix(ci): reject version bumps without a declared prefix](https://github.com/NethermindEth/nethermind/pull/16439#pullrequestreview-6081260609) - 2026-11-26
+* [Pull Request] [fix(analyzers): skip NETH005 when span overload constraints reject the call](https://github.com/NethermindEth/nethermind/pull/16444) - 2026-11-26
+* [Review] [Review on: fix(analyzers): skip NETH005 when span overload constraints reject the call](https://github.com/NethermindEth/nethermind/pull/16444#pullrequestreview-6081284548) - 2026-11-26
+* [Pull Request] [fix(tracestore): remove traces outside a lowered BlocksToKeep window](https://github.com/NethermindEth/nethermind/pull/16446) - 2026-11-26
+* [Review] [Review on: fix(tracestore): remove traces outside a lowered BlocksToKeep window](https://github.com/NethermindEth/nethermind/pull/16446#pullrequestreview-6081464694) - 2026-11-26
+* [Review] [Review on: perf(ssz): accelerate beacon shuffling with single-block Arm SHA-256](https://github.com/NethermindEth/nethermind/pull/16430#pullrequestreview-6078923022) - 2026-11-26
+* [Review] [Review on: perf(lightclient): reuse SSZ parent hashing for branch verification](https://github.com/NethermindEth/nethermind/pull/16429#pullrequestreview-6078856467) - 2026-11-26
+* [Pull Request] [fix(stats): ingest every recorded block and keep rotated buffers resettable](https://github.com/NethermindEth/nethermind/pull/16445) - 2026-11-26
+* [Review] [Review on: feat(specs): schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/16447#pullrequestreview-6081213404) - 2026-11-26
+* [Pull Request] [fix(tools): count only emitted PGO histograms](https://github.com/NethermindEth/nethermind/pull/16436) - 2026-11-26
+* [Pull Request] [fix(bench): ignore padding before folded profile counts](https://github.com/NethermindEth/nethermind/pull/16438) - 2026-11-26
+* [Pull Request] [test(runner): name shipped chainspec test cases by file name](https://github.com/NethermindEth/nethermind/pull/16441) - 2026-11-26
+* [Pull Request] [fix(logging): keep None disabled under a severity ceiling](https://github.com/NethermindEth/nethermind/pull/16440) - 2026-11-26
+* [Pull Request] [fix(core): follow linked parent directories when selecting database drives](https://github.com/NethermindEth/nethermind/pull/16443) - 2026-11-26
+* [Pull Request] [fix(ci): preserve subsecond sync phase timestamps](https://github.com/NethermindEth/nethermind/pull/16434) - 2026-11-26
+* [Review] [Review on: fix(ci): preserve subsecond sync phase timestamps](https://github.com/NethermindEth/nethermind/pull/16434#pullrequestreview-6080412625) - 2026-11-26
+* [Pull Request] [fix(db): clear read-only column overlays on reset](https://github.com/NethermindEth/nethermind/pull/16435) - 2026-11-26
+* [Review] [Review on: test(network): keep the update loop from dialing the IN peer in the hello displacement test](https://github.com/NethermindEth/nethermind/pull/16420#pullrequestreview-6077104942) - 2026-11-26
+* [Review] [Review on: perf(ssz): hash fixed-size parents with Arm SHA-256](https://github.com/NethermindEth/nethermind/pull/16428#pullrequestreview-6078843491) - 2026-11-26
+* [Review] [Review on: refactor(network)!: encode and decode RLPx frames over spans](https://github.com/NethermindEth/nethermind/pull/16427#pullrequestreview-6077488697) - 2026-11-26
+* [Review] [Review on: refactor(trie): simplify nibble expansion with portable SIMD zip](https://github.com/NethermindEth/nethermind/pull/16426#pullrequestreview-6077349349) - 2026-11-26
+* [Review] [Review on: chore(deps): update Nethermind.Crypto.SecP256k1 to 0.8.0.52](https://github.com/NethermindEth/nethermind/pull/16425#pullrequestreview-6077103118) - 2026-11-26
+* [Review] [Review on: fix(network): attribute wrong sparse blob cells after an ambiguous proof failure](https://github.com/NethermindEth/nethermind/pull/16385#pullrequestreview-6077410792) - 2026-11-26
+* [Review] [Review on: feat(beaconchain): run on a network given by its consensus config.yaml](https://github.com/NethermindEth/nethermind/pull/16376#pullrequestreview-6077316902) - 2026-11-26
+* [Review] [Review on: fix(flat): abort a persistence write batch whose body throws](https://github.com/NethermindEth/nethermind/pull/16419#pullrequestreview-6077258382) - 2026-11-26
+* [Review] [Review on: fix(tracing): report Geth's precompile and code-deposit errors in callTracer frames](https://github.com/NethermindEth/nethermind/pull/16141#pullrequestreview-6077211578) - 2026-11-26
+* [Review] [Review on: feat(beacon): accept an already encoded request list in the Gloas newPayload path](https://github.com/NethermindEth/nethermind/pull/16417#pullrequestreview-6077171961) - 2026-11-26
+* [Review] [Review on: fix(sync): bound header skips and node data lookups of peer requests](https://github.com/NethermindEth/nethermind/pull/16418#pullrequestreview-6077127578) - 2026-11-26
+* [Review] [Review on: ci(sync): give each Hoodi PR gate entry its own runner lifecycle](https://github.com/NethermindEth/nethermind/pull/16424#pullrequestreview-6076997034) - 2026-11-26
+* [Issue] [TraceStore pruner keeps traces outside a reduced BlocksToKeep window after restart](https://github.com/NethermindEth/nethermind/issues/16433) - 2026-11-26
+* [Commit] [fix(stats): ingest every recorded block and keep rotated buffers resettable (#16445)](https://github.com/NethermindEth/nethermind/commit/7bfa8266d1b2d02419a5682b07b4aacea1a21829) - 2026-11-26
+* [Commit] [fix(rpc): reject logIndex_blockNumbers while the log index has no usable range (#16229)](https://github.com/NethermindEth/nethermind/commit/5ee58de8597b102ef6a6c7f0a8226fc7a92d936d) - 2026-11-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

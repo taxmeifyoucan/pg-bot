@@ -61,6 +61,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785#pullrequestreview-5871408392) - 2026-11-12
 * [Commit] [Remove the eth1 bridge assert from `upgrade_to_heze` (#5813)](https://github.com/ethereum/consensus-specs/commit/d3f4b290df06f300dd4a6e0237f436ae82772a1f) - 2026-11-12
 * [Pull Request] [Only onboard builder deposits that cannot have been applied before the fork](https://github.com/ethereum/consensus-specs/pull/5836) - 2026-11-17
+* [Pull Request] [Verify the payload's block hash in envelope gossip validation](https://github.com/ethereum/consensus-specs/pull/5770) - 2026-11-26
+* [Commit] [Verify the payload's block hash in envelope gossip validation (#5770)](https://github.com/ethereum/consensus-specs/commit/1b1f4da7f495fa65fe9faf3ea8aeef9a6a6a3b7e) - 2026-11-26
 [eth-act/zkboost](https://github.com/eth-act/zkboost)
 * [Pull Request] [feat: beacon state witness from the top-level state leaves](https://github.com/eth-act/zkboost/pull/89) - 2026-10-14
 ## Q3 2026

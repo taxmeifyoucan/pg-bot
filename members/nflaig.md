@@ -499,6 +499,40 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: exempt direct peers from pruning and score disconnects (#10778)](https://github.com/ChainSafe/lodestar/commit/a69e29ad1e82e7d97c172b007df000171efb00dd) - 2026-11-25
 * [Commit] [docs: note that the Lodestar binary needs libatomic1 (#10776)](https://github.com/ChainSafe/lodestar/commit/3a8a75d41ad92710024d51dd1fb0c798da4d4ffb) - 2026-11-25
 * [Commit] [fix: download all sampled columns of blocks synced by root (#10765)](https://github.com/ChainSafe/lodestar/commit/e60753e276acb037c78b159f62cededac438cf68) - 2026-11-25
+* [Review] [Review on: fix: keep block input cached when gossip import gives up on missing data](https://github.com/ChainSafe/lodestar/pull/10770#pullrequestreview-6070723247) - 2026-11-26
+* [Pull Request] [fix(builder): reject a builder bid deadline before the payload attestation deadline](https://github.com/ChainSafe/lodestar/pull/10811) - 2026-11-26
+* [Pull Request] [chore: remove quick slots config from heze](https://github.com/ChainSafe/lodestar/pull/10817) - 2026-11-26
+* [Review] [Review on: chore: update consensus specs to v1.7.0-beta.5](https://github.com/ChainSafe/lodestar/pull/10428#pullrequestreview-6081354578) - 2026-11-26
+* [Review] [Review on: fix: discount pending parent support in fast confirmation empty slots](https://github.com/ChainSafe/lodestar/pull/10539#pullrequestreview-6081527524) - 2026-11-26
+* [Pull Request] [test: fix inverted `hasBlock()` in `MockBlockInput`](https://github.com/ChainSafe/lodestar/pull/10814) - 2026-11-26
+* [Review] [Review on: fix: report the finalized block as finalized when read by root](https://github.com/ChainSafe/lodestar/pull/10804#pullrequestreview-6081749477) - 2026-11-26
+* [Pull Request] [fix: add flow control to the reqresp worker bridge](https://github.com/ChainSafe/lodestar/pull/10796) - 2026-11-26
+* [Pull Request] [fix: align voluntary exit gossip validation with the spec](https://github.com/ChainSafe/lodestar/pull/10815) - 2026-11-26
+* [Review] [Review on: fix: align voluntary exit gossip validation with the spec](https://github.com/ChainSafe/lodestar/pull/10815#pullrequestreview-6081193384) - 2026-11-26
+* [Pull Request] [feat: re-prepare the next slot payload on the PTC verdict](https://github.com/ChainSafe/lodestar/pull/10508) - 2026-11-26
+* [Review] [Review on: feat: re-prepare the next slot payload on the PTC verdict](https://github.com/ChainSafe/lodestar/pull/10508#pullrequestreview-6080920268) - 2026-11-26
+* [Review] [Review on: ci: run the kurtosis sim test through the gloas and heze forks](https://github.com/ChainSafe/lodestar/pull/10810#pullrequestreview-6080737285) - 2026-11-26
+* [Review] [Review on: fix: unset execution_payload_availability at fork slot](https://github.com/ChainSafe/lodestar/pull/10615#pullrequestreview-6079689702) - 2026-11-26
+* [Pull Request] [fix: reject gossip envelopes over the transaction count bound](https://github.com/ChainSafe/lodestar/pull/10809) - 2026-11-26
+* [Review] [Review on: refactor: match a missing gloas builder bid by type instead of message](https://github.com/ChainSafe/lodestar/pull/10801#pullrequestreview-6079312431) - 2026-11-26
+* [Review] [Review on: feat: schedule Gloas fork and 200M gas limit on Hoodi](https://github.com/ChainSafe/lodestar/pull/10806#pullrequestreview-6079064091) - 2026-11-26
+* [Pull Request] [perf: compute envelope block hash from gossip bytes](https://github.com/ChainSafe/lodestar/pull/10807) - 2026-11-26
+* [Review] [Review on: fix: harden serializeToBytes() binding](https://github.com/ChainSafe/lodestar/pull/10794#pullrequestreview-6070824534) - 2026-11-26
+* [Review] [Review on: perf: compute execution block hash natively](https://github.com/ChainSafe/lodestar/pull/10603#pullrequestreview-6079100065) - 2026-11-26
+* [Review] [Review on: feat(builder): abort engine requests of timed out payload builds](https://github.com/ChainSafe/lodestar/pull/10736#pullrequestreview-6071659217) - 2026-11-26
+* [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-6077790480) - 2026-11-26
+* [Review] [Review on: feat(builder): validate bidding and reveal options on startup](https://github.com/ChainSafe/lodestar/pull/10797#pullrequestreview-6075358559) - 2026-11-26
+* [Review] [Review on: fix(ssz): don't free the old pending node if its the same as the new one](https://github.com/ChainSafe/lodestar/pull/10795#pullrequestreview-6075239361) - 2026-11-26
+* [Issue] [FOCIL <> Frames devnet](https://github.com/ChainSafe/lodestar/issues/10802) - 2026-11-26
+* [Commit] [chore: update consensus specs to v1.7.0-beta.5 (#10428)](https://github.com/ChainSafe/lodestar/commit/c434a8756a07075a6896df0358c627d1422a733d) - 2026-11-27
+* [Commit] [test: fix inverted `hasBlock()` in `MockBlockInput` (#10814)](https://github.com/ChainSafe/lodestar/commit/f51cb4156ce65cc4dec9accbd516619ecadfb0d8) - 2026-11-27
+* [Commit] [fix: align voluntary exit gossip validation with the spec (#10815)](https://github.com/ChainSafe/lodestar/commit/a7dcdf3c4ff2329f965d85f4a5da5177edff8f54) - 2026-11-26
+* [Commit] [feat: re-prepare the next slot payload on the PTC verdict (#10508)](https://github.com/ChainSafe/lodestar/commit/deb8a48a68bb61fd7de1dd2c05520031725c0bba) - 2026-11-26
+* [Commit] [fix: reject gossip envelopes over the transaction count bound (#10809)](https://github.com/ChainSafe/lodestar/commit/6f38e91359fa9420c9d10b009723b6405e8f5eb2) - 2026-11-26
+* [Commit] [feat: ignore execution payload bids a proposer cannot select (#10663)](https://github.com/ChainSafe/lodestar/commit/0b3ebbb4e681ca3fa09d56bfde12fa3abcc03bc8) - 2026-11-26
+* [Commit] [test: run envelope gossip validation spec tests (#10764)](https://github.com/ChainSafe/lodestar/commit/2ce295fe278fef6ddf68ef9ec15acc8555938f11) - 2026-11-26
+* [Commit] [fix: penalize peers serving invalid payloads by root (#10771)](https://github.com/ChainSafe/lodestar/commit/7e9b9287f56beaab1a9eb4143e706bddfef1f583) - 2026-11-26
+* [Commit] [test: wait longer for column verification in unknown block sync tests (#10781)](https://github.com/ChainSafe/lodestar/commit/7dadcecdcafc5ffb3d4882b7148c59207d76e149) - 2026-11-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -534,6 +568,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add optimistic sync spec for Gloas (#5781)](https://github.com/ethereum/consensus-specs/commit/d6b8a2fdd10513ee12bdbb78104b36ac1dc6989c) - 2026-11-22
 * [Pull Request] [Use valid signatures in envelope gossip mismatch tests](https://github.com/ethereum/consensus-specs/pull/5861) - 2026-11-24
 * [Review] [Review on: Remove unreachable slot 0 check in `notify_ptc_messages`](https://github.com/ethereum/consensus-specs/pull/5860#pullrequestreview-6037112683) - 2026-11-24
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-6077978554) - 2026-11-26
+* [Commit] [Ignore execution payload bids a proposer cannot select (#5803)](https://github.com/ethereum/consensus-specs/commit/36888ee87b0faa6ad7804b017a0184e8e6e6a1c6) - 2026-11-26
+* [Commit] [Bound envelope transaction count by the parent payload's gas limit (#5802)](https://github.com/ethereum/consensus-specs/commit/0b5f94793e42a21a2371aa37da9141299627b897) - 2026-11-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

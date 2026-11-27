@@ -128,6 +128,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(lightclient): indicate finality whenever it can be proven](https://github.com/ChainSafe/lodestar/pull/10689#pullrequestreview-6040900431) - 2026-11-24
 * [Review] [Review on: test(udp): discover address prefix tests](https://github.com/ChainSafe/lodestar/pull/10762#pullrequestreview-6038648406) - 2026-11-24
 * [Pull Request] [feat(validator): publish pq attestations as they are signed](https://github.com/ChainSafe/lodestar/pull/10780) - 2026-11-25
+* [Review] [Review on: test: enable `light_client/data_collection` spec tests](https://github.com/ChainSafe/lodestar/pull/10792#pullrequestreview-6078100337) - 2026-11-26
+* [Review] [Review on: test: fix inverted `hasBlock()` in `MockBlockInput`](https://github.com/ChainSafe/lodestar/pull/10814#pullrequestreview-6081993177) - 2026-11-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
