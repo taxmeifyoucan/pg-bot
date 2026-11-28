@@ -66,6 +66,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Shut down when failing to persist the payload](https://github.com/sigp/lighthouse/pull/10628#pullrequestreview-6052374374) - 2026-11-25
 * [Review] [Review on: Don't penalize custody backfill peers for withheld Gloas payloads](https://github.com/sigp/lighthouse/pull/10510#pullrequestreview-6052190117) - 2026-11-25
 * [Review] [Review on: Serve previously custodied columns after CGC increase](https://github.com/sigp/lighthouse/pull/10645#pullrequestreview-6056785685) - 2026-11-25
+* [Pull Request] [Update to consensus-specs v1.7.0-beta.5](https://github.com/sigp/lighthouse/pull/10675) - 2026-11-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

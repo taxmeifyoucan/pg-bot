@@ -153,6 +153,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: check the re-creation behind an existence read at a seeded destruct (#26734)](https://github.com/erigontech/erigon/commit/1916a2c03d60b8b6f0d29833002ed819de183ea0) - 2026-11-24
 * [Pull Request] [go.mod: bump fastkeccak to the 2-round BMI2 loop kernel](https://github.com/erigontech/erigon/pull/26839) - 2026-11-25
 * [Commit] [execution/engineapi, txnprovider/txpool: test the rejection of blob transactions without blob hashes (#26745)](https://github.com/erigontech/erigon/commit/ad82469384ac429148dab926d1d45e0a8dcb4659) - 2026-11-25
+* [Commit] [go.mod: bump fastkeccak to v1.1.0 (#26929)](https://github.com/erigontech/erigon/commit/bb867db342292c231e43a2af319824eb348683a2) - 2026-11-27
+* [Commit] [go.mod: bump fastkeccak to the 2-round BMI2 loop kernel (#26839)](https://github.com/erigontech/erigon/commit/8d597b12784c6c5873f9532c9860c5e1db6715b3) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -306,6 +308,22 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evmone: Require exact size of EIP-7702 delegation designation (#1822)](https://github.com/ipsilon/evmone/commit/5d7c430c6fd3c69c9a7fd9a80ee06bdf4ce503bb) - 2026-11-26
 * [Commit] [test: Encode RLP lengths above 16 MiB (#1807)](https://github.com/ipsilon/evmone/commit/e7b348b728b2c2b9512fba69e145a9911263a093) - 2026-11-26
 * [Commit] [keccak: Reorder the chi outputs for better scheduling (#1839)](https://github.com/ipsilon/evmone/commit/5a062cd821640b561e99d8aedc8aa6010023ac46) - 2026-11-26
+* [Pull Request] [Use C++23 library features](https://github.com/ipsilon/evmone/pull/1854) - 2026-11-27
+* [Pull Request] [cmake: Build with C++23](https://github.com/ipsilon/evmone/pull/1852) - 2026-11-27
+* [Pull Request] [Use C++23 library features](https://github.com/ipsilon/evmone/pull/1853) - 2026-11-27
+* [Pull Request] [ci: Change main git branch master→main](https://github.com/ipsilon/evmone/pull/1851) - 2026-11-27
+* [Pull Request] [ci: Upgrade cpp-build-env images to version 26](https://github.com/ipsilon/evmone/pull/1848) - 2026-11-27
+* [Issue] [Report code size and assembly changes on PRs](https://github.com/ipsilon/evmone/issues/1849) - 2026-11-27
+* [Issue] [Enable Clang 23 lifetime safety warnings](https://github.com/ipsilon/evmone/issues/1846) - 2026-11-27
+* [Issue] [Run clang-tidy on all project headers](https://github.com/ipsilon/evmone/issues/1844) - 2026-11-27
+* [Commit] [ci: Change main git branch master→main (#1851)](https://github.com/ipsilon/evmone/commit/e7b340cf1025fafa6237b4c07e7c2f0b5ae8ed8b) - 2026-11-27
+* [Commit] [evmone 0.26.0](https://github.com/ipsilon/evmone/commit/ec946179872b3b9827b855e52b0840c4ea4cb165) - 2026-11-27
+* [Commit] [changelog: List changes for the 0.26.0 release (#1850)](https://github.com/ipsilon/evmone/commit/1fd02e5b767e7f2cb68ce2513337596267459f5b) - 2026-11-27
+* [Commit] [tidy: Declare the local auto variables const (#1847)](https://github.com/ipsilon/evmone/commit/780999d20437674604c64f38b1a821c0d9395e63) - 2026-11-27
+* [Commit] [tidy: Move file-local definitions to anonymous namespaces (#1845)](https://github.com/ipsilon/evmone/commit/35fdfde27617d95f1e22e4a16f7ec41098999923) - 2026-11-27
+* [Commit] [tidy: Remove redundant typename and lambda parameter list (#1843)](https://github.com/ipsilon/evmone/commit/91992f355342494408531a27be2174ed28cbd657) - 2026-11-27
+* [Commit] [tidy: Replace C-style casts (#1842)](https://github.com/ipsilon/evmone/commit/cfcf797d84d31e0c4759f041f1947d2620e27743) - 2026-11-27
+* [Commit] [build: Keep the sanitizer flags for Google Benchmark (#1841)](https://github.com/ipsilon/evmone/commit/f149ba6986ac3c25b31d3735f784238a71dfdd9f) - 2026-11-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
@@ -333,6 +351,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): test CALLDATACOPY past the calldata end keeps later memory (#4060)](https://github.com/ethereum/execution-specs/commit/f7c70ecdd1319f169cebe43bf0b9fe0cf3a33d46) - 2026-11-25
 * [Commit] [feat(tests): test SIGNEXTEND from every byte position (#4061)](https://github.com/ethereum/execution-specs/commit/858d77ab144bfb33bdd0f59918f3680272a0b592) - 2026-11-25
 * [Commit] [fix(test-benchmark): compare same-sign operands in the SLT/SGT benchmarks (#4065)](https://github.com/ethereum/execution-specs/commit/dbfd33f3e7ef96102990f54918e0d262f99ef14a) - 2026-11-26
+* [Commit] [feat(tests): test the code size limit from its activation (#4058)](https://github.com/ethereum/execution-specs/commit/088f8b0e4f1d4b60422b8c2d4465db8e98ce25d1) - 2026-11-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 

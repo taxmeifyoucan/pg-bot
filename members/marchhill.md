@@ -257,6 +257,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: feat(eip8288): bucketed, randomly selected mempool aggregation](https://github.com/NethermindEth/nethermind/pull/16411#pullrequestreview-6064782365) - 2026-11-25
 * [Pull Request] [refactor(shutter)!: remove plugin and unused support code](https://github.com/NethermindEth/nethermind/pull/15345) - 2026-11-25
 * [Commit] [refactor(shutter)!: remove plugin and unused support code (#15345)](https://github.com/NethermindEth/nethermind/commit/cef7ced0f56222fdf0131f8f6d8b4e850a47981f) - 2026-11-25
+* [Pull Request] [EIP-8288: builder-only dependency proof aggregation and eth/74](https://github.com/NethermindEth/nethermind/pull/16463) - 2026-11-27
+* [Pull Request] [EIP-8288: mempool aggregation and eth/76 proof wrappers (EIP-8518)](https://github.com/NethermindEth/nethermind/pull/16469) - 2026-11-28
+* [Review] [Review on: EIP-8288: mempool aggregation and eth/76 proof wrappers (EIP-8518)](https://github.com/NethermindEth/nethermind/pull/16469#pullrequestreview-6094848079) - 2026-11-28
+* [Pull Request] [EIP-8141: declarative claims, segregated witnesses and HASCLAIM](https://github.com/NethermindEth/nethermind/pull/16461) - 2026-11-27
+* [Review] [Review on: EIP-8141: declarative claims, segregated witnesses and HASCLAIM](https://github.com/NethermindEth/nethermind/pull/16461#pullrequestreview-6091652416) - 2026-11-27
+* [Review] [Review on: fix(docgen): generate database-size tabs only for JSON reports](https://github.com/NethermindEth/nethermind/pull/16437#pullrequestreview-6087053870) - 2026-11-27
+* [Review] [Review on: Add eth/76 aggregated proof wrapper propagation](https://github.com/NethermindEth/nethermind/pull/16388#pullrequestreview-6088655307) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -295,13 +302,16 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [feat(spec-specs,tests): implement EIP-8288 with the dependency proof in the execution payload](https://github.com/ethereum/execution-specs/pull/4052) - 2026-11-23
 * [Commit] [fix(client-clis): map frame transaction rejections in the Nethermind mapper (#3467)](https://github.com/ethereum/execution-specs/commit/69b597cd8ce29d58bfbe36af62854c455387f2c5) - 2026-11-24
 * [Commit] [feat(specs,tests): dispatch a precompile a VERIFY frame targets (#3407)](https://github.com/ethereum/execution-specs/commit/ef082c9b41c5c79a7274ee42aec2fd4e63472154) - 2026-11-24
+* [Pull Request] [feat(spec-specs,test-types,tests): EIP-8141 declarative claims, segregated witnesses and HASCLAIM](https://github.com/ethereum/execution-specs/pull/4092) - 2026-11-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add EIP-8288 inclusion list proof methods](https://github.com/ethereum/execution-apis/pull/945) - 2026-10-16
 
 * [Pull Request] [engine: EIP-8288 dependencyProof in the execution payload](https://github.com/ethereum/execution-apis/pull/1028) - 2026-11-23
+* [Pull Request] [engine: EIP-8141 dependencyProof in the execution payload](https://github.com/ethereum/execution-apis/pull/1041) - 2026-11-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [EIP-8288: dependency proof in the execution payload](https://github.com/ethereum/consensus-specs/pull/5858) - 2026-11-23
 
+* [Pull Request] [Add EIP-8141 dependency proof to the execution payload](https://github.com/ethereum/consensus-specs/pull/5874) - 2026-11-27
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/devp2p/internal/ethtest: add eth/76 aggregated proof wrapper tests](https://github.com/ethereum/go-ethereum/pull/36237) - 2026-11-26
 * [Pull Request] [cmd/devp2p/internal/ethtest: add eth/75 proof wrapper tests](https://github.com/ethereum/go-ethereum/pull/36236) - 2026-11-26

@@ -152,6 +152,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Update reference tests to tests@v21.0.3](https://github.com/besu-eth/besu/pull/12046#pullrequestreview-6059746731) - 2026-11-25
 * [Pull Request] [Make cancellation win over background failure in BAL state root committer](https://github.com/besu-eth/besu/pull/12057) - 2026-11-26
 * [Issue] [IPC JSON-RPC cannot parse a request that spans more than one socket read (fails from ~2 KB)](https://github.com/besu-eth/besu/issues/12055) - 2026-11-26
+* [Review] [Review on: Refuse pool submissions and plugin RPC calls that arrive before the plugin has started](https://github.com/besu-eth/besu/pull/12051#pullrequestreview-6085469318) - 2026-11-27
+* [Pull Request] [Rotate CHANGELOG after 26.11.3 release](https://github.com/besu-eth/besu/pull/12066) - 2026-11-27
+* [Pull Request] [Release 26.11.3](https://github.com/besu-eth/besu/pull/12065) - 2026-11-27
+* [Commit] [Rotate CHANGELOG after 26.11.3 release (#12066)](https://github.com/besu-eth/besu/commit/c1586bb49e751e4e5553a3616c1646de046d6767) - 2026-11-27
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

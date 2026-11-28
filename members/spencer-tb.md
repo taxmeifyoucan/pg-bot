@@ -147,6 +147,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(ci): extend outside contributor gate bypass list](https://github.com/ethereum/execution-specs/pull/4068) - 2026-11-25
 * [Commit] [chore(ci): extend outside contributor gate bypass list (#4068)](https://github.com/ethereum/execution-specs/commit/6ddb3e181894a1cd08eca155695a8ee364e8bcdc) - 2026-11-25
 * [Review] [Review on: fix(doc): show plain, wrapped names on test function social cards](https://github.com/ethereum/execution-specs/pull/4076#pullrequestreview-6078897136) - 2026-11-26
+* [Review] [Review on: refactor(tests): fold the EIP-8141 warmth probe into one object](https://github.com/ethereum/execution-specs/pull/3899#pullrequestreview-6090059208) - 2026-11-27
+* [Pull Request] [refactor(test-fill, test-fixtures): remove optimistic pre-alloc group packing](https://github.com/ethereum/execution-specs/pull/4089) - 2026-11-27
+* [Pull Request] [feat(test-consume,test-client-clis): add buildtest to the client test runner interface](https://github.com/ethereum/execution-specs/pull/4088) - 2026-11-27
+* [Pull Request] [fix(tests): correct the genesis hash test ids and slow mark](https://github.com/ethereum/execution-specs/pull/4090) - 2026-11-27
+* [Commit] [chore(tests): record measured EIP-8282 coverage and rename the inhibitor sentinel (#3619)](https://github.com/ethereum/execution-specs/commit/1a6e871213a4644209096a4a91d638bbfa0e7f54) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -200,6 +205,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth: require eth_estimateGas not to starve nested calls](https://github.com/ethereum/execution-apis/pull/971) - 2026-11-08
 
+* [Pull Request] [testing: require testing_buildBlockV1 to return an error when it cannot build the block](https://github.com/ethereum/execution-apis/pull/1039) - 2026-11-27
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/gasestimator, core/vm: do not settle on gas limits that starve a nested call](https://github.com/ethereum/go-ethereum/pull/36084) - 2026-11-08
 ## Q3 2026

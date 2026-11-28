@@ -127,6 +127,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: ci: move to Consensys-Incorporated/github-actions 2.2.0, shared Trivy and workflow-audit, Renovate on org secrets](https://github.com/Consensys-Incorporated/teku/pull/11738#pullrequestreview-6063951715) - 2026-11-25
 * [Review] [Review on: Fix BlobSidecarsByRange handling of requests at the Deneb and Fulu fork boundaries](https://github.com/Consensys-Incorporated/teku/pull/11762#pullrequestreview-6083877183) - 2026-11-27
 * [Review] [Review on: Apply released pending attestations to fork choice in batches](https://github.com/Consensys-Incorporated/teku/pull/11761#pullrequestreview-6081518986) - 2026-11-26
+* [Issue] [Remote validator client drops attester_slashing events with more than 2048 attesting indices](https://github.com/Consensys-Incorporated/teku/issues/11774) - 2026-11-27
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

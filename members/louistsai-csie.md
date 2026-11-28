@@ -94,6 +94,14 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(doc): render the README pages of the test case reference](https://github.com/ethereum/execution-specs/pull/4077#pullrequestreview-6076269887) - 2026-11-26
 * [Review] [Review on: fix(doc): point the bad docstring issue links at execution-specs](https://github.com/ethereum/execution-specs/pull/4079#pullrequestreview-6076534798) - 2026-11-26
 * [Commit] [feat(test-benchmark): add stub account configuration, with state-actor example config (#3203)](https://github.com/ethereum/execution-specs/commit/1fe7ac6b5a6935d46e90ca82e20e1ee0b802f294) - 2026-11-26
+* [Pull Request] [refactor(test-benchmark): remove fixed opcode count mode](https://github.com/ethereum/execution-specs/pull/4085) - 2026-11-27
+* [Review] [Review on: feat(test-types,tests): add EIP-8141 frame caller and environment tests](https://github.com/ethereum/execution-specs/pull/4082#pullrequestreview-6084642390) - 2026-11-27
+* [Review] [Review on: feat(tests): test a sender with a delegation designator before Prague](https://github.com/ethereum/execution-specs/pull/4026#pullrequestreview-6085959919) - 2026-11-27
+* [Review] [Review on: feat(tests): test the code size limit from its activation](https://github.com/ethereum/execution-specs/pull/4058#pullrequestreview-6085089196) - 2026-11-27
+* [Review] [Review on: feat(tests): test request system calls to a delegated or empty contract](https://github.com/ethereum/execution-specs/pull/4027#pullrequestreview-6084746831) - 2026-11-27
+* [Commit] [refactor(tests): fold the EIP-8141 warmth probe into one object (#3899)](https://github.com/ethereum/execution-specs/commit/8f042c81e5f59eb1b81eac189ac2530a99b51875) - 2026-11-27
+* [Commit] [refactor(test-benchmark): remove fixed opcode count mode (#4085)](https://github.com/ethereum/execution-specs/commit/91528a2e6da36f654eb39ff837821cc24cf7ac4a) - 2026-11-27
+* [Commit] [feat(ci): add fill-stateful E2E job to hive execute workflow (#4018)](https://github.com/ethereum/execution-specs/commit/9095fb9c516b68549585967c1f2a6137eecadbb3) - 2026-11-27
 ## Q3 2026
 
 

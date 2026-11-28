@@ -170,6 +170,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/pull/246) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/assertoor/commit/068c102446300b8d6d6b427779977cacbb96d861) - 2026-10-21
 * [Pull Request] [feat: add GLOAS pubkey-cache poisoning playbook (topup + slash)](https://github.com/ethpandaops/assertoor/pull/248) - 2026-11-12
+* [Review] [Review on: fix: subscribe to execution_payload instead of execution_payload_available](https://github.com/ethpandaops/assertoor/pull/253#pullrequestreview-6088191792) - 2026-11-27
+* [Review] [Review on: bump go-eth2-client to v0.1.12 for heze blocks](https://github.com/ethpandaops/assertoor/pull/252#pullrequestreview-6085972467) - 2026-11-27
+* [Commit] [Merge pull request #253 from lodekeeper/fix/load-payload-after-import](https://github.com/ethpandaops/assertoor/commit/ec8f4472cac1189a45924e8fa4b699ea1e49ac9a) - 2026-11-27
+* [Commit] [Merge pull request #252 from lodekeeper/bump-go-eth2-client-heze](https://github.com/ethpandaops/assertoor/commit/19617a2d837170bc4abe2ff0e4c86340723a730d) - 2026-11-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): check tx gas limit against floor-inclusive block gas used](https://github.com/ethereum/execution-specs/pull/3832) - 2026-10-15
 * [Commit] [feat(tests): check tx gas limit against floor-inclusive block gas used (#3832)](https://github.com/ethereum/execution-specs/commit/172160ee6e05f635b1bbcbd0ef03ebf5d9ccffad) - 2026-10-15

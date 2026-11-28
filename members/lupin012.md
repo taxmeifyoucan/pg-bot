@@ -246,6 +246,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc, node: cut per-request work on the HTTP JSON-RPC path (#26790)](https://github.com/erigontech/erigon/commit/094bcc4a1900d0899617975f47235dd0b1d2406a) - 2026-11-26
 * [Commit] [rpc/jsonrpc: accept a positional state override map in trace_call and trace_callMany (#26785)](https://github.com/erigontech/erigon/commit/77d0cfbaeef1b12e71016ee64c78cf35a2bb163e) - 2026-11-26
 * [Commit] [rpc/jsonrpc: skip the state prune gate for the latest executed block (#26740)](https://github.com/erigontech/erigon/commit/b62e19d562272ac0b02d3e3282ebc3e6b617cefe) - 2026-11-26
+* [Pull Request] [[3.8] rpc/jsonrpc: accept a positional state override map in trace_call and trace_callMany](https://github.com/erigontech/erigon/pull/26957) - 2026-11-27
+* [Commit] [db/kv/remotedbserver: queue read-tx slot waiters in order in rollback tests (#26902)](https://github.com/erigontech/erigon/commit/cf1bb788a4df2eaab928e2cb0ee8d1a419dd09e2) - 2026-11-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

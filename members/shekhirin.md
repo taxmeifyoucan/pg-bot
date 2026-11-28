@@ -41,6 +41,13 @@ Team: Reth
 * [Pull Request] [fix: use selected FastInstant in trie and cache](https://github.com/paradigmxyz/reth/pull/28716) - 2026-11-24
 * [Pull Request] [test: run trie proptests with reth_concurrency::test](https://github.com/paradigmxyz/reth/pull/28711) - 2026-11-24
 * [Commit] [test: run trie proptests with reth_concurrency::test (#28711)](https://github.com/paradigmxyz/reth/commit/f2b83e44ea5b0b05daf1bd7b50b21134254fdc37) - 2026-11-24
+* [Pull Request] [perf(trie): reduce per-node overhead in proof_v2 calculator](https://github.com/paradigmxyz/reth/pull/28802) - 2026-11-27
+* [Pull Request] [perf(bench): compile out trace logs in benchmark builds](https://github.com/paradigmxyz/reth/pull/28810) - 2026-11-27
+* [Pull Request] [perf(trie): binary-search PrefixSet lookups](https://github.com/paradigmxyz/reth/pull/28803) - 2026-11-27
+* [Pull Request] [perf(trie): parallelize HashedPostState hashing and sorting](https://github.com/paradigmxyz/reth/pull/28804) - 2026-11-27
+* [Pull Request] [perf(txpool): merge sorted changed senders in update_accounts](https://github.com/paradigmxyz/reth/pull/28805) - 2026-11-27
+* [Pull Request] [perf(trie): batch and deduplicate state updates in state-root hook](https://github.com/paradigmxyz/reth/pull/28797) - 2026-11-27
+* [Commit] [perf(bench): compile out trace logs in benchmark builds (#28810)](https://github.com/paradigmxyz/reth/commit/0ed05620f1177df30cff7ff9969a0a74047167ce) - 2026-11-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

@@ -297,6 +297,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809#pullrequestreview-6072925472) - 2026-11-26
 * [Pull Request] [[2/5] Optimistic processor handoff: run transactions again on the values the block changed](https://github.com/besu-eth/besu/pull/12054) - 2026-11-26
 * [Commit] [Recover each sender once during parallel block import (#11922)](https://github.com/besu-eth/besu/commit/05484a6eda76ee99ef82a8eda75170c5e6e2c235) - 2026-11-26
+* [Review] [Review on: Rotate CHANGELOG after 26.11.3 release](https://github.com/besu-eth/besu/pull/12066#pullrequestreview-6089147365) - 2026-11-27
+* [Review] [Review on: SNAP2: keep the back-fill off syncing peers](https://github.com/besu-eth/besu/pull/12064#pullrequestreview-6088820196) - 2026-11-27
+* [Review] [Review on: Release 26.11.3](https://github.com/besu-eth/besu/pull/12065#pullrequestreview-6087207049) - 2026-11-27
+* [Pull Request] [Document how the SNAP2 sync works](https://github.com/besu-eth/besu/pull/12061) - 2026-11-27
+* [Commit] [Run a child frame on its parent's EVM (#11867)](https://github.com/besu-eth/besu/commit/0b59d230cf576a6ece4840054ed1a7d2381d86bb) - 2026-11-27
+* [Commit] [Schedule Amsterdam on Hoodi (#12058)](https://github.com/besu-eth/besu/commit/b26bf7ff4a1e9158c89b7c2c511485095c2bc406) - 2026-11-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

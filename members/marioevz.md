@@ -100,6 +100,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): Mempool admission test format](https://github.com/ethereum/execution-specs/pull/4073) - 2026-11-25
 * [Review] [Review on: fix(test-specs): compare code by hash in the block access list invariant](https://github.com/ethereum/execution-specs/pull/4081#pullrequestreview-6081882140) - 2026-11-27
 * [Review] [Review on: fix(test-forks,test-specs): account for EIP-8250 in the invariant checks](https://github.com/ethereum/execution-specs/pull/4080#pullrequestreview-6081584702) - 2026-11-26
+* [Pull Request] [feat(test-types, test-forks, test-tools): add fork-aware tx protection, EIP-150 call gas helpers and `Operands`](https://github.com/ethereum/execution-specs/pull/4091) - 2026-11-27
+* [Review] [Review on: feat(test-types, test-forks, test-tools): add fork-aware tx protection, EIP-150 call gas helpers and `Operands`](https://github.com/ethereum/execution-specs/pull/4091#pullrequestreview-6092447050) - 2026-11-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

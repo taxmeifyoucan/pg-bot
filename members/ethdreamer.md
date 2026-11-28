@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5380295511) - 2026-10-01
 
 * [Issue] [PQ: leanVM aggregate proofs don't appear to bind `leaf_index`, which `stark.VerifyAggregates` expects](https://github.com/ethereum/consensus-specs/issues/5840) - 2026-11-18
+* [Pull Request] [PQ: experimental rotating committee geometries for measurement](https://github.com/ethereum/consensus-specs/pull/5879) - 2026-11-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: specify multiplexer behavior for exchangeCapabilities](https://github.com/ethereum/execution-apis/pull/913) - 2026-10-01
 

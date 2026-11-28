@@ -34,6 +34,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Move payload bodies request to a separate EL request queue  (#11564)](https://github.com/Consensys-Incorporated/teku/commit/b9f092ba1a86366dd80aa5f2cfddddb55038ef71) - 2026-11-26
 * [Pull Request] [Fix BlobSidecarsByRange handling of requests at the Deneb and Fulu fork boundaries](https://github.com/Consensys-Incorporated/teku/pull/11762) - 2026-11-27
 * [Review] [Review on: Fix BlobSidecarsByRange handling of requests at the Deneb and Fulu fork boundaries](https://github.com/Consensys-Incorporated/teku/pull/11762#pullrequestreview-6083758547) - 2026-11-27
+* [Commit] [Fix BlobSidecarsByRange handling of requests at the Deneb and Fulu fork boundaries (#11762)](https://github.com/Consensys-Incorporated/teku/commit/b1c389d883b2dbf6dbd7ddc0857783d85d967b69) - 2026-11-27
 ## Q3 2026
 
 

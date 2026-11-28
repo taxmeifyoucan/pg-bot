@@ -486,6 +486,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/cltypes/solid: reject over-limit RawUint64List in EncodeSSZ](https://github.com/erigontech/erigon/pull/26852#pullrequestreview-6069573238) - 2026-11-26
 * [Commit] [cl/phase1/network/services: accept Fulu custody columns before storing them (#26758)](https://github.com/erigontech/erigon/commit/8116d38619f37c49406212af38a715c060866b41) - 2026-11-26
 * [Commit] [cl: cut the per-message cost of sync committee messages (#26721)](https://github.com/erigontech/erigon/commit/98da898cf26489cb5ba78aac5ca5c443af0dc829) - 2026-11-26
+* [Pull Request] [[r3.8] cl: backport column, recovery and gossip latency improvements](https://github.com/erigontech/erigon/pull/26981) - 2026-11-27
+* [Pull Request] [[r3.8] cl: backport Gloas block production, aggregate, blob API and gossip fixes](https://github.com/erigontech/erigon/pull/26980) - 2026-11-27
+* [Pull Request] [[r3.8] cl: serve historical Gloas execution payload envelopes](https://github.com/erigontech/erigon/pull/26982) - 2026-11-27
+* [Review] [Review on: cl/phase1/forkchoice: take block timeliness from the time on_block is called](https://github.com/erigontech/erigon/pull/26907#pullrequestreview-6086284870) - 2026-11-27
+* [Review] [Review on: cl/beacon/handler: answer 503 for duties past the head epoch + 2](https://github.com/erigontech/erigon/pull/26870#pullrequestreview-6086177981) - 2026-11-27
+* [Commit] [cl/das, cl/beacon/handler: build Fulu blobs from stored columns on request (#26794)](https://github.com/erigontech/erigon/commit/8f94a96655a17168bda0576045835228bb48a955) - 2026-11-27
 ## Q3 2026
 
 

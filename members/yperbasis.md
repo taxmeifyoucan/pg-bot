@@ -493,6 +493,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [txpool: frame revalidation drops a funded frame because of the payer's unfunded ordinary txns](https://github.com/erigontech/erigon/issues/26885) - 2026-11-26
 * [Commit] [cl/p2p: select startup test ports for the transports that use them (#26894)](https://github.com/erigontech/erigon/commit/7294d92dccea41f7d7af44db970d2e434cfc8ddb) - 2026-11-27
 * [Commit] [txpool: fix false success reports for evicted or skipped batch inputs (#26720)](https://github.com/erigontech/erigon/commit/9bb1a5e1f5d3e0a5f0f4cf4d60d6b55ae1642a96) - 2026-11-26
+* [Review] [Review on: go.mod: upgrade github.com/dop251/goja](https://github.com/erigontech/erigon/pull/26914#pullrequestreview-6085953295) - 2026-11-27
+* [Review] [Review on: txpool: keep preparation and simulation results with each batch input](https://github.com/erigontech/erigon/pull/26888#pullrequestreview-6086668566) - 2026-11-27
+* [Pull Request] [rpc, state: replay witnesses with code written earlier in the block](https://github.com/erigontech/erigon/pull/26952) - 2026-11-27
+* [Pull Request] [execution: require a changeset for each block an unwind removes](https://github.com/erigontech/erigon/pull/26934) - 2026-11-27
+* [Issue] [execmodule: reject forkchoice unwinds that cross a gap in retained changesets](https://github.com/erigontech/erigon/issues/26969) - 2026-11-27
+* [Issue] [txpool: reload can drop transactions the running pool would keep](https://github.com/erigontech/erigon/issues/26949) - 2026-11-27
+* [Commit] [chainspec, clparams: reschedule Glamsterdam on Hoodi (#26948)](https://github.com/erigontech/erigon/commit/b68a1ffe73695a9570f426c18600b157433fb4e9) - 2026-11-27
+* [Commit] [txpool: delete pool DB rows that addLocked rejects on reload (#26828)](https://github.com/erigontech/erigon/commit/2d50a904afd09237cf50f77209e4d1bf339b81ee) - 2026-11-27
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

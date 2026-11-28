@@ -435,6 +435,22 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(stateless): record the precompile account access in the cached code-info repository (#16382)](https://github.com/NethermindEth/nethermind/commit/4fa3f28be3ce2460396beda260ff17d848666867) - 2026-11-26
 * [Commit] [fix(tracing): show the pushed CREATE2 salt to JavaScript tracers (#16383)](https://github.com/NethermindEth/nethermind/commit/8dd4322d7345780a614e70d1bb13a7288a20e689) - 2026-11-26
 * [Commit] [fix(evm): end the node when a precompile's native library cannot be used (#16297)](https://github.com/NethermindEth/nethermind/commit/f7644b2a00a966499f05e32a3a3ff6ca50feca59) - 2026-11-26
+* [Review] [Review on: fix(beacon): size the libp2p pubsub send and receive limits for max-size gossip](https://github.com/NethermindEth/nethermind/pull/16422#pullrequestreview-6086815627) - 2026-11-27
+* [Review] [Review on: fix(docgen): generate database-size tabs only for JSON reports](https://github.com/NethermindEth/nethermind/pull/16437#pullrequestreview-6085616257) - 2026-11-27
+* [Review] [Review on: fix(snapshot)!: preserve existing databases and require manual recovery after interrupted extraction](https://github.com/NethermindEth/nethermind/pull/16152#pullrequestreview-6087442251) - 2026-11-27
+* [Review] [Review on: fix(ci): reject version bumps without a declared prefix](https://github.com/NethermindEth/nethermind/pull/16439#pullrequestreview-6085638676) - 2026-11-27
+* [Review] [Review on: feat(specs): schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/16447#pullrequestreview-6085578550) - 2026-11-27
+* [Review] [Review on: perf(trie): parallelize bulk set on branch levels with missing children](https://github.com/NethermindEth/nethermind/pull/16454#pullrequestreview-6089125641) - 2026-11-27
+* [Pull Request] [fix(sync): apply the newPayload encoding checks to block access lists from peers](https://github.com/NethermindEth/nethermind/pull/16451) - 2026-11-27
+* [Pull Request] [test(sync): verify flat healing across moving pivots and both layouts](https://github.com/NethermindEth/nethermind/pull/16450) - 2026-11-27
+* [Review] [Review on: test(sync): verify flat healing across moving pivots and both layouts](https://github.com/NethermindEth/nethermind/pull/16450#pullrequestreview-6086836696) - 2026-11-27
+* [Review] [Review on: refactor(beacon): share a thread-safe committee cache singleton](https://github.com/NethermindEth/nethermind/pull/16452#pullrequestreview-6088942450) - 2026-11-27
+* [Commit] [fix(sync): apply the newPayload encoding checks to block access lists from peers (#16451)](https://github.com/NethermindEth/nethermind/commit/19cd50529577dff8a7a07ef9e955bd88c9ee335b) - 2026-11-27
+* [Commit] [test(sync): verify flat healing across moving pivots and both layouts (#16450)](https://github.com/NethermindEth/nethermind/commit/fd5a696e6f5fd4d926259201bfc1b3847aa3fef4) - 2026-11-27
+* [Commit] [ci(hive): stop hung Hive runs with their results and tighten the result checks (#16215)](https://github.com/NethermindEth/nethermind/commit/9f7193e51602998742c2dae5bdea6dfc464cfd1e) - 2026-11-27
+* [Commit] [fix(sync): bound header skips and node data lookups of peer requests (#16418)](https://github.com/NethermindEth/nethermind/commit/d740e1280a08f5d42c3e1b19058e7ee9764079f8) - 2026-11-27
+* [Commit] [fix(flat): abort a persistence write batch whose body throws (#16419)](https://github.com/NethermindEth/nethermind/commit/f9c4d31dfbd7be9d2997c5110744b254a535d6b9) - 2026-11-27
+* [Commit] [fix(network): attribute wrong sparse blob cells after an ambiguous proof failure (#16385)](https://github.com/NethermindEth/nethermind/commit/b4987d2392852842037e51d0c5ffd80256793a85) - 2026-11-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 

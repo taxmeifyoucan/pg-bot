@@ -113,6 +113,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Fix cache size estimation tests](https://github.com/grandinetech/grandine/pull/1071) - 2026-11-25
 * [Commit] [Handle Windows paths in fast confirmation tests](https://github.com/grandinetech/grandine/commit/c3a3cdf2288b458ebb98a2e23ee958c0f75c9406) - 2026-11-25
 * [Commit] [Fix cache size estimation tests](https://github.com/grandinetech/grandine/commit/413848e1f8912b41bdaa867e836581b8412d5c94) - 2026-11-25
+* [Review] [Review on: Skip FCU for heads the execution engine rejected](https://github.com/grandinetech/grandine/pull/1072#pullrequestreview-6087104959) - 2026-11-27
 ## Q3 2026
 
 

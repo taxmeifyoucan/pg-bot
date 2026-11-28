@@ -20,6 +20,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: bump transitive deps in uv.lock](https://github.com/ethereum/pm/commit/f12afe21bdea632d162b2ceea14997bad78158be) - 2026-11-23
 * [Commit] [acdbot: dispatch asset updates to forkcast](https://github.com/ethereum/pm/commit/d54847bd06aca718287700f3646b0246bc19bd2a) - 2026-11-23
 * [Issue] [PQ-CL Breakout #5, November 27, 2026](https://github.com/ethereum/pm/issues/2319) - 2026-11-24
+* [Commit] [acdbot: alter pqcl cadence](https://github.com/ethereum/pm/commit/6018266ae6d8603e26a040fb06903efb7de3afcf) - 2026-11-27
 ## Q3 2026
 
 

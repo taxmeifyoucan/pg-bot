@@ -185,6 +185,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Add the post-quantum key derivation of the leanXMSS validator client.](https://github.com/OffchainLabs/prysm/pull/17897) - 2026-11-19
 * [Pull Request] [Perform the duties of the leanXMSS validators.](https://github.com/OffchainLabs/prysm/pull/17911) - 2026-11-20
 * [Pull Request] [Find the leanXMSS validators on the beacon node by XMSS public key.](https://github.com/OffchainLabs/prysm/pull/17910) - 2026-11-20
+* [Review] [Review on: Schedule the Gloas fork on Hoodi](https://github.com/OffchainLabs/prysm/pull/17939#pullrequestreview-6086393705) - 2026-11-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use one `execution_proof` subnet by proof type](https://github.com/ethereum/consensus-specs/pull/5726) - 2026-10-09
 

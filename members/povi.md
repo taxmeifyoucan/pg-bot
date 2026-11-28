@@ -107,6 +107,10 @@ Team: Grandine
 * [Issue] [Separate builder and validator deposits at the Gloas fork](https://github.com/grandinetech/grandine/issues/1068) - 2026-11-24
 * [Pull Request] [Skip FCU for heads the execution engine rejected](https://github.com/grandinetech/grandine/pull/1072) - 2026-11-25
 * [Review] [Review on: Fix cache size estimation tests](https://github.com/grandinetech/grandine/pull/1071#pullrequestreview-6055593698) - 2026-11-25
+* [Review] [Review on: Group multi_verify signatures by message](https://github.com/grandinetech/grandine/pull/1077#pullrequestreview-6089976714) - 2026-11-27
+* [Review] [Review on: Look up v2 aggregate attestations by data root](https://github.com/grandinetech/grandine/pull/1080#pullrequestreview-6089973131) - 2026-11-27
+* [Issue] [Update to consensus specs v1.7.0-beta.5](https://github.com/grandinetech/grandine/issues/1079) - 2026-11-27
+* [Commit] [Skip FCU for heads the execution engine rejected](https://github.com/grandinetech/grandine/commit/9261c9ec6fb0584c5154d8e1d5b1c2c88fc4b3f2) - 2026-11-27
 ## Q3 2026
 
 

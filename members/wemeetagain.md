@@ -229,6 +229,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject gossip envelopes over the transaction count bound](https://github.com/ChainSafe/lodestar/pull/10809#pullrequestreview-6079580795) - 2026-11-26
 * [Review] [Review on: feat: ignore execution payload bids a proposer cannot select](https://github.com/ChainSafe/lodestar/pull/10663#pullrequestreview-6079569026) - 2026-11-26
 * [Commit] [perf: compute execution block hash natively (#10603)](https://github.com/ChainSafe/lodestar/commit/82017afb2258b7c55ca3679390f04bcc272aecaa) - 2026-11-26
+* [Review] [Review on: fix: use clock slot fork for slashing signature domains](https://github.com/ChainSafe/lodestar/pull/10830#pullrequestreview-6090825188) - 2026-11-27
+* [Review] [Review on: fix: use message fork for sync committee signature domains](https://github.com/ChainSafe/lodestar/pull/10829#pullrequestreview-6090799750) - 2026-11-27
+* [Review] [Review on: fix: correct `finalized` of block headers at finalized slots](https://github.com/ChainSafe/lodestar/pull/10702#pullrequestreview-6090777257) - 2026-11-27
+* [Review] [Review on: fix: add flow control to the reqresp worker bridge](https://github.com/ChainSafe/lodestar/pull/10796#pullrequestreview-6090160086) - 2026-11-27
+* [Review] [Review on: fix: resend the pending WHOAREYOU to repeated cold packets](https://github.com/ChainSafe/lodestar/pull/10775#pullrequestreview-6090177693) - 2026-11-27
+* [Review] [Review on: test: give processConsolidationRequest validators an effective balance](https://github.com/ChainSafe/lodestar/pull/10824#pullrequestreview-6089501868) - 2026-11-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

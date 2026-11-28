@@ -89,6 +89,12 @@ Team: Grandine
 * [Commit] [Skip parallel key aggregation for single-key triples](https://github.com/grandinetech/grandine/commit/8c2efba68142e9ec20e57c86e978c8693447a7b6) - 2026-11-24
 * [Pull Request] [Group multi_verify signatures by message](https://github.com/grandinetech/grandine/pull/1077) - 2026-11-25
 * [Review] [Review on: Handle Windows paths in fast confirmation tests](https://github.com/grandinetech/grandine/pull/1073#pullrequestreview-6059378109) - 2026-11-25
+* [Pull Request] [Look up v2 aggregate attestations by data root](https://github.com/grandinetech/grandine/pull/1080) - 2026-11-27
+* [Commit] [Add multi_verify wall and CPU time benchmark](https://github.com/grandinetech/grandine/commit/0471a119296ed280e50e7a65d0a1e9a0c81ea8a3) - 2026-11-27
+* [Commit] [Group multi_verify triples by message](https://github.com/grandinetech/grandine/commit/3ebbdaf27399935aa4ff06eb63b480940d3729b8) - 2026-11-27
+* [Commit] [Verify a lone triple without batch verification](https://github.com/grandinetech/grandine/commit/a6623c237a35dc648252e8ebb0df7c2de6170862) - 2026-11-27
+* [Commit] [Prevalidate and build triples sequentially for attestation batches](https://github.com/grandinetech/grandine/commit/12fc4a3e4ce7939a949407fa054605c0bf85a102) - 2026-11-27
+* [Commit] [Look up v2 aggregate attestations by data root](https://github.com/grandinetech/grandine/commit/7c2893b2a7870c359d6b5b57f5c0f9c0ecc2cf36) - 2026-11-27
 ## Q3 2026
 
 

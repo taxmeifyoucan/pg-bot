@@ -139,6 +139,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789#pullrequestreview-5751955155) - 2026-11-03
+* [Review] [Review on: Apply block messages before queued children in comptests](https://github.com/ethereum/consensus-specs/pull/5873#pullrequestreview-6092704625) - 2026-11-27
 ## Q3 2026
 
 

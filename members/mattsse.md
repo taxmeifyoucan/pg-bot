@@ -856,6 +856,25 @@ Team: Reth
 * [Commit] [fix(rpc): share trace byte limit across calls (#28764)](https://github.com/paradigmxyz/reth/commit/d1e00d27b05ab63f5c8f2216ad0f023d75abd500) - 2026-11-26
 * [Commit] [fix(download): retry range probes answered with 200 (#28611)](https://github.com/paradigmxyz/reth/commit/a87fb71551721448693ba4934222494f1d4efbf3) - 2026-11-26
 * [Commit] [chore(deps): bump reth-core to 15c627d (#28756)](https://github.com/paradigmxyz/reth/commit/8dfe47f1acff3cafeb7ffd131c2f04789df6ce45) - 2026-11-26
+* [Pull Request] [fix(rpc): time out stalled HTTP request bodies](https://github.com/paradigmxyz/reth/pull/28821) - 2026-11-27
+* [Pull Request] [fix(rpc): bound flashbots validation concurrency](https://github.com/paradigmxyz/reth/pull/28822) - 2026-11-27
+* [Pull Request] [fix(net): don't dial banned trusted peers](https://github.com/paradigmxyz/reth/pull/28820) - 2026-11-27
+* [Pull Request] [fix(discv4): prove nodes re-added during a request](https://github.com/paradigmxyz/reth/pull/28819) - 2026-11-27
+* [Pull Request] [fix(net): drop peers removed during a dial](https://github.com/paradigmxyz/reth/pull/28816) - 2026-11-27
+* [Review] [Review on: fix(net): drop peers removed during a dial](https://github.com/paradigmxyz/reth/pull/28816#pullrequestreview-6094062928) - 2026-11-27
+* [Pull Request] [fix(discv4): key bonds by canonical IP](https://github.com/paradigmxyz/reth/pull/28818) - 2026-11-27
+* [Review] [Review on: refactor(rpc): pass the recovered block to convert_receipts_with_block](https://github.com/paradigmxyz/reth/pull/28792#pullrequestreview-6091101896) - 2026-11-27
+* [Review] [Review on: fix(cli): honor static-file checksum block ranges](https://github.com/paradigmxyz/reth/pull/28615#pullrequestreview-6089953700) - 2026-11-27
+* [Pull Request] [fix(storage): avoid deadlock pruning overlays](https://github.com/paradigmxyz/reth/pull/28808) - 2026-11-27
+* [Review] [Review on: fix(storage): avoid deadlock pruning overlays](https://github.com/paradigmxyz/reth/pull/28808#pullrequestreview-6090111700) - 2026-11-27
+* [Review] [Review on: perf(bench): compile out trace logs in benchmark builds](https://github.com/paradigmxyz/reth/pull/28810#pullrequestreview-6089924373) - 2026-11-27
+* [Pull Request] [fix(txpool): release blob locks before copying proofs](https://github.com/paradigmxyz/reth/pull/28812) - 2026-11-27
+* [Review] [Review on: fix(net): reject extra sizes in pooled tx announcements](https://github.com/paradigmxyz/reth/pull/28779#pullrequestreview-6089613366) - 2026-11-27
+* [Pull Request] [chore(ci): send bench results to clickhouse as JSON rows](https://github.com/paradigmxyz/reth/pull/28806) - 2026-11-27
+* [Commit] [fix(storage): avoid deadlock pruning overlays (#28808)](https://github.com/paradigmxyz/reth/commit/670b2e2f539491382a3b929abb8ba4f286d3167d) - 2026-11-27
+* [Commit] [fix(txpool): release blob locks before copying proofs (#28812)](https://github.com/paradigmxyz/reth/commit/adb9ed1a0787fd79430c162bf2f6098c02de5e0c) - 2026-11-27
+* [Commit] [chore(ci): send bench results to clickhouse as JSON rows (#28806)](https://github.com/paradigmxyz/reth/commit/f091483766cd191f06d4468430a33c061503470b) - 2026-11-27
+* [Commit] [fix(consensus): check blob gas used post-execution (#28784)](https://github.com/paradigmxyz/reth/commit/5d07129e0f2e4a51a8a1c5231659433e07ab6de4) - 2026-11-27
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

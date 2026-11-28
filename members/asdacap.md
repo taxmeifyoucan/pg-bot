@@ -141,6 +141,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(ssz): return the bytes written from Encode (#16395)](https://github.com/NethermindEth/nethermind/commit/941250cd09b4852ca094bf983d0638aa4c0a046b) - 2026-11-25
 * [Pull Request] [refactor(beacon-chain): remove beacon API context](https://github.com/NethermindEth/nethermind/pull/16421) - 2026-11-26
 * [Commit] [refactor(beacon-chain): remove beacon API context (#16421)](https://github.com/NethermindEth/nethermind/commit/fc8e23966e45dac62f82e947a0f1da4bb5526590) - 2026-11-26
+* [Review] [Review on: fix(ci): reject version bumps without a declared prefix](https://github.com/NethermindEth/nethermind/pull/16439#pullrequestreview-6084894950) - 2026-11-27
+* [Review] [Review on: test(sync): verify flat healing across moving pivots and both layouts](https://github.com/NethermindEth/nethermind/pull/16450#pullrequestreview-6086918360) - 2026-11-27
+* [Pull Request] [refactor(beacon): share a thread-safe committee cache singleton](https://github.com/NethermindEth/nethermind/pull/16452) - 2026-11-27
+* [Review] [Review on: perf(flat): run large early storage passes on idle-priority helpers](https://github.com/NethermindEth/nethermind/pull/16288#pullrequestreview-6084868764) - 2026-11-27
 ## Q3 2026
 
 

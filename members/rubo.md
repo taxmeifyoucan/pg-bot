@@ -162,6 +162,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore(deps): update Nethermind.Crypto.SecP256k1 to 0.8.0.52](https://github.com/NethermindEth/nethermind/pull/16425) - 2026-11-26
 * [Commit] [refactor(network)!: encode and decode RLPx frames over spans (#16427)](https://github.com/NethermindEth/nethermind/commit/8afe928e2f27ceec5f03c92018de6144abc72700) - 2026-11-26
 * [Commit] [chore(deps): update Nethermind.Crypto.SecP256k1 to 0.8.0.52 (#16425)](https://github.com/NethermindEth/nethermind/commit/a55d395ce69612a5ac416ef22bc4629833e0028e) - 2026-11-26
+* [Pull Request] [fix(ci): pick the RV64 runtime of the OpenVM package in the zkVM A/B](https://github.com/NethermindEth/nethermind/pull/16462) - 2026-11-27
+* [Pull Request] [chore(deps): update Nethermind.MclBindings to 4.30.0.124](https://github.com/NethermindEth/nethermind/pull/16458) - 2026-11-27
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/16390#pullrequestreview-6090067372) - 2026-11-27
+* [Commit] [fix(ci): pick the RV64 runtime of the OpenVM package in the zkVM A/B (#16462)](https://github.com/NethermindEth/nethermind/commit/998c5a3dc88b3cce2320418f0ab80a70b998e509) - 2026-11-27
+* [Commit] [chore(deps): update Nethermind.MclBindings to 4.30.0.124 (#16458)](https://github.com/NethermindEth/nethermind/commit/1f76e3635e0f8633b978c9e2f7ea24b43e73f0c4) - 2026-11-27
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

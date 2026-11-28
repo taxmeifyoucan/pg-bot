@@ -533,6 +533,26 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: run envelope gossip validation spec tests (#10764)](https://github.com/ChainSafe/lodestar/commit/2ce295fe278fef6ddf68ef9ec15acc8555938f11) - 2026-11-26
 * [Commit] [fix: penalize peers serving invalid payloads by root (#10771)](https://github.com/ChainSafe/lodestar/commit/7e9b9287f56beaab1a9eb4143e706bddfef1f583) - 2026-11-26
 * [Commit] [test: wait longer for column verification in unknown block sync tests (#10781)](https://github.com/ChainSafe/lodestar/commit/7dadcecdcafc5ffb3d4882b7148c59207d76e149) - 2026-11-26
+* [Pull Request] [chore: publish dev docker images in parallel with npm](https://github.com/ChainSafe/lodestar/pull/10832) - 2026-11-27
+* [Review] [Review on: fix: use parent state with payload for block production and block reward](https://github.com/ChainSafe/lodestar/pull/9736#pullrequestreview-6087826763) - 2026-11-27
+* [Pull Request] [fix: use clock slot fork for slashing signature domains](https://github.com/ChainSafe/lodestar/pull/10830) - 2026-11-27
+* [Pull Request] [fix: use message fork for sync committee signature domains](https://github.com/ChainSafe/lodestar/pull/10829) - 2026-11-27
+* [Pull Request] [fix: ignore bids whose inclusion list dependent root cannot be derived](https://github.com/ChainSafe/lodestar/pull/10831) - 2026-11-27
+* [Pull Request] [test: give processConsolidationRequest validators an effective balance](https://github.com/ChainSafe/lodestar/pull/10824) - 2026-11-27
+* [Review] [Review on: ci: run the kurtosis sim test through the gloas and heze forks](https://github.com/ChainSafe/lodestar/pull/10810#pullrequestreview-6088715895) - 2026-11-27
+* [Review] [Review on: test: skip gloas compliance case with a wrong proposer boost check](https://github.com/ChainSafe/lodestar/pull/10825#pullrequestreview-6088267989) - 2026-11-27
+* [Pull Request] [chore: merge unstable into pq-devnet-1](https://github.com/ChainSafe/lodestar/pull/10823) - 2026-11-27
+* [Pull Request] [feat: commit pq VRF leaves to secrets](https://github.com/ChainSafe/lodestar/pull/10821) - 2026-11-27
+* [Review] [Review on: feat(builder): bid when proposer preferences arrive after payload attributes](https://github.com/ChainSafe/lodestar/pull/10798#pullrequestreview-6085529651) - 2026-11-27
+* [Review] [Review on: chore: remove quick slots config from heze](https://github.com/ChainSafe/lodestar/pull/10817#pullrequestreview-6085380228) - 2026-11-27
+* [Issue] [Range sync stalls when every peer has failed a batch after a long run of empty epochs](https://github.com/ChainSafe/lodestar/issues/10822) - 2026-11-27
+* [Commit] [fix: use clock slot fork for slashing signature domains (#10830)](https://github.com/ChainSafe/lodestar/commit/29dff836195f0b20833be2d9242e569e3e71d2b1) - 2026-11-27
+* [Commit] [fix: use message fork for sync committee signature domains (#10829)](https://github.com/ChainSafe/lodestar/commit/782d60992770cb90927056044249011d6724d8da) - 2026-11-27
+* [Commit] [fix: correct `finalized` of block headers at finalized slots (#10702)](https://github.com/ChainSafe/lodestar/commit/f343d455cc0505cf74a4ea70d3ff3753e69821c2) - 2026-11-27
+* [Commit] [fix: add flow control to the reqresp worker bridge (#10796)](https://github.com/ChainSafe/lodestar/commit/643dd3c5bfa58afa35b2d20ba5d327c843103f6f) - 2026-11-27
+* [Commit] [test: give processConsolidationRequest validators an effective balance (#10824)](https://github.com/ChainSafe/lodestar/commit/e53da6424c399619420c9f40ddea8fde9378a1fa) - 2026-11-27
+* [Commit] [feat: submit proposal preferences of the next epoch from mid-epoch (#10343)](https://github.com/ChainSafe/lodestar/commit/119f1f9fe6d200084d53c57bf38ae6e07d2d26e5) - 2026-11-27
+* [Commit] [chore: remove quick slots config from heze (#10817)](https://github.com/ChainSafe/lodestar/commit/ae7beea800f3a1348c1ebf1317c066ca0295656a) - 2026-11-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -571,6 +591,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-6077978554) - 2026-11-26
 * [Commit] [Ignore execution payload bids a proposer cannot select (#5803)](https://github.com/ethereum/consensus-specs/commit/36888ee87b0faa6ad7804b017a0184e8e6e6a1c6) - 2026-11-26
 * [Commit] [Bound envelope transaction count by the parent payload's gas limit (#5802)](https://github.com/ethereum/consensus-specs/commit/0b5f94793e42a21a2371aa37da9141299627b897) - 2026-11-26
+* [Pull Request] [Apply block messages before queued children in comptests](https://github.com/ethereum/consensus-specs/pull/5873) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

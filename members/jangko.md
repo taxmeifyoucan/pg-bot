@@ -91,6 +91,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: split block processing phases](https://github.com/status-im/nimbus-eth1/pull/5221#pullrequestreview-6038284144) - 2026-11-24
 * [Commit] [System Call follow EIP-7702 delegation designator (#5186)](https://github.com/status-im/nimbus-eth1/commit/6b0332e5cb8b4aaa3e2d336401e2973e11a95613) - 2026-11-25
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/5227) - 2026-11-26
+* [Commit] [Bump nim-eth (#5227)](https://github.com/status-im/nimbus-eth1/commit/3470516047937f2edde15b0e2818ca28345b8d42) - 2026-11-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026

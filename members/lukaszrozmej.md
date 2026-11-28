@@ -1211,6 +1211,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test(eest): run blockchain_tests_engine_x fixtures per pre-allocation group (#16223)](https://github.com/NethermindEth/nethermind/commit/72d038710f25a7631371e993826480c9676ad1a4) - 2026-11-26
 * [Commit] [test(rpc): give websocket pipelining tests a 30 s hang guard (#16405)](https://github.com/NethermindEth/nethermind/commit/f296f39d245375d0273d77224380606e58e130c8) - 2026-11-26
 * [Commit] [fix(merge): return null blockAccessList for V2 bodies without a stored access list (#16399)](https://github.com/NethermindEth/nethermind/commit/e01672e2589d224171096350833025a82fee9257) - 2026-11-26
+* [Review] [Review on: fix(ci): pick the RV64 runtime of the OpenVM package in the zkVM A/B](https://github.com/NethermindEth/nethermind/pull/16462#pullrequestreview-6092589329) - 2026-11-27
+* [Pull Request] [perf(trie): parallelize bulk set on branch levels with missing children](https://github.com/NethermindEth/nethermind/pull/16454) - 2026-11-27
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

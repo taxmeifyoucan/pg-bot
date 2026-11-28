@@ -149,6 +149,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: unset execution_payload_availability at fork slot (#10615)](https://github.com/ChainSafe/lodestar/commit/b9e2dc8d937d93d7db28c0577f2f40100e2b036a) - 2026-11-26
 * [Commit] [fix: harden serializeToBytes() binding (#10794)](https://github.com/ChainSafe/lodestar/commit/8c2432a3d89478539ff1d644b4bb44b3ea181cf2) - 2026-11-26
 * [Commit] [fix(ssz): don't free the old pending node if its the same as the new one (#10795)](https://github.com/ChainSafe/lodestar/commit/e326166dc49e8bbbed10668917b9f2cba36dda4a) - 2026-11-26
+* [Review] [Review on: fix: use parent state with payload for block production and block reward](https://github.com/ChainSafe/lodestar/pull/9736#pullrequestreview-6086804238) - 2026-11-27
+* [Review] [Review on: feat: submit proposal preferences of the next epoch from mid-epoch](https://github.com/ChainSafe/lodestar/pull/10343#pullrequestreview-6087068710) - 2026-11-27
+* [Review] [Review on: chore: remove quick slots config from heze](https://github.com/ChainSafe/lodestar/pull/10817#pullrequestreview-6085283986) - 2026-11-27
+* [Commit] [fix: use parent state with payload for block production and block reward (#9736)](https://github.com/ChainSafe/lodestar/commit/b6f233b9647ee48517f0fec4d65eed19dc1e723b) - 2026-11-27
+* [Commit] [fix: range sync through 0-block epoch (#10777)](https://github.com/ChainSafe/lodestar/commit/6c1c955421efe7140b331357cecf5c54021920bd) - 2026-11-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

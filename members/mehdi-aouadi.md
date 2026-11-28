@@ -45,6 +45,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Update CHANGELOG after 26.11.0 release](https://github.com/Consensys-Incorporated/teku/pull/11729#pullrequestreview-6038400650) - 2026-11-24
 * [Pull Request] [fix block timeliness at import and guard proposer boost by current slot](https://github.com/Consensys-Incorporated/teku/pull/11750) - 2026-11-25
 * [Commit] [fix block timeliness at import and guard proposer boost by current slot (#11750)](https://github.com/Consensys-Incorporated/teku/commit/94ae7228dcf6ac98f30d051858714707b7cde416) - 2026-11-25
+* [Review] [Review on: FCR: Precisely compute committee weight](https://github.com/Consensys-Incorporated/teku/pull/11362#pullrequestreview-6091441577) - 2026-11-27
+* [Pull Request] [allow higher bid from the same builder when proposing](https://github.com/Consensys-Incorporated/teku/pull/11778) - 2026-11-27
+* [Review] [Review on: run cheap bid gossip checks before retrieving parent state](https://github.com/Consensys-Incorporated/teku/pull/11731#pullrequestreview-6087200338) - 2026-11-27
+* [Pull Request] [update spec ref tests](https://github.com/Consensys-Incorporated/teku/pull/11764) - 2026-11-27
+* [Review] [Review on: update spec ref tests](https://github.com/Consensys-Incorporated/teku/pull/11764#pullrequestreview-6086554236) - 2026-11-27
+* [Issue] [Proposers should accept higher bids from the same builder](https://github.com/Consensys-Incorporated/teku/issues/11768) - 2026-11-27
+* [Issue] [Ignore execution payload bids a proposer cannot select](https://github.com/Consensys-Incorporated/teku/issues/11767) - 2026-11-27
+* [Issue] [Bound envelope transaction count by the parent payload's gas limit](https://github.com/Consensys-Incorporated/teku/issues/11766) - 2026-11-27
+* [Issue] [Exclude pending withdrawals from the builder bid limit](https://github.com/Consensys-Incorporated/teku/issues/11769) - 2026-11-27
+* [Issue] [Allow builders to submit one bid per staked ETH](https://github.com/Consensys-Incorporated/teku/issues/11770) - 2026-11-27
+* [Issue] [Unset fork slot payload availability in upgrade_to_gloas](https://github.com/Consensys-Incorporated/teku/issues/11771) - 2026-11-27
+* [Commit] [run cheap bid gossip checks before retrieving parent state (#11731)](https://github.com/Consensys-Incorporated/teku/commit/a0f1a26fed9fe314c20202212fe2fc839a6b238e) - 2026-11-27
+* [Commit] [update spec ref tests (#11764)](https://github.com/Consensys-Incorporated/teku/commit/b8787e101397db4098401e5289f4d2703478d5ef) - 2026-11-27
 ## Q3 2026
 
 

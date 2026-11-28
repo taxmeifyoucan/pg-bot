@@ -74,6 +74,19 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [beacon/engine: size tx-decode workers by bytes as well as count](https://github.com/ethereum/go-ethereum/pull/36215) - 2026-11-24
 * [Review] [Review on: beacon/engine: size tx-decode workers by bytes as well as count](https://github.com/ethereum/go-ethereum/pull/36215#pullrequestreview-6040511541) - 2026-11-24
+* [Pull Request] [triedb/pathdb, params: retain state over the EIP-8252 reorg window](https://github.com/ethereum/go-ethereum/pull/36248) - 2026-11-27
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [simulators/ethereum/reorg-retention: add EIP-8252 reorg test](https://github.com/ethereum/hive/pull/1678) - 2026-11-27
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Set default Bonsai state retention to EIP-8252 reorg window](https://github.com/besu-eth/besu/pull/12067) - 2026-11-27
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [FlatDb: set long-finality reorg backstop to EIP-8252 retention window](https://github.com/NethermindEth/nethermind/pull/16457) - 2026-11-27
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [feat(prune): retain EIP-8252 reorg state window on full nodes](https://github.com/paradigmxyz/reth/pull/28811) - 2026-11-27
 ## Q3 2026
 
 

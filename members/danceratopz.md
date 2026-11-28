@@ -135,6 +135,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs(tests): give the reorg test docstrings a one-line summary (#4078)](https://github.com/ethereum/execution-specs/commit/c3cf9029ed2d66f93a6c13f851bdf58523458120) - 2026-11-26
 * [Commit] [fix(doc): render the README pages of the test case reference (#4077)](https://github.com/ethereum/execution-specs/commit/38814621e239dc0d82fa0184105bf1c949a28e9d) - 2026-11-26
 * [Commit] [fix(doc): point the bad docstring issue links at execution-specs (#4079)](https://github.com/ethereum/execution-specs/commit/46194fe028741ad9def8bbbb8f869fdcc68bf645) - 2026-11-26
+* [Review] [Review on: perf(test-fill, ci): speed up the end of release fills](https://github.com/ethereum/execution-specs/pull/3808#pullrequestreview-6085839855) - 2026-11-27
+* [Review] [Review on: feat(ci): add fill-stateful E2E job to hive execute workflow](https://github.com/ethereum/execution-specs/pull/4018#pullrequestreview-6085402398) - 2026-11-27
+* [Commit] [feat(doc): draw the reorg tests in the test case reference (#4075)](https://github.com/ethereum/execution-specs/commit/79e2512181871274b3d0d01f8251ad7b7db5d172) - 2026-11-27
+* [Commit] [fix(doc): show plain, wrapped names on test function social cards (#4076)](https://github.com/ethereum/execution-specs/commit/942a60b33decc69facafeac2bf9ab65a5070858a) - 2026-11-27
+* [Commit] [feat(test-fixtures): say why a reorg fixture block is invalid (#4074)](https://github.com/ethereum/execution-specs/commit/71878e18c6af57ef88af304c652b8f7625ca1d61) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09

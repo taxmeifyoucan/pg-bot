@@ -281,6 +281,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Update lean-pq to 0.19.0](https://github.com/Consensys-Incorporated/teku/pull/11758) - 2026-11-26
 * [Pull Request] [Pack PQ validators in supernodes as earlier forks do](https://github.com/Consensys-Incorporated/teku/pull/11757) - 2026-11-26
 * [Issue] [make sure blobdb is on by default for new databases](https://github.com/Consensys-Incorporated/teku/issues/11760) - 2026-11-26
+* [Pull Request] [Schedule Gloas fork on Hoodi at epoch 143616](https://github.com/Consensys-Incorporated/teku/pull/11782) - 2026-11-27
+* [Pull Request] [Route pending deposits by credentials at Gloas builder onboarding](https://github.com/Consensys-Incorporated/teku/pull/11582) - 2026-11-27
+* [Review] [Review on: Load all-zero composite list elements in tree-mode storage](https://github.com/Consensys-Incorporated/teku/pull/11754#pullrequestreview-6085547619) - 2026-11-27
+* [Review] [Review on: Close the connection when a REST response body cannot be completed](https://github.com/Consensys-Incorporated/teku/pull/11753#pullrequestreview-6085547431) - 2026-11-27
+* [Commit] [Schedule Gloas fork on Hoodi at epoch 143616 (#11782)](https://github.com/Consensys-Incorporated/teku/commit/026fb1c20dee2658a16cf1980cf4b49b035597a9) - 2026-11-27
+* [Commit] [Route pending deposits by credentials at Gloas builder onboarding (#11582)](https://github.com/Consensys-Incorporated/teku/commit/a01c20159c3bba6aac63d72e031a224f571586bf) - 2026-11-27
 [ConsenSys/teku](https://github.com/ConsenSys/teku)
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
 

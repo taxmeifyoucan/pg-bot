@@ -102,6 +102,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [FCR: allow users to set custom beta (#11730)](https://github.com/Consensys-Incorporated/teku/commit/cf454e1aea650bc6d5c9fddc242f40ba1f4cacb7) - 2026-11-25
 * [Review] [Review on: Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588#pullrequestreview-6079700805) - 2026-11-26
 * [Review] [Review on: Only trigger pre-import code for gossipped blocks](https://github.com/Consensys-Incorporated/teku/pull/11733#pullrequestreview-6075608040) - 2026-11-26
+* [Review] [Review on: Apply beta.5 non-Gloas spec changes and enable their reference tests](https://github.com/Consensys-Incorporated/teku/pull/11781#pullrequestreview-6093796430) - 2026-11-27
+* [Review] [Review on: Schedule Gloas fork on Hoodi at epoch 143616](https://github.com/Consensys-Incorporated/teku/pull/11782#pullrequestreview-6094054454) - 2026-11-27
+* [Pull Request] [remove stale reference tests ignores](https://github.com/Consensys-Incorporated/teku/pull/11779) - 2026-11-27
+* [Review] [Review on: Index all finalized state roots when finalization spans multiple transactions](https://github.com/Consensys-Incorporated/teku/pull/11775#pullrequestreview-6092736883) - 2026-11-27
+* [Review] [Review on: Take the REST response stream where the body is written](https://github.com/Consensys-Incorporated/teku/pull/11765#pullrequestreview-6092671335) - 2026-11-27
+* [Review] [Review on: Route pending deposits by credentials at Gloas builder onboarding](https://github.com/Consensys-Incorporated/teku/pull/11582#pullrequestreview-6092751319) - 2026-11-27
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/Consensys-Incorporated/teku/pull/11777#pullrequestreview-6091645018) - 2026-11-27
+* [Review] [Review on: FCR: Precisely compute committee weight](https://github.com/Consensys-Incorporated/teku/pull/11362#pullrequestreview-6091544037) - 2026-11-27
+* [Commit] [remove stale reference tests ignores (#11779)](https://github.com/Consensys-Incorporated/teku/commit/70fcdef619e34a161acf4709591789b787e8dc29) - 2026-11-27
+* [Commit] [FCR: Precisely compute committee weight (#11362)](https://github.com/Consensys-Incorporated/teku/commit/241abafec520934917a1b383aa737bfb04d5d2f3) - 2026-11-27
+* [Commit] [FCR: count parent's pending node support in empty-slot discount (#11628)](https://github.com/Consensys-Incorporated/teku/commit/60515b4b066e887b9223bdf8a55511a9359ef301) - 2026-11-27
 ## Q3 2026
 
 

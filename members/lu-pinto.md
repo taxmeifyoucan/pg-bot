@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378122931) - 2026-10-01
 
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5824432734) - 2026-11-09
+* [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-6089278486) - 2026-11-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: fix(evmtool): report undecodable block RLP in --json-array output](https://github.com/besu-eth/besu/pull/11329#pullrequestreview-5383233291) - 2026-10-01
 * [Issue] [Unify output redirection in evmtool subcommands](https://github.com/besu-eth/besu/issues/11419) - 2026-10-01
@@ -51,6 +52,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [add TOP_BITS_KEYS jmh tests (s263)](https://github.com/besu-eth/besu/commit/8e67540640ebd17bcae6f5e3c0e04cc6cba5e519) - 2026-11-24
 * [Commit] [AddressStorageSlotKey hashcodes across 32bit lanes (GHSA-xgjc-g2f5-r2pq)](https://github.com/besu-eth/besu/commit/80b3c274778ea0f2ae8c9f66d62c6b125b116478) - 2026-11-24
 
+* [Review] [Review on: Run a child frame on its parent's EVM](https://github.com/besu-eth/besu/pull/11867#pullrequestreview-6086663991) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: Move to Review](https://github.com/ethereum/EIPs/pull/12717) - 2026-11-25
 ## Q3 2026

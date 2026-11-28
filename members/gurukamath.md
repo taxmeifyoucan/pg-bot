@@ -66,6 +66,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Test Release Tracker: `bogota-devnet@v3.0.0`](https://github.com/ethereum/execution-specs/issues/4069) - 2026-11-25
 * [Pull Request] [fix(test-specs): compare code by hash in the block access list invariant](https://github.com/ethereum/execution-specs/pull/4081) - 2026-11-26
 * [Pull Request] [fix(test-forks,test-specs): account for EIP-8250 in the invariant checks](https://github.com/ethereum/execution-specs/pull/4080) - 2026-11-26
+* [Pull Request] [feat(spec, tests): implement EIP-8253](https://github.com/ethereum/execution-specs/pull/4087) - 2026-11-27
+* [Issue] [Add frame transsaction test cases](https://github.com/ethereum/execution-specs/issues/4086) - 2026-11-27
+* [Commit] [fix(test-client-clis): map ethrex, geth and nethermind EIP-8141 frame transaction rejections (#4070)](https://github.com/ethereum/execution-specs/commit/875071b966830f5e140fd987f9f26b2f4fb6c871) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8141: set code from the default code in SENDER mode](https://github.com/ethereum/EIPs/pull/12506#pullrequestreview-6020064054) - 2026-11-23
 ## Q3 2026

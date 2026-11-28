@@ -61,6 +61,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [fix(test-consume): retry transaction lookups while the client is still indexing (#4038)](https://github.com/ethereum/execution-specs/commit/488ac657e5f6386f46ac628ed5d8193df38fc58c) - 2026-11-25
 * [Review] [Review on: feat(doc): draw the reorg tests in the test case reference](https://github.com/ethereum/execution-specs/pull/4075#pullrequestreview-6080916623) - 2026-11-26
 * [Review] [Review on: feat(test-fixtures): say why a reorg fixture block is invalid](https://github.com/ethereum/execution-specs/pull/4074#pullrequestreview-6080902720) - 2026-11-26
+* [Review] [Review on: feat(doc): draw the reorg tests in the test case reference](https://github.com/ethereum/execution-specs/pull/4075#pullrequestreview-6085320658) - 2026-11-27
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm, core/state: implement EIP-8298 SETCODEFROM](https://github.com/ethereum/go-ethereum/pull/35941) - 2026-10-12
 * [Pull Request] [core, trie/pbt, triedb: add EIP-8297 partitioned binary tree](https://github.com/ethereum/go-ethereum/pull/35955) - 2026-10-15

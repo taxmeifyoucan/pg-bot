@@ -522,6 +522,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(ssz): hash fixed-size parents with Arm SHA-256 (#16428)](https://github.com/NethermindEth/nethermind/commit/a5d4d5fd63b0c205f348781de260ebb30129a782) - 2026-11-26
 * [Commit] [refactor(trie): simplify nibble expansion with portable SIMD zip (#16426)](https://github.com/NethermindEth/nethermind/commit/685f1045c371751d0881a6ebc9f2f46690f09933) - 2026-11-26
 * [Commit] [perf(core): accelerate single and batched Keccak on ARM64 (#16415)](https://github.com/NethermindEth/nethermind/commit/6ecf30b4335da5e85d74cd9cf5a7860f27720384) - 2026-11-26
+* [Review] [Review on: fix(sync): apply the newPayload encoding checks to block access lists from peers](https://github.com/NethermindEth/nethermind/pull/16451#pullrequestreview-6087650230) - 2026-11-27
+* [Review] [Review on: test(sync): verify flat healing across moving pivots and both layouts](https://github.com/NethermindEth/nethermind/pull/16450#pullrequestreview-6085725346) - 2026-11-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

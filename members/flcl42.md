@@ -151,6 +151,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [refactor(network)!: move discovery dependencies out of Nethermind.Network to slim the bootnode (#16166)](https://github.com/NethermindEth/nethermind/commit/ea64afc26961d0573a26ffdaac22c25a19c15ba8) - 2026-11-25
 * [Commit] [fix(light-client): improve peer recovery and bulk downloads (#16311)](https://github.com/NethermindEth/nethermind/commit/8674e5637a704be8755e29dd8bac054aef0b13e5) - 2026-11-25
 * [Commit] [fix(light-client): use the authenticated head for pending EVM calls (#16310)](https://github.com/NethermindEth/nethermind/commit/955bed6e671a46e8d84ba56cbb4b61aab4d5ef91) - 2026-11-25
+* [Review] [Review on: fix(rpc): apply unsent response limits per client behind reverse proxies](https://github.com/NethermindEth/nethermind/pull/16455#pullrequestreview-6092628798) - 2026-11-27
+* [Review] [Review on: fix(beacon): size the libp2p pubsub send and receive limits for max-size gossip](https://github.com/NethermindEth/nethermind/pull/16422#pullrequestreview-6094502628) - 2026-11-28
+* [Review] [Review on: ci(sync): give each Hoodi PR gate entry its own runner lifecycle](https://github.com/NethermindEth/nethermind/pull/16424#pullrequestreview-6093976066) - 2026-11-27
+* [Review] [Review on: fix: stabilize Stored_block_rejection_preserves_diagnostics_without_peer](https://github.com/NethermindEth/nethermind/pull/16456#pullrequestreview-6092398682) - 2026-11-27
+* [Review] [Review on: fix(ci): reject version bumps without a declared prefix](https://github.com/NethermindEth/nethermind/pull/16439#pullrequestreview-6093191854) - 2026-11-27
+* [Review] [Review on: feat(specs): schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/16447#pullrequestreview-6092979806) - 2026-11-27
+* [Review] [Review on: perf(trie): parallelize bulk set on branch levels with missing children](https://github.com/NethermindEth/nethermind/pull/16454#pullrequestreview-6092642078) - 2026-11-27
+* [Review] [Review on: FlatDb: set long-finality reorg backstop to EIP-8252 retention window](https://github.com/NethermindEth/nethermind/pull/16457#pullrequestreview-6092372224) - 2026-11-27
+* [Commit] [perf(light-client): reduce memory and metrics traffic (#16396)](https://github.com/NethermindEth/nethermind/commit/797cacaad25cac2080b3ed65e54a0577f8a482af) - 2026-11-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix(chain): publish sync heads after storage commit (#10842)](https://github.com/besu-eth/besu/commit/95cac2efc4dad29816eaecc644f7a43ea30288b7) - 2026-10-06
 

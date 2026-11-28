@@ -23,6 +23,15 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Pull Request] [Update EIP-8141: explain gas refunds and block limits](https://github.com/ethereum/EIPs/pull/12537) - 2026-10-17
 * [Pull Request] [Update EIP-8141: let only VERIFY frames read signature bytes outside the signature hash](https://github.com/ethereum/EIPs/pull/12708) - 2026-11-23
 * [Pull Request] [Update EIP-8288: declare dependencies in the signature list instead of a frame](https://github.com/ethereum/EIPs/pull/12710) - 2026-11-24
+
+* [Pull Request] [Update EIP-7805: Skip IL transactions that don't fit by size](https://github.com/ethereum/EIPs/pull/12723) - 2026-11-27
+* [Review] [Review on: Update EIP-7805: Skip IL transactions that don't fit by size](https://github.com/ethereum/EIPs/pull/12723#pullrequestreview-6091290468) - 2026-11-27
+* [Review] [Review on: Update EIP-7805: Count the IL size over the EIP-2718 encoding](https://github.com/ethereum/EIPs/pull/12702#pullrequestreview-6093455238) - 2026-11-27
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Support FOCIL and Frames interaction](https://github.com/ethereum/consensus-specs/pull/5772#pullrequestreview-6090177944) - 2026-11-27
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(specs,test-specs,tests): support FOCIL frame omission claims](https://github.com/ethereum/execution-specs/pull/3777#pullrequestreview-6090653584) - 2026-11-27
 ## Q3 2026
 
 

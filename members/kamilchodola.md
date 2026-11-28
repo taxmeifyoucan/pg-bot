@@ -98,6 +98,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(flat): keep catch-up sync off the persisted-snapshot tier and unblock its writers](https://github.com/NethermindEth/nethermind/pull/16413) - 2026-11-25
 * [Commit] [fix(state): persist a flat base snapshot wider than CompactSize (#16132)](https://github.com/NethermindEth/nethermind/commit/7a8ea16fb54790f856a77e3f543661c13134002e) - 2026-11-26
 * [Commit] [fix(rpc): queue IPC connections opened before the first accept (#16412)](https://github.com/NethermindEth/nethermind/commit/9cc9cb6fa7bcafdbb615af48de1445eddaa6013b) - 2026-11-26
+* [Pull Request] [ResolvedCodeMemo: answer a repeat of the last address without the probe](https://github.com/NethermindEth/nethermind/pull/16466) - 2026-11-27
+* [Pull Request] [EVM: serve registered storage-read calls without a child frame](https://github.com/NethermindEth/nethermind/pull/16467) - 2026-11-27
+* [Pull Request] [fix(receipts): store compact receipts with the registered storage decoder](https://github.com/NethermindEth/nethermind/pull/15397) - 2026-11-27
+* [Pull Request] [FlatDb: make the carry-forward slot table's capacity configurable](https://github.com/NethermindEth/nethermind/pull/16468) - 2026-11-27
+* [Pull Request] [KeccakCache: size the host cache from NETHERMIND_KECCAK_CACHE_BITS](https://github.com/NethermindEth/nethermind/pull/16465) - 2026-11-27
+* [Commit] [fix(receipts): store compact receipts with the registered storage decoder (#15397)](https://github.com/NethermindEth/nethermind/commit/e16ba4577b1a2f3fd9b23075577c5f2a7715d9c3) - 2026-11-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

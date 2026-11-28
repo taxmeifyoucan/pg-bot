@@ -23,6 +23,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Commit] [ci(sync): run the Hoodi PR sync gate on arm64 GCP SPOT VMs and skip drafts (#16374)](https://github.com/NethermindEth/nethermind/commit/299cf0dfcb68330c23aada6b74abd9ebe4ae1ba2) - 2026-11-25
 * [Pull Request] [ci(sync): give each Hoodi PR gate entry its own runner lifecycle](https://github.com/NethermindEth/nethermind/pull/16424) - 2026-11-26
 * [Review] [Review on: ci(sync): give each Hoodi PR gate entry its own runner lifecycle](https://github.com/NethermindEth/nethermind/pull/16424#pullrequestreview-6076409095) - 2026-11-26
+* [Pull Request] [ci: run benchmark and rpc-comparison jobs on ephemeral gcp-runner VMs](https://github.com/NethermindEth/nethermind/pull/16460) - 2026-11-27
+* [Review] [Review on: ci: run benchmark and rpc-comparison jobs on ephemeral gcp-runner VMs](https://github.com/NethermindEth/nethermind/pull/16460#pullrequestreview-6091091768) - 2026-11-27
 ## Q3 2026
 
 

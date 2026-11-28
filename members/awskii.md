@@ -761,6 +761,30 @@ Team: Erigon
 * [Commit] [execution/protocol: drop the uncontended mutex from GetHashFn (#26865)](https://github.com/erigontech/erigon/commit/20eb6e5bd72bd8701f41633a9f0d5e40b0926509) - 2026-11-26
 * [Commit] [db/snapshotsync/freezeblocks: fail a beacon block dump at a canonical slot with no body (#26848)](https://github.com/erigontech/erigon/commit/740292f1f5e0f078e50b406bf28bec8c659b7d6f) - 2026-11-26
 * [Commit] [.github/workflows: bump rpc-tests to v2.42.2 for debug_traceCall test_25 (#26843)](https://github.com/erigontech/erigon/commit/da2f4997075f2bcb7f1ffed0052b0db13babd089) - 2026-11-26
+* [Review] [Review on: execution/stagedsync: keep exec workers across newPayload calls](https://github.com/erigontech/erigon/pull/26984#pullrequestreview-6095852180) - 2026-11-28
+* [Review] [Review on: go.mod: upgrade github.com/dop251/goja](https://github.com/erigontech/erigon/pull/26914#pullrequestreview-6087108852) - 2026-11-27
+* [Pull Request] [execution/stagedsync: re-run a stale tx after its writer commits, not tx-1](https://github.com/erigontech/erigon/pull/26974) - 2026-11-27
+* [Review] [Review on: execution/stagedsync: re-run a stale tx after its writer commits, not tx-1](https://github.com/erigontech/erigon/pull/26974#pullrequestreview-6095979968) - 2026-11-28
+* [Review] [Review on: db/state: HistoryKeyTxNumRange skips keys that extend a shorter key](https://github.com/erigontech/erigon/pull/26917#pullrequestreview-6087130339) - 2026-11-27
+* [Review] [Review on: cmd/evm: zkevmtest accepts a piped input](https://github.com/erigontech/erigon/pull/26845#pullrequestreview-6086863184) - 2026-11-27
+* [Review] [Review on: db/snapshotsync: a merge fails instead of reusing a missing output](https://github.com/erigontech/erigon/pull/26956#pullrequestreview-6092669952) - 2026-11-27
+* [Review] [Review on: cl/beacon/handler: duties answer spec-listed statuses while history is pending](https://github.com/erigontech/erigon/pull/26895#pullrequestreview-6087540610) - 2026-11-27
+* [Review] [Review on: cl/beacon/handler: answer 503 for duties past the head epoch + 2](https://github.com/erigontech/erigon/pull/26870#pullrequestreview-6087450791) - 2026-11-27
+* [Review] [Review on: db/snapshotsync: reject unsupported Caplin snapshot versions on open](https://github.com/erigontech/erigon/pull/26878#pullrequestreview-6086416884) - 2026-11-27
+* [Pull Request] [cmd/capcli, cl/antiquary: add capcli seg retire](https://github.com/erigontech/erigon/pull/26977) - 2026-11-27
+* [Pull Request] [cl/clparams, cmd/caplin: add Caplin retention regimes](https://github.com/erigontech/erigon/pull/26975) - 2026-11-27
+* [Issue] [db/snapshotsync: Merge reuses an output that is gone from disk and deletes its inputs](https://github.com/erigontech/erigon/issues/26955) - 2026-11-27
+* [Issue] [cl/phase1/stages: a genesis start never marks the antiquary backfilled](https://github.com/erigontech/erigon/issues/26938) - 2026-11-27
+* [Issue] [rpc/jsonrpc, execution/exec: AuRa reward calls in trace replay read the wrong state](https://github.com/erigontech/erigon/issues/26963) - 2026-11-27
+* [Issue] [cl/blobfetch: RedactURLError keeps an API key echoed in a malformed status line](https://github.com/erigontech/erigon/issues/26939) - 2026-11-27
+* [Issue] [cl/beacon/handler: committees for a side-branch state are computed from the head state](https://github.com/erigontech/erigon/issues/26937) - 2026-11-27
+* [Issue] [cl/beacon/handler: proposer duties answer 404 when an epoch's first slot has no block](https://github.com/erigontech/erigon/issues/26936) - 2026-11-27
+* [Issue] [rpc/jsonrpc: eth_simulateV1 on pre-merge AuRa blocks misses the simulated parent and reaches the epoch store](https://github.com/erigontech/erigon/issues/26935) - 2026-11-27
+* [Commit] [execution/commitment: move HexPatriciaHashed into its own package (#26810)](https://github.com/erigontech/erigon/commit/f0f25fcdb8817419335d4189d99bf60ed57ab916) - 2026-11-28
+* [Commit] [execution/protocol, rpc/jsonrpc: give system calls a header reader for BLOCKHASH (#26883)](https://github.com/erigontech/erigon/commit/0ae25bfbdaee8653f1a97c8a4ad844fba24106d3) - 2026-11-27
+* [Commit] [db/integrity: trust the cache only for files verified in this run (#26877)](https://github.com/erigontech/erigon/commit/34031962e163bcc3dc3f7415c47695df7cab041c) - 2026-11-27
+* [Commit] [db/snaptype: use registered Caplin types instead of name prefixes (#26879)](https://github.com/erigontech/erigon/commit/b7f19389f9c312a14d97057856b7dfed4bee2245) - 2026-11-27
+* [Commit] [cmd/capcli: check Beacon API status before decoding and close bodies (#26880)](https://github.com/erigontech/erigon/commit/e22984a4d5ff74fe62ec1ad9155ad053656ab13e) - 2026-11-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration: debug_traceCall test_25 expects -32602 for an unsupported block override](https://github.com/erigontech/rpc-tests/pull/670#pullrequestreview-6067364553) - 2026-11-26
 ## Q3 2026

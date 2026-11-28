@@ -25,6 +25,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [feat(test-benchmark): add invalid-block benchmark with understated header gas](https://github.com/ethereum/execution-specs/pull/3822) - 2026-10-14
 * [Review] [Review on: feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535#pullrequestreview-5607980197) - 2026-10-22
 * [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5635511147) - 2026-10-23
+* [Review] [Review on: refactor(test-benchmark): remove fixed opcode count mode](https://github.com/ethereum/execution-specs/pull/4085#pullrequestreview-6088445577) - 2026-11-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02
@@ -75,6 +76,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Permanent EOA Delegation Opt-Out](https://github.com/ethereum/EIPs/pull/12600#pullrequestreview-6082622547) - 2026-11-27
 * [Review] [Review on: Add EIP: Variable-Size Blobs](https://github.com/ethereum/EIPs/pull/12720#pullrequestreview-6081351355) - 2026-11-26
 * [Review] [Review on: Update EIP-8298: Defer code change, adopt only from own code](https://github.com/ethereum/EIPs/pull/12716#pullrequestreview-6080915358) - 2026-11-26
+* [Pull Request] [Update EIP-8279: address gas griefing using multiple code deploys](https://github.com/ethereum/EIPs/pull/12736) - 2026-11-28
+* [Review] [Review on: Update EIP-7805: Skip IL transactions that don't fit by size](https://github.com/ethereum/EIPs/pull/12723#pullrequestreview-6091820630) - 2026-11-27
+* [Review] [Review on: Update EIP-8360: Clarify code opcodes, CREATE collision nonce, and state-gas table](https://github.com/ethereum/EIPs/pull/12721#pullrequestreview-6087584815) - 2026-11-27
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

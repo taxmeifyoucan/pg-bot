@@ -43,6 +43,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor(rpc): pass the recovered block to convert_receipts_with_block](https://github.com/paradigmxyz/reth/pull/28792) - 2026-11-27
 * [Pull Request] [perf(engine): return Arc from convert_payload_to_block](https://github.com/paradigmxyz/reth/pull/28789) - 2026-11-26
 * [Commit] [perf(engine): return Arc from convert_payload_to_block (#28789)](https://github.com/paradigmxyz/reth/commit/59570fc8fb0d4d0e1de9ab442bb7119c7802fe59) - 2026-11-26
+* [Commit] [refactor(rpc): pass the recovered block to convert_receipts_with_block (#28792)](https://github.com/paradigmxyz/reth/commit/e9fc4b55fbdeca9ad38bbb1aceb3caa213f6dbe8) - 2026-11-27
 ## Q3 2026
 
 

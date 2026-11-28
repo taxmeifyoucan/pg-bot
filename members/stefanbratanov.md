@@ -47,6 +47,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid](https://github.com/Consensys-Incorporated/teku/pull/11728) - 2026-11-24
 * [Review] [Review on: Update CHANGELOG after 26.11.0 release](https://github.com/Consensys-Incorporated/teku/pull/11729#pullrequestreview-6038398706) - 2026-11-24
 * [Commit] [Return ssz for payload attestation pool response (#11718)](https://github.com/Consensys-Incorporated/teku/commit/e0ac1424d911d4c9088f22fc476fb66005287078) - 2026-11-24
+* [Pull Request] [Apply beta.5 non-Gloas spec changes and enable their reference tests](https://github.com/Consensys-Incorporated/teku/pull/11781) - 2026-11-27
+* [Review] [Review on: remove stale reference tests ignores](https://github.com/Consensys-Incorporated/teku/pull/11779#pullrequestreview-6093026693) - 2026-11-27
+* [Pull Request] [Bound envelope transaction count by the parent payload's gas limit](https://github.com/Consensys-Incorporated/teku/pull/11776) - 2026-11-27
+* [Pull Request] [Allow builders to submit one bid per staked ETH, excluding pending withdrawals](https://github.com/Consensys-Incorporated/teku/pull/11773) - 2026-11-27
+* [Review] [Review on: Allow builders to submit one bid per staked ETH, excluding pending withdrawals](https://github.com/Consensys-Incorporated/teku/pull/11773#pullrequestreview-6089198401) - 2026-11-27
+* [Pull Request] [Unset fork slot payload availability in Gloas state upgrade](https://github.com/Consensys-Incorporated/teku/pull/11772) - 2026-11-27
+* [Review] [Review on: update spec ref tests](https://github.com/Consensys-Incorporated/teku/pull/11764#pullrequestreview-6086828451) - 2026-11-27
+* [Commit] [Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid (#11728)](https://github.com/Consensys-Incorporated/teku/commit/381b0125657c066ce1565d2e430f3d57a4deb4b8) - 2026-11-27
+* [Commit] [Bound envelope transaction count by the parent payload's gas limit (#11776)](https://github.com/Consensys-Incorporated/teku/commit/90a7ef514e5068dc210bb64cfa8bb7ed111a160e) - 2026-11-27
+* [Commit] [Allow builders to submit one bid per staked ETH, excluding pending withdrawals (#11773)](https://github.com/Consensys-Incorporated/teku/commit/ad1b3e69daedd65918164ce5d7fe96b4e872a467) - 2026-11-27
+* [Commit] [Unset fork slot payload availability in Gloas state upgrade (#11772)](https://github.com/Consensys-Incorporated/teku/commit/4afaa80564f3d2f27c8594eaa3c881b9b7a0b76f) - 2026-11-27
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add AGENTS.md and point CLAUDE.md to it](https://github.com/libp2p/jvm-libp2p/pull/551) - 2026-11-16
 ## Q3 2026

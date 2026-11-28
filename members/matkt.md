@@ -139,6 +139,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: [5/5] snap/2 sorted ingest: write the downloaded state as sorted files](https://github.com/besu-eth/besu/pull/11856#pullrequestreview-6073667206) - 2026-11-26
 * [Review] [Review on: Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809#pullrequestreview-6069492093) - 2026-11-26
 * [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-6073408236) - 2026-11-26
+* [Review] [Review on: Make cancellation win over background failure in BAL state root committer](https://github.com/besu-eth/besu/pull/12057#pullrequestreview-6087551414) - 2026-11-27
+* [Pull Request] [SNAP2: keep the back-fill off syncing peers](https://github.com/besu-eth/besu/pull/12064) - 2026-11-27
+* [Review] [Review on: [5/5] snap/2 sorted ingest: write the downloaded state as sorted files](https://github.com/besu-eth/besu/pull/11856#pullrequestreview-6084647577) - 2026-11-27
 ## Q3 2026
 
 

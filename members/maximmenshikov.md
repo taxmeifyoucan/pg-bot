@@ -36,6 +36,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [perf(zkevm): move the Airbender guest to libairbender 1.0.7 and the bflat images with rev8](https://github.com/NethermindEth/nethermind/pull/16097) - 2026-11-18
 * [Commit] [build(zkevm): update the guest bflat images to eadcaf8c (#16058)](https://github.com/NethermindEth/nethermind/commit/2eb0a1b19848795f95a1f39a8e7ccb9511c93020) - 2026-11-18
 * [Commit] [perf(zkevm): move the Airbender guest to libairbender 1.0.9, update the bflat images and zkVM runtimes (#16097)](https://github.com/NethermindEth/nethermind/commit/d144b7db6950a1d7e7f5789b71eebf3357533ade) - 2026-11-26
+* [Review] [Review on: fix(ci): pick the RV64 runtime of the OpenVM package in the zkVM A/B](https://github.com/NethermindEth/nethermind/pull/16462#pullrequestreview-6093165247) - 2026-11-27
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

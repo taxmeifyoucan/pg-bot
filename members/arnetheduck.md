@@ -52,6 +52,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [ledger: add journal, flatten accounref (#5217)](https://github.com/status-im/nimbus-eth1/commit/6082ae8bed4bf9659c574b2ebf63d612f22c047e) - 2026-11-24
 * [Commit] [split block processing phases (#5221)](https://github.com/status-im/nimbus-eth1/commit/df983b4e06defce5e8076e647c6aaeb08f7a10bc) - 2026-11-26
 * [Pull Request] [execution: cleanups](https://github.com/status-im/nimbus-eth1/pull/5226) - 2026-11-26
+* [Pull Request] [blocks: move validation out of `processBlock`](https://github.com/status-im/nimbus-eth1/pull/5229) - 2026-11-27
+* [Commit] [execution: cleanups (#5226)](https://github.com/status-im/nimbus-eth1/commit/f0e8fa6e071aaed5d4a2e2a4585804ee3a6946ed) - 2026-11-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

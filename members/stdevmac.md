@@ -777,6 +777,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [TraceStore pruner keeps traces outside a reduced BlocksToKeep window after restart](https://github.com/NethermindEth/nethermind/issues/16433) - 2026-11-26
 * [Commit] [fix(stats): ingest every recorded block and keep rotated buffers resettable (#16445)](https://github.com/NethermindEth/nethermind/commit/7bfa8266d1b2d02419a5682b07b4aacea1a21829) - 2026-11-26
 * [Commit] [fix(rpc): reject logIndex_blockNumbers while the log index has no usable range (#16229)](https://github.com/NethermindEth/nethermind/commit/5ee58de8597b102ef6a6c7f0a8226fc7a92d936d) - 2026-11-26
+* [Review] [Review on: chore(deps): update Nethermind.MclBindings to 4.30.0.124](https://github.com/NethermindEth/nethermind/pull/16458#pullrequestreview-6090285903) - 2026-11-27
+* [Review] [Review on: fix(sync): apply the newPayload encoding checks to block access lists from peers](https://github.com/NethermindEth/nethermind/pull/16451#pullrequestreview-6089415486) - 2026-11-27
+* [Review] [Review on: test(sync): verify flat healing across moving pivots and both layouts](https://github.com/NethermindEth/nethermind/pull/16450#pullrequestreview-6089487108) - 2026-11-27
+* [Review] [Review on: refactor(beacon): share a thread-safe committee cache singleton](https://github.com/NethermindEth/nethermind/pull/16452#pullrequestreview-6089472214) - 2026-11-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

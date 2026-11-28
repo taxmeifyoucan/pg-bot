@@ -63,6 +63,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5626233271) - 2026-10-23
 * [Pull Request] [Align quota measurement for light client](https://github.com/status-im/nimbus-eth2/pull/9419) - 2026-11-02
 * [Pull Request] [Cache light client block data on import](https://github.com/status-im/nimbus-eth2/pull/9479) - 2026-11-26
+* [Review] [Review on: Fix `LightClientManager` stop function](https://github.com/status-im/nimbus-eth2/pull/9483#pullrequestreview-6095210731) - 2026-11-28
+* [Pull Request] [Cache light client header and block data when creating bootstraps](https://github.com/status-im/nimbus-eth2/pull/9482) - 2026-11-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

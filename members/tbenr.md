@@ -155,6 +155,25 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Two GLOAS gossip rules likely going in beta.5](https://github.com/Consensys-Incorporated/teku/issues/11756) - 2026-11-26
 * [Issue] [Error responses on octet-stream-default endpoints are returned as a generic 500](https://github.com/Consensys-Incorporated/teku/issues/11755) - 2026-11-26
 * [Commit] [Gloas envelope content hash (#11588)](https://github.com/Consensys-Incorporated/teku/commit/13669842d1ad86bb852249a1c0c5afe84531113e) - 2026-11-26
+* [Pull Request] [Index all finalized state roots when finalization spans multiple transactions](https://github.com/Consensys-Incorporated/teku/pull/11775) - 2026-11-27
+* [Pull Request] [Take the REST response stream where the body is written](https://github.com/Consensys-Incorporated/teku/pull/11765) - 2026-11-27
+* [Pull Request] [Ignore execution payload bids a proposer cannot select](https://github.com/Consensys-Incorporated/teku/pull/11777) - 2026-11-27
+* [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/Consensys-Incorporated/teku/pull/11777#pullrequestreview-6091731833) - 2026-11-27
+* [Review] [Review on: FCR: Precisely compute committee weight](https://github.com/Consensys-Incorporated/teku/pull/11362#pullrequestreview-6091558737) - 2026-11-27
+* [Review] [Review on: allow higher bid from the same builder when proposing](https://github.com/Consensys-Incorporated/teku/pull/11778#pullrequestreview-6091490654) - 2026-11-27
+* [Review] [Review on: FCR: count parent's pending node support in empty-slot discount](https://github.com/Consensys-Incorporated/teku/pull/11628#pullrequestreview-6091426730) - 2026-11-27
+* [Review] [Review on: Bound envelope transaction count by the parent payload's gas limit](https://github.com/Consensys-Incorporated/teku/pull/11776#pullrequestreview-6090735015) - 2026-11-27
+* [Review] [Review on: Allow builders to submit one bid per staked ETH, excluding pending withdrawals](https://github.com/Consensys-Incorporated/teku/pull/11773#pullrequestreview-6089121471) - 2026-11-27
+* [Review] [Review on: run cheap bid gossip checks before retrieving parent state](https://github.com/Consensys-Incorporated/teku/pull/11731#pullrequestreview-6087281215) - 2026-11-27
+* [Review] [Review on: Unset fork slot payload availability in Gloas state upgrade](https://github.com/Consensys-Incorporated/teku/pull/11772#pullrequestreview-6088838211) - 2026-11-27
+* [Review] [Review on: Load all-zero composite list elements in tree-mode storage](https://github.com/Consensys-Incorporated/teku/pull/11754#pullrequestreview-6085094183) - 2026-11-27
+* [Review] [Review on: Close the connection when a REST response body cannot be completed](https://github.com/Consensys-Incorporated/teku/pull/11753#pullrequestreview-6085386532) - 2026-11-27
+* [Issue] [REST API: a header set after an async request timed out is added to the next response on the same connection](https://github.com/Consensys-Incorporated/teku/issues/11763) - 2026-11-27
+* [Commit] [Index all finalized state roots when finalization spans multiple transactions (#11775)](https://github.com/Consensys-Incorporated/teku/commit/2f0441b57de404ac3d1cff52637d10a03b045825) - 2026-11-27
+* [Commit] [Take the REST response stream where the body is written (#11765)](https://github.com/Consensys-Incorporated/teku/commit/0f1c529fb569008832f875f938765227b00c9e61) - 2026-11-27
+* [Commit] [Ignore execution payload bids a proposer cannot select (#11777)](https://github.com/Consensys-Incorporated/teku/commit/98722814d6c449cb46a05e63d3c362490e5df6bb) - 2026-11-27
+* [Commit] [Load all-zero composite list elements in tree-mode storage (#11754)](https://github.com/Consensys-Incorporated/teku/commit/53febc839751ef29680927aa5d7cb63c144042c7) - 2026-11-27
+* [Commit] [Close the connection when a REST response body cannot be completed (#11753)](https://github.com/Consensys-Incorporated/teku/commit/725f1f81c5d42ccc11d5006758844e4a292105bc) - 2026-11-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

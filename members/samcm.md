@@ -152,6 +152,20 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix(clmimicry): keep the length bit in aggregate_and_proof aggregation_bits](https://github.com/ethpandaops/xatu/pull/975#pullrequestreview-6071387790) - 2026-11-26
 * [Commit] [Merge pull request #984 from ethpandaops/fix/config-env-sentry-cannon-consumoor](https://github.com/ethpandaops/xatu/commit/79b66ab25b180168ace0ac31d2e93f478963d7d7) - 2026-11-27
 * [Commit] [Merge pull request #982 from ethpandaops/feat/config-env-expansion](https://github.com/ethpandaops/xatu/commit/edafefa71b4810e6e5fb581eed2de9a6a5b7864f) - 2026-11-27
+* [Pull Request] [feat(clmimicry): accept PQ gossip blocks, aggregates and single attestations](https://github.com/ethpandaops/xatu/pull/998) - 2026-11-27
+* [Pull Request] [chore(pq-devnet-1): merge master into release/pq-devnet-1](https://github.com/ethpandaops/xatu/pull/997) - 2026-11-27
+* [Pull Request] [chore(daisugi-devnet-0): merge master into release/daisugi-devnet-0](https://github.com/ethpandaops/xatu/pull/996) - 2026-11-27
+* [Pull Request] [chore(bogota-devnet-2): merge master into release/bogota-devnet-2](https://github.com/ethpandaops/xatu/pull/995) - 2026-11-27
+* [Pull Request] [chore(heze-devnet-2): merge master into release/heze-devnet-2](https://github.com/ethpandaops/xatu/pull/994) - 2026-11-27
+* [Pull Request] [chore(glamsterdam-devnet-8): merge master into release/glamsterdam-devnet-8](https://github.com/ethpandaops/xatu/pull/993) - 2026-11-27
+* [Pull Request] [fix(sentry): become ready when the beacon node has no committees endpoint](https://github.com/ethpandaops/xatu/pull/992) - 2026-11-27
+* [Pull Request] [fix(sentry): read proposer duties with 32-byte pq keys](https://github.com/ethpandaops/xatu/pull/991) - 2026-11-27
+* [Pull Request] [fix(sentry): read proposer duties with 32-byte pq keys](https://github.com/ethpandaops/xatu/pull/990) - 2026-11-27
+* [Pull Request] [feat(config): expand ${VAR} in config values (pq-devnet-0)](https://github.com/ethpandaops/xatu/pull/989) - 2026-11-27
+* [Pull Request] [feat(config): expand ${VAR} in config values (heze-devnet-2)](https://github.com/ethpandaops/xatu/pull/988) - 2026-11-27
+* [Pull Request] [feat(config): expand ${VAR} in config values (glamsterdam-devnet-8)](https://github.com/ethpandaops/xatu/pull/987) - 2026-11-27
+* [Pull Request] [feat(config): expand ${VAR} in config values (daisugi-devnet-0)](https://github.com/ethpandaops/xatu/pull/986) - 2026-11-27
+* [Pull Request] [feat(config): expand ${VAR} in config values (bogota-devnet-2)](https://github.com/ethpandaops/xatu/pull/985) - 2026-11-27
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
